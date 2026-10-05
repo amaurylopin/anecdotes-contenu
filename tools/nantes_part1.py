@@ -1,0 +1,92 @@
+import json
+W="https://fr.wikipedia.org/wiki/"
+def A(cat,title,label,teaser,lead,body,wiki,more=None,timeline=None,lat=None,lon=None,links=None,source=None):
+    return {"category":cat,"title":title,"label":label,"teaser":teaser,"lead":lead,"text":lead,"body":body,"more":more or [],"timeline":timeline,"links":links,"wiki":wiki,"source":source or (W+wiki),"lat":lat,"lon":lon,"access":None,"protection":None}
+L=lambda kind,title,url,note=None:{"kind":kind,"title":title,"url":url,"note":note}
+
+new=[
+# ===== POLITIQUE =====
+A("politique","Johanna Rolland, première femme maire, trois mandats","Depuis 2014 · Hôtel de ville",
+ "Élue à 34 ans en 2014, réélue en 2020 puis en 2026 après un second tour serré face à la droite, elle a aussi dirigé la campagne présidentielle d'Anne Hidalgo. Nantes est à gauche depuis 1989.",
+ "Johanna Rolland est maire de Nantes depuis le 4 avril 2014, première femme à occuper la fonction, et présidente de Nantes Métropole.",
+ ["Née à Nantes en 1979, diplômée de Sciences Po, elle est l'adjointe de Jean-Marc Ayrault chargée de l'éducation avant de lui succéder, par l'intermédiaire de Patrick Rimbert, quand il devient Premier ministre en 2012. En 2014, à 34 ans, elle remporte la mairie au second tour, puis la conserve en 2020 avec une liste d'union de la gauche et des écologistes.",
+  "Ses mandats sont marqués par l'abandon de l'aéroport de Notre-Dame-des-Landes en 2018, décidé par le gouvernement contre l'avis des collectivités, par les grands chantiers du centre (gare, Île de Nantes, CHU), et par des débats récurrents sur la sécurité dans le centre-ville et les quartiers. En 2022, elle dirige la campagne présidentielle d'Anne Hidalgo, qui recueille 1,75 % des voix.",
+  "Le 22 mars 2026, elle est réélue pour un troisième mandat avec 52,18 % des voix au second tour, face à Foulques Chombart de Lauwe, candidat de la droite et du centre, à 47,82 %. C'est le score le plus serré de la gauche à Nantes depuis 1989."],
+ "Johanna_Rolland",
+ timeline=[{"year":"2008","text":"Entrée au conseil municipal, adjointe à l'éducation."},{"year":"2014","text":"Élue maire, première femme à la tête de Nantes."},{"year":"2020","text":"Réélue."},{"year":"2022","text":"Directrice de campagne d'Anne Hidalgo."},{"year":"2026","text":"Réélue au second tour, 52,18 %."}],
+ lat=47.2184,lon=-1.5536),
+A("politique","Ayrault, 23 ans de mairie et Matignon","1989-2012 · Hôtel de ville",
+ "Professeur d'allemand, maire de Saint-Herblain à 27 ans, il prend Nantes à la droite en 1989 et la garde vingt-trois ans, jusqu'à Matignon. Entre les deux, une condamnation pour favoritisme qui ne l'a pas arrêté.",
+ "Jean-Marc Ayrault a été maire de Nantes de 1989 à 2012, puis Premier ministre de François Hollande de 2012 à 2014.",
+ ["Né en 1950 à Maulévrier, il est élu maire de Saint-Herblain en 1977, à 27 ans, le plus jeune maire d'une ville de plus de 30 000 habitants. En 1989, il bat le maire sortant Michel Chauty et fait basculer Nantes à gauche. Il mène la transformation de la ville : tramway, Île de Nantes, Lieu unique, Machines de l'île, et obtient en 2004 le titre de « ville la plus agréable d'Europe » du magazine Time. Il préside aussi le groupe socialiste à l'Assemblée nationale de 1997 à 2012.",
+  "En 1997, le tribunal correctionnel le condamne à six mois de prison avec sursis et 30 000 francs d'amende pour favoritisme : le marché d'impression du bulletin municipal avait été attribué sans appel d'offres. Il ne fait pas appel et conserve ses mandats ; l'affaire ressurgit à chaque étape de sa carrière nationale.",
+  "Nommé Premier ministre en mai 2012, il laisse la mairie à son premier adjoint Patrick Rimbert. Il quitte Matignon en mars 2014 après les municipales, redevient député, puis ministre des Affaires étrangères en 2016-2017. Il préside depuis 2019 la Fondation pour la mémoire de l'esclavage, installée à Nantes."],
+ "Jean-Marc_Ayrault",
+ timeline=[{"year":"1977","text":"Maire de Saint-Herblain à 27 ans."},{"year":"1989","text":"Élu maire de Nantes."},{"year":"1997","text":"Condamné avec sursis pour favoritisme."},{"year":"2012","text":"Premier ministre."},{"year":"2016","text":"Ministre des Affaires étrangères."},{"year":"2019","text":"Président de la Fondation pour la mémoire de l'esclavage."}]),
+A("politique","Avant Ayrault : Chénard, Chauty et le tramway","1977-1989 · Hôtel de ville",
+ "Nantes a eu un maire socialiste dès 1977, Alain Chénard, qui a décidé le premier tramway moderne de France, puis un maire de droite, Michel Chauty, qui a failli l'arrêter. La ligne a ouvert en 1985.",
+ "Entre 1977 et 1989, Nantes change deux fois de bord : Alain Chénard (PS) succède à André Morice, puis Michel Chauty (RPR) le bat en 1983, avant de perdre face à Jean-Marc Ayrault.",
+ ["André Morice, radical puis centriste, dirige la ville de 1965 à 1977 ; son nom reste attaché aux grands travaux de comblement et aux voies rapides. En 1977, dans la vague de gauche des municipales, Alain Chénard l'emporte. Il lance le projet le plus structurant de la fin du siècle : un tramway moderne, le premier en France depuis la disparition des réseaux anciens, alors que la plupart des villes misent encore sur l'automobile.",
+  "Battu en 1983 par Michel Chauty, sénateur RPR, Chénard voit son successeur hésiter à poursuivre le chantier, jugé coûteux. Le tramway ouvre finalement le 7 janvier 1985, entre Bellevue et Haluchère, et devient le modèle de toutes les villes françaises qui le réintroduisent ensuite, de Grenoble à Strasbourg.",
+  "Michel Chauty perd la mairie en 1989. Depuis, Nantes n'a connu que des maires socialistes : Ayrault, Rimbert, Rolland."],
+ "Liste_des_maires_de_Nantes"),
+A("politique","Notre-Dame-des-Landes, cinquante ans de projet et un abandon","1967-2018 · Au nord de Nantes",
+ "Prévu dès 1967, déclaré d'utilité publique en 2008, approuvé par référendum local en 2016, l'aéroport du Grand Ouest a été abandonné par le gouvernement en janvier 2018 face à la ZAD. Nantes-Atlantique est resté.",
+ "Le projet d'aéroport de Notre-Dame-des-Landes, à vingt kilomètres au nord de Nantes, a été abandonné le 17 janvier 2018 par Édouard Philippe, après un demi-siècle de procédures et dix ans d'occupation du site.",
+ ["L'idée naît en 1967 pour désengorger Nantes-Atlantique et accueillir le Concorde. Relancée dans les années 2000 et portée par Jean-Marc Ayrault, la déclaration d'utilité publique est signée en 2008 ; Vinci obtient la concession en 2010. À partir de 2009, des opposants s'installent sur les 1 650 hectares : la « zone à défendre », ou ZAD, qui résiste à l'opération d'expulsion César d'octobre-novembre 2012.",
+  "Les recours s'enchaînent, les manifestations réunissent des dizaines de milliers de personnes, et en juin 2016 une consultation des électeurs de Loire-Atlantique donne 55 % de oui au transfert. Emmanuel Macron nomme pourtant trois médiateurs en 2017 ; leur rapport juge les deux options viables. Le 17 janvier 2018, le Premier ministre annonce l'abandon et le réaménagement de Nantes-Atlantique.",
+  "La ZAD est évacuée au printemps 2018 ; une partie des occupants obtiennent des conventions agricoles. La décision reste un marqueur politique local : la plupart des élus nantais la contestaient, les écologistes l'ont saluée."],
+ "A%C3%A9roport_du_Grand_Ouest",lat=47.3760,lon=-1.6950,
+ links=[L("documentaire","« Notre-Dame-des-Landes, la reconquête » et autres films sur la ZAD","https://www.arte.tv/fr/search/?q=Notre-Dame-des-Landes","Plusieurs documentaires Arte et France 3")]),
+
+# ===== HISTOIRE : Bretagne, dossier approfondi =====
+A("histoire","Nantes bretonne ou pas : pourquoi Vichy, et pourquoi ça dure","1941-2026 · Toute la ville",
+ "Le décret du 30 juin 1941 a rattaché la Loire-Inférieure à Angers plutôt qu'à Rennes. Il devait être provisoire, Pétain lui-même promettait une Bretagne à cinq départements. Quatre-vingt-cinq ans plus tard, la question n'est toujours pas tranchée.",
+ "Nantes est la capitale historique du duché de Bretagne et n'est pas dans la région Bretagne. La coupure date d'un décret de juin 1941, mais ses raisons sont plus prosaïques qu'on ne le dit, et surtout, aucun gouvernement n'y est revenu depuis.",
+ ["Jusqu'en 1532, Nantes est la résidence des ducs et la capitale politique du duché ; le Parlement, lui, siège à Rennes. La Révolution crée en 1790 cinq départements bretons, dont la Loire-Inférieure. Rien ne les sépare jusqu'à la guerre. Le 19 avril 1941, Vichy institue des préfets régionaux ; le décret d'application du 30 juin crée une « région de Rennes » à quatre départements et une « région d'Angers » qui reçoit la Loire-Inférieure, le Maine-et-Loire, la Mayenne, la Sarthe et l'Indre-et-Loire.",
+  "Pourquoi ? Les historiens, dont Pierre Barral et Hervé Le Boterf, écartent la thèse d'une punition de la Bretagne : la commission des provinces réunie à Vichy depuis mai 1941 travaillait au contraire à une Bretagne à cinq départements avec Rennes pour capitale, et Pétain a répété en 1942 sa « décision personnelle » de rattacher la Loire-Inférieure. Le découpage de juin est présenté comme provisoire et dicté par les circonstances : un commandement allemand installé à Angers, la commodité des liaisons dans un pays coupé en deux, et le souhait des notables nantais eux-mêmes. Le préfet Dupard transmet à Vichy les vœux de la Ville, de la Chambre de commerce et de la Chambre d'agriculture en faveur d'Angers : Nantes ne veut pas être administrée depuis Rennes.",
+  "Le provisoire est devenu définitif par inertie. En 1955-1956, la IVe République crée des « régions de programme » économiques qui reprennent le découpage de 1941 et inventent les « Pays de la Loire », dont Nantes devient la capitale. La loi de 1972 puis la décentralisation de 1982 transforment ces circonscriptions en régions de plein exercice. Chaque réforme territoriale, en 2014 encore, a été l'occasion d'un débat et d'une non-décision."],
+ "Question_du_rattachement_de_la_Loire-Atlantique_%C3%A0_la_r%C3%A9gion_Bretagne",
+ more=["Les partisans de la réunification, portés par l'association Bretagne réunie, invoquent l'histoire, la culture et l'identité ; leurs adversaires, le poids économique de l'ensemble Nantes-Angers-Le Mans et le risque de laisser quatre départements ligériens sans métropole. Une troisième voie, une grande région de l'Ouest englobant Bretagne et Pays de la Loire, a été proposée en 2014 et rejetée.",
+  "En 2018, une pétition ayant dépassé 100 000 signatures a obligé le conseil départemental de Loire-Atlantique à se saisir de la question ; il a organisé une consultation en ligne dont les résultats, favorables à la réunification mais contestés sur la méthode, n'ont pas eu de suite. Les sondages donnent régulièrement une majorité des habitants du département favorables au rattachement, sans que cela ne se traduise dans les urnes régionales.",
+  "Au quotidien, le Gwenn ha Du flotte sur l'hôtel de ville, les panneaux d'entrée de ville sont bilingues français-breton depuis 2008, et la Bretagne administrative commence à Ancenis, quarante kilomètres en amont."]),
+
+# ===== FAITS DIVERS =====
+A("faits_divers","Mort d'Aboubacar Fofana au Breil : sept ans pour le CRS","3 juillet 2018 · Rue des Plantes, quartier du Breil",
+ "Un contrôle routier, un tir dans le cou, un jeune homme de 22 ans qui meurt, et cinq nuits d'émeutes dans les quartiers de Nantes. Huit ans plus tard, en janvier 2026, le policier a été condamné à sept ans de prison.",
+ "Le 3 juillet 2018 vers 20 h 30, Aboubacar Fofana, 22 ans, est tué par le tir d'un CRS lors d'un contrôle dans le quartier du Breil. Sa mort déclenche plusieurs nuits de violences à Nantes.",
+ ["Le jeune homme, originaire de région parisienne et en visite chez sa tante, est contrôlé au volant d'une Nissan rue des Plantes. Recherché, il tente de repartir en marche arrière ; un CRS tire une balle qui l'atteint à la carotide. Il meurt à l'hôpital. Le policier invoque d'abord la légitime défense, soutenu par ses collègues, puis reconnaît trois jours plus tard, devant l'IGPN, que son récit était faux et parle d'un tir accidentel.",
+  "Dès le soir, des voitures brûlent au Breil, puis à Malakoff, Bellevue et aux Dervallières ; les violences durent près d'une semaine et dépassent le cadre nantais. L'instruction est longue : reconstitution délocalisée en 2020, requalifications successives, renvoi devant la cour criminelle départementale pour violences volontaires ayant entraîné la mort.",
+  "Le procès s'ouvre le 12 janvier 2026 à Nantes. Le 16 janvier, la cour reconnaît l'ex-CRS coupable et le condamne à sept ans de prison. Une plaque rappelle le nom d'Aboubacar Fofana au Breil."],
+ "Mort_d%27Aboubacar_Fofana",lat=47.2270,lon=-1.5920,
+ source="https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/mort-d-aboubacar-fofana-a-nantes-l-ex-crs-auteur-du-coup-de-feu-mortel-est-condamne-a-sept-ans-de-prison-2469821"),
+A("faits_divers","Steve, disparu dans la Loire la nuit de la Fête de la musique","21-22 juin 2019 · Quai Wilson",
+ "À 4 h 33, pendant une charge de police au gaz lacrymogène contre une soirée électro, Steve Maia Caniço, 24 ans, tombe dans la Loire. Son corps est retrouvé cinq semaines plus tard. Le commissaire a été relaxé en 2024.",
+ "Dans la nuit du 21 au 22 juin 2019, Steve Maia Caniço, animateur périscolaire de 24 ans qui ne savait pas nager, disparaît quai Wilson lors de l'intervention de la police contre des sound systems de la Fête de la musique. Il est retrouvé noyé le 29 juillet.",
+ ["La musique est tolérée jusqu'à 4 heures ; passé l'heure, les policiers demandent l'arrêt, des projectiles volent, et des grenades lacrymogènes sont tirées sur un quai sans garde-corps, à quelques mètres de l'eau. Cinq personnes tombent dans la Loire. Les relevés du téléphone de Steve situent sa chute à 4 h 33, en pleine intervention. Pendant cinq semaines, les « Où est Steve ? » se multiplient sur les murs de la ville.",
+  "Le corps est repéré par le pilote d'une navette fluviale, près du pont Anne-de-Bretagne. L'affaire devient nationale, mêlée aux débats sur les pratiques policières ; l'Inspection générale de la police conclut d'abord à l'absence de lien, l'Inspection générale de l'administration à une intervention disproportionnée. Le préfet, son directeur de cabinet et le commissaire sont mis en examen.",
+  "Seul le commissaire Grégoire Chassaing, qui dirigeait l'opération, est renvoyé devant le tribunal, pour homicide involontaire. Jugé à Rennes en juin 2024, il est relaxé le 20 septembre 2024 ; le parquet, qui n'avait requis qu'une « peine de principe », ne fait pas appel. La relaxe est définitive. Une plaque à la mémoire de Steve est posée quai Wilson."],
+ "Mort_de_Steve_Maia_Cani%C3%A7o",lat=47.1992,lon=-1.5760,
+ links=[L("documentaire","Reportages et débats sur l'affaire Steve","https://www.ina.fr/recherche?q=Steve+Maia+Cani%C3%A7o+Nantes","Archives INA")]),
+A("faits_divers","16 et 23 septembre 1943 : les bombardements qui ont tué 1 500 Nantais","Septembre 1943 · Centre-ville, Chantenay, gare",
+ "Deux raids américains visant le port et les usines ratent largement leurs cibles. Mille cinq cents morts, des quartiers entiers rasés, et une ville que les Alliés frappaient alors qu'ils venaient la libérer.",
+ "Les 16 et 23 septembre 1943, deux bombardements de l'aviation américaine font environ 1 500 morts à Nantes et détruisent une partie du centre.",
+ ["Le 16 septembre, en début d'après-midi, 131 forteresses volantes visent les chantiers navals, le port et les usines de Chantenay, Nantes étant un port de soutien aux bases sous-marines de Saint-Nazaire et Lorient. Larguées à haute altitude, les bombes tombent sur le centre : la place Royale, le quartier de la Bourse, la rue du Calvaire, l'hôpital. Le 23 septembre, deux nouveaux raids frappent la gare et Chantenay. Le bilan total dépasse 1 450 morts et 2 500 blessés.",
+  "La ville est sinistrée à 15 % ; des dizaines de milliers d'habitants partent se réfugier dans les campagnes. Les Nantais appellent les Alliés « nos libérateurs assassins ». Le quartier de la place Royale et de la rue du Calvaire est reconstruit après-guerre, ce qui explique son architecture des années 1950.",
+  "Nantes a reçu la Croix de la Libération en 1941, pour les 50 otages, et la Croix de guerre pour les bombardements. Une cérémonie a lieu chaque 16 septembre."],
+ "Bombardements_de_Nantes_(1943)",lat=47.2148,lon=-1.5595),
+A("faits_divers","La Beaujoire et la violence des tribunes","Depuis les années 1990 · Stade de la Beaujoire",
+ "Les tribunes nantaises ont longtemps été réputées paisibles. Les rivalités avec Bordeaux puis Rennes, l'arrivée de groupes ultras et des affrontements répétés ont changé la donne, jusqu'aux interdictions de déplacement devenues banales.",
+ "Depuis les années 2000, les matchs du FC Nantes contre Rennes, Bordeaux ou Marseille font régulièrement l'objet d'affrontements entre supporters, d'interdictions de déplacement et de fermetures de tribunes.",
+ ["La Brigade Loire, groupe ultra fondé en 1999, anime la tribune Loire de la Beaujoire. Le derby contre Rennes, longtemps anecdotique, devient à partir des années 2010 le match à risques de la région : jets de projectiles, bagarres aux abords du stade, fumigènes, et sanctions de la Ligue. Le 2 décembre 2023, un supporter nantais de 31 ans meurt poignardé près du stade, avant un match contre Nice, lors d'une altercation avec un chauffeur de VTC dont le véhicule avait été pris à partie par des supporters ; le chauffeur a été mis en examen pour meurtre.",
+  "Le club et la ville ont multiplié les mesures : périmètres de sécurité, caméras, dialogue avec les groupes, tandis que les préfectures interdisent de plus en plus souvent les déplacements de supporters adverses.",
+  "La Beaujoire reste pourtant l'un des stades les plus fréquentés de Ligue 1, avec plus de 30 000 spectateurs de moyenne."],
+ "Stade_de_la_Beaujoire",lat=47.2561,lon=-1.5252),
+]
+p=json.load(open('communes/44109.json'))
+# Remplacer l'ancien article « Nantes bretonne » par la version approfondie, ajouter le reste
+p["anecdotes"]=[a for a in p["anecdotes"] if a.get("wiki")!="Rattachement_de_la_Loire-Atlantique_à_la_Bretagne" and a.get("category")!="politique"]+new
+json.dump(p,open('communes/44109.json','w'),ensure_ascii=False,indent=1)
+idx=json.load(open('index.json')); idx["communes"]["44109"]["count"]=len(p["anecdotes"]); json.dump(idx,open('index.json','w'),ensure_ascii=False,indent=1)
+from collections import Counter
+print(len(p["anecdotes"]),Counter(a["category"] for a in p["anecdotes"]))
