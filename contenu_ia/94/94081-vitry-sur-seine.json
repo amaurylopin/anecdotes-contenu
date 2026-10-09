@@ -1,0 +1,270 @@
+{
+ "commune": {
+  "titre": "Vitry-sur-Seine",
+  "code_insee": "94081",
+  "departement": "94",
+  "population": 93963,
+  "lat": 48.7875,
+  "lon": 2.39277778,
+  "url": "https://fr.wikipedia.org/wiki/Vitry-sur-Seine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:21:12",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3289,
+  "sortie": 1637
+ },
+ "cout_usd": 0.002704,
+ "accroche": "À Vitry-sur-Seine, la gare sur la ligne Paris-Corbeil est ouverte en 1860, alors que la ligne fonctionne déjà depuis près de vingt ans.",
+ "histoire": {
+  "recit": "Vitry-sur-Seine, sur la rive gauche de la Seine, s’est transformée avec le chemin de fer et les ouvrages du fleuve. Dès 1860, l’ouverture de la gare sur la ligne Paris-Corbeil donne un nouvel élan, et le barrage éclusé de Port-à-l’Anglais (construit entre 1861 et 1864) améliore la navigabilité. En 1862, l’arrivée de la ligne de chemin de fer Paris-Orléans attire des industries autour du Port-à-l’Anglais.\n\nPlus tard, les chantiers et les grands équipements prennent le relais : en 1920, les premiers grands ensembles apparaissent au milieu des années 1920. La vie locale est aussi marquée par l’activité industrielle et militaire, puis par les épreuves : en 1911-1912, le château de Vitry est démoli après des inondations et une décision municipale, tandis qu’en 1943, une partie de l’impact d’un bombardement atteint le Port-à-l’Anglais.\n\nAujourd’hui, la ville continue de façonner ses usages : l’Exploradôme s’y installe en 2009, et le Domaine départemental Adolphe-Chérioux accueille collège, lycée polyvalent, BTS et IUT rattaché à l’Université Paris-Est-Créteil-Val-de-Marne.",
+  "chronologie": [
+   {
+    "date": "1860",
+    "texte": "La gare de Vitry sur la ligne Paris-Corbeil est ouverte en 1860, bien que la ligne fonctionne déjà depuis près de vingt ans.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1861-1864",
+    "texte": "Le barrage éclusé de Port-à-l’Anglais est construit pour améliorer la navigabilité sur la Seine.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "Après l’ouverture de la ligne de chemin de fer Paris-Orléans, de nombreuses industries s’installent autour du Port-à-l’Anglais.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1911-1912",
+    "texte": "Le château de Vitry, gravement endommagé par des inondations, est démoli après une décision municipale de 1907.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1911",
+    "texte": "Les établissements Poulenc frères, installés à Vitry-sur-Seine depuis 1911, augmentent leur production de produits chimiques.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1920",
+    "texte": "Les premiers grands ensembles sont édifiés au milieu des années 1920.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1930",
+    "texte": "Le 3 août 1930, un incendie se déclare dans les baraquements d’Ivry-sur-Seine.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "Le 31 décembre 1943, une trentaine de bombes tombent sur le Port-à-l’Anglais, dont une non explosée quai Jules-Guesde.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "2009",
+    "texte": "En 2009, l’Exploradôme déménage à Vitry-sur-Seine dans un bâtiment plus spacieux.",
+    "sources": [
+     "S45"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Port-à-l'Anglais",
+   "histoire": "Port-à-l’Anglais est un quartier sur la rive gauche de la Seine, à la limite entre Vitry-sur-Seine et Ivry-sur-Seine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12"
+   ],
+   "lat": 48.7897,
+   "lon": 2.4089,
+   "url": "https://fr.wikipedia.org/wiki/Port-%C3%A0-l%27Anglais"
+  },
+  {
+   "nom": "Avenue Paul-Vaillant-Couturier (Vitry-sur-Seine)",
+   "histoire": "Axe majeur de Vitry-sur-Seine, l’avenue accueille notamment l’emplacement de l’ancien château et a vu un presbytère acquis par la municipalité en 1861.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Emplacement de l'ancien château de Vitry-sur-Seine.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.795579488889,
+   "lon": 2.397759675,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Paul-Vaillant-Couturier_%28Vitry-sur-Seine%29"
+  },
+  {
+   "nom": "Quai Jules-Guesde",
+   "histoire": "Voie importante située à proximité du Port-à-l’Anglais.",
+   "anecdotes": [
+    {
+     "texte": "Le 31 décembre 1943, lors d’un bombardement, une bombe non explosée tombe et reste quai Jules-Guesde.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S26"
+   ],
+   "lat": 48.797154,
+   "lon": 2.416059,
+   "url": "https://fr.wikipedia.org/wiki/Quai_Jules-Guesde"
+  },
+  {
+   "nom": "Centrale thermique de Vitry-sur-Seine",
+   "histoire": "Ancienne centrale EDF à charbon, reconstruite en 1960 et mise en service entre 1966 et 1971 ; fermée depuis 2015.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Par ordonnance du 6 avril 2022, le tribunal administratif de Melun a rejeté la décision de permis de démolir des cheminées de Vitry-sur-Seine.",
+   "sources": [
+    "S30"
+   ],
+   "lat": 48.792098,
+   "lon": 2.417697,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_thermique_de_Vitry-sur-Seine"
+  },
+  {
+   "nom": "Église Saint-Germain de Vitry-sur-Seine",
+   "histoire": "Église paroissiale comprenant des parties datant des XIIe et XIIIe siècles ; la foudre a détruit la voûte d’ogives de la nef et le haut du clocher en juin 1432.",
+   "anecdotes": [
+    {
+     "texte": "En juin 1432, la foudre détruit la voûte d’ogives de la nef ainsi que le haut du clocher.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.791667,
+   "lon": 2.393889,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain_de_Vitry-sur-Seine"
+  },
+  {
+   "nom": "Domaine départemental Adolphe-Chérioux",
+   "histoire": "Campus universitaire de Vitry-sur-Seine, dont le terrain est acheté en décembre 1919, puis complété par des internats à partir de 1932 et 1936.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il est composé d’un collège, d’un lycée polyvalent, d’un BTS et d’un IUT rattaché à l’Université Paris-Est-Créteil-Val-de-Marne.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 48.77759,
+   "lon": 2.37149,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_d%C3%A9partemental_Adolphe-Ch%C3%A9rioux"
+  },
+  {
+   "nom": "Église Saint-Paul de Vitry-sur-Seine",
+   "histoire": "Église paroissiale érigée en paroisse le 2 octobre 1955 ; un incendie détruit sa voûte en juillet 1976, reconstruite ensuite.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "À cet emplacement se trouvait dans les années 1930 une cabane en bois servant de locaux pour le patronage.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 48.77891,
+   "lon": 2.39873,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_de_Vitry-sur-Seine"
+  },
+  {
+   "nom": "Musée Exploradôme",
+   "histoire": "Musée interactif consacré à la sensibilisation et à la diffusion de la culture scientifique, technique et numérique, fondé en 1998 et installé à Vitry-sur-Seine en 2009.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 48.793145,
+   "lon": 2.393114,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Explorad%C3%B4me"
+  }
+ ],
+ "sources": [
+  "Vitry-sur-Seine est une commune française située dans le département du Val-de-Marne en Île-de-France, à environ quatre kilomètres au sud de Paris. Située sur la rive gauche de la Seine, la commune est traversée par la ligne de chemin de fer Paris - Bordeaux. Faiblement urbanisée au début du XXe siècle, elle connaît une croissance démographique à partir de l'entre-deux-guerres pour atteindre 93 963 habitants en […]",
+  "Lors de fouilles archéologiques, un squelette de Palaeotherium, sorte de tapir, datant de l'ère tertiaire et conservé au Muséum national d'histoire naturelle à Paris, et les restes d'un Anoplothérium, lointain parent de l'antilope, ont été retrouvés sur le territoire de la commune. Des outils paléolithiques et néolithiques ont été retrouvés dispersés un peu partout sur le territoire de la commune, en particulier […]",
+  "1860 : La gare de Vitry sur la ligne Paris-Corbeil est ouverte en 1860, bien que la ligne fonctionne depuis déjà près de 20 ans.",
+  "1861 : Le barrage éclusé de Port-à-l'Anglais est construit entre 1861 et 1864 afin d'améliorer la navigabilité sur la Seine.",
+  "1862 : À la suite de l'ouverture de la ligne de chemin de fer Paris-Orléans en 1862, de nombreuses industries s'installent autour du Port-à-l'Anglais entre la voie du chemin de fer et la Seine.",
+  "1911 : En 1911-1912, le château de Vitry, qui a subi des graves dommages suite des inondations, est démoli, conséquence d'un référendum municipal en 1907, demandant son acquisition par la mairie, et décidant sa destruction.",
+  "1911 : Les établissements Poulenc frères, installés à Vitry-sur-Seine depuis 1911, voient augmenter leur production de produits chimiques.",
+  "1917 : Les ateliers Brasier d'Ivry et de Vitry-sur-Seine fabriquent des munitions, les établissements Bidault-Elion, installés en 1917, fondent et emboutissent des métaux non ferreux, et les établissements Chauvière fournissent des hélices à l'Aéronautique militaire.",
+  "1920 : Les premiers grands ensembles sont édifiés au milieu des années 1920.",
+  "1930 : Le 3 août 1930, un incendie se déclare dans les baraquements d’Ivry-sur-Seine.",
+  "1933 : En 1933 fût installé par l'office central d'études de matériel de chemins de fer un banc d'essais des locomotives utilisé par la SNCF jusque dans les années 1990, et actuellement siège de l'agence d'essais ferroviaires de la SNCF, partenaire du GIE Eurailtest.",
+  "Lieu « Port-à-l'Anglais » : Le Port-à-l'Anglais est un quartier situé sur la rive gauche de la Seine, à la limite entre Vitry-sur-Seine et Ivry-sur-Seine, dans le département du Val-de-Marne.",
+  "Lieu « Port-à-l'Anglais », 1889 : Aux n(os)1-3, une maison construite en 1889 par l'architecte Prigneau, villa bourgeoise en enduit coiffée d'un toit brisé en pavillon d'ardoise.",
+  "Lieu « Port-à-l'Anglais », 1913 : Construit entre 1913 et 1928, ce pont suspendu de 240 mètres remplaça l'ancien bac qui assurait jusqu'alors la traversée du fleuve.",
+  "Lieu « Port-à-l'Anglais », 1947 : Livrés entre 1947 et 1953 pour loger les techniciens étrangers venus aider à la reconstruction de la ligne Paris-Orléans, ces logements SNCF furent rapidement occupés par des cheminots d'astreinte en raison de leur proximité avec la gare.",
+  "Lieu « Port-à-l'Anglais », aujourd'hui : Initialement un lieu-dit, puis un hameau, aujourd'hui géographiquement rattaché à Vitry-sur-Seine, il a longtemps relevé ecclésiastiquement de la paroisse d'Ivry-sur-Seine.",
+  "Lieu « Avenue Paul-Vaillant-Couturier (Vitry-sur-Seine) » : L'avenue Paul-Vaillant-Couturier est un axe majeur de Vitry-sur-Seine dans le Val-de-Marne.",
+  "Lieu « Avenue Paul-Vaillant-Couturier (Vitry-sur-Seine) », 1861 : Il s'agit tout d'abord d'un presbytère construit par l'architecte Claude Naissant dans la première moitié du XIXe siècle, et qui est acquis en 1861 par la municipalité.",
+  "Lieu « Avenue Paul-Vaillant-Couturier (Vitry-sur-Seine) », 1865 : Gare de Vitry-sur-Seine, ouverte en 1865.",
+  "Lieu « Avenue Paul-Vaillant-Couturier (Vitry-sur-Seine) », 1913 : En 1913, il est transformé en annexe de la mairie, puis loué par les Sapeurs-Pompiers de Paris.",
+  "Lieu « Avenue Paul-Vaillant-Couturier (Vitry-sur-Seine) », aujourd'hui : Emplacement de l'ancien château de Vitry-sur-Seine.",
+  "Lieu « Quai Jules-Guesde » : Le quai Jules-Guesde est une voie importante de Vitry-sur-Seine dans le Val-de-Marne.",
+  "Lieu « Quai Jules-Guesde », 1943 : Le 31 décembre 1943, lors d'un bombardement de l'usine de roulement à billes SKF, une trentaine de bombes tombèrent sur le Port-à-l'Anglais dont une non explosée quai Jules-Guesde.",
+  "Lieu « Quai Jules-Guesde », 2015 : Plusieurs usines et sites industriels, parmi lesquels: Centrale thermique de Vitry-sur-Seine, à l'angle de la rue des Fusillés, fermée en 2015 et détruite en 2017.",
+  "Lieu « Quai Jules-Guesde », 2016 : En 2016, entre la rue de la Baignade et la rue Auguste-Blanqui, une partie de la chaussée s'effondre en raison de la fuite de canalisations souterraines.",
+  "Lieu « Quai Jules-Guesde », aujourd'hui : Les activités portuaires de la ville ont longtemps profité de leur emplacement privilégié en amont de la Seine.",
+  "Lieu « Centrale thermique de Vitry-sur-Seine » : La centrale thermique à charbon de Vitry-sur-Seine est une ancienne centrale EDF de deux fois 250 mégawatts fonctionnant au charbon.",
+  "Lieu « Centrale thermique de Vitry-sur-Seine », 1960 : La centrale thermique à charbon actuelle est reconstruite en 1960 et a été mise en service entre 1966 et 1971.",
+  "Lieu « Centrale thermique de Vitry-sur-Seine », 2015 : Cette centrale fermée depuis 2015 ne doit pas être confondue avec la centrale thermique à fioul de Vitry-Arrighi, située à proximité immédiate, et en activité depuis 1997.",
+  "Lieu « Centrale thermique de Vitry-sur-Seine », 2022 : Par ordonnance du 6 avril 2022, le tribunal administratif de Melun a rejeté la décision de permis de démolir des cheminées de Vitry-sur-Seine.",
+  "Lieu « Église Saint-Germain de Vitry-sur-Seine » : L'église Saint-Germain de Vitry-sur-Seine est une église paroissiale, avec des parties datant du XIIe siècle et XIIIe siècle, située sur la commune de Vitry-sur-Seine, à l'intersection de l'avenue Paul-Vaillant-Couturier et de l'avenue de l'Abbé-Roge",
+  "Lieu « Église Saint-Germain de Vitry-sur-Seine », 1150 : La construction de l'église Saint-Germain débute vers 1150 et est achevée au XIVe siècle, à la même époque que la cathédrale Notre-Dame de Paris.",
+  "Lieu « Église Saint-Germain de Vitry-sur-Seine », 1432 : En juin 1432, la foudre détruit la voûte d'ogives de la nef ainsi que le haut du clocher.",
+  "Lieu « Église Saint-Germain de Vitry-sur-Seine », 1846 : L'architecte départemental Claude Naissant reconstruit le clocher en 1846-1848 et la sacristie en 1866-1869.",
+  "Lieu « Domaine départemental Adolphe-Chérioux » : Le Domaine départemental Adolphe-Chérioux est un campus universitaire à Vitry-sur-Seine.",
+  "Lieu « Domaine départemental Adolphe-Chérioux », 1919 : En décembre 1919, le terrain est acheté, précédemment occupé par des pépiniéristes.",
+  "Lieu « Domaine départemental Adolphe-Chérioux », 1932 : L'internat garçons a ouvert en 1932 avant celui des filles, ouvert en 1936.",
+  "Lieu « Domaine départemental Adolphe-Chérioux », aujourd'hui : Aujourd'hui, il est composé d'un collège, d'un lycée polyvalent, un BTS et un IUT rattaché a l'Université Paris-Est-Créteil-Val-de-Marne.",
+  "Lieu « Église Saint-Paul de Vitry-sur-Seine » : L'église Saint-Paul de Vitry-sur-Seine est une église paroissiale située sur la commune de Vitry-sur-Seine.",
+  "Lieu « Église Saint-Paul de Vitry-sur-Seine », 1955 : Elle fut érigée en paroisse le 2 octobre 1955.",
+  "Lieu « Église Saint-Paul de Vitry-sur-Seine », 1976 : En juillet 1976, un incendie a détruit la voûte qui fut par la suite reconstruite.",
+  "Lieu « Église Saint-Paul de Vitry-sur-Seine », aujourd'hui : À cet emplacement se trouvait dans les années 1930, une cabane en bois qui servait de locaux pour le patronage.",
+  "Lieu « Musée Exploradôme » : L'Exploradôme est un musée interactif de sensibilisation et de diffusion de la culture scientifique, technique et numérique.",
+  "Lieu « Musée Exploradôme », 1998 : Fondé en 1998 par Goéry Delacôte, et situé depuis 2009 à Vitry-sur-Seine, dans le Val-de-Marne en France.",
+  "Lieu « Musée Exploradôme », 2009 : En 2009, le musée Exploradôme déménage à Vitry-sur-Seine, dans un bâtiment moderne et plus spacieux, mieux adapté à ses besoins croissants."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

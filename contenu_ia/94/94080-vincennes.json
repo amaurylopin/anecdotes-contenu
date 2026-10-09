@@ -1,0 +1,177 @@
+{
+ "commune": {
+  "titre": "Vincennes",
+  "code_insee": "94080",
+  "departement": "94",
+  "population": 48193,
+  "lat": 48.8471,
+  "lon": 2.4383,
+  "url": "https://fr.wikipedia.org/wiki/Vincennes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:33:58",
+ "lieux_ecartes_autre_commune": 11,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1877,
+  "sortie": 1140
+ },
+ "cout_usd": 0.0018,
+ "accroche": "Le 28 février 1791, des ouvriers du faubourg Saint-Antoine tentent de démolir le donjon du château de Vincennes.",
+ "histoire": {
+  "recit": "À Vincennes, l’histoire s’accroche au bois et au château. Louis VII y choisit la forêt de Vilcena pour la chasse, puis le pouvoir royal resserre progressivement l’espace : enceinte, basse-cour, chapelle, et grands aménagements. Avec Louis XI, la vie de résidence gagne un pavillon neuf. Plus tard, la Sainte-Chapelle reçoit des vitraux, détruits pendant la Révolution, avant des restaurations. Aujourd’hui encore, le château fortifié domine le paysage de la commune.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Louis VII choisit la forêt de Vilcena comme terrain de chasse et y fait aménager un pavillon de chasse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1373",
+    "texte": "Charles V fait aménager une basse-cour destinée aux logements des domestiques royaux, alors que le château est encore en construction.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1183",
+    "texte": "Un mur est érigé autour du bois pour créer une réserve de chasse.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1372-1380",
+    "texte": "La grande enceinte, avec muraille et chemin de ronde ceinturant donjon, manoir, Sainte-Chapelle et bâtiments résidentiels, est élevée puis achevée.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1470",
+    "texte": "Louis XI installe sa résidence à Vincennes et fait édifier un pavillon neuf de plain-pied dans l’angle sud-ouest du château.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1379",
+    "texte": "La Sainte-Chapelle de Vincennes est fondée en 1379 dans l’enceinte du château, à la demande de Charles V, pour abriter des reliques de la Passion du Christ.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1559",
+    "texte": "En 1559, les vitraux définitifs remplacent des verrières blanches installées provisoirement en 1556.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1791-02-28",
+    "texte": "Des ouvriers du faubourg Saint-Antoine se révoltent : ils tentent de démolir le donjon du château.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "En 1793, les décors intérieurs de la Sainte-Chapelle sont détruits et les vitraux déposés.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Le château et la Sainte-Chapelle ont fait l’objet de travaux, avec notamment remplacement de pierres, reprise des joints, restauration de peintures et de sculptures.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Vincennes",
+   "histoire": "Forteresse située à Vincennes, autrefois appelée Vieux Fort de Vincennes : sa construction dure du XIVe au XVIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le 28 février 1791, des ouvriers du faubourg Saint-Antoine tentent de démolir le donjon du château, refusant « une nouvelle Bastille ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château est l’un des plus grands châteaux forts royaux subsistant en France et, grâce à la hauteur de son donjon, l’une des plus hautes forteresses de plaine d’Europe.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 48.84278,
+   "lon": 2.43583,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Vincennes"
+  },
+  {
+   "nom": "Sainte-Chapelle de Vincennes",
+   "histoire": "Chapelle fondée en 1379 dans l’enceinte du château de Vincennes, à la demande de Charles V, pour abriter les reliques de la Passion du Christ.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les restaurations ont notamment porté sur le remplacement de certaines pierres, la reprise des joints, la restauration des peintures des plafonds et de cinquante-six têtes sculptées.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 48.8423505,
+   "lon": 2.4363577,
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Chapelle_de_Vincennes"
+  },
+  {
+   "nom": "Agence française pour la biodiversité",
+   "histoire": "Établissement public à caractère administratif créé par la loi sur la reconquête de la biodiversité.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.84308,
+   "lon": 2.429735,
+   "url": "https://fr.wikipedia.org/wiki/Agence_fran%C3%A7aise_pour_la_biodiversit%C3%A9"
+  }
+ ],
+ "sources": [
+  "Vincennes est une commune située dans le département du Val-de-Marne en région Île-de-France, à l'est-sud-est de Paris. Elle a emprunté son nom au bois de Vincennes situé au sud de la ville, devenu propriété de la mairie de Paris. Vincennes est célèbre pour son château, longtemps demeure royale. C'est la deuxième commune la plus densément peuplée de France derrière Levallois-Perret. Depuis 2011, la commune a lancé […]",
+  "L'histoire de Vincennes est étroitement liée à l'histoire de son bois et de son château. Elle débute véritablement au XIIe siècle, lorsque Louis VII choisit la forêt de Vilcena comme terrain de chasse et y fait aménager un pavillon de chasse. En 1373, alors que le château est encore en construction, Charles V fait aménager dans son prolongement une basse-cour destinée aux logements des domestiques royaux. Au pied de […]",
+  "1791 : Mais le 28 février 1791, des ouvriers du faubourg Saint-Antoine se révoltent, ne voulant pas y voir une nouvelle Bastille, et tentent de démolir le donjon du château.",
+  "Lieu « Château de Vincennes » : Le château de Vincennes (également appelé autrefois Vieux Fort de Vincennes), est une forteresse située à Vincennes, dans la banlieue Est de Paris, dont la construction a duré du XIVe au XVIIe siècle.",
+  "Lieu « Château de Vincennes », 1183 : En 1183, un mur est érigé autour du bois pour créer une réserve de chasse.",
+  "Lieu « Château de Vincennes », 1372 : La grande enceinte de 11 mètres de hauteur est élevée entre 1372 et 1380 ; la muraille avec chemin de ronde ceinturant donjon, manoir, Sainte-Chapelle et bâtiments résidentiels, est achevée en 1380.",
+  "Lieu « Château de Vincennes », 1470 : Lorsque Louis XI de France fait de Vincennes sa résidence, il quitte les appartements royaux du donjon pour un pavillon neuf de plain-pied, édifié en 1470 dans l'angle sud-ouest du château.",
+  "Lieu « Château de Vincennes », aujourd'hui : C'est le plus grand château fort royal subsistant en France et, du fait de la hauteur de son donjon, une des plus hautes forteresses de plaine d'Europe.",
+  "Lieu « Sainte-Chapelle de Vincennes » : La Sainte-Chapelle de Vincennes est une chapelle fondée en 1379 dans l'enceinte du château de Vincennes, à la demande du roi de France Charles V, afin d'y abriter les reliques de la Passion du Christ.",
+  "Lieu « Sainte-Chapelle de Vincennes », 1379 : La Sainte-Chapelle de Vincennes est une chapelle fondée en 1379 dans l'enceinte du château de Vincennes, à la demande du roi de France Charles V, afin d'y abriter les reliques de la Passion du Christ.",
+  "Lieu « Sainte-Chapelle de Vincennes », 1559 : Les vitraux définitifs remplacent en 1559 des verrières blanches installées provisoirement en 1556.",
+  "Lieu « Sainte-Chapelle de Vincennes », 1793 : En 1793, lors des évènements de la Révolution française, les décors intérieurs sont détruits et les vitraux sont déposés.",
+  "Lieu « Sainte-Chapelle de Vincennes », aujourd'hui : Ces travaux ont consisté principalement au remplacement de certaines pierres, reprise des joints et des reins de voûtes, restauration des peintures des plafonds et des cinquante-six têtes sculptées à la base des culots.",
+  "Lieu « Agence française pour la biodiversité » : L'Agence française pour la biodiversité (AFB) était un établissement public à caractère administratif français créé par la loi sur la reconquête de la biodiversité du 8 août 2016.",
+  "Lieu « Agence française pour la biodiversité », 2016 : La direction de l'Agence est occupée par Christophe Aubel qui occupe ce poste depuis sa création, après avoir occupé celui de préfigurateur en 2016, à la suite d'Olivier Laroussinie.",
+  "Lieu « Agence française pour la biodiversité », 2017 : Ce rapport prévoit une convention de partenariat signée en juin 2017 et le lancement de la première unité de travail commune en juillet 2017.",
+  "Lieu « Agence française pour la biodiversité », aujourd'hui : Le rapport recommande la création d'une agence unique qui « assurerait par ailleurs des fonctions opérationnelles en matière de gestion de la connaissance, de mutualisation de l'expertise et de certaines fonctions support, et d'organisation de l'évaluation », constituée « à partir des organismes existant aujourd'hui dans ce secteur d'activité »."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

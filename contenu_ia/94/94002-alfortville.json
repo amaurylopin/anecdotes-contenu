@@ -1,0 +1,233 @@
+{
+ "commune": {
+  "titre": "Alfortville",
+  "code_insee": "94002",
+  "departement": "94",
+  "population": 45531,
+  "lat": 48.7963,
+  "lon": 2.4214,
+  "url": "https://fr.wikipedia.org/wiki/Alfortville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:36:20",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2703,
+  "sortie": 1554
+ },
+ "cout_usd": 0.002483,
+ "accroche": "Le 4 juin 1944, les quais de Seine à Alfortville sont bombardés par les Anglo-Américains.",
+ "histoire": {
+  "recit": "À Alfortville, la ville a grandi entre les voies et les œuvres. La ligne de chemin de fer de Paris à Lyon, construite en 1845 puis 1848, coupe la commune de Maisons-Alfort en deux parties, en rendant les relations difficiles. Plus tard, au temps où le quartier occidental de Maisons-Alfort se distingue, un restaurateur, Charles Perrié, baptise civilement du nom d’Alfort-ville les terres du confluent Seine-Marne : l’histoire locale donne ainsi un nom au futur. En 1885, la commune naît par la loi du 1er avril, sur un territoire démembré de Maisons-Alfort.\n\nLe paysage continue de bouger au gré des transformations. En 2018, des travaux de réfection totale de la gare et de ses accès s’accompagnent de la création d’un nouveau souterrain. Et, le 2024, trois immeubles du quartier prioritaire des Chantereine construits dans les années 1960 sont détruits, tandis que la passerelle GDF de Vitry, pourtant prévue pour disparaître, demeure inaccessible en 2022.",
+  "chronologie": [
+   {
+    "date": "1845 et 1848",
+    "texte": "La construction de la ligne de chemin de fer de Paris à Lyon partage Maisons-Alfort en deux parties inégales, avec des relations limitées à cause du remblai du chemin de fer.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "Dans les années 1860, Charles Perrié baptise civilement « Alfort-ville » les terres du confluent Seine-Marne du quartier occidental de Maisons-Alfort.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1 avril 1885",
+    "texte": "Alfortville est créée par la loi du 1er avril 1885, sur un territoire démembré de Maisons-Alfort.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "4 juin 1944",
+    "texte": "Le 4 juin 1944, les quais de Seine sont bombardés par les Anglo-Américains.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "En 2018, un nouveau souterrain d’accès est créé lors de la réfection totale de la gare et de ses accès.",
+    "sources": [
+     "S22"
+    ]
+   },
+   {
+    "date": "27 octobre 2024",
+    "texte": "Le 27 octobre 2024, trois immeubles de 18 étages du quartier prioritaire des Chantereine, construits dans les années 1960, sont détruits.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Rue Paul-Vaillant-Couturier (Alfortville)",
+   "histoire": "Une voie d’Alfortville où la vie de quartier s’est organisée, notamment avec un marché ouvert par arrêté préfectoral en 1882.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 48.80736908871,
+   "lon": 2.4184885048387,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Paul-Vaillant-Couturier_%28Alfortville%29"
+  },
+  {
+   "nom": "Église Saint-Pierre-Apôtre d'Alfortville",
+   "histoire": "L’église paroissiale tire son nom du quartier de l’Île-Saint-Pierre. Une nouvelle église est construite à partir de 1931 et une reconstruction intervient ensuite avec une consécration à nouveau en 2009.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.789791,
+   "lon": 2.427757,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-Ap%C3%B4tre_d%27Alfortville"
+  },
+  {
+   "nom": "Église Notre-Dame d'Alfortville",
+   "histoire": "Église paroissiale de la fin du XIXe siècle. L’orgue est construit en 1892 et inauguré en 1903, puis l’édifice est ravagé par un incendie en août 1932 avant une restauration engagée en 1933. La façade est rénovée jusqu’à la fin août 2016.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.806164,
+   "lon": 2.42009,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_d%27Alfortville"
+  },
+  {
+   "nom": "Gare de Maisons-Alfort - Alfortville",
+   "histoire": "La gare se situe sur le territoire d’Alfortville et de Maisons-Alfort. À l’ouverture de la ligne, elle s’appelait « Maisons-Alfort » le 12 août 1849. Au XXe siècle, son bâtiment évolue, et en 2018 un nouveau souterrain d’accès est créé lors d’une réfection totale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 48.8025,
+   "lon": 2.426111,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Maisons-Alfort_-_Alfortville"
+  },
+  {
+   "nom": "Église apostolique arménienne Saint-Paul-et-Saint-Pierre",
+   "histoire": "Établissement religieux arménien datant du début du XXe siècle. Le sol est inauguré le 10 juillet 1929 et l’onction s’achève le 23 février 1930. En 2008, une stèle présentant l’alphabet arménien est érigée devant l’église.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.78994,
+   "lon": 2.42448,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_apostolique_arm%C3%A9nienne_Saint-Paul-et-Saint-Pierre"
+  },
+  {
+   "nom": "Rue Charles-de-Gaulle",
+   "histoire": "Une voie d’Alfortville où se trouve notamment la chapelle Saint-Louis (1936). Un complexe hôtelier, Huatian Chinagora, est aussi établi en 1992, inspiré du style de la Cité interdite de Pékin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.814529,
+   "lon": 2.414675,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Charles-de-Gaulle"
+  },
+  {
+   "nom": "Cokerie Paris-Sud",
+   "histoire": "Cokerie gazière située sur Alfortville et Choisy-le-Roi. Construite en 1955 par les architectes Henri Marty et Louis Marty, elle comporte aussi plusieurs bâtiments inscrits aux monuments historiques depuis le 12 avril 2011.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 48.7791,
+   "lon": 2.4198,
+   "url": "https://fr.wikipedia.org/wiki/Cokerie_Paris-Sud"
+  },
+  {
+   "nom": "Passerelle GDF de Vitry",
+   "histoire": "Passerelle franchissant la Seine pour relier Vitry-sur-Seine et Alfortville. En 2005, des canalisations sont remplacées par des conduits passant sous la Seine ; la passerelle est alors progressivement abandonnée et promise à la démolition, mais reste inaccessible en 2022.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.78069,
+   "lon": 2.41733,
+   "url": "https://fr.wikipedia.org/wiki/Passerelle_GDF_de_Vitry"
+  }
+ ],
+ "sources": [
+  "Alfortville (prononcé [al.fɔʁ.vil]) est une commune française, dans le département du Val-de-Marne en région Île-de-France.",
+  "C'est un libre-penseur plein d'humour, Charles Perrié, restaurateur à Alfort qui, dans les années 1860, baptise civilement du nom d'Alfort-ville les terres du confluent Seine-Marne de ce quartier occidental de Maisons-Alfort promis quelques années plus tard à un avenir distinct. La commune d'Alfortville est créée par la loi du 1er avril 1885 sur un territoire démembré de la commune de Maisons-Alfort et incorporée au […]",
+  "1845 : Le ministre de l'Intérieur : « Signé : Jules Grévy », « Signé : Waldeck-Rousseau ». » La construction de la ligne de chemin de fer de Paris à Lyon, en 1845 et 1848, eut pour effet de partager la commune de Maisons-Alfort en deux parties inégales entre lesquelles le remblai sur lequel est établi le chemin de fer ne permettait que fort peu de relations.",
+  "1944 : Le 4 juin 1944, les quais de Seine sont bombardés par les Anglo-Américains.",
+  "2024 : Le 27 octobre 2024, trois immeubles de 18 étages du quartier prioritaire des Chantereine construits dans les années 1960, sont détruits.",
+  "Lieu « Rue Paul-Vaillant-Couturier (Alfortville) » : La rue Paul-Vaillant-Couturier est une voie de communication d'Alfortville, dans le Val-de-Marne.",
+  "Lieu « Rue Paul-Vaillant-Couturier (Alfortville) », 1882 : Un marché, ouvert par arrëté prefectoral du 9 septembre 1882.",
+  "Lieu « Rue Paul-Vaillant-Couturier (Alfortville) », 1887 : Hôtel de ville d'Alfortville, construit en 1887.",
+  "Lieu « Rue Paul-Vaillant-Couturier (Alfortville) », 1898 : Groupe scolaire Nord, inauguré en 1898, première école de la ville.",
+  "Lieu « Rue Paul-Vaillant-Couturier (Alfortville) », aujourd'hui : Plus au sud, un chemin de Villeneuve menant au cimetière d'Alfortville a longtemps subsisté, et est devenu la rue Étienne-Dolet.",
+  "Lieu « Église Saint-Pierre-Apôtre d'Alfortville » : L'église Saint-Pierre-Apôtre d'Alfortville est une église paroissiale située dans la commune d'Alfortville.",
+  "Lieu « Église Saint-Pierre-Apôtre d'Alfortville », 1362 : Elle tire son nom du quartier dit de l'Île-Saint-Pierre : trois petits fiefs furent vendus entre 1362 et 1387 à la seigneurie de Maisons.",
+  "Lieu « Église Saint-Pierre-Apôtre d'Alfortville », 1931 : Suscitée par l'abbé Lasseyte, une nouvelle église est construite entre 1931 (première pierre le 26 juillet) et 1934 par Paul Tournon qui va rester inachevée plusieurs années.",
+  "Lieu « Église Saint-Pierre-Apôtre d'Alfortville », 2009 : L'église a complètement été reconstruite par l'architecte Michèle Roblot, et consacrée à nouveau en 2009.",
+  "Lieu « Église Notre-Dame d'Alfortville » : L'église Notre-Dame d'Alfortville est une église paroissiale datant de la fin du XIXe siècle située dans la commune d'Alfortville.",
+  "Lieu « Église Notre-Dame d'Alfortville », 1892 : L'orgue est construit en 1892 par la manufacture Cavaillé-Coll et inauguré en 1903 par son successeur Charles Mutin.",
+  "Lieu « Église Notre-Dame d'Alfortville », 1932 : En août 1932 un incendie ravage l'église et une restauration est entreprise en 1933.",
+  "Lieu « Église Notre-Dame d'Alfortville », 2016 : La façade de l'édifice a fait l'objet d'une importante rénovation achevée fin août 2016.",
+  "Lieu « Gare de Maisons-Alfort - Alfortville » : La gare de Maisons-Alfort – Alfortville est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire des communes d'Alfortville et de Maisons-Alfort, dans le département du Val-de-Marne, en région Î",
+  "Lieu « Gare de Maisons-Alfort - Alfortville », 1849 : La gare s'est d'abord appelée \"Maisons-Alfort\" à l'ouverture de la ligne le 12 août 1849.",
+  "Lieu « Gare de Maisons-Alfort - Alfortville », XXe siècle : Au début du XXe siècle, l'aspect du bâtiment évolue en deux étapes : l'avancée est portée à six travées et sa façade de crépi foncé cède la place à de la pierre avec des encadrements de baies au sommet arrondi et un parapet masquant le toit.",
+  "Lieu « Gare de Maisons-Alfort - Alfortville », 2018 : Après plusieurs années d'études, un nouveau souterrain d'accès a été créé lors de la réfection totale de la gare et de ses accès ; les travaux qui se sont achevés en 2018 ont duré 5 ans.",
+  "Lieu « Église apostolique arménienne Saint-Paul-et-Saint-Pierre » : L'église apostolique arménienne Saint-Paul-et-Saint-Pierre (Sourp-Boghos-Bedros) est un établissement religieux appartenant à l'Église apostolique arménienne datant du début du XXe siècle et situé à Alfortville.",
+  "Lieu « Église apostolique arménienne Saint-Paul-et-Saint-Pierre », 1929 : Le sol est inauguré le 10 juillet 1929 et l'onction s'achève le 23 février 1930 par Mgr Vramchabouh Kibarian.",
+  "Lieu « Église apostolique arménienne Saint-Paul-et-Saint-Pierre », 2008 : En 2008, une stèle présentant l'alphabet arménien est érigée devant l'église.",
+  "Lieu « Rue Charles-de-Gaulle » : La rue Charles-de-Gaulle est une voie de communication d'Alfortville, dans le Val-de-Marne.",
+  "Lieu « Rue Charles-de-Gaulle », 1936 : Chapelle Saint-Louis d'Alfortville, construite en 1936.",
+  "Lieu « Rue Charles-de-Gaulle », 1992 : Huatian Chinagora, complexe hôtelier construit en 1992, inspiré du style de la Cité interdite de Pékin.",
+  "Lieu « Cokerie Paris-Sud » : La cokerie Paris-Sud est une cokerie gazière située sur les communes d'Alfortville et de Choisy-le-Roi, dans le Val-de-Marne, en France.",
+  "Lieu « Cokerie Paris-Sud », 1955 : Construite en 1955, cette cokerie est l'œuvre des architectes Henri Marty et Louis Marty.",
+  "Lieu « Cokerie Paris-Sud », 2011 : Les garages-vestiaires, le bâtiment administratif, la galerie de liaison, le laboratoire et le bâtiment social de la cokerie Paris-Sud sont inscrits aux monuments historiques depuis le 12 avril 2011.",
+  "Lieu « Passerelle GDF de Vitry » : La passerelle GDF de Vitry est une passerelle franchissant la Seine pour relier les communes de Vitry-sur-Seine et d'Alfortville.",
+  "Lieu « Passerelle GDF de Vitry », 2005 : En 2005, ces canalisations ont été remplacées par des conduits passant sous la Seine, puis la passerelle a été progressivement abandonnée et promise à la démolition.",
+  "Lieu « Passerelle GDF de Vitry », 2022 : La passerelle qui n'a cependant pas été démolie reste donc inaccessible en 2022."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

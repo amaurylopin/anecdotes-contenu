@@ -1,0 +1,307 @@
+{
+ "commune": {
+  "titre": "Maisons-Alfort",
+  "code_insee": "94046",
+  "departement": "94",
+  "population": 56799,
+  "lat": 48.80583333,
+  "lon": 2.43777778,
+  "url": "https://fr.wikipedia.org/wiki/Maisons-Alfort"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:29:37",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3379,
+  "sortie": 2072
+ },
+ "cout_usd": 0.003266,
+ "accroche": "Maisons-Alfort se trouve à trois kilomètres de la capitale, sur la rive sud de la Marne, à 600 mètres du Bois de Vincennes, à Paris 12e.",
+ "histoire": {
+  "recit": "Sur la rive sud de la Marne, Maisons-Alfort commence très loin dans le temps : en 1994, des fouilles ont mis au jour une occupation préhistorique, néolithique et protohistorique, avec des restes de sépulture et un mégalithe.\n\nPlus tard, la commune se structure autour de ses lieux. L’École vétérinaire d’Alfort connaît un tournant : en 1814, ses jeunes élèves la transforment en camp militaire après avoir fortifié le château et crénelé les murs.\n\nÀ l’est, l’ancienne Usine de la Suze marque durablement l’avenue du Général-Leclerc : distillerie produisant un apéritif à base de gentiane, elle s’étendait autrefois jusqu’au quai Fernand-Saguet ; aujourd’hui, il n’en reste que façade et tour, visibles près de la station « École Vétérinaire de Maisons-Alfort ».\n\nEnfin, le passé se lit aussi dans les restes du Château de Charentonneau : démantelé lors d’un lotissement, il ne subsiste plus que deux murs à arcs en plein-cintre de l’orangerie. Et, sur le plan des institutions, le Fort de Charenton, construit en 1842, est actuellement occupé par la gendarmerie nationale.",
+  "chronologie": [
+   {
+    "date": "1994",
+    "texte": "Des fouilles archéologiques livrent des vestiges d’une occupation préhistorique, néolithique et protohistorique sur les rives de la Marne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1766",
+    "texte": "Claude Bourgelat crée l’école vétérinaire à Alfort.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "L’école d’Alfort est transformée en camp militaire par les jeunes élèves vétérinaires : château fortifié, murs crénelés.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1842",
+    "texte": "Le Fort de Charenton est construit comme ouvrage militaire défensif, dans le dispositif de protection de Paris.",
+    "sources": [
+     "S14",
+     "S16"
+    ]
+   },
+   {
+    "date": "1888",
+    "texte": "Au sein de l’ancienne Usine de la Suze, un groupe scolaire Paul-Bert est construit sur le périmètre alors occupé par la distillerie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1950",
+    "texte": "Le château de Charentonneau est démantelé lors de la construction d’un lotissement.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "30 avril 1993",
+    "texte": "Au Sénat, il est relaté la vigilance du Service des monuments historiques pour obtenir la non-démolition de l’ancienne usine Suze.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Usine de la Suze",
+   "histoire": "Distillerie produisant principalement un apéritif à base de gentiane, l’usine s’étendait le long de la Marne, entre l’avenue du Général-Leclerc et le quai Fernand-Saguet.",
+   "anecdotes": [
+    {
+     "texte": "Lors d’une séance du Sénat le 30 avril 1993, le Service des monuments historiques est dit très vigilant pour empêcher la non-démolition de l’ancienne usine Suze.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Une affaire familiale mène l’activité : les frères Roger et Marcel Lejeune sont à la tête de l’entreprise familiale fondée à Paris en 1947.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne subsiste que la façade et sa tour, visibles à la sortie de métro « Ecole Vétérinaire de Maisons-Alfort », entre le no 11 et le no 25 de l’avenue du Général-Leclerc.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 48.8151838,
+   "lon": 2.4216903,
+   "url": "https://fr.wikipedia.org/wiki/Usine_de_la_Suze"
+  },
+  {
+   "nom": "Château de Charentonneau",
+   "histoire": "Demeure seigneuriale établie à Charentonneau (aussi appelée château Gaillard), sur la commune de Maisons-Alfort, dans le Val-de-Marne.",
+   "anecdotes": [
+    {
+     "texte": "Le 14 octobre 1377, Charles V acquiert une maison et ses bâtiments annexes à « Charentonnel », près du pont de Charenton.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seuls deux murs à arcs en plein-cintre de l’orangerie du château subsistent.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 48.8145029,
+   "lon": 2.4327043,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Charentonneau"
+  },
+  {
+   "nom": "Fort de Charenton",
+   "histoire": "Ouvrage militaire défensif construit en 1842 sur la commune de Maisons-Alfort, faisant partie du dispositif de protection de Paris décidé par Adolphe Thiers.",
+   "anecdotes": [
+    {
+     "texte": "Le fort voit passer différents régiments et des troupes d’occupation lors de la guerre franco-prussienne de 1870 et lors de la Seconde Guerre mondiale.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S17"
+   ],
+   "lat": 48.80889,
+   "lon": 2.42833,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Charenton"
+  },
+  {
+   "nom": "Église Sainte-Agnès de Maisons-Alfort",
+   "histoire": "Église catholique à Maisons-Alfort dont le style s’appuie sur une ossature en béton armé, dans l’esprit de l’école rationaliste des années 1930.",
+   "anecdotes": [
+    {
+     "texte": "Elle est inaugurée et solennellement bénie par le Cardinal Verdier le 11 juin 1933, créant une nouvelle paroisse dans le quartier d’Alfort.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "Le bâtiment s’élève sur l’emplacement de l’ancien grenier à grains où résidait auparavant la chapelle d’Alfort, administrée alors par l’abbé David.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.81556,
+   "lon": 2.42136,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Agn%C3%A8s_de_Maisons-Alfort"
+  },
+  {
+   "nom": "Maisons-Alfort - Les Juilliottes (métro de Paris)",
+   "histoire": "Station de la ligne 8 du métro de Paris située à Maisons-Alfort.",
+   "anecdotes": [
+    {
+     "texte": "Ouvrante le 27 avril 1972, la station sert provisoirement de terminus oriental jusqu’à une prolongation vers une station supplémentaire.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "L’unique escalator côté Est était destiné à évacuer le quai d’arrivée d’un ancien terminus vers une gare routière d’interconnexion aujourd’hui disparue.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.802567,
+   "lon": 2.446432,
+   "url": "https://fr.wikipedia.org/wiki/Maisons-Alfort_-_Les_Juilliottes_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Musée Fragonard de l'École vétérinaire de Maisons-Alfort",
+   "histoire": "Le musée rassemble les collections de l’École nationale vétérinaire d’Alfort à Maisons-Alfort. Le « Cabinet du Roy » est créé en 1766, avant de devenir le musée de l’École.",
+   "anecdotes": [
+    {
+     "texte": "Le « Cabinet du Roy » naît l’année même de l’ouverture de l’École vétérinaire d’Alfort, en 1766.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S32"
+   ],
+   "lat": 48.812681,
+   "lon": 2.4229,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Fragonard_de_l%27%C3%89cole_v%C3%A9t%C3%A9rinaire_de_Maisons-Alfort"
+  },
+  {
+   "nom": "Avenue de la République (Maisons-Alfort)",
+   "histoire": "Axe principal de Maisons-Alfort, avec des aménagements attestés au fil des années.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une voie appelée chemin des Montants est visible à cet endroit dès 1797.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 48.806826,
+   "lon": 2.444369,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_de_la_R%C3%A9publique_%28Maisons-Alfort%29"
+  },
+  {
+   "nom": "École vétérinaire de Maisons-Alfort (métro de Paris)",
+   "histoire": "Station de la ligne 8 du métro de Paris située sur la commune de Maisons-Alfort.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S40"
+   ],
+   "lat": 48.8151900556,
+   "lon": 2.4218818545341,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89cole_v%C3%A9t%C3%A9rinaire_de_Maisons-Alfort_%28m%C3%A9tro_de_Paris%29"
+  }
+ ],
+ "sources": [
+  "Maisons-Alfort est une commune française du Val-de-Marne, en Île-de-France. Elle se situe dans la banlieue sud-est de Paris, à trois kilomètres de la capitale (et à 600 mètres du Bois de Vincennes, Paris 12e), sur la rive sud de la Marne. Son positionnement lui permet un accès rapide à plusieurs axes majeurs de communications franciliens que sont l'A4 au nord ou l'A86 au sud. Sa population actuelle en fait la […]",
+  "Les fouilles archéologiques réalisées à Maisons-Alfort en 1994 ont livré les vestiges d'une occupation préhistorique, néolithique et protohistorique, datée entre 200 000 et 160 000 ans. Sur les rives de la Marne on retrouve des restes d'une sépulture, un mégalithe, quelques vestiges plus à l'est et quelques outils. Dans les années 1990, lors de fouilles près du pont de Charenton, un important habitat néolithique, […]",
+  "1766 : En 1766, Claude Bourgelat crée l'école vétérinaire Le 3 mars 1814, l'école d'Alfort fut transformée en un camp militaire par les jeunes élèves vétérinaires, après avoir fortifié le château et crénelé les murs de l’école et du parc.",
+  "Lieu « Usine de la Suze » : L’usine de la Suze est une distillerie produisant principalement un apéritif à base de gentiane.",
+  "Lieu « Usine de la Suze », 1888 : Elle s’étendait du no 11 au no 39 de l’avenue du Général-Leclerc (anciennement rue de Créteil) jusqu'au quai Fernand-Saguet (anciennement quai d'Alfort) le long de la Marne, à l’exception de quelques habitations et du Groupe scolaire Paul-Bert construit en 1888.",
+  "Lieu « Usine de la Suze », 1947 : Fabricants français de cycles, les frères Roger et Marcel Lejeune sont à la tête de cette affaire familiale fondée à Paris en 1947.",
+  "Lieu « Usine de la Suze », 1993 : Lors de la séance du Sénat du 30 avril 1993, il est relaté que le Service des monuments historiques a été très vigilant concernant cette Z.A.C, en particulier sur l’obtention de la non-démolition de l’ancienne usine Suze construite par l’architecte Paul Fenard.",
+  "Lieu « Usine de la Suze », aujourd'hui : De cette usine ne subsistent que cette façade et sa tour visibles au niveau de la sortie de métro « Ecole Vétérinaire de Maisons-Alfort », entre le no 11 et le no 25 de l’avenue du Général-Leclerc.",
+  "Lieu « Château de Charentonneau » : Le château de Charentonneau, également connu sous le nom de château Gaillard, était une demeure seigneuriale établie à Charentonneau, sur la commune de Maisons-Alfort, dans le département du Val-de-Marne.",
+  "Lieu « Château de Charentonneau », 1377 : Le 14 octobre 1377, Charles V se rend acquéreur d'une maison et de ses bâtiments annexes situés à « Charentonnel », à proximité du pont de Charenton, pour une somme 3 200 livres.",
+  "Lieu « Château de Charentonneau », 1444 : Le 5 juillet 1444, les terres de Charentonneau, qui possèdent alors un statut de fief, sont vendus par les Lormoy au bénéfice de Nicolas Duru, huissier du parlement.",
+  "Lieu « Château de Charentonneau », 1950 : Le château, construit au cours des XVIIe et XVIIIe siècles, a été démantelé dans les années 1950, lors de la construction d'un lotissement.",
+  "Lieu « Château de Charentonneau », aujourd'hui : Seuls deux murs à arcs en plein-cintre de l'orangerie du château subsistent.",
+  "Lieu « Fort de Charenton » : Le fort de Charenton est un ouvrage militaire défensif construit en 1842 sur la commune de Maisons-Alfort et faisant partie du dispositif de protection de Paris décidé par Adolphe Thiers.",
+  "Lieu « Fort de Charenton », 1814 : Après la chute de Napoléon, en 1814, puis après la défaite de Waterloo, en 1815, Paris fut occupée par une armée d'invasion.",
+  "Lieu « Fort de Charenton », 1842 : Le fort de Charenton est un ouvrage militaire défensif construit en 1842 sur la commune de Maisons-Alfort et faisant partie du dispositif de protection de Paris décidé par Adolphe Thiers.",
+  "Lieu « Fort de Charenton », 1870 : Actuellement occupé par la gendarmerie nationale, le fort vit passer différents régiments ainsi que des troupes d'occupation lors de la guerre franco-prussienne de 1870 et la Seconde Guerre mondiale.",
+  "Lieu « Fort de Charenton », aujourd'hui : L'administration militaire changea d'avis et se décida pour l'emplacement actuel.",
+  "Lieu « Église Sainte-Agnès de Maisons-Alfort » : L'église Sainte-Agnès d'Alfort est une église catholique située à Maisons-Alfort, en France.",
+  "Lieu « Église Sainte-Agnès de Maisons-Alfort », 1930 : Le style de l'édifice, dont l'ossature est en béton armé, reflète la nouvelle école rationaliste des années 1930, dont ses deux architectes sont empreints.",
+  "Lieu « Église Sainte-Agnès de Maisons-Alfort », 1932 : L'édifice a été construit de 1932 à 1933 par les architectes Marc Brillaud de Laujardière, prix de Rome en 1920, et Raymond Puthomme qui s'inspirèrent de l'église Notre-Dame du Raincy.",
+  "Lieu « Église Sainte-Agnès de Maisons-Alfort », 1933 : Elle sera inaugurée et solennellement bénie par le Cardinal Verdier le 11 juin 1933, créant ainsi dans ce quartier d'Alfort une nouvelle paroisse, qui lui faisait tant défaut.",
+  "Lieu « Église Sainte-Agnès de Maisons-Alfort », aujourd'hui : L'église s'élèvera donc sur l'emplacement de l'ancien grenier à grains où résidait précédemment la chapelle d'Alfort administrée, à l'époque, par ce même abbé David.",
+  "Lieu « Maisons-Alfort - Les Juilliottes (métro de Paris) » : Maisons-Alfort - Les Juilliottes est une station de la ligne 8 du métro de Paris, située sur la commune de Maisons-Alfort.",
+  "Lieu « Maisons-Alfort - Les Juilliottes (métro de Paris) », 1970 : Bien que la station fut édifiée dans les années 1970, les piédroits des couloirs d'accès et de la salle d'échanges sont désormais recouverts du traditionnel carrelage blanc biseauté à la suite de leur rénovation achevée en 2016.",
+  "Lieu « Maisons-Alfort - Les Juilliottes (métro de Paris) », 1970 : Édifiée dans les années 1970, il s'agit d'une station-cage à piédroits verticaux et plafond horizontal du fait de sa construction en tranchée couverte.",
+  "Lieu « Maisons-Alfort - Les Juilliottes (métro de Paris) », 1972 : La station est ouverte le 27 avril 1972 avec la mise en service du prolongement de la ligne 8 depuis Maisons-Alfort - Stade, et en constitue provisoirement le terminus oriental (depuis Balard) jusqu'au 24 septembre 1973, date à laquelle la ligne est de nouveau prolongée d'une station supplémentaire jusqu'à Créteil - L'Échat, son premier terminus […]",
+  "Lieu « Maisons-Alfort - Les Juilliottes (métro de Paris) », aujourd'hui : L'unique escalator de la station côté Est était à l'époque destiné à évacuer le quai d'arrivée de ce terminus vers une gare routière d'interconnexion aujourd'hui disparue, dont le parking de l'échangeur A86 conserve la forme de la boucle de retournement des bus prolongeant la desserte vers Créteil.",
+  "Lieu « Musée Fragonard de l'École vétérinaire de Maisons-Alfort » : Le musée Fragonard rassemble les collections de l’École nationale vétérinaire d'Alfort située à Maisons-Alfort.",
+  "Lieu « Musée Fragonard de l'École vétérinaire de Maisons-Alfort », 1766 : Le \"Cabinet du Roy\", qui deviendra plus tard le musée de l’École, fut créé l’année même de l’ouverture de l’École vétérinaire d’Alfort, en 1766.",
+  "Lieu « Musée Fragonard de l'École vétérinaire de Maisons-Alfort », 1828 : Déplacé une première fois en 1828, le musée originel prit le nom de « cabinet des collections » (1828 - 1902).",
+  "Lieu « Musée Fragonard de l'École vétérinaire de Maisons-Alfort », 1901 : Les bâtiments qui accueillent le musée actuel ont été achevés en 1901.",
+  "Lieu « Avenue de la République (Maisons-Alfort) » : L'avenue de la République est un des axes principaux de Maisons-Alfort dans le Val-de-Marne.",
+  "Lieu « Avenue de la République (Maisons-Alfort) », 1826 : Cimetière de Maisons-Alfort, ouvert en 1826.",
+  "Lieu « Avenue de la République (Maisons-Alfort) », 1925 : Au no 33, établissement municipal de bains-douches ouvert au public le 24 juin 1925.",
+  "Lieu « Avenue de la République (Maisons-Alfort) », aujourd'hui : Une voie de communication appelée chemin des Montants est visible à cet endroit dès 1797.",
+  "Lieu « École vétérinaire de Maisons-Alfort (métro de Paris) » : École vétérinaire de Maisons-Alfort est une station de la ligne 8 du métro de Paris, située sur la commune de Maisons-Alfort.",
+  "Lieu « École vétérinaire de Maisons-Alfort (métro de Paris) », 1970 : La station est ouverte le 19 septembre 1970 avec la mise en service du prolongement de la ligne 8 depuis Charenton - Écoles jusqu'à Maisons-Alfort - Stade.",
+  "Lieu « École vétérinaire de Maisons-Alfort (métro de Paris) », 1970 : Édifiée dans les années 1970, il s'agit d'une station-cage à piédroits verticaux supportant un plafond horizontal, du fait de sa construction en tranchée couverte.",
+  "Lieu « École vétérinaire de Maisons-Alfort (métro de Paris) », aujourd'hui : Les sièges sont de style « Akiko » de couleur cyan, en remplacement des assises « Motte » rouges d'origine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 9
+ }
+}

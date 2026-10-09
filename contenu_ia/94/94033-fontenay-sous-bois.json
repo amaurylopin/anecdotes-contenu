@@ -1,0 +1,290 @@
+{
+ "commune": {
+  "titre": "Fontenay-sous-Bois",
+  "code_insee": "94033",
+  "departement": "94",
+  "population": 53757,
+  "lat": 48.85166667,
+  "lon": 2.47722222,
+  "url": "https://fr.wikipedia.org/wiki/Fontenay-sous-Bois"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:31:05",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3001,
+  "sortie": 2233
+ },
+ "cout_usd": 0.003391,
+ "accroche": "Le 30 janvier 1918, deux bombes lancées d’un avion allemand ont explosé aux nos 22 et 33 rue de Rosny, pendant la première Guerre mondiale.",
+ "histoire": {
+  "recit": "À Fontenay-sous-Bois, l’eau et la guerre ont laissé des traces très concrètes. La première mention remonte à 847, et l’église dépend ensuite de la cathédrale de Paris en 982. Plus tard, au temps du roi Charles V, des conduits passent dans le village pour capter les sources et alimenter les abreuvoirs du château de Beauté. Puis viennent les périodes troublées : en janvier 1918, la ville subit un bombardement, et, les 23, 24 et 25 août 1944, des combats violents opposent des soldats installés au fort de Nogent à des membres de la Résistance.\nAujourd’hui, le fort de Nogent ne sonne plus seulement le rôle militaire : il héberge le groupement du recrutement de la Légion étrangère. Et, sur une autre trajectoire, la sculpture « Héloïse ou… la Fille des Trois-Rivières » s’est transformée en lieu de mémoire, devenue mémorial de l’abolition des traites et des esclavages.",
+  "chronologie": [
+   {
+    "date": "847",
+    "texte": "Première mention de Fontenay.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "982",
+    "texte": "Un acte indique que l’église de Fontenay dépend de la cathédrale de Paris.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1841",
+    "texte": "Construction du fort de Nogent, de 1841 à 1848.",
+    "sources": [
+     "S3",
+     "S10"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Paul Jean Rigollot invente le produit à l’origine des sinapismes, avant l’ouverture de l’usine en 1872.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1872",
+    "texte": "Ouverture, à la limite de Vincennes, de l’usine de fabrication de sinapismes dirigée par Paul Jean Rigollot.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "30 janvier 1918",
+    "texte": "Deux bombes explosent aux nos 22 et 33 rue de Rosny.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "30-31 janvier 1918",
+    "texte": "Dans la nuit du 30 au 31 janvier 1918, Fontenay-sous-Bois est bombardée lors de la première attaque massive de l’aviation allemande.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "23-25 août 1944",
+    "texte": "Au fort de Nogent, de violents combats opposent des soldats de la Feldgendarmerie aux membres des organisations de Résistance.",
+    "sources": [
+     "S6",
+     "S11"
+    ]
+   },
+   {
+    "date": "16 septembre 1973",
+    "texte": "Inauguration de l’édifice le 16 septembre 1973 par Charles Hernu et Georges Marchais.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fort de Nogent",
+   "histoire": "Fort de Nogent ou fort de Nogent-sur-Marne : un fort français faisant partie des fortifications de Paris. Il fait partie des seize forts construits pour protéger Paris à la suite des instructions de 1840, puis il est construit de 1841 à 1848. En 1944, les 23, 24 et 25 août, des combats opposent des soldats de la Feldgendarmerie installés dans le fort aux membres des organisations de Résistance. Aujourd’hui, le fort héberge le groupement du recrutement de la Légion étrangère.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il héberge le groupement du recrutement de la Légion étrangère (GRLE).",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.844722,
+   "lon": 2.481667,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Nogent"
+  },
+  {
+   "nom": "Rue de Rosny",
+   "histoire": "La rue de Rosny est une voie de communication de Fontenay-sous-Bois. Elle est associée à l’église Saint-Germain-l’Auxerrois, bâtie à la fin du XIVe siècle. En 1817, le parc de l’Hôtel-de-Ville, où se trouvait un château seigneurial, est détruit. Le 30 janvier 1918, pendant la première Guerre mondiale, deux bombes explosent aux nos 22 et 33 rue de Rosny. Ses eaux ont ensuite été détournées vers la fontaine de la place d’Armes, aujourd’hui place du Général-Leclerc.",
+   "anecdotes": [
+    {
+     "texte": "Le 30 janvier 1918, deux bombes ont frappé précisément les nos 22 et 33 de la rue de Rosny.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ses eaux ont été détournées vers la fontaine de la place d’Armes, aujourd’hui place du Général-Leclerc.",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.849374,
+   "lon": 2.473237,
+   "url": "https://fr.wikipedia.org/wiki/Rue_de_Rosny"
+  },
+  {
+   "nom": "Héloïse ou… la Fille des Trois-Rivières",
+   "histoire": "« Héloïse ou… la Fille des Trois-Rivières » est une sculpture en acier forgé de Maurice Cardon. Elle rend hommage à la Révolution haïtienne, et elle est devenue mémorial de l’abolition des traites et des esclavages à Fontenay-sous-Bois en 2006. D’abord placée à l’entrée de l’hôtel de ville sur l’esplanade Louis Bayeurte, la sculpture est déplacée dans le parc de l’Hôtel de Ville en 2006 près du kiosque à musique, et elle conserve aujourd’hui la trace de ses transformations matérielles.",
+   "anecdotes": [
+    {
+     "texte": "La sculpture a été déplacée en 2006 de l’entrée de l’hôtel de ville vers le parc de l’Hôtel de Ville, près du kiosque à musique.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Devenue mémorial en 2006, la sculpture rappelle l’abolition des traites et des esclavages à Fontenay-sous-Bois.",
+     "statut": "etabli",
+     "sources": [
+      "S18",
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle en porte la trace et ses pieds reposent maintenant sur des supports métalliques.",
+   "sources": [
+    "S18",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.849,
+   "lon": 2.476,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%A9lo%C3%AFse_ou%E2%80%A6_la_Fille_des_Trois-Rivi%C3%A8res"
+  },
+  {
+   "nom": "Gare du Val de Fontenay",
+   "histoire": "La gare du Val de Fontenay est une gare ferroviaire de Fontenay-sous-Bois. Elle a été ouverte par la RATP le 8 décembre 1977 afin de desservir la ZUP de la commune, à l’occasion de l’inauguration du RER A jusqu’à Noisy-le-Grand. Le réarrangement du pôle de la gare prévoit aussi un nouvel accès (accès no 6 « Place du Général de Gaulle ») en chantier depuis 2025, avec une ouverture prévue fin 2026. Depuis la gare, une sculpture de l’artiste Francesco Marino Di Teana est visible place du Général-de-Gaulle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une sculpture de Francesco Marino Di Teana, située place du Général-de-Gaulle, est visible depuis la gare.",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.85431,
+   "lon": 2.48914,
+   "url": "https://fr.wikipedia.org/wiki/Gare_du_Val_de_Fontenay"
+  },
+  {
+   "nom": "Église Saint-Germain-l'Auxerrois de Fontenay-sous-Bois",
+   "histoire": "L’église Saint-Germain-l’Auxerrois de Fontenay-sous-Bois est une église catholique rue de Rosny. Bâtie à la fin du XIVe siècle sur les fondations d’une église du XIIIe siècle, elle accueille des orgues installés en 1666. L’édifice est inscrit au titre des monuments historiques en 1926.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.8477,
+   "lon": 2.4719,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain-l%27Auxerrois_de_Fontenay-sous-Bois"
+  },
+  {
+   "nom": "Rue Notre-Dame (Fontenay-sous-Bois)",
+   "histoire": "La rue Notre-Dame est une voie de communication de Fontenay-sous-Bois. Elle a été construite sur un terrain offert en 1837 à la fabrique par M. Epoigny. Un ancien presbytère construit en 1867 devient le Bureau de Bienfaisance de la commune. Jusqu’en 1845, la rue s’étendait de la place d’Armes, aujourd’hui place du Général-Leclerc, jusqu’à la rue Grognard.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 48.84649,
+   "lon": 2.47079,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Notre-Dame_%28Fontenay-sous-Bois%29"
+  },
+  {
+   "nom": "Carrefour des Parapluies",
+   "histoire": "Le carrefour des Parapluies est une intersection à l’ouest de Fontenay-sous-Bois, aux limites de Vincennes et de Montreuil. On y trouvait une usine de parapluies, fermée à la fin des années 1960. Aujourd’hui, le carrefour est accessible par autobus et sera desservi par la station de métro Rigollots de la ligne 1.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 48.852734,
+   "lon": 2.449232,
+   "url": "https://fr.wikipedia.org/wiki/Carrefour_des_Parapluies"
+  },
+  {
+   "nom": "Avenue de Neuilly (Fontenay-sous-Bois)",
+   "histoire": "L’avenue de Neuilly est une voie de communication de Fontenay-sous-Bois. En 1841, elle correspond au fort de Nogent, construit de 1841 à 1848. Aujourd’hui, cet axe ancien, visible sur la carte de Cassini, prend le nom d’avenue à la limite de l’ancien village de Fontenay-sous-Bois et de son faubourg.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 48.84734,
+   "lon": 2.48486,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_de_Neuilly_%28Fontenay-sous-Bois%29"
+  }
+ ],
+ "sources": [
+  "Fontenay-sous-Bois est une commune française située dans le département du Val-de-Marne, à sa limite avec la Seine-Saint-Denis, en région Île-de-France. Située à 3 km à l'est de Paris, la ville est bâtie entre 44 et 111 mètres d'altitude, à cheval sur la terminaison du long plateau de Belleville, ligne de crête qui sépare les bassins versants de la Seine et de la Marne. La nature des sols a donné naissance à de […]",
+  "L’abbé Lebeuf, dans son Histoire du diocèse de Paris, indique que la première mention de Fontenay remonte à 847. En 982, un acte indique que l'église de Fontenay est dépendante de la cathédrale de Paris. Le roi Charles V fait capter les eaux des sources de Fontenay pour alimenter les abreuvoirs du château de Beauté. Les conduits passent à travers le village, et le roi exempte les habitants du droit de prise et des […]",
+  "1841 : Le fort de Nogent est construit de 1841 à 1848.",
+  "1872 : En 1872, l'usine de fabrication de sinapismes dirigée par Paul Jean Rigollot qui a inventé le produit en 1866, est ouverte à la limite de Vincennes à l'emplacement de l'actuel carrefour des Rigollots.",
+  "1918 : Dans la nuit du 30 au 31 janvier 1918, au cours de la première attaque massive de l'aviation allemande, Fontenay-sous-Bois est bombardée.",
+  "1944 : Le 23, 24 et 25 août 1944, de violents combats opposent les soldats de la Feldgendarmerie installés dans le fort de Nogent, aux membres des organisations de Résistance.",
+  "1973 : L'édifice est inauguré le 16 septembre 1973 par Charles Hernu et Georges Marchais.",
+  "Lieu « Fort de Nogent » : Le fort de Nogent ou fort de Nogent-sur-Marne est un fort français faisant partie des fortifications de Paris.",
+  "Lieu « Fort de Nogent », 1840 : Le fort de Nogent fait partie des seize forts construits pour protéger Paris, conformément aux instructions en 1840 d’Adolphe Thiers, chef du gouvernement du roi Louis-Philippe Ier.",
+  "Lieu « Fort de Nogent », 1841 : Il est construit de 1841 à 1848 sous les directives de Guillaume Dode de la Brunerie.",
+  "Lieu « Fort de Nogent », 1944 : Le 23, 24 et 25 août 1944, de violents combats opposent les soldats de la Feldgendarmerie installés dans le fort aux membres des organisations de résistance.",
+  "Lieu « Fort de Nogent », aujourd'hui : Il héberge aujourd’hui le groupement du recrutement de la Légion étrangère (GRLE).",
+  "Lieu « Rue de Rosny » : La rue de Rosny est une voie de communication de Fontenay-sous-Bois.",
+  "Lieu « Rue de Rosny », XIVe siècle : Église Saint-Germain-l'Auxerrois de Fontenay-sous-Bois, bâtie à la fin du XIVe siècle.",
+  "Lieu « Rue de Rosny », 1817 : Parc de l'Hôtel-de-Ville, où se trouvait un château seigneurial, détruit en 1817.",
+  "Lieu « Rue de Rosny », 1918 : Le 30 janvier 1918, durant la première Guerre mondiale, deux bombes lancées d'un avion allemand qui explosent aux nos 22 et 33 rue de Rosny",
+  "Lieu « Rue de Rosny », aujourd'hui : Ses eaux ont été détournées vers la fontaine de la place d'Armes, aujourd'hui place du Général-Leclerc.",
+  "Lieu « Héloïse ou… la Fille des Trois-Rivières » : Héloïse ou… la Fille des Trois-Rivières est une sculpture en acier forgé de Maurice Cardon (1925-2002), en hommage à la Révolution haïtienne (1791-1804), devenue mémorial de l'abolition des traites et des esclavages à Fontenay-sous-Bois en 2006, inau",
+  "Lieu « Héloïse ou… la Fille des Trois-Rivières », 1925 : Héloïse ou… la Fille des Trois-Rivières est une sculpture en acier forgé de Maurice Cardon (1925-2002), en hommage à la Révolution haïtienne (1791-1804), devenue mémorial de l'abolition des traites et des esclavages à Fontenay-sous-Bois en 2006, inaugurée en 2008.",
+  "Lieu « Héloïse ou… la Fille des Trois-Rivières », 2006 : D'abord placée à l'entrée de l'hôtel de ville sur l'esplanade Louis Bayeurte, la sculpture est déplacée dans le parc de l'Hôtel de Ville, près du kiosque à musique en 2006 et devient un lieu de mémoire dédié à la commémoration des abolitions des traites et des esclavages.",
+  "Lieu « Héloïse ou… la Fille des Trois-Rivières », aujourd'hui : Elle en porte la trace et ses pieds reposent maintenant sur des supports métalliques.",
+  "Lieu « Gare du Val de Fontenay » : La gare du Val de Fontenay est une gare ferroviaire française de la commune de Fontenay-sous-Bois (Val-de-Marne).",
+  "Lieu « Gare du Val de Fontenay », 1977 : La gare du Val de Fontenay est ouverte par la RATP le 8 décembre 1977 afin de desservir la ZUP de la commune de Fontenay-sous-Bois à l'occasion de l'inauguration du RER A jusqu'à Noisy-le-Grand.",
+  "Lieu « Gare du Val de Fontenay », 2025 : Dans le cadre de réarrangement du pôle de la gare, un nouvel accès (accès no 6 « Place du Général de Gaulle ») en chantier depuis 2025 dont l'ouverture est prévue fin 2026 sera localisée au sud de la gare routière le long de l'avenue du Val de Fontenay.",
+  "Lieu « Gare du Val de Fontenay », aujourd'hui : Une sculpture de l'artiste italien Francesco Marino Di Teana, située place du Général-de-Gaulle est visible depuis la gare.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Fontenay-sous-Bois » : L'église Saint-Germain-l'Auxerrois est une église catholique située rue de Rosny à Fontenay-sous-Bois, en France.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Fontenay-sous-Bois », XIVe siècle : Elle est bâtie à la fin du XIVe siècle sur les fondations d'une église du XIIIe siècle.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Fontenay-sous-Bois », 1666 : Des orgues y ont été installées en 1666.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Fontenay-sous-Bois », 1926 : L'édifice est inscrit au titre des monuments historiques en 1926.",
+  "Lieu « Rue Notre-Dame (Fontenay-sous-Bois) » : La rue Notre-Dame est une voie de communication de Fontenay-sous-Bois.",
+  "Lieu « Rue Notre-Dame (Fontenay-sous-Bois) », 1837 : Il fut construit sur un terrain offert en 1837 à la fabrique par M. Epoigny.",
+  "Lieu « Rue Notre-Dame (Fontenay-sous-Bois) », 1867 : Ancien presbytère, construit en 1867, qui devint le Bureau de Bienfaisance de la commune.",
+  "Lieu « Rue Notre-Dame (Fontenay-sous-Bois) », aujourd'hui : Jusqu’en 1845, elle s’étendait de la place d’Armes, aujourd'hui place du Général-Leclerc, jusqu'à la rue Grognard.",
+  "Lieu « Carrefour des Parapluies » : Le carrefour des Parapluies est une intersection située à l'ouest de Fontenay-sous-Bois, aux limites de Vincennes et de Montreuil.",
+  "Lieu « Carrefour des Parapluies », 1960 : Cette usine de parapluies fut fermée à la fin des années 1960.",
+  "Lieu « Carrefour des Parapluies », aujourd'hui : Aujourd'hui accessible par autobus, elle sera desservie par la station de métro Rigollots de la ligne 1 du métro de Paris.",
+  "Lieu « Avenue de Neuilly (Fontenay-sous-Bois) » : L'avenue de Neuilly est une voie de communication de Fontenay-sous-Bois.",
+  "Lieu « Avenue de Neuilly (Fontenay-sous-Bois) », 1841 : Fort de Nogent, construit de 1841 à 1848.",
+  "Lieu « Avenue de Neuilly (Fontenay-sous-Bois) », aujourd'hui : Cet axe ancien, visible sur la carte de Cassini, prend aujourd'hui le nom d'avenue à la limite de l'ancien village de Fontenay-sous-Bois et de son faubourg."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

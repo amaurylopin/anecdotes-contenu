@@ -1,0 +1,281 @@
+{
+ "commune": {
+  "titre": "Le Perreux-sur-Marne",
+  "code_insee": "94058",
+  "departement": "94",
+  "population": 35260,
+  "lat": 48.84222222,
+  "lon": 2.50361111,
+  "url": "https://fr.wikipedia.org/wiki/Le_Perreux-sur-Marne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:45:02",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2638,
+  "sortie": 1794
+ },
+ "cout_usd": 0.00277,
+ "accroche": "En 1284, un cartulaire mentionne pour la première fois l’existence du fief du Perreux, dépendant de l’abbaye de Saint-Maur, le long des bords de la Marne.",
+ "histoire": {
+  "recit": "Le Perreux-sur-Marne, surnommé « Perle de l’Est parisien », s’étire le long de la Marne et reste intimement lié à l’histoire de Nogent : d’abord un fief relevant de l’abbaye de Saint-Maur, puis un territoire de seigneurs et de marchands, avant de s’ouvrir largement avec le chemin de fer.\n\nQuand la ligne de chemin de fer Paris-Bastille et l’ouverture de la gare de Nogent-sur-Marne changent la donne, les Parisiens aisés viennent chercher la campagne au moment des beaux jours. Cette nouvelle attractivité accompagne aussi les aménagements fonciers : des terres converties en lotissements, et des équipements qui se modernisent.\n\nAu bord de la Marne, la passerelle de Bry-sur-Marne, construite à l’emplacement d’un ancien passage d’eau, devient un repère de traversée : inaugurée le 21 juin 1894, détruite en juin 1940 puis reconstruite, elle reçoit ensuite un plancher en chêne. Non loin, l’Île des Loups a gardé, au moins en partie, les traces de ses anciennes constructions et de ses loisirs d’autrefois.",
+  "chronologie": [
+   {
+    "date": "1284",
+    "texte": "Un cartulaire mentionne pour la première fois l’existence du Perreux comme fief dépendant de l’abbaye de Saint-Maur.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1492",
+    "texte": "Les moines tentent de récupérer des droits de justice ; Jeanne Baston, femme de Jean l’Épervier, saisit la justice.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1500",
+    "texte": "Les moines sont déboutés par le parlement de Paris.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "Des terres sont converties en lotissements pour profiter de l’expansion de Nogent liée à la construction de la ligne de chemin de fer Paris-Mulhouse.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1887",
+    "texte": "Le Perreux se détache de Nogent ; avec le développement du chemin de fer Paris-Bastille, la commune attire des Parisiens relativement aisés.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Passerelle de Bry-sur-Marne",
+   "histoire": "Passerelle en fer pour piétons traversant la Marne entre le Perreux (rue du Bac) et Bry-sur-Marne (rue de la Pépinière).",
+   "anecdotes": [
+    {
+     "texte": "Construite à l’emplacement de l’ancien « passage d’eau » de l’île Laroche, elle marque la continuité d’une traversée avant la disparition du passage d’eau en 1874.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Inaugurée le 21 juin 1894, en présence de plusieurs responsables dont le préfet de la Seine et les maires du Perreux et de Bry-sur-Marne.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En juin 1940, la travée côté Perreux est détruite puis reconstruite en bois la même année.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "En 1913, le sol en bitume est remplacé par un plancher en chêne.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 48.842516,
+   "lon": 2.512044,
+   "url": "https://fr.wikipedia.org/wiki/Passerelle_de_Bry-sur-Marne"
+  },
+  {
+   "nom": "Cimetière de Nogent-sur-Marne",
+   "histoire": "Cimetière communal de Nogent-sur-Marne, dans le Val-de-Marne.",
+   "anecdotes": [
+    {
+     "texte": "Deux cimetières de Nogent sont détruits au XIXe siècle : l’un autour de l’église en 1842, l’autre à l’angle des rues de Paris (actuelle rue Paul Bert) et Théodore Honoré en 1873.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Un monument commémoratif aux soldats indochinois morts pour la France est érigé en 2003 dans les divisions militaires du cimetière, à proximité de tombes de tirailleurs sénégalais et d’une qoubba.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.84672,
+   "lon": 2.49366,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_Nogent-sur-Marne"
+  },
+  {
+   "nom": "Île des Loups",
+   "histoire": "Île fluviale située sur la Marne, sur les territoires de Nogent-sur-Marne et du Perreux-sur-Marne.",
+   "anecdotes": [
+    {
+     "texte": "À partir du XIXe siècle, l’île accueille des maisons et des commodités, dont des guinguettes et une maison close.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des vestiges persistent : un ancien court de tennis, une fontaine et une rivière artificielle.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.8314,
+   "lon": 2.4984,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_des_Loups"
+  },
+  {
+   "nom": "Gare de Nogent - Le Perreux",
+   "histoire": "Gare ferroviaire à la limite des communes de Nogent-sur-Marne et du Perreux-sur-Marne, dans le Val-de-Marne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S20"
+   ],
+   "lat": 48.83858,
+   "lon": 2.49426,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Nogent_-_Le_Perreux"
+  },
+  {
+   "nom": "Pierre Perreuxienne",
+   "histoire": "Menhir connu sous le nom de Pierre Perreuxienne, sur la commune du Perreux-sur-Marne.",
+   "anecdotes": [
+    {
+     "texte": "Retrouvée lors de la construction d’une maison au début du XXe siècle, la pierre est entreposée dans la cour de la mairie puis installée très officiellement en position couchée, Place de la Mairie, le 18 juin 1922.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.8334,
+   "lon": 2.5167,
+   "url": "https://fr.wikipedia.org/wiki/Pierre_Perreuxienne"
+  },
+  {
+   "nom": "Église Sainte-Marguerite-Marie du Perreux",
+   "histoire": "Église paroissiale située au 8, rue de la Cascade.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 48.852108,
+   "lon": 2.500627,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Marguerite-Marie_du_Perreux"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste du Perreux",
+   "histoire": "Église paroissiale située dans la commune du Perreux-sur-Marne, allée de Bellevue (anciennement allée de Stalingrad).",
+   "anecdotes": [
+    {
+     "texte": "Elle est consacrée par le cardinal Richard et ouverte au culte le 7 avril 1890.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 48.841822,
+   "lon": 2.507961,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_du_Perreux"
+  },
+  {
+   "nom": "Boulevard d’Alsace-Lorraine (Le Perreux-sur-Marne)",
+   "histoire": "Voie de communication du Perreux-sur-Marne.",
+   "anecdotes": [
+    {
+     "texte": "Son nom rend hommage à l’Alsace-Lorraine cédée à l’Empire allemand en application du traité de Francfort signé le 10 mai 1871, puis rendue à la France par le traité de Versailles en 1919.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 48.85089,
+   "lon": 2.50398,
+   "url": "https://fr.wikipedia.org/wiki/Boulevard_d%27Alsace-Lorraine_%28Le_Perreux-sur-Marne%29"
+  }
+ ],
+ "sources": [
+  "Le Perreux-sur-Marne est une commune française située dans le département du Val-de-Marne en région Île-de-France. Portant le surnom de « Perle de l’Est parisien », la commune de première couronne parisienne s'étend le long des bords de la Marne.",
+  "Intimement lié à l'histoire de Nogent, le Perreux est un fief dépendant de l'abbaye de Saint-Maur dont un cartulaire mentionne pour la première fois l'existence en 1284. En 1492, les moines de ladite abbaye essaieront d'en récupérer les droits de haute, moyenne et basse justice. Jeanne Baston, femme de Jean l'Épervier, saisit la justice. Les moines seront déboutés par le parlement de Paris en 1500. Depuis le XIIIe […]",
+  "XVe siècle : Il est occupé par de nombreux seigneurs, bourgeois de Paris, marchands au XIVe – XVe siècles",
+  "1860 : Le reste des terres, possession des familles Pantigny et de Beaufranchet est converti en lotissements vers 1860 afin de tirer parti de l'expansion que connaît Nogent grâce à la construction de la ligne de chemin de fer Paris-Mulhouse.",
+  "1887 : Avec le développement de la ligne de chemin de fer Paris-Bastille, et l'ouverture de la gare de Nogent-sur-Marne, la commune du Perreux, détachée de Nogent depuis 1887, connut un engouement certain de la part des Parisiens relativement aisés qui souhaitaient s'installer à la campagne, au moment des beaux jours.",
+  "Lieu « Passerelle de Bry-sur-Marne » : La passerelle de Bry-sur-Marne est un pont en fer pour piétons qui traverse la Marne pour relier les villes de Perreux (rue du Bac) et Bry-sur-Marne (rue de la Pépinière).",
+  "Lieu « Passerelle de Bry-sur-Marne », 1874 : La passerelle est construite à l'emplacement de l'ancien « passage d'eau » de l'île Laroche (disparue en 1874) reliant la rue du Bac au Perreux et la rue Aristide-Briand à Bry.",
+  "Lieu « Passerelle de Bry-sur-Marne », 1894 : Elle est inaugurée le 21 juin 1894 en présence de MM. Poubelle (préfet de la Seine), J-B. Arès (maire de Bry-sur-Marne) et C. Ollier (maire du Perreux).",
+  "Lieu « Passerelle de Bry-sur-Marne », 1940 : En juin 1940, la travée côté Perreux est détruite par le Génie Français puis reconstruite en bois la même année.",
+  "Lieu « Passerelle de Bry-sur-Marne », aujourd'hui : En 1913, le sol en bitume est remplacé par un plancher en chêne.",
+  "Lieu « Cimetière de Nogent-sur-Marne » : Le cimetière de Nogent-sur-Marne est le cimetière communal de la ville de Nogent-sur-Marne dans le Val-de-Marne.",
+  "Lieu « Cimetière de Nogent-sur-Marne », 1842 : Deux anciens cimetières de Nogent-sur-Marne sont détruits au XIXe siècle, le premier, autour de l'église, en 1842, puis le deuxième, à l'angle des rues de Paris (actuelle rue Paul Bert) et Théodore Honoré en 1873.",
+  "Lieu « Cimetière de Nogent-sur-Marne », 1889 : Le nouveau cimetière est ouvert en 1889, après la formation de la commune du Perreux-sur-Marne en 1887.",
+  "Lieu « Cimetière de Nogent-sur-Marne », 2003 : En 2003, un monument commémoratif aux soldats indochinois morts pour la France pendant les deux guerres mondiales et la guerre d'Indochine est érigé dans les divisions militaires du cimetière, à proximité de tombes de tirailleurs sénégalais et de la qoubba.",
+  "Lieu « Île des Loups » : L'île des Loups est une île fluviale française située sur la Marne, sur le territoire des communes de Nogent-sur-Marne et Le Perreux-sur-Marne (Val-de-Marne).",
+  "Lieu « Île des Loups », XIXe siècle : À partir du XIXe siècle, on y construit des maisons et différentes commodités dont des guinguettes et une maison close.",
+  "Lieu « Île des Loups », aujourd'hui : Des vestiges persistent : un ancien court de tennis, une fontaine, une rivière artificielle.",
+  "Lieu « Gare de Nogent - Le Perreux » : La gare de Nogent - Le Perreux est une gare ferroviaire française située à la limite des territoires des communes de Nogent-sur-Marne et du Perreux-sur-Marne dans le département du Val-de-Marne, en région Île-de-France.",
+  "Lieu « Gare de Nogent - Le Perreux », 1857 : Le bâtiment voyageurs, construit en 1857, est démoli en 1983.",
+  "Lieu « Gare de Nogent - Le Perreux », 1999 : La gare actuelle, située au point kilométrique (PK) 16,260 de la ligne de Paris-Est à Mulhouse-Ville, est ouverte en style RER depuis le 30 août 1999 et porte le nom des communes de Nogent-sur-Marne et du Perreux-sur-Marne.",
+  "Lieu « Pierre Perreuxienne » : La Pierre Perreuxienne est un menhir situé sur la commune du Perreux-sur-Marne dans le département du Val-de-Marne.",
+  "Lieu « Pierre Perreuxienne », 1922 : Retrouvée au début du XXe siècle lors de la construction d'une maison, elle fut entreposée dans un premier temps dans la cour de la mairie du Perreux puis très officiellement installée en position couchée Place de la Mairie le 18 juin 1922.",
+  "Lieu « Pierre Perreuxienne », 1969 : En février 1969, la pierre fut à nouveau déplacée près de la gare, devant le bureau du syndicat d'initiative, en position couchée.",
+  "Lieu « Église Sainte-Marguerite-Marie du Perreux » : L'église Sainte-Marguerite-Marie est une église paroissiale située au 8, rue de la Cascade dans la commune du Perreux-sur-Marne.",
+  "Lieu « Église Sainte-Marguerite-Marie du Perreux », 1932 : Elle est édifiée entre 1932 et 1938 par l'architecte André Leconte, Premier Grand Prix de Rome en 1927.",
+  "Lieu « Église Saint-Jean-Baptiste du Perreux » : L'église Saint-Jean-Baptiste est une église paroissiale située dans la commune du Perreux-sur-Marne, allée de Bellevue (anciennement allée de Stalingrad).",
+  "Lieu « Église Saint-Jean-Baptiste du Perreux », 1890 : Elle est consacrée par le cardinal Richard et ouverte au culte le 7 avril 1890.",
+  "Lieu « Boulevard d'Alsace-Lorraine (Le Perreux-sur-Marne) » : Le boulevard d'Alsace-Lorraine est une voie de communication de la ville du Perreux-sur-Marne.",
+  "Lieu « Boulevard d'Alsace-Lorraine (Le Perreux-sur-Marne) », 1871 : Le nom de ce boulevard est un hommage rendu à l'Alsace-Lorraine, cédée par la France à l'Empire allemand en application du traité de Francfort, signé le 10 mai 1871, puis rendu à la France par le traité de Versailles en 1919."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 9
+ }
+}
