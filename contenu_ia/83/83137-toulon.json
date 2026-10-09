@@ -1,0 +1,276 @@
+{
+ "commune": {
+  "titre": "Toulon",
+  "code_insee": "83137",
+  "departement": "83",
+  "population": 179116,
+  "lat": 43.1364,
+  "lon": 5.9334,
+  "url": "https://fr.wikipedia.org/wiki/Toulon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:14:16",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3784,
+  "sortie": 2078
+ },
+ "cout_usd": 0.003354,
+ "accroche": "En 1178, Toulon — alors nommé Telo, Tholon, Tolon ou Touloun — est décrit comme un point de relâche des bateaux de commerce, fréquemment pillé par des pirates sarrasins.",
+ "histoire": {
+  "recit": "Toulon, ville côtière du Var et chef-lieu, a longtemps vécu de la mer. Avant même la colonisation romaine, on y trouvait un abri pour les navires grecs et une pêcherie de murex, dont on tirait de quoi teindre des toges. Puis les siècles ont rendu le port à la fois convoité et menacé.\n\nAu Moyen Âge, le site attire le commerce, mais aussi les raids : à plusieurs reprises, des pirates sarrasins viennent piller. Au XXe siècle, la ville subit des bombardements en juin 1940.\n\nDans l’histoire récente, Toulon s’organise aussi à grande échelle : la métropole Toulon-Provence-Méditerranée se structure autour de la ville, et ses projets s’appuient sur la rade. Sur les hauteurs, le mont Faron domine encore les accès et, sur la ville, d’autres lieux racontent les époques : le fort du Grand Saint-Antoine, la cathédrale Notre-Dame-de-la-Seds et l’Espace Comedia, devenu salle de spectacle.\n\nEt dans les drames comme dans les transformations, Toulon garde un goût net du risque : du naufrage du Magenta à l’explosion de la maison des Têtes, l’histoire y laisse des traces d’événements très concrets.",
+  "chronologie": [
+   {
+    "date": "1178",
+    "texte": "Toulon, appelé Telo puis Tholon, Tolon ou Touloun, sert de point de relâche pour les bateaux de commerce et fait l’objet de pillages de pirates sarrasins.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1197",
+    "texte": "Les pirates sarrasins reviennent encore, la source citant une nouvelle période de pillage autour de Toulon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "13 juin 1940",
+    "texte": "La ville est bombardée par la Regia Aeronautica italienne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "François Trucy, maire de 1985 à 1995, relate le racket des bistrots et des incendies commis par Fargette et ses hommes de main au début de leur carrière.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Métropole Toulon-Provence-Méditerranée",
+   "histoire": "La métropole Toulon-Provence-Méditerranée est une intercommunalité de type métropole, constituée autour de Toulon, dans le Var et la région Provence-Alpes-Côte d’Azur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6"
+   ],
+   "lat": 43.118861111111,
+   "lon": 5.9442888888889,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9tropole_Toulon-Provence-M%C3%A9diterran%C3%A9e"
+  },
+  {
+   "nom": "Fort du Grand Saint-Antoine (Toulon)",
+   "histoire": "Le fort du Grand Saint-Antoine est un ouvrage fortifié sur le versant occidental du mont Faron. Construit entre 1843 et 1845, il fait partie du dispositif pour empêcher un adversaire de contourner le mont par l’ouest. Transformé en batterie de défense contre les aéronefs dans les années 1930, il est ensuite occupé par les forces allemandes et italiennes pendant la Seconde Guerre mondiale. Le fort actuel reprend cet emplacement au XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La source signale que les terrassements existants du projet du XVIIIe siècle pouvaient être intégrés à des dispositifs de campagne, sans que le fort permanent projeté soit achevé.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S13",
+    "S14",
+    "S15",
+    "S12"
+   ],
+   "lat": 43.144176,
+   "lon": 5.916351,
+   "url": "https://fr.wikipedia.org/wiki/Fort_du_Grand_Saint-Antoine_%28Toulon%29"
+  },
+  {
+   "nom": "Magenta (1861)",
+   "histoire": "Le Magenta est une frégate cuirassée de la Marine française lancée en 1861 à Brest. Elle est connue pour avoir fait naufrage avec sa cargaison en rade de Toulon le 31 octobre 1875, après une croisière chargée à La Goulette.",
+   "anecdotes": [
+    {
+     "texte": "Le 31 octobre 1875, en rade de Toulon, le Magenta explose des suites d’un incendie incontrôlé.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S18",
+    "S19"
+   ],
+   "lat": 43.113467,
+   "lon": 5.924617,
+   "url": "https://fr.wikipedia.org/wiki/Magenta_%281861%29"
+  },
+  {
+   "nom": "Mont Faron",
+   "histoire": "Le mont Faron est un sommet calcaire des monts toulonnais, culminant à 584 mètres et surplombant la ville de Toulon. La tour Beaumont, construite en 1845, est aménagée en musée Mémorial du Débarquement des Alliés du 15 août 1944. Durant la Seconde Guerre mondiale, le lieu est libéré de l’occupation allemande après le débarquement allié en août 1944. Aujourd’hui, on y voit un réseau de fortifications des XVIIe et XVIIIe siècles.",
+   "anecdotes": [
+    {
+     "texte": "La source précise qu’un réseau de fortifications datant des XVIIe et XVIIIe siècles est toujours visible, pour défendre d’abord les accès maritimes puis terrestres au port militaire.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S25"
+   ],
+   "lat": 43.14944,
+   "lon": 5.95111,
+   "url": "https://fr.wikipedia.org/wiki/Mont_Faron"
+  },
+  {
+   "nom": "Sabordage de la flotte française à Toulon",
+   "histoire": "Le sabordage de la flotte française à Toulon est un épisode notable de la Seconde Guerre mondiale en France occupée. Il a lieu le 27 novembre 1942. La source mentionne aussi l’opération Catapult à l’aube du 3 juillet 1940, et décrit l’accueil des Alliés à coups de canons avant la proclamation d’un cessez-le-feu le 10 novembre 1942 par l’amiral François Darlan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 43.1125,
+   "lon": 5.90694444,
+   "url": "https://fr.wikipedia.org/wiki/Sabordage_de_la_flotte_fran%C3%A7aise_%C3%A0_Toulon"
+  },
+  {
+   "nom": "Maison des Têtes de Toulon",
+   "histoire": "La maison des Têtes est un immeuble de cinq étages situé sur la place à l’Huile. Bâti au XVIIIe siècle, il est détruit le 15 février 1989 par une explosion ressentie dans toute la ville. La source mentionne aussi l’existence de traces de combustion observées au 3e étage près d’appareils sanitaires.",
+   "anecdotes": [
+    {
+     "texte": "Au moment de l’explosion, une opération militaire amphibie franco-américaine du nom de Phinia était en cours.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    },
+    {
+     "texte": "L’explosion du 15 février 1989 détruit l’immeuble et fait treize morts ainsi qu’une quarantaine de blessés.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 43.120567057905,
+   "lon": 5.9331104637294,
+   "url": "https://fr.wikipedia.org/wiki/Maison_des_T%C3%AAtes_de_Toulon"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame-de-la-Seds de Toulon",
+   "histoire": "La cathédrale Notre-Dame-de-la-Seds, dite aussi Sainte-Marie-de-la-Seds ou Sainte-Marie-Majeure, est une cathédrale catholique à Toulon. Commencée au Xe siècle sous l’impulsion du comte de Provence Boson d’Arles, elle porte un nom lié au latin sedis signifiant « siège ». L’église romane est agrandie de 1654 à 1659, puis l’édifice actuel est décrit comme relevant de l’architecture romane du XIe siècle, remaniée aux XVIIe et XVIIIe siècles et classée monument historique depuis 1997. La source indique aussi que le retable en bois détruit en 1681 a été remplacé par un ensemble en marbre et en stuc.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 43.12167,
+   "lon": 5.93417,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-la-Seds_de_Toulon"
+  },
+  {
+   "nom": "Espace Comedia",
+   "histoire": "L’Espace Comedia, actuellement en activité comme salle de spectacle, commence son histoire en 1920 sous le nom de Comœdia. En 1990, le lieu est transformé en salle de spectacle pluridisciplinaire et prend son nouveau nom. La source signale aussi une menace de démolition dès 2021.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 43.111640903217,
+   "lon": 5.9400290405373,
+   "url": "https://fr.wikipedia.org/wiki/Espace_Comedia"
+  }
+ ],
+ "sources": [
+  "Toulon ([tulɔ̃]), est une commune française située dans le département du Var dont elle est le chef-lieu. Ville côtière de Provence dans le Midi, elle est la troisième ville de la région Provence-Alpes-Côte d'Azur derrière Marseille et Nice. Elle abrite le siège de la préfecture maritime de la Méditerranée. Ses habitants sont appelés les Toulonnais et Toulonnaises. Située entre mer et montagnes, capitale économique […]",
+  "Avant la colonisation romaine, Toulon était un abri des navires grecs croisant entre Massalia et Olbia, et une pêcherie de murex, gros escargot de mer servant à teindre les toges. Exportation de la carme produite à partir d'une cochenille du chêne Kermès. Les Ligures (les plus anciennement installés), puis les Celtes, les Grecs et les Phéniciens de Carthage y commercèrent puis s'y affrontèrent, jusqu'à ce que les […]",
+  "1178 : Point de relâche des bateaux de commerce, Telo, puis Tholon, Tolon, Touloun s'attache à protéger ce site exceptionnel, fréquemment pillé par les pirates sarrasins (notamment en 1178 et 1197), mais aussi, en période de disette, base d'expéditions maritimes de rapine vers l'est ou le sud de la Méditerranée occidentale…",
+  "1940 : La ville est bombardée le 13 juin 1940 par la Regia Aeronautica italienne.",
+  "1985 : François Trucy, maire de la ville de 1985 à 1995, relate : « Au début de leur carrière dans le grand banditisme, Fargette et ses hommes de main se livraient aux activités traditionnelles du milieu, comme le racket des bistrots, qu'ils incendiaient lorsqu'on ne les payait pas.",
+  "Lieu « Métropole Toulon-Provence-Méditerranée » : La métropole Toulon-Provence-Méditerranée (TPM) est une intercommunalité française de type métropole constituée autour de la ville de Toulon, située dans le département du Var et la région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Métropole Toulon-Provence-Méditerranée », 1989 : Inauguré en 1989, le Vélodrome d'Hyères situé dans le quartier de Costebelle à Hyères, est depuis le 1er janvier 2003 géré, entretenu et aménager par la communauté d'agglomération.",
+  "Lieu « Métropole Toulon-Provence-Méditerranée », 2002 : Signé le 6 septembre 2002, le contrat de baie est un plan élaboré sur 5 ans visant à restaurer la qualité des eaux et des milieux aquatiques, à valoriser le patrimoine, ainsi que les activités liées à la mer dans la Grande rade.",
+  "Lieu « Métropole Toulon-Provence-Méditerranée », 2013 : À partir de décembre 2013, l'hôtel d'agglomération se situe dans un ancien bâtiment de France Télécom, appelé le Vecteur dans le quartier de La Rode, à l'entrée Est de Toulon.",
+  "Lieu « Métropole Toulon-Provence-Méditerranée », aujourd'hui : Le territoire dispose d'une des plus grandes rades d'Europe, la rade de Toulon, qui constitue aujourd'hui le premier support de développement des domaines économiques de TPM et le lieu de renforcement de ses fonctions métropolitaines.",
+  "Lieu « Fort du Grand Saint-Antoine (Toulon) » : Le fort du Grand Saint-Antoine est un ouvrage fortifié situé à Toulon, dans le Var, sur le versant occidental du mont Faron.",
+  "Lieu « Fort du Grand Saint-Antoine (Toulon) », XVIIIe siècle : Les terrassements existants peuvent alors être intégrés à des dispositifs de campagne, sans que le fort permanent projeté au XVIIIe siècle ne soit achevé.",
+  "Lieu « Fort du Grand Saint-Antoine (Toulon) », 1843 : Construit entre 1843 et 1845 dans le cadre du renforcement de la défense terrestre de Toulon, le fort constitue un élément important du dispositif destiné à empêcher un adversaire de contourner le mont Faron par l'ouest et de prendre à revers les défenses de la ville.",
+  "Lieu « Fort du Grand Saint-Antoine (Toulon) », 1930 : Transformé en batterie de défense contre les aéronefs dans les années 1930, le fort est occupé successivement par les forces allemandes et italiennes pendant la Seconde Guerre mondiale.",
+  "Lieu « Fort du Grand Saint-Antoine (Toulon) », aujourd'hui : Le fort actuel reprend cet emplacement au XIXe siècle.",
+  "Lieu « Magenta (1861) » : Le Magenta est une frégate cuirassée de la Marine française lancée en 1861 à Brest et connue pour avoir fait naufrage avec sa cargaison en rade de Toulon, le 31 octobre 1875.",
+  "Lieu « Magenta (1861) », 1859 : Le Magenta fait partie d’une série de navires conçus par Dupuy de Lôme, entre 1859 et 1872, qui sont décrits comme étant les « bâtiments à coques en bois les plus grands jamais construits dans les chantiers navals français ».",
+  "Lieu « Magenta (1861) », 1861 : Le Magenta est une frégate cuirassée de la Marine française lancée en 1861 à Brest et connue pour avoir fait naufrage avec sa cargaison en rade de Toulon, le 31 octobre 1875.",
+  "Lieu « Magenta (1861) », 1875 : La nuit du 31 octobre 1875, en rade de Toulon, le Magenta, de retour d'une croisière durant laquelle il a été chargé à La Goulette en Tunisie du produit de fouilles effectuées sur le site archéologique de Carthage par Évariste Pricot de Sainte-Marie, explose des suites d'un incendie incontrôlé.",
+  "Lieu « Magenta (1861) », aujourd'hui : Le bâtiment quitte Cherbourg en 1868 pour Toulon via Alger et devient navire amiral en remplacement du Solférino, le 1er février 1870.",
+  "Lieu « Mont Faron » : Le mont Faron est un sommet calcaire, faisant partie des monts toulonnais, qui culmine à 584 mètres et surplombe la ville de Toulon, dans le Var (France).",
+  "Lieu « Mont Faron », 1845 : La tour Beaumont a été construite en 1845 pour défendre et surveiller le débouché des gorges nord du mont, elle est maintenant aménagée en musée Mémorial du Débarquement des Alliés du 15 août 1944.",
+  "Lieu « Mont Faron », 1944 : Durant la Seconde Guerre mondiale, le lieu est libéré de l'occupation allemande après le débarquement allié en Provence en août 1944.",
+  "Lieu « Mont Faron », 1988 : Partant de La Valette-du-Var, son départ est déplacé à Toulon en 1988.",
+  "Lieu « Mont Faron », aujourd'hui : Un réseau de fortifications défensives datant des XVIIe et XVIIIe siècles est toujours visible ; il servait à la défense des accès maritimes puis terrestres au port militaire de la ville.",
+  "Lieu « Sabordage de la flotte française à Toulon » : Le sabordage de la flotte française à Toulon, qui a lieu le 27 novembre 1942, est un épisode notable de la Seconde Guerre mondiale en France occupée.",
+  "Lieu « Sabordage de la flotte française à Toulon », 1940 : L’opération Catapult, exécutée à l’aube du 3 juillet 1940, comporte « la saisie simultanée, la prise sous contrôle, la mise hors de combat définitive ou la destruction de tous les bâtiments français susceptibles d’être atteints ».",
+  "Lieu « Sabordage de la flotte française à Toulon », 1942 : Le sabordage de la flotte française à Toulon, qui a lieu le 27 novembre 1942, est un épisode notable de la Seconde Guerre mondiale en France occupée.",
+  "Lieu « Sabordage de la flotte française à Toulon », 1942 : En vertu de l'armistice et du respect du principe de neutralité de la France, des militaires français accueillent les Alliés à coups de canons avant la proclamation d'un cessez-le-feu signé le 10 novembre 1942 par l'amiral François Darlan.",
+  "Lieu « Sabordage de la flotte française à Toulon », aujourd'hui : La « Directive no 19 » (en), dénommée ensuite opération Attila et enfin opération Anton, fut notamment préparée « en prévision du cas où un mouvement de révolte se produirait dans les parties de l’Empire colonial français actuellement sous le commandement du général Weygand ».",
+  "Lieu « Maison des Têtes de Toulon » : La maison des Têtes, à Toulon, était un immeuble de cinq étages, bâti au XVIIIe siècle et situé sur la place à l'Huile.",
+  "Lieu « Maison des Têtes de Toulon », XVIIIe siècle : La maison des Têtes, à Toulon, était un immeuble de cinq étages, bâti au XVIIIe siècle et situé sur la place à l'Huile.",
+  "Lieu « Maison des Têtes de Toulon », 1989 : Le 15 février 1989, en début d'après-midi, une explosion, qui fut ressentie dans toute la ville, détruisit l'immeuble, tuant treize personnes et faisant une quarantaine de blessés.",
+  "Lieu « Maison des Têtes de Toulon », 1989 : Au moment de l'explosion, le 15 février 1989, une opération militaire amphibie franco-américaine du nom de Phinia avait lieu.",
+  "Lieu « Maison des Têtes de Toulon », aujourd'hui : Il constate bien des traces de combustion au 3e étage près d'appareils sanitaires mais dans l'appartement voisin de celui de Mme Waserstein et il n'exclut pas qu'elles soient dues à des travaux de plomberie antérieurs.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Seds de Toulon » : La cathédrale Notre-Dame-de-la-Seds de Toulon, dite aussi Sainte-Marie-de-la-Seds ou Sainte-Marie-Majeure, est une cathédrale catholique située à Toulon, dans le département du Var.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Seds de Toulon », Xe siècle : Commencée au Xe siècle, sous l'impulsion du comte de Provence Boson d'Arles qui désirait faire bâtir une église consacrée à la Vierge Marie, la cathédrale porte le nom de Sainte-Marie-de-la-Seds, qui vient du latin sedis signifiant « siège ».",
+  "Lieu « Cathédrale Notre-Dame-de-la-Seds de Toulon », 1654 : En effet, l'église romane a été agrandie de 1654 à 1659, englobant du même coup l'ancienne chapelle des Saintes-Reliques, construite au XVe siècle.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Seds de Toulon », 1997 : L'édifice actuel est d'architecture romane du XIe siècle, remanié aux XVIIe et XVIIIe siècles, et classé monument historique depuis 1997.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Seds de Toulon », aujourd'hui : Initialement de Puget, le retable en bois, détruit en 1681 par un incendie, est remplacé par un ensemble en marbre et en stuc de la main d'un de ses élèves, Christophe Veyrier.",
+  "Lieu « Espace Comedia » : L'Espace Comedia, actuellement en activité en tant que salle de spectacle, a commencé son histoire en 1920 sous le nom de Comœdia, s'érigeant comme l'un des plus anciens cinémas de Toulon et de France.",
+  "Lieu « Espace Comedia », 1984 : Puis, après Utu en 1984, c’est Ubu de Jarry, par le Nada Théâtre qui fera l'ouverture théâtrale le 14 mars 1991.",
+  "Lieu « Espace Comedia », 1990 : En 1990, ce lieu culturel a été transformé en salle de spectacle pluridisciplinaire, adoptant son nouveau nom.",
+  "Lieu « Espace Comedia », 2021 : Dès 2021, le Théâtre est menacé de démolition.",
+  "Lieu « Espace Comedia », aujourd'hui : L'Espace Comedia, actuellement en activité en tant que salle de spectacle, a commencé son histoire en 1920 sous le nom de Comœdia, s'érigeant comme l'un des plus anciens cinémas de Toulon et de France."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
