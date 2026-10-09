@@ -1,0 +1,258 @@
+{
+ "commune": {
+  "titre": "Chelles",
+  "code_insee": "77108",
+  "departement": "77",
+  "population": 54620,
+  "lat": 48.8845,
+  "lon": 2.5954,
+  "url": "https://fr.wikipedia.org/wiki/Chelles"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:30:21",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3437,
+  "sortie": 1863
+ },
+ "cout_usd": 0.003016,
+ "accroche": "En 1963, Henri Trinquand signalait au Fort de Chelles le danger des galeries issues de carrières, une “véritable taupinière” à l’intérieur de la montagne.",
+ "histoire": {
+  "recit": "À Chelles, la fréquentation commence très tôt : des vestiges attestent de la présence de l’homme dès la préhistoire, notamment près du mont Châlat. Plus tard, l’abbesse Gisèle fait construire, à la fin du VIIIe siècle, un nouvel édifice et dote le monastère d’un scriptorium.\n\nLe temps change de rythme. En 1796, l’abbaye de Chelles est vendue comme bien national, puis pillée et détruite. Au XXe siècle, un nouveau plan d’urbanisme est dessiné en 1970 : dans le secteur de la rue Gambetta en face de l’ancienne mairie, des habitations anciennes jugées insalubres cèdent la place à de grands ensembles.\n\nAu début du XXIe siècle, des fouilles à l’avenue de la Résistance mettent au jour des constructions romaines, dont des thermes et un temple.\n\nParmi les repères chellois, le Fort de Chelles conserve des traces d’évolutions militaires, tandis que les projets et transformations d’équipements locaux – comme le centre commercial Terre-Ciel et le musée des transports – rythment encore la ville.",
+  "chronologie": [
+   {
+    "date": "VIIIe siècle (fin)",
+    "texte": "L’abbesse Gisèle fait construire un nouvel édifice et dote le monastère d’un scriptorium où de nombreux ouvrages sont écrits.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1796",
+    "texte": "L’abbaye de Chelles est vendue comme bien national, puis pillée et détruite pendant la période révolutionnaire.",
+    "sources": [
+     "S4",
+     "S25"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Sous la houlette de l’architecte Henri-Jean Calsat, des habitations anciennes insalubres autour de la rue Gambetta sont détruites au profit de grands ensembles.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "début du XXIe siècle",
+    "texte": "Des fouilles à l’avenue de la Résistance mettent au jour des constructions romaines : thermes et temple.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Terre-Ciel",
+   "histoire": "Ouvert en 1996 sous le nom de Chelles 2, le centre commercial est construit dans le cadre de la ZAC de l’Aulnoy. Il a été rénové de 2004 à 2006 puis en 2013-2014.",
+   "anecdotes": [
+    {
+     "texte": "D’abord desservi par des navettes dès le 6 mai 1996 (de Pointe de Gournay), le service devient régulier après leur incorporation le 1er octobre 1996.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "En janvier 2016, la façade du centre commercial est la cible d’un incendie nocturne éteint par les pompiers de Chelles, Lagny, Vaires et Lognes.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.877756,
+   "lon": 2.613459,
+   "url": "https://fr.wikipedia.org/wiki/Terre-Ciel"
+  },
+  {
+   "nom": "Musée des transports urbains, interurbains et ruraux",
+   "histoire": "Musée ethnographique consacré aux transports en commun, il ouvre en 1964, puis change d’implantations avant de rejoindre Chelles en 2007 dans un bâtiment provisoire. En 1998, il ferme, et le projet est abandonné en mars 2002 ; le musée quitte la ville en 2007.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un nouveau musée est annoncé avenue François Mitterrand, le long des voies ferrées sur l’emplacement de l’ancien site du SERNAM.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.877206,
+   "lon": 2.602812,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_transports_urbains%2C_interurbains_et_ruraux"
+  },
+  {
+   "nom": "Fort de Chelles",
+   "histoire": "Fortification construite entre 1876 et 1878 à Chelles. À la fin de 1914, un projecteur de 90 cm est installé pour la lutte antiaérienne, puis des canons anti-aérien s’ajoutent en avril 1915 et en mars 1918.",
+   "anecdotes": [
+    {
+     "texte": "En 1963, Henri Trinquand alertait sur les galeries de carrières au fort : “la montagne” aurait été transformée en “véritable taupinière”, avec un réel danger.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.884925,
+   "lon": 2.594945,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Chelles"
+  },
+  {
+   "nom": "Abbaye de Chelles",
+   "histoire": "Ancienne abbaye royale de moniales bénédictines autrefois située à Chelles. Un oratoire royal dédié à saint Georges est bâti en 538 dans la villa royale ; l’église Saint-Georges est édifiée aux XIe et XIIe siècles, et l’église Sainte-Croix au XIIIe puis remaniée au XVIe. L’ensemble ferme en 1792 et est vendu en 1796 comme bien national, avant d’être détruit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.8777,
+   "lon": 2.59,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Chelles"
+  },
+  {
+   "nom": "Villa Max",
+   "histoire": "La villa Max s’inscrit dans le développement urbain de Chelles lié à l’ouverture de la ligne de chemin de fer “Paris - Meaux - Épernay” à partir de 1849. Son jardin romantique, de style anglo-chinois, est orné de fabriques en ciment armé et inauguré en avril 1867 sur des plans d’Adolphe Alphand.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une statue à l’ouest du jardin est une copie en ciment armé, restaurée en 2025, d’une œuvre conservée au Musée du Louvre.",
+   "sources": [
+    "S27",
+    "S28",
+    "S30",
+    "S31"
+   ],
+   "lat": 48.874573,
+   "lon": 2.582961,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Max"
+  },
+  {
+   "nom": "Gare de Chelles - Gournay",
+   "histoire": "Gare de la ligne de Paris-Est à Strasbourg-Ville située sur le territoire de Chelles. En 1857, le bâtiment provisoire est remplacé par un édifice en pierre au sud des voies. En 1931, le passage à quatre voies entraîne la démolition du bâtiment de 1857 et la construction d’un nouvel édifice au nord des voies.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.87416,
+   "lon": 2.5832,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Chelles_-_Gournay"
+  },
+  {
+   "nom": "Chapelle Sainte-Bathilde de Chelles",
+   "histoire": "Chapelle construite en 1915 sur l’emplacement d’une ancienne grange louée boulevard de la gare. En 1989, à cause de l’état déplorable de la toiture, elle est entièrement reconstruite. Elle est ensuite désacralisée le 7 juin 2021 puis détruite.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 48.876545846697,
+   "lon": 2.5854027271271,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Sainte-Bathilde_de_Chelles"
+  },
+  {
+   "nom": "Réserve naturelle régionale des îles de Chelles",
+   "histoire": "Réserve naturelle régionale située en Île-de-France. La bâtisse du Moulin datant de 1878 est rasée en août 1991. En 2002, le régime des réserves naturelles volontaires est supprimé et remplacé par les réserves naturelles régionales.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 48.8668,
+   "lon": 2.59595,
+   "url": "https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_r%C3%A9gionale_des_%C3%AEles_de_Chelles"
+  }
+ ],
+ "sources": [
+  "Chelles (/ʃɛl/ ) est une commune française située dans le département de Seine-et-Marne, en région Île-de-France et faisant partie de l'agglomération parisienne. Avec 54 620 habitants au recensement de 2023, Chelles est la deuxième commune la plus peuplée de son département derrière Meaux.",
+  "Des vestiges datant de la période éponyme du Chelléen attestent de la présence de l'homme dès la préhistoire sur le territoire de la commune et de ses environs, notamment aux abords du mont Châlat. Au paléolithique, 300 000 ans avant Jésus-Christ, les premiers habitants s'installent sur le site de la ville actuelle, attirés par le gibier et les fruits procurés par l'ancienne forêt dite Lauchonia sylva, par une Marne […]",
+  "VIIIe siècle : À la fin du VIIIe siècle, l'abbesse Gisèle, fille de Pépin le Bref et sœur de Charlemagne, fait construire un nouvel édifice et dote le monastère d'un scriptorium, où de nombreux ouvrages furent écrits par les religieuses.",
+  "1796 : Elle est vendue comme bien national en 1796, puis pillée, et détruite pendant la période révolutionnaire.",
+  "1970 : Sous la houlette de l'architecte Henri-Jean Calsat, un nouveau plan d'urbanisme est dessiné et un certain nombre d'habitations anciennes qualifiées d’insalubres de l'ancien bourg, principalement dans le secteur de la rue Gambetta en face de l’ancienne mairie, sont détruites au profit d'un groupe de grands ensembles terminé au milieu des années 1970.",
+  "XXIe siècle : Au début du XXIe siècle, des fouilles conduites au niveau de l'avenue de la Résistance, face à l'actuel parc du Souvenir, ont mis au jour des constructions romaines : des édifices publics comme des thermes et un temple.",
+  "Lieu « Terre-Ciel » : Terre-Ciel est un espace commercial régional français situé à Chelles, en Seine-et-Marne, en Île-de-France.",
+  "Lieu « Terre-Ciel », 1996 : Ouvert le mercredi 22 avril 1996 sous le nom de Chelles 2, il est construit dans le cadre de la création de la ZAC de l'Aulnoy, rénové de 2004 à 2006 puis en 2013-2014.",
+  "Lieu « Terre-Ciel », 1996 : Ceci depuis le 6 mai 1996, date de l'ouverture du centre commercial, d'abord sous forme de navettes amorcées à Pointe de Gournay jusqu'au 1er octobre 1996, date à laquelle elles furent incorporées au service régulier.",
+  "Lieu « Terre-Ciel », 2016 : En janvier 2016, la façade du centre commercial est la cible d'un incendie nocturne éteint par les pompiers de Chelles, Lagny, Vaires et Lognes.",
+  "Lieu « Terre-Ciel », aujourd'hui : Aujourd'hui[Quand ?], il n'existe plus que trois de ces sociétés, car EMA a revendu le centre à Unibail avant de disparaître, Jaf Construction est liquidé en 2001, ainsi que BPI et EPI Prefa.",
+  "Lieu « Musée des transports urbains, interurbains et ruraux » : Le musée des Transports urbains, interurbains et ruraux est un musée ethnographique consacré aux transports en commun.",
+  "Lieu « Musée des transports urbains, interurbains et ruraux », 1964 : Le musée, ouvert en 1964, a connu diverses implantations à Malakoff, Saint-Mandé, Colombes puis Chelles, ville qu'il a rejointe en 2007 dans un bâtiment provisoire avant une implantation définitive.",
+  "Lieu « Musée des transports urbains, interurbains et ruraux », 1998 : Devant être détruit pour laisser la place à un important programme immobilier, il ferme en 1998.",
+  "Lieu « Musée des transports urbains, interurbains et ruraux », 2002 : Mais, le projet est abandonné par la nouvelle équipe municipale élue en mars 2002 et le musée quitte la ville en 2007 laissant ainsi la place à un nouvel atelier de maintenance pour la ligne 2 du tramway d'Île-de-France.",
+  "Lieu « Musée des transports urbains, interurbains et ruraux », aujourd'hui : Ce nouveau musée qui devrait être situé avenue François Mitterrand, le long des voies ferrées sur l'emplacement de l'ancien site du SERNAM, constitue l'une des 110 initiatives de Paris Métropole.",
+  "Lieu « Fort de Chelles » : Le fort de Chelles est une fortification construite entre 1876 et 1878 à Chelles dans le département de Seine-et-Marne (région Île-de-France).",
+  "Lieu « Fort de Chelles », 1874 : Au total, ce sont 18 forts, 5 redoutes et 34 batteries qui ont été construits entre 1874 et 1881.",
+  "Lieu « Fort de Chelles », 1876 : Le fort de Chelles est une fortification construite entre 1876 et 1878 à Chelles dans le département de Seine-et-Marne (région Île-de-France).",
+  "Lieu « Fort de Chelles », 1914 : À la fin de 1914, un projecteur de 90 cm fut installé sur le fort pour la lutte antiaérienne ; s'y rajoutèrent deux canons de 75 mm anti-aérien sur plateforme en avril 1915, puis quatre autres en mars 1918 (10e batterie du 64e RAA).",
+  "Lieu « Fort de Chelles », aujourd'hui : Henri Trinquand, président de la Société archéologique et historique de Chelles, affirmait déjà en 1963 : « Des carrières, il reste surtout les multitudes et profondes galeries qui ont transformé la montagne en véritable taupinière, ce qui n'est pas sans constituer un réel danger ».",
+  "Lieu « Abbaye de Chelles » : L'abbaye de Chelles est une ancienne abbaye royale française de moniales bénédictines autrefois située à Chelles, à l'est de Paris.",
+  "Lieu « Abbaye de Chelles », 538 : À Chelles, un oratoire royal dédié à saint Georges fut bâti en 538 dans sa villa royale, par Clotilde, épouse de Clovis.",
+  "Lieu « Abbaye de Chelles », XIIe siècle : L'église Saint-Georges fut édifiée aux XIe et XIIe siècles à l’emplacement du sanctuaire construit au VIe siècle, et l'église Sainte-Croix au XIIIe siècle et remaniée au XVIe siècle.",
+  "Lieu « Abbaye de Chelles », 1792 : Elle est fermée en 1792, puis vendue en 1796 comme bien national et détruite.",
+  "Lieu « Abbaye de Chelles », aujourd'hui : Cette abbaye bénédictine de femmes a subsisté jusqu'à la Révolution française.",
+  "Lieu « Villa Max » : La villa Max est située à Chelles en Seine-et-Marne.",
+  "Lieu « Villa Max », 1849 : L'édifice s’inscrit dans le développement urbain de Chelles, consécutif de l'ouverture de la ligne de chemin de fer « Paris - Meaux - Épernay » à partir de 1849.",
+  "Lieu « Villa Max », 1850 : « L'embarcadère de Strasbourg », actuelle Gare de l'Est, est inauguré en 1850 par le président Louis-Napoléon Bonaparte, favorisant ainsi l’ouverture de nouveaux espaces urbains chellois autour de la gare : bistrots, hôtels et voituriers, quartiers d'habitation où apparaît la villa Max sur une carte de la commune en 1912.",
+  "Lieu « Villa Max », 1867 : Le jardin romantique, de style « anglo-chinois » datant de l'origine de la construction, est orné de fabriques en ciment armé dans le style de celui des Buttes-Chaumont à Paris, inauguré en avril 1867, et réalisé sur les plans d'Adolphe Alphand.",
+  "Lieu « Villa Max », aujourd'hui : Cette statue située à l’ouest du jardin est une copie en ciment armée, restaurée en 2025, d’une œuvre en marbre blanc de Christophe-Gabriel Allegrain aujourd’hui conservée au Musée du Louvre.",
+  "Lieu « Gare de Chelles - Gournay » : La gare de Chelles - Gournay est une gare ferroviaire française de la ligne de Paris-Est à Strasbourg-Ville, située sur le territoire de la commune de Chelles, proche de Gournay-sur-Marne, dans le département de Seine-et-Marne en région Île-de-France",
+  "Lieu « Gare de Chelles - Gournay », 1857 : En 1857, le bâtiment provisoire est remplacé par un édifice en pierre réalisé au sud des voies par la Compagnie des chemins de fer de l'Est qui a pris la suite de la compagnie d'origine.",
+  "Lieu « Gare de Chelles - Gournay », 1931 : C'est le passage à quatre voies de la ligne, entre les gares de Gagny et de Vaires, qui nécessite en 1931 une reprise de l'ensemble des installations, avec notamment la démolition du bâtiment de 1857 et la construction au nord des voies d'un nouvel édifice plus imposant.",
+  "Lieu « Gare de Chelles - Gournay », aujourd'hui : Un prolongement à l'Est vers Meaux, en remplacement de l'actuelle liaison Paris - Gare de l'Est/Meaux (ligne P du réseau Transilien Paris-Est), prévu par le schéma initial de la ligne E du RER, n'est pas actuellement planifié.",
+  "Lieu « Chapelle Sainte-Bathilde de Chelles » : La chapelle Sainte-Bathilde située à Chelles, dans le département français de Seine-et-Marne, en région Île-de-France, devenue trop petite pour accueillir l'ensemble des paroissiens, fut désacralisée le 7 juin 2021 puis détruite.",
+  "Lieu « Chapelle Sainte-Bathilde de Chelles », 1915 : La première chapelle fut édifiée en 1915 sur l’emplacement d’une ancienne grange louée dans une propriété boulevard de la gare.",
+  "Lieu « Chapelle Sainte-Bathilde de Chelles », 1989 : En 1989, à cause de l'état déplorable de la toiture, elle est entièrement reconstruite.",
+  "Lieu « Chapelle Sainte-Bathilde de Chelles », 2021 : La chapelle Sainte-Bathilde située à Chelles, dans le département français de Seine-et-Marne, en région Île-de-France, devenue trop petite pour accueillir l'ensemble des paroissiens, fut désacralisée le 7 juin 2021 puis détruite.",
+  "Lieu « Réserve naturelle régionale des îles de Chelles » : La réserve naturelle régionale des îles de Chelles (RNR174) est une réserve naturelle régionale située en Île-de-France.",
+  "Lieu « Réserve naturelle régionale des îles de Chelles », 1878 : Mais le mal était fait, car la bâtisse du Moulin datant de 1878 a été rasée en août 1991.",
+  "Lieu « Réserve naturelle régionale des îles de Chelles », aujourd'hui : En 2002, le régime des réserves naturelles volontaires est supprimé et remplacé par les réserves naturelles régionales."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

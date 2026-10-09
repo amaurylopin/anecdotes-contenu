@@ -1,0 +1,289 @@
+{
+ "commune": {
+  "titre": "Meaux",
+  "code_insee": "77284",
+  "departement": "77",
+  "population": 56905,
+  "lat": 48.9573,
+  "lon": 2.9035,
+  "url": "https://fr.wikipedia.org/wiki/Meaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:29:23",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3041,
+  "sortie": 1917
+ },
+ "cout_usd": 0.003004,
+ "accroche": "En 1849, l’inauguration prévue pour la Gare de Meaux est finalement repoussée au 2 septembre 1849, puis le bâtiment voyageurs est inauguré le 28 novembre 1890.",
+ "histoire": {
+  "recit": "Meaux, au cœur de la Seine-et-Marne, s’enracine dans un passé très ancien : les Meldes, peuple celte, avaient pour capitale Iantinum, devenue « Iantinum civitas Meldorum » après la conquête romaine, dont ne subsiste que le nom des Meldes. Ensuite, la ville prend celui de Meldis.\n\nPlus près de nous, la Cathédrale Saint-Étienne de Meaux s’est construite par étapes : des parties déjà en place avant 1200, puis un transept et des travées de nef édifiés à partir de 1220, avant que le chœur gothique rayonnant soit érigé entre 1253 et 1278. À quelques pas du grand souffle religieux, l’Abbaye Saint-Faron de Meaux fut fondée en 628 par Faron, avant de voir ses dernières traces disparaître définitivement en 1992-1993 avec la construction du lycée Bossuet.\n\nLa vie urbaine a aussi son rythme propre : en 1521, un cénacle est fondé à la demande de l’évêque Guillaume Briçonnet ; en 1850, un orphéon, l’Orphéon de Meaux, voit le jour. La Gare de Meaux, elle, a connu plusieurs transformations, dont une rénovation en 2011.\n\nEnfin, la mémoire se fixe dans des lieux : le Mémorial américain de Meaux, et le Musée de la Grande Guerre du pays de Meaux, inauguré le 11 novembre 2011, évoquent des traces encore visibles autour des environs de la première bataille de la Marne.",
+  "chronologie": [
+   {
+    "date": "628",
+    "texte": "L’Abbaye Saint-Faron de Meaux est fondée en 628 par Faron, dans les faubourgs nord de la ville.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1521",
+    "texte": "Le cénacle de Meaux est fondé en 1521 à la demande de l’évêque Guillaume Briçonnet par Jacques Lefèvre d’Étaples.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1850",
+    "texte": "En 1850 est fondé à Meaux un orphéon, la Société Chorale française « l'Orphéon de Meaux ».",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "L’inauguration prévue pour la Gare de Meaux est finalement repoussée au 2 septembre 1849.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1890",
+    "texte": "Le bâtiment voyageurs monumental, qui remplace la gare en bois d’origine, est inauguré le 28 novembre 1890.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "2011",
+    "texte": "La rénovation du bâtiment voyageurs de la Gare de Meaux a lieu en 2011, puis le Musée de la Grande Guerre du pays de Meaux est inauguré le 11 novembre 2011.",
+    "sources": [
+     "S19",
+     "S37"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Étienne de Meaux",
+   "histoire": "Lieu de culte catholique à Meaux, la cathédrale se construit et s’agrandit par campagnes : avant 1200, des éléments comme le déambulatoire et des chapelles rayonnantes sont déjà réalisés ; en 1220-1235, un architecte édifie le transept et les travées de nef ; et le chœur gothique rayonnant est érigé entre 1253 et 1278.",
+   "anecdotes": [
+    {
+     "texte": "Dès 1198, la veuve du comte de Champagne Henri Ier de Champagne est inhumée dans la cathédrale.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 48.96,
+   "lon": 2.87889,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_de_Meaux"
+  },
+  {
+   "nom": "Abbaye Saint-Faron de Meaux",
+   "histoire": "Ancienne abbaye bénédictine située à Meaux, fondée au VIIe siècle par Faron, alors évêque de Meaux. Une partie des bâtiments est de nouveau occupée au début du XXe siècle par une congrégation religieuse, puis les dernières traces disparaissent définitivement en 1992-1993 lors de la construction du lycée Bossuet.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 48.965066,
+   "lon": 2.884063,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Faron_de_Meaux"
+  },
+  {
+   "nom": "Gare de Meaux",
+   "histoire": "La Gare de Meaux est située sur le territoire de la commune de Meaux, sur la ligne de Paris-Est à Strasbourg-Ville. Après une ouverture repoussée au 2 septembre 1849, le bâtiment voyageurs est inauguré le 28 novembre 1890. En 2011, la façade, le hall, la toiture et les accès sont remis à neuf en conservant l’architecture existante.",
+   "anecdotes": [
+    {
+     "texte": "L’inauguration initialement prévue avant l’ouverture est finalement repoussée au 2 septembre 1849.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.958001,
+   "lon": 2.873707,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Meaux"
+  },
+  {
+   "nom": "Mémorial américain de Meaux",
+   "histoire": "Monument situé à Meaux, aussi connu sous plusieurs noms, dont La Liberté éplorée. Une première version en bronze est sculptée en 1922. La statue est ensuite inaugurée le 11 septembre 1932, et se trouve dans le nord-est de Meaux, sur la route de Varreddes.",
+   "anecdotes": [
+    {
+     "texte": "En 1922, MacMonnies sculpte une première version en bronze de la statue, conservée dans le Mémorial de la Première Guerre mondiale à Atlantic City.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "La statue est inaugurée le 11 septembre 1932 par Albert Lebrun et Édouard Herriot.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.9729,
+   "lon": 2.9048,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9morial_am%C3%A9ricain_de_Meaux"
+  },
+  {
+   "nom": "Diocèse de Meaux",
+   "histoire": "Le diocèse de Meaux est un diocèse historique d’Île-de-France, érigé au IVe siècle. Aujourd’hui, ses paroisses sont réparties en 19 « pôles missionnaires » dont Meaux figure parmi eux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.9602,
+   "lon": 2.87975,
+   "url": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Meaux"
+  },
+  {
+   "nom": "Halle du marché de Meaux",
+   "histoire": "La halle du marché se trouve sur la place du marché de Meaux. En mars 1877, le maire Louis Geoffroy décide la démolition de l’ancienne halle en bois du XVIIIe siècle et le choix d’une halle métallique de type Baltard, conçue par l’architecte Miret. Inaugurée le 25 octobre 1879, elle est immédiatement surnommée « la halle aux fromages ».",
+   "anecdotes": [
+    {
+     "texte": "Dès l’inauguration, la halle est surnommée « la halle aux fromages », car elle s’inscrivait dans un projet plus ambitieux de quatre halles.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.956509,
+   "lon": 2.8793,
+   "url": "https://fr.wikipedia.org/wiki/Halle_du_march%C3%A9_de_Meaux"
+  },
+  {
+   "nom": "Barrage de Meaux",
+   "histoire": "Le Barrage de Meaux enjambe la Marne entre Meaux et Villenoy. Construit en 1937 et mis en service en 1939, il fait aujourd’hui l’objet d’un projet de remplacement visant à le moderniser.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.952396,
+   "lon": 2.874991,
+   "url": "https://fr.wikipedia.org/wiki/Barrage_de_Meaux"
+  },
+  {
+   "nom": "Musée de la Grande Guerre du pays de Meaux",
+   "histoire": "Le Musée de la Grande Guerre du pays de Meaux est un musée territorial consacré à la Première Guerre mondiale, situé à Meaux. Il est inauguré le 11 novembre 2011. La première bataille de la Marne, avec un million et demi de soldats dans les environs de Meaux, y a laissé des traces encore visibles, notamment des cimetières militaires français d’Étrepilly et de Chambry et une grande tombe à Villeroy.",
+   "anecdotes": [
+    {
+     "texte": "La première bataille de la Marne, décrite comme ayant opposé un million et demi de soldats dans les environs de Meaux, a laissé de nombreuses traces encore visibles aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.971499,
+   "lon": 2.904249,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Grande_Guerre_du_pays_de_Meaux"
+  }
+ ],
+ "sources": [
+  "Meaux (prononcé [mo]) est une commune française située dans le département de Seine-et-Marne en région Île-de-France. Avec 56 905 habitants au dernier recensement, Meaux est la commune la plus peuplée du département de Seine-et-Marne. Ancienne capitale de la Brie et du Multien, Meaux est au centre d'une agglomération de 81 613 habitants en 2020, et de la communauté d'agglomération du pays de Meaux, peuplée de 108 […]",
+  "Les Meldes (Lat. Meldi), peuple celte, avait fait de Iantinum leur capitale. Après la conquête romaine, de « Iantinum civitas Meldorum » seul le nom des Meldes subsiste et la ville prend le nom de Meldis. La cité gallo-romaine de Iantinum fut établie sous le Haut Empire suivant un quadrillage orthogonal s'étendant de la Marne au sud jusqu'au quartier Saint-Faron au nord, c'est-à-dire dans l'ancien méandre de la […]",
+  "1521 : Ainsi, le cénacle de Meaux fut fondé en 1521 à la demande de l'évêque Guillaume Briçonnet par son ami et humaniste Jacques Lefèvre d'Étaples alors que Jean Leclerc y prêche dès 1523.",
+  "1850 : En 1850 est fondé à Meaux un orphéon : la Société Chorale française « l'Orphéon de Meaux ».",
+  "1920 : Ces moulins brûleront le 17 juin 1920 et ne seront jamais reconstruits.",
+  "Lieu « Cathédrale Saint-Étienne de Meaux » : La cathédrale Saint-Étienne de Meaux est un lieu de culte catholique situé à Meaux, dans le département français de Seine-et-Marne en région Île-de-France.",
+  "Lieu « Cathédrale Saint-Étienne de Meaux », 1198 : Dès 1198, la veuve du comte de Champagne Henri Ier de Champagne fut inhumée dans la cathédrale, et avant 1200, le déambulatoire, trois chapelles rayonnantes, les doubles bas-côtés du chœur et l'étage des tribunes situé au-dessus des bas-côtés intérieurs étaient construits.",
+  "Lieu « Cathédrale Saint-Étienne de Meaux », 1220 : Un nouvel architecte édifia le transept et les deux dernières travées de la nef de 1220 à 1235, et déjà en 1235, la chapelle du bas-côté droit de la nef, située au niveau de la dernière travée fut créée.",
+  "Lieu « Cathédrale Saint-Étienne de Meaux », 1253 : Le chœur actuel, de style gothique rayonnant, fut érigé entre 1253 et 1278 par Gautier de Varinfroy.",
+  "Lieu « Cathédrale Saint-Étienne de Meaux », aujourd'hui : Ce contrat, conservé actuellement, mentionne un salaire de 10 livres par an, plus certains autres avantages.",
+  "Lieu « Abbaye Saint-Faron de Meaux » : L'abbaye Saint-Faron de Meaux est une ancienne abbaye bénédictine située à Meaux, en Île-de-France.",
+  "Lieu « Abbaye Saint-Faron de Meaux », 628 : Fondée en 628 par Faron, elle est alors située dans les faubourgs nord de la ville.",
+  "Lieu « Abbaye Saint-Faron de Meaux », VIIe siècle : L'abbaye est fondée au VIIe siècle par Faron, alors évêque de Meaux, qui la place dans la filiation de l'abbaye de Luxeuil.",
+  "Lieu « Abbaye Saint-Faron de Meaux », XXe siècle : Une partie des bâtiments est à nouveau occupée par une congrégation religieuse au début du XXe siècle.",
+  "Lieu « Abbaye Saint-Faron de Meaux », aujourd'hui : Les dernières traces de l'abbaye disparaissent définitivement en 1992-1993 avec la construction du lycée Bossuet.",
+  "Lieu « Gare de Meaux » : La gare de Meaux est une gare ferroviaire française de la ligne de Paris-Est à Strasbourg-Ville, située sur le territoire de la commune de Meaux, dans le département de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Gare de Meaux », 1849 : L'inauguration prévue initialement avant cette ouverture est finalement repoussée au 2 septembre 1849.",
+  "Lieu « Gare de Meaux », 1890 : Le monumental bâtiment voyageurs, qui remplace la gare en bois d'origine, est inauguré le 28 novembre 1890.",
+  "Lieu « Gare de Meaux », 2011 : Le bâtiment voyageurs de la gare de Meaux fait l'objet d'une rénovation en 2011 : la façade, le hall, la toiture, ainsi que les accès sont remis à neuf tout en conservant l'architecture existante.",
+  "Lieu « Gare de Meaux », aujourd'hui : À terme, il est prévu que la gare de Meaux devienne le terminus de la ligne E du RER en remplacement de l'actuelle liaison Paris – Meaux via Chelles.",
+  "Lieu « Mémorial américain de Meaux » : Le Mémorial américain, également connu sous les noms de La Liberté éplorée (Liberty in Distress), monument américain ou monument de Varredes, est un monument situé à Meaux, en France.",
+  "Lieu « Mémorial américain de Meaux », 1922 : MacMonnies sculpte en 1922 une première version en bronze de la statue, à l'échelle du corps humain, conservée dans le Mémorial de la Première Guerre mondiale (en) construit la même année à Atlantic City aux États-Unis.",
+  "Lieu « Mémorial américain de Meaux », 1932 : La statue, dont la construction prend 14 ans, est inaugurée le 11 septembre 1932 par le président français Albert Lebrun, le président de la chambre des députés Édouard Herriot et des membres de l'association des amis américains de la France et du corps des ambulanciers de l'American Field Service.",
+  "Lieu « Mémorial américain de Meaux », 2011 : La statue est située dans le nord-est de Meaux, sur la route de Varreddes, à proximité du Musée de la Grande Guerre du pays de Meaux construit en 2011.",
+  "Lieu « Diocèse de Meaux » : Le diocèse de Meaux (en latin : Dioecesis Meldensis) est un diocèse de l'Église catholique en France, suffragant de l'archidiocèse métropolitain de Paris.",
+  "Lieu « Diocèse de Meaux », IVe siècle : Érigé au IVe siècle, c'est l'un des diocèses historiques d'Île-de-France.",
+  "Lieu « Diocèse de Meaux », IVe siècle : Le diocèse de Meaux est érigé au IVe siècle.",
+  "Lieu « Diocèse de Meaux », aujourd'hui : Actuellement, les 551 paroisses du diocèse sont réparties en 19 « pôles missionnaires » : Dammartin en Goële, Lizy-La-Ferté, Rive de l'Ourcq, Chelles, Bussy-Lagny, Provins, Noisiel, Val d'Europe, Meaux, Coulommiers, Ferté sous Jouarre, Provins, Mormant, Pontault Combault, Brie Comte Robert, Melun, Montereau Fault Yonne, Fontainebleau, Nemours.",
+  "Lieu « Halle du marché de Meaux » : La halle du marché, est une halle située sur la place du marché de Meaux en Seine-et-Marne en France.",
+  "Lieu « Halle du marché de Meaux », 1877 : En mars 1877, le maire de Meaux, Louis Geoffroy, décide de démolir l'ancienne halle en bois du XVIIIe siècle tombée en ruine et opte pour la construction d'une halle métallique de type Baltard, conçue par l'architecte Miret.",
+  "Lieu « Halle du marché de Meaux », 1879 : Immédiatement surnommée « la halle aux fromages » car elle s'inscrivait dans un projet plus ambitieux de quatre halles, celle-ci est inaugurée le 25 octobre 1879.",
+  "Lieu « Halle du marché de Meaux », 1879 : La halle métallique de type « Baltard » a été édifiée en 1879.",
+  "Lieu « Barrage de Meaux » : Le barrage de Meaux enjambe la Marne entre Meaux et Villenoy.",
+  "Lieu « Barrage de Meaux », 1937 : Il fut construit en 1937 et mis en service en 1939.",
+  "Lieu « Barrage de Meaux », aujourd'hui : De ce fait, un projet de remplacement est en cours pour moderniser le barrage.",
+  "Lieu « Musée de la Grande Guerre du pays de Meaux » : Le musée de la Grande Guerre du pays de Meaux (parfois désigné par le sigle MGG) est un musée territorial consacré à la Première Guerre mondiale.",
+  "Lieu « Musée de la Grande Guerre du pays de Meaux », 2011 : Il est situé à Meaux en France, à 50 kilomètres à l'est de Paris et a été inauguré le 11 novembre 2011.",
+  "Lieu « Musée de la Grande Guerre du pays de Meaux », aujourd'hui : La première bataille de la Marne qui a opposé un million et demi de soldats dans les environs de Meaux a laissé de nombreuses traces encore visibles aujourd’hui : cimetières militaires français d’Étrepilly et de Chambry, grande tombe de Villeroy…"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}

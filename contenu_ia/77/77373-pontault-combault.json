@@ -1,0 +1,66 @@
+{
+ "commune": {
+  "titre": "Pontault-Combault",
+  "code_insee": "77373",
+  "departement": "77",
+  "population": 39096,
+  "lat": 48.80136,
+  "lon": 2.60752,
+  "url": "https://fr.wikipedia.org/wiki/Pontault-Combault"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:41:31",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1019,
+  "sortie": 449
+ },
+ "cout_usd": 0.000765,
+ "accroche": "Pontault-Combault est formée en 1839 par la fusion des communes de Pontault et de Combault, dans le département de Seine-et-Marne.",
+ "histoire": {
+  "recit": "Pontault-Combault naît en 1839, quand les communes de Pontault et de Combault se rassemblent en une seule. À Combault, on se souvient d’une période singulière : le maréchal François Joseph Lefebvre y aurait tenu la mairie entre 1813 et 1820.\n\nSon nom reste accroché à une histoire plus large, car Lefebvre était l’époux de Catherine Hubscher, rendue célèbre sous le surnom de « Madame Sans-Gêne » par Victorien Sardou. Plus tard, la ville change d’échelle : dans la fin des années 1960, un « petit grand ensemble » s’élève au centre, le long de l’avenue du Pré-Saint-Martin, porté par l’OCIL, un bailleur social impliqué dans la collecte du 1 % patronal.",
+  "chronologie": [
+   {
+    "date": "1839",
+    "texte": "La commune est formée par la fusion des communes de Pontault et de Combault.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1813-1820",
+    "texte": "Le maréchal François Joseph Lefebvre est maire de Combault.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "fin des années 1960",
+    "texte": "Un « petit grand ensemble » est construit au centre de la ville, le long de l’avenue du Pré-Saint-Martin, à l’initiative de l’OCIL.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Pontault-Combault est une commune française située dans le département de Seine-et-Marne en région Île-de-France. Pontault-Combault est la quatrième ville la plus peuplée du département après Meaux, Chelles et Melun et avant Savigny-le-Temple.",
+  "La commune est formée en 1839 par fusion des communes de Pontault et de Combault. L'une des gloires de Combault fut d'avoir eu le maréchal François Joseph Lefebvre pour maire entre 1813 et 1820. Lefebvre était l'époux de Catherine Hubscher, popularisée sous le nom de « Madame Sans-Gêne » par Victorien Sardou dans la pièce de théâtre du même nom. L'évolution de la commune depuis le début du XXe siècle est typique des […]",
+  "1960 : Plus tard, à la fin des années 1960, un « petit grand ensemble » est construit au centre de la ville, le long de l'avenue du Pré-Saint-Martin, à l'initiative du bailleur social l'OCIL (organisme chargé de la collecte du 1 % patronal)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,335 @@
+{
+ "commune": {
+  "titre": "Melun",
+  "code_insee": "77288",
+  "departement": "77",
+  "population": 45995,
+  "lat": 48.5421,
+  "lon": 2.6552,
+  "url": "https://fr.wikipedia.org/wiki/Melun"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:35:40",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3646,
+  "sortie": 1822
+ },
+ "cout_usd": 0.003007,
+ "accroche": "En 1404, le couvent des Carmes est fondé dans le quartier du Vieux Marché, grâce au soutien de la reine, à Melun.",
+ "histoire": {
+  "recit": "À Melun, l’île a longtemps rendu la défense facile : des instruments de pierre trouvés dans la ville et ses environs laissent penser à une agglomération très ancienne. La ville, partie du pays des Sénons et “enfermée dans l’île”, s’est ensuite bâtie au rythme des reprises et des constructions.\n\nLe quartier du Vieux Marché voit naître, en 1404, le couvent des Carmes. Puis vient le temps des coups de force : en 1432, les Anglais reprennent la ville, avant une libération définitive en 1435.\n\nAu fil des siècles, la vie religieuse s’étoffe. En 1606, des Récollets et des Capucins s’installent, suivis des Visitandines en 1635 puis des Ursulines en 1642. Plus loin, le château royal, déjà utilisé comme prison et garnison, finit par être délaissé au XVIIe siècle, et ses fortifications cèdent au milieu du XVIIIe siècle pour permettre l’aménagement du port.\n\nLa ville change aussi de visage avec les ponts : au nord, le pont de pierre de 1836 à 1838, au sud, le pont de fer en 1837. La gare renforce encore l’accès à Paris avec la ligne de Corbeil-Essonnes à Montereau en 1897. Et le 4 novembre 1913, une catastrophe ferroviaire endeuille Melun, là même où les trains continuent de circuler.",
+  "chronologie": [
+   {
+    "date": "1404",
+    "texte": "Le couvent des Carmes est fondé dans le quartier du Vieux Marché, avec le soutien de la reine.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1432",
+    "texte": "La ville est reprise par les Anglais.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1435",
+    "texte": "La libération devient définitive.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1594",
+    "texte": "Dantan, geôlier du Petit Châtelet, est pendu et brûlé sur la place du Vieux Marché.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1606",
+    "texte": "Des couvents sont fondés dans la ville : Récollets et Capucins.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1635",
+    "texte": "Les Visitandines fondent un couvent dans la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1642",
+    "texte": "Les Ursulines fondent un couvent dans la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le château royal est délaissé au XVIIe siècle.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "milieu du XVIIIe siècle",
+    "texte": "Les fossés sont remblayés et les fortifications démolies pour aménager le port.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1836-1838",
+    "texte": "Au nord, un pont de pierre est construit (actuel pont Jeanne-d’Arc).",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1837",
+    "texte": "Au sud, le pont de fer est construit (actuel pont Général-Leclerc).",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "L’établissement des eaux est inauguré : les pompes remplacent des puits publics non protégés.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1897",
+    "texte": "L’ouverture de la ligne de Corbeil-Essonnes à Montereau donne un second accès à Paris.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1900",
+    "texte": "Des ensembles pour la cavalerie (quartier Pajol) et l’infanterie (caserne Augereau) sont érigés.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "25 février 1848",
+    "texte": "La République est proclamée et une municipalité “République” est installée.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "4 novembre 1913",
+    "texte": "Une catastrophe ferroviaire fait 41 morts à Melun.",
+    "sources": [
+     "S44"
+    ]
+   },
+   {
+    "date": "1950",
+    "texte": "Le pont actuel est inauguré (pont Jeanne-d’Arc), après des reconstructions depuis une présence dès la période gallo-romaine.",
+    "sources": [
+     "S43"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Aspais de Melun",
+   "histoire": "Église catholique paroissiale située sur la rive droite de la Seine, Saint-Aspais a connu l’édification d’un nouveau clocher au nord de la façade et la construction du chœur au début du XVIe siècle, avant d’être achevée vers 1556.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Saint-Aspais est aujourd’hui la principale église paroissiale de Melun.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.539009,
+   "lon": 2.65934,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Aspais_de_Melun"
+  },
+  {
+   "nom": "Château de Melun",
+   "histoire": "Château royal installé sur la pointe de l’île Saint-Étienne : il sert un temps de prison et de lieu de garnison, puis tombe en ruine avec des destructions signalées et des incendies de tours.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château royal de Melun est aujourd’hui entièrement détruit, à l’emplacement de la pointe de l’île Saint-Étienne.",
+   "sources": [
+    "S20",
+    "S21",
+    "S7",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.536389,
+   "lon": 2.658056,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Melun"
+  },
+  {
+   "nom": "Collégiale Notre-Dame de Melun",
+   "histoire": "Ancienne collégiale sur l’île Saint-Étienne, rue de la Courtille : fondée entre 1016 et 1031, elle présente encore des parties du bâti ancien, et son orgue a connu un parcours particulier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, l’orgue de la collégiale a la singularité d’avoir été auparavant un orgue de salon.",
+   "sources": [
+    "S25",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.53543,
+   "lon": 2.66024,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame_de_Melun"
+  },
+  {
+   "nom": "Prieuré Saint-Sauveur",
+   "histoire": "Édifice situé sur l’île Saint-Étienne, rue Saint-Étienne : l’église est abandonnée à la fin du XVIIe siècle et transformée en grenier à sel, tandis que le cloître subit des destructions par phases.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges du prieuré sont inscrits à l’inventaire des monuments historiques depuis 1946.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S34"
+   ],
+   "lat": 48.5362,
+   "lon": 2.65789,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Saint-Sauveur"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Melun",
+   "histoire": "Bâtiment de la fin du XIXe siècle : sur un site où existaient auparavant deux maisons particulières, il associe plusieurs opérations, dont la construction d’un “hôtel du Chapeau rouge” en 1723.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S39"
+   ],
+   "lat": 48.539078,
+   "lon": 2.658806,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Melun"
+  },
+  {
+   "nom": "Pont Jeanne-d'Arc (Melun)",
+   "histoire": "Pont reliant les rives de la Seine à Melun : un pont de pierre construit de 1836 à 1838 succède à un pont médiéval, puis le pont de pierre est détruit lors de la Libération avant que le pont actuel soit inauguré en 1950.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le pont actuel est inauguré en 1950.",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.537324,
+   "lon": 2.658795,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Jeanne-d%27Arc_%28Melun%29"
+  },
+  {
+   "nom": "Catastrophe ferroviaire de Melun du 4 novembre 1913",
+   "histoire": "Le 4 novembre 1913, une catastrophe ferroviaire survient dans la ville chef-lieu et cause la mort de quarante et une personnes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S44"
+   ],
+   "lat": 48.52597,
+   "lon": 2.658284,
+   "url": "https://fr.wikipedia.org/wiki/Catastrophe_ferroviaire_de_Melun_du_4_novembre_1913"
+  },
+  {
+   "nom": "Gare de Melun",
+   "histoire": "Gare des lignes de Paris-Lyon à Marseille-Saint-Charles et de Corbeil-Essonnes à Montereau, située sur le territoire de Melun : le bâtiment historique connaît des transformations puis rénovations, avant une démolition progressive de l’ancien bâtiment voyageurs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’ancien bâtiment voyageurs est entièrement démoli de décembre 2023 à mars 2024.",
+   "sources": [
+    "S48",
+    "S49",
+    "S50",
+    "S51"
+   ],
+   "lat": 48.527358,
+   "lon": 2.654716,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Melun"
+  }
+ ],
+ "sources": [
+  "Melun (prononcé : /mə.lœ̃/) est une commune française située dans le département de Seine-et-Marne, dont elle est le siège de la préfecture, en région Île-de-France. Elle est la troisième ville la plus peuplée du département après Meaux et Chelles et avant Pontault-Combault.",
+  "Des armes, des instruments de pierre qui ont été trouvés dans la ville et dans les environs permettent de penser qu'il est probable que Melun fut le siège d'une agglomération de population dans les temps les plus anciens. La situation de l'île qui rendait la défense si facile et la proximité des forêts devait en faire un endroit recherché. La ville faisait partie du pays des Sénons, elle était enfermée dans l'île […]",
+  "1404 : En 1404, le couvent des Carmes est fondé dans le quartier du Vieux Marché (site de l'actuel tribunal administratif) grâce au soutien de la reine.",
+  "1432 : Elle fut toutefois reprise par les Anglais en 1432, pour n'être définitivement libérée qu'en 1435.",
+  "1594 : En 1594, Dantan, geôlier du Petit Châtelet, qui avait participé à différents crimes, est pendu et brûlé sur cette même place.",
+  "1606 : Plusieurs couvents sont alors fondés dans la ville : Récollets en 1606, Capucins en 1606, Visitandines en 1635, Ursulines en 1642.",
+  "XVIIe siècle : Le château, abandonné par les rois et utilisé comme prison et lieu de garnison, est délaissé au XVIIe siècle.",
+  "XVIIIe siècle : Au milieu du XVIIIe siècle, ses fossés sont remblayés et ses fortifications démolies, pour permettre l'aménagement du port.",
+  "1793 : Toutefois trois jours après son arrivée, il est arrêté, transféré à Paris où il est guillotiné le 12 novembre 1793, après un procès expéditif.",
+  "1830 : Les ponts sur la Seine sont reconstruits dans les années 1830 : au nord, le « pont de pierre » (actuel pont Jeanne-d'Arc) en 1836-1838 et au sud, le « pont de fer » (actuel pont Général-Leclerc) en 1837.",
+  "1848 : Le 25 février 1848, la République est proclamée et une municipalité République est installée.",
+  "1860 : L'établissement des eaux est inauguré en 1860 ; ses pompes sont substituées aux puits publics non protégés des souillures de leurs eaux.",
+  "1897 : L'ouverture de la ligne de Corbeil-Essonnes à Montereau en 1897 offre un second accès à Paris.",
+  "1900 : Elle est remplacée par deux ensembles destinés à la cavalerie (quartier Pajol) et à l'infanterie (caserne Augereau) érigés en 1900 sur les hauteurs au nord de la ville.",
+  "Lieu « Église Saint-Aspais de Melun » : L'église Saint-Aspais est une église catholique paroissiale située à Melun, en France, sur la rive droite de la Seine.",
+  "Lieu « Église Saint-Aspais de Melun », 1480 : D'abord, un nouveau clocher est bâti au nord de la façade, et terminé vers 1480.",
+  "Lieu « Église Saint-Aspais de Melun », 1517 : La construction du nouveau chœur est lancée le 23 mars 1517, sous la direction du maître-maçon parisien Jehan de Félin, qui fournit également un plan pour la reconstruction totale de l'église, y compris la nef bâtie à peine dix ans plus tôt.",
+  "Lieu « Église Saint-Aspais de Melun », 1546 : En 1546, le maître-maçon local Jehan François continue les travaux en se conformant au plan de son prédécesseur, et l'église est achevée vers 1556.",
+  "Lieu « Église Saint-Aspais de Melun », aujourd'hui : Saint-Aspais est aujourd'hui la principale église paroissiale de Melun.",
+  "Lieu « Château de Melun » : Le château royal de Melun est une ancienne résidence des rois de France, aujourd'hui entièrement détruite, qui était située sur la pointe de l'île Saint-Étienne, à Melun, dans l'actuel département de la Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Château de Melun », 1456 : Parmi les prisonniers de marque incarcérés à Melun, on trouve le duc Jean d’Alençon en 1456, l’amiral de Brion en 1539, François de Coligny en 1558, etc. L'édifice est délaissé à partir du XVIIe siècle.",
+  "Lieu « Château de Melun », 1639 : La ruine des tours (signalée dès 1639) et les destructions dues à l’explosion d’un magasin à poudre (1647) provoquent la levée en 1660 d’un impôt de 40 000 livres sur la généralité de Paris, consacré entre autres aux réparations au château.",
+  "Lieu « Château de Melun », 1674 : Cependant, les destructions se poursuivent : en 1674 et en 1692, deux tours sont détruites par un incendie.",
+  "Lieu « Château de Melun », aujourd'hui : Le château royal de Melun est une ancienne résidence des rois de France, aujourd'hui entièrement détruite, qui était située sur la pointe de l'île Saint-Étienne, à Melun, dans l'actuel département de la Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Collégiale Notre-Dame de Melun » : La collégiale Notre-Dame de Melun est une ancienne collégiale située rue de la Courtille à Melun sur l'île Saint-Étienne.",
+  "Lieu « Collégiale Notre-Dame de Melun », Xe siècle : Ces importantes tours flanquant le chœur appartiennent à un ensemble d'importants édifices religieux du Xe siècle, dont Saint-Germain-des-Prés, Morienval ou Saint-Leu-d'Esserent et d'églises de l'Oise, marquant les domaines capétiens.",
+  "Lieu « Collégiale Notre-Dame de Melun », 1016 : La collégiale Notre-Dame de Melun fut fondée entre 1016 et 1031 par le roi de France Robert II le Pieux à l'emplacement d'une précédente église Notre-Dame.",
+  "Lieu « Collégiale Notre-Dame de Melun », 1031 : En 1031, la nef, les bas-côtés, le transept et la base des clochers, encore visibles aujourd'hui, sont déjà bâtis.",
+  "Lieu « Collégiale Notre-Dame de Melun », aujourd'hui : Avant d’être un orgue de tribune, celui de la collégiale de Melun fut un orgue de salon, ce qui lui confère aujourd’hui une singularité particulière.",
+  "Lieu « Prieuré Saint-Sauveur » : Le prieuré Saint-Sauveur est un édifice situé sur l'île Saint-Étienne, rue Saint-Étienne, à Melun.",
+  "Lieu « Prieuré Saint-Sauveur », XVIIe siècle : L'église est abandonnée à la fin du XVIIe siècle et transformé en grenier à sel.",
+  "Lieu « Prieuré Saint-Sauveur », XIXe siècle : Le cloître est détruit en plusieurs phases successives au XIXe siècle et XXe siècle.",
+  "Lieu « Prieuré Saint-Sauveur », 1869 : La chapelle est démolie en 1869 pour permettre l’élargissement de la rue du Château.",
+  "Lieu « Prieuré Saint-Sauveur », aujourd'hui : Ses vestiges sont inscrits à l'inventaire des monuments historiques depuis 1946.",
+  "Lieu « Hôtel de la Caisse d'épargne de Melun » : L'hôtel de la Caisse d'épargne est un bâtiment de la fin du XIXe siècle situé à Melun, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Melun », 1723 : L'une d'elles est l'hôtel dit du Chapeau rouge, construit en 1723 par Nicolas Charlot, puis remanié vers 1810 par Jean-Baptiste Chamblain.",
+  "Lieu « Hôtel de la Caisse d'épargne de Melun », XIXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment de la fin du XIXe siècle situé à Melun, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Melun », 1888 : En 1888, un concours pour la construction d'un hôtel de la Caisse d'épargne est ouvert jusqu'au 15 avril.",
+  "Lieu « Hôtel de la Caisse d'épargne de Melun », aujourd'hui : À cet emplacement étaient autrefois établies deux maisons particulières.",
+  "Lieu « Pont Jeanne-d'Arc (Melun) » : Le pont Jeanne-d'Arc est un pont franchissant la Seine à Melun, en Seine-et-Marne, France.",
+  "Lieu « Pont Jeanne-d'Arc (Melun) », 1836 : Un pont de pierre – construit de 1836 à 1838 – succède au pont du Moyen Âge tombé en ruine avant la Révolution française et démoli en 1837.",
+  "Lieu « Pont Jeanne-d'Arc (Melun) », 1944 : Lors de la Libération de Melun du 22 au 25 août 1944, le pont de pierre est détruit.",
+  "Lieu « Pont Jeanne-d'Arc (Melun) », 1950 : Attestant la présence à Melun d'un franchissement entre île Saint-Étienne et la rive droite dès la période gallo-romaine, il est plusieurs fois reconstruit depuis, le pont actuel étant inauguré en 1950.",
+  "Lieu « Catastrophe ferroviaire de Melun du 4 novembre 1913 » : La catastrophe ferroviaire de Melun du 4 novembre 1913 a eu lieu dans la ville chef-lieu du département de Seine-et-Marne et a causé la mort de quarante et une personnes.",
+  "Lieu « Catastrophe ferroviaire de Melun du 4 novembre 1913 », 1854 : L'itinéraire historique, ouvert en 1854, passait par Brunoy en suivant la rive droite du fleuve, qu'il franchissait à Melun pour se diriger vers Montereau par Fontainebleau.",
+  "Lieu « Catastrophe ferroviaire de Melun du 4 novembre 1913 », 1914 : Lors du procès, ouvert le 18 mars 1914, la mauvaise visibilité des signaux fut reléguée au rang de question secondaire lorsqu'il apparut que le comportement, jusque-là irréprochable, de Jules Dumaine témoignait, depuis quelque temps, d'un certain relâchement.",
+  "Lieu « Catastrophe ferroviaire de Melun du 4 novembre 1913 », 1991 : La justesse de leurs objections fut tragiquement confirmée soixante-dix-huit ans plus tard, le 17 octobre 1991, lorsqu'à peu près au même endroit un train de marchandises venant de la ligne de Corbeil-Essonnes franchit un signal fermé et heurta de front un train de nuit venant de Nice, faisant seize morts.",
+  "Lieu « Gare de Melun » : La gare de Melun est une gare ferroviaire française des lignes de Paris-Lyon à Marseille-Saint-Charles et de Corbeil-Essonnes à Montereau, située sur le territoire de la commune de Melun, dans le département de Seine-et-Marne, en région Île-de-France",
+  "Lieu « Gare de Melun », 1979 : En 1979, le bâtiment historique est arasé d'un étage et reçoit une nouvelle façade.",
+  "Lieu « Gare de Melun », 2012 : En 2012, une nouvelle rénovation est achevée incluant une nouvelle façade, une nouvelle charte graphique et des équipements plus récents pour tous les accès voyageurs existants depuis l'extérieur.",
+  "Lieu « Gare de Melun », 2023 : De décembre 2023 à mars 2024, l'ancien bâtiment voyageurs est entièrement démoli."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
