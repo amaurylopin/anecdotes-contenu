@@ -1,0 +1,294 @@
+{
+ "commune": {
+  "titre": "Trappes",
+  "code_insee": "78621",
+  "departement": "78",
+  "population": 34689,
+  "lat": 48.7775,
+  "lon": 2.0025,
+  "url": "https://fr.wikipedia.org/wiki/Trappes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:45:35",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2970,
+  "sortie": 2013
+ },
+ "cout_usd": 0.00311,
+ "accroche": "Le 6 mars 1944, Trappes est détruite à 71 % par des bombardements alliés visant les installations ferroviaires, faisant plus de 100 victimes.",
+ "histoire": {
+  "recit": "À Trappes, le passé s’est installé très tôt : le site est habité dès l’époque néolithique, avec des indices comme trois haches de pierre et un bracelet de bronze trouvés au lieu-dit le Petit Mont. Puis le village entre dans l’ombre des conflits : au XIVe siècle, Trappes est occupé et pillé durant la guerre de Cent Ans, jusqu’au pillage mené en 1356 par Édouard de Woodstock, dit le « Prince noir ». En 1358, pendant la Jacquerie, des notables sont envoyés pour incendier le manoir du chevalier Jean Rigaud, capitaine de la forteresse de Trappes.\n\nLe fer, lui, finit par décider du rythme. En 1908, après le rachat par l’État de la Compagnie des chemins de fer de l’Ouest, la ville vit une grande mutation. En 1911, la construction d’un dépôt et d’une nouvelle gare de triage en fait un centre ferroviaire majeur. Le bombardement du 6 mars 1944 marque aussi brutalement le paysage, avec une destruction à 71 % et plus de 100 victimes.\n\nPlus tard, Trappes continue de se raconter par ses rails : une rame TGV est baptisée le 6 octobre 1984, et un sémaphore est installé en 1985 sur le rond-point de la Fourche, près de la gare et de l’ancien dépôt ferroviaire.",
+  "chronologie": [
+   {
+    "date": "XIVe siècle",
+    "texte": "Trappes, alors village, est occupé et pillé au cours de la guerre de Cent Ans.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1356",
+    "texte": "Édouard de Woodstock, dit le « Prince noir », mène ses troupes au pillage de Trappes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "été 1358",
+    "texte": "Pendant la Jacquerie, Étienne Marcel et des chefs insurgés envoient des notables pour incendier le manoir du chevalier Jean Rigaud.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "À la mort de son père, Adolphe Dailly prend la direction des fermes de Trappes et de Bois-d’Arcy, ainsi que d’activités de transport.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "20 septembre 1870 - 11 mars 1871",
+    "texte": "Trappes est occupée par environ 1 400 hommes de troupe de l’armée prussienne.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1908",
+    "texte": "La grande mutation commence en 1908, après le rachat par l’État de la Compagnie des chemins de fer de l’Ouest.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "6 mars 1944",
+    "texte": "Bombardements alliés visant les installations ferroviaires : Trappes est détruite à 71 % et compte plus de 100 victimes.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "6 octobre 1984",
+    "texte": "Une rame TGV est baptisée du nom de la ville de Trappes.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "Un sémaphore est installé sur le rond-point de la Fourche en hommage à la relation de la ville avec son histoire ferroviaire.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ferme du château de Trappes",
+   "histoire": "Ancienne ferme implantée à Trappes sur les ruines d’un château du XIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En 1356, le « Prince Noir » mène ses troupes au pillage de Trappes, déjà ravagé auparavant.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "Vers 1920, la dernière tourelle surmontant l’entrée est abattue, après une description d’ensemble faite à une époque où le château était flanqué de onze tourelles.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, la prison se repère par les marques de barreaux visibles aux fenêtres, dans les deux tourelles où étaient la salle d’audience et la prison.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On localise aujourd’hui la prison par les marques de barreaux aux fenêtres, dans deux tourelles contiguës.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.77833,
+   "lon": 1.99917,
+   "url": "https://fr.wikipedia.org/wiki/Ferme_du_ch%C3%A2teau_de_Trappes"
+  },
+  {
+   "nom": "Gare de Trappes",
+   "histoire": "Gare ferroviaire sur le territoire de Trappes, sur la ligne de Paris-Montparnasse à Brest.",
+   "anecdotes": [
+    {
+     "texte": "En 1849, la gare de Trappes est inaugurée le 5 juillet, tandis que le tronçon vers la gare de Chartres est mis en service le 12 juillet.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "En 1911, pour faire face à la saturation de Versailles-Matelots, un dépôt et une nouvelle gare de triage sont construits à Trappes.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Aux abords de la gare, une cité ouvrière apparaît : Les Dents de Scie, construite en 1931, vise à loger des cheminots et leurs familles.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.775028,
+   "lon": 2.006665,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Trappes"
+  },
+  {
+   "nom": "Église Saint-Georges de Trappes",
+   "histoire": "L’église Saint-Georges a été édifiée entre le IXe et le XIIe siècle, avec un clocher dont le sort marque les événements récents.",
+   "anecdotes": [
+    {
+     "texte": "En 1599, le clocher vétuste s’effondre ; il est réparé et recouvert de tuiles en 1602.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "En 1701-1703, l’église, jugée en état lamentable, est démolie puis reconstruite.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seul subsiste de l’édifice originel le clocher, tour quadrangulaire pseudo-romane, qui a résisté aux bombardements du 1er juin 1944.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 48.77833,
+   "lon": 1.99917,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Georges_de_Trappes"
+  },
+  {
+   "nom": "Étang de Saint-Quentin",
+   "histoire": "Étang situé sur Trappes et Montigny-le-Bretonneux, au sein de la ville nouvelle de Saint-Quentin-en-Yvelines.",
+   "anecdotes": [
+    {
+     "texte": "De 1676 à 1691, les travaux de l’étang sont surveillés par Jean Pinson de Sainte Catherine, ingénieur et contrôleur des bâtiments du roi, installé à Trappes pour le projet.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    },
+    {
+     "texte": "Au départ, l’étang est connu comme l’étang de Trappes ; plus tard, il prend le nom d’étang de Saint-Quentin, lié à une chapelle dont les reliques auraient été accueillies.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S30"
+     ]
+    },
+    {
+     "texte": "Le dispositif sert aussi à alimenter en eau le parc de Versailles, et il est parfois dénommé aujourd’hui la « rivière du Roi Soleil ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ce dispositif d’alimentation en eau du parc de Versailles est parfois dénommé aujourd’hui la « rivière du Roi Soleil ».",
+   "sources": [
+    "S31"
+   ],
+   "lat": 48.7875,
+   "lon": 2.01667,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tang_de_Saint-Quentin"
+  },
+  {
+   "nom": "Les Dents de Scie",
+   "histoire": "Cité ouvrière construite en 1931 à Trappes, à proximité de la gare, pour loger des cheminots et leurs familles.",
+   "anecdotes": [
+    {
+     "texte": "Une inscription a permis une réhabilitation des bâtiments en 1997 par l’architecte Antoine Grumbach, pour les bâtiments universitaires de Guyancourt.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.777,
+   "lon": 2.00684,
+   "url": "https://fr.wikipedia.org/wiki/Les_Dents_de_Scie"
+  }
+ ],
+ "sources": [
+  "Trappes est une commune française située dans le département des Yvelines, en région Île-de-France.",
+  "Le site fut habité dès l'époque néolithique. Certaines hypothèses ont été vérifiées par des découvertes, dont trois haches de pierres, différents tessons gallo-romains et un bracelet de bronze au lieu-dit le Petit Mont, au fond à droite de la cour du château de Trappes. Certaines de ces découvertes qui figurent sur la carte archéologique de Seine-et-Oise dressée par la commission des antiquités en 1889, sont […]",
+  "XIVe siècle : Au XIVe siècle, Trappes (Trapes) est un village occupé et pillé au cours de la guerre de Cent Ans.",
+  "1356 : En 1356, Édouard de Woodstock dit le « Prince noir » mène ses troupes au pillage de Trappes, déjà fortement ravagé par Bouchard IV de Montmorency.",
+  "1358 : Pendant l'été 1358, durant la Jacquerie, Étienne Marcel et les chefs insurgés de Paris envoient des notables, Pierre Gilles, épicier, et Pierre des Barres, orfèvre, pour incendier le manoir du chevalier Jean Rigaud, capitaine de la forteresse de Trappes.",
+  "1567 : En 1567 et 1568, Martial de Loménie, seigneur de Versailles, fut emprisonné selon le \"Lemouzi\" de janvier 1910, organe mensuel de l’École Limousine Félibréenne\" visible sur Gallica.bnf, à cause de ses sympathies envers les Bourbons, en particulier pour le futur Henri IV et de sa religion.",
+  "1849 : À la mort de son père, en 1849, Adolphe Dailly, jusque-là principalement occupé par sa terre d'Étuf, prend la direction des fermes de Trappes et de Bois-d'Arcy, ainsi que de la poste aux chevaux de Paris et de plusieurs autres entreprises de transports.",
+  "1870 : Lors de la Guerre franco-allemande de 1870, du 20 septembre 1870 au 11 mars 1871, Trappes est occupée par environ 1 400 hommes de troupe de l'armée prussienne, les officiers étant logés et nourris à la ferme du Château, le propriétaire, Émile Pluchet, maire de Trappes, y ayant été contraint.",
+  "1908 : La grande mutation se fait dès 1908, après le rachat par l'État de la Compagnie des chemins de fer de l'Ouest qui gère la ligne Paris-Brest (via Chartres et Rennes, ce fait est à l'origine de l'afflux massif de cheminot[Quoi ?]s dans les années 1920 lorsque l'importance de la gare de triage, construite en 1911, s'affirmera.",
+  "1921 : En 1921, le monument aux morts de la guerre 1914-1918 est inauguré, situé sur l'actuelle route nationale 10 à la jonction des rues Carnot et Montfort.",
+  "1944 : Lors de la Seconde Guerre mondiale, la ville est détruite à 71 % par les bombardements alliés du 6 mars 1944 visant les installations ferroviaires et font plus de 100 victimes.",
+  "1984 : Le 6 octobre 1984, une rame TGV est baptisée du nom de la ville de Trappes et en 1985, un sémaphore est installé sur le rond-point de la Fourche, qui marque une entrée de la ville et qui se trouve à quelques pas de la gare et de l'ancien dépôt ferroviaire, en hommage à la relation particulière que la ville entretient avec son histoire et le chemin de fer.",
+  "Lieu « Ferme du château de Trappes » : La ferme du château de Trappes est une ancienne ferme implantée à Trappes dans les Yvelines sur les ruines d'un château du XIIIe siècle.",
+  "Lieu « Ferme du château de Trappes », 1356 : Le « Prince Noir », Edward Plantagenet, dit Édouard de Woodstock Brackembury, en 1356, mène ses troupes au pillage de Trappes (déjà fortement ravagé par Bouchard IV de Montmorency).",
+  "Lieu « Ferme du château de Trappes », XVIIe siècle : Il fut successivement la propriété de plusieurs abbayes royales, du Monastère Notre-Dame d'Argenteuil, de l'Abbaye de Saint-Denis puis des dames de la Maison royale de Saint-Louis à Saint-Cyr, et sera transformé en ferme dès la fin du XVIIe siècle.",
+  "Lieu « Ferme du château de Trappes », 1920 : Le château était constitué de plusieurs corps de logis avec une cour au milieu, fermée de murs et flanqué de onze tourelles (la dernière tourelle surmontant l'entrée est abattue vers 1920), entouré de fossés remplis d'eau avec un pont-levis.",
+  "Lieu « Ferme du château de Trappes », aujourd'hui : La salle d’audience et la prison se trouvaient dans deux tourelles contigües, on localise aujourd’hui, la prison par les marques de barreaux aux fenêtres.",
+  "Lieu « Gare de Trappes » : La gare de Trappes est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune de Trappes, dans le département des Yvelines, en région Île-de-France.",
+  "Lieu « Gare de Trappes », 1849 : La gare est inaugurée le 5 juillet 1849 et le tronçon entre la gare de Versailles-Chantiers et la gare de Chartres est mis en service le 12 juillet 1849.",
+  "Lieu « Gare de Trappes », 1911 : En 1911, la gare de triage de Versailles-Matelots est saturée ; pour y remédier, il est construit à Trappes un dépôt et une nouvelle gare de triage qui en font l'un des centres ferroviaires les plus importants de France.",
+  "Lieu « Gare de Trappes », 1931 : Les Dents de Scie sont une cité ouvrière construite en 1931, à proximité de la gare, afin de loger des cheminots et leurs familles.",
+  "Lieu « Gare de Trappes », aujourd'hui : La desserte de cette gare pourrait être bientôt améliorée puisqu'il est prévu de prolonger le RER C (branche C7) jusqu'à la gare de Coignières (le RER C a actuellement pour terminus la gare de Saint-Quentin-en-Yvelines).",
+  "Lieu « Église Saint-Georges de Trappes » : L'église Saint-Georges est située en France, à Trappes dans les Yvelines.",
+  "Lieu « Église Saint-Georges de Trappes », XIIe siècle : L'église Saint-Georges de Trappes a été édifiée entre le IXe et le XIIe siècle.",
+  "Lieu « Église Saint-Georges de Trappes », 1599 : En 1599, le clocher vétuste s’effondra et fut réparé et recouvert de tuiles en 1602.",
+  "Lieu « Église Saint-Georges de Trappes », 1700 : Aux environs de 1700, l’église qui présentait un état lamentable est démolie et reconstruite de 1701 à 1703.",
+  "Lieu « Église Saint-Georges de Trappes », aujourd'hui : Seul subsiste de l'édifice originel, le clocher, tour quadrangulaire pseudo-romane pourvue de quatre contreforts d'angles, qui a résisté aux bombardements du 1er juin 1944.",
+  "Lieu « Étang de Saint-Quentin » : L'étang de Saint-Quentin est situé sur les communes de Trappes et de Montigny-le-Bretonneux (quartier du Pas-du-lac) dans les Yvelines, au sein de la ville nouvelle de Saint-Quentin-en-Yvelines.",
+  "Lieu « Étang de Saint-Quentin », 1676 : Les travaux durèrent de 1676 à 1691, ils étaient surveillés par Jean Pinson de Sainte Catherine, ingénieur et contrôleur des bâtiments du roi, qui, pour les besoins du projet, s'était installé à Trappes.",
+  "Lieu « Étang de Saint-Quentin », 1780 : Il était initialement connu sous le nom d'étang de Trappes (plus tard, il prendra le nom d'étang de Saint-Quentin, du nom d'une chapelle, (démolie en 1780) qui aurait accueilli les reliques de saint Quentin).",
+  "Lieu « Étang de Saint-Quentin », aujourd'hui : Ce dispositif général pour alimenter en eau le parc de Versailles est quelquefois dénommé aujourd'hui la « rivière du Roi Soleil ».",
+  "Lieu « Les Dents de Scie » : Les Dents de Scie sont une cité ouvrière construite en 1931 à Trappes dans les Yvelines.",
+  "Lieu « Les Dents de Scie », 1931 : Les Dents de Scie sont une cité ouvrière construite en 1931 à Trappes dans les Yvelines.",
+  "Lieu « Les Dents de Scie », 1997 : Cette inscription a permis une réhabilitation des bâtiments en 1997 par, l'architecte Antoine Grumbach, des bâtiments universitaires de Guyancourt."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 12
+ }
+}

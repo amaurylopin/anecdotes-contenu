@@ -1,0 +1,324 @@
+{
+ "commune": {
+  "titre": "Mantes-la-Jolie",
+  "code_insee": "78361",
+  "departement": "78",
+  "population": 43526,
+  "lat": 48.99083333,
+  "lon": 1.71722222,
+  "url": "https://fr.wikipedia.org/wiki/Mantes-la-Jolie"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:37:50",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3647,
+  "sortie": 2643
+ },
+ "cout_usd": 0.004033,
+ "accroche": "Le 11 août 1346, lors de la chevauchée d’Édouard III, Mantes est prise et pillée à Mantes-la-Jolie, une ville sur la rive gauche de la Seine.",
+ "histoire": {
+  "recit": "Mantes-la-Jolie s’impose très tôt comme un lieu d’échanges : sur la rive gauche de la Seine, carrefour de voies fluviales et terrestres, elle apparaît très tôt comme une place de commerce. Sous Rome, la région connaît un passage de légions, et Mantes sert de carrefour important sur des voies allant de Lutetia à Mediolanum, en passant par la ville.\n\nAu Moyen Âge, la ville se dote d’ouvrages pour contrôler l’accès à la Seine : une motte castrale est attestée vers 825 sur le mont Éclair. Les sièges et ravages se succèdent : des attaques normandes sont évoquées à plusieurs reprises, et, le 11 août 1346, Mantes est prise et pillée ; le 5 février 1419, elle se rend faute de vivres, avant de rester sous domination anglaise jusqu’en 1449.\n\nPlus tard, une bascule se fait sentir : en 1739, une grande partie des fortifications est démolie sur ordre de Louis XV ; en 1843, l’ouverture de la ligne de chemin de fer Paris-Rouen relance l’attractivité. La ville est aussi marquée par des événements plus inattendus, comme le ballon-poste États-Unis qui finit sa course à Mantes-la-Jolie après un trajet de 58 kilomètres.\n\nAujourd’hui, plusieurs lieux racontent ces couches : Gassicourt avec son église romane, la collégiale Notre-Dame au bord de la Seine, le Val Fourré, et les grands repères comme le Pont Neuf de Mantes, le musée de l’Hôtel-Dieu, la gare et le lycée Jean-Rostand.",
+  "chronologie": [
+   {
+    "date": "Sous Rome",
+    "texte": "La région est comprise dans la IVe Lugdunaise, et des objets trouvés lors de fouilles laissent supposer le passage de légions romaines ; Mantes devient un carrefour des voies de Lutetia à Mediolanum.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 825",
+    "texte": "Une motte castrale est construite sur le mont Éclair pour défendre l’accès à la Seine.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "865",
+    "texte": "Des ravages attribués aux Normands sont rapportés, la liste citant aussi 876, 878, 885 et 887.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "11 août 1346",
+    "texte": "Lors de la chevauchée d’Édouard III, Mantes est prise et pillée.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "5 février 1419",
+    "texte": "Assiégée, Mantes se rend par faute de vivres ; la ville reste sous domination anglaise jusqu’en 1449.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1739",
+    "texte": "Une grande partie des fortifications est démolie sur ordre de Louis XV.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1843",
+    "texte": "L’ouverture de la ligne de chemin de fer entre Paris et Rouen et l’installation de nouvelles industries relancent l’attractivité de Mantes.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "26 septembre 1870",
+    "texte": "Le ballon-poste États-Unis s’envole de l’usine à gaz de La Villette à Paris et termine sa course à Mantes-la-Jolie après 58 kilomètres.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Sainte-Anne de Gassicourt",
+   "histoire": "Église paroissiale catholique de style roman à Mantes-la-Jolie. Un ensemble de documents décrit le prieuré de Gassicourt lié à l’abbaye de Cluny, avant des traces conservées dans l’édifice aujourd’hui : trois verrières narratives et deux verrières hagiographiques.",
+   "anecdotes": [
+    {
+     "texte": "La tradition locale fait remonter à un saint un épisode autour de 536, où il aurait dressé l’église actuelle Saint-Maclou après une transformation en hospice.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les trois verrières narratives et les deux verrières hagiographiques figurent parmi les principales richesses de l’église.",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 49.002246,
+   "lon": 1.697779,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Anne_de_Gassicourt"
+  },
+  {
+   "nom": "Collégiale Notre-Dame de Mantes-la-Jolie",
+   "histoire": "Ancienne collégiale des XIIe et XIIIe siècles, en bord de Seine. La tour nord est reconstruite après un effondrement (1492-1508), puis encore au XIXe siècle (1851-1855) ; le 30 mai 1944, un bombardement aérien détruit une grande partie du vieux centre, avec un objectif près du pont de Mantes.",
+   "anecdotes": [
+    {
+     "texte": "Dans la nef, on distingue une trace de litre funéraire.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On voit dans la nef la trace d’une litre funéraire.",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 48.990304,
+   "lon": 1.720266,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame_de_Mantes-la-Jolie"
+  },
+  {
+   "nom": "Le Val Fourré",
+   "histoire": "Quartier de Mantes-la-Jolie, décrit comme l’un des plus grands quartiers prioritaires français. Il accueille de nombreux logements construits à partir de 1959 et une ZUP est créée en 1959. La population atteint un pic avant des démolitions engagées dès 1992.",
+   "anecdotes": [
+    {
+     "texte": "La création de la ZUP en 1959 est présentée comme une idée préférée par la municipalité, en lieu et place du principe de ville nouvelle choisi par l’État.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le Val Fourré compte aujourd’hui 6 100 logements.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 49.000576,
+   "lon": 1.686627,
+   "url": "https://fr.wikipedia.org/wiki/Le_Val_Fourr%C3%A9"
+  },
+  {
+   "nom": "Pont Neuf de Mantes",
+   "histoire": "Pont routier franchissant la Seine de Mantes-la-Jolie à Limay, long de 405 mètres. Un nouveau pont de Limay est inauguré le 30 octobre 1943 ; en 1944, un pont Bailey provisoire est installé en attendant la reconstruction côté Mantes. L’ouverture à la circulation a lieu le 23 septembre 1951.",
+   "anecdotes": [
+    {
+     "texte": "En août 1944, un pont Bailey posé sur des barges est installé provisoirement en travers du bras de Seine navigable.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.99181,
+   "lon": 1.72161,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Neuf_de_Mantes"
+  },
+  {
+   "nom": "Musée de l'Hôtel-Dieu",
+   "histoire": "Musée situé sur la route des peintres impressionnistes, à quelques kilomètres de Giverny. Un premier Hôtel-Dieu existe au XIe siècle et est détruit lors du sac de 1087 ; la façade de style classique est ensuite édifiée avec des motifs sculpturaux au XVIIe siècle. L’Hôtel-Dieu est placé à l’emplacement actuel au XIVe siècle, sous le règne de Charles V.",
+   "anecdotes": [
+    {
+     "texte": "Le sac de 1087 mené par Guillaume le Conquérant détruit l’Hôtel-Dieu de Mantes.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.9901391,
+   "lon": 1.7194536,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27H%C3%B4tel-Dieu"
+  },
+  {
+   "nom": "Église Saint-Maclou de Mantes",
+   "histoire": "Église paroissiale de la ville de Mantes. Selon la tradition mantaise, elle serait liée à l’Hôtel Dieu : bâtie originellement vers le début du XIe siècle, vers 1015. Des travaux sont entrepris au cours de la première moitié du XVIe siècle, puis le chœur s’effondre en 1693, provoquant l’émoi de la population.",
+   "anecdotes": [
+    {
+     "texte": "En 1693, le chœur menace de ruine après des signes dès la fin du XVIe siècle, puis s’effondre finalement en plein émoi de la population mantaise.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.99098,
+   "lon": 1.7175,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maclou_de_Mantes"
+  },
+  {
+   "nom": "Lycée Jean-Rostand (Mantes-la-Jolie)",
+   "histoire": "Lycée polyvalent situé 66 rue Fernand-Bodet. Construit entre 1955 et 1967 sous la direction de Raymond Lopez, il est labellisé bâtiment « Architecture contemporaine remarquable » après un recensement effectué par la région Île-de-France. L’espace central de l’atelier reste ouvert sans cloisons jusqu’aux années 2000, et l’emplacement relie le cœur de ville médiéval au quartier du Val Fourré.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 48.997956,
+   "lon": 1.696659,
+   "url": "https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Jean-Rostand_%28Mantes-la-Jolie%29"
+  },
+  {
+   "nom": "Gare de Mantes-la-Jolie",
+   "histoire": "Gare ferroviaire de la ligne de Paris-Saint-Lazare au Havre, située sur les territoires de plusieurs communes de l’aire mantaise. La gare est mise en service le 9 mai 1843. Une convention cadre de partenariat signée en 2009 prévoit la création d’un transport collectif en site propre de type bus à haut niveau de service reliant la gare de Mantes-la-Jolie à Rosny-sur-Seine ; la ligne nouvelle Paris - Normandie est annoncée pour rapprocher Le Havre de Paris.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La ligne nouvelle Paris - Normandie mettra Le Havre à seulement 1 h 15 min de Paris, contre 2 h actuellement.",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 48.9896873515,
+   "lon": 1.7032941813,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Mantes-la-Jolie"
+  }
+ ],
+ "sources": [
+  "Mantes-la-Jolie [prononcé : mɑ̃t la ʒoli] est une commune française, chef-lieu d'arrondissement du département des Yvelines, dans la région Île-de-France. C'est une ville moyenne, située sur la rive gauche de la Seine, à 44 km à l'ouest de Paris. Carrefour de voies fluviales et terrestres, Mantes apparut très tôt comme un lieu de commerce et d’échanges, mais également, à l’époque médiévale, comme une place forte […]",
+  "Sous Rome, la région fait partie de la Gaule lyonnaise et est comprise dans la IVe Lugdunaise. Des médailles d'Auguste, d'Antonin, de Marc Aurèle ainsi que d'autres objets trouvés lors de fouilles laissent supposer que la région fut traversée par des légions romaines. Mantes était un carrefour important des voies romaines en Gaule allant de : de Lutetia à Mediolanum, par Mantes, en passant par le plateau des […]",
+  "536 : En 306, celui ci aurait été transformé en hospice et confié au saint, lequel, pourtant réputé mort en 536, y aurait alors dressé son église, l'actuelle église Saint Maclou.",
+  "825 : Au début du IXe siècle, vers la fin de l'époque carolingienne, une motte castrale, attestée vers 825, est construite sur le mont Éclair afin de défendre l'accès à la Seine.",
+  "865 : Bien que les documents historiques ne permettent pas de l'affirmer, les Normands remontant ou descendant la Seine auraient plusieurs fois ravagé la ville et le pays comme en 865, 876, 878, 885, 887…",
+  "1346 : En effet, le 11 août 1346, lors de la chevauchée d'Édouard III, Mantes est prise et pillée.",
+  "1419 : Le 5 février 1419, assiégée, Mantes se rend par faute de vivres et reste sous domination anglaise jusqu'en 1449.",
+  "1739 : La plus grande partie des fortifications est démolie en 1739 sur ordre de Louis XV.",
+  "1843 : L’ouverture en 1843 de la ligne de chemin de fer entre Paris et Rouen et l’installation de nouvelles industries dans la région relance l’attractivité de Mantes.",
+  "1870 : Le 26 septembre 1870, le ballon-poste États-Unis s'envole de l'usine à gaz de La Villette à Paris alors assiégé et termine sa course à Mantes-la-Jolie après avoir parcouru 58 kilomètres.",
+  "Lieu « Église Sainte-Anne de Gassicourt » : L'église Sainte-Anne de Gassicourt est une église catholique paroissiale de style roman située à Mantes-la-Jolie, en France.",
+  "Lieu « Église Sainte-Anne de Gassicourt », 1119 : Une charte signée par le roi Louis le Gros en 1119 mentionne le prieuré de Gassicourt parmi les possessions de l'abbaye de Cluny placées sous protection royale.",
+  "Lieu « Église Sainte-Anne de Gassicourt », 1295 : En 1295, treize prieurés clunisiens, dont Gassicourt, sont érigés en prieuré-doyennés par une bulle pontificale de Boniface VIII.",
+  "Lieu « Église Sainte-Anne de Gassicourt », 1669 : Un bail signé avec un laboureur en 1669 permet de savoir que l'effectif du prieuré se compose alors du prieur claustral et de quatre autres moines.",
+  "Lieu « Église Sainte-Anne de Gassicourt », aujourd'hui : Les trois verrières narratives avec leurs nombreux médaillons, et les deux verrières hagiographiques avec leurs huit effigies de saints font aujourd'hui l'une des principales richesses de l'église.",
+  "Lieu « Collégiale Notre-Dame de Mantes-la-Jolie » : La collégiale Notre-Dame de Mantes-la-Jolie est une ancienne collégiale des XIIe et XIIIe siècles située à Mantes-la-Jolie (Yvelines, France) en bord de Seine.",
+  "Lieu « Collégiale Notre-Dame de Mantes-la-Jolie », 1492 : L'étage supérieur de la tour nord a été reconstruit de 1492 à 1508 après un effondrement.",
+  "Lieu « Collégiale Notre-Dame de Mantes-la-Jolie », 1851 : De 1851 à 1855, la tour nord est reconstruite sous la direction d'Alphonse Durand (arz), architecte de Mantes-la-Jolie, élève de Viollet-le-Duc, à l'identique de la tour sud, outrepassant quelque peu le principe d'une restauration.",
+  "Lieu « Collégiale Notre-Dame de Mantes-la-Jolie », 1944 : Le 30 mai 1944, un important bombardement aérien allié, visant le pont de Mantes, détruit une grande partie du vieux centre de Mantes-la-Jolie.",
+  "Lieu « Collégiale Notre-Dame de Mantes-la-Jolie », aujourd'hui : On voit dans la nef la trace d'une litre funéraire.",
+  "Lieu « Le Val Fourré » : Le Val Fourré est un quartier de la commune de Mantes-la-Jolie dans le département des Yvelines, l'un des plus grands quartiers prioritaires français.",
+  "Lieu « Le Val Fourré », 1959 : 8 200 logements y ont été construits de 1959 à 1977, sous la direction des architectes-urbanistes Raymond Lopez, Henri Longepierre et M. Gojard.",
+  "Lieu « Le Val Fourré », 1959 : Le 3 août 1959 est signé le décret portant la création de la ZUP du Val Fourré, cette idée ayant été préférée par la municipalité de l'époque en lieu et place du principe de ville nouvelle choisi par l'État.",
+  "Lieu « Le Val Fourré », 1992 : Le quartier du Val Fourré a concentré jusqu'à 28 000 habitants avant les premières démolitions de tours entamées dès 1992, sous le mandat de Paul Picard (maire PS de 1977 à 1995).",
+  "Lieu « Le Val Fourré », aujourd'hui : Le Val Fourré compte aujourd'hui 6 100 logements.",
+  "Lieu « Pont Neuf de Mantes » : Le pont Neuf de Mantes est un pont routier qui franchit la Seine de Mantes-la-Jolie à Limay sur une longueur de 405 mètres.",
+  "Lieu « Pont Neuf de Mantes », 1943 : Le 30 octobre 1943, le nouveau pont de Limay, reconstruit avec une chaussée élargie grâce à des dalles de béton armé posées en encorbellement, est inauguré.",
+  "Lieu « Pont Neuf de Mantes », 1944 : En août 1944, un pont Bailey posé sur des barges est provisoirement installé en travers du bras de Seine navigable, en attendant la reconstruction du pont côté Mantes.",
+  "Lieu « Pont Neuf de Mantes », 1951 : Il est ouvert à la circulation le 23 septembre 1951 et l'inauguration officielle a lieu le 6 décembre suivant.",
+  "Lieu « Pont Neuf de Mantes », aujourd'hui : Il est remplacé par un pont de bateaux, puis par un pont provisoire en bois en septembre 1871.",
+  "Lieu « Musée de l'Hôtel-Dieu » : Le musée de l'Hôtel-Dieu est un musée situé sur la route des peintres impressionnistes, à quelques kilomètres de Giverny.",
+  "Lieu « Musée de l'Hôtel-Dieu », 1087 : A Mantes-la-Jolie, un premier Hôtel-Dieu existait au XIe siècle mais fut détruit lors du sac de 1087 mené par Guillaume le Conquérant.",
+  "Lieu « Musée de l'Hôtel-Dieu », XVIIe siècle : La façade de style classique fut en revanche, édifiée avec des motifs sculpturaux raffinés qui témoignent de l’architecture du XVIIe siècle à Mantes-la-Jolie.",
+  "Lieu « Musée de l'Hôtel-Dieu », 1672 : Le dôme surmontant l’entrée édifié en 1672 par le maître charpentier Maillard, ainsi que le fronton cintré de la façade comportant un bas-relief de l’Annonciation ont toutefois disparu.",
+  "Lieu « Musée de l'Hôtel-Dieu », aujourd'hui : C'est au XIVe siècle, sous le règne de Charles V, que l'Hôtel-Dieu fut placé au plus près de la Collégiale Notre-Dame, à l’emplacement actuel.",
+  "Lieu « Église Saint-Maclou de Mantes » : L'église Saint-Maclou était l'une des églises paroissiales de la ville de Mantes.",
+  "Lieu « Église Saint-Maclou de Mantes », 1015 : Bâtie originellement vers le début du XIe siècle, vers 1015, l'église Saint-Maclou était, selon la tradition mantaise, l'Hôtel Dieu de la ville.",
+  "Lieu « Église Saint-Maclou de Mantes », XVIe siècle : De nombreux travaux furent entrepris au cours de la première moitié du XVIe siècle : le chœur fut refait et la tour fut construite.",
+  "Lieu « Église Saint-Maclou de Mantes », 1693 : Le chœur menaçait ruine dès la moitié du XVIIe siècle après des signes avant coureurs à la fin du XVIe siècle, et s'effondra finalement en 1693, au grand émoi de la population mantaise.",
+  "Lieu « Église Saint-Maclou de Mantes », aujourd'hui : Entre 1810 et 1828 eurent lieu d'innombrables tractations car la municipalité souhaitait acquérir l'emplacement de l'église pour élargir la rue qui la longeait malgré le refus du propriétaire.",
+  "Lieu « Lycée Jean-Rostand (Mantes-la-Jolie) » : Le lycée Jean-Rostand de Mantes-la-Jolie est un lycée polyvalent situé 66 rue Fernand-Bodet, à Mantes-la-Jolie.",
+  "Lieu « Lycée Jean-Rostand (Mantes-la-Jolie) », 1955 : Construit entre 1955 et 1967 sous la direction de Raymond Lopez, il a été labellisé bâtiment « Architecture contemporaine remarquable » à la suite d'un recensement effectué par la région Ile de France .",
+  "Lieu « Lycée Jean-Rostand (Mantes-la-Jolie) », 2000 : L’espace central de l’atelier reste ouvert, sans cloisons jusqu’aux années 2000.",
+  "Lieu « Lycée Jean-Rostand (Mantes-la-Jolie) », aujourd'hui : Cet emplacement lui permet de faire le lien entre le cœur de ville médiéval de Mantes-la-Jolie et le quartier du Val Fourré qui était encore sous forme de plan à la naissance de l’établissement.",
+  "Lieu « Gare de Mantes-la-Jolie » : La gare de Mantes-la-Jolie est une gare ferroviaire française de la ligne de Paris-Saint-Lazare au Havre, située sur les territoires des communes de Mantes-la-Jolie, Mantes-la-Ville et Buchelay, dans le département des Yvelines, en région Île-de-Fran",
+  "Lieu « Gare de Mantes-la-Jolie », 1843 : La gare est mise en service le 9 mai 1843 avec l'ouverture de la voie entre la gare de La Garenne-Colombes et la gare de Rouen.",
+  "Lieu « Gare de Mantes-la-Jolie », 2009 : Une convention cadre de partenariat, signée en 2009 entre les villes de Mantes-la-Jolie et de Rosny-sur-Seine afin d'aménager un écoquartier entre ces deux villes, prévoit la création d'un transport collectif en site propre (TCSP) de type bus à haut niveau de service qui devrait relier la gare de Mantes-la-Jolie à celle de Rosny-sur-Seine.",
+  "Lieu « Gare de Mantes-la-Jolie », aujourd'hui : La ligne nouvelle Paris - Normandie mettra Le Havre à seulement 1 h 15 min de Paris, contre 2 h actuellement."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen",
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}
