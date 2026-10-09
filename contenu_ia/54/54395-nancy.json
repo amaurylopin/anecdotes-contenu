@@ -1,0 +1,281 @@
+{
+ "commune": {
+  "titre": "Nancy",
+  "code_insee": "54395",
+  "departement": "54",
+  "population": 103671,
+  "lat": 48.6881,
+  "lon": 6.1734,
+  "url": "https://fr.wikipedia.org/wiki/Nancy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:20:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4169,
+  "sortie": 2684
+ },
+ "cout_usd": 0.004189,
+ "accroche": "Au XIe siècle, Nancy naît avec l’édification d’un château féodal par Gérard d’Alsace.",
+ "histoire": {
+  "recit": "Nancy, sur les rives de la Meurthe, a grandi au rythme des guerres et des reconstructions. Le premier noyau vient d’un château féodal, élevé au cours du XIe siècle par Gérard d’Alsace. Au XIIe siècle, une commanderie s’installe en rase campagne près de l’étang Saint-Jean. La ville subit ensuite les violences : en 1218, elle est totalement incendiée lors de la Guerre de Succession de Champagne, puis, en 1633, une partie des édifices de la commanderie est détruite pendant le siège de Nancy par les troupes françaises du roi Louis XIII. Plus tard, au cours de la démolition des fortifications, dix compagnies du régiment des Gardes françaises se rendent à Nancy en 1661. Le XIXe siècle englobe les bâtiments de la commanderie dans de nouveaux édifices, sauf l’ancien clocher. En 1870, l’occupation commence le 16 août ; Nancy n’est libérée que le 1er août 1873, après le paiement anticipé des indemnités de guerre. Le cœur de la ville conserve, autour de ses grands lieux, les traces de ces métamorphoses.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "La naissance de Nancy est liée à l’édification d’un château féodal par Gérard d’Alsace.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1140",
+    "texte": "La commanderie est édifiée en rase campagne, à proximité de l’étang Saint-Jean, entre Laxou et Nancy.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1218",
+    "texte": "La ville est totalement incendiée au cours de la Guerre de Succession de Champagne, sous le règne du duc Thiébaud Ier, par l’empereur Frédéric II de Hohenstaufen.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1633",
+    "texte": "Lors du siège de Nancy par les troupes françaises du roi Louis XIII, une partie des édifices de la commanderie est détruite.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1661",
+    "texte": "Dix compagnies du régiment des Gardes françaises se rendent à Nancy pour contribuer à la démolition des fortifications.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "À partir du 16 août 1870, Nancy est occupée ; en septembre 1871, elle devient le siège du commandement de l’armée d’occupation au palais du Gouvernement.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "Nancy est libérée le 1er août 1873, à la suite du paiement anticipé par la France des indemnités de guerre prévues par le traité de Francfort.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Place Stanislas",
+   "histoire": "La place Stanislas appartient à un ensemble urbain classique situé à Nancy ; elle est inscrite au patrimoine mondial de l’UNESCO depuis 1983. Au milieu du XVIIe siècle, une vaste esplanade sépare la Ville-Vieille et la Ville-Neuve construite par Charles III en 1588. La place est voulue par le duc de Lorraine Stanislas Leszczyński et construite entre 1751 et 1755 sous la direction de l’architecte Emmanuel Héré.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Inscrite au patrimoine mondial de l’UNESCO depuis 1983.",
+   "sources": [
+    "S15",
+    "S16",
+    "S18"
+   ],
+   "lat": 48.693611111111,
+   "lon": 6.1833333333333,
+   "url": "https://fr.wikipedia.org/wiki/Place_Stanislas"
+  },
+  {
+   "nom": "Gare de Nancy-Ville",
+   "histoire": "La gare de Nancy-Ville, anciennement appelée gare de « Nancy-Saint-Jean », est une gare ferroviaire française située à proximité du centre-ville. La première ligne Nancy-Frouard-Metz est inaugurée le 10 juillet 1850, puis la ligne Nancy-Lunéville s’ouvre début 1852 et la ligne Paris-Nancy-Strasbourg le 18 juillet. Le bâtiment voyageurs est terminé en 1856 et a ensuite été agrandi plusieurs fois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis le 10 juin 2001, le train Corail de jour Metz – Nice est remplacé par un aller-retour en TGV à l’occasion de l’ouverture de la LGV Méditerranée.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.689722,
+   "lon": 6.173611,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Nancy-Ville"
+  },
+  {
+   "nom": "Palais des ducs de Lorraine - Musée lorrain",
+   "histoire": "Le palais des ducs de Lorraine – Musée lorrain est créé à Nancy en 1850 par l’initiative de la Société d’archéologie lorraine. En 1739, Stanislas Leszczynski fait don des bâtiments du palais à la Ville de Nancy. Le palais engagé dans un projet de rénovation ferme au public en 2018 : l’église des Cordeliers reste ouverte à la visite. La partie méridionale du palais, édifiée par le duc Antoine Ier de Lorraine, demeure visible aujourd’hui en bordure de la Grande rue.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le palais ducal a fermé ses portes au public en 2018, l’église des Cordeliers restant ouverte à la visite.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.69694,
+   "lon": 6.18028,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_ducs_de_Lorraine_-_Mus%C3%A9e_lorrain"
+  },
+  {
+   "nom": "Musée de l'École de Nancy",
+   "histoire": "Le musée de l’École de Nancy est consacré au courant artistique de l’Art nouveau nancéien. Il est installé dans une grosse maison bourgeoise construite à la fin du XIXe siècle et au début du XXe siècle, qui a appartenu à Eugène Corbin. L’Art décoratif est ensuite créé en 1900 par délibération du conseil municipal de Nancy et installé en 1901 dans une salle du musée de Peinture et de Sculpture. Aménagé dans l’ancienne propriété d’Eugène Corbin, le musée est ouvert au public en 1964 sous sa forme actuelle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les dessins ne sont pas exposés en permanence, mais sont régulièrement visibles lors d’expositions.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.680278,
+   "lon": 6.165833,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27%C3%89cole_de_Nancy"
+  },
+  {
+   "nom": "Bibliothèque Stanislas (Nancy)",
+   "histoire": "La bibliothèque Stanislas est le siège de la bibliothèque municipale de Nancy, une bibliothèque classée. Elle déménage en 1763 à l’hôtel de ville, dans le salon carré inauguré quelques années auparavant. En 1770, les travaux commencent sous la direction de Charles-Louis de Montluisant, avec des boiseries transportées par bateau depuis l’ancienne université de Pont-à-Mousson et installées au premier étage de l’Université en 1775. En 1803, bâtiment et institution reviennent en totalité à la municipalité de Nancy.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La collection fait partie du fonds d’illustrateurs et de graveurs lorrains anciens et contemporains et est régulièrement enrichie par de nouveaux achats.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 48.69194,
+   "lon": 6.17889,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_Stanislas_%28Nancy%29"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame-de-l'Annonciation de Nancy",
+   "histoire": "La cathédrale primatiale Notre-Dame-de-l’Annonciation et Saint-Sigisbert de Nancy est une cathédrale catholique située place Monseigneur-Ruch. La construction de l’actuel édifice commence en 1703 sous le règne du duc Léopold Ier de Lorraine, et est poursuivie par le roi de Pologne Stanislas Leszczynski. À la croisée du transept, une coupole est décorée d’une fresque dédiée à la « gloire céleste », exécutée par Claude Jacquart entre 1723 et 1727. Deux chapelles latérales reçoivent des grilles de Jean Lamour réalisées entre 1751 et 1755.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.69125,
+   "lon": 6.18625,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-l%27Annonciation_de_Nancy"
+  },
+  {
+   "nom": "Église des Cordeliers de Nancy",
+   "histoire": "L’église des Cordeliers de Nancy, officiellement église Saint-François-des-Cordeliers, se trouve dans la Vieille-Ville de Nancy, juste à côté du palais des ducs de Lorraine dont elle héberge les tombeaux de. Construite sous le règne de René II de Lorraine après la bataille de Nancy contre Charles le Téméraire, elle est consacrée en 1487. En 1743, elle devient la nécropole des ducs de Lorraine. Au XIXe siècle, des stalles de bois provenant de l’abbaye de Salival et datant de 1691 sont installées dans le chœur. Aujourd’hui, l’église reste affectée au culte dans le cadre de la paroisse Saint-Epvre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’église reste affectée au culte dans le cadre de la paroisse Saint-Epvre.",
+   "sources": [
+    "S45",
+    "S46",
+    "S48",
+    "S47",
+    "S49"
+   ],
+   "lat": 48.6978,
+   "lon": 6.17944,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_des_Cordeliers_de_Nancy"
+  },
+  {
+   "nom": "Place d'Alliance",
+   "histoire": "La place Alliance est une place de Nancy due à l’architecte Emmanuel Héré. Elle se situe à l’est de l’ensemble urbanistique construit dans les années 1750, proche de la place Stanislas, distante de 150 mètres, au sein du quartier Charles III – Centre-Ville. Dans la nuit du 17 au 18 octobre 1782, un incendie a lieu sur la place d’Alliance et consume l’hôtel d’Alsace.",
+   "anecdotes": [
+    {
+     "texte": "Un incendie, dans la nuit du 17 au 18 octobre 1782, consume l’hôtel d’Alsace sur la place d’Alliance.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S52"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des tilleuls furent plantés sur le pourtour de la place en 1763 et certains sont toujours visibles aujourd’hui.",
+   "sources": [
+    "S50",
+    "S51",
+    "S52",
+    "S54"
+   ],
+   "lat": 48.693819444444,
+   "lon": 6.1863194444444,
+   "url": "https://fr.wikipedia.org/wiki/Place_d%27Alliance"
+  }
+ ],
+ "sources": [
+  "Nancy (prononcé : /nɑ̃.si/) est une commune de Meurthe-et-Moselle, en Lorraine (région Grand Est). Nancy est située sur les rives de la Meurthe à quelques kilomètres en amont de sa confluence avec la Moselle. Située à 47 km au sud de Metz, à 75 km du massif des Vosges et à 281 km (entre 320 et 350 km selon l'itinéraire en voiture ou en TGV) à l'est de Paris, c'est l'ancienne capitale du duché de Lorraine, la […]",
+  "Bien que de nombreux sites préhistoriques (sites néolithiques dans la côte de Boudonville, les carrières de Monbois, à Vandœuvre-lès-Nancy et Villers-lès-Nancy) aient été découverts sur les plateaux entourant la ville, comme la Cité d'Affrique (Ve siècle av. J.-C.) au sud-ouest et des habitats celtiques des Leuques sur la butte Sainte-Geneviève, le site historique de la ville ne semble pas avoir été vraiment occupé […]",
+  "XIe siècle : La naissance de Nancy est liée à l'édification d'un château féodal, au cours du XIe siècle, par Gérard d'Alsace.",
+  "1140 : La commanderie est édifiée en 1140, en rase campagne, à proximité de l'étang Saint-Jean, entre Laxou et Nancy.",
+  "1218 : En 1218, au cours de la Guerre de Succession de Champagne, sous le règne du duc Thiébaud Ier, la ville est totalement incendiée par l'empereur Frédéric II de Hohenstaufen.",
+  "1633 : En 1633, lors du siège de Nancy par les troupes françaises du roi Louis XIII, une partie des édifices de la commanderie est détruite.",
+  "1661 : En 1661, dix compagnies du régiment des Gardes françaises se rendent à Nancy pour contribuer à la démolition des fortifications de la ville.",
+  "XIXe siècle : Lors des extensions urbaines de Nancy construites au cours du XIXe siècle, les bâtiments de la commanderie sont tous englobés au sein de nouveaux édifices avant d'être détruits, à l'exception de l'ancien clocher.",
+  "1870 : À partir du 16 août 1870 Nancy est occupée par les troupes allemandes et devient en septembre 1871 le siège du commandement de l’armée d’occupation sous le commandement du général prussien Edwin von Manteuffel qui s’installe au palais du Gouvernement.",
+  "1873 : Occupée par les Allemands, Nancy ne sera libérée que le 1er août 1873 à la suite du paiement anticipé par la France des indemnités de guerre prévues par le traité de Francfort.",
+  "1891 : Entre 1891 et 1911, sur 3 500 édifices construits, 250 sont influencés par l'Art Nouveau, et une cinquantaine d'édifices se démarquent[De quoi ?].",
+  "1917 : La carte de pain est établie fin 1917 et la ville est évacuée début 1918.",
+  "1930 : Abandonnées dès les années 1930, ces galeries développant environ 6,6 km sont réhabilitées pour la pratique de la spéléologie par l'Union spéléologique de l'agglomération nancéienne (USAN) en 1991 et sont gérées par la Ligue spéléologique lorraine (LISPEL).",
+  "1960 : Des années 1960 aux années 1980, la ville de Nancy procède à des rénovations urbaines importantes et parfois décriées : Le quartier Saint-Sébastien, érigé sur d'anciens taudis, composé de plusieurs tours d'environ 15 à 20 étages et du vaste centre commercial Saint Sébastien.",
+  "Lieu « Place Stanislas » : La place Stanislas est une place appartenant à un ensemble urbain classique situé à Nancy, dans la région historique de la Lorraine, en France, qui est inscrit au patrimoine mondial de l'UNESCO depuis 1983.",
+  "Lieu « Place Stanislas », 1588 : Au milieu du XVIIe siècle, une vaste esplanade sépare la Ville-Vieille et la Ville-Neuve construite par Charles III en 1588.",
+  "Lieu « Place Stanislas », 1725 : En effet en 1725-1729, le roi de France avait interdit au duc Léopold d'abattre les remparts de la Ville-Vieille et la Porte Royale, ouverte au XVIIe siècle, formait un véritable goulot d'étranglement.",
+  "Lieu « Place Stanislas », 1751 : Voulue par le duc de Lorraine Stanislas Leszczyński, elle est construite entre 1751 et 1755 sous la direction de l'architecte Emmanuel Héré.",
+  "Lieu « Place Stanislas », aujourd'hui : À l'emplacement de l'actuelle place Vaudémont se trouvait le bastion d'Haussonville et le bastion de Vaudémont était donc celui situé à l'entrée du parc de la Pépinière.",
+  "Lieu « Gare de Nancy-Ville » : La gare de Nancy-Ville, anciennement dénommée gare de « Nancy-Saint-Jean », est une gare ferroviaire française de la ligne de Noisy-le-Sec à Strasbourg-Ville (Paris – Strasbourg), située à proximité du centre-ville de Nancy, préfecture du département",
+  "Lieu « Gare de Nancy-Ville », 1850 : La première ligne de chemin de fer Nancy-Frouard-Metz est inaugurée le 10 juillet 1850.",
+  "Lieu « Gare de Nancy-Ville », 1852 : Début 1852, est ouverte la ligne Nancy-Lunéville puis, le 18 juillet, la ligne Paris-Nancy-Strasbourg.",
+  "Lieu « Gare de Nancy-Ville », 1856 : Le bâtiment voyageurs est terminé en 1856 ; celui d'origine a, depuis, été agrandi plusieurs fois.",
+  "Lieu « Gare de Nancy-Ville », aujourd'hui : Depuis le 10 juin 2001, le train Corail de jour Metz – Nice a été remplacé par un aller-retour en TGV à l'occasion de l'ouverture de la LGV Méditerranée.",
+  "Lieu « Palais des ducs de Lorraine - Musée lorrain » : Le palais des ducs de Lorraine – Musée lorrain est créé à Nancy en 1850 à l’initiative de la Société d’archéologie lorraine (aujourd’hui Société d’histoire de la Lorraine et du Musée lorrain) et installé dans un ensemble de trois sites classés au tit",
+  "Lieu « Palais des ducs de Lorraine - Musée lorrain », 1739 : En 1739, le dernier duc de Lorraine, Stanislas Leszczynski, ancien roi de Pologne, fait don des bâtiments du palais à la Ville de Nancy.",
+  "Lieu « Palais des ducs de Lorraine - Musée lorrain », 1850 : Le palais des ducs de Lorraine – Musée lorrain est créé à Nancy en 1850 à l’initiative de la Société d’archéologie lorraine (aujourd’hui Société d’histoire de la Lorraine et du Musée lorrain) et installé dans un ensemble de trois sites classés au titre des monuments historiques.",
+  "Lieu « Palais des ducs de Lorraine - Musée lorrain », 2018 : Engagé dans un important projet de rénovation, le palais ducal a fermé ses portes au public en 2018, l’église des Cordeliers restant ouverte à la visite.",
+  "Lieu « Palais des ducs de Lorraine - Musée lorrain », aujourd'hui : Le duc Antoine Ier de Lorraine, fils de René II, poursuit la construction du palais en faisant notamment édifier la partie méridionale, toujours visible aujourd’hui en bordure de la Grande rue.",
+  "Lieu « Musée de l'École de Nancy » : Le musée de l'École de Nancy est un musée situé à Nancy et consacré au courant artistique de l'Art nouveau nancéien connu sous le nom d'École de Nancy.",
+  "Lieu « Musée de l'École de Nancy », XIXe siècle : Le musée est installé dans une grosse maison bourgeoise construite à la fin du XIXe siècle et au début du XXe Cette demeure avait appartenu à Eugène Corbin, homme d'affaires fortuné et grand collectionneur.",
+  "Lieu « Musée de l'École de Nancy », 1900 : Le musée d'Art décoratif est ensuite créé, en 1900, par délibération du conseil municipal de Nancy et installé en 1901 dans une salle du musée de Peinture et de Sculpture, situé au rez-de-chaussée de l'hôtel de ville, et son premier gestionnaire est Jules Larcher.",
+  "Lieu « Musée de l'École de Nancy », 1964 : Aménagé dans l'ancienne propriété d'Eugène Corbin, grand mécène du mouvement, il a été officiellement ouvert au public, sous sa forme actuelle en 1964.",
+  "Lieu « Musée de l'École de Nancy », aujourd'hui : Les dessins du musée ne sont pas exposés en permanence pour des raisons de conservation mais sont tout de même régulièrement visibles lors d'expositions.",
+  "Lieu « Bibliothèque Stanislas (Nancy) » : La bibliothèque Stanislas est le siège de la bibliothèque municipale de Nancy (BMN), qui est une bibliothèque classée.",
+  "Lieu « Bibliothèque Stanislas (Nancy) », 1763 : En 1763, elle déménage une première fois à l'hôtel de ville, dans le salon carré inauguré quelques années auparavant.",
+  "Lieu « Bibliothèque Stanislas (Nancy) », 1770 : Les travaux commencent en 1770, sous la direction de Charles-Louis de Montluisant, chargé de construire un bâtiment en fonction des boiseries de l'ancienne université de Pont-à-Mousson, qui sont transportées par bateau, et installées au premier étage de l'Université en 1775.",
+  "Lieu « Bibliothèque Stanislas (Nancy) », 1803 : En 1803, le bâtiment et l'institution reviennent en totalité à la municipalité de Nancy.",
+  "Lieu « Bibliothèque Stanislas (Nancy) », aujourd'hui : La collection fait aujourd'hui partie du fonds d'illustrateurs et de graveurs lorrains anciens et contemporains et est régulièrement enrichie par de nouveaux achats.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Nancy » : La cathédrale primatiale Notre-Dame-de-l'Annonciation et Saint-Sigisbert de Nancy est une cathédrale catholique située place Monseigneur-Ruch à Nancy, au sein du département de Meurthe-et-Moselle, en région Lorraine.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Nancy », 1703 : La construction de l'actuel édifice n'a commencé qu'en 1703 sous le règne du duc Léopold Ier de Lorraine, et fut poursuivie par le roi de Pologne Stanislas Leszczynski.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Nancy », 1723 : En revanche, à la croisée du transept, une coupole est décorée d'une fresque dédiée à la « gloire céleste » exécutée par un artiste nancéien, Claude Jacquart, entre 1723 et 1727.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Nancy », 1751 : Deux des chapelles latérales sont ornées de grilles de Jean Lamour réalisées entre 1751 et 1755 peu de temps avant qu'il ne forge celles de la place Stanislas toute proche, les autres chapelles sont fermées par des grilles réalisées par son élève François Jeanmaire en 1759.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Nancy », aujourd'hui : En attendant la construction de la primatiale (c'est-à-dire l'actuelle cathédrale), une église provisionnelle a été érigée sur le site qu'occupe actuellement l'église Saint-Sébastien de Nancy.",
+  "Lieu « Église des Cordeliers de Nancy » : L'église des Cordeliers de Nancy, officiellement église Saint-François-des-Cordeliers, est une église catholique située dans la Vieille-Ville de Nancy (Meurthe-et-Moselle), juste à côté du palais des ducs de Lorraine dont elle héberge les tombeaux de",
+  "Lieu « Église des Cordeliers de Nancy », 1473 : Construite sous le règne (1473-1508) de René II de Lorraine après la bataille de Nancy contre Charles le Téméraire, qui y est vaincu et tué, elle est consacrée en 1487.",
+  "Lieu « Église des Cordeliers de Nancy », 1691 : Au XIXe siècle ont été installées dans le chœur les stalles de bois provenant de l'abbaye de Salival et datant de 1691.",
+  "Lieu « Église des Cordeliers de Nancy », 1743 : En 1743, elle devient la nécropole des ducs de Lorraine, précédemment située dans la collégiale Saint-Georges, détruite à cette date.",
+  "Lieu « Église des Cordeliers de Nancy », aujourd'hui : L'église et le couvent qui la jouxte font aujourd'hui partie du musée Lorrain, mais l'église reste affectée au culte dans le cadre de la paroisse Saint-Epvre.",
+  "Lieu « Place d'Alliance » : La place Alliance est une place de Nancy, due à l'architecte Emmanuel Héré.",
+  "Lieu « Place d'Alliance », 1750 : Au sein du territoire municipal de Nancy, la place se situe à l'est de l'ensemble urbanistique construit dans les années 1750, mais reste proche de la place Stanislas, distante de 150 mètres, au sein du quartier Charles III - Centre-Ville.",
+  "Lieu « Place d'Alliance », 1782 : Dans la nuit du 17 au 18 octobre 1782, un incendie eut lieu sur la place d’Alliance et consuma l’hôtel d’Alsace.",
+  "Lieu « Place d'Alliance », 1853 : L'hôtel particulier situé au numéro 2 de la place a accueilli la succursale de la Banque de France de sa création en 1853 jusqu'au début des années 1880, quand elle a été déplacée à son emplacement actuel de la rue Chanzy.",
+  "Lieu « Place d'Alliance », aujourd'hui : Des tilleuls furent plantés sur le pourtour de la place en 1763, certains sont toujours visibles aujourd'hui."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Leszczy",
+   "XIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
