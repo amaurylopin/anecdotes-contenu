@@ -1,0 +1,127 @@
+{
+ "commune": {
+  "titre": "Nouméa",
+  "code_insee": "98818",
+  "departement": "988",
+  "population": 85976,
+  "lat": -22.3363,
+  "lon": 166.4076,
+  "url": "https://fr.wikipedia.org/wiki/Noum%C3%A9a"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:22:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1539,
+  "sortie": 951
+ },
+ "cout_usd": 0.001497,
+ "accroche": "Le 25 juin 1854, Port-de-France est fondé, une garnison se concentrant autour du fort Constantine, sur la presqu’île nouméenne.",
+ "histoire": {
+  "recit": "Nouméa, ville portuaire principale de Nouvelle-Calédonie, chef-lieu d’une collectivité d’outre-mer au statut spécifique, s’est construite à partir de la colonisation française au milieu du XIXe siècle. Avant cela, la presqu’île a pu être occupée très tôt, mais l’histoire connue commence avec l’arrivée des Français.\n\nLa trajectoire nouméenne prend d’abord la forme d’un point de défense. Puis, la ville se dote aussi de repères et d’équipements culturels, comme en témoigne l’inauguration d’une croix de Lorraine monumentale au mont Coffyn et l’ouverture, en 1982, d’un centre culturel pensé comme “vitrine” de la culture mélanésienne.\n\nAu-delà des grands événements, certains lieux racontent leur propre trajectoire. Sur l’Îlot Maître, un commerçant corse obtient la location de l’îlot pour cent ans, et plus tard un hôtel voit le jour avec une chapelle prévue pour les cérémonies de mariage. Dans les lagons, l’Aquarium des lagons, fondé en 1956, a aussi donné un visage vivant au rapport de la ville à la mer.",
+  "chronologie": [
+   {
+    "date": "milieu du XIXe siècle",
+    "texte": "L’histoire connue de la presqu’île nouméenne commence avec la colonisation française.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "25 juin 1854",
+    "texte": "Port-de-France est fondé ; au début, il s’agit d’une garnison de militaires autour du fort Constantine.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 juin 1973",
+    "texte": "Une croix de Lorraine monumentale est inaugurée au sommet du mont Coffyn, dominant la baie de l’Orpelinat et le quartier du Trianon.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1982",
+    "texte": "Un centre culturel, futur et actuel centre Ko We Kara, est inauguré à l’entrée nord de la ville.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Îlot Maître",
+   "histoire": "L’Îlot Maître est un îlot de Nouvelle-Calédonie rattaché administrativement à la Province Sud de Nouméa. Il s’étend sur un peu plus de 700 m de longueur et, au maximum, 150 m de largeur. Il est situé dans une réserve maritime de 200 ha et accueille aujourd’hui un hôtel.",
+   "anecdotes": [
+    {
+     "texte": "En 1902, le commerçant corse Auguste Maestracci obtient la location de l’îlot pour une durée de cent ans.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 1983, l’hôtel Escapade est construit sur l’îlot avec une chapelle prévue pour recevoir des cérémonies de mariage.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Au sein d’une réserve maritime de 200 ha, l’Îlot Maître est occupé par un hôtel.",
+   "sources": [
+    "S7",
+    "S10"
+   ],
+   "lat": -22.3339082,
+   "lon": 166.4068968,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Elot_Ma%C3%AEtre"
+  },
+  {
+   "nom": "Aquarium des lagons",
+   "histoire": "L’Aquarium des lagons, anciennement aquarium de Nouméa, a été fondé en 1956 par le biologiste René Catala et sa femme Ida Stucki.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": -22.30215,
+   "lon": 166.43815,
+   "url": "https://fr.wikipedia.org/wiki/Aquarium_des_lagons"
+  }
+ ],
+ "sources": [
+  "Nouméa (prononcé /nu.me.a/), la principale ville portuaire de Nouvelle-Calédonie, est le chef-lieu de cette collectivité d'outre-mer française au statut spécifique et de la Province Sud, située sur une presqu'île du sud de la côte ouest de la Grande Terre. D'importance moyenne à l'échelle française (85 976 habitants en 2025), même en comptabilisant sa banlieue et sa couronne périurbaine (173 814 habitants), Nouméa […]",
+  "Si la presqu'île nouméenne a pu être occupée dès le Ier millénaire, son histoire connue commence avec la colonisation française au milieu du XIXe siècle. Devenue la capitale d'un Territoire d'outre-mer puis d'une collectivité sui generis française après 1946, elle a connu de profonds bouleversements économiques, sociaux et politiques. La préhistoire de Nouméa reste encore peu connue, transmise par quelques […]",
+  "XIXe siècle : Si la presqu'île nouméenne a pu être occupée dès le Ier millénaire, son histoire connue commence avec la colonisation française au milieu du XIXe siècle.",
+  "1854 : Ainsi est fondé le 25 juin 1854 Port-de-France qui se réduit à ses débuts à une simple garnison de militaires concentrés autour du fort Constantine (du nom du vaisseau commandé par Tardy de Montravel).",
+  "1973 : Le 18 juin 1973, une croix de Lorraine monumentale a été inaugurée au sommet du mont Coffyn, dominant la baie de l'Orpelinat et le quartier du Trianon.",
+  "1982 : Un centre culturel (futur et actuel centre Ko We Kara), financé par l'État, est inauguré en 1982 à l'entrée nord de la ville, au bord de la voie de dégagement du côté de Ducos, dans le but de servir de « vitrine » de la culture mélanésienne et de « lieu de rencontre culturel pour les Kanak de la Grande-Terre et des îles ».",
+  "Lieu « Îlot Maître » : L'îlot Maître est un îlot de Nouvelle-Calédonie appartenant administrativement à la Province Sud de Nouméa.",
+  "Lieu « Îlot Maître », 1902 : En 1902, le commerçant corse Auguste Maestracci, installé en Nouvelle-Calédonie depuis 1868, obtient la location de l'îlot pour une durée de cent ans.",
+  "Lieu « Îlot Maître », 1983 : En 1983, l'hôtel Escapade est construit sur l'îlot avec une chapelle destinée à accueillir des cérémonies de mariage.",
+  "Lieu « Îlot Maître », aujourd'hui : S'étendant sur un peu plus de 700 m de longueur pour à peine 150 m de largeur au maximum, il est situé au sein d'une réserve maritime de 200 ha et est occupé par un hôtel.",
+  "Lieu « Aquarium des lagons » : L'aquarium des lagons, anciennement aquarium de Nouméa a été fondé en 1956 par le biologiste René Catala et sa femme Ida Stucki.",
+  "Lieu « Aquarium des lagons », 1956 : L'aquarium des lagons, anciennement aquarium de Nouméa a été fondé en 1956 par le biologiste René Catala et sa femme Ida Stucki."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Français"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}
