@@ -1,0 +1,301 @@
+{
+ "commune": {
+  "titre": "Toulouse",
+  "code_insee": "31555",
+  "departement": "31",
+  "population": 514819,
+  "lat": 43.6007,
+  "lon": 1.4328,
+  "url": "https://fr.wikipedia.org/wiki/Toulouse"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:13:08",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3898,
+  "sortie": 2141
+ },
+ "cout_usd": 0.003456,
+ "accroche": "Le Grand incendie de Toulouse, le 7 mai 1463, détruit les trois quarts de la cité et ruine plusieurs églises et édifices publics.",
+ "histoire": {
+  "recit": "À Toulouse, on apprend très tôt à compter avec les recompositions. Avant même l’installation romaine, les Volques Tectosages comptent parmi eux les Tolosates, autour de la ville. Plus tard, la cathédrale Saint-Étienne s’élève au XIIIe siècle, et le Capitole se reconstruit au XVIIIe siècle.\n\nLe feu et les troubles reviennent comme des ruptures. Le 7 mai 1463, un grand incendie ravage les quartiers et les bâtiments. En 1562, des Huguenots sont massacrés et leurs maisons pillées lors de troubles liés à un édit autorisant le culte hors des villes.\n\nPuis viennent les siècles des chantiers et des drames industriels : sous les mandats d’Étienne Billières et d’Ellen-Prévot, la ville se transforme avec de grands équipements publics marqués par l’Art déco. Le 21 septembre 2001, l’explosion d’AZF traumatise durablement les Toulousains. Les décennies suivantes sont marquées par des contrôles et une dépollution estimée.\n\nEt jusque dans les lieux, Toulouse change sans cesse : au pied du Capitole, des passages anciens ont été absorbés par les maisons, tandis que des vestiges romains retrouvés lors de travaux ont disparu.",
+  "chronologie": [
+   {
+    "date": "IIIe siècle av. J.-C. (milieu)",
+    "texte": "Avant l’installation romaine, les Volques Tectosages occupent le Languedoc occidental, et les Tolosates vivent dans les environs de Toulouse.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "La cathédrale Saint-Étienne est édifiée au XIIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "7 mai 1463",
+    "texte": "Le Grand incendie de Toulouse détruit les trois quarts de la cité et ruine de nombreux édifices.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1562",
+    "texte": "Des Huguenots sont massacrés et leurs maisons pillées lors de troubles liés à un édit autorisant le culte en dehors des villes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Le Capitole est reconstruit au XVIIIe siècle.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1925-1935",
+    "texte": "Sous les mandats d’Étienne Billières et d’Ellen-Prévot, de grands équipements publics sont construits, avec un style Art déco.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "Une catastrophe industrielle fait 30 morts, 2 500 blessés et détruit de nombreux bâtiments dans des quartiers populaires.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "21 septembre 2001",
+    "texte": "L’usine AZF explose, traumatisant durablement les Toulousains.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "13 décembre 2011",
+    "texte": "Une explosion d’une usine proche de l’ancien site d’AZF survient dans un contexte de pollution des ballastières de Braqueville mise en cause dans des incidents.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2022 (attendu)",
+    "texte": "Le site est placé sous contrôle militaire et la dépollution estimée doit commencer en 2022.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Place du Capitole (Toulouse)",
+   "histoire": "Jusqu’au XIe siècle, la place est encore traversée d’est en ouest par l’ancien rempart gallo-romain, fermé au nord seulement par la Porterie. À partir du XIIIe siècle, Porterie et « mur sarrasin » sont démolis ou absorbés par les maisons. La place prend son aspect actuel au XIXe siècle. Aujourd’hui, des vestiges de la porte romaine redécouverts lors du creusement d’un parking souterrain sont irrémédiablement détruits.",
+   "anecdotes": [
+    {
+     "texte": "Quand des vestiges de la porte romaine sont redécouverts lors de travaux, ils disparaissent : Toulouse révèle puis efface, sans retour possible, ce qui venait de réapparaître.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.6043,
+   "lon": 1.44334,
+   "url": "https://fr.wikipedia.org/wiki/Place_du_Capitole_%28Toulouse%29"
+  },
+  {
+   "nom": "Collège de l'Esquile",
+   "histoire": "Le collège de l’Esquile est un ancien collège de l’université de Toulouse, fondé probablement au XIVe siècle ou au début du siècle suivant. Agrandi du XVIe siècle au début du XVIIIe siècle, il est reconstruit profondément en 1551, puis son portail d’entrée est confié à Nicolas Bachelier, avec une entrée sur la rue du Taur et une autre fermée sur la rue des Lois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 43.606356,
+   "lon": 1.441698,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_de_l%27Esquile"
+  },
+  {
+   "nom": "Couvent des Jacobins de Toulouse",
+   "histoire": "Le couvent des Jacobins, situé dans le centre de Toulouse entre le Capitole et la Garonne, est construit par l’ordre des Prêcheurs. Il abrite l’ancienne université de Toulouse depuis sa fondation en 1229, jusqu’à sa suppression à la Révolution française, et se distingue par des bâtiments entièrement en brique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 43.603888687886,
+   "lon": 1.4402061780838,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Jacobins_de_Toulouse"
+  },
+  {
+   "nom": "Couvent des Cordeliers (Toulouse)",
+   "histoire": "Le couvent des Cordeliers est un ancien couvent de religieux franciscains. Fondé en 1222, il devient un centre intellectuel majeur : la jeune université toulousaine s’y installe en 1229.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 43.605688,
+   "lon": 1.440606,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Cordeliers_%28Toulouse%29"
+  },
+  {
+   "nom": "Pont Vieux (Toulouse)",
+   "histoire": "Le Pont Vieux est un ancien pont-aqueduc qui franchissait la Garonne et alimentait la ville gallo-romaine de Tolosa. Construit au début du Ier siècle, il est progressivement abandonné à partir du XVe siècle. En 1949, la dernière pile, dite « rocher de Carnaval », est démolie. Aujourd’hui, l’aqueduc est ensuite aérien sur plusieurs kilomètres avant de franchir la Garonne et d’aboutir à l’emplacement de l’actuelle place Rouaix.",
+   "anecdotes": [
+    {
+     "texte": "La dernière pile, surnommée « rocher de Carnaval », est démolie en 1949 : le pont-aqueduc garde jusqu’à la fin une drôle de mémoire de quartier.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 43.598083,
+   "lon": 1.438476,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Vieux_%28Toulouse%29"
+  },
+  {
+   "nom": "Collège de Foix (Toulouse)",
+   "histoire": "Le collège de Foix est un ancien collège de l’université de Toulouse fondé en 1457 et accueillant des boursiers. Épargné lors de la suppression de la plupart des collèges toulousains en 1551, il subsiste jusqu’à la fermeture finale à la Révolution française. Au XIXe siècle, une partie des bâtiments est destinée à l’accueil de jeunes femmes étudiantes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La résidence d’étudiants fondée par le cardinal de Foix poursuit sa mission et est présentée comme la plus ancienne résidence d’étudiants d’Europe.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 43.604837,
+   "lon": 1.441424,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_de_Foix_%28Toulouse%29"
+  },
+  {
+   "nom": "Prieuré Notre-Dame de la Daurade",
+   "histoire": "Le prieuré Notre-Dame de la Daurade est un ancien prieuré bénédictin au cœur de Toulouse. Au XIIe siècle, des travaux importants mènent à une nouvelle église, un cloître et des bâtiments communautaires. En 1413, une confrérie des « Âmes du Purgatoire » y est fondée et rattachée à l’église. Plus tard, l’église est démolie au XVIIIe siècle, et il subsiste des vestiges dispersés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il subsiste des vestiges de l’ancienne église paléochrétienne du IVe siècle ou Ve siècle détruite en 1761, dispersés à travers le monde.",
+   "sources": [
+    "S47"
+   ],
+   "lat": 43.600738,
+   "lon": 1.440109,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Notre-Dame_de_la_Daurade"
+  },
+  {
+   "nom": "Prieuré hospitalier de Toulouse",
+   "histoire": "Le prieuré hospitalier de Toulouse, appelé hôtel des chevaliers de Saint-Jean de Jérusalem ou hôtel Saint-Jean, est un hôtel particulier au no 32 rue de la Dalbade. Aménagé à partir du XIIe siècle, il est complètement reconstruit à la fin du XVIIe siècle. Vers 1550, les bâtiments sont réutilisés pour ouvrir le collège du Temple, puis les travaux menés entre 1668 et 1680 donnent naissance au bâtiment actuel, aux plans inspirés par la Renaissance tardive et le baroque.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S48",
+    "S49",
+    "S50",
+    "S51",
+    "S52"
+   ],
+   "lat": 43.59735,
+   "lon": 1.4425333333333,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_hospitalier_de_Toulouse"
+  }
+ ],
+ "sources": [
+  "Toulouse (en occitan Tolosa) est une commune du Sud-Ouest de la France, préfecture de la région Occitanie et du département de la Haute-Garonne, ainsi que siège de Toulouse Métropole. Ses habitants sont appelés les Toulousains et Toulousaines. En 2023, Toulouse est la quatrième ville la plus peuplée de France, avec 514 819 habitants (après Paris, Marseille et Lyon). L'agglomération toulousaine compte 1 093 783 […]",
+  "Les environs de Toulouse sont occupés dès le Paléolithique inférieur mais ce ne sont que des traces d'occupation humaine du Néolithique qui sont retrouvées sous forme de village comme à Villeneuve-Tolosane. D'autres traces d'occupations par l'homme au VIIIe siècle av. J.-C. et au VIIe siècle av. J.-C. ont été trouvées comme en témoigne la nécropole du quartier Saint-Roch (vers la rue du Feretra), mise au jour en […]",
+  "IIIe siècle : Dès le milieu du IIIe siècle av. J.-C., bien avant l'installation romaine, le Languedoc occidental est occupé par une confédération de peuples gaulois, les Volques Tectosages, parmi lesquels un peuple, celui des Tolosates, occupe les environs de Toulouse.",
+  "XIIIe siècle : La cathédrale Saint-Étienne est édifiée au XIIIe siècle.",
+  "1463 : Le Grand incendie de Toulouse, le 7 mai 1463, détruit les trois quarts de la cité et ruine plusieurs églises, couvents et autres édifices publics.",
+  "1562 : En 1562, des Huguenots furent ainsi massacrés et leurs maisons pillées lors de troubles à la suite d'un édit de la reine autorisant les hérétiques à pratiquer leur culte en dehors des villes.",
+  "XVIIIe siècle : Le Capitole est reconstruit, quant à lui, au XVIIIe siècle.",
+  "1925 : Sous les mandats d'Étienne Billières (1925-1935) et d'Ellen-Prévot (1935-1940), la ville est transformée par la construction de grands équipements publics, tels l'actuelle Bibliothèque municipale sise rue du Périgord, le parc des Sports, un vaste programme de rénovation ou de création d'écoles, tous marqués par un style Art déco solennel et lumineux.",
+  "1945 : Cette catastrophe industrielle, la pire que la France ait connu depuis 1945, fait 30 morts, 2 500 blessés et détruit de nombreux bâtiments et logements, principalement dans les quartiers populaires du Mirail et d'Empalot.",
+  "2001 : Le 21 septembre 2001, l'usine AZF explose, traumatisant durablement les Toulousains.",
+  "2011 : La pollution des ballastières de Braqueville jouxtant l'ancien terrain d'AZF est notable (estimée entre 4300, 5800 et 46 000 tonnes de nitrocellulose immergée) et a été mise en cause dans des incendies volontaires et une explosion le 13 décembre 2011 d'une usine proche de l'ancien site d'AZF.",
+  "2022 : Le site a été placé sous contrôle militaire après l'explosion d'AZF et la dépollution (estimée à 40 millions d'euros pour 120 000 tonnes de vase contaminée) devrait commencer en 2022.",
+  "Lieu « Place du Capitole (Toulouse) » : La place du Capitole (en occitan : plaça del Capitòli) est une place de Toulouse, chef-lieu de la région Occitanie, dans le Midi de la France.",
+  "Lieu « Place du Capitole (Toulouse) », XIe siècle : Jusqu'au XIe siècle, il est encore traversé, d'est en ouest, par l'ancien rempart gallo-romain qui ferme la cité au nord, seulement ouvert par la Porterie, la porte nord de la ville.",
+  "Lieu « Place du Capitole (Toulouse) », XIIIe siècle : À partir du XIIIe siècle, la Porterie et le « mur sarrasin », comme on le désigne, sont démolis ou absorbés par les maisons qui sont construites contre le mur.",
+  "Lieu « Place du Capitole (Toulouse) », 1809 : C'est dans la première moitié du XIXe siècle que la place prend enfin son aspect actuel : les côtés sud, nord et ouest sont successivement construits dans le style néo-classique entre 1809 et 1852 sur les plans de l'architecte de la ville, Jacques-Pascal Virebent.",
+  "Lieu « Place du Capitole (Toulouse) », aujourd'hui : Les vestiges de la porte romaine, redécouverts lors du creusement du parking souterrain, sont irrémédiablement détruits.",
+  "Lieu « Collège de l'Esquile » : Le collège de l'Esquile ou Esquille est un ancien collège de l'université de Toulouse.",
+  "Lieu « Collège de l'Esquile », XIVe siècle : Fondé probablement au XIVe siècle ou au début du siècle suivant, au cœur du quartier universitaire de la ville, c'est à l'origine un petit collège qui accueille des boursiers.",
+  "Lieu « Collège de l'Esquile », XVIe siècle : Les bâtiments sont successivement agrandis du XVIe siècle au début du XVIIIe siècle, lui donnant sa physionomie actuelle.",
+  "Lieu « Collège de l'Esquile », 1551 : En 1551, sous l'autorité des capitouls, le collège est profondément transformé et complètement reconstruit.",
+  "Lieu « Collège de l'Esquile », aujourd'hui : On confie à Nicolas Bachelier la construction du nouveau portail d'entrée, à l'emplacement de celui de l'ancien collège de Saint-Exupéry, sur la rue du Taur, tandis que l'autre entrée, sur la rue des Lois, est fermée.",
+  "Lieu « Couvent des Jacobins de Toulouse » : Le couvent des Jacobins de Toulouse est un édifice religieux situé dans le centre de la ville de Toulouse, en France, à mi-chemin entre le Capitole et la Garonne, juste à côté du lycée Pierre-de-Fermat.",
+  "Lieu « Couvent des Jacobins de Toulouse », 1215 : Il a été construit par l'ordre des Prêcheurs, un ordre mendiant dont la branche masculine a été fondée en 1215 à Toulouse par Dominique de Guzmán, futur saint Dominique, afin de promouvoir la prédication de l'Évangile et lutter contre l'hérésie cathare.",
+  "Lieu « Couvent des Jacobins de Toulouse », 1229 : C'est également dans ces bâtiments qu'a été établie pendant plusieurs siècles l'ancienne université de Toulouse depuis sa fondation en 1229 jusqu'à sa suppression à la Révolution française.",
+  "Lieu « Couvent des Jacobins de Toulouse », XIIIe siècle : Ces bâtiments entièrement faits de brique sont considérés comme des joyaux de l'art gothique languedocien en matière de construction monastique des XIIIe siècle et XIVe siècle.",
+  "Lieu « Couvent des Jacobins de Toulouse », aujourd'hui : Il est parfois appelé « ensemble conventuel des Jacobins », appellation qui est aujourd'hui abandonnée.",
+  "Lieu « Couvent des Cordeliers (Toulouse) » : Le couvent des Cordeliers est un ancien couvent de religieux franciscains – ou « cordeliers » – de Toulouse, en France.",
+  "Lieu « Couvent des Cordeliers (Toulouse) », 1222 : Il est fondé en 1222, dans un contexte de développement des ordres mendiants dans les villes européennes, et particulièrement à Toulouse, marquée au début du XIIIe siècle par le catharisme et la croisade des albigeois.",
+  "Lieu « Couvent des Cordeliers (Toulouse) », 1229 : D'ailleurs, le couvent est un des centres intellectuels majeurs du royaume puisque c'est dans ses murs que s'installe la jeune université toulousaine, fondée par le traité de Meaux-Paris en 1229.",
+  "Lieu « Couvent des Cordeliers (Toulouse) », 1862 : La protection de l'église, classée aux monuments historiques dès 1862, a été complétée en 1994 par le classement des vestiges des autres bâtiments du couvent.",
+  "Lieu « Couvent des Cordeliers (Toulouse) », aujourd'hui : Le caveau est comblé et on ignore aujourd’hui jusqu’à son emplacement précis.",
+  "Lieu « Pont Vieux (Toulouse) » : Le pont Vieux est un ancien pont-aqueduc qui franchissait la Garonne à Toulouse.",
+  "Lieu « Pont Vieux (Toulouse) », Ier siècle : Il est construit au début du Ier siècle pour franchir le fleuve, mais aussi pour alimenter en eau la ville gallo-romaine de Tolosa.",
+  "Lieu « Pont Vieux (Toulouse) », XVe siècle : Il est progressivement abandonné et il cesse d'être réparé à partir de la fin du XVe siècle.",
+  "Lieu « Pont Vieux (Toulouse) », 1949 : En 1949, la dernière pile, connue comme le « rocher de Carnaval », est démolie.",
+  "Lieu « Pont Vieux (Toulouse) », aujourd'hui : L'aqueduc est ensuite aérien sur plusieurs kilomètres avant de franchir la Garonne pour aboutir, en rive droite, au cœur de la cité, à l'emplacement de l'actuelle place Rouaix.",
+  "Lieu « Collège de Foix (Toulouse) » : Le collège de Foix est un ancien collège de l'université de Toulouse.",
+  "Lieu « Collège de Foix (Toulouse) », 1457 : Fondé en 1457, au cœur du quartier universitaire de la ville, c'est un collège qui accueille des boursiers.",
+  "Lieu « Collège de Foix (Toulouse) », 1551 : Épargné lors de la suppression de la plupart des collèges toulousains en 1551, il ne subsiste que difficilement, jusqu'à la Révolution française, où il est finalement fermé.",
+  "Lieu « Collège de Foix (Toulouse) », XIXe siècle : Au XIXe siècle, une partie des bâtiments, rachetée par le chanoine Maurice Garrigou est dévolue à la congrégation religieuse des sœurs de Notre-Dame de la Compassion, qui se consacrent entre autres à l'accueil de jeunes femmes étudiantes.",
+  "Lieu « Collège de Foix (Toulouse) », aujourd'hui : La résidence d'étudiants fondée par le cardinal de Foix poursuit de nos jours sa mission, en faisant la plus ancienne résidence d'étudiants d'Europe.",
+  "Lieu « Prieuré Notre-Dame de la Daurade » : Le prieuré Notre-Dame de la Daurade est un ancien prieuré bénédictin, situé au cœur de la ville de Toulouse, dans le Midi de la France.",
+  "Lieu « Prieuré Notre-Dame de la Daurade », XIIe siècle : Au début du XIIe siècle, des travaux importants sont entrepris et se poursuivent jusqu'à la fin du siècle, alors qu'on élève une nouvelle église, un cloître et des bâtiments communautaires.",
+  "Lieu « Prieuré Notre-Dame de la Daurade », 1413 : Signe des temps, en 1413, une confrérie des « Âmes du Purgatoire » y fut fondée et rattachée à l'église.",
+  "Lieu « Prieuré Notre-Dame de la Daurade », XVIIIe siècle : Dans la deuxième moitié du XVIIIe siècle, l'église est démolie pour laisser la place à des bâtiments de style néo-classique.",
+  "Lieu « Prieuré Notre-Dame de la Daurade », aujourd'hui : Il subsiste encore des vestiges de l'ancienne église paléochrétienne du IVe siècle ou Ve siècle détruite en 1761, dispersés à travers le monde : des colonnes se trouvent à la villa dite \"abbaye de Roseland\" à Nice, au Louvre-Lens, au Metropolitan Museum of Art de New-York, une encore au fond de la Garonne près de Muret.",
+  "Lieu « Prieuré hospitalier de Toulouse » : Le prieuré hospitalier de Toulouse, appelé l’hôtel des chevaliers de Saint-Jean de Jérusalem ou simplement hôtel Saint-Jean, parfois désigné comme l’hôtel de Malte, est un hôtel particulier situé au no 32 rue de la Dalbade, dans le centre historique",
+  "Lieu « Prieuré hospitalier de Toulouse », XIIe siècle : Le prieuré médiéval, aménagé à partir du XIIe siècle, est complètement reconstruit à la fin du XVIIe siècle.",
+  "Lieu « Prieuré hospitalier de Toulouse », 1550 : Les bâtiments sont réutilisés vers 1550 pour y ouvrir un collège, connu comme le collège du Temple.",
+  "Lieu « Prieuré hospitalier de Toulouse », 1668 : Les travaux, dirigés par l'architecte toulousain Jean-Pierre Rivalz entre 1668 et 1680, donnent naissance au bâtiment actuel.",
+  "Lieu « Prieuré hospitalier de Toulouse », aujourd'hui : Jean-Pierre Rivalz, pour les nouveaux bâtiments, trace des plans inspirés par les mouvements architecturaux de la Renaissance tardive et du baroque."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
