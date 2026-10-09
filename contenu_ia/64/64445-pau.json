@@ -1,0 +1,318 @@
+{
+ "commune": {
+  "titre": "Pau",
+  "code_insee": "64445",
+  "departement": "64",
+  "population": 80441,
+  "lat": 43.3219,
+  "lon": -0.3435,
+  "url": "https://fr.wikipedia.org/wiki/Pau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:23:07",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3670,
+  "sortie": 1972
+ },
+ "cout_usd": 0.003199,
+ "accroche": "Depuis 1464, Pau est la capitale du Béarn, au carrefour entre la vallée du gave de Pau et les chemins transpyrénéens.",
+ "histoire": {
+  "recit": "À Pau, la plaine rencontre la montagne : la vallée du gave de Pau et la plaine du Pont-Long se croisent, tandis que des chemins nord-sud traversent la région. On y repère des traces d’occupation très anciennes, du Paléolithique inférieur jusqu’à la Protohistoire.\n\nLa ville s’ancre aussi dans le temps des institutions : la première université de Pau s’établit à partir de 1722, héritière du collège de Béarn et de l’académie protestante du Béarn fondés en 1549 et 1583 à Lescar et Orthez, puis fermés en 1620. \n\nPlus tard, la Seconde Guerre mondiale marque durablement la ville. La libération intervient le 20 août 1944, et quelques jours après, des résistants trouvent le charnier du Pont-Long, avec quatre fosses et 45 corps de prisonniers et de résistants.\n\nEnfin, Pau poursuit son élan : André Labarrère, maire de 1971 à 2006, laisse le souvenir d’un édile bâtisseur, surnommé toque manettes, « qui serre les mains » en béarnais.",
+  "chronologie": [
+   {
+    "date": "1464",
+    "texte": "Le château de Pau devient la résidence principale des vicomtes de Béarn, et Pau affirme ainsi sa place de capitale.",
+    "sources": [
+     "S17",
+     "S1"
+    ]
+   },
+   {
+    "date": "1722",
+    "texte": "La première université de Pau est établie à partir de 1722, héritière d’initiatives universitaires béarnaises.",
+    "sources": [
+     "S3",
+     "S12"
+    ]
+   },
+   {
+    "date": "1775",
+    "texte": "L’ordre revient en 1775 avec le retour des exilés et une explosion de joie populaire.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1793-1794",
+    "texte": "À Pau, dix-neuf personnes sont condamnées et exécutées entre septembre 1793 et août 1794.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1942",
+    "texte": "À partir de décembre 1942, la Gestapo s’installe à la villa Saint-Albert, et la caserne Bernadotte sert de prison jusqu’au 10 août 1944.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "20 août 1944",
+    "texte": "La ville est libérée le 20 août 1944 ; quelques jours plus tard, le charnier du Pont-Long est découvert.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1971-2006",
+    "texte": "André Labarrère marque la ville comme maire de 1971 à 2006, avec le surnom de toque manettes.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Béarn",
+   "histoire": "Région historique du sud-ouest, le Béarn connaît, à partir du Ve siècle, l’effondrement romain et des invasions barbares. Il porte aussi une longue tradition universitaire, avec une académie protestante fondée dès 1562 puis élevée au rang d’université en 1583.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 43.3,
+   "lon": -0.366667,
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9arn"
+  },
+  {
+   "nom": "Château de Pau",
+   "histoire": "Château de Pau, il sert de chantier de renforcement à la fin du XIVe siècle sous l’impulsion de Gaston Fébus, puis devient, à partir de 1464, la résidence principale des vicomtes de Béarn. Il est classé monument historique en 1840 et accueille aujourd’hui le musée national.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, le musée national accueille environ 100 000 visiteurs par an.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 43.294722,
+   "lon": -0.375,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pau"
+  },
+  {
+   "nom": "Stade du Hameau",
+   "histoire": "Destiné à la pratique du rugby et du football, le stade du Hameau est un complexe de sports et de loisirs à Pau.",
+   "anecdotes": [
+    {
+     "texte": "En 1949, après l’inauguration du stade Olympique du Hameau, le colonel de Fornel remet la somme de 546.710 francs pour les sinistrés des Landes et de Gironde victimes de l’incendie de la forêt des Landes.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "En 1960, le stade est occupé par le 1er régiment de chasseurs parachutistes (1er RCP) pour une durée de six ans.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "En 2017, le stade du Hameau est entièrement transformé, avec un accent sur son esthétisme.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 43.309664,
+   "lon": -0.317127,
+   "url": "https://fr.wikipedia.org/wiki/Stade_du_Hameau"
+  },
+  {
+   "nom": "Quartier du Hédas",
+   "histoire": "Quartier historique de Pau, le Hédas s’étend dans le ravin de l’ancien ruisseau du Hédas, aujourd’hui disparu du gave de Pau.",
+   "anecdotes": [
+    {
+     "texte": "En 1672, un pont des Cordeliers enjambe le Hédas et étend la ville vers le nord.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "Le canal du Hédas est créé dans les années 1850, en comblant le ruisseau.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le quartier du Hédas mesure 1,3 km, du château de Pau à la place d’Espagne.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 43.296245758429,
+   "lon": -0.37304699420929,
+   "url": "https://fr.wikipedia.org/wiki/Quartier_du_H%C3%A9das"
+  },
+  {
+   "nom": "Palais des sports de Pau",
+   "histoire": "Salle polyvalente de Pau, le palais des sports reçoit des événements sportifs, concerts, spectacles et conférences. Il est inauguré en 1991 et se trouve au nord de Pau, à proximité de l’hippodrome du Pont-Long.",
+   "anecdotes": [
+    {
+     "texte": "L’inauguration de 1991 se tient en présence de Laurent Fabius et du maire André Labarrère.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le palais des sports est facilement accessible, notamment via l’A64 et les transports en commun.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 43.3345351,
+   "lon": -0.3627098,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_sports_de_Pau"
+  },
+  {
+   "nom": "Stade de la Croix du Prince",
+   "histoire": "Stade de Pau, officiellement stade Albert-Cazenave depuis 1982, il a longtemps été le principal stade de la ville et reste un lieu important du rugby.",
+   "anecdotes": [
+    {
+     "texte": "En 1906, la pelouse est inaugurée, dans la lignée d’un terrain qui avait commencé au champ Bourda.",
+     "statut": "etabli",
+     "sources": [
+      "S36",
+      "S40"
+     ]
+    },
+    {
+     "texte": "Le 27 avril 1964, des gradins en béton sont inaugurés près de la Tribune d’Honneur.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S38"
+   ],
+   "lat": 43.288077,
+   "lon": -0.381544,
+   "url": "https://fr.wikipedia.org/wiki/Stade_de_la_Croix_du_Prince"
+  },
+  {
+   "nom": "Champ Bourda",
+   "histoire": "Ancien complexe sportif à Pau, le Champ Bourda se trouvait dans le quartier du 14-Juillet, en bordure du gave de Pau.",
+   "anecdotes": [
+    {
+     "texte": "À partir de 1901, le terrain est amélioré pour accueillir la barrette aquitaine, un sport de contact présenté comme précurseur du rugby.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    },
+    {
+     "texte": "Le Champ Bourda est inauguré le 21 octobre 1906 par le ministre Joseph Ruau et Louis Barthou, lors de la Fête de la Mutualité agricole de Pau.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seul le square Mazoyer subsiste aujourd’hui, à l’ouest de la rue du XIV-Juillet, en mémoire du lieu sportif.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 43.292318126742,
+   "lon": -0.3808442079305,
+   "url": "https://fr.wikipedia.org/wiki/Champ_Bourda"
+  },
+  {
+   "nom": "Stadium de la Gare",
+   "histoire": "Complexe sportif de Pau destiné à la pratique de la pelote basque, le stadium de la Gare est inauguré le 30 octobre 1924 après un démarrage des travaux en 1921, avant d’être rasé en 2006.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’emplacement devient un parking desservant le funiculaire de Pau et la gare de Pau, avec un fronton extérieur conservé.",
+   "sources": [
+    "S46",
+    "S48",
+    "S49"
+   ],
+   "lat": 43.292667,
+   "lon": -0.371139,
+   "url": "https://fr.wikipedia.org/wiki/Stadium_de_la_Gare"
+  }
+ ],
+ "sources": [
+  "Pau (prononcé [po] en français et [ˈpaw] en béarnais) est une commune du sud-ouest de la France, préfecture du département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine. La ville se situe au cœur de l'ancienne principauté souveraine du Béarn, dont elle est la capitale depuis 1464. La cité occupe une position d'interface entre plaine et montagne, un carrefour où se rejoignent la vallée du gave de Pau, la […]",
+  "Au carrefour entre la vallée fluviale est-ouest du gave — et son parallèle la plaine du Pont-Long — et les chemins nord-sud transpyrénéens, la zone paloise se caractérise du Paléolithique inférieur jusqu'à la Protohistoire par des traces d'occupation laissées par des groupes humains mobiles. Des traces de chasseurs cueilleurs mobiles sont décelées autour de Pau, à l'interface entre plaine et montagne. Le Néolithique […]",
+  "1722 : En parallèle, la première université de Pau est établie à partir de 1722, elle est l'héritière du collège de Béarn et de l'académie protestante du Béarn fondés en 1549 et 1583 à Lescar et Orthez mais fermés en 1620 par Louis XIII.",
+  "1775 : L'ordre revient en 1775 avec le retour des exilés accompagné d'une explosion de joie populaire.",
+  "1793 : Les troubles proviennent essentiellement de l'extérieur tandis que dix-neuf personnes sont condamnées et exécutées entre septembre 1793 et août 1794 à Pau.",
+  "1850 : Entre 1850 et 1910, de nombreuses résidences sont construites et évoquent toujours aujourd'hui le faste de cette période.",
+  "1942 : Pendant la Seconde Guerre mondiale, l'occupation allemande se traduit par l'installation de la Gestapo au sein de la villa Saint-Albert (aujourd'hui détruite) à partir de décembre 1942 et par l'utilisation de la caserne Bernadotte comme prison jusqu'au 10 août 1944.",
+  "1944 : La ville de Pau est libérée le 20 août 1944, quelques jours plus tard un petit groupe de résistants trouvent le dénommé charnier du Pont-Long, constitué de quatre fosses et renfermant 45 corps de prisonniers et de résistants.",
+  "1971 : La capitale béarnaise est par la suite marquée par la figure d'André Labarrère — maire de 1971 à 2006 — qui est un édile bâtisseur flanqué du surnom de toque manettes (« qui serre les mains » en béarnais).",
+  "Lieu « Béarn » : Le Béarn (en béarnais : Bearn [beˈar] ou Biarn [ˈbjar]) est une région historique du sud-ouest de la France.",
+  "Lieu « Béarn », Ve siècle : À partir du Ve siècle, la région subit l'effondrement de l'Empire romain et les multiples invasions barbares.",
+  "Lieu « Béarn », 1562 : Le Béarn possède une longue tradition universitaire, puisque l'académie protestante du Béarn (ou Académie d'Orthez) est fondée dès 1562 avant d'être élevée au rang d'université en 1583.",
+  "Lieu « Béarn », 2010 : Inaugurée le 16 décembre 2010, il s'agit de la première autoroute réalisée après le Grenelle de l'environnement et également de la voie la plus chère de France à cette date.",
+  "Lieu « Béarn », aujourd'hui : À la fin du IVe siècle, la Notitia nomme les Benarnenses dont la capitale suit l'ethnique Beneharnum (aujourd'hui Lescar).",
+  "Lieu « Château de Pau » : Le château de Pau est un château situé à Pau, chef-lieu du département français des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Château de Pau », XIVe siècle : Dans sa volonté d'affirmer la souveraineté du Béarn, Gaston Fébus entreprend un vaste chantier de renforcement de l'édifice à la fin du XIVe siècle.",
+  "Lieu « Château de Pau », 1464 : À partir de 1464, le château de Pau devient la résidence principale des vicomtes de Béarn à la suite de la décision de Gaston IV de Foix-Béarn, qui restructure profondément les bâtiments.",
+  "Lieu « Château de Pau », 1840 : Construit du XIIe au XIXe siècle, il a été classé monument historique en 1840.",
+  "Lieu « Château de Pau », aujourd'hui : Aujourd'hui, le musée national accueille environ 100 000 visiteurs par an.",
+  "Lieu « Stade du Hameau » : Le stade du Hameau (anciennement stade olympique du Hameau ou stade Colonel-de-Fornel) est un stade destiné à la pratique du rugby et du football, ainsi qu'un complexe de sports et de loisirs comprenant ce stade situé à Pau.",
+  "Lieu « Stade du Hameau », 1949 : Après l'inauguration du « stade Olympique du Hameau » de Pau, le colonel de Fornel avait pu remettre la somme de 546.710 francs pour les sinistrés des Landes et de Gironde victimes de l'incendie de la forêt des Landes de 1949 qui avait fait 82 victimes.",
+  "Lieu « Stade du Hameau », 1954 : À partir de 1954, les terrains sont graduellement utilisés par la ville de Pau afin d'accueillir les associations sportives de cette ville en plein essor économique avec l'exploitation du gisement de Lacq, dans le cadre d'une convention signée avec le ministère de la Défense.",
+  "Lieu « Stade du Hameau », 2017 : Le stade du Hameau est ensuite entièrement transformé en 2017, et se distingue désormais par son esthétisme.",
+  "Lieu « Stade du Hameau », aujourd'hui : Après ces premiers matches de gala disputés au Hameau, le stade est à partir de 1960 occupé par le 1er régiment de chasseurs parachutistes (1er RCP) qui prend possession des lieux pour une durée de six ans.",
+  "Lieu « Quartier du Hédas » : Le Hédas est l'un des quartiers historiques de la ville de Pau, situé dans le département français des Pyrénées-Atlantiques.",
+  "Lieu « Quartier du Hédas », 1672 : En 1672 est construit le pont des Cordeliers, qui enjambe le Hédas et étend la ville vers le nord, au delà de « l’infâme faubourg au-dessus de la fontaine ».",
+  "Lieu « Quartier du Hédas », 1737 : L’abattoir est ensuite déplacé sur les bords du Gave de Pau, dans le quartier de la Monnaie à partir de 1737.",
+  "Lieu « Quartier du Hédas », 1850 : Le ruisseau est comblé dans les années 1850 afin de créer le canal du Hédas, qui est le plus ancien de la ville.",
+  "Lieu « Quartier du Hédas », aujourd'hui : Le quartier du Hédas s’étend sur 1,3 km, du château de Pau à la place d’Espagne, dans le ravin de l'ancien ruisseau du Hédas, ancien affluent aujourd'hui disparu du Gave de Pau, dont la profondeur varie de 6 à 20 mètres.",
+  "Lieu « Palais des sports de Pau » : Le palais des sports de Pau est une salle polyvalente située dans la ville de Pau, en France.",
+  "Lieu « Palais des sports de Pau », 1991 : Inauguré en 1991, il est devenu un lieu emblématique pour les événements sportifs, les concerts, les spectacles et les conférences dans la région.",
+  "Lieu « Palais des sports de Pau », 1991 : Il est inauguré en 1991 en présence de Laurent Fabius, président de l’Assemblée Nationale, du maire André Labarrère, du président de l'élan Pierre Seillant et de nombreux autres invités.",
+  "Lieu « Palais des sports de Pau », 1991 : Situé au nord de Pau, juste au-dessus de l’hippodrome du Pont-Long, à la sortie de l’autoroute Bayonne-Toulouse, à 5 minutes de l’aéroport international Pau-Pyrénées, le Palais de Sports, inauguré en 1991, bénéficie d’un emplacement idéal.",
+  "Lieu « Palais des sports de Pau », aujourd'hui : Le palais des sports de Pau bénéficie également d'un emplacement stratégique, à proximité du centre-ville et facilement accessible en voiture via l'A64 ou en transports en commun.",
+  "Lieu « Stade de la Croix du Prince » : Le stade de la Croix du Prince, officiellement stade Albert-Cazenave depuis 1982, fut jusqu'au début des années 1990 le principal stade de la ville de Pau, et l'antre de la Section de 1910 à 1990 et reste néanmoins l'un des stades mythiques du rugby",
+  "Lieu « Stade de la Croix du Prince », 1906 : La Section paloise commença son aventure sportive au champ Bourda, qui devint ensuite la Pelouse des Jeux ou Terrain de la Ligue Girondine dont la pelouse est inaugurée en 1906.",
+  "Lieu « Stade de la Croix du Prince », 1913 : Stade à l'anglaise avec des tribunes en bois inaugurées en 1913 à la fin de la l'âge d'or du tourisme climatique qui a marqué la ville, la Croix du Prince était réputé pour la ferveur et la proximité des supporters.",
+  "Lieu « Stade de la Croix du Prince », 1964 : Des gradins en béton sont inaugurés le 27 avril 1964 juste à côté de la Tribune d'Honneur, censés être couverts plus tard.",
+  "Lieu « Stade de la Croix du Prince », aujourd'hui : Le Champ Bourda était situé à l'emplacement de l'actuel Square Mazoyer, à l'ouest de la rue du XIV juillet, entre les rues de Jurançon et la rue de l’Abattoir, aujourd'hui rue du Colonel Gloxin et Amédée Roussille, qui était alors situées sur le territoire de la commune de Jurançon.",
+  "Lieu « Champ Bourda » : Le Champ Bourda, également connu sous le nom de Pelouse de la Ligue Girondine à partir de 1908, est un ancien complexe sportif situé à Pau, dans le quartier du 14-Juillet, en bordure du gave de Pau.",
+  "Lieu « Champ Bourda », 1901 : Le terrain est amélioré à partir de 1901 pour accueillir la pratique de la barrette aquitaine, sport de contact précurseur du rugby, sous l’impulsion du Stade palois, fondé par d’anciens élèves du lycée de Pau.",
+  "Lieu « Champ Bourda », 1906 : Inauguré officiellement le 21 octobre 1906 par le ministre Joseph Ruau et Louis Barthou lors de la Fête de la Mutualité agricole de Pau, le Champ Bourda marque durablement l’histoire sportive locale.",
+  "Lieu « Champ Bourda », 1928 : D'une capacité de 5 000 places, il comprend deux tribunes avant d’être démoli en 1928 pour laisser place à des lotissements.",
+  "Lieu « Champ Bourda », aujourd'hui : Seul subsiste aujourd’hui le square Mazoyer, situé à l’ouest de la rue du XIV-Juillet, entre les rues de Jurançon et de l’Abattoir, en mémoire de ce lieu sportif emblématique.",
+  "Lieu « Stadium de la Gare » : Le stadium de la Gare était un complexe sportif de la ville de Pau inauguré le 30 octobre 1924, destiné à la pratique de la pelote basque.",
+  "Lieu « Stadium de la Gare », 1921 : Ce complexe, dont la construction a commencé en 1921, est inauguré le 30 octobre 1924 avant d'être rasé en 2006.",
+  "Lieu « Stadium de la Gare », 1924 : Le stadium de la Gare était un complexe sportif de la ville de Pau inauguré le 30 octobre 1924, destiné à la pratique de la pelote basque.",
+  "Lieu « Stadium de la Gare », 2006 : À sa destruction en 2006, le complexe a été converti en parking desservant le funiculaire de Pau, la gare de Pau, et occasionnellement Hestiv'Òc.",
+  "Lieu « Stadium de la Gare », aujourd'hui : L’emplacement devient alors un parking, et où l’un des deux frontons extérieurs est conservé."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 9
+ }
+}
