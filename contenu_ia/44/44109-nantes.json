@@ -1,0 +1,354 @@
+{
+ "commune": {
+  "titre": "Nantes",
+  "code_insee": "44109",
+  "departement": "44",
+  "population": 327734,
+  "lat": 47.2382,
+  "lon": -1.5603,
+  "url": "https://fr.wikipedia.org/wiki/Nantes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:13:25",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3749,
+  "sortie": 2252
+ },
+ "cout_usd": 0.003565,
+ "accroche": "En 1903, le pont transbordeur à nacelle est ouvert à Nantes pour faciliter la traversée du bras nord de la Loire, « la Madeleine », jusqu’en 1958.",
+ "histoire": {
+  "recit": "Nantes s’étire sur les rives de la Loire, chef-lieu de la Loire-Atlantique et de la région Pays de la Loire, au sein de la Bretagne historique. On y devine des origines anciennes liées à la métallurgie : des ateliers sont découverts sur des secteurs correspondant aux quartiers actuels, et des hommes venus de la péninsule Ibérique s’y installent vers 2000 avant J.-C.\n\nPlus tard, la ville devient une scène politique et militaire. En 1485, Pierre Landais y est pendu. En 1796, c’est un autre chef vendéen, le lieutenant général de Charette, qui y est exécuté. Puis, le 20 octobre 1799, des Chouans attaquent Nantes, occupée quelques heures.\n\nAu XXe siècle, Nantes change de visage : en 1903, le pont transbordeur relie les usages du quotidien au bras nord de la Loire. La ville est aussi marquée par la guerre, avec une occupation à partir du 19 juin 1940.\n\nAujourd’hui, plusieurs lieux conservent des récits superposés, des incendies de la cathédrale aux transformations du Grand séminaire Saint-Jean, et jusqu’aux traces insolites découvertes à la Tour Bretagne.",
+  "chronologie": [
+   {
+    "date": "vers 2000 av. J.-C.",
+    "texte": "Des hommes venus de la péninsule Ibérique s’installent, tandis que l’activité métallurgique se devine par la présence de métaux et d’ateliers découverts sur les sites des quartiers actuels.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1485",
+    "texte": "Pierre Landais, trésorier du duché, est pendu à Nantes à la suite de la conjuration d’une partie de la noblesse bretonne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1796",
+    "texte": "Le lieutenant général de Charette, chef vendéen, est exécuté sur la même place à Nantes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1799",
+    "texte": "Le 20 octobre 1799, 2 000 Chouans attaquent Nantes, occupée quelques heures.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1903",
+    "texte": "Le pont transbordeur (à nacelle) est ouvert pour la traversée du bras nord de la Loire, « la Madeleine », jusqu’en 1958.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "À partir du 19 juin 1940, Nantes est occupée par l’armée allemande.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Pierre-et-Saint-Paul de Nantes",
+   "histoire": "La cathédrale Saint-Pierre-et-Saint-Paul de Nantes s’élève place Saint-Pierre. Avant elle, trois édifices chrétiens ont précédé sur les mêmes lieux : une basilique au IVe siècle, une première cathédrale au VIe siècle, puis une deuxième cathédrale romane au XIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le 28 janvier 1972, un incendie accidentel détruit la plus grande partie de la toiture durant des travaux de restauration.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Le 18 juillet 2020, un nouvel incendie d’origine criminelle détruit l’orgue du XVIIe siècle et le grand vitrail posé en 1498, représentant la duchesse-reine Anne et sa mère.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Le site aurait d’abord été occupé par un temple druidique dédié à Janus, appelé « Bouljanus ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 47.218315,
+   "lon": -1.550864,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Pierre-et-Saint-Paul_de_Nantes"
+  },
+  {
+   "nom": "Affaire Dupont de Ligonnès",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "Dans cette affaire, la trace de Xavier Dupont de Ligonnès se perd à partir d’une date indiquée comme « aujourd’hui ».",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "En 2023, toutes les pistes restent ouvertes et la police judiciaire de Nantes continue l’enquête tant qu’aucun nouvel élément n’est apporté ; Xavier Dupont de Ligonnès reste sous le coup d’une notice bleue.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Le 27 février 2013, un appel à témoins est prévu en Allemagne, mais est abandonné après remarques de la partie civile.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 47.2361323,
+   "lon": -1.5684861,
+   "url": "https://fr.wikipedia.org/wiki/Affaire_Dupont_de_Ligonn%C3%A8s"
+  },
+  {
+   "nom": "Grand séminaire Saint-Jean",
+   "histoire": "Le Grand séminaire Saint-Jean est un séminaire interdiocésain situé à Nantes (quartier Breil - Barberie). La vie communautaire y est organisée en fraternités depuis des travaux de transformation intérieure inaugurés en 2022.",
+   "anecdotes": [
+    {
+     "texte": "La transformation intérieure du bâtiment est inaugurée en 2022, avec une vie communautaire organisée en fraternités.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S23",
+    "S24",
+    "S21",
+    "S22"
+   ],
+   "lat": 47.2327412,
+   "lon": -1.5709162,
+   "url": "https://fr.wikipedia.org/wiki/Grand_s%C3%A9minaire_Saint-Jean"
+  },
+  {
+   "nom": "Tour Bretagne",
+   "histoire": "La Tour Bretagne est un immeuble de bureaux situé dans le centre-ville de Nantes, entre la place de Bretagne, les rues de l’Arche-Sèche et de l’Abreuvoir, et la place du Cirque.",
+   "anecdotes": [
+    {
+     "texte": "En février 2017, des traces de poussières d’amiante sont découvertes dans les clapets de désenfumage du bâtiment.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    },
+    {
+     "texte": "Le bâtiment est conçu pour s’élever sur une parcelle trapézoïdale présentant un dénivelé de 15 mètres.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 47.21771,
+   "lon": -1.55844,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Bretagne"
+  },
+  {
+   "nom": "Basilique Saint-Donatien-et-Saint-Rogatien",
+   "histoire": "La basilique Saint-Donatien-et-Saint-Rogatien, de style néo-roman, se trouve dans le quartier Malakoff - Saint-Donatien à Nantes. Un premier édifice est détruit lors des invasions normandes, puis une nouvelle église voit le jour vers l’an 980. Transformée en hôpital pendant la Révolution, elle est vendue en 1796.",
+   "anecdotes": [
+    {
+     "texte": "En 1873, des fouilles mettent au jour un ancien cimetière païen et une fosse au centre de l’abside contenant 27 clous attribués aux cercueils des deux martyrs.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 47.2292588,
+   "lon": -1.5424418,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Donatien-et-Saint-Rogatien"
+  },
+  {
+   "nom": "Collégiale Notre-Dame de Nantes",
+   "histoire": "La collégiale Notre-Dame, aussi appelée église royale et collégiale Notre-Dame, est une ancienne église catholique de Nantes construite à la fin du Xe siècle, puis aménagée jusqu’au XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 47.218465,
+   "lon": -1.552207,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame_de_Nantes"
+  },
+  {
+   "nom": "Rue du Roi-Albert (Nantes)",
+   "histoire": "La rue du Roi-Albert est une voie de Nantes. En 1777, elle s’inscrit dans l’urbanisation des zones laissées libres par la destruction des remparts du XVe siècle, et relie la Chambre des comptes de Bretagne à la cathédrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 47.219299,
+   "lon": -1.551761,
+   "url": "https://fr.wikipedia.org/wiki/Rue_du_Roi-Albert_%28Nantes%29"
+  },
+  {
+   "nom": "Cimetière Miséricorde",
+   "histoire": "Le cimetière Miséricorde est un lieu de sépulture situé dans le quartier Hauts-Pavés - Saint-Félix à Nantes. Ouvert en 1793, il est surnommé au XXIe siècle « le Père-Lachaise nantais ».",
+   "anecdotes": [
+    {
+     "texte": "À la suite d’une attaque des Chouans le 29 juin 1793, le cimetière est ravagé.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    },
+    {
+     "texte": "Au XXIe siècle, il est surnommé « le Père-Lachaise nantais ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S46"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 47.2231969,
+   "lon": -1.5678048,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_Mis%C3%A9ricorde"
+  }
+ ],
+ "sources": [
+  "Nantes (/nɑ̃t/ ; en gallo : Naonte ou Nante ; en breton : Naoned) est une commune de l'ouest de la France, située au sud du Massif armoricain, qui s'étend sur les rives de la Loire, à 50 km de l'océan Atlantique. Chef-lieu du département de la Loire-Atlantique et préfecture de la région Pays de la Loire, elle fait partie de la Bretagne historique, située en Pays nantais, un des pays traditionnels de Bretagne. Elle […]",
+  "Le peuplement est sans doute lié à l'activité métallurgique et à la présence de métaux (cassitérite, fer) sur le site de la ville actuelle et plus au nord (mine d'Abbaretz, Nozay, Gâvre) ; on note l'installation d'hommes venus de la péninsule Ibérique vers 2000 av. J.-C. Plusieurs ateliers métallurgiques datant des VIIIe et VIIe siècles av. J.-C. ont été découverts sur les sites des actuels Chantenay, Jardin des […]",
+  "1485 : Pierre Landais, trésorier du duché et partisan d'une politique d'indépendance vis à vis du royaume de France, y est pendu en 1485 à la suite de la conjuration d'une partie de la noblesse bretonne.",
+  "1796 : En 1796, un autre chef vendéen est exécuté sur cette même place : le lieutenant général de Charette.",
+  "1799 : Le 20 octobre 1799, 2 000 Chouans attaquent Nantes qui est occupée pendant quelques heures.",
+  "1903 : Une image symbolique reste de cette époque, avec le pont transbordeur (à nacelle) qui fut ouvert en 1903, et opérationnel jusqu'en 1958, pour faciliter la traversée du bras nord de la Loire, « la Madeleine », par le public et les entreprises du secteur, notamment les chantiers Dubigeon et la Fonderie Voruz.",
+  "1933 : Un procès tenu en 1933 qui sauvegarde les intérêts des armateurs, déboute les familles des naufragés.",
+  "1940 : Pendant la Seconde Guerre mondiale, Nantes est occupée par l'armée allemande à partir du 19 juin 1940.",
+  "1941 : Vingt-sept sont exécutés le 22 octobre 1941 dans une sablière de Châteaubriant, à 70 km de Nantes (sablière renommée par la suite Carrière des Fusillés).",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Nantes » : La cathédrale Saint-Pierre-et-Saint-Paul de Nantes (appelée aussi localement « cathédrale Saint-Pierre ») est une cathédrale catholique située place Saint-Pierre, à Nantes (Loire-Atlantique).",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Nantes », IVe siècle : Par la suite, trois édifices religieux chrétiens ont précédé l'actuelle cathédrale sur les mêmes lieux : une basilique bâtie au IVe siècle ; une première cathédrale, bâtie au VIe siècle ; une deuxième cathédrale romane, bâtie au XIe siècle.",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Nantes », 1972 : Durant les travaux de restauration, un incendie accidentel se déclare le 28 janvier 1972, détruisant la plus grande partie de la toiture.",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Nantes », 2020 : Le 18 juillet 2020 un nouvel incendie, d'origine criminelle, détruit l'orgue du XVIIe siècle, le grand vitrail de la façade ouest posé en 1498, représentant la duchesse-reine Anne et sa mère, ainsi que divers éléments du mobilier.",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Nantes », aujourd'hui : Le site aurait été initialement occupé par un temple druidique dédié à Janus ou « Bouljanus ».",
+  "Lieu « Affaire Dupont de Ligonnès » : L'affaire Xavier Dupont de Ligonnès est un quintuple meurtre non élucidé survenu à Nantes (Loire-Atlantique) en France.",
+  "Lieu « Affaire Dupont de Ligonnès », 1998 : À cette occasion, il se fait conseiller par Gérard Corona, expatrié français dirigeant de l'entreprise Strategy Netcom fondée en 1998.",
+  "Lieu « Affaire Dupont de Ligonnès », 2013 : Le 27 février 2013, la police allemande a prévu de lancer un appel à témoins dans l'émission de télévision Aktenzeichen XY ungelöst sur la chaîne publique ZDF pour retrouver Claudia, appel à témoins abandonné lorsque la partie civile, la sœur et le beau-frère de Xavier Dupont de Ligonnès, ont fait remarquer que le dossier d'instruction contenait ses coordonnées mail.",
+  "Lieu « Affaire Dupont de Ligonnès », 2023 : En 2023, toutes les pistes restent ouvertes et la police judiciaire de Nantes continuera l'enquête tant qu'aucun nouvel élément ne sera apporté : Xavier Dupont de Ligonnès reste sous le coup d’une notice bleue (témoin).",
+  "Lieu « Affaire Dupont de Ligonnès », aujourd'hui : La trace de Xavier Dupont de Ligonnès se perd à partir de cette date.",
+  "Lieu « Grand séminaire Saint-Jean » : Le Grand séminaire Saint-Jean est un séminaire interdiocésain situé à Nantes (quartier Breil - Barberie) couvrant les cinq diocèses des Pays de la Loire (Angers, Nantes, Laval, Le Mans et Luçon), mais aussi ceux des îles de l’Océan Indien : les diocè",
+  "Lieu « Grand séminaire Saint-Jean », 1801 : Le Concordat de 1801 rétablit la liberté de culte et un Grand Séminaire est ouvert rue Dufour en 1807.",
+  "Lieu « Grand séminaire Saint-Jean », 1905 : En 1905, la loi de séparation des églises et de l'État contraint les séminaristes à quitter de nouveau les bâtiments qu'ils occupaient depuis près d'un siècle.",
+  "Lieu « Grand séminaire Saint-Jean », 2022 : En 2022, inauguration des travaux de transformation intérieure du bâtiment : la vie communautaire est organisée en fraternités.",
+  "Lieu « Grand séminaire Saint-Jean », aujourd'hui : Un Petit séminaire est également créé à l'emplacement de l'ancien monastère des Couëts à Bouguenais.",
+  "Lieu « Tour Bretagne » : La tour Bretagne, qui a été inaugurée le 18 novembre 1976, est un immeuble de bureaux situé dans le centre-ville de Nantes, entre la place de Bretagne, les rues de l'Arche-Sèche et de l'Abreuvoir, et la place du Cirque (sur le cours des 50-Otages, an",
+  "Lieu « Tour Bretagne », 1966 : Entre 1966 et 1968, l'architecte Claude Devorsine et l'ingénieur-conseil Marcel André, conçoivent un bâtiment devant s'élever sur une parcelle trapézoïdale, présentant un dénivelé de 15 mètres.",
+  "Lieu « Tour Bretagne », 1976 : La tour Bretagne, qui a été inaugurée le 18 novembre 1976, est un immeuble de bureaux situé dans le centre-ville de Nantes, entre la place de Bretagne, les rues de l'Arche-Sèche et de l'Abreuvoir, et la place du Cirque (sur le cours des 50-Otages, ancien cours de l'Erdre).",
+  "Lieu « Tour Bretagne », 2017 : Fin 2017, les étages de la Tour Bretagne sont ainsi principalement occupés par la direction des ressources numériques de Nantes Métropole, ceux de l'Unité territoriale 44 de la DIRECCTE (anciennement Inspection du travail de Loire-Atlantique), les services informatiques de la DGFiP.",
+  "Lieu « Tour Bretagne », aujourd'hui : En février 2017, des traces de poussières d'amiante sont découvertes dans les clapets de désenfumage du bâtiment.",
+  "Lieu « Basilique Saint-Donatien-et-Saint-Rogatien » : La basilique Saint-Donatien-et-Saint-Rogatien est une basilique française de style néo-roman située dans le quartier Malakoff - Saint-Donatien de Nantes.",
+  "Lieu « Basilique Saint-Donatien-et-Saint-Rogatien », 980 : Les invasions normandes détruisent le premier édifice qui, une fois la paix revenue, laisse place à une nouvelle église vers l'an 980.",
+  "Lieu « Basilique Saint-Donatien-et-Saint-Rogatien », 1796 : Transformée en hôpital pendant la Révolution, elle est vendue en 1796.",
+  "Lieu « Basilique Saint-Donatien-et-Saint-Rogatien », 1873 : Des fouilles effectuées en 1873 mettent au jour un ancien cimetière païen, une fosse au centre de l'abside contenant 27 clous attribués aux cercueils des deux martyrs et révèlent que quatre églises furent successivement bâties.",
+  "Lieu « Basilique Saint-Donatien-et-Saint-Rogatien », aujourd'hui : L'édifice s'élève à l'emplacement d'une ancienne villa gallo-romaine.",
+  "Lieu « Collégiale Notre-Dame de Nantes » : La collégiale Notre-Dame, ou église royale et collégiale Notre-Dame, est une ancienne église catholique de Nantes, en France, construite à la fin du Xe siècle, et aménagée jusqu'au XVIIIe siècle.",
+  "Lieu « Collégiale Notre-Dame de Nantes », Xe siècle : La collégiale Notre-Dame, ou église royale et collégiale Notre-Dame, est une ancienne église catholique de Nantes, en France, construite à la fin du Xe siècle, et aménagée jusqu'au XVIIIe siècle.",
+  "Lieu « Collégiale Notre-Dame de Nantes », 1325 : L'église Sainte-Marie, sans doute transformée, est érigée en collégiale, sous le nom de Notre-Dame de Nantes, par l'évêque de Nantes Daniel Vigier, en 1325.",
+  "Lieu « Collégiale Notre-Dame de Nantes », XIXe siècle : Elle fut démolie après avoir été laissée à l'état de ruine, au début du XIXe siècle.",
+  "Lieu « Collégiale Notre-Dame de Nantes », aujourd'hui : Il n'en reste que quelques traces sur des bâtiments anciens.",
+  "Lieu « Rue du Roi-Albert (Nantes) » : La rue du Roi-Albert est une voie de Nantes, en France.",
+  "Lieu « Rue du Roi-Albert (Nantes) », 1777 : Il s'agit alors d'urbaniser les zones laissées libres par la destruction des remparts du XVe siècle, entamée en 1777, et de relier le tout récent bâtiment de la Chambre des comptes de Bretagne à la cathédrale.",
+  "Lieu « Rue du Roi-Albert (Nantes) », 1829 : L'atelier dans cette dernière est abandonné en 1829, lorsque la famille Voruz concentre ses activités dans le quartier Launay.",
+  "Lieu « Rue du Roi-Albert (Nantes) », 1830 : Remplaçant les petites maisons et les masures, les immeubles qui bordent la rue sont construits entre 1830 et 1840.",
+  "Lieu « Rue du Roi-Albert (Nantes) », aujourd'hui : C'est l'architecte Jean-Baptiste Ceineray (1722-1811) qui, à la fin du XVIIIe siècle, trace le premier plan de cette rue.",
+  "Lieu « Cimetière Miséricorde » : Le cimetière Miséricorde est un lieu de sépulture situé dans le quartier Hauts-Pavés - Saint-Félix à Nantes, en France.",
+  "Lieu « Cimetière Miséricorde », 1793 : Ouvert en 1793, il est surnommé au XXIe siècle « le Père-Lachaise nantais ».",
+  "Lieu « Cimetière Miséricorde », 1793 : À la suite d'une attaque des Chouans le 29 juin 1793, le lieu est ravagé.",
+  "Lieu « Cimetière Miséricorde », 1794 : Avec la période révolutionnaire, la mortalité augmente, à tel point que le 24 janvier 1794 il n'y a plus de place à la Bouteillerie, ouvert vingt ans auparavant.",
+  "Lieu « Cimetière Miséricorde », aujourd'hui : Ce carré étant arrivé à saturation en 1987, la Mairie a accordé 108 emplacements du Cimetière Parc à la communauté juive."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Allemagne"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 12
+ }
+}

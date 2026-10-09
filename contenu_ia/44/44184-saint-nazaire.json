@@ -1,0 +1,275 @@
+{
+ "commune": {
+  "titre": "Saint-Nazaire",
+  "code_insee": "44184",
+  "departement": "44",
+  "population": 74568,
+  "lat": 47.2768,
+  "lon": -2.2392,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Nazaire"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:24:21",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3971,
+  "sortie": 1619
+ },
+ "cout_usd": 0.002818,
+ "accroche": "En 1861, le Fort de Villès-Martin est érigé à Saint-Nazaire pour renforcer la défense de l’estuaire.",
+ "histoire": {
+  "recit": "Saint-Nazaire, au bord de l’estuaire de la Loire et de la façade atlantique, se développe tôt : le site est habité au moins depuis l’époque néolithique, avec des constructions mégalithiques dont le dolmen aujourd’hui au cœur de la ville.\n\nAu XIXe siècle, la ville se transforme avec le port et la mer : l’installation des lignes postales transatlantiques et l’ouverture des premiers chantiers navals amorcent l’industrialisation, tandis que les “chantiers Scott” modernisent les installations portuaires. En 1862, la Compagnie générale transatlantique s’organise aussi à Saint-Nazaire.\n\nLa Seconde Guerre mondiale marque ensuite la ville. En août 1944, la “poche de Saint-Nazaire” forme une zone de résistance autour de la ville. Les bombardements de 1943 détruisent une grande part des habitations, et la reddition est signée le 8 mai 1945, avant une libération annoncée quelques jours plus tard.\n\nPlus récemment, Escal’Atlantic fait vivre l’histoire des paquebots, installé dans l’ancienne base sous-marine, et Méan reste un quartier structuré autour d’équipements et d’une histoire de déclin puis de renouveau lié aux chantiers navals.",
+  "chronologie": [
+   {
+    "date": "au moins depuis l'époque néolithique",
+    "texte": "Le site est habité au moins depuis l’époque néolithique, avec des constructions mégalithiques dont un dolmen au cœur de la ville actuelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1861",
+    "texte": "Le Fort de Villès-Martin est érigé pour renforcer la défense de l’estuaire.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1861",
+    "texte": "La Compagnie générale transatlantique est fondée à Saint-Nazaire.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "Les lignes postales transatlantiques vers l’Amérique centrale et l’ouverture des premiers chantiers navals lancent l’industrialisation et la modernisation des installations portuaires.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1923",
+    "texte": "La construction aéronautique fait son apparition à Saint-Nazaire avec des hydravions.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1926",
+    "texte": "Le Monument américain, dit le Sammy ou le Soldat de la liberté, est inauguré en mémoire de ces soldats.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Après l’évacuation en juin des forces alliées, le port est rapidement occupé par des unités de la Kriegsmarine.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "La ville subit neuf bombardements en 1943, dont celui du 28 février avec incendies et 600 foyers.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1944 (août) - 11 mai 1945",
+    "texte": "La poche de Saint-Nazaire constitue une zone de résistance autour de Saint-Nazaire du mois d’août 1944 au 11 mai 1945.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "8 mai 1945",
+    "texte": "L’acte de reddition des troupes allemandes de la poche est signé à Cordemais, avec une cérémonie le 11 mai à l’hippodrome de Bouvron.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "8 mai 1945",
+    "texte": "La capitulation est signée à 13h30 sur une table installée devant une maison au 107 rue des Sables (lieu-dit “Les Sables”).",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Poche de Saint-Nazaire",
+   "histoire": "Zone de résistance autour de Saint-Nazaire à la fin de la Seconde Guerre mondiale, du mois d’août 1944 au 11 mai 1945.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15"
+   ],
+   "lat": 47.2806,
+   "lon": -2.2086,
+   "url": "https://fr.wikipedia.org/wiki/Poche_de_Saint-Nazaire"
+  },
+  {
+   "nom": "Chantiers de l'Atlantique",
+   "histoire": "Chantier naval situé à Saint-Nazaire dans l’estuaire de la Loire, centré sur la construction de paquebots.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S24"
+   ],
+   "lat": 47.28348,
+   "lon": -2.190228,
+   "url": "https://fr.wikipedia.org/wiki/Chantiers_de_l%27Atlantique"
+  },
+  {
+   "nom": "Escal'Atlantic",
+   "histoire": "Centre d’interprétation sur l’histoire des paquebots transocéaniques, installé dans l’ancienne base sous-marine du port de Saint-Nazaire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il accueille des visiteurs et propose une visite immersive depuis la nouvelle version ouverte à l’été 2013.",
+   "sources": [
+    "S28",
+    "S27"
+   ],
+   "lat": 47.27623,
+   "lon": -2.20301,
+   "url": "https://fr.wikipedia.org/wiki/Escal%27Atlantic"
+  },
+  {
+   "nom": "Ancienne gare de Saint-Nazaire",
+   "histoire": "Ancienne gare ferroviaire des lignes de Tours à Saint-Nazaire et de Saint-Nazaire au Croisic, mise en service en 1866 puis remplacée par l’installation actuelle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle jouxte la gare maritime de la Compagnie générale transatlantique, à l’emplacement où a été construite la base sous-marine.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 47.2777514,
+   "lon": -2.2047758,
+   "url": "https://fr.wikipedia.org/wiki/Ancienne_gare_de_Saint-Nazaire"
+  },
+  {
+   "nom": "Gare de Saint-Nazaire",
+   "histoire": "Gare ferroviaire des lignes de Tours à Saint-Nazaire et de Saint-Nazaire au Croisic.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S39"
+   ],
+   "lat": 47.286756,
+   "lon": -2.2110006,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Nazaire"
+  },
+  {
+   "nom": "Port de Saint-Nazaire",
+   "histoire": "Port de commerce à Saint-Nazaire, développé notamment par la construction navale et des activités de manutention portuaire et réparation navale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S44"
+   ],
+   "lat": 47.2813,
+   "lon": -2.1986,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Saint-Nazaire"
+  },
+  {
+   "nom": "Méan (Saint-Nazaire)",
+   "histoire": "Quartier de Saint-Nazaire à l’est de la ville, dont les chantiers familiaux ont décliné, tandis que l’ensemble s’est réorganisé autour d’équipements et d’une église.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Méan possède aujourd’hui une mairie annexe, des écoles primaires et l’église Saint-Joseph-de-Méan.",
+   "sources": [
+    "S49",
+    "S47"
+   ],
+   "lat": 47.3017009,
+   "lon": -2.1874809,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9an_%28Saint-Nazaire%29"
+  },
+  {
+   "nom": "Gare de Saint-André-des-Eaux",
+   "histoire": "Gare ferroviaire fermée située sur le territoire de Saint-Nazaire, à la limite du village de Saint-André-des-Eaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un second quai, plus ancien et en plus mauvais état, est toujours visible.",
+   "sources": [
+    "S50",
+    "S53"
+   ],
+   "lat": 47.296811,
+   "lon": -2.29352,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Andr%C3%A9-des-Eaux"
+  }
+ ],
+ "sources": [
+  "Saint-Nazaire est une commune de l'Ouest de la France, chef-lieu d'arrondissement du département de la Loire-Atlantique dans la région Pays de la Loire. La ville est située dans le Massif armoricain, sur la façade atlantique et à l'estuaire de la Loire. Saint-Nazaire constitue avec Nantes un pôle économique important du Grand Ouest, notamment grâce aux infrastructures portuaires du grand port maritime de […]",
+  "Le site de Saint-Nazaire est habité au moins depuis l'époque néolithique, comme le prouve la présence de constructions mégalithiques, comme le tumulus de Dissignac ou le dolmen situé au cœur de la ville actuelle. Des vestiges de l'époque néolithique et de l'âge du bronze ont été retrouvés dans l'anse de la Ville-Halluard ou au XIXe siècle lors de la construction du premier bassin portuaire de Penhoët. Le dolmen des […]",
+  "1861 : En 1861, le Fort de Villès-Martin est érigé pour renforcer la défense de l'estuaire.",
+  "1861 : La Compagnie générale transatlantique est fondée en 1861 à Saint-Nazaire.",
+  "1862 : L'installation des lignes postales transatlantiques vers l'Amérique centrale en 1862 ainsi que l'ouverture des premiers chantiers navals amorcent l'industrialisation de la ville et la modernisation de ses installations portuaires notamment avec les chantiers Scott.",
+  "1923 : La construction aéronautique fait son apparition vers 1923 et construit des hydravions.",
+  "1926 : En mémoire de ces soldats est inauguré, en 1926, le Monument américain, dit Le Sammy ou Le Soldat de la liberté.",
+  "1932 : En 1932, le casino de Saint-Nazaire est revendu à l’évêché de Nantes, qui le rase en partie et construit une école privée.",
+  "1940 : En 1940, après l’évacuation en juin des forces alliées lors de l’opération Ariel, marquée par la tragédie du RMS Lancastria, le port est rapidement occupé par des unités de la Kriegsmarine.",
+  "1941 : Les trois premières alvéoles sont inaugurées le 30 juin 1941 après à peine quatre mois de travaux, par l'amiral Dönitz en personne et Fritz Todt.",
+  "1943 : En 1943, la ville de Saint-Nazaire est évacuée après de nouveaux raids meurtriers.",
+  "1943 : L'année 1943 connaît neuf bombardements dont le 3 janvier (bombardement de la base sous-marine en travaux), les 28 février (bombes explosives et incendiaires créant 600 foyers d’incendies) et 29 mai, qui détruiront 60 % des habitations et des commerces, dont l'hôtel de ville.",
+  "1945 : Celle-ci fut libérée trois jours après la capitulation nazie, soit le 11 mai 1945.",
+  "2019 : En 2019, une réplique est réalisée par les élèves du lycée Brossaud-Blancho et installée au bord de l'étang du Bois-Joalland, un lac artificiel aménagé en 1918 par l'armée américaine.",
+  "Lieu « Poche de Saint-Nazaire » : La poche de Saint-Nazaire est, à la fin de la Seconde Guerre mondiale, du mois d'août 1944 au 11 mai 1945, une zone de résistance de 1500 km2 des troupes allemandes repliées autour de Saint-Nazaire (alors en Loire-Inférieure), de part et d'autre de l",
+  "Lieu « Poche de Saint-Nazaire », 1944 : En octobre 1944, un assez grand nombre de civils enfermés dans la poche (femmes et enfants) sont autorisés à quitter la poche pour gagner le territoire libéré, ce qui soulage les Allemands d'autant de bouches à nourrir.",
+  "Lieu « Poche de Saint-Nazaire », 1945 : Ce n'est que le 8 mai 1945, jour de la capitulation du Troisième Reich à Berlin, qu'est signé à Cordemais l'acte de reddition des troupes allemandes de la poche, une cérémonie officielle ayant lieu le 11 mai à l'hippodrome de Bouvron.",
+  "Lieu « Poche de Saint-Nazaire », 1945 : La capitulation est signée sur une table dressée devant la maison située au 107 rue des Sables (lieu-dit « Les Sables ») sur la route menant à Saint-Étienne-de-Montluc, le 8 mai 1945 à 13h30, le jour même de la capitulation de l'Allemagne.",
+  "Lieu « Poche de Saint-Nazaire », aujourd'hui : Les réfugiés, une fois arrivés en gare de Nantes, sont soumis à un contrôle dans les locaux du lycée Clemenceau, en partie occupé par l'armée américaine après la libération de Nantes.",
+  "Lieu « Chantiers de l'Atlantique » : Les Chantiers de l'Atlantique sont un chantier naval situé à Saint-Nazaire, dans l'estuaire de la Loire, en France.",
+  "Lieu « Chantiers de l'Atlantique », 1862 : Le 18 janvier 1862, John Scott, industriel écossais, signe un contrat avec les frères Pereire de la Compagnie générale transatlantique (CGT), s'engageant sur la livraison de huit paquebots à voiles et roues à aubes, dont cinq construits en France.",
+  "Lieu « Chantiers de l'Atlantique », 1869 : L'activité sera reprise sous le nom des Chantiers de l’Océan entre 1869 et 1870, sans succès, malgré la réalisation du Ville de Brest, premier navire à hélices construit en France.",
+  "Lieu « Chantiers de l'Atlantique », 1879 : Les forges de Trignac, fondées à proximité en 1879, vont permettre de fournir plus facilement le chantier naval en plaques d'acier constitutives de la coque des paquebots.",
+  "Lieu « Chantiers de l'Atlantique », aujourd'hui : Il est aujourd'hui axé sur son marché historique : la construction de paquebots.",
+  "Lieu « Escal'Atlantic » : Escal’Atlantic est un centre d'interprétation sur l’histoire des paquebots transocéaniques, situé en France dans la commune de Saint-Nazaire, dans le département de Loire-Atlantique en région Pays de la Loire.",
+  "Lieu « Escal'Atlantic », 1960 : Il comprend un parcours scénographié couvrant 3 700 m2 établis sur trois niveaux, et comporte près de 200 objets de collection, provenant de paquebots construits à Saint-Nazaire entre la fin du xixe siècle et le début des années 1960.",
+  "Lieu « Escal'Atlantic », 2000 : Situé dans l’ancienne base sous-marine du port de Saint-Nazaire, Escal’Atlantic a accueilli plus de 2 millions de visiteurs depuis son ouverture en 2000.",
+  "Lieu « Escal'Atlantic », 2013 : Dans sa nouvelle version, ouverte depuis l’été 2013, cet équipement touristique et culturel associe un parcours scénographié, inspiré de l’architecture des paquebots, des objets de collections remarquables et des dispositifs multimédia pour une visite immersive dans l’univers des paquebots.",
+  "Lieu « Escal'Atlantic », aujourd'hui : Entre 1862 et 2013, les chantiers navals de Saint-Nazaire ont construit 121 paquebots (de ligne et aujourd’hui de croisière), dont 36 pour la seule Compagnie générale transatlantique.",
+  "Lieu « Ancienne gare de Saint-Nazaire » : L'ancienne gare de Saint-Nazaire est une ancienne gare ferroviaire française des lignes de Tours à Saint-Nazaire et de Saint-Nazaire au Croisic.",
+  "Lieu « Ancienne gare de Saint-Nazaire », 1866 : Elle est mise en service en 1866 pour remplacer une gare provisoire ouverte en 1857 par la compagnie du chemin de fer de Paris à Orléans (PO).",
+  "Lieu « Ancienne gare de Saint-Nazaire », 1879 : Elle devient une gare de bifurcation en 1879 lors de l'ouverture de la ligne de Saint-Nazaire au Croisic.",
+  "Lieu « Ancienne gare de Saint-Nazaire », 1950 : La gare ferme dans les années 1950 lors de l'ouverture de l'actuelle gare de Saint-Nazaire.",
+  "Lieu « Ancienne gare de Saint-Nazaire », aujourd'hui : Elle jouxte la gare maritime de la Compagnie générale transatlantique à l'emplacement de laquelle a été construite la base sous-marine de Saint-Nazaire.",
+  "Lieu « Gare de Saint-Nazaire » : La gare de Saint-Nazaire est une gare ferroviaire française des lignes de Tours à Saint-Nazaire et de Saint-Nazaire au Croisic.",
+  "Lieu « Gare de Saint-Nazaire », 1857 : La première gare de Saint-Nazaire est ouverte par la compagnie du chemin de fer de Paris à Orléans (PO) en 1857.",
+  "Lieu « Gare de Saint-Nazaire », 1950 : Lors de la reconstruction de la ville au début des années 1950, cette première gare est abandonnée au profit d'un nouveau site en périphérie, qui permet de supprimer le rebroussement des convois.",
+  "Lieu « Gare de Saint-Nazaire », 1955 : Elle est mise en service en 1955, en remplacement de l’ancienne gare qui était ouverte depuis 1857 par la compagnie du chemin de fer de Paris à Orléans (PO).",
+  "Lieu « Gare de Saint-Nazaire », aujourd'hui : Elle est séparée de cette dernière par la gare aujourd'hui fermée de Saint-André-des-Eaux.",
+  "Lieu « Port de Saint-Nazaire » : Le port de Saint-Nazaire est un port de commerce situé à Saint-Nazaire, dans le département français de la Loire-Atlantique.",
+  "Lieu « Port de Saint-Nazaire », 1835 : En 1835, le « vieux môle » doté d'un phare est construit, offrant un abri aux bateaux des pilotes de la Loire.",
+  "Lieu « Port de Saint-Nazaire », 1838 : En 1838 est prise la décision de faire de Saint-Nazaire l'avant-port de Nantes et en 1856, le creusement du bassin de Saint-Nazaire est achevé.",
+  "Lieu « Port de Saint-Nazaire », 1867 : En 1867, une gare ferroviaire de la Compagnie du chemin de fer de Paris à Orléans est construite à proximité de la gare maritime, faisant de Saint-Nazaire le port de la façade Atlantique le plus proche de la capitale française.",
+  "Lieu « Port de Saint-Nazaire », aujourd'hui : Exerçant de nos jours des activités de manutention portuaire et de réparation navale, son développement est notamment soutenu par la construction navale et plus récemment par les filières liées aux énergies marines.",
+  "Lieu « Méan (Saint-Nazaire) » : Méan est aujourd'hui un quartier de Saint-Nazaire en Loire-Atlantique, situé à l'est de la ville.",
+  "Lieu « Méan (Saint-Nazaire) », XIXe siècle : L'ouverture des chantiers navals modernes de Saint-Nazaire, l'envasement du Brivet, la fin du commerce de la tourbe des marais de Brière entraînent le déclin de ces chantiers familiaux, dont l'activité cesse totalement à la fin du XIXe siècle.",
+  "Lieu « Méan (Saint-Nazaire) », 1854 : Aujourd'hui, le quartier possède : une mairie annexe (commune avec celle de Penhoët) ; des écoles primaires ; une église : Saint-Joseph-de-Méan : une première église, bâtie rue de Trignac en 1854, devient trop petite en raison de l'augmentation de la population.",
+  "Lieu « Méan (Saint-Nazaire) », 1891 : Les habitants participent alors au financement du nouveau lieu de culte, l'église Saint-Joseph, inaugurée en 1891, d'une capacité de 1600 places.",
+  "Lieu « Méan (Saint-Nazaire) », aujourd'hui : Méan est aujourd'hui un quartier de Saint-Nazaire en Loire-Atlantique, situé à l'est de la ville.",
+  "Lieu « Gare de Saint-André-des-Eaux » : La gare de Saint-André-des-Eaux est une gare ferroviaire française fermée de la ligne de Saint-Nazaire au Croisic, située sur le territoire de la commune de Saint-Nazaire, à la limite du village de Saint-André-des-Eaux, dans le département de la Loir",
+  "Lieu « Gare de Saint-André-des-Eaux », 1879 : Édifiée par la Compagnie des trains de Saint-Nazaire au Croisic, elle est mise en service en 1879 par l'administration des chemins de fer de l'État, avant de devenir une gare du réseau de la Compagnie du chemin de fer de Paris à Orléans (PO) en 1884.",
+  "Lieu « Gare de Saint-André-des-Eaux », 1964 : Reconstruite en 1964, la gare n'est plus desservie depuis 1986, année de l'électrification de la ligne.",
+  "Lieu « Gare de Saint-André-des-Eaux », aujourd'hui : Un second quai, plus ancien, moins haut et en plus mauvais état est toujours visible et servait à desservir la voie d'évitement disparue."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
