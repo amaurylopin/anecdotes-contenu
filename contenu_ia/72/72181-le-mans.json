@@ -1,0 +1,346 @@
+{
+ "commune": {
+  "titre": "Le Mans",
+  "code_insee": "72181",
+  "departement": "72",
+  "population": 146249,
+  "lat": 48.004167,
+  "lon": 0.196944,
+  "url": "https://fr.wikipedia.org/wiki/Le_Mans"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:09",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3480,
+  "sortie": 2032
+ },
+ "cout_usd": 0.003236,
+ "accroche": "Le Mans est libéré le 8 août 1944, malgré le dynamitage de presque tous les ponts, sauf le pont Gambetta. ",
+ "histoire": {
+  "recit": "Ville à la confluence de la Sarthe et de l’Huisne, Le Mans s’est d’abord imposée comme capitale du Maine. Très tôt, elle attire les alliances : une confraternité avec Paderborn est signée, et ses habitants proclament leur rang auprès du pouvoir royal. Plus tard, la ville assume son savoir-faire : sculptures de terres cuites polychromiques jusqu’à la période révolutionnaire, puis une série d’édifices entre le XVIe et le XVIIe siècle.\n\nÀ la charnière des transports, la gare ouvre le 28 mai 1854 et déclenche des fêtes. Le choc de la guerre arrive ensuite : le 8 août 1944, la ville est libérée.\n\nDans le même temps, les lieux donnent une trajectoire nette : l’ancien Palais des comtes du Maine, aujourd’hui hôtel de ville, traverse incendie, tempête et effondrement de charpente avant d’être reconstruit; l’enceinte gallo-romaine rappelle l’ancienne Vindinum; au Vieux-Mans, l’hôtel de Vignolles conserve la trace de restaurations et de divisions qui ont marqué sa forme. ",
+  "chronologie": [
+   {
+    "date": "836",
+    "texte": "Le Mans signe avec Paderborn le premier traité trans-frontalier de confraternité d’Europe.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1056",
+    "texte": "L’évêque Vulgrin ordonne l’arasement de la première cathédrale et la construction d’un nouveau bâtiment à la cathédrale Saint-Julien du Mans.",
+    "sources": [
+     "S45"
+    ]
+   },
+   {
+    "date": "1060",
+    "texte": "Les travaux de la nouvelle cathédrale Saint-Julien du Mans commencent vers 1060 sous l’épiscopat de Vulgrin.",
+    "sources": [
+     "S46"
+    ]
+   },
+   {
+    "date": "1098",
+    "texte": "En juin 1098, Guillaume le Roux vient secourir la ville occupée par Foulques IV d’Anjou.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1562",
+    "texte": "Au Mans, le présidial exige l’édification d’une croix liée au jugement de Vignolles et de sa femme, condamnés à l’exil.",
+    "sources": [
+     "S25"
+    ]
+   },
+   {
+    "date": "1720",
+    "texte": "Le palais des comtes du Maine, faute d’entretien, est victime d’un incendie.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1757",
+    "texte": "La charpente de la grande salle du palais des comtes du Maine s’effondre.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1760",
+    "texte": "Un hôtel riche et spacieux, l’hôtel Desportes de Linières, est bâti en dehors des murailles.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "28 mai 1854",
+    "texte": "La gare du Mans ouvre aux circulations des trains, déclenchant trois jours de fêtes.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "7 août 1944",
+    "texte": "Dans la nuit du 7 au 8 août 1944, les Allemands dynamitent presque tous les ponts manceaux, sauf le pont Gambetta.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "8 août 1944",
+    "texte": "Le Mans est libéré le 8 août 1944 par la Troisième armée du général George Patton.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Palais des comtes du Maine",
+   "histoire": "Occupé par les comtes héréditaires du Maine, puis par les Plantagenêts, le palais est ensuite lié aux épisodes d’incendie et d’effondrement décrits au XVIIIe siècle. Initialement siège du pouvoir comtal, il est aujourd’hui l’hôtel de ville du Mans.",
+   "anecdotes": [
+    {
+     "texte": "En 1720, le palais est victime d’un incendie après avoir souffert d’un manque d’entretien.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "La charpente de la grande salle s’effondre en 1757, alors que les travaux de restauration tardent à être engagés.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, l’édifice est l’hôtel de ville du Mans.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 48.007453,
+   "lon": 0.19741,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_comtes_du_Maine"
+  },
+  {
+   "nom": "Maine (province)",
+   "histoire": "Le Maine est une région historique et culturelle correspondant à une ancienne province, dont la capitale est Le Mans.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14"
+   ],
+   "lat": 48,
+   "lon": 0.2,
+   "url": "https://fr.wikipedia.org/wiki/Maine_%28province%29"
+  },
+  {
+   "nom": "Enceinte gallo-romaine du Mans",
+   "histoire": "L’enceinte gallo-romaine du Mans, aussi appelée enceinte romaine du Mans, se rattache à une ville anciennement nommée Vindinum ou Vindunum, capitale des Aulerques Cénomans. Elle est édifiée au Bas-Empire romain.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19"
+   ],
+   "lat": 48.00972,
+   "lon": 0.19667,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_du_Mans"
+  },
+  {
+   "nom": "Hôtel de Vignolles",
+   "histoire": "Situé dans le Vieux-Mans, place Saint-Pierre, l’hôtel de Vignolles garde la marque des événements judiciaires et des transformations décrites aux siècles suivants, avec des restaurations qui continuent et une division marquante au tournant de la fin du XVIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En 1562, le présidial du Mans impose l’édification d’une croix portant, notamment, le tableau de la sentence et la mémoire du jugement de Vignolles et de sa femme.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "La division en deux de l’hôtel en 1799 a profondément marqué, voire défiguré, sa beauté originale.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les restaurations continuent encore aujourd’hui.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 48.007778,
+   "lon": 0.196944,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Vignolles"
+  },
+  {
+   "nom": "Quartier Gare Sud",
+   "histoire": "Le quartier de la Gare Sud se trouve en présence directe de la gare du Mans, à partir de la sortie sud. Son implantation est liée à un ancien hôpital pour contagieux fondé en 1584, et des aménagements plus récents y sont ensuite décrits.",
+   "anecdotes": [
+    {
+     "texte": "Le lieu choisi pour l’implanter correspond à celui d’un ancien hôpital pour contagieux fondé en 1584.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    },
+    {
+     "texte": "Le quartier se développe à un emplacement alors que la place était déserte et qu’aucune habitation ne s’y trouvait.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S33"
+   ],
+   "lat": 47.992478,
+   "lon": 0.193548,
+   "url": "https://fr.wikipedia.org/wiki/Quartier_Gare_Sud"
+  },
+  {
+   "nom": "Quartier des Halles (Le Mans)",
+   "histoire": "Le Quartier des Halles, aussi nommé quartier de la Halle-aux-Toiles ou Gambetta-Eperon, s’appuie sur l’activité des halles et sur les marchés qui y étaient tenus. Il est aussi lié à l’inauguration de la Halle aux toiles et au chanvre, puis à son prolongement nord le long des bords de la Sarthe.",
+   "anecdotes": [
+    {
+     "texte": "Aux halles, on vend de 300 à 400 pièces les jours de marché et de foires, avec des pointes annoncées à 1000 à 1200 pièces vendues en une journée.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le prolongement nord sur les bords de la Sarthe par la rue Gambetta est aujourd’hui réservée aux tramways.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 47.998882,
+   "lon": 0.191832,
+   "url": "https://fr.wikipedia.org/wiki/Quartier_des_Halles_%28Le_Mans%29"
+  },
+  {
+   "nom": "Pontlieue",
+   "histoire": "Pontlieue, ancienne commune devenue quartier de la ville du Mans, garde la trace de pillages et de destructions, puis de la reconstruction religieuse décrite par l’église en forme de croix latine. Aujourd’hui, le quartier est marqué par le Pont de Pontlieue qui enjambe l’Huisne.",
+   "anecdotes": [
+    {
+     "texte": "Au Xe siècle, les invasions vikings pillent et détruisent en partie le bourg de Pontlieue.",
+     "statut": "etabli",
+     "sources": [
+      "S40"
+     ]
+    },
+    {
+     "texte": "Durant la guerre de Cent Ans, aux XIIIe et XIVe siècles, le Bourg-Bas de Pontlieue subit les plus fortes dévastations : maisons, moulins et ponts détruits.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le Pont de Pontlieue enjambant l’Huisne.",
+   "sources": [
+    "S43"
+   ],
+   "lat": 47.981017,
+   "lon": 0.21153,
+   "url": "https://fr.wikipedia.org/wiki/Pontlieue"
+  },
+  {
+   "nom": "Cathédrale Saint-Julien du Mans",
+   "histoire": "Siège du diocèse du Mans, la cathédrale Saint-Julien du Mans correspond à un lieu de culte catholique. Elle est liée à la construction d’un nouveau bâtiment après l’arasement de la première cathédrale ordonné en 1056, et à des éléments installés sur place à l’époque moderne.",
+   "anecdotes": [
+    {
+     "texte": "Un menhir, installé place Saint-Michel en 1778 après la destruction du « Dolmen de la Pierre au lait », est daté de l’époque préhistorique.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S44",
+    "S48"
+   ],
+   "lat": 48.009167,
+   "lon": 0.19889,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Julien_du_Mans"
+  }
+ ],
+ "sources": [
+  "Le Mans (/lə mɑ̃/) est une commune faisant partie des grandes villes du Grand Ouest français, située dans la région des Pays de la Loire et le département de la Sarthe dont elle est la préfecture. La ville se trouve à la confluence des rivières de la Sarthe et de l'Huisne. Ancienne capitale provinciale du Maine, elle voit le mariage de Geoffroy V d'Anjou et Mathilde l'Emperesse, fille du roi d'Angleterre, jetant […]",
+  "Le Mans est considérée comme la première ville ayant réalisé un traité d'alliance européen, avec la ville allemande de Paderborn. Cette première alliance est parfois nommée « la lumière de l'Europe ». Les deux villes signèrent le premier traité trans-frontalier de confraternité d'Europe en 836. Ses habitants la proclamèrent également première commune rattachée au pouvoir royal de France, en 1066. Les premières […]",
+  "1098 : En juin 1098, Guillaume le Roux, fis et successeur de Guillaume vint secourir la ville occupée par Foulques IV d'Anjou.",
+  "XVIe siècle : Dès la fin du XVIe siècle et jusqu'à la Révolution on trouve un important savoir-faire pour les sculptures de terres cuites polychromiques, aujourd'hui visibles dans les musées du Mans ou dans les édifices religieux de la ville.",
+  "XVIIe siècle : La ville conserve aujourd'hui un certain nombre d'édifices bâtis entre le XVIe et le XVIIe siècle à l'image des maisons du Pilier rouge, des Deux Amis, d'Adam et Ève ou encore de l'hôtel de Vignolles.",
+  "1760 : Des hôtels riches et spacieux sont bâtis en dehors des murailles à l'image de l'hôtel Desportes de Linières, bâti en 1760.",
+  "1854 : La gare du Mans est ouverte aux circulations des trains le 28 mai 1854, ce qui se traduit par trois jours de fêtes.",
+  "1944 : Le Mans est libéré le 8 août 1944 par la Troisième armée du général George Patton (XVe Corps d'Armée du général Haislip), au cours de la bataille de Normandie, malgré le dynamitage effectif de la quasi-totalité des ponts manceaux par les Allemands en fuite dans la nuit du 7 au 8 août, à l'exception du pont Gambetta.",
+  "Lieu « Palais des comtes du Maine » : Le palais des comtes du Maine encore nommé palais royal Plantagenêt est situé au Mans au cœur de la cité Plantagenêt dans le département de la Sarthe en France.",
+  "Lieu « Palais des comtes du Maine », XIIe siècle : Occupé par les comtes héréditaires du Maine, puis par les Plantagenêts qui héritent du comté au XIIe siècle, le palais est notamment habité par Geoffroy Plantagenêt, par Henri II d'Angleterre et par sa belle-fille la reine Bérengère de Navarre, veuve de Richard Cœur de Lion.",
+  "Lieu « Palais des comtes du Maine », 1720 : Souffrant du manque d'entretien, le palais est victime d'un incendie en 1720, puis d'une tempête en 1738.",
+  "Lieu « Palais des comtes du Maine », 1757 : Alors que des travaux de restauration tardent à être engagés, la charpente de la grande salle s'effondre en 1757.",
+  "Lieu « Palais des comtes du Maine », aujourd'hui : Initialement siège du pouvoir comtal du Maine, dont Le Mans est la capitale historique, c'est aujourd'hui l'hôtel de ville du Mans.",
+  "Lieu « Maine (province) » : Le Maine est une région historique et culturelle française, correspondant à une ancienne province et dont la capitale est Le Mans.",
+  "Lieu « Maine (province) », 1970 : Certaines lignes ont été fermées au cours du XXe siècle, comme la ligne de La Chapelle-Anthenaise à Flers, qui permettait de relier Laval à Caen via Mayenne jusque dans les années 1970, et dont la réouverture entre Laval et Mayenne est parfois évoquée.",
+  "Lieu « Maine (province) », 1980 : L'A11, dite « l'Océane », achevée au début des années 1980, relie Paris à Nantes via Chartres, Le Mans et Angers.",
+  "Lieu « Maine (province) », 1989 : Le Maine est desservi par la LGV Atlantique, ligne à grande vitesse ouverte en 1989 entre Paris-Montparnasse et Connerré, à 25 km avant le Mans.",
+  "Lieu « Maine (province) », aujourd'hui : Le remplacement du ce par l'article le a eu lieu pour les mêmes raisons que pour Maine.",
+  "Lieu « Enceinte gallo-romaine du Mans » : L'enceinte gallo-romaine du Mans, appelée aussi enceinte romaine du Mans, dans la ville dénommée anciennement Vindinum ou Vindunum, capitale du peuple gaulois des Aulerques Cénomans, a été édifiée au Bas-Empire romain, à une époque longtemps supposée",
+  "Lieu « Enceinte gallo-romaine du Mans », Ier siècle : La ville se dote d'institutions calquées sur le mode romain et un temple monumental à Mars Mullo, déjà présent à Allonnes, est construit à la fin du Ier siècle.",
+  "Lieu « Enceinte gallo-romaine du Mans », IIIe siècle : La décision de bâtir une enceinte est datée de la fin du IIIe siècle et du début du IVe siècle, mais ce qui peut être dit sur la préparation n'est que supposition.",
+  "Lieu « Enceinte gallo-romaine du Mans », VIIIe siècle : Le site du Mans est occupé entre le VIIIe siècle av. J.-C. et le Ve siècle av. J.-C..",
+  "Lieu « Enceinte gallo-romaine du Mans », aujourd'hui : La ville abrite sans doute un groupe épiscopal dans la seconde moitié du Ve siècle au moment de l'épiscopat de Victeur, peut-être à l'emplacement de la cathédrale et contre l'enceinte, du fait d'« un manque de place disponible ailleurs ».",
+  "Lieu « Hôtel de Vignolles » : L’hôtel de Vignolles se situe dans le Vieux-Mans, place Saint-Pierre.",
+  "Lieu « Hôtel de Vignolles », 1562 : En 1562, le présidial du Mans exige l’édification d’une croix avec sur un tableau d’Airan, la sentence du jugement de Vignolles et de sa femme, condamnés à l’exil depuis un an après les démêlés religieux.",
+  "Lieu « Hôtel de Vignolles », XVIIe siècle : L’hôtel de Vignolles est l’exemple type de l’hôtel classique national qui sera construit à Paris comme ailleurs en France jusqu’au milieu du XVIIe siècle.",
+  "Lieu « Hôtel de Vignolles », XVIIe siècle : La cour, fermée par le mur-écran sera ouverte dès le XVIIe siècle et le corps de bâtiment donnant directement sur la rue sera considéré, comme ses pavillons, comme de simples maisons.",
+  "Lieu « Hôtel de Vignolles », aujourd'hui : Aujourd’hui encore, les restaurations continuent, une division en deux de l’hôtel en 1799 ayant profondément marqué voire défiguré sa beauté originale.",
+  "Lieu « Quartier Gare Sud » : Le quartier de la Gare Sud est en présence directe de la gare du Mans, il est composé de la sortie sud de celle-ci.",
+  "Lieu « Quartier Gare Sud », 1584 : Le lieu choisi pour l'implanter est celui d'un ancien hôpital pour contagieux fondé en 1584.",
+  "Lieu « Quartier Gare Sud », 2007 : Un siège des assurances MMA est installé au cœur du quartier dans la tour Novaxis VII, achevée au dernier trimestre 2007.",
+  "Lieu « Quartier Gare Sud », 2011 : L'édifice, qui n'est plus en activité depuis 2011, est composé de 8 corps de bâtiments.",
+  "Lieu « Quartier Gare Sud », aujourd'hui : Il fut installé à cet emplacement alors que la place était déserte et qu'aucune habitation ne s'y trouvait.",
+  "Lieu « Quartier des Halles (Le Mans) » : Le Quartier des Halles, aussi nommé quartier de la Halle-aux-Toiles, Gambetta-Eperon, et parfois assimilé au quartier des Filles-Dieu est un quartier du Mans, dans la Sarthe.",
+  "Lieu « Quartier des Halles (Le Mans) », 1000 : Aux halles, il se vend 300 à 400 pièces les jours de marché et les jours de foires, on atteint les 1000 à 1200 pièces vendues en une journée.",
+  "Lieu « Quartier des Halles (Le Mans) », 1827 : Le marché aux chanvres est inauguré en 1827 à la place des anciens abattoirs du quartier.",
+  "Lieu « Quartier des Halles (Le Mans) », 1843 : Elle est nommée « Halle aux toiles et au chanvre » et est inaugurée en 1843.",
+  "Lieu « Quartier des Halles (Le Mans) », aujourd'hui : Il en est la prolongation nord sur les bords de la Sarthe par la rue Gambetta, aujourd'hui réservée aux tramways.",
+  "Lieu « Pontlieue » : Pontlieue est une ancienne commune du département de la Sarthe et depuis le 10 juillet 1865, un quartier de la ville du Mans.",
+  "Lieu « Pontlieue », Xe siècle : Les invasions vikings du Xe siècle n’épargnèrent pas le bourg de Pontlieue qui fut pillé et en partie détruit probablement après la prise du Mans en octobre 865.",
+  "Lieu « Pontlieue », XIIe siècle : Plus tard, vers le XIe ou XIIe siècle, sur les ruines du sanctuaire primitif fut construite l'église en forme de croix latine qui subsista péniblement jusqu'à la Restauration.",
+  "Lieu « Pontlieue », XIVe siècle : C'est durant la guerre de 100 ans aux XIIIe et XIVe siècles que le Bourg-Bas de Pontlieue eut le plus à souffrir de dévastations : maisons, moulins, ponts détruits.",
+  "Lieu « Pontlieue », aujourd'hui : Le quartier est aujourd'hui constitué d'un pont d'assez grande taille, enjambant l'Huisne, Le Pont de Pontlieue.",
+  "Lieu « Cathédrale Saint-Julien du Mans » : La cathédrale Saint-Julien du Mans est un lieu de culte catholique, siège du diocèse du Mans, située au Mans, en France.",
+  "Lieu « Cathédrale Saint-Julien du Mans », 1056 : Cette première cathédrale est arasée lorsque l’évêque Vulgrin, en 1056, ordonne la construction d'un nouveau bâtiment.",
+  "Lieu « Cathédrale Saint-Julien du Mans », 1060 : Commencée vers 1060 sous l'épiscopat de Vulgrin, elle fut achevée vers 1430.",
+  "Lieu « Cathédrale Saint-Julien du Mans », 1778 : Ce menhir date de l'époque préhistorique et a été installé place Saint-Michel en 1778, à la suite de la destruction du « Dolmen de la Pierre au lait ».",
+  "Lieu « Cathédrale Saint-Julien du Mans », aujourd'hui : Il choisit lui-même l’emplacement de l’édifice, à l’opposé du mur d’enceinte nord de la ville."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Cent",
+   "XVIIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}
