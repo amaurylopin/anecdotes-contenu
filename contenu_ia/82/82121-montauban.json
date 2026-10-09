@@ -1,0 +1,331 @@
+{
+ "commune": {
+  "titre": "Montauban",
+  "code_insee": "82121",
+  "departement": "82",
+  "population": 62945,
+  "lat": 44.0217,
+  "lon": 1.3646,
+  "url": "https://fr.wikipedia.org/wiki/Montauban"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:27:24",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3832,
+  "sortie": 1608
+ },
+ "cout_usd": 0.002776,
+ "accroche": "Fondée vers 820-830, Montauban est d’abord appelée Saint-Martin avant de devenir Saint-Théodard, puis abbaye de Montauriol. ",
+ "histoire": {
+  "recit": "À Montauban, la ville s’est établie sur un site cerné par l’eau : le Tarn à l’ouest, le Tescou au sud-ouest et le ruisseau de la Garrigue au nord-est. Si les traces les plus anciennes restent rares, le récit devient vite solide.\n\nVers 820-830, la fondation donne une première identité à la cité : Saint-Martin, puis, plus tard, Saint-Théodard, avec aussi le surnom d’abbaye de Montauriol. Au tournant du Moyen Âge, l’élan bâtisseur se voit : l’église Saint-Jacques est achevée en 1280, et le pont Vieux franchit le Tarn avec ses tours de défense et sa chapelle.\n\nLa ville connaît ensuite les bouleversements des guerres de Religion. Montauban se convertit au protestantisme et se hisse parmi les capitales du courant réformé ; un premier temple est élevé en 1565 puis remplacé. Après la révocation de l’édit de Nantes, le Temple neuf est démoli en 1665.\n\nLa forme de la cité se lit aussi dans ses grands lieux : la cathédrale Notre-Dame-de-l’Assomption apparaît après 1685, tandis que le musée Ingres-Bourdelle occupe l’ancien palais épiscopal, à côté du pont Vieux. Même le stade Sapiac garde l’empreinte des générations, rénové et transformé au fil des saisons récentes.",
+  "chronologie": [
+   {
+    "date": "vers 820-830",
+    "texte": "La ville est fondée sous le règne de Louis le Pieux ; elle est d’abord nommée Saint-Martin, puis Saint-Théodard, et est aussi appelée abbaye de Montauriol.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1280",
+    "texte": "L’église Saint-Jacques est achevée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1304 à 1335",
+    "texte": "Le pont Vieux est bâti, avec deux tours de défense et une chapelle au centre.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1356",
+    "texte": "Des troupes anglaises occupent la ville quelques années ; en 1356, le « Prince Noir » remporte la bataille de Poitiers et fait prisonnier le roi Jean le Bon.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1530",
+    "texte": "Mont auban se convertit au protestantisme et devient une des capitales du protestantisme français.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1565",
+    "texte": "Un premier temple est construit ; il sera démoli en 1615 pour bâtir le Temple neuf à l’emplacement de la chapelle de Lautier de l’hôpital Saint-Jacques.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1570",
+    "texte": "La paix de Saint-Germain octroie aux protestants quatre places fortes : La Rochelle, Cognac, Montauban et La Charité-sur-Loire.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1598",
+    "texte": "Une université protestante, l’Académie de Montauban, s’y installe.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1614",
+    "texte": "La ville reconstruit les « couverts » qui portent aujourd’hui le nom de place Nationale.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1660",
+    "texte": "L’Académie est transférée à Puylaurens en 1660 et fermée en 1685, lors de la révocation de l’édit de Nantes.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1665",
+    "texte": "Le Temple neuf est démoli en 1665 par l’intendant Claude Pellot.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1685",
+    "texte": "Après la révocation de l’édit de Nantes, une nouvelle cathédrale est construite.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1789",
+    "texte": "Le palais épiscopal est nationalisé comme bien de l’Église à la fin de 1789 et vendu ensuite aux enchères.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Le stade Sapiac est construit en 1907.",
+    "sources": [
+     "S51"
+    ]
+   },
+   {
+    "date": "6 septembre 1908 à 13h45",
+    "texte": "Le vélodrome du stade Sapiac est inauguré devant 4 000 spectateurs.",
+    "sources": [
+     "S52"
+    ]
+   },
+   {
+    "date": "2023-2024 (à l’issue de la saison 2023-2024)",
+    "texte": "Le stade Sapiac fait l’objet de travaux : tribune honneur rasée et remplacée, piste vélodrome détruite, pelouse naturelle remplacée par une surface synthétique.",
+    "sources": [
+     "S53"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame-de-l'Assomption de Montauban",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 44.01528,
+   "lon": 1.35528,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-l%27Assomption_de_Montauban"
+  },
+  {
+   "nom": "Musée Ingres-Bourdelle",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20"
+   ],
+   "lat": 44.016944,
+   "lon": 1.351667,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Ingres-Bourdelle"
+  },
+  {
+   "nom": "Hôtel Vialètes de Mortarieu",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S27",
+    "S29"
+   ],
+   "lat": 44.01496194,
+   "lon": 1.35434583,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Vial%C3%A8tes_de_Mortarieu"
+  },
+  {
+   "nom": "Temple protestant des Carmes (Montauban)",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 44.0156,
+   "lon": 1.3528,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_des_Carmes_%28Montauban%29"
+  },
+  {
+   "nom": "Palais épiscopal de Montauban",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le palais épiscopal est associé à des vestiges de mur dans les parties basses du palais comtal, dont un modillon roman portant une tête de guerrier, que la légende dit représenter Renaud, un des Quatre fils Aymon.",
+   "sources": [
+    "S39",
+    "S35"
+   ],
+   "lat": 44.01694,
+   "lon": 1.35178,
+   "url": "https://fr.wikipedia.org/wiki/Palais_%C3%A9piscopal_de_Montauban"
+  },
+  {
+   "nom": "Église Saint-Jacques de Montauban",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "Le 15 août 1561, les calvinistes abattent la voûte et la flèche de l’église, et l’église est pillée : les catholiques rassemblés à l’intérieur sont tués.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Avec le pont Vieux, l’église fait partie des vestiges de la cité datant du Moyen Âge et toujours utilisés.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 44.017563,
+   "lon": 1.35282,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jacques_de_Montauban"
+  },
+  {
+   "nom": "Pont Vieux (Montauban)",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, le pont sert de pont-route.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 44.01703,
+   "lon": 1.349857,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Vieux_%28Montauban%29"
+  },
+  {
+   "nom": "Stade Sapiac",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "La 6 septembre 1908 à 13h45, le vélodrome du stade Sapiac est inauguré devant 4 000 spectateurs.",
+     "statut": "etabli",
+     "sources": [
+      "S52"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À l’issue de la saison 2023-2024, de nombreux travaux de rénovation transforment notamment la tribune honneur et la pelouse.",
+   "sources": [
+    "S53"
+   ],
+   "lat": 44.01021,
+   "lon": 1.35174,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Sapiac"
+  }
+ ],
+ "sources": [
+  "Montauban est une commune française située dans le département de Tarn-et-Garonne, dont elle est le chef-lieu, en région Occitanie. En 2023, sa population était de 62 945 habitants, faisant de Montauban, dont les habitants sont appelés Montalbanais ou Montalbanaises, la commune la plus peuplée du Tarn-et-Garonne, celle de son unité urbaine de 82 476 habitants et celle de la communauté d'agglomération du Grand […]",
+  "Le site de fondation de la ville est délimité sur trois côtés par des cours d'eau : le Tarn à l'ouest, le Tescou au sud-ouest (jusqu'au confluent avec le Tarn) et le ruisseau de la Garrigue (ou Mandoune) au nord-est (jusqu'au confluent avec cette même rivière). L'occupation du site aux époques de la Préhistoire et de l'Antiquité préromaine n'a pas laissé beaucoup de traces archéologiques. Après la conquête par Rome […]",
+  "820 : Fondée vers 820-830, sous le règne de Louis le Pieux, elle est d'abord nommée Saint-Martin, puis à partir de la fin du Xe siècle Saint-Théodard (Sanctus Audardus), mais elle est aussi couramment appelée abbaye de Montauriol.",
+  "1280 : C'est alors que sont réalisés de grands chantiers de construction : l'église Saint-Jacques est achevée en 1280 et le pont Vieux est bâti de 1304 à 1335, équipé de deux tours de défense à ses extrémités et d'une chapelle en son centre.",
+  "1356 : La ville est occupée quelques années par les troupes anglaises du « Prince Noir », Édouard de Woodstock, prince de Galles et lieutenant d'Édouard III dans le duché d'Aquitaine, qui remporte en 1356 la bataille de Poitiers, faisant prisonnier le roi Jean le Bon.",
+  "1530 : Dans les années 1530 et suivantes, la population de Montauban se convertit au protestantisme, et devient une des capitales du protestantisme français avec La Rochelle puis devient entièrement huguenote au début des guerres de religion.",
+  "1565 : Un premier temple est construit en 1565 qui a été démoli en 1615 pour construire le Grand temple de Montauban ou Temple neuf à l'emplacement de la chapelle de Lautier de l'hôpital Saint-Jacques suivant les plans de Pierre Belleville, architecte de Toulouse.",
+  "1570 : En 1570, la paix de Saint-Germain, signée entre le roi Charles IX et l’amiral Gaspard de Coligny, octroie aux protestants quatre places fortes : La Rochelle, Cognac, Montauban et La Charité-sur-Loire.",
+  "1598 : Un second temple existait à Montauban, appelé Temple de l'École jusqu'en 1598, construit en 1609.",
+  "1598 : En 1598, une université protestante, l'Académie de Montauban, y est installée.",
+  "1614 : La ville reconstruit à partir de 1614 les « couverts » qui portent aujourd'hui le nom de place Nationale.",
+  "1660 : Elle est transférée à Puylaurens en 1660 et fermée en 1685, lors de la révocation de l'édit de Nantes.",
+  "1665 : Le Temple neuf est démoli en 1665 par l'intendant Claude Pellot commis pour cela par un arrêt du Conseil.",
+  "1789 : Le palais épiscopal est nationalisé comme bien de l'Église à la fin de 1789 et vendu ensuite aux enchères.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Assomption de Montauban » : La cathédrale Notre-Dame-de-l'Assomption de Montauban est un édifice religieux catholique situé à Montauban, chef-lieu du département français du Tarn-et-Garonne en région Occitanie.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Assomption de Montauban », 1685 : Ce n'est qu'après la révocation de l'édit de Nantes en 1685 qu'une nouvelle cathédrale est construite.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Assomption de Montauban », 1707 : En 1707, six des piliers de la nef, bâtis en briques mal cuites, s'écroulent et entraînent dans leur chute une partie de la voûte.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Assomption de Montauban », 1831 : Les tours de façade étaient autrefois surmontées d'élégants clochetons en forme de bulbe, démolis en 1831.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Assomption de Montauban », aujourd'hui : Deux tours encadrent la façade ouest, produit de l’architecture classique, frontispice ionique avec un péristyle présentant des statues des quatre Évangélistes en remplacement des statues originelles.",
+  "Lieu « Musée Ingres-Bourdelle » : Le musée Ingres Bourdelle, anciennement musée Ingres, est un musée d'art et d'archéologie installé dans l'ancien hôtel de ville, qui fut le palais épiscopal des évêques de Montauban, construit au XVIIe siècle en France.",
+  "Lieu « Musée Ingres-Bourdelle », XVIIe siècle : Le musée Ingres Bourdelle, anciennement musée Ingres, est un musée d'art et d'archéologie installé dans l'ancien hôtel de ville, qui fut le palais épiscopal des évêques de Montauban, construit au XVIIe siècle en France.",
+  "Lieu « Musée Ingres-Bourdelle », 1892 : Monument commandé à Bourdelle par le comité Cladel à la mort de l'écrivain en 1892 ; inauguré en 1894 sur l'ancien square de la préfecture à Montauban puis déposé depuis 1937 au musée Ingres.",
+  "Lieu « Musée Ingres-Bourdelle », 1974 : Elle est restée propriété de sa fille (Rodia Dufet-Bourdelle) qui l'a déposé au musée de Montauban en 1974 et l'a léguée en 2002.",
+  "Lieu « Musée Ingres-Bourdelle », aujourd'hui : Des traces de doigts ou d'outils ont été laissés volontairement sur la surface de l'œuvre.",
+  "Lieu « Hôtel Vialètes de Mortarieu » : L'hôtel Vialètes de Mortarieu est un hôtel particulier montalbanais, bâti au XVIIIe siècle.",
+  "Lieu « Hôtel Vialètes de Mortarieu », XVIIIe siècle : L'hôtel Vialètes de Mortarieu est un hôtel particulier montalbanais, bâti au XVIIIe siècle.",
+  "Lieu « Hôtel Vialètes de Mortarieu », 1757 : L’hôtel est construit vers 1757 avec le concours d’Étienne Vialètes d’Aignan, manufacturier du tissu de cadis, sur un terrain formé de plusieurs parcelles en friche.",
+  "Lieu « Hôtel Vialètes de Mortarieu », XIXe siècle : Derrière l’aile gauche, un bâtiment voisin fut intégré à l'hôtel dans la première moitié du XIXe siècle, avec une cour de service aujourd’hui transformée en jardin.",
+  "Lieu « Hôtel Vialètes de Mortarieu », aujourd'hui : Sur la droite, il se prolonge en une terrasse avec une grande serre, dont seul subsiste l’armature.",
+  "Lieu « Temple protestant des Carmes (Montauban) » : Le temple des Carmes est un édifice religieux protestant situé 2 Grand-rue Sapiac à Montauban, région Occitanie.",
+  "Lieu « Temple protestant des Carmes (Montauban) », 1609 : Deux temples supplémentaires sont construits, le « temple vieux » en 1609 et le « temple neuf » en 1617.",
+  "Lieu « Temple protestant des Carmes (Montauban) », 1664 : Ils sont démolis en 1664 et 1683 En 1787, l'édit de tolérance de Versailles redonne une existence légale aux protestants, restés nombreux dans la région.",
+  "Lieu « Temple protestant des Carmes (Montauban) », 1791 : Antoine Bernard Lauzet, négociant protestant de Nègrepelisse achète l'édifice au moment de la vente des biens du clergé, en 1791.",
+  "Lieu « Temple protestant des Carmes (Montauban) », aujourd'hui : En 1631, après l’édit de Montpellier, ils retrouvent leur ancien emplacement, et reçoivent de l'intendant Foucault un soutien financier pour construire une église dans l'esprit de la Contre-Réforme.",
+  "Lieu « Palais épiscopal de Montauban » : L'ancien palais épiscopal de Montauban est situé dans le département français de Tarn-et-Garonne, 17, rue de l'hôtel de ville, à côté du Pont vieux, à Montauban.",
+  "Lieu « Palais épiscopal de Montauban », 1335 : Le pont est achevé vers 1335 et comprend deux tours, une à chaque extrémité.",
+  "Lieu « Palais épiscopal de Montauban », 1565 : L'édit d'Amboise impose la démolition des remparts avant la venue du roi Charles IX pendant son grand tour, en 1565.",
+  "Lieu « Palais épiscopal de Montauban », 1574 : Mal restaurée, elle doit être détruite en 1574 pour être reconstruite.",
+  "Lieu « Palais épiscopal de Montauban », aujourd'hui : Il en reste probablement des vestiges de mur dans les parties basses du palais comtal dont un modillon roman avec une tête de guerrier qu'une légende dit qu'elle représente Renaud, un des Quatre fils Aymon.",
+  "Lieu « Église Saint-Jacques de Montauban » : L'église Saint-Jacques de Montauban est une église catholique située à Montauban, dans le département français du Tarn-et-Garonne en région Occitanie.",
+  "Lieu « Église Saint-Jacques de Montauban », XIIIe siècle : L'église a été bâtie au XIIIe siècle, peu après la fondation de la ville.",
+  "Lieu « Église Saint-Jacques de Montauban », 1561 : Pendant les guerres de Religion, le 15 août 1561, les calvinistes abattent la voûte et la flèche et l’église est pillée, les catholiques rassemblés dans l’église sont tués.",
+  "Lieu « Église Saint-Jacques de Montauban », 1918 : L'édifice est classé au titre des monuments historiques en 1918.",
+  "Lieu « Église Saint-Jacques de Montauban », aujourd'hui : Avec le pont Vieux, ce sont les deux vestiges de la cité datant du Moyen Âge et toujours utilisés.",
+  "Lieu « Pont Vieux (Montauban) » : Le pont Vieux est un pont qui franchit le Tarn situé à Montauban en Tarn-et-Garonne.",
+  "Lieu « Pont Vieux (Montauban) », XIIe siècle : La ville de Montauban est fondée au XIIe siècle par le comte de Toulouse Alphonse Jourdain qui est en guerre contre le duc d'Aquitaine Guillaume IX.",
+  "Lieu « Pont Vieux (Montauban) », 1663 : La tour en rive droite a été détruite en 1663 pour dégager le palais épiscopal, actuel musée Ingres.",
+  "Lieu « Pont Vieux (Montauban) », 1701 : La tour rive gauche est détruite pour permettre la construction d'une porte triomphale après la paix de Ryswick, en 1701.",
+  "Lieu « Pont Vieux (Montauban) », aujourd'hui : Aujourd'hui, le pont sert de pont-route.",
+  "Lieu « Stade Sapiac » : Le parc des sports de Sapiac, plus communément connu sous le nom de stade Sapiac ou stade de Sapiac, est un stade situé à Montauban destiné à la pratique du rugby à XV.",
+  "Lieu « Stade Sapiac », 1907 : Elle a été construite en 1907, rénovée en 1978 et en 2000.",
+  "Lieu « Stade Sapiac », 1908 : Le vélodrome est inauguré le 6 septembre 1908 à 13h45 devant 4 000 spectateurs.",
+  "Lieu « Stade Sapiac », 2023 : À l'issue de la saison 2023-2024, le stade Sapiac est sujet à de nombreux travaux de rénovation : la tribune honneur doit être rasée et remplacée, la piste vélodrome est détruite ; la pelouse naturelle est remplacée pour laisser place à une surface synthétique rapprochée de la tribune présidentielle ."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
