@@ -1,0 +1,270 @@
+{
+ "commune": {
+  "titre": "Vannes",
+  "code_insee": "56260",
+  "departement": "56",
+  "population": 55790,
+  "lat": 47.6577,
+  "lon": -2.7485,
+  "url": "https://fr.wikipedia.org/wiki/Vannes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:29:50",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 3506,
+  "sortie": 1944
+ },
+ "cout_usd": 0.006326,
+ "accroche": "Vannes, fondée par les Romains dans la première moitié du Ier siècle, devient capitale de la Cité des Vénètes et se fortifie après les troubles du IIIe siècle.",
+ "histoire": {
+  "recit": "À Vannes, l’histoire commence très tôt : la ville de Vannes, aussi appelée Darioritum, est fondée à l’époque romaine dans la première moitié du Ier siècle. Capitale de la Cité des Vénètes, elle change de visage lorsque les troubles de l’Antiquité tardive s’installent.\n\nDans la seconde moitié du IIIe siècle, la ville est contrainte de se protéger derrière une fortification, avec un regroupement des zones d’habitation vers la colline du Mené. Plus tard, Vannes est conquise en 578 par Waroch.\n\nAu fil des siècles, les défenses prennent une ampleur durable : des remparts sont érigés entre les IIIe et XVIIe siècles. Vannes connaît aussi des chocs répétés, comme en témoigne la destruction de la première cathédrale en 919 lors des invasions normandes en Bretagne, avant la construction d’une nouvelle cathédrale vers 1020.\n\nMême les bâtiments marquent les usages de la ville : la tour du Connétable, intégrée aux remparts, sert aussi à enfermer des personnes, et une légende du XIXe siècle y place Jean IV face au connétable Olivier de Clisson.",
+  "chronologie": [
+   {
+    "date": "première moitié du Ier siècle",
+    "texte": "La ville de Vannes, ou Darioritum, est fondée à l’époque romaine et devient la capitale de la Cité des Vénètes.",
+    "sources": [
+     "S3",
+     "S2"
+    ]
+   },
+   {
+    "date": "seconde moitié du IIIe siècle",
+    "texte": "Les troubles de l’Antiquité tardive entraînent la fortification de Vannes et le regroupement des zones d’habitation vers la colline du Mené.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "578",
+    "texte": "Vannes est conquise par Waroch.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IIIe au XVIIe siècles",
+    "texte": "Les remparts de Vannes sont érigés pour protéger la ville.",
+    "sources": [
+     "S5",
+     "S8"
+    ]
+   },
+   {
+    "date": "Xe siècle",
+    "texte": "Une partie de la ville est détruite lors des invasions vikings ; Vannes connaît de nombreux sièges jusqu’à la fin de la guerre de Succession de Bretagne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "919",
+    "texte": "La première cathédrale de Vannes est détruite lors des invasions normandes en Bretagne.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "vers 1020",
+    "texte": "Une nouvelle cathédrale est construite vers 1020 par l’évêque de Vannes Judicaël et son frère Geoffroi Ier de Bretagne.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Remparts de Vannes",
+   "histoire": "Fortifications érigées entre les IIIe et XVIIe siècles pour protéger Vannes, elles subsistent encore et constituent aujourd’hui un élément touristique majeur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Clé de voûte du patrimoine vannetais, parmi les rares fortifications urbaines qui subsistent encore en Bretagne.",
+   "sources": [
+    "S5",
+    "S8",
+    "S9"
+   ],
+   "lat": 47.65606,
+   "lon": -2.75603,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Vannes"
+  },
+  {
+   "nom": "Cathédrale Saint-Pierre de Vannes",
+   "histoire": "Détruite une première fois en 919, la cathédrale est ensuite reconstruite vers 1020, avec une nouvelle construction attribuée à l’évêque Judicaël de Vannes et à Geoffroi Ier de Bretagne, duc de Bretagne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 47.657778,
+   "lon": -2.756944,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Pierre_de_Vannes"
+  },
+  {
+   "nom": "Stade de la Rabine",
+   "histoire": "Le stade de La Rabine est le principal stade de Vannes. Le premier stade est construit par la ville en 1920, puis une tribune couverte est édifiée en 1932.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Au début de l’année 2000, le vélodrome vétuste est détruit et remplacé par un nouveau stade adapté au football.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S19"
+   ],
+   "lat": 47.65178,
+   "lon": -2.76104,
+   "url": "https://fr.wikipedia.org/wiki/Stade_de_la_Rabine"
+  },
+  {
+   "nom": "Conservatoire à rayonnement départemental de Vannes",
+   "histoire": "Le site naît avec une première église bâtie en 1629, suivie dès l’année suivante de bâtiments conventuels et d’un cloître. Une deuxième construction s’achève en 1737, puis l’église est reconstruite après démolition au XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 47.652,
+   "lon": -2.760278,
+   "url": "https://fr.wikipedia.org/wiki/Conservatoire_%C3%A0_rayonnement_d%C3%A9partemental_de_Vannes"
+  },
+  {
+   "nom": "Tour du Connétable (Vannes)",
+   "histoire": "Construite dans la première moitié du XVe siècle, la tour du Connétable s’insère dans les remparts. Elle devient ensuite à nouveau propriété municipale en 1786 et sert à l’enfermement de certaines personnes.",
+   "anecdotes": [
+    {
+     "texte": "Une légende du XIXe siècle affirme que Jean IV y aurait emprisonné Olivier de Clisson, connétable de France.",
+     "statut": "legende",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "En 1786, la municipalité utilise la tour pour l’enfermement des personnes mentalement instables et des filles de mauvaise vie.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Située au nord du château de l’Hermine, disparu aujourd’hui, la tour semble avoir fait partie de sa défense.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S29"
+   ],
+   "lat": 47.6564,
+   "lon": -2.75594,
+   "url": "https://fr.wikipedia.org/wiki/Tour_du_Conn%C3%A9table_%28Vannes%29"
+  },
+  {
+   "nom": "Vannetais",
+   "histoire": "Le Vannetais, ou pays de Vannes (Bro-Gwened / Bro-Wened), correspond à celui d’un des neuf anciens évêchés de Bretagne. Le territoire est aussi décrit comme ayant une histoire de royaume à partir du VIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 47.655,
+   "lon": -2.7617,
+   "url": "https://fr.wikipedia.org/wiki/Vannetais"
+  },
+  {
+   "nom": "Porte Saint-Vincent (Vannes)",
+   "histoire": "La porte Saint-Vincent est une porte de ville percée entre la fin du XVIe siècle et le début du XVIIe siècle. Une fois les travaux achevés en 1419, elle est renommée ainsi en hommage à saint Vincent Ferrier, mort à Vannes en 1419.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Pendant près de deux siècles, l’accès à la porte se fait par un pont, remplacé ensuite par une place semi-hémisphérique : la place du Morbihan, future place Gambetta.",
+   "sources": [
+    "S35",
+    "S36",
+    "S39"
+   ],
+   "lat": 47.6545,
+   "lon": -2.75804,
+   "url": "https://fr.wikipedia.org/wiki/Porte_Saint-Vincent_%28Vannes%29"
+  },
+  {
+   "nom": "Gare de Vannes",
+   "histoire": "La gare de Vannes est une gare ferroviaire de la ligne de Savenay à Landerneau, située dans le quartier de la gare. La ligne des chemins de fer du Morbihan est fermée en 1947, puis des aménagements modifient le hall et les bâtiments.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La compagnie CM installe sa gare terminus d’échange dans le bâtiment principal de la cour de la gare (emplacement actuel de la gare routière).",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 47.665322,
+   "lon": -2.752573,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Vannes"
+  }
+ ],
+ "sources": [
+  "Vannes /van/ est une commune située dans le Grand Ouest français, sur la côte sud de la région Bretagne, et préfecture du département du Morbihan. En 2023, la ville de Vannes compte 55 790 habitants, et avec sa communauté d'agglomération 175 163 habitants. Centre économique et destination touristique à la tête d’une unité urbaine de 84 176 habitants au 1er janvier 2026, Vannes est la 2e ville la plus peuplée du […]",
+  "La ville de Vannes ou Darioritum est fondée à l’époque romaine, dans la première moitié du Ier siècle. Elle est la capitale de la Cité des Vénètes. Les troubles politiques de l’Antiquité tardive, lors de la seconde moitié du IIIe siècle, entraînent la fortification de Vannes et le regroupement des zones d’habitation vers la colline du Mené. La ville est conquise en 578 par Waroch. La ville devient la capitale du […]",
+  "Ier siècle : La ville de Vannes ou Darioritum est fondée à l’époque romaine, dans la première moitié du Ier siècle.",
+  "Xe siècle : En partie détruite lors des invasions vikings au Xe siècle, la ville connaît de nombreux sièges jusqu'à la fin de la guerre de Succession de Bretagne avant de devenir la résidence préférée des ducs Jean IV et Jean V. La Chambre des comptes de Bretagne est créée à Vannes.",
+  "Lieu « Remparts de Vannes » : Les remparts de Vannes sont les fortifications érigées entre les IIIe et XVIIe siècles pour protéger la ville de Vannes dans le département du Morbihan en France.",
+  "Lieu « Remparts de Vannes », Ier siècle : Fondée par les Romains à la fin du Ier siècle av. J.-C. sous le règne d’Auguste, la civitas Venetorum se voit contrainte de se protéger derrière un castrum à la fin du IIIe siècle, alors même qu'une crise majeure secoue l’empire romain.",
+  "Lieu « Remparts de Vannes », 1630 : L’éperon de la Garenne est le dernier ouvrage défensif construit à Vannes vers 1630.",
+  "Lieu « Remparts de Vannes », XVIIe siècle : Les remparts de Vannes sont les fortifications érigées entre les IIIe et XVIIe siècles pour protéger la ville de Vannes dans le département du Morbihan en France.",
+  "Lieu « Remparts de Vannes », aujourd'hui : Clé de voûte du patrimoine vannetais et élément touristique par excellence, les remparts de Vannes comptent parmi les rares fortifications urbaines qui subsistent encore en Bretagne.",
+  "Lieu « Cathédrale Saint-Pierre de Vannes » : La cathédrale Saint-Pierre de Vannes est une cathédrale catholique située à Vannes, dans le département du Morbihan, en France.",
+  "Lieu « Cathédrale Saint-Pierre de Vannes », 919 : La première cathédrale de Vannes est détruite en 919 lors des invasions normandes en Bretagne, ces derniers massacrant son évêque Bili.",
+  "Lieu « Cathédrale Saint-Pierre de Vannes », 1020 : Une nouvelle cathédrale est construite vers 1020 par l'évêque de Vannes Judicaël de Vannes et son frère Geoffroi Ier de Bretagne, duc de Bretagne, dans un style roman mais on ignore si c'est au même emplacement.",
+  "Lieu « Cathédrale Saint-Pierre de Vannes », XIXe siècle : Sa construction s'étend sur cinq siècles, du XVe au XIXe siècle, et si l'on inclut la durée d'existence de la tour-clocher romane conservée de l'ancien édifice, on arrive à une durée de construction de sept siècles.",
+  "Lieu « Cathédrale Saint-Pierre de Vannes », aujourd'hui : En dépit de l'évocation dans le concile provincial de 465 de l'église de Vannes, les historiens ne savent pas si la modeste cathédrale de l'évêque Patern de Vannes existait alors sur son emplacement actuel.",
+  "Lieu « Stade de la Rabine » : Le stade de La Rabine est le principal stade de la ville de Vannes.",
+  "Lieu « Stade de la Rabine », 1920 : En 1920, le premier stade de la Rabine est construit par la ville de Vannes.",
+  "Lieu « Stade de la Rabine », 1932 : En 1932, la première tribune du stade est construite, il s'agit d'une tribune couverte comportant sept rangs de sièges.",
+  "Lieu « Stade de la Rabine », 1950 : Durant les années 1950, la forêt jouxtant le stade est rasée pour laisser place à un terrain comportant une piste d'athlétisme.",
+  "Lieu « Stade de la Rabine », aujourd'hui : Au début de l'année 2000, le vélodrome, vétuste, datant de 80 ans est détruit et est remplacé par un nouveau stade, adapté au football, contrairement à celui-ci.",
+  "Lieu « Conservatoire à rayonnement départemental de Vannes » : Le conservatoire de Vannes est un conservatoire à rayonnement départemental situé à Vannes et contrôlé par l’État.",
+  "Lieu « Conservatoire à rayonnement départemental de Vannes », 1629 : Les moines y font bâtir en 1629 une première église, puis, dès l'année suivante, les premiers bâtiments conventuels, comprenant les communs des moines et un cloître.",
+  "Lieu « Conservatoire à rayonnement départemental de Vannes », 1737 : Cette deuxième construction, effectuée par l'entrepreneur Bertrand Le Hen, s'achève en 1737 — le chœur étant par ailleurs encore reconstruit en 1865.",
+  "Lieu « Conservatoire à rayonnement départemental de Vannes », XVIIIe siècle : Constatant des faiblesses architecturales au début du XVIIIe siècle, décision est prise de démolir, puis reconstruire l'église au même emplacement.",
+  "Lieu « Conservatoire à rayonnement départemental de Vannes », aujourd'hui : Il est aujourd’hui financé par la ville de Vannes, le conseil général du Morbihan et le conseil régional de Bretagne.",
+  "Lieu « Tour du Connétable (Vannes) » : La tour du Connétable, construite dans la première moitié du XVe siècle, est un édifice intégré aux remparts de la commune de Vannes dans le département du Morbihan, en région Bretagne.",
+  "Lieu « Tour du Connétable (Vannes) », XVe siècle : La tour du Connétable, construite dans la première moitié du XVe siècle, est un édifice intégré aux remparts de la commune de Vannes dans le département du Morbihan, en région Bretagne.",
+  "Lieu « Tour du Connétable (Vannes) », 1786 : La municipalité redevient propriétaire de l'édifice en 1786 et l'utilise pour l'enfermement des personnes mentalement instable et des filles de mauvaise vie.",
+  "Lieu « Tour du Connétable (Vannes) », XIXe siècle : Une légende, relayée par des auteurs du XIXe siècle, affirme que Jean IV y emprisonna Olivier de Clisson, connétable de France.",
+  "Lieu « Tour du Connétable (Vannes) », aujourd'hui : Située au nord du château de l'Hermine, aujourd'hui disparu, la tour semble avoir fait partie de sa défense.",
+  "Lieu « Vannetais » : Le Vannetais, ou pays de Vannes (en breton vannetais : Bro-Gwened ; en KLT : Bro-Wened), ou encore pays Vannetais, est un territoire qui correspond à celui de l'un des neuf anciens évêchés de Bretagne.",
+  "Lieu « Vannetais », VIe siècle : C'était aussi à l'origine un royaume, dont le nom historique était le Bro Ereg (voir Liste des rois de Broërec), fondé au VIe siècle, et incorporé par Nominoë au royaume indépendant de Bretagne au IXe siècle.",
+  "Lieu « Vannetais », VIe siècle : Dans la seconde moitié du VIe siècle, Waroch est le chef des Bretons alors que les relations avec les Francs se dégradent : en luttant contre les rois mérovingiens, il se construit une principauté, appelée en breton Bro Waroch.",
+  "Lieu « Vannetais », XIXe siècle : Sur le plan géographique, on peut constater l'existence de deux zones distinctes, l'intérieur dont une partie était au XIXe siècle composée de landes incultes (landes de Lanvaux) et le littoral peu découpé mais prolongé par une petite mer intérieure presque fermée appelée le golfe du Morbihan (morbihan signifie « petite mer »).",
+  "Lieu « Vannetais », aujourd'hui : Vannes possédait un château ducal (château de l'Hermine aujourd'hui remplacé par l'hôtel Lagorce) et le parlement de Bretagne qui reviendra y siéger en exil sous les règnes de Louis XIV et Louis XV.",
+  "Lieu « Porte Saint-Vincent (Vannes) » : La porte Saint-Vincent est une porte de ville percée entre la fin du XVIe siècle et le début du XVIIe siècle.",
+  "Lieu « Porte Saint-Vincent (Vannes) », 1419 : Les travaux achevés, la porte est alors renommée porte Saint-Vincent en hommage au prédicateur saint Vincent Ferrier, mort à Vannes en 1419.",
+  "Lieu « Porte Saint-Vincent (Vannes) », XVIe siècle : C'est sous la Ligue, entre la fin du XVIe siècle et le début du XVIIe siècle, qu'une ouverture est percée au sud des remparts pour la communication avec le port.",
+  "Lieu « Porte Saint-Vincent (Vannes) », 1738 : Un projet de reconstruction de la porte est engagé en 1738 mais les travaux de l'architecte Jannesson ne sont pas exécutés.",
+  "Lieu « Porte Saint-Vincent (Vannes) », aujourd'hui : Pendant près de deux siècles, l'accès à la porte s'effectue par un pont (également nommé Saint-Vincent) qui sera remplacé par une place semi-hémisphérique : la place du Morbihan, future place Gambetta.",
+  "Lieu « Gare de Vannes » : La gare de Vannes est une gare ferroviaire française de la ligne de Savenay à Landerneau, située dans le quartier de la gare, sur le territoire de la commune de Vannes, préfecture du département du Morbihan, en région Bretagne.",
+  "Lieu « Gare de Vannes », 1947 : En 1947, la ligne des chemins de fer du Morbihan est fermée du fait du transfert sur la route, par autocars, du transport des voyageurs.",
+  "Lieu « Gare de Vannes », 1969 : La mosaïque est déplacée, en 1969, lors d'une modification de l'agencement du hall de la gare.",
+  "Lieu « Gare de Vannes », 1994 : L'ancien bâtiment de la gare des chemins de fer du Morbihan , devenue CTM après le transfert sur route, et sa cour des voyageurs sont détruits en 1994 pour laisser la place à un espace multimodal avec une gare routière.",
+  "Lieu « Gare de Vannes », aujourd'hui : La compagnie CM installe sa gare terminus d'échange avec un bâtiment principal dans la cour de la gare (actuel emplacement de la gare routière)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
