@@ -1,0 +1,134 @@
+{
+ "commune": {
+  "titre": "Villenave-d'Ornon",
+  "code_insee": "33550",
+  "departement": "33",
+  "population": 42545,
+  "lat": 44.78055556,
+  "lon": -0.56583333,
+  "url": "https://fr.wikipedia.org/wiki/Villenave-d%27Ornon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:39:04",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1619,
+  "sortie": 926
+ },
+ "cout_usd": 0.001481,
+ "accroche": "À Villenave-d'Ornon, un aqueduc gallo-romain daterait du Ier siècle, partant de Carbonnieux et passant par Sarcignan avant de rejoindre Madère pour alimenter en eau la cité.",
+ "histoire": {
+  "recit": "Villenave-d'Ornon, en banlieue sud de Bordeaux, rive gauche de la Garonne, porte très tôt la marque des passages humains. Sur le territoire, la nécropole mégalithique de Peyrehaut évoque une présence il y a 5 000 ans. Plus tard, au temps gallo-romain, un aqueduc relie Carbonnieux à Sarcignan, avec des vestiges retrouvés en 1973, puis se prolonge vers Madère pour l’approvisionnement en eau.\n\nLe XIe siècle voit la ville naître et une église est bâtie en pierre, possiblement sur le site d’une chapelle initiale en bois. Au XVe siècle, un événement politique vient bousculer l’équilibre local : en 1409, le comté est vendu aux maires et jurats de Bordeaux.\n\nÀ la fin du XIXe siècle, l’urbanisation s’accélère avec l’école du bourg, la mairie et la poste. Le XXe siècle marque à son tour les esprits : en 1949, un incendie frappe les jeunes artilleurs et les civils, et l’événement est ensuite surnommé « l’incendie du siècle ».",
+  "chronologie": [
+   {
+    "date": "Ier siècle",
+    "texte": "Un aqueduc gallo-romain part du lieu-dit Carbonnieux à Villenave-d'Ornon, passe ensuite par le lieu-dit Sarcignan, puis se prolonge vers le lieu-dit Madère pour alimenter en eau la cité.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Au XIe siècle, la ville voit le jour et une église est bâtie en pierre, peut-être sur l’emplacement de la chapelle initiale en bois.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1409",
+    "texte": "En 1409, le comté est vendu aux maires et jurats de Bordeaux.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Une politique de construction de bâtiments publics urbanise le bourg : l’école du bourg (1885), la mairie (inaugurée en 1877), l’école du Pont-de-la-Maye (1882) et la poste du Bourg (1885).",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1949",
+    "texte": "En 1949, vingt-cinq jeunes artilleurs du 33e Régiment d’Artillerie et 57 civils sont happés par le feu ; l’événement est ensuite nommé « l'incendie du siècle ».",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "Des vestiges de l’édifice de l’aqueduc sont découverts au lieu-dit Sarcignan en 1973.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Villenave-d'Ornon",
+   "histoire": "Église catholique classée par les Monuments historiques, l’église Saint-Martin se compose aujourd’hui d’une nef avec deux bas-côtés, de deux transepts et d’une abside en hémicycle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Classée par les Monuments historiques ; nef avec deux bas-côtés, deux transepts et abside en hémicycle.",
+   "sources": [
+    "S8",
+    "S12"
+   ],
+   "lat": 44.771624,
+   "lon": -0.541876,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Villenave-d%27Ornon"
+  },
+  {
+   "nom": "Nécropole mégalithique de Peyrehaut",
+   "histoire": "Sur le domaine de Peyrehaut, la nécropole mégalithique de Peyrehaut est située à Villenave-d'Ornon. Les vestiges témoignent d’une présence humaine sur le territoire communal il y a 5 000 ans.",
+   "anecdotes": [
+    {
+     "texte": "Au centre de l’allée, trois dalles visibles pourraient correspondre aux restes d’un dallage au sol.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Trois dalles visibles au centre de l’allée.",
+   "sources": [
+    "S13",
+    "S14",
+    "S2"
+   ],
+   "lat": 44.754221,
+   "lon": -0.579378,
+   "url": "https://fr.wikipedia.org/wiki/N%C3%A9cropole_m%C3%A9galithique_de_Peyrehaut"
+  }
+ ],
+ "sources": [
+  "Villenave-d'Ornon est une commune de la banlieue sud de Bordeaux, rive gauche de la Garonne située dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Les vestiges de la nécropole mégalithique de Peyrehaut témoignent d'une présence humaine sur le territoire communal, il y a 5 000 ans. Un aqueduc gallo-romain, datant du Ier siècle partait du lieu-dit Carbonnieux à Villenave-d'Ornon. Il passait ensuite au lieu-dit Sarcignan où des vestiges de l’édifice ont été découverts en 1973. L'édifice était prolongé vers le lieu-dit Madère, pour venir alimenter en eau la cité […]",
+  "XIe siècle : C'est au XIe siècle que la ville voit le jour et une église est bâtie en pierre, peut-être sur l'emplacement de la chapelle initiale en bois.",
+  "1409 : Ce coup est fatal à la relative indépendance du comté qui est vendu en 1409 aux maires et jurats de Bordeaux.",
+  "1885 : Une politique de construction de bâtiments publics urbanise : l'école du bourg (1885), la mairie (inaugurée en 1877), l'école du Pont-de-la-Maye (1882) et la poste du Bourg (1885).",
+  "1949 : En 1949, vingt-cinq jeunes artilleurs du 33e Régiment d’Artillerie de Châtellerault et 57 civils sont happés par le feu ; on nomme désormais l'événement « l'incendie du siècle » dans la région.",
+  "1973 : Il passait ensuite au lieu-dit Sarcignan où des vestiges de l’édifice ont été découverts en 1973.",
+  "Lieu « Église Saint-Martin de Villenave-d'Ornon » : L'église Saint-Martin est une église catholique, classée par les Monuments historiques, située sur la commune de Villenave-d'Ornon, dans le département de la Gironde, en France.",
+  "Lieu « Église Saint-Martin de Villenave-d'Ornon », XVIe siècle : Les deux piliers ne sont isolés que depuis qu'on a construit, au XVIe siècle, les deux transepts.",
+  "Lieu « Église Saint-Martin de Villenave-d'Ornon », XIXe siècle : Le porche accolé sur la façade occidentale, les nouvelles fenêtres percées dans le mur sud de la nef et de la chapelle Notre-Dame correspondent à des travaux exécutés au XIXe siècle.",
+  "Lieu « Église Saint-Martin de Villenave-d'Ornon », 1866 : Le transept actuel a été édifié à la fin de l'époque gothique (XIVe et XVe siècles) par l’adjonction des chapelles au nord (appelée dans un premier temps Saint-Michel, puis Saint-Jean dès 1866) et au sud (Notre-Dame).",
+  "Lieu « Église Saint-Martin de Villenave-d'Ornon », aujourd'hui : Aujourd'hui, l'église se compose d'une nef avec deux bas-côtés, de deux transepts et d'une abside en hémicycle.",
+  "Lieu « Nécropole mégalithique de Peyrehaut » : La nécropole mégalithique de Peyrehaut est située à Villenave-d'Ornon dans le département français de la Gironde, sur le domaine de Peyrehaut.",
+  "Lieu « Nécropole mégalithique de Peyrehaut », aujourd'hui : Les trois dalles visibles au centre de l'allée pourrait correspondre aux restes d'un dallage au sol."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

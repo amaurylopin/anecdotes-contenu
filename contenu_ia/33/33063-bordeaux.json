@@ -1,0 +1,395 @@
+{
+ "commune": {
+  "titre": "Bordeaux",
+  "code_insee": "33063",
+  "departement": "33",
+  "population": 267991,
+  "lat": 44.8624,
+  "lon": -0.5848,
+  "url": "https://fr.wikipedia.org/wiki/Bordeaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:13:57",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3849,
+  "sortie": 2844
+ },
+ "cout_usd": 0.004325,
+ "accroche": "En 1780, le Grand-Théâtre de Bordeaux, conçu par Victor Louis, est inauguré, scène centrale d’une transformation urbaine menée au XVIIIe siècle.",
+ "histoire": {
+  "recit": "Bordeaux commence par un peuplement ancien : les premières traces connues d’une occupation humaine remontent au VIe siècle avant notre ère, puis le noyau se développe entre le Peugue et la Devèze, vers des secteurs aujourd’hui reconnus autour de la porte Dijeaux et de la rue Sainte-Catherine. Plus tard, la ville s’affirme : au début du IIe siècle, le palais Gallien s’élève dans la Burdigala gallo-romaine, et au IIIe siècle viennent les Piliers de Tutelle.\n\nAu Moyen Âge et à la période moderne, Bordeaux renforce ses défenses et ses institutions. Entre 1454 et 1456, le pouvoir français fait édifier le fort du Hâ et le château Trompette. Le XVe siècle voit aussi la Grosse Cloche et la porte Saint-Éloi, puis la porte Cailhau, tandis que le Collège de Guyenne est fondé en 1533.\n\nLa vie publique marque encore les lieux : au palais de l’Ombrière, un incendie éclate dans la nuit du 1er janvier 1704, et, plus tard, le XIXe siècle voit la fin d’un chantier majeur avec le pont de pierre, achevé et ouvert au public.\n\nEnfin, l’époque contemporaine continue de remanier le patrimoine : au musée des Arts décoratifs et du Design, les travaux ferment le site et maintiennent une programmation hors les murs.",
+  "chronologie": [
+   {
+    "date": "VIe siècle avant notre ère",
+    "texte": "Les premières traces archéologiques connues d’une occupation humaine sur le site de Bordeaux remontent au VIe siècle avant notre ère, avec un noyau ancien entre le Peugue et la Devèze, vers les actuelles porte Dijeaux et rue Sainte-Catherine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début du IIe siècle",
+    "texte": "Le palais Gallien est édifié au début du IIe siècle dans la ville gallo-romaine de Burdigala.",
+    "sources": [
+     "S3",
+     "S45"
+    ]
+   },
+   {
+    "date": "IIIe siècle",
+    "texte": "Les Piliers de Tutelle sont construits au cours du IIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Au XIIe siècle, les églises Saint-Siméon et Saint-Pierre sont édifiées ou réaménagées.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1328",
+    "texte": "La crise dynastique ouverte par la mort sans héritier mâle de Charles IV en 1328 contribue au déclenchement de la guerre de Cent Ans.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Au XVe siècle, la Grosse Cloche et la porte Saint-Éloi témoignent de l’importance de Bordeaux.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1454-1456",
+    "texte": "Le fort du Hâ et le château Trompette sont édifiés entre 1454 et 1456 pour assurer le contrôle royal sur la ville.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1493-1496",
+    "texte": "La porte Cailhau est construite entre 1493 et 1496.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1533",
+    "texte": "Le Collège de Guyenne est fondé en 1533.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1748-1753",
+    "texte": "La porte Dijeaux est édifiée entre 1748 et 1753.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1749-1754",
+    "texte": "La porte d’Aquitaine est édifiée entre 1749 et 1754.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1780",
+    "texte": "Le Grand-Théâtre, œuvre de Victor Louis, est inauguré en 1780.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1er janvier 1704",
+    "texte": "Dans la nuit du 1er janvier 1704, un incendie éclate au palais de l’Ombrière où siégeait le Parlement, et la Grande Chambre et la Tournelle sont réduites en cendres.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1816",
+    "texte": "Le château Trompette est démoli à partir de 1816.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1822",
+    "texte": "Le pont de pierre est achevé en 1822.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Parlement de Bordeaux",
+   "histoire": "Le parlement de Bordeaux est une cour de justice confirmée dans ses fonctions en 1451, suspendue entre 1453 et 1462, puis rétablie en 1462. En 1580, sa situation est affaiblie, puis une chambre de justice composée de magistrats parisiens est installée entre 1580 et 1584.",
+   "anecdotes": [
+    {
+     "texte": "Dans la nuit du 1er janvier 1704, un incendie se déclare au palais de l’Ombrière : la Grande Chambre et la Tournelle sont réduites en cendres, tandis qu’une partie de l’édifice peut être sauvée.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 44.838556,
+   "lon": -0.569186,
+   "url": "https://fr.wikipedia.org/wiki/Parlement_de_Bordeaux"
+  },
+  {
+   "nom": "Pont de pierre (Bordeaux)",
+   "histoire": "Le pont de pierre franchit la Garonne à Bordeaux. Commencé en 1810, il est achevé en 1822, conçu par Claude Deschamps et Jean-Baptiste Basilide Billaudel, puis ouvert au public le 1er mai 1822.",
+   "anecdotes": [
+    {
+     "texte": "Avant sa réalisation, Jean-Rodolphe Perronet considérait impossible la construction d’un pont à Bordeaux, compte tenu des conditions difficiles du fleuve.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    },
+    {
+     "texte": "Le pont est ouvert au public le 1er mai 1822, avec une facture totale annoncée de 8 260 074 francs.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S23",
+    "S24"
+   ],
+   "lat": 44.838472,
+   "lon": -0.562778,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_pierre_%28Bordeaux%29"
+  },
+  {
+   "nom": "Bibliothèque municipale de Bordeaux",
+   "histoire": "La bibliothèque municipale de Bordeaux forme un réseau de onze établissements. Des affiches annoncent, en mai 1740, l’ouverture de la Bibliothèque publique de l’Académie, puis l’ouverture au public reprend le 2 décembre 1795.",
+   "anecdotes": [
+    {
+     "texte": "En mai 1740, des affiches posées dans les rues annoncent aux Bordelais l’ouverture de la Bibliothèque publique de l’Académie.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "Le 2 décembre 1795, la bibliothèque rouvre au public selon un arrêt du Département.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 44.835247,
+   "lon": -0.586374,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Bordeaux"
+  },
+  {
+   "nom": "Basilique Saint-Michel de Bordeaux",
+   "histoire": "La basilique Saint-Michel de Bordeaux est bâtie du XIVe siècle au XVIe siècle et relève du style gothique flamboyant. Un collège de chanoines y est installé en 1466, tandis que confréries et corporations participent ensuite aux donations, sans finaliser les travaux avant le XVIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En 1466, un collège de chanoines est installé dans l’église alors qu’elle est encore en construction.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les impacts sont encore visibles de nos jours.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 44.8344,
+   "lon": -0.5649,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Michel_de_Bordeaux"
+  },
+  {
+   "nom": "Musée des Arts décoratifs et du Design",
+   "histoire": "Le musée des Arts décoratifs et du Design est installé dans l’hôtel de Lalande, un hôtel particulier du XVIIIe siècle. Le site ouvre en 1924 avec la création d’un musée d’Art ancien, puis, à partir de 2023, il ferme pour travaux et poursuit une programmation hors les murs jusqu’à sa réouverture en avril 2026.",
+   "anecdotes": [
+    {
+     "texte": "En 2013, la direction du musée sollicite le Haut Conseil des musées de France pour faire évoluer le nom vers « musée des Arts décoratifs et du Design », afin de rendre visible la volonté de diffuser le design en France.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le musée est fermé pour travaux à partir de 2023, avec une programmation hors les murs jusqu’à sa réouverture en avril 2026.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 44.8389,
+   "lon": -0.579997,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_d%C3%A9coratifs_et_du_Design"
+  },
+  {
+   "nom": "Stade Chaban-Delmas",
+   "histoire": "Le stade Chaban-Delmas est un stade situé à Bordeaux. Il a accueilli l’équipe de football des Girondins de Bordeaux de 1938 à 2015 et accueille actuellement l’équipe de rugby de l’Union Bordeaux Bègles depuis 2011.",
+   "anecdotes": [
+    {
+     "texte": "En 1912, un terrain de 15 hectares appartenant à la famille Johnston est vendu pour être loti.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    },
+    {
+     "texte": "En 1923, 7 hectares ne sont toujours pas construits en raison de leur proximité avec le lit du Peugue.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il accueille actuellement l’équipe de rugby de l’Union Bordeaux Bègles depuis 2011.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 44.82917,
+   "lon": -0.5983333,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Chaban-Delmas"
+  },
+  {
+   "nom": "Palais Gallien",
+   "histoire": "Le palais Gallien est un amphithéâtre antique construit au début du IIe siècle dans la ville gallo-romaine de Burdigala. Il a subi des dégradations puis des réemplois : au Moyen Âge, il sert de carrière de pierre ; à la Révolution, il devient un dépotoir, avant que des décisions stoppent les dégradations en 1800.",
+   "anecdotes": [
+    {
+     "texte": "Le 14 vendémiaire an IX, le ministre de l’Intérieur Lucien Bonaparte demande au préfet de faire cesser la dégradation de l’édifice ; l’arrêté préfectoral du 25 vendémiaire interdit toute nouvelle mutilation.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    },
+    {
+     "texte": "Peut-être victime d’un incendie et abandonné à la fin de l’Antiquité, le palais Gallien sert ensuite de carrière de pierre au Moyen Âge puis de dépotoir après la Révolution, avant que les vestiges soient classés au titre des monuments historiques depuis 1840.",
+     "statut": "etabli",
+     "sources": [
+      "S48"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il en subsiste l’entrée d’un vomitoire et une petite partie d’un mur rayonnant, avec le tracé de son arène encore très visible dans le parcellaire du quartier.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 44.84778,
+   "lon": -0.58306,
+   "url": "https://fr.wikipedia.org/wiki/Palais_Gallien"
+  },
+  {
+   "nom": "Muséum d'histoire naturelle de Bordeaux",
+   "histoire": "Le Muséum de Bordeaux - sciences et nature est un musée d’histoire naturelle à Bordeaux. À la fin du XXe siècle, le bâtiment ne répond plus aux exigences de sécurité et d’accueil ; l’établissement ferme à partir de 2008 pour des travaux de rénovation et de mise en sécurité.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S50",
+    "S51",
+    "S52"
+   ],
+   "lat": 44.84806,
+   "lon": -0.58,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9um_d%27histoire_naturelle_de_Bordeaux"
+  }
+ ],
+ "sources": [
+  "Bordeaux (/bɔʁ.do/ ) est une commune du Sud-Ouest de la France, préfecture du département de la Gironde et chef-lieu de la région Nouvelle-Aquitaine. En 2023, Bordeaux est la neuvième commune la plus peuplée de France, avec 267 991 habitants. Son unité urbaine, qui rassemble 1 034 027 habitants, est la sixième du pays. La ville est également le siège de Bordeaux Métropole, EPCI regroupant 854 334 habitants, tandis […]",
+  "Les premières traces archéologiques connues d'une occupation humaine sur le site de Bordeaux remontent au VIe siècle av. J.-C.. Le noyau ancien se développe entre les cours du Peugue et de la Devèze, dans un secteur correspondant notamment aux actuelles porte Dijeaux et rue Sainte-Catherine. Entre les IIIe et Ier siècles av. J.-C., les Bituriges Vivisques s'installent dans la région. La date exacte et les […]",
+  "IIe siècle : Le Palais Gallien, amphithéâtre dont subsistent encore des vestiges, est édifié au début du IIe siècle.",
+  "IIIe siècle : Les Piliers de Tutelle, probablement liés à un important édifice public ou religieux, sont construits au cours du IIIe siècle.",
+  "XIIe siècle : Au XIIe siècle sont également édifiées ou réaménagées les églises Saint-Siméon et Saint-Pierre.",
+  "1328 : La crise dynastique ouverte par la mort sans héritier mâle de Charles IV en 1328 contribue au déclenchement de la guerre de Cent Ans.",
+  "XVe siècle : Au XVe siècle, de nouveaux édifices témoignent de l'importance de Bordeaux, notamment la Grosse Cloche et la porte Saint-Éloi.",
+  "1454 : Afin d'assurer le contrôle royal sur une ville longtemps attachée à la couronne d'Angleterre, le pouvoir français fait édifier le fort du Hâ et le château Trompette entre 1454 et 1456.",
+  "1475 : Le traité de Picquigny, signé en 1475, met de jure un terme à la guerre de Cent Ans et aux prétentions anglaises sur la Guyenne.",
+  "1493 : La porte Cailhau est construite entre 1493 et 1496, tandis que la tour Pey-Berland est achevée vers 1500.",
+  "1533 : Le Collège de Guyenne, fondé en 1533, devient l'un des principaux établissements d'enseignement humaniste du royaume.",
+  "1748 : Dans la seconde moitié du siècle sont édifiées plusieurs portes monumentales : la porte Dijeaux entre 1748 et 1753, la porte d'Aquitaine entre 1749 et 1754, la porte de Bourgogne entre 1750 et 1755 et la porte de la Monnaie à la fin des années 1750.",
+  "1780 : Cette transformation urbaine culmine avec la construction du Grand-Théâtre, œuvre de l'architecte Victor Louis, inauguré en 1780.",
+  "1816 : Le château Trompette est démoli à partir de 1816 et le pont de Pierre est achevé en 1822.",
+  "Lieu « Parlement de Bordeaux » : Le parlement de Bordeaux est une cour de justice, confirmée dans ses fonctions en 1451 par le roi de France Charles VII, suspendue entre 1453 et 1462, et rétablie par Louis XI le 10 juin 1462.",
+  "Lieu « Parlement de Bordeaux », 1580 : Cependant, lorsque la paix du Fleix fut signée en 1580, le Parlement, qui avait pris le tournant de l'hostilité envers les protestants, fut à nouveau affaibli par le pouvoir royal.",
+  "Lieu « Parlement de Bordeaux », 1580 : Entre 1580 et 1584, une chambre de justice composée de magistrats parisiens fut installée au parlement de Bordeaux.",
+  "Lieu « Parlement de Bordeaux », 1704 : Dans la nuit du 1er janvier 1704, un incendie se déclara au palais de l'Ombrière où siégeait le Parlement ; la Grande Chambre et la Tournelle furent réduites en cendres, mais une partie de l'édifice put être sauvé, les dégâts furent évalués à 50.000 livres.",
+  "Lieu « Parlement de Bordeaux », aujourd'hui : On trouve même la trace d'une cour de justice organisée bien avant Aliénor d'Aquitaine et le parlement de Bordeaux ainsi que tous les parlements de ce qui constituait les royaumes vassaux du royaume de France, ont été créés bien avant que Paris ne devînt Paris à l'époque de la Révolution.",
+  "Lieu « Pont de pierre (Bordeaux) » : Le pont de pierre de Bordeaux est un pont à voûtes en maçonnerie franchissant la Garonne à Bordeaux, commune française du département de la Gironde.",
+  "Lieu « Pont de pierre (Bordeaux) », 1810 : Le pont de pierre, commencé sous Napoléon Ier en 1810, et achevé sous Louis XVIII en 1822, a été conçu par les ingénieurs Claude Deschamps et Jean-Baptiste Basilide Billaudel.",
+  "Lieu « Pont de pierre (Bordeaux) », 1820 : Puis une nouvelle voie conduisait à un autre ouvrage de Claude Deschamps avec le pont de Libourne sur la Dordogne construit entre 1820 et 1824.",
+  "Lieu « Pont de pierre (Bordeaux) », 1822 : Le pont est ouvert au public le 1er mai 1822, la facture totale sera de 8 260 074 francs.",
+  "Lieu « Pont de pierre (Bordeaux) », aujourd'hui : L'architecte Jean-Rodolphe Perronet, qui créa en 1775 l'École royale des ponts et chaussées (aujourd'hui École nationale des ponts et chaussées) et maitre d'œuvre du pont de la Concorde à Paris, considérait impossible la construction d'un pont à Bordeaux compte tenu des conditions difficiles du fleuve.",
+  "Lieu « Bibliothèque municipale de Bordeaux » : La bibliothèque municipale de Bordeaux est une bibliothèque municipale classée, constituée en un réseau de 11 établissements répartis dans la ville.",
+  "Lieu « Bibliothèque municipale de Bordeaux », 1740 : En mai 1740, des affiches posés dans les rues annoncent aux Bordelais l'ouverture de la Bibliothèque publique de l'Académie, la première ouverte au public dans leur ville.",
+  "Lieu « Bibliothèque municipale de Bordeaux », 1795 : Par un arrêt du Département, la bibliothèque est de nouveau ouverte au public le 2 décembre 1795.",
+  "Lieu « Bibliothèque municipale de Bordeaux », 1891 : Le 14 décembre 1891, la bibliothèque s'installe dans le bâtiment du couvent des Dominicains réaménagé par l'architecte Charles Durand, Cour Mably.",
+  "Lieu « Bibliothèque municipale de Bordeaux », aujourd'hui : En avril 1830, Monbalon prend sa retraite et est remplacé par M. François Chalu, alors aide-bibliothécaire.",
+  "Lieu « Basilique Saint-Michel de Bordeaux » : La basilique Saint-Michel de Bordeaux est la deuxième plus grande église catholique de la ville de Bordeaux, dans le sud-ouest de la France.",
+  "Lieu « Basilique Saint-Michel de Bordeaux », XIVe siècle : Bâtie du XIVe siècle au XVIe siècle, elle est caractéristique du style gothique flamboyant.",
+  "Lieu « Basilique Saint-Michel de Bordeaux », 1466 : En 1466, un collège de chanoines est installé dans l'église, toujours en construction.",
+  "Lieu « Basilique Saint-Michel de Bordeaux », XVIe siècle : Les confréries et corporations contribuent par des donations à l'avancement des travaux, lesquels ne sont pourtant pas achevés avant le XVIe siècle.",
+  "Lieu « Basilique Saint-Michel de Bordeaux », aujourd'hui : Les impacts sont encore visibles de nos jours.",
+  "Lieu « Musée des Arts décoratifs et du Design » : Le musée des Arts décoratifs et du Design (en abrégé, le MADD ou le MADD-Bordeaux) est un musée situé dans l'hôtel de Lalande, à Bordeaux, en France.",
+  "Lieu « Musée des Arts décoratifs et du Design », XVIIIe siècle : Le musée des Arts décoratifs et du Design de Bordeaux est installé dans l'hôtel de Lalande, hôtel particulier du XVIIIe siècle.",
+  "Lieu « Musée des Arts décoratifs et du Design », 1924 : En 1924, le corps de logis principal de l'hôtel de Lalande, propriété de la mairie, est libéré pour la création d'un « musée d’Art ancien ».",
+  "Lieu « Musée des Arts décoratifs et du Design », 2023 : À partir de 2023 le musée est fermé pour travaux et assure une programmation hors les murs jusqu'à sa réouverture en avril 2026.",
+  "Lieu « Musée des Arts décoratifs et du Design », aujourd'hui : En 2013, Constance Rubini, alors nommée à la direction du musée, sollicite le Haut Conseil des musées de France pour faire évoluer le nom en « musée des Arts décoratifs et du Design », afin de rendre visible la volonté de l'institution de devenir un important lieu de diffusion de la culture du design en France.",
+  "Lieu « Stade Chaban-Delmas » : Le stade Chaban-Delmas est un stade situé à Bordeaux dans le département de la Gironde.",
+  "Lieu « Stade Chaban-Delmas », 1912 : En 1912, un terrain de 15 hectares appartenant à la famille Johnston est vendu à un consortium d'entrepreneurs bordelais pour être lotis.",
+  "Lieu « Stade Chaban-Delmas », 1923 : En 1923, 7 hectares ne sont toujours pas construits en raison de leur proximité avec le lit du Peugue.",
+  "Lieu « Stade Chaban-Delmas », 1930 : Raoul Jourde, l'architecte de la controversée Régie municipale du gaz et d'électricité de Bordeaux construite en 1930 est choisi pour être l'architecte du projet.",
+  "Lieu « Stade Chaban-Delmas », aujourd'hui : Il a accueilli l'équipe de football des Girondins de Bordeaux de 1938 à 2015 et accueille actuellement l'équipe de rugby de l'Union Bordeaux Bègles (qui évolue en Top 14) depuis 2011.",
+  "Lieu « Palais Gallien » : Le palais Gallien est un amphithéâtre antique, construit au début du IIe siècle dans la ville gallo-romaine de Burdigala (Bordeaux), capitale de la province d'Aquitaine.",
+  "Lieu « Palais Gallien », IIe siècle : Le palais Gallien est un amphithéâtre antique, construit au début du IIe siècle dans la ville gallo-romaine de Burdigala (Bordeaux), capitale de la province d'Aquitaine.",
+  "Lieu « Palais Gallien », 1800 : Le 14 vendémiaire an IX (6 octobre 1800) le ministre de l'Intérieur Lucien Bonaparte demande au préfet de faire cesser la dégradation de l'édifice ; l’arrêté préfectoral du 25 vendémiaire interdira toute nouvelle mutilation.",
+  "Lieu « Palais Gallien », 1800 : Peut-être victime d'un incendie et en tout cas abandonné à la fin de l'Antiquité, il est transformé en carrière de pierre au Moyen Âge, en dépotoir à la Révolution française, vendus par lots peu de temps après, avant qu'une décision préfectorale ne stoppe en 1800 les dégradations de ses vestiges qui font l'objet d'un classement au titre des monuments historiques depuis 1840.",
+  "Lieu « Palais Gallien », aujourd'hui : Il en subsiste l'entrée d'un vomitoire et une petite partie d'un mur rayonnant et de quelques murs annulaires, mais le tracé de son arène reste très visible dans le parcellaire du quartier.",
+  "Lieu « Muséum d'histoire naturelle de Bordeaux » : Le muséum d'histoire naturelle de Bordeaux, désormais appelé Muséum de Bordeaux - sciences et nature, est un musée d'histoire naturelle français situé à Bordeaux, dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Lieu « Muséum d'histoire naturelle de Bordeaux », XXe siècle : À la fin du XXe siècle, le bâtiment ne répond plus aux exigences de sécurité et d'accueil de tous les publics, notamment handicapés et très jeunes.",
+  "Lieu « Muséum d'histoire naturelle de Bordeaux », 2008 : L’établissement a été fermé à partir de 2008 pour des travaux de rénovation et de la mise en sécurité.",
+  "Lieu « Muséum d'histoire naturelle de Bordeaux », 2012 : La signature de la convention de dépôt entre l'université et la ville a été signée le 24 avril 2012 par le président de l'université Victor Segalen-Bordeaux 2, Manuel Tunon de Lara, et par Dominique Ducassou, adjoint au maire de Bordeaux, dans les locaux de l'université.",
+  "Lieu « Muséum d'histoire naturelle de Bordeaux », aujourd'hui : Regroupant aujourd'hui plusieurs milliers de spécimens du monde entier, elles se sont enrichies au fil du temps à la suite de dizaines de dons et d'acquisitions."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 11
+ }
+}

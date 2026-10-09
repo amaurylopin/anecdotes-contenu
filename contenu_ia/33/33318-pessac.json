@@ -1,0 +1,211 @@
+{
+ "commune": {
+  "titre": "Pessac",
+  "code_insee": "33318",
+  "departement": "33",
+  "population": 67339,
+  "lat": 44.786,
+  "lon": -0.681,
+  "url": "https://fr.wikipedia.org/wiki/Pessac"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:25:44",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 2253,
+  "sortie": 1675
+ },
+ "cout_usd": 0.006342,
+ "accroche": "Le 15 décembre 1870, la bibliothèque de droit de Bordeaux est créée, avant d’être transférée à Pessac dans son bâtiment actuel en 1968. ",
+ "histoire": {
+  "recit": "Pessac, au sud-ouest, s’est construite sur le trajet d’une voie antique, la Lébade ou Levada, reliant Burdigala à La Teste-de-Buch ; elle traverse la ville par Brivazac, le domaine universitaire, puis longe l’A63 à Tuilerane pour aller vers la Croix de Hins. Au fil du temps, la ville garde toutefois des vignobles prestigieux, partie de l’AOC pessac-léognan. Le centre actuel se dessine au milieu des vignes dans la deuxième moitié du XIXe siècle, avec la place de la Ve République et la mairie, après le déplacement du cimetière jouxtant l’église. Au XXe siècle, l’urbanisation de nouveaux quartiers se fait souvent au détriment de l’aspect viticole initial. ",
+  "chronologie": [
+   {
+    "date": "1305",
+    "texte": "Sur le domaine, Bertrand de Got (Clément V) fait édifier une résidence au pied de la motte, à l’emplacement de l’actuel château Pape Clément.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "15 décembre 1870",
+    "texte": "La bibliothèque de droit de Bordeaux est créée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "La bibliothèque ouvre dès 1871 sur le site historique de la faculté, à la place Pey Berland, à Bordeaux.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1841",
+    "texte": "La gare est ouverte sous le nom de « gare de Saint-Médard », le 7 mai 1841.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1926",
+    "texte": "La cité Frugès est construite : l’un des deux lotissements de Le Corbusier à Pessac.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1966-1968",
+    "texte": "La bibliothèque passe de Bordeaux à Pessac, au 4 avenue Denis-Diderot, au sein du Domaine universitaire de Talence Pessac Gradignan.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "La bibliothèque est transférée à Pessac dans son bâtiment actuel.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "",
+    "sources": []
+   },
+   {
+    "date": "2022",
+    "texte": "Les 50 maisons de la cité Frugès sont protégées au titre des monuments historiques.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Bibliothèque universitaire de droit de Bordeaux",
+   "histoire": "Créée le 15 décembre 1870, la bibliothèque de droit de Bordeaux s’ouvre dès 1871 sur le site historique de la faculté, place Pey Berland à Bordeaux. Elle est ensuite d’abord installée à cette même place, puis transférée en 1966-1968 au 4 avenue Denis-Diderot à Pessac, au sein du Domaine universitaire de Talence Pessac Gradignan. En 1968, elle arrive dans son bâtiment actuel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 44.79647,
+   "lon": -0.619646,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_universitaire_de_droit_de_Bordeaux"
+  },
+  {
+   "nom": "Cité Frugès",
+   "histoire": "La cité Frugès, ou cité Frugès - Le Corbusier, est un lotissement construit par Le Corbusier en 1926 avec Pierre Jeanneret. Ouverte à la visite, elle accueille des expositions tout au long de l’année et conserve une maquette de l’ensemble réalisée par Henry et Christiane Frugès en 1967. Des candidatures pour un classement UNESCO échouent en 2009 et 2011, puis les 50 maisons sont protégées depuis 2022 (la 51e ayant été détruite lors de la Seconde Guerre mondiale).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ouverte à la visite et protégée au titre des monuments historiques depuis 2022.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 44.799,
+   "lon": -0.6477,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_Frug%C3%A8s"
+  },
+  {
+   "nom": "Château Pape Clément",
+   "histoire": "Château Pape Clément est un domaine viticole du vignoble des Graves, situé à Pessac. En 1305, Bertrand de Got, élu pape sous le nom de Clément V, fait construire une résidence sur le domaine, édifiée au pied de la motte. En 1791, le domaine est vendu aux enchères à Samuel Peixotto, banquier bordelais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 44.80597528,
+   "lon": -0.64758222,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Pape_Cl%C3%A9ment"
+  },
+  {
+   "nom": "Moulin de Noès",
+   "histoire": "Le moulin de Noès est le dernier vestige du domaine de Bellevue, une ferme expérimentale du XVIIIe siècle à cheval sur Mérignac et Pessac. Les descendants de Laffon de Ladébat ne réussissent pas à faire prospérer la ferme expérimentale : elle est finalement vendue en 1823 à une société anonyme dénommée « Ferme expérimentale du Duc de Bordeaux ». Aujourd’hui, le moulin de Noès subsiste comme témoin de ce domaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Dernier vestige du domaine de Bellevue.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 44.812174,
+   "lon": -0.656406,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_No%C3%A8s"
+  },
+  {
+   "nom": "Gare de Pessac-Alouette",
+   "histoire": "La gare de Pessac-Alouette est une gare ferroviaire sur le territoire de Pessac, sur la ligne de Bordeaux-Saint-Jean à Irun. Elle a d’abord porté le nom de « gare de Saint-Médard ». La gare est ouverte le 7 mai 1841, lors de l’ouverture de la ligne Bordeaux-La Teste par la Compagnie du chemin de fer de Bordeaux à La Teste.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 44.793403,
+   "lon": -0.659722,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Pessac-Alouette"
+  },
+  {
+   "nom": "Zoo de Bordeaux Pessac",
+   "histoire": "Le Zoo de Bordeaux Pessac est un parc zoologique en Nouvelle-Aquitaine, sur la commune de Pessac, près de Bordeaux. En 2020, le zoo ouvre ses deux premiers lodges au cœur du parc : le Lodge Tigre Blanc et le Lodge Jaguars, sous le nom « Night expérience ».",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Deux premiers lodges ouverts depuis 2020 : Lodge Tigre Blanc et Lodge Jaguars (Night expérience).",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 44.8037,
+   "lon": -0.696042,
+   "url": "https://fr.wikipedia.org/wiki/Zoo_de_Bordeaux_Pessac"
+  }
+ ],
+ "sources": [
+  "Pessac [pɛsak] est une commune du Sud-Ouest de la France, située en région Nouvelle-Aquitaine, dans le département de la Gironde. Bien que fortement urbanisée (la commune est une des principales banlieues de Bordeaux et accueille une partie importante de son campus universitaire), la commune a conservé quelques vignobles prestigieux qui font partie de l'AOC pessac-léognan.",
+  "Pessac s'est développé sur le trajet de la voie antique, appelée en gascon la Lébade ou Levada c'est-à-dire la Levée, qui reliait Burdigala (Bordeaux) à La Teste-de-Buch. Elle traverse la ville par Brivazac et le domaine universitaire avant de longer l'A63 à Tuilerane pour rejoindre la Croix de Hins. L'histoire de Pessac est marquée par la présence de Bertrand de Goth, archevêque de Bordeaux, qui devient en 1305 le […]",
+  "XIXe siècle : Ce n’est que dans la deuxième moitié du XIXe siècle que le centre actuel de Pessac est construit au milieu des vignes avec la place de la Ve République et la mairie, après le déplacement du cimetière jouxtant l’église.",
+  "XXe siècle : Les quartiers construits au XXe siècle le sont souvent au détriment de l’aspect viticole initial de la ville.",
+  "Lieu « Bibliothèque universitaire de droit de Bordeaux » : La bibliothèque de droit de Bordeaux, est créée le 15 décembre 1870.",
+  "Lieu « Bibliothèque universitaire de droit de Bordeaux », 1871 : Ouverte dès 1871, la bibliothèque est alors installée sur le site historique de la faculté, toujours existant et en activité, place Pey Berland à Bordeaux.",
+  "Lieu « Bibliothèque universitaire de droit de Bordeaux », 1966 : Elle est d'abord installée place Pey Berland à Bordeaux puis est transférée en 1966-1968 au 4 avenue Denis-Diderot à Pessac, au sein du Domaine universitaire de Talence Pessac Gradignan.",
+  "Lieu « Bibliothèque universitaire de droit de Bordeaux », 1968 : Ainsi, en 1968, elle est transférée à Pessac dans son bâtiment actuel.",
+  "Lieu « Bibliothèque universitaire de droit de Bordeaux », aujourd'hui : À Bordeaux, les bibliothèques des facultés de lettres, de sciences, de droit et de médecine sont ainsi structurées au sein de la bibliothèque universitaire en 1879 sans quitter leurs emplacements.",
+  "Lieu « Cité Frugès » : La cité Frugès, ou cité Frugès - Le Corbusier, à Pessac, dans la banlieue de Bordeaux, est l’un des deux lotissements construits par l’architecte franco-suisse Le Corbusier en 1926 (en collaboration avec son cousin Pierre Jeanneret, architecte égalem",
+  "Lieu « Cité Frugès », 1967 : Ouverte à la visite et lieu de diverses expositions tout au long de l'année, elle conserve une maquette de l'ensemble, réalisée par Henry et Christiane Frugès en 1967.",
+  "Lieu « Cité Frugès », 2009 : La candidature de plusieurs sites construits par Le Corbusier (dont la cité Frugès) au patrimoine mondial de l'Unesco a déjà été refusée en 2009 puis en 2011 en raison d'une liste trop longue et l’absence du site de Chandigarh en Inde.",
+  "Lieu « Cité Frugès », 2022 : Depuis 2022, les 50 maisons de la cité Frugès sont protégées au titre des monuments historiques, la 51e ayant été détruite lors de la Seconde Guerre mondiale.",
+  "Lieu « Château Pape Clément » : Le château Pape Clément est un domaine viticole du vignoble des Graves situé à Pessac en Gironde.",
+  "Lieu « Château Pape Clément », 1305 : En 1305, Bertrand de Got fut élu pape et prit le nom de Clément V. Il fit construire sur le domaine une résidence qui fut édifiée au pied de la motte.",
+  "Lieu « Château Pape Clément », 1791 : En 1791, le domaine est vendu aux enchères à Samuel Peixotto, banquier bordelais.",
+  "Lieu « Moulin de Noès » : Le moulin de Noès est le dernier vestige du domaine de Bellevue, une ferme expérimentale du XVIIIe siècle située à cheval sur les communes de Mérignac et de Pessac, dans le département français de la Gironde.",
+  "Lieu « Moulin de Noès », 1823 : Les descendants de Laffon de Ladébat ne réussirent pas à faire prospérer cette ferme expérimentale qui sera finalement vendue en 1823 à une société anonyme dénommée « Ferme expérimentale du Duc de Bordeaux ».",
+  "Lieu « Moulin de Noès », aujourd'hui : Le moulin de Noès est le dernier vestige du domaine de Bellevue, une ferme expérimentale du XVIIIe siècle située à cheval sur les communes de Mérignac et de Pessac, dans le département français de la Gironde.",
+  "Lieu « Gare de Pessac-Alouette » : La gare de Pessac-Alouette, anciennement appelée Alouette-France jusqu’à décembre 2021, est une gare ferroviaire française de la ligne de Bordeaux-Saint-Jean à Irun, située sur le territoire de la commune de Pessac, dans le département de la Gironde,",
+  "Lieu « Gare de Pessac-Alouette », 1841 : La gare est ouverte sous le nom de « gare de Saint-Médard » le 7 mai 1841, date d'ouverture de la ligne Bordeaux-La Teste par la Compagnie du chemin de fer de Bordeaux à La Teste.[réf. nécessaire].",
+  "Lieu « Zoo de Bordeaux Pessac » : Le Zoo de Bordeaux Pessac est un parc zoologique français situé en Nouvelle-Aquitaine, sur la commune de Pessac, près de Bordeaux.",
+  "Lieu « Zoo de Bordeaux Pessac », 2020 : En 2020, le Zoo de Bordeaux Pessac ouvre ses deux premiers lodges installés au cœur du zoo (Lodge Tigre Blanc et Lodge Jaguars) sous le nom \"Night expérience\"."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 1,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 0
+ }
+}

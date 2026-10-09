@@ -1,0 +1,215 @@
+{
+ "commune": {
+  "titre": "Saint-Médard-en-Jalles",
+  "code_insee": "33449",
+  "departement": "33",
+  "population": 32910,
+  "lat": 44.89638889,
+  "lon": -0.71638889,
+  "url": "https://fr.wikipedia.org/wiki/Saint-M%C3%A9dard-en-Jalles"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:46:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2093,
+  "sortie": 1417
+ },
+ "cout_usd": 0.00219,
+ "accroche": "Le 10 février 1783, un orage détruit la poudrerie de Saint-Médard-en-Jalles en déclenchant l’explosion du grenier où étaient entreposées 22 tonnes de poudre noire.",
+ "histoire": {
+  "recit": "À Saint-Médard-en-Jalles, la Jalle traverse la commune et partage le territoire entre Médoc et Graves. Très tôt, les vestiges de camps romains annoncent une vocation militaire. Plus tard, la vie locale s’organise autour de châteaux et de moulins, puis autour de la poudre.\n\nAu milieu du XVIIe siècle, un négociant achète un terrain pour y installer six moulins à poudre. Deux décennies après, un orage met tout à l’épreuve : l’explosion emporte la poudrerie. Le paysage garde ensuite la trace de ces fonctions défensives et productives, comme au Castérà, en ruines dans l’enceinte de la poudrerie, et comme devant le Château de la Mothe-Gajac, où un blockhaus est construit en 1943.\n\nDans le même temps, le bourg conserve des repères plus anciens : l’église Saint-Médard, édifice roman du XIe siècle, dont il ne reste aujourd’hui qu’une absidiole, et les moulins de Gajac et de Caupian, passés de l’activité à la mémoire des actes et des cartes.",
+  "chronologie": [
+   {
+    "date": "1289",
+    "texte": "Première mention du Château de la Mothe-Gajac ; le bâtiment actuel a été reconstruit après la guerre de Cent Ans.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’église Saint-Médard, de style roman, date du XIe siècle.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1660",
+    "texte": "Le sieur Jéhan Dupérier achète un terrain et fait construire six moulins à poudre entre les moulins à grains de Gajac et de Caupian.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "10 février 1783",
+    "texte": "Un orage détruit la poudrerie en provoquant l’explosion du grenier des moulins à poudre, avec 22 tonnes de poudre noire.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "17 mars 1787",
+    "texte": "Le vicaire général Camiran décrit la chapelle de la Mothe-Gajac, à l’extrémité des bâtiments et sans communication extérieure.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "Pendant la Seconde Guerre mondiale, un blockhaus est construit devant le Château de la Mothe-Gajac.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "6 février 1981",
+    "texte": "Le Château du Bourdieu est inscrit aux monuments historiques.",
+    "sources": [
+     "S20"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de la Mothe-Gajac",
+   "histoire": "Château fort du XVe siècle, il est cité dès 1289. Le bâtiment actuel a été reconstruit après la guerre de Cent Ans. En 1787, un vicaire général décrit la chapelle ; en 1943, un blockhaus est construit devant le château.",
+   "anecdotes": [
+    {
+     "texte": "Le 17 mars 1787, le vicaire général Camiran note que la chapelle se trouve à l’extrémité des bâtiments et n’a pas de communication extérieure.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En 1943, un blockhaus est construit devant le château, rappelant son rôle dans un contexte militaire récent.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 44.885302,
+   "lon": -0.699633,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Mothe-Gajac"
+  },
+  {
+   "nom": "Église Saint-Médard de Saint-Médard-en-Jalles",
+   "histoire": "Église située à Saint-Médard-en-Jalles ; de style roman, elle date du XIe siècle. De l’édifice originel, il ne reste qu’une absidiole.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 44.895763,
+   "lon": -0.718084,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-M%C3%A9dard_de_Saint-M%C3%A9dard-en-Jalles"
+  },
+  {
+   "nom": "Moulin de Caupian",
+   "histoire": "Le moulin de Caupian se situe sur la Jalle de Blanquefort, dans le quartier de Caupian. Reconstruit au XIXe siècle, il est documenté dans la base Mérimée et mentionné au registre du clerc de ville de Bordeaux en 1593, puis figuré sur la carte de Belleyme.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 44.88096,
+   "lon": -0.73876,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_Caupian"
+  },
+  {
+   "nom": "Moulin de Gajac",
+   "histoire": "Le moulin de Gajac se situe sur la Jalle de Blanquefort, dans le quartier de Gajac. L’édifice actuel est modifié au XVIIIe siècle, avec une extension du logis d’un étage au XIXe siècle. Sans activité de mouture aujourd’hui, il est mentionné dans un acte de 1289 et figure sur la carte de Belleyme.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 44.888584,
+   "lon": -0.705158,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_Gajac"
+  },
+  {
+   "nom": "Château du Bourdieu",
+   "histoire": "Le Château du Bourdieu dispose d’un parc d’environ trente hectares au centre de Saint-Médard-en-Jalles, face à la place de la République. Inscrit aux monuments historiques le 6 février 1981, le logis actuel est construit en 1788 dans un domaine viticole ayant appartenu en 1737 au courtier royal Delmestre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 44.89588,
+   "lon": -0.71418,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Bourdieu"
+  },
+  {
+   "nom": "Castérà de Saint-Médard-en-Jalles",
+   "histoire": "Le Castérà est un ancien château fort aujourd’hui en ruine dans l’enceinte de la poudrerie, sur la rive droite de la Jalle. Le mot est gascon et renvoie à l’idée de domaine fortifié.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 44.88784,
+   "lon": -0.72149,
+   "url": "https://fr.wikipedia.org/wiki/Cast%C3%A9r%C3%A0_de_Saint-M%C3%A9dard-en-Jalles"
+  }
+ ],
+ "sources": [
+  "Saint-Médard-en-Jalles est une commune du Sud-Ouest de la France, située dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Les plus anciennes traces d’habitat à Saint-Médard-en-Jalles remontent aux vestiges des camps romains, affirmant ainsi la vocation militaire de la commune. L'actuelle commune, traversée par la Jalle, se trouve partagée entre Médoc (côté bourg) et Graves (au sud de la rivière). Elle fut le siège de plusieurs seigneuries : la seigneurie du Tiran-Tilh, au nord, qui s'étendait du Nord d'Eysines jusqu'à […]",
+  "1660 : En 1660, le sieur Jéhan Dupérier, négociant, achète un terrain à Henri de Montaigne sur lequel il construit six moulins à poudre situés entre les moulins à grains de Gajac et de Caupian.",
+  "1783 : Un orage, le 10 février 1783, détruit la poudrerie en provoquant l'explosion du grenier des moulins à poudre (où étaient entreposées 22 tonnes de poudre noire).",
+  "Lieu « Château de la Mothe-Gajac » : Le château de la Mothe-Gajac ou simplement Château de Gajac est un château fort du XVe siècle, sur la commune de Saint-Médard-en-Jalles en Gironde (France).",
+  "Lieu « Château de la Mothe-Gajac », 1289 : La première mention du château date de 1289, année où Édouard 1er confie son château de Blanquefort au prêtre Arnaud de Lacaze, mais le bâtiment actuel a été reconstruit après la guerre de Cent Ans.",
+  "Lieu « Château de la Mothe-Gajac », 1787 : Le 17 mars 1787, le vicaire général Camiran en fait la description suivante : « […] la chapelle est à l'extrémité des bâtiments sans communication extérieure.",
+  "Lieu « Château de la Mothe-Gajac », 1943 : En 1943, pendant la Seconde Guerre mondiale, un blockhaus toujours présent a été construit devant le château.",
+  "Lieu « Château de la Mothe-Gajac », aujourd'hui : Bien que peu mis en valeur, c'est l'un des rares châteaux forts subsistant dans la région bordelaise.",
+  "Lieu « Église Saint-Médard de Saint-Médard-en-Jalles » : L'église Saint-Médard est située à Saint-Médard-en-Jalles, en Gironde.",
+  "Lieu « Église Saint-Médard de Saint-Médard-en-Jalles », XIe siècle : L'édifice lui-même, de style roman, date du XIe siècle.",
+  "Lieu « Église Saint-Médard de Saint-Médard-en-Jalles », aujourd'hui : De l'église originelle, il ne reste qu'une absidiole.",
+  "Lieu « Moulin de Caupian » : Le moulin de Caupian se situe sur la Jalle de Blanquefort dans le quartier de Caupian de la commune de Saint-Médard-en-Jalles, dans le département français de la Gironde.",
+  "Lieu « Moulin de Caupian », XIXe siècle : Reconstruit au XIXe siècle, il fait l'objet d'une fiche dans la base de données Mérimée sous la référence IA00025822.",
+  "Lieu « Moulin de Caupian », aujourd'hui : Hors d'activité de nos jours, ce moulin à grain est mentionné au registre du clerc de ville de Bordeaux en 1593 et figure sur la carte de Belleyme.",
+  "Lieu « Moulin de Gajac » : Le moulin de Gajac se situe sur la Jalle de Blanquefort dans le quartier de Gajac de la commune de Saint-Médard-en-Jalles, dans le département français de la Gironde.",
+  "Lieu « Moulin de Gajac », XVIIIe siècle : L'édifice actuel est modifié au XVIIIe siècle; le logis a été agrandi d'un étage au XIXe siècle.",
+  "Lieu « Moulin de Gajac », aujourd'hui : Sans activité de mouture de nos jours, ce moulin à grain est mentionné dans un acte datant de 1289 et figure sur la carte de Belleyme.",
+  "Lieu « Château du Bourdieu » : Le château du Bourdieu est une propriété disposant d'un parc d’une trentaine d’hectares au centre de Saint-Médard-en-Jalles face à la place de la République.",
+  "Lieu « Château du Bourdieu », 1981 : Inscrit aux monuments historiques le 6 février 1981, le logis actuel est construit en 1788 par J. Delmestre dans un domaine viticole (bourdieu en gascon) ayant appartenu en 1737 au courtier royal Delmestre.",
+  "Lieu « Castérà de Saint-Médard-en-Jalles » : Le Castérà (mot gascon, du bas latin castellar, signifiant 'domaine fortifié') était un château fort aujourd'hui en ruine dans l'enceinte de la poudrerie, sur la rive droite de la Jalle dans la commune de Saint-Médard-en-Jalles en Gironde (France).",
+  "Lieu « Castérà de Saint-Médard-en-Jalles », aujourd'hui : Le Castérà (mot gascon, du bas latin castellar, signifiant 'domaine fortifié') était un château fort aujourd'hui en ruine dans l'enceinte de la poudrerie, sur la rive droite de la Jalle dans la commune de Saint-Médard-en-Jalles en Gironde (France)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIe"
+  ],
+  "nb_lieux": 6,
+  "nb_anecdotes": 2
+ }
+}
