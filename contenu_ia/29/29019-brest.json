@@ -1,0 +1,275 @@
+{
+ "commune": {
+  "titre": "Brest",
+  "code_insee": "29019",
+  "departement": "29",
+  "population": 142346,
+  "lat": 48.4085,
+  "lon": -4.4996,
+  "url": "https://fr.wikipedia.org/wiki/Brest"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:16",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3812,
+  "sortie": 1572
+ },
+ "cout_usd": 0.002727,
+ "accroche": "Le 18 septembre 1944, Brest est libérée après 45 jours de siège, de la période du 7 août au 18 septembre 1944, par des divisions d’infanterie US. ",
+ "histoire": {
+  "recit": "À Brest, la ville naît avec l’idée de fortifier : sur le site du château actuel, un camp fortifié romain est construit à la fin du IIIe siècle, avant que l’ensemble prenne, plus tard, la forme d’une forteresse qui traverse plusieurs âges. On raconte aussi qu’un menhir datant du Néolithique y a été découvert.\n\nLa guerre marque encore les rues. À la fin de la Seconde Guerre mondiale, Brest est assiégée et libérée le 18 septembre 1944, puis la libération est encore attestée le 19 septembre. Deux faits frappent : plusieurs explosions touchent l’abri Sadi-Carnot le 9 septembre 1944, et le 28 juillet 1947, l’explosion de l’Ocean Liberty, échoué sur le banc de Saint-Marc, se propage violemment dans toute la ville.\n\nPlus récemment, Brest s’organise autrement : la ligne A du tramway relie Bellevue à Kergaradec, et le téléphérique relie les deux rives séparées par la Penfeld.",
+  "chronologie": [
+   {
+    "date": "fin du IIIe siècle",
+    "texte": "Sur le site du château actuel, un camp fortifié romain est construit.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "9 septembre 1944",
+    "texte": "Plusieurs explosions touchent l’abri Sadi-Carnot : 373 civils et des centaines de soldats allemands sont tués.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "7 août 1944",
+    "texte": "Début de la période de siège mentionnée pour la libération de Brest.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 septembre 1944",
+    "texte": "Brest est libérée après 45 jours de siège.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "19 septembre 1944",
+    "texte": "La libération de la ville est à nouveau datée au 19 septembre 1944.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "28 juillet 1947",
+    "texte": "L’Ocean Liberty explose après s’être échoué sur le banc de Saint-Marc : 26 morts et une centaine de blessés graves, avec des dégâts considérables.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "23 juin 2012",
+    "texte": "La ligne A du tramway est inaugurée entre Bellevue et Kergaradec.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "19 novembre 2016",
+    "texte": "Le téléphérique de Brest est inauguré.",
+    "sources": [
+     "S37"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Brest",
+   "histoire": "Du castellum romain du IIIe siècle à la citadelle de Vauban, le site conserve sa vocation de forteresse militaire.",
+   "anecdotes": [
+    {
+     "texte": "Le château a été livré aux Anglais par Jean de Montfort, puis racheté par le duc Jean IV en 1397.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château relie encore aujourd’hui les âges, du castellum romain à la citadelle de Vauban, en restant une forteresse militaire.",
+   "sources": [
+    "S14",
+    "S10"
+   ],
+   "lat": 48.381256,
+   "lon": -4.494708,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Brest"
+  },
+  {
+   "nom": "Recouvrance (Brest)",
+   "histoire": "Quartier historique sur la rive droite de la Penfeld, Recouvrance s’est construite le long du fleuve qui a porté l’arsenal militaire.",
+   "anecdotes": [
+    {
+     "texte": "En 1886, Gustave Flaubert évoque la rue de la Porte et une file d’échoppes de brocanteurs et de marchands de ferraille.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Quelques rues anciennes subsistent, avec l’identité de Recouvrance en pente et ses escaliers.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 48.384288,
+   "lon": -4.500039,
+   "url": "https://fr.wikipedia.org/wiki/Recouvrance_%28Brest%29"
+  },
+  {
+   "nom": "Saint-Martin (Brest)",
+   "histoire": "Quartier du centre-ville, au nord du cœur historique rive gauche, Saint-Martin s’organise autour de halles et d’une église.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le cimetière Saint-Martin, construit en 1794, est encore le plus ancien cimetière de Brest existant.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.395325,
+   "lon": -4.480394,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Martin_%28Brest%29"
+  },
+  {
+   "nom": "Musée des Beaux-Arts de Brest",
+   "histoire": "Le musée principal de la ville occupe un bâtiment lié à l’ancien jardin des pères Carmes et à la place de la Halle aux Blés (place Sadi-Carnot).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26"
+   ],
+   "lat": 48.38524,
+   "lon": -4.490019,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Brest"
+  },
+  {
+   "nom": "Bagne de Brest",
+   "histoire": "Établissement pénitentiaire en activité de 1749 à 1858, le bagne dominait le port sur la rive gauche de la Penfeld, avant d’être détruit lors de la reconstruction.",
+   "anecdotes": [
+    {
+     "texte": "En 1849, une épidémie de choléra y sévit pendant trois mois, illustrant les conditions sanitaires déplorables.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S33"
+   ],
+   "lat": 48.3925,
+   "lon": -4.495,
+   "url": "https://fr.wikipedia.org/wiki/Bagne_de_Brest"
+  },
+  {
+   "nom": "Téléphérique de Brest",
+   "histoire": "Le téléphérique de Brest relie les deux rives de la Penfeld, fleuve côtier qui sépare les quartiers de Siam et des Capucins.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La Penfeld coupe la ville en deux, et l’accès à l’arsenal militaire est fermé au public.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 48.38605,
+   "lon": -4.4932,
+   "url": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9ph%C3%A9rique_de_Brest"
+  },
+  {
+   "nom": "Stade Francis-Le Blé",
+   "histoire": "Stade de football de Brest, inauguré en 1922 sous le nom de stade de l’Armoricaine, puis avec une nouvelle enceinte inaugurée en 1923.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 48.403128,
+   "lon": -4.46159,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Francis-Le_Bl%C3%A9"
+  },
+  {
+   "nom": "Bellevue (quartier de Brest)",
+   "histoire": "Quartier de Brest, Bellevue a été pensé pour reloger « en dur » des habitants des baraques après les dégâts de la Seconde Guerre mondiale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46"
+   ],
+   "lat": 48.402732,
+   "lon": -4.50937,
+   "url": "https://fr.wikipedia.org/wiki/Bellevue_%28quartier_de_Brest%29"
+  }
+ ],
+ "sources": [
+  "Brest (/bʁɛst/ ) est une commune française, chef-lieu d'arrondissement du département du Finistère dans la région Bretagne. C'est un port important, deuxième port militaire en France après Toulon, situé à l'extrémité ouest de la Bretagne. Avec ses 142 346 habitants (2023), Brest est la 26e commune la plus peuplée de France. Forte d'une métropole de 213 403 habitants (2022), elle représente la première agglomération […]",
+  "À Brest, a été découverte un menhir datant du Néolithique. La naissance de Brest correspond à la construction, sur le site du château actuel, d’un camp fortifié romain à la fin du IIIe siècle, qui serait peut-être le Gesocribate mentionné dans la Table de Peutinger, bien que d'autres sites soient proposés. La ville de Brest dans ses limites de l'époque d'Henri II correspondait à la seule paroisse des Sept-Saints. En […]",
+  "1944 : Le 9 septembre 1944, plusieurs explosions touchent l'abri Sadi-Carnot, 373 civils et des centaines de soldats allemands sont tués.",
+  "1944 : À la fin de la Seconde Guerre mondiale, Brest est assiégée par les 2e, 8e et 29e divisions d'infanterie US, membres du 8e corps d'armée commandé par le général Troy Middleton de la IIIe armée américaine ; la ville est libérée le 18 septembre 1944 après 45 jours de siège du 7 août 1944 au 18 septembre 1944.",
+  "1944 : La ville est libérée le 19 septembre 1944.",
+  "1947 : Le 28 juillet 1947, l'explosion de l'Ocean Liberty, un Liberty ship chargé de 3 000 tonnes de nitrate d'ammonium (un engrais très explosif), échoué sur le banc de Saint-Marc, provoque 26 morts, une centaine de blessés graves et des dégâts considérables dans toute la ville, l'effet de souffle ayant été très important.",
+  "2012 : Après sept ans d’études et trois ans de travaux, la ligne A du tramway est inaugurée le 23 juin 2012 devant plusieurs dizaines de milliers de Brestois ; elle relie désormais le quartier de Bellevue à celui de Kergaradec sur 14,3 km.",
+  "2014 : La Brest Arena, équipement polyvalent de 6 000 places, est inaugurée en septembre 2014 ; elle accueille depuis des compétitions internationales (mondiaux de handball 2017, Euro féminin 2018) et de grands concerts, participant au rééquilibrage de la rive droite.",
+  "2016 : Installés dans d’anciens ateliers navals, les Capucins, ouverts fin 2016, franchissent le cap des **dix millions de visiteurs** en octobre 2024, devenant l’une des places publiques couvertes les plus fréquentées de France.",
+  "Lieu « Château de Brest » : Le château de Brest est un château fort classé monument historique depuis le 21 mars 1923 situé dans le département du Finistère.",
+  "Lieu « Château de Brest », IVe siècle : Les côtes sont connues par d’autres populations dès les VIe et IVe siècles av. J.-C. et l’éperon rocheux est occupé à la fin de l’âge du fer.",
+  "Lieu « Château de Brest », 1397 : Livré aux Anglais par Jean de Montfort, le château est assiégé à plusieurs reprises, avant d'être racheté par le duc Jean IV en 1397.",
+  "Lieu « Château de Brest », 1689 : L'édification des autres tours s’achève au début du XVIe siècle et Vauban met la dernière touche aux fortifications en 1689.",
+  "Lieu « Château de Brest », aujourd'hui : Du castellum romain du IIIe siècle à la citadelle de Vauban jusqu'à aujourd'hui, il traverse dix-sept siècles d'histoire et conserve pendant tout ce temps sa vocation originelle de forteresse militaire.",
+  "Lieu « Recouvrance (Brest) » : Recouvrance est le nom d'un quartier historique de Brest situé rive droite de la Penfeld, la rivière le long de laquelle Brest s'est construite, avec son arsenal militaire.",
+  "Lieu « Recouvrance (Brest) », 1750 : L'église paroissiale de Recouvrance, placée sous le patronage de saint Sauveur, est achevée en 1750.",
+  "Lieu « Recouvrance (Brest) », 1779 : C'est aussi à la même époque que l'on décide la démolition de l'ancien cimetière situé rue Notre-Dame à Recouvrance, mais ce n'est qu'en 1779 que l'emplacement d'un nouveau cimetière pour la paroisse Saint-Sauveur est enfin choisi et situé après maintes polémiques « hors les murs ».",
+  "Lieu « Recouvrance (Brest) », 1886 : Gustave Flaubert note encore en 1886 dans Par les champs et par les grèves, parlant de la rue de la Porte : « On gravit une grande rue droite dont le milieu est occupé par une file d'échoppes de brocanteurs et de marchands de ferraille ».",
+  "Lieu « Recouvrance (Brest) », aujourd'hui : Il subsiste néanmoins encore quelques témoignages importants du vieux Brest comme quelques rues anciennes, où Recouvrance a su garder son caractère « en pente » avec ses escaliers qui ont toujours fait partie de son identité.",
+  "Lieu « Saint-Martin (Brest) » : Saint-Martin est le nom des quartiers du centre-ville de Brest, au nord du cœur historique de Brest rive gauche, Brest même (sur la rive gauche de la Penfeld).",
+  "Lieu « Saint-Martin (Brest) », 1794 : Construit en 1794, le cimetière Saint-Martin est le plus ancien cimetière de Brest encore existant.",
+  "Lieu « Saint-Martin (Brest) », XIXe siècle : Le quartier de Saint-Martin possède un patrimoine assez riche en ce qui concerne le bâti datant de la seconde moitié du XIXe siècle et du début du XXe siècle.",
+  "Lieu « Saint-Martin (Brest) », 1950 : Le contraste avec le centre-ville reconstruit de 1950 à 1970 dans un style moderne sur les ruines de l'intra-muros Brest même, est formel, tant par le style architectural que par la diversité.",
+  "Lieu « Saint-Martin (Brest) », aujourd'hui : Aujourd’hui, Saint-Martin est un quartier de 6 000 habitants s’apparentant à un village dans la ville, construit autour de ses halles et de son église.",
+  "Lieu « Musée des Beaux-Arts de Brest » : Le musée des Beaux-Arts de Brest est le principal musée d'art de la ville de Brest, en Bretagne.",
+  "Lieu « Musée des Beaux-Arts de Brest », 1820 : Le bâtiment est construit dans l'ancien jardin des pères Carmes, propriété de l'hospice acquis par la ville en 1820 ainsi que sur un terrain privé, sur la place de la Halle aux Blés, actuelle place Sadi-Carnot.",
+  "Lieu « Musée des Beaux-Arts de Brest », 1833 : Cinq ans plus tard, le 15 septembre 1833, la halle, entièrement pavée avec seize cents mètres de superficie couverte, est ouverte au public à la vente et au dépôt de blé.",
+  "Lieu « Musée des Beaux-Arts de Brest », 1968 : Achevé en 1968, le bâtiment abritant le musée est quant à lui typique de l'architecture fonctionnelle de l'après-guerre à Brest.",
+  "Lieu « Musée des Beaux-Arts de Brest », aujourd'hui : Ils avaient lieu soit à l'école primaire du Petit-Couvent (actuellement place Wilson), soit au musée.",
+  "Lieu « Bagne de Brest » : Le bagne de Brest est un établissement pénitentiaire, en activité de 1749 à 1858.",
+  "Lieu « Bagne de Brest », 1750 : Le bâtiment principal du bagne, construit par Antoine Choquet de Lindu de 1750 à 1751, dominait le port du long de ses 254 mètres, à l'emplacement de l'actuel boulevard Jean-Moulin, sur la rive gauche de la Penfeld (près de l'actuel hôpital d'instruction des armées).",
+  "Lieu « Bagne de Brest », 1849 : En outre, un débat s'engageait sur l'utilité sociale des bagnes, alors que les conditions d'hygiène y étaient déplorables, faisant du bâtiment un danger sanitaire, foyer épidémiologique certain (une épidémie de choléra y sévit pendant trois mois à l'automne 1849).",
+  "Lieu « Bagne de Brest », 1940 : Il fut détruit à la fin des années 1940 lors de la reconstruction de Brest.",
+  "Lieu « Bagne de Brest », aujourd'hui : Si beaucoup de Brestois désiraient qu'il fût construit à l'intérieur de l'enceinte de l'arsenal, aucun emplacement « en bas de falaise » ne disposait de la place suffisante pour sa construction ni des conditions sanitaires adaptées au bâtiment (eau douce, ventilation…).",
+  "Lieu « Téléphérique de Brest » : Le téléphérique de Brest ou ligne C du réseau Bibus est un téléphérique urbain établi entre les deux rives de la Penfeld, fleuve côtier qui coule à Brest et qui sépare les quartiers de Siam et des Capucins.",
+  "Lieu « Téléphérique de Brest », 2015 : Le projet prévoit une mise en service en 2015 et la mise en place de deux trains de trois cabines de 20 places chacune, solution ensuite abandonnée au profit de cabines simples.",
+  "Lieu « Téléphérique de Brest », 2016 : Inauguré le 19 novembre 2016, il a ensuite été sujet à divers problèmes techniques, qui ont imposé son arrêt à plusieurs reprises.",
+  "Lieu « Téléphérique de Brest », 2016 : Elle est posée sur ses câbles le 17 août 2016, et la seconde cabine est installée à son tour le 6 septembre.",
+  "Lieu « Téléphérique de Brest », aujourd'hui : La ville de Brest est coupée en deux par la Penfeld, fleuve côtier passant au fond d'un vallon occupé par l'arsenal militaire dont l'accès est fermé au public.",
+  "Lieu « Stade Francis-Le Blé » : Le stade Francis-Le Blé est un stade de football situé à Brest.",
+  "Lieu « Stade Francis-Le Blé », 1922 : Cette enceinte, inaugurée en 1922 sous le nom de stade de l'Armoricaine, compte environ 15 220 places.",
+  "Lieu « Stade Francis-Le Blé », 1923 : Construit au « Petit-Paris », route de Quimper, la nouvelle enceinte est inaugurée le 9 février 1923 par une rencontre qui oppose les locaux au Stade français.",
+  "Lieu « Stade Francis-Le Blé », 2020 : Au début des années 2020, le club a pour projet de démolir ce stade pour en créer un nouveau d'environ 15 000 places également, dans la zone de Brest Guipavas sous le nom d'Arkéa Park.",
+  "Lieu « Stade Francis-Le Blé », aujourd'hui : Lors de la première montée du club dans l'élite au début des années 1980, une opération de remplacement est programmée, mais un incendie dans la tribune Le Pac oblige le club à reconstruire cette dernière, et le projet de remplacement de Pen Huel est alors abandonné.",
+  "Lieu « Bellevue (quartier de Brest) » : Le quartier de Bellevue (B2, Brest II ou la ZUP) est un quartier de la ville de Brest.",
+  "Lieu « Bellevue (quartier de Brest) », 1950 : La fin des années 1950 voit les préoccupations des élus brestois tournées vers le relogement « en dur » des habitants des baraques, construites dans l'urgence à la suite des dégâts de la Seconde Guerre mondiale.",
+  "Lieu « Bellevue (quartier de Brest) », 2007 : Le Contrat urbain de cohésion sociale signé en 2007 s’inscrit en termes d’enjeux et d’objectifs dans la continuité des précédents contrats de la politique de la ville (Contrats de Ville).",
+  "Lieu « Bellevue (quartier de Brest) », 2024 : Groupe scolaire de Quizac Groupe scolaire privé du Dauphiné Centre Commercial Quizac (Secteur commercial détruit à partir de septembre 2024, pour laisser place a la deuxième ligne de tram) Antenne Brest Metropole Habitat Dauphiné (secteurs Kerhallet, Quizac, Penfeld, Bergot)",
+  "Lieu « Bellevue (quartier de Brest) », aujourd'hui : Une fois l'an, aux environs de Pâques, la fête foraine avec ses auto-tamponneuses s'installait rue de Cornouaille, le feu de la Saint-Jean aménagé à l'emplacement actuel du Netto était un événement attendu au même titre que la course cycliste du Bouguen."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
