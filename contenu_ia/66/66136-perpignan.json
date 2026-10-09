@@ -1,0 +1,257 @@
+{
+ "commune": {
+  "titre": "Perpignan",
+  "code_insee": "66136",
+  "departement": "66",
+  "population": 121616,
+  "lat": 42.699,
+  "lon": 2.9045,
+  "url": "https://fr.wikipedia.org/wiki/Perpignan"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:58",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3792,
+  "sortie": 2551
+ },
+ "cout_usd": 0.003947,
+ "accroche": "En 1025, à Perpignan, on construit le château comtal, une église consacrée cette année-là et un hôpital, le tout sous le patronage de saint Jean.",
+ "histoire": {
+  "recit": "Perpignan, en catalan Perpinyà, s’inscrit dans le Roussillon, ancienne partie de la principauté de Catalogne, puis province du royaume de France. Avant la ville, le site a déjà des traces d’occupation, des vestiges d’habitat néolithique près du mas Bruno aux objets de l’âge du bronze final ; plus loin, un peuple ibère, les Sordes, est évoqué comme occupant la plaine du Roussillon. \n\nPlus tard, le Moyen Âge installe des repères solides : en 1025, le château comtal, une église consacrée et un hôpital naissent sous le patronage de saint Jean. Au XIVe siècle, la ville atteint l’apogée et se dote d’une vaste enceinte autour du puig Sant Jaume et du Puig del Rey, où s’élève le palais de Jacques II de Majorque.\n\nLes remparts ne restent pas intouchables : l’histoire de leur démantèlement commence en 1857, puis une grande partie des remparts disparaît durant la première moitié du XXe siècle. Aujourd’hui, il reste notamment le Castillet et la Porte Notre-Dame.\n\nAu XXe siècle, la ville connaît aussi des bouleversements : en 1907, la préfecture est prise d’assaut et incendiée lors de la révolte viticole ; en 1944, Perpignan est libérée le 19 août. Enfin, les travaux attribués à Vauban devaient la rendre imprenable, mais la municipalité choisit de les démolir pour aérer le quartier central et s’étendre vers la plaine du Roussillon.",
+  "chronologie": [
+   {
+    "date": "vers 500 avant Jésus-Christ",
+    "texte": "Les Sordes sont évoqués comme occupant la plaine du Roussillon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1025",
+    "texte": "Construction du château comtal, d’une église consacrée et d’un hôpital, sous le patronage de saint Jean.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "début du XVIe siècle",
+    "texte": "Le palais des Corts est édifié ; il abrite aujourd’hui le siège de la Croix rouge dans les Pyrénées orientales.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Lors de la révolte viticole, la préfecture de Perpignan est prise d’assaut et incendiée.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "19 août 1944",
+    "texte": "La ville est libérée par la 1re DFL.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Enceinte de Perpignan",
+   "histoire": "L’enceinte de Perpignan est l’ensemble des constructions militaires ceinturant et protégeant la ville, de l’époque médiévale jusqu’à leur démantèlement au début du XXe siècle. Au début du XIVe siècle, la ville se dote d’une vaste enceinte faite de courtines et de tours rondes, englobant le puig Sant Jaume et le Puig del Rey, sur lequel sera édifié le palais de Jacques II de Majorque.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "À l’exception de l’intérieur de la citadelle, il n’en reste aujourd’hui que des vestiges épars, notamment au nord-est de la ville ; il subsistent notamment le Castillet et la Porte Notre-Dame accolée.",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 42.700612,
+   "lon": 2.893986,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_de_Perpignan"
+  },
+  {
+   "nom": "Castillet",
+   "histoire": "Le Castillet fut tour à tour porte de la ville et prison d’État. Le Grand Castillet est construit vers 1368 sur ordre de l’Infant Jean d’Aragon ; pour assurer une issue vers le Vernet, on juxtapose le Petit Castillet en 1478. Une bâtisse simple, démolie en 1843, se trouvait côté sud au rez-de-chaussée et était couverte de tuiles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, le Castillet abrite le Musée catalan des arts et tradition populaires.",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 42.700555555556,
+   "lon": 2.8938888888889,
+   "url": "https://fr.wikipedia.org/wiki/Castillet"
+  },
+  {
+   "nom": "Cathédrale Saint-Jean-Baptiste de Perpignan",
+   "histoire": "Cathédrale catholique du XIVe siècle de style gothique, elle est construite entre 1324 et 1509. En 1324, alors que Perpignan est la capitale du royaume de Majorque, le roi Sanche lance le chantier du nouvel édifice. Elle remplace l’édifice roman Saint-Jean-le-Vieux, consacré en 1246 et subsistant sur le flanc nord.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 42.700556,
+   "lon": 2.896944,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Jean-Baptiste_de_Perpignan"
+  },
+  {
+   "nom": "Gare de Perpignan",
+   "histoire": "La gare de Perpignan est une gare ferroviaire française à proximité du centre-ville. Le chemin de fer arrive en 1858 avec l’ouverture au trafic de la voie ferrée de Narbonne à Perpignan. Au XXIe siècle, une ligne à grande vitesse est construite entre le 15 novembre 2004 et la mise en service du tronçon Perpignan–Figueras, le 19 décembre 2010, puis une liaison vers Barcelone et Madrid est assurée à partir du 15 décembre 2013.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est à l’origine de la ligne de Perpignan à Thuir, ligne privée aujourd’hui déposée.",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 42.696236,
+   "lon": 2.879456,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Perpignan"
+  },
+  {
+   "nom": "Couvent des Minimes de Perpignan",
+   "histoire": "Le couvent des Minimes est un édifice religieux construit par l’ordre des Minimes fondé en 1493 par San Francesco di Paola. À Perpignan, le couvent est fondé en 1573 dans l’ancien quartier juif, le Call, sur le flanc de la colline du Puig Sant Jaume, tout près des remparts ; il est fondé par Pierre de Valdès à partir de 1573, grâce aux donations royales et privées des Perpignanais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, l’édifice est classé aux monuments historiques.",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 42.699444,
+   "lon": 2.900556,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Minimes_de_Perpignan"
+  },
+  {
+   "nom": "Aqueduc des Arcades",
+   "histoire": "L’aqueduc des Arcades est un pont-aqueduc situé à Perpignan. Les premières dérivations sous forme de canaux sont érigées au XIIe siècle et se poursuivent au XIVe siècle lorsque les rois de Majorque séjournent au château de Perpignan. Un premier ouvrage en bois est mentionné en 1338, puis il est remplacé : l’aqueduc est reconstruit entre 1368 et 1378, nécessitant de nombreuses réparations, avec des ouvrages maçonnés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La dixième arche est plus large que les autres pour laisser passer un chemin du XVIIIe siècle, aujourd’hui remplacé par une ligne de chemin de fer.",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 42.675277777778,
+   "lon": 2.8866666666667,
+   "url": "https://fr.wikipedia.org/wiki/Aqueduc_des_Arcades"
+  },
+  {
+   "nom": "Palais des rois de Majorque",
+   "histoire": "Le palais des rois de Majorque, Palau dels Reis de Mallorca, est édifié à Perpignan pour accueillir la cour du royaume de Majorque, dans le dernier tiers du XIIIe siècle. Il est ensuite entouré par la citadelle en forme d’étoile à six branches.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La citadelle de Perpignan enveloppe toujours aujourd’hui le palais médiéval.",
+   "sources": [
+    "S39",
+    "S40",
+    "S43"
+   ],
+   "lat": 42.693905,
+   "lon": 2.895678,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_rois_de_Majorque"
+  },
+  {
+   "nom": "Église Saint-Jean-le-Vieux de Perpignan",
+   "histoire": "L’église Saint-Jean-le-Vieux est une église romane, actuellement partiellement désaffectée. Elle est reconstruites et agrandie au début du XIe siècle puis consacrée en 1025. En 1102, un chapitre de chanoine est établi à Saint Jean et des travaux d’agrandissement sont menés ; le chevet à trois absides et le transept sont construits à cette période, selon toute vraisemblance. Elle est ensuite supplantée au XIVe siècle par un nouvel et vaste édifice gothique méridional, devenu en 1602 la cathédrale Saint-Jean-Baptiste du diocèse de Perpignan-Elne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est encore visible sur son flanc nord, sur lequel subsiste l’édifice roman.",
+   "sources": [
+    "S44",
+    "S45",
+    "S46",
+    "S47",
+    "S48",
+    "S23",
+    "S20"
+   ],
+   "lat": 42.700648,
+   "lon": 2.897236,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-le-Vieux_de_Perpignan"
+  }
+ ],
+ "sources": [
+  "Perpignan (en catalan : Perpinyà) est une commune du sud de la France, préfecture du département des Pyrénées-Orientales et quatrième ville la plus peuplée de la région Occitanie. Sur le plan historique et culturel, la commune, ancienne capitale continentale du royaume de Majorque, est dans le Roussillon, ancienne partie de la principauté de Catalogne (1173-1659) puis une province du royaume de France, qui a existé […]",
+  "Malgré la difficulté de pratiquer des fouilles en milieu urbain, quelques vestiges témoignent de l'occupation du site de Perpignan avant le développement de la ville. On peut mentionner des traces d'habitat néolithique trouvés près du mas Bruno (vers l'échangeur de la RN 116), quelques objets de la civilisation des champs d'urnes de l'âge du bronze final dans le même secteur, ainsi que des débris de céramique de la […]",
+  "500 : En effet, un peuple ibère, les Sordes, aurait occupé la plaine du Roussillon, vers 500 avant Jésus-Christ.",
+  "1025 : On y construit le château comtal, une église (consacrée en 1025) et un hôpital, le tout placé sous le patronage de saint Jean.",
+  "XVIe siècle : Le palais des Corts, édifié au début du XVIe siècle, abrite aujourd’hui le siège de la Croix rouge dans les Pyrénées orientales.",
+  "1907 : Lors de la révolte viticole de 1907, la préfecture de Perpignan est prise d'assaut par des vignerons et incendiée.",
+  "1944 : La ville est libérée par la 1re DFL (division française libre), le 19 août 1944.",
+  "XXe siècle : Les gigantesques travaux de Vauban devaient faire de Perpignan une cité désormais imprenable et, pourtant, il ne reste à peu près rien de son œuvre car, au début du XXe siècle, la municipalité a décidé de les faire démolir dans le but d'aérer le quartier central et de pouvoir étendre la ville vers la plaine du Roussillon.",
+  "Lieu « Enceinte de Perpignan » : L'enceinte de Perpignan est l'ensemble des constructions militaires ceinturant et protégeant la ville de Perpignan, de l'époque médiévale jusqu'à leur démantèlement au début du XXe siècle.",
+  "Lieu « Enceinte de Perpignan », XIVe siècle : C'est au début du XIVe siècle que Perpignan est à son apogée, ainsi la ville se dota d'une vaste enceinte composée de courtines et de tours rondes, qui englobant le puig Sant Jaume et le Puig del Rey ; sur ce dernier sera édifié le palais de Jacques II de Majorque.",
+  "Lieu « Enceinte de Perpignan », 1857 : L'histoire de la destruction commence en 1857 : la municipalité souhaite racheter l'enceinte dans le but de la déclasser et de la démolir.",
+  "Lieu « Enceinte de Perpignan », XXe siècle : La quasi-totalité de ses remparts fut démolie dans la première moitié du XXe siècle.",
+  "Lieu « Enceinte de Perpignan », aujourd'hui : À l'exception de l'intérieur de la citadelle, il n'en reste aujourd'hui que des vestiges épars, notamment au nord-est de la ville, et, bien sûr, l'emblématique Castillet et la Porte Notre-Dame qui lui est accolée.",
+  "Lieu « Castillet » : Le Castillet ou Castellet (en catalan) est un monument de la ville de Perpignan qui fut tour à tour porte de la ville et prison d'État.",
+  "Lieu « Castillet », 1368 : Le Grand Castillet est construit vers 1368 par le maître d'œuvre Guillaume Gatard sur ordre de l'Infant Jean d'Aragon, pour remplacer la porte dite du Vernet qui permettait de traverser les remparts et de faire communiquer la ville avec le faubourg.",
+  "Lieu « Castillet », 1478 : Cependant, il fallait assurer une issue de la ville vers le Vernet et l’on juxtaposa le Petit Castillet à la primitive bâtisse en 1478.",
+  "Lieu « Castillet », 1843 : Il s'agissait d'une bâtisse assez simple (démolie en 1843), située côté sud au rez-de-chaussée et couverte de tuiles.",
+  "Lieu « Castillet », aujourd'hui : Aujourd'hui il abrite le Musée catalan des arts et tradition populaires.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste de Perpignan » : La cathédrale Saint-Jean-Baptiste de Perpignan (en catalan : catedral de Sant Joan Baptista de Perpinyà) est une cathédrale catholique du XIVe siècle de style gothique située dans la ville de Perpignan en France.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste de Perpignan », 1246 : Elle succéda à un autre édifice dédié à saint Jean-Baptiste, l'église Saint-Jean-le-Vieux, construite aux XIIe et XIIIe siècles (consacrée en 1246), qui subsiste à son flanc nord.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste de Perpignan », 1324 : La cathédrale Saint-Jean-Baptiste de Perpignan est un édifice construit entre 1324 et 1509.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste de Perpignan », 1324 : En 1324, alors que Perpignan était la capitale du royaume de Majorque, le roi Sanche lança le chantier du nouvel édifice qui, s'il n'était pas la cathédrale en titre du diocèse, n'avait pas moins l'ambition de le devenir.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste de Perpignan », aujourd'hui : Collégiale à l'époque de sa construction, elle remplace l'édifice roman, dit Saint-Jean-le-Vieux, qui subsiste néanmoins de nos jours, sur son flanc nord.",
+  "Lieu « Gare de Perpignan » : La gare de Perpignan est une gare ferroviaire française, située à proximité du centre-ville de Perpignan, dans le département des Pyrénées-Orientales, en région Occitanie.",
+  "Lieu « Gare de Perpignan », 1858 : Le chemin de fer arrive à Perpignan, en 1858, avec l'ouverture au trafic de la voie ferrée de Narbonne à Perpignan, première section de la ligne de Narbonne à Port-Bou (frontière).",
+  "Lieu « Gare de Perpignan », 2004 : Une ligne à grande vitesse est construite entre le 15 novembre 2004 et la mise en service du tronçon Perpignan – Figueras, le 19 décembre 2010.",
+  "Lieu « Gare de Perpignan », 2013 : La liaison à grande vitesse vers Barcelone et Madrid est assurée à partir du 15 décembre 2013, mais la desserte de cette dernière ville est supprimée en décembre 2022 en raison de la dissolution de l'alliance Renfe-SNCF en Coopération ; la Renfe la relance seule en juillet 2023, dans le cadre de l'ouverture à la concurrence.",
+  "Lieu « Gare de Perpignan », aujourd'hui : Elle était l'origine de la ligne de Perpignan à Thuir, ligne privée aujourd'hui déposée.",
+  "Lieu « Couvent des Minimes de Perpignan » : Le couvent des Minimes, est situé à Perpignan dans le département des Pyrénées-Orientales.",
+  "Lieu « Couvent des Minimes de Perpignan », 1493 : Il s’agit d’un édifice religieux construit par l’ordre des Minimes fondé en 1493 par San Francesco di Paola surnommé « Frères de la Victoire » à la mémoire de la victoire remportée par Don Juan d’Autriche sur les Turcs.",
+  "Lieu « Couvent des Minimes de Perpignan », 1573 : Il est fondé en 1573 dans l'ancien quartier juif (en catalan le Call), sur le flanc de la colline du « Puig Sant Jaume », localisé tout près des remparts.",
+  "Lieu « Couvent des Minimes de Perpignan », 1573 : Il fut fondé par Pierre de Valdès à partir de 1573, grâce aux donations royales et privées des Perpignanais.",
+  "Lieu « Couvent des Minimes de Perpignan », aujourd'hui : Aujourd'hui, cet édifice qui est l'un des lieux les plus connus de Perpignan est classé aux monuments historiques.",
+  "Lieu « Aqueduc des Arcades » : L'aqueduc des Arcades est un pont-aqueduc situé dans la ville de Perpignan dans les Pyrénées-Orientales.",
+  "Lieu « Aqueduc des Arcades », XIIe siècle : Les premières dérivations sous forme de canaux sont érigées au XIIe siècle et se poursuivent au XIVe siècle lorsque les rois de Majorque séjournent au château de Perpignan.",
+  "Lieu « Aqueduc des Arcades », 1338 : Un premier ouvrage en bois est mentionné dès 1338, mais il est remplacé par des ouvrages maçonnés dans un second temps, il est en effet reconstruit entre 1368 et 1378 car il nécessitait beaucoup de réparations.",
+  "Lieu « Aqueduc des Arcades », 1368 : Autrefois fait de bois, l’aqueduc a été amélioré au cours de nombreuses opérations de réaménagement, notamment entre 1368 et 1378 où le bois fut remplacé par des ouvrages maçonnés et reconstruit en sable, en cayrou et en chaux.",
+  "Lieu « Aqueduc des Arcades », aujourd'hui : La dixième arche est plus large que les autres, afin de laisser passer un chemin du XVIIIe siècle, aujourd’hui remplacé par une ligne de chemin de fer.",
+  "Lieu « Palais des rois de Majorque » : Datant du dernier tiers du XIIIe siècle, le palais des rois de Majorque (en catalan : Palau dels Reis de Mallorca) est édifié à Perpignan pour accueillir la cour du royaume de Majorque.",
+  "Lieu « Palais des rois de Majorque », XIIIe siècle : Datant du dernier tiers du XIIIe siècle, le palais des rois de Majorque (en catalan : Palau dels Reis de Mallorca) est édifié à Perpignan pour accueillir la cour du royaume de Majorque.",
+  "Lieu « Palais des rois de Majorque », 1285 : Les îles Baléares sont occupées par les aragonais de 1285 à 1298 et surtout, à la paix d’Anagni signée le 12 juin 1295, Jacques II de Majorque reconnaît définitivement la suzeraineté de son voisin barcelonais.",
+  "Lieu « Palais des rois de Majorque », 1349 : Après avoir vendu Montpellier au roi de France pour financer l'invasion des Baléares, il est tué à la bataille de Llucmajor, le 24 octobre 1349.",
+  "Lieu « Palais des rois de Majorque », aujourd'hui : Bastionnée en forme d'étoile à six branches, la citadelle de Perpignan enveloppe toujours aujourd'hui le palais médiéval.",
+  "Lieu « Église Saint-Jean-le-Vieux de Perpignan » : L'église Saint-Jean-le-Vieux de Perpignan est une église romane, actuellement partiellement désaffectée, située à Perpignan, dans le département français des Pyrénées-Orientales.",
+  "Lieu « Église Saint-Jean-le-Vieux de Perpignan », 1025 : Cet édifice est reconstruit et agrandi au début du XIe siècle ; il est consacré en 1025 par l'évêque d'Elne.",
+  "Lieu « Église Saint-Jean-le-Vieux de Perpignan », 1102 : Environ un siècle plus tard, en 1102, un chapitre de chanoine est établi à Saint Jean, qui fait alors l'objet de travaux d'agrandissement : le chevet à trois absides et le transept sont alors, selon toute vraisemblance, construits à cette période.",
+  "Lieu « Église Saint-Jean-le-Vieux de Perpignan », 1602 : Ancienne collégiale, elle fut supplantée au XIVe siècle par un nouvel et vaste édifice de style gothique méridional, devenu en 1602 la cathédrale Saint-Jean-Baptiste du diocèse de Perpignan-Elne.",
+  "Lieu « Église Saint-Jean-le-Vieux de Perpignan », aujourd'hui : L'église Saint-Jean-le-Vieux de Perpignan est une église romane, actuellement partiellement désaffectée, située à Perpignan, dans le département français des Pyrénées-Orientales."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen",
+   "XXIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
