@@ -1,0 +1,277 @@
+{
+ "commune": {
+  "titre": "Auxerre",
+  "code_insee": "89024",
+  "departement": "89",
+  "population": 35097,
+  "lat": 47.7986,
+  "lon": 3.5672,
+  "url": "https://fr.wikipedia.org/wiki/Auxerre"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:45:16",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4349,
+  "sortie": 1801
+ },
+ "cout_usd": 0.003121,
+ "accroche": "En 1023, un incendie ravagea la cathédrale Saint-Étienne et une grande partie d’Auxerre, au point de contraindre la tenue d’un concile hors de la cité.",
+ "histoire": {
+  "recit": "Auxerre commence par des traces anciennes : un enclos circulaire du Bronze final, avec un fossé en « V » dans la rue des Montardoins, et un autre ensemble mis au jour rue Gérot, lié aux périodes de Hallstatt et de La Tène.\n\nAu IIIe siècle, les premiers chrétiens s’installent sur la colline, pendant qu’en fin de siècle la ville se relève à peine des incendies et pillages subis par Alamans et Francs.\n\nLes siècles suivants se bâtissent au rythme des destructions : la cathédrale connaît un nouvel embrasement en 1023, puis une église nouvelle est consacrée en 1057. Auxerre ceinture aussi ses espaces : une seconde enceinte fortifiée est hâtivement construite vers 1166, englobant largement abbayes et monastères.\n\nÀ la fin du Moyen Âge, les reconstructions passent par des finances venues des rois Charles V et Charles VI, et la défense se fait plus régulière grâce à une pendule installée dans la tour de l’église Saint-Eusèbe en 1411. Plus loin encore, en 1485, une pierre de la Tour de l’Horloge porte une inscription hébraïque.\n\nAujourd’hui, plusieurs lieux gardent la forme des anciens bâtiments : à Notre-Dame-La-D’Hors, la rue ouvre encore sa perspective sur la façade ; ailleurs, vestiges et traces demeurent.",
+  "chronologie": [
+   {
+    "date": "Bronze final (date non précisée)",
+    "texte": "Des vestiges de la Protohistoire sont relevés : un enclos circulaire de 20 m avec fossé en « V » rue des Montardoins, et des structures de la Tène rue Gérot.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IIIe siècle",
+    "texte": "Les premiers chrétiens commencent à coloniser la colline, autour de l’église Saint-Pèlerin.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "275-276",
+    "texte": "Auxerre subit incendie et pillage par Alamans et Francs.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "IIIe siècle",
+    "texte": "Deux figures marquent la période : l’évêque saint Amâtre et saint Germain, qui fait des libéralités à l’église d’Auxerre.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1023",
+    "texte": "Un incendie ravage la cathédrale Saint-Étienne et une grande partie de la ville ; un concile se tient à l’extérieur.",
+    "sources": [
+     "S6",
+     "S22"
+    ]
+   },
+   {
+    "date": "1030",
+    "texte": "La ville connaît un second grand incendie, dans un contexte de famine.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1166",
+    "texte": "Une deuxième enceinte fortifiée est hâtivement construite, appuyée à la rive gauche de l’Yonne.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1402",
+    "texte": "Des abbayes et monastères sont reconstruits grâce à l’argent d’un octroi accordé par Charles V et Charles VI.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1411",
+    "texte": "Une pendule est installée dans la tour de l’église Saint-Eusèbe pour régulariser le service de défense ; un hôtel de ville est construit en 1452.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1412",
+    "texte": "Une paix est signée à Auxerre le 22 juillet 1412.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1485",
+    "texte": "Une pierre de la Tour de l’Horloge fondée en 1485 porte aussi une inscription hébraïque.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Notre-Dame-La-D'Hors",
+   "histoire": "Le monastère Notre-Dame-La-D’Hors existe dès le VIIe siècle ; au moment de l’arrivée des moines en 1041, ils s’installent provisoirement dans ce monastère qui leur est attribué par l’évêque.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La rue Notre-Dame-La-D’Hors s’ouvre encore de nos jours dans la perspective de la façade du bâtiment.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 47.798445,
+   "lon": 3.567963,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame-La-D%27Hors"
+  },
+  {
+   "nom": "Cathédrale Saint-Étienne d'Auxerre",
+   "histoire": "La cathédrale connaît plusieurs destructions par incendie et des reconstructions : une église nouvelle est consacrée en 1057 par l’évêque Geoffroy de Champallement.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S23",
+    "S24"
+   ],
+   "lat": 47.7979,
+   "lon": 3.5729,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_d%27Auxerre"
+  },
+  {
+   "nom": "Abbaye Saint-Marien d'Auxerre",
+   "histoire": "Établie au Ve siècle, l’abbaye Saint-Marien est le premier établissement monastique du diocèse à Auxerre, avant d’être associée à d’autres communautés religieuses et d’être détruite puis rebâtie selon les périodes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S29"
+   ],
+   "lat": 47.801985,
+   "lon": 3.576555,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Marien_d%27Auxerre"
+  },
+  {
+   "nom": "Villa antique de Sainte-Nitasse",
+   "histoire": "La villa antique de Sainte-Nitasse est une villa romaine, fréquentée à partir du Ier siècle et qui semble abandonnée au IVe siècle, avant qu’un établissement médiéval ne s’installe plus tard.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une mare, vestige d’une exploitation d’ancienne gravière au milieu du XXe siècle, jouxte la zone fouillée au sud-est.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 47.784437,
+   "lon": 3.607154,
+   "url": "https://fr.wikipedia.org/wiki/Villa_antique_de_Sainte-Nitasse"
+  },
+  {
+   "nom": "Palais épiscopal d'Auxerre",
+   "histoire": "Siège de l’ancien évêché d’Auxerre, le palais conserve des éléments datant du XIIe siècle pour les parties les plus anciennes ; la voûte de la grande salle s’effondre au début du XIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On en voit encore des traces sur la façade Est à côté de la salle capitulaire.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 47.79817,
+   "lon": 3.573877,
+   "url": "https://fr.wikipedia.org/wiki/Palais_%C3%A9piscopal_d%27Auxerre"
+  },
+  {
+   "nom": "Abbaye des Isles d'Auxerre",
+   "histoire": "L’abbaye Notre-Dame des Isles est une ancienne abbaye cistercienne pour femmes affiliée à Saint-Bernard, fondée en 1209 près d’Auxerre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41"
+   ],
+   "lat": 47.824224,
+   "lon": 3.575168,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_des_Isles_d%27Auxerre"
+  },
+  {
+   "nom": "Hôpital psychiatrique de l'Yonne",
+   "histoire": "L’hôpital psychiatrique de l’Yonne, appelé asile départemental de l’Yonne jusqu’en 1937, devient une résidence au XXe siècle ; le site conserve des aménagements de jardins.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le terrain restant entre les bâtiments et la clôture externe est occupé par des jardins potagers, ainsi que par le clos de la Chaînette.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 47.803612,
+   "lon": 3.567966,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_psychiatrique_de_l%27Yonne"
+  },
+  {
+   "nom": "Temple protestant d'Auxerre",
+   "histoire": "Le temple protestant d’Auxerre, au 31 rue Saint-Pèlerin, correspond à l’ancienne église Saint-Pèlerin, construite au IIIe siècle ; elle est vendue en 1866, le chœur devenant un temple réformé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges actuels montrent un vaisseau daté du XVIe siècle : trois nefs et voûtes cintrées sur hauts pilastres toscans.",
+   "sources": [
+    "S54"
+   ],
+   "lat": 47.79595,
+   "lon": 3.57489,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_d%27Auxerre"
+  }
+ ],
+ "sources": [
+  "Auxerre, prononcé [o.sɛʁ] , est une commune française située dans le nord-ouest de la Bourgogne, dans le département de l'Yonne, dont elle est le chef-lieu. Elle est également le bureau centralisateur de quatre cantons et le siège de la communauté d'agglomération de l'Auxerrois. Auxerre comptait 35 097 habitants au dernier recensement en 2023 (population légale en vigueur au 1er janvier 2022), ce qui en fait la […]",
+  "Il reste quelques traces de l'occupation de la Protohistoire. Du Bronze final ont été trouvés un enclos circulaire de 20 m de diamètre marqué par un fossé en « V » dans la rue des Montardoins et des vestiges d'un bâtiment important avec fossé circulaire dans la rue Gérot qui a aussi révélé des structures de bâtiments de la Tène. Datant de l'époque d'Hallstatt, la découverte d'un trépied en bronze d'origine étrusque […]",
+  "IIIe siècle : La ville accède à la prospérité et le peuplement de la région s'accentue.[réf. nécessaire] Les premiers chrétiens (IIIe siècle) commencent à coloniser la colline, où il n'y a que des eaux très médiocres (église Saint-Pèlerin du IIIe siècle, première église construite à Auxerre).",
+  "IIIe siècle : À la fin du IIIe siècle, Auxerre se relève à peine de l'incendie et du pillage que les Alamans et les Francs lui font subir en 275-276, que de fortes menaces se précisent aux frontières de l'Empire où s'agitent des peuplades barbares attentives à la décadence romaine.",
+  "Ve siècle : Les IVe et Ve siècles sont marqués par deux personnalités remarquables: l'évêques saint Amâtre et surtout par saint Germain, noble gallo-romain converti qui fait à l'église d'Auxerre d'importantes libéralités.",
+  "1023 : Le concile s'est tenu à l'extérieur de la cité car un incendie ravagea en 1023 la cathédrale Saint-Étienne, ainsi qu'une grande partie de la ville.",
+  "1030 : Outre la famine qui règne vers l'an 1030, Auxerre subit un second grand incendie.",
+  "1166 : Dans la 5e année de son gouvernement, soit vers 1166, une deuxième enceinte fortifiée est hâtivement construite (sur 4 km), appuyée à la rive gauche de l'Yonne, comme la première, mais englobant largement abbayes et monastères.",
+  "1402 : Ces derniers sont reconstruits en 1402 grâce à l'argent de l'octroi accordé par les rois Charles V et Charles VI.",
+  "1411 : Entre-temps, en 1411 les bourgeois font installer une pendule dans la tour de l'église Saint-Eusèbe pour assurer une plus grande régularité dans le service de défense de la ville ; et un hôtel de ville est construit en 1452.",
+  "1412 : Une paix plus ostentatoire que sincère est signée à Auxerre le 22 juillet 1412.",
+  "1485 : Une pierre d'un mur de la Tour de l'Horloge fondée en 1485 contient également une inscription hébraïque.",
+  "XVIe siècle : Avant de subir le martyre à Entrains (Nièvre), en 303, Pèlerin avait élevé à Auxerre une église primitive (église Saint-Pèlerin), là où existe l'église reconstruite au XVIe siècle qui lui est dédiée, dans la rue qui porte son nom.",
+  "XVIe siècle : N'oublions pas le style des hôtels privés auxerrois du XVIe siècle qui est celui de la seconde période de la Renaissance : l'hôtel de Crole, l'hôtel Amyot ou encore l'hôtel du Cerf-Volant, qui passe pour être le plus ancien édifice civil d'Auxerre (XIVe – XVe siècles).",
+  "Lieu « Abbaye Notre-Dame-La-D'Hors » : Le monastère Notre-Dame-La-D'Hors, fondé au VIIe s., se trouvait à Auxerre, dans l'actuel département français de l'Yonne en région Bourgogne-Franche-Comté.",
+  "Lieu « Abbaye Notre-Dame-La-D'Hors », 1041 : Lorsque les moines arrivent en 1041 (certains donnent 1139 pour leur arrivée), les nouveaux bâtiments ne sont pas prêts ; ils s'installent donc « provisoirement » au monastère de Notre-Dame-La-D'Hors que leur attribue l'évêque.",
+  "Lieu « Abbaye Notre-Dame-La-D'Hors », XIIe siècle : Aliéné par les rois puis restitué plusieurs fois, le monastère est détruit par les Sarrasins puis par les Normands et rejoint l'histoire de Saint-Marien au XIIe siècle.",
+  "Lieu « Abbaye Notre-Dame-La-D'Hors », 1862 : Le monastère Notre-Dame-La-D'Hors a été fondé entre 653 et 683 par saint Vigile, évêque d'Auxerre pendant cette période, à l'emplacement de l'actuel palais de justice construit en 1862-1865.",
+  "Lieu « Abbaye Notre-Dame-La-D'Hors », aujourd'hui : La rue Notre-Dame-La-D'Hors s'ouvre encore de nos jours dans la perspective de la façade du bâtiment.",
+  "Lieu « Cathédrale Saint-Étienne d'Auxerre » : La cathédrale Saint-Étienne d'Auxerre est une cathédrale catholique française, située dans la ville d'Auxerre, dans le département de l'Yonne.",
+  "Lieu « Cathédrale Saint-Étienne d'Auxerre », IXe siècle : Cette construction fut totalement détruite lors d'un incendie à la fin du IXe siècle.",
+  "Lieu « Cathédrale Saint-Étienne d'Auxerre », 1023 : C’est aussi un incendie qui ravagea en 1023 cette cathédrale, ainsi qu’une grande partie de la ville.",
+  "Lieu « Cathédrale Saint-Étienne d'Auxerre », 1057 : Bâtie en pierre, la nouvelle église fut consacrée en 1057 par l'évêque Geoffroy de Champallement.",
+  "Lieu « Cathédrale Saint-Étienne d'Auxerre », aujourd'hui : Pour remplacer la première église devenue trop petite, saint Amâtre (vers 386-418) fit bâtir une nouvelle église plus vaste, à l'emplacement de l'édifice actuel.",
+  "Lieu « Abbaye Saint-Marien d'Auxerre » : L'abbaye Saint-Marien d'Auxerre, établie au Ve s. et premier établissement monastique du diocèse, était située à Auxerre, dans l'actuel département français de l'Yonne en Bourgogne, région Bourgogne-Franche-Comté.",
+  "Lieu « Abbaye Saint-Marien d'Auxerre », XIIe siècle : Plus tard (mais disparu avant le XIIe siècle) un couvent de femmes s'est installé lui aussi sur la rive droite, du côté nord du pont actuel de la Tournelle et donc à 300 m au nord de Saint-Marien.",
+  "Lieu « Abbaye Saint-Marien d'Auxerre », XIIe siècle : Au XIIe siècle, l'église est aussi appelée Notre-Dame-la-Ronde : c'est le seul bâtiment de cette forme à Auxerre avec le baptistère de saint Jean-Baptiste.",
+  "Lieu « Abbaye Saint-Marien d'Auxerre », 1570 : Détruit lors des invasions normandes du IXe siècle, il a été reconstruit au XIe siècle pour devenir une abbaye de Prémontrés, elle-même détruite en 1570.",
+  "Lieu « Abbaye Saint-Marien d'Auxerre », aujourd'hui : Mais une certaine confusion demeure du fait que l'établissement a été détruit, puis a été rebâti mais pas tout à fait au même endroit et reprenant qui plus est les vestiges d'un autre établissement religieux.",
+  "Lieu « Villa antique de Sainte-Nitasse » : La villa antique de Sainte-Nitasse est une villa romaine, construite dans la commune d'Auxerre, dans le département français de l'Yonne, en région Bourgogne-Franche-Comté.",
+  "Lieu « Villa antique de Sainte-Nitasse », Ier siècle : La villa romaine est fréquentée à partir du Ier siècle apr. J.-C. ; après plusieurs remaniements, elle semble abandonnée au IVe siècle.",
+  "Lieu « Villa antique de Sainte-Nitasse », IVe siècle : La villa est sans doute occupée du Ier au IVe siècle avant qu'un établissement médiéval ne s'installe sur le site, mais au XIIIe siècle seulement.",
+  "Lieu « Villa antique de Sainte-Nitasse », XVIIIe siècle : Les cartes des XVIIe et XVIIIe siècles ne montrent plus aucune trace de bâtiment à cet emplacement.",
+  "Lieu « Villa antique de Sainte-Nitasse », aujourd'hui : Une mare, vestige de l'exploitation d'une ancienne gravière au milieu du XXe siècle, jouxte la zone fouillée au sud-est.",
+  "Lieu « Palais épiscopal d'Auxerre » : Le palais épiscopal d'Auxerre est un monument historique classé à Auxerre, dans le département de l'Yonne, dans le nord de la Bourgogne, en France.",
+  "Lieu « Palais épiscopal d'Auxerre », XIIe siècle : Siège de l'ancien évêché d'Auxerre, les bâtiments que l'on peut voir de nos jours datent du XIIe siècle pour les parties les plus anciennes.",
+  "Lieu « Palais épiscopal d'Auxerre », 1207 : 1207-1220), la voûte de la grande salle (probablement la salle capitulaire, qui était la plus grande salle de l'évêché) s'effondre, chevrons et tuiles compris - juste après qu'en soient sortis quantités de paroissiens venant se confesser à l'évêque.",
+  "Lieu « Palais épiscopal d'Auxerre », 1743 : Les vitrages supérieurs, détruits avant 1743, étaient ornés des armoiries de l'époque.",
+  "Lieu « Palais épiscopal d'Auxerre », aujourd'hui : Or cette chapelle de style gothique était jugée fort gracieuse et de fine exécution ; on en voit encore des traces sur la façade Est à côté de la salle capitulaire.",
+  "Lieu « Abbaye des Isles d'Auxerre » : L'abbaye Notre-Dame des Isles est une ancienne abbaye cistercienne pour femmes affiliée à Saint-Bernard, fondée en 1209 près d'Auxerre (actuel département de l'Yonne en Bourgogne).",
+  "Lieu « Abbaye des Isles d'Auxerre », 1209 : L'abbaye Notre-Dame des Isles est une ancienne abbaye cistercienne pour femmes affiliée à Saint-Bernard, fondée en 1209 près d'Auxerre (actuel département de l'Yonne en Bourgogne).",
+  "Lieu « Abbaye des Isles d'Auxerre », 1209 : L'abbaye Notre-Dame de Celles est fondée en 1209 par Guillaume de Seignelay, 58e évêque d'Auxerre (1207–1220), au lieu-dit les Celles, commune de Saint-Georges (voisine d'Auxerre, à l'ouest), dans une propriété donnée par Girard Baleine, chanoine de Notre-Dame-de-la-Cité d'Auxerre.",
+  "Lieu « Abbaye des Isles d'Auxerre », 1230 : Dès l'année suivante en 1230, le comte Guy accorde un droit d'usage dans le bois du Thureau : les religieuses peuvent prendre trois charrettées de bois par jour pour usage dans leur maison des Isles et pour le chauffage du four (ce droit est converti en 1620 en une coupe de dix arpents par an).",
+  "Lieu « Abbaye des Isles d'Auxerre », aujourd'hui : Elle se trouvait à l'emplacement de l'ancienne base aérienne d'Auxerre, également ancien camp militaire du CIGA (Centre d'instruction de la gendarmerie auxiliaire) situé rue de la Chapelle dans le sud de la commune de Monéteau, à environ 3 km en aval et au nord du vieil Auxerre.",
+  "Lieu « Hôpital psychiatrique de l'Yonne » : L'hôpital psychiatrique de l'Yonne appelé asile départemental de l'Yonne jusqu'en 1937 est le nom donné au xxe siècle à l'ancien centre hospitalier spécialisé de l'Yonne devenu une résidence, situé à Auxerre en France.",
+  "Lieu « Hôpital psychiatrique de l'Yonne », 1761 : La chapelle Notre-Dame de Lorette reconstruite en 1761 a une façade néo-classique surmontée d'un fronton triangulaire orné d'un bas-relief.",
+  "Lieu « Hôpital psychiatrique de l'Yonne », 1840 : Les façades et toitures de l'ensemble de ses bâtiments construits de 1840 à 1860 ainsi que la chapelle du xviiie siècle ont fait l'objet d'une inscription aux monuments historiques.",
+  "Lieu « Hôpital psychiatrique de l'Yonne », 1850 : C'est avec le soutien du baron Haussmann, nommé préfet de l'Yonne en 1850 que le projet a pris toute son ampleur et que les travaux ont pu être achevés en 1858, L'Asile d'Auxerre sert alors de modèle pour de nombreux autres asiles en France.",
+  "Lieu « Hôpital psychiatrique de l'Yonne », aujourd'hui : Le restant du terrain, entre les bâtiments et la clôture externe, est occupé par les jardins potagers destinés à nourrir les malades et le plus vieux vignoble attesté de France, le clos de la Chaînette.",
+  "Lieu « Temple protestant d'Auxerre » : Le temple protestant d'Auxerre est un édifice religieux situé 31 rue Saint-Pèlerin à Auxerre dans l'Yonne.",
+  "Lieu « Temple protestant d'Auxerre », IIIe siècle : Construite construite au IIIe siècle sous le nom de église Saint-Pèlerin, elle serait la première église-cathédrale d'Auxerre.",
+  "Lieu « Temple protestant d'Auxerre », XIe siècle : L'église n'est mentionnée en titre pour la première fois qu'au XIe siècle mais selon la tradition elle est bien antérieure puisqu'une chapelle dédiée au Christ aurait été édifiée à cet emplacement par saint Pèlerin, premier évêque d'Auxerre (258-304), dans la deuxième moitié du IIIe siècle.",
+  "Lieu « Temple protestant d'Auxerre », 1866 : Elle est vendue en 1866, le chœur transformé en temple réformé et le reste en logements.",
+  "Lieu « Temple protestant d'Auxerre », aujourd'hui : Les vestiges actuels Le vaisseau date du XVIe siècle, à trois nefs et voûtes cintrées sur hauts pilastres toscans."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
