@@ -1,0 +1,267 @@
+{
+ "commune": {
+  "titre": "La Rochelle",
+  "code_insee": "17300",
+  "departement": "17",
+  "population": 79851,
+  "lat": 46.159058,
+  "lon": -1.151715,
+  "url": "https://fr.wikipedia.org/wiki/La_Rochelle"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:23:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3527,
+  "sortie": 2145
+ },
+ "cout_usd": 0.003387,
+ "accroche": "En 1152, l’ouverture du marché anglais à la suite des secondes noces d’Aliénor d’Aquitaine fait grandir La Rochelle au point d’en faire le plus grand port sur l’Atlantique.",
+ "histoire": {
+  "recit": "À La Rochelle, l’histoire commence dans les marais salants gallo-romains, passe par l’arrivée d’Alains et s’achève, au Xe siècle, sur la fondation de la future capitale de l’Aunis avec un village de pêcheurs dans les marécages. Au XIIe siècle, un château fort se dresse, puis la ville bascule dans le grand commerce.\n\nEn 1152, l’accès facilité au marché anglais, avec la présence des Templiers et des Hospitaliers, donne à cette petite ville une puissance nouvelle. Le port connaît ensuite des difficultés : en 1808, la ville reste pénalisée par la fermeture des marchés coloniaux et la raréfaction des matières premières, avant que le bassin à flot, percé puis achevé en 1808, et les grands travaux du XIXe siècle ne relancent durablement l’économie.\n\nLa ville s’organise aussi autour de ses bâtiments et de ses défenses : la tour de la Chaîne et la tour Saint-Nicolas, les fortifications du Vieux-port, et la cathédrale Saint-Louis, pensée, érigée en paroisse en 1217 et construite à partir de 1742 avant de n’être ouverte au culte qu’en 1784.",
+  "chronologie": [
+   {
+    "date": "Xe siècle",
+    "texte": "La fondation de la future capitale de l’Aunis se fait avec un village de pêcheurs au milieu des marécages.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début du XIIe siècle",
+    "texte": "Le château fort est établi par les seigneurs de Mauléon et de Rochefort.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1152",
+    "texte": "L’ouverture du marché anglais, la présence des Templiers et des Hospitaliers font rapidement de la petite ville le plus grand port sur l’Atlantique.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1808",
+    "texte": "Le percement du bassin à flot, achevé en 1808, relance l’économie portuaire après des difficultés liées aux marchés coloniaux et aux matières premières.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Diocèse de La Rochelle",
+   "histoire": "Le diocèse de La Rochelle est un diocèse de l’Église catholique. Selon la tradition, il prend ses origines dans celui de Saintes fondé au IIIe siècle par Eutrope. Il est érigé en 1801 et devient le successeur du diocèse de La Rochelle, couvrant l’ancienne province de l’Aunis et le territoire de l’ancien diocèse de Saintes, puis intégrant depuis 2018 celui de l’ancien vicariat apostolique de l’archipel de Saint-Pierre-et-Miquelon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S8"
+   ],
+   "lat": 46.15611,
+   "lon": -1.1556,
+   "url": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_La_Rochelle"
+  },
+  {
+   "nom": "Gare de La Rochelle-Ville",
+   "histoire": "La gare de La Rochelle-Ville est une gare ferroviaire située sur le territoire de la commune. Un nouveau bâtiment voyageur est déclaré d’utilité publique le 24 mars 1906, puis la nouvelle gare est mise en service en 1922. En 1993, la liaison TGV est inaugurée, et la gare se trouve sous les remparts, près de la porte Saint-Nicolas, sur les bords du bassin à flot en construction.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Sous les remparts, près de la porte Saint-Nicolas, sur les bords du bassin à flot en construction.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 46.152427,
+   "lon": -1.145153,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Rochelle-Ville"
+  },
+  {
+   "nom": "Tour de la Chaîne",
+   "histoire": "La tour de la Chaîne fait partie des tours du front de mer du Vieux-port. Construite entre 1378 et 1380, elle est gravement touchée en 1651 par l’explosion de son stock de poudre. En 1824, la petite tour de la Chaîne est détruite pour élargir l’entrée du port. Plus tard, on perce la muraille la reliant à la tour de la Lanterne pour permettre une communication entre le port et l’espace des futurs chantiers navals.",
+   "anecdotes": [
+    {
+     "texte": "En 1651, elle est gravement touchée par l’explosion de son stock de poudre lors de l’épisode de la Fronde.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 46.1558643,
+   "lon": -1.1543085,
+   "url": "https://fr.wikipedia.org/wiki/Tour_de_la_Cha%C3%AEne"
+  },
+  {
+   "nom": "Hôtel de ville de La Rochelle",
+   "histoire": "L’hôtel de ville de La Rochelle est le bâtiment qui héberge depuis 1298 la mairie. Entre 1628 et 1748, il sert de résidence au Gouverneur de l’Aunis et de la Ville, avant de redevenir la maison de la ville. L’édifice est largement détérioré et fait l’objet d’une lourde restauration à la fin du XIXe siècle. Aujourd’hui, les services municipaux s’étendent dans les étages et ne communiquent que par un dédale de couloirs et d’escaliers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, les services de la ville s’étendent dans les étages et ne communiquent que par un dédale de couloirs et d’escaliers.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 46.1596,
+   "lon": -1.15125,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_La_Rochelle"
+  },
+  {
+   "nom": "Église Notre-Dame-de-Cougnes de La Rochelle",
+   "histoire": "L’église Notre-Dame-de-Cougnes est une église paroissiale située à La Rochelle, dans le diocèse de La Rochelle et Saintes. Dès 1152, elle ne suffit plus et l’on édifie l’église Saint-Barthélémy puis l’église Saint-Sauveur. En 1175, elle accompagne la croissance de la ville après la première charte communale. En 1568, elle est presque entièrement détruite lors de poussées iconoclastes, puis reconstruite à partir de 1653.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Son emplacement avoit été conquis des bastions, boulevard et plate-forme de Cougnes.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.163814,
+   "lon": -1.146444,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Cougnes_de_La_Rochelle"
+  },
+  {
+   "nom": "Fortifications de La Rochelle",
+   "histoire": "L’histoire des fortifications de La Rochelle s’étend du XIIIe au XXe siècle. Un château seigneurial, le château Vauclair, est construit au XIIe siècle et encastré dans le front ouest de la ville. À la fin du XIVe siècle, par extensions successives, la ville borde au sud le fond de la baie et englobe le havre où s’est déplacé le port. En 1372, l’ouvrage est repris avec l’aide de la population après une occupation anglaise, puis démoli à la demande pour écarter une menace. Aujourd’hui, les éléments de défense les plus connus sont les tours médiévales à l’entrée du Vieux-port : la tour Saint-Nicolas, la tour de la Chaîne et la tour de la Lanterne.",
+   "anecdotes": [
+    {
+     "texte": "En 1372, la reprise de l’ouvrage se fait avec l’aide de la population, puis il est démoli à la demande car il menace la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Tours médiévales situées à l’entrée du Vieux-port : la tour Saint-Nicolas, la tour de la Chaîne et la tour de la Lanterne.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 46.159444444444,
+   "lon": -1.1513888888889,
+   "url": "https://fr.wikipedia.org/wiki/Fortifications_de_La_Rochelle"
+  },
+  {
+   "nom": "Tour Saint-Nicolas",
+   "histoire": "La tour Saint-Nicolas est l’une des trois tours du front de mer du Vieux-port, porte d’entrée avec la tour de la Chaîne et la tour de la Lanterne. En 1651, l’édifice s’effondre le 19 novembre sous une formidable explosion, tandis que les assiégés se réfugient dans la tour Saint-Nicolas. Sous la Révolution, elle est utilisée (jusqu’en 1793) pour emprisonner des Chouans. En 1813, lors d’aménagements du port, un ouvrage à corne au pied de la tour est démoli.",
+   "anecdotes": [
+    {
+     "texte": "Le 19 novembre 1651, la tour s’effondre sous une formidable explosion, mais les assiégés s’y sont réfugiés et restent sains et saufs.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    },
+    {
+     "texte": "La tour est utilisée pour emprisonner des Chouans jusqu’en 1793.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le 28 novembre 1651, il ne reste plus aux troupes de Besse que la tour Saint-Nicolas.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 46.155768,
+   "lon": -1.153335,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Saint-Nicolas"
+  },
+  {
+   "nom": "Cathédrale Saint-Louis de La Rochelle",
+   "histoire": "La cathédrale Saint-Louis de La Rochelle est une cathédrale catholique romaine. En 1217, l’église est érigée en paroisse par l’évêque de Saintes Ponce de Pons, en même temps que l’église Saint-Sauveur. Elle est probablement reconstruite au deuxième quart du XVe siècle. Construite à partir de 1742 sur l’initiative du cardinal de Fleury et de l’évêque Augustin Roch de Menou de Charnizay, elle reste inachevée faute de moyens, mais elle est ouverte au culte en 1784.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 46.161389,
+   "lon": -1.153333,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Louis_de_La_Rochelle"
+  }
+ ],
+ "sources": [
+  "La Rochelle est une commune française, préfecture du département de la Charente-Maritime, en région Nouvelle-Aquitaine. Avec 79 961 habitants en 2022, La Rochelle est la commune la plus peuplée du département, devant Saintes, Rochefort et Royan et occupe le quatrième rang régional après Bordeaux, la capitale régionale, Limoges et Poitiers. Ses habitants sont appelés les Rochelaises et les Rochelais. Située en […]",
+  "Une occupation (au sens archéologique du terme) gallo-romaine est attestée par des vestiges d'importants marais salants et de villas, puis des Alains venus de l’Est, enfin un village de pêcheurs au milieu de marécages, aboutissent au Xe à la fondation de la future capitale de l'Aunis. Le château fort au début du XIIe siècle par les seigneurs de Mauléon et de Rochefort. Guillaume X, duc d’Aquitaine, devient par fait […]",
+  "1152 : L'ouverture du marché anglais à la suite des secondes noces d’Aliénor d'Aquitaine en 1152, la présence des Templiers et des Hospitaliers de l'ordre de Saint-Jean de Jérusalem, fait rapidement de cette petite ville le plus grand port sur l'Atlantique.",
+  "1808 : Malgré ces mesures, la ville reste pénalisée par la fermeture des marchés coloniaux et la raréfaction des matières premières ; il faudra attendre le percement du bassin à flot (achevé en 1808) puis, plus encore, les grands travaux du XIXe siècle pour relancer durablement l'économie portuaire.",
+  "Lieu « Diocèse de La Rochelle » : Le diocèse de La Rochelle (en latin : dioecesis Rupellensis) est un diocèse de l'Église catholique de France.",
+  "Lieu « Diocèse de La Rochelle », IIIe siècle : Le diocèse de La Rochelle et Saintes tient ses origines dans celui de Saintes fondé, selon la tradition, au IIIe siècle par Eutrope.",
+  "Lieu « Diocèse de La Rochelle », XIe siècle : Les édifices de la ville apparaissent comme vétustes au XIe siècle, la cathédrale n'échappant pas à un incendie à cette époque.",
+  "Lieu « Diocèse de La Rochelle », 1801 : Érigé en 1801, il est le successeur du diocèse de La Rochelle, recouvrant l'ancienne province de l'Aunis, comprend également le territoire de l'ancien diocèse de Saintes, en Saintonge, et depuis 2018, celui de l'ancien vicariat apostolique de l'archipel de Saint-Pierre-et-Miquelon.",
+  "Lieu « Diocèse de La Rochelle », aujourd'hui : La Saintonge connaît alors un élan de construction de monuments religieux dans un contexte d'épanouissement de l'art roman saintongeais dont il reste de nombreux témoins aujourd'hui.",
+  "Lieu « Gare de La Rochelle-Ville » : La gare de La Rochelle-Ville est une gare ferroviaire, située sur le territoire de la commune de La Rochelle, dans le département de la Charente-Maritime, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de La Rochelle-Ville », 1906 : Aussi, le 24 mars 1906, la construction d'un nouveau bâtiment voyageur est déclarée d'utilité publique.",
+  "Lieu « Gare de La Rochelle-Ville », 1922 : Après la mise en service de la nouvelle gare de La Rochelle-Ville en 1922, la gare de La Rochelle-PO est transformée la même année en gare de marchandises avec suppression de sa marquise et fin 1980, elle est entièrement démolie.",
+  "Lieu « Gare de La Rochelle-Ville », 1993 : La liaison TGV, inaugurée en 1993, met La Rochelle à trois heures de Paris, puis 2 h 30 grâce à la LGV Sud Europe Atlantique depuis 2017.",
+  "Lieu « Gare de La Rochelle-Ville », aujourd'hui : Elle est située « sous les remparts, près de la porte Saint-Nicolas, sur les bords du bassin à flot en construction » (emplacement actuel de l'hôtel Océanides).",
+  "Lieu « Tour de la Chaîne » : La tour de la Chaîne est, avec la tour Saint-Nicolas et la tour de la Lanterne, l'une des trois tours du front de mer de La Rochelle, et l'une des deux tours emblématiques du Vieux-Port, dont elle constitue la majestueuse porte d'entrée.",
+  "Lieu « Tour de la Chaîne », 1378 : D'après Claude Masse, la Grosse tour fut construite entre 1378 et 1380.",
+  "Lieu « Tour de la Chaîne », 1651 : Elle a été gravement touchée par l'explosion de son stock de poudre lors de l'épisode de la Fronde en 1651.",
+  "Lieu « Tour de la Chaîne », 1824 : En 1824, la petite tour de la Chaîne fut détruite pour élargir l'entrée du port qui est maintenant de 25 m 40.",
+  "Lieu « Tour de la Chaîne », aujourd'hui : Dans la 2e moitié du XVIIIe siècle, on perce la muraille qui relie la tour de la Chaîne à la tour de la Lanterne permettant une communication entre le port et l'espace qui deviendra l'emplacement des chantiers navals.",
+  "Lieu « Hôtel de ville de La Rochelle » : L'hôtel de ville de La Rochelle est le bâtiment qui héberge depuis 1298 la mairie de La Rochelle, dans le département français de la Charente-Maritime en région Nouvelle-Aquitaine.",
+  "Lieu « Hôtel de ville de La Rochelle », 1298 : L'hôtel de ville de La Rochelle est le bâtiment qui héberge depuis 1298 la mairie de La Rochelle, dans le département français de la Charente-Maritime en région Nouvelle-Aquitaine.",
+  "Lieu « Hôtel de ville de La Rochelle », 1628 : Entre 1628 et 1748, le bâtiment est la résidence du Gouverneur de l'Aunis et de la Ville avant de redevenir la maison de la ville.",
+  "Lieu « Hôtel de ville de La Rochelle », XIXe siècle : Largement détérioré, le bâtiment subit, à la fin du XIXe siècle, une lourde restauration, mêlant restauration à l'identique, transformation et extension de bâtiment.",
+  "Lieu « Hôtel de ville de La Rochelle », aujourd'hui : Aujourd'hui, les services de la ville se sont étendus dans les étages des bâtiments et ne communiquent que par un dédale de couloirs et d'escaliers.",
+  "Lieu « Église Notre-Dame-de-Cougnes de La Rochelle » : L’église Notre-Dame-de-Cougnes est une église paroissiale située à La Rochelle, dans le département français de la Charente-Maritime en région Nouvelle-Aquitaine, et dans le diocèse de La Rochelle et Saintes.",
+  "Lieu « Église Notre-Dame-de-Cougnes de La Rochelle », 1152 : Cependant, bien vite, elle ne suffit plus aux besoins spirituels d'une population en pleine croissance, et dès 1152, on édifie l'église Saint-Barthélémy, puis l'église Saint-Sauveur.",
+  "Lieu « Église Notre-Dame-de-Cougnes de La Rochelle », 1175 : En 1175, lorsqu'Henri II Plantagenêt et Aliénor d'Aquitaine accordent à la ville sa première charte communale, il s'agit déjà d'un des ports les plus actifs d'Aquitaine ; sa prospérité s'accroît encore par l'ouverture du marché anglais aux marchands aquitains, qui y écoulent leurs productions.",
+  "Lieu « Église Notre-Dame-de-Cougnes de La Rochelle », 1568 : Presque entièrement détruite au moment de poussées iconoclastes en 1568, elle est reconstruite à partir de 1653.",
+  "Lieu « Église Notre-Dame-de-Cougnes de La Rochelle », aujourd'hui : Son emplacement avoit été conquis des bastions, boulevard et plate-forme de Cougnes »).",
+  "Lieu « Fortifications de La Rochelle » : L’histoire des fortifications de La Rochelle, remonte au XIIIe siècle de notre ère, pour se terminer au XXe siècle.",
+  "Lieu « Fortifications de La Rochelle », XIIe siècle : Un château seigneurial, construit au XIIe siècle (le château Vauclair) est encastré dans le front ouest de la ville, près de l'angle nord-ouest de la première enceinte.",
+  "Lieu « Fortifications de La Rochelle », XIVe siècle : À la fin du XIVe siècle, par extensions successives, la ville borde, au sud, le fond de la baie et englobe le havre où s'est déplacé le port.",
+  "Lieu « Fortifications de La Rochelle », 1372 : Occupé par les Anglais pendant la guerre de Cent Ans, il est repris en 1372 avec l'aide de la population, puis démoli à sa demande en raison de la menace qu'il constitue pour la ville.",
+  "Lieu « Fortifications de La Rochelle », aujourd'hui : Les éléments de défense les plus connus sont aujourd'hui les tours médiévales situées à l'entrée du Vieux-port et gérées par le centre des monuments nationaux, emblèmes de la ville et lieu d'attraction touristique : la tour Saint-Nicolas, la tour de la Chaîne et la tour de la Lanterne.",
+  "Lieu « Tour Saint-Nicolas » : La tour Saint-Nicolas (XIVe siècle) est, avec la tour de la Chaîne et la tour de la Lanterne, l'une des trois tours du front de mer de La Rochelle, et l'une des deux tours emblématiques du Vieux-Port, dont elle constitue la majestueuse porte d'entrée",
+  "Lieu « Tour Saint-Nicolas », 1651 : L'édifice s'effondre, le 19 novembre 1651, sous une formidable explosion, les assiégés, sains et saufs, s'étant réfugiés dans la tour Saint-Nicolas.",
+  "Lieu « Tour Saint-Nicolas », 1793 : Lors de la Révolution française, la tour est utilisée (jusqu’en 1793) pour emprisonner des Chouans.",
+  "Lieu « Tour Saint-Nicolas », 1813 : En 1813, lors des travaux d’aménagement du port, visant à limiter l'envasement et à établir les quais maçonnés, on procéda à la démolition de l'ouvrage à corne situé au pied de la tour.",
+  "Lieu « Tour Saint-Nicolas », aujourd'hui : Le 28 novembre 1651, il ne reste plus aux troupes, de Besse, que la tour Saint-Nicolas.",
+  "Lieu « Cathédrale Saint-Louis de La Rochelle » : La cathédrale Saint-Louis de La Rochelle est une cathédrale catholique romaine, située à La Rochelle en Charente-Maritime.",
+  "Lieu « Cathédrale Saint-Louis de La Rochelle », 1217 : L'église est érigée en paroisse par l'évêque de Saintes Ponce de Pons, en 1217 en même temps que l'église Saint-Sauveur sa cadette.",
+  "Lieu « Cathédrale Saint-Louis de La Rochelle », XVe siècle : L'église fut probablement reconstruite dans le 2e quart du XVe siècle.",
+  "Lieu « Cathédrale Saint-Louis de La Rochelle », 1742 : Construite à partir de 1742 sur une initiative du cardinal de Fleury et de l'évêque, Augustin Roch de Menou de Charnizay, elle demeura inachevée faute de moyens financiers, mais fut tout de même ouverte au culte en 1784.",
+  "Lieu « Cathédrale Saint-Louis de La Rochelle », aujourd'hui : En août 1668, on entreprend la construction d'une nouvelle église à l'emplacement de l'ancienne église détruite durant les guerres de Religion, qui est terminée 10 ans plus tard."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
