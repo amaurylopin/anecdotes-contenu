@@ -1,0 +1,207 @@
+{
+ "commune": {
+  "titre": "Creil",
+  "code_insee": "60175",
+  "departement": "60",
+  "population": 36301,
+  "lat": 49.2557,
+  "lon": 2.4841,
+  "url": "https://fr.wikipedia.org/wiki/Creil"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:44:16",
+ "lieux_ecartes_autre_commune": 8,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2592,
+  "sortie": 1566
+ },
+ "cout_usd": 0.002476,
+ "accroche": "Le 26 mai 1797 (7 prairial an V), Robert Bray O'Reilly fonde à Creil une manufacture de faïence, qui s’inscrit ensuite dans l’histoire du Musée Gallé-Juillet.",
+ "histoire": {
+  "recit": "Creil naît d’un ancien gué sur la rivière Oise, au niveau de l’île Saint-Maurice. Très tôt, les traces archéologiques se lisent sur le plateau dominant la vallée et, à Canneville, une station néolithique livre de nombreux outils lithiques.\n\nAu Moyen Âge, près du château royal, la collégiale Saint-Évremond attire des pèlerinages grâce à des reliques. Plus tard, la ville traverse les occupations et conflits de l’époque moderne, avant que la seigneurie ne change de mains au profit de Pierre Juéry.\n\nÀ la fin du XVIIIe siècle, l’industrie marque profondément la commune : une manufacture de cristal apparaît, puis se transforme en faïencerie. Des ateliers sont construits entre juillet 1797 et 1798, et des cités ouvrières se développent dès 1866.\n\nAu XXe siècle, les difficultés industrielles s’installent à partir de la fin des années 1960, avec des fermetures d’usines et leurs conséquences sociales. Malgré ces ruptures, Creil conserve des repères majeurs : son église paroissiale Saint-Médard, le Château de Creil et, en son lieu, le Musée Gallé-Juillet.",
+  "chronologie": [
+   {
+    "date": "1150",
+    "texte": "Vers 1150, la collégiale Saint-Évremond est fondée et accueille des reliques faisant l’objet d’un pèlerinage très suivi.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1567",
+    "texte": "En 1567, la ville est prise par les Huguenots, puis à nouveau occupée pendant la Fronde.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1782",
+    "texte": "En 1782, la seigneurie vendue par les princes de Condé est cédée à Pierre Juéry.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1797",
+    "texte": "En 1797, Robert Bray O'Reilly crée une manufacture de cristal, rapidement transformée en faïencerie.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1797-1798",
+    "texte": "Entre juillet 1797 et 1798, 17 ateliers sont construits, puis repris par une autre société en 1801.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "En 1866, des logements pour les ouvriers sont construits, dont la cité Saint-Médard, sur la rive gauche.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "fin des années 1960",
+    "texte": "À partir de la fin des années 1960, l’industrie métallurgique connaît ses premières difficultés, avec des fermetures et une hausse du chômage.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Médard de Creil",
+   "histoire": "Église catholique paroissiale à Creil, elle est liée au patronage de la cure par le chapitre de la collégiale Saint-Évremond, puis elle est édifiée à partir du début du XIIIe siècle sur l’emplacement d’une église précédente. Par la suite, devenue trop petite, elle est profondément modifiée aux XIVe et XVe siècles, avec déplacement du chœur vers le nord-est.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle a été profondément modifiée aux XIVe et XVe siècles, notamment avec déplacement du chœur vers le nord-est.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S14"
+   ],
+   "lat": 49.259778,
+   "lon": 2.476306,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-M%C3%A9dard_de_Creil"
+  },
+  {
+   "nom": "Musée Gallé-Juillet",
+   "histoire": "Le Musée Gallé-Juillet se trouve à l’emplacement du château fort de Creil. Il s’enracine dans la manufacture de faïence fondée le 26 mai 1797, puis dans les constructions et aménagements réalisés au XIXe siècle. Aujourd’hui, il regroupe deux maisons construites au XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Entre 1846 et 1868, le maire Jules Juillet fait bâtir une maison de campagne qui devient un cabinet de curiosité pour les amateurs d’objets anciens.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le musée Gallé-Juillet est situé à l’emplacement du château fort de Creil.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 49.260884,
+   "lon": 2.472337,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Gall%C3%A9-Juillet"
+  },
+  {
+   "nom": "Château de Creil",
+   "histoire": "Ancien château fort et ancienne résidence royale, le Château de Creil conserve des vestiges de son extension médiévale. Dès 1377, un pont-levis est réaménagé, le bâtiment reçoit des tourelles et des dispositifs de protection. Au XVIe siècle, Creil connaît aussi des changements de rattachement avant la vente au prince de Condé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il en reste aujourd’hui à peu près un quart de son extension médiévale maximale.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S24"
+   ],
+   "lat": 49.2611248,
+   "lon": 2.4720039,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Creil"
+  },
+  {
+   "nom": "Gare de Creil",
+   "histoire": "La gare de Creil se situe sur la rive droite de l’Oise. La ligne directe de Saint-Denis à Creil via Survilliers - Fosses est ouverte le 10 mai 1859, puis quadruplée jusqu’à Survilliers - Fosses en 1907. Le bâtiment voyageurs est agrandi au début des années 1900, et l’ancien bâtiment voyageurs est totalement détruit par des bombardements en 1944.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 49.264104,
+   "lon": 2.469087,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Creil"
+  },
+  {
+   "nom": "Église Saint-Joseph de Creil",
+   "histoire": "L’église Saint-Joseph est un édifice catholique situé dans le quartier du Plateau à Creil. Elle est construite en 1969 par l’architecte Jacques Prioleau, dans le cadre du nouveau quartier formé de grands ensembles d’immeubles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 49.2583333333,
+   "lon": 2.48333333333,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Joseph_de_Creil"
+  }
+ ],
+ "sources": [
+  "Creil est une commune française située dans le département de l'Oise et la région Hauts-de-France, dans l'ancienne province de Picardie. Située dans la vallée de l'Oise, cette ville de plus de 35 000 habitants, appelés Creillois, est au centre de l'unité urbaine de Creil rassemblant 120 350 habitants en 2015, la première du département de l'Oise. Siège d'un château royal au Moyen Âge, Creil s'est surtout développée […]",
+  "Le site originel de Creil est un ancien gué sur la rivière Oise, au niveau de l'île Saint-Maurice, et en contrebas d'un plateau dominant la vallée. Les traces archéologiques les plus anciennes à Creil sont situées sur le plateau, en limite de la commune de Saint-Maximin. Une station d'époque néolithique est attestée sur le site de Canneville, où de nombreux outils lithiques ont été retrouvés. Les archéologues […]",
+  "1150 : Vers 1150, la collégiale Saint-Evremond est fondée à proximité de celui-ci, accueillant des reliques faisant l'objet d'un pèlerinage très suivi.",
+  "1567 : À l'époque moderne, la ville est de nouveau occupée par des troupes armées : en 1567, la ville est prise par les Huguenots, puis à nouveau occupée pendant la Fronde.",
+  "1782 : En 1782, la seigneurie, qui est entrée dans les propriétés des Princes de Condé, est vendue par ceux-ci à Pierre Juéry, un magistrat d'origine roturière.",
+  "1797 : En 1797 Robert Bray O'Reilly, industriel parisien d'origine irlandaise, crée une manufacture de cristal, rapidement transformée en faïencerie.",
+  "1797 : Construits entre juillet 1797 et 1798, les 17 ateliers sont repris par une autre société en 1801.",
+  "1866 : Des logements pour les ouvriers sont construits sous la forme de cités.La cité Saint-Médard, la plus ancienne (1866), est construite sur la rive gauche à l'initiative du directeur de la faïencerie et futur maire, Henri Barluet.Sont construites aussi mais sur la rive droite, les cités Lucile, Vieille-Montagne (1925) et de la Tonnellerie (fin des années 1920).",
+  "1960 : À partir de la fin des années 1960, l'industrie métallurgique connaît ses premières difficultés.Les plus grandes usines voient leurs effectifs fondre ou ferment :- Vieille Montagne en 1992 ;- Chausson, en 1996.Ces fermetures s'accompagnent de la montée du chômage, l'augmentation des migrations pendulaires vers Paris et les problèmes sociaux.",
+  "Lieu « Église Saint-Médard de Creil » : L'église Saint-Médard est une église catholique paroissiale située à Creil, en France.",
+  "Lieu « Église Saint-Médard de Creil », XIIe siècle : Le patronage de la cure appartient alors au chapitre de la collégiale Saint-Évremond, bâtie pendant le troisième quart du XIIe siècle dans l'enceinte même du château royal de Creil.",
+  "Lieu « Église Saint-Médard de Creil », XIIIe siècle : Édifiée à partir du début du XIIIe siècle à l'emplacement d'une église précédente sur le plan d'une croix grecque, elle a été terminée avant la fin de ce même siècle.",
+  "Lieu « Église Saint-Médard de Creil », XIIIe siècle : Une église Saint-Médard est bâtie au sein de l'enceinte médiévale de la ville, qui est probablement antérieure au XIIIe siècle.",
+  "Lieu « Église Saint-Médard de Creil », aujourd'hui : Devenu rapidement trop petite, elle a été profondément modifiée aux XIVe et XVe siècles, avec déplacement du chœur vers le nord-est, à l'emplacement de l'ancien croisillon nord.",
+  "Lieu « Musée Gallé-Juillet » : Le musée Gallé-Juillet, est situé à l'emplacement du château fort de Creil dans le département de l'Oise, en région Hauts-de-France.",
+  "Lieu « Musée Gallé-Juillet », 1797 : La manufacture de faïence est fondée une première fois le 7 prairial An V (le 26 mai 1797) par un cristallier parisien, Robert Bray O'Reilly.",
+  "Lieu « Musée Gallé-Juillet », 1846 : À partir de ce qu’il restait, l'une des tours, le maire de Creil, Jules Juillet, fit bâtir entre 1846 et 1868, une maison de campagne, qui devint un cabinet de curiosité pour les amateurs d'objets anciens.",
+  "Lieu « Musée Gallé-Juillet », XIXe siècle : Labellisé Musée de France, il regroupe deux maisons construites au XIXe siècle : la maison Gallé-Juillet et la maison de la Faïence.",
+  "Lieu « Musée Gallé-Juillet », aujourd'hui : Le musée Gallé-Juillet, est situé à l'emplacement du château fort de Creil dans le département de l'Oise, en région Hauts-de-France.",
+  "Lieu « Château de Creil » : Le château de Creil est un ancien château fort et une ancienne résidence royale située à Creil dans le département de l'Oise en région Hauts-de-France.",
+  "Lieu « Château de Creil », 1377 : Dès 1377, il y fait réaménager un pont-levis, flanque le bâtiment de plusieurs tourelles à toits pyramidaux, avec des créneaux pour le protéger et enfin, des mâchicoulis.",
+  "Lieu « Château de Creil », 1569 : Creil fera à nouveau parti du comté de Clermont entre 1569 et 1704 avant d’être vendu au prince de Condé, Henri-Jules de Bourbon.",
+  "Lieu « Château de Creil », 1782 : Le 9 février 1782, la seigneurie, qui était entrée dans les propriétés des Princes de Condé en 1706, est vendue à Pierre Juéry, procureur du roi à Creil.",
+  "Lieu « Château de Creil », aujourd'hui : Il en reste aujourd'hui à peu près un quart de son extension médiéval maximale.",
+  "Lieu « Gare de Creil » : La gare de Creil est une gare ferroviaire française de la ligne de Paris-Nord à Lille, située sur la rive droite de l'Oise, dans le département de l'Oise, en région Hauts-de-France.",
+  "Lieu « Gare de Creil », 1859 : La ligne directe de Saint-Denis à Creil via Survilliers - Fosses est ouverte le 10 mai 1859 après six ans d'études puis quadruplée jusqu'à Survilliers - Fosses en 1907.",
+  "Lieu « Gare de Creil », 1900 : Au début des années 1900, le bâtiment voyageurs est agrandi avec une avancée du corps central qui implique la destruction de la tour publicitaire avec horloge.",
+  "Lieu « Gare de Creil », 1944 : Durant la Seconde Guerre mondiale, la ville et le site de la gare subissent de nombreux bombardements, notamment ceux de 1944, qui vont totalement détruire l'ancien bâtiment voyageurs.",
+  "Lieu « Église Saint-Joseph de Creil » : L'église Saint-Joseph de Creil est un édifice religieux catholique situé dans le quartier du Plateau, à Creil, dans le département français de l'Oise.",
+  "Lieu « Église Saint-Joseph de Creil », 1969 : L'église Saint-Joseph a été construite en 1969 par l'architecte Jacques Prioleau, dans le nouveau quartier du Plateau, formé de grands ensembles d'immeubles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIIe",
+   "XVIe"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}
