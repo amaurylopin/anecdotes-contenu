@@ -1,0 +1,263 @@
+{
+ "commune": {
+  "titre": "Gap",
+  "code_insee": "05061",
+  "departement": "05",
+  "population": 41293,
+  "lat": 44.5797,
+  "lon": 6.0616,
+  "url": "https://fr.wikipedia.org/wiki/Gap"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:40:05",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3214,
+  "sortie": 1622
+ },
+ "cout_usd": 0.00267,
+ "accroche": "À Gap, la ville est prise le 29 août 1692 par les troupes du duc de Savoie, Victor-Amédée II, alors que les habitants avaient abandonné la place.",
+ "histoire": {
+  "recit": "Gap, préfecture des Hautes-Alpes, se tient au carrefour d’axes reliant Grenoble à Sisteron et la vallée du Rhône à Briançon. Les premiers indices de peuplement remontent au néolithique, avec une culture rattachée au Chasséen méridional.\n\nVers la fin du IIIe siècle, une nouvelle fortification est édifiée, avant que le cap d’une époque plus “organisée” ne se dessine au XVIIe siècle : en 1675, le premier séminaire de Gap s’installe d’abord à La Roche des Arnauds, puis revient dans la ville. Quelques décennies plus tard, en 1692, Gap est prise par les troupes piémontaises et la cathédrale, décrite au XIXe siècle comme bien “bâtie pour durer”, tombe ensuite en ruines avant sa reconstruction.\n\nAu XIXe siècle, des métiers structurent certains quartiers, comme Chaudière. Sur le plan industriel, des brasseries fondées en 1820 puis 1832 prospèrent grâce à la maladie du vignoble.\n\nEnfin, le XXe siècle marque un tournant militaire : après novembre 1942 et l’Opération Anton, la ville est intégrée à la zone occupée, puis libérée le soir du 19 août 1944.",
+  "chronologie": [
+   {
+    "date": "IIIe siècle (fin) - IVe siècle",
+    "texte": "Vers la fin du IIIe siècle et au IVe siècle, une nouvelle fortification est édifiée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1675",
+    "texte": "Le premier séminaire de Gap s’installe d’abord à La Roche des Arnauds avant d’être rapatrié dans la ville quelques années plus tard.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1692",
+    "texte": "Les troupes du souverain piémontais Victor-Amédée II de Savoie prennent la ville abandonnée par ses habitants le 29 août.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "La commémoration d’un rôle est portée par une statue réalisée par Jean Marcellin, érigée en 1866 sur le cours qui porte son nom.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1942 (novembre)",
+    "texte": "Après novembre 1942 et l’Opération Anton, Gap est intégrée à la zone occupée.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "19 août 1944 (soir)",
+    "texte": "La ville est libérée le soir du 19 août 1944.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Charance",
+   "histoire": "Château fort dont l’origine remonte au XIIe siècle, remanié à plusieurs reprises. Au XVIe siècle, alors à l’abandon, il est rénové et transformé en grande habitation par l’évêque Gabriel de Sclaffanatis.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 44.576568,
+   "lon": 6.053241,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Charance"
+  },
+  {
+   "nom": "Domaine de Charance",
+   "histoire": "Site alpin de 220 hectares, entre 1 000 et 1 852 m d’altitude, dédié à la sauvegarde et à la promotion de l’environnement. Un château fort y est mentionné vers le Xe siècle, puis le domaine est ravagé en 1692 et vendu aux enchères en 1791.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 44.576111,
+   "lon": 6.053333,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_de_Charance"
+  },
+  {
+   "nom": "Stade de glace Alp'Arena",
+   "histoire": "Patinoire municipale de Gap. Des tribunes sont construites en 1977 entre la tribune centrale et l’angle sud. Les travaux sont ensuite réalisés en quatre phases à partir de septembre 2010.",
+   "anecdotes": [
+    {
+     "texte": "Un ancien joueur, Daniel Maric, résume l’ambiance en disant que « jouer à Gap, c’est un véritable enfer, pas une seconde de répit ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Patinoire municipale de Gap.",
+   "sources": [
+    "S22",
+    "S25"
+   ],
+   "lat": 44.560556,
+   "lon": 6.085556,
+   "url": "https://fr.wikipedia.org/wiki/Stade_de_glace_Alp%27Arena"
+  },
+  {
+   "nom": "Viaduc du Buzon",
+   "histoire": "Ouvrage d’art situé sur la commune de Gap. Construit entre 1913 et 1929 pour permettre le franchissement du ravin du Buzon par le chemin de fer de Gap à La Mure, il est fermé aux piétons depuis 2013 à cause d’un glissement de terrain.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S29"
+   ],
+   "lat": 44.5935,
+   "lon": 6.099,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_du_Buzon"
+  },
+  {
+   "nom": "Gare de Gap",
+   "histoire": "Gare ferroviaire de la ligne de Veynes à Briançon, située sur le territoire de Gap. Elle est construite dans les années 1870 à proximité de l’intersection des routes nationales 85 et 94, et la section suivante Gap à « Mont-Dauphin » est ouverte en 1883. Une construction de ligne du Champsaur commence en 1912, sans aboutir.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 44.564,
+   "lon": 6.0855,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gap"
+  },
+  {
+   "nom": "Musée Muséum départemental des Hautes-Alpes",
+   "histoire": "Le Musée Muséum départemental des Hautes-Alpes, à Gap, rassemble des collections d’archéologie, de beaux-arts, d’histoire et d’ethnographie locale, de faïences et d’histoire naturelle. La première pierre est posée le 28 juillet 1804 dans les bâtiments de l’ancien séminaire diocésain, rue de Provence (aujourd’hui rue du Colonel-Roux.",
+   "anecdotes": [
+    {
+     "texte": "Le musée reçoit des vestiges provenant de la démolition de l’ancienne cathédrale de Gap, et ce transfert n’est possible qu’en 1877 après l’autorisation de Mgr Guilbert.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S36",
+    "S37"
+   ],
+   "lat": 44.562291,
+   "lon": 6.085727,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Mus%C3%A9um_d%C3%A9partemental_des_Hautes-Alpes"
+  },
+  {
+   "nom": "Église Saint-André-les-Cordeliers de Gap",
+   "histoire": "Église catholique du diocèse de Gap et d’Embrun. Un premier couvent est construit en 1230, puis détruit pendant les guerres de Religion. L’église est reconstruite en 1725, rendue au culte en 1801, puis restaurée après un incendie en 1994.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 44.561432,
+   "lon": 6.08271,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Andr%C3%A9-les-Cordeliers_de_Gap"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame-et-Saint-Arnoux de Gap",
+   "histoire": "Cathédrale du diocèse de Gap. Une initiative de l’évêque de Gap, Mgr Bernadou, la fait construire entre 1866 et 1904 en style néo-gothique, en remplacement d’une cathédrale médiévale en ruine. L’orgue actuel est construit par le facteur Jean Dunand (remplaçant un instrument précédent), puis un nouvel orgue est inauguré en 1981 par Pierre Cochereau.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 44.55806,
+   "lon": 6.07806,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-et-Saint-Arnoux_de_Gap"
+  }
+ ],
+ "sources": [
+  "Gap (/gap/) est une commune française d'un peu plus de 41 000 habitants. Elle est la préfecture du département des Hautes-Alpes, dans la région Provence-Alpes-Côte d'Azur, et la ville la plus peuplée de la moitié sud du massif alpin. La ville est située au carrefour d'un axe nord-sud reliant Grenoble à Sisteron et d'un axe est-ouest reliant la vallée du Rhône à Briançon. Gap est située dans une région montagneuse […]",
+  "Le premier peuplement de Gap daterait du néolithique. La culture de ces premiers habitants faisait partie du Chasséen méridional. Les très rares témoignages de l'époque préromaine sont constitués par les vestiges d'un oppidum situés au sommet de la colline de Saint-Mens avec quelques traces visibles d'un dolmen mis au jour en 1866 et d'un ancien cimetière au lieu-dit Pré Camargue ; mais aucun reste n'a été conservé […]",
+  "IIIe siècle : Vers la fin du IIIe siècle et au IVe siècle, est édifiée une nouvelle fortification.",
+  "1675 : Le premier séminaire de Gap est installé d'abord à La Roche des Arnauds en 1675 avant d'être rapatrié dans la ville quelques années plus tard.",
+  "1692 : En 1692, les troupes du souverain piémontais Victor-Amédée II de Savoie, engagé dans la Ligue d'Augsbourg contre la France de Louis XIV, prennent la ville, abandonnée par ses habitants, le 29 août.",
+  "1820 : Parmi les autres métiers figuraient les chapeliers et les cordiers ainsi que deux brasseries fondées en 1820 et en 1832 qui avaient prospéré grâce à la maladie du vignoble.",
+  "XIXe siècle : Les peigneurs et cardeurs sur laine étaient installés dans le quartier de Chaudière où ils étaient 350 au milieu du XIXe siècle.",
+  "XIXe siècle : Jouvin de Rochefort remarque que sa cathédrale qui « si elle n'est pas des plus grandes, est une des mieux baties pour durer longtemps étant flanquée de grosses pierres de taille de couleur grisâtre comme sa haute tour qui est proche du palais de l'évêque » (la cathédrale, tombée en ruines, sera reconstruite au XIXe siècle).",
+  "1866 : Son rôle est commémoré par une statue réalisée par le sculpteur gapençais Jean Marcellin et érigée en 1866 sur le cours qui porte son nom.",
+  "1942 : Mais après novembre 1942 et l'Opération Anton, elle est intégrée à la zone occupée.",
+  "1944 : La ville est libérée le soir du 19 août 1944.",
+  "Lieu « Château de Charance » : Le château de Charance est un ancien château fort, dont l'origine remonte au XIIe siècle, remanié à plusieurs reprises, qui se dresse sur le territoire de la commune française de Gap dans le département des Hautes-Alpes, en région Provence-Alpes-Côte",
+  "Lieu « Château de Charance », XVIe siècle : Durant le XVIe siècle, le château fort, alors à l'abandon, est rénové : il est transformé en une grande habitation par l'évêque Gabriel de Sclaffanatis.",
+  "Lieu « Château de Charance », 1692 : Quelques décennies plus tard, en 1692, le duc de Savoie en conflit avec Louis XIV, le domaine de Charance est une nouvelle fois ravagé.",
+  "Lieu « Château de Charance », XVIIIe siècle : Le site est à nouveau reconstruit par les évêques, et au début du XVIIIe siècle, les lieux prennent l'agencement que l'on connaît de nos jours.",
+  "Lieu « Château de Charance », aujourd'hui : Il restera propriété des évêques jusqu'à la Révolution française.",
+  "Lieu « Domaine de Charance » : Le Domaine de Charance est un site alpin de 220 hectares s'étendant entre entre 1 000 et 1 852 m d’altitude et dédié à la sauvegarde et à la promotion de l’environnement.",
+  "Lieu « Domaine de Charance », Xe siècle : Vers le Xe siècle, un château fort avait été érigé sur le domaine.",
+  "Lieu « Domaine de Charance », 1692 : Quelques décennies plus tard, en 1692, le duc de Savoie en conflit avec Louis XIV, détruit entre autres dans la région, le domaine de Charance.",
+  "Lieu « Domaine de Charance », 1791 : Il sera vendu aux enchères le 26 février 1791.",
+  "Lieu « Domaine de Charance », aujourd'hui : Il restera propriété de celui-ci jusqu'à la Révolution française.",
+  "Lieu « Stade de glace Alp'Arena » : Le stade de glace Alp'Arena est la patinoire municipale de Gap.",
+  "Lieu « Stade de glace Alp'Arena », 1977 : En 1977 sont construites les tribunes se situant entre la tribune centrale et l'angle sud.",
+  "Lieu « Stade de glace Alp'Arena », 2010 : Les travaux ont été faits en quatre phases : 1re phase de septembre 2010 à avril 2011 : Fonctionnement normal (matchs et entrainements) avec construction des futurs locaux techniques (gros œuvre achevé au 31 mars).",
+  "Lieu « Stade de glace Alp'Arena », aujourd'hui : Daniel Maric, aujourd'hui entraineur de Dijon et ancien joueur dira même que « jouer à Gap, c'est un véritable enfer, pas une seconde de répit, le public passe son temps à gueuler et fait un bruit de tous les diables... ».",
+  "Lieu « Viaduc du Buzon » : Le viaduc du Buzon est un ouvrage d'art situé sur la commune de Gap (Hautes-Alpes).",
+  "Lieu « Viaduc du Buzon », 1913 : Il a été construit entre 1913 et 1929, et devait permettre le franchissement du ravin du Buzon par le chemin de fer de Gap à La Mure, alors en construction.",
+  "Lieu « Viaduc du Buzon », 1928 : En 1928, le Ministère avait suspendu tous les travaux non encore exécutés.",
+  "Lieu « Viaduc du Buzon », 2013 : Fermé aux piétons, depuis 2013, du fait d'un glissement de terrain.",
+  "Lieu « Gare de Gap » : La gare de Gap est une gare ferroviaire française de la ligne de Veynes à Briançon, située sur le territoire de la commune de Gap, dans le département des Hautes-Alpes en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de Gap », 1870 : C'est à proximité de l'intersection des routes nationales 85 et 94 qu'est construite la gare dans les années 1870.",
+  "Lieu « Gare de Gap », 1883 : La section suivante de Gap à « Mont-Dauphin » est ouverte à l'exploitation le 10 juillet 1883 par la Compagnie PLM.",
+  "Lieu « Gare de Gap », 1912 : En 1912 commence la construction de la ligne du Champsaur, jamais achevée qui devait relier Gap à Grenoble en voie métrique via la vallée du Drac.",
+  "Lieu « Musée Muséum départemental des Hautes-Alpes » : Le Musée Muséum départemental des Hautes-Alpes, situé à Gap dans le département des Hautes-Alpes, abrite des collections d'archéologie, beaux-arts, histoire et ethnographie locale, faïences et histoire naturelle.",
+  "Lieu « Musée Muséum départemental des Hautes-Alpes », 1543 : Ce mausolée de marbre noir et blanc a été exécuté du vivant de François de Bonne de Lesdiguières (1543-1626) par le sculpteur lorrain Jacob Richier (1586-1640) qui s'est inspiré des projets réalisés par son frère Jean Richier.",
+  "Lieu « Musée Muséum départemental des Hautes-Alpes », 1804 : La première pierre du musée est posée le 28 juillet 1804 dans les bâtiments de l'ancien séminaire diocésain, rue de Provence aujourd'hui rue du Colonel-Roux.",
+  "Lieu « Musée Muséum départemental des Hautes-Alpes », 1877 : Il fallut attendre 1877, date à laquelle Robert Long, archiviste des Hautes-Alpes, obtient de Mgr Guilbert l'autorisation d'installer dans le local des archives, les vestiges en provenance de la démolition de l'ancienne cathédrale de Gap.",
+  "Lieu « Église Saint-André-les-Cordeliers de Gap » : L'église Saint-André-les-Cordeliers est une église catholique française, située dans le département des Hautes-Alpes, dans la commune de Gap, dans le diocèse de Gap et d'Embrun.",
+  "Lieu « Église Saint-André-les-Cordeliers de Gap », 1230 : Un premier couvent est construit en 1230, puis détruit pendant les guerres de Religion.",
+  "Lieu « Église Saint-André-les-Cordeliers de Gap », 1725 : L'église est reconstruite en 1725 et rendue au culte en 1801.",
+  "Lieu « Église Saint-André-les-Cordeliers de Gap », 1994 : Elle est restaurée après un incendie en 1994.",
+  "Lieu « Cathédrale Notre-Dame-et-Saint-Arnoux de Gap » : La cathédrale Notre-Dame-et-Saint-Arnoux de Gap est la cathédrale du diocèse de Gap en France.",
+  "Lieu « Cathédrale Notre-Dame-et-Saint-Arnoux de Gap », 1866 : À l'initiative de l'évêque de Gap, Mgr Bernadou, elle est construite entre 1866 et 1904 dans le style néo-gothique en vogue à cette période, par l'architecte Charles Laisné en remplacement d'une ancienne cathédrale médiévale qui tombait en ruine.",
+  "Lieu « Cathédrale Notre-Dame-et-Saint-Arnoux de Gap », 1946 : L'orgue actuel, construit par le facteur Jean Dunand, de Villeurbanne, remplace l'instrument précédent datant de 1946 qui était l'œuvre de Paul Marie Koenig.",
+  "Lieu « Cathédrale Notre-Dame-et-Saint-Arnoux de Gap », 1981 : Ce nouvel orgue a été inauguré en 1981 par Pierre Cochereau."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
