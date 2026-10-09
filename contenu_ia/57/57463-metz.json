@@ -1,0 +1,277 @@
+{
+ "commune": {
+  "titre": "Metz",
+  "code_insee": "57463",
+  "departement": "57",
+  "population": 122572,
+  "lat": 49.1048,
+  "lon": 6.1962,
+  "url": "https://fr.wikipedia.org/wiki/Metz"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4243,
+  "sortie": 1675
+ },
+ "cout_usd": 0.002942,
+ "accroche": "À Metz, le chemin de fer arrive en 1852, avec une nouvelle voie reliant Devant-les-Ponts au Sablon et l’édification d’une gare hors des remparts.",
+ "histoire": {
+  "recit": "Metz se raconte par ses rivières et ses tournants. Née et développée au confluent de la Moselle et de la Seille, la ville trouve son berceau sur la butte du Haut de Sainte-Croix. Très tôt, elle s’affirme : au Ier siècle, son amphithéâtre vise 25 000 places, puis, vers la fin du IIIe siècle ou le début du IVe siècle, s’élève la basilique de Saint-Pierre-aux-Nonnains.\n\nPlus tard, Metz change d’époque avec fracas politiques et guerres. La ville signe en janvier 1533 un traité d’amitié avec le duc de Lorraine, puis, en 1814, elle est de nouveau assiégée au cours des dernières campagnes de Napoléon. En 1871, après l’abandon par la majorité des députés français, la « plus forte citadelle de la France » est rattachée au nouvel Empire allemand. Au printemps et à l’automne 1944, les bombardements alliés frappent la ville.\n\nAujourd’hui, Metz continue de se laisser visiter : la gare de Metz-Ville, l’amphithéâtre du quartier du Sablon, l’Hospice Saint-Nicolas, la chapelle de la Miséricorde et les musées racontent, chacun à sa manière, les façons qu’a eu la ville de se reconstruire.",
+  "chronologie": [
+   {
+    "date": "Ier siècle",
+    "texte": "À la fin du Ier siècle, l’amphithéâtre est construit à l’emplacement de l’actuelle gare de marchandises, avec 25 000 places.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IIIe siècle (fin ou début du IVe)",
+    "texte": "La basilique de Saint-Pierre-aux-Nonnains est construite, future église de l’abbaye.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "751",
+    "texte": "Metz voit naître la dynastie des Carolingiens, inaugurée par Pépin le Bref.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1324",
+    "texte": "Après la guerre des Quatre Seigneurs, Metz est de nouveau assiégée pendant la guerre de la Hottée de pommes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1533",
+    "texte": "Un traité d’amitié, union, alliance et confédération est signé le 13 janvier 1533 entre le duc Antoine de Lorraine et la cité messine.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "Metz est assiégée à deux reprises au cours des dernières campagnes de Napoléon, en 1814 et 1815.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "Arrivée du chemin de fer à Metz : voie ferrée reliant Devant-les-Ponts au Sablon et édification d’une nouvelle gare hors des remparts.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "La citadelle est rattachée au nouvel Empire allemand le 10 mai 1871, conformément au traité de Francfort.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "La ville est bombardée à plusieurs reprises au printemps et à l’automne 1944, avec de nombreuses victimes civiles.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Étienne de Metz",
+   "histoire": "La cathédrale Saint-Étienne de Metz est la cathédrale catholique du diocèse de Metz, dans le département français de la Moselle, en région Grand Est.",
+   "anecdotes": [
+    {
+     "texte": "Un passage attribué à l’Histoire des Francs de Grégoire de Tours dit qu’un sanctuaire dédié à Étienne, à l’emplacement actuel, aurait été le seul monument épargné par les Huns lors du sac de la cité, le samedi saint 7 avril 451.",
+     "statut": "legende",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S19"
+   ],
+   "lat": 49.120278,
+   "lon": 6.175556,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_de_Metz"
+  },
+  {
+   "nom": "Centre Pompidou-Metz",
+   "histoire": "Le Centre Pompidou-Metz est un établissement public de coopération culturelle d’art, situé entre le parc de la Seille et la gare.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20"
+   ],
+   "lat": 49.108286,
+   "lon": 6.181709,
+   "url": "https://fr.wikipedia.org/wiki/Centre_Pompidou-Metz"
+  },
+  {
+   "nom": "Gare de Metz-Ville",
+   "histoire": "La gare de Metz-Ville, dite gare de Metz, est une gare ferroviaire française près du centre-ville de Metz.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Connu aujourd’hui comme l’ancienne gare de Metz.",
+   "sources": [
+    "S25",
+    "S29"
+   ],
+   "lat": 49.1098,
+   "lon": 6.1772,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Metz-Ville"
+  },
+  {
+   "nom": "Hospice Saint-Nicolas",
+   "histoire": "L’Hospice Saint-Nicolas est le plus vieil hôpital de Metz.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30"
+   ],
+   "lat": 49.114,
+   "lon": 6.1783,
+   "url": "https://fr.wikipedia.org/wiki/Hospice_Saint-Nicolas"
+  },
+  {
+   "nom": "Amphithéâtre de Metz",
+   "histoire": "Le « grand amphithéâtre » de Metz est construit vers la fin du Ier siècle ou dans la première moitié du IIe siècle, dans le quartier du Sablon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Quartier du Sablon de Metz (et futur nouveau quartier de l’Amphithéâtre).",
+   "sources": [
+    "S39"
+   ],
+   "lat": 49.108941,
+   "lon": 6.180292,
+   "url": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_de_Metz"
+  },
+  {
+   "nom": "Chapelle de la Miséricorde de Metz",
+   "histoire": "La chapelle de la Miséricorde est un ancien édifice de culte catholique rue de la Chèvre à Metz, face à l’église Notre-Dame-de-l’Assomption.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Dans la cour du nouveau groupe scolaire Notre-Dame, subsiste la chapelle du pensionnat de la Miséricorde.",
+   "sources": [
+    "S40",
+    "S44"
+   ],
+   "lat": 49.116306,
+   "lon": 6.178242,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_de_la_Mis%C3%A9ricorde_de_Metz"
+  },
+  {
+   "nom": "Abbaye Saint-Clément de Metz",
+   "histoire": "L’abbaye Saint-Clément de Metz est un monastère de moines bénédictins installé à Metz du XIe siècle à 1791.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45"
+   ],
+   "lat": 49.12465,
+   "lon": 6.17597,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Cl%C3%A9ment_de_Metz"
+  },
+  {
+   "nom": "Musée de la Cour d'Or",
+   "histoire": "Le musée de La Cour d’Or est un musée d’art et d’histoire situé au centre de Metz, en Lorraine.",
+   "anecdotes": [
+    {
+     "texte": "Le musée a été baptisé musée de la Cour d’Or en 1988, en référence au palais des rois d’Austrasie dont il occupe le site historique présumé.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S52"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il est actuellement géré par la métropole de Metz.",
+   "sources": [
+    "S50",
+    "S52",
+    "S54"
+   ],
+   "lat": 49.1210028,
+   "lon": 6.1781,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Cour_d%27Or"
+  }
+ ],
+ "sources": [
+  "Metz, prononcé [mɛs] , est une commune française située dans le département de la Moselle. Préfecture de département, elle fait partie, depuis le 1er janvier 2016, de la région Grand Est, dont elle accueille les assemblées plénières. Metz et ses alentours, qui faisaient partie des Trois-Évêchés de 1552 à 1790, se trouvaient enclavés entre le duché de Luxembourg (jusqu'en 1659), la Lorraine ducale et le duché de Bar […]",
+  "Une situation de qualité et un site favorable expliquent le passé trois fois millénaire de Metz, qui naît et se développe au confluent de deux rivières, la Moselle et la Seille au rôle économique déterminant. À l’intérieur de cette zone de confluence, la butte du Haut de Sainte-Croix constitue le berceau de la ville. En 1882, un biface datant de 200 000 ans av. J.-C. a été découvert dans une sablière de […]",
+  "Ier siècle : Parmi les plus prestigieux, l’amphithéâtre, construit certainement à la fin du Ier siècle à l’emplacement de l’actuelle gare de marchandises, disposait de 25 000 places.",
+  "IIIe siècle : De la fin du IIIe siècle ou du début du IVe siècle date la construction de l’édifice connu sous le nom de basilique de Saint-Pierre-aux-Nonnains qui deviendra plus tard l’église de l’abbaye.",
+  "751 : C’est à Metz que naît la dynastie des Carolingiens, inaugurée par Pépin le Bref en 751, descendant de deux familles de l’aristocratie austrasienne : celles d’Arnoul, évêque de Metz (les Arnulfiens) et de Pépin de Landen, maire du palais (les Pépinides).",
+  "1324 : Après la guerre des Quatre Seigneurs opposant Jean Ier de Bohême, Baudouin de Luxembourg, Édouard Ier de Bar et Ferry IV de Lorraine à la cité messine (1324), Metz est de nouveau assiégée au cours de la guerre de la Hottée de pommes par Charles II de Lorraine, René d'Anjou et Bernard Ier de Bade en 1428, sans succès.",
+  "1533 : C'est dans ce climat d'insécurité durable que fut signé le 13 janvier 1533, un « traité d'amitié, union, alliance et confédération », entre le duc Antoine de Lorraine et la cité messine, traité ratifié en avril de la même année, par le cardinal Jean III de Lorraine.",
+  "1814 : Au cours des dernières campagnes de Napoléon Ier, à deux reprises en 1814 et 1815, la ville est assiégée par les forces coalisées.",
+  "1852 : En 1852, le chemin de fer arrive à Metz, ce qui entraîne de profonds changements territoriaux, après la création de la voie ferrée reliant Devant-les-Ponts au Sablon, et l'édification d'une nouvelle gare en dehors des remparts, en plus de celle de Metz-Nord.",
+  "1870 : La construction de ces forts n'est pas totalement achevée lorsqu'éclate la guerre en 1870.",
+  "1871 : Abandonnée par la majorité des députés français, y compris les députés lorrains de la Meurthe, qui ont voté à la quasi-unanimité sa cession, « la plus forte citadelle de la France » est rattachée au nouvel Empire allemand le 10 mai 1871, conformément au traité de Francfort.",
+  "1872 : Une école de guerre est ouverte en 1872.",
+  "1902 : En 1902-1903, l’architecte Conrad Wahn conçoit un plan d’urbanisme pour la Neue Stadt, l’empereur imposant ses conceptions architecturales pour les bâtiments publics.",
+  "1944 : Au cours du printemps et de l’automne 1944, Metz est bombardée par l’aviation alliée à plusieurs reprises, faisant de nombreuses victimes civiles.",
+  "Lieu « Cathédrale Saint-Étienne de Metz » : La cathédrale Saint-Étienne de Metz est la cathédrale catholique du diocèse de Metz, dans le département français de la Moselle en région Grand Est.",
+  "Lieu « Cathédrale Saint-Étienne de Metz », 1186 : Vers 1186, la collégiale Notre-Dame fut construite contre celle-ci, sans que l'on sache si un espace, même étroit fut laissé.",
+  "Lieu « Cathédrale Saint-Étienne de Metz », 1220 : Contrairement à de nombreuses sources mal interprétées, et en dépit de la volonté de l’évêque Conrad de Scharfenberg, l’édification de la cathédrale, dédiée à saint Étienne, n'est pas entreprise vers 1220 : il s'agit en fait de confirmations de prébendes de la Cathédrale.",
+  "Lieu « Cathédrale Saint-Étienne de Metz », XIVe siècle : Dans la seconde moitié du XIVe siècle, l’architecte Pierre Perrat lance l'édification des voûtes à 42 mètres du sol.",
+  "Lieu « Cathédrale Saint-Étienne de Metz », aujourd'hui : Comme nous l’apprend un passage de l’Histoire des Francs de Grégoire de Tours, rédigée vers 576, un sanctuaire dédié à Étienne (Oratorium beati Stephani) qui se trouvait à l’emplacement actuel de la cathédrale, fut le seul monument épargné par les Huns lors du sac de la cité le samedi saint 7 avril 451.",
+  "Lieu « Centre Pompidou-Metz » : Le centre Pompidou-Metz (CPM) est un établissement public de coopération culturelle d’art situé à Metz, entre le parc de la Seille et la gare.",
+  "Lieu « Centre Pompidou-Metz », 1977 : Elle proposait un double regard sur l’histoire du centre Pompidou parisien inauguré en 1977 et le projet du centre Pompidou-Metz.",
+  "Lieu « Centre Pompidou-Metz », 2006 : Ouverte au public en 2006, la maison du projet du centre Pompidou-Metz, aura accueilli en un peu plus de trois ans, plus de 100 000 visiteurs de 50 nationalités différentes jusqu’à sa fermeture, le 4 octobre 2009.",
+  "Lieu « Centre Pompidou-Metz », 2010 : Perçu comme élément fondateur du nouveau quartier de l’Amphithéâtre, il a ouvert ses portes le 12 mai 2010.",
+  "Lieu « Centre Pompidou-Metz », aujourd'hui : Parmi les œuvres présentées lors de l’inauguration, sont visibles La Femme à la guitare de Georges Braque, La Tristesse du roi d’Henri Matisse, L’Aubade, Nu couché et musicien de Pablo Picasso, Roue de bicyclette, de Marcel Duchamp, et le magasin de Ben, de Ben.",
+  "Lieu « Gare de Metz-Ville » : La gare de Metz-Ville, usuellement appelée gare de Metz, est une gare ferroviaire française, située à proximité du centre-ville de Metz, préfecture du département de la Moselle, en région Grand Est.",
+  "Lieu « Gare de Metz-Ville », 1850 : La première gare de Metz, construite provisoirement en bois, est une gare terminus, édifiée vers 1850 à l'extérieur des remparts de la ville, à l'emplacement actuel de la place du Roi-George.",
+  "Lieu « Gare de Metz-Ville », 1871 : Construite durant la première annexion allemande de l'Alsace et de la Moselle (1871-1918), la gare est inaugurée en 1908 par la Direction générale impériale des chemins de fer d'Alsace-Lorraine ; elle remplace l'ancienne gare de Metz, mise en service en 1878.",
+  "Lieu « Gare de Metz-Ville », 1975 : Le bâtiment voyageurs, pour ses façades et toitures (hors verrière), son salon d’honneur, le décor du buffet et son hall de départ, fait l’objet d’une inscription au titre des monuments historiques depuis le 15 janvier 1975.",
+  "Lieu « Gare de Metz-Ville », aujourd'hui : Ce sera la seconde gare de Metz, connue aujourd'hui comme l'ancienne gare de Metz.",
+  "Lieu « Hospice Saint-Nicolas » : L’hospice Saint-Nicolas est le plus vieil hôpital de Metz.",
+  "Lieu « Hospice Saint-Nicolas », XIe siècle : Attesté dès le XIe siècle, les bâtiments actuels datent du XIIIe siècle au XIXe siècle.",
+  "Lieu « Hospice Saint-Nicolas », XXe siècle : Au début du XXe siècle, une partie du bâtiment sert de centre d'examen d'apprentissage (forgeron entre autres).",
+  "Lieu « Hospice Saint-Nicolas », 2009 : Une partie de ses anciens bâtiments a abrité une agence du Pôle emploi (ANPE) jusqu'en 2009.",
+  "Lieu « Hospice Saint-Nicolas », aujourd'hui : La maladrerie Saint-Antoine dont les bâtiments occupaient un grand espace entre le quai Saint-Ferroy, actuellement de l’Arsenal (en 1868) et la rue des Jardins, recevait dans ses infirmeries pendant les XIe et XIIe siècles les individus atteints du mal des ardents ou feu sacré.",
+  "Lieu « Amphithéâtre de Metz » : L’amphithéâtre de Metz, dit « le grand amphithéâtre », est construit vers la fin du Ier siècle ou dans la première moitié du IIe siècle dans le quartier des basiliques de Divodurum Mediomatricorum en Gaule belgique, aujourd’hui quartier du Sablon de",
+  "Lieu « Amphithéâtre de Metz », IVe siècle : L’édification de la première enceinte de remparts de la ville à la fin du IIIe au IVe siècle laisse l’amphithéâtre extra-muros, sans marquer pour autant l’abandon du quartier : des vestiges du IVe siècle sont mis en évidence à l’intérieur et à l’extérieur de l’édifice.",
+  "Lieu « Amphithéâtre de Metz », 1614 : Une gravure de Chastillon de 1614 montre l’édifice en ruine ainsi qu’un plan de 1736.",
+  "Lieu « Amphithéâtre de Metz », 1902 : D’après les restes de l’enceinte et les murs retrouvés en 1902, l’édifice possédait 76 arcades et une série de 50 gradins.",
+  "Lieu « Amphithéâtre de Metz », aujourd'hui : L’amphithéâtre de Metz, dit « le grand amphithéâtre », est construit vers la fin du Ier siècle ou dans la première moitié du IIe siècle dans le quartier des basiliques de Divodurum Mediomatricorum en Gaule belgique, aujourd’hui quartier du Sablon de Metz (et futur nouveau quartier de l'Amphithéâtre).",
+  "Lieu « Chapelle de la Miséricorde de Metz » : La chapelle de la Miséricorde est un ancien édifice de culte catholique situé rue de la Chèvre à Metz dans le quartier de Metz-Centre face à l’église Notre-Dame-de-l'Assomption.",
+  "Lieu « Chapelle de la Miséricorde de Metz », XIIIe siècle : La chapelle a vraisemblablement été construite entre la fin du XIIe et le début du XIIIe siècle, mais cette salle voûtée n’avait apparemment pas pour vocation première d’être un lieu de culte.",
+  "Lieu « Chapelle de la Miséricorde de Metz », XIXe siècle : Cet édifice est l’unique vestige d’un ensemble bâti mal connu construit et modifié successivement aux XIIIe, XVIe et XIXe siècles.",
+  "Lieu « Chapelle de la Miséricorde de Metz », 1960 : Transformé en couvent-pensionnat par les sœurs de la Miséricorde, le site majoritairement construit à la Renaissance fait l’objet d’apports de style néo-Renaissance avant d’être détruit en quasi-totalité dans les années 1960-70 pour être remplacé par les immeubles de l’école primaire Notre-Dame.",
+  "Lieu « Chapelle de la Miséricorde de Metz », aujourd'hui : L’ancien site rue de la Chèvre est ainsi détruit en 1964 pour construire le nouveau groupe scolaire Notre-Dame dans la cour duquel subsiste la chapelle du pensionnat de la Miséricorde.",
+  "Lieu « Abbaye Saint-Clément de Metz » : L’ancienne abbaye Saint-Clément était un monastère de moines bénédictins installés à Metz du XIe siècle à 1791.",
+  "Lieu « Abbaye Saint-Clément de Metz », 1791 : L’ancienne abbaye Saint-Clément était un monastère de moines bénédictins installés à Metz du XIe siècle à 1791.",
+  "Lieu « Abbaye Saint-Clément de Metz », 1857 : Les bâtiments sont adaptés en collège jésuite de 1857 à 1870 et de 1919 à 1970, avec une extension importante, telle la chapelle Notre-Dame-du-Perpétuel-Secours, ornée de vitraux de Laurent-Charles Maréchal.",
+  "Lieu « Abbaye Saint-Clément de Metz », 1970 : Après le départ des Jésuites (1970) l’abbatiale Saint-Clément et les bâtiments construits au XVIIe siècle (dits 'du Pontiffroy') ont fait office jusqu'en 2015 d’hôtel de région pour le conseil régional de Lorraine.",
+  "Lieu « Abbaye Saint-Clément de Metz », aujourd'hui : L’évêque Adalbéron Ier de Metz reconstruira Saint-Félix qui accueille à partir de 946 des bénédictins venus de l’abbaye de Waulsort (aujourd'hui en Belgique).",
+  "Lieu « Musée de la Cour d'Or » : Le musée de La Cour d’Or est un musée d’art et d’histoire situé au centre de Metz, en Lorraine.",
+  "Lieu « Musée de la Cour d'Or », 1835 : Une collection d’histoire naturelle ancienne, constituée avant l’avènement de l’institution, par la société d’histoire naturelle de la Moselle fondée en 1835, est installée en 1841 dans deux salles spécifiques et y est toujours conservée mais n'est plus visible par le public.",
+  "Lieu « Musée de la Cour d'Or », 1839 : Fondé en 1839, il fut baptisé musée de la Cour d’Or en 1988, en référence au palais des rois d’Austrasie dont le musée occupe le site historique présumé.",
+  "Lieu « Musée de la Cour d'Or », 1839 : Le musée est fondé en mars 1839 et occupe un espace de 200 m2 dans un bâtiment rattaché à la bibliothèque municipale de la ville.",
+  "Lieu « Musée de la Cour d'Or », aujourd'hui : Le musée est actuellement géré par la métropole de Metz."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
