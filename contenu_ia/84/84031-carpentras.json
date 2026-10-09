@@ -1,0 +1,303 @@
+{
+ "commune": {
+  "titre": "Carpentras",
+  "code_insee": "84031",
+  "departement": "84",
+  "population": 31619,
+  "lat": 44.05583333,
+  "lon": 5.04888889,
+  "url": "https://fr.wikipedia.org/wiki/Carpentras"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:47:57",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3519,
+  "sortie": 2235
+ },
+ "cout_usd": 0.003498,
+ "accroche": "En 1357, Carpentras engage la construction de remparts qui doublent la superficie de la ville romane, marquant une période de grande prospérité.",
+ "histoire": {
+  "recit": "Sur une colline, Carpentras s’inscrit d’abord dans le réseau des échanges : après la conquête romaine, la ville garde un rôle de lieu d’échange entre l’Italie et le Nord de la Gaule, avant de devenir une cité latine puis un siège épiscopal qui alterne avec Venasque.\n\nAu XIVe siècle, l’enceinte change l’échelle de la ville : construite à partir de 1357, elle accompagne un essor démographique. Les siècles suivants donnent une autre couleur au centre : hôtels particuliers au XVIIIe siècle, et reconstruction de la synagogue en 1741, présentée comme la plus vieille aujourd’hui en France.\n\nCarpentras sait aussi préserver ses lieux marquants. L’Hôtel-Dieu naît déjà au milieu du XVIIIe siècle, mais son histoire remonte plus tôt : en 1360, un hôpital Saint-Pierre-aux-Grâces remplace une Domus Caritatis. La cathédrale, liée à une tradition remontant au VIe siècle, conserve encore une coupole romane. Enfin, la Graineterie Roux prolonge l’ingéniosité locale, tandis que l’Ange de la fontaine vit une chute retentissante en 1902.",
+  "chronologie": [
+   {
+    "date": "120 av. J.-C.",
+    "texte": "Après la conquête romaine, Carpentras conserve un rôle de lieu d’échange sur une route secondaire entre l’Italie et le Nord de la Gaule.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1357",
+    "texte": "Une enceinte est construite à partir de 1357 et double la superficie de la ville romane.",
+    "sources": [
+     "S4",
+     "S3"
+    ]
+   },
+   {
+    "date": "1741",
+    "texte": "La synagogue de Carpentras est reconstruite ; elle est donnée comme la plus vieille aujourd’hui en France.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1360",
+    "texte": "Un hôpital Saint-Pierre-aux-Grâces est fondé pour remplacer la Domus Caritatis, alors que l’Hôtel-Dieu est déjà en fonction.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "au milieu du XVIIIe siècle",
+    "texte": "L’Hôtel-Dieu de Carpentras est construit comme l’un des hôpitaux de la capitale du Comtat Venaissin.",
+    "sources": [
+     "S8",
+     "S10"
+    ]
+   },
+   {
+    "date": "1847",
+    "texte": "Un incendie détruit la quasi-totalité de la toiture de l’Hôtel-Dieu, ainsi qu’une partie de l’escalier et du hall d’honneur.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "L’Hôtel-Dieu est classé monument historique.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1902",
+    "texte": "En août 1902, des festivités s’ouvrent au son d’une canonnade, puis un socle s’effondre sur l’estrade le lendemain.",
+    "sources": [
+     "S45",
+     "S46"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "Le bâtiment de la Graineterie Roux est inscrit au titre des monuments historiques depuis l’arrêté du 9 septembre 2005.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôtel-Dieu de Carpentras",
+   "histoire": "Construit au milieu du XVIIIe siècle, l’Hôtel-Dieu de Carpentras fait partie des hôpitaux de la capitale du Comtat Venaissin. Il est ensuite frappé par un incendie en 1847, avant d’être classé monument historique en 1862.",
+   "anecdotes": [
+    {
+     "texte": "En 1847, l’incendie détruit la quasi-totalité de la toiture, et abîme aussi une partie de l’escalier et du hall d’honneur.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Classé monument historique dès 1862, ses locaux accueillent aujourd’hui la nouvelle Bibliothèque Inguimbertine en 2015.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 44.051620466296,
+   "lon": 5.0478047132492,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Carpentras"
+  },
+  {
+   "nom": "Graineterie Roux de Carpentras",
+   "histoire": "Fondée en 1907 au 34 rue Bel-Air à Carpentras, la Graineterie Roux poursuit une activité rare, celle des semences. En 1913, Albert Simon achète le moulin achevé deux ans plus tôt, puis le bâtiment est modifié en 1928.",
+   "anecdotes": [
+    {
+     "texte": "En 1913, Albert Simon achète le moulin de la rue Bel-Air à Carpentras, achevé deux ans plus tôt.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 44.05072,
+   "lon": 5.04283,
+   "url": "https://fr.wikipedia.org/wiki/Graineterie_Roux_de_Carpentras"
+  },
+  {
+   "nom": "Cathédrale Saint-Siffrein de Carpentras",
+   "histoire": "Ancienne cathédrale de Carpentras, la cathédrale Saint-Siffrein est associée à une tradition : la première cathédrale serait l’œuvre de l’évêque Siffrein au VIe siècle. L’édifice roman est attribué à Geoffroy de Garosse, et une construction gothique est ordonnée le 5 mai 1404.",
+   "anecdotes": [
+    {
+     "texte": "La tradition veut que l’évêque Siffrein, moine de Lérins, ait construit au VIe siècle une première cathédrale, sous l’invocation de saint Antoine l’Ermite.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "En plein Grand schisme d’Occident, Benoît XIII ordonne le 5 mai 1404 la construction d’un nouvel édifice gothique.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "De l’ancien édifice subsiste encore une coupole romane.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 44.05417,
+   "lon": 5.0472,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Siffrein_de_Carpentras"
+  },
+  {
+   "nom": "Hôtel de Camaret",
+   "histoire": "L’Hôtel de Camaret, aussi appelé hôtel de Thézan ou hôtel de Thézan-Camaret, est un hôtel particulier construit au milieu du XVIIIe siècle à Carpentras. Son architecture s’organise autour d’une cour et d’un jardin, avec un escalier monumental et des décors d’intérieur des XVIIIe et XIXe siècles. Au XIXe siècle, après affectation administrative, il devient l’hôtel de la Sous-Préfecture.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’Inventaire général du patrimoine culturel le désigne sous l’appellation « hôtel de Thezan ou de Camaret actuellement sous-préfecture ».",
+   "sources": [
+    "S27"
+   ],
+   "lat": 44.05472,
+   "lon": 5.04924,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Camaret"
+  },
+  {
+   "nom": "Collège de garçons de Carpentras",
+   "histoire": "Le collège des garçons de Carpentras est un ancien établissement d’enseignement géré par les jésuites, aujourd’hui utilisé comme maison des associations et espace culturel. La municipalité demande la création d’un collège en 1592, mais les travaux ralentissent et ne sont pas achevés en 1607. Les jésuites dirigent le collège jusqu’en 1768.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est aujourd’hui utilisé comme maison des associations et espace culturel.",
+   "sources": [
+    "S32"
+   ],
+   "lat": 44.05366667,
+   "lon": 5.046527778,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_de_gar%C3%A7ons_de_Carpentras"
+  },
+  {
+   "nom": "Beffroi de Carpentras",
+   "histoire": "Le beffroi de Carpentras domine la place de l’Horloge. Après un effondrement de la cathédrale Saint-Siffrein laissant la ville sans clocher, le conseil décide en 1572 de rehausser le campanile. Les travaux et l’installation de la cloche ont lieu en 1576, par Nicolas Clavis. L’ensemble survit à un incendie qui détruit la maison commune en 1713.",
+   "anecdotes": [
+    {
+     "texte": "À la suite de l’effondrement d’une partie de la cathédrale Saint-Siffrein, le conseil décide en 1572 de rehausser le campanile.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il est le dernier vestige de la première maison communale de la ville.",
+   "sources": [
+    "S37"
+   ],
+   "lat": 44.055464,
+   "lon": 5.047499,
+   "url": "https://fr.wikipedia.org/wiki/Beffroi_de_Carpentras"
+  },
+  {
+   "nom": "Couvent des Dominicains de Carpentras",
+   "histoire": "Le couvent des dominicains de Carpentras est un ancien couvent religieux, aujourd’hui utilisé comme office du tourisme et espace culturel. Construit extra-muros près de la porte Notre-Dame-du Grès, il est démoli en 1647. Le lieu est fermé en 1791, puis une communauté y revient de 1860 à 1903. Plus tard, le bâtiment devient théâtre et cinéma jusque dans les années 1960.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il est utilisé comme office du tourisme et espace culturel.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 44.052646,
+   "lon": 5.048631,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Dominicains_de_Carpentras"
+  },
+  {
+   "nom": "Fontaine de l'Ange (Carpentras)",
+   "histoire": "La fontaine de l’Ange est une fontaine publique de Carpentras. Implantée sur la place Charretier, elle se trouvait en 1713 à l’angle des rues Raspail, Porte d’Orange et de l’évêché, non loin de l’ancienne maison communale dont ne reste que la tour de l’horloge après un incendie.",
+   "anecdotes": [
+    {
+     "texte": "Le dimanche 31 août 1902, une canonnade ouvre les festivités ; le lendemain, le socle portant la statue de l’ange s’effondre sur l’estrade.",
+     "statut": "etabli",
+     "sources": [
+      "S45",
+      "S46"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Son emplacement initial n’était pas celui où on peut l’admirer aujourd’hui.",
+   "sources": [
+    "S47"
+   ],
+   "lat": 44.055278818757,
+   "lon": 5.0485436618328,
+   "url": "https://fr.wikipedia.org/wiki/Fontaine_de_l%27Ange_%28Carpentras%29"
+  }
+ ],
+ "sources": [
+  "Carpentras (prononcé : /kaʁpɑ̃tʁa/ ; anciennement /kaʁpɑ̃tʁɑs/) est une commune française, située dans le sud-est de la France dans le département de Vaucluse, dont elle est une sous-préfecture (avec Apt), en région Provence-Alpes-Côte d'Azur. La ville est sur une colline.",
+  "D'après Pline, le peuple qui occupe le secteur de Carpenctoracte sont les Meminii. Après la conquête romaine en 120 av. J.-C., la ville garde son rôle de lieu d'échange sur une route secondaire entre l'Italie et le Nord de la Gaule. Elle devient cité latine puis, au moment de la christianisation, accueille un siège épiscopal (ce siège alternera entre Carpentras et Venasque, en fonction des événements historiques). […]",
+  "XIVe siècle : Ce fut au cours de la seconde moitié du XIVe siècle que les remparts furent construits.",
+  "1357 : Carpentras connaît au XIVe siècle une période de grande prospérité avec un essor démographique important dont témoigne l'enceinte construite à partir de 1357 qui double la superficie de la ville romane.",
+  "1741 : En 1741 est reconstruite la synagogue de Carpentras, la plus vieille aujourd'hui en France.",
+  "XVIIIe siècle : Aux XVIIe et XVIIIe siècles, signe peut-être de la prospérité économique du Comtat Venaissin, de nombreux hôtels particuliers sont construits ou rénovés dans le goût de l'époque, lui donnant sa physionomie de ville classique qu'on lui connaît aujourd'hui.",
+  "1801 : Ce chapitre perdurera jusqu'à la suppression de l'évêché de Carpentras en 1801, logeant dans le quartier cathédral autour d'un cloître détruit à la fin des années 1820.",
+  "Lieu « Hôtel-Dieu de Carpentras » : L'hôtel-Dieu de Carpentras, construit au milieu du XVIIIe siècle, était l'un des hôpitaux de la capitale du Comtat Venaissin.",
+  "Lieu « Hôtel-Dieu de Carpentras », 1360 : Il était déjà en fonction, en 1360, quand fut fondé l'hôpital Saint-Pierre-aux-Grâces pour remplacer la Domus Caritatis.",
+  "Lieu « Hôtel-Dieu de Carpentras », XVIIIe siècle : L'hôtel-Dieu de Carpentras, construit au milieu du XVIIIe siècle, était l'un des hôpitaux de la capitale du Comtat Venaissin.",
+  "Lieu « Hôtel-Dieu de Carpentras », 1847 : Le plus grand dommage qu'il eut à subir fut un incendie qui se déclara en 1847 et détruisit la quasi-totalité de la toiture ainsi qu'une partie de l'escalier et du hall d'honneur.",
+  "Lieu « Hôtel-Dieu de Carpentras », aujourd'hui : Classé monument historique dès 1862, ses locaux accueillent aujourd'hui la nouvelle Bibliothèque Inguimbertine en 2015.",
+  "Lieu « Graineterie Roux de Carpentras » : La graineterie Roux de Carpentras, fondée en 1907, au 34 rue Bel-Air à Carpentras en Vaucluse, reste un exemple rare de l'industrie des semences, qui ne compte aujourd'hui[Quand ?] que cinq établissements de ce type en France, dont seulement deux aut",
+  "Lieu « Graineterie Roux de Carpentras », 1913 : En 1913, Albert Simon, négociant en graines à Sorgues, achète le moulin construit par Pierre Nicolas et achevé deux ans plus tôt rue Bel-Air à Carpentras.",
+  "Lieu « Graineterie Roux de Carpentras », 1928 : En 1928, toute la partie est du bâtiment est surélevée et une nouvelle façade est réalisée.",
+  "Lieu « Graineterie Roux de Carpentras », 2005 : Depuis l'arrêté du 9 septembre 2005, le bâtiment est inscrit au titre des Monuments historiques.",
+  "Lieu « Graineterie Roux de Carpentras », aujourd'hui : Cette étuve est utilisée pour tester la germination des graines, no 3 germinateur, en aluminium et en pierre fonctionne à l'électricité et fabriqué par la société de matériel horticole J.G. Tissot, no 4 germinateur Jacobsen, composé d'un bac en zinc rempli d'eau chauffée électriquement et dont il ne reste que 10 cloches.",
+  "Lieu « Cathédrale Saint-Siffrein de Carpentras » : La cathédrale Saint-Siffrein de Carpentras est une église catholique romaine qui fut l'ancienne cathédrale de la ville de Carpentras, dans le département de Vaucluse, en France.",
+  "Lieu « Cathédrale Saint-Siffrein de Carpentras », VIe siècle : La tradition veut que la première cathédrale, une nef unique à cinq travées, ait été construite par l'évêque Siffrein, moine de Lérins, au VIe siècle et placée sous l'invocation de saint Antoine l'Ermite.",
+  "Lieu « Cathédrale Saint-Siffrein de Carpentras », 1215 : L'édifice roman est attribué à l'évêque Geoffroy de Garosse, dont l'épitaphe, à demi effacée, donne la date de 1215.",
+  "Lieu « Cathédrale Saint-Siffrein de Carpentras », 1404 : Alors que la chrétienté était en plein dans le Grand schisme d'Occident, Benoît XIII ordonna, le 5 mai 1404, la construction d'un nouvel édifice gothique.",
+  "Lieu « Cathédrale Saint-Siffrein de Carpentras », aujourd'hui : De cet ancien édifice subsiste encore une coupole romane.",
+  "Lieu « Hôtel de Camaret » : L'hôtel de Camaret, également appelé hôtel de Thézan ou hôtel de Thézan-Camaret, est un hôtel particulier construit au milieu du XVIIIe siècle à Carpentras, dans le département français de Vaucluse.",
+  "Lieu « Hôtel de Camaret », XVIIIe siècle : L'hôtel de Camaret, également appelé hôtel de Thézan ou hôtel de Thézan-Camaret, est un hôtel particulier construit au milieu du XVIIIe siècle à Carpentras, dans le département français de Vaucluse.",
+  "Lieu « Hôtel de Camaret », XIXe siècle : L'édifice se distingue notamment par son organisation autour d'une cour et d'un jardin, par son escalier monumental et par plusieurs ensembles de gypseries et de décors intérieurs des XVIIIe et XIXe siècles.",
+  "Lieu « Hôtel de Camaret », XIXe siècle : Au XIXe siècle, après son affectation administrative, l'édifice devient couramment désigné comme l'hôtel de la Sous-Préfecture.",
+  "Lieu « Hôtel de Camaret », aujourd'hui : L'Inventaire général du patrimoine culturel désigne l'édifice sous l'appellation « hôtel de Thezan ou de Camaret actuellement sous-préfecture ».",
+  "Lieu « Collège de garçons de Carpentras » : Le collège des garçons de Carpentras est un ancien établissement d'enseignement, géré par les jésuites, aujourd'hui utilisé comme maison des associations et espace culturel.",
+  "Lieu « Collège de garçons de Carpentras », 1592 : En 1592, la municipalité demande aux dominicains, alors déjà installés à Carpentras, d'établir un collège, pour l'éducation des garçons de la ville.",
+  "Lieu « Collège de garçons de Carpentras », 1607 : Mais les travaux ralentissent, et la construction n'est pas achevé en 1607.",
+  "Lieu « Collège de garçons de Carpentras », 1768 : Les jésuites se sont occupés de la direction du collège jusqu’en 1768, date de leur exclusion du royaume de France par Louis XV.",
+  "Lieu « Collège de garçons de Carpentras », aujourd'hui : Le collège des garçons de Carpentras est un ancien établissement d'enseignement, géré par les jésuites, aujourd'hui utilisé comme maison des associations et espace culturel.",
+  "Lieu « Beffroi de Carpentras » : Le beffroi de Carpentras est un beffroi dominant la place de l'Horloge.",
+  "Lieu « Beffroi de Carpentras », 1572 : À la suite de l'effondrement d'une partie de la cathédrale Saint-Siffrein, la ville étant privée de clocher, le conseil décide en 1572 de rehausser le campanile.",
+  "Lieu « Beffroi de Carpentras », 1576 : Ses travaux et sa cloche n'ont été installés qu'en 1576 par Nicolas Clavis.",
+  "Lieu « Beffroi de Carpentras », 1713 : Un incendie a détruit la maison commune en 1713.",
+  "Lieu « Beffroi de Carpentras », aujourd'hui : Il est le dernier vestige de la première maison communale de la ville.",
+  "Lieu « Couvent des Dominicains de Carpentras » : Le couvent des dominicains de Carpentras est un ancien couvent religieux, aujourd'hui utilisé comme office du tourisme, et espace culturel.",
+  "Lieu « Couvent des Dominicains de Carpentras », 1647 : À l'époque de sa construction, le bâtiment se situait extra-muros, près de la porte Notre-Dame-du Grès, du nom d'un ancien monastère situé non loin, et démoli en 1647.",
+  "Lieu « Couvent des Dominicains de Carpentras », 1791 : Fermé en 1791, les religieux réinstallèrent une communauté dans les lieux, de 1860 à 1903.",
+  "Lieu « Couvent des Dominicains de Carpentras », 1960 : Après une vie religieuse, puis militaire, l'histoire du bâtiment se tourne vers une vie culturelle, en tant que théâtre et de cinéma, jusque dans les années 1960.",
+  "Lieu « Couvent des Dominicains de Carpentras », aujourd'hui : Le couvent des dominicains de Carpentras est un ancien couvent religieux, aujourd'hui utilisé comme office du tourisme, et espace culturel.",
+  "Lieu « Fontaine de l'Ange (Carpentras) » : La fontaine de l'Ange est une fontaine publique de Carpentras, dans le Vaucluse.",
+  "Lieu « Fontaine de l'Ange (Carpentras) », 1713 : Aujourd'hui implantée sur la place Charretier, entre la mairie et la synagogue, elle se situait alors à l'angle des rues Raspail, Porte d'Orange, et de l'évêché, non loin de l'ancienne maison communale de la ville, dont ne reste que la tour de l'horloge, à la suite d'un incendie en 1713.",
+  "Lieu « Fontaine de l'Ange (Carpentras) », 1902 : Dès 7 heures du matin, en ce dimanche 31 août 1902, une canonnade annonce l'ouverture des festivités : courses d’ânes, course régionale cycliste d'une vingtaine de kilomètres, championnat de lutte gréco-romaine et fête votive.",
+  "Lieu « Fontaine de l'Ange (Carpentras) », 1902 : Mais le lendemain matin, en ce lundi 1er septembre 1902, ce socle, supportant la statue de l'ange, s’effondra sur l'estrade.",
+  "Lieu « Fontaine de l'Ange (Carpentras) », aujourd'hui : Son emplacement initial n'était pas celui où l'on peut l'admirer, de nos jours."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}
