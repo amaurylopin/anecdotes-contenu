@@ -1,0 +1,274 @@
+{
+ "commune": {
+  "titre": "Le Havre",
+  "code_insee": "76351",
+  "departement": "76",
+  "population": 166687,
+  "lat": 49.49,
+  "lon": 0.1,
+  "url": "https://fr.wikipedia.org/wiki/Le_Havre"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:14:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3968,
+  "sortie": 1045
+ },
+ "cout_usd": 0.0021,
+ "accroche": "Le Havre est fondé le 8 octobre 1517 par François Ier, sur des marais, pour donner naissance à une ville de création récente. ",
+ "histoire": {
+  "recit": "Le Havre naît sur des marais le 8 octobre 1517, fondée par François Ier. Sa ville est pensée pour durer : au fil du temps, la fonction de défense est réaffirmée, le port est modernisé, et des remparts renforcés et une forteresse voient le jour. \n\nAu XVIe siècle, la naissance du pouvoir maritime s’accompagne d’entreprises spectaculaires : en 1529, un énorme vaisseau est construit, la « nau Françoise », achevée en 1533 ; pourtant, elle se révèle incapable de sortir du port, s’échoue, puis est démantelée sur place. \n\nPlus tard, l’histoire s’arrête net : les bombardements de 1944 marquent une césure, et la ville reprend corps avec une reconstruction confiée à Auguste Perret pour le centre-ville. \n\nAujourd’hui, le paysage havrais porte encore la trace de ces choix : le Grand port maritime du Havre donne sur la Manche, tandis que des repères comme la gare, la bibliothèque Oscar-Niemeyer, ou la Cathédrale Notre-Dame du Havre rappellent les étapes successives de la ville.",
+  "chronologie": [
+   {
+    "date": "8 octobre 1517",
+    "texte": "La ville du Havre est fondée par François Ier, construite sur des marais.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1517",
+    "texte": "La ville est une création relativement récente, avec un fort essor lié au dynamisme de son port.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1529",
+    "texte": "Il fait construire un énorme vaisseau, achevé en 1533, la « nau Françoise ».",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1533",
+    "texte": "La « nau Françoise » ne peut sortir du port, s’échoue, puis est démantelée sur place.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "La fonction de défense du Havre est réaffirmée et la modernisation du port débute, avec arsenal, bassin du Roy et remparts renforcés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Les bombardements de 1944 marquent une césure importante dans l’histoire de la ville et l’esprit de ses habitants.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1945 - 1964",
+    "texte": "Le centre-ville reconstruit du Havre est l’œuvre de l’architecte Auguste Perret.",
+    "sources": [
+     "S40"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centrale thermique du Havre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 49.47557,
+   "lon": 0.14829,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_thermique_du_Havre"
+  },
+  {
+   "nom": "Église Saint-Joseph du Havre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 49.4908626,
+   "lon": 0.1010656,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Joseph_du_Havre"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame du Havre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 49.487,
+   "lon": 0.1083,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_du_Havre"
+  },
+  {
+   "nom": "Grand port maritime du Havre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 49.49,
+   "lon": 0.1,
+   "url": "https://fr.wikipedia.org/wiki/Grand_port_maritime_du_Havre"
+  },
+  {
+   "nom": "Aplemont-Frileuse",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 49.51,
+   "lon": 0.159,
+   "url": "https://fr.wikipedia.org/wiki/Aplemont-Frileuse"
+  },
+  {
+   "nom": "Centre-ville reconstruit du Havre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 49.489056,
+   "lon": 0.115222,
+   "url": "https://fr.wikipedia.org/wiki/Centre-ville_reconstruit_du_Havre"
+  },
+  {
+   "nom": "Gare du Havre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 49.492665,
+   "lon": 0.125017,
+   "url": "https://fr.wikipedia.org/wiki/Gare_du_Havre"
+  },
+  {
+   "nom": "Bibliothèque Oscar-Niemeyer",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S50",
+    "S51",
+    "S52",
+    "S53",
+    "S54"
+   ],
+   "lat": 49.49056,
+   "lon": 0.10611,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_Oscar-Niemeyer"
+  }
+ ],
+ "sources": [
+  "Le Havre (/lə avʁ/) est une commune du nord-ouest de la France située dans le département de la Seine-Maritime en région Normandie. Elle se trouve sur la rive droite de l'estuaire de la Seine, au bord de la Manche. Son port est le deuxième de France après celui de Marseille pour le trafic total et le premier port français pour les conteneurs. Administrativement, la commune est, avec Dieppe, l'une des deux […]",
+  "Fondée le 8 octobre 1517 par François Ier, la ville du Havre est construite sur des marais. C'est une création relativement récente. Elle connait un fort essor démographique grâce au dynamisme de son port aux XVIIIe et XIXe siècles. Les bombardements de 1944 marquent une césure importante dans l'histoire de la ville et dans l'esprit de ses habitants. Aujourd'hui, les projets urbains et portuaires se multiplient pour […]",
+  "1517 : Fondée le 8 octobre 1517 par François Ier, la ville du Havre est construite sur des marais.",
+  "1529 : En 1529, il fait notamment construire un énorme vaisseau, achevée en 1533, auquel il donne son nom la « nau Françoise » qui incapable de sortir du port, après s'être échoué fut démantelé sur place.",
+  "1536 : En 1536, cette dernière est reconstruite en bois avec des piliers en pierres sous la direction de Guillaume de Marceilles.",
+  "XVIe siècle : La fonction de défense du Havre est réaffirmée et la modernisation du port débute au XVIe siècle, sur ordre du cardinal de Richelieu, gouverneur de la ville : l'arsenal et le bassin du Roy sont aménagés, les remparts sont renforcés et une forteresse est construite.",
+  "1574 : Celui-ci ordonne la construction d'une nouvelle citadelle qui est achevée en 1574.",
+  "1600 : Un premier temple protestant est construit au Havre en 1600 dans le quartier Sanvic, à l'emplacement du 85, rue Romain-Rolland.",
+  "1685 : Il sera détruit en 1685, à la révocation de l'édit de Nantes par Louis XIV.",
+  "1786 : Après le terrible incendie des 4 et 5 janvier 1786 Louis XVI approuve, lors de sa visite en juin suivant, le projet d'extension de la ville et c'est François Laurent Lamandé qu'il choisit pour se charger de multiplier par quatre la surface de la ville.",
+  "1800 : Une chambre de commerce est fondée en 1800 mais, à cause de la guerre contre la Grande-Bretagne et du blocus continental, l'activité du port se réduit et celle des corsaires s'accroît.",
+  "1850 : La période 1850-1914 constitue l'âge d'or du Havre ; en effet, hormis quelques années de dépression (guerre de Sécession, guerre franco-prussienne), le commerce explose et la ville s'embellit de constructions édilitaires (grands boulevards, hôtel de ville, palais de justice, nouvelle bourse).",
+  "1870 : Lors de la Guerre franco-allemande de 1870, la ville n'est pas occupée par l'armée prussienne qui a été bloquée aux portes de l'agglomération.",
+  "1889 : C'est en 1889 que le boulevard maritime est construit, dominé par la villa maritime.",
+  "Lieu « Centrale thermique du Havre » : La centrale thermique du Havre était une centrale électrique française fonctionnant au charbon et d'une puissance de 600 MW fermée en 2021.",
+  "Lieu « Centrale thermique du Havre », 1964 : La centrale a été construite entre 1964 et 1968 (tranches 1 et 2) par la R.E.T. II (Région d'Équipement Thermique II de Saint-Denis).",
+  "Lieu « Centrale thermique du Havre », 1974 : Dans le cadre de relations de solidarité internationales la centrale thermique du Havre sur initiative du syndicat CGT construit en 1974/1975 un jumelage avec la centrale thermique de Vilnius en Lituanie.",
+  "Lieu « Centrale thermique du Havre », 2021 : La centrale thermique du Havre était une centrale électrique française fonctionnant au charbon et d'une puissance de 600 MW fermée en 2021.",
+  "Lieu « Centrale thermique du Havre », aujourd'hui : Les deux cheminées en béton armé, d'un diamètre de 25 mètres à la base et de 12 mètres au sommet, sont hautes de 240 mètres, ce qui en fait actuellement (décembre 2013) la vingt-quatrième plus haute structure de France.",
+  "Lieu « Église Saint-Joseph du Havre » : L'église Saint-Joseph est une église paroissiale de culte catholique emblématique du centre-ville reconstruit du Havre dans le département français de la Seine-Maritime, en région Normandie.",
+  "Lieu « Église Saint-Joseph du Havre », 1944 : Monument représentatif de l'architecture moderne, cette église des « gens de mer » symbolise la renaissance de la ville détruite en 1944.",
+  "Lieu « Église Saint-Joseph du Havre », 1951 : Elle est reconstruite à partir de 1951 par Auguste Perret, architecte précurseur du béton armé.",
+  "Lieu « Église Saint-Joseph du Havre », 2005 : Elle est identifiée comme l'un des éléments remarquables de la ville reconstruite par Auguste Perret, bien inscrit au patrimoine mondial en 2005.",
+  "Lieu « Église Saint-Joseph du Havre », aujourd'hui : Sa tour-lanterne, qui domine du haut de ses 107 m l’ensemble des quartiers reconstruits, est tout à la fois un phare visible à des dizaines de kilomètres au large et une « stèle en mémoire des disparus ».",
+  "Lieu « Cathédrale Notre-Dame du Havre » : La cathédrale Notre-Dame du Havre ou cathédrale Notre-Dame-de-Grâce (anciennement la chapelle Notre-Dame-de-Grâce, la chapelle Notre-Dame du Havre-de-Grâce puis l'église Notre-Dame du Havre-de-Grâce) est la principale église de la ville et le siège d",
+  "Lieu « Cathédrale Notre-Dame du Havre », XVIe siècle : Après la succession de plusieurs édifices très modestes, l'actuelle église fut édifiée pour l'essentiel du dernier quart du XVIe siècle jusqu'au deuxième quart du XVIIe siècle.",
+  "Lieu « Cathédrale Notre-Dame du Havre », 1944 : Mais le plus important événement destructeur eut lieu pendant les bombardements du 5 septembre 1944 qui endommagèrent fortement l'édifice, causant sa destruction partielle.",
+  "Lieu « Cathédrale Notre-Dame du Havre », 2005 : Auguste Perret décida de sauver l'église et de l'inclure dans son plan de centre-ville presque complètement reconstruit, classé au patrimoine mondial de l'Unesco le 15 juillet 2005.",
+  "Lieu « Cathédrale Notre-Dame du Havre », aujourd'hui : Après plusieurs décennies de reconstruction et de nombreuses restaurations, l'état de l'édifice nécessite encore aujourd'hui d'importants travaux.",
+  "Lieu « Grand port maritime du Havre » : Le port du Havre est un port de commerce situé en France, donnant sur la Manche.",
+  "Lieu « Grand port maritime du Havre », 1934 : Créé en 1934, le port de plaisance du Havre, installé à l'Ouest du Port du Havre, est le premier port de plaisance de la Manche continentale avec une capacité de 1 300 places.",
+  "Lieu « Grand port maritime du Havre », 1965 : Vers 1965, la reconstruction est achevée avec le quai de Pondichéry (futur Jean-Reinhart).",
+  "Lieu « Grand port maritime du Havre », 1978 : Il convient en outre de noter que la réserve naturelle de l'estuaire de la Seine limitrophe du Havre a déjà beaucoup souffert de l'enfouissement dans son sol des déchets pétrolifères ramassés sur les côtes armoricaines à la suite du naufrage de l'Amoco Cadiz en 1978.",
+  "Lieu « Grand port maritime du Havre », aujourd'hui : Il fait actuellement l'objet d'un chantier de modernisation pour lequel notamment HAROPA PORT a entrepris des travaux d'électrification à quai.",
+  "Lieu « Aplemont-Frileuse » : Aplemont-Frileuse est un quartier de la ville du Havre, situé en ville haute, sur le plateau qui surplombe la ville basse dans sa partie sud en direction de l'estuaire de la Seine et est limité par la forêt de Montgeon au nord.",
+  "Lieu « Aplemont-Frileuse », 1611 : La seigneurie de Graville devient marquisat en 1611 puis est vendue au cardinal Richelieu en 1626.",
+  "Lieu « Aplemont-Frileuse », XIXe siècle : Jusqu'au XIXe siècle le plateau est essentiellement occupé par des fermes et des bois avant que plusieurs briquetiers ne s'y installent.",
+  "Lieu « Aplemont-Frileuse », 1944 : Les habitations d'avant-guerre furent en grande partie détruites pendant le bombardement allié qui précéda la libération de la ville en septembre 1944.",
+  "Lieu « Aplemont-Frileuse », aujourd'hui : Des traces archéologiques ont révélé une occupation humaine vers 11000 av. J.-C. Dès le Moyen Âge (XIe siècle), Aplemont-Frileuse possédait un donjon sur motte ou «motte féodale» appartenant au seigneur de Graville.",
+  "Lieu « Centre-ville reconstruit du Havre » : Le centre-ville reconstruit du Havre (1945 - 1964) est l'œuvre de l'architecte Auguste Perret (12 février 1874 - 25 février 1954) qui se vit confier par le ministère de la Reconstruction et de l'Urbanisme, la réédification de la ville du Havre après",
+  "Lieu « Centre-ville reconstruit du Havre », 1940 : Après l'armistice de juin 1940, la ville fut occupée par les Allemands qui y préparèrent une attaque contre le Royaume-Uni, ce qui entraîna de nouvelles destructions.",
+  "Lieu « Centre-ville reconstruit du Havre », 1945 : Pour cette ancienne rue commerçante, Auguste Perret travaille dès 1945 sur une typologie d’immeubles qui devait définir l’ensemble de la reconstruction de la ville (suivant le modèle des I.S.A.I. édifiés dans sa section nord entre 1947 et 1950).",
+  "Lieu « Centre-ville reconstruit du Havre », 1946 : Cependant le plan dit définitif - signé par Auguste Perret et adopté en janvier 1946 - est plus ouvert au compromis : sans perdre toute la dimension utopique des précédentes propositions, il va choisir de conserver l’agencement de la ville d’avant-guerre avec ses grands axes et leurs usages.",
+  "Lieu « Centre-ville reconstruit du Havre », aujourd'hui : Si le frottement aux réalités va conduire son projet sur des conceptions plus souples, la ville n’en gardera pas moins les traces de ces premières idées.",
+  "Lieu « Gare du Havre » : La gare du Havre est une gare ferroviaire française, terminus de la ligne de Paris-Saint-Lazare au Havre, située au croisement du boulevard de Strasbourg et du cours de la République, à proximité du centre-ville du Havre, grand port maritime et sous-",
+  "Lieu « Gare du Havre », 1847 : Le premier, dû à William Tite, est ouvert en 1847 ; il est détruit pour laisser la place, en 1882, à celui de Juste Lisch.",
+  "Lieu « Gare du Havre », 1883 : Les travaux se terminent avec l'ouverture de la gare d'arrivée en 1883.",
+  "Lieu « Gare du Havre », 1932 : La gare actuelle est constituée du bâtiment voyageurs d'Henri Pacon, ouvert en 1932 et de la grande halle verrière de 1882.",
+  "Lieu « Gare du Havre », aujourd'hui : L'emplacement choisi, sur la commune de Graville, pour l'implantation de la gare tient compte du projet d'agrandissement de la ville vers l'est.",
+  "Lieu « Bibliothèque Oscar-Niemeyer » : La bibliothèque Oscar Niemeyer est une bibliothèque située au 2, place Niemeyer au Havre.",
+  "Lieu « Bibliothèque Oscar-Niemeyer », 1961 : Il s’agit alors de concevoir de nouveaux locaux pour accueillir la maison de la culture du Havre, la première de France, inaugurée le 24 juin 1961 par André Malraux et jusqu’à lors hébergée dans le musée d’art moderne.",
+  "Lieu « Bibliothèque Oscar-Niemeyer », 1978 : Elle occupe une partie de l’ensemble architectural « Espace Oscar Niemeyer » construit par l’architecte du même nom entre 1978 et 1982 et rénové à partir de 2011 par l’agence d'architecture Dominique Deshoulières et Hubert Jeanneau auxquels est associée Françoise Sogno pour la bibliothèque.",
+  "Lieu « Bibliothèque Oscar-Niemeyer », 2015 : Inaugurée le 2 novembre 2015, elle a reçu le prix Livres Hebdo de l’Espace intérieur en 2016.",
+  "Lieu « Bibliothèque Oscar-Niemeyer », aujourd'hui : L'intérieur de la bibliothèque est également visible sur la pochette de l'album Toï Toï de la chanteuse Suzane."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,293 @@
+{
+ "commune": {
+  "titre": "Rouen",
+  "code_insee": "76540",
+  "departement": "76",
+  "population": 117662,
+  "lat": 49.4412,
+  "lon": 1.0912,
+  "url": "https://fr.wikipedia.org/wiki/Rouen"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:19:53",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3916,
+  "sortie": 2050
+ },
+ "cout_usd": 0.003346,
+ "accroche": "En avril 1200, la cathédrale de Rouen est la proie d’un incendie qui s’étend à la ville.",
+ "histoire": {
+  "recit": "Rouen, commune de la Seine-Maritime et chef-lieu de la région Normandie, est traversée par la Seine et compte 117 662 habitants en 2023. Le site est occupé dès l’âge du bronze par une présence attestée : une pirogue monoxyle datée d’environ 900 avant J.-C. laisse entrevoir une implantation au bord de l’eau. Plus tard, l’époque gallo-romaine voit un établissement se développer et devenir la capitale de la tribu des Véliocasses.\n\nAu tournant des siècles, la ville change de mains : en 890, Rollon, après une expédition menée par les Normands de Basse Seine, s’installe à Rouen. Rouen connaît ensuite des crises et des constructions qui la façonnent : un grand incendie atteint la cathédrale en 1200, la croissance se poursuit au XIIIe siècle sur le drap, puis des décisions politiques marquent la population au début du XIVe siècle.\n\nPlus près de nous, l’ancien Échiquier de Normandie devient le palais de justice, et la ville continue d’accueillir des institutions, comme l’école de chirurgie fondée en 1734 et, à l’ouest, l’Hôtel-Dieu ouvert en 1758.",
+  "chronologie": [
+   {
+    "date": "environ 900 avant J.-C.",
+    "texte": "Des découvertes archéologiques attestent une occupation celte, dont une pirogue monoxyle datée d’environ 900 avant J.-C. à la fin de l’âge du bronze.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "époque gallo-romaine",
+    "texte": "Un établissement se développe et devient la capitale de la tribu des Véliocasses, peuple celte de Gaule.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "juillet 885",
+    "texte": "La ville est de nouveau prise en juillet 885.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "890",
+    "texte": "En 890, Rollon s’installe à Rouen après des expéditions menées dans la vallée de la Seine et le pays environnant.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "avril 1200",
+    "texte": "En avril 1200, la cathédrale de Rouen est la proie d’un incendie qui s’étend à la ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Rouen connaît une croissance fondée notamment sur le drap.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1306",
+    "texte": "En 1306, Rouen perd 5 000 à 6 000 habitants à la suite de l’expulsion de la communauté juive décidée par Philippe le Bel, avec une installation antérieure dans la rue aux Juifs et la juiverie rouennaise.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1499",
+    "texte": "En 1499, l’échiquier permanent de Normandie est installé à Rouen par Georges d’Amboise.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1500",
+    "texte": "En 1500, dix imprimeries sont installées en ville.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1734",
+    "texte": "En 1734, une école de chirurgie est fondée.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1758",
+    "texte": "En 1758, le nouvel Hôtel-Dieu ouvre à l’ouest de la ville.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2023",
+    "texte": "En 2023, Rouen compte 117 662 habitants.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame de Rouen",
+   "histoire": "Monument majeur de Rouen, elle fait face à un incendie en avril 1200, puis connaît des transformations de sa flèche au fil du temps. Des vestiges plus anciens sont mentionnés sous la tombe du prélat.",
+   "anecdotes": [
+    {
+     "texte": "En 1822, la flèche en bois recouverte de plomb doré qui couronnait la cathédrale est détruite par un incendie allumé par la foudre.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Sous la tombe du prélat, des vestiges plus anciens sont découverts, constitués de quatre colonnettes, peut-être des bases d’un ciborium préroman.",
+   "sources": [
+    "S24",
+    "S20"
+   ],
+   "lat": 49.440269,
+   "lon": 1.094717,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Rouen"
+  },
+  {
+   "nom": "Musée des Beaux-Arts de Rouen",
+   "histoire": "Le musée est installé dans un édifice construit entre 1877 et 1888, puis fait l’objet de transformations, notamment une rénovation aboutissant à l’organisation actuelle en 1994.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il se situe au cœur de la ville, face au square Verdrel, et sa rénovation complète s’achève en 1994.",
+   "sources": [
+    "S18",
+    "S17",
+    "S16"
+   ],
+   "lat": 49.444722,
+   "lon": 1.094722,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Rouen"
+  },
+  {
+   "nom": "Palais de justice de Rouen",
+   "histoire": "Identifié comme l’ancien Échiquier de Normandie, le palais de justice conserve les étapes de construction : une première phase débute en 1499 et se poursuit jusqu’à 1508, puis l’édifice est agrandi au XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 49.4423195,
+   "lon": 1.0925603,
+   "url": "https://fr.wikipedia.org/wiki/Palais_de_justice_de_Rouen"
+  },
+  {
+   "nom": "Archidiocèse de Rouen",
+   "histoire": "L’archidiocèse est érigé comme archidiocèse métropolitain au Ve siècle et demeure une structure religieuse identifiée à Rouen.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’Annuaire diocésain de Rouen revendique le titre de primat de Normandie, sans valeur canonique.",
+   "sources": [
+    "S34",
+    "S31"
+   ],
+   "lat": 49.4402,
+   "lon": 1.09509,
+   "url": "https://fr.wikipedia.org/wiki/Archidioc%C3%A8se_de_Rouen"
+  },
+  {
+   "nom": "Hôtel de Bourgtheroulde",
+   "histoire": "Ancien hôtel particulier situé place de la Pucelle, il subit des dégâts pendant la « semaine rouge » puis un bombardement le 26 août 1944. Après avoir été occupé par une banque jusqu’à la fin 2006, il est restructuré en hôtel de luxe.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne subsistait que la porte cochère, quelques pilastres et les fenêtres de l’étage.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 49.442,
+   "lon": 1.08827,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Bourgtheroulde"
+  },
+  {
+   "nom": "Gare de Rouen-Rive-Droite",
+   "histoire": "La gare actuelle est associée à une gare mise en service en 1847, tandis que le bâtiment voyageurs fait l’objet d’une reconstruction de style Art nouveau inaugurée en 1928.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La station voyageurs est mise en service en 1847 à l’emplacement de la gare actuelle, et la gare de la rue Verte est décrite comme tel.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 49.448957,
+   "lon": 1.094115,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Rouen-Rive-Droite"
+  },
+  {
+   "nom": "Grand port maritime de Rouen",
+   "histoire": "Le port évolue dans son cadre institutionnel et dans ses aménagements, notamment avec un nouveau chenal ouvert en 1960. Son périmètre maritime est fixé par Voies navigables de France au pont Boieldieu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La limite du port fluvial est fixée au pont Boieldieu de Rouen, correspondant à peu près à l’emplacement du pont Mathilde du Moyen Âge.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 49.443889,
+   "lon": 1.103333,
+   "url": "https://fr.wikipedia.org/wiki/Grand_port_maritime_de_Rouen"
+  },
+  {
+   "nom": "Bureau des Finances de Rouen",
+   "histoire": "Édifice situé sur la place de la Cathédrale, il est décrit à travers ses phases d’implantation et ses usages : depuis 1959, il héberge l’office de tourisme de la Métropole Rouen Normandie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis 1959, le bâtiment héberge l’office de tourisme de la Métropole Rouen Normandie au numéro 26.",
+   "sources": [
+    "S53"
+   ],
+   "lat": 49.44055556,
+   "lon": 1.09333333,
+   "url": "https://fr.wikipedia.org/wiki/Bureau_des_Finances_de_Rouen"
+  }
+ ],
+ "sources": [
+  "Rouen [ʁuɑ̃, ʁwɑ̃ ] est une commune française, préfecture du département de la Seine-Maritime et chef-lieu de la région Normandie. Elle est traversée par la Seine. Comptant 117 662 habitants en 2023, elle est la trente-cinquième commune la plus peuplée de France et la deuxième de Normandie après Le Havre. En 2023, sa métropole compte 503 000 habitants. Elle est la commune la plus densément peuplée du Grand-Ouest […]",
+  "L'occupation celte du site de Rouen est attestée entre autres par la découverte archéologique d'une pirogue monoxyle datée d'environ 900 avant J.-C. à la fin de l'âge du bronze. Un établissement s'est développé à l'époque gallo-romaine pour devenir la capitale de la tribu des Véliocasses, peuple celte de Gaule, dont le territoire dans la vallée de la Seine s'étendait peut-être de Caudebec-en-Caux actuel à Briva […]",
+  "890 : La ville est de nouveau prise en juillet 885, et en 890, Rollon, après avoir pris part au siège de Paris, mène à la tête des Normands de Basse Seine une expédition contre le comte de Bayeux, et après avoir pillé Lisieux s'installe à Rouen après avoir conquis une grande partie du pays.",
+  "1200 : En avril 1200, la cathédrale de Rouen est la proie d'un incendie qui s'étend à la ville.",
+  "XIIIe siècle : Au XIIIe siècle, Rouen connaîtra une belle croissance, fondée notamment sur le drap.",
+  "1306 : En 1306, Philippe le Bel décida d'expulser la communauté juive de France et Rouen perdit 5 000 à 6 000 habitants reconnaissables à leur rouelle et installés dans la rue aux Juifs (vicus judaeorum) ou plus largement dans la juiverie rouennaise (terra judaeorum).",
+  "1431 : Malgré son nom, cette tour n'a pas été le lieu de l'emprisonnement de Jeanne d'Arc en 1431, même s'il semble que celle-ci y résida.",
+  "1499 : L'échiquier permanent de Normandie, installé à Rouen en 1499 par Georges d'Amboise, a été transformé en parlement par François Ier en 1515 et a été, jusqu'à la Révolution française, le lieu de pouvoir de la province.",
+  "1500 : En 1500, dix imprimeries sont installées en ville, seize ans après la première installation.",
+  "1562 : Les Anglais envoient, en vertu du traité d'Hampton Court signé le 20 septembre 1562 avec Condé, des troupes pour soutenir les protestants et occupent Le Havre.",
+  "1659 : Les oratoriens ont construit une église à partir de 1659, à la place de l'église Sainte-Barbe qu'ils occupaient.",
+  "1734 : En 1734, une école de chirurgie, la deuxième de France après Paris (1724), a été fondée.",
+  "1758 : En 1758 a ouvert le nouvel Hôtel-Dieu à l'ouest de la ville, qui remplace l'ancien situé au sud de la cathédrale, devenu trop petit.",
+  "1771 : En 1771, Rouen accueille, à la suite de la suppression (provisoire) du Parlement de Rouen, le 26 septembre 1771, l'un des deux « conseils supérieurs » prenant en charge le rôle judiciaire du Parlement ; l'autre est installé à Bayeux.",
+  "Lieu « Musée des Beaux-Arts de Rouen » : Le musée des Beaux-Arts de Rouen est un établissement muséographique situé dans le centre-ville de Rouen, en Normandie.",
+  "Lieu « Musée des Beaux-Arts de Rouen », 1877 : Installé dans un vaste édifice construit entre 1877 et 1888 par l'architecte Louis Sauvageot, le musée fait l'objet de quelques transformations tout au long des vicissitudes du XXe siècle.",
+  "Lieu « Musée des Beaux-Arts de Rouen », 1994 : L'actuelle organisation du bâtiment — qui abrite aussi une bibliothèque patrimoniale — découle ainsi d'une importante campagne de rénovation, qui s'est achevée en 1994.",
+  "Lieu « Musée des Beaux-Arts de Rouen », 1994 : Il se situe au cœur de la ville, face au square Verdrel, dans un bâtiment dont la rénovation complète s'est achevée en 1994.",
+  "Lieu « Musée des Beaux-Arts de Rouen », aujourd'hui : Cité en 1878 comme « le plus complet après celui de Paris », il compte aujourd'hui encore une collection d'une richesse et d'une ampleur considérées comme exceptionnelles.",
+  "Lieu « Cathédrale Notre-Dame de Rouen » : La cathédrale Notre-Dame, officiellement cathédrale primatiale Notre-Dame-de-l'Assomption de Rouen, est le monument le plus prestigieux de la ville de Rouen.",
+  "Lieu « Cathédrale Notre-Dame de Rouen », 1822 : La flèche en bois recouverte de plomb doré de style Renaissance qui la couronnait fut détruite par un incendie allumé par la foudre en 1822.",
+  "Lieu « Cathédrale Notre-Dame de Rouen », 1825 : Elle est à présent surmontée d'une flèche en fonte, construite de 1825 à 1876 qui culmine à 151 mètres de hauteur.",
+  "Lieu « Cathédrale Notre-Dame de Rouen », 1876 : La cathédrale Notre-Dame de Rouen est la plus haute de France et était le plus haut bâtiment du monde au moment de son achèvement en 1876, et le restera jusqu'en 1880, détrônée par la cathédrale de Cologne (157 mètres).",
+  "Lieu « Cathédrale Notre-Dame de Rouen », aujourd'hui : Sous la tombe du prélat, sont également découverts des vestiges plus anciens constitués de quatre colonnettes qui sont peut-être les bases d'un ciborium préroman.",
+  "Lieu « Palais de justice de Rouen » : Le palais de justice de Rouen, ancien Échiquier de Normandie, est un édifice de la ville de Rouen, situé dans le département français de la Seine-Maritime, en région Normandie.",
+  "Lieu « Palais de justice de Rouen », 1499 : Première étape de la construction de l'actuel palais de justice, cet édifice, correspondant actuellement au corps de bâtiment ouest, est construit entre 1499 et 1508 par les architectes Roger Ango et Roulland Le Roux.",
+  "Lieu « Palais de justice de Rouen », XIXe siècle : Le bâtiment sera agrandi au XIXe siècle vers les rues Jeanne-d'Arc et Socrate.",
+  "Lieu « Palais de justice de Rouen », 1977 : L'achèvement quasi complet de cette restitution minutieuse confirmera le classement de l'édifice au titre des monuments historiques en 1977 suivie par son inscription définitive en 1979.",
+  "Lieu « Palais de justice de Rouen », aujourd'hui : Le 3 mars 1494, les conseillers de la ville adoptent une résolution en vue de construire au Neuf Marché une grande salle, dénommée aujourd'hui Salle des Procureurs, où les marchands de la ville pourront se réunir.",
+  "Lieu « Archidiocèse de Rouen » : L'archidiocèse de Rouen (en latin : Archidioecesis Rothomagensis) est un archidiocèse métropolitain de l'Église catholique en France.",
+  "Lieu « Archidiocèse de Rouen », IIIe siècle : Érigé au IIIe siècle, le diocèse de Rouen est élevé au rang d'archidiocèse métropolitain au Ve siècle.",
+  "Lieu « Archidiocèse de Rouen », 1662 : La congrégation des Sœurs de l'Enfant Jésus – Providence de Rouen, fondée en 1662.",
+  "Lieu « Archidiocèse de Rouen », 1818 : La congrégation des sœurs de la Miséricorde, fondée à Rouen en 1818, absorbée en 1961 par la congrégation de la Providence de Lisieux.",
+  "Lieu « Archidiocèse de Rouen », aujourd'hui : Aujourd’hui encore, l’Annuaire diocésain de Rouen revendique le titre de primat de Normandie, mais il n'a pas de valeur canonique.",
+  "Lieu « Hôtel de Bourgtheroulde » : L'hôtel de Bourgtheroulde est un ancien hôtel particulier datant en grande partie du XVIe siècle, situé place de la Pucelle, dans le centre historique de Rouen.",
+  "Lieu « Hôtel de Bourgtheroulde », 1944 : Partiellement ravagé le 19 avril 1944 au cours de la « semaine rouge », le bâtiment voit les décors de son corps de logis anéantis par le bombardement du 26 août suivant, peu de temps avant la libération de la ville.",
+  "Lieu « Hôtel de Bourgtheroulde », 2006 : Cet ancien hôtel particulier fut occupé jusqu'à fin 2006 par une banque, le Crédit industriel de Normandie.",
+  "Lieu « Hôtel de Bourgtheroulde », 2010 : Il est ensuite restructuré en hôtel de luxe ; son ouverture date d'avril 2010.",
+  "Lieu « Hôtel de Bourgtheroulde », aujourd'hui : Il ne subsistait que la porte cochère, quelques pilastres et les fenêtres de l'étage.",
+  "Lieu « Gare de Rouen-Rive-Droite » : La gare de Rouen-Rive-Droite est une gare ferroviaire française de la ligne de Paris-Saint-Lazare au Havre.",
+  "Lieu « Gare de Rouen-Rive-Droite », 1843 : Le bâtiment est élaboré en 1843 par l'architecte britannique William Tite.",
+  "Lieu « Gare de Rouen-Rive-Droite », 1847 : La station, dite alors « de la rue Verte » en raison de sa proximité avec la voie éponyme, est inaugurée avec la ligne le 20 mars 1847.",
+  "Lieu « Gare de Rouen-Rive-Droite », 1928 : Le bâtiment voyageurs de style Art nouveau, inauguré en 1928, est inscrit au titre des monuments historiques en 1975.",
+  "Lieu « Gare de Rouen-Rive-Droite », aujourd'hui : La station voyageurs de la rue Verte, à l'emplacement de la gare actuelle, est mise en service en 1847 par la Compagnie du chemin de fer de Rouen au Havre.",
+  "Lieu « Grand port maritime de Rouen » : Au 1er juin 2021, le grand port maritime de Rouen est devenu HAROPA PORT, le grand port fluvio-maritime de l’axe Seine, conformément aux dispositions de l'ordonnance no 2021-604 du 19 mai 2021, résultant de sa fusion avec les ports du Havre et de Par",
+  "Lieu « Grand port maritime de Rouen », XIXe siècle : Il n'en subsiste que quelques immeubles datant du XIXe siècle et quelques autres, au-delà du pont Guillaume-le-Conquérant, bâtis également au XIXe et au XXe siècle et qui étaient des sièges de compagnies maritimes.",
+  "Lieu « Grand port maritime de Rouen », 1941 : La Seconde Guerre mondiale sera dramatique pour le port de Rouen : le trafic est réduit à néant pendant trois années consécutives (de 1941 à 1943) et la quasi-totalité des installations portuaires est détruite.",
+  "Lieu « Grand port maritime de Rouen », 1960 : Des progrès très importants sont réalisés grâce à l'aménagement du nouveau chenal de l'estuaire ouvert en 1960.",
+  "Lieu « Grand port maritime de Rouen », aujourd'hui : La limite du port fluvial définie par Voies navigables de France (VNF) est fixée au pont Boieldieu de Rouen, ce qui correspond à peu près à l'emplacement du pont Mathilde du Moyen Âge, limite traditionnelle entre le fluvial et le maritime.",
+  "Lieu « Bureau des Finances de Rouen » : Le bureau des Finances est un édifice situé sur la place de la Cathédrale de Rouen, dans le département français de la Seine-Maritime, en région Normandie.",
+  "Lieu « Bureau des Finances de Rouen », XIXe siècle : Au no 27 se trouve « La Civette », un débit de tabac installé depuis au moins le XIXe siècle.",
+  "Lieu « Bureau des Finances de Rouen », 1944 : Une première fois ravagé par un bombardement le 19 avril 1944, c'est le bombardement du 26 août, précédant la libération de la ville qui provoqua le plus de dégâts, anéantissant une partie des précieux décors de l'édifice.",
+  "Lieu « Bureau des Finances de Rouen », 1959 : Ancienne cour des aides puis bureau des finances, le bâtiment héberge depuis 1959 l'office de tourisme de la Métropole Rouen Normandie au no 26.",
+  "Lieu « Bureau des Finances de Rouen », aujourd'hui : C'est en 1509 que débutèrent sous l'impulsion du général des finances de Normandie, Thomas Bohier, les premiers travaux visant à la construction qui sera occupé par un bureau des finances."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIVe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
