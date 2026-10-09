@@ -1,0 +1,286 @@
+{
+ "commune": {
+  "titre": "Nevers",
+  "code_insee": "58194",
+  "departement": "58",
+  "population": 33085,
+  "lat": 46.992899,
+  "lon": 3.161659,
+  "url": "https://fr.wikipedia.org/wiki/Nevers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:46:21",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3712,
+  "sortie": 1883
+ },
+ "cout_usd": 0.003096,
+ "accroche": "À Nevers, la gare est mise en service le 5 octobre 1850, lors de l’ouverture à l’exploitation de Nérondes au Guétin et de l’embranchement du Guétin à Nevers.",
+ "histoire": {
+  "recit": "Nevers, chef-lieu de la Nièvre, a longtemps vécu au rythme de ses institutions et de ses chantiers. Sous le palais ducal, des vestiges gallo-romains témoignent que le site était déjà fréquenté bien avant les grandes constructions médiévales.\n\nLa ville a aussi connu des bascules brutales. En juillet 1940, Nevers passe en zone occupée, tandis que, le 16 juillet 1944, un bombardement touche légèrement l’aile gauche de l’ancienne caserne Pittié.\n\nAutour de ses lieux, l’histoire se lit par touches : l’église Saint-Sauveur, bâtie au XIe siècle, s’effondre puis est détruite en 1838 et n’en garde plus que le double portail latéral et un tympan ; la faïencerie de l’Autruche, fondée en 1619, laisse encore deviner ses fonctions de cuisson par les traces de tuyères. Plus loin, la présence de l’abbaye Notre-Dame et de l’espace Bernadette-Soubirous-Nevers rappelle combien Nevers a longtemps attiré les prières comme les visiteurs.",
+  "chronologie": [
+   {
+    "date": "VIe siècle",
+    "texte": "Le diocèse est établi à Nevers et un premier édifice dédié à saint Gervais et saint Protais est construit.",
+    "sources": [
+     "S30"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’église Saint-Sauveur est bâtie au XIe siècle et dépendait d’un prieuré de moines de Cluny.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1619",
+    "texte": "La faïencerie de l’Autruche est fondée à Nevers par Pierre Blanchet.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1838",
+    "texte": "L’église Saint-Sauveur s’effondre puis est détruite ; ses vestiges romans restent visibles place Mossé.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "5 octobre 1850",
+    "texte": "La gare de Nevers est mise en service lors de l’ouverture à l’exploitation du tronçon de Nérondes au Guétin et de l’embranchement du Guétin à Nevers.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "juillet 1940",
+    "texte": "Lors de la Seconde Guerre mondiale, Nevers passe en zone occupée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "16 juillet 1944",
+    "texte": "Le bombardement du 16 juillet 1944 touche légèrement l’aile gauche de l’ancienne caserne Pittié.",
+    "sources": [
+     "S26"
+    ]
+   },
+   {
+    "date": "milieu du XXe siècle",
+    "texte": "Une partie de l’abbaye Notre-Dame de Nevers est occupée par le Musée municipal dès le milieu du XXe siècle.",
+    "sources": [
+     "S42"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Nevers",
+   "histoire": "Une gare ferroviaire inscrite dans les lignes reliant notamment Moret-Veneux-les-Sablons à Lyon-Perrache, Nevers à Chagny et Clamecy à Nevers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4"
+   ],
+   "lat": 46.987246,
+   "lon": 3.15044,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Nevers"
+  },
+  {
+   "nom": "Église Saint-Sauveur de Nevers",
+   "histoire": "Ancienne église catholique, bâtie au XIe siècle, puis effondrée et détruite en 1838. Aujourd’hui, il n’en reste que le double portail latéral, un tympan sculpté et quelques éléments romans.",
+   "anecdotes": [
+    {
+     "texte": "En 1838, la ruine aboutit à une démolition presque complète, mais le double portail latéral et un tympan sculpté demeurent en place.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Saint-Sauveur, situé sur les quais à l’entrée du pont de Loire, sert aujourd’hui de remise à l’hôtel Saint-Louis.",
+   "sources": [
+    "S13",
+    "S12",
+    "S11"
+   ],
+   "lat": 46.9853,
+   "lon": 3.15748,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Sauveur_de_Nevers"
+  },
+  {
+   "nom": "Faïencerie de l'Autruche",
+   "histoire": "Ancienne manufacture de faïence fondée à Nevers en 1619 par Pierre Blanchet. Elle s’est agrandie, a été scindée, puis vendue avant de disparaître en partie.",
+   "anecdotes": [
+    {
+     "texte": "La trace des tuyères d’évacuation des gaz brûlants aide à imaginer les voûtes percées de carneaux, là où étaient préparées et cuite les pièces émaillées et décorées.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les deux étages ont disparu, mais les traces de tuyères et les indices de voûtes percées laissent deviner le fonctionnement ancien.",
+   "sources": [
+    "S18"
+   ],
+   "lat": 46.9852,
+   "lon": 3.15582,
+   "url": "https://fr.wikipedia.org/wiki/Fa%C3%AFencerie_de_l%27Autruche"
+  },
+  {
+   "nom": "Église Saint-Étienne de Nevers",
+   "histoire": "Église romane située à Nevers, construite de 1063 à 1097 et liée à l’installation des moines de Cluny à la suite d’une tentative de restauration d’un ancien oratoire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 46.991824,
+   "lon": 3.16417,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Nevers"
+  },
+  {
+   "nom": "Ancienne caserne Pittié de Nevers",
+   "histoire": "Ouvrage situé rue du 13e de ligne à Nevers. Elle a fonctionné comme caserne de 1880 à 1999 avant de devenir un site d’enseignement.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, un bombardement touche légèrement l’aile gauche de la caserne, en partie détruite près de l’entrée.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "En 2017, l’Institut de Formation en ergothérapie de Nevers s’est installé sur le site.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 46.990733,
+   "lon": 3.143717,
+   "url": "https://fr.wikipedia.org/wiki/Ancienne_caserne_Pitti%C3%A9_de_Nevers"
+  },
+  {
+   "nom": "Cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers",
+   "histoire": "Cathédrale catholique à Nevers. Des reliques sont transférées et un reliquaire néobyzantin inauguré en 1861 est mentionné. Des vestiges de temple gallo-romain dédié à Janus ont aussi été découverts lors de fouilles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice actuel comporte de nombreux vestiges sculptés au nord et au sud, et l’ensemble n’empêche pas d’autres phases de construction d’avoir été complexes.",
+   "sources": [
+    "S33",
+    "S32",
+    "S31"
+   ],
+   "lat": 46.987222,
+   "lon": 3.157222,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Cyr-et-Sainte-Julitte_de_Nevers"
+  },
+  {
+   "nom": "Espace Bernadette-Soubirous-Nevers",
+   "histoire": "Site de pèlerinage autour de sainte Bernadette. L’ancienne abbaye Saint-Gildard a connu l’édification de bâtiments et d’une grotte, puis un noviciat a subsisté jusqu’à une période autour des années 1970.",
+   "anecdotes": [
+    {
+     "texte": "Une grotte est érigée en 1884 à la demande de la supérieure générale de l’époque, maîtresse des novices de Bernadette.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S37",
+    "S38"
+   ],
+   "lat": 46.99235,
+   "lon": 3.15211,
+   "url": "https://fr.wikipedia.org/wiki/Espace_Bernadette-Soubirous-Nevers"
+  },
+  {
+   "nom": "Abbaye Notre-Dame de Nevers",
+   "histoire": "Ancienne abbaye de religieuses bénédictines située à Nevers. Fondée vers 624-630, elle conserve aujourd’hui plusieurs éléments patrimoniaux inscrits, et une partie a abrité le Musée municipal dès le milieu du XXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La grille d’entrée, le passage voûté et des éléments de l’abbaye sont inscrits aux monuments historiques le 18 août 1944.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une partie de l’abbaye est occupée par le Musée municipal depuis le milieu du XXe siècle.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 46.98583,
+   "lon": 3.154798,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_de_Nevers"
+  }
+ ],
+ "sources": [
+  "Nevers /nə.vɛʁ/ est une commune du centre de la France, située dans le département de la Nièvre, en Bourgogne, dans la région administrative Bourgogne-Franche-Comté. Nevers est le chef-lieu et la ville la plus peuplée du département de la Nièvre. Elle constitue également la cinquième plus grande ville de Bourgogne après Dijon, Chalon-sur-Saône, Mâcon et Auxerre. Capitale de la province du Nivernais sous l'Ancien […]",
+  "Il n'est pas certain que la place forte Noviodunum Aeduorum citée par César, place forte des Eduens, corresponde à Nevers. On cite souvent plutôt à ce sujet Neuvy-sur-Loire, à 80 km de là, également dans la Nièvre. On parle aussi de Nevirnum ou encore de Nebernum. Le nom vient de celui de la rivière Nièvre (Nivara, Nevara). Néanmoins, on note la présence de vestiges gallo-romains sous le palais ducal. Cette cité est […]",
+  "1940 : Lors de la Seconde Guerre mondiale en juillet 1940 Nevers passe en zone occupée.",
+  "Lieu « Gare de Nevers » : La gare de Nevers est une gare ferroviaire française des lignes de Moret-Veneux-les-Sablons à Lyon-Perrache, de Nevers à Chagny et de Clamecy à Nevers.",
+  "Lieu « Gare de Nevers », 1848 : La convention pour la pose de la voie et l'exploitation de cet embranchement est signée le 12 décembre 1848 par l'État et la Compagnie du Centre.",
+  "Lieu « Gare de Nevers », 1850 : Ouverte en 1850 par la Compagnie du chemin de fer du Centre, elle devient une gare de la compagnie du chemin de fer de Paris à Orléans (PO) avant d'être une gare de la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM) qui y crée un dépôt et des ateliers.",
+  "Lieu « Gare de Nevers », 1850 : La gare de Nevers est mise en service le 5 octobre 1850 par la Compagnie du chemin de fer du Centre, lors de l'ouverture à l'exploitation des 33 km cumulant le tronçon de Nérondes au Guétin et l'embranchement du Guétin à Nevers.",
+  "Lieu « Gare de Nevers », aujourd'hui : À Nevers, l'emplacement choisi est celui de l'étang de la Passière, qui est comblé, alors que le ruisseau de l'Aiguillon qui l'alimente est recouvert.",
+  "Lieu « Église Saint-Sauveur de Nevers » : L'église Saint-Sauveur est une ancienne église catholique située à Nevers, dans le département de la Nièvre, en France.",
+  "Lieu « Église Saint-Sauveur de Nevers », XIe siècle : Cette église, bâtie au XIe siècle, dépendait d'un prieuré occupé par des moines de Cluny.",
+  "Lieu « Église Saint-Sauveur de Nevers », 1838 : Effondrée puis détruite en 1838, ses vestiges romans sont encore visibles place Mossé tandis que le musée de la porte du Croux conserve de nombreux fragments lapidaires romans (tympan, chapiteaux...) distingués dès la seconde moitié du XIXe siècle par Mérimée et Viollet-le-Duc.",
+  "Lieu « Église Saint-Sauveur de Nevers », 1838 : Tombant en ruines, elle a été presque entièrement démolie en 1838 et ce qu'il en reste aujourd'hui se réduit au double portail latéral encore en place, à un tympan sculpté et à quelques chapiteaux et modillons.Le site est accessible tous les jours.",
+  "Lieu « Église Saint-Sauveur de Nevers », aujourd'hui : Saint-Sauveur, situé sur les quais, à l'entrée du pont de Loire, sert aujourd'hui de remise à l'hôtel Saint-Louis.",
+  "Lieu « Faïencerie de l'Autruche » : La faïencerie de l'Autruche est une ancienne manufacture de faïence fondée à Nevers en 1619 par Pierre Blanchet.",
+  "Lieu « Faïencerie de l'Autruche », 1619 : La faïencerie de l'Autruche est une ancienne manufacture de faïence fondée à Nevers en 1619 par Pierre Blanchet.",
+  "Lieu « Faïencerie de l'Autruche », 1654 : Ils s'agrandissent en mars 1654 en achetant la maison du Puits Georgeon mais la faïencerie est scindée en deux dès juin 1655, Pierre Custode puis son fils Jean conservant les bâtiments d'origine tandis qu'Esme Godin garde le Puits Georgeon.",
+  "Lieu « Faïencerie de l'Autruche », 1846 : Elle est vendue à Pierre Lancelot en 1846 et reprise par sa veuve François Pessin jusqu'en 1851.",
+  "Lieu « Faïencerie de l'Autruche », aujourd'hui : Les deux étages ont disparu mais la trace des tuyères d'évacuation des gaz brûlants vers les parties supérieures permet d'imaginer les voûtes percées de carneaux (trous) sur lesquelles étaient posées les pièces émaillées et décorées, au premier niveau, et les formes de terre crue, au second, pour une cuisson aux environs de 1 000 °C d'une durée de 2 à 4 jours.",
+  "Lieu « Église Saint-Étienne de Nevers » : L'église Saint-Étienne de Nevers est une église romane datant de la seconde moitié du XIe siècle, située dans la commune de Nevers en France.",
+  "Lieu « Église Saint-Étienne de Nevers », 1063 : L'église est construite de 1063 à 1097 ; à cette époque, l'abbé de Cluny Hugues de Semur envisage la construction de Cluny III - construction qui commence en 1088.",
+  "Lieu « Église Saint-Étienne de Nevers », 1065 : Après la tentative infructueuse de restauration de l'ancien oratoire fondé au VIIe siècle avec une communauté de chanoines, le vieil évêque Hugues et le comte Guillaume donnent les lieux aux moines de Cluny vers 1065.",
+  "Lieu « Église Saint-Étienne de Nevers », 1420 : En 1420 un incendie détruit les bâtiments du monastère, qui sont partiellement reconstruits au XVIIIe siècle.",
+  "Lieu « Église Saint-Étienne de Nevers », aujourd'hui : Le porche a été remplacé par un fronton de style grec puis les sculptures du portail disparurent.",
+  "Lieu « Ancienne caserne Pittié de Nevers » : La caserne Pittié est un ouvrage situé rue du 13e de ligne à Nevers, en France, qui a eu fonction de caserne de 1880 à 1999.",
+  "Lieu « Ancienne caserne Pittié de Nevers », 1930 : Dans les années 1930, une cité militaire composée de pavillons avec quatre logements chacun est construite le long de sa cloture Est.",
+  "Lieu « Ancienne caserne Pittié de Nevers », 1944 : Le bombardement du 16 juillet 1944 touche légèrement l'aile gauche du bâtiment situé à gauche de l'entrée dont une partie est détruite.",
+  "Lieu « Ancienne caserne Pittié de Nevers », 2017 : En 2017, c'est l'Institut de Formation en ergothérapie de Nevers qui s'est installé dans le site.",
+  "Lieu « Ancienne caserne Pittié de Nevers », aujourd'hui : Une première caserne existait à Nevers depuis 1777, à l'emplacement de l'actuelle place de la Résistance.",
+  "Lieu « Cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers » : La cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers est une cathédrale catholique située à Nevers dans la Nièvre en Bourgogne (France).",
+  "Lieu « Cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers », VIe siècle : Le diocèse est établi à Nevers au VIe siècle avec la construction d'un premier édifice dédié à saint Gervais et saint Protais.",
+  "Lieu « Cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers », 1861 : Conservées alors dans une boite modeste, les reliques sont en 1861 placées dans un magnifique reliquaire néobyzantin inauguré en grande pompe le 16 juin 1861, jour de la Saint-Cyr.",
+  "Lieu « Cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers », 1904 : Les vestiges d'un temple gallo-romain dédié à Janus ont été découverts vers 1904, lors de fouilles archéologiques au pied de l'édifice.",
+  "Lieu « Cathédrale Saint-Cyr-et-Sainte-Julitte de Nevers », aujourd'hui : L'édifice actuel comporte de nombreux vestiges notamment sculptés au nord et au sud, mais rien ne permet d'affirmer que ce transept ait été complètement terminé avant la reconstruction du chœur gothique au XIVe siècle après de nouveaux incendies en 1228 et 1308.",
+  "Lieu « Espace Bernadette-Soubirous-Nevers » : L’espace Bernadette-Soubirous-Nevers (antérieurement l’abbaye Saint-Gildard) est un site de pèlerinage autour de sainte Bernadette dans la Nièvre.",
+  "Lieu « Espace Bernadette-Soubirous-Nevers », VIIIe siècle : L'existence du prieuré est attestée à la fin du VIIe ou au début du VIIIe siècle : initialement consacré à saint Loup, probablement Loup de Troyes, un diacre qui avait converti le seigneur de La Charité-sur-Loire.",
+  "Lieu « Espace Bernadette-Soubirous-Nevers », 1856 : Est ainsi édifié à cet endroit au milieu du XIXe siècle ce qui devient la maison mère des Sœurs de la charité de Nevers et le noviciat associé : les nouveaux bâtiments sont bénis en juillet 1856 et la communauté s’y installe.",
+  "Lieu « Espace Bernadette-Soubirous-Nevers », 1884 : Une grotte est également érigée en 1884, cinq ans après la mort de Bernadette, à la demande de mère Marie-Thérèse Vauzou, alors supérieure générale et qui fut maîtresse des novices de Bernadette.",
+  "Lieu « Espace Bernadette-Soubirous-Nevers », aujourd'hui : Le noviciat subsiste jusque vers les années 1970.",
+  "Lieu « Abbaye Notre-Dame de Nevers » : L'Abbaye Notre-Dame de Nevers est une ancienne abbaye de religieuses bénédictines, située à Nevers, en France, et dépendant de l'ancienne province de Sens.",
+  "Lieu « Abbaye Notre-Dame de Nevers », 624 : L'abbaye fut fondée vers 624 - 630 par un moine, abbé de l'Abbaye Saint-Martin-des-Fossés, près de Paris : Théodulphe Babolène (Theodulfus Babelenus), qui avait assisté l'évêque de Nevers Rauracus dans l'accompagnement des derniers soupirs de Saint Austrégésile ou Outille, archevêque de Bourges.",
+  "Lieu « Abbaye Notre-Dame de Nevers », 1944 : La grille d'entrée sur la rue Saint-Genest, le passage voûté, l'orangerie, le porche de l'église abbatiale, le bâtiment de l'ancienne salle capitulaire, la salle Louis XIII et les remparts de la porte du Croux à la tour du Havre inclus ont été inscrits aux monuments historiques le 18 août 1944.",
+  "Lieu « Abbaye Notre-Dame de Nevers », XXe siècle : Une partie de l'abbaye est occupée par le Musée municipal dès le milieu du XXe siècle.",
+  "Lieu « Abbaye Notre-Dame de Nevers », aujourd'hui : Il fonda dans un lieu alors en dehors de l'enceinte de la ville, selon la règle de Saint-Colomban, sur l'emplacement présumé du martyre de Saint-Révérien, décapité en 274, une abbaye de filles qu'il plaça sous le vocable de Notre-Dame."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
