@@ -1,0 +1,266 @@
+{
+ "commune": {
+  "titre": "Rennes",
+  "code_insee": "35238",
+  "departement": "35",
+  "population": 230890,
+  "lat": 48.1159,
+  "lon": -1.6884,
+  "url": "https://fr.wikipedia.org/wiki/Rennes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:14:12",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3652,
+  "sortie": 1841
+ },
+ "cout_usd": 0.003032,
+ "accroche": "En 1720, un incendie détruit les trois quarts de la ville de Rennes, bouleversant son visage urbain.",
+ "histoire": {
+  "recit": "Rennes s’est installée au confluent de l’Ille et de la Vilaine. Longtemps associée à Condate, la ville a vu ses débuts être discutés: certaines sources évoquent une fondation liée aux Riedones, d’autres la situent plutôt au Ier siècle, sur la butte au-dessus du confluent.\n\nPlus tard, la protection se renforce: au IIIe siècle, des remparts sont érigés. Dans la ville antique, on observe aussi des consolidations des bâtiments dès la seconde moitié du Ier siècle.\n\nLe Moyen Âge et l’époque moderne laissent ensuite leurs traces. L’incendie de 1720 ravage une grande partie de Rennes, puis le Thabor devient le siège de l’évêché. Au centre-ville, l’église Notre-Dame-en-Saint-Melaine conserve un sanctuaire dédié à saint Melaine, considéré traditionnellement comme le premier évêque de Rennes.\n\nAu XXe siècle, la ville subit encore des ruptures: en 1932, un attentat détruit un monument niché dans la façade de la mairie, et en 1940 la ville est occupée à partir du 18 juin. Aujourd’hui, la gare, le Musée de Bretagne et Roazhon Park rappellent combien Rennes continue de se reconstruire.",
+  "chronologie": [
+   {
+    "date": "Vers le IIe siècle av. J.-C.",
+    "texte": "La ville serait fondée par la tribu des Riedones et prendrait le nom de Condate, lié au confluent.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Vers le Ier siècle",
+    "texte": "D’autres sources remettent en cause les interprétations et évoquent une fondation au Ier siècle, sur la butte au-dessus du confluent.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Vers le IIIe siècle",
+    "texte": "Des remparts sont érigés pour protéger la ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1720",
+    "texte": "Un incendie détruit les trois quarts de la ville.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "7 août 1932",
+    "texte": "Un attentat détruit un monument niché dans la façade de la mairie, symbole de l’union de la Bretagne à la France.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "À partir du 18 juin 1940",
+    "texte": "La ville est occupée par l’armée allemande.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Rennes",
+   "histoire": "La gare de Rennes est une gare ferroviaire située au sud du centre-ville de Rennes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8"
+   ],
+   "lat": 48.1033,
+   "lon": -1.6725,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Rennes"
+  },
+  {
+   "nom": "Centre de formation du Stade rennais FC",
+   "histoire": "Le centre de formation du Stade rennais FC forme des jeunes footballeurs et s’est structuré progressivement avec des équipes techniques et des bâtiments dédiés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.108037,
+   "lon": -1.710828,
+   "url": "https://fr.wikipedia.org/wiki/Centre_de_formation_du_Stade_rennais_FC"
+  },
+  {
+   "nom": "Condate Riedonum",
+   "histoire": "Condate Riedonum, aujourd’hui Rennes, est présenté comme le chef-lieu de la civitas des Riedones sous l’Empire romain.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S22"
+   ],
+   "lat": 48.111572,
+   "lon": -1.684148,
+   "url": "https://fr.wikipedia.org/wiki/Condate_Riedonum"
+  },
+  {
+   "nom": "Église Notre-Dame-en-Saint-Melaine de Rennes",
+   "histoire": "L’église Notre-Dame-en-Saint-Melaine est une église paroissiale dans le prolongement de la rue Saint-Melaine, au nord-est du centre de la ville médiévale. Son sanctuaire est dédié à saint Melaine, traditionnellement considéré comme le premier évêque de Rennes.",
+   "anecdotes": [
+    {
+     "texte": "Saint Melaine, traditionnellement premier évêque de Rennes, est présenté comme mort au VIe siècle et enterré sur la colline du Champ du Repos, où une abbaye lui est associée.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S27"
+   ],
+   "lat": 48.11472222,
+   "lon": -1.67305556,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-en-Saint-Melaine_de_Rennes"
+  },
+  {
+   "nom": "Parc du Thabor",
+   "histoire": "Le parc du Thabor, proche du centre-ville, est un parc public aménagé sur plus de dix hectares.",
+   "anecdotes": [
+    {
+     "texte": "À la suite du grand incendie de 1720, le Thabor devient le siège de l’évêché.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S32"
+   ],
+   "lat": 48.11416667,
+   "lon": -1.67,
+   "url": "https://fr.wikipedia.org/wiki/Parc_du_Thabor"
+  },
+  {
+   "nom": "Hôtel de Blossac",
+   "histoire": "L’hôtel de Blossac est un hôtel particulier situé dans le centre historique de Rennes et conserve une configuration classique avec deux logis séparés par une cour.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Sa configuration avec deux logis séparés par une cour existe encore aujourd’hui.",
+   "sources": [
+    "S37"
+   ],
+   "lat": 48.1114611,
+   "lon": -1.682125,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Blossac"
+  },
+  {
+   "nom": "Musée de Bretagne",
+   "histoire": "Le Musée de Bretagne est un musée de société et d’histoire installé depuis 2006 aux Champs libres, entre la gare et le centre-ville de Rennes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S41",
+    "S42"
+   ],
+   "lat": 48.105,
+   "lon": -1.67459,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Bretagne"
+  },
+  {
+   "nom": "Roazhon Park",
+   "histoire": "Le Roazhon Park est le principal stade de Rennes, propriété de la ville, utilisé par le Stade rennais FC.",
+   "anecdotes": [
+    {
+     "texte": "L’emplacement du Roazhon Park correspond à l’endroit où se trouvait la première tribune construite lors de l’inauguration du parc des sports en 1912.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Son emplacement correspond à celui de la première tribune du parc des sports inauguré en 1912.",
+   "sources": [
+    "S47"
+   ],
+   "lat": 48.1075,
+   "lon": -1.712778,
+   "url": "https://fr.wikipedia.org/wiki/Roazhon_Park"
+  }
+ ],
+ "sources": [
+  "Rennes (en gallo : Rene /rən/ ; en breton : Roazhon /ˈrwɑːzõn/) est une commune du nord-ouest de la France, chef-lieu du département d'Ille-et-Vilaine et de la région Bretagne. La ville se situe en Haute-Bretagne — partie orientale de la Bretagne — à la confluence de l'Ille et de la Vilaine. Située sur l'arc atlantique européen, Rennes compte 230 890 habitants intra-muros, ce qui fait d'elle la première ville de la […]",
+  "Vers le IIe siècle av. J.-C., la ville aurait été fondée par la tribu des Riedones qui choisit le site du confluent de l'Ille et de la Vilaine pour capitale, et prend le nom de Condate (ce qui signifie « confluent » en gaulois). D'autres sources, plus récentes, mettent en doute les interprétations passées, et indiquent une fondation au Ier siècle, sur la butte au-dessus du confluent (actuel emplacement de la […]",
+  "IIe siècle : Vers le IIe siècle av. J.-C., la ville aurait été fondée par la tribu des Riedones qui choisit le site du confluent de l'Ille et de la Vilaine pour capitale, et prend le nom de Condate (ce qui signifie « confluent » en gaulois).",
+  "IIIe siècle : Vers le IIIe siècle, des remparts sont érigés pour protéger la ville.",
+  "1720 : En 1720, un incendie détruit les trois quarts de la ville.",
+  "1932 : Le 7 août 1932, un attentat détruit le monument, niché dans la façade de la mairie, symbolisant l'union de la Bretagne à la France.",
+  "1940 : Durant la Seconde Guerre mondiale, la ville est occupée à partir du 18 juin 1940 par l'armée allemande.",
+  "Lieu « Gare de Rennes » : La gare de Rennes est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située au sud du centre-ville de Rennes, préfecture du département d'Ille-et-Vilaine et de la région Bretagne.",
+  "Lieu « Gare de Rennes », 1854 : Le chantier se poursuit avec les ouvertures de La Loupe à Nogent-le-Rotrou le 16 février 1854 et de Nogent-le-Rotrou au Mans le 1er juin 1854.",
+  "Lieu « Gare de Rennes », 1855 : Réalisé en 1855, il présente un bâtiment principal comprenant la billetterie et les salles d'attente, complété par deux ailes perpendiculaires, le fermant en U comme un château.",
+  "Lieu « Gare de Rennes », 1860 : Le bras sud de la Vilaine ne sera comblé qu’en 1860 pour créer le boulevard de la Liberté (boulevard de l’Impératrice de 1862 à 1870).",
+  "Lieu « Gare de Rennes », aujourd'hui : Plusieurs emplacements pour établir la gare de Rennes sont à l'étude.",
+  "Lieu « Centre de formation du Stade rennais FC » : Le centre de formation du Stade rennais FC est un centre de formation de football.",
+  "Lieu « Centre de formation du Stade rennais FC », 1987 : Peu à peu, le centre de formation se dote d'une équipe technique chargée d'encadrer ses pensionnaires, et la création d'un nouveau bâtiment est réalisée en 1987.",
+  "Lieu « Centre de formation du Stade rennais FC », 1987 : Construite en 1987, elle rend hommage par son nom à Isidore Odorico, ancien joueur et dirigeant du Stade rennais — à l'origine de l'adoption par le club du professionnalisme en 1932 — et président entre 1933 et 1938.",
+  "Lieu « Centre de formation du Stade rennais FC », 2007 : Un terrain synthétique installé en 2007 y est principalement destiné au centre de formation, de même que plusieurs terrains en herbe sont mis à la disposition des jeunes et de leur encadrement.",
+  "Lieu « Centre de formation du Stade rennais FC », aujourd'hui : Bien visibles avec l'intégration en équipe première de joueurs issus du centre, les progrès sont également mis en lumière par leur présence dans les équipes de France de jeunes.",
+  "Lieu « Condate Riedonum » : Condate Riedonum, aujourd'hui Rennes, était le chef-lieu de la civitas des Riedones sous l'Empire romain.",
+  "Lieu « Condate Riedonum », Ier siècle : Dès la seconde moitié du Ier siècle, on observe une consolidation des bâtiments, notamment la bétonisation des sols (ou l'application d'une couche de terre battue ou chape de mortier pour les bâtiments plus sommaires), qui sont ensuite recouverts de plancher.",
+  "Lieu « Condate Riedonum », IIIe siècle : Au IIIe siècle, une muraille est érigée, dont certaines parties subsistent encore dans les remparts de Rennes.",
+  "Lieu « Condate Riedonum », IIIe siècle : Enfin, au IIIe siècle, les édifices à plusieurs niveaux se multiplient: il s'agit de « grandes demeures, vastes entrepôts et de larges galeries commerciales [construits] à la place des petites boutiques et ateliers métallurgiques des Ier et IIe siècles ».",
+  "Lieu « Condate Riedonum », aujourd'hui : Condate Riedonum, aujourd'hui Rennes, était le chef-lieu de la civitas des Riedones sous l'Empire romain.",
+  "Lieu « Église Notre-Dame-en-Saint-Melaine de Rennes » : L'église Notre-Dame-en-Saint-Melaine (dénommée couramment Notre-Dame-en-Saint-Melaine) est aujourd'hui une église paroissiale située à Rennes — dans le prolongement de la rue Saint-Melaine, dans la partie nord-est du centre de la ville médiévale —, d",
+  "Lieu « Église Notre-Dame-en-Saint-Melaine de Rennes », VIe siècle : Le sanctuaire est dédié à saint Melaine, considéré traditionnellement comme le premier évêque de Rennes, qui mourut ici au VIe siècle, puis fut enterré sur la colline du Champ du Repos à Rennes, où fut construite l'abbaye Saint-Melaine.",
+  "Lieu « Église Notre-Dame-en-Saint-Melaine de Rennes », 1803 : Entre 1803 et 1844, la cathédrale Saint-Pierre située à Rennes, volontairement démolie à la fin du XVIIIe siècle et non encore reconstruite, n'était plus utilisable en tant que cathédrale ni comme sanctuaire.",
+  "Lieu « Église Notre-Dame-en-Saint-Melaine de Rennes », XIXe siècle : D'abord abbatiale, l'édifice servit de cathédrale durant la première moitié du XIXe siècle.",
+  "Lieu « Église Notre-Dame-en-Saint-Melaine de Rennes », aujourd'hui : L'église Notre-Dame-en-Saint-Melaine (dénommée couramment Notre-Dame-en-Saint-Melaine) est aujourd'hui une église paroissiale située à Rennes — dans le prolongement de la rue Saint-Melaine, dans la partie nord-est du centre de la ville médiévale —, dans le département français d'Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Parc du Thabor » : Le parc du Thabor, situé à proximité du centre-ville de Rennes dans le département français d'Ille-et-Vilaine en région Bretagne, est un parc public aménagé sur plus de dix hectares dont la particularité est de mêler un jardin à la française, un jard",
+  "Lieu « Parc du Thabor », 1720 : À la suite du grand incendie de 1720, le Thabor devint le siège de l’évêché.",
+  "Lieu « Parc du Thabor », 1826 : En 1826, la démolition de l’église Saint-Jean se trouvant à côté de Notre-Dame-en-Saint-Melaine, abandonnée depuis la Révolution, permet d’ouvrir l’actuelle entrée Saint-Melaine.",
+  "Lieu « Parc du Thabor », 1890 : Des statues du sculpteur rennais, Charles Lenoir, sont installées entre 1890 et 1895 ainsi que des copies de sculptures de Versailles qui furent présentées à Paris en 1889 avant d’être installées en 1895.",
+  "Lieu « Parc du Thabor », aujourd'hui : En 1901, le projet de l’ingénieur de la voirie Blin, adopté par la commission spéciale, permet de profiter de la forte déclivité du terrain pour y intégrer une cascade et aménager une entrée monumentale : on déplace une grande partie de l’ancien escalier de la promenade de la Motte (aujourd’hui square de la Motte).",
+  "Lieu « Hôtel de Blossac » : L’hôtel de Blossac est un hôtel particulier du XVIIIe siècle situé dans le centre historique de Rennes, en France.",
+  "Lieu « Hôtel de Blossac », 1624 : Cet hôtel est plus ancien que l'hôtel de Blossac (1624), et a été réutilisé dans la construction de l’édifice.",
+  "Lieu « Hôtel de Blossac », 1720 : L'hôtel de Brie (ou hôtel du Bois de la Motte) est, en 1720, une composition à partir de plusieurs édifices composant au préalable le manoir du petit Fontenay.",
+  "Lieu « Hôtel de Blossac », 1728 : Composé de deux ailes principales accolées, ce bâtiment, assorti de communs, est construit en 1728 à la suite de l'incendie de Rennes de 1720, sur un dessin supposé de Jacques Gabriel.",
+  "Lieu « Hôtel de Blossac », aujourd'hui : Sa configuration est classique par rapport aux constructions rennaises : deux logis sont séparés par une cour, l'un des deux donnant sur la rue ; ils existent toujours aujourd'hui.",
+  "Lieu « Musée de Bretagne » : Le musée de Bretagne est un musée de société et d'histoire installé depuis 2006 aux Champs libres, entre la gare et le centre-ville de Rennes, dans le département français d'Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Musée de Bretagne », 1805 : Entre 1805 et 1850, les collections du musée sont déplacées plusieurs fois : de l'église de la Visitation au couvent des Carmélites, puis à l’évêché jusqu'en 1815 ; elles rejoignent ensuite l'hôtel de ville, puis la chapelle de l'école de droit.",
+  "Lieu « Musée de Bretagne », 1855 : Un bâtiment destiné aux musées et aux facultés est ensuite construit en 1855, au niveau de l'actuel quai Émile Zola.",
+  "Lieu « Musée de Bretagne », 2006 : Le musée de Bretagne est un musée de société et d'histoire installé depuis 2006 aux Champs libres, entre la gare et le centre-ville de Rennes, dans le département français d'Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Musée de Bretagne », aujourd'hui : Conformément à l'appellation Musée de France, il mène des missions d'enrichissement et de conservation du patrimoine, d'étude de valorisation lié à l'histoire de la Bretagne et la société bretonne aujourd'hui.",
+  "Lieu « Roazhon Park » : Le Roazhon Park (anciennement Stade de la route de Lorient entre 1912-2015) est le principal stade de la ville de Rennes, chef-lieu du département d'Ille-et-Vilaine et de la région Bretagne.",
+  "Lieu « Roazhon Park », 1912 : Érigé en 1912, il est la propriété de la ville de Rennes et est utilisé par le Stade rennais FC.",
+  "Lieu « Roazhon Park », 1987 : La nouvelle construction qui prend sa place est inaugurée le 7 mars 1987, mais le club chutant de nouveau en deuxième division, le projet de trois autres tribunes similaires, envisagé au départ, est abandonné.",
+  "Lieu « Roazhon Park », 1999 : Entre 1999 et 2004, l'ensemble des tribunes sont rénovées ou entièrement reconstruites, ce qui lui permet d'accroître sensiblement sa capacité d'accueil, pour atteindre aujourd'hui près de 30 000 places assises.",
+  "Lieu « Roazhon Park », aujourd'hui : Son emplacement correspond à l'endroit où se trouvait la première tribune construite pour l'inauguration du parc des sports en 1912."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

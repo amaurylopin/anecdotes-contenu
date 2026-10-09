@@ -1,0 +1,309 @@
+{
+ "commune": {
+  "titre": "Saint-Malo",
+  "code_insee": "35288",
+  "departement": "35",
+  "population": 47439,
+  "lat": 48.6465,
+  "lon": -2.0066,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Malo"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:34:09",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3546,
+  "sortie": 2027
+ },
+ "cout_usd": 0.003243,
+ "accroche": "Le 16 janvier 423, lors du retrait de l’armée romaine, Alet subit de nombreuses attaques venues du Nord, avant que saint Malo n’aille de Cézembre à l’ermite Aaron.",
+ "histoire": {
+  "recit": "À Saint-Malo, l’histoire commence au sud du port, à la Cité d’Alet. Quand l’armée romaine se retire, le 16 janvier 423, Alet est frappée par des attaques venues du Nord. Plus tard, le secteur s’anime autrement : saint Malo, originaire du Pays de Galles, débarque à Cézembre puis rejoint l’ermite breton Aaron sur le rocher.\n\nLa ville devient ensuite un port tourné vers la mer. Au large, La Conchée, îlot rocheux fortifié, raconte les conflits : Saint-Malo y est un centre corsaire actif, puis un fort est édifié à partir de 1692 pour contrer les navires anglais. Le 14 juillet 1695, après deux jours de combats contre une flotte anglo-hollandaise, les vaisseaux anglais battent en retraite.\n\nPlus près des habitants, la gare et les quais suivent le mouvement : la voie ferrée vers Saint-Malo s’organise entre 1860 et 1864, et la gare change encore au fil du temps. En 1944, à la libération, des points de résistance allemands sont bombardés, dont la cité intra-muros. Et aujourd’hui, certains ouvrages, comme le fort de La Conchée, restent encore en cours de restauration.",
+  "chronologie": [
+   {
+    "date": "16 janvier 423",
+    "texte": "Lors du retrait de l’armée romaine, Alet, au sud du port actuel de Saint-Malo, subit de nombreuses attaques venues du Nord.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 538",
+    "texte": "Saint Malo, débarqué à Cézembre, rejoint l’ermite breton Aaron sur le rocher.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1689",
+    "texte": "Saint-Malo est alors un centre corsaire actif, ouvert sur la Manche.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "à partir de 1692",
+    "texte": "La Conchée est édifiée par Vauban pour s’opposer aux attaques des navires anglais.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "14 juillet 1695",
+    "texte": "Après deux jours de combat contre une flotte anglo-hollandaise, les vaisseaux anglais battent en retraite.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "Après avoir achevé la ligne de Paris à Rennes en 1858, la compagnie de l’Ouest exécute les travaux de la voie ferrée vers Saint-Malo entre 1860 et 1864.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1860-1864",
+    "texte": "Construction de l’embranchement vers Saint-Malo.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1864",
+    "texte": "Une ancienne gare édifiée en 1864 est ensuite détruite et remplacée.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "août 1944",
+    "texte": "À la libération de la ville, les points de résistance allemands sont bombardés par les Américains, dont la cité intra-muros.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1936",
+    "texte": "La piscine d’eau de mer de la plage de Bon-Secours est construite sur les plans de l’architecte Yves Hémar.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "octobre 2009",
+    "texte": "La gare est détruite en octobre 2009, malgré un débat autour de la décision.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "La gare est desservie par le TGV Atlantique et des trains TER Bretagne.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "La Conchée",
+   "histoire": "La Conchée est un îlot rocheux fortifié situé au large dans la baie de Saint-Malo. Son fort a été édifié à partir de 1692 par Vauban, pour s’opposer aux attaques des navires anglais.",
+   "anecdotes": [
+    {
+     "texte": "Le 14 juillet 1695, après deux jours de combat contre une flotte anglo-hollandaise, les vaisseaux anglais battent en retraite.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "À l’époque, Saint-Malo est un centre corsaire actif : La Conchée surveille la mer depuis l’îlot.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Le fort de La Conchée est encore en chantier : la sauvegarde avance, mais de nombreux travaux restent à faire.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La sauvegarde du fort est en bonne voie, mais il reste beaucoup de travaux pour restaurer l’ouvrage.",
+   "sources": [
+    "S9"
+   ],
+   "lat": 48.6836,
+   "lon": -2.04417,
+   "url": "https://fr.wikipedia.org/wiki/La_Conch%C3%A9e"
+  },
+  {
+   "nom": "Gare de Saint-Malo",
+   "histoire": "La gare de Saint-Malo dessert la ville sur la ligne de Rennes à Saint-Malo - Saint-Servan, en Bretagne. Les travaux de la voie ferrée vers Saint-Malo se font de 1860 à 1864, puis l’ancienne gare de 1864 est détruite et remplacée en 2005 à l’occasion de l’électrification pour l’arrivée du TGV Atlantique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, c’est une gare SNCF, desservie par le TGV Atlantique et des trains TER Bretagne.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 48.646584,
+   "lon": -2.003995,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Malo"
+  },
+  {
+   "nom": "Cathédrale Saint-Vincent de Saint-Malo",
+   "histoire": "La cathédrale Saint-Vincent de Saint-Malo, dédiée à saint Vincent de Saragosse, est une ancienne cathédrale catholique romaine. Au XIIIe siècle, le chœur est reconstruit en style gothique et une salle capitulaire est adjointe côté Sud.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S19"
+   ],
+   "lat": 48.64949,
+   "lon": -2.025648,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Vincent_de_Saint-Malo"
+  },
+  {
+   "nom": "Château de la Briantais",
+   "histoire": "Le château de la Briantais date de 1864 et se situe sur le territoire de l’ancienne commune de Saint-Servan, aujourd’hui Saint-Malo. Le domaine passe ensuite à la famille des Picot en 1770, avant la construction du château actuel entre 1850 et 1864.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château de la Briantais est un château datant de 1864 sur le territoire de l’ancienne commune de Saint-Servan, aujourd’hui Saint-Malo.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 48.61796,
+   "lon": -2.01273,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Briantais"
+  },
+  {
+   "nom": "Saint-Ideuc",
+   "histoire": "Saint-Ideuc est un quartier du nord-est de Saint-Malo. Le village aurait été fondé au VIe siècle par saint Samson, compagnon de saint Iltud (ou Ideuc), et, en 1881, une école pour fille y ouvre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.6628,
+   "lon": -1.9746,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Ideuc"
+  },
+  {
+   "nom": "Saint-Servan",
+   "histoire": "Saint-Servan est une ancienne commune rattachée à Saint-Malo le 30 octobre 1967, devenue un quartier. La tour Solidor y est construite entre 1379 et 1384, sous l’ordre du duc Jean IV, sur des fondations plus anciennes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 48.636111,
+   "lon": -2.014722,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Servan"
+  },
+  {
+   "nom": "Tour Solidor",
+   "histoire": "La tour Solidor est un donjon fortifié de 33 mètres bâti sur une avancée rocheuse au débouché de la Rance, dans le quartier de Saint-Servan. Sa construction est liée au contrôle de la Rance, à une époque où la ville de Saint-Malo est rebelle à l’autorité du duc Jean IV.",
+   "anecdotes": [
+    {
+     "texte": "On peut repérer à marée basse les vestiges d’une chaussée en pierre menant au port gallo-romain, avec un niveau de la mer 8 m plus bas qu’aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    },
+    {
+     "texte": "Le donjon est construit entre 1369 et 1382 pour contrôler la Rance, au moment où Saint-Malo se montre rebelle à l’autorité du duc Jean IV.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À marée basse, on repère les vestiges d’une chaussée en pierre menant au port gallo-romain.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 48.634,
+   "lon": -2.0261,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Solidor"
+  },
+  {
+   "nom": "Malouinière du Puits Sauvage",
+   "histoire": "La malouinière du Puits Sauvage est une malouinière située à Saint-Malo, au hameau de Saint-Étienne, au no 4 rue du Puits Sauvage. Elle est construite par l’architecte Michel Marion pour la famille Nouël de la Baronnie et s’inscrit dans les résidences de campagne des armateurs et corsaires malouins.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La malouinière est située dans le hameau de Saint-Étienne, sur l’ancienne route de Château-Malo, dans ce qui constituait autrefois la commune de Saint-Servan-sur-Mer, aujourd’hui intégrée à Saint-Malo.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 48.616647,
+   "lon": -1.978886,
+   "url": "https://fr.wikipedia.org/wiki/Malouini%C3%A8re_du_Puits_Sauvage"
+  }
+ ],
+ "sources": [
+  "Saint-Malo est une commune française située en Bretagne, dans le département d'Ille-et-Vilaine, et le principal port de la côte nord de Bretagne. Le secteur touristique y est également très développé. Autrefois cité de corsaires, la ville compte 47 439 habitants en 2023 appelés Malouins et Malouines.",
+  "Le site originel de l'agglomération malouine est la Cité d'Alet, située au sud du port actuel de Saint-Malo. Lors du retrait de l'armée romaine (le 16 janvier 423), Alet subit de nombreuses attaques venues du Nord. C'est ensuite que saint Malo, originaire de l'actuel Pays de Galles, débarqua à Cézembre (alors avant-port d'Aleth) puis rejoignit (vers 538), l'ermite breton Aaron sur le rocher où celui-ci s'était […]",
+  "1936 : En 1936, la piscine d'eau de mer de la plage de Bon-Secours à Saint-Malo est construite sur les plans de Yves Hémar, l'architecte de la ville.",
+  "1944 : Lors de la libération de la ville en août 1944, les points de résistance allemands sont bombardés par les Américains dont la cité intra-muros où, malgré des renseignements communiqués par des officiers de la Marine nationale française encore présents à Saint-Malo, ils pensent à tort que se trouve une importante garnison.",
+  "Lieu « La Conchée » : La Conchée (du latin conchea, « coquille », en référence au décor sculpté dans le calcaire de la fontaine) est un îlot rocheux fortifié situé au large dans la baie de Saint-Malo.",
+  "Lieu « La Conchée », 1689 : En 1689, Saint-Malo était alors un centre corsaire actif ouvert sur la Manche.",
+  "Lieu « La Conchée », 1692 : Il fut édifié par Vauban à partir de 1692 pour s’opposer aux attaques des navires anglais.",
+  "Lieu « La Conchée », 1695 : Le 14 juillet 1695, après deux jours de combat acharnés contre une flotte anglo-hollandaise d’une centaine de navires comprenant plusieurs galiotes équipées de mortier de 200 livres, deux brûlots ayant explosé sans succès contre le rempart Est, les vaisseaux anglais durent battre en retraite.",
+  "Lieu « La Conchée », aujourd'hui : La sauvegarde du fort est en bonne voie mais il reste encore beaucoup de travaux pour restaurer cet ouvrage.",
+  "Lieu « Gare de Saint-Malo » : La gare de Saint-Malo est une gare ferroviaire française de la ligne de Rennes à Saint-Malo - Saint-Servan, desservant la ville de Saint-Malo, dans le département d'Ille-et-Vilaine, en région Bretagne.",
+  "Lieu « Gare de Saint-Malo », 1858 : Après avoir achevée la ligne de Paris à Rennes en 1858, la compagnie de l'Ouest exécute les travaux de la voie ferrée de l'embranchement vers Saint-Malo de 1860 à 1864.",
+  "Lieu « Gare de Saint-Malo », 1864 : L'ancienne gare édifiée en 1864 est détruite et remplacée par une nouvelle en 2005, à l'occasion de l'électrification de la ligne pour l'arrivée du TGV Atlantique.",
+  "Lieu « Gare de Saint-Malo », 2009 : Cette décision est sujette à débat, mais la gare est détruite en octobre 2009.",
+  "Lieu « Gare de Saint-Malo », aujourd'hui : C'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF), desservie par le TGV Atlantique et des trains TER Bretagne.",
+  "Lieu « Cathédrale Saint-Vincent de Saint-Malo » : La cathédrale Saint-Vincent de Saint-Malo est une ancienne cathédrale catholique romaine dédiée à saint Vincent de Saragosse, située à Saint-Malo en Ille-et-Vilaine.",
+  "Lieu « Cathédrale Saint-Vincent de Saint-Malo », XIIIe siècle : Au XIIIe siècle, le chœur fut reconstruit en style gothique par l'évêque Geoffroy de Pontual et une salle capitulaire fut adjointe au côté Sud.",
+  "Lieu « Cathédrale Saint-Vincent de Saint-Malo », 1583 : Entre 1583 et 1607, le collatéral nord fut réalisé par Thomas Poussin, tandis que le transept nord fut agrandi et la tourelle d'escalier de la tour construite.",
+  "Lieu « Cathédrale Saint-Vincent de Saint-Malo », 1718 : La chapelle du Saint-Sacrement fut édifiée au sud en 1718 puis la tour du clocher fut surélevée et coiffée d'un dôme en ardoise.",
+  "Lieu « Cathédrale Saint-Vincent de Saint-Malo », aujourd'hui : Avant que Saint-Malo ne devienne siège épiscopal, il existait à l'emplacement de la cathédrale un petit monastère dédié à Saint Malo et dépendant de l'abbaye de Marmoutiers.",
+  "Lieu « Château de la Briantais » : Le château de la Briantais est un château datant de 1864 situé sur le territoire de l'ancienne commune de Saint-Servan aujourd'hui Saint-Malo, dans le département d'Ille-et-Vilaine, en Bretagne.",
+  "Lieu « Château de la Briantais », 1770 : Le domaine est ensuite vendu en 1770 à la famille des Picot, seigneurs de Prémesnil, autre puissante famille d'armateurs de Saint-Malo.",
+  "Lieu « Château de la Briantais », 1778 : Le domaine dispose d'un parc à l'anglaise de 27 hectares aménagé au XVIIIe siècle, orné de nombreuses statues et doté de plusieurs fabriques et dépendances telles qu'une chapelle de 1778, un temple de l'Amour et des communs de style néo-normand construits au cours du quatrième quart du XIXe siècle.",
+  "Lieu « Château de la Briantais », 1850 : Le château actuel est construit pour Eugène Sully-Brunet entre 1850 et 1864, en remplacement de l'ancien manoir mais pas tout à fait au même emplacement que celui-ci.",
+  "Lieu « Château de la Briantais », aujourd'hui : Le château de la Briantais est un château datant de 1864 situé sur le territoire de l'ancienne commune de Saint-Servan aujourd'hui Saint-Malo, dans le département d'Ille-et-Vilaine, en Bretagne.",
+  "Lieu « Saint-Ideuc » : Saint-Ideuc est un quartier du nord-est de la ville de Saint-Malo (Ille-et-Vilaine).",
+  "Lieu « Saint-Ideuc », VIe siècle : Le village aurait été fondé au VIe siècle par saint Samson, compagnon de saint Iltud (ou Ideuc).",
+  "Lieu « Saint-Ideuc », 1881 : En 1881, le bourg vit l'ouverture d'une école pour fille par le recteur Boissard.",
+  "Lieu « Saint-Ideuc », 1944 : En août 1944, lors de la libération de Saint-Malo, Saint-Ideuc était occupée par une garnison allemande de 160 hommes.",
+  "Lieu « Saint-Ideuc », aujourd'hui : Il aurait suivi son enseignement, comme saint Gildas et saint Paul Aurélien, dans le monastère de Llantwit Major qu'Iltud avait créé au royaume de Glamorgan (aujourd'hui comté) au Pays de Galles.",
+  "Lieu « Saint-Servan » : Saint-Servan est une ancienne commune française, qui a été rattachée avec Paramé le 30 octobre 1967 à la ville de Saint-Malo, dont elle est devenue un quartier (elle occupait l'actuel quartier de Saint-Servan-Solidor et les autres quartiers du sud).",
+  "Lieu « Saint-Servan », 1379 : La tour Solidor est édifiée entre 1379 et 1384 sur ordre du duc Jean IV sous la direction de son architecte Étienne Le Ture, sur les fondations de l'ancienne tour viking d'Oreigle.",
+  "Lieu « Saint-Servan », 1754 : Durant la guerre de Sept Ans, Saint-Servan est attaquée par les Britanniques, qui incendient 80 navires à Solidor le 4 juin 1754 et se replient sur Cancale.",
+  "Lieu « Saint-Servan », 2025 : Elle devient le siège d'un évêché (attesté à partir du VIIIe siècle) et est dotée d'une cathédrale (Saint-Pierre), construite à l'époque carolingienne en style roman, dont subsistent en 2025 le chœur et les soubassements.",
+  "Lieu « Saint-Servan », aujourd'hui : Elle est située sur l'emplacement de l'ancienne cité gallo-romaine d'Aleth.",
+  "Lieu « Tour Solidor » : La tour Solidor est un donjon fortifié de 33 mètres bâti sur une avancée rocheuse au débouché de la Rance dans la commune de Saint-Malo, quartier de Saint-Servan.",
+  "Lieu « Tour Solidor », IVe siècle : Cette tour comprenait un petit châtelet, transformé en corps de garde du nouvel ensemble et une enceinte fortifiée, elle-même construite sur des fortifications gallo-romaines datant du IVe siècle qui défendaient le port antique de la cité d'Aleth et dont il subsiste des vestiges dans le bastion d'entrée actuel.",
+  "Lieu « Tour Solidor », 1369 : Le donjon fut construit entre 1369 et 1382 sur ordre du duc Jean IV de Bretagne afin d'avoir un contrôle sur la Rance à une période où la ville de Saint-Malo est rebelle à son autorité.",
+  "Lieu « Tour Solidor », XXe siècle : L'aspect actuel de la tour est un peu différent de celui qu'il avait au début du XXe siècle, il ne subsiste en effet comme bâtiment que la tour et le corps de garde.",
+  "Lieu « Tour Solidor », aujourd'hui : On peut repérer à marée basse, les vestiges d'une chaussée en pierre qui menait au port gallo-romain, le niveau de la mer étant de 8 m plus bas qu'aujourd'hui.",
+  "Lieu « Malouinière du Puits Sauvage » : La malouinière du Puits Sauvage est une malouinière située à Saint-Malo, au hameau de Saint-Étienne, au no 4 rue du Puits Sauvage.",
+  "Lieu « Malouinière du Puits Sauvage », 1697 : L'édifice a été construit par l'architecte Michel Marion (1697-1761), architecte du roi, pour la famille Nouël de la Baronnie, famille d'armateurs descendant d'un neveu de Jacques Cartier.",
+  "Lieu « Malouinière du Puits Sauvage », 1729 : Construite entre 1729 et 1732 par l'architecte Michel Marion pour la famille Nouël de la Baronnie, elle constitue un exemple représentatif des résidences de campagne édifiées par les armateurs et corsaires malouins au XVIIIe siècle.",
+  "Lieu « Malouinière du Puits Sauvage », 1729 : La malouinière du Puits Sauvage a été édifiée en 1729 sur l'emplacement d'un ancien manoir datant du XVe siècle.",
+  "Lieu « Malouinière du Puits Sauvage », aujourd'hui : La malouinière est située dans le hameau de Saint-Étienne, sur l'ancienne route de Château-Malo, dans ce qui constituait autrefois la commune de Saint-Servan-sur-Mer, aujourd'hui intégrée à Saint-Malo."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
