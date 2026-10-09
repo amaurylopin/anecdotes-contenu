@@ -1,0 +1,364 @@
+{
+ "commune": {
+  "titre": "Valence (Drôme)",
+  "code_insee": "26362",
+  "departement": "26",
+  "population": 64458,
+  "lat": 44.9234,
+  "lon": 4.9164,
+  "url": "https://fr.wikipedia.org/wiki/Valence_%28Dr%C3%B4me%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:26:28",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3997,
+  "sortie": 2682
+ },
+ "cout_usd": 0.004152,
+ "accroche": "Le 31 août 1944, Valence est libérée par les FFI.",
+ "histoire": {
+  "recit": "Valence, préfecture de la Drôme, s’inscrit au cœur du couloir rhodanien. Autour de son quartier historique, la ville a vu ses murailles se renforcer, ses édifices religieux être transférés, détruits puis reconstruits.\n\nAu Ve siècle, la cité s’abrite derrière un rempart du Bas-Empire, avant que les Wisigoths s’en emparent puis que le Valentinois échoie au royaume franc en 533. Plus tard, l’abbaye Saint-Ruf, fondée en 1039, finit par être transférée à Valence, tandis que la cathédrale Saint-Apollinaire se construit dans le Vieux Valence.\n\nLes guerres de Religion marquent profondément la ville : en 1562, l’occupation par les troupes de François de Beaumont des Adrets endommage fortement la cathédrale et l’abbaye. La gare de Valence-Ville devient ensuite un carrefour ferroviaire, et le XXe siècle apporte des jours sombres : en août 1944, bombes et explosion d’un train allemand font de nombreuses victimes. La libération intervient le 31 août 1944. Plus récemment, le parc de l’Épervière est inauguré en 2016, au-dessus de ruines liées à l’ordre de Saint-Ruf.",
+  "chronologie": [
+   {
+    "date": "413",
+    "texte": "Les Wisigoths s’emparent de Valence.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "fin du Ve siècle",
+    "texte": "Les Burgondes dominent le bassin rhodanien.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "533",
+    "texte": "Le Valentinois échoit au royaume franc.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "La muraille romaine est surélevée par des murs construits en galets.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1039",
+    "texte": "Fondation de l’abbaye Saint-Ruf dans les faubourgs d’Avignon.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1158",
+    "texte": "L’abbaye Saint-Ruf est transférée à Valence.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1419",
+    "texte": "Le Valentinois est vendu, après le décès de Louis II, à Charles, dauphin puis roi de France.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "26 juillet 1452",
+    "texte": "Création de l’université de Valence par le dauphin Louis, futur Louis XI.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1562",
+    "texte": "Les troupes de François de Beaumont des Adrets occupent la ville et détruisent ou endommagent plusieurs édifices religieux, dont la cathédrale Saint-Apollinaire et l’abbaye Saint-Ruf.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "début du XVIIe siècle",
+    "texte": "Les chanoines reconstruisent leur abbaye autour de Saint-James ; l’abbaye de l’Épervière ne sera pas reconstruite.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1850",
+    "texte": "Inauguration du musée d’Art et d’Archéologie.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1er novembre 1854",
+    "texte": "La ligne de la petite vitesse est ouverte pour la gare de Valence-Ville.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "9 mai 1864",
+    "texte": "Valence devient une gare de bifurcation lors de l’ouverture de l’embranchement de Valence à Moirans.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "15 août 1944",
+    "texte": "Des bombes détruisent plusieurs quartiers et édifices, dont l’hôpital : 280 victimes.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "19 août 1944",
+    "texte": "Un train allemand chargé de nitroglycérine explose et détruit en grande partie La Palla : 335 victimes.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "31 août 1944",
+    "texte": "La ville est libérée par les FFI.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2016",
+    "texte": "Le parc de l’Épervière est inauguré et ouvert au public.",
+    "sources": [
+     "S23"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Valence-Ville",
+   "histoire": "Proche du centre, la gare de Valence-Ville dessert notamment les lignes de Paris-Lyon à Marseille-Saint-Charles et de Valence à Moirans. La ligne est ouverte au service de la petite vitesse le 1er novembre 1854. Le 9 mai 1864, Valence devient une gare de bifurcation avec l’embranchement vers Moirans, et un nouveau bâtiment voyageurs est mis en service en 1865.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 44.928055,
+   "lon": 4.892777,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Valence-Ville"
+  },
+  {
+   "nom": "Parc de l'Épervière",
+   "histoire": "Sur un site nommé l’Épervière, le parc s’étend sur 7 hectares. Avant l’arrivée d’un ordre, le lieu reste peu occupé, puis la grande abbaye de Saint-Ruf y est construite ; il n’en subsiste aujourd’hui que des ruines au sud du parc Jouvet. En 2016, le parc est inauguré et se tourne vers les perspectives offertes sur le Rhône et le massif de Crussol.",
+   "anecdotes": [
+    {
+     "texte": "Le chantier a soulevé, dans les années 1990, une question délicate : fallait-il tenir compte du potentiel archéologique du bâtiment dit « ferme de Saint-Ruf » ?",
+     "statut": "tradition_locale",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site est peu occupé, hormis par des pêcheurs, et ne conserve aujourd’hui que les ruines de la grande abbaye de Saint-Ruf au sud du parc Jouvet.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 44.913889,
+   "lon": 4.873611,
+   "url": "https://fr.wikipedia.org/wiki/Parc_de_l%27%C3%89pervi%C3%A8re"
+  },
+  {
+   "nom": "Clos Genest",
+   "histoire": "Le Clos Genest est un ensemble de maisons et un jardin construits à la fin du XIXe siècle et au début du XXe siècle par l’architecte Casimir Genest, pour son habitation personnelle et celle de sa famille. La villa Margot est construite en 1904 et d’autres bâtiments ont disparu plus tard ; il reste surtout la cité des Officiers et le clos Genest, inscrits au titre des monuments historiques depuis 1997.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il reste notamment la cité des Officiers et le clos Genest, inscrits au titre des monuments historiques depuis 1997.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 44.92494,
+   "lon": 4.90089,
+   "url": "https://fr.wikipedia.org/wiki/Clos_Genest"
+  },
+  {
+   "nom": "Cathédrale Saint-Apollinaire de Valence",
+   "histoire": "Dans le quartier historique du Vieux Valence, la cathédrale Saint-Apollinaire est le plus ancien monument de la ville. L’évêque Gontard impulse la construction en 1063. Au XVe siècle, une nouvelle chapelle est édifiée à la place de l’abside du transept sud, et la cathédrale est reconstruite au XVIIe siècle après avoir été détruite lors des guerres de Religion. Le clocher a été remplacé au XIXe siècle, après avoir été foudroyé. En 1281, la foudre touche déjà le clocher, remplacé alors par une flèche en charpente recouverte d’ardoises.",
+   "anecdotes": [
+    {
+     "texte": "En 1281, la foudre touche le clocher : il est remplacé par une flèche en charpente couverte d’ardoises.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle demeure le plus ancien monument de la ville de Valence.",
+   "sources": [
+    "S30",
+    "S34"
+   ],
+   "lat": 44.93167,
+   "lon": 4.88944,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Apollinaire_de_Valence"
+  },
+  {
+   "nom": "Chapelle des Capucins (Valence)",
+   "histoire": "Ancien lieu de culte catholique, aujourd’hui désaffecté, la chapelle des Capucins est l’unique vestige notable d’un couvent bâti entre 1620 et 1630. À la Révolution, le couvent est vendu comme bien national, puis les bâtiments conventuels sont transformés en hôpital, en service jusqu’aux années 1970.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Chapelle désaffectée.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 44.935381,
+   "lon": 4.8896,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_Capucins_%28Valence%29"
+  },
+  {
+   "nom": "Chapelle des Cordeliers (Valence)",
+   "histoire": "Ancien lieu de culte catholique aujourd’hui désaffecté, la chapelle des Cordeliers voit les Cordeliers s’installer à Valence au XIIe siècle. Le site est ruiné à deux reprises lors des guerres de Religion, puis reconstruit au XVIIe siècle. Plus tard, elle change de fonctions : magasin à fourrages, magasin de munitions, salle de réunions, puis après 1945 elle accueille les Archives départementales.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Chapelle désaffectée.",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 44.934983,
+   "lon": 4.892053,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_Cordeliers_%28Valence%29"
+  },
+  {
+   "nom": "Vieux Valence",
+   "histoire": "Vieux Valence est le quartier le plus ancien de la ville. C’est aussi là que se développe le noyau religieux : la cathédrale Saint-Apollinaire y est portée par l’évêque Gontard entre 1063 et 1099. Mais le quartier subit aussi les coups du XVIe siècle : la cathédrale est incendiée en 1562 et en 1567, puis reconstruite à partir de 1604, avant une nouvelle reconstruction au XVIIe siècle et un remplacement de clocher au XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Dans le quartier du Cire, un cirque aurait laissé un souvenir : « Siry » au Moyen Âge aurait conservé l’idée du lieu de spectacle.",
+     "statut": "legende",
+     "sources": [
+      "S49"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 44.93194,
+   "lon": 4.89083,
+   "url": "https://fr.wikipedia.org/wiki/Vieux_Valence"
+  },
+  {
+   "nom": "Hôtel de ville de Valence",
+   "histoire": "L’hôtel de ville de Valence, au 1, place de la Liberté, est l’actuelle mairie de la ville. Il est le fruit de la collaboration entre Henri Bertsch-Proust et Paul Bischoff et a été inauguré en 1894 par Jean-François Malizard, alors maire. Au XIXe siècle, il n’existait pas d’édifice spécifiquement construit pour les fonctions municipales. Des travaux ont connu un arrêt après la mise en place des fondations, pour réfléchir à un emplacement plus prestigieux.",
+   "anecdotes": [
+    {
+     "texte": "En 1998, Alain Robert escalade le bâtiment en solo intégral, à mains nues et sans cordes.",
+     "statut": "etabli",
+     "sources": [
+      "S53"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est l’actuelle mairie de la ville.",
+   "sources": [
+    "S50",
+    "S54"
+   ],
+   "lat": 44.93167,
+   "lon": 4.88944,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Valence"
+  }
+ ],
+ "sources": [
+  "Valence est une commune du sud-est de la France, préfecture du département de la Drôme, en région Auvergne-Rhône-Alpes. Elle est la ville la plus peuplée de la Drôme et la 8e d'Auvergne-Rhône-Alpes avec 64 458 habitants recensés en 2023 (132 749 habitants pour l'agglomération en 2023). Ses habitants sont dénommés les Valentinois. Située au cœur du couloir rhodanien et soumise à un climat méditerranéen, Valence est […]",
+  "Note : le gentilé correspondant à Valence est Valentinois, mais le « Valentinois » désigne aussi une région géographique, historique et l'une des anciennes provinces de France ayant fait partie de la province du Dauphiné. Le comté, devenu duché de Valentinois n'avait pas Valence pour capitale car cette ville était une possession des comtes-évêques de Valence. Il y avait donc le comté de Valence (capitale Valence), […]",
+  "533 : À l’aube du Ve siècle, la cité vit à l'abri du rempart érigé sous le Bas-Empire (construction encore visible au XIXe siècle).Les Wisigoths s'emparent de Valence en 413 ; les Burgondes sont maîtres du bassin rhodanien à la fin du Ve siècle ; le Valentinois échoit au royaume franc en 533.",
+  "IXe siècle : Au début du IXe siècle et peut-être avant, la muraille romaine est surélevée par des murs construits en galets.",
+  "1039 : La vie religieuse s'anime : l'abbaye Saint-Ruf, fondée en 1039 dans les faubourgs d'Avignon et chef d'ordre d'une importante congrégation de chanoines réguliers, est transférée à Valence en 1158; la cathédrale Saint-Apollinaire est construite Deux personnages importants se disputent le pouvoir sur la ville : l'évêque et le comte de Valentinois[réf. nécessaire].",
+  "1419 : En 1419 au décès de Louis II, qui en est le dernier comte, le Valentinois est vendu par ses héritiers, sa fille Louise de Poitiers (veuve de Humbert VII de Thoire et Villars) ou ses proches parents, à Charles, dauphin, puis roi de France (Charles VII).",
+  "1452 : Fondée le 26 juillet 1452 par le dauphin Louis, futur Louis XI, l'université de Valence s'est rapidement développée.",
+  "1562 : Cette époque s'achève brutalement en 1562 lors de l'occupation de la ville par les troupes du baron protestant des Adrets, François de Beaumont : tous les édifices religieux de Valence sont partiellement ou totalement détruits, dont la cathédrale Saint-Apollinaire et l'abbaye Saint-Ruf, toutes deux sérieusement touchées.",
+  "XVIIe siècle : L'abbaye de l'Épervière ne sera jamais reconstruite, les chanoines choisissant de reconstruire leur abbaye au début du XVIIe siècle autour de leur prieuré de Saint-James.",
+  "1850 : Le musée d'Art et d'Archéologie est inauguré en 1850, les boulevards remplacent les fossés militaires dès 1860 et l'hôtel de ville voit le jour en 1894.",
+  "1926 : On compte 827 Arméniens installés à Valence en 1926, 1 670 en 1931, venant de Brousse, Malatia et Kharpout.",
+  "1944 : Le 15 août 1944, les bombes détruisent plusieurs quartiers et édifices de la ville, dont l'hôpital (qui à l'époque était situé au bord du Rhône), faisant 280 victimes.",
+  "1944 : Quatre jours plus tard, le 19 août 1944, un train allemand chargé de nitroglycérine explose, détruisant en grande partie le quartier de La Palla et faisant 335 victimes parmi les civils, les militaires et les résistants.",
+  "1944 : La ville est libérée le 31 août 1944 par les FFI.",
+  "Lieu « Gare de Valence-Ville » : La gare de Valence-Ville est une gare ferroviaire française des lignes de Paris-Lyon à Marseille-Saint-Charles et de Valence à Moirans, située à proximité du centre de la ville de Valence, préfecture du département de la Drôme, en région Auvergne-Rhô",
+  "Lieu « Gare de Valence-Ville », 1854 : Le 1er novembre 1854, la ligne est ouverte au service de la petite vitesse.",
+  "Lieu « Gare de Valence-Ville », 1864 : Valence devient une gare de bifurcation le 9 mai 1864, lors de l'ouverture de l'embranchement de Valence à Moirans par la Compagnie du PLM.",
+  "Lieu « Gare de Valence-Ville », 1865 : En 1865, un nouveau bâtiment voyageurs, dû à l'architecte Louis-Jules Bouchot, est mis en service.",
+  "Lieu « Gare de Valence-Ville », aujourd'hui : Les autorités locales ne sont pas opposées à ce projet qui peut favoriser le développement de la ville mais s'inquiètent des problèmes posés par le passage de la ligne et le choix de l'emplacement de la gare.",
+  "Lieu « Parc de l'Épervière » : Le parc de l'Épervière est un parc de 7 ha situé sur le site de l'Épervière à Valence, dans le département de la Drôme.",
+  "Lieu « Parc de l'Épervière », 1990 : Dans les années 1990, la démolition des friches industrielles situées au sud de la ville pose la question du bâtiment dit « ferme de Saint-Ruf », et de son potentiel archéologique.",
+  "Lieu « Parc de l'Épervière », 2016 : Inauguré en 2016, le parc offre de nouvelles perspectives sur le Rhône, le massif de Crussol et son château.",
+  "Lieu « Parc de l'Épervière », 2016 : Le 26 juin 2016, le nouveau parc de l'Épervière est inauguré et ouvert au public.",
+  "Lieu « Parc de l'Épervière », aujourd'hui : Le site de l’Épervière est alors très peu occupé, hormis par des pêcheurs, jusqu’à l’arrivée de l’ordre et la construction de la grande abbaye de Saint-Ruf dont il ne subsiste aujourd’hui que les ruines, au sud du parc Jouvet.",
+  "Lieu « Clos Genest » : Le Clos Genest est un ensemble de maisons et un jardin construits à la fin du XIXe siècle et au début du XXe siècle par l’architecte Casimir Genest (1846-1918) à Valence (Drôme) pour en faire son habitation personnelle et celle de sa famille.",
+  "Lieu « Clos Genest », 1846 : Le Clos Genest est un ensemble de maisons et un jardin construits à la fin du XIXe siècle et au début du XXe siècle par l’architecte Casimir Genest (1846-1918) à Valence (Drôme) pour en faire son habitation personnelle et celle de sa famille.",
+  "Lieu « Clos Genest », 1904 : La villa Margot est construite en 1904, pour le mariage de Marguerite, fille de Casimir Genest.",
+  "Lieu « Clos Genest », 1920 : Deux autres bâtiments, le Castelet et la villa des Violettes, qui devint dans les années 1920 la clinique Saint-Joseph, ont été détruits.",
+  "Lieu « Clos Genest », aujourd'hui : De ses réalisations architecturales, marquées de l’éclectisme de son temps, il reste peu de témoignages : la cité des Officiers et le clos Genest, inscrites au titre des monuments historiques depuis 1997.",
+  "Lieu « Cathédrale Saint-Apollinaire de Valence » : La cathédrale Saint-Apollinaire de Valence est le plus ancien monument de la ville de Valence dans le département de la Drôme.",
+  "Lieu « Cathédrale Saint-Apollinaire de Valence », 1063 : L'évêque Gontard (1063–1099) impulse la construction de cet édifice dans le quartier historique du Vieux Valence.",
+  "Lieu « Cathédrale Saint-Apollinaire de Valence », XVe siècle : Au XVe siècle, une nouvelle chapelle est édifiée à la place de l'abside du transept sud (c'est l'actuelle sacristie).",
+  "Lieu « Cathédrale Saint-Apollinaire de Valence », XVIIe siècle : Détruite lors des guerres de Religion, la cathédrale est reconstruite au XVIIe siècle et son clocher, qui menaçait ruine après avoir été de nouveau foudroyé, est remplacé au XIXe siècle.",
+  "Lieu « Cathédrale Saint-Apollinaire de Valence », aujourd'hui : En 1281, la foudre touche le clocher, qui est remplacé par une flèche en charpente recouverte d'ardoises.",
+  "Lieu « Chapelle des Capucins (Valence) » : La chapelle des Capucins est un ancien lieu de culte catholique, aujourd’hui désaffecté.",
+  "Lieu « Chapelle des Capucins (Valence) », 1620 : Les Capucins, agents actifs de la réforme tridentine, s’installent à Valence et bâtissent entre 1620 et 1630 un couvent, dont la chapelle qui subsiste aujourd’hui.",
+  "Lieu « Chapelle des Capucins (Valence) », 1791 : À la Révolution, en 1791, le couvent est vendu comme bien national à un particulier.",
+  "Lieu « Chapelle des Capucins (Valence) », 1802 : Les bâtiments conventuels sont transformés, peu de temps après (1802), en hôpital, en service jusqu’aux années 1970.",
+  "Lieu « Chapelle des Capucins (Valence) », aujourd'hui : La chapelle des Capucins est un ancien lieu de culte catholique, aujourd’hui désaffecté.",
+  "Lieu « Chapelle des Cordeliers (Valence) » : La chapelle des Cordeliers est un ancien lieu de culte catholique, aujourd’hui désaffecté, à Valence dans la Drôme.",
+  "Lieu « Chapelle des Cordeliers (Valence) », XIIe siècle : Les Cordeliers se sont installés à Valence au XIIe siècle.",
+  "Lieu « Chapelle des Cordeliers (Valence) », XVIIe siècle : Ruiné à deux reprises lors des guerres de religion, il est reconstruit non loin de son emplacement d’origine au XVIIe siècle.",
+  "Lieu « Chapelle des Cordeliers (Valence) », 1945 : À la Révolution, elle est transformée successivement en magasin à fourrages, en magasin de munitions, en salle de réunions, puis après 1945 elle accueille les Archives départementales.",
+  "Lieu « Chapelle des Cordeliers (Valence) », aujourd'hui : La chapelle des Cordeliers est un ancien lieu de culte catholique, aujourd’hui désaffecté, à Valence dans la Drôme.",
+  "Lieu « Vieux Valence » : Le Vieux Valence est le quartier le plus ancien de la ville de Valence, préfecture du département de la Drôme.",
+  "Lieu « Vieux Valence », 1063 : Construite entre 1063 et 1099 sous l'impulsion de l'évêque Gontard, la cathédrale Saint-Apollinaire est le plus ancien édifice de la ville.",
+  "Lieu « Vieux Valence », 1562 : Elle a été incendiée à deux reprises, en 1562 et 1567, par les Huguenots et reconstruite à partir de 1604 dans le style roman initial.",
+  "Lieu « Vieux Valence », XVIIe siècle : Détruite lors des guerres de religion, la cathédrale est reconstruite au XVIIe siècle et son clocher, qui menaçait ruine après avoir été de nouveau foudroyé, est remplacé au XIXe siècle.",
+  "Lieu « Vieux Valence », aujourd'hui : Valentia possède à cette époque plusieurs établissements de spectacle : un cirque dont le lieu-dit quartier du Cire (« Siry » au Moyen Âge) aurait conservé le souvenir ; un théâtre côte Sainte-Ursule : trois sondages ont permis de découvrir l’orchestra, des traces de grandes marches et de gros éléments de murs.",
+  "Lieu « Hôtel de ville de Valence » : L'hôtel de ville de Valence, fruit de la collaboration entre Henri Bertsch-Proust et Paul Bischoff est situé au 1, place de la Liberté, est l'actuelle mairie de la ville de Valence, préfecture du département de la Drôme.",
+  "Lieu « Hôtel de ville de Valence », XIXe siècle : Jusqu’au XIXe siècle, il n’y a pas d’édifice construit spécifiquement pour les fonctions municipales.",
+  "Lieu « Hôtel de ville de Valence », 1894 : L'édifice a été inauguré en 1894 par Jean-François Malizard, alors maire de l'époque est le fruit d'une collaboration entre Henri Bertsch-Proust et Paul Bischoff.",
+  "Lieu « Hôtel de ville de Valence », 1998 : En 1998, le grimpeur de haut niveau Alain Robert, surnommé le « Spider-Man français », escalade le bâtiment en solo intégral (à mains nues et sans cordes).",
+  "Lieu « Hôtel de ville de Valence », aujourd'hui : En 1891, les fondations à peine terminées, les travaux sont stoppés pour réfléchir à un emplacement plus prestigieux."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
