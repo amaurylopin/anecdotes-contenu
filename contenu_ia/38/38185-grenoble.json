@@ -1,0 +1,282 @@
+{
+ "commune": {
+  "titre": "Grenoble",
+  "code_insee": "38185",
+  "departement": "38",
+  "population": 156140,
+  "lat": 45.1842,
+  "lon": 5.7155,
+  "url": "https://fr.wikipedia.org/wiki/Grenoble"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:15:10",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4233,
+  "sortie": 2676
+ },
+ "cout_usd": 0.004192,
+ "accroche": "Le 16 février 1798, le musée de Grenoble est créé par le professeur de dessin Louis-Joseph Jay, avant d’être fondé officiellement par arrêté administratif la même date.",
+ "histoire": {
+  "recit": "Grenoble, chef-lieu de l’Isère, a d’abord été un lieu de passage mis en évidence par des découvertes préhistoriques, notamment au niveau de la montagne du Rabot.\n\nMais la ville vit longtemps sous la contrainte de l’eau : au XVIIe siècle, elle est souvent ravagée par des inondations, malgré l’endiguement du Drac entrepris plus tard. En 1943, l’occupation allemande durcit la ville : les arrestations se multiplient, les affrontements deviennent violents, et la résistance se signale notamment autour de la manifestation du 11 novembre 1943.\n\nAprès la guerre, Grenoble s’oriente aussi vers les projets d’équipement et d’enseignement : vers 1952, un grand ensemble universitaire et résidentiel sur la Bastille laisse encore des traces visibles aujourd’hui. Puis les grandes transformations se poursuivent, entre aménagements urbains, chantiers et grandes institutions scientifiques.\n\nParmi elles, Minatec prend place sur le polygone scientifique, l’European Synchrotron Radiation Facility fait travailler des chercheurs venus de nombreux pays, et le musée de Grenoble installe durablement ses collections à la place de Lavalette.",
+  "chronologie": [
+   {
+    "date": "fin du néolithique (et âge du bronze)",
+    "texte": "Des éléments préhistoriques sont attestés à Grenoble, notamment à la montagne du Rabot, indiquant un lieu de passage ou une présence humaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "La cité est souvent ravagée par des inondations, malgré l’endiguement du Drac réalisé au cours des XVIIe et XVIIIe siècles.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "Après l’arrivée allemande, les affrontements s’intensifient et la résistance se manifeste, notamment le 11 novembre 1943, avec aussi des explosions au polygone d’artillerie et des actes autour de la caserne de Bonne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "vers 1952",
+    "texte": "Le projet de l’architecte Paul Herbé, pour un grand ensemble universitaire et résidentiel sur la Bastille, laisse des traces encore visibles au XXIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "À la suite de la signature du traité de l’Élysée, une convention intergouvernementale est signée pour construire un réacteur nucléaire de recherche (France et Allemagne).",
+    "sources": [
+     "S50"
+    ]
+   },
+   {
+    "date": "12 janvier 1989",
+    "texte": "La société civile de l’European Synchrotron Radiation Facility est créée.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1994",
+    "texte": "Le musée de Grenoble, principal musée d’art et d’antiquités, s’installe depuis 1994 place de Lavalette.",
+    "sources": [
+     "S21"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Jeux olympiques d'hiver de 1968",
+   "histoire": "Les Jeux olympiques d’hiver de 1968, officiellement les Xe Jeux olympiques d’hiver, se déroulent du 6 au 18 février 1968.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13"
+   ],
+   "lat": 45.16583,
+   "lon": 5.7322,
+   "url": "https://fr.wikipedia.org/wiki/Jeux_olympiques_d%27hiver_de_1968"
+  },
+  {
+   "nom": "Musée de Grenoble",
+   "histoire": "Le musée de Grenoble porte d’abord le nom de musée de Peinture et de Sculpture de Grenoble et est créé le 16 février 1798, puis fondé par un arrêté administratif le même jour. Il est ensuite inauguré dans l’ancien évêché le 31 décembre 1800, avant de s’installer depuis 1994 place de Lavalette, à l’emplacement d’un ancien couvent des Franciscains édifié en 1218.",
+   "anecdotes": [
+    {
+     "texte": "Un détail de son installation en 1800 : quatre grandes salles du premier étage de l’ancien évêché sont occupées pour l’inauguration du 31 décembre 1800.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Depuis 1994, il est situé place de Lavalette, à l’emplacement d’un ancien couvent des Franciscains.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 45.1945,
+   "lon": 5.7324,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Grenoble"
+  },
+  {
+   "nom": "European Synchrotron Radiation Facility",
+   "histoire": "L’European Synchrotron Radiation Facility (ESRF) est une société civile créée le 12 janvier 1989. Les travaux sur le polygone scientifique commencent en 1988 et le gros œuvre de l’anneau est achevé à l’automne 1991. En janvier 1989, les statuts sont signés à Paris, puis le bâtiment administratif est achevé fin 1992 alors que se déroule le premier essai de faisceaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Environ 1 900 publications dans des revues scientifiques sont produites chaque année par les chercheurs accueillis ou travaillant au synchrotron.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 45.20861,
+   "lon": 5.69,
+   "url": "https://fr.wikipedia.org/wiki/European_Synchrotron_Radiation_Facility"
+  },
+  {
+   "nom": "Minatec",
+   "histoire": "Minatec est un complexe scientifique d’envergure européenne situé sur le polygone scientifique de Grenoble. Il est inauguré le 2 juin 2006 et son site fait l’objet d’une première extension en juin 2010 avec la mise en service du bâtiment industries intégratives (B2I).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est actuellement présenté comme le premier centre européen consacré aux nanotechnologies et le troisième au niveau mondial.",
+   "sources": [
+    "S32"
+   ],
+   "lat": 45.19556,
+   "lon": 5.70917,
+   "url": "https://fr.wikipedia.org/wiki/Minatec"
+  },
+  {
+   "nom": "Grand'Place (Grenoble)",
+   "histoire": "Grand’Place est un centre polyvalent, commercial et culturel régional situé sur Grenoble et Échirolles. À partir de 1969, les villes travaillent conjointement à une création autour de l’hypermarché Carrefour. Le centre est ensuite agrandi en 2023, notamment avec un vaste élargissement de la partie échirolloise et l’installation de nombreuses boutiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Installé avenue de l’Europe avec 150 boutiques après l’agrandissement de 2023, c’est le plus important complexe commercial de l’agglomération grenobloise.",
+   "sources": [
+    "S35"
+   ],
+   "lat": 45.158056,
+   "lon": 5.7325,
+   "url": "https://fr.wikipedia.org/wiki/Grand%27Place_%28Grenoble%29"
+  },
+  {
+   "nom": "La Villeneuve (Grenoble)",
+   "histoire": "La Villeneuve est un grand ensemble situé dans le sud de Grenoble, réalisé par l’atelier d’urbanisme et d’architecture (AUA) entre 1970 et 1983. Les inondations liées à la fonte des neiges rendaient toute construction difficile : seule la tour Prémol, édifiée au XIIIe siècle, figure sur les cartographies anciennes. Un « plan Bernard » fixe ensuite des axes routiers structurants, même s’il n’est pas édifié.",
+   "anecdotes": [
+    {
+     "texte": "Sur les cartographies anciennes de La Villeneuve, au moment des inondations dues à la fonte des neiges, seule la tour Prémol édifiée au XIIIe siècle figure comme repère.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les Jeux imposent en moins de deux ans routes, rocade, déviation ferroviaire et logements, avec un Village olympique construit en un temps record.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 45.1635,
+   "lon": 5.73606,
+   "url": "https://fr.wikipedia.org/wiki/La_Villeneuve_%28Grenoble%29"
+  },
+  {
+   "nom": "Musée de l'Ancien Évêché",
+   "histoire": "Le musée de l’Ancien Évêché est un musée départemental au cœur du centre historique de Grenoble. Le bâtiment le plus ancien remonte au XIIe siècle, tandis que les façades visibles depuis la cour d’honneur et la place datent du XVIIe siècle. Un escalier d’honneur est construit en 1673 à la demande d’Étienne Le Camus, puis le musée est inauguré le 18 septembre 1998 après restauration et aménagements autour de la place Notre-Dame. En 1989, des travaux de tramway révèlent dans le sous-sol des vestiges archéologiques, dont un premier rempart et un baptistère utilisés entre le IVe et le Xe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En 1673, Étienne Le Camus commande un escalier d’honneur décoré de faux pilastres en trompe-l’œil et doté d’une rampe de fer forgé.",
+     "statut": "etabli",
+     "sources": [
+      "S45"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À la faveur de la construction de la deuxième ligne de tramway (en 1989), des vestiges du premier rempart et d’un baptistère ont été retrouvés dans le sous-sol.",
+   "sources": [
+    "S47"
+   ],
+   "lat": 45.1928225,
+   "lon": 5.7321696,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Ancien_%C3%89v%C3%AAch%C3%A9"
+  },
+  {
+   "nom": "Institut Laue-Langevin",
+   "histoire": "L’Institut Laue-Langevin (ILL) est un organisme de recherche international situé sur le polygone scientifique de Grenoble. Le nom de l’avenue des Martyrs renvoie à un charnier de 48 cadavres découverts en août 1944 sur le polygone d’artillerie. Après la signature du traité de l’Élysée, une coopération scientifique est engagée pour construire un réacteur nucléaire de recherche. En février 1970, le chantier est marqué par un accident qui fait des victimes, et il est ensuite décidé de remplacer entièrement un élément de 7,7 mètres de haut.",
+   "anecdotes": [
+    {
+     "texte": "L’avenue des Martyrs, prévue pour l’installation de l’édifice, rappelle un charnier de 48 cadavres découvert en août 1944 sur le polygone d’artillerie après le départ des troupes allemandes.",
+     "statut": "etabli",
+     "sources": [
+      "S49"
+     ]
+    },
+    {
+     "texte": "Le 13 février 1970, un accident lors du chantier tue cinq ouvriers et en blesse deux autres gravement à la suite d’un effondrement partiel du toit.",
+     "statut": "etabli",
+     "sources": [
+      "S51"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S48",
+    "S49",
+    "S51",
+    "S52"
+   ],
+   "lat": 45.20583,
+   "lon": 5.69218,
+   "url": "https://fr.wikipedia.org/wiki/Institut_Laue-Langevin"
+  }
+ ],
+ "sources": [
+  "Grenoble (prononcé /gʁə.nɔbl/ ) est une commune du Sud-Est de la France, en région Auvergne-Rhône-Alpes ; elle est le chef-lieu du département de l'Isère et l'ancienne capitale du Dauphiné. Grenoble est la commune-centre de la deuxième agglomération de la région Auvergne-Rhône-Alpes en nombre d'habitants (après celle de Lyon), et la quatrième commune de cette région (derrière Lyon, Saint-Étienne et Villeurbanne). […]",
+  "Plusieurs éléments préhistoriques ont été trouvés à Grenoble ou dans ses environs immédiats, attestant d'un lieu de passage, voire d'une présence humaine, notamment au niveau de la montagne du Rabot à la fin du néolithique, ainsi qu'à l'âge du bronze. Les données archéologiques restent cependant relativement rares en raison de la vitesse de la sédimentation des alluvions de l'Isère, du Drac, et des torrents […]",
+  "XVIIe siècle : Depuis sa création, la cité de Grenoble a souvent été ravagée par les inondations durant certaines périodes et malgré l'endiguement du Drac, effectué au cours des XVIIe siècle et XVIIIe siècle, la ville continue à subir de vraies catastrophes au fil des siècles.",
+  "1943 : À la suite de l'arrivée allemande en 1943, les affrontements se firent de plus en plus violents (arrestations multiples, Saint-Barthélemy grenobloise) et les actes de résistance de plus en plus audacieux (manifestation du 11 novembre 1943, explosions du polygone d'artillerie et de la caserne de Bonne).",
+  "1952 : Vers 1952, le projet de l'architecte Paul Herbé d'un grand ensemble universitaire et résidentiel sur la Bastille a laissé quelques traces : les bâtiments des instituts de géologie et de géographie alpine sont encore visibles au XXIe siècle.",
+  "1962 : Son département automatisme, situé à Crolles, va même lancer un calculateur industriel, grâce à un établissement fondé en 1962 par quelques ingénieurs issus du LAG.",
+  "1962 : L'année 1962 voit émerger un engouement mondial pour l'électronique, grâce aux projets de la société américaine Control Data Corporation, menée par Seymour Cray, tandis que la technologie Mos de Thomson-Brandt bouleverse la microélectronique, avec l'usine de transistors Sesco de 400 salariés installée début 1962 à Aix-en-Provence, qui a 20 % du marché français dès 1968.",
+  "1973 : En 1973, le consortium européen Unidata est fondé pour réunir CII, Philips, et Siemens.",
+  "1980 : Les années 1980 seront marquées par la priorité donnée par l'État à la filière des télécoms sur celle de l'informatique qui se concrétise vers 1978 lorsque est abandonnée la vision du Datagramme, inhérente au projet Cyclades (réseau).",
+  "1989 : En 1989, sur 163 entreprises de la ZIRST de Meylan, 17 ont été fondées par d'anciens salariés de Mors ou la Télémécanique à Grenoble.",
+  "2009 : Une étude plus récente (2009) du préhistorien Aimé Bocquet, fondée sur le peuplement au IIIe siècle av. J.-C., ne fait pas passer les troupes d'Hannibal par le nord de la région grenobloise, mais pour ensuite lui faire emprunter le versant occidental de la Chartreuse pour atteindre le col du Petit-Saint-Bernard.",
+  "2022 : Selon un article du journal Le Parisien, il s'agirait d'une « première mondiale » ; le 25 mars 2022, cette cabine téléphonique en état de fonctionnement a été inaugurée dans un parc sous les yeux de nombreux habitants mais aussi ceux des membres du collectif.",
+  "Lieu « Jeux olympiques d'hiver de 1968 » : Les Jeux olympiques d'hiver de 1968, officiellement connus comme les Xes Jeux olympiques d'hiver, se déroulent du 6 au 18 février 1968.",
+  "Lieu « Jeux olympiques d'hiver de 1968 », 1964 : Le vote a lieu le 28 janvier 1964 lors de la 61e session du CIO, qui se déroule à Innsbruck en Autriche, juste avant l'ouverture des Jeux.",
+  "Lieu « Jeux olympiques d'hiver de 1968 », 1968 : Cinq timbres commémoratifs dessinés et gravés par Jean Combet sont mis en vente les 27 et 28 janvier 1968, avant l'ouverture des Jeux, représentant une discipline ou la flamme olympique.",
+  "Lieu « Jeux olympiques d'hiver de 1968 », 1987 : La mise en place du nouveau plan d'urbanisme grenoblois entraîne le déplacement de la voie ferrée reliant la ville à Chambéry de 2,5 km plus au sud, accompagné de la création de la rocade sud de contournement autoroutier, qui n'est achevée qu'en 1987.",
+  "Lieu « Jeux olympiques d'hiver de 1968 », aujourd'hui : L'emplacement libéré par l'ancien aéroport est immédiatement utilisé pour construire le stade olympique de Grenoble, où se tient la cérémonie d'ouverture, ainsi que des parkings et une gare SNCF provisoire, la gare de Grenoble-Olympique.",
+  "Lieu « Musée de Grenoble » : Le musée de Grenoble, appelé musée de Peinture et de Sculpture de Grenoble jusque dans les années 1980, a été créé le 16 février 1798 par le professeur de dessin Louis-Joseph Jay.",
+  "Lieu « Musée de Grenoble », 1798 : Le musée de Grenoble est finalement fondé par un nouvel arrêté de l'administration départementale du 16 février 1798, bien avant les autres musées de province français.",
+  "Lieu « Musée de Grenoble », 1800 : Quatre grandes salles du premier étage de l'ancien évêché sont occupées pour l'inauguration qui se déroule le 31 décembre 1800 avec toutes les autorités civiles et militaires.",
+  "Lieu « Musée de Grenoble », 1994 : Principal musée d'art et d'antiquités de la ville de Grenoble, il est depuis 1994 situé place de Lavalette, à l'emplacement d'un ancien couvent des Franciscains édifié en 1218 et dont le site deviendra militaire à la fin du XVIe siècle.",
+  "Lieu « Musée de Grenoble », aujourd'hui : Il restera maire de la ville jusqu'en 1830 excepté durant la période de 1818 à 1824.",
+  "Lieu « European Synchrotron Radiation Facility » : L'European Synchrotron Radiation Facility, en abrégé ESRF (en français « Installation européenne de rayonnement synchrotron »), société civile de droit français créée le 12 janvier 1989, est un des plus importants synchrotrons actuellement en fonctio",
+  "Lieu « European Synchrotron Radiation Facility », 1988 : Les travaux débutent sur le polygone scientifique en 1988 par le déplacement d'un échangeur routier, le gros œuvre de l'anneau étant achevé à l'automne 1991 au moment où les Pays-Bas deviennent le douzième membre.",
+  "Lieu « European Synchrotron Radiation Facility », 1989 : Les statuts de la société civile sont signés en janvier 1989 à Paris par les ministres de la recherche des onze pays engagés.",
+  "Lieu « European Synchrotron Radiation Facility », 1992 : Le gros œuvre du bâtiment administratif s'achève à la fin de l'année 1992 alors que se déroule le premier essai de faisceaux.",
+  "Lieu « European Synchrotron Radiation Facility », aujourd'hui : De nos jours, environ 1 900 publications dans des revues scientifiques sont produites chaque année par les chercheurs accueillis ou travaillant au synchrotron.",
+  "Lieu « Minatec » : Minatec est un complexe scientifique d'envergure européenne situé sur le polygone scientifique de Grenoble.",
+  "Lieu « Minatec », 2006 : Inauguré le 2 juin 2006 par François Loos, ministre délégué à l’Industrie, ce complexe consacré aux nanotechnologies vise à atteindre une masse critique suffisante pour s'imposer comme un centre d'excellence de stature mondiale.",
+  "Lieu « Minatec », 2006 : L'ensemble du site est inauguré le 2 juin 2006 par François Loos, ministre délégué à l’Industrie, devant un millier de personnes.",
+  "Lieu « Minatec », 2010 : Installé à l'origine dans 45 000 m2 de locaux, Minatec voit en juin 2010 sa première extension avec la mise en service du bâtiment industries intégratives (B2I) d'une superficie de 5 380 m2 permettant la mise en relation des découvertes avec les industriels.",
+  "Lieu « Minatec », aujourd'hui : Il est actuellement le premier centre européen consacré aux nanotechnologies, et le troisième au niveau mondial.",
+  "Lieu « Grand'Place (Grenoble) » : Grand'Place est un centre polyvalent, commercial et culturel régional situé sur deux communes, Grenoble et Échirolles, au cœur des quartiers sud de l'agglomération de Grenoble entre les quartiers de La Villeneuve de Grenoble, notamment du Village oly",
+  "Lieu « Grand'Place (Grenoble) », 1969 : En 1969, à la suite de l’ouverture de l’hypermarché Carrefour, les villes d’Échirolles et de Grenoble travaillent conjointement sur la création d’un nouvel outil « urbain » alliant à la fois une activité de commerce et remplissant également un rôle sociétal.",
+  "Lieu « Grand'Place (Grenoble) », 2023 : Installé avenue de l'Europe avec 150 boutiques après l'agrandissement de 2023, c’est le plus important complexe commercial de l’agglomération grenobloise.",
+  "Lieu « Grand'Place (Grenoble) », 2023 : La partie échirolloise du centre, située entre la galerie de Carrefour et la partie principale du centre (située à Grenoble), a fait l'objet d'un vaste agrandissement de 19 000 m2 qui a ajouté près de 30 nouvelles enseignes commerciales lors de son ouverture le 23 novembre 2023.",
+  "Lieu « Grand'Place (Grenoble) », aujourd'hui : Un premier projet consistait à renforcer l'attractivité du centre grâce à un projet de restructuration et d'agrandissement de 11 000 m2 à l'emplacement des parkings extérieurs.",
+  "Lieu « La Villeneuve (Grenoble) » : La Villeneuve est un grand ensemble situé dans le sud de Grenoble réalisé par l’atelier d'urbanisme et d'architecture (AUA) entre 1970 et 1983.",
+  "Lieu « La Villeneuve (Grenoble) », XIIIe siècle : Les inondations liées à la fonte des neiges y rendaient toute construction difficile : seule la tour Prémol, édifiée au XIIIe siècle, figure sur les cartographies anciennes.",
+  "Lieu « La Villeneuve (Grenoble) », 1965 : Le « plan Bernard » qui en résulte ne sera jamais édifié, mais il fixe les grands axes routiers qui structurent encore la Villeneuve.Les élections de mars 1965 amènent au pouvoir une coalition formée des groupes d’action municipale, du PSU et de la SFIO, conduite par Hubert Dubedout.",
+  "Lieu « La Villeneuve (Grenoble) », 1968 : Avec l’adjoint à l’urbanisme Jean Verlhac, fondateur du PSU installé à Grenoble après le drame du métro Charonne, la municipalité agit dans deux directions : réaliser les aménagements des Jeux olympiques de 1968, et se doter d’une expertise urbanistique locale.",
+  "Lieu « La Villeneuve (Grenoble) », aujourd'hui : Les Jeux imposent en moins de deux ans routes, rocade, déviation ferroviaire et logements ; Maurice Novarina construit le Village olympique en un temps record, et un stade éphémère accueille la cérémonie d’ouverture à l’emplacement exact du futur quartier de l’Arlequin.",
+  "Lieu « Musée de l'Ancien Évêché » : Le musée de l’Ancien Évêché est un musée départemental situé au cœur du centre historique de Grenoble.",
+  "Lieu « Musée de l'Ancien Évêché », XIIe siècle : Le bâtiment pour sa partie la plus ancienne date du XIIe siècle, mais les façades visibles depuis la cour d'honneur et la place datent du XVIIe siècle.",
+  "Lieu « Musée de l'Ancien Évêché », 1673 : Un escalier d'honneur construit en 1673 à la demande d'Étienne Le Camus, avec un décor peint de faux pilastres en trompe-l'œil et une belle rampe de fer forgé, dessert les deux principaux étages.",
+  "Lieu « Musée de l'Ancien Évêché », 1998 : Installé dans l'ancien palais épiscopal, dont il tire son nom, il a été inauguré le 18 septembre 1998 au terme d'une série de travaux de restauration et d'aménagements réalisés dans le cadre d'un vaste chantier patrimonial autour de la place Notre-Dame.",
+  "Lieu « Musée de l'Ancien Évêché », aujourd'hui : En 1989, les travaux de construction de la deuxième ligne de tramway ont permis de retrouver dans le sous-sol des vestiges archéologiques d'époques nettement antérieures : les restes du premier rempart de la ville datant de la fin du IIIe siècle ainsi que d'un baptistère utilisé entre le IVe et le Xe siècle.",
+  "Lieu « Institut Laue-Langevin » : L'Institut Laue-Langevin (ILL) est un organisme de recherche international situé sur le polygone scientifique de Grenoble.",
+  "Lieu « Institut Laue-Langevin », 1944 : De plus le nom de l'avenue des Martyrs dans laquelle doit s'installer l'édifice rappelle un charnier de 48 cadavres découverts en août 1944 sur le polygone d'artillerie après le départ des troupes allemandes.",
+  "Lieu « Institut Laue-Langevin », 1963 : À la suite de la signature du traité de l'Élysée de 1963, une convention intergouvernementale de coopération scientifique entre la France et l'Allemagne est signée le 19 janvier 1967 pour construire un réacteur nucléaire de recherche.",
+  "Lieu « Institut Laue-Langevin », 1970 : Mais le 13 février 1970, le chantier est marqué par un tragique accident au cours duquel cinq ouvriers sont tués et deux autres gravement blessés dans l'effondrement partiel du toit.",
+  "Lieu « Institut Laue-Langevin », aujourd'hui : La décision est alors prise d'un remplacement complet de ce bidon de 7,7 mètres de haut, l’ancien est découpé sous eau par les équipes du réacteur et un nouveau est fabriquée en Allemagne."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
