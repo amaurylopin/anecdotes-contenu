@@ -1,0 +1,283 @@
+import json, os
+W="https://fr.wikipedia.org/wiki/"
+def A(cat,title,label,teaser,lead,body,wiki,more=None,timeline=None,lat=None,lon=None,links=None,access=None,protection=None):
+    return {"category":cat,"title":title,"label":label,"teaser":teaser,"lead":lead,"text":lead,"body":body,"more":more or [],"timeline":timeline,"links":links,"wiki":wiki,"source":W+wiki,"lat":lat,"lon":lon,"access":access,"protection":protection}
+
+toulon=[
+A("politique","Toulon, du FN à l'inéligibilité d'Hubert Falco","1995-2026 · Hôtel de ville",
+ "Première grande ville conquise par le Front national en 1995, reprise par Hubert Falco en 2001, qui l'a dirigée vingt ans avant d'être condamné pour détournement de fonds publics et déclaré inéligible.",
+ "Josée Massi est maire de Toulon depuis 2023 et a été réélue en mars 2026 face au Rassemblement national.",
+ ["En 1995, Jean-Marie Le Chevallier devient maire de Toulon : c'est la première ville de plus de 100 000 habitants dirigée par le Front national. Son mandat, marqué par des conflits avec le monde culturel et par des divisions internes, s'achève en 2001 avec la victoire d'Hubert Falco.",
+  "Falco dirige la ville vingt ans, tout en étant ministre et sénateur. En 2023, il est condamné pour détournement de fonds publics, pour avoir fait prendre en charge par la métropole des frais liés à son logement de fonction ; la peine d'inéligibilité est confirmée par la Cour de cassation en 2025. Il cède la mairie à sa première adjointe, Josée Massi.",
+  "En mars 2026, la liste du Rassemblement national menée par Laure Lavalette arrive en tête au premier tour avec 42 % ; au second, après le retrait de la liste Les Républicains, Josée Massi l'emporte avec 52,35 % contre 47,65 %."],
+ "Hubert_Falco",lat=43.1258,lon=5.9305),
+A("histoire","La flotte française sabordée dans sa rade","27 novembre 1942 · Rade de Toulon",
+ "Pour éviter que leurs navires ne tombent aux mains des Allemands, les marins français coulent eux-mêmes 77 bâtiments en quelques heures. C'est la fin de la marine de Vichy.",
+ "Le 27 novembre 1942, la flotte française de Toulon se saborde pour échapper à la Wehrmacht, qui venait d'envahir la zone libre.",
+ ["Après le débarquement allié en Afrique du Nord, les Allemands lancent l'opération Lila pour s'emparer des navires. Les ordres permanents de l'amiral Darlan prévoient le sabordage plutôt que la capture. À l'arrivée des blindés, les équipages ouvrent les vannes, posent des charges et détruisent les pièces maîtresses : 77 bâtiments coulent, dont trois cuirassés, sept croiseurs et une trentaine de destroyers.",
+  "Cinq sous-marins seulement parviennent à s'échapper. L'opération prive l'Allemagne d'une flotte importante, mais aussi la France libre, qui espérait voir ces navires rejoindre les Alliés : le sabordage reste discuté comme un gâchis autant que comme un acte d'honneur.",
+  "Des épaves ont été renflouées après la guerre ; la rade abrite aujourd'hui la principale base navale française et le porte-avions Charles-de-Gaulle."],
+ "Sabordage_de_la_flotte_fran%C3%A7aise_%C3%A0_Toulon",lat=43.1050,lon=5.9100),
+]
+
+nimes=[
+A("politique","Nîmes, plus grande ville communiste de France","Mars 2026 · Hôtel de ville",
+ "Après vingt-cinq ans de droite avec Jean-Paul Fournier, Nîmes a élu Vincent Bouget : elle devient la commune la plus peuplée dirigée par le Parti communiste.",
+ "Vincent Bouget, candidat du Parti communiste français, est maire de Nîmes depuis mars 2026.",
+ ["Jean-Paul Fournier dirigeait la ville depuis 2001, après le communiste Alain Clary. Son long mandat a été marqué par les inondations récurrentes, les travaux de protection contre les cadereaux, et le musée de la Romanité, ouvert en 2018 face aux arènes.",
+  "La victoire de Vincent Bouget, dans une ville de plus de 140 000 habitants, fait de Nîmes la commune la plus peuplée de France dirigée par le PCF, à un moment où le parti ne compte plus qu'une poignée de villes importantes.",
+  "Nîmes avait déjà été communiste de 1965 à 1983 avec Émile Jourdan, puis de 1995 à 2001."],
+ "N%C3%AEmes",lat=43.8367,lon=4.3601),
+A("faits_divers","3 octobre 1988 : les cadereaux emportent la ville","3 octobre 1988 · Toute la ville",
+ "420 millimètres de pluie en huit heures, des torrents à sec transformés en fleuves de boue, des voitures empilées dans les rues : neuf morts et un milliard de francs de dégâts.",
+ "Le 3 octobre 1988, un épisode cévenol provoque à Nîmes une crue éclair des cadereaux qui fait neuf morts et quelque 45 000 sinistrés.",
+ ["Les cadereaux sont des ravins secs qui descendent des garrigues et traversent la ville ; urbanisés et busés au fil du temps, ils n'ont plus de capacité d'écoulement. En quelques heures, l'équivalent de six mois de pluie tombe sur le bassin versant. Les eaux chargées de boue et de pierres dévalent les rues, emportent des centaines de voitures, envahissent le centre et les arènes.",
+  "La catastrophe a servi de cas d'école en hydrologie urbaine : elle a conduit à un vaste programme de bassins de rétention et de recalibrage des cadereaux, poursuivi pendant trente ans, et à la cartographie des risques d'inondation.",
+  "Des épisodes comparables ont touché le Gard en 2002, avec vingt-trois morts dans le département."],
+ "Inondations_de_N%C3%AEmes_de_1988",lat=43.8367,lon=4.3601),
+A("patrimoine","Les arènes les mieux conservées du monde romain","Ier siècle · Boulevard des Arènes",
+ "Vingt-quatre mille spectateurs à l'époque romaine, un village fortifié de deux mille habitants au Moyen Âge, et aujourd'hui des corridas et des concerts. L'amphithéâtre n'a jamais cessé de servir.",
+ "Les arènes de Nîmes, construites vers la fin du Ier siècle, sont l'amphithéâtre romain le mieux conservé au monde.",
+ ["Elles mesurent 133 mètres sur 101, comptent 34 rangs de gradins et pouvaient accueillir 24 000 spectateurs, répartis selon un système de circulation si efficace que l'édifice se vidait en quelques minutes. Leur conservation exceptionnelle tient à leur réutilisation continue : au Moyen Âge, un véritable village fortifié s'installe à l'intérieur, avec des maisons, deux chapelles et jusqu'à 2 000 habitants.",
+  "Le dégagement commence en 1809 et s'achève au XIXe siècle. La ville conserve aussi la Maison carrée, temple romain quasi intact inscrit au patrimoine mondial en 2023, et la tour Magne.",
+  "Les arènes accueillent la feria, des concerts et des spectacles ; les corridas y font l'objet d'un débat récurrent."],
+ "Ar%C3%A8nes_de_N%C3%AEmes",lat=43.8349,lon=4.3598,protection="Monument historique, 1840"),
+A("insolite","Le denim vient de Nîmes","XVIIe siècle · Toute la ville",
+ "La « serge de Nîmes », toile de coton robuste teinte à l'indigo, a traversé l'Atlantique et donné son nom au tissu des jeans. Levi Strauss n'a fait que le couper autrement.",
+ "Le mot « denim » vient de « serge de Nîmes », une étoffe produite dans la ville dès le XVIIe siècle.",
+ ["Nîmes était un centre textile protestant important, spécialisé dans les serges et les toiles de laine et de coton. L'une d'elles, résistante et teinte à l'indigo, s'exporte vers l'Italie, l'Espagne et les colonies, où l'appellation se contracte en « de Nîmes » puis « denim ». Le mot « jean » viendrait, lui, de Gênes, port d'où partait une toile voisine.",
+  "Levi Strauss, arrivé en Californie en 1853, utilise ce type de toile pour des pantalons de travail renforcés par des rivets, brevetés en 1873 avec Jacob Davis.",
+  "La filière textile nîmoise a disparu, mais la ville revendique l'origine du mot, et une marque locale a relancé une production de denim à Nîmes dans les années 2010."],
+ "Denim"),
+]
+
+limoges=[
+A("politique","Limoges change de maire en 2026","Mars 2026 · Hôtel de ville",
+ "Guillaume Guérin succède à Émile Roger Lombertie. La ville, berceau du socialisme municipal français, est passée à droite en 2014 après presque un siècle de gauche.",
+ "Guillaume Guérin est maire de Limoges depuis le 27 mars 2026, succédant à Émile Roger Lombertie.",
+ ["Limoges a été l'un des berceaux du socialisme municipal : la ville est à gauche presque sans interruption de 1912 à 2014, avec notamment Léon Betoulle, maire pendant plus de trente ans, et Alain Rodet. Le basculement de 2014 vers la droite a été l'une des surprises du scrutin.",
+  "Guillaume Guérin, président de Limoges Métropole, déjà premier adjoint, prend la mairie en 2026 et crée dans la foulée son propre mouvement après avoir quitté Les Républicains.",
+  "La ville est marquée par l'histoire ouvrière de la porcelaine et de la chaussure, et par la grève de 1905, l'une des plus dures du début du siècle, qui fit un mort."],
+ "Limoges",lat=45.8336,lon=1.2611),
+A("histoire","Oradour-sur-Glane, à vingt kilomètres","10 juin 1944 · Oradour-sur-Glane",
+ "Six cent quarante-trois habitants massacrés en quelques heures par une division SS, un village conservé en ruines sur ordre du général de Gaulle, et un procès qui a divisé la France pour longtemps.",
+ "Le 10 juin 1944, la division SS Das Reich massacre 643 habitants d'Oradour-sur-Glane, à vingt kilomètres de Limoges.",
+ ["Les hommes sont enfermés dans des granges et abattus, les femmes et les enfants dans l'église, incendiée. Six personnes survivent. Le motif exact du massacre, sans doute lié à des représailles contre la Résistance limousine après le débarquement, reste discuté.",
+  "Le général de Gaulle décide en 1945 de conserver le village en ruines comme mémorial ; un bourg neuf est construit à côté. Le procès de Bordeaux, en 1953, juge vingt et un accusés, dont quatorze « malgré-nous » alsaciens incorporés de force : leur condamnation provoque une crise en Alsace, et une loi d'amnistie votée dans la foulée indigne le Limousin, qui refuse pendant des décennies les subventions nationales.",
+  "Le Centre de la mémoire, ouvert en 1999, précède la visite des ruines. Le site a reçu le label du patrimoine européen."],
+ "Massacre_d%27Oradour-sur-Glane",lat=45.9330,lon=1.0330,access="Village martyr, visite libre ; Centre de la mémoire payant"),
+A("gastronomie","La porcelaine et le kaolin de Saint-Yrieix","1768 · Toute la ville",
+ "La découverte d'un gisement de kaolin près de Limoges a permis à la France de fabriquer enfin de la vraie porcelaine, jusque-là importée de Chine à prix d'or.",
+ "La porcelaine de Limoges est née de la découverte, en 1768, d'un gisement de kaolin à Saint-Yrieix-la-Perche, au sud de la ville.",
+ ["La porcelaine dure exige du kaolin, argile blanche dont l'Europe ignorait les gisements ; Saxe et France tentaient des imitations en pâte tendre. La découverte limousine, attribuée à l'épouse d'un chirurgien, Darnet, ouvre la voie à une production française. Les premières manufactures s'installent à Limoges dès 1771, sous la protection du comte d'Artois.",
+  "Au XIXe siècle, l'exportation vers les États-Unis fait la fortune de la ville ; l'Américain David Haviland s'y installe en 1842 et adapte les formes au goût américain. Jusqu'à 15 000 ouvriers travaillent la porcelaine.",
+  "Une trentaine d'entreprises subsistent, et le musée Adrien-Dubouché conserve la plus importante collection publique de porcelaine de Limoges au monde."],
+ "Porcelaine_de_Limoges",lat=45.8290,lon=1.2550),
+]
+
+metz=[
+A("politique","Metz, cinquante ans de Jean-Marie Rausch puis l'alternance","1971-2026 · Hôtel de ville",
+ "Jean-Marie Rausch a dirigé Metz trente-sept ans et introduit le premier réseau de fibre optique urbain de France. François Grosdidier, maire depuis 2020, a été réélu en 2026.",
+ "François Grosdidier est maire de Metz depuis 2020 et a été réélu en mars 2026.",
+ ["Jean-Marie Rausch, maire de 1971 à 2008 et plusieurs fois ministre, a façonné la ville moderne : piétonnisation précoce du centre, réseau câblé et téléphonie expérimentale dès les années 1980, et le projet du Centre Pompidou-Metz, ouvert en 2010 sous son successeur socialiste Dominique Gros.",
+  "François Grosdidier, ancien sénateur, reprend la ville en 2020 et la conserve en 2026. Son mandat a porté sur la sécurité, le stationnement et la rénovation du quartier de la gare.",
+  "Metz a appartenu à l'Allemagne de 1871 à 1918 et de 1940 à 1944 ; cette double appartenance marque encore son droit local, son architecture et sa mémoire."],
+ "Fran%C3%A7ois_Grosdidier",lat=49.1197,lon=6.1764),
+A("patrimoine","La gare impériale voulue par Guillaume II","1908 · Place du Général-de-Gaulle",
+ "Trois cents mètres de grès, un style néo-roman rhénan, et une conception militaire : la gare devait permettre d'acheminer 20 000 hommes vers la frontière française en vingt-quatre heures.",
+ "La gare de Metz, construite de 1905 à 1908 sous l'Empire allemand, est un monument néo-roman conçu autant pour l'armée que pour les voyageurs.",
+ ["Guillaume II veut marquer l'annexion par une architecture germanique, à l'opposé du classicisme français du centre ancien. L'édifice, en grès de Niderviller, s'étend sur 300 mètres, avec un campanile de 40 mètres, un salon impérial et des sculptures mêlant symboles chrétiens et germaniques. Les quais ont été dimensionnés pour la mobilisation : vingt mille soldats et leur matériel en une journée.",
+  "Les Messins l'ont longtemps appelée « la gare allemande » avec distance, avant qu'elle ne soit élue plusieurs fois plus belle gare de France dans des concours nationaux.",
+  "Le quartier impérial qui l'entoure, construit dans la même période, est candidat au patrimoine mondial de l'UNESCO."],
+ "Gare_de_Metz-Ville",lat=49.1096,lon=6.1770,protection="Monument historique, 1975"),
+A("patrimoine","Chagall et la plus grande surface vitrée de France","XIIIe siècle · Cathédrale Saint-Étienne",
+ "6 500 m² de vitraux du XIIIe au XXe siècle, dont des baies de Marc Chagall : on surnomme la cathédrale « la lanterne du Bon Dieu ».",
+ "La cathédrale Saint-Étienne de Metz possède 6 500 m² de verrières, la plus grande surface vitrée de France.",
+ ["L'élévation gothique, l'une des plus hautes de France avec 41,4 mètres sous voûte, laisse une place minimale à la pierre. Les vitraux s'étalent sur sept siècles : Hermann de Munster au XIVe siècle, Valentin Bousch au XVIe, Jacques Villon et Roger Bissière au XXe.",
+  "Marc Chagall réalise entre 1958 et 1968 les baies du transept nord et du déambulatoire, dans ses bleus caractéristiques, sur des thèmes de l'Ancien Testament. La commande, à un artiste juif pour une cathédrale catholique, peu après la guerre, avait fait débat.",
+  "Un dragon de bois, le Graoully, suspendu dans la crypte, rappelle la légende de saint Clément chassant le monstre des arènes romaines."],
+ "Cath%C3%A9drale_Saint-%C3%89tienne_de_Metz",lat=49.1203,lon=6.1750,protection="Monument historique, 1930"),
+]
+
+besancon=[
+A("politique","Besançon repasse à droite","Mars 2026 · Hôtel de ville",
+ "Anne Vignot, écologiste élue en 2020, est battue par Ludovic Fagaut. Besançon fait partie des six villes perdues par les écologistes.",
+ "Ludovic Fagaut, candidat Les Républicains, est maire de Besançon depuis mars 2026.",
+ ["La ville avait basculé chez les écologistes en 2020 avec Anne Vignot, succédant à Jean-Louis Fousseret, socialiste pendant dix-neuf ans. Le mandat écologiste a porté sur la végétalisation, les mobilités et une opposition au projet d'extension de l'aéroport régional.",
+  "Ludovic Fagaut, chef de l'opposition, l'emporte en 2026. Besançon rejoint Bordeaux, Strasbourg, Poitiers, Annecy et Colombes parmi les villes perdues par les écologistes.",
+  "Victor Hugo est né à Besançon en 1802, « vieille ville espagnole » comme il l'écrit ; sa maison natale, place Victor-Hugo, est un musée."],
+ "Besan%C3%A7on",lat=47.2378,lon=6.0241),
+A("patrimoine","La citadelle de Vauban dans une boucle du Doubs","1668-1683 · Citadelle",
+ "Vauban l'a jugée son plus beau chantier : onze hectares sur un éperon rocheux, dans une boucle du Doubs qui enserre la ville de trois côtés. Elle abrite aujourd'hui un zoo et trois musées.",
+ "La citadelle de Besançon, construite par Vauban entre 1668 et 1683, domine la boucle du Doubs de cent mètres et couvre onze hectares.",
+ ["La ville, capitale de la Franche-Comté espagnole, est prise par Louis XIV en 1674. Vauban, qui l'avait déjà étudiée, y applique son premier système de fortification sur un site exceptionnel : un éperon barrant l'isthme d'un méandre, avec trois fronts successifs, des chemins de ronde et un puits de 132 mètres creusé dans le roc.",
+  "Elle n'a jamais subi de siège. Elle a servi de prison, de caserne, et sous l'Occupation de lieu d'exécution : cent départs de résistants y ont été fusillés, commémorés au Mémorial des fusillés.",
+  "Le site, inscrit au patrimoine mondial en 2008 avec onze autres œuvres de Vauban, accueille un muséum avec parc zoologique, le musée de la Résistance et de la Déportation et le musée comtois."],
+ "Citadelle_de_Besan%C3%A7on",lat=47.2322,lon=6.0300,protection="Monument historique ; UNESCO, 2008"),
+A("insolite","La capitale française de la montre et du temps","XIXe-XXe siècle · Toute la ville",
+ "Neuf montres françaises sur dix sortaient de Besançon. L'observatoire y délivrait des certificats de chronométrie, et la ville abrite aujourd'hui les laboratoires de la mesure du temps.",
+ "Besançon a été la capitale française de l'horlogerie : au début du XXe siècle, près de 90 % de la production nationale de montres en venait.",
+ ["L'activité naît en 1793 avec l'arrivée d'horlogers suisses réfugiés, menés par Laurent Mégevand. Au XIXe siècle, des milliers d'établis familiaux et d'ateliers travaillent dans la ville ; l'observatoire, créé en 1878, délivre des bulletins de marche et appose le poinçon de la tête de vipère sur les chronomètres qui passent ses épreuves.",
+  "La concurrence des montres à quartz japonaises provoque l'effondrement de la filière dans les années 1970 ; la faillite de Lip, en 1973, donne lieu à l'une des luttes ouvrières les plus célèbres de France, avec l'occupation de l'usine et la vente des montres par les salariés eux-mêmes.",
+  "Il reste à Besançon un pôle de recherche sur le temps et les microtechniques, l'institut Femto-ST, et le musée du Temps, installé au palais Granvelle."],
+ "Horlogerie_%C3%A0_Besan%C3%A7on",lat=47.2360,lon=6.0250),
+]
+
+perpignan=[
+A("politique","Perpignan, plus grande ville dirigée par le RN","Depuis 2020 · Place de la Loge",
+ "Louis Aliot l'a emportée en 2020, faisant de Perpignan la première ville de plus de 100 000 habitants dirigée par le Rassemblement national depuis Toulon. Il a été réélu dès le premier tour en 2026.",
+ "Louis Aliot est maire de Perpignan depuis 2020 et a été réélu dès le premier tour en mars 2026.",
+ ["Vice-président du Rassemblement national et ancien compagnon de Marine Le Pen, il échoue en 2014, puis l'emporte en 2020 avec une campagne axée sur la sécurité, la propreté et le patrimoine, en mettant en retrait les thèmes nationaux du parti. Perpignan devient la plus grande ville administrée par le RN.",
+  "Son mandat a été marqué par la gratuité des musées, des conflits avec l'État sur une crèche de Noël installée à la mairie, et par des polémiques sur le soutien à des associations proches de sa mouvance.",
+  "Sa réélection dès le premier tour en 2026, comme celles de Steeve Briois à Hénin-Beaumont et David Rachline à Fréjus, illustre l'enracinement local du parti."],
+ "Louis_Aliot",lat=42.6986,lon=2.8954),
+A("histoire","Le royaume de Majorque avait sa capitale ici","1276-1344 · Palais des rois de Majorque",
+ "Pendant soixante-huit ans, Perpignan a été la capitale continentale d'un royaume qui comprenait les Baléares, le Roussillon et Montpellier. Son palais gothique domine encore la ville.",
+ "Perpignan a été de 1276 à 1344 la capitale continentale du royaume de Majorque, État éphémère né du partage de la couronne d'Aragon.",
+ ["Jacques II de Majorque y fait construire un palais fortifié sur une colline, mêlant gothique du Nord et influences méditerranéennes, avec deux chapelles superposées et une cour d'honneur. Le royaume, prospère grâce au commerce des draps et au port de Collioure, est finalement reconquis par Pierre IV d'Aragon en 1344.",
+  "Perpignan reste espagnole jusqu'au traité des Pyrénées de 1659, qui rattache le Roussillon à la France. Le catalan y est encore parlé et enseigné ; la ville se présente comme « Perpinyà la catalana ».",
+  "Le palais, longtemps caserne, est restauré depuis les années 1950 et accueille des expositions et des concerts."],
+ "Palais_des_rois_de_Majorque",lat=42.6940,lon=2.8930,protection="Monument historique, 1875"),
+]
+
+orleans=[
+A("politique","Serge Grouard, parti puis revenu","Depuis 2020 · Place de l'Étape",
+ "Maire de 2001 à 2015, il démissionne pour se consacrer à la région, revient en 2020 et est réélu en 2026. Orléans est à droite depuis un quart de siècle.",
+ "Serge Grouard est maire d'Orléans depuis 2020, après un premier passage de 2001 à 2015, et a été réélu en mars 2026.",
+ ["Ancien militaire et député, il prend la ville en 2001 et engage le retour du tramway, la rénovation du centre médiéval et la reconquête des bords de Loire. Il démissionne en 2015 après son élection régionale, laissant la mairie à Olivier Carré, puis revient en 2020 en battant ce dernier.",
+  "Les deux hommes, longtemps alliés, se sont affrontés dans un duel à droite resté dans les annales locales. Grouard a été réélu en 2026.",
+  "Orléans accueille chaque printemps les fêtes de Jeanne d'Arc, instituées dès 1430 et parmi les plus anciennes célébrations de France."],
+ "Serge_Grouard",lat=47.9029,lon=1.9093),
+A("histoire","Le siège levé par Jeanne d'Arc en neuf jours","Octobre 1428 - 8 mai 1429 · Toute la ville",
+ "La ville tient depuis sept mois quand une jeune femme de dix-sept ans arrive avec un convoi de vivres. Neuf jours plus tard, les Anglais lèvent le siège. C'est le tournant de la guerre de Cent Ans.",
+ "Le siège d'Orléans par les Anglais, commencé en octobre 1428, est levé le 8 mai 1429 après l'intervention de Jeanne d'Arc.",
+ ["Orléans est la dernière grande ville au nord de la Loire fidèle au dauphin Charles ; sa chute ouvrirait le sud du royaume. Les Anglais, trop peu nombreux pour un blocus complet, construisent des bastilles autour de la ville. Jeanne entre dans la place le 29 avril 1429 avec un convoi de ravitaillement.",
+  "En neuf jours, les Français prennent successivement les bastilles Saint-Loup, des Augustins puis des Tourelles, où Jeanne est blessée d'un trait d'arbalète à l'épaule et revient au combat. Le 8 mai, les Anglais lèvent le camp sans livrer bataille.",
+  "La victoire change le cours de la guerre : Charles VII est sacré à Reims deux mois plus tard. Orléans célèbre chaque 8 mai, depuis 1430, l'anniversaire de la délivrance ; c'est la plus ancienne fête civique de France."],
+ "Si%C3%A8ge_d%27Orl%C3%A9ans",lat=47.8990,lon=1.9050),
+]
+
+caen=[
+A("politique","Caen, ville-hôpital puis capitale de la mémoire","Depuis 2020 · Hôtel de ville",
+ "Aristide Olivier, élu en 2020 à 37 ans, a été réélu en 2026. La ville vit avec l'héritage de 1944 : détruite à 73 %, elle a fait de la paix son identité.",
+ "Aristide Olivier est maire de Caen depuis 2020 et a été réélu en mars 2026.",
+ ["Il avait succédé à Joël Bruneau, dans la continuité d'une majorité de droite. Son mandat a porté sur la reconquête de la presqu'île portuaire, le tramway converti en 2019 et l'université, qui compte plus de 30 000 étudiants.",
+  "Caen a été presque entièrement détruite lors de la bataille de Normandie : les bombardements du 6 juin et de juillet 1944 et les combats font environ 2 000 morts civils et rasent 73 % de la ville.",
+  "Le Mémorial de Caen, musée consacré à l'histoire du XXe siècle et à la paix, ouvert en 1988 sur un ancien poste de commandement allemand, reçoit plus de 300 000 visiteurs par an."],
+ "Caen",lat=49.1829,lon=-0.3707),
+A("histoire","Guillaume le Conquérant et ses deux abbayes","XIe siècle · Abbaye aux Hommes, Abbaye aux Dames",
+ "Pour faire lever l'excommunication frappant leur mariage, Guillaume et Mathilde ont dû fonder deux abbayes. Elles encadrent encore la ville ; lui repose dans l'une, elle dans l'autre.",
+ "Guillaume le Conquérant et son épouse Mathilde de Flandre ont fondé à Caen l'Abbaye aux Hommes et l'Abbaye aux Dames, vers 1060.",
+ ["Leur mariage, en 1050, avait été condamné par le pape pour consanguinité. La réconciliation passe par la fondation de deux monastères, à chaque extrémité de la ville, en pierre de Caen, calcaire qui servira aussi à bâtir Westminster et Canterbury après la conquête de l'Angleterre en 1066.",
+  "Guillaume est inhumé à Saint-Étienne, l'Abbaye aux Hommes, en 1087 : la cérémonie tourne mal, son corps trop corpulent pour le sarcophage et un propriétaire réclamant le prix du terrain en pleine messe. Mathilde repose à la Trinité, l'Abbaye aux Dames.",
+  "L'Abbaye aux Hommes abrite aujourd'hui l'hôtel de ville, l'Abbaye aux Dames le conseil régional de Normandie. Les deux se visitent."],
+ "Abbaye_aux_Hommes",lat=49.1820,lon=-0.3690,protection="Monument historique, 1840"),
+]
+
+nancy=[
+A("politique","Mathieu Klein conserve Nancy","Depuis 2020 · Place Stanislas",
+ "Élu en 2020 contre la droite au pouvoir depuis vingt-cinq ans, le socialiste Mathieu Klein a été réélu en mars 2026.",
+ "Mathieu Klein est maire de Nancy depuis 2020 et a été réélu en mars 2026.",
+ ["Ancien président du conseil départemental de Meurthe-et-Moselle, il met fin en 2020 au long cycle d'André Rossinot, maire de 1983 à 2014, puis de Laurent Hénart. Son mandat porte sur la santé, l'université et la rénovation thermique.",
+  "Nancy a été, de 1737 à 1766, la capitale du duché de Lorraine confié au roi de Pologne déchu Stanislas Leszczynski, beau-père de Louis XV, qui fit construire l'ensemble monumental que l'on connaît.",
+  "La ville compte parmi les rares grandes villes françaises dont le centre est intégralement inscrit au patrimoine mondial."],
+ "Mathieu_Klein",lat=48.6937,lon=6.1834),
+A("patrimoine","Place Stanislas, l'ensemble du XVIIIe inscrit à l'UNESCO","1752-1755 · Place Stanislas",
+ "Un roi sans royaume a offert à sa ville trois places reliées, des grilles dorées de Jean Lamour et des fontaines de Guibal. L'ensemble est inscrit au patrimoine mondial depuis 1983.",
+ "La place Stanislas, œuvre de l'architecte Emmanuel Héré pour le duc Stanislas Leszczynski, est inscrite au patrimoine mondial de l'UNESCO depuis 1983 avec la place de la Carrière et la place d'Alliance.",
+ ["Stanislas, roi de Pologne détrôné et beau-père de Louis XV, reçoit la Lorraine en viager. Il fait relier la vieille ville ducale et la ville neuve par un ensemble monumental : une place royale fermée, l'arc Héré, une esplanade et un hémicycle. Les grilles de fer forgé et doré, œuvre du serrurier Jean Lamour, et les fontaines de Barthélemy Guibal, en font un sommet de l'art du XVIIIe siècle.",
+  "La place a servi de parking jusqu'en 2004, avant une restauration qui lui a rendu son dallage et ses perspectives.",
+  "Nancy est aussi la capitale de l'Art nouveau français : l'École de Nancy, autour d'Émile Gallé, Louis Majorelle et Antonin Daum, a laissé villas, verreries et mobilier, réunis au musée de l'École de Nancy."],
+ "Place_Stanislas",lat=48.6937,lon=6.1834,protection="UNESCO, 1983"),
+]
+
+mulhouse=[
+A("politique","Mulhouse change de maire en 2026","Mars 2026 · Hôtel de ville",
+ "Frédéric Marquet succède à Michèle Lutz. La ville, ancienne république indépendante alliée aux Suisses, a conservé une forte identité propre.",
+ "Frédéric Marquet est maire de Mulhouse depuis mars 2026, succédant à Michèle Lutz, maire depuis 2017.",
+ ["Michèle Lutz avait pris la suite de Jean Rottner, devenu président de la région Grand Est. Son mandat a été marqué par la reconversion industrielle, la rénovation des quartiers populaires et la crise sanitaire : Mulhouse a été l'un des premiers foyers de l'épidémie de Covid en France, en mars 2020, après un rassemblement religieux évangélique.",
+  "La ville conserve une identité singulière : république indépendante alliée aux cantons suisses de 1515 à 1798, elle a choisi par vote de rejoindre la France révolutionnaire.",
+  "Son patrimoine industriel est exceptionnel : la Cité du train, premier musée ferroviaire d'Europe, la Cité de l'automobile et sa collection Schlumpf, et le musée de l'impression sur étoffes."],
+ "Mulhouse",lat=47.7508,lon=7.3359),
+A("insolite","La plus grande collection de voitures du monde, saisie aux frères Schlumpf","1977 · Cité de l'automobile",
+ "Deux industriels du textile ont acheté en secret des centaines de voitures anciennes avec l'argent de leurs usines. Les ouvriers ont découvert le trésor en occupant l'entreprise en faillite.",
+ "La Cité de l'automobile de Mulhouse présente environ 400 voitures de la collection constituée clandestinement par les frères Fritz et Hans Schlumpf.",
+ ["Industriels de la laine, les deux frères achètent à partir des années 1960 des centaines d'automobiles anciennes, dont 123 Bugatti, en puisant dans les comptes de leurs filatures. La collection, installée dans une usine, reste secrète ; des employés y travaillent sous astreinte de silence.",
+  "En 1976, les entreprises déposent le bilan ; en mars 1977, les ouvriers occupent les locaux et découvrent le musée, qu'ils ouvrent au public sous le nom de « musée des travailleurs ». Les frères s'enfuient en Suisse ; la collection est classée monument historique en 1978 pour empêcher sa dispersion, puis rachetée en 1981.",
+  "Le musée expose notamment deux Bugatti Royale, dont il ne fut construit que six exemplaires."],
+ "Cit%C3%A9_de_l%27automobile",lat=47.7640,lon=7.3400,protection="Collection classée monument historique, 1978"),
+]
+
+avignon=[
+A("politique","Avignon bascule à droite","Mars 2026 · Hôtel de ville",
+ "Cécile Helle, socialiste depuis 2014, est battue par Olivier Galzi. La ville, qui vit de son festival et de son patrimoine, change de majorité.",
+ "Olivier Galzi est maire d'Avignon depuis mars 2026, succédant à la socialiste Cécile Helle.",
+ ["Cécile Helle dirigeait la ville depuis 2014, après vingt-neuf ans de mandats à droite de Marie-Josée Roig. Son bilan comprend la piétonnisation de la place de l'Horloge, la reconquête des remparts et la rénovation des quartiers nord ; les thèmes de la sécurité et du commerce ont dominé la campagne de 2026.",
+  "Sa défaite fait partie de la série de maires sortants battus en 2026, dans un scrutin marqué par une abstention record.",
+  "Avignon a été, en 2024, le théâtre du procès des viols de Mazan, dont la médiatisation mondiale a durablement marqué la ville ; Gisèle Pelicot y a obtenu que les débats soient publics."],
+ "Avignon",lat=43.9493,lon=4.8055),
+A("histoire","Sept papes à Avignon, et un palais-forteresse","1309-1377 · Palais des Papes",
+ "Fuyant Rome, les papes s'installent sur le Rhône pendant soixante-huit ans et bâtissent le plus grand palais gothique du monde. Le schisme qui suit laissera deux, puis trois papes rivaux.",
+ "De 1309 à 1377, sept papes ont résidé à Avignon ; leur palais, bâti en vingt ans, est le plus vaste édifice gothique d'Europe.",
+ ["Clément V, élu sous pression du roi de France, renonce à gagner Rome en proie aux factions. Ses successeurs, dont Benoît XII et Clément VI, font élever un palais de 15 000 m² qui tient de la forteresse et du couvent, avec la chambre du Cerf et ses fresques profanes. La ville, achetée en 1348 à la reine Jeanne de Naples, reste possession pontificale jusqu'en 1791.",
+  "Grégoire XI ramène la papauté à Rome en 1377, mais son successeur est contesté : deux papes, l'un à Rome, l'autre à Avignon, puis trois après 1409. Le grand schisme d'Occident dure jusqu'en 1417.",
+  "Le palais, caserne au XIXe siècle, accueille depuis 1947 la cour d'honneur du Festival d'Avignon, créé par Jean Vilar, le plus grand festival de théâtre au monde."],
+ "Palais_des_papes_d%27Avignon",lat=43.9510,lon=4.8075,protection="Monument historique ; UNESCO, 1995"),
+A("legende","Le pont d'Avignon, et l'on y dansait dessous","XIIe siècle · Pont Saint-Bénézet",
+ "La chanson dit « sur le pont » ; on dansait en réalité sous les arches, sur l'île de la Barthelasse. Et des vingt-deux arches d'origine, il n'en reste que quatre.",
+ "Le pont Saint-Bénézet, construit à partir de 1177, ne compte plus que quatre arches sur les vingt-deux d'origine.",
+ ["La légende veut qu'un jeune berger, Bénézet, ait reçu l'ordre divin de bâtir un pont sur le Rhône et ait convaincu les Avignonnais en soulevant seul un bloc énorme. L'ouvrage, long de près de 900 mètres, est l'un des rares à franchir le fleuve au Moyen Âge et assure la fortune de la ville.",
+  "Les crues emportent régulièrement les arches ; après celle de 1669, la ville renonce aux réparations. Il ne reste que quatre arches et la chapelle Saint-Nicolas.",
+  "La chanson, popularisée au XIXe siècle, dit « sur le pont d'Avignon » ; les guinguettes où l'on dansait se trouvaient en réalité sous les arches, sur l'île de la Barthelasse, et la version ancienne disait « sous le pont »."],
+ "Pont_Saint-B%C3%A9n%C3%A9zet",lat=43.9530,lon=4.8050,protection="Monument historique ; UNESCO, 1995"),
+]
+
+amiens=[
+A("politique","Amiens repasse à gauche, et la ville de Macron","Mars 2026 · Hôtel de ville",
+ "Frédéric Fauvet l'emporte pour le Parti socialiste. Amiens est la ville natale d'Emmanuel Macron, qui y a passé son enfance et rencontré sa future épouse au lycée.",
+ "Frédéric Fauvet est maire d'Amiens depuis mars 2026, succédant à Hubert de Jenlis.",
+ ["La ville avait été prise en 2014 par Brigitte Fouré, puis dirigée par Hubert de Jenlis. En 2026, la gauche la reprend, comme à Saint-Étienne et Nîmes, dans un scrutin par ailleurs favorable à la droite.",
+  "Emmanuel Macron, né à Amiens en 1977, y a étudié au lycée jésuite La Providence, où il a rencontré Brigitte Trogneux, sa professeure de français et future épouse, avant de terminer sa scolarité à Paris. Sa candidature puis son élection ont braqué les projecteurs sur la ville, notamment lors de sa visite à l'usine Whirlpool en campagne, en 2017.",
+  "Amiens a été détruite à plus de 60 % en 1940 et 1944 et reconstruite par Auguste Perret, comme Le Havre, autour de la tour Perret et de la gare."],
+ "Amiens",lat=49.8941,lon=2.2958),
+A("patrimoine","La plus vaste cathédrale de France","1220-1270 · Place Notre-Dame",
+ "200 000 mètres cubes, deux fois le volume de Notre-Dame de Paris, bâtis en cinquante ans seulement. Les couleurs d'origine de la façade sont projetées chaque soir d'été.",
+ "La cathédrale Notre-Dame d'Amiens, construite de 1220 à 1270, est la plus grande de France par son volume intérieur.",
+ ["Sa rapidité de construction, un demi-siècle contre deux siècles ailleurs, lui donne une unité de style rare. La nef atteint 42,3 mètres sous voûte ; le labyrinthe du sol, le « Beau Dieu » du portail et les 3 650 figures sculptées en font un sommet du gothique.",
+  "Les analyses des années 1990 ont révélé les polychromies d'origine sous la crasse ; plutôt que de repeindre, la ville projette depuis 1999 ces couleurs sur la façade lors du spectacle « Chroma », chaque été et à Noël.",
+  "L'édifice abrite une relique attribuée à la tête de saint Jean-Baptiste, rapportée de Constantinople en 1206, qui fit la fortune du pèlerinage. Il est inscrit au patrimoine mondial depuis 1981."],
+ "Cath%C3%A9drale_Notre-Dame_d%27Amiens",lat=49.8950,lon=2.3022,protection="UNESCO, 1981"),
+A("personnalites","Jules Verne, vingt ans conseiller municipal d'Amiens","1871-1905 · Maison de la Tour",
+ "Né à Nantes, il a vécu la seconde moitié de sa vie à Amiens, où il siégeait au conseil municipal, s'occupait des fêtes et du théâtre, et a écrit la plupart des Voyages extraordinaires.",
+ "Jules Verne s'installe à Amiens en 1871, ville de son épouse, et y meurt en 1905 après trente-quatre ans de vie amiénoise.",
+ ["Il s'y établit pour fuir Paris et la Commune, dans la famille de sa femme Honorine. Élu conseiller municipal en 1888 sur une liste républicaine, il est réélu trois fois et siège seize ans, chargé des fêtes, du théâtre et de la foire ; il milite pour le cirque municipal, inauguré en 1889, qui porte aujourd'hui son nom.",
+  "Il écrit à Amiens la majeure partie de son œuvre, dans la maison de la Tour, boulevard Longueville, aujourd'hui musée, et publie un texte d'anticipation sur « Une ville idéale », décrivant Amiens en l'an 2000.",
+  "Il meurt le 24 mars 1905 et repose au cimetière de la Madeleine, sous un monument où il soulève sa dalle funéraire."],
+ "Jules_Verne",lat=49.8920,lon=2.3000,access="Maison de Jules Verne, fermée le lundi"),
+]
+
+cities=[("83137","Toulon","Var",43.1258,5.9305,toulon),
+        ("30189","Nîmes","Gard",43.8367,4.3601,nimes),
+        ("87085","Limoges","Haute-Vienne",45.8336,1.2611,limoges),
+        ("57463","Metz","Moselle",49.1197,6.1764,metz),
+        ("25056","Besançon","Doubs",47.2378,6.0241,besancon),
+        ("66136","Perpignan","Pyrénées-Orientales",42.6986,2.8954,perpignan),
+        ("45234","Orléans","Loiret",47.9029,1.9093,orleans),
+        ("14118","Caen","Calvados",49.1829,-0.3707,caen),
+        ("54395","Nancy","Meurthe-et-Moselle",48.6937,6.1834,nancy),
+        ("68224","Mulhouse","Haut-Rhin",47.7508,7.3359,mulhouse),
+        ("84007","Avignon","Vaucluse",43.9493,4.8055,avignon),
+        ("80021","Amiens","Somme",49.8941,2.2958,amiens)]
+idx=json.load(open('index.json'))
+for insee,name,dept,lat,lon,arts in cities:
+    path=f"communes/{insee}.json"
+    if os.path.exists(path):
+        p=json.load(open(path)); have={a.get("wiki") for a in p["anecdotes"]}
+        p["anecdotes"]+=[a for a in arts if a.get("wiki") not in have]
+    else:
+        p={"id":insee,"insee":insee,"name":name,"dept":dept,"kind":"commune","lat":lat,"lon":lon,"anecdotes":arts}
+    json.dump(p,open(path,'w'),ensure_ascii=False,indent=1)
+    idx["communes"][insee]={"name":name,"count":len(p["anecdotes"]),"updated":"2026-10-07"}
+    print(name,len(p["anecdotes"]))
+json.dump(idx,open('index.json','w'),ensure_ascii=False,indent=1)
+print(sum(v["count"] for v in idx["communes"].values()),"articles",len(idx["communes"]),"communes")
