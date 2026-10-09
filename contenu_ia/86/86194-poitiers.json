@@ -1,0 +1,275 @@
+{
+ "commune": {
+  "titre": "Poitiers",
+  "code_insee": "86194",
+  "departement": "86",
+  "population": 89916,
+  "lat": 46.5846,
+  "lon": 0.3715,
+  "url": "https://fr.wikipedia.org/wiki/Poitiers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:21:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 3672,
+  "sortie": 2450
+ },
+ "cout_usd": 0.006779,
+ "accroche": "Dès le IVe siècle, Poitiers est un siège d’évêché, et la ville se développe aussi autour du monastère Sainte-Croix fondé par Radegonde.",
+ "histoire": {
+  "recit": "Poitiers, chef-lieu de la Vienne, se raconte par ses strates. Au IVe siècle, la ville devient siège d’un évêché et grandit autour du monastère Sainte-Croix, fondé par Radegonde. Plus tard, le nom de la cité traverse les siècles grâce à des batailles restées attachées au lieu.\n\nLa période romaine laisse de vrais reliefs : amphithéâtre, thermes et aqueducs font de Poitiers un centre de premier plan. Le XIXe siècle change d’allure : de nombreuses casernes surgissent, et la gare s’installe dans les années 1850, pendant que le tramway relie la ville avec une jonction place d’Armes.\n\nAu XXe siècle, la commune prend un autre élan avec la décentralisation industrielle et des implantations marquantes, puis avec le projet du Futuroscope, construit à partir de 1986-1987, qui ouvre l’agglomération à l’ère touristique et technologique. Dans le même temps, les monuments continuent de guider le regard : baptistère, cathédrale, palais et vestiges romains composent un paysage où l’ancien revient sans cesse au présent.",
+  "chronologie": [
+   {
+    "date": "IVe siècle",
+    "texte": "Poitiers est un siège d’évêché et la ville se développe autour du monastère Sainte-Croix fondé par Radegonde.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "507",
+    "texte": "Bataille de Poitiers, dite bataille de Vouillé, remportée par Clovis Ier sur Alaric II.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "732",
+    "texte": "Bataille de Poitiers à Moussais, dans la commune de Vouneuil-sur-Vienne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "De nombreuses casernes sont construites, faisant de Poitiers une ville de garnison.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "années 1850",
+    "texte": "La gare est construite dans les années 1850.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1899",
+    "texte": "En 1899, la ville est desservie par un réseau de tramway comprenant trois lignes.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "Le réaménagement romain menant à un amphithéâtre de grande taille est détruit presque entièrement en 1857.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "La décentralisation industrielle soutient l’activité de la ville, avec notamment l’implantation d’une usine Michelin (fermée en 2006) et la compagnie des compteurs Schlumberger.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1986-1987",
+    "texte": "Le Futuroscope, construit en 1986-1987, développe le secteur touristique de l’agglomération.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Baptistère Saint-Jean de Poitiers",
+   "histoire": "Très ancien monument chrétien, le baptistère Saint-Jean tire son origine de la deuxième moitié du IVe siècle et du début du Ve siècle. Le quartier se transforme au IVe siècle, un groupe cathédral est construit, puis le bâtiment conservé est édifié au Ve siècle à l’emplacement d’une salle baptismale aménagée dans une domus à l’est de la cathédrale primitive.",
+   "anecdotes": [
+    {
+     "texte": "Sauvé de la démolition en 1834, le baptistère a fait l’objet de nombreuses campagnes de fouilles dont les synthèses ont été dites controversées.",
+     "statut": "conteste",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le bâtiment conservé est construit au Ve siècle à l’emplacement d’une salle baptismale aménagée dans une domus à l’est de la cathédrale primitive.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 46.579444,
+   "lon": 0.348611,
+   "url": "https://fr.wikipedia.org/wiki/Baptist%C3%A8re_Saint-Jean_de_Poitiers"
+  },
+  {
+   "nom": "Cathédrale Saint-Pierre de Poitiers",
+   "histoire": "Cathédrale catholique romaine de Poitiers, elle est reconstruite sur la cassette de l’Empereur en 839, puis rebâtie à plusieurs reprises. En 1018, un incendie la détruit. Après 1150, elle est construite à l’initiative de l’évêque et du chapitre de Saint-Pierre ; consacrée en 1379, elle est de style gothique angevin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Moins connue que l’église Notre-Dame-la-Grande, elle demeure pourtant un repère visible de loin dans le paysage urbain.",
+   "sources": [
+    "S18"
+   ],
+   "lat": 46.5803,
+   "lon": 0.3493,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Pierre_de_Poitiers"
+  },
+  {
+   "nom": "Palais des ducs d'Aquitaine",
+   "histoire": "Palais des ducs d’Aquitaine et palais des comtes de Poitiers : un palais est construit au IXe siècle à cheval sur la muraille romaine datant de la fin du IIIe siècle. En 1018, ce premier état disparaît dans un incendie. Le bâtiment tient lieu de palais de justice de 1418 à 2019, et accueille désormais des rencontres culturelles et des événements, avec des œuvres moulées dont des copies visibles depuis le printemps 2007.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des copies des œuvres sont visibles depuis le printemps 2007 dans la grande salle, et le bâtiment est désormais un lieu de rencontres culturelles destiné à la valorisation de projets artistiques et à tous types d’événements.",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 46.58277778,
+   "lon": 0.3425,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_ducs_d%27Aquitaine"
+  },
+  {
+   "nom": "Siège de Poitiers (1569)",
+   "histoire": "Événement militaire, le siège de Poitiers a lieu du 24 juillet 1569 au 7 septembre 1569. La situation est instable durant l’été 1568, et en 1569, le comte de Lude s’occupe d’assiéger Niort tandis que l’armée royale met ensuite le siège devant Châtellerault occupé par les huguenots.",
+   "anecdotes": [
+    {
+     "texte": "Le mercredi 27 juillet, le château (aujourd’hui disparu, situé porte de Paris) essuie les premiers tirs d’artillerie sans subir de dommages.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28"
+   ],
+   "lat": 46.581111111111,
+   "lon": 0.33527777777778,
+   "url": "https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Poitiers_%281569%29"
+  },
+  {
+   "nom": "Amphithéâtre de Poitiers",
+   "histoire": "Amphithéâtre romain parfois nommé arènes de Poitiers ou Palais Gallien de Poitiers, construit au Ier ou au IIe siècle dans la ville antique. L’emplacement se trouve au sud et à l’écart de la ville antique, probablement dans la première moitié du Ier siècle, puis il est encore associé au IIe siècle. Au XIVe siècle, l’amphithéâtre est occupé par des habitations et des jardins particuliers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ses vestiges sont classés au titre des monuments historiques entre 1840 et 1962.",
+   "sources": [
+    "S33"
+   ],
+   "lat": 46.5786,
+   "lon": 0.339455,
+   "url": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_de_Poitiers"
+  },
+  {
+   "nom": "Musée Sainte-Croix",
+   "histoire": "Le musée Sainte-Croix est le plus grand musée de la ville de Poitiers. En 1973, l’architecte Jean Monge est chargé de construire un nouveau bâtiment muséal. Le musée est construit en 1974 à la place de l’ancienne abbaye Sainte-Croix, aujourd’hui à Saint-Benoît. En 2009, le parcours permanent s’enrichit par l’arrivée des collections venant du musée Rupert-de-Chièvres, qui a fermé en 2009.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site est décrit comme un site exceptionnel du haut Moyen Âge, actuellement en chantier de restauration par les M.H.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 46.5792,
+   "lon": 0.3477,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Sainte-Croix"
+  },
+  {
+   "nom": "Archidiocèse de Poitiers",
+   "histoire": "Archidiocèse métropolitain de l’Église catholique en France. Le diocèse historique du Poitou est érigé au IIIe siècle. Les Vikings dévastent Poitiers en 857, incendient l’église Saint-Hilaire en 863 et forcent la ville à payer rançon. Au début du XIe siècle, un incendie détruit une partie de la ville, et le Poitou connaît un élan de construction de monuments religieux, surtout au XIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En 857, les Vikings dévastent Poitiers, incendient l’église Saint-Hilaire en 863 et la ville est forcée de payer rançon.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43"
+   ],
+   "lat": 46.5803,
+   "lon": 0.3493,
+   "url": "https://fr.wikipedia.org/wiki/Archidioc%C3%A8se_de_Poitiers"
+  },
+  {
+   "nom": "Église Sainte-Radegonde de Poitiers",
+   "histoire": "Église catholique romaine située à Poitiers entre la cathédrale Saint-Pierre et la rivière Clain. Construite au IVe siècle à l’extérieur du rempart en raison de son usage funéraire, elle est mentionnée au VIe siècle comme servant de sépulture pour les religieuses de l’abbaye. Bâtie au VIe siècle par la reine des Francs Radegonde sous le vocable de Sainte-Marie-hors-les-murs, elle est renommée Sainte-Radegonde à la mort de sa fondatrice après que son corps y fut inhumé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La dédicace du nouvel édifice, dont subsistent le chevet et les premiers étages du clocher-porche, est mentionnée en 1099.",
+   "sources": [
+    "S48"
+   ],
+   "lat": 46.57976,
+   "lon": 0.351981,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Radegonde_de_Poitiers"
+  }
+ ],
+ "sources": [
+  "Poitiers (/pwa.tje/) est une commune du Centre-Ouest de la France, chef-lieu et siège de la préfecture du département de la Vienne. Capitale de la région culturelle et historique du Poitou et jusqu'en 2016 de l'ancienne région administrative de Poitou-Charentes, elle constitue désormais un pôle d'équilibre dynamique dans le nord de la région Nouvelle-Aquitaine. Avec plus de 31 000 étudiants, Poitiers est une ville […]",
+  "Poitiers a laissé son nom à trois grandes batailles : la première bataille de Poitiers 507, ou bataille de Vouillé est la moins connue. Elle fut remportée par Clovis Ier sur Alaric II roi des Wisigoths (au lieu appelé Campus Vogladensis) au nord-ouest de Poitiers, et permit la conquête de toute la zone entre Loire et Pyrénées ; la bataille de Poitiers en 732 à Moussais, dans la commune de Vouneuil-sur-Vienne, au […]",
+  "IVe siècle : Siège d'un évêché depuis le IVe siècle, la ville se développe également autour du monastère Sainte-Croix fondé par Radegonde, reine des Francs.",
+  "XIXe siècle : Au XIXe siècle, de nombreuses casernes sont construites, faisant de Poitiers une ville de garnison.",
+  "1850 : La gare est construite dans les années 1850, en 1899, la ville est desservie par un réseau de tramway comprenant trois lignes dont la jonction se fait place d'Armes.",
+  "1857 : La ville fut réaménagée selon le modèle romain au Ier siècle de notre ère et fut dotée d’un amphithéâtre de grande taille (détruit presque entièrement en 1857), de plusieurs thermes, d'au moins trois aqueducs (vestiges aux Arcs de Parigny), le tout donnant un statut de premier plan à la ville.",
+  "1970 : L'activité de la ville bénéficie de la décentralisation industrielle depuis les années 1970, avec notamment l’implantation d’une usine Michelin (fermée en 2006), compagnie des compteurs Schlumberger (compteurs industriels et résidentiels).",
+  "1986 : Le projet du Futuroscope (bâti sur les communes proches de Jaunay-Marigny et de Chasseneuil-du-Poitou), construit en 1986-1987 sur une idée de René Monory, a permis le développement du secteur touristique de l’agglomération et a ouvert la cité à l’ère technologique et touristique.",
+  "Lieu « Baptistère Saint-Jean de Poitiers » : Le baptistère Saint-Jean situé à Poitiers est un très ancien monument chrétien, dont l'origine remonte à la deuxième moitié du IVe - début du Ve siècle.",
+  "Lieu « Baptistère Saint-Jean de Poitiers », IVe siècle : Situé dans un quartier occupé depuis le premier siècle de notre ère par des habitations et des artisans (des échoppes ont été retrouvées sous l’Espace Mendès France), le quartier se transforme peu à peu au IVe siècle.",
+  "Lieu « Baptistère Saint-Jean de Poitiers », IVe siècle : Un groupe cathédral est construit pendant la seconde moitié du IVe siècle.",
+  "Lieu « Baptistère Saint-Jean de Poitiers », 1834 : Sauvé de la démolition en 1834, il a fait l'objet de nombreuses campagnes de fouilles donnant lieu à des synthèses controversées.",
+  "Lieu « Baptistère Saint-Jean de Poitiers », aujourd'hui : Le bâtiment conservé est construit au Ve siècle à l'emplacement d'une salle baptismale aménagée dans une domus à l'est de la cathédrale primitive.",
+  "Lieu « Cathédrale Saint-Pierre de Poitiers » : La cathédrale Saint-Pierre de Poitiers est une cathédrale catholique romaine située à Poitiers, dans le département de la Vienne et la région Nouvelle-Aquitaine.",
+  "Lieu « Cathédrale Saint-Pierre de Poitiers », 839 : Reconstruite sur la cassette de l'Empereur en 839 à l'emplacement de la cathédrale actuelle, celle-ci fut peut-être rebâtie plusieurs fois jusqu'au nouveau millénaire.",
+  "Lieu « Cathédrale Saint-Pierre de Poitiers », 1018 : En 1018, un incendie la détruisit en même temps qu'une partie de la ville.",
+  "Lieu « Cathédrale Saint-Pierre de Poitiers », 1150 : Construite à l'initiative de l'évêque de Poitiers et du chapitre de Saint-Pierre après 1150, consacrée en 1379, elle est de style gothique angevin (emploi de voûtes bombées sur plan carré) et s'apparente aux églises-halles par sa division en trois vaisseaux de hauteur presque égale.",
+  "Lieu « Cathédrale Saint-Pierre de Poitiers », aujourd'hui : Moins connue que l'église Notre-Dame-la-Grande, elle est pourtant le plus vaste édifice religieux de la ville et un repère visible de loin dans le paysage urbain.",
+  "Lieu « Palais des ducs d'Aquitaine » : Le palais des ducs d'Aquitaine et palais des comtes de Poitiers est un monument historique situé à Poitiers dans le département de la Vienne.",
+  "Lieu « Palais des ducs d'Aquitaine », IXe siècle : Un palais fut construit pour lui au IXe siècle à cheval sur la muraille romaine datant de la fin du IIIe siècle, sur le point le plus élevé de la ville.",
+  "Lieu « Palais des ducs d'Aquitaine », 1018 : Ce premier état du palais a totalement disparu dans un incendie en 1018.",
+  "Lieu « Palais des ducs d'Aquitaine », 1418 : Le bâtiment, qui a tenu lieu de palais de justice de 1418 à 2019, est désormais un lieu de rencontres culturelles destiné à la valorisation de projets artistiques et à tous types d'événements.",
+  "Lieu « Palais des ducs d'Aquitaine », aujourd'hui : Ces œuvres, témoignages exceptionnels de la sculpture française de la fin du XIVe siècle, ont été moulées et des copies sont désormais visibles depuis le printemps 2007 dans la grande salle.",
+  "Lieu « Siège de Poitiers (1569) » : Le siège de Poitiers est un fait militaire ayant eu lieu du 24 juillet 1569 au 7 septembre 1569.",
+  "Lieu « Siège de Poitiers (1569) », 1568 : La situation est particulièrement instable durant l'été 1568, lorsque les chefs huguenots sont menacés d'emprisonnement par les armées royales.",
+  "Lieu « Siège de Poitiers (1569) », 1569 : Le comte de Lude, gouverneur du Poitou, est occupé, depuis le 20 juin 1569, à assiéger Niort, ville protestante, mais le siège s'éternise.",
+  "Lieu « Siège de Poitiers (1569) », 1569 : Le 7 septembre 1569, l'armée royale vient mettre le siège devant Châtellerault occupé par les huguenots.",
+  "Lieu « Siège de Poitiers (1569) », aujourd'hui : Le mercredi 27 juillet, le château (aujourd'hui disparu, il était situé porte de Paris) essuie les premiers tirs d'artillerie sans subir de dommages.",
+  "Lieu « Amphithéâtre de Poitiers » : L'amphithéâtre de Poitiers, parfois nommé arènes de Poitiers ou Palais Gallien de Poitiers est un amphithéâtre romain construit au Ier ou IIe siècle à Poitiers (Limonum Pictonum), dans le département français actuel de la Vienne.",
+  "Lieu « Amphithéâtre de Poitiers », Ier siècle : Situé au sud et à l'écart de la ville antique, il est probablement construit dans la première moitié du Ier siècle.",
+  "Lieu « Amphithéâtre de Poitiers », IIe siècle : L'amphithéâtre de Poitiers, parfois nommé arènes de Poitiers ou Palais Gallien de Poitiers est un amphithéâtre romain construit au Ier ou IIe siècle à Poitiers (Limonum Pictonum), dans le département français actuel de la Vienne.",
+  "Lieu « Amphithéâtre de Poitiers », XIVe siècle : Au moins dès le XIVe siècle, l'emplacement de l'amphithéâtre, encore imposant, est occupé par diverses habitations et des jardins particuliers.",
+  "Lieu « Amphithéâtre de Poitiers », aujourd'hui : Ses vestiges sont classés au titre des monuments historiques entre 1840 et 1962.",
+  "Lieu « Musée Sainte-Croix » : Le musée Sainte-Croix est le plus grand musée de la ville de Poitiers.",
+  "Lieu « Musée Sainte-Croix », 1973 : L'architecte Jean Monge, lauréat de l’équerre d'Argent pour la bibliothèque universitaire de droit et de lettres de la ville en 1973, est chargé de construire un nouveau bâtiment muséal.",
+  "Lieu « Musée Sainte-Croix », 1974 : Construit en 1974 sur les plans de l'architecte poitevin Jean Monge, il se dresse à la place de l'ancienne abbaye Sainte-Croix, aujourd'hui à Saint-Benoît.",
+  "Lieu « Musée Sainte-Croix », 2009 : Le parcours permanent est enrichi par l'arrivée des collections en provenance de l'autre musée municipal, le musée Rupert-de-Chièvres qui a fermé en 2009.",
+  "Lieu « Musée Sainte-Croix », aujourd'hui : Site exceptionnel du haut Moyen Âge (réunissant un corpus de sculptures et d'inscriptions) actuellement en chantier de restauration par les M.H.",
+  "Lieu « Archidiocèse de Poitiers » : L'archidiocèse de Poitiers (en latin : Archidioecesis Pictaviensis) est un archidiocèse métropolitain de l'Église catholique en France.",
+  "Lieu « Archidiocèse de Poitiers », IIIe siècle : Érigé au IIIe siècle, le diocèse de Poitiers est le diocèse historique du Poitou.",
+  "Lieu « Archidiocèse de Poitiers », 857 : En effet, les Vikings dévastèrent Poitiers en 857, incendièrent l'église Saint-Hilaire en 863, et forcèrent la ville à payer rançon.",
+  "Lieu « Archidiocèse de Poitiers », XIe siècle : Au début du XIe siècle, un incendie détruit une partie de la ville de Poitiers.",
+  "Lieu « Archidiocèse de Poitiers », aujourd'hui : Au XIe siècle, et surtout au XIIe siècle, le Poitou a connu un élan de construction de monuments religieux dans un contexte d'épanouissement de l'art roman dont il reste de nombreux témoignages aujourd'hui.",
+  "Lieu « Église Sainte-Radegonde de Poitiers » : L'église Sainte-Radegonde de Poitiers est une église catholique romaine située à Poitiers, entre la cathédrale Saint-Pierre et la rivière Clain, dans le département de la Vienne et la région Nouvelle-Aquitaine.",
+  "Lieu « Église Sainte-Radegonde de Poitiers », IVe siècle : Elle était construite à l'extérieur du rempart en raison de son usage funéraire ; en effet la muraille gallo-romaine, bâtie à la charnière des IIIe et IVe siècles passait entre cette église et la cathédrale Saint-Pierre.",
+  "Lieu « Église Sainte-Radegonde de Poitiers », VIe siècle : L'édifice, mentionné au VIe siècle, servait de sépulture pour les religieuses de l'abbaye.",
+  "Lieu « Église Sainte-Radegonde de Poitiers », 587 : Construite au VIe siècle par la reine des Francs Radegonde sous le vocable de Sainte-Marie-hors-les-murs, l'église est renommée Sainte-Radegonde à la mort de sa fondatrice en 587 après que son corps y fut inhumé.",
+  "Lieu « Église Sainte-Radegonde de Poitiers », aujourd'hui : La dédicace du nouvel édifice, dont subsistent le chevet et les premiers étages du clocher-porche, est mentionnée en 1099."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
