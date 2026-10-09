@@ -1,0 +1,313 @@
+{
+ "commune": {
+  "titre": "Issy-les-Moulineaux",
+  "code_insee": "92040",
+  "departement": "92",
+  "population": 67669,
+  "lat": 48.82388889,
+  "lon": 2.27,
+  "url": "https://fr.wikipedia.org/wiki/Issy-les-Moulineaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:25:24",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3793,
+  "sortie": 3133
+ },
+ "cout_usd": 0.004675,
+ "accroche": "En janvier 1908, Henri Farman réalise le premier kilomètre en circuit fermé à Issy-les-Moulineaux, sur avion Voisin.",
+ "histoire": {
+  "recit": "Issy-les-Moulineaux, commune des Hauts-de-Seine, se trouve au sud-ouest et limitrophe de Paris, en bordure et sur la rive gauche de la Seine. Longtemps, le nom même a fait courir des idées : certains étymologistes ont voulu le relier à Isis, mais l’explication est probablement une affirmation fantaisiste. En 1871, après que le fort résiste en janvier, le second siège se termine par la prise du bourg par les troupes versaillaises le 8 mai, avant de longues batailles de rue. Plus tard, le chemin de fer structure la vie locale : la ligne des Invalides à Versailles-Rive-Gauche est mise en service en 1901 et la gare d’Issy-Ville (aujourd’hui gare d’Issy) s’ouvre ; en 1902, la gare d’Issy-Plaine (aujourd’hui gare d’Issy-Val de Seine) s’ouvre à la jonction des lignes. Le hameau des Moulineaux est rattaché à la ville d’Issy et l’église Sainte-Lucie est érigée en 1905. Le 13 janvier 1908, Issy entre dans l’histoire de l’aviation avec le premier kilomètre en circuit fermé. En 1910, la commune est aussi touchée par la crue de la Seine. Enfin, au XXe siècle, l’industrie marque les lieux : Citroën bâtit une usine dans les années 1920, et la TIRU voit le jour, mise en service au début de 1970.",
+  "chronologie": [
+   {
+    "date": "1871",
+    "texte": "Lors du second siège, le bourg est pris par les troupes versaillaises le 8 mai 1871, avec des batailles de rue particulièrement dévastatrices.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1901-1902",
+    "texte": "La ligne des Invalides à Versailles-Rive-Gauche est mise en service ; la gare d’Issy-Ville (actuellement gare d’Issy) est ouverte.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1902",
+    "texte": "La gare d’Issy-Plaine (actuellement gare d’Issy-Val de Seine) est ouverte, à la jonction de Versailles et des Moulineaux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1905",
+    "texte": "Le quartier des Moulineaux est rattaché à la ville d’Issy et l’église Sainte-Lucie est érigée en 1905.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1908",
+    "texte": "Le 13 janvier 1908, le premier kilomètre en circuit fermé est réalisé par Henri Farman sur avion Voisin.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "Pendant la crue de la Seine de 1910, Issy-les-Moulineaux est inondée comme les villes voisines le long du fleuve.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1920",
+    "texte": "Dans les années 1920, Citroën bâtit une usine à Issy-les-Moulineaux pour répondre à la demande d’automobiles.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "Les ensembles HLM actuels ont été construits autour des années 1960/1970 et ont été rénovés sans être reconstruits.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare d'Issy-Val de Seine",
+   "histoire": "La gare d’Issy-Plaine, ouverte en 1902 à la jonction des lignes de Versailles et des Moulineaux, évolue ensuite : elle devient gare d’embranchement en 1913, puis terminus sud de la ligne T2 à partir de 1997. Depuis le 21 novembre 2009, avec le prolongement de la T2 jusqu’à la porte de Versailles, elle n’est plus terminus et devient une station de passage.",
+   "anecdotes": [
+    {
+     "texte": "La gare change de rôle plusieurs fois : en 1997, elle devient terminus sud de la ligne T2, avant de laisser place à une station de passage après le prolongement jusqu’à la porte de Versailles.",
+     "statut": "etabli",
+     "sources": [
+      "S14",
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 48.829706,
+   "lon": 2.263036,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Issy-Val_de_Seine"
+  },
+  {
+   "nom": "Château d'Issy",
+   "histoire": "Le futur château d’Issy s’inscrit sur un site occupé par deux propriétés principales autour du XIIIe siècle. L’ensemble est vendu aux enchères le 23 août 1622 pour 22 000 livres (?) à M. de Choisy. L’achat est notamment relié au fait que le cousin du prince, Monseigneur, fils de Louis XIV et héritier du trône, s’est installé au château royal de Meudon voisin depuis 1695. Aujourd’hui, le château d’Issy est détruit.",
+   "anecdotes": [
+    {
+     "texte": "L’ensemble est vendu aux enchères en août 1622, et l’acquisition est mise en lien avec l’installation à Meudon du cousin du prince.",
+     "statut": "etabli",
+     "sources": [
+      "S18",
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 48.822641,
+   "lon": 2.273212,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Issy"
+  },
+  {
+   "nom": "Traitement industriel des résidus urbains (Issy-les-Moulineaux)",
+   "histoire": "La TIRU d’Issy-les-Moulineaux est une usine de traitement des déchets ménagers du Syctom. Mise en service au début de l’année 1970, elle arrête son activité en février 2006 et sa démolition s’achève en septembre 2010. Une cheminée accidentée est détruite le dimanche 26 mars 2006 au matin, et un autre incendie frappe l’usine le mercredi 17 mars 2010 au soir, tandis que le site est en cours de démantèlement. L’usine cesse ensuite sa combustion des déchets ménagers non recyclables à la fin février 2006 en raison du non-respect des normes de rejets atmosphériques fixées par une directive européenne.",
+   "anecdotes": [
+    {
+     "texte": "Le 26 mars 2006, une cheminée accidentée est détruite le dimanche matin, puis l’usine subit un autre incendie le 17 mars 2010 au soir durant le démantèlement.",
+     "statut": "etabli",
+     "sources": [
+      "S23",
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.8247,
+   "lon": 2.25886,
+   "url": "https://fr.wikipedia.org/wiki/Traitement_industriel_des_r%C3%A9sidus_urbains_%28Issy-les-Moulineaux%29"
+  },
+  {
+   "nom": "Île Saint-Germain",
+   "histoire": "Située sur la Seine, l’île Saint-Germain accueille en 1853 la Société des Glaces et Verreries de Montluçon, qui y édifie de grandes halles en bois. En 1867, l’Exposition universelle y installe ses pavillons de l’Agriculture, ensuite transformés en magasins de l’Intendance Militaire. En 1942, l’île subit des dommages collatéraux lors d’un bombardement des usines proches de l’île Seguin. Aujourd’hui, à l’est, un quartier industriel a notamment abrité des ateliers Renault.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.822237,
+   "lon": 2.246346,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Saint-Germain"
+  },
+  {
+   "nom": "Tour aux figures",
+   "histoire": "La Tour aux figures est une sculpture monumentale conçue par Jean Dubuffet et érigée à Issy-les-Moulineaux de 1986 à 1988. La pièce est présentée pour la première fois dans l’ouvrage Édifices en 1968. L’artiste accepte en janvier 1985 le site de l’île Saint-Germain et recommande que l’œuvre soit édifiée sur la petite butte où elle se trouve aujourd’hui.",
+   "anecdotes": [
+    {
+     "texte": "Jean Dubuffet accepte en janvier 1985 le site de l’île Saint-Germain, recommandant que la tour soit édifiée sur la petite butte où elle se trouve aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S35"
+   ],
+   "lat": 48.828472,
+   "lon": 2.258472,
+   "url": "https://fr.wikipedia.org/wiki/Tour_aux_figures"
+  },
+  {
+   "nom": "Manufacture des tabacs d'Issy-les-Moulineaux",
+   "histoire": "La Manufacture des tabacs d’Issy-les-Moulineaux, située 17 rue Ernest-Renan, est construite entre 1900 et 1904. Elle naît après la fermeture de la Manufacture des tabacs du Gros-Caillou, la direction générale des manufactures de l’État décidant d’implanter une nouvelle manufacture à Issy. Les bâtiments sont réhabilités en logements, bureaux et commerces en 1989. Ils accueillent aujourd’hui un programme mixte de logements, commerces et bureaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S38",
+    "S39",
+    "S40",
+    "S37"
+   ],
+   "lat": 48.82805556,
+   "lon": 2.28305556,
+   "url": "https://fr.wikipedia.org/wiki/Manufacture_des_tabacs_d%27Issy-les-Moulineaux"
+  },
+  {
+   "nom": "Séminaire Saint-Sulpice",
+   "histoire": "Le Séminaire Universitaire Saint-Sulpice est une maison de formation ecclésiastique dirigée par la Compagnie des prêtres de Saint Sulpice. Il est construit en 1606 sur l’emplacement d’un logis seigneurial acheté par Marguerite de Valois. La propriété passe ensuite à Louis XIII en 1615, puis est vendue aux enchères le 30 août 1618 à Michel Sarrus. Fondé au XVIIe siècle par Jean-Jacques Olier, le séminaire proposait autrefois un programme d’études conduisant au sacerdoce.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 48.825225,
+   "lon": 2.277022,
+   "url": "https://fr.wikipedia.org/wiki/S%C3%A9minaire_Saint-Sulpice"
+  },
+  {
+   "nom": "Gare des Moulineaux - Billancourt",
+   "histoire": "La gare des Moulineaux - Billancourt est une ancienne gare de la ligne de Puteaux à Issy-Plaine, devenue une station de tramway de la ligne T2. Elle est en fonction sur la ligne de Puteaux à Issy-Plaine de 1889 à 1993, puis fermée et transformée en station, ouverte en 1997. En 2022, son bâtiment voyageurs reconverti en habitation demeure la seule gare isséenne ayant conservé son bâtiment voyageurs d’origine.",
+   "anecdotes": [
+    {
+     "texte": "En 2022, le bâtiment voyageurs reconverti en habitation est présenté comme la seule gare isséenne ayant gardé son bâtiment d’origine.",
+     "statut": "etabli",
+     "sources": [
+      "S48"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 48.82139,
+   "lon": 2.25139,
+   "url": "https://fr.wikipedia.org/wiki/Gare_des_Moulineaux_-_Billancourt"
+  }
+ ],
+ "sources": [
+  "Issy-les-Moulineaux est une commune française dans le département des Hauts-de-Seine. Elle se situe dans la région d'Île-de-France, au sud-ouest et limitrophe de Paris, en bordure et sur la rive gauche de la Seine.",
+  "Certains étymologistes des XVIIIe et XIXe siècles ont voulu trouver dans le nom Issy un rapport avec celui de la déesse Isis et montrer que le village lui était dédié. Il s'agit probablement d'une affirmation fantaisiste : certes la présence de son culte dans les provinces gauloises de l'Empire romain, dont le bassin de Lutèce, est attestée par de nombreuses sources épigraphiques, mais il ne semble guère exister de […]",
+  "1871 : Enfin, si en janvier 1871 le fort résiste aux Prussiens, lors du second siège en revanche, il est pris par les troupes versaillaises (le 8 mai 1871), qui ensuite doivent reconquérir tout le bourg jusqu’à Paris, au cours de batailles de rue particulièrement dévastatrices (près de la moitié des maisons isséennes et tous les édifices publics sont alors touchés).",
+  "1901 : En 1901-1902, la ligne des Invalides à Versailles-Rive-Gauche est mise en service et la gare d'Issy-Ville (actuellement gare d'Issy) est ouverte.",
+  "1902 : En 1902, la gare d'Issy-Plaine (actuellement gare d'Issy-Val de Seine) est ouverte à la jonction des lignes de Versailles et des Moulineaux, mais seuls les trains de cette dernière ligne y marquent l'arrêt dans un premier temps.",
+  "1905 : Le hameau des Moulineaux est rattaché à la ville d'Issy, le quartier des Moulineaux n'aura pas sa propre paroisse avant le début du XXe siècle, l'église Sainte-Lucie étant érigée en 1905.",
+  "1908 : Entre autres événements mémorables, le premier kilomètre en circuit fermé y est réalisé le 13 janvier 1908 par Henri Farman sur avion Voisin.",
+  "1910 : Durant la crue de la Seine de 1910, Issy-les-Moulineaux est inondée comme les villes voisines situées le long du fleuve.",
+  "1920 : Dans les années 1920, Citroën bâtit une usine à Issy-les-Moulineaux, pour faire face à la forte demande d'automobiles, son usine du quai de Javel à Paris ne suffisant pas à y répondre.",
+  "1960 : Les ensembles HLM actuels ont été construits autour des années 1960/1970 et ont été rénovés sans qu'il ait été envisagé de les reconstruire.",
+  "Lieu « Gare d'Issy-Val de Seine » : La gare d'Issy-Val de Seine est une gare ferroviaire française de la ligne des Invalides à Versailles-Rive-Gauche (dite ligne des Invalides), située sur le territoire de la commune d'Issy-les-Moulineaux dans le département des Hauts-de-Seine en régio",
+  "Lieu « Gare d'Issy-Val de Seine », 1889 : Lors de la création de la ligne des Moulineaux, mise en service en 1889, la gare des Moulineaux-Billancourt est ouverte afin d'assurer la desserte d'Issy, qui compte alors douze mille habitants et de nombreux emplois industriels.",
+  "Lieu « Gare d'Issy-Val de Seine », 1913 : Elle devient gare d'embranchement en 1913 avec l'ouverture de la ligne des Invalides.",
+  "Lieu « Gare d'Issy-Val de Seine », 1997 : En 1997, elle devient le terminus sud de la ligne T2, construite sur les infrastructures de la ligne des Moulineaux, avant son prolongement fin 2009 jusqu'à la porte de Versailles.",
+  "Lieu « Gare d'Issy-Val de Seine », aujourd'hui : Depuis le 21 novembre 2009, du fait du prolongement de cette ligne T2 jusqu'à la porte de Versailles, le terminus a laissé place à une station de passage.",
+  "Lieu « Château d'Issy » : Le château d'Issy, aujourd'hui détruit, était un château français situé sur le territoire de l'actuelle commune d'Issy-les-Moulineaux, située dans les Hauts-de-Seine.",
+  "Lieu « Château d'Issy », XIIIe siècle : L'emplacement du futur château d'Issy est occupé autour du XIIIe siècle par deux principales propriétés.",
+  "Lieu « Château d'Issy », 1622 : L'ensemble est vendu aux enchères le 23 août 1622 pour 22 000 livres (?) à M. de Choisy.",
+  "Lieu « Château d'Issy », 1695 : Cet achat est principalement dicté par le fait que le cousin du prince, Monseigneur, fils de Louis XIV et héritier du trône, s'est installé au château royal de Meudon voisin depuis 1695.",
+  "Lieu « Château d'Issy », aujourd'hui : Le château d'Issy, aujourd'hui détruit, était un château français situé sur le territoire de l'actuelle commune d'Issy-les-Moulineaux, située dans les Hauts-de-Seine.",
+  "Lieu « Traitement industriel des résidus urbains (Issy-les-Moulineaux) » : La TIRU d'Issy-les-Moulineaux, acronyme de « traitement industriel des résidus urbains », était une usine de traitement des déchets ménagers du Syctom (Syndicat mixte central de traitement des ordures ménagères) présente sur le territoire de la commu",
+  "Lieu « Traitement industriel des résidus urbains (Issy-les-Moulineaux) », 1970 : Mise en service au début de l'année 1970, l'usine a arrêté son activité en février 2006 et sa démolition s'est achevée en septembre 2010.",
+  "Lieu « Traitement industriel des résidus urbains (Issy-les-Moulineaux) », 2006 : Au regard des risques encourus, la cheminée accidentée a été détruite le dimanche 26 mars 2006 au matin.",
+  "Lieu « Traitement industriel des résidus urbains (Issy-les-Moulineaux) », 2010 : Un autre incendie frappe l'usine le mercredi 17 mars 2010 au soir, alors qu'elle est en cours de démantèlement.",
+  "Lieu « Traitement industriel des résidus urbains (Issy-les-Moulineaux) », aujourd'hui : Implantée sur l'emplacement d'une ancienne usine similaire, l'usine cesse son activité de combustion des déchets ménagers non recyclables à la fin du mois de février 2006 en raison du non-respect des normes de rejets atmosphériques fixées par une directive européenne.",
+  "Lieu « Île Saint-Germain » : L'île Saint-Germain est une île située sur la Seine.",
+  "Lieu « Île Saint-Germain », 1853 : La Société des Glaces et Verreries de Montluçon l'achète en 1853 et y édifie de grandes halles en bois.",
+  "Lieu « Île Saint-Germain », 1867 : L'Exposition universelle de 1867 y installe ses pavillons de l'Agriculture, transformés peu après en magasins de l'Intendance Militaire.",
+  "Lieu « Île Saint-Germain », 1942 : Située proche de l'île Seguin où étaient installées les usines Renault, l'île Saint-Germain est victime de dommages collatéraux en 1942 lors d'un bombardement des usines.",
+  "Lieu « Île Saint-Germain », aujourd'hui : À l'est, sur l'emplacement de l'actuel parc, un quartier industriel où se trouvait notamment des ateliers Renault.",
+  "Lieu « Tour aux figures » : La Tour aux figures est une sculpture monumentale conçue par l'artiste français Jean Dubuffet (1901-1985) et érigée de 1986 à 1988 à Issy-les-Moulineaux en France.",
+  "Lieu « Tour aux figures », 1901 : La Tour aux figures est une sculpture monumentale conçue par l'artiste français Jean Dubuffet (1901-1985) et érigée de 1986 à 1988 à Issy-les-Moulineaux en France.",
+  "Lieu « Tour aux figures », 1968 : La Tour aux figures est présentée pour la première fois en 1968 dans l'ouvrage Édifices, consacré aux projets d'œuvres monumentales de Jean Dubuffet publié lors de l'exposition Édifices, projets et maquettes d'architecture au musée des Arts décoratifs à Paris.",
+  "Lieu « Tour aux figures », 1973 : À l'étranger, en revanche, Jean Dubuffet réalise plusieurs grandes sculptures hourloupéennes, et construit, pour son propre usage, la Closerie Falbala, achevée en 1973, près de ses ateliers de sculpture dans le Val-de-Marne, à Périgny-sur-Yerres.",
+  "Lieu « Tour aux figures », aujourd'hui : Finalement, Jean Dubuffet accepte en janvier 1985 le site de l'île Saint-Germain et recommande que l'œuvre soit édifiée sur la petite butte où elle se trouve aujourd'hui.",
+  "Lieu « Manufacture des tabacs d'Issy-les-Moulineaux » : La Manufacture des tabacs d'Issy-les-Moulineaux, construite entre 1900 et 1904, est une ancienne manufacture des tabacs située 17 rue Ernest-Renan à Issy-les-Moulineaux.",
+  "Lieu « Manufacture des tabacs d'Issy-les-Moulineaux », 1900 : La Manufacture des tabacs d'Issy-les-Moulineaux, construite entre 1900 et 1904, est une ancienne manufacture des tabacs située 17 rue Ernest-Renan à Issy-les-Moulineaux.",
+  "Lieu « Manufacture des tabacs d'Issy-les-Moulineaux », 1900 : À la suite de la fermeture de la Manufacture des tabacs du Gros-Caillou située dans le 7e arrondissement de Paris, la direction générale des manufactures de l’État décide d'implanter une nouvelle manufacture à Issy-les-Moulineaux, qui sera construite entre 1900 et 1904.",
+  "Lieu « Manufacture des tabacs d'Issy-les-Moulineaux », 1989 : Les bâtiments sont réhabilités en logements, bureaux et commerces en 1989.",
+  "Lieu « Manufacture des tabacs d'Issy-les-Moulineaux », aujourd'hui : Les bâtiments subsistants accueillent un programme mixte de logements, de commerces et de bureaux depuis 1989.",
+  "Lieu « Séminaire Saint-Sulpice » : Le Séminaire Universitaire Saint-Sulpice (SUSS) est une maison de formation ecclésiastique de l'Église catholique de France dirigée par la Compagnie des prêtres de Saint Sulpice.",
+  "Lieu « Séminaire Saint-Sulpice », 1606 : Le séminaire a été construit sur l'emplacement d'un logis seigneurial que Marguerite de Valois acheta le 25 novembre 1606 à Jean de La Haye, un de ses marchands joailliers à Paris et où elle fit plusieurs séjours à la fin de sa vie.",
+  "Lieu « Séminaire Saint-Sulpice », 1615 : La propriété passa ensuite à Louis XIII en 1615, puis elle est vendue aux enchères le 30 août 1618 à Michel Sarrus, conseiller au Parlement de Paris.",
+  "Lieu « Séminaire Saint-Sulpice », XVIIe siècle : Fondé au XVIIe siècle par Jean-Jacques Olier, le séminaire offrait autrefois tout le programme d'études (philosophie et théologie) conduisant au sacerdoce.",
+  "Lieu « Gare des Moulineaux - Billancourt » : La gare des Moulineaux - Billancourt est une ancienne gare ferroviaire française de la ligne de Puteaux à Issy-Plaine (ligne des Moulineaux), devenue une station de tramway de la ligne 2 du tramway d'Île-de-France (ligne T2).",
+  "Lieu « Gare des Moulineaux - Billancourt », 1889 : La gare des Moulineaux - Billancourt a été en fonction sur la ligne de Puteaux à Issy-Plaine de 1889 à 1993, puis fermée et transformée en une station de tramway, ouverte en 1997.",
+  "Lieu « Gare des Moulineaux - Billancourt », 1993 : Fermée en 1993 pour permettre la conversion en tramway de la ligne, elle rouvre en 1997.",
+  "Lieu « Gare des Moulineaux - Billancourt », 2022 : Son bâtiment voyageurs, reconverti en habitation, est la seule gare isséenne qui a gardé, en 2022, son bâtiment voyageurs d'origine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

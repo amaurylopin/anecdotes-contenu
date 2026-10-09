@@ -1,0 +1,360 @@
+{
+ "commune": {
+  "titre": "Boulogne-Billancourt",
+  "code_insee": "92012",
+  "departement": "92",
+  "population": 119019,
+  "lat": 48.8351979,
+  "lon": 2.24094672,
+  "url": "https://fr.wikipedia.org/wiki/Boulogne-Billancourt"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:19:00",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3515,
+  "sortie": 2145
+ },
+ "cout_usd": 0.003384,
+ "accroche": "En 1790, la commune prend forme sous le nom de Boulogne-sur-Seine, par la réunion de Boulogne-la-Petite et de Boulogne-la-Petite (paroisse érigée en 1343).",
+ "histoire": {
+  "recit": "À Boulogne-Billancourt, la campagne verte et boisée du Haut Moyen Âge laisse vite place à un paysage plus dense. Vers 630, se dresse le pont de Saint-Cloud, et autour de 841, le gibet royal marque les lieux. Plus tard, un hameau de bûcherons de la paroisse d’Auteuil devient un village viticole à partir de 1109.\n\nAvant même la guerre de 1914-1918, la banlieue prend des airs ouvriers, puis, entre les deux guerres, André Morizet transforme la ville en une architecture typique des années Trente, où le cinéma français s’épanouit.\n\nSur la Seine, Île Seguin passe de brève propriété en 1793 à un réaménagement après la disparition des bâtiments industriels, avec une démolition de l’usine Renault du 29 mars 2004 au 8 mars 2005. Et au Musée départemental Albert-Kahn, les jardins ouvrent au public dès 1937, puis le parcours permanent se renouvelle après de grands travaux entrepris à partir de septembre 2016.",
+  "chronologie": [
+   {
+    "date": "1343",
+    "texte": "Boulogne-la-Petite est une paroisse érigée autour de l’église Notre-Dame de Boulogne sur Seyne.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Réunion réalisée sous le nom de Boulogne-sur-Seine, à partir des paroisses de Boulogne-la-Petite et de Boulogne-la-Petite (au sein de la commune).",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "vers 630",
+    "texte": "Le pont de Saint-Cloud se dresse vers 630.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 841",
+    "texte": "Autour de 841, le gibet royal signale le lieu.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "à partir de 1109",
+    "texte": "Un hameau de bûcherons (Les Menuls-lès-Saint-Cloud) devient un village viticole.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "La banlieue ouvrière est transformée entre les deux guerres, sous l’action d’André Morizet, en une ville marquée par les années Trente et le cinéma français.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "Au Musée départemental Albert-Kahn, les jardins sont ouverts au public et les projections d’autochromes reprennent.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1990",
+    "texte": "Le Musée départemental Albert-Kahn ouvre une galerie d’exposition de 650 m2.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "septembre 2016",
+    "texte": "De grands travaux sont entrepris pour un bâtiment d’exposition de 2 300 m2 et une rénovation, avec un nouveau parcours permanent.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2021",
+    "texte": "L’ensemble du jardin est désormais géré par Pierre-Emmanuel Schmitt, qui a pris la succession en 2021.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée départemental Albert-Kahn",
+   "histoire": "Installé à Boulogne-Billancourt, ce musée ouvre ses jardins au public en 1937 et élargit ses espaces d’exposition en 1990. À partir de septembre 2016, des travaux renouvellent les bâtiments et créent un nouveau parcours permanent.",
+   "anecdotes": [
+    {
+     "texte": "Dès 1937, les projections d’autochromes reprennent, comme un retour programmé de ces images.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "La direction du jardin se transmet : Pierre-Emmanuel Schmitt prend la succession en 2021.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.8417,
+   "lon": 2.2278,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_Albert-Kahn"
+  },
+  {
+   "nom": "Île Seguin",
+   "histoire": "Île Seguin est une île sur la Seine, dans l’ouest de la région parisienne. Elle connaît une propriété brève en 1793, puis des bâtiments industriels sont rasés en 2004-2005 avec la démolition de l’usine Renault.",
+   "anecdotes": [
+    {
+     "texte": "En 1793, l’île est brièvement la propriété d’un banquier, Jean-Baptiste Vandenyver, mort guillotiné quelques mois plus tard.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "La démolition de l’usine Renault démarre le 29 mars 2004 et s’achève le 8 mars 2005.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.823781,
+   "lon": 2.233242,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Seguin"
+  },
+  {
+   "nom": "Château Rothschild (Boulogne-Billancourt)",
+   "histoire": "Construit entre 1855 et 1861 dans le style Louis XIV à la demande du banquier James de Rothschild, le domaine s’étend ensuite avec l’annexion d’une folie voisine. Une partie du parc demeure aujourd’hui en parc public.",
+   "anecdotes": [
+    {
+     "texte": "En 1857, James de Rothschild annexe la folie de Buchillot, avec un vaste parc et trois bâtiments.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Avant 1925, un jardin est achevé après que l’horticulteur de Tokyo a « multiplié les scènes » et introduit une collection de végétaux.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.849722,
+   "lon": 2.233333,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Rothschild_%28Boulogne-Billancourt%29"
+  },
+  {
+   "nom": "Basilique Notre-Dame-de-Boulogne",
+   "histoire": "La basilique Notre-Dame-de-Boulogne, aussi appelée Notre-Dame-de-Boulogne-la-Petite ou Notre-Dame-des-Menus, est la plus ancienne des quatre églises paroissiales catholiques de la commune. Une basilique contemporaine la remplace après une destruction.",
+   "anecdotes": [
+    {
+     "texte": "Le mobilier de l’oratoire est inspiré par Carlo, avec un tabernacle installé le 27 avril 2025.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.845955,
+   "lon": 2.236501,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame-de-Boulogne"
+  },
+  {
+   "nom": "Square com",
+   "histoire": "Le Square Com se situe au cœur de la ZAC Seguin Rives de Seine. Le site a accueilli un atelier Renault dès 1891 et conserve des usages industriels plus récents.",
+   "anecdotes": [
+    {
+     "texte": "Dès 1891, Louis Renault installe un atelier et construit sa première voiture à l’âge de 21 ans.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.8266728,
+   "lon": 2.2313218,
+   "url": "https://fr.wikipedia.org/wiki/Square_com"
+  },
+  {
+   "nom": "Église de l'Immaculée-Conception de Boulogne-Billancourt",
+   "histoire": "Une chapelle portant le nom de l’Immaculée-Conception est construite en 1834, près de l’emplacement de l’église actuelle. Après une chapelle en bois provisoire en 1946, l’église précédente est détruite en 1966 par un incendie, puis un emplacement est fixé en 1956 pour la nouvelle église.",
+   "anecdotes": [
+    {
+     "texte": "Le 13 juillet 1966, l’église est détruite par un incendie dont on ne sait s’il était d’origine accidentelle ou criminelle.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 48.83166667,
+   "lon": 2.24805,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_l%27Immacul%C3%A9e-Conception_de_Boulogne-Billancourt"
+  },
+  {
+   "nom": "Pont de Saint-Cloud",
+   "histoire": "Le pont de Saint-Cloud relie Boulogne-Billancourt et Saint-Cloud au-dessus de la Seine. Après une reconstruction en 1940, le nom du pont se retrouve aussi dans la station de métro ouverte en 1981.",
+   "anecdotes": [
+    {
+     "texte": "En 1556, Henri II fait construire un pont constitué de onze arches de pierre de taille.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.841111,
+   "lon": 2.223611,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Saint-Cloud"
+  },
+  {
+   "nom": "Église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt",
+   "histoire": "Une chapelle est érigée en 1911 sur les plans de Paul Legrie, avant que la construction de l’église actuelle débute en 1926. Plus tard, l’édifice est transformé en école.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.83725,
+   "lon": 2.23379,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Th%C3%A9r%C3%A8se-de-l%27Enfant-J%C3%A9sus_de_Boulogne-Billancourt"
+  }
+ ],
+ "sources": [
+  "Boulogne-Billancourt (prononcé /bulɔɲ bijɑ̃kuʁ/ ; ) est une commune française des Hauts-de-Seine et de la métropole du Grand Paris en région Île-de-France, la troisième plus peuplée des communes franciliennes après Paris et Saint-Denis. Elle résulte de la réunion, réalisée sous le nom de Boulogne-sur-Seine en 1790, de Boulogne-la-Petite, paroisse érigée en 1343 autour de l'église Notre-Dame de Boulogne sur Seyne, et […]",
+  "Le futur Boulogne est au Haut Moyen Âge une campagne verte et boisée où se dresse vers 630, le pont de Saint-Cloud et autour de 841, le gibet royal. À partir de 1109, un hameau de bûcherons de la paroisse d'Auteuil, Les Menuls-lès-Saint-Cloud, se transforme en village viticole, illustrant la renaissance capétienne qu'exalte en 1260 la construction sur son terrain communal par sainte Isabelle de l'abbaye de […]",
+  "1914 : La banlieue ouvrière qu'elle est devenue dès avant la guerre de 1914-1918 est transformée entre les deux guerres par André Morizet en une ville à l'architecture typique des années Trente où s'épanouit le cinéma français.",
+  "Lieu « Musée départemental Albert-Kahn » : Le musée départemental Albert-Kahn est situé à Boulogne-Billancourt, dans le département des Hauts-de-Seine en France.",
+  "Lieu « Musée départemental Albert-Kahn », 1937 : En 1937, les jardins sont ouverts au public et les projections d'autochromes reprennent.",
+  "Lieu « Musée départemental Albert-Kahn », 1990 : En 1990, une galerie d'exposition de 650 m2 y est ouverte.",
+  "Lieu « Musée départemental Albert-Kahn », 2016 : À partir de septembre 2016, de grands travaux sont entrepris sous la direction de l'architecte Kengo Kuma, pour la construction d'un bâtiment d'exposition de 2 300 m2 et la rénovation des bâtiments existants, permettant l'accès au public à un nouveau parcours permanent.",
+  "Lieu « Musée départemental Albert-Kahn », aujourd'hui : L'ensemble du jardin est géré par un chef jardinier, actuellement Pierre-Emmanuel Schmitt, qui a pris la succession de Michel Farris et Romain Billon en 2021.",
+  "Lieu « Île Seguin » : L'île Seguin est une île sur la Seine, dans l'ouest de la région parisienne, dans le département des Hauts-de-Seine.",
+  "Lieu « Île Seguin », 1793 : Brève propriété d'un banquier en 1793, Jean-Baptiste Vandenyver, qui meurt guillotiné quelques mois plus tard, elle est disputée par les municipalités de Sèvres, Issy-les-Moulineaux et Auteuil lors des nouvelles délimitations de Paris.",
+  "Lieu « Île Seguin », 2004 : Les bâtiments industriels sont rasés en 2004-2005 et le site est réaménagé.",
+  "Lieu « Île Seguin », 2004 : La démolition des bâtiments de l'usine Renault se trouvant sur l'île a démarré le 29 mars 2004 et s'est achevée le 8 mars 2005.",
+  "Lieu « Île Seguin », aujourd'hui : Il irrigue les programmes des candidats aux municipales 2008 et débouche même sur l'engagement et la candidature du président de l'association, Sylvain Canet, qui mène une liste et poursuit encore actuellement[Quand ?] ce combat culturel pour l'île.",
+  "Lieu « Château Rothschild (Boulogne-Billancourt) » : Le château Rothschild est un château situé à Boulogne-Billancourt en France dans les Hauts-de-Seine.",
+  "Lieu « Château Rothschild (Boulogne-Billancourt) », 1855 : Il a été construit de 1855 à 1861 dans le style Louis XIV à la demande du banquier James de Rothschild.",
+  "Lieu « Château Rothschild (Boulogne-Billancourt) », 1857 : En 1857 James de Rothschild annexa une folie voisine, le château de Buchillot, avec son vaste parc : autrefois appelé château de Meulant, cette folie du XVIIIe siècle est composée de trois bâtiments dont la cour est fermée par un porche.",
+  "Lieu « Château Rothschild (Boulogne-Billancourt) », 1925 : Sur un hectare[réf. nécessaire], l’horticulteur de Tokyo put « multiplier les scènes et y introduire une magnifique collection de végétaux » ; le jardin fut achevé avant 1925 par le baron Edmond, qui en était devenu propriétaire après la mort de James (1868).",
+  "Lieu « Château Rothschild (Boulogne-Billancourt) », aujourd'hui : Quinze hectares du parc subsistent en parc public, le reste est à l’abandon avec le château ou a fait place à divers aménagements et constructions.",
+  "Lieu « Basilique Notre-Dame-de-Boulogne » : La basilique Notre-Dame-de-Boulogne, aussi appelée Notre-Dame-de-Boulogne-la-Petite ou Notre-Dame-des-Menus, est la plus ancienne des quatre églises paroissiales de l’Église catholique dans la commune française de Boulogne-Billancourt.",
+  "Lieu « Basilique Notre-Dame-de-Boulogne », 1827 : Celle-ci, détruite, fut remplacée par la basilique contemporaine, un édifice plus grand bâti entre 1827 et 1866.",
+  "Lieu « Basilique Notre-Dame-de-Boulogne », 1860 : L'édifice religieux est restauré en 1860.",
+  "Lieu « Basilique Notre-Dame-de-Boulogne », 2025 : Le mobilier de l'oratoire est inspiré par Carlo, tel le tabernacle installé le 27 avril 2025, correspondant aussi au jour de la première messe dans l'oratoire.",
+  "Lieu « Basilique Notre-Dame-de-Boulogne », aujourd'hui : La cérémonie fut célébrée dans le sanctuaire abritant la statue miraculeuse, à l'emplacement de l'actuelle basilique Notre-Dame-de-l'Immaculée-Conception.",
+  "Lieu « Square com » : Le Square Com est un bâtiment situé à Boulogne-Billancourt (Hauts-de-Seine), en France, au cœur de la ZAC Seguin Rives de Seine.",
+  "Lieu « Square com », 1891 : Dès 1891, Louis Renault installe un atelier de fabrication de voitures à Boulogne-Billancourt et y construit sa première voiture à l’âge de 21 ans.",
+  "Lieu « Square com », 1980 : À partir des années 1980, Renault doit faire face à l’ouverture du marché européen et à la concurrence du modèle de production japonais.",
+  "Lieu « Square com », 1985 : Initialement, le bâtiment devait occuper une place plus importante sur le Trapèze mais le plan ayant été abandonné en 1985, une partie seulement a été maintenue.",
+  "Lieu « Square com », aujourd'hui : Le site où est actuellement implanté Square Com a notamment été utilisé pour le dégraissage de pièces de moulage métalliques.",
+  "Lieu « Église de l'Immaculée-Conception de Boulogne-Billancourt » : L'église de l'Immaculée-Conception est une église paroissiale catholique située à Boulogne-Billancourt dans les Hauts-de-Seine et dépendant du diocèse de Nanterre, aux portes de Paris.",
+  "Lieu « Église de l'Immaculée-Conception de Boulogne-Billancourt », 1834 : En 1834 est construite une chapelle qui porte le nom de l’Immaculée-Conception, à 800 mètres de l’église actuelle et située au coin de la rue Nationale et de la rue Emile Pouget, actuellement place Bir-Hakeim.",
+  "Lieu « Église de l'Immaculée-Conception de Boulogne-Billancourt », 1946 : En 1946, une chapelle en bois provisoire est construite dans le cadre de la reconstruction.",
+  "Lieu « Église de l'Immaculée-Conception de Boulogne-Billancourt », 1966 : Cette église sera totalement détruite, le 13 juillet 1966, par un incendie dont on ne sait s’il était d’origine accidentelle ou criminelle.",
+  "Lieu « Église de l'Immaculée-Conception de Boulogne-Billancourt », aujourd'hui : Il fallut cependant attendre 1956 pour que l’emplacement de cette nouvelle église soit fixé au 63 rue du Dôme.",
+  "Lieu « Pont de Saint-Cloud » : Le pont de Saint-Cloud est un pont métallique qui enjambe la Seine entre l'avenue du Maréchal-de-Lattre-de-Tassigny à Boulogne-Billancourt et la place Georges-Clemenceau à Saint-Cloud, dans le département français des Hauts-de-Seine.",
+  "Lieu « Pont de Saint-Cloud », 1556 : Le pont de bois fut alors démoli et en 1556, son fils Henri II fit construire un magnifique pont constitué de onze arches de pierre de taille.",
+  "Lieu « Pont de Saint-Cloud », 1940 : Il fut ensuite reconstruit en 1940 et élargi à 30 mètres, pour une longueur de 186 mètres selon les plans de l'architecte Théo Sardnal.",
+  "Lieu « Pont de Saint-Cloud », 1981 : Le nom du pont est repris dans la dénomination de la station de métro Boulogne - Pont de Saint-Cloud, ouverte depuis le 2 octobre 1981.",
+  "Lieu « Pont de Saint-Cloud », aujourd'hui : Ce pont a lui-même été démoli durant la seconde Fronde et remplacé par un pont aux arches de bois.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt » : L’église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt est une église catholique du diocèse de Nanterre, située au numéro 62 de la rue de l'Ancienne Mairie à Boulogne-Billancourt.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt », 1911 : En 1911, la chapelle fut érigée sur les plans de l’architecte Paul Legrie sous le vocable de Sainte-Thérèse-d'Avila.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt », 1926 : La construction de l'église actuelle commença à partir de 1926, sous la direction de l’architecte Charles Bourdery, à l’issue d’un concours lancé en 1925 par le cardinal Dubois et le père Lieubray pour l'édification d'une basilique.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt », 2000 : Elle fut par la suite transformée en école et subsista jusqu'à la reconstruction de l'école Saint-François-d'Assise au début des années 2000.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Boulogne-Billancourt », aujourd'hui : La création de cette première chapelle provisoire, dont il ne reste rien, s'inscrivait dans le mouvement de catholicisme social."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}

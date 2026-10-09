@@ -1,0 +1,227 @@
+{
+ "commune": {
+  "titre": "Clamart",
+  "code_insee": "92023",
+  "departement": "92",
+  "population": 58576,
+  "lat": 48.7957,
+  "lon": 2.2518,
+  "url": "https://fr.wikipedia.org/wiki/Clamart"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:28:53",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2968,
+  "sortie": 1186
+ },
+ "cout_usd": 0.002076,
+ "accroche": "Le 1er juin 1961, dans le quartier des Monts entre Clamart et Issy-les-Moulineaux, un glissement de terrain dû à l’effondrement de carrières de craie a tué 21 personnes.",
+ "histoire": {
+  "recit": "Clamart, commune des Hauts-de-Seine, en banlieue sud-ouest de Paris, fait partie de la métropole du Grand Paris.\n\nAvant même les temps écrits, les premiers habitants seraient remontés à la Préhistoire : dans le bois de Clamart, on a découvert la Pierre aux Moines, ainsi que des outils en pierre polie. Bien plus tard, dès le VIIe siècle, un nom latin, Clemartium, apparaît.\n\nAu XXe siècle, l’histoire prend un tour tragique : le 1er juin 1961, des pluies exceptionnelles provoquent un effondrement de carrières de craie. Au quartier des Monts, la catastrophe fait 21 victimes, à proximité des rues Antoine-Courbarien et du Général-Négrier.\n\nLe reste du siècle, lui, montre aussi une autre énergie locale. En 1989, une vigne municipale est créée, et l’ancienne grange des vignerons devient un musée. Plus récemment, la Petite Bibliothèque ronde poursuit ses activités, y compris avec une heure du conte numérique.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "Le nom latin Clemartium est connu dès le VIIe siècle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1er juin 1961",
+    "texte": "Dans le quartier des Monts, à la limite entre Clamart et Issy-les-Moulineaux, un glissement de terrain lié à l’effondrement de carrières de craie, sous l’effet de pluies exceptionnelles, tue 21 personnes (rue Antoine-Courbarien, rue du Général-Négrier).",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "Création d’une vigne municipale de 193 pieds de vigne ; l’ancienne grange des vignerons est transformée en musée.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pierre aux Moines",
+   "histoire": "Mégalithe situé dans la forêt de Meudon, sur le territoire de Clamart, plus précisément dans le Bois de Clamart.",
+   "anecdotes": [
+    {
+     "texte": "L’Abbé Breuil prétendait avoir reconnu plusieurs ocelles dans la partie supérieure de la pierre, mais aucune gravure de ce type n’est désormais visible.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S18"
+   ],
+   "lat": 48.7952,
+   "lon": 2.2427,
+   "url": "https://fr.wikipedia.org/wiki/Pierre_aux_Moines"
+  },
+  {
+   "nom": "Attentat du Petit-Clamart",
+   "histoire": "Le Petit-Clamart désigne une tentative d’assassinat contre Charles de Gaulle, qui a lieu le 22 août 1962 à Clamart (aujourd’hui dans les Hauts-de-Seine).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9"
+   ],
+   "lat": 48.779,
+   "lon": 2.235337,
+   "url": "https://fr.wikipedia.org/wiki/Attentat_du_Petit-Clamart"
+  },
+  {
+   "nom": "La Petite Bibliothèque ronde",
+   "histoire": "Bibliothèque pour enfants fondée par l’association La Joie par les livres, dans le quartier populaire de la cité de Clamart.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La bibliothèque mise sur la création numérique, avec notamment une heure du conte numérique présente dans les activités proposées aujourd’hui.",
+   "sources": [
+    "S10",
+    "S14"
+   ],
+   "lat": 48.786078,
+   "lon": 2.247064,
+   "url": "https://fr.wikipedia.org/wiki/La_Petite_Biblioth%C3%A8que_ronde"
+  },
+  {
+   "nom": "Hôpital Antoine-Béclère",
+   "histoire": "Centre hospitalier universitaire public situé à Clamart, dans les Hauts-de-Seine.",
+   "anecdotes": [
+    {
+     "texte": "Des scènes de films ont été tournées dans l’hôpital ; dans Peur sur la ville, l’établissement porte le nom d’« Hôpital de la Trinité », comme l’indique un panneau à l’entrée.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S22"
+   ],
+   "lat": 48.78799,
+   "lon": 2.254676,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Antoine-B%C3%A9cl%C3%A8re"
+  },
+  {
+   "nom": "Gare de Clamart",
+   "histoire": "Gare ferroviaire de la ligne de Paris-Montparnasse à Brest, située sur le territoire de Clamart.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23"
+   ],
+   "lat": 48.813758,
+   "lon": 2.273003,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Clamart"
+  },
+  {
+   "nom": "Maison de retraite Ferrari",
+   "histoire": "Maison de retraite située à Clamart, fondée en 1878 par la duchesse de Galliera, Maria Brignole Sale De Ferrari.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S29"
+   ],
+   "lat": 48.798333333333,
+   "lon": 2.2622222222222,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_retraite_Ferrari"
+  },
+  {
+   "nom": "Clamart (métro de Paris)",
+   "histoire": "Anciennement Fort d’Issy - Vanves - Clamart (FIVC), Clamart est une future station de la ligne 15 du métro de Paris.",
+   "anecdotes": [
+    {
+     "texte": "Le collectif d’artistes danois Superflex accompagne le chantier avec des éléments poétiques et conçoit une œuvre pour la station, en collaboration avec l’architecte Philippe Gazeau.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.814125,
+   "lon": 2.2734,
+   "url": "https://fr.wikipedia.org/wiki/Clamart_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Avenue Jean-Jaurès (Clamart)",
+   "histoire": "Voie de communication à Clamart, autrefois vue comme l’artère principale de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.807676,
+   "lon": 2.268054,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Jean-Jaur%C3%A8s_%28Clamart%29"
+  }
+ ],
+ "sources": [
+  "Clamart est une commune française du département des Hauts-de-Seine, en région Île-de-France. Ville de la banlieue sud-ouest de Paris, elle fait partie de la métropole du Grand Paris.",
+  "Les premiers habitants de Clamart remontent à la Préhistoire comme l'indique la découverte, dans le bois de Clamart, du monument mégalithique appelé la Pierre aux Moines ainsi que d'outils en pierre polie. Un nom latin Clemartium était connu dès le VIIe siècle. Églises, couvents, évêques ont tour à tour possédé la terre de Clamart-sous-Meudon. Gui Ier de Rochefort, dit Gui Le Rouge, amortit les possessions du […]",
+  "1961 : Le 1er juin 1961, dans le quartier des Monts, à la limite entre Clamart et Issy-les-Moulineaux, un glissement de terrain dû à l’effondrement de carrières de craie, sous l'effet de pluies exceptionnelles, tua 21 personnes (rue Antoine-Courbarien, rue du Général-Négrier).",
+  "1989 : En 1989 est créée une vigne municipale de 193 pieds de vigne, et l'ancienne grange des vignerons est transformée en musée.",
+  "Lieu « Attentat du Petit-Clamart » : L'attentat du Petit-Clamart, désigné par ses auteurs sous le nom d'opération Charlotte Corday, est un attentat, plus précisément une tentative d'assassinat contre Charles de Gaulle, président de la République française, qui a lieu le 22 août 1962 à C",
+  "Lieu « Attentat du Petit-Clamart », 1943 : L'intitulé faisait référence à la Résistance à l'occupant allemand durant la Seconde Guerre mondiale, Bidault ayant lui-même occupé le poste de président du CNR (fédérant l'ensemble des mouvements de la Résistance) à la suite de Jean Moulin en 1943.",
+  "Lieu « Attentat du Petit-Clamart », 1954 : En effet, les partisans du général de Gaulle misaient sur un changement radical de politique gouvernementale fondée sur le maintien de l'intégrité du territoire républicain, et donc de la poursuite de la politique de « pacification » dans les départements français d'Algérie menée depuis 1954.",
+  "Lieu « Attentat du Petit-Clamart », 1964 : Deux ans après l'attentat, la DS 19 endommagée est restaurée, les impacts de balles étant effacés, puis est vendue le 15 octobre 1964 au général Robert-Pol Dupuy, ancien commandant militaire de l'Élysée.",
+  "Lieu « Attentat du Petit-Clamart », aujourd'hui : L'attentat du Petit-Clamart, désigné par ses auteurs sous le nom d'opération Charlotte Corday, est un attentat, plus précisément une tentative d'assassinat contre Charles de Gaulle, président de la République française, qui a lieu le 22 août 1962 à Clamart dans le département de la Seine (aujourd'hui dans les Hauts-de-Seine).",
+  "Lieu « La Petite Bibliothèque ronde » : La Petite Bibliothèque Ronde ou bibliothèque des enfants de Clamart, anciennement La Joie par les livres, est une bibliothèque pour enfants de renommée mondiale, fondée par l'association La Joie par les livres dans le quartier populaire de la cité de",
+  "Lieu « La Petite Bibliothèque ronde », 1965 : C'est grâce au mécénat d'Anne Gruner Schlumberger que la bibliothèque a ouvert en 1965.",
+  "Lieu « La Petite Bibliothèque ronde », 1965 : Au moment de son ouverture en 1965, les bibliothécaires employés à Clamart avaient été formés en France, en plus d’avoir travaillé pour de prestigieuses bibliothèques étrangères.",
+  "Lieu « La Petite Bibliothèque ronde », 2016 : Une tribune intitulée \"l'Appel de Clamart : Sauver la Petite Bibliothèque Ronde\" et signée par six intellectuels est publiée dans Libération le 27 octobre 2016.",
+  "Lieu « La Petite Bibliothèque ronde », aujourd'hui : En plus, la bibliothèque mise sur la création numérique, par exemple avec l’heure du conte numérique encore présent dans la proposition d’activités aujourd’hui.",
+  "Lieu « Pierre aux Moines » : La Pierre aux Moines est le nom donné à un mégalithe situé dans la forêt de Meudon, plus précisément dans la partie dénommée Bois de Clamart, sur le territoire de la commune de Clamart (département des Hauts-de-Seine).",
+  "Lieu « Pierre aux Moines », 1875 : L'édifice est dessiné par Vacquer, conservateur adjoint au Musée Carnavalet, en 1875.",
+  "Lieu « Pierre aux Moines », 1938 : Grunewald a publié une étude en 1938 détaillant comment la confusion s'est opérée entre les deux édifices.",
+  "Lieu « Pierre aux Moines », aujourd'hui : L'Abbé Breuil prétendait avoir reconnu plusieurs ocelles dans la partie supérieure de la pierre mais aucune gravure de ce type n'est désormais visible.",
+  "Lieu « Hôpital Antoine-Béclère » : L’hôpital Antoine-Béclère est un centre hospitalier universitaire (CHU) public du GHU Assistance publique - Hôpitaux de Paris - Université Paris-Saclay, situé à Clamart dans les Hauts-de-Seine, en France.",
+  "Lieu « Hôpital Antoine-Béclère », 1967 : L'hôpital de Clamart a été édifié de 1967 à 1971 selon les plans de l'architecte Henri Pottier.",
+  "Lieu « Hôpital Antoine-Béclère », 1971 : Il a été construit en 1971 par les architectes Jacques Vial et Henri Pottier.",
+  "Lieu « Hôpital Antoine-Béclère », aujourd'hui : Des scènes des films suivants ont été tournées dans cet hôpital : Peur sur la ville (1975) d'Henri Verneuil ; Dans ce film, l'établissement porte le nom d'« Hôpital de la Trinité » comme l'indique un panneau posée à l'entrée et visible à l'occasion de plusieurs scènes.",
+  "Lieu « Gare de Clamart » : La gare de Clamart est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune de Clamart, dans le département des Hauts-de-Seine, en région Île-de-France.",
+  "Lieu « Gare de Clamart », 1840 : Elle est mise en service le 10 septembre 1840 avec l'ouverture de la voie entre la gare de Paris-Montparnasse et la gare de Versailles-Rive-Gauche.",
+  "Lieu « Gare de Clamart », 1904 : En 1904, il est fait appel à l'architecte A. Raguenet pour construire un autre bâtiment plus grand et situé de l'autre côté des rails.",
+  "Lieu « Gare de Clamart », XXe siècle : Elle a été détruite vers le milieu du XXe siècle pour être remplacée par une gare plus moderne.",
+  "Lieu « Maison de retraite Ferrari » : La maison de retraite Ferrari située à Clamart (département des Hauts-de-Seine, France), a été fondée en 1878 par la duchesse de Galliera, Maria Brignole Sale De Ferrari.",
+  "Lieu « Maison de retraite Ferrari », 1878 : La maison de retraite Ferrari située à Clamart (département des Hauts-de-Seine, France), a été fondée en 1878 par la duchesse de Galliera, Maria Brignole Sale De Ferrari.",
+  "Lieu « Maison de retraite Ferrari », 1983 : Le bâtiment a été ajouté à la liste des monuments architecturaux français (base Mérimée) en tant que monument historique en 1983, 2003 et 2019.",
+  "Lieu « Clamart (métro de Paris) » : Clamart, anciennement Fort d'Issy - Vanves - Clamart (FIVC) est une future station de la ligne 15 du métro de Paris.",
+  "Lieu « Clamart (métro de Paris) », 1993 : Le collectif d'artistes danois Superflex fondé en 1993 accompagne le chantier par une série d'éléments poétiques qui animent le quartier de la station et conçoit une œuvre pour la station en collaboration avec l'architecte Philippe Gazeau.",
+  "Lieu « Clamart (métro de Paris) », 2019 : À la mi-octobre 2019, le gros œuvre de la station est achevé.",
+  "Lieu « Avenue Jean-Jaurès (Clamart) » : L'avenue Jean-Jaurès est une voie de communication située à Clamart dans les Hauts-de-Seine, autrefois vue comme l'artère principale de la commune.",
+  "Lieu « Avenue Jean-Jaurès (Clamart) », XIXe siècle : Aux no 70, no 163, no 173 et no 225, des maisons construites entre la fin du XIXe siècle et le début du XXe siècle, inscrites dans la base Mérimée.",
+  "Lieu « Avenue Jean-Jaurès (Clamart) », 1908 : Au no 47bis, un immeuble construit en 1908 par l'architecte A. Monod."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

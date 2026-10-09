@@ -1,0 +1,373 @@
+{
+ "commune": {
+  "titre": "Courbevoie",
+  "code_insee": "92026",
+  "departement": "92",
+  "population": 82902,
+  "lat": 48.8976,
+  "lon": 2.2574,
+  "url": "https://fr.wikipedia.org/wiki/Courbevoie"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:22:40",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3534,
+  "sortie": 2210
+ },
+ "cout_usd": 0.003469,
+ "accroche": "Le 21 mars 1915, des bombes parties d’un Zeppelin allemand tombent à Courbevoie, notamment au 188 boulevard de Courbevoie, au 17 rue Jules-Ferry et au 8 rue Louis-Ulbach.",
+ "histoire": {
+  "recit": "Courbevoie commence comme un petit hameau de pêcheurs et de vignerons, dépendant de l’abbaye de Saint-Wandrille au VIIIe siècle, puis passant sous l’autorité de l’abbé de Saint-Denis au XIIe siècle. Au milieu du XIIe siècle, les habitants achètent leur liberté pour vendre librement leurs produits, sans corvée. En 1658, un couvent dit des Pénitents est fondé. Plus tard, le pont de la ville, d’abord en bois, est reconstruit en pierre au XVIIIe siècle par Jean-Rodolphe Perronet.\n\nLa commune traverse aussi des épisodes plus sombres : le 21 mars 1915, des bombes venues d’un Zeppelin frappent plusieurs adresses. Puis les évolutions industrielles et urbaines s’enchaînent : en 1938, le pont est remplacé par un ouvrage métallique achevé en 1946 ; et en 1976, l’usine de Courbevoie ferme définitivement. À La Défense, le paysage se redessine encore, avec la tour First et la tour Europlaza, tandis que le Pavillon des Indes, aujourd’hui, a été remplacé par Magnakobo en 2022-2023.",
+  "chronologie": [
+   {
+    "date": "VIIIe siècle",
+    "texte": "Courbevoie dépend de l’abbaye de Saint-Wandrille.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Le village passe sous l’autorité de l’abbé de Saint-Denis.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "milieu du XIIe siècle",
+    "texte": "Les habitants achètent leur liberté pour vendre librement, sans corvée.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1658",
+    "texte": "Fondation du couvent des Pénitents par Jean-Baptiste Forne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Reconstruction du pont en pierre par Jean-Rodolphe Perronet.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "21 mars 1915",
+    "texte": "Des bombes lancées d’un Zeppelin explosent à plusieurs adresses de Courbevoie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1938",
+    "texte": "Remplacement du pont par un pont métallique.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1946",
+    "texte": "Le pont métallique est achevé.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "Fermeture définitive de l’usine de Courbevoie.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pavillon des Indes",
+   "histoire": "Le Pavillon des Indes britanniques est un ancien pavillon construit pour l’Exposition universelle de 1878 à Paris et situé aujourd’hui dans la commune de Courbevoie, accolé au parc de Bécon.",
+   "anecdotes": [
+    {
+     "texte": "Les pavillons installés à l’origine suivent des destins mouvementés : une partie part vers la station de Saint-Malo (Paramé), puis est endommagée et finalement détruite vers 1905 par une violente tempête.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Le pavillon a été remplacé par Magnakobo en 2022-2023.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S12"
+   ],
+   "lat": 48.8996,
+   "lon": 2.26811,
+   "url": "https://fr.wikipedia.org/wiki/Pavillon_des_Indes"
+  },
+  {
+   "nom": "Tour First",
+   "histoire": "La tour First, aussi appelée tour CB31, occupe une place marquante dans le quartier d’affaires et a connu une histoire de construction puis de transformation.",
+   "anecdotes": [
+    {
+     "texte": "À l’origine, elle est construite sous le nom de « Tour Assur », avant d’être transformée ensuite en plusieurs étapes entre 2007 et 2011.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "Elle serait construite à l’emplacement d’un lieu de tournage du film « Le Chat » ; on y verrait un quartier de Courbevoie en pleine démolition remplacé par de grandes tours.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S17"
+   ],
+   "lat": 48.888889,
+   "lon": 2.251667,
+   "url": "https://fr.wikipedia.org/wiki/Tour_First"
+  },
+  {
+   "nom": "Bécon-les-Bruyères",
+   "histoire": "Bécon-les-Bruyères est un lieu-dit des Hauts-de-Seine regroupant des quartiers de plusieurs communes, dont celui de Bécon (Courbevoie).",
+   "anecdotes": [
+    {
+     "texte": "D’après une carte postale, la rue de Bécon est inondée lors de la crue de la Seine de 1910, avec une eau montée jusqu’à 2,50 mètres dans le bas-Bécon.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Le musée Roybet Fould occupe la villa atelier de Consuelo Fould, fondatrice en 1927 et elle-même peintre.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.9042,
+   "lon": 2.2669,
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A9con-les-Bruy%C3%A8res"
+  },
+  {
+   "nom": "Gare de Courbevoie",
+   "histoire": "La gare de Courbevoie se trouve sur le territoire de la commune, sur la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite.",
+   "anecdotes": [
+    {
+     "texte": "La station est ouverte le 8 octobre 1838, mais une délibération municipale du 4 mars 1838 prévoit l’édification sur un site précis après un vote (douze voix contre cinq).",
+     "statut": "etabli",
+     "sources": [
+      "S24",
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.898412,
+   "lon": 2.248528,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Courbevoie"
+  },
+  {
+   "nom": "Faubourg de l'Arche",
+   "histoire": "Le Faubourg de l’Arche est un quartier de Courbevoie dont la reconstruction commence au nord de l’Arche de la Défense, dans les années 1990.",
+   "anecdotes": [
+    {
+     "texte": "Le 30 mars, le quartier subit une explosion accidentelle de la CLIMADEF, centrale de climatisation du quartier de la Défense.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.896133,
+   "lon": 2.238067,
+   "url": "https://fr.wikipedia.org/wiki/Faubourg_de_l%27Arche"
+  },
+  {
+   "nom": "Halte de Courbevoie-Sport",
+   "histoire": "La halte de Courbevoie-Sport est une ancienne halte ferroviaire de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite, liée à l’aménagement du quartier Aristide-Briand.",
+   "anecdotes": [
+    {
+     "texte": "En 1936, la halte est ouverte pour assurer la desserte périodique du cynodrome de Courbevoie, puis ferme en 1951 quand la vogue des courses de lévriers passe.",
+     "statut": "etabli",
+     "sources": [
+      "S35",
+      "S36"
+     ]
+    },
+    {
+     "texte": "Ses quais abandonnés restent visibles entre les gares de Bécon-les-Bruyères et de Courbevoie.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ses quais abandonnés sont toujours visibles entre les gares de Bécon-les-Bruyères et de Courbevoie.",
+   "sources": [
+    "S37"
+   ],
+   "lat": 48.901533,
+   "lon": 2.257538,
+   "url": "https://fr.wikipedia.org/wiki/Halte_de_Courbevoie-Sport"
+  },
+  {
+   "nom": "Boulevard de Verdun (Courbevoie)",
+   "histoire": "Le boulevard de Verdun est une voie de communication à Courbevoie, dont certains bâtiments changent d’usage au fil du temps.",
+   "anecdotes": [
+    {
+     "texte": "En 1907, la Société des travaux automobiles et mécaniques s’installe sur le boulevard de Verdun ; ensuite, les locaux sont occupés par Air France pour l’entretien des moteurs au Centre de Révision de Courbevoie jusqu’en 1974.",
+     "statut": "etabli",
+     "sources": [
+      "S39",
+      "S40"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S42"
+   ],
+   "lat": 48.90185,
+   "lon": 2.25929,
+   "url": "https://fr.wikipedia.org/wiki/Boulevard_de_Verdun_%28Courbevoie%29"
+  },
+  {
+   "nom": "Tour Europlaza",
+   "histoire": "La tour Europlaza, ancienne tour Septentrion, est un gratte-ciel de bureaux situé dans le quartier d’affaires de La Défense sur le territoire de Courbevoie.",
+   "anecdotes": [
+    {
+     "texte": "La tour est construite en 1972 et rénovée en 1999, avant d’être rattachée à la propriété de la société Cegereal en 2019.",
+     "statut": "etabli",
+     "sources": [
+      "S46",
+      "S47"
+     ]
+    },
+    {
+     "texte": "L’architecte Pierre Dufau est choisi pour construire une tour sur une parcelle non bâtie au nord du nouveau quartier d’affaires de La Défense, alors que l’Epad n’existe pas encore.",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43",
+    "S44",
+    "S46",
+    "S47"
+   ],
+   "lat": 48.891667,
+   "lon": 2.245,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Europlaza"
+  }
+ ],
+ "sources": [
+  "Courbevoie (/kuʁ.bə.vwa/) est une commune française située dans le département des Hauts-de-Seine en région Île-de-France, à l'ouest de Paris, sur la rive gauche de la Seine. Le quartier de La Défense, principal quartier d'affaires de l'agglomération parisienne, s'étend en partie sur Courbevoie, le reste étant partagé entre les communes de Puteaux, Nanterre et La Garenne-Colombes. Courbevoie, siège de la Société […]",
+  "Au départ[Quand ?], Courbevoie était un petit hameau de pêcheurs et de vignerons. Au VIIIe siècle, le village dépendait de l'abbaye de Saint-Wandrille (dans la Seine-Maritime, près de Caudebec-en-Caux) ; puis passa sous l'autorité de l'abbé de Saint-Denis au XIIe siècle. Au milieu du XIIe siècle, les Courbevoisiens achètent leur liberté pour vendre librement leurs produits, sans corvée. Cependant, le village […]",
+  "1658 : Avant la Révolution, il existait à Courbevoie un couvent dit des Pénitents, fondé en 1658 par Jean-Baptiste Forne.",
+  "XVIIIe siècle : Le pont initialement en bois fut reconstruit en pierre au XVIIIe siècle par Jean-Rodolphe Perronet, ingénieur du roi.",
+  "1915 : Le 21 mars 1915, durant la Première Guerre mondiale, plusieurs bombes, lancées d'un ballon dirigeable allemand Zeppelin, explosent au no 188 boulevard de Courbevoie, au no 17 rue Jules-Ferry, au no 8 rue Louis-Ulbach et au no 40 rue Armand-Silvestre.",
+  "1938 : En 1938, il fut remplacé par un pont métallique achevé en 1946.",
+  "1976 : Après l'énorme succès du Solex en France et à l'étranger (sept millions d'exemplaires vendus), l'usine de Courbevoie, déjà à l'arrêt, ferme définitivement en 1976.",
+  "Lieu « Pavillon des Indes » : Le pavillon des Indes britanniques (ou pavillon indien) est un ancien pavillon construit pour l'Exposition universelle de 1878 à Paris et situé aujourd'hui dans la commune française de Courbevoie, dans les Hauts-de-Seine, accolé au parc de Bécon.",
+  "Lieu « Pavillon des Indes », 1878 : Le pavillon des Indes britanniques (ou pavillon indien) est un ancien pavillon construit pour l'Exposition universelle de 1878 à Paris et situé aujourd'hui dans la commune française de Courbevoie, dans les Hauts-de-Seine, accolé au parc de Bécon.",
+  "Lieu « Pavillon des Indes », 1905 : La principale fut ainsi transférée vers la station balnéaire de Saint-Malo (Paramé), mais endommagée par un coup de vent puis détruite vers 1905 par une violente tempête.",
+  "Lieu « Pavillon des Indes », 1905 : L’une partit dans la station balnéaire de Paramé mais fut détruite vers 1905 ou 1911 par une violente tempête.",
+  "Lieu « Pavillon des Indes », aujourd'hui : Il est remplacé par Magnakobo en 2022-2023.",
+  "Lieu « Tour First » : La tour First (tour « Première » en français), également appelée tour CB31, est le second plus haut gratte-ciel de France derrière la tour The Link, qui a récemment ouvert en 2026.",
+  "Lieu « Tour First », 1974 : Construite initialement en 1974 (connue alors sous le nom de « Tour Assur »), la tour a été transformée en 2007-2011.",
+  "Lieu « Tour First », 1974 : La tour initiale, conçue par l'architecte Pierre Dufau, est construite en 1974 pour le compte de l'Union des assurances de Paris par Bouygues.",
+  "Lieu « Tour First », 2026 : La tour First (tour « Première » en français), également appelée tour CB31, est le second plus haut gratte-ciel de France derrière la tour The Link, qui a récemment ouvert en 2026.",
+  "Lieu « Tour First », aujourd'hui : Cette tour serait construite à l'emplacement du lieu de tournage du film Le Chat sorti en 1971 (avec Jean Gabin et Simone Signoret), où l'on voit effectivement un quartier de Courbevoie en pleine démolition, remplacé par de grandes tours.",
+  "Lieu « Bécon-les-Bruyères » : Bécon-les-Bruyères est un lieu-dit du département des Hauts-de-Seine regroupant des quartiers de trois communes, en banlieue de Paris : le quartier de Bécon (commune de Courbevoie) et le quartier des Bruyères (communes d’Asnières-sur-Seine et de Bois",
+  "Lieu « Bécon-les-Bruyères », XVIIIe siècle : Le château est reconstruit par l'architecte Jean-Jacques Huvé à la fin du XVIIIe siècle.",
+  "Lieu « Bécon-les-Bruyères », 1910 : D'après une carte postale d'époque (La Banlieue parisienne inondée, A. Noyer), la rue de Bécon fut inondée par la Crue de la Seine de 1910, le niveau de l'eau montant à 2,50 mètres dans le quartier du bas-Bécon.",
+  "Lieu « Bécon-les-Bruyères », 1927 : Fondé en 1927 par Consuelo Fould, petite fille du banquier Achille Fould qui fut ministre des finances sous Napoléon III, le musée Roybet Fould occupe la villa atelier de la fondatrice, par ailleurs peintre.",
+  "Lieu « Bécon-les-Bruyères », aujourd'hui : Cependant, en 845, Ragnar Lodbrok réussit à dépasser cet emplacement en remontant la Seine, et parvint à envahir Paris.",
+  "Lieu « Gare de Courbevoie » : La gare de Courbevoie est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite située sur le territoire de la commune de Courbevoie, dans le département des Hauts-de-Seine en région Île-de-France.",
+  "Lieu « Gare de Courbevoie », 1838 : La station est ouverte le 8 octobre 1838 par la Société anonyme du chemin de fer de Paris à Saint-Cloud et Versailles.",
+  "Lieu « Gare de Courbevoie », 1838 : Le 4 mars 1838, le conseil municipal propose, après délibération qui a donné douze voix pour et cinq contre, que celle-ci soit édifiée sur le site de la route de Bezons (actuelles rue de Bezons et avenue Marceau), contre le site de la route du Havre (actuel boulevard de la Mission-Marchand).",
+  "Lieu « Gare de Courbevoie », 1839 : Elle rouvre définitivement en août 1839, lors de l'ouverture complète de la ligne jusqu'à Versailles.",
+  "Lieu « Gare de Courbevoie », aujourd'hui : C'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains de la ligne L du Transilien (réseau Paris-Saint-Lazare).",
+  "Lieu « Faubourg de l'Arche » : Le Faubourg de l'Arche est un quartier de Courbevoie (Hauts-de-Seine en France), dont la reconstruction a débuté dans les années 1990, au nord de l'Arche de la Défense.",
+  "Lieu « Faubourg de l'Arche », 1993 : 1993 : lancement des travaux de construction du pôle d'enseignement supérieur Léonard-de-Vinci qui sera inauguré en 1995.",
+  "Lieu « Faubourg de l'Arche », 1994 : 1994 : explosion accidentelle de la CLIMADEF (centrale de climatisation du quartier de la Défense) le 30 mars.",
+  "Lieu « Faubourg de l'Arche », 2004 : 2004 : fin des acquisitions foncières et des démolitions.",
+  "Lieu « Faubourg de l'Arche », aujourd'hui : Aujourd’hui le Faubourg de l’Arche et un quartier cosmopolite de la classe moyenne.",
+  "Lieu « Halte de Courbevoie-Sport » : La halte de Courbevoie-Sport est une ancienne halte ferroviaire française de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite, située sur la commune de Courbevoie, dans le département des Hauts-de-Seine en région Île-de-France.",
+  "Lieu « Halte de Courbevoie-Sport », 1935 : Le 2 mai 1935, dans le cadre de l'aménagement du nouveau quartier Aristide-Briand, un grand stade est inauguré à Courbevoie, le long de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite.",
+  "Lieu « Halte de Courbevoie-Sport », 1936 : Ouverte en 1936 par l'administration des chemins de fer de l'État pour assurer la desserte périodique du cynodrome de Courbevoie, elle ferme en 1951.",
+  "Lieu « Halte de Courbevoie-Sport », 1951 : La vogue des courses de lévriers étant passée, le cynodrome ferme en 1951 puis est rapidement démoli.",
+  "Lieu « Halte de Courbevoie-Sport », aujourd'hui : Ses quais abandonnés sont toujours visibles entre les gares de Bécon-les-Bruyères et de Courbevoie.",
+  "Lieu « Boulevard de Verdun (Courbevoie) » : Le boulevard de Verdun est une voie de communication située à Courbevoie.",
+  "Lieu « Boulevard de Verdun (Courbevoie) », 1907 : No 107 : la Société des travaux automobiles et mécaniques (TAM) est installée ici de 1907 à 1925 .",
+  "Lieu « Boulevard de Verdun (Courbevoie) », 1974 : Puis les locaux sont occupés par Air France, qui y entretient ses moteurs au Centre de Révision de Courbevoie (CRC) jusqu'en 1974.",
+  "Lieu « Boulevard de Verdun (Courbevoie) », 1991 : * No 63-angle 15 boulevard Aristide-Briand : Espace Carpeaux, complexe culturel édifié en 1991.",
+  "Lieu « Boulevard de Verdun (Courbevoie) », aujourd'hui : No 160 : à cet endroit s'ouvre, dans les années 1910, une « succursale-atelier » aujourd'hui démolie du constructeur automobile Berliet.",
+  "Lieu « Tour Europlaza » : La tour Europlaza (ancienne tour Septentrion) est un gratte-ciel de bureaux situé dans le quartier d'affaires de La Défense, en France, sur le territoire de la commune de Courbevoie (Hauts de Seine).",
+  "Lieu « Tour Europlaza », 1908 : L'architecte Pierre Dufau (1908-1985) est choisi pour construire une tour sur une parcelle alors non bâtie du nord du nouveau quartier d'affaires de La Défense — d'où le premier nom de Septentrion de la tour — et alors que l'Epad n'existe pas encore.",
+  "Lieu « Tour Europlaza », 1969 : Dufau a alors déjà construit plusieurs immeubles de bureaux dont ceux de la banque Rothschild en 1969.",
+  "Lieu « Tour Europlaza », 1972 : Construite en 1972 et entièrement rénovée en 1999, elle est haute de 135 mètres pour 31 étages.",
+  "Lieu « Tour Europlaza », aujourd'hui : La tour est aujourd'hui (2019) la propriété de la société foncière française Cegereal dont c'est le plus important des 5 immeubles qu'elle possède."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 13
+ }
+}
