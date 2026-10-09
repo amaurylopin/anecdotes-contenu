@@ -1,0 +1,355 @@
+{
+ "commune": {
+  "titre": "Chalon-sur-Saône",
+  "code_insee": "71076",
+  "departement": "71",
+  "population": 45102,
+  "lat": 46.7896,
+  "lon": 4.8509,
+  "url": "https://fr.wikipedia.org/wiki/Chalon-sur-Sa%C3%B4ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:36:44",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3894,
+  "sortie": 2654
+ },
+ "cout_usd": 0.004096,
+ "accroche": "En 1863, les Établissements Thurillet & Pinette, fondés par Gustave Pinette à Chalon-sur-Saône, se spécialisent dans la fabrication et la réparation de machines industrielles.",
+ "histoire": {
+  "recit": "À Chalon-sur-Saône, on commence par le combat et les reconstructions : la ville subit des destructions et des incendies, puis se dote de fortifications. Au fil des siècles, les églises sont touchées, des ordres religieux marquent l’architecture, et le port gagne en fluidité grâce à de vrais quais. Plus tard, la ville organise son commerce avec une halle aux grains, puis s’industrialise avec des chantiers qui lui valent le surnom de « Petit Creusot ». La gare arrive et transforme les déplacements. Au XXe siècle, la ville connaît la séparation de la ligne de démarcation pendant la Seconde Guerre mondiale. Aujourd’hui, plusieurs sites racontent ces changements : le Musée Denon, l’Abattoir et, aux abords du patrimoine urbain, la cathédrale Saint-Vincent et la synagogue.",
+  "chronologie": [
+   {
+    "date": "732",
+    "texte": "La ville est détruite par les Sarrasins.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "mi-siècle après 732",
+    "texte": "Elle est rebâtie par Charlemagne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "834",
+    "texte": "La ville est incendiée par Lothaire.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "937",
+    "texte": "La ville est prise d’assaut par les Hongrois.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1168",
+    "texte": "À nouveau, la ville est prise d’assaut, cette fois par Louis VII le Jeune, irrité contre le comte Guillaume.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Le Châtelet est rebâti ; il sera transformé en prison et en palais de justice au XVIIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1478",
+    "texte": "La ville est assiégée en 1478 par les troupes de Louis XI, avant de revenir à la couronne de France.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1547",
+    "texte": "Une citadelle est construite à partir de 1547, sous la conduite de Girolamo Bellarmato avec Jean de Renaud, dit Saint Remy.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1591",
+    "texte": "La citadelle n’est terminée qu’en 1591.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "milieu du XVIe siècle",
+    "texte": "L’hôpital de l’île Saint-Laurent est fondé et agrandi sous l’égide d’Abigaïl Mathieu.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1552",
+    "texte": "Les églises sont pillées lors d’affrontements entre catholiques et protestants.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1692",
+    "texte": "L’hospice Saint-Louis est construit au quartier Sainte-Marie.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Pour le trafic du port, de véritables quais sont construits au XVIIIe siècle.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1856",
+    "texte": "Après trente-cinq ans de discussion, Chalon se dote d’une halle aux grains, aujourd’hui place de Gaulle.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "La halle aux grains est transformée en salle de cinéma par le Comité des fêtes.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Le Musée Denon est inauguré, avec deux sections : histoire et beaux-arts, sciences naturelles.",
+    "sources": [
+     "S17",
+     "S18"
+    ]
+   },
+   {
+    "date": "1863",
+    "texte": "Les Établissements Thurillet & Pinette sont fondés par Gustave Pinette.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "17 juin 1940",
+    "texte": "Sur la ligne de démarcation, Chalon-sur-Saône est scindée et la partie nord occupée.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "L’Abattoir devient un centre national des arts de la rue et de l’espace public.",
+    "sources": [
+     "S45"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée Denon",
+   "histoire": "Le Musée Denon est un musée d’art municipal inauguré en 1866. Le bâtiment est élevé en 1820 par Mercadier, d’après les dessins de Jacques-François Carbillet, dans un goût néo-classique. L’inauguration de 1866 se fait avec une section consacrée à l’histoire et aux beaux-arts, et une autre aux sciences naturelles. Le musée conserve encore aujourd’hui l’influence de ce rôle auprès de ses riverains et contribue à la conservation de sites archéologiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 46.780947,
+   "lon": 4.852293,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Denon"
+  },
+  {
+   "nom": "Le Petit Creusot",
+   "histoire": "L’appellation « Petit Creusot » désigne des chantiers créés à Chalon-sur-Saône en 1839 par Adolphe Schneider. Les activités de construction concernent aussi des locomotives ; entre 1864 et 1868, 136 ponts sont commandés, et des bâtiments à ossature métallique sont évoqués. Un chantier devait être baptisé L’Antigone mais ne sera jamais achevé ; sa carcasse est ferraillée en 1950. Plus tard, le site devient un point de départ pour les générateurs de vapeur et pour un atelier de construction Framatome. Aujourd’hui, il abrite notamment le CETIC, Packinox Alpha-Laval, la Chambre de commerce et d’industrie, le centre d’affaires Pont Jean Richard et l’IUT.",
+   "anecdotes": [
+    {
+     "texte": "Un chantier aurait dû porter le nom de L’Antigone, mais il ne sera jamais achevé et sa carcasse finit ferraillée en 1950.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site abrite aujourd’hui le CETIC, Packinox Alpha-Laval, la Chambre de commerce et d’industrie de Saône et Loire, le centre d’affaires Pont Jean Richard et l’IUT de Chalon-sur-Saône.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 46.770879521658,
+   "lon": 4.8536477161541,
+   "url": "https://fr.wikipedia.org/wiki/Le_Petit_Creusot"
+  },
+  {
+   "nom": "Stade Léo-Lagrange (Chalon-sur-Saône)",
+   "histoire": "Le stade Léo-Lagrange est un complexe sportif à Chalon-sur-Saône. La construction débute au début de l’année 1959 : le stade est installé en contrebas d’une butte construite pour accueillir les gradins et protéger le terrain du vent. Après sept années de travaux, le complexe est inauguré en 1966. À cette occasion, le Racing Club Chalon quitte son stade originel pour le nouveau complexe. Un emplacement en plein champ, au nord de la ville, est choisi pour accueillir le futur grand stade.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un emplacement en plein champ, au nord de la ville est choisi pour accueillir le futur grand stade.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 46.81142,
+   "lon": 4.84795,
+   "url": "https://fr.wikipedia.org/wiki/Stade_L%C3%A9o-Lagrange_%28Chalon-sur-Sa%C3%B4ne%29"
+  },
+  {
+   "nom": "Cathédrale Saint-Vincent de Chalon-sur-Saône",
+   "histoire": "La cathédrale Saint-Vincent se trouve place Saint-Vincent. On parle d’une première église édifiée sur l’ancien rempart gallo-romain à la place d’un temple antique. L’église primitive est agrandie par saint Agricole, détruite en 732 par les Sarrasins, puis reconstruite par Charlemagne, qui y convoque le Concile de 813. La façade ouest, aujourd’hui visible au-dessus du marché de la place Saint-Vincent, est construite de 1822 à 1844 et adopte le style néo-gothique. Les parties romane et gothique restent distinguables : les vestiges roman s’organisent en plusieurs chantiers, des chapelles à absidioles jusqu’aux piliers et arcades de la nef centrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Deux périodes sont à distinguer : l’âge roman et l’âge gothique, avec des vestiges répartis selon plusieurs chantiers et zones.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 46.7825,
+   "lon": 4.859167,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Vincent_de_Chalon-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "Abbaye médiévale Saint-Pierre de Chalon-sur-Saône",
+   "histoire": "L’abbaye médiévale Saint-Pierre est une abbaye de Chalon-sur-Saône. Elle est décrite comme une abbaye bénédictine fondée à la fin du VIe siècle, située en haut de la ville. Un mur à bandes lombardes d’un bâtiment de l’abbaye du XIe siècle se conserve dans la Rue Donneau. Après les destructions par les Huguenots en 1562, le site est transformé en citadelle. Il reste aussi des vestiges de l’ancien réfectoire de style roman.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il reste des vestiges de l’ancien réfectoire de style roman.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 46.78656,
+   "lon": 4.85209,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_m%C3%A9di%C3%A9vale_Saint-Pierre_de_Chalon-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "Synagogue de Chalon-sur-Saône",
+   "histoire": "La synagogue de Chalon-sur-Saône se situe au 10, rue Germigny. Vers la fin du IXe siècle, une communauté juive de Chalon-sur-Saône est mentionnée pour la première fois : en 829, l’évêque Agobard de Lyon contraint des enfants chalonnais de confession juive à se convertir au catholissisme. La synagogue actuelle est située dans l’ancienne chapelle du couvent des carmélites, édifiée au XVIIe siècle à l’emplacement d’un ancien couvent des clarisses. Elle est inaugurée en 1882 par son donateur monsieur Diloff. Aujourd’hui, la communauté compte 21 familles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La communauté compte aujourd’hui 21 familles.",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 46.78308,
+   "lon": 4.8626,
+   "url": "https://fr.wikipedia.org/wiki/Synagogue_de_Chalon-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "L'Abattoir",
+   "histoire": "L’Abattoir est un centre national des arts de la rue et de l’espace public de France depuis 2005. Le bâtiment est construit en 1865, proche de la Saône pour faciliter le nettoyage. En 1990, les abattoirs municipaux ferment ; le site est alors investi par des musiciens, graffeurs et amateurs de théâtre de rue. Aujourd’hui, il s’organise autour d’une salle de concert, « LaPéniche », et du centre culturel des arts de la rue.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site accueille une salle de concert « LaPéniche » et le centre culturel des arts de la rue.",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 46.7751,
+   "lon": 4.84519,
+   "url": "https://fr.wikipedia.org/wiki/L%27Abattoir"
+  },
+  {
+   "nom": "Gare de Chalon-sur-Saône",
+   "histoire": "La gare de Chalon-sur-Saône est une gare ferroviaire française sur la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune. En 1849, lors de l’arrivée de la ligne venant de Paris (inaugurée le 1er septembre), une première gare terminus est construite dans le centre, près de la place de l’obélisque. Le prolongement vers Lyon est inauguré en juin 1851. Le tracé des voies vers Chalon-Ville est aujourd’hui occupé par le boulevard de la République.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le tracé des voies vers Chalon-Ville est aujourd’hui occupé par le boulevard de la République.",
+   "sources": [
+    "S49",
+    "S50",
+    "S51",
+    "S52"
+   ],
+   "lat": 46.781435,
+   "lon": 4.842886,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Chalon-sur-Sa%C3%B4ne"
+  }
+ ],
+ "sources": [
+  "Chalon-sur-Saône (prononcé : /ʃa.lɔ̃.syʁ.son/) est une commune française située dans le département de Saône-et-Loire en région Bourgogne-Franche-Comté. Avec 45 102 habitants au dernier recensement de 2023, Chalon-sur-Saône est classée 147e ville de France (sur 35 357 communes) ; la plus peuplée de Saône-et-Loire (devant Mâcon, le chef-lieu), 4e ville de la région Bourgogne-Franche-Comté (après Dijon, Besançon et […]",
+  "Malgré de très nombreux vestiges archéologiques trouvés dans le lit de la Saône (Bronze tardif et La Tène (second Âge du Fer)), on connait peu de traces avant la période antique classique. Un site gaulois est attesté à quelques kilomètres au sud de la ville actuelle, sur la rive droite de la Saône, sur la commune de Lux. La cité est mentionnée pour la première fois dans la Guerre des Gaules de Jules César (VII, 42 […]",
+  "1168 : La ville fut détruite par les Sarrasins en 732 ; rebâtie par Charlemagne un demi-siècle plus tard ; incendiée en 834 par Lothaire ; prise d'assaut par les Hongrois en 937 et à nouveau en 1168 par Louis VII le Jeune, irrité contre le comte Guillaume.",
+  "XIVe siècle : Plus souvent nommé le Châtelet, il fut rebâti au XIVe siècle et transformé en prison et en palais de justice au XVIIIe siècle.",
+  "1478 : La ville est à encore assiégée en 1478 par les troupes de Louis XI, puis revient, grâce à ce dernier alors prince, à la couronne de France, après avoir appartenu aux ducs de Bourgogne.",
+  "1547 : Une citadelle est construite, à partir de 1547, sous la conduite de l'architecte italien Girolamo Bellarmato en partage avec Jean de Renaud, dit Saint Remy ; elle ne sera terminée qu'en 1591.",
+  "XVIe siècle : L'hôpital de l'île Saint-Laurent, fondé au milieu du XVIe siècle, est agrandi sous l'égide d'Abigaïl Mathieu.",
+  "1552 : En 1552, les églises sont pillées lors des affrontements qui opposent catholiques et protestants.",
+  "XVIIe siècle : Le XVIIe siècle voit, avec la Contre-Réforme, un foisonnement d'ordres religieux qui couvrent la ville de nombreux couvents, dont les bâtiments marquent encore l'architecture urbaine contemporaine.",
+  "1692 : L'hospice Saint-Louis est construit au quartier Sainte-Marie en 1692.",
+  "XVIIIe siècle : Pour améliorer le trafic du port de la ville, de véritables quais sont construits au XVIIIe siècle.",
+  "1856 : En 1856, après trente-cinq ans de discussion, Chalon se dote d'une halle aux grains (actuelle place de Gaulle) ; halle qui sera transformée par le Comité des fêtes en 1913 en salle de cinéma puis « salle à tout faire ».",
+  "1863 : La première société d'importance fut les Établissements Thurillet & Pinette, fondés par Gustave Pinette en 1863, spécialisés dans la fabrication et la réparation de machines industrielles.",
+  "1940 : Au cours de la Seconde Guerre mondiale, Chalon-sur-Saône, située sur la ligne de démarcation, est scindée en deux et la partie nord occupée à partir du 17 juin 1940.",
+  "Lieu « Musée Denon » : Le musée Denon est un musée d'art municipal français inauguré en 1866, situé à Chalon-sur-Saône en Saône-et-Loire.",
+  "Lieu « Musée Denon », 1820 : Le bâtiment est élevé en 1820 par Mercadier, d'après les dessins de Jacques-François Carbillet, dans un goût néo-classique.",
+  "Lieu « Musée Denon », 1866 : Le musée Denon est un musée d'art municipal français inauguré en 1866, situé à Chalon-sur-Saône en Saône-et-Loire.",
+  "Lieu « Musée Denon », 1866 : Le musée est inauguré en 1866 avec deux sections, celle de l’histoire et des beaux-arts et celle des sciences naturelles.",
+  "Lieu « Musée Denon », aujourd'hui : Elle a toujours eu une grande influence sur la vie de ses riverains et constitue encore actuellement un lieu de conservation pour de nombreux sites archéologiques.",
+  "Lieu « Le Petit Creusot » : L'appellation Petit Creusot désigne les chantiers qui furent créés à Chalon-sur-Saône en 1839 par Adolphe Schneider, cogérant de Schneider frères et Cie au Creusot.",
+  "Lieu « Le Petit Creusot », 1864 : Celle-ci est liée à l'activité importante de construction de locomotives pour les compagnies PLM (dont Eugène Schneider fait partie du conseil d'administration) et Paris-Orléans, qui commandent naturellement un grand nombre de ponts (136) entre 1864 et 1868. la construction de bâtiments à ossature métallique (en 1857).",
+  "Lieu « Le Petit Creusot », 1950 : Celui-ci, qui aurait dû être baptisé L'Antigone, ne sera jamais achevé, et sa carcasse sera finalement ferraillée en 1950.",
+  "Lieu « Le Petit Creusot », 1970 : Ce sera l'origine de les premières fabrications de générateurs de vapeur pour les centrales nucléaires et du premier atelier de construction Framatome à Chalon, construit dans son périmètre en 1970.",
+  "Lieu « Le Petit Creusot », aujourd'hui : Ce site abrite aujourd'hui : le CETIC (GIE de Framatome-EDF, Framatome Services) chargé de la maintenance des composants de centrales nucléaires, la société Packinox Alpha-Laval, spécialiste d'échangeur de chaleur à plaques, la Chambre de commerce et d'industrie de Saône et Loire, le centre d'affaires Pont Jean Richard et l'IUT de Chalon-sur-Saône.",
+  "Lieu « Stade Léo-Lagrange (Chalon-sur-Saône) » : Le stade Léo-Lagrange est un complexe sportif situé à Chalon-sur-Saône, en France.",
+  "Lieu « Stade Léo-Lagrange (Chalon-sur-Saône) », 1959 : La construction du complexe commence au début de l'année 1959, avec le terrassement, le stade est construit en contrebas d'une butte construite pour y accueillir les gradins et protéger le terrain, du vent.",
+  "Lieu « Stade Léo-Lagrange (Chalon-sur-Saône) », 1966 : En 1966, après sept années de construction, le complexe est inauguré, le stade est présenté dans Architecture Française.",
+  "Lieu « Stade Léo-Lagrange (Chalon-sur-Saône) », 1966 : Le complexe est inauguré en 1966 et dès lors le Racing Club Chalon, club de rugby évoluant alors au niveau national, quitte son stade originel pour le nouveau complexe.",
+  "Lieu « Stade Léo-Lagrange (Chalon-sur-Saône) », aujourd'hui : Un emplacement en plein champ, au nord de la ville est choisi pour accueillir le futur grand stade.",
+  "Lieu « Cathédrale Saint-Vincent de Chalon-sur-Saône » : La cathédrale Saint-Vincent de Chalon-sur-Saône est une cathédrale catholique située place Saint-Vincent, à Chalon-sur-Saône, dans le département français de Saône-et-Loire.",
+  "Lieu « Cathédrale Saint-Vincent de Chalon-sur-Saône », Ve siècle : On parle des IVe et Ve siècles et l'on sait qu'une première église fut édifiée sur l’ancien rempart gallo-romain à la place d’un temple antique.",
+  "Lieu « Cathédrale Saint-Vincent de Chalon-sur-Saône », 732 : L’église primitive fut agrandie par saint Agricole, détruite en 732 par les Sarrasins et reconstruite par Charlemagne qui y convoqua le Concile de 813.",
+  "Lieu « Cathédrale Saint-Vincent de Chalon-sur-Saône », 1822 : La façade ouest, qui se dresse au-dessus du marché de la place Saint-Vincent et qui date du XIXe siècle (elle fut construite de 1822 à 1844), fut la première à adopter le style néo-gothique (elle remplace celle, qui a été détruite et qui comportait un clocher roman).",
+  "Lieu « Cathédrale Saint-Vincent de Chalon-sur-Saône », aujourd'hui : Deux périodes sont à distinguer : l'âge roman et l'âge gothique : L'âge roman, partagé en trois chantiers : de 1090 à 1100 : il subsiste les chapelles à absidioles sud et nord. de 1120 à 1130 : il subsiste le rez-de-chaussée du chœur et les bras du transept. à partir de 1150 : il en reste les piliers et les arcades de la nef centrale et les deux […]",
+  "Lieu « Abbaye médiévale Saint-Pierre de Chalon-sur-Saône » : L'abbaye médiévale Saint-Pierre est une abbaye de Chalon-sur-Saône dans le département français de Saône-et-Loire et la région Bourgogne-Franche-Comté.",
+  "Lieu « Abbaye médiévale Saint-Pierre de Chalon-sur-Saône », VIe siècle : L'abbaye bénédictine Saint-Pierre, fondée à la fin du VIe siècle, se trouvait en haut de la ville.",
+  "Lieu « Abbaye médiévale Saint-Pierre de Chalon-sur-Saône », XIe siècle : Dans la Rue Donneau est conservé un mur à bandes lombardes d'un bâtiment de l'abbaye du XIe siècle.",
+  "Lieu « Abbaye médiévale Saint-Pierre de Chalon-sur-Saône », 1562 : Après les destructions par les Huguenots, en 1562, le site fut transformé en citadelle.",
+  "Lieu « Abbaye médiévale Saint-Pierre de Chalon-sur-Saône », aujourd'hui : Il reste également des vestiges de l'ancien réfectoire de style roman.",
+  "Lieu « Synagogue de Chalon-sur-Saône » : La synagogue de Chalon-sur-Saône est une synagogue située au 10, rue Germigny à Chalon-sur-Saône dans le département français de Saône-et-Loire.",
+  "Lieu « Synagogue de Chalon-sur-Saône », 829 : C'est vers la fin du IXe siècle que la communauté juive de Chalon-sur-Saône est mentionnée pour la première fois, lorsqu'en 829, l'évêque Agobard de Lyon contraint des enfants chalonnais de confession juive de se convertir au catholissisme.",
+  "Lieu « Synagogue de Chalon-sur-Saône », XVIIe siècle : La synagogue actuelle est située dans l'ancienne chapelle du couvent des carmélites, édifiée au XVIIe siècle à l'emplacement d'un ancien couvent des clarisses.",
+  "Lieu « Synagogue de Chalon-sur-Saône », 1882 : Elle fut inaugurée en 1882 par son donateur monsieur Diloff.",
+  "Lieu « Synagogue de Chalon-sur-Saône », aujourd'hui : La communauté compte aujourd’hui 21 familles.",
+  "Lieu « L'Abattoir » : L'Abattoir est un centre national des arts de la rue et de l'espace public de France depuis 2005.",
+  "Lieu « L'Abattoir », 1865 : Construit en 1865, proche de la Saône pour faciliter son nettoyage, le bâtiment est fait de briques et de moellons de pierre.",
+  "Lieu « L'Abattoir », 1990 : Ces abattoirs municipaux sont fermés en 1990, le site est alors investi par des musiciens, graffeurs et amateurs de théâtre de rue.",
+  "Lieu « L'Abattoir », aujourd'hui : Aujourd'hui sous une forme plus structurée, s'y côtoient une salle de concert \"LaPéniche\", et le centre culturel des arts de la rue.",
+  "Lieu « Gare de Chalon-sur-Saône » : La gare de Chalon-sur-Saône est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune de Chalon-sur-Saône, dans le département de Saône-et-Loire, en région Bourgogne-Franche-Comté.",
+  "Lieu « Gare de Chalon-sur-Saône », 1849 : En 1849, lors de l'arrivée de la ligne venant de Paris, inaugurée le 1er septembre, une première gare terminus a été construite dans le centre de Chalon, près de la place de l'obélisque.",
+  "Lieu « Gare de Chalon-sur-Saône », 1851 : Le prolongement de la ligne, vers Lyon, sera inauguré en juin 1851.",
+  "Lieu « Gare de Chalon-sur-Saône », aujourd'hui : Le tracé des voies vers Chalon-Ville est aujourd'hui occupé par le boulevard de la République."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,316 @@
+{
+ "commune": {
+  "titre": "Mâcon",
+  "code_insee": "71270",
+  "departement": "71",
+  "population": 35177,
+  "lat": 46.3062,
+  "lon": 4.8313,
+  "url": "https://fr.wikipedia.org/wiki/M%C3%A2con"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:45:13",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3541,
+  "sortie": 2530
+ },
+ "cout_usd": 0.003871,
+ "accroche": "En 1814, Mâcon a été envahie par les armées autrichiennes puis libérée deux fois par les troupes françaises, selon la chronique locale.",
+ "histoire": {
+  "recit": "Mâcon, capitale du Mâconnais et préfecture de Saône-et-Loire, s’est développée sur un ancien établissement celte : un oppidum et un port fluvial des Éduens, cités par Jules César, sous le nom de Matisco.\n\nAu fil des événements, la ville traverse les crises et les reconstructions. En 1814, elle subit une invasion autrichienne avant d’être libérée à deux reprises.\n\nPlus tard, les choix d’aménagement marquent les quartiers : de 1953 à 1977, le maire Louis Escande lance des opérations d’urbanisme qui entraînent la destruction de zones historiques.\n\nAutour de la ville, des lieux racontent des strates successives. À l’Église Saint-Clément de Mâcon, un petit édifice du VIe siècle accueille des sépultures, puis des fouilles mettent au jour des dizaines de sarcophages et les fondations d’une église funéraire. La Cathédrale Vieux-Saint-Vincent conserve, elle, le souvenir d’incendies et de restaurations, tandis que l’Hospice de la Charité naît sous l’impulsion de Saint-Vincent de Paul et s’installe encore aujourd’hui dans un bâtiment reconstruit après l’insalubrité. Au quotidien enfin, la Gare de Mâcon-Ville, construite en 1854, puis transformée après la Seconde Guerre mondiale, et le Centre nautique Paul-Bert, créé après-guerre, animent la ville.",
+  "chronologie": [
+   {
+    "date": "Ier siècle av. J.-C.",
+    "texte": "La ville, alors nommée Matisco, est citée par Jules César, avec l’origine de l’oppidum et du port fluvial des Éduens.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "Mâcon est envahie par les armées autrichiennes puis libérée deux fois par les troupes françaises.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1953",
+    "texte": "Louis Escande devient maire et lance des opérations d’urbanisme qui entraînent la destruction de zones historiques.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Clément de Mâcon",
+   "histoire": "Rattachée en 1856 à Mâcon, l’église Saint-Clément a été précédée, à son emplacement, par un petit édifice religieux du VIe siècle accueillant des sépultures des premiers évêques du diocèse de Mâcon. Le bâtiment construit au XIXe siècle est désaffecté depuis 1973. Des fouilles, entre cette date et 1993, mettent au jour plusieurs dizaines de sarcophages et les fondations d’une église funéraire construite au VIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Entre 1973 et 1993, les fouilles révèlent « plusieurs dizaines de sarcophages » et les fondations d’une église funéraire du VIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Cinq édifices se sont succédé à cet emplacement.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 46.29753,
+   "lon": 4.82098,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Cl%C3%A9ment_de_M%C3%A2con"
+  },
+  {
+   "nom": "Église cathédrale Saint-Vincent de Mâcon",
+   "histoire": "L’édifice remplace, au tout début du XIXe siècle, la cathédrale primitive de Mâcon (aujourd’hui appelée le Vieux-Saint-Vincent). L’édification de la nouvelle cathédrale Saint-Vincent est décidée après le Concordat de 1801 et financée par l’empereur Napoléon. Nommée initialement église Saint-Napoléon, elle est construite à l’emplacement d’un ancien temple romain et conçue par Guy de Gisors, dans un style néoclassique.",
+   "anecdotes": [
+    {
+     "texte": "Le 4 mars 1869, les obsèques de Lamartine ont lieu dans l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S14",
+    "S12",
+    "S13"
+   ],
+   "lat": 46.30722,
+   "lon": 4.83122,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_cath%C3%A9drale_Saint-Vincent_de_M%C3%A2con"
+  },
+  {
+   "nom": "Centre culturel Louis-Escande",
+   "histoire": "Le Centre culturel Louis-Escande est une salle de spectacle située à Mâcon, construite entre 1971 et 1975. Imaginé par l’architecte Robert Levasseur, l’édifice est situé sur l’avenue Charles-de-Gaulle. Inauguré en 1975 sous le nom Saônora, il a une vocation culturelle. Aujourd’hui, il héberge la Scène nationale de Mâcon.",
+   "anecdotes": [
+    {
+     "texte": "Inauguré en 1975 sous le nom Saônora, le lieu affiche une large vocation culturelle avec théâtre et expositions.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Construit entre 1971 et 1975, l’édifice est labellisé « Patrimoine du XXe siècle » depuis 2015.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 46.315834,
+   "lon": 4.83742,
+   "url": "https://fr.wikipedia.org/wiki/Centre_culturel_Louis-Escande"
+  },
+  {
+   "nom": "Hôtel de Rossan de Davayé",
+   "histoire": "L’hôtel de Rossan de Davayé est un hôtel particulier situé sur le territoire de la commune de Mâcon. Les sources évoquent un bâti antérieur possible dès le XIVe siècle, puis décrivent l’hôtel construit au XVIIe siècle par Brice Bauderon de Senecé. En janvier 1795, le château de Rossan est vendu selon les conditions consignées dans les archives mentionnées.",
+   "anecdotes": [
+    {
+     "texte": "En janvier 1795, le château de Rossan est vendu pour le prix de 152.000 livres payables en assignats, précisé comme ne représentant que 33.440 livres en numéraire.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 46.305702,
+   "lon": 4.830688,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Rossan_de_Davay%C3%A9"
+  },
+  {
+   "nom": "Cathédrale Vieux-Saint-Vincent de Mâcon",
+   "histoire": "La cathédrale Saint-Vincent de Mâcon est désignée par rétronymie Vieux Saint-Vincent et correspond à la cathédrale primitive dédiée à Vincent de Saragosse. Un incendie ravage le nouveau sanctuaire (vers la fin du Xe siècle), puis une cathédrale romane succède aux ruines. Début du XVIIe siècle, des restaurations significatives sont entreprises : pavement de marbre, stalles, autels, remplacement de l’orgue vendu par les protestants et commande de tableaux. En 1792, un arrêté du 16 juin fait perdre au carillon quatre de ses six cloches, la plus grosse étant « dame Barbe ».",
+   "anecdotes": [
+    {
+     "texte": "En 1792, la cloche la plus grosse du carillon s’appelle « dame Barbe », donnée pour un poids de 5 300 livres.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "Un incendie ravage le nouveau sanctuaire, avant qu’une cathédrale romane ne lui succède vers la fin du Xe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.30635,
+   "lon": 4.83459,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Vieux-Saint-Vincent_de_M%C3%A2con"
+  },
+  {
+   "nom": "Hospice de la Charité (Mâcon)",
+   "histoire": "L’Hospice de la Charité, aussi appelé hôtel Soufflot, est une ancienne institution de la Charité de Mâcon située au 249 rue Carnot. Il est fondé en 1621 par Saint-Vincent de Paul à la suite d’un bref séjour : il est frappé par le nombre de pauvres, comptés par lui « plusieurs centaines ». En 1721, il existe déjà 143 pensionnaires, ce qui conduit à démolir les maisons devenues insuffisantes. En 1744, l’insalubrité oblige les recteurs à reconstruire un nouveau bâtiment, qui persiste de nos jours.",
+   "anecdotes": [
+    {
+     "texte": "En 1621, Saint-Vincent de Paul aurait compté « plusieurs centaines » de pauvres lors de son séjour à Mâcon.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    },
+    {
+     "texte": "En 1721, on compte 143 pensionnaires avant une reconstruction rendue nécessaire par l’insuffisance des lieux.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 46.30297,
+   "lon": 4.83166,
+   "url": "https://fr.wikipedia.org/wiki/Hospice_de_la_Charit%C3%A9_%28M%C3%A2con%29"
+  },
+  {
+   "nom": "Gare de Mâcon-Ville",
+   "histoire": "La Gare de Mâcon-Ville est une gare ferroviaire des lignes reliant Paris-Lyon à Marseille-Saint-Charles, Mâcon à Ambérieu et Moulins à Mâcon. Construit en 1854, le bâtiment comprend un corps central à trois ouvertures, avec deux étages et des combles. Le 20 juillet 1857, la gare est reliée avec Ambérieu et, avec l’ouverture du dernier tronçon de la ligne de Mâcon à Ambérieu, les relations se précisent. Le bâtiment monumental d’origine, dû à l’architecte Alexis Cendrier, est détruit à la fin de la Seconde Guerre mondiale et remplacé par un bâtiment dans le style des années 1950.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 46.302505,
+   "lon": 4.824365,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_M%C3%A2con-Ville"
+  },
+  {
+   "nom": "Centre nautique Paul-Bert",
+   "histoire": "Le Centre nautique Paul-Bert est un centre nautique situé à Mâcon. Construit entre 1947 et 1949 et imaginé par l’architecte Barnabé Augros, l’édifice est labellisé « Patrimoine du XXe siècle » depuis 2015. Il comprend une piscine de plein air et un centre d’aviron. Aujourd’hui, son architecture est décrite comme aérée, avec des auvents, des portiques et des galeries conçus pour abriter du soleil.",
+   "anecdotes": [
+    {
+     "texte": "Lors de sa mise en place entre 1947 et 1949, le centre réunit une piscine de plein air et un centre d’aviron.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 46.31761,
+   "lon": 4.84046,
+   "url": "https://fr.wikipedia.org/wiki/Centre_nautique_Paul-Bert"
+  }
+ ],
+ "sources": [
+  "Mâcon est une commune française, capitale du Mâconnais, préfecture du département de Saône-et-Loire, dans la région Bourgogne-Franche-Comté. Au dernier recensement (2023), la commune comptait 35 177 habitants tandis que son aire d'attraction, qui s'étend sur trois départements, rassemble 140 394 habitants. Il s'agit ainsi de la troisième plus grande ville de Bourgogne derrière Dijon et Chalon-sur-Saône, et devant […]",
+  "L'agglomération mâconnaise tire son origine de l'établissement d'un oppidum et d'un port fluvial par le peuple celte des Éduens. Elle est citée par Jules César au Ier siècle av. J.-C.. Connue alors sous le nom de Matisco, la ville se développe rapidement au cours des deux premiers siècles de notre ère. Les recherches archéologiques n'ont pas permis de dresser un plan précis de la ville durant cette période antique. […]",
+  "1814 : En 1814, la ville fut envahie par les armées autrichiennes puis libérée deux fois par les troupes françaises.",
+  "1953 : Maire SFIO de Mâcon de 1953 à 1977, Louis Escande lance de nombreuses opérations d'urbanisme entraînant la destruction de zones historiques et l'édification de nombreux quartiers de tours.",
+  "Lieu « Église Saint-Clément de Mâcon » : L'église Saint-Clément est une église catholique située dans l'ancienne commune de Saint-Clément-lès-Mâcon rattachée en 1856 à Mâcon, en Bourgogne, en France.",
+  "Lieu « Église Saint-Clément de Mâcon », VIe siècle : À l'origine, un petit édifice religieux du VIe siècle était installé à l'emplacement de l'édifice et accueillait les sépultures des premiers évêques du diocèse de Mâcon.",
+  "Lieu « Église Saint-Clément de Mâcon », 1973 : Le bâtiment construit au XIXe siècle est désaffecté depuis 1973 à cause de sa trop petite taille et de sa vétusté.",
+  "Lieu « Église Saint-Clément de Mâcon », 1993 : Des fouilles sont alors effectuées entre cette date et 1993 qui ont mis au jour « plusieurs dizaines de sarcophages et les fondations d’une église funéraire construite au VIe siècle ».",
+  "Lieu « Église Saint-Clément de Mâcon », aujourd'hui : Cinq édifices se sont succédé à cet emplacement.",
+  "Lieu « Église cathédrale Saint-Vincent de Mâcon » : L'église cathédrale Saint-Vincent de Mâcon est l’édifice religieux ayant remplacé au tout début du XIXe siècle la cathédrale primitive de Mâcon, aujourd’hui appelée le Vieux-Saint-Vincent.",
+  "Lieu « Église cathédrale Saint-Vincent de Mâcon », 1801 : L’édification de la nouvelle cathédrale Saint-Vincent est décidée après le Concordat de 1801 et financée par l’empereur Napoléon.",
+  "Lieu « Église cathédrale Saint-Vincent de Mâcon », XIXe siècle : L'église cathédrale Saint-Vincent de Mâcon est l’édifice religieux ayant remplacé au tout début du XIXe siècle la cathédrale primitive de Mâcon, aujourd’hui appelée le Vieux-Saint-Vincent.",
+  "Lieu « Église cathédrale Saint-Vincent de Mâcon », 1869 : Le 4 mars 1869 eurent lieu dans l'édifice les obsèques de Lamartine mort le 28 février.",
+  "Lieu « Église cathédrale Saint-Vincent de Mâcon », aujourd'hui : Nommée initialement église Saint-Napoléon, elle est construite à l’emplacement d’un ancien temple romain et conçue par Guy de Gisors, dans un style néoclassique.",
+  "Lieu « Centre culturel Louis-Escande » : Le centre culturel Louis-Escande est une salle de spectacle située à Mâcon en Saône-et-Loire dans la région Bourgogne-Franche-Comté.",
+  "Lieu « Centre culturel Louis-Escande », 1971 : Construit entre 1971 et 1975 et imaginé par l'architecte Robert Levasseur, l'édifice est Label « Patrimoine du XXe siècle » depuis 2015.",
+  "Lieu « Centre culturel Louis-Escande », 1971 : Il est alors construit sur le long de l'avenue Charles-de-Gaulle entre 1971 et 1975.",
+  "Lieu « Centre culturel Louis-Escande », 1975 : Inauguré en 1975 sous le nom Saônora, l'édifice avait une large vocation culturelle large avec le théâtre, des expositions et d'autres événements culturels.",
+  "Lieu « Centre culturel Louis-Escande », aujourd'hui : Aujourd'hui, ce centre culturel héberge la Scène nationale de Mâcon, cofinancée par l’État et la communauté d'agglomération.",
+  "Lieu « Hôtel de Rossan de Davayé » : L'hôtel de Rossan de Davayé est un hôtel particulier situé sur le territoire de la commune de Mâcon dans le département français de Saône-et-Loire et la région Bourgogne-Franche-Comté.",
+  "Lieu « Hôtel de Rossan de Davayé », XIVe siècle : Cette formulation (« en ce qui est ») laisse supposer l’existence d’un bâti antérieur, attesté, par ailleurs, par les extraits des registres terriers cités dans les pièces de cette procédure et qui remontent au XIVe siècle.",
+  "Lieu « Hôtel de Rossan de Davayé », XVIIe siècle : L'immeuble sur cour du 8 (actuellement 25) rue de la Barre est un hôtel particulier construit au XVIIe siècle par Brice Bauderon de Senecé, juriste à Mâcon.",
+  "Lieu « Hôtel de Rossan de Davayé », 1795 : Le château de Rossan est vendu en janvier 1795 à un fendeur de Donzy-le-Perthuis, Bertrand Lequin, et à un cultivateur de Vergisson, Claude Protat, pour le prix de 152.000 livres payables en assignats (ce qui ne représentait que 33.440 livres en numéraire).",
+  "Lieu « Hôtel de Rossan de Davayé », aujourd'hui : Les sources historiques de ce qui suit sont constituées en grande partie par les archives de la famille Desvignes de Davayé conservées aujourd'hui aux archives départementales de Saône-et-Loire.",
+  "Lieu « Cathédrale Vieux-Saint-Vincent de Mâcon » : La cathédrale Saint-Vincent de Mâcon, actuellement appelée par rétronymie Vieux Saint-Vincent, est la cathédrale primitive de Mâcon, dédiée à Vincent de Saragosse.",
+  "Lieu « Cathédrale Vieux-Saint-Vincent de Mâcon », Xe siècle : 960 : Un incendie ravagea le nouveau sanctuaire. vers la fin du Xe siècle : Une cathédrale romane succéda à ces ruines.",
+  "Lieu « Cathédrale Vieux-Saint-Vincent de Mâcon », XVIIe siècle : Martelage des sculptures hautes du tympan. début du XVIIe siècle : Les premières restaurations significatives furent entreprises par l'évêque Gaspard Dinet : pavement de marbre, stalles, autels, remplacement de l'orgue vendu par les protestants, commande de tableaux.",
+  "Lieu « Cathédrale Vieux-Saint-Vincent de Mâcon », 1792 : 1792 : En vertu d'un arrêté du 16 juin 1792, le carillon, installé dans la tour octogonale sud, perd quatre de ses six cloches (la plus grosse étant « dame Barbe », d'un poids de 5 300 livres).",
+  "Lieu « Cathédrale Vieux-Saint-Vincent de Mâcon », aujourd'hui : La cathédrale Saint-Vincent de Mâcon, actuellement appelée par rétronymie Vieux Saint-Vincent, est la cathédrale primitive de Mâcon, dédiée à Vincent de Saragosse.",
+  "Lieu « Hospice de la Charité (Mâcon) » : L'hospice de la charité ou hôtel Soufflot est une ancienne institution de la Charité de Mâcon située au 249 rue Carnot.",
+  "Lieu « Hospice de la Charité (Mâcon) », 1621 : L’hospice de la charité de Mâcon a été fondé par Saint-Vincent de Paul en 1621 lors d’un bref séjour de celui-ci dans la ville alors qu’il était curé de Châtillon-sur-Chalaronne : il fut effectivement frappé lors de sa visite par le nombre de pauvres, car il en compta plusieurs centaines.",
+  "Lieu « Hospice de la Charité (Mâcon) », 1721 : En 1721, il y avait déjà 143 pensionnaires logées dans ces maisons qui étaient devenues insuffisantes et qu’il a fallu démolir.",
+  "Lieu « Hospice de la Charité (Mâcon) », 1744 : En 1744, l'insalubrité des lieux obligent les recteurs de renconstruire un nouveau bâtiment, celui qui persiste de nos jours.",
+  "Lieu « Hospice de la Charité (Mâcon) », aujourd'hui : En effet, côté Saône, la façade paraît négligée à cause, aujourd'hui détruits, qui cachaient l'hospice et ne présentaient donc aucun intérêt.",
+  "Lieu « Gare de Mâcon-Ville » : La gare de Mâcon-Ville est une gare ferroviaire française des lignes de Paris-Lyon à Marseille-Saint-Charles, de Mâcon à Ambérieu et de Moulins à Mâcon.",
+  "Lieu « Gare de Mâcon-Ville », 1854 : Construit en 1854, ce bâtiment dispose d'un corps central à trois ouvertures avec deux étages et des combles.",
+  "Lieu « Gare de Mâcon-Ville », 1857 : Le 20 juillet 1857, la gare de Mâcon est reliée avec Ambérieu par Pont-de-Veyle et Bourg-en-Bresse avec l'ouverture, par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), du dernier tronçon de la ligne de Mâcon à Ambérieu.",
+  "Lieu « Gare de Mâcon-Ville », 1950 : Le bâtiment monumental d'origine, dû à l'architecte Alexis Cendrier, est détruit à la fin de la Seconde Guerre mondiale ; il est ensuite remplacé par un bâtiment dans le style des années 1950.",
+  "Lieu « Centre nautique Paul-Bert » : Le centre nautique Paul-Bert est un centre nautique situé à Mâcon en Saône-et-Loire dans la région Bourgogne-Franche-Comté.",
+  "Lieu « Centre nautique Paul-Bert », 1947 : Construit entre 1947 et 1949 et imaginé par l'architecte Barnabé Augros, l'édifice est Label « Patrimoine du XXe siècle » depuis 2015.",
+  "Lieu « Centre nautique Paul-Bert », 1947 : Le centre édifié entre 1947 et 1949 comprenait deux équipements : une piscine de plein air et un centre d’aviron.",
+  "Lieu « Centre nautique Paul-Bert », aujourd'hui : L'architecture aérée du centre nautique visible par des profonds auvents, portiques et galeries abritant du soleil est caractéristique d’une époque où les vertus thérapeutiques de la vie en plein air sont le remède connu à la tuberculose."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 11
+ }
+}
