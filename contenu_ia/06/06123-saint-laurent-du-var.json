@@ -1,0 +1,155 @@
+{
+ "commune": {
+  "titre": "Saint-Laurent-du-Var",
+  "code_insee": "06123",
+  "departement": "06",
+  "population": 32172,
+  "lat": 43.668,
+  "lon": 7.188,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Laurent-du-Var"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:47:20",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1658,
+  "sortie": 921
+ },
+ "cout_usd": 0.001483,
+ "accroche": "Saint-Laurent-du-Var voit sa ville libérée le 27 août 1944 par les alliés.",
+ "histoire": {
+  "recit": "À l’origine, Saint-Laurent-du-Var se forme autour d’un hospice créé au XIe siècle pour les voyageurs, placé sous la protection de Saint-Laurent. Le village grandit aussi avec l’activité du gué sur le Var : des gueyeurs transportaient les voyageurs à dos d’homme jusqu’à la construction d’un pont en 1792.\n\nPlus tard, les lieux prennent d’autres visages. Cap 3000, en proche banlieue de Nice, devient un grand centre commercial ; ouvert en 1969, il compte un très grand nombre de boutiques. Avant une rénovation en 2016, le bâtiment est organisé avec plusieurs entrées au rez-de-chaussée. En 2021, une dernière extension, côté ouest, s’ajoute sous le nom « Corso ».\n\nSur la rive droite du Var, entre l’avenue Émile Dechame et l’avenue Léonard Arnaud, les studios de Saint-Laurent-du-Var naissent en 1920, puis sont détruits en août 1944, lors d’un bombardement allié visant le pont sur le Var.\n\nEt à l’entrée de l’histoire du passage, le Pont Napoléon-III relie Nice à Saint-Laurent-du-Var par la route métropolitaine 6007 : un pont de pierre est construit, puis inauguré en 1864, baptisé en l’honneur de Napoléon III.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Création d’un hospice pour les voyageurs, à l’origine du village.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1792",
+    "texte": "Construction d’un pont sur le Var, après l’activité du gué.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1864",
+    "texte": "Un pont de pierre reliant Nice à Saint-Laurent-du-Var est inauguré et baptisé en l’honneur de Napoléon III.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1920",
+    "texte": "Création des studios de Saint-Laurent-du-Var.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "La ville est libérée le 27 août 1944 ; les studios sont détruits en août 1944, dans le cadre d’opérations visant le pont sur le Var.",
+    "sources": [
+     "S3",
+     "S11"
+    ]
+   },
+   {
+    "date": "1969",
+    "texte": "Ouverture de Cap 3000.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2016",
+    "texte": "Rénovation de Cap 3000, après une configuration décrite des entrées.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2021",
+    "texte": "Inauguration de la dernière extension de Cap 3000, côté ouest, baptisée « Corso ».",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cap 3000",
+   "histoire": "Centre commercial français en proche banlieue de Nice, sur la commune de Saint-Laurent-du-Var, Cap 3000 est ouvert en 1969 et devient l’un des plus importants centres commerciaux des Alpes-Maritimes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 43.658611,
+   "lon": 7.197778,
+   "url": "https://fr.wikipedia.org/wiki/Cap_3000"
+  },
+  {
+   "nom": "Studios de Saint-Laurent-du-Var",
+   "histoire": "Des studios de cinéma créés en 1920 à Saint-Laurent-du-Var, situés à l’emplacement actuel de l’allée des Studios, entre l’avenue Émile Dechame et l’avenue Léonard Arnaud sur la rive droite du Var, non loin de la Victorine de Nice.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Leur emplacement correspond aujourd’hui à l’allée des Studios.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.666062,
+   "lon": 7.195132,
+   "url": "https://fr.wikipedia.org/wiki/Studios_de_Saint-Laurent-du-Var"
+  },
+  {
+   "nom": "Pont Napoléon-III",
+   "histoire": "Pont sur le Var reliant Nice à Saint-Laurent-du-Var par la route métropolitaine 6007. Un solide pont de pierre est construit puis inauguré en 1864, baptisé en l’honneur de Napoléon III.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 43.663727,
+   "lon": 7.198585,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Napol%C3%A9on-III"
+  }
+ ],
+ "sources": [
+  "Saint-Laurent-du-Var est une commune française, limitrophe de Nice, située dans le département des Alpes-Maritimes en région Provence-Alpes-Côte d'Azur.",
+  "L'origine de Saint-Laurent remonte à la création, au XIe siècle, d'un hospice destiné aux voyageurs placé sous la protection de Saint-Laurent. Le village s'est développé autour de l'hospice et à l'activité du gué sur le Var : des gueyeurs étaient chargés de transporter, à dos d'homme, les voyageurs sur l'autre rive du Var jusqu'à la construction d'un pont en 1792. La plupart du temps, les voyageurs et les […]",
+  "1944 : La ville est libérée le 27 août 1944 par les alliés.",
+  "Lieu « Cap 3000 » : Cap 3000 est un centre commercial français situé en proche banlieue de Nice, dans la ville de Saint-Laurent-du-Var.",
+  "Lieu « Cap 3000 », 1969 : Ouvert en 1969, il est l'un des plus importants centres commerciaux des Alpes-Maritimes, celui possédant le plus grand nombre de boutiques (300 en 2021), et l'un des plus fréquentés.",
+  "Lieu « Cap 3000 », 2016 : Avant sa rénovation de 2016, le bâtiment comprend six entrées au rez-de-chaussée (deux au Nord, trois à l'Ouest, une à l'Est) et une entrée au premier étage (au Sud), donnant sur le bord de mer.",
+  "Lieu « Cap 3000 », 2021 : En juillet 2021 est inaugurée la dernière extension située côté ouest, au premier niveau : une aile de 8 000 m2, baptisée « Corso » et dédiée aux marques de luxe et aux créateurs tel que.",
+  "Lieu « Cap 3000 », aujourd'hui : L'emplacement correspond à une vaste zone marécageuse sur les bords du Var, bien desservie par les voies de communication.",
+  "Lieu « Studios de Saint-Laurent-du-Var » : Les studios de Saint-Laurent-du-Var sont des studios de cinéma créés en 1920 dans la ville du même nom et détruits par un bombardement allié en 1944.",
+  "Lieu « Studios de Saint-Laurent-du-Var », 1920 : Les studios de Saint-Laurent-du-Var sont des studios de cinéma créés en 1920 dans la ville du même nom et détruits par un bombardement allié en 1944.",
+  "Lieu « Studios de Saint-Laurent-du-Var », 1944 : Ils sont détruits en août 1944 par l'un des derniers bombardements alliés dont l'objectif était la destruction du pont sur le Var.",
+  "Lieu « Studios de Saint-Laurent-du-Var », aujourd'hui : Les studios de cinéma de Saint-Laurent-du-Var, ville des Alpes-Maritimes sur la Côte d'Azur, se trouvaient à l'emplacement actuel de l'allée des Studios, entre l'avenue Émile Dechame et l'avenue Léonard Arnaud, sur la rive droite du Var, non loin des studios de la Victorine de Nice situés sur la rive opposée.",
+  "Lieu « Pont Napoléon-III » : Le pont Napoléon-III est un pont construit sur le Var qui relie Nice à Saint-Laurent-du-Var par la route métropolitaine 6007 (anciennement route nationale 7 puis route départementale 6007).",
+  "Lieu « Pont Napoléon-III », 1864 : Un solide pont de pierre pour relier Nice à Saint-Laurent-du-Var est enfin construit, puis inauguré en 1864, et alors baptisé en l'honneur de Napoléon III, qui avait réussi à obtenir quelques années plus tôt le comté de Nice de la maison de Savoie."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 0
+ }
+}

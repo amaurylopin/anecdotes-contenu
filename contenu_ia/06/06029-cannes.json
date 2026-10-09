@@ -1,0 +1,350 @@
+{
+ "commune": {
+  "titre": "Cannes",
+  "code_insee": "06029",
+  "departement": "06",
+  "population": 74350,
+  "lat": 43.5454,
+  "lon": 7.0152,
+  "url": "https://fr.wikipedia.org/wiki/Cannes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:24:24",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3771,
+  "sortie": 2650
+ },
+ "cout_usd": 0.004067,
+ "accroche": "Le 24 août 1944, Cannes est libérée par les troupes américaines.",
+ "histoire": {
+  "recit": "Cannes commence modestement comme un village de pêcheurs provençal, puis son destin se noue à celui des îles de Lérins, au large. Là, les Romains nomment le lieu Horrea ou Ad Horrea, car des entrepôts y servent le commerce. Sur l’île Saint-Honorat, un monastère pour femmes s’installe vers 630-640, et un hôpital pour les pèlerins se développe autour du site, avec un castrum et un village qui atteignent jusqu’à 100 feux. Plus tard, au XIXe siècle, le bourg prend de l’ampleur quand Lord Henry Brougham and Vaux s’y installe et attire une aristocratie européenne. Puis la ville connaît un temps de bascule : libérée le 24 août 1944, Cannes ancre ensuite sa renommée par le Festival de Cannes, fondé à l’automne 1939 et porté, dès 1947, par l’inauguration du Palais des Festivals.",
+  "chronologie": [
+   {
+    "date": "630-640",
+    "texte": "Vers 630-640, un monastère pour femmes est fondé sur l’île Saint-Honorat par Nazaire de Lérins.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "630-640",
+    "texte": "Autour du monastère, un hôpital pour les pèlerins de Lérins, un castrum et un village se développent, comptant jusqu’à 100 feux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Le bourg prend de l’importance grâce à Lord Henry Brougham and Vaux, qui s’y installe et attire l’aristocratie anglaise et européenne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1er septembre 1939",
+    "texte": "Le Festival de Cannes est fondé à l’issue d’une idée de Philippe Erlanger soumise à Jean Zay et Albert Sarraut.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "11 septembre 1947",
+    "texte": "Le Palais des Festivals (palais Croisette) est inauguré le soir du 11 septembre 1947.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "24 août 1944",
+    "texte": "Cannes est libérée le 24 août 1944 par les troupes américaines.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Festival de Cannes",
+   "histoire": "Festival de cinéma international se déroulant chaque année à Cannes, durant le mois de mai.",
+   "anecdotes": [
+    {
+     "texte": "La fondation du festival remonte au 1er septembre 1939, à partir d’une idée de Philippe Erlanger soumise à Jean Zay et Albert Sarraut.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En 1947, le gouvernement refuse de financer un festival annuel, et le Palais des Festivals est construit dans la précipitation pour accueillir l’édition.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 43.550861,
+   "lon": 7.01725,
+   "url": "https://fr.wikipedia.org/wiki/Festival_de_Cannes"
+  },
+  {
+   "nom": "Centre spatial de Cannes - Mandelieu",
+   "histoire": "Établissement industriel chargé de la réalisation de satellites artificiels, aujourd’hui appelé Établissement de Cannes de Thales Alenia Space France.",
+   "anecdotes": [
+    {
+     "texte": "En 1930, la construction qui prépare l’usine nécessite des fondations spéciales, car la chaîne des cases à équipements des missiles stratégiques y loge encore en 1998.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 43.53861,
+   "lon": 6.95583,
+   "url": "https://fr.wikipedia.org/wiki/Centre_spatial_de_Cannes_-_Mandelieu"
+  },
+  {
+   "nom": "Île Sainte-Marguerite (îles de Lérins)",
+   "histoire": "Plus grande des deux îles de Lérins, située en face de Cannes, avec une histoire mêlant occupations, fortifications et vestiges.",
+   "anecdotes": [
+    {
+     "texte": "Après la révocation de l’édit de Nantes, le fort devient l’un des quatre principaux lieux d’emprisonnement des huguenots.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "Les fouilles autour du fort Royal mettent au jour des vestiges datés du IIIe siècle avant notre ère au Ier siècle de notre ère.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 43.5235,
+   "lon": 7.0452,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Sainte-Marguerite_%28%C3%AEles_de_L%C3%A9rins%29"
+  },
+  {
+   "nom": "Gare de Cannes-la-Bocca",
+   "histoire": "Gare ferroviaire des lignes de Marseille-Saint-Charles à Vintimille et de Cannes-la-Bocca à Grasse.",
+   "anecdotes": [
+    {
+     "texte": "Le 10 août 1886, la gare ouvre au service de la télégraphie privée, avec un bureau pour les télégrammes.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’ancien guichet de Cannes-la-Bocca a fermé en mai 2024, et le quai desservant la ligne est désaffecté.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 43.548863,
+   "lon": 6.986607,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Cannes-la-Bocca"
+  },
+  {
+   "nom": "Musée des Explorations du monde",
+   "histoire": "Musée installé dans les vestiges du château médiéval des moines de Lérins au Suquet, anciennement musée de la Castre.",
+   "anecdotes": [
+    {
+     "texte": "Vendu comme bien national pendant la Révolution à la famille Hibert, le château sert de demeure jusqu’en 1878, avant d’être loué à une manufacture de céramique.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 43.550031,
+   "lon": 7.010376,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Explorations_du_monde"
+  },
+  {
+   "nom": "La Malmaison (Cannes)",
+   "histoire": "Villa construite sur la Croisette en 1863, sur les plans de Marius Blond, pour l’annexe du Grand Hôtel.",
+   "anecdotes": [
+    {
+     "texte": "Agrandi en 1901 à l’initiative du grand duc Michel de Russie, le lieu accueille ensuite le Cercle des golfeurs.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le centre d’art contemporain est fermé en 2023 et 2024 pour des travaux de restauration.",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 43.550329898915,
+   "lon": 7.0248648956072,
+   "url": "https://fr.wikipedia.org/wiki/La_Malmaison_%28Cannes%29"
+  },
+  {
+   "nom": "Fort royal de l'île Sainte-Marguerite",
+   "histoire": "Fort édifié sur l’île Sainte-Marguerite, dans la rade de Cannes, devenu un lieu lié à l’histoire insulaire et à des musées.",
+   "anecdotes": [
+    {
+     "texte": "La fortification serait construite entre 1624 et 1627, peut-être sous les ordres de Jean de Bonnefons.",
+     "statut": "conteste",
+     "sources": [
+      "S37"
+     ]
+    },
+    {
+     "texte": "Après le rachat du fort en 1996, la ville y installe le Musée de la Mer, devenu en 2020 le musée du Masque de fer et du Fort Royal.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un manoir est construit par Jean de Bellon à l’emplacement des ruines de l’établissement du Bas-Empire romain.",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 43.5232,
+   "lon": 7.04386,
+   "url": "https://fr.wikipedia.org/wiki/Fort_royal_de_l%27%C3%AEle_Sainte-Marguerite"
+  },
+  {
+   "nom": "Port Pierre-Canto",
+   "histoire": "Port de plaisance-marina d’environ 530 places d’amarrage sur la Côte d’Azur.",
+   "anecdotes": [
+    {
+     "texte": "Au bout du chemin de la Croisette, la Pointe Croisette n’est qu’une côte rocheuse à activité ostréicole jusqu’à l’ouverture d’un restaurant spécialisé dans les fruits de mer, exploité jusque dans les années 1920.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    },
+    {
+     "texte": "Le port est inauguré le 19 juillet 1965 après dix-huit mois de travaux.",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’ancien Club House a été démoli en 2010 pour être remplacé par diverses installations actuelles.",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 43.541642,
+   "lon": 7.032902,
+   "url": "https://fr.wikipedia.org/wiki/Port_Pierre-Canto"
+  }
+ ],
+ "sources": [
+  "Cannes (/kan/ ou localement /ˈkanə/) est une commune française de la communauté d'agglomération Cannes Pays de Lérins située dans le département des Alpes-Maritimes, en région Provence-Alpes-Côte d'Azur, sur la Côte d'Azur dont elle est une ville phare. Ses habitants sont appelés les Cannois. Village de pêcheurs ligure pendant l’Antiquité, liée aux légendes de saint Honorat et de l’homme au masque de fer sur les […]",
+  "À l’origine modeste village provençal méditerranéen de pêcheurs et de moines, l'histoire de Cannes est indissociable de celle des îles Sainte-Marguerite et Saint-Honorat, les deux îles de Lérins qui se trouvent à quelques encablures du continent. À l'origine bourg de pêcheurs ligures, il est renommé par les Romains Horrea ou Ad Horrea (ce qui signifie « greniers »), parce que le lieu était doté d'entrepôts pour […]",
+  "630 : S'y trouve depuis 630-640 un monastère pour femme fondé par Nazaire de Lérins sur un ancien important temple païen consacré à Aphrodite, autour duquel s'est progressivement construit un hôpital pour les pèlerins de Lérins, un castrum et un village ayant compté jusqu'à 100 feux.",
+  "XIXe siècle : Ce n’est qu’au XIXe siècle que le bourg prend de l'importance, grâce notamment à Lord Henry Brougham and Vaux, grand chancelier d’Angleterre, qui s’y installe et y attire l’aristocratie anglaise et européenne qui édifie de magnifiques demeures secondaires pour l’hiver.",
+  "1944 : La ville de Cannes est libérée le 24 août 1944 par les troupes américaines.",
+  "Lieu « Festival de Cannes » : Le Festival de Cannes (appelé Festival international du film de 1946 à 2002) est un festival de cinéma international se déroulant chaque année à Cannes en France durant le mois de mai.",
+  "Lieu « Festival de Cannes », 1939 : Il est fondé le 1er septembre 1939 d'après une idée de Philippe Erlanger soumise à Jean Zay, ministre de l'Éducation nationale et des Beaux-arts du Front populaire, et Albert Sarraut, ministre de l'Intérieur.",
+  "Lieu « Festival de Cannes », 1947 : Le gouvernement refuse de financer un festival annuel et le Palais des Festivals est construit dans la précipitation par le syndicat pour accueillir l'édition de 1947.",
+  "Lieu « Festival de Cannes », 1947 : Le Palais des Festivals (également appelé palais Croisette), construit grâce au maire de Cannes, le docteur Raymond Picaud (fils du docteur André Picaud et de Marthe Pabot du Chatelard) est inauguré le soir du 11 septembre 1947 (le Festival dura du 12 au 25).",
+  "Lieu « Festival de Cannes », aujourd'hui : Encore aujourd'hui (2023), la Fédération CGT des syndicats du spectacle siège au conseil d'administration du Festival.",
+  "Lieu « Centre spatial de Cannes - Mandelieu » : Centre spatial de Cannes - Mandelieu est le « nom d'usage » donné par l'association Cannes Aéro Spatial Patrimoine, lors de son étude historique, à l'établissement industriel chargé de la réalisation de satellites artificiels, situé en bord de mer à",
+  "Lieu « Centre spatial de Cannes - Mandelieu », 1993 : En 1993, l'établissement s'étend en reprenant les bâtiments de l'ancien Space Camp de Patrick Baudry, au 4 de l'allée des Cormorans, limitrophe avec la commune de Mandelieu-la-Napoule.",
+  "Lieu « Centre spatial de Cannes - Mandelieu », 1998 : La construction de l'usine, un grand bâtiment rectangulaire, qui abritait encore en 1998 la chaîne des cases à équipements des missiles stratégiques de la Force de Dissuasion, débute en 1930 nécessitant des fondations spéciales.",
+  "Lieu « Centre spatial de Cannes - Mandelieu », 2008 : Sous l'impulsion du nouveau groupe, en 2008, l'entreprise étend ses installations sur un nouveau terrain de 3,5 hectares mis à sa disposition par la Ville de Cannes, par bail emphytéotique de 24 ans, avec la construction de trois bâtiments : le projet Odyssée.",
+  "Lieu « Centre spatial de Cannes - Mandelieu », aujourd'hui : Ses restructurations industrielles successives lui valent de devenir l'établissement de Cannes d'Aerospatiale (en 1970), puis d'Alcatel Space (en 1998), puis d'Alcatel Alenia Space (en 2006), puis de Thales Alenia Space en 2007, son nom officiel et légal étant aujourd'hui Établissement de Cannes de Thales Alenia Space France.",
+  "Lieu « Île Sainte-Marguerite (îles de Lérins) » : L'île Sainte-Marguerite est la plus grande des deux îles de Lérins, situées en face de Cannes.",
+  "Lieu « Île Sainte-Marguerite (îles de Lérins) », VIe siècle : L'île est d'abord occupée par une population de Ligures, dont les premières traces remontent au VIe siècle av. J.-C. Les Ligures sont chassés par les Romains, chassés à leur tour par une catastrophe naturelle provoquant un affaissement des îles de plusieurs mètres dans la mer.",
+  "Lieu « Île Sainte-Marguerite (îles de Lérins) », 1635 : Pendant la guerre de Trente Ans, les Espagnols se sont emparés des îles et les ont occupées de 1635 à 1637.",
+  "Lieu « Île Sainte-Marguerite (îles de Lérins) », 1685 : Après la révocation de l'édit de Nantes en 1685, le fort de l'île Sainte-Marguerite devient l'un des quatre principaux lieux d'emprisonnement des huguenots, avec la tour de Constance à Aigues-Mortes, le fort de Brescou et le château d'If.",
+  "Lieu « Île Sainte-Marguerite (îles de Lérins) », aujourd'hui : De fait, les fouilles entreprises autour du fort Royal ont révélé d'importants vestiges : maisons, peintures murales, mosaïques, céramiques datées du IIIe siècle av. J.-C. au Ier siècle de notre ère.",
+  "Lieu « Gare de Cannes-la-Bocca » : La gare de Cannes-la-Bocca est une gare ferroviaire française des lignes de Marseille-Saint-Charles à Vintimille (frontière) et de Cannes-la-Bocca à Grasse.",
+  "Lieu « Gare de Cannes-la-Bocca », 1883 : Le 30 novembre 1883, le ministre décide d'ouvrir une gare, ouverte aux voyageurs et à la grande vitesse, et de l'installer à la bifurcation.",
+  "Lieu « Gare de Cannes-la-Bocca », 1886 : Le 10 août 1886, la gare est ouverte au service de la télégraphie privée, elle dispose d'un bureau pour les télégrammes.",
+  "Lieu « Gare de Cannes-la-Bocca », 2024 : L'ancien guichet de Cannes-la-Bocca a fermé en Mai 2024.",
+  "Lieu « Gare de Cannes-la-Bocca », aujourd'hui : En effet le quai desservant la ligne est actuellement désaffecté.",
+  "Lieu « Musée des Explorations du monde » : Le musée des Explorations du monde, anciennement musée de la Castre, est un musée de Cannes installé dans les vestiges du château médiéval des moines de Lérins au Suquet.",
+  "Lieu « Musée des Explorations du monde », XIe siècle : Il fut édifié à partir du XIe siècle à l’initiative des moines de Lérins, installés dans leur célèbre abbaye sur l’île Saint-Honorat depuis le Ve siècle.",
+  "Lieu « Musée des Explorations du monde », XVIe siècle : Endommagé dès la fin du XVIe siècle, le château fut partiellement détruit au XVIIIe siècle sur ordre de l’évêque de Grasse.",
+  "Lieu « Musée des Explorations du monde », 1878 : Vendu comme bien national pendant la Révolution à la famille Hibert, il servit de demeure d’habitation jusqu’en 1878, date à laquelle il est loué à une manufacture de céramique « La faïencerie d’art du Mont-Chevalier ».",
+  "Lieu « Musée des Explorations du monde », aujourd'hui : Le musée des Explorations du monde, anciennement musée de la Castre, est un musée de Cannes installé dans les vestiges du château médiéval des moines de Lérins au Suquet.",
+  "Lieu « La Malmaison (Cannes) » : La Malmaison est une villa de Cannes construite sur la Croisette en 1863 sur les plans de l'architecte Marius Blond pour abriter l'annexe du Grand Hôtel (aujourd’hui Mondrian Cannes), puis, agrandie à l'initiative du grand duc Michel de Russie en 190",
+  "Lieu « La Malmaison (Cannes) », 1863 : La Malmaison est une villa de Cannes construite sur la Croisette en 1863 sur les plans de l'architecte Marius Blond pour abriter l'annexe du Grand Hôtel (aujourd’hui Mondrian Cannes), puis, agrandie à l'initiative du grand duc Michel de Russie en 1901, le Cercle des golfeurs.",
+  "Lieu « La Malmaison (Cannes) », 1863 : La villa est construite sur l'emplacement de l'ancienne maison Daver sur la Croisette en 1863 sur les plans du grassois Marius Blond, architecte du Grand Hôtel pour abriter l'annexe de l'établissement cannois érigé la même année.",
+  "Lieu « La Malmaison (Cannes) », 2023 : Le centre d'art contemporain est fermé en 2023 et 2024 pour des travaux de restauration.",
+  "Lieu « La Malmaison (Cannes) », aujourd'hui : Le troisième étage est occupé par les chambres des domestiques.",
+  "Lieu « Fort royal de l'île Sainte-Marguerite » : Le fort royal est un fort édifié sur l'île Sainte-Marguerite, la plus grande des îles de Lérins, dans la rade de Cannes.",
+  "Lieu « Fort royal de l'île Sainte-Marguerite », 1624 : La fortification aurait été construite entre 1624-1627, peut-être sous les ordres de l'ingénieur du roi en Provence, Jean de Bonnefons (mort vers 1636), fils de l'ingénieur du roi Henri IV pour le Dauphiné et la Provence Raymond de Bonnefons (vers 1545-1607), concepteur des remparts d'Antibes.",
+  "Lieu « Fort royal de l'île Sainte-Marguerite », 1970 : L'île Sainte-Marguerite est occupée, au moins, dès le Ve siècle av. J.-C. Les fouilles réalisées dans les années 1970-1980 ont trouvé des fondations de bâtiments de cette époque.",
+  "Lieu « Fort royal de l'île Sainte-Marguerite », 1996 : Après le rachat du fort, en 1996, la ville de Cannes y a installé le Musée de la Mer devenu, en 2020, le musée du Masque de fer et du Fort Royal.",
+  "Lieu « Fort royal de l'île Sainte-Marguerite », aujourd'hui : Jean de Bellon se fait construire un manoir à l'emplacement des ruines de l'établissement du Bas-Empire romain, vaste plate-forme rocheuse au-dessus de la mer en face de la baie de Cannes et du cap de la Croix.",
+  "Lieu « Port Pierre-Canto » : Le port Pierre-Canto ou port Canto est un port de plaisance-marina d'environ 530 places d'amarrage de la ville de Cannes sur la Côte d'Azur.",
+  "Lieu « Port Pierre-Canto », 1920 : Au XIXe siècle, la Pointe Croisette au bout du chemin de la Croisette est une côte rocheuse où seule existe une activité ostréicole, jusqu'à l'ouverture d'un restaurant spécialisé dans les fruits de mer exploité jusque dans les années 1920.",
+  "Lieu « Port Pierre-Canto », 1965 : Second port de la ville après le Vieux-Port de Cannes, il est inauguré le 19 juillet 1965.",
+  "Lieu « Port Pierre-Canto », 1965 : Le port Pierre-Canto, deuxième port de la ville après le Vieux-Port de Cannes, est inauguré après dix-huit mois de travaux, le 19 juillet 1965.",
+  "Lieu « Port Pierre-Canto », aujourd'hui : L'ancien Club House est démoli en 2010 pour être remplacé par diverses installations actuelles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 12
+ }
+}

@@ -1,0 +1,308 @@
+{
+ "commune": {
+  "titre": "Antibes",
+  "code_insee": "06004",
+  "departement": "06",
+  "population": 77637,
+  "lat": 43.5823,
+  "lon": 7.1048,
+  "url": "https://fr.wikipedia.org/wiki/Antibes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:23:48",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3521,
+  "sortie": 2135
+ },
+ "cout_usd": 0.003373,
+ "accroche": "En 1124, la cathédrale d’Antibes est incendiée par les Sarrasins, et l’évêque doit se réfugier à Grasse.",
+ "histoire": {
+  "recit": "À Antibes, l’histoire remonte au premier âge du fer, quand des traces d’occupation ont été repérées dans les secteurs du château et de la cathédrale, avec, sous la chapelle Saint-Esprit, des restes d’habitat en terre crue.\n\nLes siècles suivants laissent voir une ville qui s’organise et se défend. Vers le Ve siècle, plusieurs domus sont occupées jusqu’au Ve siècle, au plus tôt. En 1124, la cathédrale est reconstruite, puis incendiée la même année ; l’évêque se réfugie à Grasse. Plus tard, les deux tours d’Antibes sont construites vers 1213.\n\nÀ partir de 1603, des remparts bastionnés sont élevés selon les plans des ingénieurs du roi, et Vauban propose encore un projet en 1703, finalement non exécuté. En 1746, après le bombardement de la ville, Antibes fait face à l’assaut : assiégée par les troupes austro-sardes, elle vit aussi, au Fort Carré, une tenue du siège.\n\nLe temps change de décor : Marineland s’implante comme parc à thèmes, fondé en 1970, et le Pont du Bourget connaît, lui, des reconstructions et effondrements au milieu du XVIIe siècle.",
+  "chronologie": [
+   {
+    "date": "Premier âge du fer",
+    "texte": "Des traces d’occupation sont identifiées dans les secteurs du château et de la cathédrale ; sous la chapelle Saint-Esprit, des restes d’habitat en terre crue sont mis au jour.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ve siècle",
+    "texte": "Des domus du secteur du presbytère et celles de la rue des Palmiers et de la rue de la Blancherie semblent occupées jusqu’au Ve siècle, au plus tôt.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1124",
+    "texte": "La cathédrale d’Antibes est reconstruite en 1124, puis incendiée par les Sarrasins, obligeant l’évêque à se réfugier à Grasse.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "1213",
+    "texte": "Les deux tours d’Antibes sont construites vers 1213.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1603",
+    "texte": "Les remparts bastionnés de la ville sont construits à partir de 1603, sur les plans des ingénieurs du roi de la famille de Bonnefons.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1703",
+    "texte": "Vauban fait en 1703 un dernier projet de fortification reliant les remparts de la ville au fort Carré, projet non exécuté.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1746",
+    "texte": "En 1746, après le bombardement pendant la guerre de Succession d’Autriche, la ville est aussi assiégée par les troupes austro-sardes.",
+    "sources": [
+     "S9",
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Marineland d'Antibes",
+   "histoire": "Marineland d’Antibes est un ancien parc à thèmes français sur la Côte d’Azur, à Antibes. Fondé en 1970 par le comte Roland de La Poype, il s’agrandit progressivement et ouvre notamment le « Tunnel des Requins » en 1996. Le parc est ensuite remplacé par Michel Dompnier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 43.615,
+   "lon": 7.125,
+   "url": "https://fr.wikipedia.org/wiki/Marineland_d%27Antibes"
+  },
+  {
+   "nom": "Château de la Croë",
+   "histoire": "Le château de la Croë est un château de 2 000 m2 construit en 1927 dans un style français, inspiré du château de Bagatelle, près de Paris. Il est ensuite possédé par Onassis jusqu’en 1970. Le lieu est laissé à l’abandon pendant trois décennies, puis fait l’objet d’une rénovation de grande ampleur pour être remis dans son état initial.",
+   "anecdotes": [
+    {
+     "texte": "En 1927, le château de la Croë est construit pour un aristocrate anglais nommé Sir William Pomeroy Burton, président de la société Associated Newspapers Ltd.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 43.54605,
+   "lon": 7.13413,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Cro%C3%AB"
+  },
+  {
+   "nom": "Fort Carré (Antibes)",
+   "histoire": "Le Fort Carré est un fort militaire construit au XVIe siècle sur un emplacement stratégique. En 1746-1747, durant la guerre de Succession d’Autriche, il se distingue comme la seule prise militaire connue, la place forte tenant le siège malgré les bombardements. Il devient la propriété de la ville d’Antibes en 1997 et est ouvert au public depuis 1998.",
+   "anecdotes": [
+    {
+     "texte": "On retient du Fort Carré la « seule et unique prise militaire connue » en 1746-1747, alors que la place forte tient le siège malgré les bombardements austro-sardes et la flotte anglaise.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 43.590278,
+   "lon": 7.127222,
+   "url": "https://fr.wikipedia.org/wiki/Fort_Carr%C3%A9_%28Antibes%29"
+  },
+  {
+   "nom": "Pont du Bourget",
+   "histoire": "Le Pont du Bourget, aussi appelé pont romain sur la Brague, franchit la Brague à Antibes, dans le quartier qui était appelé du Bourguet au XVIIe siècle. Après l’effondrement d’un pont, les communautés de Provence décident en 1645 une reconstruction en une seule arche. En août 1647, les maçons travaillent ; en octobre 1647, le pont s’effondre à son décintrement. Le contrôleur pour le Roi conclut en 1648 que l’effondrement est dû aux maçons.",
+   "anecdotes": [
+    {
+     "texte": "En octobre 1657, l’assemblée des communes de Provence décide d’envoyer un expert afin de proposer un nouvel emplacement pour le pont.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 43.610478,
+   "lon": 7.116762,
+   "url": "https://fr.wikipedia.org/wiki/Pont_du_Bourget"
+  },
+  {
+   "nom": "Bastion Saint-André (Antibes)",
+   "histoire": "Le bastion Saint-André est un bastion construit à la fin du XVIIe siècle à Antibes. Il s’inscrit dans une campagne de fortifications : la porte Marine est construite en 1718 avec trois casemates à sa droite. Ces travaux entraînent aussi la démolition de l’amphithéâtre romain encore visible en 1608.",
+   "anecdotes": [
+    {
+     "texte": "En 1608, les constructions autour du bastion entraînent la démolition de l’amphithéâtre romain encore visible.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 43.5773,
+   "lon": 7.12609,
+   "url": "https://fr.wikipedia.org/wiki/Bastion_Saint-Andr%C3%A9_%28Antibes%29"
+  },
+  {
+   "nom": "Chapelle Saint-Esprit d'Antibes",
+   "histoire": "La chapelle Saint-Esprit se trouve à Antibes. Elle est associée à des fouilles où des pièces de table d’autel datant des Ve et VIe siècles ont été trouvées dans les fouilles de la cathédrale ou de la chapelle, puis exposées au musée archéologique installé dans le bastion Saint-André. En 1591, elle accueille la confrérie des Pénitents blancs du Saint-Esprit. En 1746, le portail est détruit et refait en 1751 dans le style baroque ; un montant en pierre d’un mètre de hauteur, vestige, est visible à côté du portail.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 43.5813,
+   "lon": 7.12847,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Esprit_d%27Antibes"
+  },
+  {
+   "nom": "Chapelle Saint-Bernardin d'Antibes",
+   "histoire": "La chapelle Saint-Bernardin, aussi appelée chapelle des Pénitents-Blancs, se trouve au 14 rue du Docteur-Rostan (entrée principale) et au 1 rue Saint-Bernardin (porte latérale) dans le centre-ville d’Antibes. Des bases romaines sont signalées sous l’emplacement de l’édifice, montrant qu’un lieu de culte existait dès l’Antiquité. La confrérie des Pénitents blancs aurait érigé la chapelle en 1513 selon un historien local, ou en 1581 selon un autre. Le retable date du XVIIe siècle et provient vraisemblablement du Couvent des Cordonniers, détruit en 1920.",
+   "anecdotes": [
+    {
+     "texte": "Selon des historiens locaux, la confrérie aurait érigé la chapelle en 1513, ou bien en 1581 selon un autre récit.",
+     "statut": "conteste",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 43.58175,
+   "lon": 7.12472,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Bernardin_d%27Antibes"
+  },
+  {
+   "nom": "Musée de la carte postale d'Antibes",
+   "histoire": "Le musée de la carte postale d’Antibes est un musée consacré à la cartophilie, ouvert depuis 2000 à Antibes sous l’impulsion de Christian Deflandre. Son ouverture a lieu le 1er juillet 2001. On peut y découvrir des parcours d’analyse à partir de cartes postales couvrant de 1889 à aujourd’hui, sans se limiter à la France.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 43.582913,
+   "lon": 7.120621,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_carte_postale_d%27Antibes"
+  }
+ ],
+ "sources": [
+  "Antibes (/ɑ̃.tib/), en italien Antibo /an.'ti.bo/, aussi connue en français sous le nom d'Antibes Juan-les-Pins, est une commune française de l'aire urbaine de Nice située dans le département des Alpes-Maritimes, en région Provence-Alpes-Côte d'Azur. Antibes est, en 2023, la deuxième ville la plus peuplée du département, après Nice.",
+  "Des traces d'occupation remontant au premier âge du fer ont été identifiées dans les secteurs du château et de la cathédrale. Sous la chapelle Saint-Esprit ont été mis au jour les restes d'habitat en terre crue. Le rocher d'Antibes semble indéniablement être à cette période le siège d'une communauté indigène entretenant des liens avec les populations méditerranéennes, notamment les Étrusques, comme le montre la […]",
+  "Ve siècle : C'est notamment le cas de la domus du jardin du presbytère de la rue Clemenceau qui semble occupée jusqu'au Ve siècle, au plus tôt, ainsi que celles de la rue des Palmiers et de la rue de la Blancherie.",
+  "1124 : La cathédrale a été reconstruite en 1124 après les incursions barbaresques.",
+  "1124 : En 1124 la cathédrale d'Antibes est incendiée par les Sarrasins obligeant l'évêque à se réfugier à Grasse.",
+  "1213 : Les deux tours d'Antibes (tour-refuge qui sert de clocher et tour du château) ont été construites vers 1213.",
+  "1603 : À partir de 1603 les remparts bastionnés de la ville ont été construits sur les plans des ingénieurs du roi en Provence de la famille de Bonnefons, Raymond, mort en 1607, puis son fils Jean, enfin son petit-fils Pierre.",
+  "1703 : En 1703, Vauban fait un dernier projet de fortification pour Antibes reliant les remparts de la ville au fort Carré, projet non exécuté.",
+  "1746 : Le bâtiment actuel a été totalement reconstruit au XVIe siècle, puis en 1746, après le bombardement de la ville pendant la guerre de Succession d'Autriche.",
+  "1746 : En 1746-1747, durant la guerre de Succession d'Autriche Antibes est assiégée par les troupes austro-sardes.",
+  "Lieu « Marineland d'Antibes » : Le parc Marineland, aussi couramment appelé Marineland d’Antibes (1970-2025), est un ancien parc à thèmes français situé sur la Côte d'Azur, à Antibes (Alpes-Maritimes).",
+  "Lieu « Marineland d'Antibes », 1970 : Fondé en 1970 par Roland de La Poype, il devient la propriété de la multinationale espagnole Parques Reunidos.",
+  "Lieu « Marineland d'Antibes », 1970 : Fondé en 1970 par le comte Roland de la Poype, industriel de la plasturgie , le petit parc local Marineland d'origine se développe peu à peu en annexant deux parcs périphériques et en créant dans les années 1990 le parc aquatique Aquasplash.",
+  "Lieu « Marineland d'Antibes », 1996 : En 1996, il connaît un essor fulgurant avec l'ouverture du « Tunnel des Requins ».",
+  "Lieu « Marineland d'Antibes », aujourd'hui : Il est alors remplacé par Michel Dompnier.",
+  "Lieu « Château de la Croë » : Le château de la Croë est un château français de 2 000 m2 construit en 1927 dans un style français, inspiré du château de Bagatelle, près de Paris.",
+  "Lieu « Château de la Croë », 1927 : Le château de la Croë est un château français de 2 000 m2 construit en 1927 dans un style français, inspiré du château de Bagatelle, près de Paris.",
+  "Lieu « Château de la Croë », 1927 : Le château de la Croë est construit en 1927 dans le style victorien pour un aristocrate anglais nommé Sir William Pomeroy Burton président de la société Associated Newspapers Ltd.",
+  "Lieu « Château de la Croë », 1970 : Onassis a possédé le Château de la Croë jusqu'en 1970, lorsqu'il l'a vendu à une autre personnalité célèbre, le milliardaire grec Spiros Niarchos.",
+  "Lieu « Château de la Croë », aujourd'hui : Il sera laissé à l'abandon pendant trois décennies avant de faire l'objet d'une rénovation de grande ampleur afin de le remettre dans son état initial.",
+  "Lieu « Fort Carré (Antibes) » : Le fort Carré est un fort militaire construit sous le règne d'Henri II au XVIe siècle.",
+  "Lieu « Fort Carré (Antibes) », XVIe siècle : Le fort Carré est un fort militaire construit sous le règne d'Henri II au XVIe siècle.",
+  "Lieu « Fort Carré (Antibes) », 1746 : C'est la seule et unique prise militaire connue du Fort Carré ; – en 1746 - 1747, durant la guerre de Succession d'Autriche, le fort Carré et Antibes sont bombardés par l'artillerie austro-sarde et la flotte anglaise, mais la place forte tient le siège.",
+  "Lieu « Fort Carré (Antibes) », 1997 : Propriété de la ville d'Antibes depuis son rachat auprès du ministère de la Jeunesse et des Sports en 1997, le fort Carré est ouvert au public depuis 1998.",
+  "Lieu « Fort Carré (Antibes) », aujourd'hui : Henri II décide la construction du fort, sur un emplacement stratégique : le bâtiment est une sentinelle, permettant, par son point de vue panoramique, de surveiller la frontière avec le duché de Savoie.",
+  "Lieu « Pont du Bourget » : Le pont du Bourget, aussi appelé pont romain sur la Brague ou pont du Moulin du Roy, est un pont situé à Antibes, au-dessus de la Brague, en France, dans le quartier qui était appelé du Bourguet au XVIIe siècle.",
+  "Lieu « Pont du Bourget », 1645 : En 1645, l'assemblée des communautés de Provence réunie à Ollioules décida de reconstruire le pont 75 cannes plus en amont que celui qui venait de s'effondrer, en une seule arche de 20 m de portée.",
+  "Lieu « Pont du Bourget », 1647 : En août 1647, deux maçons, un de Cannes et un autre d'Antibes, travaillent sur la construction du pont, mais en octobre 1647, au moment de son décintrement, le pont s'effondre.",
+  "Lieu « Pont du Bourget », 1648 : Le 26 mai 1648, le contrôleur pour le Roi conclut que l'effondrement est dû aux maçons.",
+  "Lieu « Pont du Bourget », aujourd'hui : En octobre 1657, l'assemblée des communes de Provence réunie à Aubagne décide d'envoyer un expert pour proposer un nouvel emplacement pour le pont.",
+  "Lieu « Bastion Saint-André (Antibes) » : Le bastion Saint-André est un bastion construit à la fin du XVIIe siècle situé à Antibes.",
+  "Lieu « Bastion Saint-André (Antibes) », 1608 : Ces constructions vont entraîner la démolition de l'amphithéâtre romain qui était encore visible en 1608.",
+  "Lieu « Bastion Saint-André (Antibes) », XVIIe siècle : Le bastion Saint-André est un bastion construit à la fin du XVIIe siècle situé à Antibes.",
+  "Lieu « Bastion Saint-André (Antibes) », 1718 : En 1718, la porte Marine est construite ainsi que trois casemates situées à sa droite.",
+  "Lieu « Bastion Saint-André (Antibes) », aujourd'hui : Il meurt en juillet 1607 et est remplacé par son fils, Jean de Bonnefons, comme ingénieur ordinaire en Provence et Languedoc, après 1607.",
+  "Lieu « Chapelle Saint-Esprit d'Antibes » : La Chapelle Saint-Esprit est une chapelle située à Antibes dans le département français des Alpes-Maritimes.",
+  "Lieu « Chapelle Saint-Esprit d'Antibes », VIe siècle : Des pièces de table d'autel datant des Ve – VIe siècles qui ont dû être trouvées dans les fouilles de la cathédrale ou de la chapelle sont exposées dans le musée archéologique d'Antibes installé dans le bastion Saint-André.",
+  "Lieu « Chapelle Saint-Esprit d'Antibes », 1591 : Elle accueille la confrérie des Pénitents blancs du Saint-Esprit, seconde confrérie des Pénitents blancs d'Antibes, fondée en 1591.",
+  "Lieu « Chapelle Saint-Esprit d'Antibes », 1746 : Le portail a été détruit en 1746 et refait en 1751 dans le style baroque.",
+  "Lieu « Chapelle Saint-Esprit d'Antibes », aujourd'hui : À côté du portail on voit un montant en pierre d'un mètre de hauteur vestige du portail du narthex de la cathédrale du VIe siècle.",
+  "Lieu « Chapelle Saint-Bernardin d'Antibes » : La chapelle Saint-Bernardin ou chapelle des Pénitents-Blancs est un édifice religieux dont l'entrée principale est située au 14 rue du Docteur-Rostan et la porte latérale au 1 rue Saint-Bernardin, dans le centre-ville d'Antibes, dans le département d",
+  "Lieu « Chapelle Saint-Bernardin d'Antibes », 1513 : Au XVe siècle, l'activité de la confrérie des Pénitents blancs de Saint-Bernardin était florissante et ils auraient érigé leur chapelle en 1513 selon M. Muterse ou en 1581 selon M. Dhumez, historiens locaux.",
+  "Lieu « Chapelle Saint-Bernardin d'Antibes », 1920 : Le retable, qui date du XVIIe siècle, provient vraisemblablement du Couvent des Cordonniers, situé place de la Poste et détruit en 1920.",
+  "Lieu « Chapelle Saint-Bernardin d'Antibes », aujourd'hui : Dès l'Antiquité, un lieu de culte se trouvait à l'emplacement de l'actuel édifice puisqu'il a été construit sur des bases romaines.",
+  "Lieu « Musée de la carte postale d'Antibes » : Le musée de la carte postale d'Antibes, est un musée consacré à la cartophilie ouvert depuis le 2000 à Antibes sous l'impulsion de Christian Deflandre, collectionneur à partir de collections personnelles.",
+  "Lieu « Musée de la carte postale d'Antibes », 2000 : Le musée de la carte postale d'Antibes, est un musée consacré à la cartophilie ouvert depuis le 2000 à Antibes sous l'impulsion de Christian Deflandre, collectionneur à partir de collections personnelles.",
+  "Lieu « Musée de la carte postale d'Antibes », 2001 : Le musée a connu son ouverture le 1er juillet 2001 à l'initiative de Christian Deflandre.",
+  "Lieu « Musée de la carte postale d'Antibes », aujourd'hui : De manière non exhaustive on peut ainsi être initié à la carte postale par une analyse historique de 1889 à aujourd'hui mais également géographique en ne se restreignant pas à la seule France."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

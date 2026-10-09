@@ -1,0 +1,164 @@
+{
+ "commune": {
+  "titre": "Le Cannet",
+  "code_insee": "06030",
+  "departement": "06",
+  "population": 41938,
+  "lat": 43.576616,
+  "lon": 7.01912,
+  "url": "https://fr.wikipedia.org/wiki/Le_Cannet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:39:29",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1380,
+  "sortie": 1312
+ },
+ "cout_usd": 0.001916,
+ "accroche": "Le musée Bonnard a ouvert le 25 juin 2011 au Cannet.",
+ "histoire": {
+  "recit": "Au Cannet, la route a compté très tôt : les Romains occupent le site, y plantent des oliviers et donnent au lieu le nom d’Olivetum. Plus tard, la Via Aurelia traverse le territoire actuel, et elle demeure visible dans le quartier du Haut-Cannet.\n\nAu cœur des siècles, l’église Sainte-Catherine s’achève le 6 mars 1556, puis gagne son autonomie paroissiale en 1560. Dans le même temps, les Danys gardent une trace plus insolite : la Tour des Danys, aussi appelée Maison du Brigand, Maison des Brigands ou Tour des Brigands.\n\nLe temps plus récent n’efface pas les repères : le musée Bonnard ouvre en 2011, et il travaille ensuite avec le musée d’Orsay pour renforcer ses partenariats scientifiques. La villa Le Bosquet, elle, a été la maison de Pierre Bonnard, et a reçu le label « Patrimoine du XXe siècle ».",
+  "chronologie": [
+   {
+    "date": "Entre 400 et 410",
+    "texte": "Le moine Saint-Honorat séjourne au Cannet, sur un site déjà occupé par les Romains et traversé par la Via Aurelia.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "6 mars 1556",
+    "texte": "L’église Sainte-Catherine du Cannet est achevée.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1560",
+    "texte": "L’église Sainte-Catherine obtient son autonomie paroissiale ; le premier baptême a lieu cette année-là.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "Milieu du XVIe siècle",
+    "texte": "La tour des Danys n’est probablement pas construite avant le milieu du XVIe siècle.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "25 juin 2011",
+    "texte": "Le musée Bonnard ouvre au Cannet.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Depuis 2012",
+    "texte": "Le musée d’Orsay signe un partenariat avec le musée Bonnard pour développer un partenariat scientifique et faciliter des prêts.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1926",
+    "texte": "La villa Le Bosquet devient la maison de Pierre Bonnard.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée Bonnard",
+   "histoire": "Au Cannet, le musée Bonnard est consacré à l’œuvre de Pierre Bonnard et a ouvert le 25 juin 2011. Depuis 2012, il entretient un partenariat avec le musée d’Orsay pour renforcer son travail scientifique et obtenir plus facilement des prêts.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Oui : le musée Bonnard a ouvert le 25 juin 2011 et fonctionne au Cannet.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 43.576257,
+   "lon": 7.019579,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Bonnard"
+  },
+  {
+   "nom": "Tour des Danys du Cannet",
+   "histoire": "Dans le hameau des Danys au Cannet, la Tour des Danys—appelée aussi Maison du Brigand, Maison des Brigands ou Tour des Brigands—est une maison dimière datée du XIIIe siècle ou du XVIe siècle. Sa construction n’est probablement pas antérieure au milieu du XVIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "On retrouve pour la tour plusieurs surnoms, dont « Maison du Brigand » et « Maison des Brigands ».",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 43.5742,
+   "lon": 7.02126,
+   "url": "https://fr.wikipedia.org/wiki/Tour_des_Danys_du_Cannet"
+  },
+  {
+   "nom": "Villa Le Bosquet",
+   "histoire": "La villa Le Bosquet est une résidence du Cannet qui a été la maison du peintre Pierre Bonnard de 1926 à sa mort. L’édifice a reçu le label « Patrimoine du XXe siècle ».",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 43.5763,
+   "lon": 7.02829,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Le_Bosquet"
+  },
+  {
+   "nom": "Église Sainte-Catherine du Cannet",
+   "histoire": "L’église Sainte-Catherine du Cannet est une église du XVIe siècle. Elle est achevée le 6 mars 1556 ; son autonomie paroissiale date de 1560, avec le premier baptême.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 43.5732,
+   "lon": 7.01733,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Catherine_du_Cannet"
+  }
+ ],
+ "sources": [
+  "Le Cannet est une commune française située dans le département des Alpes-Maritimes, en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Cannettans.",
+  "Très tôt, le site du Cannet a été occupé par les Romains qui s'installent, plantent des oliviers et baptisent l'endroit Olivetum. Le Cannet devient très vite une cité romaine, où les voyageurs s’arrêtent, en effet la Via Aurelia, qui relie Rome à Arles traverse le territoire actuel du Cannet, et la Via Aurelia est toujours présente dans le quartier du Haut-Cannet. Entre 400 et 410, le moine Saint-Honorat s'y […]",
+  "Lieu « Musée Bonnard » : Le musée Bonnard est le seul musée au monde consacré à l'œuvre de Pierre Bonnard, figure marquante de l'art des XIXe et XXe siècles.",
+  "Lieu « Musée Bonnard », 2011 : Le musée a ouvert le 25 juin 2011 au Cannet.",
+  "Lieu « Musée Bonnard », 2012 : Depuis 2012, le Musée d'Orsay a signé un partenariat avec le musée, ce rôle de parrain est de bâtir un partenariat scientifique et d'obtenir plus facilement des prêts du musée.",
+  "Lieu « Tour des Danys du Cannet » : La Tour des Danys, appelée également Maison du Brigand, Maison des Brigands ou Tour des Brigands, est une maison dimière du XIIIe siècle ou du XVIe siècle située dans le hameau des Danys au Cannet (Alpes-Maritimes), du nom d'une des familles fondatri",
+  "Lieu « Tour des Danys du Cannet », XVIe siècle : La tour des Danys n'a probablement pas été construite avant le milieu du XVIe siècle.",
+  "Lieu « Villa Le Bosquet » : La villa Le Bosquet est une résidence située au Cannet (Alpes-Maritimes) et qui a été la maison du peintre Pierre Bonnard (1867-1947) de 1926 à sa mort.",
+  "Lieu « Villa Le Bosquet », XXe siècle : L'édifice a reçu le label « Patrimoine du XXe siècle ».",
+  "Lieu « Église Sainte-Catherine du Cannet » : L'église Sainte-Catherine est une église du XVIe siècle située au Cannet dans le département français des Alpes-Maritimes.",
+  "Lieu « Église Sainte-Catherine du Cannet », 1556 : Achevée le 6 mars 1556, son autonomie paroissiale date de 1560, date du premier baptême."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}
