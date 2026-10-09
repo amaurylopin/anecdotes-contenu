@@ -1,0 +1,273 @@
+{
+ "commune": {
+  "titre": "Bron",
+  "code_insee": "69029",
+  "departement": "69",
+  "population": 42982,
+  "lat": 45.7355,
+  "lon": 4.9116,
+  "url": "https://fr.wikipedia.org/wiki/Bron"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:38:27",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2600,
+  "sortie": 2070
+ },
+ "cout_usd": 0.003108,
+ "accroche": "En août 1944, 109 détenus de la prison de Montluc, dont 72 juifs, sont massacrés à Bron : ce lieu prendra le nom de « Charnier de Bron ».",
+ "histoire": {
+  "recit": "À Bron, les traces ne manquent pas : dès le Néolithique, le site est occupé, puis il l’est encore à l’époque de La Tène, avec des fossés, des trous de poteaux et des fosses. Plus tard, une voie romaine traverserait le territoire, citée par Strabon, avec un indice jugé sérieux à la limite du territoire actuel.\n\nLa commune s’est aussi profondément marquée par l’histoire moderne. En août 1944, des détenus venant de déblayer des entonnoirs de bombes de l’aéroport de Bron, bombardé le 14 août, sont massacrés par les nazis : ce massacre est désigné comme « le Charnier de Bron ».\n\nEt dans le paysage, les fortifications ont longtemps dominé. Le fort de Bron est construit entre 1875 et 1877, puis, de 1875 à 1885, se succèdent les batteries de Lessivas et Parilly et l’enceinte fortifiée. Aujourd’hui, seul le fort de Bron subsiste.",
+  "chronologie": [
+   {
+    "date": "Dès le Néolithique",
+    "texte": "Le site est occupé, avec la présence de fossés.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Durant la Tène",
+    "texte": "L’occupation se poursuit : trous de poteaux et fosses attestent des aménagements.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Époque romaine (mention par Strabon)",
+    "texte": "Une voie romaine traverserait le territoire en direction de l’Italie, avec un indice sérieux à la limite du territoire actuel.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Août 1944",
+    "texte": "109 détenus de la prison de Montluc (dont 72 juifs) sont massacrés par les nazis à Bron, dans ce qui deviendra « le Charnier de Bron ».",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1875-1877",
+    "texte": "Construction du fort de Bron, ouvrage militaire.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "1875-1885",
+    "texte": "S’édifient successivement : le fort de Bron, les batteries de Lessivas et Parilly, l’enceinte fortifiée et des routes de Grenoble.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1975",
+    "texte": "Le Grand Lyon achète le fort pour y construire deux réservoirs d’eau.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "Aujourd’hui",
+    "texte": "Seul subsiste le fort de Bron, construit entre 1875 et 1877.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fort de Bron",
+   "histoire": "Le fort de Bron est un ouvrage militaire construit entre 1875 et 1877, puis complété par un ensemble de fortifications édifiées sur la commune entre 1875 et 1885. En 1975, il est acheté par le Grand Lyon pour y installer deux réservoirs d’eau.",
+   "anecdotes": [
+    {
+     "texte": "Après la période d’aménagements militaires du secteur, il ne resterait aujourd’hui que le fort de Bron, construit entre 1875 et 1877.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seul subsiste le fort de Bron, construit de 1875 à 1877.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 45.732187,
+   "lon": 4.921567,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Bron"
+  },
+  {
+   "nom": "Hippodrome de Parilly",
+   "histoire": "L’hippodrome de Parilly est un champ de courses hippiques construit en 1965 dans le parc de Parilly. Il a été appelé « La Cravache D'or », puis occupé par la Maison Borgeot avant d’être repris en 2022 par le service restauration de l’hippodrome.",
+   "anecdotes": [
+    {
+     "texte": "Avant son fonctionnement récent autour de la restauration, l’hippodrome a porté le nom de « La Cravache D'or », avec une occupation par la Maison Borgeot.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 45.721342,
+   "lon": 4.907241,
+   "url": "https://fr.wikipedia.org/wiki/Hippodrome_de_Parilly"
+  },
+  {
+   "nom": "Centre hospitalier Le Vinatier",
+   "histoire": "Le Vinatier a d’abord été un asile départemental d’aliénés de Bron jusqu’en 1937. C’est aussi un hôpital psychiatrique fondé en 1876. Des services pour enfants « libres et ouverts » sont créés en 1938, puis, dans le cadre du plan Hôpital 2012, une nouvelle étape de mutation est finalisée en construisant un bâtiment pour la prise en charge de l’adulte.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 45.7404,
+   "lon": 4.89836,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_Le_Vinatier"
+  },
+  {
+   "nom": "Batterie de Lessivas",
+   "histoire": "La batterie de Lessivas dépend du fort de Bron. Construite entre 1878 et 1880, elle comportait un mur d’environ 200 m de long et 100 m de large, avec des casernes semi-enterrées pour 150 hommes et des emplacements pour 17 canons. Plus tard, quatre bâtiments de la copropriété Le Lessivas ont été construits à sa place entre 1966 et 1970, tandis que des locaux souterrains restent enfouis.",
+   "anecdotes": [
+    {
+     "texte": "Sous les espaces verts de la copropriété Le Lessivas, des locaux souterrains de la forteresse demeurent enfouis et sont décrits comme des témoins largement méconnus.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les locaux souterrains de la forteresse sont toujours enfouis sous les espaces verts de la copropriété.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 45.745463,
+   "lon": 4.914483,
+   "url": "https://fr.wikipedia.org/wiki/Batterie_de_Lessivas"
+  },
+  {
+   "nom": "Maison forte de Bron",
+   "histoire": "La maison forte de Bron a été érigée au XIIIe siècle. Après des travaux aux XIXe et XXe siècles, la demeure féodale s’est transformée en maison bourgeoise par le percement d’ouvertures. Aujourd’hui, il s’agit du seul vestige féodal subsistant à Bron.",
+   "anecdotes": [
+    {
+     "texte": "Elle est présentée comme le seul vestige féodal subsistant à Bron, après les transformations des périodes plus récentes.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C'est le seul vestige féodal subsistant à Bron.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 45.735833,
+   "lon": 4.915,
+   "url": "https://fr.wikipedia.org/wiki/Maison_forte_de_Bron"
+  },
+  {
+   "nom": "Hôpital Femme-Mère-Enfant",
+   "histoire": "L’hôpital Femme-Mère-Enfant est un pôle du centre hospitalier universitaire de Lyon. Il s’inscrit dans une construction commencée après 2003 et achevée selon les indications fournies entre 2003 et 2007, pour une ouverture en 2008 selon les plans cités.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 45.746249,
+   "lon": 4.9009140000001,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Femme-M%C3%A8re-Enfant"
+  },
+  {
+   "nom": "Hôpital cardiovasculaire et pneumologique Louis-Pradel",
+   "histoire": "L’hôpital Louis Pradel, aussi appelé « Cardio », est un hôpital des hospices civils de Lyon situé à Bron. Il est inauguré le 24 avril 1970. En 2015, il est mis en travaux dans le cadre d’une rénovation intégrale du bâtiment sur une durée indiquée de 6 ans, avec un coût présenté dans la source.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 45.747842,
+   "lon": 4.903152,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_cardiovasculaire_et_pneumologique_Louis-Pradel"
+  },
+  {
+   "nom": "Batterie de Parilly",
+   "histoire": "La batterie de Parilly est située sur la commune de Bron et dépendait du fort de Bron. Elle est achevée en 1880, puis elle est déclassée en septembre 1923. En 1959, elle est achetée par le Rhône pour être démantelée : jugée trop résistante, elle est finalement enfouie sous terre pour libérer de l’espace pour le parc de Parilly.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 45.723814,
+   "lon": 4.900439,
+   "url": "https://fr.wikipedia.org/wiki/Batterie_de_Parilly"
+  }
+ ],
+ "sources": [
+  "Bron est une commune française située dans la Métropole de Lyon, en région Auvergne-Rhône-Alpes.",
+  "Dès le Néolithique, le site est occupé (présence de fossés) ainsi que durant la Tène (trous de poteaux, fosses). Le site actuel n'est pas situé à proximité immédiate de la capitale des Gaules, Lugdunum. Toutefois, une voie romaine, citée par Strabon, traverserait ce territoire en direction de l'Italie. Un des indices les plus sérieux attestant son existence est situé à la limite du territoire actuel. On signale la […]",
+  "1944 : 1944 - en août, 109 détenus de la prison de Montluc dont 72 juifs qui venaient de déblayer les 17, 18 et 21 août 1944 les entonnoirs de bombes de l'aéroport de Bron bombardé le 14 août, sont massacrés par les nazis dans ce qui deviendra « le Charnier de Bron ».",
+  "Lieu « Fort de Bron » : Le fort de Bron est un ouvrage militaire construit entre 1875 et 1877.",
+  "Lieu « Fort de Bron », 1875 : Le fort de Bron est un ouvrage militaire construit entre 1875 et 1877.",
+  "Lieu « Fort de Bron », 1875 : De 1875 à 1885, vont s'édifier successivement sur la commune : le fort de Bron, placé sur la hauteur dominant le plaine du Rhône jusqu'à Saint-Priest ; les batteries de Lessivas et Parilly ; l'enceinte fortifiée avec quatre bastions et les routes de Grenoble.",
+  "Lieu « Fort de Bron », 1975 : Le Grand Lyon achète le fort en 1975 pour y construire deux réservoirs d'eau, occupant 50 % de la surface construite du fort et 300 m du fossé sud en tant que déversoir de sécurité.",
+  "Lieu « Fort de Bron », aujourd'hui : Seul subsiste le fort de Bron, construit de 1875 à 1877.",
+  "Lieu « Hippodrome de Parilly » : L'hippodrome de Parilly est un champ de courses hippiques construit en 1965 dans le parc de Parilly dans le département du Rhône.",
+  "Lieu « Hippodrome de Parilly », 1965 : L'hippodrome de Parilly est un champ de courses hippiques construit en 1965 dans le parc de Parilly dans le département du Rhône.",
+  "Lieu « Hippodrome de Parilly », 2022 : Auparavant appelé \" La Cravache D'or\", il fut occupé par la Maison Borgeot ( Restaurant la tassée) avant d'être repris en 2022 par le service restauration de l'hippodrome.",
+  "Lieu « Hippodrome de Parilly », aujourd'hui : Il était destiné à remplacer l'hippodrome du Grand Camp remplacé par une partie du campus de La Doua.",
+  "Lieu « Centre hospitalier Le Vinatier » : Le Vinatier, anciennement asile départemental d'aliénés de Bron jusqu'en 1937, est un hôpital psychiatrique fondé en 1876 et situé dans la ville de Bron, dans la métropole de Lyon, en France.",
+  "Lieu « Centre hospitalier Le Vinatier », 1937 : Le Vinatier, anciennement asile départemental d'aliénés de Bron jusqu'en 1937, est un hôpital psychiatrique fondé en 1876 et situé dans la ville de Bron, dans la métropole de Lyon, en France.",
+  "Lieu « Centre hospitalier Le Vinatier », 1938 : En 1938, dans un souci de modernisation et d'évolution, des services pour enfants dits « libres et ouverts » sont créés.",
+  "Lieu « Centre hospitalier Le Vinatier », 2012 : Dans le cadre du plan Hôpital 2012, Le Vinatier a achevé une nouvelle étape de sa profonde mutation via la construction d'un bâtiment de 33 434 m2 destiné à la prise en charge de l'adulte.",
+  "Lieu « Batterie de Lessivas » : La batterie de Lessivas, aussi orthographiée Lessignas ou Lessignaz, est située sur la commune de Bron et dépendante du fort de Bron.",
+  "Lieu « Batterie de Lessivas », 1878 : La batterie de Lessivas fut construite entre 1878 et 1880 et se composait d'un mur d'environ 200 m de long et 100 m de large, comprenant des casernes semi-enterrées pour 150 hommes et des emplacements pour 17 canons.",
+  "Lieu « Batterie de Lessivas », 1966 : Les quatre bâtiments de la copropriété Le Lessivas, situés rue de la Batterie, ont été construits à sa place entre 1966 et 1970.",
+  "Lieu « Batterie de Lessivas », aujourd'hui : Les locaux souterrains de la forteresse sont cependant toujours enfouis sous les espaces verts de la copropriété et sont aujourd'hui des témoins largement méconnus de l'époque.",
+  "Lieu « Maison forte de Bron » : La Maison forte de Bron est située sur la commune de Bron, dans le département du Rhône.",
+  "Lieu « Maison forte de Bron », XIIIe siècle : Cette maison forte a été érigée au XIIIe siècle.",
+  "Lieu « Maison forte de Bron », XIXe siècle : À la suite des travaux effectués au XIXe siècle et au XXe siècle, en particulier le percement d'ouvertures, la demeure féodale se transforme en maison bourgeoise.",
+  "Lieu « Maison forte de Bron », aujourd'hui : C'est le seul vestige féodal subsistant à Bron.",
+  "Lieu « Hôpital Femme-Mère-Enfant » : L’hôpital Femme Mère Enfant est un des pôles du centre hospitalier universitaire de Lyon.",
+  "Lieu « Hôpital Femme-Mère-Enfant », 2003 : L'hôpital, de 84 000 m2 de surface hors œuvre nette, est construit entre 2003 et 2007 par les Ateliers AFA, pour un coût de 106 000 000 € hors taxes.",
+  "Lieu « Hôpital Femme-Mère-Enfant », 2008 : Construit selon les plans d'Adrien Fainsilber dans une volonté de créer une unique structure liée à l'enfance, l'hôpital, ouvert en 2008, regroupe toutes les activités de gynécologie-obstétrique, néonatalogie, médecine et chirurgie pédiatriques des hospices de Lyon.",
+  "Lieu « Hôpital cardiovasculaire et pneumologique Louis-Pradel » : L'hôpital Louis Pradel aussi appelé Cardio est un hôpital des hospices civils de Lyon situé à Bron dans la Métropole de Lyon, dans le groupement hospitalier Est.",
+  "Lieu « Hôpital cardiovasculaire et pneumologique Louis-Pradel », 1970 : Il est inauguré le 24 avril 1970 par Jacques Chaban-Delmas, le Premier ministre de l'époque.",
+  "Lieu « Hôpital cardiovasculaire et pneumologique Louis-Pradel », 2015 : En 2015, l'hôpital est mis en travaux dans le cadre d'une rénovation intégrale du bâtiment pour une durée de 6 ans pour un coût de 77 millions d'euros dont 55 millions pris en charge par l'État et 25,5 millions par les hospices civils de Lyon.",
+  "Lieu « Batterie de Parilly » : La batterie de Parilly est située sur la commune de Bron et dépendait du fort de Bron.",
+  "Lieu « Batterie de Parilly », 1880 : Il fut achevé deux ans plus tard, en 1880.",
+  "Lieu « Batterie de Parilly », 1923 : Déclassée en septembre 1923, elle est achetée en 1959 par le Rhône pour la démanteler ; trop résistante, elle sera finalement enfouie sous terre pour libérer de l'espace pour le parc de Parilly."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}

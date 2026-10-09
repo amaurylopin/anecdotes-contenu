@@ -1,0 +1,281 @@
+{
+ "commune": {
+  "titre": "Oullins-Pierre-Bénite",
+  "code_insee": "69149",
+  "departement": "69",
+  "population": 38168,
+  "lat": 45.715,
+  "lon": 4.808333,
+  "url": "https://fr.wikipedia.org/wiki/Oullins-Pierre-B%C3%A9nite"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:42:03",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3246,
+  "sortie": 1935
+ },
+ "cout_usd": 0.003068,
+ "accroche": "Le 1er janvier 2024, Oullins et Pierre-Bénite fusionnent pour former la commune nouvelle d’Oullins-Pierre-Bénite, avec le chef-lieu fixé à la mairie d’Oullins.",
+ "histoire": {
+  "recit": "Longtemps, Oullins et Pierre-Bénite ont évolué séparément avant de se rejoindre. Le 1er janvier 2024, la fusion crée la commune d’Oullins-Pierre-Bénite : les anciennes communes deviennent communes déléguées, et le chef-lieu est établi à la mairie d’Oullins. Dans l’ensemble, le territoire a connu des transformations marquées par la ville qui s’épaissit, les infrastructures qui se déplacent et les bâtiments qui changent de rôle.\n\nÀ Oullins, la rue de la Gare (aujourd’hui Pierre-Semard) est percée à partir de 1830, puis un quartier voit son église construite en 1907-1908. Plus au nord, la gare s’organise avec, en arrière-plan, l’évolution des ouvrages et des liaisons. Enfin, à Pierre-Bénite, la fin du XIXe siècle voit des lieux se convertir en sanatorium, et les travaux routiers coupent, puis déplacent, un rocher granitique, sauvegardé pour rester visible.\n\nEntre ces transitions urbaines, l’Hôpital Lyon Sud raconte un autre fil : inauguré en 1867 dans le Château de Longchêne, il connaît une restructuration à partir de 1979, puis des délocalisations de services depuis 1992.",
+  "chronologie": [
+   {
+    "date": "1er janvier 2024",
+    "texte": "La commune d’Oullins fusionne avec Pierre-Bénite sous le régime de la commune nouvelle ; les anciennes communes deviennent déléguées et le chef-lieu est fixé à la mairie d’Oullins.",
+    "sources": [
+     "S2",
+     "S1"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "À Oullins, la rue de la Gare (aujourd’hui Pierre-Semard) est percée à partir de 1830 dans les zones non boisées.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1867",
+    "texte": "L’Hôpital Lyon Sud est inauguré en 1867 dans le Château de Longchêne, donné par l’Impératrice Eugénie aux Hospices Civils de Lyon.",
+    "sources": [
+     "S4",
+     "S3"
+    ]
+   },
+   {
+    "date": "1979",
+    "texte": "L’Hôpital Lyon Sud résulte de la fusion, à partir du 1er janvier 1979, de deux anciens établissements hospitaliers.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1992",
+    "texte": "Depuis 1992, certains services du secteur Sainte-Eugénie sont délocalisés au bâtiment médico-technique.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "9 décembre 1986",
+    "texte": "La pierre découpée et déplacée lors des travaux est remise sur le côté de la mairie et y est visible.",
+    "sources": [
+     "S21"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôpital Lyon Sud",
+   "histoire": "L’hôpital, situé sur les communes de Saint-Genis-Laval et Oullins-Pierre-Bénite, a été inauguré en 1867 dans le Château de Longchêne. Il évolue ensuite par fusion et par ouverture de nouveaux bâtiments, avec des délocalisations de services à partir de 1992.",
+   "anecdotes": [
+    {
+     "texte": "Inauguré en 1867 dans un château donné par l’Impératrice Eugénie, le site conserve une stèle signalant cette origine.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Un bâtiment orienté vers le traitement de la tuberculose, sous l’appellation d’Hôpital Sanatorium du Perron, est encore visible aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 45.701604,
+   "lon": 4.807028,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Lyon_Sud"
+  },
+  {
+   "nom": "Oullins",
+   "histoire": "Ancienne commune, Oullins a vu la percée de la rue de la Gare à partir de 1830, puis la construction d’une église dédiée à Jean-Marie Vianney en 1907-1908.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 45.715,
+   "lon": 4.808333,
+   "url": "https://fr.wikipedia.org/wiki/Oullins"
+  },
+  {
+   "nom": "Chapelle Saint-Thomas-d'Aquin",
+   "histoire": "La chapelle Saint-Thomas-d’Aquin se trouve dans l’enceinte de l’école Saint-Thomas-d’Aquin-Veritas à Oullins-Pierre-Bénite. Une première chapelle est construite en 1836, avant qu’un édifice plus grand soit bâti entre 1861 et 1889 par Pierre-Marie Bossan.",
+   "anecdotes": [
+    {
+     "texte": "Pierre Bossan expliquait sa méthode : « Je ne mets dans mes bâtisses que tout juste le matériel qu’il faut et ainsi je diminue les dépenses. »",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "L’orgue actuel remplace un instrument de 19 jeux à transmissions mécaniques construit en 1890 par Joseph Merklin.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 45.710493,
+   "lon": 4.808534,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Thomas-d%27Aquin"
+  },
+  {
+   "nom": "Pierre-Bénite",
+   "histoire": "Ancienne commune, Pierre-Bénite s’est transformée, à la fin du XIXe siècle, vers des usages de sanatorium avant d’évoluer vers un centre hospitalier moderne. Elle connaît aussi une opération de sauvegarde d’un rocher granitique lors de la construction d’une autoroute.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la construction de l’autoroute entre 1964 et 1967, la tête du rocher granitique est découpée puis déplacée pour être sauvegardée, avant d’être remise visible en décembre 1986.",
+     "statut": "etabli",
+     "sources": [
+      "S20",
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 45.70444,
+   "lon": 4.825,
+   "url": "https://fr.wikipedia.org/wiki/Pierre-B%C3%A9nite"
+  },
+  {
+   "nom": "Gare d'Oullins",
+   "histoire": "La gare d’Oullins appartient à la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache. À partir de 2012, des quais sont déplacés en prévision du métro et de la suppression du passage à niveau, et un nouveau bâtiment voyageurs est construit. Un axe appelé Avenue du Rhône ouvre à la circulation en février 2014.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S25",
+    "S26"
+   ],
+   "lat": 45.717425,
+   "lon": 4.813196,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Oullins"
+  },
+  {
+   "nom": "Château de La Bussière (Oullins)",
+   "histoire": "Le château de La Bussière est situé à Oullins. Une maison des champs est construite au début du XVIIIe siècle à l’emplacement d’une maison forte, puis les bâtiments sont transformés en fabrique de luminaires et salle d’exposition en 1953.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 45.717022,
+   "lon": 4.802447,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_La_Bussi%C3%A8re_%28Oullins%29"
+  },
+  {
+   "nom": "Gare d'Oullins (métro de Lyon)",
+   "histoire": "Gare d’Oullins est une station de la ligne B du métro de Lyon, située à l’angle des avenues du Rhône et Edmond-Locard. Elle est mise en service en 2013 lors de l’ouverture du prolongement jusqu’à la gare SNCF d’Oullins, puis intégrée à un pôle multimodal avec reconfiguration du secteur et suppression du passage à niveau de la rue Pierre-Semard.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 45.716683,
+   "lon": 4.814624,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Oullins_%28m%C3%A9tro_de_Lyon%29"
+  },
+  {
+   "nom": "Oullins Centre (métro de Lyon)",
+   "histoire": "Oullins Centre est une station de la ligne B du métro de Lyon, située sous la place Anatole-France à Oullins-Pierre-Bénite. Elle est mise en service le 20 octobre 2023 lors de l’ouverture du prolongement de la ligne B de Gare d’Oullins à Saint-Genis-Laval (Hôpital Lyon Sud).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37"
+   ],
+   "lat": 45.71425,
+   "lon": 4.80523611,
+   "url": "https://fr.wikipedia.org/wiki/Oullins_Centre_%28m%C3%A9tro_de_Lyon%29"
+  }
+ ],
+ "sources": [
+  "Oullins-Pierre-Bénite [ulɛ̃ pjɛʁ benit] est une commune française située dans la métropole de Lyon, en région Auvergne-Rhône-Alpes, qui jouxte par le sud-ouest Lyon. Elle est créée le 1er janvier 2024 sous le statut de commune nouvelle par la fusion de Oullins et Pierre-Bénite; devenues ses communes déléguées. La commune compte en 2025 37 928 habitants, ce qui la classe 8e en termes de population parmi les communes […]",
+  "Le 1er janvier 2024, la commune d'Oullins fusionne avec la commune de Pierre-Bénite sous le régime de la commune nouvelle, pour former la commune d'Oullins-Pierre-Bénite. Les deux anciennes communes deviennent communes déléguées. Le chef-lieu est fixé à la mairie de l'ancienne commune d'Oullins. À noter que jusqu'en 1869, les deux communes ne formaient qu'une seule ville, jusqu'au détachement du hameau de […]",
+  "Lieu « Hôpital Lyon Sud » : L'hôpital Lyon Sud est un centre hospitalier universitaire (CHU) situé sur les communes de Saint-Genis-Laval et Oullins-Pierre-Bénite, à proximité de Lyon.",
+  "Lieu « Hôpital Lyon Sud », 1867 : Il fut inauguré en 1867 dans le Château de Longchêne, don de l’Impératrice Eugénie aux Hospices Civils de Lyon pour y établir une maison de repos et de convalescence (voir stèle dans l'hôpital).",
+  "Lieu « Hôpital Lyon Sud », 1979 : Il résulte d’une part de la fusion depuis le 1er janvier 1979 de deux anciens établissements hospitaliers, l’hôpital Jules Courmont et l’hôpital Sainte-Eugénie, et d’autre part de l’implantation entre ces deux ensembles de bâtiments tels que le Pavillon chirurgical ouvert en 1980, et le bâtiment médico-technique ouvert en 1992.",
+  "Lieu « Hôpital Lyon Sud », 1992 : Certains services hospitaliers du secteur Sainte-Eugénie sont délocalisés depuis 1992 (pédiatrie et biochimie transférés au bâtiment médico-technique).",
+  "Lieu « Hôpital Lyon Sud », aujourd'hui : En 1930, il était plus particulièrement orienté dans le traitement de la tuberculose sous l’appellation de Hôpital Sanatorium du Perron: on peut encore voir aujourd'hui un bâtiment de cette époque, conservé pour son importance historique, mais n'accueillant plus de patients ni de personnels de santé.",
+  "Lieu « Oullins » : Oullins ([ulɛ̃]) est une ancienne commune française située dans le Sud-ouest de la métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "Lieu « Oullins », 1830 : Dans les zones non boisées, des jardins privés se multiplient, des maisons sont bâties, la rue de la Gare (aujourd’hui Pierre-Semard) est percée à partir de 1830.",
+  "Lieu « Oullins », 1907 : Le quartier aura son église construite en 1907-1908 et dédiée à Jean-Marie Vianney, le célèbre curé d’Ars.",
+  "Lieu « Oullins », 1970 : Certains quartiers de la commune sont assez pentus, car la ville a été bâtie au pied et sur la colline de Montmein, où se trouve notamment un ensemble d'immeubles résidentiels construit dans les années 1970.",
+  "Lieu « Oullins », aujourd'hui : L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIe siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).",
+  "Lieu « Chapelle Saint-Thomas-d'Aquin » : La chapelle Saint-Thomas-d'Aquin est une chapelle catholique située dans l'enceinte de l'école Saint-Thomas-d'Aquin-Veritas à Oullins-Pierre-Bénite (métropole de Lyon).",
+  "Lieu « Chapelle Saint-Thomas-d'Aquin », 1836 : Une première chapelle est construite en 1836 mais elle est rapidement trop petite pour le lycée et le projet d'un édifice plus grand émerge.",
+  "Lieu « Chapelle Saint-Thomas-d'Aquin », 1861 : Construite entre 1861 et 1889 par l'architecte Pierre-Marie Bossan grâce au mécénat du peintre Paul Borel, elle est notamment remarquable pour la conservation de son décor d'origine.",
+  "Lieu « Chapelle Saint-Thomas-d'Aquin », 1911 : Je ne mets dans mes bâtisses que tout juste le matériel qu'il faut et ainsi je diminue les dépenses. » — Pierre Bossan, Semaine religieuse du diocèse de Lyon, 1911",
+  "Lieu « Chapelle Saint-Thomas-d'Aquin », aujourd'hui : L’orgue actuellement en place remplace un précédent instrument de 19 jeux à transmissions mécaniques, construit en 1890 par le facteur d’orgues : Joseph Merklin.",
+  "Lieu « Pierre-Bénite » : Pierre-Bénite est une ancienne commune française située dans la métropole de Lyon, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Pierre-Bénite », XIXe siècle : À la fin du XIXe siècle, ils se sont transformés en sanatorium pour évoluer vers un centre hospitalier moderne aujourd’hui en plein développement.",
+  "Lieu « Pierre-Bénite », 1964 : Lors de la construction d'une autoroute, entre 1964 et 1967, la tête du rocher granitique est découpée et déplacée pour être sauvegardée.",
+  "Lieu « Pierre-Bénite », 1986 : La pierre a été déplacée le 9 décembre 1986 sur le côté de la mairie où elle est aujourd’hui visible.",
+  "Lieu « Pierre-Bénite », aujourd'hui : L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIe siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).",
+  "Lieu « Gare d'Oullins » : La gare d'Oullins est une gare ferroviaire française de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache.",
+  "Lieu « Gare d'Oullins », 1840 : Plus au nord, de l'autre côté de l'Yzeron, sur le territoire de La Mulatière, se trouvait le technicentre industriel d'Oullins, ouvert dans les années 1840 par Alphonse Clément-Desormes et transféré à Vénissieux en 2019.",
+  "Lieu « Gare d'Oullins », 2012 : À partir de 2012, en prévision de la mise en service du métro, du pôle multimodal et de la suppression du passage à niveau de la rue Pierre-Semard, les quais de la gare ont été déplacés de quelques dizaines de mètres en direction de Givors, avec la construction d'un nouveau bâtiment voyageurs.",
+  "Lieu « Gare d'Oullins », 2014 : Ce nouvel axe baptisé « Avenue du Rhône » a été ouvert à la circulation en février 2014.",
+  "Lieu « Gare d'Oullins », aujourd'hui : Le nouveau pont permettant le passage du prolongement de la rue de la République en remplacement du passage à niveau de la rue Pierre-Semard a été ripé sous les voies du 8 au 12 mai 2013.",
+  "Lieu « Château de La Bussière (Oullins) » : Le château de La Bussière est situé sur la commune d'Oullins, dans la métropole de Lyon, en France.",
+  "Lieu « Château de La Bussière (Oullins) », XVIIIe siècle : Au début du XVIIIe siècle, une maison des champs est construite à l'emplacement de la maison forte ; les jardins sont embellis et agrémentés de fontaines ; un colombier est édifié dans l'angle sud ouest de la propriété.",
+  "Lieu « Château de La Bussière (Oullins) », 1953 : 1953 : les bâtiments sont transformés en fabrique de luminaires et salle d'exposition.",
+  "Lieu « Château de La Bussière (Oullins) », 1999 : Le château et son domaine ont été acquis par la Métropole en 1999 pour être transféré à la mairie en 2000, et une crèche a été construite en 2008 sur le domaine.",
+  "Lieu « Gare d'Oullins (métro de Lyon) » : Gare d'Oullins est une station de la ligne B du métro de Lyon, située à l'angle des avenues du Rhône et Edmond-Locard à Oullins-Pierre-Bénite.",
+  "Lieu « Gare d'Oullins (métro de Lyon) », 2013 : Elle est mise en service en 2013, lors de l'ouverture à l'exploitation du prolongement de la ligne B jusqu'à la gare SNCF d'Oullins depuis le stade de Gerland.",
+  "Lieu « Gare d'Oullins (métro de Lyon) », 2013 : La station « Gare d'Oullins » est mise en service le 11 décembre 2013, lors de l'ouverture officielle de l'exploitation du prolongement de la ligne B du métro de Lyon de la station Stade de Gerland à la gare SNCF d'Oullins.",
+  "Lieu « Gare d'Oullins (métro de Lyon) », aujourd'hui : Elle est intégrée au sein d'un pôle d'échanges multimodal ayant nécessité de reconfigurer le secteur : la gare d'Oullins a été reconstruite 50 mètres plus au sud pour être au niveau de la station de métro, à l’emplacement des anciens ateliers SNCF d’Oullins-Voitures, et le passage à niveau de la rue Pierre-Semard a été supprimé.",
+  "Lieu « Oullins Centre (métro de Lyon) » : Oullins Centre est une station de la ligne B du métro de Lyon, située sous la place Anatole-France à Oullins-Pierre-Bénite (Oullins).",
+  "Lieu « Oullins Centre (métro de Lyon) », 2023 : Elle est mise en service le 20 octobre 2023 lors de l'ouverture du prolongement de la ligne B de Gare d'Oullins à Saint-Genis-Laval (Hôpital Lyon Sud)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

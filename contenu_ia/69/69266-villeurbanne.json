@@ -1,0 +1,429 @@
+{
+ "commune": {
+  "titre": "Villeurbanne",
+  "code_insee": "69266",
+  "departement": "69",
+  "population": 163684,
+  "lat": 45.7719,
+  "lon": 4.8898,
+  "url": "https://fr.wikipedia.org/wiki/Villeurbanne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:14:51",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3831,
+  "sortie": 2730
+ },
+ "cout_usd": 0.004179,
+ "accroche": "À Villeurbanne, l’hippodrome ouvre en 1864 et l’on raconte que les habitants, surtout agricoles, assistent aux courses perchés sur la digue insubmersible.",
+ "histoire": {
+  "recit": "Villeurbanne se construit comme une ville qui regarde Lyon sans se confondre avec elle. En 1844, on édifie des casernes d’artillerie à la Part-Dieu pour loger la troupe, avant que l’argument des relations quotidiennes avec Lyon ne soit rappelé lors d’une demande réitérée en 1847. L’élan populaire passe aussi par l’hippodrome : en 1864, l’ouverture est un grand succès, mais les plus passionnés se laissent prendre au spectacle en gagnant les hauteurs.\n\nPuis la ville se densifie par le logement et l’urbanisme. Dès 1886, le patronat lyonnais lance la Société Anonyme des Logements Économiques, qui construit des immeubles à proximité de l’usine. Vers 1900, certains aménagent des fermes en garnis et un particulier édifie une petite cité. Dans le même mouvement, la question du bâtiment à détruire et reconstruire revient sous l’impulsion d’Émile Dunière.\n\nAu début du XXe siècle, un réseau de décisions et de projets transforme le paysage. À La Doua, un émetteur radiotélégraphique relie l’Amérique et la Russie en 1914 avec huit pylônes. Plus visible encore, l’ensemble des Gratte-Ciel s’affirme avec un projet modifié, remplacant un portique par un escalier. Et, tout près, la Maison du livre, de l’image et du son ouvre en 1988, tandis que des traces récentes demeurent au Parc de la Feyssine.",
+  "chronologie": [
+   {
+    "date": "1844",
+    "texte": "Les casernes d’artillerie de la Part-Dieu sont construites à partir de 1844, par achat des terrains aux Hospices civils.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1847",
+    "texte": "Le 19 mai 1847, une demande est réitérée avec l’argument que les relations de Villeurbanne avec Lyon sont quotidiennes : produits agricoles vendus à Lyon et achats à Lyon.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1864",
+    "texte": "Ouverture de l’hippodrome : grand succès, et la population, surtout agricole, y participe peu, sauf pour assister aux courses perchés sur la digue insubmersible.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1886",
+    "texte": "Le patronat lyonnais fonde dès 1886 la Société Anonyme des Logements Économiques, qui construit sept immeubles avant 1900 à proximité de l’usine.",
+    "sources": [
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "date": "1900",
+    "texte": "Dès 1900, certains propriétaires aménagent des fermes en garnis et un particulier édifie une petite cité.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1903",
+    "texte": "Échec d’une solution alternative imaginée par le maire Frédéric Faÿs, puis, avec Émile Dunière (1903-1908), destruction d’un vieux bâtiment et reconstruction mieux adaptée à la fonction.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1903",
+    "texte": "Une enquête est ouverte et le rapporteur conclut par un plaidoyer en faveur de l’annexion.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Un émetteur radiotélégraphique entre l’Amérique et la Russie est installé sur le terrain militaire de La Doua : huit pylônes de 120 m.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1927",
+    "texte": "Le projet des Gratte-Ciel (Villeurbanne) est lancé pour un ensemble art déco.",
+    "sources": [
+     "S15",
+     "S17"
+    ]
+   },
+   {
+    "date": "1930",
+    "texte": "Pour l’hôtel de ville, la municipalité choisit l’architecte Robert Giroud pour le concours (bâti entre 1930 et 1934).",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "Au Palais d’Hiver (Lyon), réquisition par l’armée d’occupation : fermeture au public.",
+    "sources": [
+     "S22"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "À La Doua, fin août 1944, les pylônes de 1917 sont détruits par les Allemands en retraite.",
+    "sources": [
+     "S41"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "À La Doua, en 1945, trois émetteurs ondes longues et douze émetteurs ondes courtes sont construits.",
+    "sources": [
+     "S42"
+    ]
+   },
+   {
+    "date": "1986",
+    "texte": "Pour la Maison du livre, de l’image et du son, l’architecte Marc Givry est mandaté pour l’aménagement intérieur.",
+    "sources": [
+     "S46"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "Le 15 octobre 1988, la Maison du livre, de l’image et du son est inaugurée par Charles Hernu, en présence de François Mitterrand et de Jack Lang.",
+    "sources": [
+     "S47",
+     "S48"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "Au Parc de la Feyssine, les travaux débutent en 2000.",
+    "sources": [
+     "S51"
+    ]
+   },
+   {
+    "date": "2002",
+    "texte": "Le Parc de la Feyssine est inauguré en 2002.",
+    "sources": [
+     "S51"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gratte-Ciel (Villeurbanne)",
+   "histoire": "Ensemble architectural art déco, les Gratte-Ciel de Villeurbanne sont construits de 1927 à 1934. Le projet prévoyait une transition par un portique entre la place et l’avenue Barbusse, finalement remplacé par un escalier.",
+   "anecdotes": [
+    {
+     "texte": "Pour des raisons d’image de marque, la municipalité choisit l’architecte Robert Giroud pour le concours portant sur l’hôtel de ville.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "À l’origine, un portique devait marquer la transition entre la place et l’avenue Barbusse, mais la municipalité le modifie pour le remplacer par un escalier.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S17",
+    "S19",
+    "S16"
+   ],
+   "lat": 45.7679271,
+   "lon": 4.8794746,
+   "url": "https://fr.wikipedia.org/wiki/Gratte-Ciel_%28Villeurbanne%29"
+  },
+  {
+   "nom": "Palais d'Hiver (Lyon)",
+   "histoire": "Salle de bal, de music-hall et de concert située au 149, boulevard Stalingrad à la limite entre Lyon et Villeurbanne, construite à l’emplacement de l’ex piscine Delange, au sud-est du parc de la Tête-d’Or. Elle ferme au public en 1939, puis un incendie l’anéantit le 8 octobre 1962 avant sa disparition et le remplacement par des immeubles de bureau.",
+   "anecdotes": [
+    {
+     "texte": "Dès son ouverture en 1920, le Palais d’Hiver est une salle appréciée, avec bar américain et près de six cents tables, pouvant accueillir jusqu’à 3 000 personnes.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Le 8 octobre 1962, à 4 heures du matin, un incendie anéantit le Palais d’Hiver.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S39",
+    "S24"
+   ],
+   "lat": 45.7727,
+   "lon": 4.859,
+   "url": "https://fr.wikipedia.org/wiki/Palais_d%27Hiver_%28Lyon%29"
+  },
+  {
+   "nom": "Jardin des Tout-petits-Adolphe-Lafont",
+   "histoire": "Parc de 2 900 m2 situé avenue Marc Sangnier à Villeurbanne, dans le quartier de la Ferrandière. Inauguré le 14 avril 1929, il fait partie des premiers squares aménagés pour les jeunes enfants. Un pavillon subsiste encore en 2020 tandis que l’enceinte a disparu.",
+   "anecdotes": [
+    {
+     "texte": "Le jardin est inauguré le 14 avril 1929 par le maire Lazare Goujon, en présence de Pauline Lafont.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "En 2020, le pavillon subsiste encore mais il n’y a plus de surveillante.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 45.761507,
+   "lon": 4.874815,
+   "url": "https://fr.wikipedia.org/wiki/Jardin_des_Tout-petits-Adolphe-Lafont"
+  },
+  {
+   "nom": "Laurent Bonnevay - Astroballe (métro de Lyon)",
+   "histoire": "Station de la ligne A du métro de Lyon située Cours Émile-Zola, à l’est du boulevard périphérique de Lyon, dans le quartier Cusset-Bonnevay à Villeurbanne. Mise en service lors de l’ouverture à l’exploitation de la ligne A, elle a été terminus jusqu’au prolongement à Vaulx-en-Velin - La Soie.",
+   "anecdotes": [
+    {
+     "texte": "Les plans d’origine prévoyaient une gare routière au sud, au-dessus du périphérique ; jugée trop chère, elle est finalement implantée à son emplacement actuel.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 45.764118,
+   "lon": 4.908764,
+   "url": "https://fr.wikipedia.org/wiki/Laurent_Bonnevay_-_Astroballe_%28m%C3%A9tro_de_Lyon%29"
+  },
+  {
+   "nom": "Piscine Delange",
+   "histoire": "Ancienne piscine de Villeurbanne, construite en 1907 par l’industriel lyonnais Clément Delange. Elle est la première piscine couverte du grand Lyon, réalisée en seulement quelques mois. La presse annonce son ouverture pour le 22 décembre 1907 et l’inauguration est présentée comme une réussite ; détruite en 1988, la salle de concert laisse place depuis 1990 à des immeubles de bureau.",
+   "anecdotes": [
+    {
+     "texte": "La piscine est construite en quelques mois en 1907, sans être « en proie aux lourdeurs des procédures administratives ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S37"
+     ]
+    },
+    {
+     "texte": "La presse annonce son ouverture pour le 22 décembre 1907, et l’inauguration est selon la presse une réussite totale.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 45.7727,
+   "lon": 4.859,
+   "url": "https://fr.wikipedia.org/wiki/Piscine_Delange"
+  },
+  {
+   "nom": "La Doua",
+   "histoire": "Campus situé sur un ancien camp militaire dans la commune de Villeurbanne, au nord-est de l’agglomération lyonnaise. En 1914, l’installation d’un émetteur radiotélégraphique y associe huit pylônes. Fin août 1944, ces pylônes de 1917 sont détruits par les Allemands en retraite. En 1945, des émetteurs complètent l’infrastructure ; en 1954, la nécropole nationale de la Doua est créée. Aujourd’hui, le site porte le souvenir des exécutions commises par l’occupant allemand, avec la « Butte des fusillés ».",
+   "anecdotes": [
+    {
+     "texte": "En septembre 1945, 77 corps de résistants furent retrouvés au pied d’une butte aujourd’hui appelée « Butte des fusillés ».",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S12",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 45.783133,
+   "lon": 4.872909,
+   "url": "https://fr.wikipedia.org/wiki/La_Doua"
+  },
+  {
+   "nom": "Maison du livre, de l'image et du son",
+   "histoire": "Médiathèque conçue par l’architecte suisse Mario Botta, située à Villeurbanne à proximité des Gratte-Ciel. En 1986, Marc Givry est mandaté pour l’aménagement intérieur. Le 15 octobre 1988, la Maison du livre, de l’image et du son est inaugurée par Charles Hernu, maire de Villeurbanne, en présence de François Mitterrand et de Jack Lang.",
+   "anecdotes": [
+    {
+     "texte": "L’inauguration se tient le 15 octobre 1988 en présence du président de la République et du ministre de la Culture.",
+     "statut": "etabli",
+     "sources": [
+      "S47",
+      "S48"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 45.768171,
+   "lon": 4.887766,
+   "url": "https://fr.wikipedia.org/wiki/Maison_du_livre%2C_de_l%27image_et_du_son"
+  },
+  {
+   "nom": "Parc de la Feyssine",
+   "histoire": "Espace vert sur les bords du Rhône, au nord de la commune de Villeurbanne. Le terrain est occupé jusqu’au XIXe siècle par des terres agricoles, puis, à partir de 2000, des travaux sont menés et le parc est inauguré en 2002. Aujourd’hui, il reste des puits désaffectés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S49",
+    "S50",
+    "S51",
+    "S52"
+   ],
+   "lat": 45.788923,
+   "lon": 4.879732,
+   "url": "https://fr.wikipedia.org/wiki/Parc_de_la_Feyssine"
+  }
+ ],
+ "sources": [
+  "Villeurbanne (/vi.lœʁ.ban/) est une commune française située dans le centre-est de la France. Limitrophe de la commune de Lyon, elle en constitue l'une des communes de la première couronne, au cœur de la deuxième unité urbaine et de la deuxième aire d'attraction du pays. En 2023, elle constitue, par sa population, la seizième commune de France avec 163 684 habitants. Les habitants de Villeurbanne sont appelés les […]",
+  "La carte archéologique du département du Rhône (69/1) publiée en 2006 recense un certain nombre des vestiges archéologiques découverts au cours des siècles sur le territoire de Villeurbanne mais sans qu’on puisse les mettre en rapport avec une quelconque construction. En 1852 (localisation imprécise) a été trouvée une patère en bronze estampillée Draccius f ; elle est conservée au musée de Saint-Germain-en-Laye. En […]",
+  "1844 : Il faut également loger la troupe consacrée à cette défense et les casernes d'artillerie de la Part-Dieu sont construites à partir de 1844 par achat des terrains aux Hospices civils.",
+  "1847 : Il réitérait sa demande le 19 mai 1847 et développait une argumentation convaincante : « Les relations de Villeurbanne avec Lyon sont de tous les jours et de tous les instants ; tous ses produits agricoles sont vendus à Lyon comme tout ce dont elle peut avoir besoin est acheté à Lyon ».",
+  "1864 : L'ouverture de l'hippodrome en 1864 fut un grand succès mais la population essentiellement agricole de Villeurbanne n'y pris guère part sauf, pour les plus passionnés, à resquiller en assistant aux courses perchés sur la digue insubmersible.",
+  "1886 : Le patronat lyonnais avait fondé dès 1886 la SA des logements économiques qui construisit avant 1900 sept immeubles à proximité de l'usine.",
+  "1886 : Le rôle de la Société Anonyme des Logements Economiques fondée en 1886 par deux grands industriels Félix Mangini et Joseph Gillet et par le banquier Edouard Aynard a déjà été signalé.",
+  "1900 : Certains propriétaires aménagent des fermes en garnis et dès 1900 un particulier édifie une petite cité.",
+  "1903 : Une solution alternative imaginée par le maire Frédéric Faÿs ayant échoué c'est sous son successeur Émile Dunière (1903-1908) qu'on s'est résolu à détruire le vieux bâtiment pour en reconstruire un nouveau mieux adapté à la fonction.",
+  "1903 : Le préfet n'en a pas moins ouvert une enquête et son rapporteur conclut par un chaleureux plaidoyer en faveur de l'annexion (juillet 1903).",
+  "1907 : Les bâtiments seront agrandis à la fin du siècle et accueilleront, en 1907, 248 élèves dont 74 internes.",
+  "1914 : Un émetteur radiotélégraphique faisant la liaison entre l'Amérique et la Russie est installé en 1914 sur le terrain militaire de La Doua ; l'infrastructure compte alors huit pylônes de 120 m de haut.",
+  "1922 : En 1922, elle s'était installée sur 75 ha à Vaulx-en-Velin sur la haute terrasse juste en limite de la commune de Villeurbanne.",
+  "1932 : À une époque où un bâtiment de dix étages passait pour un prodige, la cité méritait le nom de gratte-ciel (ce nom traduit de l'américain skyscraper apparaît pour la première fois en mai 1932 en remplacement de l'inélégant râpe-ciel) la norme étant de 11 étages.",
+  "Lieu « Gratte-Ciel (Villeurbanne) » : Les Gratte-Ciel de Villeurbanne sont un ensemble architectural art déco situé dans la commune française de Villeurbanne, construit de 1927 à 1934.",
+  "Lieu « Gratte-Ciel (Villeurbanne) », 1922 : Pour des raisons d’image de marque, la municipalité choisit l’architecte Robert Giroud, prix de Rome 1922, un disciple de Tony Garnier, pour le concours en 1930 portant sur l’hôtel de ville, qui est bâti entre 1930 et 1934.",
+  "Lieu « Gratte-Ciel (Villeurbanne) », 1927 : Les Gratte-Ciel de Villeurbanne sont un ensemble architectural art déco situé dans la commune française de Villeurbanne, construit de 1927 à 1934.",
+  "Lieu « Gratte-Ciel (Villeurbanne) », 1931 : Le financement de l’opération est poursuivi à partir de 1931 par la création de la Société villeurbannaise d’urbanisme avec un capital partagé essentiellement entre la municipalité et des entrepreneurs de bâtiment de Villeurbanne et de Lyon.",
+  "Lieu « Gratte-Ciel (Villeurbanne) », aujourd'hui : À l’origine, le projet devait réaliser la transition entre la place et l’avenue Barbusse par un portique, mais celui-ci est modifié par la municipalité et remplacé par un escalier.",
+  "Lieu « Palais d'Hiver (Lyon) » : Le Palais d'Hiver était une salle de bal, de music-hall et de concert situé au 149, boulevard Stalingrad à la limite entre Lyon et Villeurbanne, construit à l'emplacement de l'ex piscine Delange, au sud-est du parc de la Tête-d'Or.",
+  "Lieu « Palais d'Hiver (Lyon) », 1920 : Dès son ouverture en 1920, c'est une salle de bal appréciée, équipée d'un bar américain et près de six cents tables, pouvant accueillir jusqu'à 3000 personnes, principalement entre septembre et avril.",
+  "Lieu « Palais d'Hiver (Lyon) », 1939 : En 1939, réquisitionné par l'armée d'occupation, le Palais d'Hiver est fermé au public.",
+  "Lieu « Palais d'Hiver (Lyon) », 1962 : Le 8 octobre 1962 à 4 heures du matin, un incendie anéantit le Palais d'Hiver.",
+  "Lieu « Palais d'Hiver (Lyon) », aujourd'hui : Le Palais d'Hiver était une salle de bal, de music-hall et de concert situé au 149, boulevard Stalingrad à la limite entre Lyon et Villeurbanne, construit à l'emplacement de l'ex piscine Delange, au sud-est du parc de la Tête-d'Or.",
+  "Lieu « Jardin des Tout-petits-Adolphe-Lafont » : Le Jardin des Tout-petits-Adolphe-Lafont est un parc d'une surface de 2 900 m2, situé avenue Marc Sangnier à Villeurbanne dans le quartier de la Ferrandière.",
+  "Lieu « Jardin des Tout-petits-Adolphe-Lafont », 1929 : Inauguré en 1929, il est l'un des premiers squares aménagé à Villeurbanne pour les jeunes enfants.",
+  "Lieu « Jardin des Tout-petits-Adolphe-Lafont », 1929 : Le jardin est inauguré le 14 avril 1929 par le maire Lazare Goujon en présence de Pauline Lafont.",
+  "Lieu « Jardin des Tout-petits-Adolphe-Lafont », 2000 : Puis, dans les années 2000, de nouveaux jeux sont installés qui remplacent ou côtoient ceux des années 1930.",
+  "Lieu « Jardin des Tout-petits-Adolphe-Lafont », aujourd'hui : En 2020, le pavillon subsiste encore mais l'enceinte qui l'entourait a disparu et il n'y a plus de surveillante.",
+  "Lieu « Laurent Bonnevay - Astroballe (métro de Lyon) » : Laurent Bonnevay - Astroballe est une station de métro française de la ligne A du métro de Lyon, située Cours Émile-Zola immédiatement à l'est du boulevard périphérique de Lyon, dans le quartier Cusset-Bonnevay à Villeurbanne.",
+  "Lieu « Laurent Bonnevay - Astroballe (métro de Lyon) », 1978 : Elle est mise en service en 1978, lors de l'ouverture à l'exploitation de la ligne A.",
+  "Lieu « Laurent Bonnevay - Astroballe (métro de Lyon) », 1978 : La station « Laurent Bonnevay » est mise en service le 2 mai 1978, lors de l'ouverture officielle de l'exploitation de la ligne A du métro de Lyon de la station Perrache jusqu'à celle-ci.",
+  "Lieu « Laurent Bonnevay - Astroballe (métro de Lyon) », 2007 : Elle en est restée le terminus jusqu'à l'ouverture du prolongement à Vaulx-en-Velin - La Soie le 2 octobre 2007.",
+  "Lieu « Laurent Bonnevay - Astroballe (métro de Lyon) », aujourd'hui : Les plans d'origine de la station prévoyaient de construire la gare routière au sud au-dessus périphérique mais, jugée trop chère, elle est finalement implantée à son emplacement actuel.",
+  "Lieu « Piscine Delange » : La piscine Delange, également connue sous le nom de Piscine lyonnaise, est une ancienne piscine de la ville de Villeurbanne, en France.",
+  "Lieu « Piscine Delange », 1907 : Construite en 1907 par l'industriel lyonnais Clément Delange, elle est la première piscine couverte du grand Lyon.",
+  "Lieu « Piscine Delange », 1907 : N'étant pas en proie aux lourdeurs des procédures administratives, la piscine est construite en seulement quelques mois, durant l'année 1907.",
+  "Lieu « Piscine Delange », 1907 : La presse annonce son ouverture pour le 22 décembre 1907, et son inauguration, parfois datée du 2 février 1908, est selon la presse une réussite totale.",
+  "Lieu « Piscine Delange », aujourd'hui : Détruit en 1988, la salle de concert a laissé place depuis 1990 à des immeubles de bureau.",
+  "Lieu « La Doua » : La Doua est un campus situé sur un ancien camp militaire dans la commune de Villeurbanne, au nord-est de l'agglomération lyonnaise.",
+  "Lieu « La Doua », 1944 : Fin août 1944, les pylônes de 1917 sont détruits par les allemands en retraite.",
+  "Lieu « La Doua », 1945 : En 1945, trois émetteurs ondes longues et douze émetteurs ondes courtes sont construits.",
+  "Lieu « La Doua », 1954 : Autour de celle-ci, est construite en 1954, la nécropole nationale de la Doua, un cimetière militaire qui se trouve à l'est de l'actuel campus.",
+  "Lieu « La Doua », aujourd'hui : Le lieu est utilisé comme lieu d'exécution par l'occupant allemand durant la Seconde Guerre mondiale ; en septembre 1945, 77 corps de résistants furent retrouvés au pied d'une butte ; aujourd'hui nommée la « Butte des fusillés ».",
+  "Lieu « Maison du livre, de l'image et du son » : La Maison du livre, de l'image et du son, désignée par le sigle MLIS, est une médiathèque conçue par l'architecte suisse Mario Botta située à Villeurbanne, à proximité des Gratte-ciel, en France.",
+  "Lieu « Maison du livre, de l'image et du son », 1986 : En 1986, l’architecte Marc Givry est mandaté pour concevoir l’aménagement intérieur de l’édifice.",
+  "Lieu « Maison du livre, de l'image et du son », 1988 : Le 15 octobre 1988, la Maison du livre, de l’image et du son est inaugurée par Charles Hernu, maire de Villeurbanne, en présence du président de la République François Mitterrand et de son ministre de la Culture, Jack Lang.",
+  "Lieu « Maison du livre, de l'image et du son », 1988 : Inaugurée le 15 octobre 1988 en la présence du Président de la République François Mitterrand, du Ministre de la Culture Jack Lang et du maire de Villeurbanne et député du Rhône Charles Hernu, elle a été bâtie dans le cadre des Grandes opérations d'architecture et d'urbanisme initiées par le président français François Mitterrand.",
+  "Lieu « Parc de la Feyssine » : Le parc de la Feyssine est un espace vert situé sur les bords du Rhône, au nord de la commune de Villeurbanne.",
+  "Lieu « Parc de la Feyssine », XIXe siècle : Le terrain actuel de la Feyssine était occupé jusqu'au XIXe siècle par des terres agricoles.",
+  "Lieu « Parc de la Feyssine », 2000 : Les travaux ont débuté en 2000 et le parc a été inauguré en 2002.",
+  "Lieu « Parc de la Feyssine », aujourd'hui : Il reste aujourd'hui encore des puits désaffectés."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 11
+ }
+}

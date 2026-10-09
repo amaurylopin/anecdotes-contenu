@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "Villefranche-sur-Saône",
+  "code_insee": "69264",
+  "departement": "69",
+  "population": 36172,
+  "lat": 45.99027778,
+  "lon": 4.72027778,
+  "url": "https://fr.wikipedia.org/wiki/Villefranche-sur-Sa%C3%B4ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:44:27",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2799,
+  "sortie": 2082
+ },
+ "cout_usd": 0.003162,
+ "accroche": "Le 3 septembre 1944, Villefranche est libérée par les troupes débarquées en Provence du capitaine Henri Marie Alexandre Louis Giraud.",
+ "histoire": {
+  "recit": "À Villefranche-sur-Saône, la ville se raconte d’abord en fondation et en protection. Les sires de Beaujeu décident, en 1140, de se protéger des archevêques de Lyon en créant une ville autour de Limas, face à la forteresse ennemie d’Anse. Guichard IV de Beaujeu fonde ensuite le couvent des Cordeliers en 1216, puis une charte de franchise est accordée en 1260 pour attirer des habitants.\n\nPlus tard, le tissu urbain subit les conflits : Villefranche est assiégée en 1412, au cœur de rivalités entre Bourbons et maisons de Bourgogne et de Savoie. Au XIXe siècle, une grande partie des constructions est démolie au début du siècle.\n\nAu cœur de l’histoire religieuse locale, l’abbaye du Joug-Dieu est fondée en 1115, avant d’être sécularisée puis unie à la collégiale. Reste enfin le présent des lieux : le musée Paul-Dini, inauguré en 2001, poursuit la valorisation de l’art moderne et contemporain.\n\nEt lorsque la ville bascule, c’est avec la libération du 3 septembre 1944.",
+  "chronologie": [
+   {
+    "date": "1140",
+    "texte": "Les sires de Beaujeu décident de créer une ville autour de Limas, face à la forteresse ennemie d’Anse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1216",
+    "texte": "Guichard IV de Beaujeu fonde le couvent des Cordeliers de Villefranche.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1260",
+    "texte": "Les sires de Beaujeu accordent une charte de franchise à la ville, incitant des personnes à s’y installer.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1115",
+    "texte": "L’abbaye du Joug-Dieu est fondée par la volonté de Guichard III de Beaujeu.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1412",
+    "texte": "Villefranche est assiégée en 1412, dans le cadre de conflits entre Bourbons et maisons de Bourgogne et de Savoie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Une partie importante des structures est démolie au début du XIXe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "3 septembre 1944",
+    "texte": "Villefranche est libérée par les troupes débarquées en Provence, commandées par le capitaine Henri Marie Alexandre Louis Giraud.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2006",
+    "texte": "Des fouilles archéologiques révèlent des vestiges de l’église conventuelle des Cordeliers.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "L’institution du musée Paul-Dini est inaugurée et alimentée par des donations.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye du Joug-Dieu",
+   "histoire": "Monastère fondé en 1115, il est ensuite sécularisé à la fin du XVIIe siècle, uni à la collégiale de Villefranche, puis vendu comme bien national pendant la période révolutionnaire. Les restes de l’église et des bâtiments conventuels sont rasés en 1851.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui disparue.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 45.9902777778,
+   "lon": 4.72027777778,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_du_Joug-Dieu"
+  },
+  {
+   "nom": "Musée Paul-Dini",
+   "histoire": "Musée municipal à Villefranche-sur-Saône, il s’appuie sur l’ancienne halle aux grains. Construite entre 1841 et 1846, elle voit ses espaces intérieurs agrandis par l’aménagement des greniers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Espace d’étude et de valorisation de l’art moderne et contemporain en Rhône-Alpes.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 45.9908,
+   "lon": 4.721,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Paul-Dini"
+  },
+  {
+   "nom": "Collégiale Notre-Dame-des-Marais de Villefranche-sur-Saône",
+   "histoire": "Ancienne collégiale de Villefranche-sur-Saône, elle est ravagée par un incendie en 1568, dont la flèche est ruinée. En 1682, l’église est érigée en collégiale par Mgr Camille de Neufville de Villeroy.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 45.9902777778,
+   "lon": 4.72027777778,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame-des-Marais_de_Villefranche-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Villefranche-sur-Saône",
+   "histoire": "La Caisse d’épargne de Villefranche-sur-Saône est fondée en 1835 et officiellement autorisée par ordonnance du 11 février 1835. Le bâtiment du XIXe siècle est transformé et agrandi par l’architecte Paul Bellemain au milieu des années 1930.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 45.991786,
+   "lon": 4.716861,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Villefranche-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "Centre pénitentiaire de Villefranche-sur-Saône",
+   "histoire": "L’établissement est construit dans le cadre du programme « 13 000 » et mis en service le 29 novembre 1990 en tant que maison d’arrêt. À partir du 1er octobre 2008, il expérimente un nouveau quartier des arrivants destiné à faciliter l’intégration des nouveaux détenus.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 45.998524,
+   "lon": 4.72504,
+   "url": "https://fr.wikipedia.org/wiki/Centre_p%C3%A9nitentiaire_de_Villefranche-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "Hôtel-Dieu de Villefranche-sur-Saône",
+   "histoire": "Ancien hôtel-Dieu : vers la fin du XVIIe siècle, la grande salle de l’actuel auditorium est édifiée, et la décoration de la chapelle contiguë est peinte vers 1682. L’hôpital est fermé en 1982 à la suite de l’ouverture du centre Hospitalier Général situé à Gleizé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 45.98917,
+   "lon": 4.71694,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Villefranche-sur-Sa%C3%B4ne"
+  },
+  {
+   "nom": "Stade Armand-Chouffet",
+   "histoire": "Stade de football à Villefranche-sur-Saône, inauguré en 1938 sous le nom de Parc des Sports.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 45.99999,
+   "lon": 4.707373,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Armand-Chouffet"
+  },
+  {
+   "nom": "Marché couvert de Villefranche",
+   "histoire": "Le marché couvert est un bâtiment situé Boulevard Jean-Jaurès à Villefranche-sur-Saône.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Cette règle est toujours valable aujourd’hui.",
+   "sources": [
+    "S34",
+    "S35"
+   ],
+   "lat": 45.98915,
+   "lon": 4.714422,
+   "url": "https://fr.wikipedia.org/wiki/March%C3%A9_couvert_de_Villefranche"
+  }
+ ],
+ "sources": [
+  "Villefranche-sur-Saône est une commune française, située dans le département du Rhône en région Auvergne-Rhône-Alpes. Elle est connue pour être la capitale du Beaujolais. Ses habitants sont appelés les Caladois. Seule sous-préfecture et une des principales villes de la circonscription départementale du Rhône, elle est la commune la plus peuplée du département du Rhône depuis que la métropole de Lyon en a été […]",
+  "Les sires de Beaujeu désireux de se protéger des archevêques de Lyon décident de créer une ville autour de Limas en 1140, face à la forteresse ennemie d'Anse. Guichard IV de Beaujeu, sire de Beaujeu, fonde le couvent des Cordeliers de Villefranche en 1216, du vivant de saint François. En 1260, ils accordent une charte de franchise à la ville, dont elle tire son nom, pour inciter des personnes à s'installer. La […]",
+  "1412 : Elle fut néanmoins assiégée en 1412 mais aussi en 1411, 1434… au cours de conflits entre les Bourbons et les maisons de Bourgogne et de Savoie (étendus à tout le royaume).",
+  "XIXe siècle : Ils ont été en majeure partie démolis au début du XIXe siècle.",
+  "1944 : Villefranche est libérée le 3 septembre 1944 par les troupes débarquées en Provence du capitaine Henri Marie Alexandre Louis Giraud (1910-1970), fils du général Henri Giraud, commandant en chef des forces armées en Afrique du Nord en 1942.",
+  "2006 : En 2006, des fouilles archéologiques ont permis de découvrir des vestiges de l’église conventuelle des Cordeliers, fondée dans le courant du XIIIe siècle.",
+  "Lieu « Abbaye du Joug-Dieu » : L'abbaye du Joug-Dieu figurait parmi les principales abbayes bénédictines du Beaujolais.",
+  "Lieu « Abbaye du Joug-Dieu », 1115 : Ce monastère fut fondé en 1115 par la volonté de Guichard III de Beaujeu qui fit don aux Bénédictins de sa villa de Thamais, sur la paroisse d'Ouilly.",
+  "Lieu « Abbaye du Joug-Dieu », XIIe siècle : Fondée au début du XIIe siècle, elle fut sécularisée à la fin du XVIIe siècle et unie à la collégiale de Villefranche, puis vendue comme bien national pendant la période révolutionnaire.",
+  "Lieu « Abbaye du Joug-Dieu », 1851 : Ce qui restait de l'église et des bâtiments conventuels fut rasé en 1851.",
+  "Lieu « Abbaye du Joug-Dieu », aujourd'hui : Aujourd'hui disparue, elle était située sur la paroisse d'Ouilly (actuel département du Rhône, à proximité de Villefranche-sur-Saône).",
+  "Lieu « Musée Paul-Dini » : Le musée Paul-Dini est un musée municipal à Villefranche-sur-Saône.",
+  "Lieu « Musée Paul-Dini », 1841 : L’ancienne halle aux grains, construite entre 1841 et 1846, voit ses espaces intérieurs agrandis par l’aménagement des greniers.",
+  "Lieu « Musée Paul-Dini », 2001 : L’institution inaugurée en 2001 et alimentée depuis par de nombreuses donations de peintures, propose aux amateurs et professionnels un fonds permanent composé de plus de 1 200 œuvres ainsi que deux à trois expositions temporaires annuelles.",
+  "Lieu « Musée Paul-Dini », aujourd'hui : Il se positionne aujourd’hui comme un espace d’étude et de valorisation de l’art moderne et contemporain en Rhône-Alpes.",
+  "Lieu « Collégiale Notre-Dame-des-Marais de Villefranche-sur-Saône » : La collégiale Notre-Dame-des-Marais est une ancienne collégiale située à Villefranche-sur-Saône, dans le département français du Rhône en région Auvergne-Rhône-Alpes.",
+  "Lieu « Collégiale Notre-Dame-des-Marais de Villefranche-sur-Saône », 1568 : En 1568, un incendie ravage l'édifice, dont la flèche est ruinée.",
+  "Lieu « Collégiale Notre-Dame-des-Marais de Villefranche-sur-Saône », 1682 : En 1682, l'église est érigée en collégiale par Mgr Camille de Neufville de Villeroy.",
+  "Lieu « Collégiale Notre-Dame-des-Marais de Villefranche-sur-Saône », 1852 : Ces vitraux sont décrits une première fois par le père Laverrière en 1852 ; cependant, celui-ci ne choisit pas un recensement systématique des vitraux en fonction de leur position dans l'édifice, mais un regroupement par thème.",
+  "Lieu « Hôtel de la Caisse d'épargne de Villefranche-sur-Saône » : L'hôtel de la Caisse d'épargne est un bâtiment du XIXe siècle situé à Villefranche-sur-Saône, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Villefranche-sur-Saône », 1835 : La Caisse d'épargne de Villefranche-sur-Saône est fondée en 1835 sous l'impulsion du magistrat local Jean-François-Aimé Peyré (1792-1868) et est officiellement autorisée par ordonnance du roi Louis-Philippe Ier du 11 février 1835.",
+  "Lieu « Hôtel de la Caisse d'épargne de Villefranche-sur-Saône », XIXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment du XIXe siècle situé à Villefranche-sur-Saône, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Villefranche-sur-Saône », 1930 : Au milieu des années 1930, le bâtiment est transformé et agrandi par l'architecte Paul Bellemain.",
+  "Lieu « Centre pénitentiaire de Villefranche-sur-Saône » : Le centre pénitentiaire de Villefranche-sur-Saône est un centre pénitentiaire français situé dans la commune de Villefranche-sur-Saône, dans le département du Rhône et dans la région Auvergne-Rhône-Alpes.",
+  "Lieu « Centre pénitentiaire de Villefranche-sur-Saône », 1990 : L'établissement est construit dans le cadre du « programme 13 000 » et est mis en service le 29 novembre 1990 en tant que maison d'arrêt.",
+  "Lieu « Centre pénitentiaire de Villefranche-sur-Saône », 2008 : À partir du 1er octobre 2008, l'établissement expérimente un nouveau quartier des arrivants, situé à l'écart des autres bâtiments et destiné à faciliter l'intégration des nouveaux détenus.",
+  "Lieu « Centre pénitentiaire de Villefranche-sur-Saône », 2019 : Il est libéré sept mois plus tard, le 3 décembre 2019[source insuffisante].",
+  "Lieu « Hôtel-Dieu de Villefranche-sur-Saône » : L'hôtel-Dieu de Villefranche-sur-Saône est un ancien hôtel-Dieu situé à Villefranche-sur-Saône, dans le département du Rhône, en France.",
+  "Lieu « Hôtel-Dieu de Villefranche-sur-Saône », XVIIe siècle : Vers la fin du XVIIe siècle, la grande salle de l’actuel auditorium est édifiée.",
+  "Lieu « Hôtel-Dieu de Villefranche-sur-Saône », 1682 : La décoration de la chapelle contiguë aux bâtiments est peinte vers 1682.",
+  "Lieu « Hôtel-Dieu de Villefranche-sur-Saône », 1982 : L'hôpital est fermé en 1982 à la suite de l'ouverture du centre Hospitalier Général, situé à Gleizé.",
+  "Lieu « Stade Armand-Chouffet » : Le stade Armand-Chouffet est un stade de football situé à Villefranche-sur-Saône.",
+  "Lieu « Stade Armand-Chouffet », 1938 : En 1938, il est inauguré sous le nom de Parc des Sports.",
+  "Lieu « Marché couvert de Villefranche » : Le marché couvert est un bâtiment situé Boulevard Jean-Jaurès à Villefranche-sur-Saône.",
+  "Lieu « Marché couvert de Villefranche », aujourd'hui : Cette règle est toujours valable aujourd’hui."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
