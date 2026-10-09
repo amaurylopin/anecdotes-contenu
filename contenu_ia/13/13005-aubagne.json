@@ -1,0 +1,265 @@
+{
+ "commune": {
+  "titre": "Aubagne",
+  "code_insee": "13005",
+  "departement": "13",
+  "population": 47529,
+  "lat": 43.2904,
+  "lon": 5.5643,
+  "url": "https://fr.wikipedia.org/wiki/Aubagne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:34:07",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3345,
+  "sortie": 1634
+ },
+ "cout_usd": 0.002711,
+ "accroche": "En 1005, Aubagne est citée comme « Albanea » dans le cartulaire de Saint Victor, preuve d’une fondation antérieure au XIe siècle.",
+ "histoire": {
+  "recit": "À Aubagne, le passé se lit dans les changements de forme du village. D’abord nommé « Albanea » en 1005, il devient « villa », puis « castrum » au fil des textes du XIe siècle, tandis que les fortifications passent du bois à la pierre.\n\nAu XIIIe siècle, le château est décrit avec tour et four, posé au milieu d’une vaste cour, et la ville gagne du terrain malgré une Provence instable. En 1353, deux fils du seigneur des Baux sont libérés grâce à l’intervention du pape Innocent VI.\n\nPlus tard, le Merlançon dicte l’urbanisme : en 1496, on encadre ses débordements par des murailles et l’on relie la ville basse aux faubourgs par deux ponts. La construction de la ville basse s’achève en 1501, mais elle est déjà saturée. Le siècle suivant impose encore de nouveaux ponts, puis une voûte achevée en 1620 et une route pavée.\n\nAujourd’hui, Aubagne se raconte aussi par ses lieux : au Musée de la Légion étrangère, inauguré en 1935 puis ouvert au public en 1966, et par le Monument aux morts, reconstruit à Aubagne et inscrit en 2019.",
+  "chronologie": [
+   {
+    "date": "1005",
+    "texte": "La ville est citée sous le nom d’« Albanea » dans le cartulaire de Saint Victor, puis elle passe dans les textes du qualificatif de « villa » à celui de « castrum » en 1064.",
+    "sources": [
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Les fortifications auraient d’abord été construites en bois, avant d’être renforcées avec de la pierre au siècle suivant.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le château est décrit avec différents corps de bâtisse, une tour et un four, au milieu d’une vaste cour, tandis que la ville se développe.",
+    "sources": [
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "date": "1353",
+    "texte": "Deux fils du seigneur des Baux sont emprisonnés et ne sont libérés qu’en 1353 grâce à l’intervention du pape Innocent VI.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1496",
+    "texte": "Le Merlançon est encadré par deux murailles, et deux ponts relient la « ville basse » aux faubourgs au sud.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1501",
+    "texte": "La « ville basse » est achevée, mais elle est déjà saturée et encombrée.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1620",
+    "texte": "La voûte est achevée, et la route est pavée avec des caniveaux de chaque côté.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée de la Légion étrangère",
+   "histoire": "Le musée présente l’histoire et les faits d’armes de l’institution via ses collections et expositions. Il prend son appellation actuelle en 1935 et est inauguré le 11 novembre 1935.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S19"
+   ],
+   "lat": 43.293278,
+   "lon": 5.553406,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_L%C3%A9gion_%C3%A9trang%C3%A8re"
+  },
+  {
+   "nom": "Monument aux morts de la Légion étrangère",
+   "histoire": "Monument aux morts situé au musée de la Légion étrangère à Aubagne : il a d’abord été construit à Sidi-bel-Abbès en 1931 puis reconstruit à Aubagne en 1963.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 43.289,
+   "lon": 5.5531,
+   "url": "https://fr.wikipedia.org/wiki/Monument_aux_morts_de_la_L%C3%A9gion_%C3%A9trang%C3%A8re"
+  },
+  {
+   "nom": "Gare d'Aubagne",
+   "histoire": "La gare d’Aubagne est une gare ferroviaire située à proximité du centre-ville. Elle est mise en service le 20 octobre 1858 lors de l’ouverture de la section de Marseille à Aubagne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 43.296134,
+   "lon": 5.566409,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Aubagne"
+  },
+  {
+   "nom": "Gare de Camp-Major",
+   "histoire": "La gare de Camp-Major est une gare ferroviaire française fermée, près du hameau de Camp Major. Elle est mise en service le 25 octobre 1858 et ses infrastructures sont détruites en 1962 pour le passage de l’autoroute.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S31"
+   ],
+   "lat": 43.287354,
+   "lon": 5.543871,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Camp-Major"
+  },
+  {
+   "nom": "Château des Creissauds",
+   "histoire": "Le château des Creissauds est un château sur la commune d’Aubagne. Des salles voûtées existantes au premier niveau remanié seraient datées du XVIe siècle, et le château actuel a été édifié au XIXe siècle par Henri Saver.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 43.278611,
+   "lon": 5.535278,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Creissauds"
+  },
+  {
+   "nom": "La Royante",
+   "histoire": "La Royante est une bastide typique de l’architecture des XVIIIe et XIXe siècles, exploitée aujourd’hui comme chambre d’hôtes.",
+   "anecdotes": [
+    {
+     "texte": "La bastide a été réalisée par le facteur Jean Bourgarel en 1970 à Menotey (Jura), puis installée en 2015.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le domaine est exploité en tant que chambre d’hôtes.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 43.30152,
+   "lon": 5.54947,
+   "url": "https://fr.wikipedia.org/wiki/La_Royante"
+  },
+  {
+   "nom": "Église Saint-Sauveur d'Aubagne",
+   "histoire": "L’église Saint-Sauveur, de style roman, est édifiée entre le XIe siècle et le XIIe siècle, puis consacrée le 18 octobre 1615 par l’évêque de Marseille.",
+   "anecdotes": [
+    {
+     "texte": "Son instrument est entièrement reconstruit en 1784 par le facteur marseillais Jacques Génoyer.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 43.292805,
+   "lon": 5.570208,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Sauveur_d%27Aubagne"
+  },
+  {
+   "nom": "Chapelle des Pénitents noirs d'Aubagne",
+   "histoire": "La chapelle des Pénitents noirs est une chapelle désaffectée. Sa façade néo-classique du XVIIIe siècle inspirée du Panthéon de Rome est classée à l’inventaire des Monuments Historiques en 1927.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43"
+   ],
+   "lat": 43.29278,
+   "lon": 5.5722,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_P%C3%A9nitents_noirs_d%27Aubagne"
+  }
+ ],
+ "sources": [
+  "Aubagne est une commune située dans la couronne périurbaine de Marseille, dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur (PACA) dans le Sud-Est de la France. C'est la cinquième ville du département des Bouches-du-Rhône par sa population (après Marseille, Aix-en-Provence, Arles et Martigues) et la treizième de Provence. Depuis le 1er janvier 2016, la ville d'Aubagne fait partie de la […]",
+  "On sait que les grottes du massif du Garlaban ont servi d'habitat à des tribus sédentaires à partir du Néolithique. Cependant, en raison de travaux d'aménagement au camp de Sarlier réalisés en 2022, à la confluence de deux cours d’eau, la Maïre et l’Huveaune, un bâtiment d’habitation datant du Néolithique moyen (4600-3400 av. J.-C.) pour la majorité des découvertes a été mis au jour. Quelques structures ont fourni […]",
+  "1005 : Une chose est sûre, la ville a été fondée avant le XIe siècle, puisqu'elle est citée sous le nom d'Albanea à partir de 1005 dans le cartulaire de Saint Victor.",
+  "1005 : Une fois fondée, Aubagne va évoluer rapidement, notamment au XIe siècle au cours duquel elle passe dans les textes du qualificatif de villa en 1005 à celui de castrum en 1064.",
+  "XIe siècle : Les fortifications du XIe siècle auraient été construites en bois avant d'être renforcées avec de la pierre au siècle suivant.",
+  "XIIIe siècle : Sa première description, qui date du XIIIe siècle siècle, nous apprend que le château était composé de différents corps de bâtisse, d'une tour et d'un four, et qu'il était construit au milieu d'une vaste cour.",
+  "XIIIe siècle : La ville se développe au cours du XIIIe siècle alors que la situation politique de la Provence est explosive.",
+  "1353 : Les deux fils du seigneur des Baux sont emprisonnés et ne sont libérés qu'en 1353 grâce à l'intervention du pape Innocent VI.",
+  "1496 : Dans un premier temps la ville fait encadrer le Merlançon de deux murailles pour limiter ses débordements, et deux ponts sont construits en 1496 pour relier la « ville basse » aux faubourgs situés au sud.",
+  "1501 : En 1501, la construction de la « ville basse » est achevée et cette nouvelle partie de la ville est déjà saturée et totalement encombrée.",
+  "1506 : Le four seigneurial est ainsi vendu à la commune en 1506, puis la tour de Clastre et son droit de passage en 1533 et enfin le moulin seigneurial en 1543.",
+  "1524 : Comme beaucoup de villes de Provence, Aubagne est envahie et pillée en 1524 par le connétable de Bourbon, puis en juin 1536 par l'armée de Charles Quint, respectivement lors de la sixième et de la huitième guerre d'Italie.",
+  "1595 : Le troisième pont sur le Merlançon est construit au niveau de l'actuel boulevard Jaurès en 1595, le quatrième au niveau de la rue Hoche en 1600, et le cinquième en prolongement de la rue Tourrel en 1631.",
+  "1620 : En 1620, la voûte est achevée et la route est pavée avec des caniveaux de chaque côté.",
+  "Lieu « Musée de la Légion étrangère » : Le musée de la Légion étrangère, situé à Aubagne en France, présente l'histoire et les faits d'armes de cette institution au travers de ses collections et expositions.",
+  "Lieu « Musée de la Légion étrangère », 1935 : Il prend son appellation actuelle en 1935 et est inauguré le 11 novembre de la même année.",
+  "Lieu « Musée de la Légion étrangère », 1964 : Mais compte tenu des délais d'installation et de construction des nouveaux bâtiments au Camp de la Demande, la pose de la première pierre, sous la présidence de Pierre Messmer, ministre des Armées, a lieu en 1964 et le musée ouvre ses portes le 30 avril 1966.",
+  "Lieu « Musée de la Légion étrangère », 2012 : Fermé depuis le 12 mars 2012, le Musée est l'objet de travaux d'extension à partir de janvier 2011 jusqu'en 2013, travaux visant à doubler sa surface avec la construction d'une nouvelle aile de 1 000 m2.",
+  "Lieu « Musée de la Légion étrangère », aujourd'hui : Ces espaces sont suivis par trois espaces thématiques : le légionnaire bâtisseur, le légionnaire d'aujourd'hui et une reprise des panoplies de la salle d'honneur d'origine du 1er Étranger.",
+  "Lieu « Monument aux morts de la Légion étrangère » : Le Monument aux morts de la Légion étrangère est un monument aux morts situé au musée de la Légion étrangère à Aubagne ; initialement construit à Sidi-bel-Abbès en 1931, il est reconstruit en 1963 à Aubagne.",
+  "Lieu « Monument aux morts de la Légion étrangère », 1931 : Le Monument aux morts de la Légion étrangère est un monument aux morts situé au musée de la Légion étrangère à Aubagne ; initialement construit à Sidi-bel-Abbès en 1931, il est reconstruit en 1963 à Aubagne.",
+  "Lieu « Monument aux morts de la Légion étrangère », 1963 : Il est de nouveau inauguré le 30 avril 1963, jour du centième anniversaire du combat de Camerone.",
+  "Lieu « Monument aux morts de la Légion étrangère », 2019 : Le monument aux morts de la Légion étrangère, la voie sacrée qui le précède, la salle d'honneur et la crypte, situées sur le même axe dans le musée, avec les façades et les toitures du bâtiment qui les abrite, est inscrit aux monuments historiques par arrêté du 28 janvier 2019.",
+  "Lieu « Gare d'Aubagne » : La gare d'Aubagne est une gare ferroviaire française de la ligne de Marseille-Saint-Charles à Vintimille (frontière), située à proximité du centre-ville d'Aubagne, dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare d'Aubagne », 1858 : La gare est mise en service le 20 octobre 1858, lors de l'ouverture de la section de Marseille à Aubagne.",
+  "Lieu « Gare d'Aubagne », 2014 : Depuis 2014 et l'ouverture de la troisième voie entre Aubagne et Marseille, un quai supplémentaire (avec butoir) est présent côté bâtiment voyageurs (voie E) afin de permettre le rebroussement des TER omnibus entre Marseille et Aubagne.",
+  "Lieu « Gare d'Aubagne », 2014 : Le bâtiment voyageurs est situé côté centre-ville, couplé avec une gare routière réorganisée en 2014 lors de l'ouverture de la ligne T du tramway d'Aubagne.",
+  "Lieu « Gare de Camp-Major » : La gare de Camp-Major est une gare ferroviaire française (fermée) de la ligne de Marseille-Saint-Charles à Vintimille (frontière) située sur le territoire de la ville d'Aubagne, près du hameau de Camp Major, dans le département des Bouches-du-Rhône e",
+  "Lieu « Gare de Camp-Major », 1858 : La gare est mise en service le 25 octobre 1858, lors de l'ouverture de la section de Marseille à Aubagne.",
+  "Lieu « Gare de Camp-Major », 1911 : Elle figure dans la nomenclature 1911 des gares, stations et haltes, de la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée, c'est une station nommée Camp-Major, qui n'est pas ouverte toute la journée, elle est fermée à certaines heures.",
+  "Lieu « Gare de Camp-Major », 1962 : En 1962 les infrastructures de la gare sont détruites pour le passage de l'autoroute.",
+  "Lieu « Château des Creissauds » : Le château des Creissauds est un château sur la commune d'Aubagne dans les Bouches-du-Rhône.",
+  "Lieu « Château des Creissauds », XVIe siècle : Les salles voûtées existantes au premier niveau, remanié plusieurs fois dateraient du XVIe siècle et auraient à l'origine fait partie de bâtiments agricoles.",
+  "Lieu « Château des Creissauds », XIXe siècle : Le château actuel a été édifié au XIXe siècle par un armateur marseillais, Henri Saver (fondateur de la compagnie maritime SGTM), sur les restes de ce bâtiment plus ancien.",
+  "Lieu « Château des Creissauds », aujourd'hui : Il est masqué par une petite colline, et est très difficilement visible.",
+  "Lieu « La Royante » : Située sur la commune d'Aubagne en Provence, entre Cassis et Aix-en-Provence, et sur le flanc sud du massif du Garlaban, la bastide de La Royante est typique le l'architecture des XVIIIe et XIXe siècles en Provence.",
+  "Lieu « La Royante », 1970 : Il a été réalisé par le facteur Jean Bourgarel en 1970 à Menotey (Jura) et a été installé en 2015.",
+  "Lieu « La Royante », aujourd'hui : Le domaine est actuellement exploité en tant que chambre d'hôtes.",
+  "Lieu « Église Saint-Sauveur d'Aubagne » : L’église Saint-Sauveur d'Aubagne est située à Aubagne dans le département français des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Église Saint-Sauveur d'Aubagne », 1615 : De style roman, l’église Saint-Sauveur fut édifiée entre le XIe siècle et le XIIe siècle, et consacrée le 18 octobre 1615 par l’évêque de Marseille.",
+  "Lieu « Église Saint-Sauveur d'Aubagne », 1784 : L’instrument fut entièrement reconstruit en 1784 par le célèbre facteur marseillais Jacques Génoyer.",
+  "Lieu « Chapelle des Pénitents noirs d'Aubagne » : La chapelle des Pénitents noirs est une chapelle désaffectée située à Aubagne, dans le département des Bouches-du-Rhône, en France.",
+  "Lieu « Chapelle des Pénitents noirs d'Aubagne », 1927 : La bâtisse est un édifice dont la façade néo-classique du 18e siècle inspirée du Panthéon de Rome, fut classée à l’inventaire des Monuments Historiques en 1927."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

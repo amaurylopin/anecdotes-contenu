@@ -1,0 +1,301 @@
+{
+ "commune": {
+  "titre": "Aix-en-Provence",
+  "code_insee": "13001",
+  "departement": "13",
+  "population": 149695,
+  "lat": 43.536,
+  "lon": 5.3879,
+  "url": "https://fr.wikipedia.org/wiki/Aix-en-Provence"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:17:36",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3691,
+  "sortie": 2110
+ },
+ "cout_usd": 0.003376,
+ "accroche": "En 1909, le Séisme de 1909 fait s’effondrer la toiture de la vermicellerie Augier à Aix-en-Provence, et la place des Prêcheurs se remplit de gens dormant sur des matelas.",
+ "histoire": {
+  "recit": "Aix-en-Provence se présente comme une ville de carrefours. Avant même la cité romaine, la Basse-Provence est occupée par les Salyens ou Salluviens, dont l’oppidum d’Entremont se trouve au nord d’Aix, sur la route de Puyricard. Ensuite, la ville se forme autour d’Aquae Sextiae, fondée en 122 av. J.-C. par le consul romain Caius Sextius.\n\nPlus tard, les événements marquent les lieux. En 1909, un séisme dans le Sud de la France provoque l’effondrement de la toiture de la vermicellerie Augier, tandis qu’à la place des Prêcheurs, des habitants trouvent place pour dormir sur des matelas.\n\nAujourd’hui, plusieurs sites rappellent ces strates : la cathédrale Saint-Sauveur, bâtie sur l’emplacement du forum antique et remaniée au fil du temps, ou encore le Camp des Milles, ouvert en septembre 1939 au hameau des Milles. Entre histoire ancienne, mémoire et reconversions, Aix-en-Provence garde un visage façonné par ses ruptures et ses reconstructions.",
+  "chronologie": [
+   {
+    "date": "122 av. J.-C.",
+    "texte": "Fondation d’Aquae Sextiae par le consul romain Caius Sextius.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "IVe siècle av. J.-C.",
+    "texte": "Occupation de la Basse-Provence par les Salyens ou Salluviens, dont l’oppidum d’Entremont se situe au nord d’Aix, sur la route de Puyricard.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1909",
+    "texte": "Séisme de 1909 : la toiture de la vermicellerie Augier s’effondre et la place des Prêcheurs se remplit de gens dormant sur des matelas.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "VIIIe-IXe siècles",
+    "texte": "Lors des invasions sarrasines, Saint-Sauveur est détruite.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Construction de la façade nue de la nef romane de la cathédrale Saint-Sauveur.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1425",
+    "texte": "Achèvement du clocher de la cathédrale Saint-Sauveur.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "septembre 1939",
+    "texte": "Ouverture du Camp des Milles, dans une usine désaffectée, une briqueterie, au hameau des Milles sur le territoire d’Aix-en-Provence.",
+    "sources": [
+     "S10",
+     "S12"
+    ]
+   },
+   {
+    "date": "15 mars 1943",
+    "texte": "Fermeture définitive du Camp des Milles, transformé en dépôt de munitions.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1993",
+    "texte": "Ouverture de la Cité du Livre d’Aix-en-Provence dans l’ancienne manufacture d’allumettes.",
+    "sources": [
+     "S15",
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Sauveur d'Aix-en-Provence",
+   "histoire": "Érigée à l’emplacement du forum antique, la cathédrale rassemble plusieurs styles, conséquence de nombreux remaniements. Sa façade montre des étapes successives de construction : d’abord la nef romane au XIIe siècle, puis un mur de blocs antiques à bossages. Le clocher est achevé en 1425.",
+   "anecdotes": [
+    {
+     "texte": "Selon la légende, la cathédrale aurait été construite sur les fondations d’un ancien temple dédié au dieu Apollon.",
+     "statut": "legende",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 43.531944,
+   "lon": 5.447222,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Sauveur_d%27Aix-en-Provence"
+  },
+  {
+   "nom": "Camp des Milles",
+   "histoire": "Le Camp des Milles est un camp d’internement et de déportation français ouvert en septembre 1939 dans une usine désaffectée, une briqueterie, au hameau des Milles sur le territoire d’Aix-en-Provence. Il est définitivement fermé le 15 mars 1943 puis transformé en dépôt de munitions.",
+   "anecdotes": [
+    {
+     "texte": "Aujourd’hui, des centaines de traces, décorations ou graffitis anonymes ont été mis au jour sur les murs du camp.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S12",
+    "S13",
+    "S14",
+    "S11"
+   ],
+   "lat": 43.5033,
+   "lon": 5.3856,
+   "url": "https://fr.wikipedia.org/wiki/Camp_des_Milles"
+  },
+  {
+   "nom": "Cité du livre",
+   "histoire": "La Cité du Livre d’Aix-en-Provence ouvre en 1993 dans l’ancienne manufacture d’allumettes. Elle réunit la bibliothèque municipale classée d’Aix-en-Provence, plus connue sous le nom de bibliothèque Méjanes, et des partenaires institutionnels et associatifs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S18"
+   ],
+   "lat": 43.52449727718,
+   "lon": 5.4388623656084,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_du_livre"
+  },
+  {
+   "nom": "Muséum d'histoire naturelle d'Aix-en-Provence",
+   "histoire": "Le muséum d’histoire naturelle d’Aix-en-Provence est un musée situé à Aix-en-Provence. Fondé en 1838 par le géologue Henri Coquand, il s’installe ensuite au sein de l’Hôtel Boyer-d’Éguilles et annonce son ouverture le 4 mai 1839. Un bâtiment est finalement érigé au boulevard du Roi-René et inauguré le 9 avril 1905.",
+   "anecdotes": [
+    {
+     "texte": "L’Hôtel Boyer-d’Éguilles, où le musée était installé depuis 1950, est un monument historique datant du XVIIe siècle, et dans lequel séjourna Joseph Pitton de Tournefort.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 43.52806,
+   "lon": 5.44889,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9um_d%27histoire_naturelle_d%27Aix-en-Provence"
+  },
+  {
+   "nom": "Gare de La Calade - Éguilles",
+   "histoire": "La gare de La Calade - Éguilles est une gare ferroviaire située sur le territoire d’Aix-en-Provence. Elle est ouverte le 11 mai 1872 et prend le nom du lieu-dit de La Calade. Plus tard, la ligne de Salon à la Calade est ouverte au service commercial le 28 mai 1903.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 43.568911,
+   "lon": 5.399456,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Calade_-_%C3%89guilles"
+  },
+  {
+   "nom": "Jas-de-Bouffan",
+   "histoire": "Le quartier du Jas-de-Bouffan se situe à l’ouest d’Aix-en-Provence. On y trouve le château de l’Horloge, un centre culturel. Le secteur est aussi marqué par la présence de marronniers centenaires et d’une bâtisse construite en 1875, et par l’ouverture d’un établissement en 1965.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 43.52944,
+   "lon": 5.4139,
+   "url": "https://fr.wikipedia.org/wiki/Jas-de-Bouffan"
+  },
+  {
+   "nom": "Gare d'Aix-en-Provence",
+   "histoire": "La gare d’Aix-en-Provence est une gare ferroviaire située sur le territoire de la commune. La section de Marseille à Avignon est ouverte en 1847, et la ligne directe Aix - Marseille est construite en 1877. Plus tard, la gare marchandises est rasée et remplacée, et depuis 2007 le site devient un centre commercial à ciel ouvert, les Allées Provençales.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 43.523168,
+   "lon": 5.445115,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Aix-en-Provence"
+  },
+  {
+   "nom": "Église du Saint-Esprit d'Aix-en-Provence",
+   "histoire": "L’église du Saint-Esprit est un édifice catholique à Aix-en-Provence. Elle est construite au XVIIIe siècle à l’emplacement d’un hôpital géré au XIVe siècle par les frères hospitaliers de l’Ordre du Saint-Esprit. Un classement au titre des monuments historiques est prononcé par arrêté du 31 décembre 1985.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 43.5274,
+   "lon": 5.44686,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_du_Saint-Esprit_d%27Aix-en-Provence"
+  }
+ ],
+ "sources": [
+  "Aix-en-Provence [ɛks ɑ̃ pʁɔvɑ̃s] (en occitan provençal Ais de Provença ou Ais de Prouvènço) est une commune française du Sud-Est de la France, sous-préfecture du département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Elle forme avec 35 autres communes le pays d'Aix au sein de la Métropole Aix-Marseille Provence. Fondée en 122 av. J.-C. sous le nom d'Aquae Sextiae par le consul romain Caius Sextius […]",
+  "Au IVe siècle av. J.-C., la Basse-Provence est occupée par une confédération celto-ligure dites des Salyens ou Salluviens, dont la capitale, l'oppidum d'Entremont, se situe au nord d'Aix, sur la route de Puyricard. En 123 av. J.-C., à la suite de l'appel des Grecs de Massalia (Marseille), en conflit permanent avec les tribus ligures et gauloises du voisinage, le consul Caius Sextius Calvinus prend et détruit cette […]",
+  "IVe siècle : Au IVe siècle av. J.-C., la Basse-Provence est occupée par une confédération celto-ligure dites des Salyens ou Salluviens, dont la capitale, l'oppidum d'Entremont, se situe au nord d'Aix, sur la route de Puyricard.",
+  "1909 : La ville est marquée par le Séisme de 1909 dans le Sud de la France, qui voit la toiture de la vermicellerie Augier s'effondrer et où « la place des Prêcheurs se remplit de gens dormant sur des matelas », comme en témoigne la mère d'un académicien.",
+  "Lieu « Cathédrale Saint-Sauveur d'Aix-en-Provence » : La cathédrale Saint-Sauveur d'Aix-en-Provence est une cathédrale catholique romaine située dans la rue Gaston-de-Saporta à Aix-en-Provence.",
+  "Lieu « Cathédrale Saint-Sauveur d'Aix-en-Provence », IXe siècle : Lors des invasions sarrasines des VIIIe et IXe siècles, Saint-Sauveur fut détruite.",
+  "Lieu « Cathédrale Saint-Sauveur d'Aix-en-Provence », XIIe siècle : De la façade, on distingue trois étapes de construction du bâtiment : tout d'abord la façade nue de la nef romane a été construite au XIIe siècle, suivie quelques années plus tard par le mur fait de blocs antiques à bossages, montés à joints vifs sur des lits de filasse.",
+  "Lieu « Cathédrale Saint-Sauveur d'Aix-en-Provence », 1425 : Autour de la cathédrale sont construits au fil des siècles des bâtiments qui lui sont accolés, comme le bâtiment claustral de la communauté des chanoines (fin du XIIe siècle), les bâtiments du cloître (XIe au XIIIe siècles) ou le clocher (achevé en 1425).",
+  "Lieu « Cathédrale Saint-Sauveur d'Aix-en-Provence », aujourd'hui : Cet édifice, construit sur l'emplacement du forum antique et, selon la légende, sur les fondations d'un ancien temple dédié au dieu Apollon, rassemble une multitude de styles architecturaux, du fait des nombreux remaniements qu'elle a subi au fil des siècles.",
+  "Lieu « Camp des Milles » : Le camp des Milles est un camp d'internement et de déportation français, ouvert en septembre 1939, dans une usine désaffectée, une briqueterie, au hameau des Milles sur le territoire de la commune d'Aix-en-Provence (Bouches-du-Rhône).",
+  "Lieu « Camp des Milles », 1882 : Ce bâtiment industriel bâti en 1882, agrandi en 1926 et 1932, atteint une superficie de 15 000 m2.",
+  "Lieu « Camp des Milles », 1939 : Le camp des Milles est un camp d'internement et de déportation français, ouvert en septembre 1939, dans une usine désaffectée, une briqueterie, au hameau des Milles sur le territoire de la commune d'Aix-en-Provence (Bouches-du-Rhône).",
+  "Lieu « Camp des Milles », 1943 : Le camp des Milles est définitivement fermé le 15 mars 1943 et transformé en dépôt de munitions.",
+  "Lieu « Camp des Milles », aujourd'hui : En outre, des centaines de traces, décorations ou graffitis anonymes ont été mis au jour sur les murs du camp.",
+  "Lieu « Cité du livre » : La Cité du Livre d’Aix-en-Provence, ouverte en 1993 dans l'ancienne manufacture d'allumettes, rassemble la bibliothèque municipale classée d'Aix-en-Provence, plus connue sous le nom de bibliothèque Méjanes, et des partenaires institutionnels et assoc",
+  "Lieu « Cité du livre », XXe siècle : Elle est constituée de deux bâtiments principaux ainsi que de deux pavillons, construits à la fin du XIXe et au début du XXe siècle au bord de la voie ferrée pour accueillir la manufacture des allumettes ; un petit bâtiment de verre a été construit récemment au moment de la réhabilitation de l'ensemble.",
+  "Lieu « Cité du livre », 1989 : La Fondation, d'abord installée à l'Hôtel-de-Ville, a déménagé en 1989 en même temps que la bibliothèque Méjanes.",
+  "Lieu « Cité du livre », 1993 : La Cité du Livre d’Aix-en-Provence, ouverte en 1993 dans l'ancienne manufacture d'allumettes, rassemble la bibliothèque municipale classée d'Aix-en-Provence, plus connue sous le nom de bibliothèque Méjanes, et des partenaires institutionnels et associatifs.",
+  "Lieu « Cité du livre », aujourd'hui : Il fut ensuite remplacé par Étienne Rouart, Édouard Aude, Bruno Durand, Suzanne Estève, Xavier Lavagne, Danièle Oppetit, Gilles Eboli et Corinne Prévost.",
+  "Lieu « Muséum d'histoire naturelle d'Aix-en-Provence » : Le muséum d'histoire naturelle d'Aix-en-Provence est un musée d'histoire naturelle français situé à Aix-en-Provence, dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Muséum d'histoire naturelle d'Aix-en-Provence », 1838 : Fondé par le géologue Henri Coquand en 1838, ce musée était installé depuis 1950 dans le prestigieux Hôtel Boyer-d’Éguilles, monument historique datant du XVIIe siècle, dans lequel séjourna le célèbre botaniste aixois Joseph Pitton de Tournefort.",
+  "Lieu « Muséum d'histoire naturelle d'Aix-en-Provence », 1839 : Le 4 mai 1839, son ouverture est annoncée par Le Mémorial d'Aix, journal local.",
+  "Lieu « Muséum d'histoire naturelle d'Aix-en-Provence », 1905 : Finalement, un bâtiment est érigé au boulevard du Roi-René et inauguré le 9 avril 1905 par le maire d'Aix, Joseph Cabassol.",
+  "Lieu « Muséum d'histoire naturelle d'Aix-en-Provence », aujourd'hui : Malgré la qualité du bâtiment qui abrite aujourd'hui le muséum d'histoire naturelle d'Aix-en-Provence, les collections sont si importantes qu'elles ne peuvent être toutes exposées, faute de place.",
+  "Lieu « Gare de La Calade - Éguilles » : La gare de La Calade - Éguilles est une gare ferroviaire française de la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble), située sur le territoire de la ville d'Aix-en-Provence (en l'occurrence à quelques centaines de mètres du châtea",
+  "Lieu « Gare de La Calade - Éguilles », 1872 : Ouverte le 11 mai 1872 avec la ligne de Aix-en-Provence à Pertuis (section de la ligne de Lyon à Marseille via Grenoble), la gare prend le nom du lieu-dit de La Calade.",
+  "Lieu « Gare de La Calade - Éguilles », 1903 : La ligne de Salon à la Calade est ouverte au service commercial le 28 mai 1903.",
+  "Lieu « Gare de La Calade - Éguilles », 2010 : La halle à marchandises a été détruite dans les années 2010.",
+  "Lieu « Gare de La Calade - Éguilles », aujourd'hui : Du plan de voies originel, seule subsiste une voie unique traversant la gare.",
+  "Lieu « Jas-de-Bouffan » : Le quartier du Jas-de-Bouffan se situe à l'ouest d'Aix-en-Provence.",
+  "Lieu « Jas-de-Bouffan », XIXe siècle : Le château de l'Horloge (bâtisse provençale typique du XIXe siècle) est un centre culturel.",
+  "Lieu « Jas-de-Bouffan », 1875 : Il est remarquable par la présence de marronniers centenaires et d'une bâtisse construite en 1875.",
+  "Lieu « Jas-de-Bouffan », 1965 : Le premier est ouvert en 1965 et compte près de 500 élèves entre 2016 et 2023, par ailleurs classé au sein du Réseau d'éducation prioritaire (REP).",
+  "Lieu « Jas-de-Bouffan », aujourd'hui : Au sud, l'autoroute A8 en trace globalement la limite.",
+  "Lieu « Gare d'Aix-en-Provence » : La gare d'Aix-en-Provence est une gare ferroviaire française, située sur le territoire de la commune d'Aix-en-Provence, sous-préfecture du département des Bouches-du-Rhône.",
+  "Lieu « Gare d'Aix-en-Provence », 1847 : Finalement, la section de Marseille - Avignon est ouverte en 1847 via l'étang de Berre et Arles.",
+  "Lieu « Gare d'Aix-en-Provence », 1877 : La ligne directe Aix - Marseille ne sera construite qu'en 1877, comme section terminale de la ligne de Lyon à Marseille du PLM via Grenoble et la vallée de la Durance.",
+  "Lieu « Gare d'Aix-en-Provence », 2007 : Un siècle plus tard, le trafic marchandises étant décidément restreint, la gare marchandises, ancienne première gare d'Aix, fut rasée et remplacée par une gare routière, devenue un parking, et enfin depuis 2007, un centre commercial à ciel ouvert, les Allées Provençales.",
+  "Lieu « Gare d'Aix-en-Provence », aujourd'hui : Mise en service en 1856 et relocalisée à son emplacement actuel en 1877, elle est l'une des deux gares desservant la ville.",
+  "Lieu « Église du Saint-Esprit d'Aix-en-Provence » : L'église du Saint- Esprit est un édifice catholique situé à Aix-en-Provence dans le département français des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Église du Saint-Esprit d'Aix-en-Provence », 1197 : Elle a été construite au XVIIIe siècle à l'emplacement d'un hôpital, dénommé l'hôpital du Saint-Esprit géré au XIVe siècle par les frères hospitaliers de l'Ordre du Saint-Esprit (ou Ordre du Saint-Esprit), fondé à Montpellier vers 1197.",
+  "Lieu « Église du Saint-Esprit d'Aix-en-Provence », XIIIe siècle : Au XIIIe siècle est fondé un hôpital rattaché à l'Ordre des hospitaliers du Saint-Esprit, le charisme de cet ordre étant de venir en aide à tous les « déshérités de la vie », les religieux accueillent les orphelins, les malades et les mourants, malgré un nombre limité de places (entre cinq et huit).",
+  "Lieu « Église du Saint-Esprit d'Aix-en-Provence », 1985 : L'édifice est protégé par un classement au titre des monuments historiques par arrêté du 31 décembre 1985.",
+  "Lieu « Église du Saint-Esprit d'Aix-en-Provence », aujourd'hui : Elle se trouve aujourd'hui dans cette église."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

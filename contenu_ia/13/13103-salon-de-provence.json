@@ -1,0 +1,266 @@
+{
+ "commune": {
+  "titre": "Salon-de-Provence",
+  "code_insee": "13103",
+  "departement": "13",
+  "population": 44194,
+  "lat": 43.643,
+  "lon": 5.049,
+  "url": "https://fr.wikipedia.org/wiki/Salon-de-Provence"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:37:17",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2287,
+  "sortie": 1350
+ },
+ "cout_usd": 0.002145,
+ "accroche": "En 1626, la communauté de Salon décide l’érection d’une tour avec une horloge, en remplacement de l’ancienne porte de ville Farreiroux, à Salon-de-Provence.",
+ "histoire": {
+  "recit": "Salon-de-Provence, en provençal Seloun-de-Prouvènço, s’appuie sur une histoire ancienne : la voie Aurélienne romaine passe non loin de la ville. Longtemps, l’économie locale mêle les vestiges d’une industrie traditionnelle de savonnerie, la production rurale et viticole, ainsi que des activités liées au mouton et à l’huile d’olive. Le nom Villa Salone apparaît aussi dans des dénombrements liés à Saint Sauveur.\n\nPlus tard, au cœur du bourg, la tour de l’Horloge voit sa construction se dérouler par étapes : deux étages sont achevés en 1630, puis le troisième, décidé plus tard, est achevé en 1664. Les cloches y trouvent un relais étonnant grâce à l’emplacement de la tour face au Mistral.\n\nSalon garde aussi trace de chantiers majeurs : les halles sont construites par délibération en 1934. L’église Saint-Laurent connaît plusieurs reconstructions, et son classement au titre des monuments historiques intervient en 1840. Enfin, la commune abrite le Château de l’Empéri, fortification fondée au IXe siècle et aujourd’hui musée de l’Armée.",
+  "chronologie": [
+   {
+    "date": "1626",
+    "texte": "La communauté de Salon décide l’érection d’une tour avec une horloge, en remplacement de l’ancienne porte de ville Farreiroux démolie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1630",
+    "texte": "Les deux étages de la tour de l’Horloge sont achevés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1664",
+    "texte": "Le troisième étage de la tour de l’Horloge est achevé.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1480",
+    "texte": "L’église Saint-Laurent est terminée après sa reconstruction, commencée pour la troisième fois en 1432.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1432",
+    "texte": "L’église Saint-Laurent est reconstruite pour la 3e fois en 1432.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "L’édifice de l’église Saint-Laurent est classé au titre des monuments historiques.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1934",
+    "texte": "Les halles sont construites par une délibération de 1934.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "Le château de l’Empéri est construit au IXe siècle sur le rocher du Puech, dominant la plaine de la Crau.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1867",
+    "texte": "Le temple protestant de Salon-de-Provence est construit et installé place Porte-Coucou.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Tour de l'Horloge (Salon-de-Provence)",
+   "histoire": "Tour horloge du XVIIe siècle, protégée des monuments historiques, elle marque le paysage de Salon-de-Provence.",
+   "anecdotes": [
+    {
+     "texte": "L’emplacement de la tour permet au Mistral de porter le son des cloches vers l’intérieur de la ville.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S7"
+   ],
+   "lat": 43.6375,
+   "lon": 5.097,
+   "url": "https://fr.wikipedia.org/wiki/Tour_de_l%27Horloge_%28Salon-de-Provence%29"
+  },
+  {
+   "nom": "Église Saint-Laurent de Salon-de-Provence",
+   "histoire": "Église-collégiale ancienne, reconstruite pour la 3e fois en 1432 et terminée en 1480.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 43.643587,
+   "lon": 5.096964,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Laurent_de_Salon-de-Provence"
+  },
+  {
+   "nom": "Château de l'Empéri",
+   "histoire": "Fortification du IXe siècle construite sur le rocher du Puech ; aujourd’hui, il accueille le musée de l’Armée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est aujourd’hui le musée de l’Armée en région (annexe de celui des Invalides à Paris).",
+   "sources": [
+    "S12",
+    "S13",
+    "S15"
+   ],
+   "lat": 43.639833,
+   "lon": 5.097306,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27Emp%C3%A9ri"
+  },
+  {
+   "nom": "Temple protestant de Salon-de-Provence",
+   "histoire": "Lieu de culte construit en 1867 à Salon-de-Provence, place Porte-Coucou.",
+   "anecdotes": [
+    {
+     "texte": "L’édifice est construit en 1867 par la confrérie des pénitents bleu de Salon, catholiques traditionalistes, dont le nom se retrouve dans l’impasse longeant l’église.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 43.642358781092,
+   "lon": 5.0996654007028,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_de_Salon-de-Provence"
+  },
+  {
+   "nom": "Église Saint-Michel de Salon-de-Provence",
+   "histoire": "Église catholique construite au XIIIe siècle, avec un style de transition entre l’art roman et le gothique provençal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 43.640487,
+   "lon": 5.09823,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Michel_de_Salon-de-Provence"
+  },
+  {
+   "nom": "Gare de Salon",
+   "histoire": "Gare ferroviaire située sur le territoire de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 43.639045,
+   "lon": 5.08846,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Salon"
+  },
+  {
+   "nom": "La Monaque",
+   "histoire": "Quartier de Salon-de-Provence dont la cité est construite dans les années 1960.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 43.629677,
+   "lon": 5.101562,
+   "url": "https://fr.wikipedia.org/wiki/La_Monaque"
+  },
+  {
+   "nom": "Canal de Craponne",
+   "histoire": "Canal reliant la Durance au Rhône, situé dans le département des Bouches-du-Rhône.",
+   "anecdotes": [
+    {
+     "texte": "En 1584, il a fallu construire un pont-aqueduc au pont de Crau pour éviter un marécage, diriger l’eau du canal d’Arles dans le Rhône et limiter des fièvres liées à l’eau de fuite, avec un coût important et une transaction le 22 août 1585.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 43.661785,
+   "lon": 5.096298,
+   "url": "https://fr.wikipedia.org/wiki/Canal_de_Craponne"
+  }
+ ],
+ "sources": [
+  "Salon-de-Provence (en provençal : Seloun-de-Prouvènço) est une commune française située dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Elle fait partie de la Métropole Aix-Marseille Provence.",
+  "L'histoire de Salon-de-Provence est ancienne. La voie Aurélienne romaine passe non loin de la ville. Au niveau du développement économique, on retrouve aussi bien les vestiges d'une industrie traditionnelle de savonnerie, de production rurale et viticole que des activités liées au mouton et à l'huile d'olive. Salon-de-Provence figure en tant que Villa Salone dans les dénombrements des biens de Saint Sauveur de […]",
+  "1934 : Les halles furent construites par une délibération de 1934.",
+  "Lieu « Tour de l'Horloge (Salon-de-Provence) » : La tour de l'horloge de Salon-de-Provence est une tour horloge du XVIIe siècle, protégé des monuments historiques, situé sur la commune de Salon-de-Provence, dans le département français des Bouches-du-Rhône.",
+  "Lieu « Tour de l'Horloge (Salon-de-Provence) », 1626 : En 1626, la communauté de Salon décide de l'érection d'une tour avec une horloge en remplacement de l'ancienne porte de ville Farreiroux qui a été démolie.",
+  "Lieu « Tour de l'Horloge (Salon-de-Provence) », 1630 : Les deux étages de la tour sont achevés en 1630 et le troisième étage, dont la construction a été décidée des années plus tard, est achevé en 1664.",
+  "Lieu « Tour de l'Horloge (Salon-de-Provence) », aujourd'hui : L'emplacement de la tour permet au vent dominant, le Mistral, de porter le son des cloches vers l'intérieur de la ville.",
+  "Lieu « Église Saint-Laurent de Salon-de-Provence » : L'église-collégiale Saint-Laurent de Salon-de-Provence est une ancienne collégiale située à Salon-de-Provence, en France.",
+  "Lieu « Église Saint-Laurent de Salon-de-Provence », 1432 : L'église est reconstruite pour la 3e fois en 1432 et est terminée en 1480.",
+  "Lieu « Église Saint-Laurent de Salon-de-Provence », XVe siècle : Elle ne se termine qu'au début du XVe siècle mais le clocher s'effondre.",
+  "Lieu « Église Saint-Laurent de Salon-de-Provence », 1840 : L'édifice est classé au titre des monuments historiques en 1840.",
+  "Lieu « Château de l'Empéri » : Le château de l'Empéri est une fortification située à Salon-de-Provence dans le département des Bouches-du-Rhône.",
+  "Lieu « Château de l'Empéri », IXe siècle : Le château de l'Empéri est un château fort construit au IXe siècle sur le rocher du Puech qui domine l’immense plaine de la Crau, à Salon-de-Provence.",
+  "Lieu « Château de l'Empéri », 1967 : Toutes ces pièces sont issues de la collection Raoul & Jean Brunon, vendue à l'Etat en 1967.",
+  "Lieu « Château de l'Empéri », aujourd'hui : Il est aujourd'hui le musée de l'Armée en région (annexe de celui des Invalides à Paris) présentant notamment des représentations très fidèles des différents corps d'armée depuis l'Ancien Régime, les guerres napoléoniennes jusqu'à la Grande Guerre.",
+  "Lieu « Temple protestant de Salon-de-Provence » : Le temple protestant de Salon-de-Provence est un lieu de culte construit en 1867 et situé place Porte-Coucou à Salon-de-Provence.",
+  "Lieu « Temple protestant de Salon-de-Provence », 1867 : Le temple protestant de Salon-de-Provence est un lieu de culte construit en 1867 et situé place Porte-Coucou à Salon-de-Provence.",
+  "Lieu « Temple protestant de Salon-de-Provence », 1867 : L'édifice est construit en 1867 par la confrérie des pénitents bleu de Salon, catholiques traditionalistes, qui donnent leur nom à l'impasse longeant l'église.",
+  "Lieu « Église Saint-Michel de Salon-de-Provence » : L'église Saint-Michel est une église catholique située à Salon-de-Provence, dans le département français des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Église Saint-Michel de Salon-de-Provence », XIIIe siècle : L'église a été construite au XIIIe siècle et présente un style de transition entre l'art roman et le gothique provençal.",
+  "Lieu « Église Saint-Michel de Salon-de-Provence », 1983 : L'édifice est classé au titre des monuments historiques en 1983.",
+  "Lieu « Gare de Salon » : La gare de Salon est une gare ferroviaire française, située sur le territoire de la commune de Salon-de-Provence, dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de Salon », 1873 : La gare est construite et mise en service par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), l'année d'ouverture de la dernière portion de la ligne (Cheval-Blanc – Miramas) en mai 1873.",
+  "Lieu « La Monaque » : La Monaque est un quartier de Salon-de-Provence dans le département des Bouches-du-Rhône.",
+  "Lieu « La Monaque », 1960 : La cité est construite dans les années 1960.",
+  "Lieu « Canal de Craponne » : Le canal de Craponne est un canal situé dans le département des Bouches-du-Rhône, reliant la Durance au Rhône.",
+  "Lieu « Canal de Craponne », aujourd'hui : En 1584, les associés de l'œuvre d'art, ont dû construire le pont-aqueduc du pont de Crau pour éviter l'emplacement d'un marécage, diriger l'eau du canal d'Arles dans le Rhône et éviter les fièvres malignes dues à l'eau de fuite, ce qui a entraîné un coût important et une transaction le 22 août 1585."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

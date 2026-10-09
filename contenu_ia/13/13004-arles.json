@@ -1,0 +1,211 @@
+{
+ "commune": {
+  "titre": "Arles",
+  "code_insee": "13004",
+  "departement": "13",
+  "population": 51811,
+  "lat": 43.5441,
+  "lon": 4.6513,
+  "url": "https://fr.wikipedia.org/wiki/Arles"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:31:57",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1895,
+  "sortie": 1484
+ },
+ "cout_usd": 0.002234,
+ "accroche": "Le 25 juillet 2014, les Arènes du Sambuc ont été inaugurées sur le territoire d’Arles.",
+ "histoire": {
+  "recit": "Arles, sous-préfecture des Bouches-du-Rhône, est une ville traversée par le Rhône. Son site, dit d’origine celto-ligure, est fréquenté par des commerçants méditerranéens, et un comptoir sur le Rhône apparaît vers 500 avant J.-C., annonçant une future colonie.\n\nAu début du IVe siècle avant J.-C., la cité revient sous domination autochtone et prend le nom d’Arelate. Plus tard, la ville subit pillages et tensions : en 735, elle est pillée et mise au pas après la révolte du duc Mauronte ; en 842, la région d’Arles est à nouveau frappée, cette fois par des incursions sarrasines, puis par les Normands en 859.\n\nLe Moyen Âge arlésien connaît aussi des heurts plus politiques : au XIIe siècle, Gênes et Pise s’opposent, et des familles liées à Barcelone et à Toulouse affrontent leurs alliés. La population s’effondre encore au XIVe siècle, quand guerres, pestes et disettes se conjuguent. Arles est assiégée en 1368 et, au fil des années, menacée.\n\nDans la ville, les chantiers et reconstructions continuent : un nouvel hôtel de ville est achevé en 1675, et, vers 1824, le baron de Chartrouse dégage les Arènes puis le théâtre antique.",
+  "chronologie": [
+   {
+    "date": "vers 500 av. J.-C.",
+    "texte": "Sur le Rhône, un comptoir méditerranéen est créé, futur comptoir puis colonie appelée Théliné.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début du IVe siècle av. J.-C.",
+    "texte": "Lors de la poussée celtique, la cité revient sous domination autochtone et prend le nom d’Arelate.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "735-739",
+    "texte": "Après la révolte du duc Mauronte, Arles est pillée et mise au pas par le pouvoir carolingien.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "842",
+    "texte": "La région d’Arles est pillée en 842 par les Sarrasins.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "859",
+    "texte": "La région d’Arles est à nouveau pillée, cette fois par les Normands.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Les affrontements opposent Gênes et Pise, tandis que des familles arlésiennes liées à Barcelone et à Toulouse s’opposent avec leurs alliés.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1340-1350",
+    "texte": "Un effondrement démographique s’amplifie, lié aux guerres, aux pestes et aux disettes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1358",
+    "texte": "Une commanderie dédiée à saint Thomas est créée, après la destruction de celle de Trinquetaille.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1368",
+    "texte": "Arles est assiégée en 1368, puis prise en juillet 1384 lors de la guerre de succession de la reine Jeanne.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1675",
+    "texte": "Le nouvel hôtel de ville est achevé en 1675.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1792",
+    "texte": "En 1792, des bâtiments saisis sont vendus en plusieurs lots entre 1796 et 1827.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "vers 1824",
+    "texte": "Le baron de Chartrouse entreprend de remettre en valeur le patrimoine bâti en dégageant les Arènes puis le théâtre antique.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1606",
+    "texte": "Au château de l’Armellière, Pierre de Sabatier engage Pierre Breugier pour construire l’édifice, avec des ordres requis.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "15 octobre 1607",
+    "texte": "La construction de l’édifice est terminée, à l’exception des créneaux et des couvertures des quatre cheminées.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "25 juillet 2014",
+    "texte": "Les Arènes du Sambuc sont inaugurées.",
+    "sources": [
+     "S19"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de l'Armellière",
+   "histoire": "Le château de l’Armellière se trouve sur la route de Salin-de-Giraud, au lieu-dit Le Sambuc, sur le territoire d’Arles.",
+   "anecdotes": [
+    {
+     "texte": "En février 1606, Pierre de Sabatier confie les travaux à Pierre Breugier pour un prix de 126 livres, en précisant que les ordres seraient ceux « tels qu’il et ledict Sabatier adviseront ».",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Le 15 octobre 1607, l’édifice est dit achevé, mais sans créneaux ni couvertures des quatre cheminées.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.569342,
+   "lon": 4.678891,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27Armelli%C3%A8re"
+  },
+  {
+   "nom": "Le Sambuc (Arles)",
+   "histoire": "Le Sambuc est un village appartenant à la commune d’Arles, dans le département des Bouches-du-Rhône.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Arènes du Sambuc, inaugurées le 25 juillet 2014.",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 43.524546,
+   "lon": 4.706286,
+   "url": "https://fr.wikipedia.org/wiki/Le_Sambuc_%28Arles%29"
+  }
+ ],
+ "sources": [
+  "Arles est une commune française, sous-préfecture du département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur en France. La ville, chef-lieu de l'arrondissement d'Arles, est la commune de France métropolitaine la plus étendue avec quelque 75 893 hectares (malgré plusieurs réductions successives), et la plus peuplée de la Camargue. La ville est traversée par le Rhône. Cette ville, dont les habitants sont […]",
+  "Oppidum celto-ligure, le site d’Arles est fréquenté par des commerçants méditerranéens. Les Grecs fondent Marseille en 600 av. J.-C. et créent un comptoir sur le Rhône vers 500 av. J.-C. qui deviendra une colonie appelée Théliné. Lors de la poussée celte du début du IVe siècle av. J.-C., la cité revient sous domination autochtone et prend le nom d'Arelate. Au cours du IIe siècle av. J.-C., les conflits qui opposent […]",
+  "735 : Après la révolte en 735-739 du duc Mauronte allié aux Maures, Arles et Avignon sont pillées et mises au pas avec rigueur par le pouvoir carolingien.",
+  "842 : Des ducs turbulents dirigent alors successivement la région d’Arles pillée en 842 et 850 par les Sarrasins puis en 859 par les Normands.",
+  "XIIe siècle : Le XIIe siècle arlésien est occupé par des péripéties complexes où s’affrontent Gênes et Pise et où s’opposent les familles de Barcelone et de Toulouse soutenues par leurs alliés arlésiens respectifs.",
+  "1340 : Ce phénomène se trouve amplifié à compter des années 1340-1350 par un effondrement démographique lié à la trilogie célèbre : guerres, pestes et disettes.",
+  "XIVe siècle : Il s'agissait d'un hospice et une commanderie construits autour d'une église dédiée à Saint-Thomas, elle disparait au XIVe siècle.",
+  "1358 : Initialement c'était une commanderie dédié à saint Thomas créée en 1358 après la destruction de la commanderie de Trinquetaille fondée au XIIe siècle dans le faubourg de Trinquetaille.",
+  "1368 : Ainsi Arles est assiégée en 1368 par Duguesclin représentant les intérêts du Capétien Louis d’Anjou, prise en juillet 1384 par les Tuchins lors de la guerre de succession de la reine Jeanne et menacée à plusieurs reprises au XVe siècle par les galères catalanes.",
+  "XVe siècle : Le bâtiment et la commanderie de Saint-Pierre, qui lui est accolée, est construite au XVe siècle.",
+  "XVIIe siècle : Le prieuré est reconstruit au XVIIe siècle par le prieur Honoré de Quiqueran de Beaujeu.",
+  "1675 : Dans ce renouveau architectural émerge le nouvel hôtel de ville achevé en 1675, puis à compter de 1679, les consuls entreprennent une politique d’alignement qui modifie considérablement l’aspect du centre-ville.",
+  "1792 : L'ensemble des bâtiments, saisis en 1792, sont vendus, en plusieurs lots entre 1796 et 1827, à Jacques Réattu, collectionneur et peintre, comme biens nationaux.",
+  "1824 : Au début de ce siècle, vers 1824, le baron de Chartrouse, maire d’Arles, entreprend de remettre en valeur le patrimoine bâti en dégageant les Arènes, puis le théâtre antique.",
+  "Lieu « Château de l'Armellière » : Le château de l'Armellière est situé sur la route de Salin-de-Giraud, au lieu-dit Le Sambuc, sur le territoire de la commune d'Arles, en France.",
+  "Lieu « Château de l'Armellière », 1606 : Alors que les travaux sont déjà commencés, Pierre de Sabatier engage le 6 février 1606 Pierre Breugier, maître maçon originaire de Montpellier et résidant à Avignon pour un prix de 126 livres pour construire l'édifice avec les ordres requis tels quil et ledict Sabatier adviseront et autrement comme bon semblera à icelluy Sr de Sabatier.",
+  "Lieu « Château de l'Armellière », 1607 : Le 15 octobre 1607, la construction de l'édifice est terminée à l'exception des créneaux et des couvertures des quatre cheminées.",
+  "Lieu « Le Sambuc (Arles) » : Le Sambuc est un village français appartenant à la commune d'Arles dans le département des Bouches-du-Rhône.",
+  "Lieu « Le Sambuc (Arles) », 2014 : Arènes du Sambuc, inaugurées le 25 juillet 2014."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

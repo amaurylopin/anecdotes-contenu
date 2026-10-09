@@ -1,0 +1,305 @@
+{
+ "commune": {
+  "titre": "Martigues",
+  "code_insee": "13056",
+  "departement": "13",
+  "population": 48298,
+  "lat": 43.3839,
+  "lon": 5.0451,
+  "url": "https://fr.wikipedia.org/wiki/Martigues"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:33:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3149,
+  "sortie": 2236
+ },
+ "cout_usd": 0.003425,
+ "accroche": "En 1346, le village de Saint-Geniès est abandonné, alors que la peste de 1346 sévit sur le territoire de Martigues.",
+ "histoire": {
+  "recit": "À Martigues, on vit entre l’étang de Berre et le canal de Caronte, dans un paysage découpé en Ferrières, l’Île et Jonquières. Les fouilles racontent d’abord des présences très anciennes, notamment au Collet-Redon et à La Gacharelle, puis près de Saint-Pierre et de La Couronne.\n\nPlus tard, l’époque romaine installe des villas un peu partout. Mais l’histoire saccade les lieux : le village de l’Arquet est rasé au IVe siècle av. J.-C., et plus loin, plusieurs sites sont abandonnés autour de périodes de crise. En 1346, Saint-Geniès disparaît, au moment même où la peste s’abat. La Couronne, elle aussi, semble avoir du mal à se maintenir vers 1350.\n\nLe bourg de l’Île, de son côté, renforce ses défenses en 1560 avec une tour fortifiée de l’horloge. Puis, plus près de nous, la commune se dote d’équipements : le cimetière de Saint-Joseph est fondé en 1854, l’école Di Lorto ouvre en 1970-71, et l’hôpital des Rayettes ouvre en 1974.\n\nAujourd’hui encore, le territoire garde des repères : l’activité des gares continue à Martigues et, sur l’île de Bouc, le fort de Bouc n’a plus qu’un rôle résiduel autour du gardien du phare.",
+  "chronologie": [
+   {
+    "date": "-4300 à -3800",
+    "texte": "Des fouilles attestent des communautés humaines au Collet-Redon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "-3400 à -2600",
+    "texte": "Des traces de présence sont signalées au village de Saint-Pierre (et autour de La Gacharelle).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle",
+    "texte": "La cité finit par l’emporter quand l’oppidum est abandonné ; des villas romaines sont construites sur le territoire pendant l’Empire.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IVe siècle av. J.-C.",
+    "texte": "Le village de l’Arquet, reconstruit près d’importantes carrières, est rasé.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1346",
+    "texte": "Le village de Saint-Geniès est abandonné, au moment où la peste de 1346 sévit.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1350",
+    "texte": "Le village de La Couronne semble un temps abandonné sur la côte.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1560",
+    "texte": "Le bourg de l’Île renforce sa défense avec la tour fortifiée de l’horloge.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1854",
+    "texte": "Le cimetière de Saint-Joseph est fondé par le maire Pierre Boze.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1970-71",
+    "texte": "L’école Di Lorto, dessinée par Michel Écochard, ouvre en 1970-71.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1974",
+    "texte": "L’hôpital des Rayettes ouvre en 1974.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centrale thermique de Martigues",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "En 2015, après une fuite sur un circuit d’huile, un incendie se déclare sur une des turbines, rendant indisponibles les deux cycles combinés pendant plusieurs mois.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "En 2023-2024, les quatre cheminées, devenues inutiles, sont détruites par grignotage.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 43.3597838,
+   "lon": 5.0207047,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_thermique_de_Martigues"
+  },
+  {
+   "nom": "Maison du chemin de Paradis",
+   "histoire": "La bastide du chemin de Paradis, à Martigues, est associée à une construction au XVIe siècle, puis à un retour en héritage à Marie-Pélagie Garnier en 1881. Le mur des Fastes y est construit en 1944 sur les instructions de Maurras, sans qu’il voie l’œuvre achevée. Le décès de Maurras en novembre 1952 entraîne un legs à la mairie, d’abord refusé par des élus communistes pour une question de validité.",
+   "anecdotes": [
+    {
+     "texte": "Le mur des Fastes est lancé en 1944 sur les instructions de Maurras, mais il n’achève pas l’œuvre car il est incarcéré à la fin de la Seconde Guerre mondiale.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Après le décès de Maurras en novembre 1952, le legs à la mairie est d’abord refusé, sous prétexte qu’il est « dépourvu de validité ».",
+     "statut": "conteste",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 43.408,
+   "lon": 5.0518,
+   "url": "https://fr.wikipedia.org/wiki/Maison_du_chemin_de_Paradis"
+  },
+  {
+   "nom": "Saint-Julien-les-Martigues",
+   "histoire": "Saint-Julien-les-Martigues est un village de la commune, situé à 5 km du centre-ville entre Sausset-les-Pins et Martigues. On y signale la chapelle de Saint Julien, construite au Ier siècle apr. J.-C. à l’emplacement d’un ancien mausolée, ainsi que des vestiges gallo-romains attestant d’un peuplement ancien entre la mer et les étangs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S26"
+   ],
+   "lat": 43.3639,
+   "lon": 5.0925,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Julien-les-Martigues"
+  },
+  {
+   "nom": "Église Saint-Louis-d'Anjou de Martigues",
+   "histoire": "L’église Saint-Louis-d’Anjou est un édifice religieux catholique situé dans la rue du Colonel-Denfert-Rochereau, dans le quartier de Ferrières. Le premier édifice remonte au XIVe siècle ; le quartier de Ferrières est créé en 1250, entouré de remparts. L’église est reconstruite en 1675 dans un style sobre, puis son clocher actuel est construit en 1868. L’église-relais dépend aujourd’hui de la paroisse de Martigues, rattachée à l’archidiocèse d’Aix-en-Provence.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 43.4080074,
+   "lon": 5.0548643,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Louis-d%27Anjou_de_Martigues"
+  },
+  {
+   "nom": "Île de Martigues",
+   "histoire": "Le quartier de l’Île de Martigues abrite les vestiges de deux anciens villages avatiques (un peuple celto-ligure) enfouis sous la ville moderne. Le village est abandonné comme plusieurs sites provençaux vers la fin du IIe siècle av. J.-C.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S34"
+   ],
+   "lat": 43.40583,
+   "lon": 5.05417,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_Martigues"
+  },
+  {
+   "nom": "Gare de La Couronne-Carro",
+   "histoire": "La gare de La Couronne-Carro est une gare ferroviaire de la ligne de Miramas à l’Estaque sur le territoire de la commune. Elle est mise en service le 15 octobre 1915. Le bâtiment voyageurs est détruit à la suite d’un incendie de forêt en juillet 1989, et n’est jamais reconstruit.",
+   "anecdotes": [
+    {
+     "texte": "Après l’incendie de forêt de juillet 1989, le bâtiment voyageurs n’est jamais reconstruit.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 43.339957,
+   "lon": 5.051813,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Couronne-Carro"
+  },
+  {
+   "nom": "Gare de Martigues",
+   "histoire": "La gare de Martigues, dite aussi Lavéra, autrefois Martigues-Caronte, se trouve à Lavéra dans le quartier de la ville. Elle est ouverte avec la ligne le 15 octobre 1915 sous le nom de Martigues-Caronte. Elle fait partie des gares actuellement en service sur le territoire, avec Croix-Sainte et La Couronne-Carro.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "C’est l’une des trois gares actuellement en service sur le territoire de la commune de Martigues.",
+   "sources": [
+    "S40"
+   ],
+   "lat": 43.392889,
+   "lon": 5.025607,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Martigues"
+  },
+  {
+   "nom": "Fort de Bouc",
+   "histoire": "Le fort de Bouc, ou tour de Bouc, est un ancien fort situé à Martigues. Une tour carrée est construite au XIIIe siècle pour protéger l’entrée du chenal de Caronte, à l’extrémité de l’île de Bouc. Le fort est déclassé en 1889 ; il n’en reste comme habitant que le gardien du phare.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le fort est déclassé, et il n’en reste comme habitant que le gardien du phare.",
+   "sources": [
+    "S43"
+   ],
+   "lat": 43.3936,
+   "lon": 4.9859,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Bouc"
+  }
+ ],
+ "sources": [
+  "Martigues est une commune française des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur, également connue sous le surnom de « Venise provençale ». Elle s'étend sur les rives de l'étang de Berre et sur le canal de Caronte. La ville se compose de trois quartiers : Ferrières au nord (côté Camargue), l'Île sur le canal (île Brescon) et Jonquières au sud (côté Côte Bleue). Elle compte également plusieurs villages. […]",
+  "Martigues abrite des communautés humaines depuis l'époque néolithique comme l'attestent des fouilles menées sur les sites du Collet-Redon (-4300 à -3800), de La Gacharelle, au village de Saint-Pierre (de - 3400 à -2600), vers le village de Ponteau ou encore vers La Couronne (-2800 à -2500), qui donne ainsi son nom à la culture couronnienne de la fin du quatrième millénaire à une partie du troisième (-3200 à -2500), […]",
+  "Ier siècle : La cité est d'abord concurrencée par Saint-Pierre, mais finit par l’emporter quand l’oppidum est abandonné à la fin du Ier siècle av. J.-C. Des villas romaines sont construites un peu partout sur le territoire de la commune pendant l’Empire.",
+  "IVe siècle : Au IVe siècle av. J.-C., le village de l’Arquet, reconstruit près d’importantes carrières, est rasé.",
+  "VIIIe siècle : Ces villages semblent avoir été occupés du XIVe jusqu’au VIIIe siècle av. J.-C. de manière continue.",
+  "1346 : Le village de Saint-Geniès est lui aussi abandonné vers cette même période, qui voit la peste de 1346 sévir.",
+  "1350 : Plus au sud, le village de La Couronne éprouve des difficultés à se maintenir le long de la côte et semble un temps abandonné vers 1350.",
+  "1500 : Trois cents ans plus tard, vers 1500 av. J.-C., les sites d'Albion et des Salins commencent à être occupés par des habitats lacustres où les fouilles ont révélé un important mobilier et des traces de pilotis.",
+  "1560 : En 1560, le bourg de l'Île renforce sa défense avec la construction de la tour fortifiée de l'horloge (détruite en 1864).",
+  "1580 : En 1580, la vicomté de Martigues (érigé en 1472) est érigée en principauté.",
+  "1800 : Vers 1800 av. J.-C., ces sites prennent davantage d'ampleur avec l'édification de murailles en particulier au Collet Redon.",
+  "1854 : En 1854, le cimetière de Saint-Joseph est fondé par le maire Pierre Boze.",
+  "1970 : Les travaux sont rapidement lancés et l'école Di Lorto dessinée par Michel Écochard ouverte en 1970-71.",
+  "1974 : L'hôpital des Rayettes est ouvert en 1974 et le quartier de Saint-Roch en 1977.",
+  "Lieu « Centrale thermique de Martigues » : .",
+  "Lieu « Centrale thermique de Martigues », 1971 : Elles avaient été construites entre 1971 et 1974 et ont été arrêtées progressivement en 1974, 2009, 2011 et 2012.",
+  "Lieu « Centrale thermique de Martigues », 2015 : À la suite d'une fuite sur un circuit d'huile, un incendie s'est déclaré le 5 février 2015 sur une des turbines de la centrale, entraînant l'indisponibilité des deux cycles combinés pendant plusieurs mois.",
+  "Lieu « Centrale thermique de Martigues », 2023 : Les quatre cheminées, devenues inutiles, sont détruites par grignotage en 2023 - 2024",
+  "Lieu « Maison du chemin de Paradis » : La Maison du chemin de Paradis ou Bastide du chemin de Paradis est une bastide située chemin de Paradis, à Martigues, en France.",
+  "Lieu « Maison du chemin de Paradis », 1881 : La bastide est édifiée au XVIe siècle et revient en héritage à Marie-Pélagie Garnier, mère de Charles Maurras, en 1881.",
+  "Lieu « Maison du chemin de Paradis », 1944 : Le mur des Fastes a été construit en 1944 sur les instructions de Maurras bien qu'il ne vit jamais l’œuvre achevée en raison de son incarcération à la fin de la Seconde Guerre mondiale.",
+  "Lieu « Maison du chemin de Paradis », 1952 : Lors du décès de Maurras en novembre 1952, la bâtisse et le jardin sont légués à la mairie par « patriotisme municipal » bien que les élus communistes siégeant au conseil municipal la refuse d'abord sous prétexte que le legs était « dépourvu de validité ».",
+  "Lieu « Saint-Julien-les-Martigues » : Saint-Julien-les-Martigues est un village faisant partie de la commune de Martigues à 5 km du centre ville, entre Sausset-les-Pins et Martigues même, dans le département des Bouches-du-Rhône.",
+  "Lieu « Saint-Julien-les-Martigues », Ier siècle : La chapelle de Saint Julien a été construite au Ier siècle apr. J.-C. à l'emplacement d'un ancien mausolée.",
+  "Lieu « Saint-Julien-les-Martigues », VIe siècle : Un bas-relief rappelle les fondateurs d'un vaste domaine agricole qui a été occupé jusqu'au VIe siècle apr. J.-C.",
+  "Lieu « Saint-Julien-les-Martigues », aujourd'hui : Des vestiges gallo-romain attestent d'un très ancien peuplement dans cette zone entre la mer et les étangs.",
+  "Lieu « Église Saint-Louis-d'Anjou de Martigues » : L'église Saint-Louis-d'Anjou est un édifice religieux du culte catholique de la commune de Martigues dans les Bouches-du-Rhône, situé dans la rue du Colonel-Denfert-Rochereau, quartier de Ferrières.",
+  "Lieu « Église Saint-Louis-d'Anjou de Martigues », 1250 : La construction du premier édifice remonte au XIVe siècle, dans ce quartier de Ferrières créé en 1250, entouré de remparts d'une hauteur de 7 à 8 mètres. l'église fut reconstruite en 1675 dans un style très sobre, correspondant bien à la pauvreté de ce quartier au XVIIe siècle.",
+  "Lieu « Église Saint-Louis-d'Anjou de Martigues », 1868 : Son clocher actuel, comporte une flèche en pierre d'une grande sobriété qui a été construit en 1868.",
+  "Lieu « Église Saint-Louis-d'Anjou de Martigues », aujourd'hui : Cette église-relais dépend aujourd'hui de la paroisse de Martigues, paroisse rattachée à l'archidiocèse d'Aix-en-Provence.",
+  "Lieu « Île de Martigues » : Le quartier de l'Île de Martigues abrite les vestiges de deux anciens villages avatiques (un peuple celto-ligure) aujourd'hui enfouis sous la ville moderne de Martigues.",
+  "Lieu « Île de Martigues », IIe siècle : Le village est abandonné comme plusieurs sites provençaux à la fin du IIe siècle av. J.-C.",
+  "Lieu « Île de Martigues », 600 : Enfin, Marseille, fondée vers 600 av. J.-C., est située à une quarantaine de kilomètres à l'est.",
+  "Lieu « Île de Martigues », aujourd'hui : Le quartier de l'Île de Martigues abrite les vestiges de deux anciens villages avatiques (un peuple celto-ligure) aujourd'hui enfouis sous la ville moderne de Martigues.",
+  "Lieu « Gare de La Couronne-Carro » : La gare de La Couronne-Carro est une gare ferroviaire française de la ligne de Miramas à l'Estaque, située sur le territoire de la commune de Martigues, dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de La Couronne-Carro », 1915 : La gare de La Couronne-Carro est mise en service le 15 octobre 1915 lors de l'ouverture à l'exploitation de la ligne.",
+  "Lieu « Gare de La Couronne-Carro », 1989 : Détruit à la suite d'un incendie de forêt en juillet 1989, le bâtiment voyageurs n'est jamais reconstruit.",
+  "Lieu « Gare de Martigues » : La gare de Martigues (dite aussi Lavéra, autrefois Martigues-Caronte) est une gare ferroviaire française de la ligne de Miramas à l'Estaque, située à Lavéra, quartier de la ville de Martigues, dans le département des Bouches-du-Rhône, en région Prove",
+  "Lieu « Gare de Martigues », 1915 : La gare est ouverte avec la ligne, le 15 octobre 1915, sous le nom de Martigues-Caronte.",
+  "Lieu « Gare de Martigues », aujourd'hui : C'est l'une des trois gares actuellement en service sur le territoire de la commune de Martigues, avec Croix-Sainte et La Couronne-Carro.",
+  "Lieu « Fort de Bouc » : Le fort de Bouc ou tour de Bouc est un ancien fort située dans la ville de Martigues dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur en France.",
+  "Lieu « Fort de Bouc », XIIIe siècle : Une tour carrée est construite au XIIIe siècle pour protéger l'entrée du chenal de Caronte, à l'extrémité de l'île de Bouc.",
+  "Lieu « Fort de Bouc », aujourd'hui : Le fort est déclassé en 1889, il ne reste à partir de cette date comme habitant que le gardien du phare."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

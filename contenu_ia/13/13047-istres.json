@@ -1,0 +1,265 @@
+{
+ "commune": {
+  "titre": "Istres",
+  "code_insee": "13047",
+  "departement": "13",
+  "population": 44292,
+  "lat": 43.5455,
+  "lon": 4.9477,
+  "url": "https://fr.wikipedia.org/wiki/Istres"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:37:12",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2425,
+  "sortie": 2140
+ },
+ "cout_usd": 0.00316,
+ "accroche": "En 2004, l’église Sainte-Famille d’Istres est inaugurée, portant la nouvelle construction au-dessus des anciens usages du lieu. ",
+ "histoire": {
+  "recit": "À Istres, le paysage commence par l’eau : la commune est encadrée par l’étang de Berre et l’étang de l’Olivier, près de la plaine de la Crau. Bien avant la ville actuelle, le site est occupé : dès le magdalénien final, à l’abri Cornille, puis, plus tard, sur la colline de Miouvin.\n\nPar la suite, l’oppidum du Castellan accueille une petite agglomération. On y trouve des traces sur une longue durée, avant que, aujourd’hui, une grande partie des structures mises au jour ne soit plus là.\n\nPlus près de nous, les grandes étapes se lisent aussi dans les aménagements : sur l’étang de l’Olivier, un canal relie encore aujourd’hui le secteur à l’étang de Berre. Sur les places du centre, le cours Jean Jaurès et les abords de la porte d’Arles deviennent piétons, tandis que l’église Sainte-Famille, inaugurée en 2004, prend le relais d’un projet lancé dès 1998.\n\nEt quand on aime les surprises, la colline du Castellan accueille Dinosaur’Istres, un parc ludique gratuit. ",
+  "chronologie": [
+   {
+    "date": "vers 10 000 ans av. J.-C.",
+    "texte": "L’abri Cornille, sur la rive gauche du vallon de Sulauze, montre les premières traces d’activités au magdalénien final.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 4 000 ans av. J.-C.",
+    "texte": "Une installation de pêcheurs et de chasseurs s’établit sur la colline de Miouvin à la fin du Néolithique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIe siècle av. J.-C.",
+    "texte": "Une petite agglomération est fondée sur l’oppidum du Castellan, au sud de l’étang de l’Olivier, non loin de la ville actuelle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "Les arènes du Palio sont inaugurées sur l’emplacement des anciennes arènes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1998",
+    "texte": "Le lancement d’une étude, motivé par des difficultés d’accès à l’ancienne église Notre-Dame-de-Beauvoir, prépare un nouvel édifice sur l’emplacement de la chapelle de la Sainte Famille.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "L’église Sainte-Famille est inaugurée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2008",
+    "texte": "Un jet d’eau de 50 mètres est installé sur l’étang de l’Olivier pour accroître l’activité touristique.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2013",
+    "texte": "Le cours Jean Jaurès et les abords de la porte d’Arles sont totalement piétonnisés, avec un carrousel et des terrasses.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2017",
+    "texte": "Dinosaur’Istres s’installe sur la colline du Castellan avec un parc ludique gratuit.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Étang de l'Olivier",
+   "histoire": "Étang oligohalin sur la commune d’Istres, l’étang de l’Olivier se trouve à proximité de l’étang de Berre et constitue un repère majeur du territoire. Le canal relie encore le secteur à l’étang de Berre.",
+   "anecdotes": [
+    {
+     "texte": "En 2008, un jet d’eau de 50 mètres est installé sur l’étang pour renforcer l’activité touristique.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1564, l’édification de la branche d’Istres et du Canal de Craponne, avec le déversement d’eau douce de la Durance, bouleverse l’écosystème de l’étang.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le canal relie toujours l’étang de l’Olivier à l’étang de Berre.",
+   "sources": [
+    "S8",
+    "S10",
+    "S12",
+    "S6"
+   ],
+   "lat": 43.5127181,
+   "lon": 4.9879639,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tang_de_l%27Olivier"
+  },
+  {
+   "nom": "Église de la Sainte-Famille d'Istres",
+   "histoire": "Église catholique construite au début du XXIe siècle à Istres, elle s’inscrit dans un projet lancé en 1998 sur l’emplacement de l’ancienne chapelle de la Sainte Famille.",
+   "anecdotes": [
+    {
+     "texte": "En 1942, des pierres du Luberon provenant des carrières de Ménerbes sont utilisées pour la construction de l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S15",
+    "S16",
+    "S14",
+    "S5"
+   ],
+   "lat": 43.512863,
+   "lon": 4.989839,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_la_Sainte-Famille_d%27Istres"
+  },
+  {
+   "nom": "Gare d'Istres",
+   "histoire": "La gare d’Istres se situe sur le territoire d’Istres. Un ancien bâtiment voyageurs existe encore, à l’adresse indiquée chemin de Bel air, après la mise en place d’une gare construite par le PLM.",
+   "anecdotes": [
+    {
+     "texte": "Après remplacement par la gare du PLM, l’ancien bâtiment voyageurs a été revendu comme habitation particulière et existe toujours.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’ancien bâtiment voyageurs existe encore, chemin de Bel air.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 43.515373,
+   "lon": 4.980268,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Istres"
+  },
+  {
+   "nom": "Gare d'Entressen",
+   "histoire": "La gare d’Entressen, située sur le territoire d’Istres, est une gare fermée de la ligne de Paris-Lyon à Marseille-Saint-Charles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle reste ouverte aujourd’hui au service des marchandises.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 43.58897,
+   "lon": 4.943439,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Entressen"
+  },
+  {
+   "nom": "Oppidum du Castellan",
+   "histoire": "L’oppidum du Castellan est un lieu de refuge public caractéristique de la civilisation celtique. Il a été occupé du VIe siècle av. J.-C. jusqu’au Ier siècle de notre ère, mais une grande partie des structures mises au jour est aujourd’hui détruite.",
+   "anecdotes": [
+    {
+     "texte": "En 2017, Dinosaur’Istres s’installe sur la colline du Castellan, offrant un parc ludique gratuit avec des dinosaures en grandeur réelle.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S11",
+    "S3"
+   ],
+   "lat": 43.5127181,
+   "lon": 4.9879639,
+   "url": "https://fr.wikipedia.org/wiki/Oppidum_du_Castellan"
+  },
+  {
+   "nom": "Porte d'Arles",
+   "histoire": "La porte d’Arles, aussi appelée portail d’Arles, est un monument d’Istres datant du XVIIIe siècle. Elle est construite à partir de janvier 1771, pour une somme indiquée, en l’honneur du duc de Villars, seigneur d’Istres et gouverneur de la Provence.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S7"
+   ],
+   "lat": 43.5149,
+   "lon": 4.98773,
+   "url": "https://fr.wikipedia.org/wiki/Porte_d%27Arles"
+  }
+ ],
+ "sources": [
+  "Istres (prononcé [istʁ(ə)]) est une commune française, sous-préfecture du département des Bouches-du-Rhône, dans la région Provence-Alpes-Côte d'Azur. Elle est le chef-lieu de l’arrondissement d'Istres, du canton d’Istres et commune membre de la métropole d'Aix-Marseille-Provence. Encadrée par l'étang de Berre et l'étang de l'Olivier, la commune est en bordure de la plaine de la Crau et à proximité du massif des […]",
+  "Dès le paléolithique, le site d'Istres est occupé par des tribus nomades. Les premières traces d'activités remontent au magdalénien final, vers 10 000 ans av. J.-C. avec l'occupation de l’abri Cornille, un abri sous-roche sur la rive gauche du vallon de Sulauze. Des années après, à la fin du néolithique, vers 4 000 ans av. J.-C., une civilisation de pêcheurs et de chasseurs s’installe sur la colline de Miouvin qui […]",
+  "VIe siècle : Au VIe siècle av. J.-C. une petite agglomération est fondée sur l’oppidum du Castellan, au sud de l'étang de l’Olivier et non loin de la ville actuelle.",
+  "2001 : Ainsi en 2001 sont inaugurés les arènes du Palio sur l'emplacement des anciennes arènes.",
+  "2004 : En 2004, l'église Sainte-Famille est inaugurée.",
+  "2008 : En 2008, un jet d'eau d'une hauteur de 50 mètres est installé sur l'étang de l'Olivier afin d'accroitre l'activité touristique de la ville.",
+  "2013 : En 2013 le cours Jean Jaurès et les abords de la porte d'Arles sont totalement piétonnisés, un carrousel est installé et des terrasses sont aménagées.",
+  "Lieu « Étang de l'Olivier » : L’étang de l'Olivier est un étang oligohalin (de) sur la commune d'Istres, dans les Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur, à proximité de l'étang de Berre, la 2e plus grande lagune d'Europe.",
+  "Lieu « Étang de l'Olivier », XIe siècle : La chapelle Saint-Sulpice date du XIe siècle et a été construite en style roman avec une lanterne des morts.",
+  "Lieu « Étang de l'Olivier », 1564 : L'édification de la branche d'Istres et du Canal de Craponne en 1564, avec le déversement de l'eau douce de la Durance bouleversèrent son écosystème.",
+  "Lieu « Étang de l'Olivier », 2017 : En 2017, Dinosaur’Istres s’est installé sur la colline du Castellan, un parc ludique gratuit permettant de se promener au milieu des dinosaures représentés en grandeur réelle.",
+  "Lieu « Étang de l'Olivier », aujourd'hui : Aujourd'hui, le canal le relie toujours à l'étang de Berre.",
+  "Lieu « Église de la Sainte-Famille d'Istres » : L'église de la Sainte-Famille est une église catholique construite au début du XXIe siècle, située à Istres dans le département français des Bouches-du-Rhône.",
+  "Lieu « Église de la Sainte-Famille d'Istres », 1942 : Ainsi, 1942 pierres du Luberon provenant des carrières de Ménerbes sont utilisées pour la construction de l'édifice.",
+  "Lieu « Église de la Sainte-Famille d'Istres », 1998 : Ainsi, les difficultés pour accéder à l'église Notre-Dame-de-Beauvoir et le développement d'activités associatives et religieuses sur la commune motivent dès 1998 le lancement d'une étude pour la construction d'un nouvel édifice sur l’emplacement même de l’ancienne chapelle de la Sainte Famille.",
+  "Lieu « Église de la Sainte-Famille d'Istres », XXIe siècle : L'église de la Sainte-Famille est une église catholique construite au début du XXIe siècle, située à Istres dans le département français des Bouches-du-Rhône.",
+  "Lieu « Gare d'Istres » : La gare d'Istres est une gare ferroviaire française, située sur le territoire de la commune d'Istres, dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare d'Istres », 1908 : La section de Port-de-Bouc à L'Estaque est construite de 1908 à 1915 et inaugurée le 15 octobre de cette année.",
+  "Lieu « Gare d'Istres », 1910 : Construit durant les années 1910, il s'agit d'un bâtiment voyageurs de style régional, comme les autres gares de la ligne.",
+  "Lieu « Gare d'Istres », aujourd'hui : Après son remplacement par la gare construite par le PLM, l'ancien bâtiment voyageurs a été revendu comme habitation particulière et existe toujours, chemin de Bel air.",
+  "Lieu « Gare d'Entressen » : La gare d'Entressen est une gare ferroviaire française, fermée, de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune d'Istres, dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare d'Entressen », 1938 : Elle sera fermée au service des voyageurs à partir de 1938.",
+  "Lieu « Gare d'Entressen », 1965 : Le service des marchandises à Entressen est à son tour abandonné en 1965.",
+  "Lieu « Gare d'Entressen », aujourd'hui : Néanmoins elle reste aujourd'hui encore ouverte au service des marchandises.",
+  "Lieu « Oppidum du Castellan » : L'oppidum du Castellan est un oppidum (lieu de refuge public, caractéristique de la civilisation celtique) situé sur la commune d'Istres (Bouches-du-Rhône), dans la région Provence-Alpes-Côte d'Azur en France.",
+  "Lieu « Oppidum du Castellan », VIe siècle : Il fut occupé du VIe siècle av. J.-C. jusqu'au Ier siècle de notre ère.",
+  "Lieu « Oppidum du Castellan », aujourd'hui : Malheureusement, pour la plupart, les structures alors mises au jour sont aujourd'hui détruites.",
+  "Lieu « Porte d'Arles » : La porte d'Arles appelée aussi portail d'Arles, est un monument d'Istres datant du XVIIIe siècle.",
+  "Lieu « Porte d'Arles », 1771 : Elle est construite à partir de janvier 1771 pour la somme de 6110 livres en l'honneur du Duc de Villars, seigneur d'Istres et gouverneur de la Provence."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 5
+ }
+}
