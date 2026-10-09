@@ -1,0 +1,319 @@
+{
+ "commune": {
+  "titre": "Niort",
+  "code_insee": "79191",
+  "departement": "79",
+  "population": 59854,
+  "lat": 46.3274,
+  "lon": -0.4613,
+  "url": "https://fr.wikipedia.org/wiki/Niort"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:28:19",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3083,
+  "sortie": 2243
+ },
+ "cout_usd": 0.00342,
+ "accroche": "En 940, les Normands arrivent à Niort, ouverture redoutée aux invasions, selon la ville. ",
+ "histoire": {
+  "recit": "Niort se raconte d’abord comme une terre tôt fréquentée : dès le Néolithique, des silex travaillés, dont une hache polie trouvée place de la Brèche, attestent une présence bien avant les grandes époques. Avant le Ier siècle, la ville ne serait guère qu’un village installé dans la boucle de la Sèvre, là où se trouve aujourd’hui le quartier de Bessac.\n\nPuis viennent les nuits de conflits. Dans la nuit du 27 au 28 décembre 1588, les affrontements entre catholiques et protestants tournent aux meurtres, aux pillages et aux incendies. Dans le même temps, l’édifice de l’Église Saint-André est détruit par les huguenots : n’en subsistent que deux travées du chœur et deux chapelles, avant une reconstruction sous le règne de Louis XIV.\n\nLa ville pense aussi à l’école : en 1625, 1641 et 1679, le conseil des échevins envisage l’ouverture d’un collège, sans succès.\n\nAujourd’hui, Niort se lit encore dans ses lieux : le Donjon de Niort, unique vestige du château fort, et le Musée Bernard-d’Agesci, installé dans l’ancien lycée de jeunes filles. ",
+  "chronologie": [
+   {
+    "date": "940",
+    "texte": "Les Normands arrivent à Niort, une porte annoncée aux invasions.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1588",
+    "texte": "Dans la nuit du 27 au 28 décembre, Niort connaît des affrontements entre catholiques et protestants : meurtres, pillages et incendies.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1625",
+    "texte": "Le conseil des échevins envisage l’ouverture d’un collège, plusieurs fois, sans aboutir.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1641",
+    "texte": "Nouveau projet de collège étudié par le conseil des échevins, sans succès.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1679",
+    "texte": "Dernière tentative indiquée : ouverture d’un collège envisagée par le conseil des échevins, toujours sans résultat.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1104",
+    "texte": "Sur le site fortifié, un incendie a lieu en 1104.",
+    "sources": [
+     "S22"
+    ]
+   },
+   {
+    "date": "1749",
+    "texte": "La tour nord s’écroule partiellement en 1749, puis est reconstruite en 1750.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1855",
+    "texte": "Une nouvelle église néogothique est édifiée à l’Église Saint-André à partir de 1855.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-André de Niort",
+   "histoire": "À l’emplacement actuel, une première église romane est construite au XIe siècle. En 1588, l’édifice est détruit par les huguenots : il ne subsiste que deux travées du chœur et deux chapelles, puis il est reconstruit sous le règne de Louis XIV. Une nouvelle église néogothique est ensuite édifiée de 1855 à 1863. En 2020, l’église est dans un certain état de dégradation, surtout pour ses fresques.",
+   "anecdotes": [
+    {
+     "texte": "En 1588, la destruction ne laisse que deux travées du chœur et deux chapelles avant la reconstruction.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 46.32765,
+   "lon": -0.46205,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Andr%C3%A9_de_Niort"
+  },
+  {
+   "nom": "Chapelle Saint-Martin de Niort",
+   "histoire": "Chapelle catholique située à Niort, elle adopte une architecture romane et est fondée au XIIe siècle, consacrée à saint Martin. Un prieuré y est édifié par les chanoines augustins au XIIe siècle, puis affilié aux génovéfains. Vendu en 1999, le lieu revient au culte en l’an 2000. Aujourd’hui, la chapelle désaffectée au culte, sert ensuite à divers usages profanes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 46.333711,
+   "lon": -0.47535,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Martin_de_Niort"
+  },
+  {
+   "nom": "Église Notre-Dame de Niort",
+   "histoire": "Église située à Niort. Pendant la Révolution, elle est transformée en temple décadaire, puis en entrepôt et marché aux grains par décision du conseil général du 20 novembre 1793. Par la suite, elle est relevée puis déplacée côté est, devant le vitrail de l’arbre de Jessé, en 1835. En 1883, Victor Auguste Loué construit la partie sud. Aujourd’hui, il ne reste rien de l’église antérieure.",
+   "anecdotes": [
+    {
+     "texte": "Par décision du conseil général du 20 novembre 1793, l’église est transformée en temple décadaire puis devient entrepôt et marché aux grains.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 46.3228,
+   "lon": -0.466,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Niort"
+  },
+  {
+   "nom": "Donjon de Niort",
+   "histoire": "Le Donjon de Niort, aussi appelé château de Niort, est un imposant donjon double. Il constitue le seul vestige du château fort de Niort, fortifié par Henri II d’Angleterre et son fils Richard Cœur de Lion. Le site fortifié fait l’objet d’un incendie en 1104. La tour nord s’écroule partiellement en 1749 et est reconstruite en 1750 ; au XVIIIe siècle, on profite de sa reconstruction pour réaliser quelques aménagements. Aujourd’hui, le donjon demeure le vestige principal de cet ensemble.",
+   "anecdotes": [
+    {
+     "texte": "En 1104, le site fortifié subit un incendie.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "En 1749, la tour nord s’écroule partiellement, avant d’être reconstruite l’année suivante.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 46.3253,
+   "lon": -0.465,
+   "url": "https://fr.wikipedia.org/wiki/Donjon_de_Niort"
+  },
+  {
+   "nom": "Musée Bernard-d'Agesci",
+   "histoire": "Le Musée Bernard-d’Agesci est le principal musée de Niort. Il est nommé d’après Bernard d’Agesci, peintre et sculpteur niortais, conseiller municipal de 1816 à 1829, créateur de la première bibliothèque publique de la ville, de l’école gratuite de dessin, du jardin botanique et transformateur de plusieurs édifices publics. Il ouvre en 2006 dans l’ancien lycée de jeunes filles, un bâtiment de la fin du XIXe siècle. Un nouveau musée pluridisciplinaire est conçu, et l’inauguration a lieu en juin 2006 après restauration et modernisation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.320833333333,
+   "lon": -0.45444444444444,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Bernard-d%27Agesci"
+  },
+  {
+   "nom": "Stade René-Gaillard",
+   "histoire": "Le Stade René-Gaillard, anciennement stade de la Venise verte, est un stade d’athlétisme et de football, situé dans le quartier de La Venise Verte au sud-ouest de la ville. Il est inauguré le 3 août 1974 par René Gaillard, avec l’ambition d’un projet de stade d’envergure et complexe sportif. En 2019, un nouvel espace de réception VIP, appelé espace Bodard, est construit. Aujourd’hui, malgré des aménagements, le stade est dit obsolète et inapte à la pratique du football professionnel.",
+   "anecdotes": [
+    {
+     "texte": "Le 3 août 1974, l’inauguration est menée par René Gaillard, qui vise un projet de stade et un complexe sportif.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 46.317048,
+   "lon": -0.489303,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Ren%C3%A9-Gaillard"
+  },
+  {
+   "nom": "Église Sainte-Pezenne de Niort",
+   "histoire": "L’Église Sainte-Pezenne est une ancienne église paroissiale catholique de Sainte-Pezenne, rattachée à Niort en 1965. L’église actuelle, bâtie aux XIe–XIIe siècles, est en forme de croix latine. Le chœur à deux travées présente un sol recouvert de tomettes installées au XXe siècle, et le maître-autel n’a pas été détruit. Dédiée à sainte Pezenne, vierge d’origine espagnole ayant fui les Sarrasins et morte ici au VIIIe siècle, elle fait partie de la paroisse Saint-Pierre-et-Saint-Paul de Niort du diocèse de Poitiers.",
+   "anecdotes": [
+    {
+     "texte": "La dédicace à sainte Pezenne évoque une histoire de fuite et de mort « ici », selon la notice de l’église.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 46.34915,
+   "lon": -0.46955,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Pezenne_de_Niort"
+  },
+  {
+   "nom": "Église Saint-Maixent de Souché",
+   "histoire": "L’église Saint-Maixent est une église catholique de Niort. Ravagée et ruinée par les protestants, elle est reconstruite partiellement au XVIIe siècle, puis agrandie au XVIIIe siècle ; les voûtes s’écroulent la nuit du jour de Pâques 1788, avant une reconstruction dont les travaux se terminent en avril 1789. Le maître-autel n’a pas été détruit, comme dans nombre d’églises françaises dans les années 1970-1980. Elle dépend aujourd’hui de la paroisse Saint-Pierre-et-Saint-Paul de Niort du diocèse de Poitiers.",
+   "anecdotes": [
+    {
+     "texte": "Les voûtes s’effondrent la nuit du jour de Pâques 1788, déclenchant une reconstruction achevée en avril 1789.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 46.32626,
+   "lon": -0.423926,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maixent_de_Souch%C3%A9"
+  }
+ ],
+ "sources": [
+  "Niort est une commune de l’ouest de la France, chef-lieu du département des Deux-Sèvres en région Nouvelle-Aquitaine. La ville est le siège de la communauté d'agglomération du Niortais, regroupant quarante communes et 121 642 habitants (2019). Au 1er janvier 2020, elle est la commune-centre de l’aire d'attraction de Niort qui comprend 91 communes réparties sur les Deux-Sèvres, la Vendée (sept communes) et la […]",
+  "Niort a été peuplé dès le Néolithique comme l'attestent divers silex travaillés dont une hache polie découverte place de la Brèche. (collection des musées de Niort) Avant le Ier siècle, Niort n'est sans doute qu'un village implanté dans la boucle de la Sèvre là ou se trouve le quartier de Bessac. Des fouilles archéologiques réalisées au cours des années 1970-1980 démontrent une activité commerçante importante pour […]",
+  "940 : Mais c'est aussi une porte ouverte aux invasions, comme l'atteste l’arrivée conquérante des Normands en 940.",
+  "1588 : Un des épisodes sanglants de Niort pendant les guerres de Religion, se déroule dans la nuit du 27 au 28 décembre 1588, durant laquelle se produisirent des affrontements entre catholiques et protestants avec des meurtres, des pillages et des incendies.",
+  "1625 : À plusieurs reprises (1625, 1641, 1679), le conseil des échevins envisage l'ouverture d'un collège avec plusieurs classes, sans succès.",
+  "Lieu « Église Saint-André de Niort » : L'église Saint-André est l'une des grandes églises de Niort dans les Deux-Sèvres.",
+  "Lieu « Église Saint-André de Niort », XIe siècle : Une première église romane est construite à cet emplacement au XIe siècle, dans un lieu évangélisé bien auparavant.",
+  "Lieu « Église Saint-André de Niort », 1588 : Cet édifice est détruit par les huguenots en 1588; ne subsistent que deux travées du chœur et deux chapelles, puis elle est reconstruite sous le règne de Louis XIV .",
+  "Lieu « Église Saint-André de Niort », 1855 : Il édifie une nouvelle église néogothique de 1855 à 1863, avec l'appui de Mgr Pie.",
+  "Lieu « Église Saint-André de Niort », aujourd'hui : De nos jours en 2020, l'église Saint-André est dans un certain état de dégradation, par défaut d'entretien, surtout pour ses fresques.",
+  "Lieu « Chapelle Saint-Martin de Niort » : La chapelle Saint-Martin est une chapelle catholique située à Niort dans les Deux-Sèvres.",
+  "Lieu « Chapelle Saint-Martin de Niort », XIIe siècle : D'architecture romane et fondée au XIIe siècle, elle est consacrée à saint Martin, apôtre des Gaules.",
+  "Lieu « Chapelle Saint-Martin de Niort », XIIe siècle : Un prieuré est édifié par les chanoines augustins au XIIe siècle, puis affilié aux génovéfains.",
+  "Lieu « Chapelle Saint-Martin de Niort », 1999 : Elle est vendue en 1999 à la Fraternité de la Transfiguration qui la rend au culte en l'an 2000.",
+  "Lieu « Chapelle Saint-Martin de Niort », aujourd'hui : Il n'est pas relevé, seule subsiste la chapelle qui est désaffectée au culte à la Révolution et sert ensuite à divers usages profanes.",
+  "Lieu « Église Notre-Dame de Niort » : L’église Notre-Dame est une église située dans la ville de Niort dans le département des Deux-Sèvres en France.",
+  "Lieu « Église Notre-Dame de Niort », 1793 : Pendant la Révolution l'église est transformée en temple décadaire, puis en entrepôt et marché aux grains par décision du conseil général du 20 novembre 1793.",
+  "Lieu « Église Notre-Dame de Niort », 1835 : Il a d'abord été relevé avant d'être déplacé côté est, devant le vitrail de l'arbre de Jessé en 1835.",
+  "Lieu « Église Notre-Dame de Niort », 1883 : En 1883, l'architecte Victor Auguste Loué a construit celle du sud.",
+  "Lieu « Église Notre-Dame de Niort », aujourd'hui : Il ne reste rien de l'église antérieure.",
+  "Lieu « Donjon de Niort » : Le donjon de Niort, appelé également château de Niort, est un imposant donjon double, seul vestige du château fort de Niort fortifié par Henri II d'Angleterre et son fils Richard Cœur de Lion.",
+  "Lieu « Donjon de Niort », 1104 : Ce site fortifié fait l'objet d'un incendie en 1104.",
+  "Lieu « Donjon de Niort », 1749 : La tour nord s'écroula partiellement en 1749 et fut reconstruite en 1750.",
+  "Lieu « Donjon de Niort », XVIIIe siècle : Au XVIIIe siècle, la tour nord s'effondre et l'on profite de sa reconstruction pour y réaliser quelques aménagements.",
+  "Lieu « Donjon de Niort », aujourd'hui : Le donjon de Niort, appelé également château de Niort, est un imposant donjon double, seul vestige du château fort de Niort fortifié par Henri II d'Angleterre et son fils Richard Cœur de Lion.",
+  "Lieu « Musée Bernard-d'Agesci » : Le musée Bernard-d'Agesci est le principal musée de la ville de Niort (Deux-Sèvres).",
+  "Lieu « Musée Bernard-d'Agesci », 1816 : Le musée est nommé Bernard d'Agesci, peintre et sculpteur niortais du début du XIXe siècle, ancien conseiller municipal de 1816 à 1829 et créateur de la première bibliothèque publique de la ville, de l'école gratuite de dessin, du jardin botanique et transformateur de plusieurs édifices publics.",
+  "Lieu « Musée Bernard-d'Agesci », 2006 : Il ouvre en 2006 dans l'ancien lycée de jeunes filles, dans un bâtiment de la fin du XIXe siècle.",
+  "Lieu « Musée Bernard-d'Agesci », 2006 : Un nouveau musée pluridisciplinaire est conçu et se concrétise une décennie plus tard, une fois le bâtiment restauré et modernisé, lors de l’inauguration en juin 2006.",
+  "Lieu « Stade René-Gaillard » : Le stade René-Gaillard (auparavant stade de la Venise verte) est un stade d'athlétisme et de football, situé dans le quartier de La Venise Verte au sud-ouest de la ville de Niort dans le département des Deux-Sèvres.",
+  "Lieu « Stade René-Gaillard », 1974 : Le stade de la Venise verte a été inauguré le 3 août 1974 par René Gaillard désirant mener à bien un projet de stade d'envergure et complexe sportif (patinoire et salle omnisports) pour la ville de Niort.",
+  "Lieu « Stade René-Gaillard », 2019 : En 2019 est construit un nouvel espace de réception VIP avec terrasse appelé espace Bodard.",
+  "Lieu « Stade René-Gaillard », aujourd'hui : Pourtant, et malgré ces quelques aménagements, le stade René-Gaillard est aujourd'hui obsolète, inapte à la pratique du football professionnel et à ses exigences (confort, loges, presse...).",
+  "Lieu « Église Sainte-Pezenne de Niort » : L'église Sainte-Pezenne est une église de Niort dans les Deux-Sèvres, ancienne église paroissiale catholique de Sainte-Pezenne, village rattaché à la commune de Niort en 1965.",
+  "Lieu « Église Sainte-Pezenne de Niort », XIIe siècle : L’église actuelle, bâtie aux XIe – XIIe siècles, est en forme de croix latine.",
+  "Lieu « Église Sainte-Pezenne de Niort », XXe siècle : Le chœur à deux travées présente un sol recouvert de tomettes installées au XXe siècle et le maître-autel n'a pas été détruit contrairement à d'autres églises de la région.",
+  "Lieu « Église Sainte-Pezenne de Niort », aujourd'hui : Dédiée à sainte Pezenne, vierge d'origine espagnole (ayant fui les Sarrasins et morte ici au VIIIe siècle), elle fait aujourd'hui partie de la paroisse Saint-Pierre-et-Saint-Paul de Niort du diocèse de Poitiers.",
+  "Lieu « Église Saint-Maixent de Souché » : L'église Saint-Maixent est une église catholique de Niort dans les Deux-Sèvres.",
+  "Lieu « Église Saint-Maixent de Souché », 1788 : L'église est ravagée et ruinée par les protestants et reconstruite partiellement au XVIIe siècle, puis agrandie au XVIIIe siècle ; mais les voûtes s'écroulent la nuit du jour de Pâques 1788 et elle est reconstruite, les travaux se terminant en avril 1789.",
+  "Lieu « Église Saint-Maixent de Souché », 1970 : Le maître-autel n'a pas été détruit, comme dans nombre d'églises françaises dans les années 1970-1980.",
+  "Lieu « Église Saint-Maixent de Souché », aujourd'hui : Elle dépend aujourd'hui pour le culte de la paroisse Saint-Pierre-et-Paul de Niort du diocèse de Poitiers."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}
