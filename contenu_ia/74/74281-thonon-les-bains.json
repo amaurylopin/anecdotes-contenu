@@ -1,0 +1,251 @@
+{
+ "commune": {
+  "titre": "Thonon-les-Bains",
+  "code_insee": "74281",
+  "departement": "74",
+  "population": 37928,
+  "lat": 46.3745,
+  "lon": 6.4776,
+  "url": "https://fr.wikipedia.org/wiki/Thonon-les-Bains"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:42:12",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3390,
+  "sortie": 1874
+ },
+ "cout_usd": 0.003021,
+ "accroche": "Le funiculaire de Thonon-les-Bains est inauguré le 2 avril 1888, reliant le centre-ville à Rives avec un système de cabines qui se croisaient dans une courbe.",
+ "histoire": {
+  "recit": "À Thonon-les-Bains, sur les bords du Léman, la ville a gardé des traces très anciennes. Lors d’aménagements de contournement routier, une nécropole du Néolithique moyen de type Chamblande a été mise au jour au lieu-dit Genevray, avec 220 sépultures. Plus tard, des vestiges apparaissent encore au port de Rives : en 1989, on y a trouvé des tessons, de l’outillage de pierre et des pilotis.\n\nQuand la ville se bâtit autrement, elle transforme aussi ses lieux. Le couvent de la Visitation, aujourd’hui repensé en médiathèque municipale, école de musique et autres espaces, montre encore une meule devant le bâtiment. Du côté des églises, l’église Notre-Dame du Léman, construite de 1933 à 1935, connaît un incendie en janvier 1990 avant d’être reconstruite à l’identique. \n\nEnfin, Thonon-les-Bains possède ses montées et descentes : le funiculaire, inauguré le 2 avril 1888, a été automatisé en 1989 avec une machinerie Skirail.",
+  "chronologie": [
+   {
+    "date": "2004",
+    "texte": "Lors des aménagements de contournement routier, une nécropole du Néolithique moyen de type « Chamblande » est découverte au lieu-dit Genevray, avec 220 sépultures.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "Au port de Rives, des tessons de céramique, de l’outillage de pierre et des pilotis sont mis au jour.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1933",
+    "texte": "La construction de l’église Notre-Dame du Léman s’étend de 1933 à 1935 sur le territoire de Thonon-les-Bains (à Vongy).",
+    "sources": [
+     "S9",
+     "S11"
+    ]
+   },
+   {
+    "date": "janvier 1990",
+    "texte": "Un incendie ravage une grande partie de la charpente de l’église Notre-Dame du Léman, reconstruite à l’identique la même année sous la direction de Maurice Novarina.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2 avril 1888",
+    "texte": "Le funiculaire de Thonon-les-Bains est inauguré, reliant le centre-ville à Rives.",
+    "sources": [
+     "S33",
+     "S34"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Couvent de la Visitation de Thonon-les-Bains",
+   "histoire": "Ancien couvent de Visitandines à Thonon-les-Bains, il a ensuite été quitté par les moniales à la fin des années 1960, avant d’être occupé par la médiathèque municipale, une école de musique, un espace d’exposition et l’académie chablaisienne.",
+   "anecdotes": [
+    {
+     "texte": "Sa meule est encore visible devant le bâtiment.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Sa meule est visible devant le bâtiment.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 46.3725,
+   "lon": 6.48104,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_de_la_Visitation_de_Thonon-les-Bains"
+  },
+  {
+   "nom": "Église Notre-Dame du Léman",
+   "histoire": "Église catholique de plan traditionnel à Vongy (sur le territoire de Thonon-les-Bains), construite de 1933 à 1935. Elle a été touchée par un incendie en janvier 1990, puis reconstruite à l’identique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 46.3826,
+   "lon": 6.50505,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_du_L%C3%A9man"
+  },
+  {
+   "nom": "Église Saint-Hippolyte de Thonon-les-Bains",
+   "histoire": "Église catholique sur le territoire de Thonon-les-Bains, construite au-dessus d’une crypte romane, puis remaniée au XVIIe siècle dans le style baroque savoyard. Elle a aussi fait l’objet d’installations récentes de lustres fin mai 2010.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S17",
+    "S18"
+   ],
+   "lat": 46.3727,
+   "lon": 6.4794,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Hippolyte_de_Thonon-les-Bains"
+  },
+  {
+   "nom": "Hôtel-Dieu de Thonon-les-Bains",
+   "histoire": "Hôpital construit entre 1649 et 1686, restauré et agrandi en 1882, puis classé monuments historiques en 1924. L’ancien Hôtel-Dieu est aujourd’hui occupé par le palais de justice.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le palais de justice occupe l’ancien Hôtel-Dieu.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 46.3689,
+   "lon": 6.47917,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Thonon-les-Bains"
+  },
+  {
+   "nom": "Chapelle Saint-Bon de Thonon-les-Bains",
+   "histoire": "Chapelle située à Thonon-les-Bains. Elle est partiellement détruite en 1589 par les Bernois, puis relevée jusqu’en 1615 par le révérend Pierre Bouverat.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle fait partie des deniers vestiges de l’ancienne enceinte.",
+   "sources": [
+    "S25",
+    "S26",
+    "S28"
+   ],
+   "lat": 46.3751,
+   "lon": 6.48165,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Bon_de_Thonon-les-Bains"
+  },
+  {
+   "nom": "Château de Rives",
+   "histoire": "Prieuré appelé localement château de Rives ou château de Montjoux, installé à Rives-sous-Thonon. Le bourg de Rives est fondé vers 1280, et les façades et toitures font l’objet d’une inscription au titre des monuments historiques depuis le 28 juin 1932.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S32",
+    "S29"
+   ],
+   "lat": 46.378028,
+   "lon": 6.478028,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Rives"
+  },
+  {
+   "nom": "Funiculaire de Thonon-les-Bains",
+   "histoire": "Fonctionnant sur la ligne Funiculaire Thonon-Rives, il est mis en service le 2 avril 1888. En 1989, la machinerie et le poste de conduite sont installés en gare amont et le système d’origine à contre-poids rempli d’eau est remplacé par une machinerie Skirail automatisée.",
+   "anecdotes": [
+    {
+     "texte": "À sa construction, c’était le seul funiculaire au monde dont les cabines se croisaient dans une courbe.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 46.3748639,
+   "lon": 6.47966944,
+   "url": "https://fr.wikipedia.org/wiki/Funiculaire_de_Thonon-les-Bains"
+  },
+  {
+   "nom": "Château de Thonon",
+   "histoire": "Ancienne citadelle du XIIIe siècle aujourd’hui disparue, édifiée dans la partie fortifiée du bourg médiéval. Un second château est reconstruit en 1406, avant que le site accueille, depuis le XVIIe siècle, le château de Sonnaz transformé en musée du Chablais et l’Office du tourisme.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 46.3736563,
+   "lon": 6.4783285,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Thonon"
+  }
+ ],
+ "sources": [
+  "Thonon-les-Bains (/tɔnɔ̃lebɛ̃/) est une commune française située dans le département de la Haute-Savoie (dont elle est une sous-préfecture), en région Auvergne-Rhône-Alpes. Située dans la région historique du Chablais et plus précisément du Chablais haut-savoyard (ou français), au bord du Léman, la commune fait également partie de l'agglomération urbaine du Grand Genève. Selon la population municipale de référence […]",
+  "Selon la mythologie, la cité a été fondée par une ancienne tribu germanique ayant pris part au massacre des Romains dans la Forêt-Noire[source insuffisante]. Au bord du Léman, lors des aménagements de contournement routier de la ville de 2004, une nécropole du Néolithique moyen de « type Chamblande » a été mise au jour au lieu-dit Genevray. Le site a permis de découvrir 220 sépultures, datées entre 3300 et 4800 ans […]",
+  "1989 : Thonon-les-Bains est construit sur un site occupé au moins depuis le Néolithique: des tessons de céramique, de l'outillage de pierre et des pilotis ont été trouvés en 1989 au port de Rives.",
+  "Lieu « Couvent de la Visitation de Thonon-les-Bains » : Le couvent de la Visitation ou couvent Sainte-Marie est un ancien couvent de Visitandines situé à Thonon-les-Bains, en France.",
+  "Lieu « Couvent de la Visitation de Thonon-les-Bains », 1960 : Quitté par les moniales à la fin des années 1960, le complexe est actuellement occupé par la médiathèque municipale, une école de musique, un espace d'exposition et l'académie chablaisienne.",
+  "Lieu « Couvent de la Visitation de Thonon-les-Bains », XXIe siècle : Au début du XXIe siècle, l'académie chablaisienne occupait les combles de ce bâtiment.",
+  "Lieu « Couvent de la Visitation de Thonon-les-Bains », XXIe siècle : Seuls des bâtiments annexes du couvent à avoir survécu jusqu'au XXIe siècle, l'ancien moulin à eau du couvent est toujours présent de l'autre coté de la place du marché, reconverti en restaurant.",
+  "Lieu « Couvent de la Visitation de Thonon-les-Bains », aujourd'hui : Sa meule est visible devant le bâtiment.",
+  "Lieu « Église Notre-Dame du Léman » : L’église Notre-Dame du Léman est une église de confession catholique de plan traditionnel construite dans la première moitié du XXe siècle, de 1933 à 1935, à Vongy sur le territoire de la commune de Thonon-les-Bains (Haute-Savoie).",
+  "Lieu « Église Notre-Dame du Léman », 1905 : L'église moderne est la première construite à Thonon-les-Bains depuis la Loi de séparation des Églises et de l'État de 1905.",
+  "Lieu « Église Notre-Dame du Léman », 1933 : L’église Notre-Dame du Léman est une église de confession catholique de plan traditionnel construite dans la première moitié du XXe siècle, de 1933 à 1935, à Vongy sur le territoire de la commune de Thonon-les-Bains (Haute-Savoie).",
+  "Lieu « Église Notre-Dame du Léman », 1990 : En janvier 1990 un incendie a ravagé une grande partie de la charpente qui sera reconstruite à l’identique la même année sous la direction de Maurice Novarina lui-même.",
+  "Lieu « Église Notre-Dame du Léman », aujourd'hui : Il restera ainsi une année le temps des travaux de l'église, puis les facteurs s'occupent du nettoyage, réglages, harmonie et accord de l'orgue durant deux semaines avant de réentendre les premières notes avec émotion.",
+  "Lieu « Église Saint-Hippolyte de Thonon-les-Bains » : L’église Saint-Hippolyte est une église de confession catholique de plan traditionnel située sur le territoire de la commune de Thonon-les-Bains (Haute-Savoie).",
+  "Lieu « Église Saint-Hippolyte de Thonon-les-Bains », XIIe siècle : Originellement du XIIe siècle, elle est construite au-dessus d’une crypte romane au XIVe siècle et a été remaniée au XVIIe siècle dans le style baroque savoyard et ses décors et ses fresques sont exubérants.",
+  "Lieu « Église Saint-Hippolyte de Thonon-les-Bains », XIXe siècle : Le maître-autel construit en bois stuqué imitant le marbre dans un style classique est du début du XIXe siècle.",
+  "Lieu « Église Saint-Hippolyte de Thonon-les-Bains », 2010 : La deuxième phase concerne les nouveaux lustres qui ont été installés fin mai 2010.",
+  "Lieu « Église Saint-Hippolyte de Thonon-les-Bains », aujourd'hui : Il serait regrettable que les travaux de restauration ne soient pas poursuivis par les Monuments Historiques, car il reste encore trois travées non explorées.",
+  "Lieu « Hôtel-Dieu de Thonon-les-Bains » : L'Hôtel-Dieu de Thonon-les-Bains est un hôpital situé à Thonon-les-Bains, en France.",
+  "Lieu « Hôtel-Dieu de Thonon-les-Bains », 1649 : L'Hôtel-Dieu a été construit entre 1649 et 1686, sous l'architecture toscane, il ne comportait à l'origine qu'un seul étage, surmonté d'un grand toit surplombant.",
+  "Lieu « Hôtel-Dieu de Thonon-les-Bains », 1882 : En 1882, le bâtiment est entièrement restauré, et agrandi.",
+  "Lieu « Hôtel-Dieu de Thonon-les-Bains », 1924 : L'édifice est classé au titre des monuments historiques en 1924.",
+  "Lieu « Hôtel-Dieu de Thonon-les-Bains », aujourd'hui : L'ancien Hôtel-Dieu, racheté par l'État, abrite aujourd'hui le palais de justice.",
+  "Lieu « Chapelle Saint-Bon de Thonon-les-Bains » : La chapelle Saint-Bon est une chapelle située à Thonon-les-Bains, en France.",
+  "Lieu « Chapelle Saint-Bon de Thonon-les-Bains », 1589 : En 1589, elle fut partiellement détruite par les Bernois, intervenu en Savoie à la demande du roi de France Henri III, alors en conflit avec le duc de Savoie Charles-Emmanuel Ier de Savoie.",
+  "Lieu « Chapelle Saint-Bon de Thonon-les-Bains », 1615 : Jusqu'en 1615 la chapelle resta abandonnée, elle fut relevée par le révérend Pierre Bouverat, prêtre de la Sainte Maison.",
+  "Lieu « Chapelle Saint-Bon de Thonon-les-Bains », 1936 : L'édifice est inscrit au titre des monuments historiques en 1936.",
+  "Lieu « Chapelle Saint-Bon de Thonon-les-Bains », aujourd'hui : Elle est l'un des deniers vestiges de cette ancienne enceinte.",
+  "Lieu « Château de Rives » : Le prieuré de Montjoux, appelé localement château de Rives ou château de Montjoux est un ancien établissement religieux du XIVe siècle qui se dresse à Rives-sous-Thonon, sur la commune de Thonon-les-Bains, une commune française, dans le département d",
+  "Lieu « Château de Rives », 1280 : Le château, situé au bord du Lac Léman, a été construit au Moyen Âge au centre du nouveau bourg de Rives, fondé vers 1280 par le comte Philippe Ier de Savoie.",
+  "Lieu « Château de Rives », XIVe siècle : Longtemps, l’ancien prieuré des chanoines réguliers de saint Augustin a été confondu avec une maison forte construite dans la 1re moitié du XIVe siècle à Rives par la famille de Greysier, possible branche cadette de la maison de Faucigny, passée au XVe siècle par alliance à la famille de Rovorée.",
+  "Lieu « Château de Rives », 1932 : Les façades et toitures du château, ainsi que la cour fermée et son portail font l’objet d’une inscription au titre des monuments historiques depuis le 28 juin 1932.",
+  "Lieu « Funiculaire de Thonon-les-Bains » : Le funiculaire de Thonon-les-Bains, officiellement Funiculaire Thonon-Rives, est un funiculaire automatique mis en service le 2 avril 1888 qui relie le centre-ville de la ville thermale française de Thonon-les-Bains (Haute-Savoie, Auvergne-Rhône-Alpe",
+  "Lieu « Funiculaire de Thonon-les-Bains », 1888 : Il est inauguré le 2 avril 1888 et était à l'époque de sa construction le seul funiculaire au monde dont les cabines se croisaient dans une courbe.",
+  "Lieu « Funiculaire de Thonon-les-Bains », 1989 : La machinerie et le poste de conduite sont installés en gare amont : depuis 1989 c'est une machinerie Skirail entièrement automatisée qui a remplacé le système d'origine à contre-poids remplis d'eau.",
+  "Lieu « Funiculaire de Thonon-les-Bains », 1989 : Le funiculaire est exploité depuis 1989 à l'aide de deux cabines de 54 places chacune, pesant 8,5 tonnes à vide, construites pour Poma/Skirail par CFD Industrie à Montmirail.",
+  "Lieu « Château de Thonon » : Le château de Thonon est une ancienne citadelle du XIIIe siècle, aujourd'hui disparue, qui était édifiée dans la partie fortifiée du bourg médiéval de Thonon-les-Bains, aujourd'hui dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpe",
+  "Lieu « Château de Thonon », XIIIe siècle : Le château de Thonon est une ancienne citadelle du XIIIe siècle, aujourd'hui disparue, qui était édifiée dans la partie fortifiée du bourg médiéval de Thonon-les-Bains, aujourd'hui dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Thonon », 1406 : Un second château est reconstruit sur l'ancienne citadelle, sous l'impulsion de la comtesse, tandis que le comte fait édifier un prieuré sur l'ancienne maison forte de Ripaille, qui y réside régulièrement à partir de 1406.",
+  "Lieu « Château de Thonon », XVIIe siècle : Ruiné, le site accueille depuis le XVIIe siècle le château de Sonnaz transformé en musée du Chablais et l'Office du tourisme."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

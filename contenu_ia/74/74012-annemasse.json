@@ -1,0 +1,263 @@
+{
+ "commune": {
+  "titre": "Annemasse",
+  "code_insee": "74012",
+  "departement": "74",
+  "population": 37628,
+  "lat": 46.189,
+  "lon": 6.2476,
+  "url": "https://fr.wikipedia.org/wiki/Annemasse"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:42:25",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2627,
+  "sortie": 1410
+ },
+ "cout_usd": 0.002288,
+ "accroche": "Près du centre, la gare d’Annemasse a joué un rôle décisif quand elle devient une gare de bifurcation le 10 juillet 1883.",
+ "histoire": {
+  "recit": "Annemasse, chef-lieu de canton de Haute-Savoie, se tient près de la frontière franco-suisse, dans l’aire urbaine de Genève-Annemasse. La commune s’est formée au carrefour des routes, au sortir de la vallée de l’Arve, et une voie romaine de la rive gauche du Rhône à Genève la traverse. Des bornes milliaires y ont été trouvées.\n\nPlus au cœur de la ville, la ligne ferroviaire impose aussi son rythme : la gare d’Annemasse s’ouvre en 1881, puis devient gare de bifurcation en 1883. Plus tard, une autre liaison arrive, après la fermeture en 2013 d’une ligne vers Genève-Eaux-Vives.\n\nQuand vient le temps de la vie quotidienne, les repères religieux et les espaces publics comptent : l’église Saint-André d’Annemasse garde la trace d’édifices successifs, du VIe siècle aux reconstructions, et le Jardin Claudius Montessuit, devenu lieu de promenade, a été fondé le 1er mai 1931. Enfin, un autre lieu marque l’histoire collective : l’Hôtel Pax, lieu de détention et de tortures pendant la Seconde Guerre mondiale, fait l’objet d’un projet de mémoire.",
+  "chronologie": [
+   {
+    "date": "300 av. J.-C.",
+    "texte": "La région est peuplée par les Allobroges, avec un site archéologique sur le mont Salève.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "Après l’ouverture de la gare, Annemasse verse un dédommagement de 3 000 francs à Ville-la-Grand.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "10 juillet 1883",
+    "texte": "La gare d’Annemasse devient une gare de bifurcation avec l’ouverture de la ligne vers La Roche-sur-Foron.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1er avril 2013",
+    "texte": "Fermeture de la ligne d’Annemasse à Genève-Eaux-Vives.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1 mai 1931",
+    "texte": "Le Jardin Claudius Montessuit est fondé.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "L’Hôtel Pax est occupé par la Gestapo à partir du 8 septembre 1943.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 août 1944",
+    "texte": "Fin de l’occupation de l’Hôtel Pax par la Gestapo, le 18 août 1944.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1er février 1945",
+    "texte": "Une plaque commémorative est posée pour les victimes et les prisonniers, sur la façade du bâtiment du 21 avenue de la Gare.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "automne 2025",
+    "texte": "La ville annonce la création d’un espace de mémoire appelé Maison des Mémoires.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôtel Pax",
+   "histoire": "L’Hôtel Pax a servi de lieu de détention, de tortures et d’exécutions sommaires pendant la Seconde Guerre mondiale. Occupé par la Gestapo du 8 septembre 1943 au 18 août 1944, le lieu est associé aux interrogatoires conduits par Klaus Barbie.",
+   "anecdotes": [
+    {
+     "texte": "Avant la démolition des cellules, la population annemassienne rend hommage aux six Français assassinés et aux 1 500 personnes emprisonnées en posant une plaque commémorative le 18 février 1945.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "La ville acquiert le bâtiment annexe situé devant l’ancienne prison et annonce son intention d’y créer la Maison des Mémoires à l’automne 2025.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 46.19529,
+   "lon": 6.23442,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Pax"
+  },
+  {
+   "nom": "Gare d'Annemasse",
+   "histoire": "Implantée près du centre, la gare d’Annemasse est une gare ferroviaire française de la SNCF.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 46.199579,
+   "lon": 6.236942,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Annemasse"
+  },
+  {
+   "nom": "Église Saint-André d'Annemasse",
+   "histoire": "L’église Saint-André d’Annemasse est catholique. Elle a d’abord été construite au VIe siècle à l’emplacement d’un ancien temple romain, puis l’édifice est reconstruit à plusieurs reprises après des occupations successives.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 46.18976,
+   "lon": 6.23347,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Andr%C3%A9_d%27Annemasse"
+  },
+  {
+   "nom": "Jardin Claudius Montessuit",
+   "histoire": "Le Jardin Claudius Montessuit est un jardin public d’Annemasse.",
+   "anecdotes": [
+    {
+     "texte": "Le parc a été le premier jardin public ouvert par la ville, en 1931.",
+     "statut": "etabli",
+     "sources": [
+      "S20",
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 46.1935,
+   "lon": 6.23112,
+   "url": "https://fr.wikipedia.org/wiki/Jardin_Claudius_Montessuit"
+  },
+  {
+   "nom": "Gare de Chêne-Bourg",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 46.19674,
+   "lon": 6.19629,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Ch%C3%AAne-Bourg"
+  },
+  {
+   "nom": "Église Saint-Joseph d'Annemasse",
+   "histoire": "L’église Saint-Joseph d’Annemasse, catholique, voit son édification commencer en 1941.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 46.19475,
+   "lon": 6.23888,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Joseph_d%27Annemasse"
+  },
+  {
+   "nom": "Synagogue d'Annemasse",
+   "histoire": "La synagogue de la communauté israélite d’Annemasse se trouve au 8, rue du Docteur-Coquand, et une deuxième synagogue est ouverte à partir de 2016.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 46.195801,
+   "lon": 6.23639,
+   "url": "https://fr.wikipedia.org/wiki/Synagogue_d%27Annemasse"
+  }
+ ],
+ "sources": [
+  "Annemasse est une commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes. La ville se trouve près de la frontière franco-suisse, au sud-ouest du Léman, dans l'aire urbaine de Genève-Annemasse et l'agglomération du Grand Genève. Il s'agit d'un chef-lieu de canton. La population municipale de référence entrant en vigueur au 1er janvier 2025 (basée sur les données de 2022) […]",
+  "La région a notamment été peuplée par les Allobroges vers 300 av. J.-C. ; on trouve un site archéologique sur le mont Salève. Développement d'une petite agglomération rurale en position de carrefour, au sortir de la vallée de l'Arve. La voie romaine de la rive gauche du Rhône jusqu'à Genève passe par la commune. Deux bornes milliaires ont été trouvées sur le territoire de la commune, toutes les deux dédiées aux […]",
+  "Lieu « Hôtel Pax » : L'hôtel Pax, situé avenue de la Gare à Annemasse (Haute-Savoie), est un lieu de détention, de tortures et d'exécutions sommaires pendant la Seconde Guerre mondiale.",
+  "Lieu « Hôtel Pax », 1943 : Occupé par la Gestapo du 8 septembre 1943 au 18 août 1944, Klaus Barbie y conduit des interrogatoires lors de ses passages dans la région.",
+  "Lieu « Hôtel Pax », 1945 : Avant la démolition des cellules, la population annemassienne a rendu hommage aux six Français lâchement assassinés par la Gestapo et aux 1 500 personnes emprisonnées en posant le 18 février 1945, une plaque commémorative en leur mémoire sur la façade du bâtiment, 21 avenue de la Gare.",
+  "Lieu « Hôtel Pax », 2025 : La ville d'Annemasse a acquis le bâtiment qui servait d'annexe à l'hôtel, situé devant l'ancienne prison et a annoncé son intention d'y créer un espace de mémoire qui prendra le nom de Maison des Mémoires à l'automne 2025.",
+  "Lieu « Hôtel Pax », aujourd'hui : L'hôtel (actuellement dénommé « Oskar Hôtel ») est situé au numéro 22 de l'avenue de la Gare ; les hangars qui servaient de lieu de détention, au numéro 21, ont été détruits.",
+  "Lieu « Gare d'Annemasse » : La gare d'Annemasse est une gare ferroviaire française de la SNCF implantée à proximité du centre de la ville d'Annemasse, dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare d'Annemasse », 1881 : À la suite de cette ouverture, la commune d'Annemasse propose, en 1881, un dédommagement de 3 000 francs à Ville-la-Grand.",
+  "Lieu « Gare d'Annemasse », 1883 : La gare d'Annemasse devient une gare de bifurcation le 10 juillet 1883, avec l'ouverture de la ligne d'Annemasse à La Roche-sur-Foron, par le PLM.",
+  "Lieu « Gare d'Annemasse », 2013 : Cette dernière liaison succède à la ligne d'Annemasse à Genève-Eaux-Vives (frontière), fermée le 1er avril 2013, où elle était suivie par la gare d'Ambilly, qui s'intercalait avant la frontière entre la France et la Suisse (située au PK 2,002).",
+  "Lieu « Gare d'Annemasse », aujourd'hui : À la suite de l'installation nouvelle des voies et quais, les travaux se poursuivent par la construction d'un nouveau bâtiment voyageurs à l'emplacement de l'ancien Service médical de la SNCF et des servitudes de la Sernam.",
+  "Lieu « Église Saint-André d'Annemasse » : L'église Saint-André d'Annemasse, est une église catholique française, située dans le département de la Haute-Savoie, dans la commune d'Annemasse.",
+  "Lieu « Église Saint-André d'Annemasse », VIe siècle : Une première église est construite au VIe siècle par Avit de Vienne à l'emplacement d'un ancien temple romain.",
+  "Lieu « Église Saint-André d'Annemasse », 1536 : À partir de 1536 et jusqu'à la fin du XVIe siècle, les bernois occupent le territoire et l'église est plusieurs fois reconstruite.",
+  "Lieu « Église Saint-André d'Annemasse », 1812 : Le clocher de l’église est tronqué au cours de la Révolution française puis est reconstruit en 1812.",
+  "Lieu « Église Saint-André d'Annemasse », aujourd'hui : En 1860 l'édifice est remplacé par une construction dans le style néogothique, alors très apprécié, construite à quelques mètres de la précédente.",
+  "Lieu « Jardin Claudius Montessuit » : Le jardin Claudius Montessuit ou parc Claudius Montessuit est un jardin public sis dans la ville d'Annemasse en Haute-Savoie.",
+  "Lieu « Jardin Claudius Montessuit », 1931 : Le parc a été fondé le 1er mai 1931, rénové en 2008 et inauguré et rouvert au public en juin 2009.",
+  "Lieu « Jardin Claudius Montessuit », 1931 : Il s'agit du premier jardin public ouvert par la ville en 1931.",
+  "Lieu « Jardin Claudius Montessuit », 2010 : En 2010, une convention est signée entre la ville d'Annemasse et la ligue pour la protection des oiseaux pour le recensement de la faune du parc et favoriser des aménagements afin de préserver de sa biodiversité.",
+  "Lieu « Gare de Chêne-Bourg » : La gare de Chêne-Bourg est une gare ferroviaire desservie par quatre lignes du réseau express régional franco-valdo-genevois dit « Léman Express », située dans la commune de Chêne-Bourg du canton de Genève (Suisse).",
+  "Lieu « Gare de Chêne-Bourg », 1887 : La gare est construite en 1887 et ouvre en même temps que la ligne d'Annemasse à Genève-Eaux-Vives le 27 mai 1888.",
+  "Lieu « Gare de Chêne-Bourg », 1984 : L'ancien bâtiment, ravalé en 1984 a été conservé et abrite un commerce « La Gare - Antiquités, brocante ».",
+  "Lieu « Gare de Chêne-Bourg », 2013 : Elle est fermée le 1er avril 2013 afin d'être rouverte le 15 décembre 2019 en tant que gare intermédiaire de la ligne CEVA (« Cornavin - Genève-Eaux-Vives - Annemasse »).",
+  "Lieu « Église Saint-Joseph d'Annemasse » : L'église Saint-Joseph d'Annemasse, est une église catholique française, située dans le département de la Haute-Savoie, dans la commune d'Annemasse.",
+  "Lieu « Église Saint-Joseph d'Annemasse », 1941 : L'édification de l'église Saint-Joseph débute en 1941.",
+  "Lieu « Synagogue d'Annemasse » : La synagogue de la communauté israélite d’Annemasse est située dans un immeuble au 8, rue du Docteur-Coquand à Annemasse (Haute-Savoie), en France.",
+  "Lieu « Synagogue d'Annemasse », 2016 : Depuis 2016, le Mouvement Habad-Loubavitch fort de ses 400 représentants en France et plus de 5 000 dans le monde, a ouvert une deuxième synagogue dans la commune."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 3
+ }
+}

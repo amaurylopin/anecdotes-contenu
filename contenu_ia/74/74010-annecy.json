@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "Annecy",
+  "code_insee": "74010",
+  "departement": "74",
+  "population": 132117,
+  "lat": 45.9024,
+  "lon": 6.1264,
+  "url": "https://fr.wikipedia.org/wiki/Annecy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:33",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3780,
+  "sortie": 1679
+ },
+ "cout_usd": 0.002855,
+ "accroche": "Le 19 août 1944, Annecy est libérée, après des bombardements alliés visant l’usine de roulements et un centre actif de la Résistance.",
+ "histoire": {
+  "recit": "Annecy naît d’abord d’un monde gallo-romain : Boutae y prospère au Ier siècle, avec une place publique assimilable à un forum et des édifices de romanisation.\n\nAu IIIe siècle, la ville subit des incendies à plusieurs reprises, notamment lors d’attaques des Alamans et de troubles liés aux Bagaudes. Le site semble rester occupé jusqu’au Ve siècle, puis le déplacement urbain conduit vers l’extrémité du Semnoz.\n\nVers le XIe siècle, la ville renaît au pied d’une tour de défense sur le dernier contrefort du Semnoz, et une maison forte est édifiée en 1132 sur l’île au milieu du Thiou : c’est l’origine du Palais de l’Isle. \n\nPlus tard, le château d’Annecy connaît un incendie le 27 avril 1340, puis une reconstruction à l’identique. En 1953, le château devient la propriété de la ville, restauré et transformé en musée.\n\nDurant la Deuxième Guerre mondiale, Annecy est bombardé à trois reprises ; la libération intervient le 19 août 1944, portée par le Maquis des Glières.",
+  "chronologie": [
+   {
+    "date": "Ier siècle",
+    "texte": "Boutae connaît une prospérité, avec une place publique assimilable à un forum et des édifices de romanisation (basilique, temples, thermes, théâtre).",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IIIe siècle",
+    "texte": "La ville est incendiée à plusieurs reprises, notamment lors d’incursions des Alamans et d’attaques des Bagaudes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "VIIIe siècle",
+    "texte": "L’implantation se poursuit sur la colline d’Annecy-le-Vieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "La ville renaît au pied d’une tour de défense édifiée sur le dernier contrefort du Semnoz.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1132",
+    "texte": "Une maison forte est édifiée sur l’île au milieu du Thiou.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "27 avril 1340",
+    "texte": "Le château d’Annecy est détruit lors d’un incendie et reconstruit à l’identique par le comte de Genève, Amédée III.",
+    "sources": [
+     "S31"
+    ]
+   },
+   {
+    "date": "1953",
+    "texte": "Le château d’Annecy devient la propriété de la ville, restauré et transformé en musée.",
+    "sources": [
+     "S33"
+    ]
+   },
+   {
+    "date": "19 août 1944",
+    "texte": "Le Maquis des Glières libère Annecy, après trois bombardements alliés visant notamment l’usine de roulements.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Le Pâquier (Annecy)",
+   "histoire": "Le Pâquier est une vaste promenade paysagère de sept hectares et demi, située sur les bords du lac d’Annecy, offrant une perspective sur le lac et les montagnes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le Pâquier d’aujourd’hui constitue l’élément central d’un ensemble de parcs et jardins incluant notamment les jardins de l’Europe et la plage d’Annecy-le-Vieux.",
+   "sources": [
+    "S10",
+    "S14"
+   ],
+   "lat": 45.9013,
+   "lon": 6.13183,
+   "url": "https://fr.wikipedia.org/wiki/Le_P%C3%A2quier_%28Annecy%29"
+  },
+  {
+   "nom": "Annecy-le-Vieux",
+   "histoire": "Annecy-le-Vieux est une ancienne commune associée à la poursuite de l’implantation sur la colline, avant que l’urbanisation ne s’oriente vers le Semnoz.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S15"
+   ],
+   "lat": 45.92,
+   "lon": 6.14277777778,
+   "url": "https://fr.wikipedia.org/wiki/Annecy-le-Vieux"
+  },
+  {
+   "nom": "Palais de l'Isle",
+   "histoire": "Le Palais de l’Isle est une ancienne maison forte du XIIe siècle, située sur un îlot formé par le Thiou, remaniée à plusieurs reprises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site est utilisé notamment comme lieu d’exposition sur l’architecture et le patrimoine du territoire de l’agglomération d’Annecy, avec un parcours permanent.",
+   "sources": [
+    "S20",
+    "S24"
+   ],
+   "lat": 45.89861,
+   "lon": 6.1275,
+   "url": "https://fr.wikipedia.org/wiki/Palais_de_l%27Isle"
+  },
+  {
+   "nom": "Seynod",
+   "histoire": "Seynod se trouve sur le tracé de la voie romaine construite au IIIe siècle reliant les vicus de Boutae (Annecy) à Lemencum (Chambéry) en passant par Aquae (Aix-les-Bains).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26"
+   ],
+   "lat": 45.889722,
+   "lon": 6.096667,
+   "url": "https://fr.wikipedia.org/wiki/Seynod"
+  },
+  {
+   "nom": "Château d'Annecy",
+   "histoire": "Château d’Annecy : ancien château fort, remanié à plusieurs reprises. En 1340, il est détruit par un incendie puis reconstruit à l’identique ; il est ensuite restauré et transformé en musée à partir de 1953.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Restauré, il abrite une présentation permanente des collections des musées de l’agglomération d’Annecy et l’observatoire régional des lacs alpins.",
+   "sources": [
+    "S30",
+    "S31",
+    "S33",
+    "S34"
+   ],
+   "lat": 45.8975,
+   "lon": 6.12639,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Annecy"
+  },
+  {
+   "nom": "Laboratoire d'Annecy de physique des particules",
+   "histoire": "Le LAPP est une unité mixte de recherche créée en 1976, dépendant du CNRS et de l’université Savoie-Mont-Blanc.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le laboratoire prépare le premier observatoire mondial d’astronomie gamma, CTA, actuellement en construction.",
+   "sources": [
+    "S35",
+    "S39"
+   ],
+   "lat": 45.92083333,
+   "lon": 6.15972222,
+   "url": "https://fr.wikipedia.org/wiki/Laboratoire_d%27Annecy_de_physique_des_particules"
+  },
+  {
+   "nom": "Haras national d'Annecy",
+   "histoire": "Le Haras d’Annecy est un complexe culturel situé en centre-ville. Fondé au XIXe siècle pour organiser et améliorer l’élevage équin, il est aussi associé à des aménagements menés sur la caserne Saint-Dominique à partir de 1864.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Autrefois Haras national, fermé en 2005, puis réhabilité en 2025 : le site accueille des espaces culturels, créatifs et gastronomiques ouverts au public.",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 45.904848,
+   "lon": 6.127244,
+   "url": "https://fr.wikipedia.org/wiki/Haras_national_d%27Annecy"
+  },
+  {
+   "nom": "Château de Novel",
+   "histoire": "Le château de Novel (manoir de Novel) est une ancienne maison forte du XIIe siècle. Il présente un bâtiment de plan quadrangulaire datant, dans son ensemble, du XVe siècle, avec une tour ronde au sud-ouest.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site qu’occupe le manoir a probablement été occupé par une villa gallo-romaine.",
+   "sources": [
+    "S45",
+    "S46",
+    "S49"
+   ],
+   "lat": 45.91833,
+   "lon": 6.135,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Novel"
+  }
+ ],
+ "sources": [
+  "Annecy (prononcé /an.si/ ) est une ville du nord des Alpes françaises, chef-lieu et préfecture du département de la Haute-Savoie, en région Auvergne-Rhône-Alpes. La Perle des Alpes de la monographie urbaine de Raoul Blanchard s'inscrit dans le sillon alpin, en s'alignant avec les villes de Genève, Chambéry, Grenoble et Valence. Longtemps contenue entre lac et Préalpes, la population concentre son développement sur […]",
+  "Originellement connue comme bourgade gallo-romaine de Boutae au Ier siècle, son implantation s'est poursuivie sur la colline d'Annecy-le-Vieux au VIIIe siècle, puis au pied du Semnoz au XIe siècle en tant qu'Annecy-le-Neuf. Son rôle dans la Réforme catholique, dite Contre-Réforme, aux XVIe et XVIIe siècles, fait d'elle la « Rome des Alpes » Résidence des comtes de Genève au XIIe siècle ; capitale du comté de […]",
+  "Ier siècle : Le vicus connaît une certaine prospérité au cours du Ier siècle jusqu'à la première moitié du IIIe où la petite agglomération dispose d'une place publique « assimilable à un forum » mais aussi d'édifices typiques de la romanisation comme une basilique, des temples, des thermes ou encore un théâtre.",
+  "IIIe siècle : Boutae connaît les ravages des incursions barbares des Alamans en 259 et 278, ou des Bagaudes, et la ville est incendiée à plusieurs reprises au IIIe siècle.",
+  "Ve siècle : Le site semble encore occupé jusqu'au Ve siècle comme le démontrent les dernières découvertes puis disparaît progressivement avec le déplacement urbain du site des Fins vers le site actuel, sur l’extrémité du Semnoz.",
+  "XIe siècle : Il faut attendre le XIe siècle pour voir la ville renaître au pied d'une tour de défense édifiée sur le dernier contrefort du Semnoz.",
+  "1132 : En 1132, une maison forte est édifiée sur l'île au milieu du Thiou.",
+  "1564 : En fait, c'est Jacques de Savoie-Nemours qui devient le premier duc de Genevois, le comté ayant été érigé en duché en 1564 par Emmanuel-Philibert qui entend s'attacher et surveiller ce prince trop français à son gré qu'est Jacques de Nemours, fleur de toute la chevalerie selon Brantôme.",
+  "1944 : Durant la Deuxième Guerre mondiale, Annecy est bombardé à trois reprises par les Alliés qui visent l'usine de roulements, siège d'une centaine d'hommes de la Milice française et de prisonniers de guerre, mais aussi un centre actif de la Résistance avec le Maquis des Glières qui la libère le 19 août 1944.",
+  "Lieu « Le Pâquier (Annecy) » : Le Pâquier est une vaste promenade paysagère de sept hectares et demi de la ville d'Annecy située sur les bords du lac d'Annecy et offrant une des plus belles perspectives sur le lac et les montagnes environnantes.",
+  "Lieu « Le Pâquier (Annecy) », 1921 : Un premier de 1921 à 1955, un second de 1955 à 1981 ; le parking de surface de la préfecture, trois immeubles et un petit jardin public ; la préfecture inaugurée en 1866 est bâtiment de style Louis XIII d’un blanc immaculé.",
+  "Lieu « Le Pâquier (Annecy) », 1950 : Le plan d'urbanisme de 1950 avait même prévu un quatrième immeuble qui ne fût jamais construit ; la partie après la rue André Theuriet, en pleine restructuration depuis l'an 2000, accueille plusieurs petits immeubles de luxe qui remplacent d'anciennes villas.",
+  "Lieu « Le Pâquier (Annecy) », 1981 : De l'autre côté de l'avenue d'Albigny depuis la vieille ville en remontant vers l'Impérial Palace, on trouve : le centre culturel Bonlieu, inauguré en 1981, comprenant un parking souterrain et un jardin public, le « square des Martyrs de la déportation ».",
+  "Lieu « Le Pâquier (Annecy) », aujourd'hui : Le Pâquier d'aujourd'hui, cher au cœur des Annéciens et sujet d'émerveillement pour les touristes, est l'élément central d'un plus vaste ensemble de parcs et jardins avec les jardins de l'Europe, les jardins de l'Impérial Palace et la plage d'Annecy-le-Vieux, mais originellement le Pâquier s'étendait sur un ensemble encore plus vaste de terrains.",
+  "Lieu « Annecy-le-Vieux » : Annecy-le-Vieux (prononcé [an.si-] (ou [a.nə.si-]) [-lə vjø]) est une ancienne commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Annecy-le-Vieux », 1792 : De septembre 1792 à novembre 1815, le duché de Savoie est occupé par les troupes révolutionnaires françaises, puis impériales.",
+  "Lieu « Annecy-le-Vieux », 1996 : La ville abrite les bâtiments d'un Point « Info-Familles », d'un centre communal d’action sociale, d'un Espace emploi, d'un Service d'entraide aux anciens qui s'occupe des personnes âgées (depuis 1996) et des personnes handicapées (depuis 2003).",
+  "Lieu « Annecy-le-Vieux », 2003 : Les taxes : habitation 2003 : 14,45 % - foncière bâtie 24,36 % - professionnelle 27,02 %.",
+  "Lieu « Annecy-le-Vieux », aujourd'hui : Le reste est occupé par des peuplements chétifs ou inaccessibles.",
+  "Lieu « Palais de l'Isle » : Le palais de l'Isle, aussi orthographié de l'Île, est une ancienne maison forte du XIIe siècle, remaniée à plusieurs reprises, située sur un îlot formé par le Thiou, qui se dresse sur la commune d'Annecy dans le département de la Haute-Savoie, en rég",
+  "Lieu « Palais de l'Isle », XIIe siècle : Son noyau le plus ancien est un logis-tour datant de la fin du XIIe siècle ou du début du XIIIe siècle, d'environ 12 mètres de côté, construit en bel appareil régulier.",
+  "Lieu « Palais de l'Isle », XIVe siècle : L'enceinte contemporaine du donjon a été partiellement reconstruite au XIVe siècle, de même que les bâtiments qui s'y appuient.",
+  "Lieu « Palais de l'Isle », 1900 : Il fait l’objet d'un classement au titre des monuments historiques par arrêté du 16 février 1900, permettant de protéger l'édifice.",
+  "Lieu « Palais de l'Isle », aujourd'hui : Utilisé notamment comme prison, aujourd'hui lieu d'exposition sur l'architecture et le patrimoine du territoire de l'agglomération d'Annecy, il offre un parcours permanent sur l'histoire et le patrimoine de ce territoire.",
+  "Lieu « Seynod » : Seynod est une ancienne commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Seynod », IIIe siècle : Seynod est situé sur le tracé de la voie romaine, construite au IIIe siècle, reliant les vicus de Boutae (Annecy) à Lemencum (Chambéry) en passant par Aquae (Aix-les-Bains).",
+  "Lieu « Seynod », 1889 : En 1889, on construit la fruitière un an après celle de Vieugy et vingt-cinq ans après celle de Chaux.",
+  "Lieu « Seynod », 1999 : Cette fusion association s'est transformée en fusion pleine le 1er juillet 1999.",
+  "Lieu « Seynod », aujourd'hui : En novembre 2013, l'ancienne école de Balmont a laissé place à un nouveau groupe scolaire dont l'architecture a privilégié le bois pour la construction de la structure.",
+  "Lieu « Château d'Annecy » : Le château d'Annecy est un ancien château fort, du XIIe siècle, remanié à plusieurs reprises, notamment par les ducs de Savoie (1430 et 1487, 1533 et 1571), par les Savoie-Nemours, qui se dresse sur la commune française d'Annecy dans le département d",
+  "Lieu « Château d'Annecy », 1340 : Entièrement détruit lors d'un incendie survenu le 27 avril 1340, il est reconstruit à l'identique par le comte de Genève, Amédée III.",
+  "Lieu « Château d'Annecy », 1340 : Les comptes de châtellenies des années 1340 à 1344 permettent de connaître les différents travaux réalisées à la restauration des bâtiments.",
+  "Lieu « Château d'Annecy », 1953 : Ancienne résidence des comtes de Genève, puis des ducs de Savoie-Nemours, le château d'Annecy est depuis 1953 la propriété de la ville qui l'a restauré et transformé en musée.",
+  "Lieu « Château d'Annecy », aujourd'hui : Restauré, il abrite aujourd'hui une présentation permanente des collections des musées de l'agglomération d'Annecy et l'observatoire régional des lacs alpins.",
+  "Lieu « Laboratoire d'Annecy de physique des particules » : Le Laboratoire d’Annecy de Physique des Particules (LAPP), créé en 1976, est une unité mixte de recherche (UMR 5814) dépendant du CNRS et de l’université Savoie-Mont-Blanc.",
+  "Lieu « Laboratoire d'Annecy de physique des particules », 1989 : En 1989, les chercheurs du LAPP se sont attelés à la confirmation de l’existence des ondes gravitationnelles avec Virgo, interféromètre géant installé en Italie.",
+  "Lieu « Laboratoire d'Annecy de physique des particules », 2019 : En 2019, l'Espace découvertes EUTOPIA est inauguré au sein du laboratoire.",
+  "Lieu « Laboratoire d'Annecy de physique des particules », 2021 : En raisons des difficultés de déplacements dues aux confinements, le LAPP a installé en 2021 une salle de contrôle à distance, afin d'opérer le téléscope LST-1 de CTA.",
+  "Lieu « Laboratoire d'Annecy de physique des particules », aujourd'hui : Puis les chercheurs du LAPP s’engagent dans la préparation du premier observatoire mondial d’astronomie gamma, CTA, actuellement en construction.",
+  "Lieu « Haras national d'Annecy » : Le Haras d'Annecy est un complexe culturel situé dans le centre-ville d’Annecy, en Haute-Savoie.",
+  "Lieu « Haras national d'Annecy », XIXe siècle : Le Haras national d’Annecy est fondé au XIXe siècle, dans un contexte marqué par la nécessité d’organiser et d'améliorer l’élevage équin en France.",
+  "Lieu « Haras national d'Annecy », 1864 : Des travaux d’aménagement sont parallèlement menés sur la caserne Saint-Dominique à partir de 1864, avec une nouvelle façade et des extensions des bâtiments d’élevage.",
+  "Lieu « Haras national d'Annecy », 2005 : Autrefois Haras national, fermé en 2005, puis réhabilité en 2025, le site accueille depuis des espaces culturels, créatifs, et gastronomiques, ouverts au public.",
+  "Lieu « Haras national d'Annecy », aujourd'hui : Les travaux de ce nouveau bâti qui occupe aujourd’hui le site est validé et édifié entre 1880 et 1885.",
+  "Lieu « Château de Novel » : Le château de Novel ou manoir de Novel est une ancienne maison forte du XIIe siècle qui se dresse sur la commune d'Annecy dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Novel », XVe siècle : Le manoir de Novel se présente aujourd'hui sous la forme d'un bâtiment de plan quadrangulaire datant dans son ensemble du XVe siècle, avec une tour ronde dans son angle sud-ouest.",
+  "Lieu « Château de Novel », XIXe siècle : Au XIXe siècle, la tour du pigeonnier est reliée à celle de la maison forte par un corps de bâtiment, ce qui lui confère son aspect actuel.",
+  "Lieu « Château de Novel », 1960 : Confisqué et vendu comme bien national, il gardera cette dernière fonction jusque dans les années 1960.",
+  "Lieu « Château de Novel », aujourd'hui : Le site qu'occupe le manoir a probablement été occupé par une villa gallo-romaine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
