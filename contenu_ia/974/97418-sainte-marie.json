@@ -1,0 +1,178 @@
+{
+ "commune": {
+  "titre": "Sainte-Marie (La Réunion)",
+  "code_insee": "97418",
+  "departement": "974",
+  "population": 37093,
+  "lat": -20.8969,
+  "lon": 55.5492,
+  "url": "https://fr.wikipedia.org/wiki/Sainte-Marie_%28La_R%C3%A9union%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:43:13",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1680,
+  "sortie": 1606
+ },
+ "cout_usd": 0.002344,
+ "accroche": "En 1667, l’équipage d’un navire en perdition prie la Vierge, fait un vœu et accoste au nord de l’île, où un monument est érigé avec les débris.",
+ "histoire": {
+  "recit": "À Sainte-Marie, le récit commence par un vœu de mer. En 1667, l’équipage d’un navire en perdition prie la Vierge et fait un vœu : ils accostent alors au nord de l’île et y érigent un monument à la Vierge Marie avec les débris de leur navire.\n\nPlus tard, le site devient Sainte-Marie 1789. Plus récemment, le 9 mars 1968 au soir, un Douglas DC-6B militaire ayant décollé de l’aéroport de Gillot à 23 h 15 à destination de Djibouti s’écrase deux minutes plus tard au lieu-dit concerné.\n\nLa commune s’appuie aussi sur ses lieux : l’aéro-club Roland-Garros, fondé en 1933 et basé à Gillot, et la base aérienne 181 Saint-Denis-La Réunion, dont l’organisation change avant 1973 puis s’illustre après le cyclone Gamède en 2007.\n\nÀ Terrain Élisa, une école primaire publique ouvre le 16 septembre 1968, tandis qu’à Sainte-Marie, la distillerie Jean Chatel fabrique rhums, punchs et liqueurs, fondée en 1907.",
+  "chronologie": [
+   {
+    "date": "1667",
+    "texte": "Un équipage en perdition prie la Vierge, fait un vœu, accoste au nord de l’île et y érige un monument à la Vierge Marie avec les débris de leur navire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1789",
+    "texte": "Le site devient la commune de Sainte-Marie 1789.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "9 mars 1968",
+    "texte": "Au soir, un Douglas DC-6B militaire décolle de l’aéroport de Gillot à 23 h 15 à destination de Djibouti et s’écrase deux minutes plus tard au lieu-dit concerné.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "16 septembre 1968",
+    "texte": "À Terrain-Élisa, l’école primaire publique ouvre, accueillant des élèves de la maternelle au CM2.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Jean Chatel fonde la distillerie, rue Juliette-Dodu à Saint-Denis, à l’origine d’une production de rhums, punchs, spiritueux et liqueurs.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1933",
+    "texte": "L’aéro-club Roland-Garros est fondé et se base à Gillot, lieu-dit sur le territoire de Sainte-Marie.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "Avant 1973, la base aérienne 181 était installée sur le site de l’aéroport international d’Ivato, sur l’île voisine de Madagascar.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2007",
+    "texte": "En 2007, à la suite du cyclone Gamède, la base assure un pont aérien avec l’aéroport de Pierrefonds pour l’approvisionnement de Saint-Pierre isolée par l’effondrement du pont de la rivière Saint-Étienne.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Base aérienne 181 Saint-Denis-La Réunion",
+   "histoire": "Implantée dans le nord de l’île, c’est une base de l’Armée de l’air française. Avant 1973, elle était installée sur le site de l’aéroport international d’Ivato ; après le cyclone Gamède, elle a aussi contribué à un pont aérien en 2007 avec l’aéroport de Pierrefonds.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": -20.89,
+   "lon": 55.516388888889,
+   "url": "https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_181_Saint-Denis-La_R%C3%A9union"
+  },
+  {
+   "nom": "Terrain Élisa",
+   "histoire": "Terrain Élisa est un lieu-dit de l’île de La Réunion. Le quartier est aussi connu pour son école primaire publique, ouverte le 16 septembre 1968.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": -20.929528,
+   "lon": 55.548472,
+   "url": "https://fr.wikipedia.org/wiki/Terrain_%C3%89lisa"
+  },
+  {
+   "nom": "Distillerie Jean Chatel",
+   "histoire": "La distillerie Jean Chatel est installée à Sainte-Marie de La Réunion. Elle produit des rhums aromatisés, punchs, spiritueux, liqueurs, rhum arrangés et autres cocktails apéritifs ; elle est issue d’une fondation en 1907 par Jean Chatel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": -20.896462,
+   "lon": 55.514191,
+   "url": "https://fr.wikipedia.org/wiki/Distillerie_Jean_Chatel"
+  },
+  {
+   "nom": "Aéro-club Roland-Garros",
+   "histoire": "L’aéro-club Roland-Garros est un aéro-club de l’île de La Réunion. Fondé en 1933, il est depuis lors basé à Gillot, lieu-dit sur le territoire de Sainte-Marie qui accueille l’aéroport de La Réunion Roland-Garros.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": -20.8929861,
+   "lon": 55.528194,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9ro-club_Roland-Garros"
+  },
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption de Sainte-Marie (La Réunion)",
+   "histoire": "L’église Notre-Dame-de-l’Assomption de Sainte-Marie est une église catholique de l’île de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il ne reste que les fondations sur lesquelles a été bâtie l’église.",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": -20.896444,
+   "lon": 55.554528,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_de_Sainte-Marie_%28La_R%C3%A9union%29"
+  }
+ ],
+ "sources": [
+  "Sainte-Marie est une commune française, située dans le département et région de La Réunion. Ses habitants sont appelés les Sainte-Mariens et sa devise est : « Par mer, par ciel, par terre, Sainte-Marie fleurira ».",
+  "En 1667, l'équipage d'un navire en perdition prie la Vierge et fait un vœu. Ils accostent alors au Nord de l'île, et y érigent un monument à la Vierge Marie avec les débris de leur navire. Le site deviendra en 1789 la commune de Sainte-Marie 1789. Le 9 mars 1968 au soir, un Douglas DC-6B militaire ayant décollé de l'aéroport de Gillot à 23 h 15 à destination de Djibouti s'écrase deux minutes plus tard au lieu-dit […]",
+  "Lieu « Base aérienne 181 Saint-Denis-La Réunion » : La Base aérienne 181 Saint-Denis-La Réunion est une base aérienne de l'Armée de l'air française implantée dans le nord de l'île de La Réunion, un département d'outre-mer dans l'océan Indien.",
+  "Lieu « Base aérienne 181 Saint-Denis-La Réunion », 1973 : Avant 1973, la base aérienne 181 était installée sur le site de l'aéroport international d'Ivato, sur l'île voisine de Madagascar, devenue indépendante en 1960.",
+  "Lieu « Base aérienne 181 Saint-Denis-La Réunion », 2007 : En 2007, à la suite du cyclone Gamède, qui a coupé le sud du nord de l'île de La Réunion, elle a également assuré avec l'aéroport de Pierrefonds un pont aérien destiné à l'approvisionnement en denrées essentielles de la région de Saint-Pierre, isolée par l'effondrement du pont de la rivière Saint-Étienne.",
+  "Lieu « Terrain Élisa » : Terrain Élisa est un lieu-dit de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Terrain Élisa », 1968 : Le quartier de Terrain-Élisa est également connu pour son école primaire publique, ouverte depuis le 16 septembre 1968, qui accueille des élèves de la maternelle au CM2 .",
+  "Lieu « Distillerie Jean Chatel » : La distillerie Jean Chatel est une distillerie française installée à Sainte-Marie de La Réunion.",
+  "Lieu « Distillerie Jean Chatel », 1907 : Fondée en 1907 par Jean Chatel rue Juliette-Dodu à Saint-Denis, elle produit des rhums aromatisés, punchs, spiritueux, liqueurs, rhum arrangés et autres cocktails apéritifs.",
+  "Lieu « Aéro-club Roland-Garros » : L'aéro-club Roland-Garros est un aéro-club de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Aéro-club Roland-Garros », 1933 : Fondé en 1933, il est depuis lors basé à Gillot, lieu-dit situé sur le territoire de la commune de Sainte-Marie qui accueille aujourd'hui l'aéroport de La Réunion Roland-Garros.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Sainte-Marie (La Réunion) » : L'église Notre-Dame de l'Assomption de Sainte-Marie est une église catholique de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Sainte-Marie (La Réunion) », aujourd'hui : Aujourd'hui, il ne reste que les fondations sur lesquelles a été bâtie l'église."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 0
+ }
+}

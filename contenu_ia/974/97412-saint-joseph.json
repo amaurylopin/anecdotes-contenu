@@ -1,0 +1,69 @@
+{
+ "commune": {
+  "titre": "Saint-Joseph (La Réunion)",
+  "code_insee": "97412",
+  "departement": "974",
+  "population": 39207,
+  "lat": -21.2921,
+  "lon": 55.644,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Joseph_%28La_R%C3%A9union%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:41:28",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1014,
+  "sortie": 267
+ },
+ "cout_usd": 0.000537,
+ "accroche": "En 1785, le quartier fondé par Joseph Hubert devient une commune à part entière, Saint-Joseph. ",
+ "histoire": {
+  "recit": "Saint-Joseph, commune française de La Réunion, occupe un territoire où se trouve le point le plus austral des territoires national et européen. Sur place, la vie s’est longtemps organisée autour de l’usine sucrière des Grands-Bois. \n\nLe quartier a été fondé par Joseph Hubert, avant d’accéder au statut de commune à part entière en 1785. Le nom de Saint-Joseph a été donné en hommage au gouverneur Joseph Chalvet, baron de Souville.",
+  "chronologie": [
+   {
+    "date": "1785",
+    "texte": "Le quartier fondé par Joseph Hubert devient une commune à part entière.",
+    "sources": [
+     "S3",
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cascade de Grand Galet",
+   "histoire": "La cascade de Grand Galet, aussi appelée cascade Langevin, est une chute d’eau de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Cascade totalement accessible aux personnes à mobilité réduite : elle est visible depuis la route.",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": -21.31083333,
+   "lon": 55.64166667,
+   "url": "https://fr.wikipedia.org/wiki/Cascade_de_Grand_Galet"
+  }
+ ],
+ "sources": [
+  "Saint-Joseph est une commune française située dans le département et région de La Réunion. Sur son territoire communal se trouve le point le plus austral des territoires national et européen.",
+  "Fondé par Joseph Hubert, le quartier est devenu une commune à part entière en 1785. Le nom de Saint-Joseph a été donné en hommage au gouverneur Joseph Chalvet (d) , baron de Souville. Pendant longtemps, la vie de la commune s'est organisée autour de l'usine sucrière, l'usine de Grands-Bois.",
+  "1785 : Fondé par Joseph Hubert, le quartier est devenu une commune à part entière en 1785.",
+  "Lieu « Cascade de Grand Galet » : La cascade de Grand Galet, ou cascade Langevin, est une chute d'eau de l'île de La Réunion, un département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Cascade de Grand Galet », aujourd'hui : Totalement accessible aux personnes à mobilité réduite car la cascade est visible depuis la route."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

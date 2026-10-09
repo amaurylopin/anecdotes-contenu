@@ -1,0 +1,135 @@
+{
+ "commune": {
+  "titre": "Saint-Denis (La Réunion)",
+  "code_insee": "97411",
+  "departement": "974",
+  "population": 155634,
+  "lat": -20.9434,
+  "lon": 55.4444,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Denis_%28La_R%C3%A9union%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:15:22",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1450,
+  "sortie": 1066
+ },
+ "cout_usd": 0.001623,
+ "accroche": "En 1669, la ville est fondée par le premier gouverneur de l’île Bourbon, Étienne Regnault.",
+ "histoire": {
+  "recit": "Saint-Denis, dans le nord de l’île de La Réunion, s’affirme très tôt comme un cœur urbain. La ville est fondée en 1669, par Étienne Regnault, premier gouverneur de l’île Bourbon.\n\nPlus tard, les grands courants changent l’équilibre de l’île : l’ouverture du canal de Suez en 1869 marginalise la Réunion, tandis qu’un nouvel élan local arrive avec la ligne de chemin de fer inaugurée le 11 février 1882, reliant le chef-lieu à Saint-Benoît.\n\nAu fil des maisons et des domaines, on lit aussi d’autres traces : la Maison Drouhet, aujourd’hui monument historique depuis le 16 janvier 2023, et le Domaine de Montgaillard, dont les propriétaires font donation à la Fondation « Les Orphelins Apprentis d’Auteuil » le 11 mai 1971. Plus ancien encore, le Domaine de Beaubassin voit sa maison édifiée en 1863, avec un jardin à la française conservant notamment des rosiers Bourbon.",
+  "chronologie": [
+   {
+    "date": "1669",
+    "texte": "La ville est fondée par le premier gouverneur de l’île Bourbon, Étienne Regnault.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1869",
+    "texte": "L’ouverture du canal de Suez en 1869 marginalise la Réunion.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "Le 11 février 1882, une ligne de chemin de fer liant le chef-lieu à Saint-Benoît est inaugurée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1863",
+    "texte": "La maison du Domaine de Beaubassin est édifiée en 1863.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1971",
+    "texte": "Le 11 mai 1971, Marthe, Suzanne et Henri Morange font donation du Domaine de Montgaillard à la Fondation « Les Orphelins Apprentis d’Auteuil ».",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2023",
+    "texte": "La Maison Drouhet est inscrite monument historique depuis le 16 janvier 2023.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Maison Drouhet",
+   "histoire": "Maison Drouhet : maison remarquable de l’île de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Inscrite monument historique depuis le 16 janvier 2023.",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": -20.9015664146,
+   "lon": 55.446914305164,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Drouhet"
+  },
+  {
+   "nom": "Domaine de Montgaillard",
+   "histoire": "Ancienne plantation coloniale de l’île de La Réunion, avec des modifications de bâtiments apportées par Henri Morange.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": -20.913889,
+   "lon": 55.46375,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_de_Montgaillard"
+  },
+  {
+   "nom": "Domaine de Beaubassin",
+   "histoire": "Grand domaine de l’île de La Réunion : la maison a été édifiée en 1863.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un jardin à la française conserve les rosiers Bourbon, des azalée, des camellia et le bassin d’origine.",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": -20.925369063443,
+   "lon": 55.455583036062,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_de_Beaubassin"
+  }
+ ],
+ "sources": [
+  "Saint-Denis () (en créole réunionnais : Sin-Dni, /sɛ̃.dni/), parfois officieusement Saint-Denis de La Réunion, est une commune française située dans le nord du département et région d'outre-mer de La Réunion, dont la population s'élevait à 155 634 habitants au dernier recensement de 2023. Cette situation démographique en faisait la 20e commune de France et la plus grande ville de l'outre-mer français. Saint-Denis […]",
+  "Bien que l'île de La Réunion ait été découverte au XIIe siècle, voire au VIIIe siècle, il n'existait aucune population indigène avant la venue des Européens qui débarquèrent au cours du XVIIe siècle, sur la côte Ouest. Officiellement rattachée aux possessions du Roi dès 1642, il faut attendre 1663 pour que l'île reçoive ses premiers habitants permanents, et quatre ans de plus pour Saint-Denis. À cette époque, […]",
+  "1669 : En 1669 la ville est fondée par le premier gouverneur de l'île Bourbon, Étienne Regnault.",
+  "1869 : Enfin, l'ouverture du canal de Suez en 1869 additionnée aux ambitions françaises sur Madagascar marginalisent la Réunion.",
+  "1882 : Le 11 février 1882, une ligne de chemin de fer liant le chef-lieu à Saint-Benoît est inaugurée.",
+  "Lieu « Maison Drouhet » : La maison Drouhet est une maison remarquable de l'île de La Réunion, département et région d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Maison Drouhet », 2023 : Occupée à compter de l'année suivante, elle est inscrite monument historique depuis le 16 janvier 2023, sous l'intitulé « Maison de M. et Mme Drouhet construite par l'agence Bossu ».",
+  "Lieu « Domaine de Montgaillard » : Le domaine de Montgaillard est une ancienne plantation coloniale de l'île de La Réunion, département et région d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Domaine de Montgaillard », 1971 : Henri Morange apportera des modifications aux bâtiments dans cette perspective. - 11 mai 1971 : Les propriétaires de Montgaillard, Marthe, Suzanne et Henri Morange font donation de la propriété à la Fondation «Les Orphelins Apprentis d'Auteuil».",
+  "Lieu « Domaine de Beaubassin » : Le domaine de Beaubassin est un grand domaine de l'île de La Réunion, département et région d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Domaine de Beaubassin », 1863 : La maison a été édifiée en 1863 et le jardin à la française conserve les rosiers Bourbon, les azalée, les camellia et le bassin d'origine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 0
+ }
+}

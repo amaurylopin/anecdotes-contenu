@@ -1,0 +1,327 @@
+{
+ "commune": {
+  "titre": "Saint-Pierre (La Réunion)",
+  "code_insee": "97416",
+  "departement": "974",
+  "population": 85038,
+  "lat": -21.309,
+  "lon": 55.5044,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Pierre_%28La_R%C3%A9union%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:22:27",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2583,
+  "sortie": 1786
+ },
+ "cout_usd": 0.002749,
+ "accroche": "À Saint-Pierre, les travaux du port débutent en 1854, puis la ligne vers Saint-Louis est livrée le 19 juin 1882, avant la livraison du port après près de 30 ans de chantier.",
+ "histoire": {
+  "recit": "Sous-préfecture de La Réunion, Saint-Pierre a pris de l’ampleur avec ses grands chantiers : d’abord le port, lancé en 1854, puis la liaison ferroviaire livrée en 1882. La même année, le port atteint enfin son terme après presque trente années de travaux. En 1965, la ville devient sous-préfecture.\n\nSur place, les traces de la vie passée se répondent. Au Temple Guan di, une pagode érigée en 1920 rend hommage à Guan Di. Mais la même histoire se lit autrement dans les hauteurs de Terre-Sainte : un centre culturel plus récent porte aussi le nom, et pourtant on n’y parle pas tout à fait la même langue.\n\nPlus loin, la Maison Orré, bâtie entre 1825 et 1856 par Hippolyte le Bidan, a retrouvé un visage plus ancien lors de travaux en 2006-2007. Aujourd’hui, elle sert de résidence officielle à l’administrateur supérieur des Terres australes et antarctiques françaises.\n\nCôté mémoire industrielle, La Saga du Rhum s’installe en 2008 sur le site de Frédeline, au cœur de la distillerie Isautier, et la gare historique est désormais un café, “Le Café de la Gare”, réaménagé dans la zone touristique du port.",
+  "chronologie": [
+   {
+    "date": "1854",
+    "texte": "Début des travaux de construction du port.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "19 juin 1882",
+    "texte": "Livraison d’une ligne de chemin de fer liant la commune à Saint-Louis.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "Livraison du port après presque 30 ans de travaux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1965",
+    "texte": "La ville devient sous-préfecture.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Temple Guan di",
+   "histoire": "À Saint-Pierre, Temple Guan di est l’un des quatre temples chinois de l’île.",
+   "anecdotes": [
+    {
+     "texte": "Le temple Guan di, érigé en 1920, est dédié à Guan Di, dieu asiatique du commerce, de la littérature et de la guerre.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "En 1840, après la Première guerre de l’opium, des traités inégaux ouvrent la “porte de la Nation” sous la contrainte des puissances étrangères.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Le Temple Guan di ne doit pas être confondu avec le centre culturel Guan Di construit en 2017 à Terre-Sainte.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Même en partageant les mêmes caractères et une langue proche, deux groupes parlent encore aujourd’hui des dialectes différents.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S5",
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "lat": -21.33784,
+   "lon": 55.475963,
+   "url": "https://fr.wikipedia.org/wiki/Temple_Guan_di"
+  },
+  {
+   "nom": "Maison Orré",
+   "histoire": "Case créole de Saint-Pierre, la Maison Orré a été construite par Hippolyte le Bidan et restaurée pour retrouver un aspect traditionnel.",
+   "anecdotes": [
+    {
+     "texte": "Entre 2006 et 2007, les travaux sont réalisés avec le souci de respecter les lieux et de leur redonner leur aspect initial et traditionnel.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Résidence officielle de l’administrateur supérieur des Terres australes et antarctiques françaises (TAAF).",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": -21.339222,
+   "lon": 55.47725,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Orr%C3%A9"
+  },
+  {
+   "nom": "La Saga du Rhum",
+   "histoire": "Musée installé sur le site de Frédeline depuis 2008, au cœur de la distillerie Isautier en activité.",
+   "anecdotes": [
+    {
+     "texte": "Le 05 décembre 2008, la Saga du Rhum est officiellement inaugurée en présence du préfet de la Réunion, Pierre-Henry Maccioni.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "La visite commence par l’ancienne aire de livraison des cannes, devenue le parvis du musée.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": -21.31222,
+   "lon": 55.465694,
+   "url": "https://fr.wikipedia.org/wiki/La_Saga_du_Rhum"
+  },
+  {
+   "nom": "Maison Levesque",
+   "histoire": "Maison remarquable de Saint-Pierre, avec une galerie probablement ouverte au XIXe siècle et un mur d’enceinte restauré au milieu du XXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La restauration du mur d’enceinte sur la rue Marius et Ary Leblond a conduit à la suppression des enduits à la chaux et au remplacement des grilles en bois par du métal.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "La galerie surmonte au premier étage et pourrait avoir été ouverte au XIXe siècle, comme aujourd’hui la maison Motais de Narbonne.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": -21.338556,
+   "lon": 55.478639,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Levesque"
+  },
+  {
+   "nom": "Gare de Saint-Pierre (La Réunion)",
+   "histoire": "Ancienne gare du terminus de l’unique ligne du chemin de fer de La Réunion, réaménagée en café dans la zone touristique du port.",
+   "anecdotes": [
+    {
+     "texte": "Autrefois terminus de l’unique ligne du chemin de fer de La Réunion, elle est inaugurée en 1881 et mise en service en 1882.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui réaménagée en café, elle se visite sous le nom de “Café de la Gare”.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Café de la Gare.",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": -21.34375,
+   "lon": 55.474306,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Pierre_%28La_R%C3%A9union%29"
+  },
+  {
+   "nom": "Ravine des Cabris (quartier)",
+   "histoire": "Quartier de l’île de La Réunion où le peuplement commence après 1718 et où un découpage du territoire trace des lignes entre lesquelles se développe un village.",
+   "anecdotes": [
+    {
+     "texte": "Les premiers colons appelèrent Mahavel la zone, “le pays des vivres” et “le pays d’abondance et de richesses” à cause de la présence abondante de gibier.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S23"
+     ]
+    },
+    {
+     "texte": "En 1731, l’arpenteur Durongouët trace, entre la Ligne paradis (100 m d’altitude) et la Ligne des bambous (200 m), des lignes à l’intérieur desquelles se développe un village qui deviendra la Ravine des Cabris.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": -21.2787652,
+   "lon": 55.4687475,
+   "url": "https://fr.wikipedia.org/wiki/Ravine_des_Cabris_%28quartier%29"
+  },
+  {
+   "nom": "Mosquée de Saint-Pierre",
+   "histoire": "Mosquée de Saint-Pierre, achetée en 1905, inaugurée en 1913, puis remplacée par une nouvelle mosquée construite entre 1972 et 1975.",
+   "anecdotes": [
+    {
+     "texte": "Le 26 septembre 1905, la communauté musulmane achète un terrain rue des Bons Enfants pour construire une mosquée, inaugurée en 1913.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "Une nouvelle mosquée est construite entre 1972 et 1975 par l’architecte Vladimir Fritzel à l’emplacement de la précédente.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": -21.339778,
+   "lon": 55.475028,
+   "url": "https://fr.wikipedia.org/wiki/Mosqu%C3%A9e_de_Saint-Pierre"
+  },
+  {
+   "nom": "Propriété Mon Repos",
+   "histoire": "Propriété de l’île de La Réunion, dont l’inscription et ses périmètres ont été ajustés par une inscription annulant une inscription précédente.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": -21.312194,
+   "lon": 55.459917,
+   "url": "https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9_Mon_Repos"
+  }
+ ],
+ "sources": [
+  "Saint-Pierre est une commune française, située dans le département et région de La Réunion dont elle est une sous-préfecture. Elle fait partie depuis 2016 des 60 communes les plus peuplées de France : à cette date, sa population était de 84 169 habitants d'après le recensement de l’Insee, ce qui en fait la troisième commune la plus peuplée de la Réunion après Saint-Denis et Saint-Paul. Dotée d'un centre-ville […]",
+  "1854 : début des travaux de construction du port. 19 juin 1882 : livraison d'une ligne de chemin de fer liant la commune à Saint-Louis. La même année : livraison du port après presque 30 ans de travaux. 1965 : la ville devient sous-préfecture.",
+  "Lieu « Temple Guan di » : Le temple Guan di est un des quatre temples chinois qui se situent sur l'île de La Réunion, à Saint-Pierre, dans le sud de l'île.",
+  "Lieu « Temple Guan di », 1840 : En 1840, après la Première guerre de l'opium, la Chine avait signé, sous la contrainte des grandes puissances étrangères, des traités inégaux, laissant la porte de la Nation grande ouverte.",
+  "Lieu « Temple Guan di », 1920 : Érigée en 1920, cette pagode est dédiée à Guan Di (Guandi), dieu asiatique du commerce, de la littérature et de la guerre.",
+  "Lieu « Temple Guan di », 2017 : Il ne doit pas être confondu avec le plus récent centre culturel Guan Di construit en 2017 et situé dans les hauteurs de Terre-Sainte, à Saint-Pierre.",
+  "Lieu « Temple Guan di », aujourd'hui : Bien que lisant les mêmes caractères et pratiquement la même langue, ces deux groupes parlaient et parlent encore aujourd'hui des dialectes différents.",
+  "Lieu « Maison Orré » : La maison Orré est une case créole située à Saint-Pierre, sur l'île de La Réunion, département et région d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Maison Orré », 1825 : La maison est bâtie par Hippolyte le Bidan entre 1825 et 1856, sur une portion de terrain issue du découpage de son terrain en 1825.",
+  "Lieu « Maison Orré », 2006 : Un bail emphytéotique liant la commune aux TAAF est signé, et les travaux sont réalisés en 2006-2007, avec le souci de respecter ces lieux et de leur redonner leur aspect initial et traditionnel (l'eau chaude est solaire et il n'y a pas de climatisation).",
+  "Lieu « Maison Orré », aujourd'hui : Elle est actuellement la résidence officielle de l'administrateur supérieur des Terres australes et antarctiques françaises (TAAF).",
+  "Lieu « La Saga du Rhum » : La Saga du Rhum est un musée de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « La Saga du Rhum », 2008 : La Saga du Rhum est installée sur le site de Frédeline depuis 2008, au cœur de la distillerie Isautier, la plus ancienne de l'île de La Réunion, toujours en activité.",
+  "Lieu « La Saga du Rhum », 2008 : 05 décembre 2008 : la Saga du Rhum est officiellement inaugurée en présence du Préfet de la Réunion, Pierre-Henry MACCIONI.",
+  "Lieu « La Saga du Rhum », aujourd'hui : La visite débute par l'ancienne aire de livraison des cannes constituant aujourd'hui le parvis du musée.",
+  "Lieu « Maison Levesque » : La maison Levesque (dit aussi Villa Myriam) est une maison remarquable de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Maison Levesque », XIXe siècle : La galerie qui la surmonte au premier étage, aujourd’hui fermée par des fenêtres et des jalousies, a probablement été ouverte au XIXe siècle, comme aujourd’hui la maison Motais de Narbonne.",
+  "Lieu « Maison Levesque », aujourd'hui : Le mur d’enceinte sur la rue Marius et Ary Leblond, surmonté d’un grille en fer forgé a fait l’objet de restauration importante au milieu du XXe siècle qui ont conduit à la suppression des enduits à la chaux et au remplacement des grilles en bois par du métal.",
+  "Lieu « Gare de Saint-Pierre (La Réunion) » : La gare de Saint-Pierre est une ancienne gare ferroviaire de l'île de La Réunion, département et région d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Gare de Saint-Pierre (La Réunion) », 1881 : Située boulevard Hubert-Delisle, à Saint-Pierre, ville du sud de l'île, elle constituait autrefois le terminus de l'unique ligne du chemin de fer de La Réunion, inaugurée en 1881 et mise en service en 1882.",
+  "Lieu « Gare de Saint-Pierre (La Réunion) », aujourd'hui : Aujourd'hui réaménagée en café, le Café de la Gare, la gare est située dans la zone touristique du port de Saint-Pierre.",
+  "Lieu « Ravine des Cabris (quartier) » : Ravine des Cabris est un lieu-dit de l'île de La Réunion, département et région d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Ravine des Cabris (quartier) », 1718 : Le peuplement de cette aire géographique commence après 1718, les premiers colons installés à la Ravine des Cabris l’ont tout d'abord appelé Mahavel (de Mahavelona en malgache) « le pays des vivres » ou le « pays d’abondance et de richesses » tant la présence de gibier était abondante.",
+  "Lieu « Ravine des Cabris (quartier) », aujourd'hui : En 1731, l'arpenteur Durongouët, chargé par le gouverneur de l'époque, Pierre-Benoît Dumas, de procéder au découpage du territoire, trace au sud de la Rivière Saint-Étienne des lignes parallèles à la côte, dont la Ligne paradis (100 m d'altitude) et la Ligne des bambous (200 m), entre lesquelles se développe un village qui deviendra la Ravine des Cabris.",
+  "Lieu « Mosquée de Saint-Pierre » : La mosquée de Saint-Pierre – ou Attyab oul Massâdjid (la plus pure des mosquées) – est une mosquée française de l'île de La Réunion, département et région d'outre-mer dans le sud-ouest de l'océan Indien.",
+  "Lieu « Mosquée de Saint-Pierre », 1905 : Le 26 Septembre 1905, la communauté musulmanne de Saint-Pierre achète un terrain rue des Bons Enfants pour construire une mosquée, celle-ci est inaugurée en 1913.",
+  "Lieu « Mosquée de Saint-Pierre », 1972 : Une nouvelle mosquée est construite entre 1972 et 1975 par l'architecte Vladimir Fritzel à l'emplacement de la précédente mosquée.",
+  "Lieu « Propriété Mon Repos » : La propriété Mon Repos est une propriété de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Propriété Mon Repos », 2002 : Cette inscription, qui comprend l'ensemble des bâtiments et le terrain d’assiette annule la précédente, arrêtée le 16 avril 2002, et qui ne concernait que la cheminée en totalité et le terrain d'assiette."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 15
+ }
+}
