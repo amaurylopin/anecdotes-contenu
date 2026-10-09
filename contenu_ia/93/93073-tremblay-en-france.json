@@ -1,0 +1,220 @@
+{
+ "commune": {
+  "titre": "Tremblay-en-France",
+  "code_insee": "93073",
+  "departement": "93",
+  "population": 38348,
+  "lat": 48.95,
+  "lon": 2.572222,
+  "url": "https://fr.wikipedia.org/wiki/Tremblay-en-France"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:41:51",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1991,
+  "sortie": 1686
+ },
+ "cout_usd": 0.002506,
+ "accroche": "Le 1er décembre 1979, le « Circuit Carole » est inauguré à Tremblay-en-France, en mémoire de Carole Le Fol (décédée le 23 septembre 1977).",
+ "histoire": {
+  "recit": "À Tremblay-en-France, l’occupation humaine remonte dès le paléolithique, puis au néolithique, attestée par des objets trouvés et par le creusement du canal de l’Ourcq. Le village actuel s’organise autour de la source du Sausset, petite rivière de la plaine de France, et son nom vient du latin Tremuletum, le bois de trembles.\n\nAu fil des bouleversements, les habitants affrontent la guerre franco-prussienne : en 1870 et 1871, ils se réfugient à Paris et les récoltes sont pillées. Le paysage change aussi avec l’aéroport de Paris-Charles-de-Gaulle, inauguré en 1974 à l’extrême nord de la commune.\n\nPlus près du quotidien, la vie religieuse se construit : à l’église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France, une première chapelle en bois est bâtie pour les ouvriers du quartier des Cottages, puis l’église actuelle est consacrée en 1968.\n\nLa commune accueille aussi des lieux de rassemblement : la mosquée de Tremblay-en-France, dont le nouvel édifice est inauguré en 2011, devient un symbole visible, tandis que le sport et le spectacle se tournent vers le Circuit Carole et l’Arena Grand Paris.",
+  "chronologie": [
+   {
+    "date": "dès le paléolithique",
+    "texte": "Occupation humaine dès le paléolithique, puis pendant le néolithique, attestée par des objets trouvés et par le creusement du canal de l’Ourcq.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1870-1871",
+    "texte": "Lors de la guerre franco-prussienne, les habitants se réfugient à Paris et les récoltes sont pillées.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1974",
+    "texte": "Inauguration de l’aéroport de Paris-Charles-de-Gaulle, qui s’étend à l’extrême nord de la commune.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1920 (quartier des Cottages)",
+    "texte": "Pour répondre aux besoins spirituels, une première chapelle en bois est construite, puis Notre-Dame des Victoires est consacrée en 1938.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1951",
+    "texte": "Le père Hubert Ten Haaf édifie la Chapelle Notre-Dame Médiatrice, rue Cuvier, face à la croissance des fidèles.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "L’église actuelle est consacrée en 1968.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1er décembre 1979",
+    "texte": "Inauguration du Circuit Carole sous ce nom.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "Démolition de l’ancien bâtiment de la mosquée ; le chantier débute officiellement en juin 2005.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "28 mars 2011",
+    "texte": "Inauguration officielle de la mosquée de Tremblay-en-France.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "septembre 2024",
+    "texte": "Inauguration de l’Arena Grand Paris.",
+    "sources": [
+     "S20"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France",
+   "histoire": "Église catholique située rue Claude-Debussy. Dans les années 1920, une chapelle en bois est construite pour la population ouvrière du quartier des Cottages, puis une autre chapelle, Notre-Dame des Victoires, est consacrée en 1938. En 1951, le père Hubert Ten Haaf édifie la Chapelle Notre-Dame Médiatrice, et l’église actuelle est consacrée en 1968.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.95888,
+   "lon": 2.57411,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-du-Tr%C3%A8s-Saint-Sacrement_de_Tremblay-en-France"
+  },
+  {
+   "nom": "Mosquée de Tremblay-en-France",
+   "histoire": "Édifice religieux musulman à Tremblay-en-France. L’ancien bâtiment est démoli, puis la construction débute officiellement en juin 2005 ; la mosquée est inaugurée le 28 mars 2011.",
+   "anecdotes": [
+    {
+     "texte": "L’édifice est présenté comme un symbole visible de la place de l’islam et comme la traduction d’une pratique devenue plus libre et « digne », après ce qu’il était courant d’appeler « l’islam des caves ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.951688,
+   "lon": 2.564492,
+   "url": "https://fr.wikipedia.org/wiki/Mosqu%C3%A9e_de_Tremblay-en-France"
+  },
+  {
+   "nom": "Circuit Carole",
+   "histoire": "Circuit routier de vitesse et d’entraînement ouvert aux motos et au karting. Il est inauguré le 1er décembre 1979 sous le nom de « Circuit Carole », en mémoire de Carole Le Fol. Un bail lie l’Agence foncière et technique de la région parisienne (aujourd’hui Grand Paris Aménagement) et le Conseil général de la Seine-Saint-Denis, chargé par l’État de la gestion du circuit.",
+   "anecdotes": [
+    {
+     "texte": "Carole Le Fol, jeune fille de 18 ans, meurt accidentellement le 23 septembre 1977, alors qu’elle était passagère d’une moto lors de runs sauvages de Rungis ; le circuit porte son nom à l’inauguration.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 48.9796,
+   "lon": 2.5218,
+   "url": "https://fr.wikipedia.org/wiki/Circuit_Carole"
+  },
+  {
+   "nom": "Église Saint-Médard de Tremblay-en-France",
+   "histoire": "Église catholique à Tremblay-en-France. Un édifice de ce nom est mentionné en 1163 et l’édifice est classé au titre des monuments historiques en 1939.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.9796,
+   "lon": 2.55803,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-M%C3%A9dard_de_Tremblay-en-France"
+  },
+  {
+   "nom": "Arena Grand Paris",
+   "histoire": "Salle de spectacle et omnisports à Tremblay-en-France, inaugurée en septembre 2024.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 48.976388888889,
+   "lon": 2.5305555555556,
+   "url": "https://fr.wikipedia.org/wiki/Arena_Grand_Paris"
+  }
+ ],
+ "sources": [
+  "Tremblay-en-France est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France.",
+  "Le territoire de la commune a connu une occupation humaine dès le paléolithique puis durant le néolithique comme l'attestent de nombreux objets trouvés par des cultivateurs ou durant le creusement du canal de l'Ourcq. Le village actuel s'établit autour de la source du Sausset, petite rivière de la plaine de France. La ville tire son nom du latin Tremuletum, le bois de trembles ou peupliers blancs. La France évoquée […]",
+  "1870 : En 1870 et 1871, lors de la guerre franco-prussienne, les habitants du village se réfugient à Paris, les récoltes sont pillées.",
+  "1974 : En 1974 est inauguré l'aéroport de Paris-Charles-de-Gaulle, qui s'étend à l'extrême nord de la commune.",
+  "Lieu « Église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France » : L'église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France est une église catholique située rue Claude-Debussy, à Tremblay-en-France, dans le département français de Seine-Saint-Denis.",
+  "Lieu « Église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France », 1920 : Pour surseoir aux besoins spirituels de la population ouvrière installée dans le quartier des Cottages pendant les années 1920, une première chapelle en bois fut tout d'abord construite, puis une autre, nommée Notre-Dame des Victoires, qui fut consacrée en 1938 par Mgr Roland Gosselin.",
+  "Lieu « Église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France », 1951 : Devant la croissance du nombre des fidèles, le père Hubert Ten Haaf, nouveau curé de la paroisse, édifia en 1951 la Chapelle Notre-Dame Médiatrice, rue Cuvier.",
+  "Lieu « Église Notre-Dame-du-Très-Saint-Sacrement de Tremblay-en-France », 1968 : Puis, dix ans plus tard, il fit appel à ses paroissiens pour construire eux-mêmes un édifice plus vaste encore, l'église actuelle, consacrée en 1968 par Mgr Jacques Le Cordier.",
+  "Lieu « Mosquée de Tremblay-en-France » : La mosquée de Tremblay-en-France est un édifice religieux musulman situé à Tremblay-en-France, en France.",
+  "Lieu « Mosquée de Tremblay-en-France », 2005 : Le 23 avril 2005, l’ancien bâtiment est démoli, puis, en juin 2005, la construction de la mosquée débute officiellement.",
+  "Lieu « Mosquée de Tremblay-en-France », 2011 : La mosquée de Tremblay-en-France est officiellement inaugurée le 28 mars 2011.",
+  "Lieu « Mosquée de Tremblay-en-France », aujourd'hui : Dans une commune d’environ 35 000 habitants, l’édifice devient le symbole visible de la place de l’islam à Tremblay-en-France et illustre la sortie progressive de ce que l’on a longtemps appelé « l’islam des caves », permettant aux musulmans de pratiquer leur culte librement et dans des conditions dignes.",
+  "Lieu « Circuit Carole » : Le circuit Carole est un circuit routier de vitesse et d'entraînement, ouvert aux motos et au karting.",
+  "Lieu « Circuit Carole », 1979 : Le circuit est inauguré le 1er décembre 1979 sous le nom de « Circuit Carole », en mémoire de Carole Le Fol, une jeune fille de 18 ans morte accidentellement le 23 septembre 1977 alors que passagère d'une moto, elle rejoignait un des derniers runs sauvages de Rungis, elle était la 17e victime.",
+  "Lieu « Circuit Carole », aujourd'hui : Un bail est conclu en 1983 entre l'Agence foncière et technique de la région parisienne (AFTRP), aujourd'hui Grand Paris Aménagement, propriétaire du terrain, et le Conseil général de la Seine-Saint-Denis, chargé par l’État de la gestion du circuit.",
+  "Lieu « Église Saint-Médard de Tremblay-en-France » : L'église Saint-Médard est une église catholique située à Tremblay-en-France, en France.",
+  "Lieu « Église Saint-Médard de Tremblay-en-France », 1163 : Un édifice de ce nom est mentionné en 1163.",
+  "Lieu « Église Saint-Médard de Tremblay-en-France », 1939 : L'édifice est classé au titre des monuments historiques en 1939.",
+  "Lieu « Arena Grand Paris » : L'Arena Grand Paris est une salle de spectacle et omnisports située à Tremblay-en-France (Seine-Saint-Denis) inaugurée en septembre 2024.",
+  "Lieu « Arena Grand Paris », 2024 : L'Arena Grand Paris est une salle de spectacle et omnisports située à Tremblay-en-France (Seine-Saint-Denis) inaugurée en septembre 2024."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}

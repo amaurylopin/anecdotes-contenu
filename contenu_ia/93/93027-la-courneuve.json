@@ -1,0 +1,286 @@
+{
+ "commune": {
+  "titre": "La Courneuve",
+  "code_insee": "93027",
+  "departement": "93",
+  "population": 47167,
+  "lat": 48.93222222,
+  "lon": 2.39666667,
+  "url": "https://fr.wikipedia.org/wiki/La_Courneuve"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:34:43",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3320,
+  "sortie": 1988
+ },
+ "cout_usd": 0.003149,
+ "accroche": "Le 15 mars 1918, quinze millions de grenades entreposées dans le dépôt militaire de la route de Flandres explosent à La Courneuve, faisant 24 morts.",
+ "histoire": {
+  "recit": "À La Courneuve, le village s’est formé autour de trois foyers de peuplement. Le premier s’agrège au haut Moyen Âge autour de l’église Saint-Lucien, située vers l’actuel carrefour des Six-Routes, et la chapelle dédiée à saint Lucien vient aussi marquer le lieu près de la fontaine dite miraculeuse.\n\nAu XXe siècle, la commune traverse une catastrophe majeure : en 1918, l’explosion d’un dépôt militaire de la route de Flandres cause des morts et de nombreux blessés. La même année suivante, le président Raymond Poincaré décore ensuite la commune de la Croix de guerre.\n\nPlus tard, l’aménagement transforme le paysage : en 1935, des bâtiments sont démolis et l’emplacement devient un square.\n\nAujourd’hui, plusieurs lieux portent ces histoires : le parc Georges-Valbon, bombardé en 1943 puis déminé dans les années 2010, et la Cité des 4000, dont certaines barres ont été vidées puis démolies, pendant que l’hôtel de ville et le secteur des Six-Routes continuent d’écrire le quotidien de la commune.",
+  "chronologie": [
+   {
+    "date": "haut Moyen Âge",
+    "texte": "Le peuplement s’agrège autour de l’église Saint-Lucien, près du carrefour des Six-Routes, tandis qu’une chapelle dédiée à saint Lucien vient aussi marquer le site avec la fontaine dite miraculeuse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "15 mars 1918",
+    "texte": "Quinze millions de grenades, entreposées dans le dépôt militaire de la route de Flandres, explosent, faisant 24 morts et de nombreux blessés.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1923",
+    "texte": "Le président Raymond Poincaré décore la commune de la Croix de guerre 1914-1918 et la cite à l’ordre de l’armée à la suite de la catastrophe du 15 mars 1918.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "L’entreprise est achetée par la ville, les bâtiments sont démolis et l’emplacement transformé en square.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Parc Georges-Valbon",
+   "histoire": "Le parc départemental Georges-Valbon, communément appelé parc de La Courneuve, s’étend sur 417 hectares. Le site a subi des bombardements pendant la Seconde Guerre mondiale et a ensuite fait l’objet de travaux de déminage.",
+   "anecdotes": [
+    {
+     "texte": "Bombardé par les Alliés en août 1943, le site a été déminé dans les années 2010.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Faucon crécerelle, épervier d’Europe et alouette des champs sont visibles en milieu ouvert.",
+   "sources": [
+    "S9"
+   ],
+   "lat": 48.942573,
+   "lon": 2.398968,
+   "url": "https://fr.wikipedia.org/wiki/Parc_Georges-Valbon"
+  },
+  {
+   "nom": "Cité des 4000",
+   "histoire": "La Cité des 4000, à l’origine appelée Cité des Quatre Mille logements, est un quartier de La Courneuve, emblématique des grands ensembles construits en France au cours des années 1960.",
+   "anecdotes": [
+    {
+     "texte": "Devant être détruite en 2010, la barre Balzac est vidée de ses habitants dans un climat de tension lié aux expulsions de familles mal logées qui y squattaient afin de se loger décemment.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La dernière grande barre encore présente est la « Barre Fontenay », dont la destruction est envisagée à la fin des années 2020.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 48.926,
+   "lon": 2.38,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_des_4000"
+  },
+  {
+   "nom": "Hôtel de ville de La Courneuve",
+   "histoire": "L’hôtel de ville est le principal bâtiment administratif de La Courneuve. Ses travaux suivent des étapes marquées : un achat en 1837, puis des travaux qui s’étirent jusqu’à un achèvement plus tardif.",
+   "anecdotes": [
+    {
+     "texte": "En 1909, un campanile culmine à 30 mètres ; en 2022, d’importants travaux de réfection sont réalisés, incluant une reprise de la charpente en chêne.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.926647,
+   "lon": 2.38954,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_La_Courneuve"
+  },
+  {
+   "nom": "La Courneuve - Six Routes (métro de Paris)",
+   "histoire": "Le carrefour des Six-Routes porte un nouvel équipement de transport, en plus de son héritage religieux. Une station tramway existe déjà, tandis qu’une future station de métro est prévue à l’emplacement d’un ancien restaurant.",
+   "anecdotes": [
+    {
+     "texte": "L’église Saint-Lucien, détruite par les huguenots, est reconstruite en 1580 et comprend un édifice à trois nefs ; une crypte conserve des sarcophages mérovingiens.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La future station métro est annoncée à l’emplacement de l’ancien restaurant Quick, à l’angle de la rue de Saint-Denis et de l’avenue du Général-Leclerc.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 48.929289054322,
+   "lon": 2.3844968057135,
+   "url": "https://fr.wikipedia.org/wiki/La_Courneuve_-_Six_Routes_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Gare de Dugny - La Courneuve",
+   "histoire": "La gare de Dugny - La Courneuve - Parc Georges Valbon appartient au réseau ferroviaire reliant Sartrouville à Noisy-le-Sec (tangentielle légère nord), ouverte au même moment que le premier tronçon de la ligne 11 du tramway d’Île-de-France.",
+   "anecdotes": [
+    {
+     "texte": "Longtemps réservée au fret, la gare est aujourd’hui détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.9437,
+   "lon": 2.411114,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Dugny_-_La_Courneuve"
+  },
+  {
+   "nom": "Barre Balzac",
+   "histoire": "La barre Balzac fait partie de la Cité des 4000. Construite au début des années 1960, elle est ensuite démolie après des expulsions et une opération de démolition progressive.",
+   "anecdotes": [
+    {
+     "texte": "Le 8 juillet 2010, alors que la barre est dans l’attente de sa démolition, 120 squatteurs occupant 41 logements sont expulsés.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.925,
+   "lon": 2.38,
+   "url": "https://fr.wikipedia.org/wiki/Barre_Balzac"
+  },
+  {
+   "nom": "Croix de Milly",
+   "histoire": "La Croix de Milly est une croix de carrefour située rue de la Convention. Elle a été édifiée au XVIIIe siècle et a ensuite été restaurée avant d’être de nouveau renversée, puis relevée et bénie.",
+   "anecdotes": [
+    {
+     "texte": "Renversée dans la nuit du 26 au 27 mai 1906, la croix est ensuite relevée et bénie le 3 décembre 1944.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Appelée aussi Croix Blanche, elle a laissé son nom au passage de la Croix-Blanche et au carrefour de la Croix-Blanche, qui a disparu.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 48.9285,
+   "lon": 2.38958,
+   "url": "https://fr.wikipedia.org/wiki/Croix_de_Milly"
+  },
+  {
+   "nom": "Piscine Annette-Kellermann",
+   "histoire": "Le centre aquatique départemental Annette-Kellermann, propriété du Département de la Seine-Saint-Denis, occupe une place majeure dans le secteur des sports. Son équipement s’inscrit dans la continuité d’un bassin plus ancien.",
+   "anecdotes": [
+    {
+     "texte": "Le centre aquatique avait été initialement pensé pour accueillir des compétitions, mais l’intention a été abandonnée après le constat que la ligne 16 du métro ne pourrait être livrée pour 2024.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.937953,
+   "lon": 2.387419,
+   "url": "https://fr.wikipedia.org/wiki/Piscine_Annette-Kellermann"
+  }
+ ],
+ "sources": [
+  "La Courneuve est une commune française, située dans le département de la Seine-Saint-Denis en région Île-de-France. Ses habitants sont appelés les Courneuviens et Courneuviennes.",
+  "Au Moyen Âge, le village s'est constitué autour de trois foyers de peuplement. Tout d'abord le peuplement s'agrégea au haut Moyen Âge autour de l'église Saint-Lucien, située vers l'actuel carrefour des Six-Routes et qui donna son nom primitif au village. La chapelle dédiée à saint Lucien vient contremarquer au haut Moyen Âge la fontaine miraculeuse Saint-Lucien. La chapelle est peut-être placée là, avant que ne soit […]",
+  "1923 : En 1923, le président Raymond Poincaré décore la commune de la Croix de guerre 1914-1918 et la cite à l'ordre de l'armée à la suite de la catastrophe du 15 mars 1918 : quinze millions de grenades, entreposées dans le dépôt militaire de la route de Flandres, explosent, faisant 24 morts et de nombreux blessés.",
+  "1935 : L’entreprise sera achetée en 1935 par la ville, les bâtiments démolis et l’emplacement transformé en square.",
+  "Lieu « Parc Georges-Valbon » : Le parc départemental Georges-Valbon, communément appelé parc de La Courneuve, est le troisième plus grand parc de la région parisienne, avec une superficie de 417 hectares, après le bois de Vincennes (995 ha) et le bois de Boulogne (846 ha), hors de",
+  "Lieu « Parc Georges-Valbon », 1943 : Bombardé par les Alliés en août 1943, le site est déminé dans les années 2010.",
+  "Lieu « Parc Georges-Valbon », 1985 : D'autres concerts ont lieu, notamment ceux de Bruce Springsteen les 29 et 30 juin 1985 devant 60 000 personnes, quelques semaines après la sortie de son album Born in the U.S.A., initialement prévu au stade Yves-du-Manoir à Colombes mais déplacé pour des raisons de sécurité.",
+  "Lieu « Parc Georges-Valbon », 2022 : En surplomb du lac, près de cette dernière est installé en novembre 2022 la sculpture Le Vigilant de l'artiste Rachid Koraïchi.",
+  "Lieu « Parc Georges-Valbon », aujourd'hui : Faucon crécerelle, épervier d'Europe, alouette des champs sont eux visibles en milieu ouvert.",
+  "Lieu « Cité des 4000 » : La Cité des 4000, à l'origine dénommée Cité des Quatre Mille logements, est un quartier de la ville de La Courneuve en Seine-Saint-Denis, à l'origine dans l'ancien département de la Seine.",
+  "Lieu « Cité des 4000 », 1960 : La Cité des 4000 est emblématique des grands ensembles édifiés en France dans les années 1960, et plus particulièrement de ceux bâtis en région parisienne.",
+  "Lieu « Cité des 4000 », 2010 : Devant être détruite en 2010, la barre Balzac est vidée de ses habitants dans un climat de tension provoqué par les expulsions de familles mal logées qui squattaient la barre d'immeuble afin de se loger décemment.",
+  "Lieu « Cité des 4000 », 2012 : En mai 2012, la mairie de La Courneuve décida de démolir la barre Petit Debussy.",
+  "Lieu « Cité des 4000 », aujourd'hui : Aujourd'hui la dernière grande barre d'immeuble composant la cité des 4000 demeurant est la \"Barre Fontenay\" dont la destruction est envisagée à la fin des années 2020.",
+  "Lieu « Hôtel de ville de La Courneuve » : L'hôtel de ville de La Courneuve est le principal bâtiment administratif de La Courneuve, commune française du département de la Seine-Saint-Denis en région Île-de-France.",
+  "Lieu « Hôtel de ville de La Courneuve », 1837 : À la Révolution, elle fut établie dans un autre bâtiment, tout d'abord loué puis acheté en 1837 auprès du sieur Toffier, pour la somme de 8 000 francs.",
+  "Lieu « Hôtel de ville de La Courneuve », 1908 : Les travaux principaux sont stoppés en 1908 et ne sont vraiment achevés qu'en 1921.",
+  "Lieu « Hôtel de ville de La Courneuve », 1909 : Culminant à 30 mètres et construit en 1909, le campanile fait l'objet d'importants travaux de réfection en 2022 pour 670 000 euros incluant une reprise de la charpente en chêne.",
+  "Lieu « Hôtel de ville de La Courneuve », aujourd'hui : La commune disposait en 1783 d'une maison destinée aux assemblées communales, mais son emplacement est inconnu.",
+  "Lieu « La Courneuve - Six Routes (métro de Paris) » : La Courneuve - Six Routes est une future station de métro et une station du tramway de la ligne 1 du tramway d'Île-de-France (ligne T1) située sur le territoire de la commune de La Courneuve.",
+  "Lieu « La Courneuve - Six Routes (métro de Paris) », 1580 : L’église Saint-Lucien du XIIe siècle ayant été détruite par les huguenots, elle a été reconstruite en 1580 et se constitue d’un édifice à trois nefs ; une crypte conserve des sarcophages mérovingiens.",
+  "Lieu « La Courneuve - Six Routes (métro de Paris) », 1992 : Inaugurée le 21 décembre 1992, la station de tramway se compose de deux quais situés face à face, légèrement à l'ouest du carrefour des Six-Routes.",
+  "Lieu « La Courneuve - Six Routes (métro de Paris) », 2016 : Les travaux préparatoires (déviation des réseaux) ont débuté en septembre 2016 et se sont achevés en juin 2018.",
+  "Lieu « La Courneuve - Six Routes (métro de Paris) », aujourd'hui : Elle sera implantée à l’emplacement de l’ancien restaurant Quick, à l’angle de la rue de Saint-Denis et de l’avenue du Général-Leclerc.",
+  "Lieu « Gare de Dugny - La Courneuve » : La gare de Dugny - La Courneuve - Parc Georges Valbon est une gare ferroviaire française de la ligne de Sartrouville à Noisy-le-Sec (tangentielle légère nord), ouverte en même temps que le premier tronçon de la ligne 11 du tramway d'Île-de-France, le",
+  "Lieu « Gare de Dugny - La Courneuve », 1903 : Un bâtiment voyageurs nommé La Courneuve-Dugny, identique à celui de Stains-Grande-Ceinture, est construit en 1903.",
+  "Lieu « Gare de Dugny - La Courneuve », 2017 : La gare de Dugny - La Courneuve - Parc Georges Valbon est une gare ferroviaire française de la ligne de Sartrouville à Noisy-le-Sec (tangentielle légère nord), ouverte en même temps que le premier tronçon de la ligne 11 du tramway d'Île-de-France, le 1er juillet 2017.",
+  "Lieu « Gare de Dugny - La Courneuve », aujourd'hui : Longtemps réservée au fret, elle est aujourd'hui détruite.",
+  "Lieu « Barre Balzac » : La barre Balzac est une barre d'habitation située à La Courneuve dans la cité des 4000 en Seine-Saint-Denis.",
+  "Lieu « Barre Balzac », 1963 : Elle est construite entre 1963 et 1964 sur les plans des architectes Clément Tambuté et Henry-Charles Delacroix et démolie en 2011.",
+  "Lieu « Barre Balzac », 2010 : Le 8 juillet 2010, alors que la barre est dans l'attente de sa démolition, 120 squatteurs qui occupaient 41 logements sont expulsés.",
+  "Lieu « Barre Balzac », 2011 : Le bâtiment est démoli par grignotage durant l'été 2011, entre le 20 juillet et début septembre, par l'entreprise Genier-Deforge.",
+  "Lieu « Croix de Milly » : La Croix de Milly est une croix de carrefour située rue de la Convention à La Courneuve en Seine-Saint-Denis.",
+  "Lieu « Croix de Milly », 1772 : Elle a été édifiée en 1772 par Pierre-Antoine de Milly, procureur au Châtelet de Paris, au carrefour du chemin de Saint-Denis et de la voie allant de Saint-Lucien à l'ancienne Prévôté, en action de grâces du rétablissement de la santé de sa mère.",
+  "Lieu « Croix de Milly », 1906 : Cette croix érigé en MDCCLXXII par Messire de Milly procureur au Châtelet de Paris Entièrement restaurée En MDCCCLXVII par Mr et Mme Pallud Propriét. à La Courneuve Elle fut à nouveau renversée dans la nuit du 26 au 27 mai 1906, puis relevée et bénie le 3 décembre 1944.",
+  "Lieu « Croix de Milly », aujourd'hui : Appelée aussi Croix Blanche, elle a laissé son nom au passage de la Croix-Blanche, tout à côté, et au carrefour de la Croix-Blanche, qui a disparu.",
+  "Lieu « Piscine Annette-Kellermann » : La piscine Annette-Kellermann, dit aussi centre aquatique départemental Annette-Kellermann (CADAK), est un complexe aquatique situé à La Courneuve (Seine-Saint-Denis), propriété du Département de la Seine-Saint-Denis et inclus dans le parc des sports",
+  "Lieu « Piscine Annette-Kellermann », 2024 : En avril 2024, le complexe aquatique vient prendre le relais d'un autre équipement ouvert en 1975, déjà dans le parc des sports de Marville, qui comprenait un bassin intérieur de 25 mètres, un bassin extérieur de 50 mètres et une fosse à plongeon de 4,8 mètres.",
+  "Lieu « Piscine Annette-Kellermann », 2024 : Piscine d'entraînement des épreuves olympiques de water-polo, le centre aquatique avait été initialement pensé pour accueillir les compétitions, mais cette intention est abandonnée une fois qu'il a été constaté que la ligne 16 du métro ne pourrait être livrée pour 2024.",
+  "Lieu « Piscine Annette-Kellermann », 2026 : Elle est accessible notamment par les bus 150 et 250 en attendant à horizon 2026 l'ouverture de la station des Six-Routes de la ligne 16 du métro."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Seconde",
+   "XVIIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}

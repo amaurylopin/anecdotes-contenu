@@ -1,0 +1,436 @@
+{
+ "commune": {
+  "titre": "Bobigny",
+  "code_insee": "93008",
+  "departement": "93",
+  "population": 56927,
+  "lat": 48.9073,
+  "lon": 2.4432,
+  "url": "https://fr.wikipedia.org/wiki/Bobigny"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:29:21",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3622,
+  "sortie": 2993
+ },
+ "cout_usd": 0.004466,
+ "accroche": "À Bobigny, préfecture de la Seine-Saint-Denis, les Balbyniens comptent 56 927 habitants au dernier recensement de 2023.",
+ "histoire": {
+  "recit": "Sur le territoire de Bobigny, l’histoire commence bien avant les rues : au lieu-dit la Vache à l’Aise, un site archéologique a livré une statue gauloise du IVe siècle av. J.-C., présentée comme la première découverte de ce type en France. Le nom de la commune remonte ensuite au domaine d’un général gallo-romain, Balbinius, au IIe siècle.\n\nPlus tard, l’église change de visage : reconstruite et placée sous le vocable de Saint-André-Saint-Pierre en 1769, puis encore rebâtie en 1873 au même emplacement. Le temps des liaisons arrive aussi : entre 1845 et 1854, la ligne de chemin de fer Paris-Strasbourg traverse le sud du territoire, et en 1882 une halte de la ligne de la Grande Ceinture s’ouvre au quartier du Pont-de-Pierre.\n\nBobigny devient ensuite un lieu de production et d’institutions. En 1933, la haute tour des ateliers de fabrication du journal L’Illustration s’élève au milieu des champs. En 1935, l’hôpital franco-musulman Avicenne est inauguré, réservé aux défunts musulmans en 1937.\n\nEnfin, des ensembles marquent l’espace : la Bourse départementale du travail est réalisée à partir de 1973, et un nouvel hôtel de ville est construit en 1974 au sein du grand ensemble du Chemin Vert.",
+  "chronologie": [
+   {
+    "date": "IVe siècle av. J.-C.",
+    "texte": "Au lieu-dit la Vache à l’Aise, une statue gauloise est mise au jour, présentée comme la première découverte en France.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IIe siècle",
+    "texte": "Balbinius, général gallo-romain, possède un domaine sur ce qui devient Bobigny, à l’origine du nom de la commune.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1769",
+    "texte": "L’église est reconstruite et placée sous le vocable de Saint-André-Saint-Pierre.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1829",
+    "texte": "La tombe du défunt inhumé dans son église, déplacée, est encore visible en 1829.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1845 - 1854",
+    "texte": "La ligne de chemin de fer Paris-Strasbourg traverse le sud du territoire de Bobigny et enjambe le canal de l’Ourcq.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "L’église Saint-André-Saint-Pierre est reconstruite une nouvelle fois au même emplacement.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1875 - 1899",
+    "texte": "Une mairie est érigée en briques et pierre, dans un style de la IIIe République.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "La ligne complémentaire de la Grande Ceinture passe par Bobigny : une halte s’ouvre au quartier du Pont-de-Pierre.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1933",
+    "texte": "Une haute tour d’ateliers de fabrication du journal L’Illustration est installée au milieu des champs.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "22 mars 1935",
+    "texte": "L’hôpital franco-musulman Avicenne est inauguré.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "L’hôpital est inauguré et uniquement réservé aux défunts musulmans.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1973 - 1976",
+    "texte": "La Bourse départementale du travail est construite par Oscar Niemeyer.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1971",
+    "texte": "Le bâtiment réunissant la préfecture et l’hôtel du département est inauguré.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1974",
+    "texte": "Un nouvel hôtel de ville est construit sur des plans de Marius Depont et Michel Holley, dans le grand ensemble du Chemin Vert.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cimetière musulman de Bobigny",
+   "histoire": "Le cimetière musulman de Bobigny est présenté comme l’unique cimetière entièrement réservé aux défunts musulmans de France métropolitaine (avec celui de Strasbourg). Il est créé par décret présidentiel du 4 janvier 1934, comme une annexe de l’hôpital franco-musulman ouvert en 1935.",
+   "anecdotes": [
+    {
+     "texte": "Son statut musulman tient au fait d’être juridiquement une annexe de l’hôpital franco-musulman ouvert en 1935.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "Il est, avec celui de Strasbourg, présenté comme l’unique cimetière entièrement réservé aux défunts musulmans de France métropolitaine.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Le jardin industriel a remplacé une grande partie de l’espace : aujourd’hui, les cultures sont supplantées par une zone industrielle.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les cultures, sauf quelques jardins ouvriers, ont été remplacées par une zone industrielle.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 48.90056,
+   "lon": 2.43361,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_musulman_de_Bobigny"
+  },
+  {
+   "nom": "Hôpital Avicenne",
+   "histoire": "L’hôpital Avicenne est un hôpital situé rue de Stalingrad à Bobigny, dont le nom fait référence à Avicenne. Il s’inscrit dans l’histoire des soins liés aux événements de 1914 et à l’hôpital franco-musulman inauguré en 1935.",
+   "anecdotes": [
+    {
+     "texte": "Pour les blessés, dès la fin de l’année 1914, un hôpital de campagne est installé dans le jardin colonial de Nogent-sur-Marne, dans le bois de Vincennes.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Pour l’aumônerie militaire, une mosquée du bois de Vincennes est inaugurée le 14 avril 1916, présentée comme la toute première mosquée construite en France métropolitaine.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "La mosquée du bois de Vincennes est démolie en 1926, après l’inauguration de la Grande mosquée de Paris.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24"
+   ],
+   "lat": 48.914691,
+   "lon": 2.423923,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Avicenne"
+  },
+  {
+   "nom": "Église Saint-André de Bobigny",
+   "histoire": "L’église Saint-André est un édifice religieux catholique à Bobigny. En 1050, une communauté d’habitants y est déjà érigée en paroisse, sous l’invocation de saint André. Une seconde église est bâtie en 1557, puis l’édifice est à nouveau reconstruit : en 1769, sous le vocable de Saint-André-Saint-Pierre, et en 1873 au même emplacement.",
+   "anecdotes": [
+    {
+     "texte": "En 1050, la paroisse existante possède une église sous l’invocation de saint André et fait partie de l’archidiaconé de Paris et du doyenné de Montreuil.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "La seconde église, bâtie en 1557, est consacrée le 28 avril par Charles Boucher d’Orsay.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "En 1829, la tombe déplacée est encore visible dans l’église.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S3",
+    "S6"
+   ],
+   "lat": 48.905733,
+   "lon": 2.440739,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Andr%C3%A9_de_Bobigny"
+  },
+  {
+   "nom": "Avenue Jean-Jaurès (Bobigny)",
+   "histoire": "L’avenue Jean-Jaurès est présentée comme l’une des artères principales de Bobigny. Son tracé évoque un ancien moulin, transformé vers 1640, puis démoli vers 1970 lors de la rénovation de la ville. En 1918, une bombe explose avenue Jean-Jaurès.",
+   "anecdotes": [
+    {
+     "texte": "Le 30 janvier 1918, une bombe lancée d’un avion allemand explose avenue Jean-Jaurès.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    },
+    {
+     "texte": "L’avenue rappelle l’emplacement d’un ancien moulin, dit moulin de la Folie ou moulin de la Tour, transformé vers 1640 puis démoli vers 1970.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’extrémité nord de l’avenue se trouve au carrefour des Six-Routes, aujourd’hui appelé place de l’Escadrille-Normandie-Niémen.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 48.9062,
+   "lon": 2.439,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Jean-Jaur%C3%A8s_%28Bobigny%29"
+  },
+  {
+   "nom": "Boulevard Lénine",
+   "histoire": "Le boulevard Lénine est une voie importante à Bobigny. Un premier édifice chrétien est attesté à cet endroit en 1050, et l’ancien édifice de l’église est représenté à l’est de l’enceinte du château sur un plan daté de 1740. Plus récemment, la Maison de la Culture de Seine-Saint-Denis, MC93, et le parc des Jardins de Bobigny sont associés à ce secteur.",
+   "anecdotes": [
+    {
+     "texte": "En 1050, un premier édifice chrétien est attesté à cet endroit.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    },
+    {
+     "texte": "MC93 Bobigny et les Jardins de Bobigny sont liés à l’emplacement du château de Bobigny, détruit en 1970.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39"
+   ],
+   "lat": 48.906505,
+   "lon": 2.441933,
+   "url": "https://fr.wikipedia.org/wiki/Boulevard_L%C3%A9nine"
+  },
+  {
+   "nom": "Cité de l'Abreuvoir",
+   "histoire": "L’Abreuvoir est une vaste cité d’habitat social de 1 509 logements. Conçue par l’architecte Émile Aillaud, elle est édifiée par l’Office public HLM interdépartemental de la Région parisienne sur le territoire de Bobigny et Drancy, entre 1954 et 1958. En 2008, elle reçoit le label « Patrimoine du XXe siècle ».",
+   "anecdotes": [
+    {
+     "texte": "En 2008, l’édifice reçoit le label « Patrimoine du XXe siècle ».",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    },
+    {
+     "texte": "Les aménagements du Mail demeurent aujourd’hui réduits, comme une respiration au cœur de la cité.",
+     "statut": "etabli",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les aménagements du Mail demeurent réduits, préservant une respiration au cœur de la cité.",
+   "sources": [
+    "S43"
+   ],
+   "lat": 48.9122,
+   "lon": 2.4683,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_de_l%27Abreuvoir"
+  },
+  {
+   "nom": "Gare de Bobigny",
+   "histoire": "La gare de Bobigny est une gare ferroviaire située sur le territoire de Bobigny. Une nouvelle gare vaste est construite en 1929 par l’entrepreneur Morosini. Une ouverture a lieu en 1932, puis le trafic voyageurs s’arrête dès 1939, la gare restant ouverte au trafic fret. En 2005, la Ville acquiert le bâtiment des voyageurs pour un euro symbolique et fait inscrire l’ensemble du site sur la liste supplémentaire des monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "En 2005, la Ville acquiert le bâtiment des voyageurs pour un euro symbolique et obtient l’inscription de la totalité du site.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    },
+    {
+     "texte": "Le trafic des voyageurs cesse dès 1939, tandis que la gare reste ouverte au trafic fret.",
+     "statut": "etabli",
+     "sources": [
+      "S46"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S44",
+    "S47"
+   ],
+   "lat": 48.91048,
+   "lon": 2.430285,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bobigny"
+  },
+  {
+   "nom": "Le Wonder",
+   "histoire": "Le Wonder est un collectif d’artistes, lieu de production, d’exposition et d’expérimentation. Né sur le site en friche des anciennes usines de piles Wonder à Saint-Ouen, au cœur des Puces, le collectif est contraint de déménager fin 2016 et prend possession de la tour Liebert, puis il s’installe à Bobigny en avril 2023.",
+   "anecdotes": [
+    {
+     "texte": "Fin 2016, le collectif Wonder est contraint de déménager et prend possession de la tour Liebert, détruite en 2019.",
+     "statut": "etabli",
+     "sources": [
+      "S49"
+     ]
+    },
+    {
+     "texte": "Après des étapes à Saint-Ouen et à Bagnolet, le Wonder est installé à Bobigny depuis avril 2023.",
+     "statut": "etabli",
+     "sources": [
+      "S51"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le Wonder est installé à Bobigny depuis avril 2023.",
+   "sources": [
+    "S51"
+   ],
+   "lat": 48.900769556199,
+   "lon": 2.4515589191536,
+   "url": "https://fr.wikipedia.org/wiki/Le_Wonder"
+  }
+ ],
+ "sources": [
+  "Bobigny est une commune française située dans le département de la Seine-Saint-Denis, dont elle est la préfecture, en région Île-de-France. Ses habitants sont appelés les Balbyniens. Bobigny est la onzième commune de Seine-Saint-Denis par sa population : 56 927 habitants au dernier recensement en 2023.",
+  "La présence humaine en ce lieu dès l'époque gauloise est attestée par la découverte d'un site archéologique au lieu-dit la Vache à l'Aise. Les fouilles ont mis au jour une statue gauloise du IVe siècle av. J.-C., la première découverte en France. Au IIe siècle, un général gallo-romain Balbinius possédait un domaine sur ce qui est devenu aujourd'hui la commune de Bobigny. Il est à l'origine du nom de la commune. Au […]",
+  "1769 : Elle sera de nouveau reconstruite en 1769 et placée sous le vocable de Saint-André- Saint-Pierre.",
+  "1829 : Il fut inhumé dans son église ; sa tombe, déplacée, y était toujours visible en 1829.",
+  "1845 : Entre 1845 et 1854, la ligne de chemin de fer Paris-Strasbourg traverse le sud du territoire de Bobigny, où elle enjambe le canal de l'Ourcq, construit au début du siècle.",
+  "1873 : L’église Saint-André-Saint-Pierre est reconstruite à nouveau en 1873, au même emplacement.",
+  "1875 : Une mairie est érigée entre 1875 et 1899 en briques et pierre, dans un style IIIe République traditionnel.",
+  "1882 : La ligne dite « complémentaire » de la Grande Ceinture passe par Bobigny et une « halte » est ouverte dans l'actuel quartier du Pont-de-Pierre, au milieu des champs, en 1882.",
+  "1933 : En 1933, Bobigny devient célèbre pour la haute tour des ateliers de fabrication du journal L'Illustration, installés au milieu des champs cultivés.",
+  "1935 : Le Conseil général de la Seine est propriétaire et gestionnaire de l’hôpital franco-musulman Avicenne, inauguré le 22 mars 1935.",
+  "1937 : Celui-ci est inauguré en 1937, et uniquement réservé aux défunts musulmans.",
+  "1967 : Envisagée dès 1967, la Bourse départementale du travail de la Seine-Saint-Denis est construite par Oscar Niemeyer entre 1973 et 1976.",
+  "1971 : Le bâtiment réunissant la préfecture et l’hôtel du département est inauguré en 1971.",
+  "1974 : Un nouvel hôtel de ville est construit en 1974 sur des plans de Marius Depont et Michel Holley, au sein du grand ensemble du Chemin Vert, composé de tours sur dalle accompagnées d’écoles.",
+  "Lieu « Cimetière musulman de Bobigny » : Le cimetière musulman de Bobigny (Seine-Saint-Denis, France) est, avec celui de Strasbourg, l'unique cimetière entièrement réservé aux défunts musulmans de France métropolitaine.",
+  "Lieu « Cimetière musulman de Bobigny », 1914 : Pour les blessés, dès la fin de l'année 1914, un hôpital de campagne est installé dans le jardin colonial de Nogent-sur-Marne, dans le bois de Vincennes.",
+  "Lieu « Cimetière musulman de Bobigny », 1934 : Créé par décret présidentiel du 4 janvier 1934, il doit son statut musulman au fait d'être juridiquement une annexe de l'Hôpital franco-musulman ouvert en 1935, actuel Hôpital Avicenne de Bobigny.",
+  "Lieu « Cimetière musulman de Bobigny », 1957 : La saturation de l'espace arrivant plus vite que prévu, le carré musulman de Thiais est ouvert en 1957, qui compte en 2007 près de 20 000 sépultures.",
+  "Lieu « Cimetière musulman de Bobigny », aujourd'hui : Aujourd'hui, les cultures (hormis quelques jardins ouvriers) ont été supplantées par une zone industrielle.",
+  "Lieu « Hôpital Avicenne » : L’hôpital Avicenne, dont le nom fait référence à Avicenne, médecin et philosophe persan des Xe – XIe siècles, est un hôpital situé rue de Stalingrad à Bobigny, en Seine-Saint-Denis.",
+  "Lieu « Hôpital Avicenne », 1914 : Pour les blessés, dès la fin de l'année 1914, un hôpital de campagne est installé dans le jardin colonial de Nogent-sur-Marne, dans le bois de Vincennes.",
+  "Lieu « Hôpital Avicenne », 1916 : Pour l'aumônerie militaire est inaugurée le 14 avril 1916 la mosquée du bois de Vincennes, la toute première mosquée construite en France métropolitaine.",
+  "Lieu « Hôpital Avicenne », 1926 : Elle est démolie en 1926, après l'inauguration de la Grande mosquée de Paris.",
+  "Lieu « Hôpital Avicenne », aujourd'hui : Il constitue aujourd'hui avec l'hôpital Jean-Verdier (Bondy) et l'hôpital René-Muret-Bigottini (Sevran et Aulnay-sous-Bois) le groupe Hôpitaux universitaires Paris Seine-Saint-Denis de l'Assistance publique - Hôpitaux de Paris.",
+  "Lieu « Église Saint-André de Bobigny » : L'église Saint-André est un édifice religieux catholique français de Bobigny en Seine-Saint-Denis.",
+  "Lieu « Église Saint-André de Bobigny », 1050 : En 1050, demeurait à cet endroit une communauté d’habitants qui était érigée en paroisse, possédait une église placée sous l’invocation de saint André et faisait partie de l’archidiaconé de Paris et du doyenné de Montreuil.",
+  "Lieu « Église Saint-André de Bobigny », 1557 : La seconde église, bâtie en 1557, est consacrée le 28 avril de la même année par Charles Boucher d'Orsay, évêque titulaire de Mégare (de), avec la permission d'Eustache du Bellay, évêque de Paris.",
+  "Lieu « Église Saint-André de Bobigny », 1755 : En 1755, l'abbé Lebeuf mentionne cette église paroissiale vétuste, maintes fois réparée, dotée de deux petits collatéraux aux côtés du chœur et d’une tour étroite qui paroit désigner un ancien édifice sur lequel on auroit couché un nouvel enduit.",
+  "Lieu « Église Saint-André de Bobigny », aujourd'hui : Sa tombe, déplacée, était toujours visible en 1829.",
+  "Lieu « Avenue Jean-Jaurès (Bobigny) » : L'avenue Jean-Jaurès, est l'une des artères principales de Bobigny.",
+  "Lieu « Avenue Jean-Jaurès (Bobigny) », 1640 : Emplacement de l'ancien moulin de Bobigny, dit moulin de la Folie ou moulin de la Tour: tour seigneuriale située sur une éminence près des fourches patibulaires, transformée par Adrien-Louis Liégeois vers 1640, démolie vers 1970 lors de la rénovation de la ville.",
+  "Lieu « Avenue Jean-Jaurès (Bobigny) », 1918 : Le 30 janvier 1918, durant la Première Guerre mondiale, une bombe lancée d'un avion allemand explose avenue Jean-Jaurès.",
+  "Lieu « Avenue Jean-Jaurès (Bobigny) », 1970 : Cité Karl-Marx, construite dans les années 1970.",
+  "Lieu « Avenue Jean-Jaurès (Bobigny) », aujourd'hui : L'extremité nord de cette avenue se trouve au carrefour des Six-Routes, aujourd'hui appelé place de l'Escadrille-Normandie-Niémen.",
+  "Lieu « Boulevard Lénine » : Le boulevard Lénine est l'une des principales voies de communication de Bobigny.",
+  "Lieu « Boulevard Lénine », 1050 : Un premier édifice chrétien est attesté à cet endroit en 1050.",
+  "Lieu « Boulevard Lénine », 1740 : Église Saint-André de Bobigny, dont l'ancien édifice est représenté, à l’est de l’enceinte du château, sur le plan de Delagrive en 1740.",
+  "Lieu « Boulevard Lénine », 1970 : MC93 Bobigny: La Maison de la Culture de Seine-Saint-Denis, salle de spectacle de la région parisienne dont l’activité principale est orientée vers le théâtre, la danse et l'opéra; Parc des Jardins de Bobigny et emplacement du château de Bobigny, détruit en 1970.",
+  "Lieu « Boulevard Lénine », aujourd'hui : Comme l'avenue de la Division-Leclerc à Bobigny, la rue de la République, le boulevard Maurice-Thorez et la rue Carnot, elle fait partie de l'ancien chemin de Saint-Denis à Bondy, dont le tracé est aujourd'hui suivi par la route départementale 27.",
+  "Lieu « Cité de l'Abreuvoir » : L'Abreuvoir est une vaste cité d’habitat social de 1 509 logements édifiée par l’architecte Émile Aillaud sous la maîtrise d’ouvrage de l’Office public HLM interdépartemental de la Région parisienne, sur le territoire des communes de Bobigny et Dranc",
+  "Lieu « Cité de l'Abreuvoir », 1954 : L'Abreuvoir est une vaste cité d’habitat social de 1 509 logements édifiée par l’architecte Émile Aillaud sous la maîtrise d’ouvrage de l’Office public HLM interdépartemental de la Région parisienne, sur le territoire des communes de Bobigny et Drancy, dans la Seine-Saint-Denis entre 1954 et 1958.",
+  "Lieu « Cité de l'Abreuvoir », 2008 : En 2008, par le biais de la DRAC d'Île-de-France, le ministère de la Culture a décerné à cet édifice le label « Patrimoine du XXe siècle ».",
+  "Lieu « Cité de l'Abreuvoir », aujourd'hui : Les aménagements du Mail demeurent encore aujourd’hui réduits, préservant cette respiration majeure au cœur de la cité.",
+  "Lieu « Gare de Bobigny » : La gare de Bobigny est une gare ferroviaire française, située sur le territoire de la commune de Bobigny en Seine-Saint-Denis (Île-de-France).",
+  "Lieu « Gare de Bobigny », 1929 : Une nouvelle et vaste gare est construite en 1929 par l'entrepreneur Morosini.",
+  "Lieu « Gare de Bobigny », 1932 : Ouverte en 1932, puis fermée au trafic des voyageurs dès 1939, elle reste ouverte au trafic fret.",
+  "Lieu « Gare de Bobigny », 2005 : La Ville acquiert le bâtiment des voyageurs en 2005, pour un euro symbolique, et obtient l'inscription de la totalité du site (3,5 hectares) sur la liste supplémentaire des monuments historiques.",
+  "Lieu « Le Wonder » : Le Wonder est un collectif d'artistes et un lieu de production, d'exposition et d'expérimentation: lieu géré par et pour les artistes.",
+  "Lieu « Le Wonder », 2016 : Fin 2016, le collectif Wonder est contraint de déménager et prend possession de la tour Liebert (détruite en 2019) situé au 124 avenue Gallieni à Bagnolet.",
+  "Lieu « Le Wonder », 2018 : Le Wonder est né sur le site en friche des anciennes usines de piles Wonder (détruites en 2018) à Saint-Ouen, au cœur des Puces.",
+  "Lieu « Le Wonder », 2023 : Après les usines de piles Wonder à Saint-Ouen en Seine-Saint-Denis, la tour Liebert (en) à Bagnolet, le Zenith au pied des tours de La Défense et des tours Nuages à Nanterre, et dans la ville de Clichy, le Wonder est installé à Bobigny depuis avril 2023."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 19
+ }
+}

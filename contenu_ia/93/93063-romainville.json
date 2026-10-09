@@ -1,0 +1,312 @@
+{
+ "commune": {
+  "titre": "Romainville",
+  "code_insee": "93063",
+  "departement": "93",
+  "population": 37152,
+  "lat": 48.8849,
+  "lon": 2.4391,
+  "url": "https://fr.wikipedia.org/wiki/Romainville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:42:44",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2359,
+  "sortie": 2433
+ },
+ "cout_usd": 0.003513,
+ "accroche": "En 1845, un squelette d’un homme du Néolithique est découvert dans la carrière des Molibous à Romainville.",
+ "histoire": {
+  "recit": "À Romainville, l’occupation humaine remonte au Néolithique : en 1845, un squelette est retrouvé dans la carrière des Molibous, et des vestiges gallo-romains sont signalés. L’existence du lieu est ensuite attestée au VIIe siècle par le testament d’Ermenthrude, qui décrit un domaine riche.\n\nPlus tard, le seigneur Nicolas de Quélen fait construire un château en 1630, avant qu’il ne devienne, en 1723, la propriété de la famille de Ségur. Au moment de la guerre franco-prussienne, la ville est occupée par les Prussiens en 1870.\n\nAu XXe siècle, les marqueurs urbains se précisent : l’église Saint-Germain-l’Auxerrois est implantée sur une histoire plus ancienne et, en 1804, un décret impérial impose le déplacement des tombes hors de la muraille. Sur le plateau, l’ancienne carrière de gypse se transforme en base de plein air : fermée en 1965, elle fait l’objet de travaux de mise en sécurité en 2007, puis d’aménagements en 2010, jusqu’à l’inauguration de l’île de loisirs en 2021.\n\nRomainville se raconte aussi par ses voies et bâtiments, dont l’hôtel de ville, construit en 1873.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "L’existence de Romainville est attestée par le testament d’Ermenthrude, propriétaire du lieu, évoquant la richesse du domaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1630",
+    "texte": "Le seigneur Nicolas de Quélen fait construire le château de Romainville.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1723",
+    "texte": "Le château devient la propriété de la famille de Ségur.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1845",
+    "texte": "La découverte du squelette d’un homme du Néolithique est signalée dans la carrière des Molibous.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Lors de la guerre franco-prussienne, la ville est occupée par les Prussiens.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "L’hôtel de ville de Romainville est construit, en style néo-classique, par l’architecte Paul-Eugène Lequeux.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "1804",
+    "texte": "Un décret impérial relatif aux sépultures impose le déplacement des tombes hors de la muraille de la ville.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "2007",
+    "texte": "Des travaux de mise en sécurité consolident les galeries souterraines de l’ancienne carrière de gypse.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "Les premiers aménagements de la base sont réalisés : démolition et aménagement des abords de l’ancien château de Romainville, création de jardins familiaux et d’un chemin est-ouest.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "21 mai 2021",
+    "texte": "L’île de loisirs de la Corniche des Forts est inaugurée.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "juillet 2024",
+    "texte": "La gestion de l’île de loisirs est reprise par Île-de-France Nature.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Île de loisirs de la Corniche des Forts",
+   "histoire": "Base de plein air et de loisirs située sur le territoire de Romainville et des communes voisines, elle occupe l’emplacement d’anciennes carrières.",
+   "anecdotes": [
+    {
+     "texte": "Le site était occupé par une ancienne carrière de gypse, fermée en 1965, dont les galeries souterraines nécessitent une consolidation en 2007.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En 2010, l’aménagement inclut la démolition et les travaux autour des abords de l’ancien château de Romainville.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une île de loisirs est inaugurée et poursuit son projet de réaménagement sur la partie nord du plateau de Romainville, sur une zone de friches dite « le Bas-Pays ».",
+   "sources": [
+    "S6",
+    "S10",
+    "S9",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.887617,
+   "lon": 2.430359,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_loisirs_de_la_Corniche_des_Forts"
+  },
+  {
+   "nom": "Rue Paul-de-Kock (Romainville)",
+   "histoire": "Une voie de communication de Romainville, citée comme l’une des plus anciennes.",
+   "anecdotes": [
+    {
+     "texte": "L’église Saint-Germain-l’Auxerrois est construite en 1787 à l’intersection des rues Carnot et Paul-de-Kock.",
+     "statut": "etabli",
+     "sources": [
+      "S12",
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S15"
+   ],
+   "lat": 48.888836557447,
+   "lon": 2.4381456297872,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Paul-de-Kock_%28Romainville%29"
+  },
+  {
+   "nom": "Église Saint-Germain-l'Auxerrois de Romainville",
+   "histoire": "Église paroissiale de Seine-Saint-Denis affectée au culte catholique, située à l’angle de la rue Carnot et de la rue Paul-de-Kock.",
+   "anecdotes": [
+    {
+     "texte": "Avant l’église, l’emplacement porte une autre construction : une église bâtie au XIIIe siècle, dédiée à saint Romain.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "En 1804, un décret impérial impose de déplacer les tombes hors de la muraille de la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.885711,
+   "lon": 2.436395,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain-l%27Auxerrois_de_Romainville"
+  },
+  {
+   "nom": "Hôtel de ville de Romainville",
+   "histoire": "Bâtiment administratif principal de la commune, construit en style néo-classique.",
+   "anecdotes": [
+    {
+     "texte": "En 1873, l’hôtel de ville est construit par l’architecte Paul-Eugène Lequeux.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 48.8854,
+   "lon": 2.4354,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Romainville"
+  },
+  {
+   "nom": "Avenue Lénine (Romainville)",
+   "histoire": "Voie de communication de Romainville qui honore Vladimir Ilitch Lénine.",
+   "anecdotes": [
+    {
+     "texte": "Le nom de l’avenue fait référence à Vladimir Ilitch Lénine, présenté comme ayant pris le pouvoir avec les bolcheviks et mis en place la Russie soviétique.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 48.883641257143,
+   "lon": 2.4281235714286,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_L%C3%A9nine_%28Romainville%29"
+  },
+  {
+   "nom": "Rue de la République (Romainville)",
+   "histoire": "Voie de communication de Romainville.",
+   "anecdotes": [
+    {
+     "texte": "La cité Marcel-Cachin est construite entre 1956 et 1964, pour 1 127 logements.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 48.88058,
+   "lon": 2.43687,
+   "url": "https://fr.wikipedia.org/wiki/Rue_de_la_R%C3%A9publique_%28Romainville%29"
+  },
+  {
+   "nom": "Rue Étienne-Dolet (Romainville)",
+   "histoire": "Voie de communication de Romainville.",
+   "anecdotes": [
+    {
+     "texte": "Le Trianon, cinéma reconstruit en 1953, reprend des ruines causées par les bombardements de 1944.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 48.883815,
+   "lon": 2.441595,
+   "url": "https://fr.wikipedia.org/wiki/Rue_%C3%89tienne-Dolet_%28Romainville%29"
+  }
+ ],
+ "sources": [
+  "Romainville est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France. Ses habitants sont appelés les Romainvilloises et les Romainvillois.",
+  "Le site est occupé depuis le Néolithique. En témoigne la découverte du squelette d'un homme de cette époque dans la carrière des Molibous en 1845. Des vestiges gallo-romains sont aussi présents[réf. nécessaire]. L'existence de Romainville est attestée au VIIe siècle grâce au testament d'Ermenthrude, propriétaire du lieu à cette époque. Cette source témoigne aussi de la richesse du domaine. Les vignes de Romainville […]",
+  "1630 : En 1630, le seigneur Nicolas de Quélen fait construire le château (détruit en 2017) qui devient en 1723 la propriété de la famille de Ségur.",
+  "1870 : Trois années après, lors de la guerre franco-prussienne de 1870, la ville est occupée par les Prussiens.",
+  "1877 : En effet, la Compagnie générale des omnibus avait installé d'importantes écuries aux Limites de Pantin, toutes proches, et le Docteur Gaston Roussel (1877-1947) utilisait dès 1909 le sérum de ces chevaux pour fabriquer un fortifiant contre l'anémie, l'Hémostyl.",
+  "Lieu « Île de loisirs de la Corniche des Forts » : L'espace nature de la Corniche des Forts est une base de plein air et de loisirs située dans le département de la Seine-Saint-Denis (France), sur le territoire des communes de Romainville, Pantin, Les Lilas et Noisy-le-Sec.",
+  "Lieu « Île de loisirs de la Corniche des Forts », 2007 : Des travaux de mise en sécurité sont intervenus en 2007 pour consolider les galeries souterraines de l'ancienne carrière de gypse qui occupait le site, fermée en 1965.",
+  "Lieu « Île de loisirs de la Corniche des Forts », 2010 : Les premiers aménagements de la base ont été réalisés en 2010 : la démolition et l'aménagement des abords de l'ancien château de Romainville, l'aménagement de 49 parcelles de jardins familiaux et d’un chemin est-ouest de 2,8 km.",
+  "Lieu « Île de loisirs de la Corniche des Forts », 2021 : Inaugurée le 21 mai 2021, elle devient la 12e îles de loisirs de la région Île-de-France avant d'être repris en gestion par Île-de-France Nature en juillet 2024.",
+  "Lieu « Île de loisirs de la Corniche des Forts », aujourd'hui : Le projet consiste à réaménager, sur la partie nord du plateau de Romainville, une partie d'une zone de friches, « le Bas-Pays », s'étendant à l'emplacement d'anciennes carrières, sur une surface de 64 hectares, incluant le parc départemental de Romainville (« la Sapinière »), le parc communal de Romainville, les parcs Henri-Barbusse et de la République […]",
+  "Lieu « Rue Paul-de-Kock (Romainville) » : La rue Paul-de-Kock, est l'une des plus anciennes voies de communication de Romainville.",
+  "Lieu « Rue Paul-de-Kock (Romainville) », 1787 : Église Saint-Germain-l'Auxerrois de Romainville, construite en 1787.",
+  "Lieu « Rue Paul-de-Kock (Romainville) », 1833 : Cimetière ancien de Romainville, ouvert en 1833.",
+  "Lieu « Rue Paul-de-Kock (Romainville) », 1984 : Cimetière nouveau de Romainville, ouvert en 1984.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Romainville » : L'église Saint-Germain-l’Auxerrois située à l'angle de la rue Carnot et de la rue Paul-de-Kock à Romainville est une église paroissiale de Seine-Saint-Denis, dévolue au culte catholique.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Romainville », XIIIe siècle : Sur cet emplacement s'élevait une église bâtie au XIIIe siècle, et dédiée à saint Romain, évêque de Meaux au VIIIe siècle.",
+  "Lieu « Église Saint-Germain-l'Auxerrois de Romainville », 1804 : Par le décret impérial sur les sépultures du 23 prairial an XII (12 juin 1804) promulgué par Napoléon Ier les tombes doivent être déplacées en dehors de la muraille de la ville.",
+  "Lieu « Hôtel de ville de Romainville » : L`Hôtel de Ville de Romainville est le principal bâtiment administratif de la commune de Romainville dans le du département de la Seine-Saint-Denis en région Île-de-France.",
+  "Lieu « Hôtel de ville de Romainville », 1873 : Ce bâtiment de style néo-classique a été construit en 1873 par l'architecte Paul-Eugène Lequeux.",
+  "Lieu « Avenue Lénine (Romainville) » : L`avenue Lénine est une voie de communication de Romainville, dans le département de Seine-Saint-Denis, en France.",
+  "Lieu « Avenue Lénine (Romainville) », 1870 : Comme des dizaines de voies de communication en France, cette avenue honore Vladimir Ilitch Lénine (1870-1924), théoricien politique, homme d'État russe qui, avec les bolcheviks, prit le pouvoir après l'effondrement du tsarisme, et mis en place la Russie soviétique.",
+  "Lieu « Rue de la République (Romainville) » : La rue de la République, est une voie de communication de Romainville.",
+  "Lieu « Rue de la République (Romainville) », 1956 : Cité Marcel-Cachin, construite en 1956-1964 par l'architecte André Bérard, comprenant 1 127 logements.",
+  "Lieu « Rue Étienne-Dolet (Romainville) » : La rue Étienne-Dolet, est une voie de communication de Romainville.",
+  "Lieu « Rue Étienne-Dolet (Romainville) », 1953 : Le Trianon, cinéma reconstruit en 1953 par l'architecte Charles Genêtre, sur les ruines de trois immeubles sinistrés par les bombardements de 1944, qui détruisirent aussi un premier cinéma situé sur la place."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 9
+ }
+}

@@ -1,0 +1,275 @@
+{
+ "commune": {
+  "titre": "Montreuil (Seine-Saint-Denis)",
+  "code_insee": "93048",
+  "departement": "93",
+  "population": 111934,
+  "lat": 48.8603,
+  "lon": 2.4431,
+  "url": "https://fr.wikipedia.org/wiki/Montreuil_%28Seine-Saint-Denis%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:20:09",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3420,
+  "sortie": 2154
+ },
+ "cout_usd": 0.003377,
+ "accroche": "Le 18 août 1944, Montreuil est la première ville de la région parisienne libérée, après des combats dans des forts voisins, guidée par le commandant Henry.",
+ "histoire": {
+  "recit": "À Montreuil, la ville commence bien avant les rues : l’endroit est peuplé depuis le Néolithique, et des archéologues ont découvert, au nord-ouest du territoire, une hache en silex taillé et poli, ainsi que des vestiges mérovingiens. (Les découvertes sont situées autour de Villiers Barbusse.)\n\nLa commune a aussi un goût pour l’image et le spectacle. En 1897, Georges Méliès installe dans sa propriété le premier « studio de prises de vues », puis en construit un second en 1907. Charles Pathé, lui, fait édifier un studio cinématographique à Montreuil en 1904.\n\nAu cœur du XXe siècle, Montreuil passe par l’épreuve : le 18 août 1944, elle est libérée en premier, au milieu de violents combats contre l’occupant.\n\nPlus tard, le paysage urbain change : entre 1950 et 1970, des logements sociaux sont construits en masse, tandis que le tournant XXe-XXIe apporte une gentrification relative, avec la rénovation d’anciens bâtiments industriels.\n\nAujourd’hui, certains lieux gardent des usages bien spécifiques : les pêches en espaliers du « Mur à pêches » continuent d’inspirer des variétés, et la cité industrielle Mozinor accueille encore des ateliers d’artistes.",
+  "chronologie": [
+   {
+    "date": "Néolithique",
+    "texte": "Le territoire est peuplé dès le Néolithique, comme l’indiquent les découvertes archéologiques mentionnées autour de Villiers Barbusse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2001 (aux alentours)",
+    "texte": "Aux alentours de 2001, des archéologues découvrent une hache en silex taillé et poli dans le nord-ouest de Montreuil, au numéro 25 de la rue Ernest Savart, et mettent au jour des vestiges mérovingiens.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1897",
+    "texte": "Georges Méliès construit dans sa propriété le premier « studio de prises de vues », puis fonde sa société de production, Star Film.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1904",
+    "texte": "Charles Pathé fait édifier un studio cinématographique à Montreuil.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 août 1944",
+    "texte": "Montreuil est la première ville de la région parisienne à être libérée, lors de combats violents contre l’armée d’occupation allemande dans les forts voisins.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "années 1950 à 1970",
+    "texte": "Des logements sociaux sont construits en masse, sous la forme d’immeubles collectifs, pour répondre à la demande.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "tournant des XXe et XXIe siècles",
+    "texte": "Montreuil connaît une relative gentrification : des jeunes citadins investissent le sud de la ville et rénovent notamment d’anciens bâtiments industriels.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Mur à pêches",
+   "histoire": "Des cultures de pêchers en espaliers, palissés, existent dans le secteur du « Mur à pêches ». À Montreuil, ce dispositif est lié à l’histoire des pêches cultivées et à l’évolution de la protection du site.",
+   "anecdotes": [
+    {
+     "texte": "Dans le collège du groupe scolaire Voltaire, un panneau de céramique datant de 1919 représente les espaliers de pêchers le long des murs d’un verger de Montreuil-sous-Bois, encore entretenu à l’époque.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "En 1953, une surface de 50 ha est classée en zone horticole protégée, mais la suite administrative modifie la destination du secteur.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "De nombreuses variétés de pêches cultivées aujourd’hui auraient été créées à cette époque à Montreuil, comme la Prince of Wales, la Grosse Mignonne ou encore la Téton de Vénus.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 48.8636,
+   "lon": 2.45775,
+   "url": "https://fr.wikipedia.org/wiki/Mur_%C3%A0_p%C3%AAches"
+  },
+  {
+   "nom": "Bâtiment industriel Mozinor",
+   "histoire": "Le bâtiment industriel Mozinor, une « usine verticale », est conçu au début des années 1970 par les architectes Claude Le Goas et G.-P. Bertrand, pour réindustrialiser le plateau de Montreuil. La phase actuelle est construite en 1971.",
+   "anecdotes": [
+    {
+     "texte": "Les années 1980 et 1990 voient le toit du bâtiment devenir le lieu des premières rave parties en France.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Dans les années 2000, le bâtiment est traversé par un passage à vide, puis l’occupation repart et devient presque complète en 2013, avec 450 travailleurs pour une soixantaine d’entreprises.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site offre des locaux d’activités, une terrasse panoramique et des ateliers d’artistes.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.8688,
+   "lon": 2.4574,
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A2timent_industriel_Mozinor"
+  },
+  {
+   "nom": "Église Saint-Pierre-et-Saint-Paul de Montreuil",
+   "histoire": "L’église Saint-Pierre-et-Saint-Paul se trouve à l’intersection du boulevard Henri-Barbusse, de la rue Franklin et de la rue de l’Église. Son histoire s’étend de la présence d’un édifice attestée au VIIIe siècle à des parties plus anciennes, comme le chœur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22"
+   ],
+   "lat": 48.863741,
+   "lon": 2.444469,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-et-Saint-Paul_de_Montreuil"
+  },
+  {
+   "nom": "Fonds d'archives communistes libertaires",
+   "histoire": "Ce fonds est conservé au Musée de l’histoire vivante, à Montreuil. Il s’appuie sur des cartons d’archives et sur des mises à disposition pour la consultation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le fonds met gratuitement à disposition des étudiants, chercheurs et historiens près de 190 cartons d’archives consultables aux heures d’ouverture du musée.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 48.866388888889,
+   "lon": 2.4716666666667,
+   "url": "https://fr.wikipedia.org/wiki/Fonds_d%27archives_communistes_libertaires"
+  },
+  {
+   "nom": "Hôtel de ville de Montreuil",
+   "histoire": "L’hôtel de ville de Montreuil est le principal bâtiment administratif. Un premier hôtel de ville en pierre est construit entre 1859 et début 1864, puis des annexes et des panneaux peints sont ajoutés en 1893.",
+   "anecdotes": [
+    {
+     "texte": "En 1893, quatre panneaux peints représentent des scènes de la vie montreuilloise : la récolte des pêches, la sortie des ouvriers des carrières, le maraîchage et une promenade familiale dans les champs.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27"
+   ],
+   "lat": 48.8624,
+   "lon": 2.4409,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Montreuil"
+  },
+  {
+   "nom": "Théâtre public de Montreuil",
+   "histoire": "Le Théâtre public de Montreuil (anciennement Nouveau théâtre de Montreuil) est un centre dramatique national situé à Montreuil.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31"
+   ],
+   "lat": 48.86202,
+   "lon": 2.44307,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_public_de_Montreuil"
+  },
+  {
+   "nom": "Studios de Montreuil",
+   "histoire": "Les Studios de Montreuil, aussi appelés Studios Pathé-Albatros, sont des studios de cinéma situés au 52 rue du Sergent-Bobillot à Montreuil, construits à l’initiative de Charles Pathé.",
+   "anecdotes": [
+    {
+     "texte": "Au début, les premiers films tournés dans ces studios sont des actualités cinématographiques reconstituées, dont « L’Incendie du théâtre de Chicago » et « L’Assassinat du ministre Plehve ».",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35"
+   ],
+   "lat": 48.854421,
+   "lon": 2.433348,
+   "url": "https://fr.wikipedia.org/wiki/Studios_de_Montreuil"
+  },
+  {
+   "nom": "Église Saint-Maurice de la Boissière",
+   "histoire": "L’église Saint-Maurice de la Boissière se situe au 59 rue Édouard-Branly, à l’angle de la rue Jules-Verne. Elle est marquée par l’intervention de l’architecte Jean Hulot et, plus tard, par une édification liée à l’Œuvre des Chantiers du Cardinal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S40"
+   ],
+   "lat": 48.87061,
+   "lon": 2.46003,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maurice_de_la_Boissi%C3%A8re"
+  }
+ ],
+ "sources": [
+  "Montreuil [mɔ̃.tʁœj], également appelé Montreuil-sous-Bois, est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France. Il s'agit de la deuxième ville la plus peuplée du département de Seine-Saint-Denis, après Saint-Denis. Montreuil est également la quatrième ville la plus peuplée de la région Île-de-France.",
+  "L'endroit est peuplé depuis le Néolithique. Aux alentours de l'année 2001 des archéologues ont découvert une hache en silex taillé et poli dans le nord-ouest de Montreuil, dans le quartier Villiers Barbusse (limitrophe du quartier La Noue le Clos français) au numéro 25 de la rue Ernest Savart. Ils ont aussi mis au jour des vestiges mérovingiens. Aucun objet ou sépulture n'ont été retrouvés pour la période celtique […]",
+  "1897 : En 1897, un autre Montreuillois, Georges Méliès, construisit dans sa propriété le premier « studio de prises de vues » — il a fondé sa société de production, Star Film —, puis un second studio en 1907.",
+  "1904 : En 1904, Charles Pathé (L'Albatros) fait également édifier un studio cinématographique à Montreuil.",
+  "1944 : Montreuil est la première ville de la région parisienne à être libérée le 18 août 1944 par plusieurs centaines de membres de la Résistance intérieure française guidés par le commandant Henry et soutenus par une insurrection locale ; de violents combats ont alors lieu contre l'armée d'occupation allemande dans les forts voisins.",
+  "1950 : Entre les années 1950 et 1970, des logements sociaux sont construits en masse sous la forme d'immeubles collectifs pour faire face à la demande.",
+  "XXIe siècle : Au tournant des XXe et XXIe siècles, Montreuil connaît une relative gentrification : attirés par des prix immobiliers plus faibles qu'à Paris et par son atmosphère sous certains aspects « villageoise », de nouvelles catégories de jeunes citadins investissent le sud de la ville et rénovent notamment d'anciens bâtiments industriels.",
+  "Lieu « Mur à pêches » : Les murs à pêches sont des cultures de pêchers en espaliers, palissés, créées dès le XVIIe siècle à Bagnolet en Seine-Saint-Denis.",
+  "Lieu « Mur à pêches », 1919 : Dans le collège du groupe scolaire Voltaire (métro Robespierre), l’un des panneaux de céramique du peintre Maurice Boitel (1919-2007), qui avait été chargé de la décoration des bâtiments en 1954, représente les espaliers de pêchers le long des murs en pierre et en plâtre d’un verger de Montreuil-sous-Bois, encore entretenu à l’époque.",
+  "Lieu « Mur à pêches », 1953 : Alors qu’en 1953, une surface de 50 ha était classée en zone horticole protégée, le SDRIF de 1976 a transformé le secteur en réserve d’espace vert urbain.",
+  "Lieu « Mur à pêches », 1994 : Ce statut protecteur est transformé, lors de la révision du SDRIF de 1994, au profit d’une zone urbanisable à 80 %, traduisant l’abandon du site par l’État, avec l’assentiment de la municipalité d’alors.",
+  "Lieu « Mur à pêches », aujourd'hui : De nombreuses variétés de pêches, cultivées actuellement dans le monde, ont été créées à cette époque à Montreuil, comme la Prince of Wales, la Grosse Mignonne ou encore la Téton de Vénus.",
+  "Lieu « Bâtiment industriel Mozinor » : Le bâtiment industriel Mozinor (contraction de « Montreuil Zone Industrielle Nord ») est une usine verticale conçue et réalisée au début des années 1970 par les architectes Claude Le Goas et G.-P. Bertrand dans la ville de Montreuil dans le départeme",
+  "Lieu « Bâtiment industriel Mozinor », 1971 : Le bâtiment actuel, construit en 1971, était la première phase (dite Mozinor 1) d'un projet de plus grande ampleur (sur 1 km de long), visant à réindustrialiser le plateau de Montreuil.",
+  "Lieu « Bâtiment industriel Mozinor », 1980 : Dans les années 1980 et 1990, le toit du bâtiment a été l'endroit où se sont déroulées les premières rave parties en France.",
+  "Lieu « Bâtiment industriel Mozinor », 2000 : On avait installé 20 kilos de son, des lumières indirectes qui jouaient sur de grands tissus découpés. » Après un passage à vide dans les années 2000, en 2013 l'occupation du bâtiment était presque complète, accueillant 450 travailleurs employés par une soixantaine d'entreprises.",
+  "Lieu « Bâtiment industriel Mozinor », aujourd'hui : La cité industrielle verticale offre également 42 000 m2 de locaux d'activités, une terrasse panoramique et un projet de restaurant d'entreprise (dit lot 38, prévu dans le plan d'origine), qui après avoir été un temps transformé en boîte de nuit, abrite aujourd'hui des ateliers d'artistes.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Montreuil » : L'église Saint-Pierre-Saint-Paul est une église de Montreuil, commune de la Seine-Saint-Denis, située à l'intersection du boulevard Henri-Barbusse, de la rue Franklin (ancienne rue aux Ours) et de la rue de l'Église.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Montreuil », VIIIe siècle : Une ordonnance royale atteste[réf. souhaitée] au VIIIe siècle de la présence d’un édifice orienté est-ouest pour le 29 juin, jour de la Saint Pierre-Saint Paul.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Montreuil », XIIIe siècle : La partie la plus ancienne de l'édifice, le chœur, date de la fin du XIIe et du début du XIIIe siècle.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Montreuil », XIVe siècle : Au XIVe siècle, la partie centrale de la façade est édifiée, puis, au XVe siècle, celle d’un nouveau vaisseau.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Montreuil », aujourd'hui : L'édifice actuel est donc élevé à l’emplacement d’une église romane.",
+  "Lieu « Fonds d'archives communistes libertaires » : Le Fonds d’archives communistes libertaires est conservé au Musée de l’histoire vivante, à Montreuil.",
+  "Lieu « Fonds d'archives communistes libertaires », 1944 : Il met gratuitement à disposition des étudiants, chercheurs et historiens, près de 190 cartons d’archives sur l’histoire du mouvement communiste libertaire depuis 1944 : journaux nationaux, locaux, bulletins de boîte, circulaires internes, tracts, affiches, autocollants, drapeaux, , etc. Les documents sont consultables aux heures d'ouverture du musée.",
+  "Lieu « Fonds d'archives communistes libertaires », 2015 : En septembre 2015, Alternative libertaire et le Musée de l’histoire vivante ont signé une convention de dépôt.",
+  "Lieu « Fonds d'archives communistes libertaires », 2017 : Le FACL a été inauguré le 29 janvier 2017.",
+  "Lieu « Hôtel de ville de Montreuil » : L’hôtel de ville de Montreuil est le principal bâtiment administratif de la commune de Montreuil, située dans le département de la Seine-Saint-Denis, en région Île-de-France.",
+  "Lieu « Hôtel de ville de Montreuil », 1859 : Un premier véritable hôtel de ville en pierre est construit entre 1859 et début 1864 sur la place Girard (devenue place Jean-Jaurès).",
+  "Lieu « Hôtel de ville de Montreuil », 1893 : En 1893, deux annexes d’un rez-de-chaussée mansardé sont construites de part et d’autre du bâtiment, à l’emplacement d’anciens jardins : l’une accueille la bibliothèque et le service de l’octroi, l’autre la loge du concierge et le service de la voirie.",
+  "Lieu « Hôtel de ville de Montreuil », 1893 : Installés en 1893, les quatre panneaux peints représentent des scènes de la vie montreuilloise : la récolte des pêches, la sortie des ouvriers des carrières, le maraîchage et une promenade familiale dans les champs.",
+  "Lieu « Théâtre public de Montreuil » : Le Théâtre public de Montreuil (anciennement Nouveau théâtre de Montreuil) est un centre dramatique national situé à Montreuil en Seine-Saint-Denis.",
+  "Lieu « Théâtre public de Montreuil », 2002 : Le premier, situé 63 rue Victor Hugo, est réalisé par l'architecte Philippe Pumain[source insuffisante] et inauguré en 2002.",
+  "Lieu « Théâtre public de Montreuil », 2005 : La première pierre du bâtiment principal, conçu par l'agence Dominique Coulon et associés, a lieu en juin 2005.",
+  "Lieu « Théâtre public de Montreuil », 2008 : Le 12 janvier 2008 pour la première ouverture au public de cette salle Jean-Pierre Vernant, Gilberte Tsaï y met en scène Ce soir on improvise de Luigi Pirandello.",
+  "Lieu « Studios de Montreuil » : Les Studios de Montreuil, aussi appelés Studios Pathé-Albatros, étaient des studios de cinéma construits à l'initiative de Charles Pathé et situés au 52 rue du Sergent-Bobillot à Montreuil en Seine-Saint-Denis.",
+  "Lieu « Studios de Montreuil », 1904 : Inaugurés le 1er mars 1904, les studios de Montreuil ont été construits car Charles Pathé avait besoin d'un lieu de tournage provisoire dans l'attente de la fin des travaux d'agrandissement des studios de Vincennes.",
+  "Lieu « Studios de Montreuil », 1904 : Au début, les premiers films tournés dans ces studios sont des actualités cinématographiques reconstituées, comme L'Incendie du théâtre de Chicago ou L'Assassinat du ministre Plehve, tous les deux réalisés par Lucien Nonguet en 1904.",
+  "Lieu « Église Saint-Maurice de la Boissière » : L'église Saint-Maurice de la Boissière est une église de Montreuil (en Seine-Saint-Denis), située 59 rue Édouard-Branly, à l'angle de la rue Jules-Verne.",
+  "Lieu « Église Saint-Maurice de la Boissière », 1876 : L'architecte est Jean Hulot (1876-1959), premier grand prix de Rome et architecte en chef des Bâtiments civils et Palais nationaux.",
+  "Lieu « Église Saint-Maurice de la Boissière », 1930 : Elle est édifiée au début des années 1930 par Florent Nanquette et son associé Nicolas, dans le cadre de l'Œuvre des Chantiers du Cardinal."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "commune": {
+  "titre": "Stains",
+  "code_insee": "93072",
+  "departement": "93",
+  "population": 41388,
+  "lat": 48.9578,
+  "lon": 2.3868,
+  "url": "https://fr.wikipedia.org/wiki/Stains"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:39:54",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2271,
+  "sortie": 1471
+ },
+ "cout_usd": 0.002293,
+ "accroche": "Le 7 octobre 1870, un ballon nommé Piper No 1 atterrit à Stains, juste avant les lignes ennemies, après une erreur de manœuvre.",
+ "histoire": {
+  "recit": "À Stains, la vie paroissiale naît d’un acte précis : en février 1213, Pierre II de la Chapelle, évêque de Paris, érige la communauté en paroisse indépendante, en la détachant de Saint-Léger. Au fil du temps, le village s’organise : une léproserie est mentionnée en 1315, puis, au XVe siècle, Stains s’établit en seigneurie. Le château fait ensuite basculer la mémoire locale : en 1752, Jean-Charles Perrinet d'Orval y fait bâtir un château, acheté en 1810 par Jérôme Bonaparte, roi de Westphalie.\n\nLe 7 octobre 1870, un événement singulier coupe le quotidien : le ballon monté Piper No 1, parti de la place Saint-Pierre assiégée par les Prussiens, atterrit à Stains par erreur de manœuvre. Après cette période troublée, l’église Notre-Dame-de-l’Assomption voit ses voûtes reconstruites après les bombardements de la guerre de 1870.\n\nCôté ville, l’Hôtel de ville devient peu à peu l’équipement central : la municipalité décide d’en acquérir le bâtiment en 1883, y mène des travaux en 1911, puis l’édifice est inscrit aux Monuments Historiques en 1928. Pendant ce temps, les lignes et passerelles modernes s’installent autour de Stains, comme le passage souterrain créé en 1973 sur l’avenue Daniel-Falempin.",
+  "chronologie": [
+   {
+    "date": "février 1213",
+    "texte": "La communauté est érigée en paroisse indépendante par Pierre II de la Chapelle, évêque de Paris, par distraction de la paroisse de Saint-Léger, via une charte de l’abbaye de Saint-Denis.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1315",
+    "texte": "Stains possède une léproserie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Stains est établi en seigneurie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1560",
+    "texte": "L’église reçoit sa dédicace le 10 juin 1560 d’Eustache du Bellay, évêque de Paris.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1752",
+    "texte": "Jean-Charles Perrinet d'Orval fait bâtir le château de Stains.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "7 octobre 1870",
+    "texte": "Un ballon, Piper No 1, atterrit à Stains à la suite d’une erreur de manœuvre, juste avant les lignes ennemies.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1883",
+    "texte": "La municipalité décide d’acquérir l’Hôtel de ville de Stains pour en faire la mairie.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1911",
+    "texte": "De nouveaux travaux sont entrepris pour l’Hôtel de ville de Stains.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "19 octobre 1928",
+    "texte": "Le bâtiment de l’Hôtel de ville de Stains est inscrit en totalité monument historique.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôtel de ville de Stains",
+   "histoire": "Édifice administratif qui abrite la mairie, situé avenue Paul-Vaillant-Couturier. La municipalité décide d’en acquérir le bâtiment en 1883, mène de nouveaux travaux en 1911 et l’édifice est inscrit aux Monuments Historiques en 1928.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 48.955435,
+   "lon": 2.38252,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Stains"
+  },
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption de Stains",
+   "histoire": "Église catholique dédiée à l’Assomption de la Vierge Marie. Sa paroisse a été érigée en 1213, puis la construction dans la seconde moitié du XVIe siècle reçoit sa dédicace le 10 juin 1560 ; les voûtes sont reconstruites après les bombardements de la guerre de 1870.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.956818,
+   "lon": 2.382335,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_de_Stains"
+  },
+  {
+   "nom": "Gare de Stains-Grande-Ceinture",
+   "histoire": "Ancienne gare ferroviaire sur le territoire de Stains, sur la ligne de la grande ceinture de Paris. Elle est mise en service le 2 janvier 1882 lors de l’ouverture aux voyageurs de la section Achères – Noisy-le-Sec.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 48.959253,
+   "lon": 2.377917,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Stains-Grande-Ceinture"
+  },
+  {
+   "nom": "Avenue Daniel-Falempin",
+   "histoire": "Voie de communication de Stains. Jugée incommode et même périlleuse, notamment en hiver, elle est remplacée en 1973 par un passage souterrain construit aux frais des communes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 48.96354004,
+   "lon": 2.37563914,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Daniel-Falempin"
+  },
+  {
+   "nom": "Rue du Repos (Stains)",
+   "histoire": "Voie du centre historique de Stains. Elle se prolongeait autrefois vers l’est, interrompue par la ligne de Grande Ceinture ouverte dès 1875, aujourd’hui sur ce tronçon la ligne 11 du tramway d’Île-de-France.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 48.957113308333,
+   "lon": 2.38383235,
+   "url": "https://fr.wikipedia.org/wiki/Rue_du_Repos_%28Stains%29"
+  },
+  {
+   "nom": "Avenue Marcel-Cachin",
+   "histoire": "Voie de communication de Stains. Elle se rencontre entre autres avec la rue Jean-Jaurès et l’avenue Jules-Guesde, puis passe sous le pont de la ligne de Grande Ceinture où circule aujourd’hui la ligne 11 du tramway d’Île-de-France.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 48.958835,
+   "lon": 2.382231,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Marcel-Cachin"
+  },
+  {
+   "nom": "Boulevard Maxime-Gorki",
+   "histoire": "L’une des principales voies de communication de Stains, qui suit l’ex-route nationale 301 aujourd’hui D901.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24"
+   ],
+   "lat": 48.950091,
+   "lon": 2.385895,
+   "url": "https://fr.wikipedia.org/wiki/Boulevard_Maxime-Gorki"
+  },
+  {
+   "nom": "Avenue de Stalingrad (Stains)",
+   "histoire": "Voie de communication de Stains. Emplacement d’une ancienne église administrée par le vicaire de l’église des Trois-Patrons, rattachée en 1697 à la paroisse de Saint-Rémy à Saint-Denis.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26"
+   ],
+   "lat": 48.954452,
+   "lon": 2.392616,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_de_Stalingrad_%28Stains%29"
+  }
+ ],
+ "sources": [
+  "Stains ([stɛ̃] ; ) est une commune française, située dans le département de la Seine-Saint-Denis en région Île-de-France. Ses habitants sont appelés les Stanois et les Stanoises.",
+  "La communauté est érigée en paroisse indépendante par Pierre II de la Chapelle, évêque de Paris en février 1213, par distraction de la paroisse de Saint-Léger, par une charte de l'abbaye de Saint-Denis. En 1315, Stains a une léproserie. Au XVe siècle, elle est établie en seigneurie. L'église date en partie du XVIe siècle. En 1480, Louis XI donne la seigneurie à Jacques de Saint-Benoist son chambellan. Les terres et […]",
+  "1213 : La communauté est érigée en paroisse indépendante par Pierre II de la Chapelle, évêque de Paris en février 1213, par distraction de la paroisse de Saint-Léger, par une charte de l'abbaye de Saint-Denis.",
+  "1752 : En 1752, Jean-Charles Perrinet d'Orval, fermier général, y fit bâtir le superbe château que Jérôme Bonaparte, roi de Westphalie, acheta en 1810.",
+  "1870 : Le 7 octobre 1870, un ballon monté dénommé Piper No 1 (ou non dénommé No 2), parti de la place Saint-Pierre à Paris, assiégée par les Prussiens, monté par M. Piper et son secrétaire M. Friedman, atterrit à Stains, à la suite d'une erreur de manœuvre, juste avant les lignes ennemies.",
+  "Lieu « Hôtel de ville de Stains » : L'hôtel de ville de Stains est un édifice administratif abritant la mairie de Stains, situé avenue Paul-Vaillant-Couturier dans le département de Seine-Saint-Denis, en France.",
+  "Lieu « Hôtel de ville de Stains », 1883 : En 1883, la municipalité décide d'acquérir ce bâtiment pour en faire la mairie.",
+  "Lieu « Hôtel de ville de Stains », 1911 : En 1911, de nouveaux travaux sont entrepris et en 1928, l'édifice est inscrit aux Monuments Historiques.",
+  "Lieu « Hôtel de ville de Stains », 1928 : Le bâtiment est en totalité inscrit monument historique depuis le 19 octobre 1928.",
+  "Lieu « Hôtel de ville de Stains », aujourd'hui : Après la guerre de 1870, seules les écuries subsistent du château de Stains qui appartenait alors à la famille Hainguerlot, puis à Alphée Bourdon de Vatry, maire de la commune.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Stains » : L'église Notre-Dame-de-l'Assomption située à Stains, en Seine-Saint-Denis, est un édifice religieux catholique dédié à l'Assomption de la Vierge Marie.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Stains », 1213 : Auparavant, la paroisse avait été érigée par Pierre de Nemours en 1213.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Stains », 1560 : Construite dans la seconde moitié du XVIe siècle, elle reçoit sa dédicace le 10 juin 1560 d'Eustache du Bellay, évêque de Paris.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Stains », 1870 : Les voûtes ont été reconstruites après les bombardements de la guerre de 1870.",
+  "Lieu « Gare de Stains-Grande-Ceinture » : La gare de Stains-Grande-Ceinture, dite parfois gare de Stains - Pierrefitte, est une ancienne gare ferroviaire située sur le territoire de la commune de Stains (Seine-Saint-Denis), sur la ligne de la grande ceinture de Paris, entre la gare d'Épinay",
+  "Lieu « Gare de Stains-Grande-Ceinture », 1882 : Elle est mise en service le 2 janvier 1882, lors de l'ouverture aux voyageurs de la section Achères – Noisy-le-Sec.",
+  "Lieu « Avenue Daniel-Falempin » : L'avenue Daniel-Falempin est une voie de communication de la commune de Stains en Seine-Saint-Denis.",
+  "Lieu « Avenue Daniel-Falempin », 1973 : Celle-ci, incommode et même périlleuse, notamment en hiver, fut remplacée en 1973 par un passage souterrain, construit aux frais des communes.",
+  "Lieu « Rue du Repos (Stains) » : La rue du Repos est une voie du centre historique de Stains.",
+  "Lieu « Rue du Repos (Stains) », 1875 : Cette rue se prolongeait autrefois vers l'est, jusqu'à ce qu'elle soit interrompue par la ligne de Grande Ceinture, ouverte dès 1875, devenue aujourd'hui sur ce tronçon la ligne 11 du tramway d'Île-de-France.",
+  "Lieu « Avenue Marcel-Cachin » : L'avenue Marcel-Cachin est une voie de communication de la commune de Stains en Seine-Saint-Denis.",
+  "Lieu « Avenue Marcel-Cachin », aujourd'hui : Rencontrant entre autres la rue Jean-Jaurès et l'avenue Jules-Guesde, elle s'incurve vers le sud et passe sous le pont de la ligne de Grande Ceinture, où circule aujourd'hui la ligne 11 du tramway d'Île-de-France.",
+  "Lieu « Boulevard Maxime-Gorki » : Le boulevard Maxime-Gorki est une des principales voies de communication de Stains.",
+  "Lieu « Boulevard Maxime-Gorki », aujourd'hui : Il suit l'ex-route nationale 301 actuellement D901.",
+  "Lieu « Avenue de Stalingrad (Stains) » : L'avenue de Stalingrad est une voie de communication de Stains.",
+  "Lieu « Avenue de Stalingrad (Stains) », aujourd'hui : Emplacement d'une ancienne église, administrée par le vicaire de l'église des Trois-Patrons, et rattachée en 1697 à la paroisse de Saint-Rémy à Saint-Denis."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

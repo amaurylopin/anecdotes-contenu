@@ -1,0 +1,349 @@
+{
+ "commune": {
+  "titre": "Sevran",
+  "code_insee": "93071",
+  "departement": "93",
+  "population": 52535,
+  "lat": 48.9378,
+  "lon": 2.5311,
+  "url": "https://fr.wikipedia.org/wiki/Sevran"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:31:58",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3068,
+  "sortie": 2364
+ },
+ "cout_usd": 0.003569,
+ "accroche": "En 1643, le château de Sevran est érigé en fief, marquant l’affirmation des pouvoirs locaux.",
+ "histoire": {
+  "recit": "Sevran, ancienne halte de la plaine de France, se transforme vite : sa population explose pendant les années 1960 et 1970, jusqu’à en faire une ville de la banlieue nord-est de Paris. Avant ces grandes mutations, un testament du VIe siècle fait déjà remonter le nom de Sevran, avec une donation de vigne à la basilique de Cevrent. Plus tard, le canal de l’Ourcq ouvre un nouvel élan, d’abord ordonné par décret en 1802 puis mis en service en 1822.\n\nLe centre de Sevran bascule aussi au rythme des événements : en 1944, le 28 août, il est libéré par les troupes américaines. Au XXe siècle, la commune traverse ensuite la désindustrialisation, proche de la faillite au début des années 2000, avant que les aménagements de transport ne redessinent le territoire avec la transformation de la ligne en tramway et la création de la station Rougemont-Chanteloup.\n\nDans le même temps, les lieux gardent des traces plus anciennes. À l’Église Saint-Martin de Sevran, un sanctuaire funéraire mérovingien a été découvert lors de sondages ; près de là, la maison du Fayet, longtemps appelée à tort château, conserve des bâtiments issus des travaux d’Alfred Nobel, aujourd’hui réaffectés.",
+  "chronologie": [
+   {
+    "date": "VIe siècle",
+    "texte": "Dans un testament, Ermenthrude mentionne Sevran et prévoit une donation de vigne destinée à la basilique de Cevrent.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1643",
+    "texte": "Le château de Sevran est érigé en fief.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "29 floréal an X (19 mai 1802)",
+    "texte": "Un décret de Napoléon Bonaparte ordonne l’ouverture du canal de l’Ourcq.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1822",
+    "texte": "L’ouverture du canal de l’Ourcq intervient.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "12 juillet 1902",
+    "texte": "La commune ferme l’école des Sœurs de la Providence d’Alençon, installée depuis 1861.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "29 mars 1913",
+    "texte": "Un accord est signé pour un projet de réseau à partir d’un transformateur à la gare.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "28 août 1944",
+    "texte": "Le centre de Sevran est libéré par les troupes américaines.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1997",
+    "texte": "L’usine Westinghouse est démantelée.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2004-2006",
+    "texte": "La ligne de Bondy à Aulnay-sous-Bois est transformée pour devenir la ligne 4 du tramway d’Île-de-France, avec la station Rougemont-Chanteloup à Sevran.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2 septembre 2016",
+    "texte": "Une tour de la résidence Belle-Aurore est démolie par grignotage.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Sevran",
+   "histoire": "Église catholique située au 13 bis, rue Lucien-Sampaix, à Sevran. Le bâtiment actuel date du XVIe siècle et est consacré à saint Martin en 1551. Une première travée est détruite par un incendie en 1981, puis une salle paroissiale est adjointe en 1986. Des sondages ont révélé un sanctuaire funéraire mérovingien avec des sarcophages de plâtre, daté du VIe ou VIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Sous l’emplacement de l’église, les sondages de décembre 1980-janvier 1981 ont mis au jour un sanctuaire funéraire mérovingien.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "La consécration de 1551 s’accompagne de pierres tombales encore visibles, notamment celles de Charles Maheut.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.936953,
+   "lon": 2.530285,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Sevran"
+  },
+  {
+   "nom": "La maison du Fayet (Sevran)",
+   "histoire": "La maison du Fayet, appelée à tort Château de Fayet, se situe rue Roger-Le-Maner à Sevran. Sans fondation, elle est une maison bourgeoise construite au XVIIIe siècle, à partir d’un acte du 19 juillet 1747. Les laboratoires où a travaillé Alfred Nobel existent toujours, mais servent de remises aux services municipaux et de local pour un club de radioamateurs.",
+   "anecdotes": [
+    {
+     "texte": "On l’a longtemps appelée « château », mais l’appellation serait exagérée pour une maison bourgeoise sans fondation.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Les laboratoires liés à Alfred Nobel ne sont pas un musée : ils servent désormais de remises et de local pour des radioamateurs.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.9389,
+   "lon": 2.52833,
+   "url": "https://fr.wikipedia.org/wiki/La_maison_du_Fayet_%28Sevran%29"
+  },
+  {
+   "nom": "Rougemont (quartier)",
+   "histoire": "Rougemont est un quartier de la ville de Sevran. Il a été exploité par les Messieurs de Saint-Lazare jusqu’à la Révolution, période où le domaine est vendu en 1793 comme bien national. Entre 1960 et 1974, 2 000 logements et des équipements, dont l’hôpital René-Muret-Bigottini, y sont construits. Aujourd’hui, le quartier est aussi cité comme origine de plusieurs artistes et combattants.",
+   "anecdotes": [
+    {
+     "texte": "Au décès de Saint-Vincent de Paul, l’exploitation du domaine se poursuit, avant une vente en 1793 comme bien national.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.9349,
+   "lon": 2.5133,
+   "url": "https://fr.wikipedia.org/wiki/Rougemont_%28quartier%29"
+  },
+  {
+   "nom": "Hôtel de ville de Sevran",
+   "histoire": "L’hôtel de ville de Sevran est le principal bâtiment administratif de la commune. Il est installé dans un des bâtiments du fief de la Fossée, construit au début du XIXe siècle, ayant servi notamment de maison de convalescence pour des gardiens de la paix blessés, ou de conservatoire de musique. La mairie a été installée vers 1891 dans l’ancienne demeure d’Alfred Nobel. Le bâtiment est détruit en 2017 faute d’espace, pour être remplacé par un espace vert.",
+   "anecdotes": [
+    {
+     "texte": "La mairie a d’abord occupé l’ancienne demeure d’Alfred Nobel, avant d’être déplacée.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    },
+    {
+     "texte": "Trop exigu, le bâtiment détruit en 2017 a laissé place à un espace vert.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.93944,
+   "lon": 2.52579,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Sevran"
+  },
+  {
+   "nom": "Place Gaston-Bussière",
+   "histoire": "La place Gaston-Bussière est un carrefour central de Sevran, située sur un axe majeur formé par l’avenue du Général-Leclerc et la rue Lucien-Sportiss, voie bâtie depuis le début du XVIIe siècle au moins. Une sculpture en bronze intitulée « Élévation », de Christian Kazan, est inaugurée en décembre 1996 en hommage à Alfred Nobel. La place est aussi visible sur le plan de l’abbé Delagrive réalisé en 1740.",
+   "anecdotes": [
+    {
+     "texte": "La place accueille « Élévation », une sculpture en bronze inaugurée en décembre 1996 en hommage à Alfred Nobel.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    },
+    {
+     "texte": "On voit la place Gaston-Bussière sur le plan de l’abbé Delagrive, réalisé en 1740.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.93758,
+   "lon": 2.52982,
+   "url": "https://fr.wikipedia.org/wiki/Place_Gaston-Bussi%C3%A8re"
+  },
+  {
+   "nom": "Montceleux",
+   "histoire": "Montceleux désigne une ferme et un domaine situés sur les territoires de Sevran et Villepinte. Le plan de la terre et seigneurie de Montceleux près Sevran de Danvin (1710) figure trois corps de bâtiments. Vers 2000, un bâtiment de ferme est détruit et le terrain devient le parc de la Ferme de Montceleux, situé rue Gabriel-Péri sur le nord de la commune de Sevran.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 48.9435083,
+   "lon": 2.5326083,
+   "url": "https://fr.wikipedia.org/wiki/Montceleux"
+  },
+  {
+   "nom": "Hôpital René-Muret-Bigottini",
+   "histoire": "L’hôpital René-Muret est fondé en 1967 à Sevran et Aulnay-sous-Bois. Aujourd’hui, il se compose de quatre bâtiments situés dans un parc arboré.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.935272,
+   "lon": 2.508656,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Ren%C3%A9-Muret-Bigottini"
+  },
+  {
+   "nom": "Les Beaudottes",
+   "histoire": "Les Beaudottes est un grand ensemble à 74 % HLM situé à Sevran. La terre est érigée en fief le 8 mai 1577. Le quartier compte près de 10 600 habitants actuellement.",
+   "anecdotes": [
+    {
+     "texte": "Les Beaudottes tirent aussi leur origine d’une terre érigée en fief le 8 mai 1577.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.946773,
+   "lon": 2.518208,
+   "url": "https://fr.wikipedia.org/wiki/Les_Beaudottes"
+  }
+ ],
+ "sources": [
+  "Sevran est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France. Autrefois petit village de la plaine de France, la commune a connu un important développement démographique durant les années 1960 et 1970, faisant quadrupler sa population en moins de quarante ans et est devenue une ville de la banlieue nord-est de Paris. La ville abrite sur une partie de son territoire le […]",
+  "Au VIe siècle, dans son testament, Ermenthrude mentionne Sevran. Ainsi il apparait la mention suivante : « Vinex predatura una sita in monte Blixata quem Leudefredocolit, Basilicae Sancti Martini Ciperente dari jubes », traduction du latin : « Je veux qu'on donne à la basilique de Cevrent une certaine pièce de vigne située sur le mont Blixa qui est façonnée par Eufroy. ». Des fouilles archéologiques réalisées en […]",
+  "1643 : En 1643, le château de Sevran est érigé en fief.",
+  "1802 : En 1802, avec un décret du 29 floréal an X (19 mai 1802) Napoléon Bonaparte, alors Premier consul, ordonne l'ouverture du canal de l'Ourcq.",
+  "1822 : L'ouverture du canal intervient en 1822.",
+  "1902 : À la suite de l'expulsion des congrégations (1902-1903), la commune ferme le 12 juillet 1902[réf. nécessaire] l'école des Sœurs de la Providence d'Alençon installée depuis 1861[réf. nécessaire].",
+  "1913 : Un accord est signé le 29 mars 1913 pour un projet de réseau à partir d'un transformateur à la gare.",
+  "1930 : Une nouvelle école est construite en 1930 à Sevran.",
+  "1944 : Le 28 août 1944, le centre de Sevran est libéré par les troupes américaines.",
+  "1997 : Malgré l'effort des syndicats et des ouvriers, l'usine Westinghouse a été démantelée en 1997[réf. incomplète].",
+  "2000 : Au début des années 2000, frappée par la désindustrialisation, la commune est pratiquement en faillite, présente un fort taux de chômage et les bâtiments municipaux sont souvent délabrés au point d’être parfois dangereux.",
+  "2004 : En 2004-2006, l'infrastructure de la ligne de Bondy à Aulnay-sous-Bois est transformée pour devenir la ligne 4 du tramway d'Île-de-France, qui s'accompagne de la création de la station Rougemont-Chanteloup à Sevran.",
+  "2016 : Le 2 septembre 2016, une des trois tours de dix-sept étages de la résidence Belle-Aurore, construite au milieu des années 1970 dans ce quartier limitrophe de Villepinte, a été démolie par grignotage.",
+  "Lieu « Église Saint-Martin de Sevran » : L'église Saint-Martin est une église catholique située au 13 bis, rue Lucien-Sampaix, à Sevran.",
+  "Lieu « Église Saint-Martin de Sevran », 1551 : Le bâtiment actuel qui date du XVIe siècle, et est consacré à saint Martin en 1551, possède encore des pierres tombales datant de cette époque, notamment celles de Charles Maheut, notaire du roi, qui acquiert la seigneurie de Sevran en 1569.",
+  "Lieu « Église Saint-Martin de Sevran », 1981 : La première travée de l'édifice a été détruite, en 1981, par un incendie.",
+  "Lieu « Église Saint-Martin de Sevran », 1986 : En 1986, une salle paroissiale lui a été adjointe, construite par l'architecte Mathieu.",
+  "Lieu « Église Saint-Martin de Sevran », aujourd'hui : Découvert par des sondages opérés en décembre 1980-janvier 1981, un sanctuaire funéraire mérovingien comprenant des sarcophages de plâtre, et datant du VIe ou VIIe siècle, se trouvait à cet emplacement.",
+  "Lieu « La maison du Fayet (Sevran) » : La maison du Fayet (appelée à tort Château de Fayet) est située rue Roger-Le-Maner à Sevran en Seine-Saint-Denis.",
+  "Lieu « La maison du Fayet (Sevran) », 1747 : L'appellation de « château » est quelque peu exagérée pour cette maison bourgeoise construite sans fondation au XVIIIe siècle (acte du 19 juillet 1747).",
+  "Lieu « La maison du Fayet (Sevran) », XIXe siècle : Les laboratoires où a travaillé Alfred Nobel (bâtiment en brique typiques de la fin du XIXe siècle) existent toujours mais servent de remises aux services municipaux, et de local pour un club de radioamateurs.",
+  "Lieu « La maison du Fayet (Sevran) », aujourd'hui : Son choix se porte sur Sevran, à l'époque du département de Seine-et-Oise, actuellement en Seine-Saint-Denis.",
+  "Lieu « Rougemont (quartier) » : Rougemont est un quartier de la ville de Sevran.",
+  "Lieu « Rougemont (quartier) », 1660 : Au décès de Saint-Vincent de Paul, le 27 septembre 1660, ces Messieurs de Saint-Lazare continueront l'exploitation du domaine jusqu'à la Révolution où il est vendu en 1793 comme bien national à un sieur Margueray agissant pour le compte de François Coulmier, ex-abbé, ex-député de l'Assemblée constituante.",
+  "Lieu « Rougemont (quartier) », 1960 : Entre 1960 et 1974, 2 000 logements furent construits ainsi que des équipements comme l'hôpital René-Muret-Bigottini.",
+  "Lieu « Rougemont (quartier) », aujourd'hui : Kaaris, un rappeur français originaire de ce quartier ; Kalash Criminel, un rappeur français originaire de ce quartier ; Cheick Kongo, un combattant français de MMA originaire de ce quartier, combattant anciennement à l'UFC, il est actuellement sous contrat avec Bellator MMA.",
+  "Lieu « Hôtel de ville de Sevran » : L’hôtel de ville de Sevran est le principal bâtiment administratif de la commune de Sevran dans le département de la Seine-Saint-Denis en région Île-de-France.",
+  "Lieu « Hôtel de ville de Sevran », XIXe siècle : La mairie est aujourd'hui installée dans un des bâtiments du fief de la Fossée, construit au début du XIXe siècle et qui servit entre autres de maison de convalescence pour les gardiens de la paix blessés, ou de conservatoire de musique.",
+  "Lieu « Hôtel de ville de Sevran », 1891 : La mairie fut tout d'abord installée vers 1891 dans l'ancienne demeure d'Alfred Nobel.",
+  "Lieu « Hôtel de ville de Sevran », 2017 : Trop exigu pour accueillir tous les conseillers municipaux, ce bâtiment est détruit en 2017 pour être remplacé par un espace vert.",
+  "Lieu « Place Gaston-Bussière » : La place Gaston-Bussière est un carrefour central de Sevran.",
+  "Lieu « Place Gaston-Bussière », XVIIe siècle : Cette place se trouve sur un des axes majeurs de la ville, formé de l'avenue du Général-Leclerc (anciennement route d'Aulnay) à l'ouest et la rue Lucien-Sportiss à l'est, voie bâtie depuis le début du XVIIe siècle au moins.",
+  "Lieu « Place Gaston-Bussière », 1996 : Sculpture en bronze intitulée \"Élévation\", œuvre de Christian Kazan et inaugurée en décembre 1996, en hommage à Alfred Nobel.",
+  "Lieu « Place Gaston-Bussière », aujourd'hui : La place Gaston-Bussière est visible sur le plan de l'abbé Delagrive, réalisé en 1740.",
+  "Lieu « Montceleux » : Montceleux est le nom d'une ferme et d'un domaine situés sur les territoires de Sevran et Villepinte.",
+  "Lieu « Montceleux », 1710 : Le Plan de la terre et seigneurie de Montceleux près Sevran de Danvin (1710) figure trois corps de bâtiments.",
+  "Lieu « Montceleux », 2000 : Un bâtiment de ferme a été détruit vers 2000, et le terrain transformé en parc, le parc de la Ferme de Montceleux, situé rue Gabriel-Péri sur le nord de la commune de Sevran.",
+  "Lieu « Hôpital René-Muret-Bigottini » : L'hôpital René-Muret est fondé en 1967 à Sevran et Aulnay-sous-Bois (Seine-Saint-Denis).",
+  "Lieu « Hôpital René-Muret-Bigottini », 1967 : L'hôpital René-Muret est fondé en 1967 à Sevran et Aulnay-sous-Bois (Seine-Saint-Denis).",
+  "Lieu « Hôpital René-Muret-Bigottini », aujourd'hui : De nos jours, l’hôpital René-Muret est composé « de quatre bâtiments situés dans un parc arboré ».",
+  "Lieu « Les Beaudottes » : La cité des Beaudottes est un grand ensemble à 74 % HLM situé à Sevran (Seine-Saint-Denis).",
+  "Lieu « Les Beaudottes », 1577 : Cette terre sera érigée en fief le 8 mai 1577.",
+  "Lieu « Les Beaudottes », aujourd'hui : Le quartier compte près de 10 600 habitants actuellement."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}

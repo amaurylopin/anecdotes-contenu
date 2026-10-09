@@ -1,0 +1,306 @@
+{
+ "commune": {
+  "titre": "Bagnolet",
+  "code_insee": "93006",
+  "departement": "93",
+  "population": 43086,
+  "lat": 48.8671,
+  "lon": 2.4252,
+  "url": "https://fr.wikipedia.org/wiki/Bagnolet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:38:25",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3476,
+  "sortie": 1866
+ },
+ "cout_usd": 0.003028,
+ "accroche": "En 1255, Bagnolet apparaît dans un cartulaire de l’abbaye de Saint-Maur daté du temps de Louis IX, autour d’un terrain sur la paroisse de Montreuil et/ou de Romainville.",
+ "histoire": {
+  "recit": "À Bagnolet, tout commence comme une affaire de titres et de paroisses : en 1255, un cartulaire de l’abbaye de Saint-Maur parle d’un terrain, sans que la paroisse de Bagnolet existe encore. Puis vient la justice : en 1258, le Parlement de Paris attribue la justice du sang et de la mêlée à Huet Chauvin de Bagnolet, écuyer propriétaire d’une part du tonlieu de pain vendu à Paris. Les siècles continuent par coups de théâtre : en 1411, des maisons, dont celle de Pierre des Essarts, sont incendiées par l’armée des Princes.\n\nPlus près de nous, la ville se réorganise par étapes. Les documents figurent l’église dès 1552 sur un plan de Truschet et Hoyau. En 1881, l’hôtel de ville se construit, tandis que des écoles prennent place. Les années 1960 marquent une rupture : une partie de Bagnolet disparaît pour l’autoroute A3 et la porte de Bagnolet.\n\nAujourd’hui, certains repères vivent autrement : la station Gallieni, ouverte le 2 avril 1971, prolonge la ligne 3 ; et le parc Jean-Moulin–Les Guilands relie deux anciens domaines convertis en un seul grand parc, avec une Maison du parc ouverte en juillet 2016.",
+  "chronologie": [
+   {
+    "date": "1255",
+    "texte": "Bagnolet est mentionné dans un cartulaire de l’abbaye de Saint-Maur, du temps du règne de Louis IX, à propos d’un terrain sur la paroisse de Montreuil et/ou de Romainville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1258",
+    "texte": "Le Parlement de Paris arrête que la justice du sang et de la mêlée appartient à Huet Chauvin de Bagnolet ; l’écuyer possède aussi le tiers du tonlieu de pain vendu à Paris.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1411",
+    "texte": "Des maisons, dont celle de Pierre des Essarts, sont incendiées par l’armée des Princes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1552",
+    "texte": "Première représentation connue de l’église supposée à l’emplacement de l’actuel édifice, sur un plan de Truschet et Hoyau.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1700",
+    "texte": "Bagnolet est vendu à François (ou Jean) Le Juge, fermier général, après le décès de Marie en 1692.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "Des équipements publics sont construits : une mairie et des écoles à proximité du bourg.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "Une partie de Bagnolet est détruite pour construire l’autoroute A3 et la porte de Bagnolet.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1971",
+    "texte": "Une fois les éléments fonctionnels achevés, les crédits se tarissent et le projet est limité au strict nécessaire.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "Les tours Mercuriales sont achevées.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Parc Jean-Moulin–Les Guilands",
+   "histoire": "Parc public sur les communes de Bagnolet et Montreuil, il naît de la conversion, décidée en mai 2001, de deux domaines reliés en un seul grand parc.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S13",
+    "S14",
+    "S15",
+    "S12"
+   ],
+   "lat": 48.863167,
+   "lon": 2.425275,
+   "url": "https://fr.wikipedia.org/wiki/Parc_Jean-Moulin%E2%80%93Les_Guilands"
+  },
+  {
+   "nom": "Gallieni (métro de Paris)",
+   "histoire": "Station de la ligne 3 sur Bagnolet, Gallieni est ouverte le 2 avril 1971 après le prolongement de la ligne 3 ; elle s’installe ensuite sous la gare routière internationale de Paris-Gallieni.",
+   "anecdotes": [
+    {
+     "texte": "Malgré sa construction dans les années 1970, les piédroits de la salle d’échanges conservent le carrelage blanc biseauté, un cas jugé rare sur le réseau ferré de la RATP pour les dernières décennies.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle constitue depuis lors le nouveau terminus oriental, en remplacement du terminus précédent de Porte des Lilas.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 48.864936,
+   "lon": 2.416637,
+   "url": "https://fr.wikipedia.org/wiki/Gallieni_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Avenue de Stalingrad (Bagnolet)",
+   "histoire": "Axe important de Bagnolet, l’avenue a accueilli la cité des Grands-Champs en 1919, détruite progressivement dès les années 1930 jusqu’en 1952, puis remplacée en 1953 par une cité de relogement aux mêmes noms.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.87421,
+   "lon": 2.42808,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_de_Stalingrad_%28Bagnolet%29"
+  },
+  {
+   "nom": "Rue Robespierre (Bagnolet)",
+   "histoire": "Axe important de Bagnolet, la rue Robespierre est marquée par le sous-sol : une partie est bâtie sur des carrières de gypse, et une main-d’œuvre s’installe à la fin du XIXe siècle pour des briqueries ouvertes dans la rue.",
+   "anecdotes": [
+    {
+     "texte": "Des carrières de gypse étaient accessibles par un ancien chemin d’accès, à l’emplacement de l’actuelle A3, en s’appuyant sur le site de l’ancienne huilerie Monin et Brunner, une bâtisse du XIXe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "La fin du XIXe siècle voit une importante main-d’œuvre s’installer dans les environs, pourvoir aux besoins des briqueries ouvertes dans la rue Robespierre.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S30",
+    "S29"
+   ],
+   "lat": 48.86229,
+   "lon": 2.41939,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Robespierre_%28Bagnolet%29"
+  },
+  {
+   "nom": "Tours Mercuriales",
+   "histoire": "Deux tours jumelles de bureaux achevées en 1976, elles se dressent de part et d’autre de l’autoroute A3.",
+   "anecdotes": [
+    {
+     "texte": "En 2011, une highline a été installée entre les deux tours, devenue le sujet d’un film intitulé I believe I can fly - flight of the frenchies.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.867222,
+   "lon": 2.415278,
+   "url": "https://fr.wikipedia.org/wiki/Tours_Mercuriales"
+  },
+  {
+   "nom": "Église Saint-Leu-Saint-Gilles de Bagnolet",
+   "histoire": "Église catholique située au 92 de la rue Sadi-Carnot, fondée en 1235. Au XVIe siècle, trois travées orientales et la chapelle sont construites, avec des éléments portant les initiales et les armes d’Henri II et de Diane de Poitiers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.870317,
+   "lon": 2.420641,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Leu-Saint-Gilles_de_Bagnolet"
+  },
+  {
+   "nom": "Hôtel de ville de Bagnolet",
+   "histoire": "Construit en 1881, l’hôtel de ville a vu ses plans approuvés dès 1870 avant d’être interrompus par la guerre puis repris en 1972. La construction, confiée à l’architecte C. Moniére et à l’entrepreneur Rueff, s’achève en 1881.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment a été construit en 1881.",
+   "sources": [
+    "S41",
+    "S42",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.8687,
+   "lon": 2.4169,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Bagnolet"
+  },
+  {
+   "nom": "Rue Sadi-Carnot (Bagnolet)",
+   "histoire": "Par cette rue, on rejoint l’église Saint-Leu-Saint-Gilles et l’histoire du château de l’étang : une maison construite vers 1873 y porte le nom lié à une glaisière alimentant en eau le château de Bagnolet, ses fontaines et le ruisseau du parc.",
+   "anecdotes": [
+    {
+     "texte": "Le château de l’étang tirait son nom de la présence d’une glaisière utilisée pour alimenter en eau le château de Bagnolet, ainsi que les fontaines et le ruisseau du parc.",
+     "statut": "etabli",
+     "sources": [
+      "S45"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Emplacement de l’ancienne mairie, près de la rue Marianne-Colombier (anciennement rue Aubert).",
+   "sources": [
+    "S46",
+    "S44"
+   ],
+   "lat": 48.86682,
+   "lon": 2.41805,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Sadi-Carnot_%28Bagnolet%29"
+  }
+ ],
+ "sources": [
+  "Bagnolet est une commune française, située dans le département de la Seine-Saint-Denis en région Île-de-France",
+  "La première mention de Bagnolet se trouve dans un cartulaire de l'abbaye de Saint-Maur daté de 1255, du temps du règne de Louis IX. Il s'agit certainement du titre de propriété d'un terrain situé sur la paroisse de Montreuil et/ou de Romainville - la paroisse de Bagnolet n'existant pas encore. L'établissement de la paroisse date au plus tard de 1377, année où un nommé Regnault en est le curé, selon les registres du […]",
+  "1258 : Il ne peut en être fait qu'un inventaire chronologique, un peu disparate et non exhaustif pour en esquisser la structure : 1258 : le Parlement de Paris arrête que la justice du sang et de la mêlée appartient audit Huet Chauvin de Bagnolet ; cet écuyer a la propriété du tiers du tonlieu de pain vendu à Paris.",
+  "1411 : Bagnolet n'y échappe pas et voit des maisons, dont celle de Pierre des Essarts, incendiées par l'armée des Princes en 1411.",
+  "1552 : De l'église supposée être à l'emplacement de l'actuel édifice – dans le « fossé » avec quelques feux autour – nulle trace dans les documents de l'époque ; la première représentation connue date de 1552 (plan de Truschet et Hoyau).",
+  "1700 : En 1700 – après le décès de Marie en 1692 – Bagnolet sera vendu à François (ou Jean ?) Le Juge, fermier général.",
+  "1881 : De nouveaux équipements publics sont construits lors de cette période : une mairie et des écoles à proximité du bourg (1881), une école dans le quartier des Coutures (1887), le raccordement à l'eau potable (1870), l'éclairage au gaz (1862) et l'électricité (1905).",
+  "1960 : Dans les années 1960, une partie de Bagnolet est détruite pour construire l'autoroute A3 et la porte de Bagnolet.",
+  "1971 : Malheureusement, en 1971, une fois les éléments fonctionnels achevés, les crédits se tarissent et limitent le projet au strict nécessaire.",
+  "1976 : Les tours Mercuriales sont achevées en 1976, de même que d'autres tours plus petites, de part et d'autre de l'autoroute A3.",
+  "Lieu « Parc Jean-Moulin–Les Guilands » : Le parc Jean-Moulin–Les Guilands est un parc public situé sur les communes de Bagnolet et Montreuil, en Seine-Saint-Denis.",
+  "Lieu « Parc Jean-Moulin–Les Guilands », 1865 : Une première carrière de gypse est construite en 1865.",
+  "Lieu « Parc Jean-Moulin–Les Guilands », 2001 : En mai 2001, la décision est prise de relier ces deux domaines et de les convertir en un seul grand parc.",
+  "Lieu « Parc Jean-Moulin–Les Guilands », 2016 : La Maison du parc, ouverte en juillet 2016, accueille diverses manifestations.",
+  "Lieu « Parc Jean-Moulin–Les Guilands », aujourd'hui : En 1946, une piste de motocross est créée à l'emplacement des anciennes carrières.",
+  "Lieu « Gallieni (métro de Paris) » : Gallieni est une station de la ligne 3 du métro de Paris, située sur la commune de Bagnolet.",
+  "Lieu « Gallieni (métro de Paris) », 1970 : Bien que la station fut édifiée dans les années 1970, les piédroits de la salle d'échanges sont recouverts du traditionnel carrelage blanc biseauté, ce qui constitue un cas rare dans les stations construites au cours des dernières décennies sur le réseau ferré de la RATP.",
+  "Lieu « Gallieni (métro de Paris) », 1971 : La station est ouverte le 2 avril 1971 avec la mise en service du prolongement de la ligne 3, dont le tracé est dévié depuis Gambetta afin d'améliorer la desserte de la ville de Bagnolet.",
+  "Lieu « Gallieni (métro de Paris) », 2020 : La station est implantée sous la gare routière internationale de Paris-Gallieni (fermée depuis 2020) au cœur d'un complexe autoroutier à la jonction de l'autoroute A3 et du boulevard périphérique de Paris.",
+  "Lieu « Gallieni (métro de Paris) », aujourd'hui : Elle en constitue depuis lors le nouveau terminus oriental, en remplacement du terminus précédent de Porte des Lilas, le tronçon entre ce dernier et la station Gambetta étant débranché depuis le 27 mars 1971 pour devenir l'actuelle ligne 3 bis.",
+  "Lieu « Avenue de Stalingrad (Bagnolet) » : L'avenue de Stalingrad est un des axes importants de Bagnolet.",
+  "Lieu « Avenue de Stalingrad (Bagnolet) », 1919 : La cité des Grands-Champs fut construite en 1919 par l'architecte Raoul Brandon, mais progressivement détruite dès les années 1930, et ce, jusqu'en 1952.",
+  "Lieu « Avenue de Stalingrad (Bagnolet) », 1953 : En 1953 fut construit au même endroit une cité de relogement, elle aussi appelée cité des Grands-Champs.",
+  "Lieu « Avenue de Stalingrad (Bagnolet) », 1962 : Ensemble de logements des Rigondes, édifié entre 1962 et 1964 par l'architecte Jean Balladur, et situé à l'angle de la rue des Rigondes.",
+  "Lieu « Avenue de Stalingrad (Bagnolet) », aujourd'hui : Entre la rue Jeanne-Hornet et la rue Louise-Michel, l'emplacement d'une ancienne cité-jardin.",
+  "Lieu « Rue Robespierre (Bagnolet) » : La rue Robespierre est un des axes importants de Bagnolet en Île-de-France.",
+  "Lieu « Rue Robespierre (Bagnolet) », XIXe siècle : Une partie de la rue est bâtie sur des carrières de gypse, comme en témoignait l'ancien chemin d'accès aux carrières, à l'emplacement de la A3, accessibles par le site de l'ancienne huilerie Monin et Brunner, une bâtisse du XIXe siècle.",
+  "Lieu « Rue Robespierre (Bagnolet) », XIXe siècle : À la fin du XIXe siècle, une importante main-d'œuvre s'installa dans les environs, pourvoyant aux besoins des briqueries ouvertes dans cette rue.",
+  "Lieu « Rue Robespierre (Bagnolet) », 1993 : Gare routière internationale de Paris-Gallieni, ouverte en 1993, définitivement fermée en 2020.",
+  "Lieu « Rue Robespierre (Bagnolet) », aujourd'hui : La partie nord-ouest de cette rue qui menait jusqu'à la rue de Paris (aujourd'hui rue Paul-Vaillant-Couturier) a été détruite lors de la construction de la gare routière internationale de Paris-Gallieni.",
+  "Lieu « Tours Mercuriales » : Les tours Mercuriales sont deux tours jumelles de bureaux situées à Bagnolet, en Seine-Saint-Denis.",
+  "Lieu « Tours Mercuriales », 2011 : Julien Millot, Tancrède Melet, Antoine Moineville, Sébastien Brugalla et Robin Exertier ont installé une highline en 2011 entre ces deux tours, objet du film I believe I can fly - flight of the frenchies de Sébastien Montaz-Rosset.",
+  "Lieu « Tours Mercuriales », 2019 : En juin 2019, le groupe de promotion immobilière britannique Omnam Investment Group, fondé par l'Anglo-israélien David Zisser, décide de racheter les tours et signe un accord de développement avec Marriott.",
+  "Lieu « Tours Mercuriales », 2026 : En Octobre 2026, un poster géant de la jaquette du jeu vidéo Grand Theft Auto VI est installé sur la façade d'une des deux tours pour en promouvoir la sortie, prévue le 19 novembre 2026.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Bagnolet » : L'église Saint-Leu-Saint-Gilles est une église catholique située au 92 de la rue Sadi-Carnot à Bagnolet, à l'angle de la rue Lénine.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Bagnolet », 1235 : Cette église est fondée en 1235, comme l'église Saint-Leu-Saint-Gilles de Paris.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Bagnolet », XVIe siècle : Les trois travées orientales et la chapelle sont construites au XVIe siècle ; on y retrouve les initiales et les armes d'Henri II et de Diane de Poitiers.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Bagnolet », 1970 : Dans les années 1970, le clergé de l'époque, empreint de la théologie de l'enfouissement à la mode dans ces années-là, ne souhaitait plus la réhabilitation de l'édifice jugé comme trop daté.",
+  "Lieu « Hôtel de ville de Bagnolet » : L'Hôtel de Ville de Bagnolet, ville française du département de la Seine-Saint-Denis en région Île-de-France, a été construit en 1881.",
+  "Lieu « Hôtel de ville de Bagnolet », 1870 : C'est en 1870 que furent approuvés les plans d'un nouvel édifice, projet interrompu par la guerre et repris en 1972.",
+  "Lieu « Hôtel de ville de Bagnolet », 1881 : L'Hôtel de Ville de Bagnolet, ville française du département de la Seine-Saint-Denis en région Île-de-France, a été construit en 1881.",
+  "Lieu « Hôtel de ville de Bagnolet », 1881 : La construction, entreprise par l'architecte C.Monière et l'entrepreneur Rueff, fut achevée en 1881.",
+  "Lieu « Rue Sadi-Carnot (Bagnolet) » : La rue Sadi-Carnot est un des axes importants de Bagnolet.",
+  "Lieu « Rue Sadi-Carnot (Bagnolet) », 1235 : Église Saint-Leu-Saint-Gilles de Bagnolet, fondée en 1235, Parc du château de l'Etang, aujourd'hui parc Josette-et-Maurice-Audin, Parc des Sports de la Briqueterie, Cimetière Pasteur, établi en 1833, Tours Mercuriales, construites en 1975.",
+  "Lieu « Rue Sadi-Carnot (Bagnolet) », 1873 : Dans un parc circonscrit par cette rue, l'avenue Pasteur et l'avenue Gambetta, le château de l’étang abritait une maison construite vers 1873 par Charles-Frédéric Bülher, et qui portait ce nom du fait de la présence d'une glaisière utilisée pour alimenter en eau le château de Bagnolet, ainsi que les fontaines et le ruisseau du parc.",
+  "Lieu « Rue Sadi-Carnot (Bagnolet) », aujourd'hui : Emplacement de l'ancienne mairie, près de la rue Marianne-Colombier (anciennement rue Aubert)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

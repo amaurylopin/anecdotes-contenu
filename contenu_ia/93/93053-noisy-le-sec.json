@@ -1,0 +1,383 @@
+{
+ "commune": {
+  "titre": "Noisy-le-Sec",
+  "code_insee": "93053",
+  "departement": "93",
+  "population": 45510,
+  "lat": 48.8894,
+  "lon": 2.4503,
+  "url": "https://fr.wikipedia.org/wiki/Noisy-le-Sec"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:36:31",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3303,
+  "sortie": 2367
+ },
+ "cout_usd": 0.003619,
+ "accroche": "Le 18 avril 1944, la gare de triage de Noisy-le-Sec est bombardée par des avions alliés, dans la nuit du 18 avril au 19 avril 1944.",
+ "histoire": {
+  "recit": "Noisy-le-Sec, en Seine-Saint-Denis, a un passé bien avant la gare. On y a trouvé, dès l’âge du bronze, des traces d’occupation avec un foyer de pierres, des tessons de poterie et des ossements d’animaux, et même un biface du Paléolithique moyen. Plus tard, au voisinage de la gare, 300 pièces romaines de l’Antiquité tardive ont été retrouvées enfouies vers 270.\n\nLe tournant se fait aussi avec les moulins et les voies. Au moins dès 1517, un moulin à vent appelé la Petite tour se tient rue Jean-Jaurès, près de la gare. Au Londeau, un autre moulin, le Moulin Hervy ou Harvy, est attesté en 1618.\n\nMais l’événement qui marque toute la commune, c’est la guerre : la nuit du 18 avril au 19 avril 1944, les bombardements alliés frappent la gare de triage et détruisent le quartier de la gare, obligeant des centaines de sinistrés à se reloger. La reconstruction durera longtemps, pendant que la vie locale se recompose autour de ses lieux de culte et de ses aménagements.",
+  "chronologie": [
+   {
+    "date": "1920",
+    "texte": "Des traces d’occupation préhistorique sont découvertes à Noisy-le-Sec, avec un ensemble de pierres disposées en foyer, des tessons de poterie et des ossements animaux (âge du bronze).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1911",
+    "texte": "Dans l’emprise de la gare, 300 pièces romaines de l’Antiquité tardive sont retrouvées enfouies vers 270.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1517",
+    "texte": "Un moulin à vent, celui de la Petite tour, est mentionné comme existant au moins depuis 1517, rue Jean-Jaurès, près de la gare.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1618",
+    "texte": "Le Moulin Hervy ou Harvy est attesté en 1618, au Londeau.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "Une gare voit le jour avec l’inauguration « sans faste » de la section le 1er juillet 1849, et le train inaugural s’arrête à Noisy-le-Sec pour montrer une station provisoire en bois.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1856",
+    "texte": "La première section de la nouvelle ligne se détachant à Noisy est inaugurée le 7 juillet 1856.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "Noisy devient une gare de triage, aujourd’hui fermée.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "18 avril 1944 - 19 avril 1944",
+    "texte": "La gare de triage est bombardée pour désorganiser la logistique allemande ; le quartier de la gare est détruit, et les sinistrés à reloger se comptent par centaines.",
+    "sources": [
+     "S7",
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Chapelle du Saint-Esprit (Noisy-le-Sec)",
+   "histoire": "Située quartier du Londeau, rue Charles-Baudelaire, la chapelle est liée aux Carmélites du Saint-Esprit et à plusieurs étapes de projet : acquisition en 1923, puis abandon de la réhabilitation scolaire et démolition du couvent, avant la promesse d’une chapelle réalisée en 1971.",
+   "anecdotes": [
+    {
+     "texte": "En 1923, l’ordre des Carmélites du Saint-Esprit en fait l’acquisition après une fondation à Juvisy-sur-Orge en 1918.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Le projet de réhabiliter le bâtiment en établissement scolaire est finalement abandonné, et le couvent est rasé en 1968.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "La promesse d’édifier une chapelle est réalisée en 1971 par l’Œuvre des Chantiers du Cardinal.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.886219,
+   "lon": 2.466029,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_du_Saint-Esprit_%28Noisy-le-Sec%29"
+  },
+  {
+   "nom": "Gare de Noisy-le-Sec",
+   "histoire": "La gare de Noisy-le-Sec s’inscrit dans les lignes reliant Paris-Est à Strasbourg-Ville et à Mulhouse-Ville. Elle s’organise autour d’étapes d’inauguration et de travaux, puis se retrouve au cœur des événements du 18 avril 1944.",
+   "anecdotes": [
+    {
+     "texte": "L’inauguration de la section en 1849 se fait « sans faste » : le train inaugural, tracté par la locomotive « La Ville de Meaux », s’arrête à Noisy-le-Sec pour faire découvrir une élégante station provisoire construite en bois.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "En 1882, Noisy devient une gare de triage, aujourd’hui fermée.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Dans la nuit du 18 avril au 19 avril 1944, la gare de triage est bombardée par des avions alliés pour désorganiser et ralentir la logistique allemande.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Le quartier de la gare est détruit lors des bombardements alliés, avec des sinistrés à reloger par centaines.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.89664,
+   "lon": 2.45967,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Noisy-le-Sec"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste de Noisy-le-Sec",
+   "histoire": "Sur la rue Dombasle, une chapelle construite en 1912 s’avère trop exiguë. Une nouvelle église est construite en 1929, avec une première pierre posée par Monseigneur Eugène Crépin et une inauguration en janvier 1931 alors que l’édifice n’est pas encore achevé.",
+   "anecdotes": [
+    {
+     "texte": "La première pierre de la nouvelle église est posée le 23 juin 1929 par Monseigneur Eugène Crépin, évêque auxiliaire de Paris.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "L’église est inaugurée encore inachevée le 11 janvier 1931 par le Cardinal Jean Verdier.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 48.894278,
+   "lon": 2.4621,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Noisy-le-Sec"
+  },
+  {
+   "nom": "Boulevard de la République (Noisy-le-Sec)",
+   "histoire": "Le boulevard de la République est une artère principale de Noisy-le-Sec, ouverte en 1878 à la suite de la création de la gare. On y trouve aussi la croix de Merlan, devenue calvaire puis déplacée, avant un accident qui la fait briser.",
+   "anecdotes": [
+    {
+     "texte": "La croix de Merlan est appelée calvaire de Merlan ; déplacée en 1889 au rond-point de Merlan, elle est brisée par accident en 1894.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.8945000375,
+   "lon": 2.463330275,
+   "url": "https://fr.wikipedia.org/wiki/Boulevard_de_la_R%C3%A9publique_%28Noisy-le-Sec%29"
+  },
+  {
+   "nom": "Église Saint-Étienne de Noisy-le-Sec",
+   "histoire": "L’église Saint-Étienne connaît plusieurs reconstructions : une période de reconstruction à la fin du XVIe siècle, des dommages à la suite de la Terreur, puis une reconstruction en 1823. En 1944, son clocher est détruit par le bombardement d’avril 1944 ; le bâtiment est restauré en 1991 et les cloches sont déposées sur le tertre de gazon à côté de l’église.",
+   "anecdotes": [
+    {
+     "texte": "Son clocher est détruit à la suite du bombardement d’avril 1944, et la restauration intervient en 1991.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    },
+    {
+     "texte": "Les quatre cloches—Eléonore, Étiennette, Marie-Annonciade et Antonine—sont déposées sur le tertre de gazon à côté de l’église.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.88978,
+   "lon": 2.45078,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Noisy-le-Sec"
+  },
+  {
+   "nom": "Rue Denfert-Rochereau (Noisy-le-Sec)",
+   "histoire": "Sur la rue Denfert-Rochereau, une usine à gaz d’éclairage ouvre en 1869. La rue garde aussi des traces de gestes urbains : une croix est détruite en 1896 sur décision du conseil municipal, et la rue est bombardée dans la nuit du 18 au 19 avril 1944.",
+   "anecdotes": [
+    {
+     "texte": "La croix des petits Noyers est détruite après une délibération du conseil municipal du 12 août 1896 ordonnant d’ôter les croix et calvaires élevés sur la voie publique.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    },
+    {
+     "texte": "La rue Denfert-Rochereau est bombardée dans la nuit du 18 au 19 avril 1944.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.889979283333,
+   "lon": 2.4616429111111,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Denfert-Rochereau_%28Noisy-le-Sec%29"
+  },
+  {
+   "nom": "Place Jeanne-d'Arc (Noisy-le-Sec)",
+   "histoire": "Carrefour important, la place Jeanne-d’Arc se trouve à l’intersection de plusieurs routes départementales. Elle est aujourd’hui ornée d’une statue de Jeanne d’Arc, réalisée par Adolphe Roberton.",
+   "anecdotes": [
+    {
+     "texte": "Aujourd’hui, la place est ornée d’une statue de Jeanne d’Arc réalisée par le sculpteur Adolphe Roberton.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S37",
+    "S38",
+    "S36"
+   ],
+   "lat": 48.88983,
+   "lon": 2.45291,
+   "url": "https://fr.wikipedia.org/wiki/Place_Jeanne-d%27Arc_%28Noisy-le-Sec%29"
+  },
+  {
+   "nom": "Cité expérimentale de Merlan",
+   "histoire": "La cité expérimentale de Merlan rassemble des maisons individuelles construites en 1945. Sur les 56 prototypes de pavillon originaux, il n’en reste aujourd’hui que 42.",
+   "anecdotes": [
+    {
+     "texte": "Sur les 56 prototypes de pavillon originaux, il n’en reste aujourd’hui que 42.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 48.8913,
+   "lon": 2.4694,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_exp%C3%A9rimentale_de_Merlan"
+  }
+ ],
+ "sources": [
+  "Noisy-le-Sec est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France. Ses habitants sont appelés les Noiséens. La commune a été la cible d'une importante attaque aérienne alliée pendant la Seconde Guerre mondiale qui la détruisit en quasi-totalité pendant la nuit du 18 avril au 19 avril 1944, faisant de nombreuses victimes. La reconstruction a duré plusieurs décennies.",
+  "Des traces d'occupation préhistorique ont été découvertes à Noisy-le-Sec, notamment en 1920 sous forme d'un ensemble de pierres disposées en foyer, ainsi que de tessons de poterie et d'ossements animaux, datant de l'âge du bronze. On a également retrouvé un biface du Paléolithique moyen. Un ensemble de 300 pièces romaines de l'Antiquité tardive, enfouies vers 270, a été retrouvé en 1911 dans l'emprise de la gare. […]",
+  "1517 : Plusieurs moulins à vent existaient dans la commune, dont un, celui de la Petite tour, datant d'au moins 1517 (détruit en 1912) rue Jean-Jaurès, près de la gare.",
+  "1618 : Un autre, au Londeau, le Moulin Hervy ou Harvy est attesté en 1618 et détruit avant 1740.",
+  "1849 : Une nouvelle gare, qui remplace celle de 1849, est construite en 1910.",
+  "1882 : Noisy devient une gare de triage, aujourd'hui fermée, en 1882.",
+  "1944 : La gare de triage de Noisy-le-Sec fut bombardée dans la nuit du 18 avril au 19 avril 1944 par des avions des forces alliées afin de désorganiser (pour un temps seulement) et surtout ralentir la logistique allemande, en prévision de l'Opération Overlord.",
+  "1944 : En 1944, le quartier de la gare est détruit par les bombardements alliés et les sinistrés à reloger se comptent par centaines.",
+  "Lieu « Chapelle du Saint-Esprit (Noisy-le-Sec) » : La chapelle du Saint-Esprit est une chapelle catholique située quartier du Londeau, rue Charles-Baudelaire à Noisy-le-Sec.",
+  "Lieu « Chapelle du Saint-Esprit (Noisy-le-Sec) », 1923 : En 1923, l'ordre des Carmélites du Saint-Esprit, fondé en 1918 à Juvisy-sur-Orge, en fait l'acquisition.",
+  "Lieu « Chapelle du Saint-Esprit (Noisy-le-Sec) », 1968 : Le projet de réhabiliter le bâtiment en établissement scolaire fut finalement abandonné et le couvent rasé en 1968.",
+  "Lieu « Chapelle du Saint-Esprit (Noisy-le-Sec) », 1971 : Toutefois, la promesse d'édifier une chapelle est réalisée en 1971, par l'Œuvre des Chantiers du Cardinal.",
+  "Lieu « Chapelle du Saint-Esprit (Noisy-le-Sec) », aujourd'hui : Son premier seigneur connu avec certitude est Nicolas Pyoline, procureur au parlement de Paris dans la première moitié du XVIIe siècle Après la Révolution, Nicolas Tripier – maire de Noisy-le-Sec de 1819 à 1829 – fait l’acquisition du domaine pour y construire un pavillon, au futur emplacement des tours d'habitations actuelles.",
+  "Lieu « Gare de Noisy-le-Sec » : La gare de Noisy-le-Sec est une gare ferroviaire française des lignes de Paris-Est à Strasbourg-Ville et de Paris-Est à Mulhouse-Ville, située sur le territoire de la commune de Noisy-le-Sec, dans le département de la Seine-Saint-Denis, en région Île",
+  "Lieu « Gare de Noisy-le-Sec », 1849 : L'inauguration « sans faste » de la section a lieu le 1er juillet 1849 ; le train inaugural, tracté par la locomotive « La Ville de Meaux » s'arrête à Noisy-le-Sec pour permettre aux invités de découvrir « l'élégante station provisoire construite en bois ».",
+  "Lieu « Gare de Noisy-le-Sec », 1850 : Le bâtiment voyageurs (B.V.) d'origine est un B.V. de type 7 qui correspond au plan type de la Compagnie de l'Est pour les gares de moyenne importance sur les lignes construites dans les années 1850 ; il est notamment identique à celui de la gare d'Esbly.",
+  "Lieu « Gare de Noisy-le-Sec », 1856 : La première section de la nouvelle ligne, qui se détache à Noisy de la ligne de Paris à Strasbourg, vers Nogent-sur-Marne est inaugurée le 7 juillet 1856.",
+  "Lieu « Gare de Noisy-le-Sec », aujourd'hui : Ceci explique qu'elle ne peut y engager actuellement d'importants travaux.",
+  "Lieu « Église Saint-Jean-Baptiste de Noisy-le-Sec » : L'église Saint-Jean-Baptiste est une église catholique située rue Dombasle à Noisy-le-Sec.",
+  "Lieu « Église Saint-Jean-Baptiste de Noisy-le-Sec », 1912 : Sur ce site, avait été construite en 1912 une chapelle, qui se révéla vite exiguë.",
+  "Lieu « Église Saint-Jean-Baptiste de Noisy-le-Sec », 1929 : La nouvelle église est construite en 1929 par l'Œuvre des Chantiers du Cardinal.",
+  "Lieu « Église Saint-Jean-Baptiste de Noisy-le-Sec », 1929 : La première pierre fut posée le 23 juin 1929 par Monseigneur Eugène Crépin, évêque auxiliaire de Paris, puis inaugurée, encore inachevée, le 11 janvier 1931 par le Cardinal Jean Verdier.",
+  "Lieu « Boulevard de la République (Noisy-le-Sec) » : Le boulevard de la République à Noisy-le-Sec est l'une des artères principales de cette ville.",
+  "Lieu « Boulevard de la République (Noisy-le-Sec) », 1878 : Ce boulevard a été ouvert en 1878, à la suite de la création de la gare de Noisy-le-Sec.",
+  "Lieu « Boulevard de la République (Noisy-le-Sec) », 1896 : La croix de Merlan, aussi appelée calvaire de Merlan, érigée en 1896 en souvenir d'une ancienne croix située dans la Grande-Rue du hameau de Merlan et qui, déplacée en 1889 au rond-point de Merlan, fut en 1894 brisée par accident.",
+  "Lieu « Boulevard de la République (Noisy-le-Sec) », 1929 : Église Saint-Jean-Baptiste de Noisy-le-Sec, construite en 1929.",
+  "Lieu « Église Saint-Étienne de Noisy-le-Sec » : L'église Saint-Étienne est une église catholique située allée des Peupliers à Noisy-le-Sec.",
+  "Lieu « Église Saint-Étienne de Noisy-le-Sec », XVIe siècle : L'église est reconstruite à la fin du XVIe siècle, mais elle est fortement endommagée lors de la Terreur.",
+  "Lieu « Église Saint-Étienne de Noisy-le-Sec », 1823 : Elle est reconstruite en 1823, par l'architecte Auguste Jean Marie Guénepin, sur un plan différent, qui conserve cependant les deux colonnes qui soutiennent le porche de la façade, et une clé de voûte.",
+  "Lieu « Église Saint-Étienne de Noisy-le-Sec », 1944 : Son clocher ayant été détruit à la suite du bombardement d'avril 1944, le bâtiment est restauré en 1991 et les 4 cloches, Eléonore, Étiennette, Marie-Annonciade et Antonine, datant de 1830 à 1866, sont déposées sur le tertre de gazon à côté de l'église.",
+  "Lieu « Rue Denfert-Rochereau (Noisy-le-Sec) » : La rue Denfert-Rochereau à Noisy-le-Sec est une voie de communication de cette ville.",
+  "Lieu « Rue Denfert-Rochereau (Noisy-le-Sec) », 1869 : Emplacement d'une usine à gaz d'éclairage, ouverte en 1869.",
+  "Lieu « Rue Denfert-Rochereau (Noisy-le-Sec) », 1896 : Emplacement de la croix des petits Noyers, détruite à la suite d'une délibération du conseil municipal en date du 12 août 1896 qui ordonnait de « ... procéder à l’enlèvement des croix et calvaires élevés sur la voie publique ».",
+  "Lieu « Rue Denfert-Rochereau (Noisy-le-Sec) », 1944 : Elle a été bombardée dans la nuit du 18 au 19 avril 1944.",
+  "Lieu « Place Jeanne-d'Arc (Noisy-le-Sec) » : La place Jeanne-d'Arc à Noisy-le-Sec est un carrefour important de cette ville.",
+  "Lieu « Place Jeanne-d'Arc (Noisy-le-Sec) », 1823 : Église Saint-Étienne de Noisy-le-Sec, reconstruite à la fin du XVIe siècle, puis en 1823.",
+  "Lieu « Place Jeanne-d'Arc (Noisy-le-Sec) », 1849 : Cette place se trouve à l'intersection de la route départementale 116: Rue de Brément et rue Paul-Vaillant-Couturier (Ouverte en 1849, anciennement rue de Pantin), et de la route départementale 117: rue Anatole-France et rue Jean-Jaurès.",
+  "Lieu « Place Jeanne-d'Arc (Noisy-le-Sec) », aujourd'hui : Cette place aujourd'hui est ornée d'une statue de Jeanne d'Arc, réalisée par le sculpteur Adolphe Roberton.",
+  "Lieu « Cité expérimentale de Merlan » : La cité expérimentale de Merlan est un ensemble de maisons individuelles construites en 1945 à Noisy-le-Sec (France).",
+  "Lieu « Cité expérimentale de Merlan », 1945 : La cité expérimentale de Merlan est un ensemble de maisons individuelles construites en 1945 à Noisy-le-Sec (France).",
+  "Lieu « Cité expérimentale de Merlan », aujourd'hui : Des 56 prototypes de pavillon originaux, il n’en reste aujourd’hui que 42."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 16
+ }
+}

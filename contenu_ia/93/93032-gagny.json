@@ -1,0 +1,284 @@
+{
+ "commune": {
+  "titre": "Gagny",
+  "code_insee": "93032",
+  "departement": "93",
+  "population": 42313,
+  "lat": 48.8826,
+  "lon": 2.545,
+  "url": "https://fr.wikipedia.org/wiki/Gagny"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:39:30",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2481,
+  "sortie": 1697
+ },
+ "cout_usd": 0.002617,
+ "accroche": "En 1765, le château le plus important de Gagny — propriété de Dominique de Ferrari, maître d'hôtel ordinaire du roi — est démoli, puis le prieuré fondé au XIe siècle disparaît en 1771.",
+ "histoire": {
+  "recit": "À Gagny, le temps s’accroche aux lieux : un prieuré fondé au XIe siècle par Adèle de Champagne s’y maintient jusqu’à sa suppression en 1771. Plus tard, plusieurs châteaux existent encore, jusqu’à ce que l’un des plus importants soit démoli en 1765.\n\nLa commune traverse ensuite les grandes occupations. À la fin de l’épopée napoléonienne, Gagny est occupé en 1814 par les troupes alliées. Puis, lors du siège de Paris en 1870, les Prussiens reviennent à Gagny.\n\nAu quotidien, l’histoire se lit aussi dans l’architecture : l’église Saint-Germain est endommagée par l’orage du 13 juillet 1788 avant d’être démolie en 1838, et son clocher, construit en 1926, est couvert d’ardoises. La gare de Gagny se transforme au début du XXe siècle, après un bâtiment voyageurs fixé peu après 1850.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Un prieuré est fondé à Gagny par Adèle de Champagne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "La seigneurie d’Étienne de Gagny évoque son lien avec Béatrice de Montfermeil.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1771",
+    "texte": "Le prieuré est supprimé par l’autorité religieuse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1765",
+    "texte": "Le principal château de Gagny est démoli; il appartenait à Dominique de Ferrari, maître d'hôtel ordinaire du roi.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "À la fin de l’épopée napoléonienne, Gagny est occupé par les troupes alliées.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Gagny est à nouveau occupé par les Prussiens lors du siège de Paris.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Germain de Gagny",
+   "histoire": "L’église Saint-Germain se trouve dans le centre historique de Gagny. Elle est endommagée par l’orage du 13 juillet 1788, puis démolie en 1838. Un clocher est construit en 1926 et protégé par une toiture d’ardoises. En 2015, une réfection complète est entreprise à la suite de l’ouverture de la rue Jacques Chaban-Delmas.",
+   "anecdotes": [
+    {
+     "texte": "L’orage du 13 juillet 1788 endommage l’église Saint-Germain avant sa démolition en 1838.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "À l’endroit de l’église, un parc agrémenté d’un kiosque à musique existeait autrefois, puis a été détruit.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.884881,
+   "lon": 2.535639,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain_de_Gagny"
+  },
+  {
+   "nom": "Gare de Gagny",
+   "histoire": "La gare de Gagny se trouve sur les territoires de Gagny et de Villemomble, sur la ligne de Paris-Est à Strasbourg-Ville. Un bâtiment définitif de voyageurs est édifié peu après 1850, puis démoli au début du XXe siècle pour être remplacé par celui encore en place.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.8832783553,
+   "lon": 2.52678071322,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gagny"
+  },
+  {
+   "nom": "Centre de semi-liberté de Gagny",
+   "histoire": "Le centre de semi-liberté de Gagny est un centre pour hommes. Le bâtiment est construit en 1975 comme ancien immeuble du Service de la protection judiciaire de la jeunesse et il est reconverti en 1986.",
+   "anecdotes": [
+    {
+     "texte": "En 2012, sur environ 300 mouvements d’entrée et de sortie, seuls 4 personnes se sont évadées.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.88127,
+   "lon": 2.53352,
+   "url": "https://fr.wikipedia.org/wiki/Centre_de_semi-libert%C3%A9_de_Gagny"
+  },
+  {
+   "nom": "Hôtel de ville de Gagny",
+   "histoire": "L’hôtel de ville de Gagny est un bâtiment administratif. L’immeuble de deux étages est construit en 1715 pour François Normand, avocat au Parlement de Paris, puis la commune rachète le bâtiment à la fin des années 1880 pour y installer la mairie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 48.884865,
+   "lon": 2.536629,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Gagny"
+  },
+  {
+   "nom": "Église Sainte-Bernadette de Gagny",
+   "histoire": "L’église Sainte-Bernadette est située allée de Montfermeil à Gagny et est affectée au culte catholique. Elle est construite en 1875 par le chanoine Monsanglant. La paroisse est érigée dans les années 1960 et partagée entre Gagny, Clichy-sous-Bois, Le Raincy et Montfermeil.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.8991,
+   "lon": 2.54001,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Bernadette_de_Gagny"
+  },
+  {
+   "nom": "Rue du Général-Leclerc (Gagny)",
+   "histoire": "La rue du Général-Leclerc est un axe de communication important de Gagny. En 2007, un diagnostic archéologique préalable à la création de la rue Jacques-Chaban-Delmas révèle des traces remontant au Haut Moyen Âge.",
+   "anecdotes": [
+    {
+     "texte": "Un diagnostic archéologique mené en 2007 met au jour des tegulae rattachés à l’Antiquité et des traces de construction remontant au Haut Moyen Âge.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "En 1881, une reconstruction de l’église Saint-Germain de Gagny est mentionnée.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.886940848889,
+   "lon": 2.5362837555556,
+   "url": "https://fr.wikipedia.org/wiki/Rue_du_G%C3%A9n%C3%A9ral-Leclerc_%28Gagny%29"
+  },
+  {
+   "nom": "Rue Contant",
+   "histoire": "La rue Contant suit la route départementale 370 et sert d’axe de communication. Une maison appelée Baschet, surnommée le Coteau, est construite en 1887 par René Baschet, directeur de L’Illustration. L’emplacement d’une tourelle, aujourd’hui disparue, est signalé.",
+   "anecdotes": [
+    {
+     "texte": "La maison Baschet, surnommée le Coteau, est construite en 1887 par René Baschet.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "Une tourelle, aujourd’hui disparue, se trouvait à l’emplacement signalé sur la rue Contant.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.890003444706,
+   "lon": 2.5336801811765,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Contant"
+  },
+  {
+   "nom": "Place du Général-de-Gaulle (Gagny)",
+   "histoire": "La place du Général-de-Gaulle est un carrefour central de Gagny. Dans les années 1930, les plus anciennes demeures sont démolies pour laisser place à un bâtiment en briques servant de caserne des pompiers et de commissariat de police. En 1970, des petits commerces installés dans des maisons vétustes sont détruits, remplacés par des bâtiments résidentiels.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.884304702381,
+   "lon": 2.5345812309524,
+   "url": "https://fr.wikipedia.org/wiki/Place_du_G%C3%A9n%C3%A9ral-de-Gaulle_%28Gagny%29"
+  }
+ ],
+ "sources": [
+  "Gagny est une commune française située dans le département de la Seine-Saint-Denis en région Île-de-France.",
+  "Prieuré fondé au XIe siècle par Adèle de Champagne. Seigneurie d'Étienne de Gagny, époux de Béatrice de Montfermeil au XIIIe siècle. Ce prieuré perdure jusqu'en 1771, date de sa suppression par l'autorité religieuse. Gagny avait plusieurs châteaux, dont le plus important, démoli en 1765, appartenait à Dominique de Ferrari, maître d'hôtel ordinaire du roi (1660). Dans ce parc, on pouvait trouver la source […]",
+  "XIe siècle : Prieuré fondé au XIe siècle par Adèle de Champagne.",
+  "1765 : Gagny avait plusieurs châteaux, dont le plus important, démoli en 1765, appartenait à Dominique de Ferrari, maître d'hôtel ordinaire du roi (1660).",
+  "1814 : Gagny est occupé à la fin de l'épopée napoléonienne par les troupes Alliées en 1814-1815.",
+  "1870 : La ville est à nouveau occupée par les Prussiens lors du siège de Paris de 1870.",
+  "Lieu « Église Saint-Germain de Gagny » : L'église Saint-Germain est une église française située dans le centre historique de Gagny, en Seine-Saint-Denis (auparavant dans l'ancien département de Seine-et-Oise).",
+  "Lieu « Église Saint-Germain de Gagny », 1788 : L'église fut endommagée par l'orage du 13 juillet 1788, puis démolie en 1838.",
+  "Lieu « Église Saint-Germain de Gagny », 1926 : Le clocher, construit en 1926, est protégé par une toiture d'ardoises.",
+  "Lieu « Église Saint-Germain de Gagny », 2015 : En 2015, à la suite de l’ouverture de la rue Jacques Chaban-Delmas, la municipalité entreprend une réfection complète.",
+  "Lieu « Église Saint-Germain de Gagny », aujourd'hui : À cet endroit se trouvait un parc agrémenté d'un kiosque à musique, aujourd'hui détruit.",
+  "Lieu « Gare de Gagny » : La gare de Gagny est une gare ferroviaire française de la ligne de Paris-Est à Strasbourg-Ville, située sur les territoires des communes de Gagny et de Villemomble, dans le département de la Seine-Saint-Denis en région Île-de-France.",
+  "Lieu « Gare de Gagny », 1850 : Un bâtiment définitif est édifié peu après, il s'agit d'un bâtiment voyageurs de type 7 identique aux premiers bâtiments des gares de Noisy-le-Sec et de Chelles - Gournay ainsi qu'à de nombreuses gares construites par la Compagnie de l'Est dans les années 1850, dont celle d'Esbly qui existe toujours.",
+  "Lieu « Gare de Gagny », XXe siècle : Au début du XXe siècle, ce premier bâtiment fut démoli et remplacé par celui qui existe encore aujourd'hui.",
+  "Lieu « Centre de semi-liberté de Gagny » : Le centre de semi-liberté de Gagny est un centre de semi-liberté français pour hommes située dans le département de la Seine-Saint-Denis en région Île-de-France.",
+  "Lieu « Centre de semi-liberté de Gagny », 1975 : Construit en 1975, le bâtiment est un ancien immeuble du Service de la protection judiciaire de la jeunesse qui a été reconverti en 1986.",
+  "Lieu « Centre de semi-liberté de Gagny », 2012 : Moins onéreux qu'un centre fermé, en termes de surveillance et de prise en charge, il permet également une meilleure réinsertion: moins d'un tiers des détenus « replongent » à la sortie; sur environ 300 mouvements d'entrée et de sortie en 2012 dans l'établissement, seuls 4 personnes se sont évadées.",
+  "Lieu « Hôtel de ville de Gagny » : L'Hôtel de Ville de Gagny est un bâtiment administratif de cette commune française du département de la Seine-Saint-Denis en région Île-de-France.",
+  "Lieu « Hôtel de ville de Gagny », 1715 : Cet immeuble de deux étages a été construit en 1715 pour François Normand, avocat au Parlement de Paris.",
+  "Lieu « Hôtel de ville de Gagny », 1880 : À la fin des années 1880, la commune rachète le bâtiment et y installe la mairie.",
+  "Lieu « Église Sainte-Bernadette de Gagny » : L'église Sainte-Bernadette est une église française située allée de Montfermeil à Gagny, en Seine-Saint-Denis, affectée au culte catholique.",
+  "Lieu « Église Sainte-Bernadette de Gagny », 1875 : Elle fut construite par le chanoine Monsanglant (1875-1948), curé de Gagny de 1927 à 1948.",
+  "Lieu « Église Sainte-Bernadette de Gagny », 1960 : La paroisse a été érigée dans les années 1960 et est partagée entre les communes de Gagny, Clichy-sous-Bois, Le Raincy et Montfermeil.",
+  "Lieu « Rue du Général-Leclerc (Gagny) » : La rue du Général-Leclerc est un important axe de communication de Gagny.",
+  "Lieu « Rue du Général-Leclerc (Gagny) », 1881 : Église Saint-Germain de Gagny, datant du XIe siècle, reconstruite en 1881.",
+  "Lieu « Rue du Général-Leclerc (Gagny) », aujourd'hui : En 2007, un diagnostic archéologique préliminaire à la création de la rue Jacques-Chaban-Delmas, a révélé des tegulae rattachés à l'Antiquité et des traces de construction remontant au Haut Moyen Âge.",
+  "Lieu « Rue Contant » : La rue Contant est un axe de communication de Gagny qui suit la route départementale 370.",
+  "Lieu « Rue Contant », 1887 : La maison Baschet, surnommée le Coteau, construite en 1887 par René Baschet, directeur de L'Illustration.",
+  "Lieu « Rue Contant », aujourd'hui : Emplacement d'une tourelle, aujourd'hui disparue.",
+  "Lieu « Place du Général-de-Gaulle (Gagny) » : La place du Général-de-Gaulle est un carrefour central de Gagny.",
+  "Lieu « Place du Général-de-Gaulle (Gagny) », 1930 : Dans les années 1930, les plus anciennes demeures furent démolies et remplacées par un bâtiment en briques servant de caserne des pompiers et de commissariat de police.",
+  "Lieu « Place du Général-de-Gaulle (Gagny) », 1970 : En 1970, nombre de petits commerces logés dans des maisons vétustes furent détruits à leur tour pour être remplacés par des bâtiments résidentiels."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}
