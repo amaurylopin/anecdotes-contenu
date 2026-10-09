@@ -1,0 +1,292 @@
+{
+ "commune": {
+  "titre": "Troyes",
+  "code_insee": "10387",
+  "departement": "10",
+  "population": 62088,
+  "lat": 48.2924,
+  "lon": 4.0761,
+  "url": "https://fr.wikipedia.org/wiki/Troyes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:27:50",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3906,
+  "sortie": 1863
+ },
+ "cout_usd": 0.00311,
+ "accroche": "Troyes a été désignée « Ville d’art et d’histoire » le 5 juin 2009.",
+ "histoire": {
+  "recit": "Troyes, préfecture de l’Aube et capitale comtale de la Champagne, traverse par la Seine, s’est construite au rythme des enceintes, des incendies et des reconstructions.\nEn 720, la ville est contrôlée et pillée. En réponse, un nouveau mur fortifié est érigé autour de Troyes au début des années 890, en remployant des structures de l’enceinte gallo-romaine. Plus tard, un grand incendie en 1188 ravage plusieurs lieux majeurs, tandis qu’en 1348 les moulins de la Pielle et du Roy deviennent des moulins à papier.\nLa menace revient à l’échelle des ruelles : quelques jours avant la Fête-Dieu 1487, un incendie se déclare dans la boutique d’un apothicaire. En 1524, un nouvel incendie éclate au cœur de la ville médiévale, suivi de reconstructions.\nAu XXe siècle, le 24 août 1944, un massacre à Buchères frappe l’agglomération de Troyes.\nEt, au fil des lieux, la ville montre aussi ses continuités : la commanderie de Troyes des Templiers, puis des Hospitaliers, et les édifices religieux qui portent encore leurs phases successives.",
+  "chronologie": [
+   {
+    "date": "720",
+    "texte": "La ville de Troyes est contrôlée et pillée par les Sarrasins d’Espagne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "début des années 890 (en 891 ou 892)",
+    "texte": "Érection d’un nouveau mur fortifié autour de la ville, en grande partie par remploi des structures de l’enceinte gallo-romaine.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1188",
+    "texte": "Un grand incendie détruit une grande partie de la ville et ravage notamment Notre-Dame-aux-Nonnains, la collégiale Saint-Étienne, le palais des comtes de Champagne et l’ancienne cathédrale, partiellement ruinée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1348",
+    "texte": "Les moulins de la Pielle et du Roy sont transformés en moulins à papier.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1487",
+    "texte": "Quelques jours avant la Fête-Dieu, un incendie se déclare dans la boutique d’un apothicaire.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1524",
+    "texte": "Le 24 mai 1524, un nouvel incendie éclate au cœur de la ville médiévale.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "24 août 1944",
+    "texte": "L’armée allemande commet à Buchères un massacre connu comme le « martyre de Buchères ».",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "5 juin 2009",
+    "texte": "Troyes est désignée « Ville d’art et d’histoire ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "février 2010",
+    "texte": "La convention relative au label est signée en février 2010.",
+    "sources": [
+     "S2",
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Commanderie de Troyes",
+   "histoire": "La commanderie de Troyes est une commanderie templière fondée dans le comté de Champagne, puis dévolue aux Hospitaliers.",
+   "anecdotes": [
+    {
+     "texte": "Quand l’ordre est officialisé au concile de Troyes, les Templiers installés à Troyes commencent à recevoir de nombreux dons.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Raoul le Pesant cède des bâtiments rue de la Composte, qui devient ensuite la rue du Temple.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S18"
+   ],
+   "lat": 48.29583,
+   "lon": 4.07444,
+   "url": "https://fr.wikipedia.org/wiki/Commanderie_de_Troyes"
+  },
+  {
+   "nom": "Basilique Saint-Urbain de Troyes",
+   "histoire": "La basilique Saint-Urbain est un édifice religieux catholique de Troyes ; sa construction s’interrompt puis reprend avant d’être achevée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les verrières occupent tous les emplacements qui ne sont pas dédiés à la structure porteuse.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 48.298056,
+   "lon": 4.076667,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Urbain_de_Troyes"
+  },
+  {
+   "nom": "Église Saint-Rémy de Troyes",
+   "histoire": "L’église Saint-Rémy a été reconstruite à partir du XIVe siècle après des édifices plus anciens.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il ne demeure qu’un mur du XIIe siècle pour la partie ouest du transept sud.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 48.29929,
+   "lon": 4.075257,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-R%C3%A9my_de_Troyes"
+  },
+  {
+   "nom": "Gare de Troyes",
+   "histoire": "La gare de Troyes connaît plusieurs ouvertures successives : l’embarcadère terminus, la nouvelle gare de passage, puis le hall et le bâtiment voyageurs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Trois projets sont en lice pour l’emplacement : quartier du Ravelin, bordure de la rue Thiers, ou de l’autre côté du canal.",
+   "sources": [
+    "S33"
+   ],
+   "lat": 48.29589,
+   "lon": 4.064788,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Troyes"
+  },
+  {
+   "nom": "Ruelle des Chats",
+   "histoire": "La ruelle des Chats relie la rue Champeaux à la rue Charbonnet, dans le cœur historique de Troyes.",
+   "anecdotes": [
+    {
+     "texte": "Reconstruite après le grand incendie de 1524, la ruelle est dite « médiévale » à cause de son pavement et de façades qui se rejoignent en hauteur.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S35"
+     ]
+    },
+    {
+     "texte": "Le grand incendie de 1524 détruit un tiers de la ville, et toutes les maisons de la ruelle Maillard sont reconstruites.",
+     "statut": "etabli",
+     "sources": [
+      "S36",
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À l’emplacement de l’ancienne clinique Juvénal (aujourd’hui démolie), un ensemble de maisons dans l’esprit du XVIe siècle a commencé en janvier 2014.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 48.29684,
+   "lon": 4.07212,
+   "url": "https://fr.wikipedia.org/wiki/Ruelle_des_Chats"
+  },
+  {
+   "nom": "Chapitre de Troyes",
+   "histoire": "Le Chapitre de Troyes (Cellier Saint-Pierre) est un ensemble de vestiges et de bâtiments ayant appartenu aux chanoines de la cathédrale de Troyes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment est inscrit au titre des monuments historiques.",
+   "sources": [
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.2997,
+   "lon": 4.08018,
+   "url": "https://fr.wikipedia.org/wiki/Chapitre_de_Troyes"
+  },
+  {
+   "nom": "Cathédrale Saint-Pierre-et-Saint-Paul de Troyes",
+   "histoire": "La cathédrale possède un clocher porche au début du XIIe siècle ; des fouilles ont révélé des éléments de l’église romane.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Du premier édifice, il ne subsiste aucune trace, d’après l’état actuel des fouilles archéologiques.",
+   "sources": [
+    "S48"
+   ],
+   "lat": 48.30028,
+   "lon": 4.08139,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Pierre-et-Saint-Paul_de_Troyes"
+  },
+  {
+   "nom": "Collégiale Saint-Étienne de Troyes",
+   "histoire": "La collégiale Saint-Étienne est fondée en 1157, avec des travaux commençant la même année et une fin autour de 1171-1172.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La collégiale et les maisons de chanoines se trouvent dans le quartier « le Cloître-Saint-Étienne ».",
+   "sources": [
+    "S53"
+   ],
+   "lat": 48.298451,
+   "lon": 4.079123,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-%C3%89tienne_de_Troyes"
+  }
+ ],
+ "sources": [
+  "Troyes (prononcé [tʁwa]) est une commune française, préfecture du département de l'Aube, et septième commune la plus peuplée de la région Grand Est. Elle se trouve dans la région historique et culturelle de Champagne, dont elle était la capitale comtale. Elle est traversée par la Seine. Au cours des siècles, Troyes, désignée Ville d'art et d'histoire, a conservé un patrimoine architectural et urbain témoignant de […]",
+  "La ville de Troyes, capitale historique des comtes de Champagne, et forte d'un grand passé historique et d'un riche patrimoine architectural et urbain, a été désignée Ville d’art et d’histoire le 5 juin 2009. La convention a été signée en février 2010. Les premiers habitants ayant laissé des traces tangibles de leur présence sont les Tricasses, tribu de la Gaule lyonnaise mentionnée à partir du Ier siècle av. J.-C. […]",
+  "720 : La ville est contrôlée et pillée par les Sarrasins d'Espagne en 720.",
+  "891 : En réponse à ces incursions, au début des années 890 (en 891 ou 892), un nouveau mur fortifié, dont l'assise et le parement ont été en grande partie constitués grâce au remploi des structures l'enceinte gallo-romaine, est alors érigé et déployé autour de la ville.",
+  "1188 : En 1188, un grand incendie détruit une grande partie de la ville et ravage l'abbaye Notre-Dame-aux-Nonnains, la collégiale Saint-Étienne, le palais des comtes de Champagne et l'ancienne cathédrale de Troyes, partiellement ruinée.",
+  "1348 : Par la suite, les moulins de la Pielle (en 1348) et du Roy sont transformés en moulins à papier.",
+  "1487 : Quelques jours avant la Fête-Dieu 1487, un incendie se déclare dans la boutique d'un apothicaire.",
+  "1524 : Le 24 mai 1524, un nouvel incendie éclate au cœur de la ville médiévale.",
+  "XVIe siècle : Les fortifications de la ville sont reconstruites dans la première moitié du XVIe siècle.",
+  "1944 : Le 24 août 1944, l'armée allemande a commis à Buchères dans le Sud de l'agglomération de Troyes un massacre communément appelé « martyre de Buchères » : 68 civils furent exécutés, de nombreuses maisons furent incendiées.",
+  "2010 : La convention a été signée en février 2010.",
+  "2015 : En 2015, les élus du Grand Troyes ont signé un protocole visant à réaménager le quartier de la gare.",
+  "2023 : En décembre 2023, l'ancienne maison d'arrêt du centre ville est fermée ; elle est remplacée par le centre pénitentiaire de Troyes-Lavau situé à quatre kilomètres de là.",
+  "Lieu « Commanderie de Troyes » : La commanderie de Troyes fut l'une des premières commanderies fondée par les Templiers dans ce qui était alors le comté de Champagne avant d'être dévolue aux Hospitaliers.",
+  "Lieu « Commanderie de Troyes », 1129 : Une fois l'ordre officialisé par le concile de Troyes de 1129 et les Templiers installés à Troyes, l'ordre commence à recevoir de nombreux dons.",
+  "Lieu « Commanderie de Troyes », 1195 : La maison du Temple de Troyes est mentionnée dans les archives contemporaines dès 1195 et a pour siège les bâtiments cédés par Raoul le Pesant rue de la Composte, qui prend rapidement le nom de rue du Temple.",
+  "Lieu « Commanderie de Troyes », XVIIe siècle : Ces différentes maisons ont toutefois un statut et des revenus qui peuvent être très différents : La chapelle de la commanderie fut reconstruite au XVIIe siècle.",
+  "Lieu « Commanderie de Troyes », aujourd'hui : Elle a été fondée dans la « rue de la Composte » qui devient alors la « rue du Temple », et qui est de nos jours la « rue Général Saussier », dans ce qui maintenant appelé le « Corps du Bouchon de Champagne ».",
+  "Lieu « Basilique Saint-Urbain de Troyes » : La basilique Saint-Urbain de Troyes est un édifice religieux catholique de la ville de Troyes, en Champagne (France).",
+  "Lieu « Basilique Saint-Urbain de Troyes », IIIe siècle : Il veut alors édifier à l'emplacement de l'échoppe de sa famille, où il avait, selon la tradition, vu le jour, une basilique dédiée à saint Urbain, pape du IIIe siècle, son saint patron.",
+  "Lieu « Basilique Saint-Urbain de Troyes », XIIIe siècle : En raison de difficultés financières, sa construction s'est interrompue et a été reprise entre le XIIIe siècle et le XXe siècle, où la basilique est finalement achevée.",
+  "Lieu « Basilique Saint-Urbain de Troyes », 1262 : La majeure partie est construite en moins de trente ans, de 1262 à 1286.",
+  "Lieu « Basilique Saint-Urbain de Troyes », aujourd'hui : Cette disposition permet de renforcer la place des verrières, qui à Saint-Urbain de Troyes, occupent tous les emplacements qui ne sont pas dédiés à la structure porteuse.",
+  "Lieu « Église Saint-Rémy de Troyes » : L'église Saint-Rémy de Troyes est une église catholique française, située dans la ville de Troyes du département de l'Aube en région Champagne-Ardenne.",
+  "Lieu « Église Saint-Rémy de Troyes », 1790 : Comme nombre d'édifices religieux, Saint-Rémy aura beaucoup à souffrir de la Révolution : en 1790-1791 on supprime les chapitres, Saint-Rémy fait partie des paroisses conservées et le 24 mars 1791 le premier curé assermenté est mis en place.",
+  "Lieu « Église Saint-Rémy de Troyes », 1793 : Le mobilier de l’église et l’argenterie sont vendus à l'encan à partir du 17 janvier 1793, ses cloches envoyées à Paris pour y être fondues afin de les transformer en canons.",
+  "Lieu « Église Saint-Rémy de Troyes », 1980 : Les fouilles archéologiques de la fin des années 1980 montrent que l'église a été bâtie sur les ruines d'un édifice gallo-romain détruit à la fin du IIe siècle ou au début du IIIe siècle, situé en bordure d'une voie antique qui a perduré jusqu'au Moyen Âge.",
+  "Lieu « Église Saint-Rémy de Troyes », aujourd'hui : De la période gallo-romaine et de l'église primitive, il ne reste aucune trace apparente, l'église ayant été quasi entièrement reconstruite vers le XIVe siècle ; seul demeure un mur du XIIe siècle de la partie ouest du transept sud.",
+  "Lieu « Gare de Troyes » : La gare de Troyes est une gare ferroviaire française de la ligne de Paris-Est à Mulhouse-Ville, située sur le territoire de la commune de Troyes, préfecture du département de l'Aube, en région Grand Est.",
+  "Lieu « Gare de Troyes », 1848 : 1848 : ouverture de l'embarcadère terminus par la Compagnie du chemin de fer de Montereau à Troyes ; 1857 : ouverture de la nouvelle gare de passage par la Compagnie des chemins de fer de l'Est ; 1895 : ouverture du hall recouvrant les quais ; 1912 : ouverture du nouveau bâtiment voyageurs.",
+  "Lieu « Gare de Troyes », 1856 : Le nouveau site nécessite d'importants travaux de terrassement qui sont réalisés en 1856 peu après l'incendie qui endommage les combles et la structure de l'ancienne gare en 1855.",
+  "Lieu « Gare de Troyes », 1861 : Toujours en activité, elle est réparée sommairement pour la continuité du service en attendant la construction et l'ouverture de la nouvelle gare (elle deviendra ensuite le collège Pithou de 1861 à 1978, dont les restes sont visibles dans la façade de l'Espace Argence ouvert en 1999).",
+  "Lieu « Gare de Troyes », aujourd'hui : Trois projets sont en lice pour l'emplacement de la gare de Troyes : le premier dans le quartier du Ravelin, le deuxième en bordure de la rue Thiers et le troisième de l’autre côté du canal entre les quais Comtes-de-Champagne, la rue Mitantier et la rue Hennequin.",
+  "Lieu « Ruelle des Chats » : La ruelle des Chats est une voie de la commune de Troyes, dans le département français de l'Aube qui va de la rue Champeaux à la rue Charbonnet dans le « Bouchon de Champagne « cœur historique de la ville.",
+  "Lieu « Ruelle des Chats », 1524 : Ruelle reconstruite après le grand incendie de 1524, elle est dite de nos jours et romantiquement « médiévale » car elle en a l'allant par son pavement et les façades qui se rejoignent en hauteur.",
+  "Lieu « Ruelle des Chats », 1524 : La ruelle est reconstruite après le grand incendie de 1524 qui détruit un tiers de la ville.",
+  "Lieu « Ruelle des Chats », 1524 : Après l'incendie de 1524 toutes les maisons de la ruelle Maillard furent reconstruites.",
+  "Lieu « Ruelle des Chats », aujourd'hui : À la place de l'ancienne clinique Juvénal, aujourd'hui démolie, il était prévu en 2006 de reconstruire un ensemble de maisons dans l'esprit du XVIe siècle et la construction de deux maisons à pans de bois commence en janvier 2014.",
+  "Lieu « Chapitre de Troyes » : Le Chapitre de Troyes, ou Cellier Saint-Pierre est un ensemble de vestiges et de bâtiments ayant appartenu aux chanoines de la cathédrale de Troyes, dans l'Aube.",
+  "Lieu « Chapitre de Troyes », XIIIe siècle : Elle a permis de montrer trois grandes phases de travaux : - phase 1 : construction de l'édifice au milieu du XIIIe siècle.",
+  "Lieu « Chapitre de Troyes », 1984 : Le bâtiment est inscrit au titre des monuments historiques depuis 1984.",
+  "Lieu « Chapitre de Troyes », 1984 : Le bâtiment a été inscrit au titre des monuments historiques le 9 novembre 1984.",
+  "Lieu « Chapitre de Troyes », aujourd'hui : Le Chapitre de Troyes, ou Cellier Saint-Pierre est un ensemble de vestiges et de bâtiments ayant appartenu aux chanoines de la cathédrale de Troyes, dans l'Aube.",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Troyes » : La cathédrale Saint-Pierre-et-Saint-Paul de Troyes est un édifice religieux catholique sis dans la ville de Troyes, dans le département de l'Aube en région Grand-Est (France).",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Troyes », XIIe siècle : Au début du XIIe siècle, l'église se voit complétée par la construction d'un clocher porche en avant de sa façade occidentale, emplacement qui se situe entre la première et la seconde travée ouest de la nef de l'édifice actuel.",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Troyes », 1864 : En 1864, des fouilles archéologiques entreprises dans l'édifice actuel ont permis de mettre au jour la présence d'un mur dit « mur terminal de l'église romane ».",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Troyes », 1970 : En revanche, des fouilles qui ont eu lieu dans les années 1970 et qui ont été pratiquées dans le croisillon nord du transept de l'édifice actuel par Stephen Murray et Norbert Bongartz ont permis de mettre au jour un transept saillant, qui daterait pour partie des environs de l'an 1000.",
+  "Lieu « Cathédrale Saint-Pierre-et-Saint-Paul de Troyes », aujourd'hui : Du premier édifice et en l'état actuel des fouilles archéologiques, il ne subsiste aucune trace.",
+  "Lieu « Collégiale Saint-Étienne de Troyes » : La collégiale Saint-Étienne est une église fondée à Troyes en 1157, par le comte Henri Ier de Champagne.",
+  "Lieu « Collégiale Saint-Étienne de Troyes », 1157 : La collégiale Saint-Étienne est une église fondée à Troyes en 1157, par le comte Henri Ier de Champagne.",
+  "Lieu « Collégiale Saint-Étienne de Troyes », 1157 : Les travaux de l'église commencent en 1157 ; elle est achevée vers 1171-1172.",
+  "Lieu « Collégiale Saint-Étienne de Troyes », 1790 : Lors de la Révolution française, le chapitre est supprimé en 1790, et la collégiale démolie.",
+  "Lieu « Collégiale Saint-Étienne de Troyes », aujourd'hui : La collégiale et les nombreuses maisons de chanoines sont situées dans le quartier de Troyes que l'on appelle aujourd'hui \"le Cloître-Saint-Étienne\"."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
