@@ -1,0 +1,278 @@
+{
+ "commune": {
+  "titre": "Sète",
+  "code_insee": "34301",
+  "departement": "34",
+  "population": 45337,
+  "lat": 43.3844,
+  "lon": 3.6441,
+  "url": "https://fr.wikipedia.org/wiki/S%C3%A8te"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:36:32",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2900,
+  "sortie": 1579
+ },
+ "cout_usd": 0.002554,
+ "accroche": "En 1928, Cette devient officiellement Sète, nom déjà attesté chez Ptolémée sous la forme « Σήτιον ὄρος ».",
+ "histoire": {
+  "recit": "Sète, écrite Cette jusqu’en 1928, a longtemps vécu du Pays de Thau : avant la création du port d’envergure nationale, elle n’était qu’un village de pêcheurs. Son essor s’accélère quand Henri de Montmorency choisit le cap de Sète pour établir le vieux port.\n\nLe port prend forme au fil des chantiers et des évènements : en 1809, le vaisseau Le Robuste est échoué et incendié devant le port. La première pierre du brise-lames est posée en 1821, et l’église Saint-Pierre est consacrée en 1830. Le rail arrive ensuite : la ligne de chemins de fer Montpellier-Cette ouvre en 1839.\n\nAu XXe siècle, le port et le phare subissent une épreuve : en 1944, des mines causent de grands dégâts, jusqu’à la destruction intégrale du môle et du Phare Saint-Louis. Reconstruit, celui-ci reste en service ; sans gardien, il est ouvert aux visiteurs. Au-delà des ouvrages, la ville s’élève aussi vers le Mont Saint-Clair, point culminant où un oratoire est mentionné au XIIe siècle.",
+  "chronologie": [
+   {
+    "date": "1596",
+    "texte": "Henri de Montmorency choisit le cap de Sète pour établir le vieux port de Sète.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1809",
+    "texte": "Le vaisseau Le Robuste est échoué et incendié devant le port.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "21 mai 1821",
+    "texte": "Première pierre du brise-lames, terminé en 1869.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "Consécration de l’église Saint-Pierre.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "9 juin 1839",
+    "texte": "Ouverture de la ligne de chemins de fer Montpellier-Cette.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "31 octobre 1991",
+    "texte": "Inauguration de l’espace Georges-Brassens, agrandi en 2006.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Phare Saint-Louis",
+   "histoire": "Phare de troisième ordre, il se dresse sur le musoir du môle Saint-Louis à Sète et indique l’entrée du port. Toujours en service, il n’a plus de gardien et est ouvert aux visiteurs.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, des mines de l’armée allemande provoquent des dégâts au port et au Phare Saint-Louis, intégralement détruit.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Le phare a été détruit puis reconstruit plusieurs fois : d’abord en 1690, puis en 1720, et enfin en 1831 pour atteindre 25 m.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Toujours en service, sans gardien, ouvert aux visiteurs.",
+   "sources": [
+    "S9"
+   ],
+   "lat": 43.39667,
+   "lon": 3.70167,
+   "url": "https://fr.wikipedia.org/wiki/Phare_Saint-Louis"
+  },
+  {
+   "nom": "Mont Saint-Clair",
+   "histoire": "Colline qui fait le point culminant de Sète, elle a vu se succéder oratoire, fortifications et aménagements religieux. La chapelle au sommet a remplacé un ancien fortin bâti sur l’emplacement d’un sémaphore romain.",
+   "anecdotes": [
+    {
+     "texte": "Au sommet, un oratoire dédié à saint Clair est édifié au XIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S14"
+   ],
+   "lat": 43.402,
+   "lon": 3.6845,
+   "url": "https://fr.wikipedia.org/wiki/Mont_Saint-Clair"
+  },
+  {
+   "nom": "Stade Louis-Michel",
+   "histoire": "Stade de football à Sète, inauguré en 1986 pour remplacer le stade Georges-Bayrou. Il a notamment ouvert ses portes le 13 septembre 1986 lors d’une rencontre de championnat de France de Deuxième Division.",
+   "anecdotes": [
+    {
+     "texte": "L’inauguration du 13 septembre 1986 se fait dans un match FC Sète contre l’Olympique Lyonnais, terminé 0 à 0.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.4122,
+   "lon": 3.67028,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Louis-Michel"
+  },
+  {
+   "nom": "Église Saint-Louis de Sète",
+   "histoire": "Église dite décanale, construite tout à la fin du XVIIe siècle par l’architecte Augustin-Charles d’Aviler. Un étage supérieur, en fer et zinc, avec une lanterne ouverte sur quatre côtés, est rajouté au milieu du XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S22"
+   ],
+   "lat": 43.399583333333,
+   "lon": 3.6944166666667,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Louis_de_S%C3%A8te"
+  },
+  {
+   "nom": "Temple protestant de Sète",
+   "histoire": "Lieu de culte fondé en 1832, situé 32 rue Maurice Clavel à Sète. Un nouveau temple, rénové et agrandi, est inauguré en 1872.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S26"
+   ],
+   "lat": 43.404784,
+   "lon": 3.698527,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_de_S%C3%A8te"
+  },
+  {
+   "nom": "Musée de la Mer de Sète",
+   "histoire": "Musée de la ville de Sète situé en face de la Méditerranée, entre le cimetière marin et le théâtre de la Mer. Il présente l’histoire du port depuis le XVIIIe siècle, ainsi que des traditions comme la joute languedocienne. Le bâtiment rend hommage à Le Corbusier et au style des années 1920, et le musée est inauguré en mai 2014.",
+   "anecdotes": [
+    {
+     "texte": "Le musée consacre aussi une place aux traditions séculaires, dont la joute languedocienne.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "Le bâtiment rend hommage à Le Corbusier et au style des années 1920.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Géré par la mairie de Sète, inauguré en mai 2014.",
+   "sources": [
+    "S30"
+   ],
+   "lat": 43.39356,
+   "lon": 3.69174,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Mer_de_S%C3%A8te"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-de-la-Salette de Sète",
+   "histoire": "Chapelle construite au sommet du Mont Saint-Clair. Elle se trouve à l’emplacement de l’ancien fortin Montmorencette, bâti par Louis XIII et érigé sur un ancien sémaphore romain. Le fortin est démantelé au XVIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 43.402416666667,
+   "lon": 3.6845555555556,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-de-la-Salette_de_S%C3%A8te"
+  },
+  {
+   "nom": "Fort Richelieu (Sète)",
+   "histoire": "Fort à vocation militaire situé à Sète, au sein d’un ensemble de fortifications installé sur le littoral languedocien au XVIIIe siècle. Un jardin botanique d’un hectare est aménagé au pied du fort pour être ouvert au public.",
+   "anecdotes": [
+    {
+     "texte": "Un jardin botanique d’un hectare est aménagé au pied du Fort Richelieu, en contrebas du chemin de Saint-Clair, pour l’ouverture au public au printemps 2020.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un jardin botanique d’un hectare est aménagé au pied du fort.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 43.397193,
+   "lon": 3.692377,
+   "url": "https://fr.wikipedia.org/wiki/Fort_Richelieu_%28S%C3%A8te%29"
+  }
+ ],
+ "sources": [
+  "Sète (prononcé localement : [ˈsɛ.tə] voire [ˈsi̯e.tə]) — écrit Cette jusqu'en 1928 — est une commune française située dans le sud-est du département de l'Hérault en région Occitanie. Exposée à un climat méditerranéen, elle est traversée par le canal du Rhône à Sète. La commune possède un patrimoine naturel remarquable : trois sites Natura 2000 (les « herbiers de l'étang de Thau », la « corniche de Sète » et l'« […]",
+  "Le nom apparaît anciennement chez : Ptolémée (Géographie II.10.2.) : Σήτιον ὄρος ; Avienus (Ora maritima) : Setius… mons ; le cartulaire d'Aniane : fiscum… qui nuncupatur Sita. Il semble qu'avant la création du port d'envergure nationale, Sète n'ait été qu'un simple village de pêcheurs du Pays de Thau. En 1596, Henri de Montmorency, gouverneur du Languedoc, choisit le cap de Sète pour établir le vieux port de Sète. […]",
+  "1809 : 26 octobre 1809 : le vaisseau de 80 canons Le Robuste est échoué et incendié devant le port ; 21 mai 1821 : première pierre du brise-lames (terminé en 1869) ; 1830 : consécration de l'église Saint-Pierre 9 juin 1839 : ouverture de la ligne de chemins de fer Montpellier-Cette.",
+  "1991 : 31 octobre 1991 : l’espace Georges-Brassens est inauguré, avant d'être agrandi en 2006.",
+  "Lieu « Phare Saint-Louis » : Le phare Saint-Louis ou phare du môle Saint-Louis est un phare de troisième ordre situé sur le musoir du môle Saint-Louis à Sète, dans le département de l'Hérault, en France.",
+  "Lieu « Phare Saint-Louis », 1690 : Il est détruit puis reconstruit au profit d'une tour plus haute à plusieurs reprises, d'abord en 1690 puis en 1720, et finalement en 1831 pour atteindre 25m.",
+  "Lieu « Phare Saint-Louis », 1861 : L'ancêtre du phare actuel est construit une première fois en 1861 en pierre de Cassis, il accompagne alors l'autre tour qui perd son rôle de fanal mais est conservée jusqu'à la Seconde Guerre Mondiale.",
+  "Lieu « Phare Saint-Louis », 1944 : Le 19 août 1944, des mines de l'armée allemande causent d'importants dégâts à l'ensemble du port et notamment au môle et au phare Saint-Louis, intégralement détruits.",
+  "Lieu « Phare Saint-Louis », aujourd'hui : Bien qu'il soit toujours en service et indique l'entrée du port de Sète, il n'a plus de gardien et est aujourd'hui ouvert aux visiteurs.",
+  "Lieu « Mont Saint-Clair » : Le mont Saint-Clair est une colline de France située dans le département de l'Hérault de la région Occitanie et constituant le point culminant de la ville de Sète qui s'est développée principalement à ses pieds.",
+  "Lieu « Mont Saint-Clair », XIIe siècle : Au XIIe siècle, un oratoire dédié à saint Clair, évangélisateur de la région, est édifié à son sommet.",
+  "Lieu « Mont Saint-Clair », 1586 : En 1586, la création du fortin de Montmorencette, construit en l’honneur d’Henri II de Montmorency, permet de lutter contre les attaques des Barbaresques.",
+  "Lieu « Mont Saint-Clair », 1866 : Cette croix lumineuse monumentale est installée sur le mont depuis 1866.",
+  "Lieu « Mont Saint-Clair », aujourd'hui : Cette chapelle construite au sommet a remplacé un ancien fortin Montmorencette datant de Louis XIII et lui-même bâti sur l'emplacement d'un ancien sémaphore romain.",
+  "Lieu « Stade Louis-Michel » : Le stade Louis-Michel est un stade de football situé à Sète en France.",
+  "Lieu « Stade Louis-Michel », 1986 : Cette enceinte est inaugurée en 1986 afin de remplacer le vénérable stade Georges-Bayrou.",
+  "Lieu « Stade Louis-Michel », 1986 : Le stade Louis-Michel a été inauguré le 13 septembre 1986 lors de la rencontre de championnat de France de Deuxième Division entre le FC Sète et l' Olympique Lyonnais (0 à 0).",
+  "Lieu « Stade Louis-Michel », 2004 : La saison 2004/2005 achevée, le FC Sète terminait à la troisième place du National et gagnait son ticket pour la Ligue 2.",
+  "Lieu « Église Saint-Louis de Sète » : L’église Saint-Louis, dite décanale, est une église située au cœur du quartier Haut de Sète construite tout à la fin du XVIIe siècle par l'architecte Augustin-Charles d'Aviler.",
+  "Lieu « Église Saint-Louis de Sète », XVIIe siècle : L’église Saint-Louis, dite décanale, est une église située au cœur du quartier Haut de Sète construite tout à la fin du XVIIe siècle par l'architecte Augustin-Charles d'Aviler.",
+  "Lieu « Église Saint-Louis de Sète », XVIIe siècle : L'église est édifiée tout à la fin du XVIIe siècle selon les plans d'Augustin-Charles d'Aviler, architecte du roi en Languedoc.",
+  "Lieu « Église Saint-Louis de Sète », XIXe siècle : L'étage supérieur, sorte de lanterne ouverte sur ses quatre côtés, en fer et zinc, auquel on accède par un escalier en colimaçon en bois, est rajouté au milieu du XIXe siècle en lieu et place de l'ancien campanile d'origine en fer forgé.",
+  "Lieu « Temple protestant de Sète » : Le temple protestant de Sète est un lieu de culte fondé en 1832 et situé 32 rue Maurice Clavel à Sète.",
+  "Lieu « Temple protestant de Sète », 1832 : Le temple protestant de Sète est un lieu de culte fondé en 1832 et situé 32 rue Maurice Clavel à Sète.",
+  "Lieu « Temple protestant de Sète », 1832 : En 1832, sous Louis XVIII et avec l'impulsion de Georges Cuvier à la direction des cultes non-catholique dans le cadre du régime concordataire français, est édifié un temple protestant.",
+  "Lieu « Temple protestant de Sète », 1872 : Le 1er août 1872, année de commémoration des 400 ans du massacre de la Saint-Barthélemy, est inauguré le nouveau temple, rénové et agrandi.",
+  "Lieu « Musée de la Mer de Sète » : Le musée de la Mer est un musée de la ville de Sète, situé en face de la Méditerranée, entre le cimetière marin de Sète et le théâtre de la Mer.",
+  "Lieu « Musée de la Mer de Sète », XVIIIe siècle : Le musée présente à travers des objets et instruments, des documents et des photographies, l'histoire depuis le XVIIIe siècle du port de Sète, des hommes qui l'ont construit et de ses traditions séculaires comme la joute languedocienne.",
+  "Lieu « Musée de la Mer de Sète », 1920 : Le bâtiment aux lignes épurées rend hommage à Le Corbusier et au style des années 1920.",
+  "Lieu « Musée de la Mer de Sète », 2014 : Le musée de la Mer, géré par la mairie de Sète, a été inauguré en mai 2014.",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Sète » : La chapelle Notre-Dame de la Salette est construite au sommet du mont Saint-Clair à Sète, dans le département de l'Hérault, en France.",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Sète », XVIIe siècle : Le fortin a été démantelé au XVIIe siècle.",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Sète », aujourd'hui : La chapelle se trouve à l'emplacement de l'ancien fortin Montmorencette bâti par Louis XIII et lui-même érigé sur un ancien sémaphore romain.",
+  "Lieu « Fort Richelieu (Sète) » : Le fort Richelieu est un fort à vocation militaire, situé à Sète dans le département de l'Hérault, en France.",
+  "Lieu « Fort Richelieu (Sète) », XVIIIe siècle : Il appartient à un ensemble de fortifications installées sur le littoral languedocien au cours du XVIIIe siècle.",
+  "Lieu « Fort Richelieu (Sète) », 2020 : Un jardin botanique d’un hectare a été aménagé au pied du fort Richelieu, en contrebas du chemin de Saint-Clair afin d'être ouvert au public pour le printemps 2020."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}
