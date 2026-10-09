@@ -1,0 +1,301 @@
+{
+ "commune": {
+  "titre": "Calais",
+  "code_insee": "62193",
+  "departement": "62",
+  "population": 67571,
+  "lat": 50.9523,
+  "lon": 1.869,
+  "url": "https://fr.wikipedia.org/wiki/Calais"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:25:38",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3364,
+  "sortie": 1950
+ },
+ "cout_usd": 0.00311,
+ "accroche": "En 1940, Calais devient « zone interdite », les Allemands craignant un débarquement allié dans le Pas-de-Calais.",
+ "histoire": {
+  "recit": "Sous la Manche, Calais vit au rythme du voisinage avec l’Angleterre : une ville-port et une place militaire, que les guerres ont souvent encerclée.\n\nEn 1346, le roi Édouard III choisit Calais pour débarquer en France : la ville passe alors sous contrôle anglais. Plus tard, en 1436, Philippe le Bon attaque les Anglais en cherchant à libérer la ville.\n\nAu XXe siècle, la menace revient par vagues : en 1940, Calais est assiégée à deux reprises et devient « zone interdite ». Puis, en 1994, l’ouverture du tunnel sous la Manche change l’élan de l’agglomération, avec de nouvelles infrastructures.\n\nDepuis 2002, des campements de fortune, connus comme la « jungle de Calais », se succèdent près de la ville. Leurs conditions déclenchent des interventions : des campements sont rasés en avril 2009 et, plus tard, une zone de « tolérance » est évoquée. En 2016, autour du centre, cette « jungle » est démantelée.\n\nAutour de cette histoire tendue, des repères existent aussi : le groupe statuaire Les Bourgeois de Calais, commandé par la ville, et le port, outil de passage depuis le temps des conquêtes.",
+  "chronologie": [
+   {
+    "date": "1346",
+    "texte": "Le roi Édouard III choisit Calais pour débarquer en France ; la ville passe sous contrôle anglais après la guerre de Cent Ans.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1436",
+    "texte": "Philippe le Bon, duc de Bourgogne, attaque les Anglais en cherchant à libérer la ville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Calais est assiégée à deux reprises et devient « zone interdite » : les Allemands craignent un débarquement allié dans le Pas-de-Calais.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1994",
+    "texte": "L’ouverture du tunnel sous la Manche apporte des emplois, des commerces et de nouvelles infrastructures routières et ferroviaires à l’agglomération.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2002",
+    "texte": "Des campements de fortune, appelés « jungle de Calais », jouxtent la ville depuis 2002.",
+    "sources": [
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "date": "avril 2009",
+    "texte": "Des campements sauvages sont rasés au bulldozer, et 190 migrants sont arrêtés.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "septembre 2009",
+    "texte": "Les autorités françaises évacuent un bidonville occupé par environ 700 migrants.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "avril 2015",
+    "texte": "Le journal britannique The Guardian rapporte l’ouverture d’une zone de « tolérance » près du centre d’accueil de jour Jules Ferry.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "octobre 2016",
+    "texte": "La « jungle de Calais » est démantelée en octobre 2016.",
+    "sources": [
+     "S29"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Jungle de Calais",
+   "histoire": "« Jungle de Calais » est le nom couramment utilisé pour désigner différents espaces pas-de-calaisiens habités depuis les années 1990 par des migrants tentant de se rendre en Angleterre.",
+   "anecdotes": [
+    {
+     "texte": "En avril 2009, les campements sauvages sont rasés au bulldozer et les forces de l’ordre procèdent à l’arrestation de 190 migrants.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En avril 2015, le journal britannique The Guardian mentionne une zone de « tolérance » sur une ancienne décharge, à cinq kilomètres du centre-ville de Calais, autour du centre d’accueil de jour Jules Ferry.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S5",
+    "S8",
+    "S9",
+    "S29"
+   ],
+   "lat": 50.9686,
+   "lon": 1.9058,
+   "url": "https://fr.wikipedia.org/wiki/Jungle_de_Calais"
+  },
+  {
+   "nom": "Les Bourgeois de Calais",
+   "histoire": "Le groupe statuaire Les Bourgeois de Calais est une œuvre d’Auguste Rodin commandée par la ville de Calais, dont le premier exemplaire en bronze est inauguré en 1895.",
+   "anecdotes": [
+    {
+     "texte": "Après l’inauguration à Calais en 1895, Rodin fait fondre et vend trois autres monuments des Bourgeois de Calais.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 50.952361111111,
+   "lon": 1.8533333333333,
+   "url": "https://fr.wikipedia.org/wiki/Les_Bourgeois_de_Calais"
+  },
+  {
+   "nom": "Port de Calais",
+   "histoire": "Le port de Calais est un port français situé à la limite de la Manche et de la mer du Nord.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le lieu-dit Paradis est mentionné comme correspondant à un quai au nord du bassin, dans le récit de l’amélioration du port après 1347.",
+   "sources": [
+    "S16",
+    "S20"
+   ],
+   "lat": 50.968055555556,
+   "lon": 1.8563888888889,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Calais"
+  },
+  {
+   "nom": "Cité internationale de la dentelle et de la mode de Calais",
+   "histoire": "La cité internationale de la dentelle et de la mode est un musée de Calais inauguré le 11 juin 2009, installé dans une ancienne usine dentellière : l’usine Boulart, dont les bâtiments sont décrits en forme de U autour d’une cour centrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 50.950333333333,
+   "lon": 1.8595555555556,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_internationale_de_la_dentelle_et_de_la_mode_de_Calais"
+  },
+  {
+   "nom": "Batterie Oldenburg",
+   "histoire": "La batterie Oldenburg est une batterie d’artillerie côtière de la Kriegsmarine, implantée à Calais durant l’Occupation allemande.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S30",
+    "S29"
+   ],
+   "lat": 50.9753639,
+   "lon": 1.9034111,
+   "url": "https://fr.wikipedia.org/wiki/Batterie_Oldenburg"
+  },
+  {
+   "nom": "Église Notre-Dame de Calais",
+   "histoire": "L’église Notre-Dame de Calais date des XIVe et XVIe siècles : l’édifice est reconstruit et agrandi sous l’occupation anglaise après de très gros dommages pendant la guerre de Cent Ans.",
+   "anecdotes": [
+    {
+     "texte": "Dans la guerre de Cent Ans, l’église est très endommagée en 1346-1347, puis reconstruite et agrandie jusqu’au XVIe siècle sous l’occupation anglaise.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La porte méridionale, dite porte Saint-Jacques, est condamnée en raison de la construction de bâtiments sur l’emplacement de l’ancien cimetière supprimé en 1794.",
+   "sources": [
+    "S35"
+   ],
+   "lat": 50.9583,
+   "lon": 1.85306,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Calais"
+  },
+  {
+   "nom": "Citadelle de Calais",
+   "histoire": "La citadelle de Calais est une forteresse construite sur les ruines de l’ancien château médiéval datant du XIIIe siècle, qui défendait la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Subsistent encore une partie médiévale de l’enceinte avec la tour Carrée et la tour Pavée.",
+   "sources": [
+    "S36",
+    "S37",
+    "S40"
+   ],
+   "lat": 50.9578,
+   "lon": 1.8452,
+   "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Calais"
+  },
+  {
+   "nom": "Église du Sacré-Cœur de Calais",
+   "histoire": "L’église du Sacré-Cœur de Calais est une église de la fin du XIXe siècle située à Calais. Elle a été conçue et installée par le facteur de Canterbury F.H Browne & Sons entre 1867 et 1892, puis inaugurée en 1892 et achevée en 1892.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, l’église présente certaines dégradations à cause d’infiltrations d’eau.",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 50.94853,
+   "lon": 1.84794,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_du_Sacr%C3%A9-C%C5%93ur_de_Calais"
+  }
+ ],
+ "sources": [
+  "Calais est une commune française, sous-préfecture du département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Calaisiens et les Calaisiennes. La ville de Calais est la plus peuplée du département, bien qu'elle n'en soit pas le chef-lieu, cette fonction revenant à Arras. Elle en est également l'une des plus étendues juste derrière la vaste commune d'Oye-Plage. La commune est le siège de […]",
+  "Sa proximité avec l'Angleterre fait de Calais une place militaire stratégique. L'histoire de la ville est marquée par plusieurs sièges : un premier en 1346 lors de la guerre de Cent Ans, où le roi Édouard III d'Angleterre choisit Calais pour débarquer en France (la ville passant alors sous contrôle anglais), un deuxième en 1436 lorsque Philippe le Bon, duc de Bourgogne, attaque les Anglais en cherchant à libérer […]",
+  "1940 : Calais, assiégée à deux reprises en 1940 et 1944, devient « zone interdite », les Allemands craignant un débarquement des forces alliées dans le Pas-de-Calais.",
+  "1994 : L'ouverture du tunnel sous la Manche en 1994 donne une nouvelle dynamique à l'agglomération, apportant des emplois, des commerces et de nouvelles infrastructures routières et ferroviaires.",
+  "2002 : De multiples campements de fortune, désignés sous le nom de « jungle de Calais », régulièrement démolis et reconstruits, jouxtent la ville depuis 2002.",
+  "Lieu « Jungle de Calais » : La « jungle de Calais » est le nom couramment utilisé pour désigner les différents espaces pas-de-calaisiens habités depuis les années 1990 par les migrants tentant de se rendre en Angleterre.",
+  "Lieu « Jungle de Calais », 1991 : En 1991, un protocole (dit « protocole de Sangatte ») est signé entre la France et le Royaume-Uni pour fixer la ville de Coquelles, en France, parmi les points de contrôle entre les deux pays.",
+  "Lieu « Jungle de Calais », 2009 : L'insécurité et les nuisances engendrées par certains migrants entraînent une réaction gouvernementale : en avril 2009, les campements sauvages sont rasés au bulldozer et les forces de l'ordre procèdent à l'arrestation de 190 migrants.",
+  "Lieu « Jungle de Calais », 2015 : En avril 2015, le journal britannique The Guardian rapporte l'ouverture d'une zone « de tolérance » à l'égard des migrants sur une ancienne décharge, à cinq kilomètres du centre-ville de Calais, autour du centre d'accueil de jour Jules Ferry.",
+  "Lieu « Jungle de Calais », aujourd'hui : En septembre 2009, les autorités françaises évacuent un bidonville occupé par environ 700 migrants.",
+  "Lieu « Les Bourgeois de Calais » : Les Bourgeois de Calais est un groupe statuaire d'Auguste Rodin, commandé par la ville de Calais où a été inauguré le premier exemplaire en bronze en 1895.",
+  "Lieu « Les Bourgeois de Calais », 1889 : Le plâtre original du premier monument d'envergure nationale de Rodin est achevé en 1889 et exposé pour la première fois à l'occasion de l'exposition Monet-Rodin dans la galerie parisienne Georges Petit qui ouvre le 21 juin 1889.",
+  "Lieu « Les Bourgeois de Calais », 1895 : Les Bourgeois de Calais est un groupe statuaire d'Auguste Rodin, commandé par la ville de Calais où a été inauguré le premier exemplaire en bronze en 1895.",
+  "Lieu « Les Bourgeois de Calais », 1895 : De son vivant, après l'inauguration de 1895 à Calais, l'artiste a fait fondre et a vendu trois autres monuments des Bourgeois de Calais.",
+  "Lieu « Les Bourgeois de Calais », aujourd'hui : C’est une des œuvres les plus célèbres de Rodin, qui a laissé une postérité artistique importante.",
+  "Lieu « Port de Calais » : Le port de Calais est un port français situé à la limite de la Manche et de la mer du Nord.",
+  "Lieu « Port de Calais », 1946 : Au XXe siècle Calais, bien que fortement affecté par deux guerres mondiales (le port est presque entièrement reconstruit en 1946) devient alors un port industriel, d'hovercrafts et de transit roulier très important.",
+  "Lieu « Port de Calais », 2004 : En 2004, une seconde passerelle Ro-ro est construite, et le Bassin de Plaisance est certifié ISO 9001.",
+  "Lieu « Port de Calais », 2015 : En octobre 2015, le terminal de l'autoroute ferroviaire au port à l'Est est inauguré.",
+  "Lieu « Port de Calais », aujourd'hui : En 1347, le port n'est qu'un bassin ouvert muni d'un quai au nord (au lieu-dit Paradis actuellement) Fin 1347, Édouard III d'Angleterre améliore le port de Calais qu'il vient de conquérir ; Jean et Alexandre Lestrauge, sergents d’armes sont envoyés faire provision de fascines et autres objets nécessaires à la réparation du Paradis.",
+  "Lieu « Cité internationale de la dentelle et de la mode de Calais » : La cité internationale de la dentelle et de la mode est un musée de Calais qui a été inauguré le 11 juin 2009.",
+  "Lieu « Cité internationale de la dentelle et de la mode de Calais », 1870 : La cité internationale de la dentelle et de la mode est installée dans une ancienne usine dentellière, l'usine Boulart, fondée dans les années 1870 et en activité jusqu'en 2000.",
+  "Lieu « Cité internationale de la dentelle et de la mode de Calais », 1874 : 1874 : l'Usine Boulart est édifiée en deux phases principales, constituée de trois corps de bâtiment sur quatre niveaux disposés en U autour d'une cour centrale.",
+  "Lieu « Cité internationale de la dentelle et de la mode de Calais », 2009 : La cité internationale de la dentelle et de la mode est un musée de Calais qui a été inauguré le 11 juin 2009.",
+  "Lieu « Cité internationale de la dentelle et de la mode de Calais », aujourd'hui : L'introduction de la machine à vapeur justifie son emplacement.",
+  "Lieu « Batterie Oldenburg » : La batterie Oldenburg est une batterie d'artillerie côtière de la Kriegsmarine, implantée à Calais durant l'Occupation allemande.",
+  "Lieu « Batterie Oldenburg », 1938 : Ils sont ensuite installés sur l'île de Borkum au nord de l'Allemagne, avant de rejoindre le Westwall, près de Meisenbühl, en 1938.",
+  "Lieu « Batterie Oldenburg », 1944 : Cependant, les événements de 1944 ont empêché la finalisation des travaux : un premier étage a été construit, un second était en chantier mais est resté à l'état de ferraillage.",
+  "Lieu « Batterie Oldenburg », 2016 : Se développe alors, autour du centre, la Jungle de Calais, démantelée en octobre 2016.",
+  "Lieu « Batterie Oldenburg », aujourd'hui : L'emplacement de la batterie sur les côtes françaises est défini le 22 juillet 1940 à l'est de Calais, près du Fort Vert : le lieu devait être sélectionné selon le camouflage naturel qu'il offrait, ainsi qu'un accès aisé au site.",
+  "Lieu « Église Notre-Dame de Calais » : L’église Notre-Dame de Calais date des XIVe et XVIe siècles.",
+  "Lieu « Église Notre-Dame de Calais », XIIIe siècle : L’église d’origine, construite à l’emplacement de l’actuel transept, date du début du XIIIe siècle.",
+  "Lieu « Église Notre-Dame de Calais », 1346 : Très endommagé pendant la guerre de Cent Ans entre la France et l'Angleterre en 1346-1347, l'édifice est reconstruit et agrandi sous l’occupation anglaise de la seconde moitié du XIVe siècle jusqu’au XVIe siècle.",
+  "Lieu « Église Notre-Dame de Calais », XVe siècle : L'église deviendra ainsi dans la seconde moitié du XVe siècle l'édifice religieux le plus important de la ville.",
+  "Lieu « Église Notre-Dame de Calais », aujourd'hui : La porte méridionale, dite porte Saint-Jacques, est condamnée du fait de la construction de bâtiments sur l’emplacement de l’ancien cimetière supprimé en 1794.",
+  "Lieu « Citadelle de Calais » : La citadelle de Calais est une forteresse construite, sur les ruines de l'ancien château médiéval datant du XIIIe siècle et qui défendait la ville de Calais.",
+  "Lieu « Citadelle de Calais », XIIIe siècle : La citadelle de Calais est une forteresse construite, sur les ruines de l'ancien château médiéval datant du XIIIe siècle et qui défendait la ville de Calais.",
+  "Lieu « Citadelle de Calais », 1605 : En 1605, et en mémoire de celle qui fut détruite pour l’édification de la citadelle, on donna le nom de Saint-Nicolas à une petite église qui fut construite à l’intérieur même des remparts.",
+  "Lieu « Citadelle de Calais », XIXe siècle : Un magasin à poudre voûté en plein cintre, « système Séré de Rivières », fut construit sous le bastion du vieux port à la fin du XIXe siècle.",
+  "Lieu « Citadelle de Calais », aujourd'hui : Une partie médiévale de l'enceinte de la ville avec la tour Carrée et la tour Pavée subsiste encore de nos jours.",
+  "Lieu « Église du Sacré-Cœur de Calais » : L'église du Sacré-Coeur de Calais est une église datant de la fin du XIXe siècle située à Calais, en France.",
+  "Lieu « Église du Sacré-Cœur de Calais », 1867 : Il a été conçu et installé par le facteur de Canterbury F.H Browne & Sons de 1867 à 1892.",
+  "Lieu « Église du Sacré-Cœur de Calais », 1892 : Il a été inauguré en 1892 par A. Péferan, organiste à Boulogne-sur-Mer.",
+  "Lieu « Église du Sacré-Cœur de Calais », 1892 : Elle a été achevée en 1892 par Louis Debras, curé de la paroisse.",
+  "Lieu « Église du Sacré-Cœur de Calais », aujourd'hui : Privilège confirmé à perpétuité par inscrit du 22 du même mois. » Aujourd'hui l'église présente certaines dégradations en raison d'infiltrations d'eau."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
