@@ -1,0 +1,326 @@
+{
+ "commune": {
+  "titre": "Blois",
+  "code_insee": "41018",
+  "departement": "41",
+  "population": 47219,
+  "lat": 47.5813,
+  "lon": 1.3049,
+  "url": "https://fr.wikipedia.org/wiki/Blois"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:34:25",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4036,
+  "sortie": 1958
+ },
+ "cout_usd": 0.003255,
+ "accroche": "En 1790, Blois devient chef-lieu du département de Loir-et-Cher, à la suite du démantèlement de la province de l’Orléanais.",
+ "histoire": {
+  "recit": "À Blois, la ville a plusieurs vies, séparées par la Loire et reliées par des ponts, des chantiers et des crises. Avant même la ville “habitable”, le quartier de Blois-Vienne montre une occupation très ancienne : on y parle de chasseurs-cueilleurs et de nasses, puis d’un premier pont de bois à l’époque romaine, dont les fondations se voient lorsque la Loire baisse.\n\nQuand la grande époque médiévale arrive, le château et ses abords portent des récits plus sombres : l’église Saint-Martin-aux-Choux, édifiée au pied du château vers 1238, disparaît ensuite sous la Révolution. Les conflits aussi resserrent l’étau : la ville est cernée par les Anglais entre 1356 et 1380, puis ravagée en 1562 par la prise et le pillage, avant un nouveau pillage et incendie en 1568.\n\nPlus tard, les grands changements continuent : la Contre-Réforme installe les Jésuites en 1622 et une chapelle devient église ; en 1700, un palais épiscopal s’élève près de la cathédrale ; et, au XIXe siècle, le chemin de fer arrive en 1846. Enfin, le XXe siècle laisse une trace de béton avec la basilique construite entre 1932 et 1939.\n\nAujourd’hui, quelques lieux concentrent ces strates : le château, les demeures de la Renaissance, la cathédrale, et, de l’autre côté de la Loire, Blois-Vienne.",
+  "chronologie": [
+   {
+    "date": "1238",
+    "texte": "Vers 1238, Jean Ier de Blois-Châtillon fait édifier au pied du château l’église Saint-Martin-aux-Choux, détruite sous la Révolution.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1356-1380",
+    "texte": "Entre 1356 et 1380, la ville est cernée par les Anglais, avec le Prince Noir, fils du roi Édouard III.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1415-1444",
+    "texte": "En 1415, Charles d’Orléans est fait prisonnier à la suite de la bataille d’Azincourt et n’est libéré qu’en 1444.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "4 juillet 1562",
+    "texte": "Le 4 juillet 1562, la ville est prise et pillée par les protestants, puis la riposte catholique du maréchal de Saint-André y provoque des violences.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "7 février 1568",
+    "texte": "Le 7 février 1568, les protestants du capitaine Boucard pillent et incendient la ville.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1622",
+    "texte": "En 1622, l’ordre des Jésuites s’installe à Blois et fait bâtir une chapelle Saint-Louis devenue l’église Saint-Vincent de Paul de Blois.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1700",
+    "texte": "En 1700, l’évêque installe un palais épiscopal sur un coteau qui surplombe la Loire, sur un projet de Jacques Gabriel.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "En 1790, la province de l’Orléanais est démantelée ; le département de Loir-et-Cher est créé avec Blois comme chef-lieu.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1791",
+    "texte": "En 1791, les jardins sont ouverts au public sous l’égide de l’abbé Henri Grégoire, évêque constitutionnel de Blois.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "En 1846, la ligne Paris-Orléans-Tours s’ouvre et la gare de Blois devient un arrêt.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "28 janvier 1871",
+    "texte": "Le 28 janvier 1871 a lieu le combat du faubourg de Vienne : le lieutenant Georges de Villebois-Mareuil libère la ville occupée par les Prussiens depuis le 13 décembre 1870.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1932-1939",
+    "texte": "Entre 1932 et 1939, la basilique Notre-Dame-de-la-Trinité est construite en béton.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Blois-Vienne",
+   "histoire": "Blois-Vienne correspond à la partie sud de Blois, séparée du reste de la ville par la frontière naturelle de la Loire, et associée aux quartiers Saint-Saturnin, de la Creusille, des Métairi.",
+   "anecdotes": [
+    {
+     "texte": "Les fouilles évoquent des chasseurs-cueilleurs dès 6 000 ans avant notre ère, et des nasses retrouvées : des communautés capables de pêcher.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    },
+    {
+     "texte": "Après la conquête de la Gaule par les Romains, un premier pont de bois (dit pont antique) est construit entre le Ier et le IIe siècles ; ses fondations seraient visibles lorsque la Loire est à l’étiage.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "La dernière fois que l’intérieur de Vienne a été inondé remonte à la crue de 1907, avec une hauteur de 5,63 m.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.582052,
+   "lon": 1.337842,
+   "url": "https://fr.wikipedia.org/wiki/Blois-Vienne"
+  },
+  {
+   "nom": "Cathédrale Saint-Louis de Blois",
+   "histoire": "Reprise et reconstruite à plusieurs reprises, la cathédrale Saint-Louis s’inscrit sur le site de l’église médiévale, avant une reconstruction complète en style Renaissance à partir de 1544.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 47.588376,
+   "lon": 1.336196,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Louis_de_Blois"
+  },
+  {
+   "nom": "Château de Blois",
+   "histoire": "Le château royal de Blois, cœur d’un espace tenu par les comtes de Blois, est reconstruit à plusieurs étapes : collégiale Saint-Sauveur au XIIe siècle, reconstruction au XIIIe siècle par la famille de Châtillon, puis édifice actuel réalisé sans fortifications sous la direction d’architectes au temps de la Renaissance.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 47.5855,
+   "lon": 1.331,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Blois"
+  },
+  {
+   "nom": "Hôtel d'Alluye",
+   "histoire": "Hôtel particulier de la Renaissance, bâti entre 1498 et 1508 au no 8 de la rue Saint-Honoré, puis remanié au fil des destructions et des reventes, jusqu’à n’en conserver aujourd’hui qu’une moitié de la superficie d’origine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 47.58771,
+   "lon": 1.331937,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_d%27Alluye"
+  },
+  {
+   "nom": "Haras national de Blois",
+   "histoire": "Ancien dépôt national d’étalons, installé d’abord dans l’ancien couvent des Carmélites puis doté de bâtiments construits entre 1878 et 1880, le haras a connu un apogée avec l’hébergement de 122 étalons avant les changements de site.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 47.596813,
+   "lon": 1.341019,
+   "url": "https://fr.wikipedia.org/wiki/Haras_national_de_Blois"
+  },
+  {
+   "nom": "Buvette de la Renaissance",
+   "histoire": "Maison urbaine à pans de bois située au 21, rue Beauvoir, dans le quartier du Bourg-Neuf, édifiée à la fin du XVe siècle avec un décor mêlant éléments gothiques et premiers motifs de première Renaissance.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 47.588056,
+   "lon": 1.332222,
+   "url": "https://fr.wikipedia.org/wiki/Buvette_de_la_Renaissance"
+  },
+  {
+   "nom": "Prieuré Saint-Lazare et hospice Lunier",
+   "histoire": "À l’origine maladrerie Saint-Lazare destinée à l’isolement des lépreux, l’ensemble devient prieuré, puis château ou villa Saint-Lazare, avant d’être l’hospice Lunier et d’être intégré aujourd’hui à la cité scolaire Robert-Badinter de Blois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S24"
+   ],
+   "lat": 47.5976429,
+   "lon": 1.3300551,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Saint-Lazare_et_hospice_Lunier"
+  },
+  {
+   "nom": "Gare de Blois - Chambord",
+   "histoire": "Gare située sur la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, avec une première construction en 1847 et, plus tard, des travaux ayant conduit à une nouvelle gare coupant l’avenue de l’Embarcadère.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S50",
+    "S51",
+    "S54"
+   ],
+   "lat": 47.585408,
+   "lon": 1.323529,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Blois_-_Chambord"
+  }
+ ],
+ "sources": [
+  "Blois (/blwa/ ) est une commune française, chef-lieu du département de Loir-et-Cher en région Centre-Val de Loire. Commune la plus peuplée du département, elle compte en 2023, 47 219 habitants. La communauté d’agglomération de Blois compte environ 104 604 habitants et l’aire urbaine de Blois compte quant à elle 125 994 habitants. C'est la quatrième commune de la région Centre derrière Tours, la capitale régionale […]",
+  "Depuis le début des années 2010, des fouilles archéologiques conduites par l’Institut national de recherches archéologiques préventives (INRAP) ont montré que Blois-Vienne était occupée par des chasseurs-cueilleurs dès 6 000 ans avant notre ère (il y a donc 8 000 ans). Des nasses ont d'ailleurs été retrouvées, signifiant que ces communautés pouvaient, en plus de l'agriculture et de l'élevage, pêcher. D'autres […]",
+  "1238 : En particulier, sous Jean Ier de Blois-Châtillon qui fait édifier vers 1238, au pied du château, l’église Saint-Martin-aux-Choux qui est détruite sous la Révolution.",
+  "1356 : Entre 1356 et 1380, la ville est cernée par les Anglais et plus particulièrement le Prince Noir, fils du roi Édouard III qui descend des comtes d'Anjou, avec Bury et Fougères-sur-Bièvre occupées.",
+  "1415 : Fils du duc Louis Ier, Charles d'Orléans est néanmoins fait prisonnier en 1415 à la suite de la bataille d'Azincourt, et ne sera libéré qu'en 1444.",
+  "1562 : Le 4 juillet 1562, comme Beaugency, la ville de Blois, conquise par les protestants quelque temps auparavant, est prise et pillée, mais par les catholiques du maréchal de Saint-André, et, tout comme à Beaugency, les femmes sont violées.",
+  "1568 : Le 7 février 1568, les protestants du capitaine Boucard pillent et incendient la ville, violant et tuant les catholiques.",
+  "1622 : Dans le domaine religieux, la Contre-Réforme installe à Blois l’ordre des Jésuites en 1622 qui font bâtir une chapelle Saint-Louis devenue aujourd’hui l’église Saint-Vincent de Paul de Blois.",
+  "1700 : À proximité de la cathédrale achevée en 1700, le nouvel évêque installe un palais épiscopal, dont l'architecte est Jacques Gabriel, sur un coteau qui surplombe la Loire.",
+  "1790 : En 1790, la province de l'Orléanais est démantelée et le département de Loir-et-Cher est créé, avec Blois comme chef-lieu.",
+  "1791 : Les jardins sont ouverts au public en 1791 sous l'égide de l'abbé Henri Grégoire, évêque constitutionnel de Blois.",
+  "1846 : Tout d’abord, le chemin de fer arrive en 1846 sur le plateau avec l’ouverture de la ligne Paris-Orléans-Tours dont la gare de Blois est un des arrêts.",
+  "1871 : Le 28 janvier 1871 a lieu le combat du faubourg de Vienne: le lieutenant Georges de Villebois-Mareuil libère la ville occupée par les Prussiens depuis le 13 décembre 1870.",
+  "1932 : Entre 1932 et 1939, la basilique Notre-Dame-de-la-Trinité est construite en béton digne des basiliques américaines.",
+  "Lieu « Hôtel d'Alluye » : L’hôtel d’Alluye est un hôtel particulier du XVIe siècle situé au no 8 de la rue Saint-Honoré, à Blois, dans le département français de Loir-et-Cher.",
+  "Lieu « Hôtel d'Alluye », 1498 : Bâti entre 1498 et 1508, l'hôtel d'Alluye est l'un des premiers monuments de style Renaissance construits à Blois.",
+  "Lieu « Hôtel d'Alluye », 1812 : L'aile ouest du bâtiment a quant à elle été détruite dès le début du XVIIe siècle tandis que l'aile nord a été démolie en 1812.",
+  "Lieu « Hôtel d'Alluye », 1832 : Racheté par un ancien notaire en 1832, l'hôtel est finalement vendu à la Mutuelle générale d'assurance de Loir-et-Cher en 1866.",
+  "Lieu « Hôtel d'Alluye », aujourd'hui : L'édifice qui nous est parvenu ne s'étend plus, aujourd'hui, que sur la moitié de la superficie qu'il occupait à l'origine.",
+  "Lieu « Prieuré Saint-Lazare et hospice Lunier » : La léproserie Saint-Lazare, devenue prieuré puis château ou villa Saint-Lazare, et enfin hospice Lunier, est un ensemble de bâtiments inscrits à l'inventaire et aujourd'hui intégrés à la cité scolaire Robert-Badinter de Blois, dans le Loir-et-Cher.",
+  "Lieu « Prieuré Saint-Lazare et hospice Lunier », 1116 : Fondée entre 1116 et 1126 par le comte Thibaut IV de Blois et l'évêque de Chartres Geoffroy de Lèves, la maladrerie Saint-Lazare est à l'origine destinée à l'isolement des lépreux.",
+  "Lieu « Prieuré Saint-Lazare et hospice Lunier », 1791 : Réaménagé au XVIIIe siècle, le prieuré est nationalisé en 1791 avant d'être vendu deux ans plus tard au maire de Paris Nicolas Chambon de Montaux.",
+  "Lieu « Prieuré Saint-Lazare et hospice Lunier », 1861 : Vendu au département de Loir-et-Cher en 1861, le domaine de Chambert-Péan est intégré à l'asile départemental de Loir-et-Cher, alors placé sous la direction du docteur Jules Lunier.",
+  "Lieu « Prieuré Saint-Lazare et hospice Lunier », aujourd'hui : La léproserie Saint-Lazare, devenue prieuré puis château ou villa Saint-Lazare, et enfin hospice Lunier, est un ensemble de bâtiments inscrits à l'inventaire et aujourd'hui intégrés à la cité scolaire Robert-Badinter de Blois, dans le Loir-et-Cher.",
+  "Lieu « Blois-Vienne » : Blois-Vienne, ou le quartier Vienne (en latin : Vienna), désigne communément la partie-sud de Blois, séparée du reste de la ville par la frontière naturelle qu’est la Loire, et qui correspond aux quartiers Saint-Saturnin, de la Creusille, des Métairi",
+  "Lieu « Blois-Vienne », Ier siècle : Cette agglomération de la Motte semble cependant avoir été abandonnée au Ier siècle av. J.-C., au profit d'un bourg qui se constitue plus en amont, face au Bourg-Moyen naissant de la rive droite.",
+  "Lieu « Blois-Vienne », Ier siècle : Après la conquête de la Gaule par les Romains au Ier siècle av. J.-C., un premier pont de bois est construit entre les Ier et IIe siècles de notre ère (dit pont antique), dont les fondations sont visibles de nos jours, lorsque la Loire est à l’étiage.",
+  "Lieu « Blois-Vienne », 1907 : Néanmoins, la dernière fois que l'intérieur de Vienne a été inondé remonte à la crue de 1907 ; l'eau avait alors atteint les 5,63 m.",
+  "Lieu « Blois-Vienne », aujourd'hui : Autrement dit, il s’agit aujourd’hui de la rive gauche de la ville.",
+  "Lieu « Cathédrale Saint-Louis de Blois » : La cathédrale Saint-Louis de Blois est une cathédrale catholique romaine située à Blois, dans le département du Loir-et-Cher, en région Centre-Val de Loire.",
+  "Lieu « Cathédrale Saint-Louis de Blois », XIIIe siècle : L'église semble avoir été reconstruite à partir du XIIIe siècle, notamment du côté inférieur de la tour-clocher.",
+  "Lieu « Cathédrale Saint-Louis de Blois », 1544 : En effet, l'église est entièrement reconstruite une troisième fois à partir de 1544 en style Renaissance, avec un élargissement de la nef coté Nord.",
+  "Lieu « Cathédrale Saint-Louis de Blois », 1906 : Classée monument historique depuis le 9 août 1906, elle est le siège du diocèse de Blois, érigé en 1697 par une bulle du pape Innocent XII, au moment de la reconstruction de l'église Saint-Solenne détruite lors d'une tempête.",
+  "Lieu « Cathédrale Saint-Louis de Blois », aujourd'hui : De l'église médiévale ne subsiste que le soubassement du clocher et la crypte, au-dessus de laquelle s'est construit le nouveau chœur.",
+  "Lieu « Haras national de Blois » : Le haras national de Blois était un ancien dépôt national d'étalons situé au no 62 de l'avenue Maunoury, à Blois, dans le Loir-et-Cher, en France.",
+  "Lieu « Haras national de Blois », 1870 : Installé au niveau de l'ancien couvent des Carmélites, rue du Sermon, il est finalement abandonné quelques années après la guerre de 1870 car jugé trop exigu.",
+  "Lieu « Haras national de Blois », 1878 : Construits entre 1878 et 1880 par l'architecte Jules de La Morandière, les bâtiments du haras actuel ont été inscrits au titre des monuments historiques en 1992.",
+  "Lieu « Haras national de Blois », 1880 : Inauguré en 1880, le nouveau haras atteint son apogée en 1913, année où il héberge 122 étalons, pour un total de 3 454 dans l'ensemble des haras nationaux.",
+  "Lieu « Haras national de Blois », aujourd'hui : Face au risque de perdre cette institution prestigieuse, le conseil municipal propose finalement un autre emplacement à l'État et accepte même de verser les contreparties financières qu'il refusait auparavant de régler.",
+  "Lieu « Château de Blois » : Le château royal de Blois, situé dans le département de Loir-et-Cher (en Centre-Val de Loire), fait partie des châteaux de la Loire.",
+  "Lieu « Château de Blois », XIe siècle : La forteresse reconstruite est au cœur d’une vaste région dont les maîtres sont les comtes de Blois, puissants seigneurs féodaux aux Xe et XIe siècles : leurs possessions s’étendent à la région de Blois et de Chartres, et jusqu’à la Champagne.",
+  "Lieu « Château de Blois », XIIe siècle : À la fin du XIIe siècle est bâtie dans l’avant-cour la collégiale Saint-Sauveur.",
+  "Lieu « Château de Blois », XIIIe siècle : Au XIIIe siècle, le château est reconstruit par la famille bourguignonne de Châtillon.",
+  "Lieu « Château de Blois », aujourd'hui : L’édifice sans fortifications fut réalisé sous la direction des architectes Colin Biart et Jacques Sourdeau (qui travaillera aussi à la construction de l’aile François Ier), et la création d’un jardin Renaissance aujourd’hui disparu.",
+  "Lieu « Buvette de la Renaissance » : La buvette de la Renaissance est une maison urbaine à pans de bois située au 21, rue Beauvoir, dans le quartier du Bourg-Neuf à Blois (Loir-et-Cher).",
+  "Lieu « Buvette de la Renaissance », XVe siècle : Édifiée à la fin du XVe siècle, elle combine un décor encore gothique, avec engoulants et pinacles parfois à crochets, et un vocabulaire de première Renaissance.",
+  "Lieu « Buvette de la Renaissance », XVe siècle : La demeure est édifiée dans le dernier quart du XVe siècle, période d'intense activité constructive à Blois liée à l'installation de la cour royale.",
+  "Lieu « Buvette de la Renaissance », 1946 : L'édifice est inscrit au titre des monuments historiques par arrêté du 23 novembre 1946, pour sa façade et sa toiture.",
+  "Lieu « Buvette de la Renaissance », aujourd'hui : Au premier étage subsiste la traverse d'une croisée à meneau vertical et traverse horizontale ; une seconde baie du même niveau est encadrée de colonnettes en bois sculpté, ornées de fleurons.",
+  "Lieu « Gare de Blois - Chambord » : La gare de Blois - Chambord est une gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Blois, à une vingtaine de kilomètres de Chambord, dans le département de Loir-et-Cher, en",
+  "Lieu « Gare de Blois - Chambord », 1847 : Une première gare, appelée embarcadère, est construite à Blois en 1847, peu de temps après l'ouverture de la ligne entre Tours et Orléans en 1846.",
+  "Lieu « Gare de Blois - Chambord », 1990 : Au milieu des années 1990, le centre de tri postal juxtaposé à la gare est détruit et laisse place à un parc de stationnement.",
+  "Lieu « Gare de Blois - Chambord », 2010 : Dans les années 2010, les dernières halles et bureaux d'époque sont rasés dans le cadre du projet de réaménagement du quartier de la gare.",
+  "Lieu « Gare de Blois - Chambord », aujourd'hui : Les travaux durent de 1890 à 1893 et la nouvelle gare coupe alors l'avenue de l'Embarcadère (aujourd'hui avenue du Docteur-Jean-Laigret)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
