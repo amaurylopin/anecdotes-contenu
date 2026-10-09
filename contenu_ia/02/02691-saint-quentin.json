@@ -1,0 +1,273 @@
+{
+ "commune": {
+  "titre": "Saint-Quentin",
+  "code_insee": "02691",
+  "departement": "02",
+  "population": 52813,
+  "lat": 49.8475,
+  "lon": 3.279,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Quentin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:31:41",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3534,
+  "sortie": 2252
+ },
+ "cout_usd": 0.003522,
+ "accroche": "Fondée par les Romains vers le début de notre ère, Saint-Quentin reçut le nom d’Augusta Viromanduorum, liée à un gué pour franchir la Somme.",
+ "histoire": {
+  "recit": "À Saint-Quentin, l’histoire commence par un passage : les Romains fondent la ville pour remplacer administrativement Vermand, autour d’un gué permettant de franchir la Somme, et lui donnent le nom d’Augusta Viromanduorum. Le site est ravagé au IIIe siècle, et il est possible que Vermand redevienne la capitale locale.\n\nPlus tard, la ville connaît des heures contrastées : en 1814-1815, elle est occupée par les Russes sans dommage. En 1897, une action dite héroïque fait l’objet d’un monument sur la grand-place et la commune est décorée de la Légion d’honneur le 6 juin.\n\nLa Première Guerre mondiale bouleverse tout : le 28 août 1914, malgré la défense des Pépères du 10e régiment d’infanterie territoriale, la ville est envahie puis occupée à partir de début septembre. Après l’évacuation de la population en mars 1917, la ville est pillée.\n\nSur le terrain, plusieurs lieux gardent cette mémoire : la basilique, dont l’abbé Fulrad fait édifier une nouvelle église en 813-826, la gare, inaugurée en 1850, et les vestiges d’édifices plus anciens, comme l’abbaye détruite en 1557.",
+  "chronologie": [
+   {
+    "date": "vers le début de notre ère",
+    "texte": "Les Romains fondent Saint-Quentin pour remplacer administrativement Vermand ; le site correspond à un gué pour franchir la Somme et la ville reçoit le nom d’Augusta Viromanduorum.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IIIe siècle",
+    "texte": "La ville est ravagée au IIIe siècle, avec l’hypothèse que Vermand redevenait la capitale locale.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1814-1815",
+    "texte": "Saint-Quentin est occupée par les Russes, sans dommage.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "6 juin 1897",
+    "texte": "Après une action qualifiée d’héroïque, un monument est érigé sur la grand-place et la commune est décorée de la Légion d’honneur le 6 juin 1897.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "28 août 1914",
+    "texte": "Malgré la défense héroïque de la ville, Saint-Quentin est envahie puis occupée à partir du début de septembre 1914.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "mars 1917",
+    "texte": "Après l’évacuation de la population en mars 1917, la ville est pillée et l’équipement industriel est emporté ou détruit.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Basilique Saint-Quentin de Saint-Quentin",
+   "histoire": "Au cœur de la ville, la basilique est une église catholique. Le récit hagiographique autour du saint est rédigé au début du VIIe siècle, tandis que l’édifice s’est construit laborieusement du XIIe au XVe siècle en réunissant des évolutions gothiques. La Première Guerre mondiale l’endommage fortement avant une restauration au XXe siècle. Aujourd’hui, des vestiges d’une église édifiée par l’abbé Fulrad entre 813 et 826, notamment des restes de l’abside et un pavement de mosaïque, ont été mis au jour lors de fouilles menées en 1865 et 1866.",
+   "anecdotes": [
+    {
+     "texte": "Un récit hagiographique prétend s’appuyer sur un témoignage ayant assisté à la découverte du corps du saint par Eusébie, au milieu du IVe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 49.84779167,
+   "lon": 3.289916667,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Quentin_de_Saint-Quentin"
+  },
+  {
+   "nom": "Bataille de Saint-Quentin (1557)",
+   "histoire": "Le 10 août 1557, jour de la Saint-Laurent, Montmorency décide d’avancer sur Saint-Quentin : l’avant-garde doit traverser la Somme en barques pour renforcer rapidement les assiégés, tandis que le gros des troupes se regroupe temporairement dans un bois voisin, le bois de Montescourt. La résistance des Saint-Quentinois, conduite par Gaspard de Coligny, dure dix-sept jours et laisse une trace dans l’histoire. Le contexte, lui, remonte aux tensions franco-espagnoles et à la trêve de Vaucelles signée en 1556.",
+   "anecdotes": [
+    {
+     "texte": "La résistance menée par Gaspard de Coligny, parvenu dans la ville la nuit du 2 au 3 août 1557 avec 500 hommes armés, fut dite héroïque et dura dix-sept jours.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "Sous ses murs, un massacre est décrit comme ayant laissé sa trace dans l’histoire.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 49.8486111111,
+   "lon": 3.28638888889,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Saint-Quentin_%281557%29"
+  },
+  {
+   "nom": "Abbaye de Saint-Quentin-en-l'Isle",
+   "histoire": "L’abbaye de Saint-Quentin-en-l’Isle est une abbaye bénédictine située primitivement sur une île de la Somme, dans le faubourg d’Isle à Saint-Quentin. Déclarée royale en 1406, elle voit l’église reconstruite en pierre en 1146, consacrée par Simon de Vermandois. Pendant le siège de Saint-Quentin, elle est détruite en 1557, puis entièrement reconstruite en 1718. Aujourd’hui, les pèlerins se procurent l’eau curative dans la chapelle d’Isle, au niveau d’un puits aménagé à l’emplacement de la découverte du corps du martyr.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Chapelle d’Isle avec le puits et l’eau curative.",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 49.840674,
+   "lon": 3.298654,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Quentin-en-l%27Isle"
+  },
+  {
+   "nom": "Gare de Saint-Quentin",
+   "histoire": "La gare de Saint-Quentin est une gare ferroviaire située près du centre-ville. Elle est officiellement inaugurée le 9 juin 1850 par le président de la République Louis-Napoléon Bonaparte. Un second bâtiment, dû à Sidney Dunnett, est inauguré en 1887, puis détruit par un incendie le 13 janvier 1922. Le parvis, très dégradé, est rénové et inauguré le 17 décembre 2016 après environ deux ans de travaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 49.839701,
+   "lon": 3.297163,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Quentin"
+  },
+  {
+   "nom": "Hôtel de ville de Saint-Quentin",
+   "histoire": "L’hôtel de ville de Saint-Quentin est un bâtiment d’architecture civile du Bas Moyen Âge de Picardie. En 1759, un campanile octogonal y est érigé : il abrite un carillon de 37 cloches datant de 1924. Au début du XXe siècle, une balustrade est construite au-dessus du premier étage. Aujourd’hui, une porte à deux vantaux de style Louis XIV, offerte en 1719 par Etienne Fizeaux, donne accès à l’ancienne chapelle, désormais salle d’attente des mariages.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une ancienne chapelle, devenue salle d’attente des mariages, accessible par une porte à deux vantaux de style Louis XIV.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 49.847,
+   "lon": 3.28704,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Saint-Quentin"
+  },
+  {
+   "nom": "Cimetière militaire allemand de Saint-Quentin",
+   "histoire": "Le cimetière militaire allemand de Saint-Quentin est un cimetière militaire de la Première Guerre mondiale situé à Saint-Quentin. À l’emplacement de l’actuel cimetière, le haut-commandement allemand décide en 1914 de créer un cimetière provisoire. En 1915, l’empereur décide d’y faire construire un monument aux morts inauguré en sa présence et avec des représentants de la ville. En 1971, des croix en bronze marquées du nom des soldats sont installées sur les tombes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S34",
+    "S32",
+    "S33"
+   ],
+   "lat": 49.8479,
+   "lon": 3.26105,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_militaire_allemand_de_Saint-Quentin"
+  },
+  {
+   "nom": "Chapelle de la Charité de Saint-Quentin",
+   "histoire": "La chapelle de la Charité, aussi appelée chapelle de l’Immaculée-Conception, est une chapelle catholique à Saint-Quentin. En 1966, les sœurs quittent leur établissement pour la rue Sainte-Catherine afin d’ouvrir un centre d’accueil pour la jeunesse en difficulté, puis la chapelle devient l’entrepôt d’un brocanteur avant d’être abandonnée en 1987. En 1991, elle est vendue à la Fraternité sacerdotale Saint-Pie X, qui restaure et rétablit le culte le 7 juillet 1996.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 49.844,
+   "lon": 3.2886,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_de_la_Charit%C3%A9_de_Saint-Quentin"
+  },
+  {
+   "nom": "Église Saint-Martin de Saint-Quentin",
+   "histoire": "L’église Saint-Martin est située à Saint-Quentin. Le faubourg Saint-Martin, au sud de la ville, était dépourvu d’église malgré l’augmentation de la population ; en 1886, il est décidé d’y bâtir un lieu de culte catholique grâce à l’intervention du chanoine Dehon. L’église est construite en brique de 1889 à 1913 dans un style néo-gothique. Détruite au cours de la Première Guerre mondiale, la flèche en béton armé ajouré est reconstruite en 1929 dans le style art déco par A. Vapillon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 49.8399,
+   "lon": 3.30139,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Saint-Quentin"
+  }
+ ],
+ "sources": [
+  "Saint-Quentin (/sɛ̃.kɑ̃.tɛ̃/) est une commune française située dans le département de l'Aisne, en région Hauts-de-France. Comptant la plus importante population du département, dont elle est une sous-préfecture, Saint-Quentin est la neuvième commune la plus peuplée de la région Hauts-de-France. Cette ville picarde est située sur la Somme. Historiquement et traditionnellement, Saint-Quentin était le siège du comté de […]",
+  "La ville a été fondée par les Romains, vers le début de notre ère, pour remplacer administrativement Vermand contre la capitale des Viromandui, peuple celte belge qui occupait la région. Elle reçut le nom d'Augusta Viromanduorum, l'Auguste des Viromandui, en l'honneur de l'empereur Auguste. Le site correspond à un gué qui permettait de franchir la Somme. Elle est ravagée au IIIe siècle et il est possible que Vermand […]",
+  "IIIe siècle : Elle est ravagée au IIIe siècle et il est possible que Vermand soit redevenue la capitale locale (cf. son nom qui provient de Veromandis).",
+  "1814 : En 1814-1815, Saint-Quentin est occupée par les Russes, sans dommage.",
+  "1897 : Cette action héroïque eut un retentissement national : un monument commémorant cet événement fut érigé sur la grand-place et Saint-Quentin fut décorée de la Légion d'honneur, le 6 juin 1897.",
+  "1914 : Le 28 août 1914, malgré la défense héroïque de la ville par les Pépères du 10e régiment d'infanterie territoriale, originaires de la ville, la ville est envahie puis occupée à partir du début de septembre 1914.",
+  "1917 : Après l'évacuation de la population en mars 1917, la ville est pillée et tout l'équipement industriel emporté ou détruit.",
+  "Lieu « Basilique Saint-Quentin de Saint-Quentin » : La basilique Saint-Quentin de Saint-Quentin est une église catholique située dans le centre-ville de Saint-Quentin, dans le département français de l'Aisne.",
+  "Lieu « Basilique Saint-Quentin de Saint-Quentin », VIIe siècle : Ce récit hagiographique fut rédigé au début du VIIe siècle par un auteur anonyme qui prétend s'être fondé sur le témoignage d'une personne ayant assisté à la découverte du corps du saint par Eusébie au milieu du IVe siècle.",
+  "Lieu « Basilique Saint-Quentin de Saint-Quentin », XVe siècle : L'édifice s'est construit laborieusement du XIIe au XVe siècle en réunissant toutes les évolutions successives de l'architecture gothique.",
+  "Lieu « Basilique Saint-Quentin de Saint-Quentin », XXe siècle : L'édifice a fortement souffert durant la Première Guerre mondiale, à l'instar de la cathédrale Notre-Dame de Reims, et a ensuite bénéficié d'une longue restauration au cours du XXe siècle.",
+  "Lieu « Basilique Saint-Quentin de Saint-Quentin », aujourd'hui : Le même abbé Fulrad fit édifier de 813 à 826 une nouvelle église dont des vestiges de l'abside en demi-cercle et du pavement de mosaïque ont été mis au jour lors de fouilles archéologiques menées par Pierre Bénard sous l'actuel chœur de la basilique en 1865 et 1866.",
+  "Lieu « Bataille de Saint-Quentin (1557) » : La bataille de Saint-Quentin (10 août 1557) est une victoire espagnole sur la France.",
+  "Lieu « Bataille de Saint-Quentin (1557) », XVIe siècle : L’impact sur les Français devait être décisif : Saint-Quentin n’était qu’une petite ville mal protégée par son enceinte médiévale, même si au début du XVIe siècle, deux grosses tours d’artillerie avaient été construites et que des boulevards avaient été récemment aménagés pour améliorer sa défense.",
+  "Lieu « Bataille de Saint-Quentin (1557) », 1554 : Ensuite la France, victorieuse en 1554 à Renty, perd la ville de Sienne en 1555 et la trêve de Vaucelles (1556) est signée entre la France et l’Espagne.",
+  "Lieu « Bataille de Saint-Quentin (1557) », 1557 : Le 10 août 1557, jour de la Saint-Laurent, Montmorency décida d’avancer sur Saint-Quentin : il voulait que son avant-garde traverse la Somme en barques et renforce rapidement les assiégés, pendant que le gros de ses troupes se regrouperait temporairement dans un bois voisin, le bois de Montescourt.",
+  "Lieu « Bataille de Saint-Quentin (1557) », aujourd'hui : La résistance des Saint-Quentinois conduits par Gaspard de Coligny, parvenu dans la ville dans la nuit du 2 au 3 août 1557 avec 500 hommes armés, fut héroïque et dura dix-sept jours, mais le massacre qui eut lieu sous ses murs laissa sa trace dans l’histoire.",
+  "Lieu « Abbaye de Saint-Quentin-en-l'Isle » : L'abbaye de Saint-Quentin-en-l'Isle était une abbaye bénédictine, située primitivement, comme son nom l'indique, sur une île de la Somme, dans le faubourg d'Isle à Saint-Quentin dans l'Aisne, déclarée royale en 1406.",
+  "Lieu « Abbaye de Saint-Quentin-en-l'Isle », 1146 : En 1146, l'église, qui était en bois, est reconstruite en pierre, consacrée en 1146 par Simon de Vermandois, évêque de Noyon et Tournai.",
+  "Lieu « Abbaye de Saint-Quentin-en-l'Isle », 1557 : Le 27 août 1557, l'abbaye est détruite pendant la le siège de Saint-Quentin.",
+  "Lieu « Abbaye de Saint-Quentin-en-l'Isle », 1718 : En 1718, les bâtiments sont entièrement reconstruits, selon une disposition modifiée.",
+  "Lieu « Abbaye de Saint-Quentin-en-l'Isle », aujourd'hui : Les pèlerins se procurent l'eau curative dans la chapelle d'Isle, où se trouvent le puits aménagé à l'emplacement de la découverte du corps du martyr.",
+  "Lieu « Gare de Saint-Quentin » : La gare de Saint-Quentin est une gare ferroviaire française de la ligne de Creil à Jeumont, située à proximité (200 mètres) du centre-ville de Saint-Quentin, sous-préfecture du département de l'Aisne, en région Hauts-de-France.",
+  "Lieu « Gare de Saint-Quentin », 1850 : Elle est officiellement inaugurée le 9 juin 1850 par le président de la République, Louis-Napoléon Bonaparte.",
+  "Lieu « Gare de Saint-Quentin », 1887 : Un second bâtiment, dû à Sidney Dunnett, architecte de la compagnie, est inauguré en 1887, mais est détruit par un incendie le 13 janvier 1922.",
+  "Lieu « Gare de Saint-Quentin », 2016 : Le parvis attenant, très dégradé, a été rénové, puis inauguré le 17 décembre 2016 après environ deux ans de travaux.",
+  "Lieu « Hôtel de ville de Saint-Quentin » : L'hôtel de ville de Saint-Quentin (Aisne) est un bâtiment d'architecture civile du Bas Moyen Âge de Picardie.",
+  "Lieu « Hôtel de ville de Saint-Quentin », 1759 : En 1759 fut érigé un campanile octogonal qui abrite un carillon de 37 cloches datant de 1924.",
+  "Lieu « Hôtel de ville de Saint-Quentin », XXe siècle : Une balustrade surmontant le premier étage a été construite au début du XXe siècle.",
+  "Lieu « Hôtel de ville de Saint-Quentin », aujourd'hui : À l'opposé, une porte à deux vantaux de style Louis XIV, offerte en 1719 par Etienne Fizeaux, négociant en toile de lin saint-quentinois, donne accès à l'ancienne chapelle, aujourd'hui salle d'attente des mariages.",
+  "Lieu « Cimetière militaire allemand de Saint-Quentin » : Le cimetière militaire allemand de Saint-Quentin (en allemand Deutsche Soldatenfriedhof Saint-Quentin) est un cimetière militaire de la Première Guerre mondiale, situé à Saint-Quentin, dans l'Aisne (02100), en France.",
+  "Lieu « Cimetière militaire allemand de Saint-Quentin », 1915 : L'empereur décide d'y faire construire un monument aux morts qui est inauguré en sa présence, ainsi que celle des représentants de la ville, le 18 octobre 1915.",
+  "Lieu « Cimetière militaire allemand de Saint-Quentin », 1971 : Finalement, en 1971, des croix en bronze, marquées du nom des soldats, sont installées sur les tombes.",
+  "Lieu « Cimetière militaire allemand de Saint-Quentin », aujourd'hui : À l'automne 1914, à l'emplacement de l'actuel cimetière, le haut-commandement allemand décide de créer un cimetière provisoire.",
+  "Lieu « Chapelle de la Charité de Saint-Quentin » : La chapelle de la Charité, ou chapelle de l'Immaculée-Conception, est une chapelle catholique située à Saint-Quentin, dans le département de l'Aisne, en France.",
+  "Lieu « Chapelle de la Charité de Saint-Quentin », 1966 : En 1966, les sœurs quittent leur établissement pour la rue Sainte-Catherine, où elles ouvrent un centre d'accueil pour la jeunesse en difficulté, démoli par la suite en 1981.",
+  "Lieu « Chapelle de la Charité de Saint-Quentin », 1987 : La chapelle dès lors devient l'entrepôt d'un brocanteur, puis elle est abandonnée en 1987.",
+  "Lieu « Chapelle de la Charité de Saint-Quentin », 1991 : Elle est vendue en 1991 à la Fraternité sacerdotale Saint-Pie X qui la restaure et rétablit le culte le 7 juillet 1996.",
+  "Lieu « Église Saint-Martin de Saint-Quentin » : L'église Saint-Martin est située à Saint-Quentin, dans le département de l'Aisne.",
+  "Lieu « Église Saint-Martin de Saint-Quentin », 1886 : Le faubourg Saint-Martin, au sud de la ville, était dépourvu d'église alors que sa population augmentait : il fut décidé d'y bâtir un lieu de culte catholique en 1886, grâce à l'intervention du chanoine Dehon.",
+  "Lieu « Église Saint-Martin de Saint-Quentin », 1889 : Cette église fut construite en brique de 1889 à 1913, dans le style néo-gothique très prisé à l'époque.",
+  "Lieu « Église Saint-Martin de Saint-Quentin », 1929 : Détruite au cours de la Première Guerre mondiale, la flèche en béton armé ajouré a été reconstruite, en 1929, dans le style art déco par A. Vapillon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
