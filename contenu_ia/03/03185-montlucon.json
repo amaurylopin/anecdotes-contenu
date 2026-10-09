@@ -1,0 +1,290 @@
+{
+ "commune": {
+  "titre": "Montluçon",
+  "code_insee": "03185",
+  "departement": "03",
+  "population": 33147,
+  "lat": 46.34083333,
+  "lon": 2.60333333,
+  "url": "https://fr.wikipedia.org/wiki/Montlu%C3%A7on"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:46:17",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3330,
+  "sortie": 1723
+ },
+ "cout_usd": 0.00282,
+ "accroche": "Montluçon compte 33 147 habitants (au 1er janvier 2023) et se distingue par un château fort occupé par les Anglais de 1171 à 1188.",
+ "histoire": {
+  "recit": "À Montluçon, l’occupation humaine remonte loin : sur l’esplanade du château, des traces du Magdalénien ont été retrouvées, et les Hauts de Buffon ont aussi livré une station de plein air de chasseurs collecteurs.\n\nLe temps a ensuite laissé une ville tournée vers ses axes. Le site des Hauts de Buffon porte, du Ier au IVe siècle, un sanctuaire gallo-romain, puis prolonge sa présence jusqu’aux périodes carolingiennes.\n\nDurant l’hiver 1709, le jour des rois, une vague de froid bloque l’accès à la ville et détruit toutes les récoltes. Puis l’industrie s’installe : en 1848, des usines prennent place sur la rive gauche du Cher, notamment l’usine Saint-Jacques, avant que la guerre n’assombrisse la ville.\n\nLe 19 juin 1940, Montluçon est bombardée, faisant 81 morts. Pourtant, la ville continue de bâtir : au tournant du quartier de la Ville-Gozet, la maison communale est décidée en 1896, puis inaugurée en 1899.\n\nAutour, les monuments cadrent les pas : la maison communale fait face au chevet de l’église Saint-Paul, et le château des ducs de Bourbon domine encore le paysage communal.",
+  "chronologie": [
+   {
+    "date": "XIIe au XVIIIe ?",
+    "texte": "",
+    "sources": []
+   },
+   {
+    "date": "Ier au IVe siècle",
+    "texte": "Aux Hauts de Buffon, un sanctuaire, un fanum gallo-romain, est occupé jusqu’à la période carolingienne (VIIIe au Xe siècle).",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1709",
+    "texte": "Durant l’hiver 1709, le jour des rois, une vague de froid bloque l’accès à la ville et détruit toutes les récoltes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1834",
+    "texte": "La fin des travaux du canal se conclut en 1834 ; il est ouvert à la navigation en 1835.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1848",
+    "texte": "Des usines s’installent sur la rive gauche du Cher ; l’usine Saint-Jacques est fondée en 1848.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1er septembre 1939 / 19 juin 1940",
+    "texte": "La Seconde Guerre mondiale éclate ; la ville est bombardée le 19 juin 1940, avec 81 morts.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "15 octobre 1896",
+    "texte": "Jean Dormoy, premier maire socialiste, décide la construction de la maison communale.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "24 septembre 1899",
+    "texte": "L’édifice de la maison communale est inauguré.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Maison communale de Montluçon",
+   "histoire": "Édifice public situé dans le quartier de la Ville-Gozet, sur la rive gauche du Cher, en face du chevet de l’église Saint-Paul.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice est construit en face du chevet de l’église Saint-Paul, sur l’un des côtés de la place Jean-Dormoy.",
+   "sources": [
+    "S8",
+    "S12"
+   ],
+   "lat": 46.346824,
+   "lon": 2.598674,
+   "url": "https://fr.wikipedia.org/wiki/Maison_communale_de_Montlu%C3%A7on"
+  },
+  {
+   "nom": "Église Notre-Dame de Montluçon",
+   "histoire": "Église gothique du XVe siècle ; toutefois, certaines parties datent du XIIe siècle, dont deux murs du chœur, l’absidiole nord et les piles nord de la nef.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il subsiste quelques vestiges d’une église du XIIe siècle, notamment le bras nord du transept et son absidiole, ainsi que le mur goutterot nord.",
+   "sources": [
+    "S13",
+    "S14",
+    "S17"
+   ],
+   "lat": 46.340749,
+   "lon": 2.60512,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Montlu%C3%A7on"
+  },
+  {
+   "nom": "Château des ducs de Bourbon à Montluçon",
+   "histoire": "Ancien château fort du XIIIe siècle, sur le territoire de Montluçon.",
+   "anecdotes": [
+    {
+     "texte": "En 1171, le château de Montluçon est occupé par les Anglais, jusqu’en 1188.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "Au cœur de la guerre de Cent Ans, ce qu’il reste du château est reconstruit à partir de 1370 par Louis II de Bourbon, qui y meurt sans que les Anglais aient pu prendre la place.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 46.3401,
+   "lon": 2.60355,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_ducs_de_Bourbon_%C3%A0_Montlu%C3%A7on"
+  },
+  {
+   "nom": "Campus François-Mitterrand (Montluçon)",
+   "histoire": "Centre universitaire comprenant une bibliothèque, une antenne de Polytech Clermont et cinq départements de l’IUT fusionné.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S26"
+   ],
+   "lat": 46.32849,
+   "lon": 2.58898,
+   "url": "https://fr.wikipedia.org/wiki/Campus_Fran%C3%A7ois-Mitterrand_%28Montlu%C3%A7on%29"
+  },
+  {
+   "nom": "Château de Bien-Assis",
+   "histoire": "Maison forte du XVe siècle située à Montluçon.",
+   "anecdotes": [
+    {
+     "texte": "Des pierres du “Château jaune”, démoli en 1963, ont été récupérées au pied du château des ducs de Bourbon.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "En 1970, les Amis de Montluçon achètent le château de Bien-Assis pour le sauver de la démolition.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 46.343611,
+   "lon": 2.575833,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Bien-Assis"
+  },
+  {
+   "nom": "Gare de Montluçon-Ville",
+   "histoire": "Gare ferroviaire de la ligne de Montluçon à Saint-Sulpice-Laurière, sur le territoire de Montluçon.",
+   "anecdotes": [
+    {
+     "texte": "Le 28 août 1864, Napoléon III arrive par le train dans la gare de Montluçon, pour sa visite.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 46.337763,
+   "lon": 2.596053,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Montlu%C3%A7on-Ville"
+  },
+  {
+   "nom": "Église Saint-Paul de Montluçon",
+   "histoire": "Église catholique construite entre 1863 et 1869 par l’architecte Louis-Auguste Boileau ; classée en 1987.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle occupe le centre d’une grande place, aujourd’hui la place Jean-Dormoy.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 46.3466,
+   "lon": 2.59792,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_de_Montlu%C3%A7on"
+  },
+  {
+   "nom": "Chapelle Saint-Louis de Montluçon",
+   "histoire": "Ancienne chapelle du XIIIe siècle située dans la vieille ville de Montluçon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges donnent sur la place de la Comédie (rue du Doyenné), entre la rue de la Comédie et le passage du Doyenné.",
+   "sources": [
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 46.340401,
+   "lon": 2.605651,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Louis_de_Montlu%C3%A7on"
+  }
+ ],
+ "sources": [
+  "Montluçon (prononciation : /mɔ̃.ly.sɔ̃/ ou localement /mo.ly.sɔ̃/) est une commune française située dans le centre de la France, sous-préfecture du département de l'Allier dans la région Auvergne-Rhône-Alpes. Ses 33 147 habitants (au 1er janvier 2023), appelés les Montluçonnais et Montluçonnaises , en font la première commune du département, devant Vichy et Moulins mais aussi de la région historique du Bourbonnais. […]",
+  "Des traces d'occupation humaine et du mobilier lithique (outils de silex) datant de la période du Magdalénien (préhistoire, douze mille ans avant notre ère) ont été retrouvées notamment sur l'esplanade du château de Montluçon. En 2010, une station de plein air de chasseurs collecteurs de la même époque a été découverte sur le site des Hauts de Buffon. Bien d'autres sites existent aux alentours de la commune comme à […]",
+  "IVe siècle : Sur cet axe routier, le site des Hauts de Buffon est occupé du Ier au IVe siècle par un sanctuaire, un fanum gallo-romain qui perdure jusqu'à la période carolingienne du VIIIe au Xe siècle.",
+  "1709 : Durant l'hiver 1709, le jour des rois, une vague de froid bloque l'accès à la ville et détruit toutes les récoltes.",
+  "1834 : Les travaux se terminent en 1834 et le canal est ouvert à la navigation en 1835.",
+  "1848 : Des usines sont construites sur la rive gauche du Cher (dont l'usine Saint-Jacques, fondée en 1848 et fermée en 1964, filiale de la Compagnie des forges de Châtillon-Commentry et Neuves-Maisons, qui fabriqua, entre autres, de 1876 à 1885 les \"tourelles Mougin\", destinées à armer les forts de l'Est, tel celui de Manonviller), et dans le nouveau quartier de la Ville Gozet.",
+  "1939 : La Seconde Guerre mondiale éclate le 1er septembre 1939, la ville est bombardée le 19 juin 1940 par la Luftwaffe faisant 81 morts.",
+  "Lieu « Maison communale de Montluçon » : La maison communale de Montluçon est un édifice public de Montluçon (Allier), dans le quartier de la Ville-Gozet, sur la rive gauche du Cher, en face du chevet de l'église Saint-Paul.",
+  "Lieu « Maison communale de Montluçon », 1840 : L'emplacement choisi se trouve sur la rive gauche du Cher, dans le nouveau quartier de la Ville-Gozet qui s'est développé à partir de 1840 avec l'industrialisation de la ville consécutive à l'ouverture du canal du Berry en 1834 ; ce quartier était un quartier populaire.",
+  "Lieu « Maison communale de Montluçon », 1896 : Le 15 octobre 1896, Jean Dormoy, premier maire socialiste de Montluçon, décide la construction de l'édifice.",
+  "Lieu « Maison communale de Montluçon », 1899 : Il a été réalisé par l'architecte Gilbert Talbourdeau, à l'initiative du maire socialiste Jean Dormoy, et inauguré le 24 septembre 1899.",
+  "Lieu « Maison communale de Montluçon », aujourd'hui : L'édifice est construit en face du chevet de l'église Saint-Paul, sur l'un des côtés de ce qui est aujourd'hui la place Jean-Dormoy, dont l'église occupe le centre.",
+  "Lieu « Église Notre-Dame de Montluçon » : L'église Notre-Dame de Montluçon est une église gothique du XVe siècle située à Montluçon dans le département de l'Allier.",
+  "Lieu « Église Notre-Dame de Montluçon », XVe siècle : Bien que reconstruite au XVe siècle par le duc Louis II de Bourbon, certaines parties datent du XIIe siècle, tels que deux murs du chœur, l'absidiole nord et les piles nord de la nef.",
+  "Lieu « Église Notre-Dame de Montluçon », XVIe siècle : Au XVIe siècle, d'importants travaux sont exécutés pour refaire le chevet, la croisée du transept et la majeure partie du bas-côté sud.",
+  "Lieu « Église Notre-Dame de Montluçon », 1892 : L'orgue a été reconstruit en 1892-1893 par Jean-Baptiste Ghys, facteur d'orgue dijonnais, en conservant le buffet et les tuyaux des tourelles de l'instrument précédent.",
+  "Lieu « Église Notre-Dame de Montluçon », aujourd'hui : Il subsiste quelques vestiges d'une église du XIIe siècle qui a abrité les conciles provinciaux de 1266 et 1288, en particulier le bras nord du transept et son absidiole, le mur goutterot nord.",
+  "Lieu « Château des ducs de Bourbon à Montluçon » : Le château des ducs de Bourbon est un ancien château fort du XIIIe siècle, qui se dresse sur le territoire de la commune française de Montluçon dans le département de l'Allier, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château des ducs de Bourbon à Montluçon », 1171 : Le château de Montluçon est occupé par les Anglais de 1171 à 1188 lors de la période Plantagenêt.",
+  "Lieu « Château des ducs de Bourbon à Montluçon », 1370 : Ce qu'il reste du château a été construit à partir de 1370, en plein cœur de la guerre de Cent Ans, par Louis II de Bourbon, qui y meurt, sans que les Anglais n’aient pu prendre la place.",
+  "Lieu « Château des ducs de Bourbon à Montluçon », XVe siècle : Les ouvertures de la façade est, l'aile nord, et la tour de l'horloge datent du milieu du XVe siècle et appartiennent à trois campagnes de construction dont les deux premières sont très peu éloignées l'une de l'autre.",
+  "Lieu « Château des ducs de Bourbon à Montluçon », aujourd'hui : En 1070, Guillaume, fils d'Archambaud IV de Bourbon, devint seigneur de Montluçon et fait construire une première forteresse sur l'emplacement d'un ancien oppidum.",
+  "Lieu « Campus François-Mitterrand (Montluçon) » : Le campus François-Mitterrand ou campus de Montluçon est un centre universitaire qui comprend une bibliothèque, une antenne de Polytech Clermont et 5 départements de l'IUT fusionné.",
+  "Lieu « Campus François-Mitterrand (Montluçon) », 1982 : Le département de Techniques de commercialisation est créé en 1982, pour une ouverture aux étudiants en 1983 : c'est l'occasion de faire sortir de terre de nouveaux bâtiments.",
+  "Lieu « Campus François-Mitterrand (Montluçon) », 2025 : Cette réalisation, réhabilitation immobilière écoconçue, se dénomme « La Traverse » et a été inaugurée le 13 juin 2025.",
+  "Lieu « Campus François-Mitterrand (Montluçon) », aujourd'hui : Il est aujourd'hui administré par l'IUT Clermont Auvergne.",
+  "Lieu « Château de Bien-Assis » : Le château de Bien-Assis est une maison forte du XVe siècle située à Montluçon en France.",
+  "Lieu « Château de Bien-Assis », 1963 : De nombreuses pierres ont été récupérées dans le Château jaune, demeure bourgeoise située au pied du château des ducs de Bourbon et qui fut démolie en 1963.",
+  "Lieu « Château de Bien-Assis », 1970 : C’est en 1970 que les Amis de Montluçon achètent le château de Bien-Assis à la Société d'Equipement du Bourbonnais afin de le sauver de la démolition.",
+  "Lieu « Château de Bien-Assis », 1993 : Le prix Émile-Mâle 1993 a été attribué à la Société pour la restauration de cet édifice du XVe siècle, inscrit à l'inventaire supplémentaire des Monuments historiques une première fois le 9 décembre 1929, désinscrit 17 mars 1933 et réinscrit (uniquement façade et toitures) le 20 décembre 1965.",
+  "Lieu « Gare de Montluçon-Ville » : La gare de Montluçon-Ville est une gare ferroviaire française de la ligne de Montluçon à Saint-Sulpice-Laurière, située sur le territoire de la commune de Montluçon, dans le département de l'Allier, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Montluçon-Ville », 1862 : En 1862, les travaux des bâtiments définitifs ont commencé, la ville a également engagé les travaux de création d'une avenue, avec aménagement de ses abords.",
+  "Lieu « Gare de Montluçon-Ville », 1864 : Le 28 août 1864, Napoléon III arrive par le train dans la gare, dont le bâtiment définitif a été achevé l'année précédente, pour sa visite de Montluçon.",
+  "Lieu « Gare de Montluçon-Ville », 1972 : La ligne de Montluçon à Moulins a été fermée au trafic voyageur le 12 octobre 1972 et au trafic fret (branche Commentry-Villefranche d'Allier) en 2005.",
+  "Lieu « Église Saint-Paul de Montluçon » : L'église Saint-Paul est une église catholique située à Montluçon (Allier), en France.",
+  "Lieu « Église Saint-Paul de Montluçon », 1863 : L'église Saint-Paul a été construite entre 1863 et 1869 par l'architecte Louis-Auguste Boileau.",
+  "Lieu « Église Saint-Paul de Montluçon », 1987 : L'édifice est classé au titre des monuments historiques en 1987.",
+  "Lieu « Église Saint-Paul de Montluçon », aujourd'hui : Elle occupe le centre d'une grande place, qui est aujourd'hui la place Jean-Dormoy.",
+  "Lieu « Chapelle Saint-Louis de Montluçon » : L'ancienne chapelle Saint-Louis de Montluçon est un édifice religieux du XIIIe siècle situé à Montluçon (Allier).",
+  "Lieu « Chapelle Saint-Louis de Montluçon », XIIIe siècle : L'ancienne chapelle Saint-Louis de Montluçon est un édifice religieux du XIIIe siècle situé à Montluçon (Allier).",
+  "Lieu « Chapelle Saint-Louis de Montluçon », aujourd'hui : Les vestiges de la chapelle se situent dans la vieille ville de Montluçon et donnent sur la place de la Comédie (rue du Doyenné), entre la rue de la Comédie et le passage du Doyenné."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 1,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
