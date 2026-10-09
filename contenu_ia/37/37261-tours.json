@@ -1,0 +1,284 @@
+{
+ "commune": {
+  "titre": "Tours",
+  "code_insee": "37261",
+  "departement": "37",
+  "population": 139259,
+  "lat": 47.3943,
+  "lon": 0.6949,
+  "url": "https://fr.wikipedia.org/wiki/Tours"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:22",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4317,
+  "sortie": 1620
+ },
+ "cout_usd": 0.002888,
+ "accroche": "Entre 1940 et 1944, Tours subit de lourdes destructions puis est libérée le 1er septembre 1944, selon les récits de la période de guerre.",
+ "histoire": {
+  "recit": "Sur les rives de la Loire et du Cher, Tours tient son nom moderne d’une ville beaucoup plus ancienne : au début de notre ère, les habitants fondent une importante cité selon le modèle romain et la dédient à César, qui prend le nom de Caesarodunum.",
+  "chronologie": [
+   {
+    "date": "Ier siècle av. J.-C.",
+    "texte": "Dans le secteur de l’hôpital Clocheville et près des Halles, des habitats préromains dispersés semblent ensuite abandonnés pendant le Ier siècle av. J.-C.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Début de notre ère",
+    "texte": "Une importante ville est fondée selon le modèle romain et dédiée à César ; elle prend le nom de Caesarodunum, d’au moins 80 hectares.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "561",
+    "texte": "Un écrivain mérovingien restaure la cathédrale détruite par un incendie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1120-1122",
+    "texte": "À Châteauneuf, les bourgeois cherchent à constituer une commune ; l’opposition des chanoines se termine par l’incendie de la basilique et du bourg en 1122.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1896-1904",
+    "texte": "La gare et l’hôtel de ville actuels sont construits sous la direction de l’architecte Victor Laloux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "juin 1940",
+    "texte": "Une grande partie du tissu urbain dense, hérité du Moyen Âge, est détruite lors des bombardements et de l’incendie de juin 1940.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Une partie de la population connaît ensuite, pendant quatre années, la vie en baraquements ou en casemates.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1er septembre 1944",
+    "texte": "La ville est libérée.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1946-1975",
+    "texte": "Après 1946, la population augmente très vite : de 80 000 habitants en 1946 à 140 000 en 1975.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Amphithéâtre de Tours",
+   "histoire": "Monument de spectacle antique situé dans le centre historique, derrière la cathédrale. Construit au Ier siècle, il est ensuite transformé en forteresse et intégré au rempart défensif du Bas-Empire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 47.395421,
+   "lon": 0.695904,
+   "url": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_de_Tours"
+  },
+  {
+   "nom": "Temple gallo-romain de Tours",
+   "histoire": "Ancien édifice cultuel de type fanum, daté de la fin du Ier siècle. Il se situait dans le centre-ville de la cité antique de Caesarodunum, correspondant au cœur de la ville contemporaine.",
+   "anecdotes": [
+    {
+     "texte": "Une source, peut-être sacrée, est découverte à proximité immédiate et comblée en 1952 : elle pourrait être liée au forum, voire au temple.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 47.3934,
+   "lon": 0.688,
+   "url": "https://fr.wikipedia.org/wiki/Temple_gallo-romain_de_Tours"
+  },
+  {
+   "nom": "Enceinte gallo-romaine de Tours",
+   "histoire": "Muraille entourant la ville de Civitas Turonorum, construite au Bas-Empire romain. Un bâtiment, devenu la basilique Saint-Martin-de-la-Bazoche, y permet de mettre à l’abri les reliques de saint Martin vers 875.",
+   "anecdotes": [
+    {
+     "texte": "Vers 875, un bâtiment dans l’angle nord-est de l’enceinte abrite les reliques de saint Martin pendant la réparation des murs de la Cité.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est la seule construction gallo-romaine de Tours dont des vestiges soient encore visibles et librement accessibles au public.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 47.39503,
+   "lon": 0.69456,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_de_Tours"
+  },
+  {
+   "nom": "Quartiers du Vieux-Tours",
+   "histoire": "Ensemble de quartiers et de bourgs réunis au fil du temps pour former le centre historique. Le quartier Saint-Martin ou Châteauneuf tient son origine au culte de saint Martin et une basilique y est édifiée à la fin du Ve siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La Grande Rue, axe médiéval et historique, traverse la vieille ville et y conserve une activité sociale, historique et culturelle importante.",
+   "sources": [
+    "S28",
+    "S29",
+    "S32"
+   ],
+   "lat": 47.393039,
+   "lon": 0.687876,
+   "url": "https://fr.wikipedia.org/wiki/Quartiers_du_Vieux-Tours"
+  },
+  {
+   "nom": "Thermes gallo-romains de Tours",
+   "histoire": "Établissements balnéaires publics de la ville antique, en service sous le Haut-Empire. Leur emplacement se précise à partir des années 1980, après un large consensus sur l’existence des thermes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S37"
+   ],
+   "lat": 47.393611,
+   "lon": 0.689167,
+   "url": "https://fr.wikipedia.org/wiki/Thermes_gallo-romains_de_Tours"
+  },
+  {
+   "nom": "Abbaye Notre-Dame de Beaumont-lès-Tours",
+   "histoire": "Ancien établissement de religieuses bénédictines situé au sud de la rue du Plat-d’Étain, sur l’ancienne commune de Beaumont. L’abbaye est fondée en 1002 par Hervé de Buzançais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S42"
+   ],
+   "lat": 47.383267,
+   "lon": 0.672162,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_de_Beaumont-l%C3%A8s-Tours"
+  },
+  {
+   "nom": "Caesarodunum",
+   "histoire": "Nom de la ville du Haut-Empire romain qui a précédé Tours, dans la plaine alluviale séparant la Loire du Cher. Un peuplement gaulois y existait avant la grande ville, puis une occupation se développe et l’ensemble s’organise à l’époque romaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43",
+    "S44",
+    "S47"
+   ],
+   "lat": 47.393611,
+   "lon": 0.689167,
+   "url": "https://fr.wikipedia.org/wiki/Caesarodunum"
+  },
+  {
+   "nom": "Ponts antiques sur la Loire dans l'agglomération tourangelle",
+   "histoire": "Ensemble de ponts de bois qui franchissent la Loire pendant l’Empire romain. Deux ouvrages au Ier siècle semblent avoir été simultanément en service : l’un à l’ouest (Fondettes) et l’autre au cœur de la cité antique (Tours).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S48",
+    "S49"
+   ],
+   "lat": 47.393611,
+   "lon": 0.689167,
+   "url": "https://fr.wikipedia.org/wiki/Ponts_antiques_sur_la_Loire_dans_l%27agglom%C3%A9ration_tourangelle"
+  }
+ ],
+ "sources": [
+  "Tours (prononcé : /tuʁ/ ) est une ville située dans l'Ouest de la France, sur les rives de la Loire et du Cher, dans le département d'Indre-et-Loire, dont elle est le chef-lieu, en région Centre-Val de Loire. La commune est le chef-lieu de la métropole Tours Val de Loire et constitutive, avec son intercommunalité, de l’une des 22 métropoles françaises officielles. La commune, comptant 139 259 habitants en 2023, est […]",
+  "Des fouilles réalisées dans le secteur de l'hôpital Clocheville et près des Halles ont révélé l'existence d'habitats préromains dispersés, qui semblent abandonnés pendant le Ier siècle av. J.-C. Au début de notre ère, une importante ville est fondée selon le modèle romain et dédiée par ses habitants à César ; d'une superficie estimée d'au moins 80 ha, elle prend le nom de Caesarodunum. Elle est pourvue d'un vaste […]",
+  "561 : Cet écrivain mérovingien, auteur des Dix Livres d'histoire des Francs , marque la ville de son empreinte, notamment en restaurant la cathédrale détruite par un incendie en 561.",
+  "1120 : En 1120 les bourgeois de Châteauneuf cherchent à constituer une commune, les chanoines de l'abbaye Saint-Martin s'y opposent et le différend se termine par l'incendie de la basilique et du bourg de Châteauneuf en 1122.",
+  "1896 : Entre 1896 et 1904, la gare et l'hôtel de ville actuels sont construits sous la direction de l'architecte Victor Laloux.",
+  "1940 : Elles montrent un tissu urbain dense, hérité du Moyen Âge, dont la majeure partie fut détruite lors des bombardements et de l’incendie de juin 1940.",
+  "1940 : Tours est en partie détruite précocement en 1940 et une partie de sa population connaît ensuite durant quatre années les affres de la vie en baraquements ou en casemates.",
+  "1944 : La cité tourangelle est finalement libérée le 1er septembre 1944.",
+  "1946 : La période est marquée par une fulgurante croissance démographique, avec une population passant de 80 000 habitants en 1946 à 140 000 en 1975, du fait de l'explosion des naissances, de l'exode rural, du rapatriement des Français d'Algérie en 1962 ainsi que de l'arrivée de travailleurs immigrés, notamment originaires du Maghreb et plus particulièrement de Mostaganem.",
+  "1950 : À la fin des années 1950, les premiers grands ensembles de la ville sont construits par l'organisme d'habitations à loyer modéré dans les quartiers Maryse Bastié et Sanitas.",
+  "1960 : En attendant, les quartiers Montjoyeux et Bergeonnerie sont bâtis sur des terrains surélevés de Tours-Sud au milieu des années 1960.",
+  "1968 : Le chantier immobilier qui s'ensuit est l'un des plus importants d'Europe : les quartiers Rives du Cher, Rochepinard et Fontaines sont bâtis entre 1968 et 1978 et ajoutent plus de 7 000 logements à la ville.",
+  "Lieu « Amphithéâtre de Tours » : L'amphithéâtre de Tours est un monument de spectacle antique situé dans le centre historique de la ville, derrière la cathédrale.",
+  "Lieu « Amphithéâtre de Tours », Ier siècle : Il est construit au Ier siècle, à l'époque où Tours, sous le nom de Caesarodunum, est le chef-lieu de la petite cité des Turons.",
+  "Lieu « Amphithéâtre de Tours », IIIe siècle : Transformé en forteresse au IIIe siècle, il est intégré au rempart défensif du Bas-Empire, dont il constitue l'élément structurant, dans la première moitié du IVe siècle.",
+  "Lieu « Amphithéâtre de Tours », 1962 : Les caves des maisons qui se sont construites sur ses murs font l'objet de relevés et d'observations à partir de 1962 et jusqu'au milieu des années 1970, complétées par un travail de fond sur l'évolution topographique et architecturale du quartier au cours des siècles, dans les années 2000.",
+  "Lieu « Amphithéâtre de Tours », aujourd'hui : L'emplacement retenu, le sommet d'une petite colline en marge de la zone urbanisée antique, le met à l'abri des crues, facilite la circulation à ses abords et le signale de loin comme un symbole ostentatoire de la puissance de la ville.",
+  "Lieu « Temple gallo-romain de Tours » : Le temple gallo-romain de Tours est un ancien édifice cultuel de type fanum, daté de la fin du Ier siècle de notre ère et qui se situait dans le centre-ville de la cité antique de Caesarodunum, correspondant également au cœur de la ville contemporain",
+  "Lieu « Temple gallo-romain de Tours », Ier siècle : Le temple gallo-romain de Tours est un ancien édifice cultuel de type fanum, daté de la fin du Ier siècle de notre ère et qui se situait dans le centre-ville de la cité antique de Caesarodunum, correspondant également au cœur de la ville contemporaine de Tours, dans le département d'Indre-et-Loire.",
+  "Lieu « Temple gallo-romain de Tours », Ier siècle : Il succède selon toute probabilité, au même emplacement, à un premier sanctuaire construit dans la première moitié du Ier siècle.",
+  "Lieu « Temple gallo-romain de Tours », 1952 : De plus, une source, peut-être sacrée, a été découverte à proximité immédiate, puis comblée à grand-peine en 1952 ; cette source pourrait être liée au forum, peut-être même au temple.",
+  "Lieu « Temple gallo-romain de Tours », aujourd'hui : Son existence est révélée par des textes médiévaux, mais pas son emplacement.",
+  "Lieu « Enceinte gallo-romaine de Tours » : L'enceinte gallo-romaine de Tours est une muraille entourant la ville de Civitas Turonorum (le quartier de la cathédrale de l'actuelle ville de Tours) et construite à l'époque du Bas-Empire romain ; elle est généralement dénommée « enceinte du castru",
+  "Lieu « Enceinte gallo-romaine de Tours », IVe siècle : Elle a été construite dans la première moitié du IVe siècle dans le quartier nord-est de la ville ouverte du Haut Empire, en réponse à l'insécurité qui régnait en Gaule à cette période.",
+  "Lieu « Enceinte gallo-romaine de Tours », IVe siècle : Après avoir formulé de nombreuses hypothèses sur sa datation, archéologues et historiens s’accordent à penser que le castrum a été construit sur une période de plusieurs années, voire deux ou trois décennies, dans la première moitié du IVe siècle.",
+  "Lieu « Enceinte gallo-romaine de Tours », 875 : Dans l'angle nord-est de l'enceinte, vers 875, un bâtiment qui deviendra par la suite la basilique Saint-Martin-de-la-Bazoche permit de mettre à l'abri les reliques de saint Martin, une fois les murs de la Cité réparés.",
+  "Lieu « Enceinte gallo-romaine de Tours », aujourd'hui : C'est la seule construction gallo-romaine de Tours dont des vestiges soient encore visibles et librement accessibles au public.",
+  "Lieu « Quartiers du Vieux-Tours » : Le Vieux-Tours est un terme générique pour définir un ensemble de quartiers ou bourgs qui se sont réunis au cours du temps pour former le centre historique de la ville de Tours.",
+  "Lieu « Quartiers du Vieux-Tours », Ve siècle : Le quartier Saint-Martin ou Châteauneuf est le deuxième noyau constitué qui doit son origine au culte de l’évêque de Tours, saint Martin, où une basilique est édifiée sur sa tombe à la fin du Ve siècle.",
+  "Lieu « Quartiers du Vieux-Tours », VIe siècle : Le quartier Saint-Julien est le troisième bourg constitué entre la cité - l'amont - et la ville nouvelle - l'aval - : du VIe siècle au XIe siècle, le quartier voit l’implantation de nombreux édifices religieux, dont l'abbaye de Saint-Julien.",
+  "Lieu « Quartiers du Vieux-Tours », XIIIe siècle : Au XIIIe siècle le château et la cathédrale sont reconstruits à l’initiative du roi Louis IX.",
+  "Lieu « Quartiers du Vieux-Tours », aujourd'hui : La Grande Rue, axe médiéval et historique qui traverse la vieille ville (actuellement d'ouest en est : les rues Georges-Courteline, du Grand-Marché, du Commerce, Colbert, Albert-Thomas et Blanqui) ainsi que les rues et les places qu'elle rencontre, ont une activité sociale, historique et culturelle importante.",
+  "Lieu « Thermes gallo-romains de Tours » : Les thermes gallo-romains de Tours sont des établissements balnéaires publics qui, sous le Haut-Empire et pour certains jusqu’à la fin de l’Empire romain — aucun d'entre eux n'a « survécu » au-delà —, étaient en service dans la ville antique de Caesa",
+  "Lieu « Thermes gallo-romains de Tours », Ier siècle : Le cardo maximus, totalement disparu du paysage de la ville moderne, se situait probablement en bordure est de la rue de Lucé, dans le prolongement d'un pont de bois construit sur la Loire au début du Ier siècle.",
+  "Lieu « Thermes gallo-romains de Tours », 2011 : Une autre voie parallèle, mise au jour sous la rue Nationale à l'occasion des travaux de construction d'une ligne de tramway en 2011, limitait certainement à l'ouest l'îlot dans lequel étaient bâtis ces thermes.",
+  "Lieu « Thermes gallo-romains de Tours », XXIe siècle : Les équipements, caniveaux ou égouts, qui auraient pu participer à l'évacuation des eaux des thermes n'ont été, au XXIe siècle, mis en évidence que pour les thermes de l'Est et à proximité immédiate des bâtiments.",
+  "Lieu « Thermes gallo-romains de Tours », aujourd'hui : Si l'existence de ces thermes faisait depuis longtemps l'objet d'un large consensus, leur emplacement n'a commencé à être plus clairement établi qu'à partir des années 1980.",
+  "Lieu « Abbaye Notre-Dame de Beaumont-lès-Tours » : L'abbaye Notre-Dame de Beaumont-lès-Tours, usuellement dénommée abbaye de Beaumont, est un ancien établissement de religieuses bénédictines, situé à Tours (département d'Indre-et-Loire), au sud de la rue du Plat-d'Étain, sur l'ancienne commune de Bea",
+  "Lieu « Abbaye Notre-Dame de Beaumont-lès-Tours », 1002 : L'abbaye est fondée en l'an 1002 par Hervé de Buzançais, trésorier de la basilique Saint-Martin de Tours, sur un site déjà occupé depuis le IXe siècle par une communauté religieuse ou laïque qui y a construit une chapelle.",
+  "Lieu « Abbaye Notre-Dame de Beaumont-lès-Tours », 1866 : Le site accueille des jardins potagers de l'hospice de Tours à partir de 1866 puis des casernes occupées par différentes unités de 1913 à 2012.",
+  "Lieu « Abbaye Notre-Dame de Beaumont-lès-Tours », 1946 : Le logis abbatial ou « pavillon Condé », construit quatre ans seulement avant la Révolution et l'un des seuls vestiges préservés, fait l’objet d’une inscription au titre des monuments historiques depuis 1946.",
+  "Lieu « Abbaye Notre-Dame de Beaumont-lès-Tours », aujourd'hui : Au Moyen Âge, le ruisseau de l'Archevêque coule d'est en ouest au nord du site (le long de la rue François-Richer) et le ruau saint-Anne, à l'ouest (le jardin botanique de Tours occupe son emplacement) relie la Loire au Cher.",
+  "Lieu « Caesarodunum » : Caesarodunum est le nom de la ville du Haut-Empire romain qui a précédé Tours (département français d'Indre-et-Loire), dans la plaine alluviale séparant la Loire du Cher.",
+  "Lieu « Caesarodunum », Ier siècle : Un peuplement gaulois important, de type oppidum de plaine ou même véritable agglomération, a déjà occupé cet emplacement entre 150 av. J.-C. et la fin du Ier siècle av. J.-C..",
+  "Lieu « Caesarodunum », Ier siècle : Construit au milieu du Ier siècle, ce pont reste en service jusqu'à la fin du IIe siècle.",
+  "Lieu « Caesarodunum », 1840 : La Société archéologique de Touraine, fondée en 1840 par quatre passionnés des monuments historiques, entreprend un inventaire de tous les vestiges d'Indre-et-Loire, et notamment de Tours.",
+  "Lieu « Caesarodunum », aujourd'hui : De la ville fortifiée du Bas-Empire demeurent par contre d'importants vestiges de l'enceinte ainsi que, de temps à autre là encore, les restes d'un second pont en bois.",
+  "Lieu « Ponts antiques sur la Loire dans l'agglomération tourangelle » : Les ponts antiques sur la Loire dans l'agglomération tourangelle sont trois ponts de bois qui, pendant l'Empire romain, permettent à des piétons mais aussi très certainement à des véhicules le franchissement de la Loire au niveau de Fondettes et de T",
+  "Lieu « Ponts antiques sur la Loire dans l'agglomération tourangelle », Ier siècle : Deux d'entre eux, construits au Ier siècle sous le Haut-Empire romain, semblent avoir été simultanément en service, à l'ouest (Fondettes, sur le tracé de la voie Poitiers-Le Mans) et au cœur de la cité antique (Tours).",
+  "Lieu « Ponts antiques sur la Loire dans l'agglomération tourangelle », IIIe siècle : Le troisième, plus à l'est et toujours à Tours, est édifié au Bas-Empire romain, dans le courant du IIIe siècle avant que la ville ne se resserre dans son enceinte ; il se substitue aux deux premiers qui sont démontés.",
+  "Lieu « Ponts antiques sur la Loire dans l'agglomération tourangelle », 1987 : Deux de ces ouvrages sont reconnus sur toute la largeur moderne du fleuve mêmes si la plupart des vestiges de l'un d'entre eux sont volontairement détruits en 1987.",
+  "Lieu « Ponts antiques sur la Loire dans l'agglomération tourangelle », aujourd'hui : L'existence d'un pont ou d'un gué franchissant la Loire à cette époque, nouvel ouvrage ou dispositif ancien dont l'usage perdure, reste à l'état d'hypothèses jusqu'à la fin du XXe siècle et le nouveau réseau de voirie, qui pourrait renseigner sur l'emplacement possible de ce pont, demeure très largement inconnu, dans comme en-dehors […]"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
