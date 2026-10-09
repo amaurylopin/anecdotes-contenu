@@ -1,0 +1,288 @@
+{
+ "commune": {
+  "titre": "Bastia",
+  "code_insee": "2B033",
+  "departement": "2B",
+  "population": 46867,
+  "lat": 42.6861,
+  "lon": 9.424,
+  "url": "https://fr.wikipedia.org/wiki/Bastia"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:34:59",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3459,
+  "sortie": 1783
+ },
+ "cout_usd": 0.002921,
+ "accroche": "En 1976, Bastia devient la préfecture de la Haute-Corse.",
+ "histoire": {
+  "recit": "Bastia naît d’une décision génoise : en 1383, Leonello Lomellini fonde la ville, après l’enjeu du nord de l’île et l’aide financière de la Maona. Très tôt, la ville s’organise autour d’un pouvoir fort : sur un promontoire près de l’anse de Ficaghjola, la fortification appelée bastia ou castello della bastia est élevée en 1380, puis le Palais des gouverneurs prend forme à partir de 1448, en plein cœur de la Citadelle.\n\nAu fil des siècles, Bastia connaît les coups du large : en novembre 1745, la flotte anglaise bombarde la ville. Le XIXe siècle voit les travaux s’ouvrir avec le nouveau port (lancés en 1862) et, dans le quartier de Toga, les hauts fourneaux ferment en 1885.\n\nPuis viennent les journées de feu : en 1943, Bastia est libérée le 4 octobre, et, ce même jour, la gare subit un bombardement allié qui détruit le bâtiment voyageurs avant une reconstruction ultérieure.",
+  "chronologie": [
+   {
+    "date": "1380",
+    "texte": "Le gouverneur Leonello Lomellini fait bâtir une petite fortification appelée bastia ou castello della bastia, près de l’anse de Ficaghjola, et de la marine de pêcheurs de Portu Cardu.",
+    "sources": [
+     "S35"
+    ]
+   },
+   {
+    "date": "1383",
+    "texte": "La ville est fondée en 1383 par Leonello Lomellini, gouverneur envoyé sur l’île par la république de Gênes en 1370.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1448",
+    "texte": "Le bâtiment actuel du Palais des gouverneurs est construit à partir de 1448, achevé au premier quart du XVIe siècle.",
+    "sources": [
+     "S30"
+    ]
+   },
+   {
+    "date": "1745",
+    "texte": "En novembre 1745, la ville est bombardée par la flotte anglaise, lors d’une coalition anglo-sarde voulant aider Gênes à conserver sa possession.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "Les travaux pour le nouveau port commencent en 1862, mais ne sont achevés que près d’un demi-siècle plus tard.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "Les hauts fourneaux installés dans le quartier de Toga ferment en 1885.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "4 octobre 1943",
+    "texte": "Bastia est libérée le 4 octobre 1943 par l’armée d’Afrique ; le même jour, la gare subit un bombardement allié qui détruit le bâtiment voyageurs.",
+    "sources": [
+     "S8",
+     "S17"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "Bastia devient la préfecture du département en 1976.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pro-cathédrale Sainte-Marie de Bastia",
+   "histoire": "La pro-cathédrale Sainte Marie de Bastia est une ancienne cathédrale catholique romaine située à Bastia. Des premières maisons particulières apparaissent près du château à partir de 1476, et en 1496, l’évêque de Mariana souhaite en faire sa résidence. En 1604, on prévoit de démolir l’église Santa Maria della Consolazione pour construire une plus grande, et le décor visible aujourd’hui est l’œuvre de peintres toscans : Carlo Tuticci et Geronimo Sari.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 42.6924,
+   "lon": 9.45173,
+   "url": "https://fr.wikipedia.org/wiki/Pro-cath%C3%A9drale_Sainte-Marie_de_Bastia"
+  },
+  {
+   "nom": "Gare de Bastia",
+   "histoire": "Gare ferroviaire française terminus de la ligne de Bastia à Ajaccio, la gare est située au centre-ville de Bastia. La gare d’origine est mise en service en 1888, et son bâtiment voyageurs est détruit en 1943 avant d’être reconstruit en 1981.",
+   "anecdotes": [
+    {
+     "texte": "Le bâtiment voyageurs est incendié par un bombardement allié le 4 octobre 1943, « bien inutilement », quelques heures après le départ et l’embarquement des derniers soldats allemands.",
+     "statut": "conteste",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 42.702029,
+   "lon": 9.447662,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bastia"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste de Bastia",
+   "histoire": "L’église Saint-Jean-Baptiste est une église catholique située à Bastia, dans le quartier de Terra Vechja. Construite entre 1636 et 1666 sur un site d’ancienne église, elle est liée à une reconstruction et à l’installation d’une toile dans une chapelle latérale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 42.697,
+   "lon": 9.45035,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Bastia"
+  },
+  {
+   "nom": "Synagogue de Bastia Beth Meir",
+   "histoire": "La synagogue Beth Meir est située 3 rue du Castagno à Bastia. Fondée en 1934, elle est précédée par la création de l’Association cultuelle israélite de Bastia dans les mois qui suivent, conformément à la loi de 1901. Pendant la Première Guerre mondiale, des familles sont transférées à Bastia en février 1916 et installées dans les docks du nouveau port et dans la citadelle.",
+   "anecdotes": [
+    {
+     "texte": "Pendant la Première Guerre mondiale, des familles juives originaires d’Algérie et du Maroc, résidentes à Tibériade et à Alep, refusent d’être enrôlées aux côtés des Allemands.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 42.696305555556,
+   "lon": 9.4486944444444,
+   "url": "https://fr.wikipedia.org/wiki/Synagogue_de_Bastia_Beth_Meir"
+  },
+  {
+   "nom": "Citadelle de Bastia",
+   "histoire": "La Citadelle de Bastia est un quartier historique de la ville. Un premier noyau d’environ une vingtaine de maisons correspond aujourd’hui aux immeubles rue Notre-Dame et rue de la Paroisse, tandis que l’ensemble se rattache aux fortifications anciennes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S33"
+   ],
+   "lat": 42.6899,
+   "lon": 9.4512,
+   "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Bastia"
+  },
+  {
+   "nom": "Palais des Gouverneurs (Bastia)",
+   "histoire": "Le Palais des gouverneurs, monument historique au cœur du quartier historique de la Citadelle, a d’abord été lié à une fortification appelée bastia ou castello della bastia. Le Palais est ensuite construit à partir de 1448, avant un usage comme résidence des gouverneurs génois puis comme caserne militaire et aujourd’hui comme musée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S30",
+    "S38"
+   ],
+   "lat": 42.693486,
+   "lon": 9.451036,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_Gouverneurs_%28Bastia%29"
+  },
+  {
+   "nom": "Église Saint-Charles-Borromée de Bastia",
+   "histoire": "L’église Saint-Charles-Borromée, située dans le centre historique de Bastia au quartier de Terravechja, porte le nom San Carlu. Une église ancienne est mentionnée avec une fondation de la Compagnie de Jésus en 1540 par Ignace de Loyola, puis le site de Romieu comporte une église édifiée en 1619 et achevée en 1635, associée au nom de Saint Ignace de Loyola.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 42.6953,
+   "lon": 9.4476,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Charles-Borrom%C3%A9e_de_Bastia"
+  },
+  {
+   "nom": "Oratoire Saint-Roch de Bastia",
+   "histoire": "L’oratoire Saint-Roch se trouve dans le quartier de Terra Vechja, aujourd’hui rue Napoléon à Bastia. L’oratoire primitif date de 1590, entièrement reconstruit pour être agrandi en 1604. En 1626, l’œuvre est signée du peintre florentin Giovanni Bilivert ; la façade est reconstruite au XIXe siècle dans le style néoclassique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S44",
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 42.6983,
+   "lon": 9.4503,
+   "url": "https://fr.wikipedia.org/wiki/Oratoire_Saint-Roch_de_Bastia"
+  }
+ ],
+ "sources": [
+  "Bastia (en français : [bastja] ; en corse : [baˈsti.a] ; en italien : [baˈstiːa]) est une commune française située dans le département de la Haute-Corse. Elle est la préfecture du département depuis 1976. Avec 46 867 habitants (recensement de 2023), Bastia est la deuxième commune la plus peuplée de Corse après Ajaccio. Elle est la capitale de la Bagnaja, pays du nord-est de l'île, s'étendant entre le cours du Golo […]",
+  "Les seules traces de présence humaine dans la région seraient les ossements d'un lièvre appelé Lagomys corsicanus et quelques débris humains dans le quartier de Toga, qui dateraient du néolithique. Le géographe grec Ptolémée mentionne une cité de Mantinon dont aucune trace ni aucune information n'est parvenue aux archéologues et aux historiens. Au début du XIVe siècle, il n'y avait dans la région qu'une chapelle […]",
+  "1383 : La ville est fondée en 1383 par Leonello Lomellini, l'un des deux gouverneurs envoyés sur l'île par la république de Gênes en 1370, en réponse à la mainmise aragonaise sur le nord de l'île, avec l'apport financier de la Maona, une association de riches propriétaires génois.",
+  "1745 : La ville est bombardée par la flotte anglaise en novembre 1745 alors qu'une coalition anglo-sarde tentait d'aider Gênes à conserver sa possession.",
+  "1862 : Les travaux pour le nouveau port commencent en 1862, mais il n'est achevé que près d'un demi-siècle plus tard.",
+  "1885 : Les hauts fourneaux installés dans le quartier de Toga ferment en 1885.",
+  "1940 : Lorsque est signé l'armistice du 22 juin 1940, les Corses sont encore traumatisés par la Première Guerre mondiale pour laquelle la Corse a payé un lourd tribut sur le plan humain.",
+  "1943 : Bastia est libérée le 4 octobre 1943 par l'armée d'Afrique.",
+  "Lieu « Pro-cathédrale Sainte-Marie de Bastia » : La pro-cathédrale Sainte Marie de Bastia est une ancienne cathédrale catholique romaine située à Bastia dans le département de la Haute-Corse.",
+  "Lieu « Pro-cathédrale Sainte-Marie de Bastia », 1476 : Les premières maisons particulières près de ce château sont érigées à partir de 1476.",
+  "Lieu « Pro-cathédrale Sainte-Marie de Bastia », 1496 : En 1496 l'édifice n'est pas encore achevé, mais l'évêque de Mariana, l'évêque de Mariana, Mgr de Fornari souhaite en faire sa résidence, c'est-à-dire son église cathédrale.",
+  "Lieu « Pro-cathédrale Sainte-Marie de Bastia », 1604 : En 1604 on prévoit de démolir l'église Santa Maria della Consolazione pour en construire une plus grande.",
+  "Lieu « Pro-cathédrale Sainte-Marie de Bastia », aujourd'hui : Le décor visible actuellement est l'œuvre d'une équipe de peintres toscans : Carlo Tuticci pour les ornements en trompe-l'œil et Geronimo Sari pour le grand médaillon central.",
+  "Lieu « Gare de Bastia » : La gare de Bastia est une gare ferroviaire française terminus de la ligne de Bastia à Ajaccio (voie unique à écartement métrique), située au centre-ville de Bastia dans le département de la Haute-Corse, en région Corse.",
+  "Lieu « Gare de Bastia », 1888 : La gare d'origine, construite par l'État est mise en service en 1888 par la Compagnie de chemins de fer départementaux (CFD).",
+  "Lieu « Gare de Bastia », 1943 : Son bâtiment voyageurs détruit en 1943 par un bombardement, fut finalement reconstruit en 1981.",
+  "Lieu « Gare de Bastia », 1943 : Il fut hélas incendié par un bombardement allié le 4 octobre 1943, survenu bien inutilement quelques heures après le départ et l'embarquement des derniers soldats allemands, le jour de la libération de la Corse.",
+  "Lieu « Gare de Bastia », aujourd'hui : Le bâtiment-voyageurs initial se situait vers l'Est et non vers l'Ouest des voies à quai, comme c'est le cas du bâtiment actuel, et plus précisément sur l'emplacement de l'actuel rond-point du Maréchal-Leclerc, dans un environnement à l'époque sans constructions très importantes.",
+  "Lieu « Église Saint-Jean-Baptiste de Bastia » : L'église Saint-Jean-Baptiste, en corse San Ghjuvanni ou San Ghjuvà est une église catholique située à Bastia, dans le quartier de Terra Vechja, en France.",
+  "Lieu « Église Saint-Jean-Baptiste de Bastia », 1636 : L'église Saint Jean-Baptiste de Bastia a été construite entre 1636 et 1666, sur le site d'une ancienne église.",
+  "Lieu « Église Saint-Jean-Baptiste de Bastia », 1636 : Après sa reconstruction (1636-1666) la toile fut installée dans une chapelle latérale.",
+  "Lieu « Église Saint-Jean-Baptiste de Bastia », XVIIe siècle : Elle a été édifiée au XVIIe siècle, sur un site où se trouvait une église plus ancienne.",
+  "Lieu « Église Saint-Jean-Baptiste de Bastia », aujourd'hui : Mais il ne reste pas grand chose de ce décor qui a été presque entièrement refait.",
+  "Lieu « Synagogue de Bastia Beth Meir » : La synagogue Beth Meir fondée en 1934 est située 3 rue du Castagno à Bastia, en Corse.",
+  "Lieu « Synagogue de Bastia Beth Meir », 1901 : Dans les mois qui suivent, l’Association cultuelle israélite de Bastia est fondée, conformément à la loi de 1901.",
+  "Lieu « Synagogue de Bastia Beth Meir », 1916 : Finalement, ces derniers, soit environ 180 personnes, sont transférés à Bastia en février 1916 et sont installés dans les docks du nouveau port et dans la citadelle.",
+  "Lieu « Synagogue de Bastia Beth Meir », 1934 : La synagogue Beth Meir fondée en 1934 est située 3 rue du Castagno à Bastia, en Corse.",
+  "Lieu « Synagogue de Bastia Beth Meir », aujourd'hui : L'arrivée des \"Syrianos\" de Palestine : Pendant la Première Guerre mondiale, des familles juives originaires d'Algérie et du Maroc mais résidentes à Tibériade et à Alep (villes aujourd'hui situées en Israël et en Syrie mais faisant partie de l'Empire Ottoman) refusent d'être enrôlées aux côtés des Allemands.",
+  "Lieu « Citadelle de Bastia » : La Citadelle (en Corse A Citatella ou A Citadella) est un quartier historique de la ville de Bastia.",
+  "Lieu « Citadelle de Bastia », 1448 : Le bâtiment actuel du Palais des gouverneurs a été construit à partir de 1448 et achevé dans le premier quart du XVIe siècle.",
+  "Lieu « Citadelle de Bastia », 1480 : En 1480, il demande à la république de Gênes l'autorisation de construite une vingtaine de maisons autour de la fortification initiale de La Bastìa.",
+  "Lieu « Citadelle de Bastia », 1542 : Elle fait bâtir en 1542 une chapelle sur un terrain appartenant à la basilique Saint Jean de Latran, à Rome.",
+  "Lieu « Citadelle de Bastia », aujourd'hui : Ce premier noyau d'une vingtaine de maisons correspond aujourd'hui aux immeubles qui se trouvent rue Notre-Dame et rue de la Paroisse.",
+  "Lieu « Palais des Gouverneurs (Bastia) » : Le palais des Gouverneurs, en corse Palazzu di i Guvernatori est un monument historique de la ville de Bastia, au cœur du quartier historique de la Citadelle.",
+  "Lieu « Palais des Gouverneurs (Bastia) », 1380 : En 1380, le gouverneur Leonello Lomellini fait bâtir sur un promontoire rocheux près de l'anse de Ficaghjola et de la marine de pêcheurs de Portu Cardu une petite fortification, appelée la bastia ou castello della bastia.",
+  "Lieu « Palais des Gouverneurs (Bastia) », XIXe siècle : Au XIXe siècle on changea de nom, le bâtiment s'appela alors caserne Watrin.",
+  "Lieu « Palais des Gouverneurs (Bastia) », 1997 : Avec l'ouverture du musée de la Corse à Corte en 1997 qui sera consacré à l'anthropologie régionale, le musée se recentre sur l'histoire de la ville.",
+  "Lieu « Palais des Gouverneurs (Bastia) », aujourd'hui : Il a été lieu de résidence des gouverneurs génois, caserne militaire et aujourd'hui musée.",
+  "Lieu « Église Saint-Charles-Borromée de Bastia » : L'église Saint-Charles-Borromée, en corse San Carlu est le nom d'une église du centre historique de Bastia, en Haute-Corse, dans le quartier de Terravechja.",
+  "Lieu « Église Saint-Charles-Borromée de Bastia », 1540 : Cet ordre religieux appelé également Compagnie de Jésus est fondé en 1540 par Ignace de Loyola.",
+  "Lieu « Église Saint-Charles-Borromée de Bastia », 1619 : Au XVIIIe siècle, les génois rasèrent la première Eglise au monde dédiée à saint Charles, située dans le quartier Romieu à Bastia et édifiée en 1619.",
+  "Lieu « Église Saint-Charles-Borromée de Bastia », 1635 : Elle fut achevée en 1635 et on lui attribue le nom de Saint Ignace de Loyola.",
+  "Lieu « Église Saint-Charles-Borromée de Bastia », aujourd'hui : Un emplacement pour le futur collège est identifié.",
+  "Lieu « Oratoire Saint-Roch de Bastia » : L'oratoire Saint-Roch, en corse San Roccu, est un édifice religieux qui se trouve dans le quartier de Terra Vechja, aujourd'hui rue Napoléon à Bastia.",
+  "Lieu « Oratoire Saint-Roch de Bastia », 1590 : L'oratoire primitif de 1590 a été entièrement reconstruit pour être agrandi en 1604.",
+  "Lieu « Oratoire Saint-Roch de Bastia », 1626 : L’œuvre est signée du peintre florentin Giovanni Bilivert, en 1626.",
+  "Lieu « Oratoire Saint-Roch de Bastia », XIXe siècle : La façade a été reconstruite tardivement, au XIXe siècle, dans le style néoclassique.",
+  "Lieu « Oratoire Saint-Roch de Bastia », aujourd'hui : L'oratoire Saint-Roch, en corse San Roccu, est un édifice religieux qui se trouve dans le quartier de Terra Vechja, aujourd'hui rue Napoléon à Bastia."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
