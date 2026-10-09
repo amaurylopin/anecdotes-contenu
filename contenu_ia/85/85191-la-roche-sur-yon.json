@@ -1,0 +1,311 @@
+{
+ "commune": {
+  "titre": "La Roche-sur-Yon",
+  "code_insee": "85191",
+  "departement": "85",
+  "population": 54849,
+  "lat": 46.669378,
+  "lon": -1.418722,
+  "url": "https://fr.wikipedia.org/wiki/La_Roche-sur-Yon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:30:19",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3880,
+  "sortie": 1899
+ },
+ "cout_usd": 0.00315,
+ "accroche": "Le 17 septembre 1944, La Roche-sur-Yon est libérée du joug nazi, et des festivités sont organisées.",
+ "histoire": {
+  "recit": "À La Roche-sur-Yon, l’Yon et ses affluents ont porté des traces très anciennes, au point que des découvertes archéologiques attestent une occupation dès la préhistoire, puis des fondations d’enclos gaulois en bordure de l’Yon. Au Moyen Âge, le bourg dépend de la viguerie de Talmont. En 1296, le roi Philippe le Bel cède bourg, seigneurie et château à Charles de Valois.\n\nLa ville prend ensuite une forme plus nette : Napoléon Ier fait passer un petit bourg au rang de cité moderne, sur un plan régulier en forme de pentagone. Dans la dynamique du XIXe siècle, des édifices publics sont érigés en 1842, tandis que l’ouverture de la ligne ferroviaire Nantes–Bordeaux en 1866 vient structurer l’ensemble. En 1907, un souterrain-refuge est découvert à Moulin-Neuf, au nord.\n\nLa Seconde Guerre mondiale marque fortement la ville : la gare est bombardée en août 1944, et la libération intervient le 17 septembre 1944. Plus tard, l’électrification de la ligne Nantes–La Roche-sur-Yon–Les Sables-d’Olonne s’achève fin 2008.",
+  "chronologie": [
+   {
+    "date": "1296",
+    "texte": "Le bourg, la seigneurie et le château sont cédés par le roi Philippe le Bel à Charles de Valois.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "Une caserne provisoire subsiste sur l’emplacement antérieur de la gendarmerie et du théâtre, tandis que la caserne Travot est en cours d’édification depuis 1830.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1842",
+    "texte": "De nombreux édifices publics de notable envergure sont érigés le long des axes majeurs, tandis que l’enceinte pentagonale reste largement non bâtie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "L’ouverture de la ligne ferroviaire Nantes–Bordeaux devient une étape structurante.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Un souterrain-refuge est découvert dans le village de Moulin-Neuf, au nord de La Roche-sur-Yon.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "4-5 août 1944",
+    "texte": "La gare de La Roche-sur-Yon est bombardée.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "17 septembre 1944",
+    "texte": "La ville est libérée du joug nazi, et des festivités y sont organisées.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "fin 2008",
+    "texte": "L’électrification de la ligne Nantes–La Roche-sur-Yon–Les Sables-d’Olonne s’achève.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de La Roche-sur-Yon",
+   "histoire": "Sur le territoire communal, la gare est un point ferroviaire majeur pour la ville.",
+   "anecdotes": [
+    {
+     "texte": "Durant la Libération, la gare est bombardée les 22 et 24 juin 1944.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La gare est séparée par les gares aujourd’hui fermées de Nesmy, Les Courtesolles, Champ-Saint-Père, La Bretonnière et Les Magnils-Reigniers.",
+   "sources": [
+    "S15"
+   ],
+   "lat": 46.672601,
+   "lon": -1.435604,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Roche-sur-Yon"
+  },
+  {
+   "nom": "Saint-André-d'Ornay",
+   "histoire": "Saint-André-d'Ornay est une ancienne commune de Vendée qui fusionne avec La Roche-sur-Yon en 1964.",
+   "anecdotes": [
+    {
+     "texte": "L’abbaye des Fontenelles, fondée en 1210, est présentée comme le lieu de culte le plus remarquable.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "En 1794, le bourg est incendié par les troupes républicaines.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, Saint-André est l’un des plus importants quartiers de La Roche-sur-Yon.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 46.66518,
+   "lon": -1.449176,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Andr%C3%A9-d%27Ornay"
+  },
+  {
+   "nom": "Hôtel du Département (La Roche-sur-Yon)",
+   "histoire": "Bâtiment situé dans le Pentagone, il devient civil et militaire à la suite du passage de Napoléon dans la nouvelle préfecture en 1808.",
+   "anecdotes": [
+    {
+     "texte": "Pensé à l’origine comme hôpital militaire, l’édifice est construit au début du XIXe siècle dans le cadre de la création de la commune de Napoléon comme chef-lieu de la Vendée.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 46.674193,
+   "lon": -1.428368,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_du_D%C3%A9partement_%28La_Roche-sur-Yon%29"
+  },
+  {
+   "nom": "Place Napoléon (La Roche-sur-Yon)",
+   "histoire": "La place porte le nom de Napoléon Ier, fondateur de la ville en 1804, et rassemble plusieurs bâtiments issus des constructions successives du début du XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Une statue du général Travot est inaugurée le 26 août 1838, puis déplacée près des halles avant d’être fondue par l’occupant le 19 février 1942.",
+     "statut": "etabli",
+     "sources": [
+      "S28",
+      "S29"
+     ]
+    },
+    {
+     "texte": "Le 8 août 1808, l’unique visite de l’Empereur est marquée par sa déception liée à la lenteur des travaux d’édification.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30",
+    "S32"
+   ],
+   "lat": 46.670614,
+   "lon": -1.426638,
+   "url": "https://fr.wikipedia.org/wiki/Place_Napol%C3%A9on_%28La_Roche-sur-Yon%29"
+  },
+  {
+   "nom": "Statue équestre de Napoléon (La Roche-sur-Yon)",
+   "histoire": "La statue équestre en bronze représente Napoléon Ier et est installée sur la place Napoléon en 1854.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S33",
+    "S34"
+   ],
+   "lat": 46.67056,
+   "lon": -1.42667,
+   "url": "https://fr.wikipedia.org/wiki/Statue_%C3%A9questre_de_Napol%C3%A9on_%28La_Roche-sur-Yon%29"
+  },
+  {
+   "nom": "Vendée (département)",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S40"
+   ],
+   "lat": 46.67056,
+   "lon": -1.42667,
+   "url": "https://fr.wikipedia.org/wiki/Vend%C3%A9e_%28d%C3%A9partement%29"
+  },
+  {
+   "nom": "Maison d'arrêt de La Roche-sur-Yon",
+   "histoire": "Institution mise en place en Vendée selon la loi des 25 septembre-6 octobre 1791, elle passe par une reconversion après le déplacement du tribunal criminel en 1811.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S44",
+    "S45"
+   ],
+   "lat": 46.675750375591,
+   "lon": -1.4261083510071,
+   "url": "https://fr.wikipedia.org/wiki/Maison_d%27arr%C3%AAt_de_La_Roche-sur-Yon"
+  },
+  {
+   "nom": "Musée municipal de La Roche-sur-Yon",
+   "histoire": "Le musée municipal est un musée d’art dans la commune de La Roche-sur-Yon.",
+   "anecdotes": [
+    {
+     "texte": "Depuis fin juin 2019, le musée est fermé au public.",
+     "statut": "etabli",
+     "sources": [
+      "S48"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les acquisitions et expositions mettent l’accent sur l’art contemporain, plus spécifiquement la photographie plasticienne.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 46.66978,
+   "lon": -1.42882,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_municipal_de_La_Roche-sur-Yon"
+  }
+ ],
+ "sources": [
+  "La Roche-sur-Yon est une commune de l'Ouest de la France, préfecture du département de la Vendée, située dans la région des Pays de la Loire. Arrosée par l’Yon et par ses affluents, la Riallée et l'Ornay (et son tributaire la Soivre), La Roche-sur-Yon doit sa physionomie actuelle à Napoléon Ier, qui fait d'un petit bourg une cité moderne, basée sur un plan régulier en forme de pentagone et dotée d'édifices publics […]",
+  "Plusieurs découvertes archéologiques prouvent que le sol yonnais fut occupé dès la préhistoire (hache préhistorique à deux tranchants, outils en silex, éventuellement un dolmen…). Des pièces et des objets antiques ont été retrouvés de même que des fondations d'enclos gaulois en bordure de l'Yon. Le bourg est durant le haut Moyen Âge sous la dépendance juridique de l'importante viguerie régionale de Talmont. Au XIe […]",
+  "1296 : En 1296, le bourg, la seigneurie et le château, construit à un endroit stratégique de la vallée de l'Yon, sont cédés par le roi Philippe le Bel à Charles de Valois.",
+  "1830 : La caserne provisoire implantée sur l'emplacement antérieur de la gendarmerie et du théâtre subsiste, alors même que les premiers corps de bâtiment de la caserne Travot sont en cours d'édification depuis 1830.",
+  "1842 : En 1842, plusieurs édifices publics de notable envergure, destinés tant à l'habitation qu'aux activités commerciales, sont érigés principalement le long des principaux axes de circulation, tandis que l'enceinte interne, de configuration pentagonale, demeure largement non bâtie.",
+  "1866 : Dans ce contexte, l'ouverture, en 1866, de la ligne ferroviaire Nantes–Bordeaux constitue une étape structurante.",
+  "1907 : Un souterrain-refuge à caractère défensif, occupé vraisemblablement vers le début du Moyen Âge, est découvert dans le village de Moulin-Neuf, au nord de la Roche-sur-Yon, en 1907.",
+  "1943 : En 1943, des barrages antichars composés de rails ont été érigés, restreignant ainsi l'accès aux voies secondaires hors des boulevards centraux de la ville à un passage étroit au milieu de la chaussée.",
+  "1944 : Le 17 septembre 1944, la ville est libérée du joug nazi et des festivités y sont organisés.",
+  "1944 : Le 4-5 août 1944, la gare de La Roche-sur-Yon a été bombardée.",
+  "Lieu « Gare de La Roche-sur-Yon » : La gare de La Roche-sur-Yon est une gare ferroviaire française située sur le territoire de la commune de La Roche-sur-Yon, préfecture du département de la Vendée en région Pays de la Loire.",
+  "Lieu « Gare de La Roche-sur-Yon », 1908 : Une passerelle piétonne, remplaçant la première qui datait de 1908, conçue par les architectes Bernard Tschumi et Hugh Dutton Associés, ainsi que des parkings ont été inaugurés le 6 février 2010 tandis que le bâtiment voyageurs rénové le fut le 31 août 2010.",
+  "Lieu « Gare de La Roche-sur-Yon », 1944 : Durant la Libération, la gare fut bombardée le 22 et le 24 juin 1944.",
+  "Lieu « Gare de La Roche-sur-Yon », 2008 : L'électrification de la ligne Nantes - La Roche-sur-Yon - Les Sables-d'Olonne s'est achevée fin 2008.",
+  "Lieu « Gare de La Roche-sur-Yon », aujourd'hui : Elle est séparée de cette dernière par les gares aujourd'hui fermées de Nesmy, Les Courtesolles, Champ-Saint-Père, La Bretonnière et Les Magnils-Reigniers.",
+  "Lieu « Saint-André-d'Ornay » : Saint-André-d'Ornay est une ancienne commune de Vendée qui fusionna, en 1964, avec la ville voisine, La Roche-sur-Yon.",
+  "Lieu « Saint-André-d'Ornay », 1210 : Mais le lieu de culte le plus remarquable de Saint-André-d'Ornay était l'abbaye des Fontenelles, fondée par les seigneurs de La Roche-sur-Yon en 1210.",
+  "Lieu « Saint-André-d'Ornay », 1794 : Mais en 1794, le bourg est incendié par les troupes républicaines.",
+  "Lieu « Saint-André-d'Ornay », 1850 : Une nouvelle église est construite sur la route des Sables : une première phase dans les années 1850 (nef et tour-porche dans un style néo-roman) et une seconde en 1894-95 (transept et chœur dans un style proche du néo-gothique).",
+  "Lieu « Saint-André-d'Ornay », aujourd'hui : Aujourd'hui, Saint-André est l'un des plus importants quartiers de La Roche-sur-Yon.",
+  "Lieu « Hôtel du Département (La Roche-sur-Yon) » : L’hôtel du département de la Vendée, appelé localement « l’hôtel du Département », est un bâtiment situé dans le Pentagone, à La Roche-sur-Yon, dans le département de la Vendée et la région des Pays-de-la-Loire.",
+  "Lieu « Hôtel du Département (La Roche-sur-Yon) », 1808 : Cependant, lors de son passage dans la nouvelle préfecture le 8 août 1808, Napoléon décide que l’édifice soit civil et militaire.",
+  "Lieu « Hôtel du Département (La Roche-sur-Yon) », XIXe siècle : Pensé originellement comme hôpital militaire, il est construit au début du XIXe siècle dans le cadre de la création de la commune de Napoléon comme chef-lieu de la Vendée.",
+  "Lieu « Hôtel du Département (La Roche-sur-Yon) », 1875 : Entre 1875 et 1920, les administrateurs ont entrepris de réaménager des édifices anciens pour répondre à de nouvelles exigences fonctionnelles, visant à résoudre les problèmes de surpopulation dans les hôpitaux.",
+  "Lieu « Hôtel du Département (La Roche-sur-Yon) », aujourd'hui : Au bout de quelques années, le ministère de la Guerre, propriétaire des bâtiments implantés le long de l’artère qui constitue actuellement la rue Foch, souhaite se débarrasser de la lourde charge que constitue l’entretien de ces bâtiments.",
+  "Lieu « Place Napoléon (La Roche-sur-Yon) » : La place Napoléon est une place située à La Roche-sur-Yon, en Vendée, dont le nom fait référence à Napoléon Ier, fondateur de la ville en 1804.",
+  "Lieu « Place Napoléon (La Roche-sur-Yon) », 1808 : Les bâtiments finalement construits seront : l’auberge (1808) ; le tribunal (1812) ; l’hôtel de ville (1814) ; le lycée (1814) ; l’église Saint-Louis (1830) ; le lycée de jeunes-filles (1905).",
+  "Lieu « Place Napoléon (La Roche-sur-Yon) », 1838 : Le 26 août 1838, est inaugurée à cet emplacement une statue du général Travot réalisée par l’artiste angevin Hippolyte Maindron.",
+  "Lieu « Place Napoléon (La Roche-sur-Yon) », 1852 : Cette statue sera déplacée à proximité des halles de la ville en 1852 avant d’être fondue par l’occupant le 19 février 1942.",
+  "Lieu « Place Napoléon (La Roche-sur-Yon) », aujourd'hui : Pour la venue de Napoléon Ier le 8 août 1808, la place est ornée en son centre d’un obélisque de bois rouge qui subsistera quelques années.",
+  "Lieu « Statue équestre de Napoléon (La Roche-sur-Yon) » : La statue est une statue équestre en bronze installée en 1854 à La Roche-sur-Yon, sur la place Napoléon, sculptée par Émilien de Nieuwerkerke, avec l’architecte Pierre Manguin, et représentant Napoléon Ier.",
+  "Lieu « Statue équestre de Napoléon (La Roche-sur-Yon) », 1808 : L’unique visite de l’Empereur, le 8 août 1808, fut marquée par l’expression de sa déception quant à la lenteur des travaux d’édification.",
+  "Lieu « Statue équestre de Napoléon (La Roche-sur-Yon) », 1854 : La statue est une statue équestre en bronze installée en 1854 à La Roche-sur-Yon, sur la place Napoléon, sculptée par Émilien de Nieuwerkerke, avec l’architecte Pierre Manguin, et représentant Napoléon Ier.",
+  "Lieu « Statue équestre de Napoléon (La Roche-sur-Yon) », 1854 : Érigée en 1854 pour commémorer le cinquantenaire de la fondation de la cité, cette statue équestre en bronze représente l’Empereur.",
+  "Lieu « Statue équestre de Napoléon (La Roche-sur-Yon) », aujourd'hui : La conception de la nouvelle cité, confiée aux ingénieurs des Ponts et Chaussées, fut exécutée selon un plan orthonormé, articulé autour d’une place centrale — dénommée de nos jours place Napoléon.",
+  "Lieu « Vendée (département) » : La Vendée (/vɑ̃.de/) est un département français traversé par la rivière éponyme, affluent de la Sèvre Niortaise.",
+  "Lieu « Vendée (département) », 1978 : Il est aussi le créateur du parc d'attractions du Puy du Fou aux Épesses, construit autour d'un spectacle, La Cinéscénie, qu'il a créé en 1978.",
+  "Lieu « Vendée (département) », 2006 : L'historial de la Vendée, musée situé aux Lucs-sur-Boulogne, bourg qui est dévasté par les colonnes infernales du général Turreau sous la Terreur, a ouvert en juin 2006 ; il retrace l'histoire de la Vendée de la préhistoire à nos jours et accueille des expositions temporaires.",
+  "Lieu « Vendée (département) », 2021 : En mai 2021, un sondage est initié par l'Institut français d'opinion publique (IFOP) sur un possible rattachement de département de la Vendée à la région Nouvelle-Aquitaine dans le cas où la région Pays de la Loire serait démantelée.",
+  "Lieu « Vendée (département) », aujourd'hui : La Vendée fait actuellement partie de la région administrative des Pays de la Loire.",
+  "Lieu « Maison d'arrêt de La Roche-sur-Yon » : La maison d'arrêt de La Roche-sur-Yon est une maison d'arrêt située à La Roche-sur-Yon, dans le département la Vendée, en région Pays de la Loire.",
+  "Lieu « Maison d'arrêt de La Roche-sur-Yon », 1791 : En application de la loi des 25 septembre-6 octobre 1791, qui prescrit l’édification, dans chaque département, de prisons distinctes selon la nature des condamnés, une maison d’arrêt, de justice et de correction fut instituée en Vendée.",
+  "Lieu « Maison d'arrêt de La Roche-sur-Yon », 1810 : Un édifice néoclassique est érigé en 1810, sis à l’angle de la rue Salvador-Allende, ce bâtiment fut initialement affecté à des fonctions judiciaires et carcérales, se distinguant par sa colonnade et son fronton d’ordonnance classique.",
+  "Lieu « Maison d'arrêt de La Roche-sur-Yon », 1811 : En août 1811, le tribunal criminel est déplacé de Fontenay-le-Comte à La Roche-sur-Yon, entraînant la reconversion de la prison locale en une maison d’arrêt, de justice et de correction.",
+  "Lieu « Maison d'arrêt de La Roche-sur-Yon », aujourd'hui : Confiés à l’architecte Georges Loquet, les travaux s’exécutèrent sur un emplacement de trois hectares, mitoyen de l’hôpital et longeant le boulevard d’Angleterre.",
+  "Lieu « Musée municipal de La Roche-sur-Yon » : Le musée municipal de La Roche-sur-Yon est un musée d'art situé dans la commune de La Roche-sur-Yon dans la Vendée.",
+  "Lieu « Musée municipal de La Roche-sur-Yon », 1880 : Après la Seconde guerre mondiale, le musée récupère l’ensemble des espaces du bâtiment de 1880, mais sans les agrandissements espérés.",
+  "Lieu « Musée municipal de La Roche-sur-Yon », 2019 : Depuis fin juin 2019, le musée est fermé au public.",
+  "Lieu « Musée municipal de La Roche-sur-Yon », aujourd'hui : Acquisitions et expositions font la part belle à l’art contemporain et se concentrent plus spécifiquement sur la photographie plasticienne, donnant au musée l’orientation originale qui reste aujourd’hui la sienne."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}
