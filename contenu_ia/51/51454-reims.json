@@ -1,0 +1,334 @@
+{
+ "commune": {
+  "titre": "Reims",
+  "code_insee": "51454",
+  "departement": "51",
+  "population": 177674,
+  "lat": 49.2535,
+  "lon": 4.0551,
+  "url": "https://fr.wikipedia.org/wiki/Reims"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:14:27",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4185,
+  "sortie": 2513
+ },
+ "cout_usd": 0.003978,
+ "accroche": "À Reims, le port est inauguré en 1848 et la section du canal de l’Aisne à la Marne entre Berry-au-Bac et Reims est mise en service cette même année.",
+ "histoire": {
+  "recit": "Reims se forme sur un terrain déjà occupé : dans ses environs, les premières implantations humaines remontent au Néolithique et au Chalcolithique, puis la vallée de la Vesle reste densément occupée à l’âge du fer, avec peu de vestiges conservés sur le site de la ville actuelle. Par la suite, le christianisme s’y impose à partir du milieu du IIIe siècle, grâce à l’évêque Sixte, et l’emplacement actuel devient peu à peu un centre ecclésial, avec des cathédrales qui se succèdent jusqu’à celle qui existe aujourd’hui.\n\nAu Moyen Âge, la muraille n’achève son œuvre qu’au milieu du XIVe siècle, lorsque la ville est unifiée. Plus tard, l’époque moderne transforme l’espace urbain : à partir de 1757, un espace est aménagé pour bâtir la place royale. Le XIXe siècle accélère le changement : remparts démolis à partir de 1840, puis infrastructures en chaîne avec un premier port en 1848 et le canal entre Berry-au-Bac et Reims. La ville se dote aussi du rail avec l’ouverture de l’embranchement Épernay à Reims en 1854.\n\nDans l’histoire religieuse, l’édifice de la cathédrale change après de grands sinistres : la construction de la cathédrale actuelle débute le 6 mai 1211, et l’incendie du 19 septembre 1914 est lié à l’embrasement d’un échafaudage après des bombardements. Malgré ces ruptures, les lieux conservés racontent encore Reims : le Palais du Tau abrite aujourd’hui le musée de la cathédrale et du sacre des rois de France, tandis que l’abbaye Saint-Remi et l’abbaye Saint-Denis sont devenues musées.",
+  "chronologie": [
+   {
+    "date": "fin du IIIe millénaire av. J.-C.",
+    "texte": "Les premières traces d’implantation humaine dans les environs de Reims remontent au Néolithique et au Chalcolithique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "milieu du IIIe siècle",
+    "texte": "Le christianisme apparaît grâce à l’évêque Sixte.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IVe siècle",
+    "texte": "Une première cathédrale est élevée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Ve siècle",
+    "texte": "L’emplacement actuel commence à être occupé par l’Église et devient un ensemble épiscopal.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "milieu du XIVe siècle",
+    "texte": "La muraille est achevée et Reims est unifiée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1757",
+    "texte": "La ville se dote d’un espace pour bâtir la place royale.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "6 avril 1814",
+    "texte": "Reims est occupée par les troupes russes après l’abdication de Napoléon Ier.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "4 septembre 1870",
+    "texte": "Reims est à nouveau occupée, cette fois par les Prussiens.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1829",
+    "texte": "Le palais de justice voit sa construction commencer.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "Le palais de justice est achevé.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "Une décision historique lance la démolition des remparts.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1848",
+    "texte": "Inauguration du premier port de Reims et mise en service de la section du canal de l’Aisne à la Marne entre Berry-au-Bac et Reims.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1854",
+    "texte": "Ouverture de l’embranchement ferroviaire d’Épernay à Reims.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1872 (novembre)",
+    "texte": "Le siège du gouvernement allemand pour le Nord de la France prend fin en novembre 1872.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "3 mars 1873",
+    "texte": "Inauguration de l’Opéra de Reims.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "6 mai 1211",
+    "texte": "La construction de la cathédrale actuelle commence après la destruction de la cathédrale carolingienne.",
+    "sources": [
+     "S41"
+    ]
+   },
+   {
+    "date": "19 septembre 1914",
+    "texte": "Incendie de la cathédrale : il est provoqué par l’embrasement d’un échafaudage après des bombardements.",
+    "sources": [
+     "S40",
+     "S43"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame de Reims",
+   "histoire": "La construction de la cathédrale actuelle débute après la destruction de la cathédrale carolingienne : le 6 mai 1211, la reconstruction démarre. La cathédrale est ensuite touchée par un nouvel incendie en 1481, puis par l’incendie du 19 septembre 1914 provoqué par l’embrasement d’un échafaudage de la tour nord à la suite de bombardements.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S40",
+    "S43"
+   ],
+   "lat": 49.253611,
+   "lon": 4.033889,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Reims"
+  },
+  {
+   "nom": "Palais du Tau (Reims)",
+   "histoire": "Le palais du Tau fut une résidence d’archevêques de Reims. À l’emplacement actuel, l’évêque Nicaise fait bâtir une église dédiée à Notre-Dame au début du Ve siècle, avec une villa gallo-romaine contiguë dont des vestiges sont retrouvés lors de fouilles. Gravement endommagé en 1914 lors d’un incendie, le palais est restauré à partir des années 1950 et abrite depuis 1972 le musée de la cathédrale de Reims et du sacre des rois de France.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui seule la tour d’Éon est attestée par les diverses iconographies et les textes.",
+   "sources": [
+    "S24",
+    "S23"
+   ],
+   "lat": 49.253055555556,
+   "lon": 4.0344444444444,
+   "url": "https://fr.wikipedia.org/wiki/Palais_du_Tau_%28Reims%29"
+  },
+  {
+   "nom": "Abbaye Saint-Remi de Reims",
+   "histoire": "L’abbaye Saint-Remi de Reims est une ancienne abbaye bénédictine devenue aujourd’hui le musée Saint-Remi de Reims. Un premier monastère aurait pu être fondé par saint Remi, et il est fait mention d’une inhumation en 533. Le site subit un terrible incendie la nuit du 15 au 16 janvier 1774, puis les bâtiments sont transformés en hôpital militaire en 1796 jusqu’en 1816 et en Hôtel-Dieu à partir de juin 1827.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, l’abbaye Saint-Remi de Reims est devenue le musée Saint-Remi de Reims.",
+   "sources": [
+    "S29",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 49.2434,
+   "lon": 4.0413,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Remi_de_Reims"
+  },
+  {
+   "nom": "Collège Saint-Joseph de Reims",
+   "histoire": "Le collège Saint-Joseph de Reims est un établissement scolaire catholique mixte sous contrat d’association avec l’État. Fondé en 1874 par les Pères jésuites, il est aujourd’hui situé entre les rues des Capucins, de Venise, de l’Équerre et des Moulins à Reims.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Actuellement situé entre les rues des Capucins, de Venise, de l'Équerre et des Moulins à Reims.",
+   "sources": [
+    "S34",
+    "S30"
+   ],
+   "lat": 49.2475111,
+   "lon": 4.0347278,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_Saint-Joseph_de_Reims"
+  },
+  {
+   "nom": "Collège des Jésuites de Reims",
+   "histoire": "Le collège des Jésuites est un bâtiment du XVIe siècle à Reims. Fondé en 1608 par des Jésuites, il est fermé en 1762 lorsque les Jésuites sont bannis du royaume de France. Par la suite, ses bâtiments servent à d’autres projets éducatifs au XIXe siècle, et l’édifice est occupé par l’Institut d’études politiques de Paris aujourd’hui.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 49.246563,
+   "lon": 4.040409,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_des_J%C3%A9suites_de_Reims"
+  },
+  {
+   "nom": "Incendie de Notre-Dame de Reims (1914)",
+   "histoire": "L’incendie de Notre-Dame de Reims du 19 septembre 1914 est provoqué par l’embrasement d’un échafaudage de la tour nord après le bombardement du centre-ville de Reims. Le feu se propage sur le toit et devient visible de loin, ce qui amène les Allemands à cesser leur tir.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S44"
+   ],
+   "lat": 49.253888888889,
+   "lon": 4.0341666666667,
+   "url": "https://fr.wikipedia.org/wiki/Incendie_de_Notre-Dame_de_Reims_%281914%29"
+  },
+  {
+   "nom": "Basilique Saint-Remi de Reims",
+   "histoire": "La basilique Saint-Remi de Reims est une basilique mineure et une église paroissiale située à Reims. Un projet de remplacement de l’édifice carolingien par une grande abbatiale romane est amorcé par Airard de Reims en 1009, puis remanié. En 1162, Pierre de Celle décide d’importantes modifications : le porche roman est démoli et la nef est prolongée de deux travées gothiques. La congrégation de Saint-Maur, à partir de 1627, fait construire la colonnade Renaissance qui clôture le chœur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il reste des vitraux du XIIe siècle dans l’abside et des tapisseries offertes par Robert de Lenoncourt, exposées dans le musée installé dans l’ancienne abbaye.",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 49.24306,
+   "lon": 4.04194,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Remi_de_Reims"
+  },
+  {
+   "nom": "Abbaye Saint-Denis de Reims",
+   "histoire": "L’abbaye Saint-Denis de Reims est une ancienne abbaye augustinienne située rue Chanzy à Reims. Elle est rétablie en 1067 par Gervais, archevêque de Reims, et Flodoard la cite déjà au Xe siècle. Au début du XIXe siècle, l’édifice est réquisitionné et sert tour à tour de siège du Directoire de district, d’entrepôt pour des œuvres d’art d’églises vendues et de caserne pour les troupes d’occupation russes en 1814 puis en 1815. Aujourd’hui, elle abrite le musée des Beaux-Arts de Reims.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle abrite aujourd’hui le musée des Beaux-Arts de Reims.",
+   "sources": [
+    "S54",
+    "S51",
+    "S52",
+    "S53"
+   ],
+   "lat": 49.253331,
+   "lon": 4.030932,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Denis_de_Reims"
+  }
+ ],
+ "sources": [
+  "Reims ([ʁɛ̃s], ; orthographe ancienne Rheims) est une commune française située dans le département de la Marne, dans la région culturelle et historique de Champagne et la région administrative Grand Est. Avec 177 674 habitants (appelés Rémois) en 2023, Reims est la treizième commune de France par sa population. Elle n'est, en revanche, que la trentième aire d'attraction française avec 356 721 habitants en 2023. […]",
+  "Les premières traces d'implantation humaine dans les environs de Reims remontent au Néolithique et au Chalcolithique (fin du IIIe millénaire av. J.-C.). Des champs d'urnes de l'âge du bronze y ont été retrouvés. La vallée de la Vesle a connu une occupation assez dense durant l'âge du fer. Il ne reste cependant que très peu de vestiges de ces époques sur le site de l'actuelle Reims. Il n'existe que peu d'informations […]",
+  "IIIe siècle : Le christianisme apparaît au milieu du IIIe siècle grâce à l'évêque Sixte et une première cathédrale est élevée au IVe siècle mais ce n'est qu'au Ve siècle que l'emplacement actuel commence à être occupé par l'Église qui y installe d'abord un ensemble épiscopal puis plusieurs cathédrales qui se succèdent jusqu'à celle qui existe aujourd'hui.",
+  "XIVe siècle : Mais il faut attendre le milieu du XIVe siècle pour que la muraille soit achevée et que Reims soit unifiée.",
+  "1757 : C'est en ce temps que la ville se dote à partir de 1757 d'un espace pour bâtir la place royale sous l'impulsion de Trudaine et Legendre, de 1627 d'un hôtel de ville, de fontaines comme celles données par Jean Godinot.",
+  "1814 : Pendant le XIXe siècle, la ville de Reims est occupée à deux reprises : une première fois par les troupes russes après l'abdication de Napoléon Ier le 6 avril 1814, puis une deuxième fois par les Prussiens qui entrent dans Reims le 4 septembre 1870.",
+  "1839 : De nombreux établissements à caractères publics sont construits : en 1839 est achevé le Palais de justice dont la construction avait commencé en 1829.",
+  "1840 : En 1840, une décision historique est prise pour Reims qui va démolir ses remparts (début de la destruction).",
+  "1848 : Au XIXe siècle, de nombreux aménagements d'infrastructures sont réalisés : en 1848 sont inaugurés le premier port de Reims et la section du canal de l'Aisne à la Marne entre Berry-au-Bac et Reims.",
+  "1854 : L’embranchement ferroviaire d’Épernay à Reims est ouvert en 1854 par la Compagnie des chemins de fer de l'Est, et en 1858 la gare de Reims est mise en service lors de l'ouverture de la section Reims – Rethel.",
+  "1867 : En 1867 sont construits le Cirque et le manège de Reims.",
+  "1872 : Ils y resteront jusqu'au mois de novembre 1872, car bien que le Traité de Francfort soit signé en 1871, Reims devient le siège du gouvernement allemand pour le Nord de la France chargé du payement de l'indemnité de guerre.",
+  "1873 : Le 3 mars 1873, l'Opéra de Reims est inauguré, construit par l'architecte rémois Alphonse Gosset avec la collaboration de Narcisse Brunette et Ernest Leclère.",
+  "1896 : En 1896, une statue équestre de Jeanne d'Arc du sculpteur français Paul Dubois est inaugurée par Félix Faure sur le parvis où elle tourne le dos à la cathédrale Notre-Dame de Reims, figurant la sortie de Jeanne d'Arc de l'édifice juste après le sacre de Charles VII.",
+  "Lieu « Cathédrale Notre-Dame de Reims » : La cathédrale Notre-Dame de Reims est une cathédrale catholique romaine située à Reims, dans le département français de la Marne en région Grand Est.",
+  "Lieu « Cathédrale Notre-Dame de Reims », VIe siècle : Un baptistère est construit au VIe siècle, au nord de l'édifice actuel.",
+  "Lieu « Cathédrale Notre-Dame de Reims », XIIIe siècle : La construction de l'édifice actuel a commencé au début du XIIIe siècle.",
+  "Lieu « Cathédrale Notre-Dame de Reims », XIVe siècle : Consacrée à la Vierge Marie, la cathédrale de Reims a été achevée au XIVe siècle.",
+  "Lieu « Cathédrale Notre-Dame de Reims », aujourd'hui : C’est dans les écrits de Flodoard, Nicaise, évêque de Reims, que les traces de la fondation de la première cathédrale rémoise au début du Ve siècle, probablement vers 401, sur d'anciens thermes gallo-romains, apparaissent.",
+  "Lieu « Palais du Tau (Reims) » : Le palais du Tau fut l'une des résidences d'archevêques de Reims.",
+  "Lieu « Palais du Tau (Reims) », Ve siècle : À l'emplacement actuel de la cathédrale, l'évêque Nicaise fait bâtir une église dédiée à Notre-Dame au début du Ve siècle et s'installe dans une villa gallo-romaine contiguë, dont des vestiges ont été retrouvés lors de fouilles dans la salle basse du palais actuel.",
+  "Lieu « Palais du Tau (Reims) », 1680 : Occupée depuis le Ve siècle à cet emplacement, l'ancienne demeure des évêques et archevêques de Reims fut agrandie et reconstruite au cours des siècles, avec des remaniements importants à la fin du XVe siècle et dans les années 1680-1690.",
+  "Lieu « Palais du Tau (Reims) », 1914 : Gravement endommagé lors d'un incendie au début de la Première Guerre mondiale, le 19 septembre 1914, à la suite de bombardements sur la cathédrale, le palais du Tau fut restauré à partir des années 1950 et abrite depuis 1972 le musée de la cathédrale de Reims et du sacre des rois de France.",
+  "Lieu « Palais du Tau (Reims) », aujourd'hui : Aujourd'hui seule la tour d'Éon est attestée par les diverses iconographies et les textes.",
+  "Lieu « Abbaye Saint-Remi de Reims » : L'abbaye Saint-Remi de Reims est une ancienne abbaye bénédictine de Reims, devenue aujourd'hui le musée Saint-Remi de Reims.",
+  "Lieu « Abbaye Saint-Remi de Reims », 533 : Un premier monastère fut peut-être fondé par saint Remi, évêque de Reims, où il fut inhumé en 533.",
+  "Lieu « Abbaye Saint-Remi de Reims », 1774 : L'abbatiale et les cloîtres de Saint-Remi sont presque entièrement détruits par un terrible incendie, qui éclate dans l'abbaye, la nuit du 15 au 16 janvier 1774.",
+  "Lieu « Abbaye Saint-Remi de Reims », 1796 : Elle sera transformée, dans son intégralité, en hôpital militaire en 1796 jusqu'en 1816, puis en Hôtel-Dieu à partir de juin 1827.",
+  "Lieu « Abbaye Saint-Remi de Reims », aujourd'hui : L'abbaye Saint-Remi de Reims est une ancienne abbaye bénédictine de Reims, devenue aujourd'hui le musée Saint-Remi de Reims.",
+  "Lieu « Collège Saint-Joseph de Reims » : Fondé en 1874 par les Pères jésuites, le collège Saint-Joseph de Reims est un établissement scolaire catholique mixte sous contrat d’association avec l’État scolarisant 1 250 élèves de la maternelle au baccalauréat, actuellement situé entre les rues",
+  "Lieu « Collège Saint-Joseph de Reims », 1608 : De 1608 à 1762, le premier collège des Jésuites de Reims était installé près de l'église Saint-Maurice.",
+  "Lieu « Collège Saint-Joseph de Reims », 1887 : Une société civile, fondée vers 1887 administrait financièrement le collège.",
+  "Lieu « Collège Saint-Joseph de Reims », 1889 : À la rentrée de 1889, on put inaugurer le grand bâtiment construit sur le faubourg Cérès (actuelle avenue Jean-Jaurès).",
+  "Lieu « Collège Saint-Joseph de Reims », aujourd'hui : Fondé en 1874 par les Pères jésuites, le collège Saint-Joseph de Reims est un établissement scolaire catholique mixte sous contrat d’association avec l’État scolarisant 1 250 élèves de la maternelle au baccalauréat, actuellement situé entre les rues des Capucins, de Venise, de l'Équerre et des Moulins à Reims (Marne).",
+  "Lieu « Collège des Jésuites de Reims » : Le collège des Jésuites est un bâtiment du XVIe siècle situé à Reims (Marne).",
+  "Lieu « Collège des Jésuites de Reims », XVIe siècle : Le collège des Jésuites est un bâtiment du XVIe siècle situé à Reims (Marne).",
+  "Lieu « Collège des Jésuites de Reims », 1608 : Fondé en 1608 par des Jésuites, le collège est fermé en 1762 lorsque les Jésuites sont bannis du royaume de France.",
+  "Lieu « Collège des Jésuites de Reims », XIXe siècle : Les bâtiments servent à d'autres projets éducatifs durant le XIXe siècle.",
+  "Lieu « Collège des Jésuites de Reims », aujourd'hui : L'Institut d'études politiques de Paris l'occupe aujourd'hui.",
+  "Lieu « Incendie de Notre-Dame de Reims (1914) » : L'incendie de Notre-Dame de Reims du 19 septembre 1914 est provoqué par l'embrasement d'un échafaudage de la tour nord à la suite du bombardement du centre-ville de Reims par la Deutsches Heer, installée à Berru.",
+  "Lieu « Incendie de Notre-Dame de Reims (1914) », 1210 : La cathédrale carolingienne ayant été entièrement détruite par un incendie, le 6 mai 1210, la construction de l'actuelle cathédrale Notre-Dame de Reims débute le 6 mai 1211.",
+  "Lieu « Incendie de Notre-Dame de Reims (1914) », 1481 : Un nouvel incendie se déclare en 1481, dû à la négligence de deux plombiers ayant oublié d'éteindre un fourneau sous les combles.",
+  "Lieu « Incendie de Notre-Dame de Reims (1914) », 1914 : L'incendie de Notre-Dame de Reims du 19 septembre 1914 est provoqué par l'embrasement d'un échafaudage de la tour nord à la suite du bombardement du centre-ville de Reims par la Deutsches Heer, installée à Berru.",
+  "Lieu « Incendie de Notre-Dame de Reims (1914) », aujourd'hui : Vers 15 h 30, le feu se propage sur le toit, ce qui rend l'incendie visible de loin et amène les Allemands à cesser leur tir.",
+  "Lieu « Basilique Saint-Remi de Reims » : La basilique Saint-Remi de Reims est une basilique mineure et une église paroissiale située à Reims (Champagne) en France.",
+  "Lieu « Basilique Saint-Remi de Reims », 1009 : Un projet de remplacement de l'édifice carolingien par une grande abbatiale romane est amorcé par Airard de Reims, abbé de 1009 à 1036 mais le plan, trop ambitieux, est remanié par son successeur, l'abbé Thierry (1036–1048).",
+  "Lieu « Basilique Saint-Remi de Reims », 1162 : En 1162, Pierre de Celle, nouvel abbé, décide d'importantes modifications : le porche roman est démoli et on prolonge la nef de deux travées gothiques.",
+  "Lieu « Basilique Saint-Remi de Reims », 1627 : La congrégation de Saint-Maur, qui réforme l'abbaye à partir de 1627 et faisant reprendre de nombreux bâtiments d'habitation, revenir des novices, fait construire la colonnade Renaissance, qui clôture le chœur.",
+  "Lieu « Basilique Saint-Remi de Reims », aujourd'hui : Il reste toutefois des vitraux du XIIe siècle dans l'abside et les tapisseries offertes par Robert de Lenoncourt, exposées dans le musée installé dans l'ancienne abbaye.",
+  "Lieu « Abbaye Saint-Denis de Reims » : L'abbaye Saint-Denis de Reims est une ancienne abbaye augustinienne située rue Chanzy à Reims, fondée à une date inconnue, rétablie en 1067 par Gervais, archevêque de Reims.",
+  "Lieu « Abbaye Saint-Denis de Reims », 1067 : L'abbaye Saint-Denis de Reims est une ancienne abbaye augustinienne située rue Chanzy à Reims, fondée à une date inconnue, rétablie en 1067 par Gervais, archevêque de Reims.",
+  "Lieu « Abbaye Saint-Denis de Reims », 1067 : Flodoard cite déjà l'abbaye au Xe siècle, fondée, selon Jadart, ou rétablie en 1067 par Gervais, archevêque de Reims.",
+  "Lieu « Abbaye Saint-Denis de Reims », 1814 : Au début du xixe siècle, l'édifice est maintes fois réquisitionné et sert tour à tour de siège du Directoire de district, d'entrepôt pour les œuvres d'art des églises vendues ou encore de caserne pour les troupes d'occupation russes en 1814 puis en 1815.",
+  "Lieu « Abbaye Saint-Denis de Reims », aujourd'hui : Elle abrite aujourd'hui le musée des Beaux-Arts de Reims."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
