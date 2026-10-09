@@ -1,0 +1,246 @@
+{
+ "commune": {
+  "titre": "Tarbes",
+  "code_insee": "65440",
+  "departement": "65",
+  "population": 44399,
+  "lat": 43.2387,
+  "lon": 0.0653,
+  "url": "https://fr.wikipedia.org/wiki/Tarbes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:37:02",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3150,
+  "sortie": 1448
+ },
+ "cout_usd": 0.00244,
+ "accroche": "En 1569, durant les guerres de Religion, les troupes de Jeanne d’Albret incendient la cathédrale et l’évêché à Tarbes.",
+ "histoire": {
+  "recit": "Tarbes, préfecture de la Bigorre, se dessine dès le IIIe siècle avant notre ère autour du besoin du commerce du sel : on franchit l’Adour en gué en fractionnant les charges. La ville connaît ensuite les ruptures de l’histoire.\n\nEn 1569, les guerres de Religion frappent durement : cathédrale, couvents et autres églises, ainsi que l’évêché, partent en flammes. Puis vient le temps des constructions et des administrations. L’hôtel de ville, d’abord inauguré le 27 mai 1906, change ensuite de visage : l’hôtel Castelnau (emplacement de l’ancienne mairie) est détruit en 1907 et la rue André-Fourcade est percée.\n\nAux portes du quotidien, le Jardin Massey rassemble des traces anciennes, dont des vestiges de cloître provenant de l’abbaye de Saint-Sever-de-Rustan. Plus loin, la halle Brauhauban s’affirme comme bâtiment de marchés couverts : pensée dès 1880, achevée en 1882, et remaniée au fil du temps.\n\nLa ville vit aussi au rythme de la voie ferrée avec la gare de Tarbes mise en service en 1859, et de l’industrie de défense avec l’Arsenal, dont l’activité est fermée lors de la restructuration, en 1987. Autre repère : le haras, gratifié dès 1806, dont les bâtiments forment encore un ensemble marqué par le style Empire.",
+  "chronologie": [
+   {
+    "date": "IIIe siècle av. J.-C.",
+    "texte": "Les fondations de la cité tarbaise voient le jour, avec le commerce du sel qui oblige à emprunter un gué pour franchir l’Adour.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1569",
+    "texte": "Durant les guerres de Religion, des troupes de Jeanne d’Albret incendient la cathédrale, les couvents et autres églises, ainsi que l’évêché.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "27 mai 1906",
+    "texte": "La mairie est inaugurée en présence de Louis Barthou, ministre des Travaux publics, postes et télégraphes.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "L’hôtel Castelnau (emplacement de l’ancienne mairie) est détruit et la rue André-Fourcade est percée à sa place.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1880",
+    "texte": "Le Conseil Municipal décide de construire un marché ouvert dans le parc Buron, qui portera le nom d’Antoine Jean Brauhauban.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "mars 1882",
+    "texte": "Les travaux de la halle, sur une surface de 4 000 m², sont achevés.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "L’Arsenal ferme dans le cadre de la restructuration de l’industrie de défense.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôtel de ville de Tarbes",
+   "histoire": "Édifice administratif du début du XXe siècle situé à Tarbes, l’hôtel de ville est inauguré le 27 mai 1906 et s’installe à l’emplacement de la place de la République, avec des crédits dédiés à l’achat du terrain et à la bâtisse.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S11",
+    "S10"
+   ],
+   "lat": 43.23309,
+   "lon": 0.078125,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Tarbes"
+  },
+  {
+   "nom": "Jardin Massey",
+   "histoire": "Jardin public du centre-ville de Tarbes, il conserve des traces liées à d’anciennes constructions, dont des vestiges de cloître provenant de l’abbaye de Saint-Sever-de-Rustan.",
+   "anecdotes": [
+    {
+     "texte": "En 2020, à la suite d’une tempête, un marronnier s’effondre sur le cloître et cause des dommages très importants.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S15",
+    "S16",
+    "S14"
+   ],
+   "lat": 43.238,
+   "lon": 0.0761,
+   "url": "https://fr.wikipedia.org/wiki/Jardin_Massey"
+  },
+  {
+   "nom": "Halle Brauhauban de Tarbes",
+   "histoire": "Bâtiment public à vocation de marchés couverts, la halle Brauhauban est décidée à la fin du XIXe siècle, construite, puis remplacée après démolition. Aujourd’hui, sa configuration a été pensée pour répondre aux besoins de marché et de stationnement.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S4",
+    "S5"
+   ],
+   "lat": 43.230831,
+   "lon": 0.074906,
+   "url": "https://fr.wikipedia.org/wiki/Halle_Brauhauban_de_Tarbes"
+  },
+  {
+   "nom": "Gare de Tarbes",
+   "histoire": "La gare de Tarbes, située dans le quartier Sainte-Anne, est un nœud ferroviaire : la Compagnie des chemins de fer du Midi met en service la gare en 1859, puis d’autres sections renforcent le rôle de bifurcation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 43.240237,
+   "lon": 0.069498,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Tarbes"
+  },
+  {
+   "nom": "Haras national de Tarbes",
+   "histoire": "Jusqu’en 2016, le haras de Tarbes fait partie des Haras nationaux français. Dès 1806, il s’installe d’abord dans l’ancien séminaire avant de prendre place sur son site actuel, les Salles d’Ancizan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 43.229166666667,
+   "lon": 0.068888888888889,
+   "url": "https://fr.wikipedia.org/wiki/Haras_national_de_Tarbes"
+  },
+  {
+   "nom": "Centre hospitalier de Bigorre (Ayguerote)",
+   "histoire": "Le centre hospitalier de Bigorre (Ayguerote) se trouve dans le quartier du centre-ville. Une chapelle d’hôpital est construite au deuxième quart du XVIIIe siècle, et un nouvel hôpital périurbain est inauguré en 1979.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 43.234469,
+   "lon": 0.066836,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_de_Bigorre_%28Ayguerote%29"
+  },
+  {
+   "nom": "Arsenal de Tarbes",
+   "histoire": "Ancien arsenal implanté à Tarbes, l’Arsenal voit l’installation d’un atelier à Tarbes en 1871, puis la création de l’Atelier de Construction de l’Artillerie en 1872. Le site s’étend ensuite, et son activité industrielle est fermée lors de la restructuration de l’industrie de défense.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37",
+    "S6"
+   ],
+   "lat": 43.241564,
+   "lon": 0.077381,
+   "url": "https://fr.wikipedia.org/wiki/Arsenal_de_Tarbes"
+  }
+ ],
+ "sources": [
+  "Tarbes (['taʁbə] en français méridional, [taʁb] en standard) est une commune de la Bigorre, dans le Sud-Ouest de la France. C'est aussi la préfecture du département des Hautes-Pyrénées, en région Occitanie. La ville est située sur l'axe pyrénéen, qui va de l'Atlantique à la Méditerranée, non loin de la frontière franco-espagnole. Sur le plan historique et culturel, la commune appartient à l’ancien comté de Bigorre, […]",
+  "Au IIIe siècle av. J.-C., les fondations de la cité tarbaise voient le jour, d'après les témoignages des vestiges exhumés du sous-sol. Par nécessité pour le commerce du sel, des marchands vraisemblablement aquitains cheminaient sur le piémont pyrénéen. Pour continuer leur route, ils devaient emprunter un gué afin de franchir l'Adour descendu de la montagne. Il était plus prudent de fractionner les charges pour […]",
+  "1569 : Durant les guerres de Religion, en 1569, les troupes de Jeanne d'Albret incendient la cathédrale, les couvents et autres églises ainsi que l'évêché.",
+  "1877 : En 1877, une donation de l'ancien maire Antoine Brauhauban est à l'origine de la construction d'une imposante halle portant son nom (ce bâtiment a cependant été détruit en 1970 pour y établir un parking aérien en dessous duquel continue à se tenir un marché animé, y compris le dimanche).",
+  "1942 : Elle se réorganisera au Quartier Soult, aujourd'hui occupé par le 35e Régiment d'Artillerie Parachutiste, jusqu'à sa dissolution en novembre 1942.",
+  "1987 : En effet, l'Arsenal, principale activité industrielle de la ville (3 150 salariés en 1987), a été fermé dans le cadre de la restructuration de l'industrie de défense.",
+  "Lieu « Hôtel de ville de Tarbes » : L'hôtel de ville de Tarbes est un édifice administratif du début du XXe siècle situé à Tarbes, en France.",
+  "Lieu « Hôtel de ville de Tarbes », 1906 : Le 27 mai 1906 la mairie est inaugurée en présence de Louis Barthou, ministre des Travaux publics, postes et télégraphes.",
+  "Lieu « Hôtel de ville de Tarbes », 1907 : L'hôtel Castelnau (emplacement de l’ancienne mairie) est détruit en 1907, et la rue André-Fourcade percée à la place de ce dernier.",
+  "Lieu « Hôtel de ville de Tarbes », XXe siècle : L'hôtel de ville de Tarbes est un édifice administratif du début du XXe siècle situé à Tarbes, en France.",
+  "Lieu « Hôtel de ville de Tarbes », aujourd'hui : L'emplacement choisi est la place de la République et le projet bénéficie d’un crédit de 100 000 francs pour l'achat du terrain et de 500 000 francs pour la bâtisse.",
+  "Lieu « Jardin Massey » : Le Jardin Massey est un jardin public situé dans le quartier du centre-ville à Tarbes (canton de Tarbes 3), département des Hautes-Pyrénées en région Occitanie.",
+  "Lieu « Jardin Massey », 1830 : On y trouve beaucoup d'animaux rares et intéressants, de belles fleurs, des arbres datant de 1830, une calèche ainsi que les vestiges d'un cloître qui proviennent de l'abbaye de Saint-Sever-de-Rustan, parmi d'autres vieux bâtiments.",
+  "Lieu « Jardin Massey », 1853 : À la mort de Massey en 1853, les travaux de construction du muséum furent interrompus et le projet d'un jardin d'hiver fut abandonné.",
+  "Lieu « Jardin Massey », 2020 : Le 1er mars 2020, à la suite d'une tempête, un marronnier s'est effondré sur le cloître, causant des dommages très importants.",
+  "Lieu « Jardin Massey », aujourd'hui : Quelques années plus tard, la ville de Tarbes décida de construire une serre (l'orangerie) en remplacement.",
+  "Lieu « Halle Brauhauban de Tarbes » : La halle Brauhauban de Tarbes est un bâtiment public, à vocation de marchés couverts située dans la commune de Tarbes, département français des Hautes-Pyrénées.",
+  "Lieu « Halle Brauhauban de Tarbes », 1880 : C'est en 1880 que le Conseil Municipal de Tarbes décide de faire construire un marché ouvert situé dans le parc Buron près de la rue des Grands Fossés qui portera le nom d'Antoine Jean Brauhauban (ancien maire de Tarbes ) en reconnaissance des legs faits à la ville.",
+  "Lieu « Halle Brauhauban de Tarbes », 1882 : Les travaux effectués sur une surface de 4 000 m² s'élevèrent à 450 000 francs et furent achevés en mars 1882.",
+  "Lieu « Halle Brauhauban de Tarbes », 1972 : Après démolition de l’édifice existant, le nouveau bâtiment est mis en fonction en 1972, composé des étals permanents des commerçants et artisans, le carreau pour maraîchers proposant leur production deux fois par semaine et d’un parking avec quatre étages accessibles aux véhicules.",
+  "Lieu « Halle Brauhauban de Tarbes », aujourd'hui : A la fin des années 1960, pour faire face à l'expansion générale de la ville et à l'accroissement de la circulation et du stationnement, la municipalité envisage l'étude du projet de construction d’un marché-halle-parking sur l'emplacement de la halle Brauhauban.",
+  "Lieu « Gare de Tarbes » : La gare de Tarbes est une gare ferroviaire française des lignes de Toulouse à Bayonne et de Morcenx à Bagnères-de-Bigorre, située dans le quartier Sainte-Anne à Tarbes, préfecture du département des Hautes-Pyrénées, en région Occitanie.",
+  "Lieu « Gare de Tarbes », 1859 : La Compagnie des chemins de fer du Midi et du Canal latéral à la Garonne met en service la gare de Tarbes, lors de l'ouverture de la section de Riscle à Tarbes le 24 septembre 1859.",
+  "Lieu « Gare de Tarbes », 1866 : La section de Tarbes à Lourdes est mise en service le 20 avril 1866, et Tarbes devient une gare de bifurcation lors de l'ouverture des deux sections de Montréjeau à Tarbes et Lourdes à Pau, qui permettent la mise en service de la ligne de Toulouse à Bayonne, le 20 juin 1867.",
+  "Lieu « Gare de Tarbes », 1992 : L'ancien atelier d'entretien des voitures Corail, fermé en 1992 (puis utilisé par une association de restauration de voitures anciennes jusque dans les années 2010) et situé non loin de la gare en direction de Mont-de-Marsan, est victime d'un incendie en janvier 2016.",
+  "Lieu « Haras national de Tarbes » : Le haras de Tarbes est, jusqu'en 2016, l'un des Haras nationaux français.",
+  "Lieu « Haras national de Tarbes », 1806 : C’est donc dès 1806 que Tarbes est gratifiée d’un haras, qui tout d’abord siège à l’ancien séminaire de la ville pour être ensuite implanté sur son site actuel (les Salles d’Ancizan).Tout au long du XIXe siècle, les architectes se succèdent et dotent le haras de différents bâtiments qui forment encore à ce jour un ensemble harmonieux, fortement imprégné du style Empire.",
+  "Lieu « Haras national de Tarbes », 1823 : La Sellerie d’Honneur, construite en 1823, accueille des harnachements, des selles d’époque, des bricoles et autres accessoires servant à la monte des chevaux.",
+  "Lieu « Haras national de Tarbes », XIXe siècle : L'écurie Larrieu est la plus récente du haras puisqu'elle fut construite, à la fin du XIXe siècle.",
+  "Lieu « Centre hospitalier de Bigorre (Ayguerote) » : Le centre hospitalier de Bigorre (Ayguerote), est un centre hospitalier situé dans le quartier du centre-ville à Tarbes (canton de Tarbes 3), département des Hautes-Pyrénées en région Occitanie.",
+  "Lieu « Centre hospitalier de Bigorre (Ayguerote) », XVIIIe siècle : La chapelle de l'hopital est construite dans le deuxième quart du XVIIIe siècle.",
+  "Lieu « Centre hospitalier de Bigorre (Ayguerote) », 1979 : La construction d'un nouvel hôpital périurbain est inévitable et est construit et le 26 novembre 1979 est inauguré le centre Hospitalier de La Gespe.",
+  "Lieu « Centre hospitalier de Bigorre (Ayguerote) », aujourd'hui : Elle est aujourd'hui le seul vestige conservé de l'hopital d'Ancien Régime.",
+  "Lieu « Arsenal de Tarbes » : L'arsenal de Tarbes est un ancien arsenal, situé à Tarbes dans le département des Hautes-Pyrénées en région Occitanie.",
+  "Lieu « Arsenal de Tarbes », 1871 : C'est en 1871, à la suite du siège de Paris par les Allemands qui oblige à abandonner l'Arsenal de Meudon, qu'est installé un atelier à Tarbes pour la fabrication de canons à balles et autres canons dont le lieutenant-colonel Verchère de Reffye assure la direction.",
+  "Lieu « Arsenal de Tarbes », 1872 : Le colonel de Reffye, ayant terminé son étude sur le canon de 7, se préoccupe de développer les moyens de production par la construction de nouveaux bâtiments, et le 21 août 1872 est créé l'Atelier de Construction de l'Artillerie de Tarbes.",
+  "Lieu « Arsenal de Tarbes », 1919 : De 1919 à 1939 le site s'agrandit avec la construction de nouveaux ateliers de réparations et des terrains sont acquis portant la superficie occupée par l'Arsenal à 66 hectares."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 1
+ }
+}
