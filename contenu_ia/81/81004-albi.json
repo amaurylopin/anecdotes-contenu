@@ -1,0 +1,300 @@
+{
+ "commune": {
+  "titre": "Albi",
+  "code_insee": "81004",
+  "departement": "81",
+  "population": 51290,
+  "lat": 43.929,
+  "lon": 2.1323,
+  "url": "https://fr.wikipedia.org/wiki/Albi"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:32:15",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3538,
+  "sortie": 1902
+ },
+ "cout_usd": 0.003085,
+ "accroche": "En 1864, Albi fait construire le Pont Neuf sur le Tarn et un viaduc pour le train, ouvert en octobre 1864.",
+ "histoire": {
+  "recit": "À Albi, la ville s’est construite entre passages et chantiers. Déjà au Xe siècle, un premier pont franchit le Tarn, avant qu’un second ouvrage, le Pont Neuf, ne voie le jour en 1864. La Renaissance apporte ensuite l’enrichissement porté par la culture du pastel, et plusieurs hôtels particuliers en gardent la trace. Plus tard, l’industrie prend le relais : l’essor métallurgique au Saut du Tarn mène à des fonderies spécialisées, tandis qu’une verrerie ouvrière s’organise en coopérative en 1896.\n\nAu cœur de la cité, la cathédrale Sainte-Cécile et sa cité épiscopale composent un ensemble façonné sur plusieurs siècles. Le palais de la Berbie, ancien palais épiscopal, occupe ces lieux depuis le XIIe-XIIIe siècle, et les fouilles continuent de surprendre : des dallages de terre cuite ont été retrouvés au tournant des années 2000. Et quand l’époque se trouble, la voix de l’archevêque d’Albi, dès 1942, se fait entendre contre les persécutions.",
+  "chronologie": [
+   {
+    "date": "Xe siècle",
+    "texte": "Au Xe siècle, un premier pont est construit sur le Tarn à Albi.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "La cité devient une cité épiscopale dès le XIIIe siècle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1864",
+    "texte": "Un deuxième pont, l’actuel Pont Neuf, est construit sur le Tarn, avec un viaduc pour le train ouvert en octobre 1864.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1896",
+    "texte": "La verrerie ouvrière d’Albi est fondée en 1896 en coopérative autogérée, avec l’aide d’une souscription nationale et de Jean Jaurès, à la suite de la grève de Carmaux de 1895.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1942",
+    "texte": "L’archevêque d’Albi, Jean-Joseph Moussaron, proteste ouvertement dès 1942 contre les persécutions à l’encontre des Juifs.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Palais de la Berbie",
+   "histoire": "Palais épiscopal des évêques d’Albi, construit en 1228 et 1308, il forme un ensemble marqué par la longue histoire des occupations du site.",
+   "anecdotes": [
+    {
+     "texte": "Lors des recherches menées dans les années 2000, des dallages de terre cuite datant des origines de la bâtisse ont été découverts ; d’autres éléments pourraient encore être cachés.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Avant d’être un cœur de cité épiscopale, le site du Castelviel a été successivement occupé par les Celtes et les Gallo-romains.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le palais appartient à la cité épiscopale d’Albi et demeure un repère majeur de l’histoire du site de Castelviel.",
+   "sources": [
+    "S11",
+    "S7"
+   ],
+   "lat": 43.9292,
+   "lon": 2.14306,
+   "url": "https://fr.wikipedia.org/wiki/Palais_de_la_Berbie"
+  },
+  {
+   "nom": "Cathédrale Sainte-Cécile d'Albi",
+   "histoire": "Siège de l’archidiocèse d’Albi, la cathédrale Sainte-Cécile a connu un premier édifice détruit par un incendie au milieu du VIIe siècle, puis une reconstruction qui s’étend de 1282 à 1480.",
+   "anecdotes": [
+    {
+     "texte": "Le premier édifice ayant précédé la cathédrale actuelle est détruit par un incendie en 666 et 667.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Classée avec la cité épiscopale d’Albi depuis le 31 juillet 2010, la cathédrale Sainte-Cécile est aujourd’hui parmi les cathédrales les plus visitées en France.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 43.928492,
+   "lon": 2.142945,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-C%C3%A9cile_d%27Albi"
+  },
+  {
+   "nom": "Collégiale Saint-Salvi d'Albi",
+   "histoire": "Ancienne collégiale d’Albi, elle voit ses travaux s’échelonner au fil du temps, avec une nef dont le chantier s’étend jusqu’au XIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Un ensemble lié aux activités agricoles et domestiques a laissé des noms : hôpital en 1205, et poulailler et porcherie donnant leur nom aux rues de la porcaria et de la galinaria.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un de ses membres y est inhumé : saint Salvi a donné son nom à la collégiale.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 43.9278,
+   "lon": 2.1444,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Salvi_d%27Albi"
+  },
+  {
+   "nom": "Le Sequestre",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 43.9183,
+   "lon": 2.0994,
+   "url": "https://fr.wikipedia.org/wiki/Le_Sequestre"
+  },
+  {
+   "nom": "Château de Cantepau",
+   "histoire": "Château situé à Albi, avec un premier château possible au XVe siècle, puis un grand édifice bâti au XVIIIe siècle par la famille Delecouls.",
+   "anecdotes": [
+    {
+     "texte": "Une grande salle possédait un plafond à la française et de beaux dessus de porte en stucs de style Louis XVI, aujourd’hui disparus à cause de pillages menés dans les années 70.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    },
+    {
+     "texte": "Des fenêtres à meneaux encore visibles témoignent d’un premier château possible au XVe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château, restauré en brique, peut aujourd’hui être aperçu depuis la rocade d’Albi.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 43.944854,
+   "lon": 2.162253,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cantepau"
+  },
+  {
+   "nom": "Manoir de Lasbordes",
+   "histoire": "Domaine et manoir à Albi : un moulin à pastel est installé au domaine au XVIIe siècle avant même les prémices de construction du manoir, puis l’édifice est remanié au fil des périodes.",
+   "anecdotes": [
+    {
+     "texte": "Le manoir abrite aujourd’hui le club-house du principal parcours de golf d’Albi.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    },
+    {
+     "texte": "Au XVIIe siècle, un moulin à pastel est installé au domaine avant les prémices de construction du manoir.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’édifice est aujourd’hui le club-house du principal parcours de golf d’Albi.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 43.9412,
+   "lon": 2.11892,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Lasbordes"
+  },
+  {
+   "nom": "Musée Lapérouse",
+   "histoire": "Un des sept musées de la ville d’Albi, situé près du Pont-Vieux à côté du Tarn.",
+   "anecdotes": [
+    {
+     "texte": "Jusqu’en 2014, seuls trois monuments ont été édifiés à l’initiative des membres du musée et de l’association Lapérouse d’Albi, dont l’île de Sakhaline en 2006.",
+     "statut": "etabli",
+     "sources": [
+      "S40"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les œuvres proviennent de dons et de prêts, et l’association Salomon réalise les recherches scientifiques à Vanikoro en analysant les vestiges.",
+   "sources": [
+    "S41"
+   ],
+   "lat": 43.9328876,
+   "lon": 2.1456354,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Lap%C3%A9rouse"
+  },
+  {
+   "nom": "Château de Fonlabour",
+   "histoire": "Construit au XVIIIe siècle, le château sert aujourd’hui de centre administratif au lycée agricole de Fonlabour, tandis que le domaine a aussi accueilli un collège puis une partie de l’administration scolaire.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1970, il est sauvé de la destruction grâce à l’action du proviseur de l’époque.",
+     "statut": "etabli",
+     "sources": [
+      "S45"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château et son domaine sont encore occupés par le lycée agricole de Fonlabour, avec de nombreux bâtiments scolaires et un lac artificiel creusé en 1975.",
+   "sources": [
+    "S46"
+   ],
+   "lat": 43.920166534703,
+   "lon": 2.1005064243149,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Fonlabour"
+  }
+ ],
+ "sources": [
+  "Albi est une commune française, préfecture du département du Tarn, en région Occitanie. En 2023, la ville d'Albi compte 51 290 habitants, et son unité urbaine 75 493 habitants. Albi est la ville-centre de la communauté d'agglomération de l'Albigeois qui compte 84 938 habitants (seize communes adhérentes). Albi est surnommée la « ville rouge » du fait des briques ocre apparentes de sa cathédrale fortifiée et de son […]",
+  "Ville créée pendant l'Antiquité, elle est le fief des seigneurs Trencavel au Moyen Âge puis du catharisme. Elle devient une cité épiscopale dès le XIIIe siècle. C'est durant la Renaissance que la ville s'enrichit grâce à la culture du pastel. Plusieurs hôtels particuliers restent les témoins de cette époque. À la Révolution française, les biens du Clergé sont vendus et les différents bâtiments deviennent des centres […]",
+  "Xe siècle : Au Xe siècle, le premier pont sur le Tarn est construit à Albi.",
+  "1864 : Un deuxième pont, l'actuel Pont Neuf, est construit sur le Tarn, ainsi qu'un viaduc pour le train ouvert en octobre 1864.",
+  "1896 : La métallurgie s'implante au Saut du Tarn entraînant l'apparition de fonderies spécialisées, mais l'activité la plus connue est la verrerie ouvrière d'Albi, fondée en 1896 en coopérative ouvrière autogérée grâce à l'aide d'une souscription nationale et de Jean Jaurès, et à la suite de la grève de Carmaux de 1895.",
+  "1942 : L'archevêque d’Albi, Jean-Joseph Moussaron, proteste ouvertement dès 1942 contre les persécutions à l’encontre des Juifs.",
+  "Lieu « Palais de la Berbie » : Le palais de la Berbie est un ancien palais épiscopal des évêques d'Albi, construit en 1228 et 1308, qui se dresse dans la commune française d'Albi, dans le sud-ouest de la France.",
+  "Lieu « Palais de la Berbie », 1228 : Le palais de la Berbie est un ancien palais épiscopal des évêques d'Albi, construit en 1228 et 1308, qui se dresse dans la commune française d'Albi, dans le sud-ouest de la France.",
+  "Lieu « Palais de la Berbie », XIIIe siècle : Construit durant la seconde moitié du XIIIe siècle, sous l'épiscopat de trois évêques successifs, son chantier a nécessité une cinquantaine d'années.",
+  "Lieu « Palais de la Berbie », 2000 : De remarquables dallages de terre cuite datant des origines de la bâtisse ont été trouvés dans les années 2000 ; les recherches ne sont pas finies et d'autres trésors architecturaux sont probablement encore en sommeil.",
+  "Lieu « Palais de la Berbie », aujourd'hui : Leur cité épiscopale embryonnaire a marqué, à son époque, la sortie de l'ancien site fortifié du Castelviel, successivement occupé par les Celtes et les Gallo-romains.",
+  "Lieu « Cathédrale Sainte-Cécile d'Albi » : La cathédrale Sainte-Cécile d'Albi est le siège de l'archidiocèse d'Albi, dans le département du Tarn en France.",
+  "Lieu « Cathédrale Sainte-Cécile d'Albi », 666 : Le premier édifice ayant précédé la cathédrale actuelle est daté du IVe siècle et est détruit en 666 et 667 par un incendie.",
+  "Lieu « Cathédrale Sainte-Cécile d'Albi », 1282 : Deux siècles auront été nécessaires pour son édification, de 1282 à 1480.",
+  "Lieu « Cathédrale Sainte-Cécile d'Albi », 2023 : Le siège archiépiscopal (d'Albi, Castres et Lavaur) est occupé depuis le 17 septembre 2023 par Mgr Jean-Louis Balsa.",
+  "Lieu « Cathédrale Sainte-Cécile d'Albi », aujourd'hui : La cathédrale Sainte-Cécile, classée avec la cité épiscopale d'Albi depuis le 31 juillet 2010 sur la liste du patrimoine mondial de l'Unesco, est aujourd'hui l'une des cathédrales les plus visitées de France.",
+  "Lieu « Collégiale Saint-Salvi d'Albi » : La collégiale Saint-Salvi d'Albi est une ancienne collégiale située à Albi, dans le sud-ouest de la France.",
+  "Lieu « Collégiale Saint-Salvi d'Albi », 1100 : Ces éléments achevés en 1100, le chantier de la nef dure jusqu'en 1120.",
+  "Lieu « Collégiale Saint-Salvi d'Albi », 1205 : Il donnera son nom à la tour, un temps nommé « tour de la vit » D'autres chantiers concernent des bâtiments conventuels : hôpital en 1205 ou poulailler et porcherie qui donnent leur nom aux rues de la porcaria et de la galinaria.",
+  "Lieu « Collégiale Saint-Salvi d'Albi », XIVe siècle : Ce portail a disparu de la vue des visiteurs depuis la construction de bâtiments à la place de l'escalier au XIVe siècle.",
+  "Lieu « Collégiale Saint-Salvi d'Albi », aujourd'hui : Un de ses membres a laissé son nom, saint Salvi à la collégiale où il est inhumé.",
+  "Lieu « Le Sequestre » : Le Sequestre, graphiée localement Le Séquestre, est une commune française située dans le nord du département du Tarn, en région Occitanie.",
+  "Lieu « Le Sequestre », 1991 : Pour la période 1991-2020, la température moyenne annuelle observée sur la station météorologique installée sur la commune est de 13,8 °C et le cumul annuel moyen de précipitations est de 733,9 mm.",
+  "Lieu « Le Sequestre », 2019 : Sur les 743 bâtiments dénombrés sur la commune en 2019, 740 sont en aléa moyen ou fort, soit 100 %, à comparer aux 90 % au niveau départemental et 54 % au niveau national.",
+  "Lieu « Le Sequestre », 2022 : En 2022, il n'existe pas de Plan de Prévention des Risques incendie de forêt (PPRif).",
+  "Lieu « Le Sequestre », aujourd'hui : L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIe siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).",
+  "Lieu « Château de Cantepau » : Le château de Cantepau est un château situé à Albi, dans le Tarn, en région Occitanie (France).",
+  "Lieu « Château de Cantepau », XVe siècle : Néanmoins, un premier château pourrait avoir été construit au XVe siècle, ce dont témoigne quelques fenêtres à meneaux encore visibles.",
+  "Lieu « Château de Cantepau », XVIIIe siècle : Bâti au XVIIIe siècle par la famille Delecouls, c'est un grand édifice restauré en brique que l'on peut aujourd'hui apercevoir depuis la rocade d'Albi, mais qui a longtemps été ruiné.",
+  "Lieu « Château de Cantepau », XVIIIe siècle : Le château de Cantepau a très certainement été construit par la famille Delecouls, riche famille consulaire d'Albi, qui constitua aux XVIIe et XVIIIe siècles un important domaine foncier dans les alentours.",
+  "Lieu « Château de Cantepau », aujourd'hui : Une grande salle, avec son plafond à la française, possédait de beaux dessus de porte en stucs, de style Louis XVI, aujourd'hui disparus, à cause des pillages menés dans les années 70.",
+  "Lieu « Manoir de Lasbordes » : Le manoir de Lasbordes, ou château de Lasbordes, est un domaine et manoir situé à Albi, dans le Tarn, en région Occitanie (France).",
+  "Lieu « Manoir de Lasbordes », XVIIe siècle : Outre la fonction de demeure bourgeoise, un moulin à pastel est installé au domaine au XVIIe siècle, avant même les prémices de la construction du manoir.",
+  "Lieu « Manoir de Lasbordes », XIXe siècle : L'édifice, construit en un bel appareil de brique, présente de nombreuses fenêtres à meneaux, remaniées au XIXe siècle.",
+  "Lieu « Manoir de Lasbordes », 1979 : Bâti au XVIIe siècle et inscrit aux monuments historiques en 1979, cet édifice en brique est la demeure historique de la famille d'Aussaguel.",
+  "Lieu « Manoir de Lasbordes », aujourd'hui : C'est aujourd'hui le club-house du principal parcours de golf d'Albi[réf. souhaitée].",
+  "Lieu « Musée Lapérouse » : Le musée Lapérouse, un des sept musées de la ville d'Albi, est situé près du Pont-Vieux, à côté du Tarn.",
+  "Lieu « Musée Lapérouse », 1981 : Les autres pièces provenant des fouilles scientifiques ont été transférées au Musée national de la Marine de Paris, au Musée national de la Marine de Brest, enfin 4 000 autres sont gardées au musée de l'Histoire maritime de la Nouvelle-Calédonie à Nouméa, annexé à l'association Salomon fondée par Alain Conan en 1981.",
+  "Lieu « Musée Lapérouse », 1983 : Pierre Amalric : de 1983 (création de l'association), puis 1988 (ouverture du musée) à 1997 ; Pierre Bérard : de 1997 à 2005 ; Marie-Christine Pestel : de 2005 à 2007.",
+  "Lieu « Musée Lapérouse », 2014 : Jusqu'en 2014, seuls 3 monuments ont été édifiés à l'initiative des membres du musée et de l'association Lapérouse d'Albi : 2006 : île de Sakhaline (Russie) : Monument dressé conjointement par l'Association Lapérouse Albi-France, représentée par Jacques Bodin, et par les autorités russes.",
+  "Lieu « Musée Lapérouse », aujourd'hui : Ces œuvres proviennent de plusieurs sources dont des dons et des prêts, soit de particuliers, soit d'autres musées ou encore directement de l'association Salomon qui réalise les recherches scientifiques à Vanikoro et analyse les vestiges.",
+  "Lieu « Château de Fonlabour » : Le château de Fonlabour est un château situé à Albi, dans le Tarn (France).",
+  "Lieu « Château de Fonlabour », XVIIIe siècle : Construit au XVIIIe siècle, il sert aujourd'hui de centre administratif au lycée agricole de Fonlabour.",
+  "Lieu « Château de Fonlabour », XXe siècle : Dans la seconde moitié du XXe siècle, le domaine du château est progressivement occupé par un collège, tandis que le château lui-même accueille l'administration scolaire et un internat.",
+  "Lieu « Château de Fonlabour », 1970 : Il est sauvé de la destruction vers 1970 par l'action du proviseur de l'époque, alors que le collège devient un lycée agricole et que de nombreux autres bâtiments scolaires sont bâtis.",
+  "Lieu « Château de Fonlabour », aujourd'hui : Aujourd'hui encore, le château et son domaine sont occupés par le lycée agricole de Fonlabour, qui possède une large exploitation, de nombreux bâtiments scolaires et un lac artificiel, creusé en 1975."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "VIIe",
+   "XIIe",
+   "XIIe-XIIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}
