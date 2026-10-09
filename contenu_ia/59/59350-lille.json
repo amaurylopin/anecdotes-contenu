@@ -1,0 +1,339 @@
+{
+ "commune": {
+  "titre": "Lille",
+  "code_insee": "59350",
+  "departement": "59",
+  "population": 238246,
+  "lat": 50.6311,
+  "lon": 3.0468,
+  "url": "https://fr.wikipedia.org/wiki/Lille"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:13:57",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4177,
+  "sortie": 2044
+ },
+ "cout_usd": 0.00339,
+ "accroche": "Le 8 octobre 1845, la Colonne de la Déesse est inaugurée au centre de la Grand’Place de Lille, aujourd’hui la place du Général-de-Gaulle.",
+ "histoire": {
+  "recit": "À Lille, les récits se superposent comme des couches de ville. Une légende dit que la ville aurait été fondée en 640 par Lydéric, tandis que des traces bien plus anciennes ont été repérées sur le site sans révéler l’urbanisation initiale. \n\nAu XIIe siècle, une foire au drap prend place, et la ville, riche et convoitée, subit ensuite les violences des crises religieuses. En 1533, deux protestants sont brûlés sur la grand-place et trois autres décapités. \n\nLille s’élargit encore au tournant des XVIIe siècles, gagnant de nouveaux quartiers grâce à des extensions successives de son enceinte. En 1635, la guerre franco-espagnole éclate, puis les faubourgs sont ravagés lors des années suivantes. La ville connaît aussi l’épreuve des incendies et des conflits modernes : le grand théâtre brûle le 4 avril 1903, et la Première Guerre mondiale voit l’occupation allemande d’octobre 1914 à octobre 1918. \n\nAprès 1944, Lille se reconstruit et, en 1927, elle inaugure même une station de radiodiffusion. Aujourd’hui, plusieurs lieux témoignent de ces strates, de l’ancienne motte castrale à la mémoire urbaine gravée dans ses monuments.",
+  "chronologie": [
+   {
+    "date": "640",
+    "texte": "Une légende affirme que Lille aurait été fondée en 640 par Lydéric.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Une foire au drap est fondée à Lille.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1533",
+    "texte": "Sur la grand-place, deux protestants sont brûlés et trois autres décapités.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1603",
+    "texte": "L’enceinte s’étend au sud-ouest, englobant le faubourg du Molinel.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1617",
+    "texte": "L’enceinte s’étend au nord-est, englobant le faubourg des Reignaux et l’emplacement de l’ancien château de Courtrai détruit en 1599.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1635",
+    "texte": "La guerre franco-espagnole éclate et les faubourgs sont ravagés lors de la période 1645.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "8 octobre 1845",
+    "texte": "La Colonne de la Déesse est inaugurée, au centre de la Grand’Place de Lille.",
+    "sources": [
+     "S8",
+     "S53"
+    ]
+   },
+   {
+    "date": "4 avril 1903",
+    "texte": "Le grand théâtre de Lille est détruit par un incendie.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "11 janvier 1911",
+    "texte": "Le coupable est exécuté.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "octobre 1914 - octobre 1918",
+    "texte": "La ville est occupée par les Allemands pendant la Première Guerre mondiale.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "25 juillet 1927",
+    "texte": "La station de radiodiffusion de Lille est inaugurée.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "3 septembre 1944",
+    "texte": "Lille est libérée, de nouveau par les Britanniques.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "à partir des années 1970",
+    "texte": "La ville doit affronter des crises industrielles à partir des années 1970.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame-de-la-Treille",
+   "histoire": "Cathédrale de style néogothique située dans le quartier du Vieux-Lille, à l’emplacement de l’ancienne motte castrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "De style néogothique, située dans le quartier du Vieux-Lille à l’emplacement de l’ancienne motte castrale.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 50.639972,
+   "lon": 3.062361,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-la-Treille"
+  },
+  {
+   "nom": "Palais des Beaux-Arts de Lille",
+   "histoire": "À Lille, l’idée de fonder un musée naît lors de l’ouverture de l’Académie des arts en 1775. Les collections déménagent en 1850 dans les locaux du nouvel hôtel de ville, puis le musée rouvre en 1892 en offrant l’occasion de regrouper plusieurs collections. Aujourd’hui, il propose près de deux mille œuvres à la visite.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Tirées d’un fonds de plus de soixante-dix mille œuvres, le musée en propose aujourd’hui près de deux mille à la visite.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 50.63067,
+   "lon": 3.0626,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille"
+  },
+  {
+   "nom": "Place du Général-de-Gaulle (Lille)",
+   "histoire": "La place correspond à l’ancienne Grand’Place : elle a porté l’histoire du siège de Lille en 1792 et accueille des étals installés sous des auvents de toile.",
+   "anecdotes": [
+    {
+     "texte": "La statue érigée ici représente l’héroïsme des Lillois durant le siège de Lille en 1792.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle accueille les nombreux étals des marchands abrités sous des auvents de toile.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 50.636901,
+   "lon": 3.063409,
+   "url": "https://fr.wikipedia.org/wiki/Place_du_G%C3%A9n%C3%A9ral-de-Gaulle_%28Lille%29"
+  },
+  {
+   "nom": "Canal de la Moyenne-Deûle",
+   "histoire": "Le canal de la Moyenne-Deûle, aussi appelé canal de l’Esplanade, est un canal d’environ 2 kilomètres construit à Lille en 1751 pour relier la Haute-Deûle (port du Wault) à la Basse-Deûle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32"
+   ],
+   "lat": 50.642936111111,
+   "lon": 3.0527138888889,
+   "url": "https://fr.wikipedia.org/wiki/Canal_de_la_Moyenne-De%C3%BBle"
+  },
+  {
+   "nom": "Musée de l'Hospice Comtesse",
+   "histoire": "L’Hospice Comtesse est un ancien hôpital médiéval fondé en 1237 par la comtesse Jeanne de Flandre. Un incendie détruit l’hôpital en 1468, à l’exception de l’infirmerie, puis la salle des malades est reconstruite entre 1468 et 1472. Lors du renouveau urbain, des vestiges trouvent refuge dans la cour, les réserves et les caves.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 50.64111,
+   "lon": 3.06317,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Hospice_Comtesse"
+  },
+  {
+   "nom": "Parc zoologique de Lille",
+   "histoire": "Le parc zoologique de Lille, au pied de la citadelle, développe ses installations au fil du temps : une maison tropicale est construite en 1962, puis des enclos pour de nouvelles espèces apparaissent dans les décennies suivantes.",
+   "anecdotes": [
+    {
+     "texte": "L’enclos des pandas roux apparaît durant cette décennie, en 2005, et l’enclos des tortues géantes d’Aldabra est construit en même temps.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    },
+    {
+     "texte": "La Cabane gourmande ouvre le 1er mai 2018 et assure, à l’intérieur du zoo, des services de restauration.",
+     "statut": "etabli",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 50.638056,
+   "lon": 3.046944,
+   "url": "https://fr.wikipedia.org/wiki/Parc_zoologique_de_Lille"
+  },
+  {
+   "nom": "Enceinte de Lille",
+   "histoire": "L’enceinte de Lille est un ensemble de fortifications qui protège la ville entre le Moyen Âge et le début du XXe siècle. Elle est assiégée à plusieurs reprises en 1213, fait l’objet de sections en maçonnerie à la fin du XIIIe siècle ou au début du XIVe siècle, puis des modifications sont imposées à partir de 1537. On peut aujourd’hui tenter une reconstitution à partir d’éléments révélés lors de fouilles archéologiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On peut en tenter la reconstitution d’après des éléments plus tardifs datant du XIIIe siècle révélés par des fouilles archéologiques.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 50.631944444444,
+   "lon": 3.0575,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_de_Lille"
+  },
+  {
+   "nom": "Colonne de la Déesse",
+   "histoire": "Monument commémoratif inauguré le 8 octobre 1845 au centre de la Grand’Place de Lille, aujourd’hui place du Général-de-Gaulle. Sa statue et ses choix de conception lient le projet à l’histoire du siège de Lille en 1792.",
+   "anecdotes": [
+    {
+     "texte": "Le socle reprend la réponse du maire de Lille, François André-Bonte, refusant la reddition de la ville assiégée aux Impériaux le 29 septembre 1792.",
+     "statut": "etabli",
+     "sources": [
+      "S51"
+     ]
+    },
+    {
+     "texte": "Le projet a été modifié en 1843 : la statue est désormais prévue au sommet de la colonne.",
+     "statut": "etabli",
+     "sources": [
+      "S52"
+     ]
+    },
+    {
+     "texte": "Théophile Bra, chargé de la partie statuaire sans concours, s’implique fortement dans le projet et entre en conflit à plusieurs reprises avec Charles Benvignat.",
+     "statut": "etabli",
+     "sources": [
+      "S54"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Inaugurée le 8 octobre 1845, la Colonne de la Déesse se trouve au centre de l’actuelle place du Général-de-Gaulle.",
+   "sources": [
+    "S53"
+   ],
+   "lat": 50.6368499,
+   "lon": 3.0634347,
+   "url": "https://fr.wikipedia.org/wiki/Colonne_de_la_D%C3%A9esse"
+  }
+ ],
+ "sources": [
+  "Lille (prononciation : /lil/ ) (Rijsel en néerlandais, Rysel en flamand, Lile en picard), est une ville du Nord de la France. Préfecture du département du Nord et chef-lieu de la région Hauts-de-France, elle est le siège de l'Autorité douanière de l'Union Européenne. Avec 238 246 habitants intra-muros au dernier recensement en 2023, Lille est la dixième commune la plus peuplée de France, mais aussi la principale […]",
+  "Selon une légende élaborée entre les XIe et XVIe siècles dans le contexte de crises successorales à des fins la légitimation de la continuité successorale des Comtes de Flandre, Lille aurait été fondée en 640 par Lydéric. Le site actuel de la ville recèle des traces d’occupation antérieure (préhistoire, époque gallo-romaine, mérovingienne, carolingienne) mais les vestiges retrouvés ne disent rien de l'urbanisation à […]",
+  "640 : Selon une légende élaborée entre les XIe et XVIe siècles dans le contexte de crises successorales à des fins la légitimation de la continuité successorale des Comtes de Flandre, Lille aurait été fondée en 640 par Lydéric.",
+  "XIIe siècle : Une foire au drap est ainsi fondée au XIIe siècle.",
+  "1533 : Dès 1533, deux protestants sont brûlés sur la grand-place et trois autres décapités.",
+  "1603 : La ville s'agrandit par deux extensions successives de l'enceinte, en 1603 au sud-ouest englobant le faubourg du Molinel, en 1617 au nord-est englobant le faubourg des Reignaux et l'emplacement de l'ancien château de Courtrai détruit en 1599.",
+  "1635 : En 1635, la guerre franco-espagnole éclate et les faubourgs de Lille sont ravagés par l'armée française en 1645.",
+  "1845 : Le 8 octobre 1845, est érigée la Colonne de la Déesse commémorant cet événement.",
+  "1903 : Le 4 avril 1903, le grand théâtre de Lille est détruit par un incendie.",
+  "1911 : Le coupable est exécuté le 11 janvier 1911.",
+  "1914 : Pendant la Première Guerre mondiale, la ville est occupée par les Allemands d’octobre 1914 à octobre 1918.",
+  "1927 : Une note d'espoir et de progrès dans le contexte pas toujours évident de l'entre-deux-guerres intervient le 25 juillet 1927 : la station de radiodiffusion de Lille est inaugurée.",
+  "1944 : Après de furieux combats entre Allemands en déroute et Forces françaises de l'intérieur, Lille est libérée le 3 septembre 1944, de nouveau par les Britanniques.",
+  "1970 : Après la Seconde Guerre mondiale, la ville se reconstruit sur ses industries traditionnelles (dont le textile) et doit affronter les crises industrielles à partir des années 1970.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Treille » : La cathédrale Notre-Dame-de-la-Treille de Lille est une cathédrale dans le département français du Nord en région Hauts-de-France.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Treille », 1792 : Après la destruction de la collégiale Saint-Pierre, fortement endommagée lors du siège autrichien de 1792 avant d'être livrée aux démolisseurs, la statue tombe dans l'oubli.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Treille », 1853 : Le projet de son édification, porté par une commission qui réunit des représentants du clergé et de la haute bourgeoisie industrielle créée en 1853 par Charles Kolb-Bernard, véritable chef laïc du catholicisme lillois, répond à un double objectif.",
+  "Lieu « Cathédrale Notre-Dame-de-la-Treille », 1854 : Sa construction, qui s'est étalée sur près de cent cinquante ans, a débuté symboliquement en 1854 par la pose d'une première pierre et le lancement d'un concours international pour la conception d'un édifice inspiré du « gothique de la première moitié du XIIIe siècle ».",
+  "Lieu « Cathédrale Notre-Dame-de-la-Treille », aujourd'hui : De style néogothique, elle est située dans le quartier du Vieux-Lille, à l'emplacement de l'ancienne motte castrale.",
+  "Lieu « Palais des Beaux-Arts de Lille » : Le palais des Beaux-Arts de Lille est un musée municipal d'art et d'antiquités situé place de la République à Lille, dans la région Hauts-de-France.",
+  "Lieu « Palais des Beaux-Arts de Lille », 1775 : L’idée de fonder un musée apparaît à Lille lors de l’ouverture de l’Académie des arts en 1775.",
+  "Lieu « Palais des Beaux-Arts de Lille », 1850 : En 1850, les collections sont déménagées pour les installer dans les locaux du nouvel hôtel de ville construit par Charles Benvignat, place Rihour, qui leur consacre entièrement son deuxième étage.",
+  "Lieu « Palais des Beaux-Arts de Lille », 1892 : La réouverture du musée, en 1892 dans ce nouveau bâtiment, offre l'occasion de regrouper plusieurs collections de peintures, et aussi de sculptures, de dessins, de pièces anciennes et d'objets d'art, jusqu'alors dispersées.",
+  "Lieu « Palais des Beaux-Arts de Lille », aujourd'hui : Tirées d'un fonds de plus de soixante-dix mille œuvres, le musée en propose aujourd'hui près de deux mille à la visite.",
+  "Lieu « Place du Général-de-Gaulle (Lille) » : La place du Général-de-Gaulle est un espace public urbain de la commune de Lille dans le département français du Nord en région Hauts-de-France.",
+  "Lieu « Place du Général-de-Gaulle (Lille) », XIIIe siècle : Jusqu'au XIIIe siècle, le site était occupé par les eaux de la Deûle et par un marais.",
+  "Lieu « Place du Général-de-Gaulle (Lille) », XIVe siècle : Au début du XIVe siècle, on étend de la craie, puis régulièrement des remblais épais pour rehausser le terrain, qui est encore inondé lors des plus grosses crues.",
+  "Lieu « Place du Général-de-Gaulle (Lille) », 1845 : Érigée en 1845, elle représente l'héroïsme des Lillois durant le siège de Lille en 1792.",
+  "Lieu « Place du Général-de-Gaulle (Lille) », aujourd'hui : Elle accueille les nombreux étals des marchands abrités sous des auvents de toile, qu'ils installent à leur guise sans que le Magistrat réussisse à faire respecter les emplacements définis.",
+  "Lieu « Canal de la Moyenne-Deûle » : Le canal de la Moyenne-Deûle ou canal de l'Esplanade est un canal d'environ 2 kilomètres construit à Lille en 1751 permettant une connexion entre la Haute-Deûle (port du Wault) et la Basse-Deûle (ancien port comblé de 1930 à 1953).",
+  "Lieu « Canal de la Moyenne-Deûle », 1670 : Ce deuxième tronçon entre le mur d'enceinte intérieur et les fortifications bastionnées suivait le tracé d’une cunette ou douve creusée dans les remparts construits en 1670 lors de l'agrandissement de la ville par suite de la conquête de la ville par Louis XIV.",
+  "Lieu « Canal de la Moyenne-Deûle », 1751 : Le canal de la Moyenne-Deûle ou canal de l'Esplanade est un canal d'environ 2 kilomètres construit à Lille en 1751 permettant une connexion entre la Haute-Deûle (port du Wault) et la Basse-Deûle (ancien port comblé de 1930 à 1953).",
+  "Lieu « Canal de la Moyenne-Deûle », 1751 : Le canal de la moyenne Deûle fut ouvert en 1751 pour relier par une voie navigable la Haute-Deûle à la Basse-Deûle.",
+  "Lieu « Canal de la Moyenne-Deûle », aujourd'hui : Un second bief (triple seuil de nos jours), également de 6 à 7 pieds de haut conduisait ce petit canal vers la Basse-Deûle.",
+  "Lieu « Musée de l'Hospice Comtesse » : Situé dans le quartier historique du Vieux-Lille, l’Hospice Comtesse, ancien hôpital médiéval fondé en 1237 par la comtesse Jeanne de Flandre (v.",
+  "Lieu « Musée de l'Hospice Comtesse », 1237 : Situé dans le quartier historique du Vieux-Lille, l’Hospice Comtesse, ancien hôpital médiéval fondé en 1237 par la comtesse Jeanne de Flandre (v.",
+  "Lieu « Musée de l'Hospice Comtesse », 1468 : En 1468, un incendie détruit l’hôpital, à l’exception de l’infirmerie.",
+  "Lieu « Musée de l'Hospice Comtesse », 1468 : La reconstruction de la salle des malades (1468-1472) est suivie de la construction du rez-de-chaussée du bâtiment de la communauté (1477-1482).",
+  "Lieu « Musée de l'Hospice Comtesse », aujourd'hui : En parallèle, la menace de disparition des traces du passé lillois en raison du renouveau urbain, incite les archéologues à sauver des vestiges qui trouvent refuge dans la cour, les réserves et les caves de l’Hospice Comtesse.",
+  "Lieu « Parc zoologique de Lille » : Le Parc zoologique de Lille, aussi appelé localement parc zoologique du Bois de Boulogne, est un parc zoologique français situé dans la région des Hauts-de-France, dans le quartier Vauban-Esquermes de la ville de Lille, au pied de la citadelle.",
+  "Lieu « Parc zoologique de Lille », 1962 : Une maison tropicale est construite en 1962, elle accueille des reptiles et un python.",
+  "Lieu « Parc zoologique de Lille », 2005 : C'est durant cette décennie que l'enclos des pandas roux apparaît, ce qui a permis d'accueillir les premiers animaux de cette espèce en 2005, c'est aussi à ces mêmes instants que l'enclos des tortues géantes d'Aldabra fût construit.",
+  "Lieu « Parc zoologique de Lille », 2018 : Le zoo dispose, en son sein, de services de restauration (proposant plusieurs sucreries) par la Cabane gourmande, ouverte depuis le 1er mai 2018.",
+  "Lieu « Parc zoologique de Lille », aujourd'hui : Deux années plus tard, en 2019, il reste dans le top 10 des zoos les plus visités de France.",
+  "Lieu « Enceinte de Lille » : L'enceinte de Lille est un ensemble de fortifications qui protégeait la ville de Lille entre le Moyen Âge et le début du XXe siècle. .",
+  "Lieu « Enceinte de Lille », 1213 : En 1213, le roi de France Philippe Auguste entre en guerre contre le comte de Flandre Ferrand, la ville de Lille est assiégée plusieurs fois au cours de l'année.",
+  "Lieu « Enceinte de Lille », 1318 : À la fin du XIIIe siècle ou au début du XIVe siècle deux sections sont néanmoins réalisées en maçonnerie : la première entre les portes de Fives et Saint-Sauveur (attestée en 1318) et l'autre entre la porte du Molinel et la tour Rihour (construite au cours de l'année 1338).",
+  "Lieu « Enceinte de Lille », 1537 : À nouveau en guerre avec la France à partir de 1537, divers modifications sont entreprises, il est interdit de bâtir dans un rayon de 1 400 pieds (427 mètres) autour de l'enceinte, des modifications sont faites aux portes Saint-Sauveur et de la Barre.",
+  "Lieu « Enceinte de Lille », aujourd'hui : Cependant, on peut en tenter la reconstitution d'après des éléments plus tardifs datant du XIIIe siècle révélés par des fouilles archéologiques, ancienne tour Isembart à l’angle de la rue des Trois Molettes et de la rue de Weppes, tronçons rue du Pont-Neuf à l’emplacement de l’ancienne filature Vrau et à l'angle de la rue Pharaon de Winter et de la rue d'Angleterre.",
+  "Lieu « Colonne de la Déesse » : La colonne de la déesse est un monument commémoratif, inauguré le 8 octobre 1845, au centre de la Grand'Place de Lille, aujourd'hui place du Général-de-Gaulle, dans le département français du Nord en région Hauts-de-France.",
+  "Lieu « Colonne de la Déesse », 1792 : Elle tient dans sa main droite un boutefeu, servant à allumer la mèche des canons, et montre de la gauche l'inscription du socle qui reprend la réponse du maire de Lille, François André-Bonte, refusant la reddition de la ville assiégée aux Impériaux, le 29 septembre 1792.",
+  "Lieu « Colonne de la Déesse », 1843 : En 1843, le projet est modifié, la statue étant maintenant prévue au sommet de la colonne, changement exigé par le Conseil des Bâtiments Civils.",
+  "Lieu « Colonne de la Déesse », 1845 : La colonne de la déesse est un monument commémoratif, inauguré le 8 octobre 1845, au centre de la Grand'Place de Lille, aujourd'hui place du Général-de-Gaulle, dans le département français du Nord en région Hauts-de-France.",
+  "Lieu « Colonne de la Déesse », aujourd'hui : La partie statuaire est confiée sans concours à Théophile Bra qui s'implique fortement dans le projet, et entre en conflit plusieurs fois avec Charles Benvignat sur la conception du monument, par exemple sur l'emplacement du monument, Théophile Bra souhaitant qu'il soit implanté place du Concert."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}

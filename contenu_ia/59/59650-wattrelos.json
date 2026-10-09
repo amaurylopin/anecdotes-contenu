@@ -1,0 +1,294 @@
+{
+ "commune": {
+  "titre": "Wattrelos",
+  "code_insee": "59650",
+  "departement": "59",
+  "population": 40847,
+  "lat": 50.7125,
+  "lon": 3.2159,
+  "url": "https://fr.wikipedia.org/wiki/Wattrelos"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:40:27",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2899,
+  "sortie": 1830
+ },
+ "cout_usd": 0.002867,
+ "accroche": "À Wattrelos, le nom de Waterlos apparaît sur un document vers 1030, avant que les terres ne passent ensuite à l’abbaye gantoise de Saint-Bavon.",
+ "histoire": {
+  "recit": "Wattrelos, commune limitrophe de la Belgique, a connu plusieurs bascules de pouvoir et a vu, très tôt, l’activité agricole se compléter par l’artisanat textile. Au tournant des XIXe et XXe siècles, l’afflux de populations change l’allure de la commune : on construit des églises pour suivre les nouveaux arrivants, tandis que les quartiers se lotissent et que l’industrie marque durablement les paysages. La guerre de 1914-1918 apporte aussi son lot d’occupation. Plus tard, certains lieux s’éteignent ou se transforment : l’ancien stade finit en terrain vague, et des édifices religieux cessent d’être entretenus quand les ressources manquent. Aujourd’hui, la friche du site PCUK, autrefois liée aux produits chimiques, a été renaturée et ouverte partiellement au public.",
+  "chronologie": [
+   {
+    "date": "vers 1030",
+    "texte": "Le nom de Waterlos apparaît sur un document ; le seigneur Allowyn abandonne alors ses biens, dont Wattrelos, à l’abbaye gantoise de Saint-Bavon après sa conversion.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Sur les terres de Wattrelos, l’artisanat du textile s’ajoute aux activités agricoles.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1905",
+    "texte": "Fermeture de l’usine chimique Kuhlmann construite en 1905, laissant comme souvenir les « monts Kuhlmann ».",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1905",
+    "texte": "L’église Saint-Maclou fait partie de la paroisse de Wattrelos : certaines églises appartiennent à la municipalité parce qu’elles ont été construites avant la loi de 1905.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1909",
+    "texte": "L’église du nouveau quartier de Beaulieu est construite en 1909.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "La ville est occupée par les troupes allemandes durant 1914-1918.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "après-guerre à années 1970",
+    "texte": "Des lotissements sont construits, notamment les cités de la Martinoire et de la Mousserie, puis la ZUP de Beaulieu.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade Amédée-Prouvost",
+   "histoire": "Stade ancien construit entre 1923 et 1927, officiellement inauguré en septembre 1927, puis doté d’un pavillon des sports en 1928.",
+   "anecdotes": [
+    {
+     "texte": "En 2011, il ne reste à la place du stade qu’un terrain vague.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "À l’inauguration de septembre 1927, le stade est présenté comme une des plus belles enceintes de la région.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 50.704466,
+   "lon": 3.195299,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Am%C3%A9d%C3%A9e-Prouvost"
+  },
+  {
+   "nom": "Église Saint-Maclou de Wattrelos",
+   "histoire": "L’église Saint-Maclou remplace une église dédiée à la sainte Trinité à moitié détruite en 1556, rénovée en 1621 ; une nouvelle église dédiée à saint Maclou est ensuite construite en 1877-1882 par Charles Maillard.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 50.701913914706,
+   "lon": 3.2144655662968,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maclou_de_Wattrelos"
+  },
+  {
+   "nom": "Église Notre-Dame-du-Bon-Conseil de Wattrelos",
+   "histoire": "Construite en 1909 pour desservir le quartier de Beaulieu, l’église est ensuite confrontée à des problèmes d’entretien à la fin du XXe siècle et est démolie en 2012.",
+   "anecdotes": [
+    {
+     "texte": "En 1909, l’église est bâtie pour répondre à l’afflux de populations des campagnes du Nord employées dans l’industrie en pleine croissance.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Dès la fin du XXe siècle, le diocèse de Lille ne dispose pas des moyens pour restaurer l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "L’église doit être démolie en 2012 à cause de la baisse de la pratique catholique et du manque de ressources du diocèse, propriétaire.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S26"
+   ],
+   "lat": 50.704166666667,
+   "lon": 3.2409722222222,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-du-Bon-Conseil_de_Wattrelos"
+  },
+  {
+   "nom": "Gare de Wattrelos",
+   "histoire": "Le site de la gare est décidé en 1893, la construction se fait en 1897 et le bâtiment voyageurs connaît ensuite plusieurs reconversions avant de devenir, à partir de 1986, un conservatoire de musique municipal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 50.702982,
+   "lon": 3.213479,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Wattrelos"
+  },
+  {
+   "nom": "Beaulieu (Wattrelos)",
+   "histoire": "Beaulieu est un ancien village devenu quartier de Wattrelos, situé juste à la frontière avec la Belgique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 50.70417,
+   "lon": 3.23833,
+   "url": "https://fr.wikipedia.org/wiki/Beaulieu_%28Wattrelos%29"
+  },
+  {
+   "nom": "Église Saint-Gérard de Wattrelos",
+   "histoire": "L’église Saint-Gérard est désacralisée depuis le 14 avril 2014, après une fermeture en février 2012 décidée par l’évêque de Lille ; elle est ensuite cédée en 2017 pour un projet de « cité de l’artisanat ».",
+   "anecdotes": [
+    {
+     "texte": "En février 2012, l’évêque de Lille ferme l’église faute de moyens, puis elle est désacralisée en 2014.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "En 2017, l’église est cédée pour un euro symbolique en vue d’en faire une « cité de l’artisanat ».",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 50.72287,
+   "lon": 3.18577,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-G%C3%A9rard_de_Wattrelos"
+  },
+  {
+   "nom": "Église Sainte-Thérèse-de-l'Enfant-Jésus de Wattrelos",
+   "histoire": "L’église Sainte-Thérèse-de-l’Enfant-Jésus est édifiée en 1927 par l’architecte Charles Bourgeois et inscrite au titre des monuments historiques en 2005.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 50.6988,
+   "lon": 3.20398,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Th%C3%A9r%C3%A8se-de-l%27Enfant-J%C3%A9sus_de_Wattrelos"
+  },
+  {
+   "nom": "Site PCUK",
+   "histoire": "Le site PCUK, ancienne friche industrielle liée aux produits chimiques Ugine Kuhlmann, est une zone renaturée sur le territoire de Wattrelos et Leers ; il est partiellement ouvert au public en 2012.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34"
+   ],
+   "lat": 50.6935,
+   "lon": 3.2161,
+   "url": "https://fr.wikipedia.org/wiki/Site_PCUK"
+  }
+ ],
+ "sources": [
+  "Wattrelos [watʁəlo] est une commune française de 40 847 habitants au dernier recensement de 2023, située dans le département du Nord, en région Hauts-de-France. Limitrophe de la Belgique, Wattrelos fait partie de la Métropole européenne de Lille. Wattrelos et ses alentours ont appartenu au comté de Flandre, au royaume de France, aux Pays-Bas espagnols et aux Pays-Bas méridionaux (en latin Belgica Regia). Ses […]",
+  "Le nom de Waterlos apparaît sur un document vers 1030 (XIe siècle) ; d'abord propriété d'un riche et puissant seigneur nommé Allowyn, celui-ci abandonne, lors de sa conversion, tous ses biens dont Wattrelos, à l'abbaye gantoise de Saint-Bavon. Au XIVe siècle, Wattrelos voit apparaître sur ses terres les artisanats du textile en complément des activités agricoles. Plus d’une quarantaine de seigneuries et fiefs […]",
+  "1905 : Dans les années 70-80, fermeture de l’usine chimique Kuhlmann construite en 1905, laissant comme souvenir les « monts Kuhlmann », terrils de résidus chimiques, point culminant de la ville.",
+  "1909 : L'église du nouveau quartier de Beaulieu est construite en 1909.",
+  "1914 : La ville est occupée par les troupes allemandes en 1914-1918.",
+  "1970 : Parallèlement, plusieurs lotissements seront construits de l'après-guerre aux années 1970 : Les cités de la Martinoire, de la Mousserie, au Nord-Ouest de la commune et la ZUP de Beaulieu à l'Est.",
+  "Lieu « Stade Amédée-Prouvost » : Le stade Amédée-Prouvost est un ancien stade situé à Wattrelos, dans le département du Nord, construit entre 1923 et 1927.",
+  "Lieu « Stade Amédée-Prouvost », 1923 : Le stade Amédée-Prouvost est un ancien stade situé à Wattrelos, dans le département du Nord, construit entre 1923 et 1927.",
+  "Lieu « Stade Amédée-Prouvost », 1927 : Inauguré officiellement en septembre 1927, le stade Amédée-Prouvost passe alors pour l'une des plus belles enceintes de la région.",
+  "Lieu « Stade Amédée-Prouvost », 1928 : En 1928 lui est ajouté le pavillon des sports, construit par Albert Bouvy fils, architecte à Roubaix.",
+  "Lieu « Stade Amédée-Prouvost », aujourd'hui : En 2011, il ne reste à la place du stade qu'un terrain vague.",
+  "Lieu « Église Saint-Maclou de Wattrelos » : L'église Saint-Maclou est une église catholique de Wattrelos dans le département du Nord.",
+  "Lieu « Église Saint-Maclou de Wattrelos », 1556 : Elle remplace une ancienne église dédiée à la sainte Trinité à moitié détruite en 1556, pendant la Journée des Gueux, par un incendie et rénovée en 1621.",
+  "Lieu « Église Saint-Maclou de Wattrelos », 1877 : Cette église dédiée à saint Maclou (saint Malo) a été construite en 1877-1882 par l'architecte tourquennois Charles Maillard.",
+  "Lieu « Église Saint-Maclou de Wattrelos », 1905 : C'est l'une des quatre églises de l'unique paroisse de Wattrelos, deux d'entre elles (Saint-Maclou et Saint-Vincent-de-Paul) appartenant à la municipalité, puisque construites avant la loi de 1905.",
+  "Lieu « Église Notre-Dame-du-Bon-Conseil de Wattrelos » : L'église Notre-Dame-du-Bon-Conseil est un ancien édifice religieux catholique français de Wattrelos dans le département du Nord.",
+  "Lieu « Église Notre-Dame-du-Bon-Conseil de Wattrelos », 1909 : Construite en 1909 et démolie en 2012, elle desservait le quartier de Beaulieu.",
+  "Lieu « Église Notre-Dame-du-Bon-Conseil de Wattrelos », 1909 : Cette église de briques néogothique d'une élégance fort simple, dédiée à Notre Dame du Bon Conseil, a été construite en 1909 afin de répondre à l'afflux de populations des campagnes du Nord engagées dans l'industrie en pleine croissance à cette époque.",
+  "Lieu « Église Notre-Dame-du-Bon-Conseil de Wattrelos », XXe siècle : À la fin du XXe siècle, l'église connaît des problèmes d'entretien et le diocèse de Lille qui est propriétaire de l'édifice n'a pas les moyens de la faire restaurer.",
+  "Lieu « Gare de Wattrelos » : La gare de Wattrelos est une gare ferroviaire française fermée de la ligne de Roubaix - Wattrelos à Wattrelos, située sur le territoire de la commune de Wattrelos dans le département du Nord, en région Hauts-de-France.",
+  "Lieu « Gare de Wattrelos », 1893 : Le site où édifier cette gare est décidé en 1893.",
+  "Lieu « Gare de Wattrelos », 1897 : La construction de la gare de Wattrelos s'effectue en 1897, l'édifice s'inspirant de la gare de Seclin.",
+  "Lieu « Gare de Wattrelos », 1986 : Le bâtiment voyageurs, d'abord reconverti centre médico-scolaire, est devenu successivement un lycée, une école élémentaire puis à partir de 1986 le conservatoire de musique municipal.",
+  "Lieu « Beaulieu (Wattrelos) » : Beaulieu est un ancien village devenu quartier de la commune de Wattrelos dans le département du Nord, juste à la frontière avec la Belgique.",
+  "Lieu « Beaulieu (Wattrelos) », 1909 : Avec l'afflux de population rurale étant employée dans les usines locales au tournant du XIXe siècle et du XXe siècle, l'agglomération de Wattrelos s'étend jusqu'ici et une église est construite en 1909 pour desservir les nouveaux arrivants.",
+  "Lieu « Beaulieu (Wattrelos) », 2012 : Cette église Notre-Dame-du-Bon-Conseil a dû être démolie en 2012 à cause de la baisse de la pratique catholique dans le Nord et conséquemment du manque de ressources du diocèse de Lille, propriétaire de l'édifice, qui ne voulait plus l'entretenir.",
+  "Lieu « Église Saint-Gérard de Wattrelos » : L'église Saint-Gérard est une ancienne église catholique de Wattrelos dans le département du Nord, désacralisée depuis le 14 avril 2014.",
+  "Lieu « Église Saint-Gérard de Wattrelos », 2012 : À cause de la baisse de la pratique religieuse dans le département du Nord et, en conséquence, du manque de ressources du diocèse, l'évêque de Lille a fermé l'église en février 2012 et elle a été désacralisée en 2014.",
+  "Lieu « Église Saint-Gérard de Wattrelos », 2017 : L'église a été cédée en 2017 par le diocèse de Lille pour un euro symbolique à une société civile immobilière propriétaire de l'ancienne église Saint-Louis de Tourcoing pour en faire ici aussi une « cité de l'artisanat », c'est-à-dire un lieu d'apprentissage des métiers du bâtiment pour des jeunes ayant décroché scolairement.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Wattrelos » : L'église Sainte-Thérèse-de-l'Enfant-Jésus (picard : église Sainte-Thérèse-éd-l'Éfant-Jésus) est une église catholique située dans le quartier du Laboureur à Wattrelos, en France.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Wattrelos », 1927 : L'église est édifiée en 1927 par l'architecte Charles Bourgeois, peu après la canonisation de sainte Thérèse de Lisieux.",
+  "Lieu « Église Sainte-Thérèse-de-l'Enfant-Jésus de Wattrelos », 2005 : L'édifice est inscrit au titre des monuments historiques en 2005.",
+  "Lieu « Site PCUK » : Le site PCUK (Produits Chimiques Ugine Kuhlmann) est une ancienne friche industrielle renaturée située dans la Métropole européenne de Lille dans les Hauts-de-France, sur le territoire des communes de Wattrelos et Leers.",
+  "Lieu « Site PCUK », 2012 : Partiellement ouvert au public en 2012, il s’étend sur une surface de 47 hectares."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}

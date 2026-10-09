@@ -1,0 +1,260 @@
+{
+ "commune": {
+  "titre": "Douai",
+  "code_insee": "59178",
+  "departement": "59",
+  "population": 40250,
+  "lat": 50.3785,
+  "lon": 3.1004,
+  "url": "https://fr.wikipedia.org/wiki/Douai"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:41:04",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3803,
+  "sortie": 2352
+ },
+ "cout_usd": 0.003701,
+ "accroche": "En octobre 1568, le collège d’Anchin ouvre ses portes à Douai dans des bâtiments provisoires près du refuge de l’abbaye d’Anchin.",
+ "histoire": {
+  "recit": "Douai naît d’une position de passage, sur un îlot de la Scarpe, près d’un gué qui permettait le franchissement, et se développe par deux noyaux. La ville connaît ensuite une longue suite de transformations : sous le régime impérial, elle devient sous-préfecture et reçoit plusieurs institutions, puis l’essor minier l’entraîne vers de nouvelles ouvertures, des fosses à l’école des maîtres ouvriers mineurs. La guerre marque un tournant : en octobre 1918, les troupes allemandes quittent Douai tandis que la ville a été évacuée vers la Belgique, et elle est ensuite investie par les troupes britanniques dans un centre touché. Pendant la Seconde Guerre mondiale, une cour de justice spéciale s’y installe pour juger des crimes « terroristes ». Aujourd’hui encore, certains lieux gardent la trace de ces époques : anciennes structures minières, bâtiments d’enseignement, et vestiges réinventés en jardins ou musées.",
+  "chronologie": [
+   {
+    "date": "1802",
+    "texte": "La ville accueille un lycée impérial.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1803",
+    "texte": "Après le déplacement de la cour à Lille, Douai devient sous-préfecture et reçoit en compensation plusieurs institutions départementales.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1854",
+    "texte": "Ouverture de la fosse Gayant à Waziers.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "Ouverture de la fosse de Dorignies.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "Fondation de l’école des maîtres ouvriers mineurs, future École des Mines de Douai.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1918 (octobre)",
+    "texte": "Les troupes allemandes quittent Douai, alors que toute la population a été évacuée vers la Belgique le mois précédent.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1918 (octobre)",
+    "texte": "Les troupes britanniques investissent une ville détruite à 10 %, notamment autour de la place d’Armes.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1941 (11 septembre)",
+    "texte": "La cour de justice spéciale pour les crimes « terroristes » tient sa première séance.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1941",
+    "texte": "Une cour de justice spéciale est installée à Douai pour juger des crimes dits « terroristes ».",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse no 5 des mines de l'Escarpelle",
+   "histoire": "La fosse no 5 de la Compagnie des mines de l'Escarpelle est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais situé à Douai. Un chevalement métallique y est installé en 1909 ; l’exploitation a lieu à 683 mètres. Elle cesse d’assurer le service en 1960, l’aérage en 1970, puis le puits est remblayé et les installations détruites. Au début du XXIe siècle, subsistent notamment des bâtiments annexes, les corons et des habitations construites après la Nationalisation, avec encore des bains-douches ouvriers, ateliers-magasins, salle des compresseurs et bureaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Bains-douches ouvriers, ateliers-magasins, salle des compresseurs et bureaux subsistent.",
+   "sources": [
+    "S15",
+    "S14"
+   ],
+   "lat": 50.392031,
+   "lon": 3.089225,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_5_des_mines_de_l%27Escarpelle"
+  },
+  {
+   "nom": "Hôpital général de Douai",
+   "histoire": "L’hôpital général de Douai est d’abord un lieu de renfermement des pauvres. L’établissement de Charité est fondé par lettres-patentes de Louis XV datées de juin 1752, et ses infirmeries sont construites à partir de 1788. En 1946, le bâtiment fait l’objet d’une inscription au titre des monuments historiques. Il se trouve dans l’emprise entre plusieurs rues indiquées, sur l’emplacement de la ferme des Chartriers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il se situe dans l’emprise entre les rues du Canteleu, Charles-Merlin, du Président-Wagon et l’avenue du Maréchal-Leclerc.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 50.36777778,
+   "lon": 3.08638889,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_g%C3%A9n%C3%A9ral_de_Douai"
+  },
+  {
+   "nom": "Collège d'Anchin (Douai)",
+   "histoire": "Le collège d’Anchin est fondé en 1568 à Douai, dans le comté de Flandre, alors possédé par le roi d’Espagne Philippe II. Avant l’ouverture, les autorités municipales souhaitent attirer à Douai la compagnie de Jésus, qui accorde une grande importance à l’enseignement. Malgré une crise de dernière minute avec l’université, le collège ouvre en octobre 1568 dans des bâtiments provisoires près du refuge de l’abbaye d’Anchin. Aujourd’hui, c’est le lycée Albert-Châtelet.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "C’est aujourd’hui le lycée Albert-Châtelet.",
+   "sources": [
+    "S25"
+   ],
+   "lat": 50.3734,
+   "lon": 3.0838,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_d%27Anchin_%28Douai%29"
+  },
+  {
+   "nom": "Théâtre à l'italienne de Douai",
+   "histoire": "Le théâtre de Douai est un théâtre à l’italienne situé dans la rue de la Comédie. Il est construit à partir de 1783 et ouvre le 4 décembre 1785. Il a notamment accueilli la représentation de la statue de Marceline Desbordes-Valmore créée par Édouard Houssin, inaugurée le 13 juillet 1896. Après des travaux pour des mises aux normes incendies, il est rouvert en 2007 pour sa 222e saison. Il ne subsiste que trois autres théâtres de ce type dans la région, tous datant des XVIIIe et XIXe siècles.",
+   "anecdotes": [
+    {
+     "texte": "On y représente notamment la statue de Marceline Desbordes-Valmore, créée par Édouard Houssin et inaugurée le 13 juillet 1896.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne subsiste que trois autres théâtres de ce type dans la Région Nord-Pas-de-Calais (Cambrai, Arras, Saint-Omer).",
+   "sources": [
+    "S30"
+   ],
+   "lat": 50.3663,
+   "lon": 3.0791,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_%C3%A0_l%27italienne_de_Douai"
+  },
+  {
+   "nom": "Collégiale Saint-Pierre de Douai",
+   "histoire": "La collégiale Saint-Pierre de Douai est une ancienne collégiale, l’une des rares villes ayant eu deux collégiales avec la collégiale Saint-Amé. La paroisse érigée en collégiale, sans doute en 1113, est placée sous la juridiction des paroisses de la rive droite de la Scarpe. La collégiale précédente, menaçant ruine, est interdite au culte puis démolie en 1734. L’édifice est décrit comme remarquable par son harmonie et son style classique, avec de nombreux tableaux et des sculptures en marbre. Une tour carrée rattachée à un autre édifice est ensuite remplacée par la collégiale construite de 1735 à 1750.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 50.37028,
+   "lon": 3.08139,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Pierre_de_Douai"
+  },
+  {
+   "nom": "Collégiale Saint-Amé",
+   "histoire": "La collégiale Saint-Amé est une ancienne collégiale située à Douai. Saint-Maurand meurt en 701 ou 702 à l’abbaye de Marchiennes, fondée par sa mère Rictrude de Marchiennes. La collégiale Saint-Amé est le premier lieu de culte référencé dans les annales de Douai, érigée vers 950 sur ordre du comte Arnoul Ier de Flandre. En 1798, elle est vendue et démolie. Aujourd’hui, seuls des vestiges archéologiques subsistent sous la place Saint-Amé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seuls subsistent des vestiges archéologiques sous la place Saint-Amé à Douai.",
+   "sources": [
+    "S40"
+   ],
+   "lat": 50.3689,
+   "lon": 3.07528,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Am%C3%A9"
+  },
+  {
+   "nom": "Fonderie de canons de Douai",
+   "histoire": "L’histoire de la fonderie de canons de Douai commence au XIe siècle par la construction d’un donjon du comte de Flandre ; il en subsiste le puits. Au XVIIe siècle, le site devient un arsenal puis une fonderie de canons, et c’est désormais un jardin. L’édifice est édifié en 1669 sur l’emplacement de l’ancien château des comtes de Flandre. En 1679, une première école d’officiers d’artillerie est créée près des bâtiments de l’université de Douai. En 1987, le site revit grâce à la restauration de l’enceinte ; en 1988-1989, une résidence pour personnes âgées est construite, puis le jardin public de la Fonderie est inauguré en mars 1990.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site est devenu un jardin et un jardin public y est inauguré en mars 1990.",
+   "sources": [
+    "S45",
+    "S44"
+   ],
+   "lat": 50.368194,
+   "lon": 3.074921,
+   "url": "https://fr.wikipedia.org/wiki/Fonderie_de_canons_de_Douai"
+  },
+  {
+   "nom": "Musée archéologique Arkéos",
+   "histoire": "Le musée-parc archéologique Arkéos se situe sur le territoire des communes de Douai et Râches, sur la rive droite de la Scarpe. La section archéologique du musée de la Chartreuse ferme en 2010 et les collections sont mises en dépôt. Les travaux commencent en octobre 2012, avec une ouverture prévue pour mai/juin 2014, et une seconde tranche inclut des premiers bâtiments reconstruits à l’automne 2014. Le site est ensuite décrit à travers le déroulé des acteurs lauréats du concours.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S46"
+   ],
+   "lat": 50.409206,
+   "lon": 3.129909,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_arch%C3%A9ologique_Ark%C3%A9os"
+  }
+ ],
+ "sources": [
+  "Douai est une commune française située dans le département du Nord en région Hauts-de-France, plus précisément dans le sud de la Flandre romane. Au cours de son histoire, elle a appartenu successivement au royaume de France, aux Pays-Bas espagnols et aux Pays-Bas méridionaux (en latin Belgica Regia). Avec Lille et les cités de l'ancien bassin minier du Nord-Pas-de-Calais, elle forme un ensemble métropolitain de près […]",
+  "Douai est une création médiévale découlant de conditions naturelles singulières mais surtout de sa position de charnière entre le royaume de France et le comté de Flandre. Sur un ilot de la Scarpe, près du gué qui permettait le franchissement, deux noyaux constituèrent les points de développement de la ville. La période médiévale fut pour Douai une période de grande prospérité découlant de ses activités commerciales […]",
+  "1803 : Mais en 1803, ce dernier déplacé à Lille, la ville devient sous-préfecture mais reçoit en compensation plusieurs institutions départementales : la cour d'appel, le commandement militaire du Nord, le lycée impérial en 1802 et enfin en 1808, quand l'enseignement supérieur est réorganisé, une université (facultés des lettres et des sciences).",
+  "1854 : En 1854, est ouverte la fosse Gayant à Waziers puis celle de Dorignies en 1858.",
+  "1878 : En 1878, afin d'accompagner ce développement, est fondée l'école des maîtres ouvriers mineurs, future École des Mines de Douai.",
+  "1914 : Dès lors, Douai est nouvelle fois occupée avec deux différences notables avec la Grande Guerre : si le ravitaillement est moins difficile car il n'y a pas, comme en 1914, de front militaire à proximité, il existe, au-delà de l'occupation militaire, une volonté d'imposer à la population l'idéologie nazie.",
+  "1918 : En octobre 1918, pressés par l'offensive alliée, les troupes allemandes quittent Douai sachant que le mois précédent, toute la population avait été évacuée vers la Belgique afin de laisser les coudées franches aux armées en guerre.",
+  "1918 : C'est une ville détruite à 10 % (concentrés dans le centre, ainsi la place d'Armes) qu'investissent les troupes britanniques en octobre 1918.",
+  "1925 : Les mines retrouvent leur résultat d'avant-guerre en 1925 tandis que les grandes entreprises, reconstruites à neuf (Breguet et Arbel) connaissent une forte croissance[réf. nécessaire].",
+  "1941 : Pendant la guerre, est installée à Douai une cour de justice spéciale pour juger les crimes dits « terroristes », elle tient sa première séance le 11 septembre 1941.",
+  "Lieu « Fosse no 5 des mines de l'Escarpelle » : La fosse no 5 de la Compagnie des mines de l'Escarpelle est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Douai.",
+  "Lieu « Fosse no 5 des mines de l'Escarpelle », 1909 : Un chevalement métallique est installé en 1909. l'exploitation a alors lieu à 683 mètres.",
+  "Lieu « Fosse no 5 des mines de l'Escarpelle », 1960 : Elle cesse d'assurer le service en 1960, et l'aérage en 1970, date à laquelle le puits est remblayé, et les installations détruites.",
+  "Lieu « Fosse no 5 des mines de l'Escarpelle », XXIe siècle : Au début du XXIe siècle, il subsiste encore sur le carreau de fosse les bâtiments annexes, ainsi que les corons, et les habitations construites après la Nationalisation.",
+  "Lieu « Fosse no 5 des mines de l'Escarpelle », aujourd'hui : Ainsi, il reste les bains-douches ouvriers, les ateliers-magasins, la salle des compresseurs et les bureaux.",
+  "Lieu « Hôpital général de Douai » : L'hôpital général de Douai n'a jamais eu de fonction médicale sous l'Ancien Régime, mais fut le lieu de renfermement des pauvres.",
+  "Lieu « Hôpital général de Douai », 1752 : Cet établissement de Charité est fondé par lettres-patentes de Louis XV datées de juin 1752.",
+  "Lieu « Hôpital général de Douai », 1788 : Les infirmeries à droite et à gauche de l'entrée de la rue du Canteleu ont été construites à partir de 1788.",
+  "Lieu « Hôpital général de Douai », 1946 : Le bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 1er avril 1946.",
+  "Lieu « Hôpital général de Douai », aujourd'hui : L'hôpital général a été construit sur l'emplacement de la ferme des Chartriers et se situe dans l'emprise entre les rues du Canteleu, Charles-Merlin, du Président-Wagon et l'avenue du Maréchal-Leclerc.",
+  "Lieu « Collège d'Anchin (Douai) » : Le collège d’Anchin est un collège fondé en 1568 à Douai, ville du comté de Flandre, une des dix-sept provinces des Pays-Bas des Habsbourg, alors possédées par le roi d'Espagne Philippe II.",
+  "Lieu « Collège d'Anchin (Douai) », 1540 : Les autorités municipales souhaitent attirer à Douai la compagnie de Jésus, ordre fondé en 1540 par Ignace de Loyola afin de combattre le protestantisme et qui accorde une grande importance à l'enseignement.",
+  "Lieu « Collège d'Anchin (Douai) », 1568 : Le collège d’Anchin est un collège fondé en 1568 à Douai, ville du comté de Flandre, une des dix-sept provinces des Pays-Bas des Habsbourg, alors possédées par le roi d'Espagne Philippe II.",
+  "Lieu « Collège d'Anchin (Douai) », 1568 : Malgré une crise de dernière minute avec l’université[réf. nécessaire], le collège ouvre ses portes en octobre 1568 dans des bâtiments provisoires situés près du refuge que l’abbaye d’Anchin possède à Douai.",
+  "Lieu « Collège d'Anchin (Douai) », aujourd'hui : C'est aujourd’hui le lycée Albert-Châtelet.",
+  "Lieu « Théâtre à l'italienne de Douai » : Le théâtre de Douai est un théâtre à l'italienne situé dans la rue de la Comédie, à Douai en France, qui a été construit à partir de 1783 et qui a ouvert le 4 décembre 1785.",
+  "Lieu « Théâtre à l'italienne de Douai », 1783 : Le théâtre de Douai est un théâtre à l'italienne situé dans la rue de la Comédie, à Douai en France, qui a été construit à partir de 1783 et qui a ouvert le 4 décembre 1785.",
+  "Lieu « Théâtre à l'italienne de Douai », 1896 : Il y représente notamment la statue de Marceline Desbordes-Valmore créée par Édouard Houssin et inaugurée le 13 juillet 1896.",
+  "Lieu « Théâtre à l'italienne de Douai », 2007 : En 2007, après deux années de travaux, notamment pour des mises aux normes incendies, il est rouvert pour sa 222e saison.",
+  "Lieu « Théâtre à l'italienne de Douai », aujourd'hui : Il ne subsiste que trois autres théâtres de ce type dans la Région Nord-Pas-de-Calais, ceux de Cambrai, d'Arras et de Saint-Omer, datant des XVIIIe siècle et XIXe siècle.",
+  "Lieu « Collégiale Saint-Pierre de Douai » : La collégiale Saint-Pierre de Douai est une ancienne collégiale située à Douai, qui est l'une des rares villes à avoir eu deux collégiales avec la collégiale Saint-Amé.",
+  "Lieu « Collégiale Saint-Pierre de Douai », 1113 : Ancienne église paroissiale érigée en collégiale sans doute en 1113 par le comte de Flandre Baudouin VII surnommé à la Hache, elle a sous sa juridiction l'ensemble des paroisses de la rive droite de la Scarpe.",
+  "Lieu « Collégiale Saint-Pierre de Douai », 1734 : L'église précédente, menaçant ruine, fut interdite au culte et démolie en 1734.",
+  "Lieu « Collégiale Saint-Pierre de Douai », XVIIIe siècle : Cet édifice est tout à fait remarquable pour l'harmonie qu'il inspire et s'inscrit dans le style classique, il contient de nombreux tableaux de l'école française du XVIIIe siècle, un retable du début du XVIIe siècle et des sculptures en marbre des XVIIe et XVIIIe siècles.",
+  "Lieu « Collégiale Saint-Pierre de Douai », aujourd'hui : La tour carré était rattachée à un autre édifice qui a été remplacé par la collégiale construite de 1735 à 1750.",
+  "Lieu « Collégiale Saint-Amé » : La collégiale Saint-Amé est une ancienne collégiale située à Douai.",
+  "Lieu « Collégiale Saint-Amé », 701 : Saint-Maurand meurt en 701 ou 702 à l'abbaye de Marchiennes, fondée par sa mère Rictrude de Marchiennes (Sainte-Rictrude).",
+  "Lieu « Collégiale Saint-Amé », 950 : La collégiale est le premier lieu de culte référencé dans les annales de Douai, érigée vers 950 sur ordre du comte Arnoul Ier de Flandre.",
+  "Lieu « Collégiale Saint-Amé », 1798 : La collégiale a été vendue et démolie en 1798.",
+  "Lieu « Collégiale Saint-Amé », aujourd'hui : Seuls subsistent des vestiges archéologiques sous la place Saint-Amé à Douai.",
+  "Lieu « Fonderie de canons de Douai » : La Fonderie de canons de Douai est un lieu dont l'histoire débute au XIe siècle par la construction d'un donjon du comte de Flandre dont il subsiste le puits pour devenir au XVIIe siècle un arsenal puis une fonderie de canons, et désormais un jardin.",
+  "Lieu « Fonderie de canons de Douai », 1669 : Cette dernière est édifiée en 1669 sur l'emplacement de l'ancien château des comtes de Flandre.",
+  "Lieu « Fonderie de canons de Douai », 1679 : La première école d'officiers d'artillerie est créée en 1679 par le roi Louis XIV, près des bâtiments de l'université de Douai.",
+  "Lieu « Fonderie de canons de Douai », 1987 : En 1987, le site revit grâce à la restauration de l'enceinte de la fonderie de canons, puis en 1988-1989 une grande résidence pour personnes âgées y est construite et, pour finir, en mars 1990, le jardin public de la Fonderie est inauguré.",
+  "Lieu « Fonderie de canons de Douai », aujourd'hui : La Fonderie de canons de Douai est un lieu dont l'histoire débute au XIe siècle par la construction d'un donjon du comte de Flandre dont il subsiste le puits pour devenir au XVIIe siècle un arsenal puis une fonderie de canons, et désormais un jardin.",
+  "Lieu « Musée archéologique Arkéos » : Le musée-parc archéologique Arkéos se situe sur le territoire des communes de Douai et Râches, sur la rive droite de la Scarpe.",
+  "Lieu « Musée archéologique Arkéos », 2010 : La section archéologique du musée de la Chartreuse a fermé ses portes en 2010 et les collections ont été mises en dépôt, par la ville de Douai, à la Communauté d'agglomération du Douaisis.",
+  "Lieu « Musée archéologique Arkéos », 2012 : Les travaux commencent en octobre 2012, avec une ouverture prévue pour mai/juin 2014.",
+  "Lieu « Musée archéologique Arkéos », 2014 : La seconde tranche comporte l'engagement des travaux du parc avec notamment la réalisation des premiers bâtiments reconstruits, débutant à l’automne 2014.",
+  "Lieu « Musée archéologique Arkéos », aujourd'hui : Les lauréats du concours sont l'équipe Trace architectes (architecte Thierry Castelain), muséographe 2.26 (Cécile Subra), le bureau d’études Bérim, Energelio HQE et Osmose paysagiste."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

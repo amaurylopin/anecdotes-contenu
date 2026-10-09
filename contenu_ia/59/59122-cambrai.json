@@ -1,0 +1,272 @@
+{
+ "commune": {
+  "titre": "Cambrai",
+  "code_insee": "59122",
+  "departement": "59",
+  "population": 31134,
+  "lat": 50.17666667,
+  "lon": 3.23555556,
+  "url": "https://fr.wikipedia.org/wiki/Cambrai"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:49:08",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3977,
+  "sortie": 2212
+ },
+ "cout_usd": 0.00356,
+ "accroche": "Cambrai reconstruit sa cathédrale à partir de 1148, et le musicien Guillaume Dufay y travaille, faisant rayonner la ville au cœur du Cambrésis.",
+ "histoire": {
+  "recit": "Cambrai, autrefois bourg rural sous l’Empire romain, prend de l’importance quand le chef-lieu des Nerviens est déplacé vers elle au tournant du Ve siècle, alors que l’avance des Francs menace Bavay. Plus tard, la ville devient un centre culturel majeur : sa cathédrale sert de point de rassemblement, et Guillaume Dufay y travaille.\n\nEntre diplomatie et guerres, le Cambrésis accueille aussi des rencontres internationales : le traité de Cambrai est signé en 1508. Puis la ville change de destin au rythme des conflits : par le traité de Nimègue signé en 1678, l’Espagne abandonne Cambrai, définitivement annexée par la France. \n\nLa cathédrale connaît ensuite des heures sombres : vendue en 1796, elle n’en laisse que la tour, avant de s’effondrer en 1809. Les remparts reculent au XIXe siècle, remplacés par des boulevards et des lotissements.\n\nAu XXe siècle, la ville subit de lourdes destructions : en novembre 1918, un incendie ravage le centre, y compris l’hôtel de ville et les archives ; en mai 1940, elle est bombardée par la Luftwaffe. Après ces épreuves, Cambrai conserve des lieux marqués par ces passages successifs de l’histoire au quotidien.",
+  "chronologie": [
+   {
+    "date": "milieu du IVe siècle / début du Ve siècle",
+    "texte": "Le chef-lieu de la cité des Nerviens est déplacé vers Cambrai à mesure que l’avance des Francs menace Bavay.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1148",
+    "texte": "La cathédrale est reconstruite à partir de 1148 et devient le centre d’un grand mouvement culturel, notamment musical.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1508",
+    "texte": "Le traité de Cambrai est signé en 1508 lors de congrès liés à la neutralité réaffirmée du Cambrésis.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "10 août 1678",
+    "texte": "Par le traité de Nimègue, l’Espagne abandonne Cambrai, définitivement annexée par la France.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "6 juin 1796",
+    "texte": "La cathédrale est vendue le 6 juin 1796 ; on n’en laisse que la tour.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1809",
+    "texte": "Privée d’appui, la cathédrale s’effondre en 1809.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1894",
+    "texte": "Des boulevards extérieurs sont construits et lotis à l’emplacement des remparts entre 1894 et le début du XXe siècle.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "novembre 1918",
+    "texte": "Les Allemands incendient le centre de la ville avant de la quitter, détruisant l’hôtel de ville et les archives municipales.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "17 mai 1940",
+    "texte": "La ville est bombardée par la Luftwaffe le 17 mai 1940 pendant la bataille de France.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Notre-Dame de Grâce (icône)",
+   "histoire": "Notre-Dame de Grâce, aussi appelée Vierge de Cambrai, est une icône italo-byzantine de type éléousa (Vierge de Tendresse), réalisée vers 1340, conservée actuellement à la cathédrale Notre-Dame de Grâce de Cambrai.",
+   "anecdotes": [
+    {
+     "texte": "À la suite d’une pétition signée par les paroissiens de l’Église St-Sépulcre en 1797, l’icône est réinstallée dans l’ancienne abbatiale St-Sépulcre.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Conservée actuellement à la cathédrale Notre-Dame de Grâce de Cambrai.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 50.1722,
+   "lon": 3.2333,
+   "url": "https://fr.wikipedia.org/wiki/Notre-Dame_de_Gr%C3%A2ce_%28ic%C3%B4ne%29"
+  },
+  {
+   "nom": "Musée de Cambrai",
+   "histoire": "Le musée de Cambrai est créé en 1847 et présenté comme un musée important du Nord de la France et principal musée généraliste du Cambrésis. L’hôtel particulier associé est restauré à la fin du XIXe siècle, visible dans les salons du rez-de-chaussée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Visible actuellement dans les salons du rez-de-chaussée, après restauration à la fin du XIXe siècle.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 50.1731611,
+   "lon": 3.22968333,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Cambrai"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame-de-Grâce de Cambrai",
+   "histoire": "La cathédrale Notre-Dame-de-Grâce de Cambrai est à la fois basilique et ancienne église métropolitaine. Un premier ensemble de chapelles du Saint-Sépulcre est signalé dès 1047 ; l’édifice est ensuite remanié à de nombreuses reprises.",
+   "anecdotes": [
+    {
+     "texte": "En 1796, la cathédrale est vendue le 6 juin et n’en laisse que la tour ; en 1809, privée d’appui, elle s’effondre.",
+     "statut": "etabli",
+     "sources": [
+      "S7",
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le seul vestige de l’église est le pilier en grès de l’église actuelle, avec la chaire accrochée dessus.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 50.172222,
+   "lon": 3.233333,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-Gr%C3%A2ce_de_Cambrai"
+  },
+  {
+   "nom": "Porte de Paris (Cambrai)",
+   "histoire": "La porte de Paris est un vestige de l’enceinte de la ville de Cambrai, construite pour protéger l’entrée sud et rebâtie au XIVe siècle. Au XVIe siècle, des adaptations sont faites à l’artillerie, entraînant des modifications sur la partie supérieure.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Vestige conservé et restauré, correspondant à la porte de l’enceinte de la ville.",
+   "sources": [
+    "S32",
+    "S31"
+   ],
+   "lat": 50.17111,
+   "lon": 3.23167,
+   "url": "https://fr.wikipedia.org/wiki/Porte_de_Paris_%28Cambrai%29"
+  },
+  {
+   "nom": "Chapelle des Jésuites de Cambrai",
+   "histoire": "La chapelle des Jésuites de Cambrai est un édifice religieux aujourd’hui désaffecté, sur la place du Saint-Sépulcre. Construite de 1679 à 1692, elle est de style baroque ; la façade est achevée en 1692, et l’édifice est reconsacré le 4 novembre 1838.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Édifice religieux aujourd’hui désaffecté se trouvant sur la place du Saint-Sépulcre à Cambrai.",
+   "sources": [
+    "S37"
+   ],
+   "lat": 50.17278,
+   "lon": 3.23083,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_J%C3%A9suites_de_Cambrai"
+  },
+  {
+   "nom": "Château de Selles",
+   "histoire": "Le château de Selles est un ancien château fort situé à Cambrai. Au XVIIIe siècle, des superstructures sont rasées pour laisser place à des bâtiments liés à la manutention militaire et à la boulangerie, puis sa fonction change ensuite au fil du temps.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges visibles aujourd’hui datent de cette époque.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 50.1817,
+   "lon": 3.2313,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Selles"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame de Cambrai",
+   "histoire": "La cathédrale Notre-Dame de Cambrai était une cathédrale de style gothique, qui a connu destructions et reconstructions successives. La source signale aussi une destruction pendant la Révolution française et l’absence complète de l’édifice actuel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 50.17606,
+   "lon": 3.22968,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Cambrai"
+  },
+  {
+   "nom": "Citadelle de Cambrai",
+   "histoire": "La citadelle de Cambrai est fondée par Charles Quint à l’emplacement de l’abbaye du Mont-des-Bœufs. Après le décès de Charles Quint en 1601, les travaux se poursuivent sous le commandement de Don Juan Pelegrin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La citadelle de Cambrai est fondée par Charles Quint à l’emplacement de l’abbaye du Mont-des-Bœufs, tel que rapporté dans la description actuelle.",
+   "sources": [
+    "S52"
+   ],
+   "lat": 50.1723,
+   "lon": 3.2411,
+   "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Cambrai"
+  }
+ ],
+ "sources": [
+  "Cambrai (prononcé : /kɑ̃.bʁɛ/ ) est une commune française, historiquement capitale du Cambrésis, située dans le département du Nord, dont elle est aujourd'hui l'une des sous-préfectures, en région Hauts-de-France. Cambrai est une ville moyenne qui compte 31 134 habitants au recensement de 2023 ; elle est au cœur de l'unité urbaine de Cambrai qui, avec 45 511 habitants (2023), la place au 7e rang départemental. Son […]",
+  "Sous le Haut Empire romain Camaracum, ou Cameracum, n'était qu'un bourg rural (vicus) de la cité des Nerviens, (Cameracum Nerviorum) dont la capitale était Bavay (Bagacum). Au milieu du IVe siècle l'avance des Francs vers le sud menaçant Bavay, le chef-lieu de la cité des Nerviens est déplacée vers le début du Ve siècle à Cambrai. En 430, commandés par le roi Clodion le Chevelu, les Francs Saliens s'emparent de la […]",
+  "IVe siècle : Au milieu du IVe siècle l'avance des Francs vers le sud menaçant Bavay, le chef-lieu de la cité des Nerviens est déplacée vers le début du Ve siècle à Cambrai.",
+  "1148 : Du XVe au XVIIe siècle, Cambrai est un centre culturel important, surtout dans le domaine musical, dont la cathédrale, reconstruite à partir de 1148, est le centre : Guillaume Dufay, un des plus célèbres musiciens de l'Europe du XVe siècle, travaille à Cambrai.",
+  "1508 : Cependant la neutralité réaffirmée du Cambrésis entre la France et Maximilien, qui a épousé Marie de Bourgogne, héritière des possessions de Charles le Téméraire, en fait le lieu de plusieurs congrès internationaux, dont le traité de Cambrai de 1508 et la paix des Dames, signée en 1529.",
+  "1678 : Par le traité de Nimègue signé le 10 août 1678, l'Espagne abandonne Cambrai, définitivement annexée par la France.",
+  "1796 : En 1796, la cathédrale, « merveille des Pays-Bas », est vendue le 6 juin 1796 à un marchand qui n'en laisse que la tour.",
+  "1809 : Privée d'appui, elle s'effondre en 1809.",
+  "1894 : Des boulevards extérieurs sont construits et lotis à l'emplacement des remparts entre 1894 et le début du XXe siècle.",
+  "1918 : En novembre 1918, les Allemands incendièrent le centre de la ville avant de la quitter, détruisant l'hôtel de ville ainsi que les archives municipales.",
+  "1920 : On peut notamment évoquer le martyre des quatre sœurs de la charité d'Arras guillotinées à Cambrai et qui seront béatifiées en 1920.",
+  "1940 : La ville est bombardée par la Luftwaffe le 17 mai 1940 pendant la bataille de France avant de tomber le lendemain en même temps que Saint-Quentin.",
+  "Lieu « Notre-Dame de Grâce (icône) » : Notre-Dame de Grâce (ou la Vierge de Cambrai) est une icône (35,7 × 25,7 cm) italo-byzantine de type éléousa (ou Vierge de Tendresse), réalisée vers 1340, et actuellement conservée à la cathédrale Notre-Dame de Grâce de Cambrai.",
+  "Lieu « Notre-Dame de Grâce (icône) », 1450 : À sa mort en 1450, il la lègue à son tour à la cathédrale de Cambrai, où elle est installée en grande pompe dans la Chapelle de la Sainte Trinité le 13 août de l'année suivante, l'avant veille de la fête de l'Assomption.",
+  "Lieu « Notre-Dame de Grâce (icône) », 1453 : Une confrérie est fondée en 1453 pour les « soins et la vénération » de la relique, qui est, pour la première fois en 1455, portée en procession à travers la ville lors de l'Assomption, le 15 août.",
+  "Lieu « Notre-Dame de Grâce (icône) », 1797 : À la suite d'une pétition signée par les paroissiens de l'Église St-Sépulcre en 1797, l’icône est alors réinstallée au sein de l'ancienne abbatiale St-Sépulcre, avant même qu'elle ne soit consacrée « Cathédrale Notre-Dame de Grâce » en 1801.",
+  "Lieu « Notre-Dame de Grâce (icône) », aujourd'hui : Notre-Dame de Grâce (ou la Vierge de Cambrai) est une icône (35,7 × 25,7 cm) italo-byzantine de type éléousa (ou Vierge de Tendresse), réalisée vers 1340, et actuellement conservée à la cathédrale Notre-Dame de Grâce de Cambrai.",
+  "Lieu « Musée de Cambrai » : Le musée de Cambrai, créé en 1847, est un musée important du Nord de la France et le principal musée généraliste du Cambrésis.",
+  "Lieu « Musée de Cambrai », 1719 : Jean-Baptiste de Francqueville, seigneur de Bourlon, se fait bâtir entre avril 1719 et décembre 1720, un hôtel à la mode parisienne, entre cour et jardin.",
+  "Lieu « Musée de Cambrai », 1802 : En 1802, le retour du culte oblige à la dispersion de la collection dans plusieurs bâtiments de la ville.",
+  "Lieu « Musée de Cambrai », 1848 : Pendant quelques années, à la suite de la révolution de 1848, le musée est fermé, la moitié de son espace d'exposition étant utilisé comme salle de garde.",
+  "Lieu « Musée de Cambrai », aujourd'hui : L'hôtel particulier est restauré à la fin du XIXe siècle, dans un style éclectique, visible actuellement dans les salons du rez-de-chaussée.",
+  "Lieu « Cathédrale Notre-Dame-de-Grâce de Cambrai » : La cathédrale Notre-Dame-de-Grâce de Cambrai est à la fois basilique et ancienne église métropolitaine (ancien siège de l'archevêché de Cambrai regroupant les diocèses suffragants d'Arras et de Lille).",
+  "Lieu « Cathédrale Notre-Dame-de-Grâce de Cambrai », 1047 : Il s'y trouvait déjà une chapelle du Saint-Sépulcre construite en 1047 par l'évêque Gérard de Cambrai sur l'emplacement d'un ancien charnier où on avait enterré les morts d'une épouvantable famine de 1031.",
+  "Lieu « Cathédrale Notre-Dame-de-Grâce de Cambrai », 1145 : Cette première église fut remaniée ou reconstruite à de nombreuses reprises : elle fut d'abord réparée après un incendie en 1145.",
+  "Lieu « Cathédrale Notre-Dame-de-Grâce de Cambrai », 1804 : L'ancienne cathédrale de Cambrai ayant été détruite pendant la Révolution française, le siège épiscopal fut transféré en 1804 dans l'église de l'abbaye du Saint-Sépulcre, qui date de la fin du XVIIe siècle.",
+  "Lieu « Cathédrale Notre-Dame-de-Grâce de Cambrai », aujourd'hui : Le seul vestige de cette église est le pilier en grès de l'église actuelle auquel est accrochée la chaire, et qui devait être l'un des piliers de soutènement du clocher.",
+  "Lieu « Porte de Paris (Cambrai) » : La porte de Paris est un vestige de l'enceinte de la ville de Cambrai dans le département du Nord.",
+  "Lieu « Porte de Paris (Cambrai) », XIVe siècle : Construite pour protéger l'entrée sud de la ville de Cambrai, cette porte fut rebâtie au XIVe siècle dans une architecture proche de ce que l'on peut trouver dans l'architecture philippienne de l'époque.",
+  "Lieu « Porte de Paris (Cambrai) », XVIe siècle : Au XVIe siècle, alors que Charles-Quint fit améliorer les fortifications de la ville pour l'adapter aux évolutions de l'artillerie, la partie supérieure de la porte fut rasée et les murailles alentour élargies, de sorte qu'il fallut enterrer le corps de garde supérieur et allonger le passage d'entrée en construisant un tunnel supplémentaire[réf. nécessaire][pas clair].",
+  "Lieu « Porte de Paris (Cambrai) », 1892 : En 1892, à la suite du démantèlement, la porte est conservée et restaurée : les ajouts du XVIe siècle sont détruits et la façade côté ville est remise au jour.",
+  "Lieu « Porte de Paris (Cambrai) », aujourd'hui : La porte de Paris est un vestige de l'enceinte de la ville de Cambrai dans le département du Nord.",
+  "Lieu « Chapelle des Jésuites de Cambrai » : La chapelle des Jésuites de Cambrai est un édifice religieux aujourd'hui désaffecté se trouvant sur la place du Saint-Sépulcre à Cambrai, dans le département français du Nord.",
+  "Lieu « Chapelle des Jésuites de Cambrai », 1679 : La chapelle, construite de 1679 à 1692 en annexe d’un collège jésuite, est de style baroque.",
+  "Lieu « Chapelle des Jésuites de Cambrai », 1692 : En 1692, la façade est achevée et la chapelle est inaugurée sous le rectorat de Jean Sonius.",
+  "Lieu « Chapelle des Jésuites de Cambrai », 1838 : Le 4 novembre 1838, l'édifice religieux est reconsacrée puis ouverte à nouveau au culte.",
+  "Lieu « Chapelle des Jésuites de Cambrai », aujourd'hui : La chapelle des Jésuites de Cambrai est un édifice religieux aujourd'hui désaffecté se trouvant sur la place du Saint-Sépulcre à Cambrai, dans le département français du Nord.",
+  "Lieu « Château de Selles » : Le château de Selles est un ancien château fort du XIe siècle situé à Cambrai dans le département du Nord et la région Hauts-de-France.",
+  "Lieu « Château de Selles », XVIIIe siècle : Au XVIIIe siècle les États de Cambrésis font raser les superstructures et construire des bâtiments à usage de manutention militaire et de boulangerie.",
+  "Lieu « Château de Selles », 1940 : Ils conservent cette fonction jusqu’en 1940.En 1992 le palais de justice s’y est installé après des travaux de restauration.",
+  "Lieu « Château de Selles », 1981 : Les parties subsistantes du château du Moyen Âge, remparts, façades et toitures des bâtiments du XVIIIe siècle font l’objet d’un classement au titre des monuments historiques par arrêté du 21 septembre 1981.",
+  "Lieu « Château de Selles », aujourd'hui : Les vestiges visibles aujourd’hui datent de cette époque.",
+  "Lieu « Cathédrale Notre-Dame de Cambrai » : La cathédrale Notre-Dame de Cambrai était une cathédrale de style gothique située à Cambrai.",
+  "Lieu « Cathédrale Notre-Dame de Cambrai », 881 : Cette première bâtisse fut détruite en 881 par les Normands et c’est l’évêque Dodilon qui la fit reconstruire, le nouvel édifice étant consacré en 890.",
+  "Lieu « Cathédrale Notre-Dame de Cambrai », 1023 : La cathédrale, devenue vétuste, fut entièrement reconstruite au XIe siècle, entre 1023 et 1030, par les évêques Gérard Ier et Gérard II.",
+  "Lieu « Cathédrale Notre-Dame de Cambrai », XIIIe siècle : Construite aux XIIe et XIIIe siècles, elle fut détruite pendant la Révolution française et a aujourd’hui entièrement disparu, tout comme sa voisine l'ancienne cathédrale Notre-Dame-en-Cité d'Arras.",
+  "Lieu « Cathédrale Notre-Dame de Cambrai », aujourd'hui : La cathédrale gothique fut précédée de trois ou quatre églises bâties au même endroit, dans la partie occidentale de la ville actuelle, sur une pente descendant vers l’Escaut, à l’emplacement de l’actuelle place Fénelon.",
+  "Lieu « Citadelle de Cambrai » : La citadelle de Cambrai fut fondée par Charles Quint à l'emplacement de \"l'abbaye du Mont-des-Bœufs\" où était inhumé saint Géry à Cambrai (Nord).",
+  "Lieu « Citadelle de Cambrai », 1601 : Après son décès en 1601 et son inhumation au sein de l'édifice, les travaux s'achevèrent finalement sous le commandement de son successeur Don Juan Pelegrin.",
+  "Lieu « Citadelle de Cambrai », 1858 : Les derniers vestiges de l'église furent rasés vers 1858 sous le commandement du capitaine Renard.",
+  "Lieu « Citadelle de Cambrai », 1909 : Une nouvelle église portant ce vocable fut consacrée aux abords de la citadelle à partir de 1909 sur les terrains libérés par le démantèlement de la ville à la fin du XIXe siècle.",
+  "Lieu « Citadelle de Cambrai », aujourd'hui : La citadelle de Cambrai fut fondée par Charles Quint à l'emplacement de \"l'abbaye du Mont-des-Bœufs\" où était inhumé saint Géry à Cambrai (Nord)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Mont-des-B"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

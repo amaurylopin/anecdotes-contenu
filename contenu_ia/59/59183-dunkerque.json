@@ -1,0 +1,362 @@
+{
+ "commune": {
+  "titre": "Dunkerque",
+  "code_insee": "59183",
+  "departement": "59",
+  "population": 86263,
+  "lat": 51.038333,
+  "lon": 2.3775,
+  "url": "https://fr.wikipedia.org/wiki/Dunkerque"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:22:17",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3845,
+  "sortie": 2688
+ },
+ "cout_usd": 0.004129,
+ "accroche": "Le 25 juin 1658, Dunkerque est de nouveau assiégée, cette fois par Turenne.",
+ "histoire": {
+  "recit": "Dunkerque naît près de la mer du Nord : l’histoire commence vers l’an 800 avec une bourgade de pêcheurs installée au bord d’une crique naturelle. Vers 960, Baudouin III fait de ce village une ville en l’entourant d’une palissade de bois, et une église est bâtie peu avant l’an 1000.\n\nAu milieu du XVe siècle, un amer — l’actuel beffroi — pointe le port. Puis les guerres reviennent : la ville est assiégée en 1652 et l’est de nouveau le 25 mai 1658 par Turenne. À côté des conflits, le commerce s’organise : en 1700, une chambre de commerce est fondée.\n\nLe port reçoit ensuite des travaux importants en 1785, et, en 1803, la sous-préfecture est déplacée de Bergues à Dunkerque, lançant l’arrondissement. Au XIXe siècle, la solidarité se construit avec la Société Humaine de Dunkerque, et le littoral s’équipe avec un phare à l’entrée ouest du port.\n\nDunkerque garde aussi une place singulière dans les grands événements : en 1940, l’opération Dynamo est achevée le 4 juin, tandis que le blocus autour de la poche littorale s’installe entre septembre 1944 et mai 1945.",
+  "chronologie": [
+   {
+    "date": "vers l’an 800",
+    "texte": "Création d’une bourgade de pêcheurs au bord d’une crique naturelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 960",
+    "texte": "Le village devient une ville sous les auspices de Baudouin III, avec une palissade de bois.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "peu avant l’an 1000",
+    "texte": "Bâtiment d’une église.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "milieu du XVe siècle",
+    "texte": "Construction d’un amer, devenu l’actuel beffroi.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1652",
+    "texte": "Assiégeée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "25 mai 1658",
+    "texte": "Nouveau siège par Turenne.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1700",
+    "texte": "Fondation d’une chambre de commerce à Dunkerque.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1717",
+    "texte": "Démolition imposée de la plus grande des deux nouvelles écluses de Mardyck.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1785",
+    "texte": "Travaux portuaires : bassin de la Marine rétabli, quais de la Citadelle reconstruits en pierre.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1803",
+    "texte": "Déplacement de la sous-préfecture de Bergues à Dunkerque, marquant le début de l’arrondissement de Dunkerque.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1834",
+    "texte": "Création de la Société Humaine de Dunkerque pour porter secours aux naufragés.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1838",
+    "texte": "Construction du phare à l’entrée ouest du port et mise en place de bateaux-feux.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1896",
+    "texte": "Détruction volontaire de l’ancien hôtel de ville pour construire plus grand.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "30 mai 1897",
+    "texte": "Première brique posée pour l’hôtel de ville.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "4 juin 1940",
+    "texte": "Opération Dynamo achevée ; un drapeau à croix gammée flotte sur le phare de Dunkerque.",
+    "sources": [
+     "S36"
+    ]
+   },
+   {
+    "date": "septembre 1944",
+    "texte": "Début du blocus de la poche de résistance littorale allemande autour de Dunkerque.",
+    "sources": [
+     "S39"
+    ]
+   },
+   {
+    "date": "mai 1945",
+    "texte": "Fin du blocus avec la capitulation du Troisième Reich.",
+    "sources": [
+     "S39"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôtel de ville de Dunkerque",
+   "histoire": "L’hôtel de ville est un bâtiment centenaire, reconstruit en 1644 après des destructions antérieures. En 1558, la commune est mise à sac et l’hôtel de ville rasé ; en 1896, l’immeuble est détruit volontairement pour permettre une construction plus grande. La première brique est posée le 30 mai 1897, et l’hôtel de ville est inauguré le 17 septembre 1901.",
+   "anecdotes": [
+    {
+     "texte": "En 1558, Paul de La Barthe de Thermes, surnommé le « maréchal de Thermes », met à sac la commune : l’hôtel de ville est rasé.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "L’hôtel de ville est détruit en 1896 de façon volontaire, afin de bâtir un hôtel de ville plus grand, ce qui entraîne des expropriations autour de l’ancien bâtiment.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’hôtel de ville de Dunkerque, dont la construction démarre en 1897 et est inaugurée en 1901, correspond à ce que l’on connaît aujourd’hui.",
+   "sources": [
+    "S19",
+    "S15"
+   ],
+   "lat": 51.037662,
+   "lon": 2.376755,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Dunkerque"
+  },
+  {
+   "nom": "Phare de Dunkerque",
+   "histoire": "Le phare de Dunkerque ou phare du Risban est un phare côtier portuaire automatisé. Il s’inscrit dans une histoire de fortifications : bâti sur les ruines du fort Risban, il s’appuie aussi sur l’existence d’un fanal allumé en 1683, emporté par une tempête en 1825. Le phare fait ensuite l’objet d’évolutions et, en 1842, un phare est construit et mis en service l’année suivante.",
+   "anecdotes": [
+    {
+     "texte": "Le premier phare de la ville, un fanal allumé en 1683, est emporté par une tempête en 1825.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Le fort du Risban est volontairement démoli en 1713, conformément au traité d’Utrecht.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, le double couronnement à attique du phare est peint en noir.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 51.04889,
+   "lon": 2.36417,
+   "url": "https://fr.wikipedia.org/wiki/Phare_de_Dunkerque"
+  },
+  {
+   "nom": "Terminal méthanier de Loon-Plage",
+   "histoire": "Le terminal méthanier de Loon-Plage (Dunkerque) est mis en service le 1er janvier 2017. Le 3 mai 2011, une annonce prévoit que le terminal sera construit sur le site du Clipon. Le site accueille aussi une zone d’accueil des oiseaux migrateurs inaugurée en mai 2013. En 2018, EDF annonce des accords relatifs à la cession de sa participation au capital de Dunkerque LNG.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le gaz L produit/consommé n’est indiqué comme consommé qu’aux Pays-Bas, en Allemagne, en Belgique et en France.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 51.044162,
+   "lon": 2.310389,
+   "url": "https://fr.wikipedia.org/wiki/Terminal_m%C3%A9thanier_de_Loon-Plage"
+  },
+  {
+   "nom": "Lieu d'art et action contemporaine de Dunkerque",
+   "histoire": "Le Lieu d'art et action contemporaine de Dunkerque (LAAC), anciennement musée d’Art contemporain de Dunkerque, est un musée d’art contemporain composé d’un bâtiment et d’un jardin de sculptures. Il est fondé grâce à un travail entrepris autour du début des années 1970. Le bâtiment du musée, conçu par Jean Willerval, est inauguré en décembre 1980, et rénové en 2005 par Benoît Grafteaux et Richard Klein.",
+   "anecdotes": [
+    {
+     "texte": "Selon la source, le fondateur aurait eu un véritable coup de foudre pour une peinture abstraite de Ladislas Kijno en feuilletant un magazine d’art.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le lieu joue sur des traces de lumière qui se répondent d’une ouverture à l’autre, selon une géométrie qui change avec les heures du jour.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 51.046075,
+   "lon": 2.382528,
+   "url": "https://fr.wikipedia.org/wiki/Lieu_d%27art_et_action_contemporaine_de_Dunkerque"
+  },
+  {
+   "nom": "Bataille de Dunkerque",
+   "histoire": "La bataille de Dunkerque commence le 20 mai 1940. Le 4 juin 1940, l’opération Dynamo est achevée, et le drapeau à croix gammée flotte sur le phare de Dunkerque.",
+   "anecdotes": [
+    {
+     "texte": "La source rappelle que l’ordre d’évacuation des volontaires n’a été connu qu’à compter du 31 mai 1940 à 18 h 00, ce qui a permis de sauver 26 500 personnes.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 51.048388888889,
+   "lon": 2.3808888888889,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Dunkerque"
+  },
+  {
+   "nom": "Siège de Dunkerque (1944-1945)",
+   "histoire": "Le siège de Dunkerque correspond au blocus de la poche de résistance littorale allemande autour de Dunkerque pendant la Seconde Guerre mondiale, entre septembre 1944 et la capitulation du Troisième Reich en mai 1945.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S42"
+   ],
+   "lat": 51.038333,
+   "lon": 2.3775,
+   "url": "https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Dunkerque_%281944-1945%29"
+  },
+  {
+   "nom": "Grand port maritime de Dunkerque",
+   "histoire": "Le grand port maritime de Dunkerque (GPMD) est issu de la transformation du port autonome de Dunkerque, à 90 minutes de navigation du pas de Calais. Le port se structure aussi avec l’achèvement de l’écluse Trystram en 1896, et un développement vers les dunes à l’Ouest de la ville entre 1928 et 1931.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La fin du XIXe siècle voit la réalisation de nombreux travaux qui donnent l’agencement du Port-Est tel qu’on le connaît.",
+   "sources": [
+    "S46"
+   ],
+   "lat": 51.044162,
+   "lon": 2.310389,
+   "url": "https://fr.wikipedia.org/wiki/Grand_port_maritime_de_Dunkerque"
+  },
+  {
+   "nom": "Canal de Bergues (France)",
+   "histoire": "Le canal de Bergues relie la ville de Bergues au port de Dunkerque. D’une longueur de 7,8 km, il est commencé au XVIe siècle et mis en service en 1634 pour relier Bergues, où un port vient d’être bâti, à la mer du Nord. Sur ses rives, la source mentionne l’installation de la verrerie Morel du Hillaume en 1750 et, aujourd’hui, des activités de plaisance et de sport.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Entre le Pont des Sept Planètes et le Centre Nautique Pascal Leys, des berges du canal sont en travaux afin d’offrir une Voie Verte.",
+   "sources": [
+    "S48",
+    "S49",
+    "S50"
+   ],
+   "lat": 51.05,
+   "lon": 2.3666666666667,
+   "url": "https://fr.wikipedia.org/wiki/Canal_de_Bergues_%28France%29"
+  }
+ ],
+ "sources": [
+  "Dunkerque (/dæ̃.kɛʁk/, /dœ̃.kɛʁk/) est une commune française, sous-préfecture du département du Nord. L'histoire de Dunkerque est liée à la mer du Nord : la ville se développa autour de son port. Du fait de sa position, elle suscita de nombreuses convoitises et appartint périodiquement au comté de Flandre, au royaume d'Espagne (Pays-Bas espagnols), aux royaumes d'Angleterre et de France. Le 25 juin 1658, elle […]",
+  "Des raids de pirates saxons semblent avoir eu lieu dans la région de Dunkerque au cours du IIe siècle. L'histoire de Dunkerque commence vers l'an 800, par la création d'une bourgade de pêcheurs au bord d'une crique naturelle. Le village devient une ville vers 960 sous les auspices de Baudouin III, comte de Flandre, qui l’aurait alors entouré d’une palissade de bois. Peu avant l'an 1000 est bâtie une église. Vers […]",
+  "1000 : Peu avant l'an 1000 est bâtie une église.",
+  "XVe siècle : Au milieu du XVe siècle est construit un amer, qui est l'actuel beffroi.",
+  "1652 : Assiégée en 1652, elle l'est de nouveau le 25 mai 1658 par Turenne.",
+  "1700 : En 1700 est fondée à Dunkerque une chambre de commerce.",
+  "1717 : En 1717, le traité d’union de La Haye oblige la démolition de la plus grande des deux nouvelles écluses de Mardyck.",
+  "1721 : En 1721 est fondée, à l'initiative de John Montagu, la première loge maçonnique du continent européen, prenant le nom de Amitié et Fraternité.",
+  "1785 : En 1785, le port bénéficie d’importants travaux : le bassin de la Marine est rétabli, de même les jetées basses et une partie des anciennes estacades, les quais de la Citadelle sont reconstruits en pierre.",
+  "1803 : En 1803, intervient la reconnaissance du premier rôle désormais joué par Dunkerque au niveau local : la sous-préfecture est déplacée de Bergues à Dunkerque, ce qui marque le début de l'arrondissement de Dunkerque.",
+  "1834 : En 1834, Benjamin Morel et Jean Carlier créent à l'image de la Société Humaine de Boulogne la Société Humaine de Dunkerque pour porter secours aux naufragés.",
+  "1838 : En 1838 est construit le phare à l'entrée ouest du port, et des bateaux-feux balisent les bancs de sable.",
+  "1872 : En 1872, la société Humaine de Dunkerque rejoint la Société Centrale de Sauvetage des Naufragés De 1896 à 1952 fonctionne un réseau de tramway.",
+  "1900 : Quelques années avant 1900 est érigé l'hôtel de ville : sur son fronton figure Louis XIV entouré des Dunkerquois célèbres.",
+  "Lieu « Hôtel de ville de Dunkerque » : L’hôtel de ville de Dunkerque est un bâtiment centenaire.",
+  "Lieu « Hôtel de ville de Dunkerque », 1558 : Au cours de l'année 1558, Paul de La Barthe de Thermes surnommé le « maréchal de Thermes » met à sac la commune, l'hôtel de ville étant rasé.",
+  "Lieu « Hôtel de ville de Dunkerque », 1644 : Reconstruit en 1644, l'hôtel de ville traversa plusieurs siècles, et par conséquent portera l'empreinte de plusieurs styles architecturaux.",
+  "Lieu « Hôtel de ville de Dunkerque », 1896 : En 1896, l'immeuble est détruit, mais cette fois-ci volontairement, en effet la ville prenant de l'importance, on décide de construire un hôtel de ville plus grand, ce qui entraînera plusieurs expropriations des habitations jouxtant l'ancien hôtel.",
+  "Lieu « Hôtel de ville de Dunkerque », aujourd'hui : Le 30 mai 1897, la première brique est posée, et quatre années plus tard, le 17 septembre 1901, le président de la République Émile Loubet, en compagnie du tsar Nicolas II de Russie, inaugure l'hôtel de ville de Dunkerque assez proche dans sa partie avant de ce que l'on connaît aujourd'hui.",
+  "Lieu « Phare de Dunkerque » : Le phare de Dunkerque ou phare du Risban est un phare côtier portuaire automatisé de premier ordre.",
+  "Lieu « Phare de Dunkerque », 1681 : Le phare de Dunkerque est bâti sur les ruines du fort Risban (ou Gros Risban) aménagé par Vauban à partir de 1681 (d'où le nom de phare de Risban), sur lequel se trouvait initialement le premier phare de la ville, un fanal allumé en 1683, qui fut emporté par une tempête en 1825.",
+  "Lieu « Phare de Dunkerque », 1713 : Précédemment, le fort lui-même avait été volontairement démoli en 1713 (conformément au traité d'Utrecht).",
+  "Lieu « Phare de Dunkerque », 1842 : Construit en 1842 (la date est gravée à deux endroits) et mis en service l'année suivante, il fait partie des tout premiers phares érigés lors du premier plan de signalisation maritime français organisé par le capitaine de Rossel et Augustin Fresnel en 1825.",
+  "Lieu « Phare de Dunkerque », aujourd'hui : Le double couronnement à attique, aujourd'hui peint en noir, sert de protection.",
+  "Lieu « Terminal méthanier de Loon-Plage » : Le terminal méthanier de Loon-Plage (Dunkerque) a été mis en service le 1er janvier 2017.",
+  "Lieu « Terminal méthanier de Loon-Plage », 2011 : À la suite de sa visite à la centrale nucléaire de Gravelines, le 3 mai 2011, le président Nicolas Sarkozy annonça que le terminal méthanier serait finalement construit sur le site du Clipon.",
+  "Lieu « Terminal méthanier de Loon-Plage », 2013 : La première, la Zone d’accueil des oiseaux migrateurs, a été inaugurée en mai 2013 pour un coût de 2 millions d'euros pour 20 hectares de superficie.",
+  "Lieu « Terminal méthanier de Loon-Plage », 2018 : Le 12 juillet 2018, EDF annonce avoir signé des accords engageants relatifs à la cession de sa participation de 35,01 % au capital de Dunkerque LNG, avec deux groupes d’investisseurs, Fluxys, Axa IM et Crédit agricole assurances d’une part, et le consortium coréen composé de Samsung Securities Co.",
+  "Lieu « Terminal méthanier de Loon-Plage », aujourd'hui : Actuellement le gaz L n'est consommé qu'aux Pays-Bas, en Allemagne, en Belgique et en France.",
+  "Lieu « Lieu d'art et action contemporaine de Dunkerque » : Le Lieu d'art et action contemporaine de Dunkerque (LAAC), anciennement musée d'Art contemporain de Dunkerque, est un musée d'art contemporain constitué d'un bâtiment et d'un jardin de sculptures.",
+  "Lieu « Lieu d'art et action contemporaine de Dunkerque », 1970 : Le LAAC a été fondé grâce au travail entrepris, au début des années 1970, par Gilbert Delaine, un ingénieur, néophyte en matière d'art contemporain, mais qui aurait eu un véritable coup de foudre pour une peinture abstraite de Ladislas Kijno en feuilletant un magazine d'art.",
+  "Lieu « Lieu d'art et action contemporaine de Dunkerque », 1980 : C'est aussi cette année, en décembre, qu'est inauguré le bâtiment du musée d'Art contemporain conçu par l'architecte Jean Willerval, au cœur du jardin de sculptures composé par le paysagiste Gilbert Samel, inauguré quant à lui en 1980.",
+  "Lieu « Lieu d'art et action contemporaine de Dunkerque », 2005 : Le bâtiment est rénové en 2005 par les architectes Benoît Grafteaux et Richard Klein qui retravaillent l'éclairage, l'acoustique et mettent en place un mobilier modelant les espaces, permettant notamment la création du cabinet d'arts graphiques en mezzanine.",
+  "Lieu « Lieu d'art et action contemporaine de Dunkerque », aujourd'hui : Mais c'est moins qu'un tracé : les traces de la lumière se répondant d'une ouverture à l'autre, selon une géométrie qui change avec les heures du jour.",
+  "Lieu « Bataille de Dunkerque » : La bataille de Dunkerque commence le 20 mai 1940.",
+  "Lieu « Bataille de Dunkerque », 1940 : Le 4 juin 1940, l'opération Dynamo est achevée, le drapeau à croix gammée flotte sur le phare de Dunkerque.",
+  "Lieu « Bataille de Dunkerque », 1940 : Pour symbolique qu'elle soit, l'intervention des little ships doit être ramenée à sa juste proportion, les volontaires n'ont été informés de l'ordre d'évacuation qu'à compter du 31 mai 1940 à 18 h 00, ce qui a permis de sauver 26 500 personnes, soit un peu moins de 10 % du total des soldats évacués.",
+  "Lieu « Bataille de Dunkerque », aujourd'hui : En effet, les British Expeditionary Force a laissé sur place tout son équipement.",
+  "Lieu « Siège de Dunkerque (1944-1945) » : Le siège de Dunkerque est le blocus de la poche de résistance littorale allemande autour de Dunkerque, pendant la Seconde Guerre mondiale, entre septembre 1944 et la capitulation du Troisième Reich en mai 1945.",
+  "Lieu « Siège de Dunkerque (1944-1945) », 1940 : Dunkerque est détruite à 90% depuis les bombardements de 1940 (bataille de Dunkerque).",
+  "Lieu « Siège de Dunkerque (1944-1945) », 1944 : Hondschoote est libérée le 7 septembre 1944.",
+  "Lieu « Siège de Dunkerque (1944-1945) », aujourd'hui : Mais sous la pression du général Eisenhower, Montgomery modifia ses instructions pour le commandant canadien, Harry Crerar, le 13 septembre 1944 : « L'utilisation d'Anvers est si urgente que je suis prêt à renoncer aux opérations à Calais et à Dunkerque » et le lendemain : « Dunkerque sera laissée pour être traitée plus tard, pour le moment elle sera simplement […]",
+  "Lieu « Grand port maritime de Dunkerque » : Le grand port maritime de Dunkerque (GPMD), issu de la transformation du port autonome de Dunkerque (PAD) situé à 90 minutes de navigation du pas de Calais est un établissement public.",
+  "Lieu « Grand port maritime de Dunkerque », 1896 : Enfin en 1896, l'écluse Trystram est achevée.",
+  "Lieu « Grand port maritime de Dunkerque », 1928 : Le port, trop à l'étroit pour se développer industriellement, s'est étendu dans les dunes à l’Ouest de la ville, les fortifications ayant été détruites lors de la reconstruction et entre 1928 - 1931.",
+  "Lieu « Grand port maritime de Dunkerque », aujourd'hui : La fin du XIXe siècle voit la réalisation de nombreux travaux qui donnèrent l'agencement du Port-Est que l'on connait aujourd'hui.",
+  "Lieu « Canal de Bergues (France) » : Le canal de Bergues relie la ville de Bergues au port de Dunkerque, dans le département français du Nord.",
+  "Lieu « Canal de Bergues (France) », 1634 : D'une longueur de 7,8 km, il fut commencé au XVIe siècle et mis en service en 1634 pour relier Bergues, où un port venait d'être bâti, à la mer du Nord.",
+  "Lieu « Canal de Bergues (France) », 1750 : En 1750 la verrerie Morel du Hillaume s'installe sur sa rive en Basse-ville de Dunkerque La plaisance et le sport sont aujourd'hui les activités principales sur le canal de Bergues : deux clubs sportifs (un club de canoë-kayak et un club d'aviron) installés dans la commune de Coudekerque-Branche naviguent sur cet ouvrage.",
+  "Lieu « Canal de Bergues (France) », aujourd'hui : La portion des berges du canal située sur la commune de Coudekerque-Branche entre le Pont des Sept Planètes et le Centre Nautique Pascal Leys est actuellement en travaux afin d'offrir une Voie Verte aux habitants, et ce après avoir rénové le ponton du Centre Nautique permettant l'accès à l'eau des clubs sportifs."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}
