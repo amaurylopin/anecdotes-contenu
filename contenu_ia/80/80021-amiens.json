@@ -1,0 +1,329 @@
+{
+ "commune": {
+  "titre": "Amiens",
+  "code_insee": "80021",
+  "departement": "80",
+  "population": 136449,
+  "lat": 49.8987,
+  "lon": 2.2847,
+  "url": "https://fr.wikipedia.org/wiki/Amiens"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:18:27",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3886,
+  "sortie": 2509
+ },
+ "cout_usd": 0.003913,
+ "accroche": "En 1218, la foudre détruit les archives de l’évêché et celles du chapitre, et anéantit la cathédrale romane à Amiens.",
+ "histoire": {
+  "recit": "À Amiens, tout commence par des occupations anciennes : à partir du IIe siècle avant notre ère, des oppidums comme L'Étoile ou La Chaussée-Tirancourt se multiplient, et les Ambiens frappent des monnaies inspirées des statères de Tarente, signe de liens économiques vers la Méditerranée. Plus tard, la ville connaît des essors et des ruptures : dès le début du XIe siècle, la paix retrouvée relance la reconstruction, et, au cœur d’une cité jugée stable et riche, la construction de la plus grande cathédrale gothique du monde démarre dès 1220.\n\nMais les chocs ne manquent pas : en 1218, la foudre ravage archives et cathédrale romane ; au XXe siècle, la gare du Nord et d’autres bâtiments sont touchés par la guerre, notamment par une vague de bombardements à la fin de mars 1918. Après le conflit, la ville se reconstruit sur des plans adoptés dès juillet 1942.\n\nAu fil des lieux, le passé continue d’avoir des formes : la flèche de la cathédrale a été rebâtie au XVIe siècle après un incendie provoqué par la foudre, et une inscription rappelle encore cet événement.",
+  "chronologie": [
+   {
+    "date": "IIe siècle av. J.-C.",
+    "texte": "Des oppidums sont fondés localement (L'Étoile, La Chaussée-Tirancourt, Méricourt-sur-Somme) et les Ambiens frappent des monnaies inspirées des statères de Tarente.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IIIe siècle av. J.-C.",
+    "texte": "Le territoire est occupé par les Belges, avec les Ambiens occupant les environs d'Amiens jusqu'au littoral.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "La ville est reconstruite et connaît un nouvel essor dès le début du XIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1218",
+    "texte": "La foudre détruit les archives de l'évêché et celles du chapitre, et anéantit la cathédrale romane reconstruite après les invasions vikings.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1220",
+    "texte": "Dès 1220, la plus grande cathédrale gothique du monde est construite.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "La première ligne est construite en 1846, permettant de relier la ville à Paris.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Pendant la guerre franco-prussienne, la Somme est envahie et Amiens est finalement occupée.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Amiens est occupée quelques jours en 1914, puis la capitale de la Somme passe de 93 000 habitants à 110 000 à l’entrée en guerre.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "mars 1918",
+    "texte": "Fin mars 1918, une vague de bombardements intenses détruit la gare du Nord, les Nouvelles Galeries et la Halle aux blés.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "juillet 1942",
+    "texte": "Le plan de reconstruction et d’aménagement est adopté dès juillet 1942.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame d'Amiens",
+   "histoire": "La cathédrale occupe un emplacement où plusieurs sanctuaires se sont succédé, mais l’historien sait peu de choses faute de textes et de fouilles. Le premier édifice cultuel daterait probablement du IVe siècle. La reconstruction gothique s’organise après les incendies et événements du XIIIe siècle, notamment celui de 1218.",
+   "anecdotes": [
+    {
+     "texte": "En 1218, la foudre détruit les archives et anéantit la cathédrale romane, avant que le projet de reconstruction se conçoive plus probablement avant cet incendie.",
+     "statut": "etabli",
+     "sources": [
+      "S6",
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S19",
+    "S16",
+    "S18",
+    "S6"
+   ],
+   "lat": 49.8944,
+   "lon": 2.301944,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_d%27Amiens"
+  },
+  {
+   "nom": "Flèche de la cathédrale d'Amiens",
+   "histoire": "La flèche surmonte la croisée du transept. La version en place a été construite au XVIe siècle, en remplacement de la flèche précédente détruite par un incendie provoqué par la foudre.",
+   "anecdotes": [
+    {
+     "texte": "Une inscription sur une plaque de plomb rappelle encore l’événement : l’incendie provoqué par la foudre a détruit la flèche précédente avant son remplacement.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S33",
+    "S32",
+    "S34"
+   ],
+   "lat": 49.8944,
+   "lon": 2.301944,
+   "url": "https://fr.wikipedia.org/wiki/Fl%C3%A8che_de_la_cath%C3%A9drale_d%27Amiens"
+  },
+  {
+   "nom": "Gare d'Amiens",
+   "histoire": "La gare d’Amiens, dite localement « gare du Nord », est située près du centre-ville. Sa ligne vers Paris est mise en place en 1846 et une deuxième ligne s’ouvre ensuite vers Boulogne-sur-Mer à partir de 1847.",
+   "anecdotes": [
+    {
+     "texte": "Fin mars 1918, une vague de bombardements intenses détruit la gare du Nord.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S8",
+    "S9",
+    "S13"
+   ],
+   "lat": 49.889961,
+   "lon": 2.310414,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Amiens"
+  },
+  {
+   "nom": "Beffroi d'Amiens",
+   "histoire": "Le beffroi se dresse place au Fil. Après des destructions et des reconstructions, il a fait l’objet de restaurations à la fin du XXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Les Amiénois le surnomment « Ch' Bédouf », en picard, même si cette appellation semble s’être quelque peu perdue.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S49"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S48",
+    "S49"
+   ],
+   "lat": 49.895517,
+   "lon": 2.295983,
+   "url": "https://fr.wikipedia.org/wiki/Beffroi_d%27Amiens"
+  },
+  {
+   "nom": "Abbaye de Saint-Acheul",
+   "histoire": "L’abbaye de Saint-Acheul est un monastère de chanoines augustiniens ayant existé entre 1145 et 1790. Fondée en 1145 par l’évêque Thierry d’Amiens, elle voit son église abbatiale reconstruite au milieu du XVIIIe siècle, puis ses bâtiments repris par un collège confié aux jésuites en 1814.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 49.88333,
+   "lon": 2.32442,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Acheul"
+  },
+  {
+   "nom": "Amphithéâtre d'Amiens",
+   "histoire": "L’amphithéâtre d’Amiens est un amphithéâtre romain construit dans la ville de Samarobriva, aujourd’hui Amiens. Il a été bâti entre la fin du Ier et le milieu du IIe siècle et a pu servir de refuge en cas d’attaque vers la fin du IIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S44"
+   ],
+   "lat": 49.894,
+   "lon": 2.296,
+   "url": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_d%27Amiens"
+  },
+  {
+   "nom": "Église Saint-Acheul (Amiens)",
+   "histoire": "L’église Saint-Acheul se trouve dans le quartier Saint-Acheul. Selon la tradition catholique, saint Firmin d’Amiens y aurait été décapité à la fin du IIIe siècle. L’église a été reconstruite après l’effondrement des voûtes en 1751 et protégée au titre des monuments historiques en 1969.",
+   "anecdotes": [
+    {
+     "texte": "La tradition catholique affirme qu’à la fin du IIIe siècle, saint Firmin d’Amiens a été décapité.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S51"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S50",
+    "S51",
+    "S52",
+    "S53",
+    "S54"
+   ],
+   "lat": 49.88333,
+   "lon": 2.32442,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Acheul_%28Amiens%29"
+  },
+  {
+   "nom": "Centre hospitalier universitaire Amiens-Picardie",
+   "histoire": "Le centre hospitalier universitaire Amiens-Picardie est un centre hospitalier universitaire de 1 701 lits et places. L’hôpital Saint-Charles-Borromée-et-Sainte-Anne, hôpital général, est fondé en 1641 grâce au don de deux maisons par le chanoine Antoine Louvel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Quelques vestiges de l’institution, fondée au Moyen Âge, sont encore visibles dans l’actuelle rue Saint-Leu.",
+   "sources": [
+    "S20",
+    "S21",
+    "S24"
+   ],
+   "lat": 49.875964,
+   "lon": 2.255566,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_Amiens-Picardie"
+  }
+ ],
+ "sources": [
+  "Amiens (/a.mjɛ̃/, en picard : Anmien) est une commune française, préfecture du département de la Somme en région Hauts-de-France. Capitale historique de la Picardie, elle est, avec ses 136 449 habitants (au dernier recensement en 2023) appelés Amiénois, la principale ville du département, la deuxième de la région après Lille et la vingt-huitième de France. Située à l'intérieur du triangle Paris - Londres - […]",
+  "Les découvertes d'importants gisements préhistoriques à Amiens ont contribué à la naissance de la Préhistoire, science qui s'est imposée dans la seconde moitié du XIXe siècle. Le territoire possède d'énormes potentialités pour la géologie du Quaternaire et pour l'étude des premiers peuplements en Europe. L'importance des gisements amiénois ainsi que la qualité des travaux des préhistoriens locaux, comme Victor […]",
+  "IIe siècle : À partir du IIe siècle av. J.-C., des oppidums furent fondés localement : L'Étoile, La Chaussée-Tirancourt, Méricourt-sur-Somme, etc. Les Ambiens frappent des monnaies s'inspirant des statères de Tarente, en Grande Grèce, ce qui tend à prouver la prospérité de cette tribu et ses liens économiques avec la Méditerranée.",
+  "IIIe siècle : Au IIIe siècle avant notre ère, le territoire est occupé par un peuple gaulois, les Belges, divisé en plusieurs tribus : les Ambiens occupent les environs d'Amiens jusqu'au littoral.",
+  "XIe siècle : La ville est reconstruite et connaît, grâce à la paix retrouvée, un nouvel essor dès le début du XIe siècle.",
+  "1218 : En 1218, la foudre détruit les archives de l'évêché et celles du chapitre, et anéantit la cathédrale romane qui avait été reconstruite après les invasions vikings.",
+  "1220 : C'est au cœur de cette cité qui connaît la stabilité politique et la richesse qu'est construite, dès 1220, la plus grande cathédrale gothique du monde.",
+  "1846 : La première ligne est construite en 1846, avec la première gare dite gare du Nord ; elle permet de relier la ville à Paris.",
+  "1847 : Une deuxième ligne est ouverte à partir de 1847, vers Boulogne-sur-Mer, avec la gare Saint-Roch.",
+  "1855 : De 1855 à 1867 est construit l'actuel musée de Picardie.",
+  "1870 : Pendant la guerre franco-prussienne de 1870, la Somme est envahie par les Prussiens, on se bat pour Amiens qui est finalement occupée.",
+  "1914 : Occupée quelques jours par l'armée allemande en 1914, la capitale de la Somme passe de 93 000 habitants à l'entrée en guerre à 110 000 pendant le conflit en raison de la présence des troupes alliées.",
+  "1918 : Fin mars 1918, une vague de bombardements intense détruit la gare du Nord, les Nouvelles Galeries et la Halle aux blés.",
+  "1942 : La ville est reconstruite à l'après-guerre sur les plans de Pierre Dufau : son plan de reconstruction et d'aménagement est cependant adopté dès juillet 1942.",
+  "Lieu « Cathédrale Notre-Dame d'Amiens » : La cathédrale Notre-Dame d'Amiens est un édifice catholique situé à Amiens, dans le département de la Somme, en région Hauts-de-France.",
+  "Lieu « Cathédrale Notre-Dame d'Amiens », IVe siècle : Le premier édifice cultuel daterait probablement du IVe siècle, à l'époque gallo-romaine, après la promulgation de l'édit de Milan par l'empereur Constantin, en 313, qui accordait la liberté de culte à toutes les religions de l'Empire romain.",
+  "Lieu « Cathédrale Notre-Dame d'Amiens », 1137 : À la suite d'un incendie qui détruisit une grande partie de la ville, une nouvelle église de style roman fut édifiée entre 1137 et 1152, année de sa consécration, mais nous ne possédons aucun document permettant de déterminer ce qu'elle était.",
+  "Lieu « Cathédrale Notre-Dame d'Amiens », 1218 : Il est plus probable que le projet de reconstruction ait été conçu avant l'incendie de 1218.",
+  "Lieu « Cathédrale Notre-Dame d'Amiens », aujourd'hui : La cathédrale actuelle occupe un emplacement où plusieurs sanctuaires se sont succédé et dont l'historien sait peu de chose, faute de textes et de fouilles archéologiques.",
+  "Lieu « Centre hospitalier universitaire Amiens-Picardie » : Le centre hospitalier universitaire Amiens-Picardie (CHU Amiens-Picardie) est un centre hospitalier universitaire d'une capacité totale de 1 701 lits et places en 2020.",
+  "Lieu « Centre hospitalier universitaire Amiens-Picardie », 1641 : L'hôpital Saint-Charles-Borromée-et-Sainte-Anne est l'hôpital général de la ville qui fut fondé en 1641 grâce au don de deux maisons effectué par le chanoine Antoine Louvel, curé de la paroisse Saint-Rémy.",
+  "Lieu « Centre hospitalier universitaire Amiens-Picardie », 1883 : En 1883, Victor Cauvel de Beauvillé, avocat puis historien, membre d'une honorable famille de Montdidier, fit legs de sa fortune à la ville d'Amiens pour bâtir un établissement réservé aux pauvres souffrant de cécité ou de maladies des yeux.",
+  "Lieu « Centre hospitalier universitaire Amiens-Picardie », 1980 : Au début des années 1980, l'hôpital nord (ainsi rebaptisé par complémentarité à l'hôpital sud) connut un véritable \"bond en avant\" avec l'ouverture du nouveau plateau technique et la mise en service du scanner.",
+  "Lieu « Centre hospitalier universitaire Amiens-Picardie », aujourd'hui : Quelques vestiges de l'institution, fondée au Moyen Âge, sont encore visibles dans l'actuelle rue Saint-Leu.",
+  "Lieu « Gare d'Amiens » : La gare d'Amiens (dite localement « gare du Nord », notamment dans les transports en commun urbains) est une gare ferroviaire française située à proximité immédiate du centre-ville de la commune d'Amiens, préfecture du département de la Somme, en rég",
+  "Lieu « Gare d'Amiens », 1877 : Le 15 octobre 1877, est ouverte la ligne de 24 kilomètres entre Amiens et Canaples par la Compagnie du Nord.",
+  "Lieu « Gare d'Amiens », 1918 : La Première Guerre mondiale est fatale pour la gare, puisqu'elle est détruite par une vague de bombardements intenses (durant l'opération Michael, en mars 1918).",
+  "Lieu « Gare d'Amiens », 1940 : Au début de la Seconde Guerre mondiale, un nouveau bombardement intense sur Amiens démolit la seconde gare pendant la bataille de France (mai – juin 1940).",
+  "Lieu « Gare d'Amiens », aujourd'hui : Jusqu'en 2023, il n'y avait plus de voie 6 visible des voyageurs ; la voie 7 était contiguë à la voie 5.",
+  "Lieu « Flèche de la cathédrale d'Amiens » : La flèche de la cathédrale d’Amiens qui surmonte la croisée du transept a été construite au XVIe siècle en remplacement de la flèche précédente détruite par un incendie provoqué par la foudre.",
+  "Lieu « Flèche de la cathédrale d'Amiens », XIVe siècle : La première flèche de la cathédrale a été vraisemblablement édifiée au début du XIVe siècle, sous l'épiscopat de Guillaume de Mâcon.",
+  "Lieu « Flèche de la cathédrale d'Amiens », 1528 : Elle était en bois recouverte de plomb et d’ardoise, mais un incendie provoqué par la foudre la détruisit entièrement le 15 juillet 1528.",
+  "Lieu « Flèche de la cathédrale d'Amiens », XVIe siècle : La flèche de la cathédrale d’Amiens qui surmonte la croisée du transept a été construite au XVIe siècle en remplacement de la flèche précédente détruite par un incendie provoqué par la foudre.",
+  "Lieu « Flèche de la cathédrale d'Amiens », aujourd'hui : Sur une plaque de plomb, une inscription rappelle aujourd’hui encore cet événement.",
+  "Lieu « Abbaye de Saint-Acheul » : L'abbaye de Saint-Acheul est un monastère de chanoines augustiniens ayant existé entre 1145 et 1790.",
+  "Lieu « Abbaye de Saint-Acheul », 1145 : Cette communauté fut érigée en abbaye en 1145 par l'évêque Thierry d'Amiens.",
+  "Lieu « Abbaye de Saint-Acheul », XVIIIe siècle : L'église abbatiale, devenue église paroissiale, a été reconstruite au milieu du XVIIIe siècle.",
+  "Lieu « Abbaye de Saint-Acheul », 1814 : Les bâtiments furent repris par un collège qui fut confié aux jésuites en 1814.",
+  "Lieu « Abbaye de Saint-Acheul », aujourd'hui : Ils sont aujourd'hui occupés par le lycée privé Saint-Riquier.",
+  "Lieu « Amphithéâtre d'Amiens » : L'amphithéâtre d'Amiens est un amphithéâtre romain construit dans la ville de Samarobriva, aujourd'hui Amiens dans le département français de la Somme.",
+  "Lieu « Amphithéâtre d'Amiens », IIe siècle : Il est bâti entre la fin du Ier et le milieu du IIe siècle et mesure 113 × 99 m.",
+  "Lieu « Amphithéâtre d'Amiens », IIIe siècle : Il est possible que l'amphithéâtre transformé en forteresse serve de refuge à la population en cas d'attaque vers la fin du IIIe siècle, comme d'autres édifices de spectacles de type « massif » vers la même époque.",
+  "Lieu « Amphithéâtre d'Amiens », 1802 : Sous le Haut Moyen Âge, l'amphithéâtre est devenu la « tour comtale » comportant des cachots dans une partie de ses sous-sols, au terme de modifications non déterminées ; au XIIIe siècle une église détruite en 1802 occupe la partie nord de l'amphithéâtre.",
+  "Lieu « Amphithéâtre d'Amiens », aujourd'hui : L'amphithéâtre d'Amiens est un amphithéâtre romain construit dans la ville de Samarobriva, aujourd'hui Amiens dans le département français de la Somme.",
+  "Lieu « Beffroi d'Amiens » : Le beffroi d'Amiens est un beffroi situé place au Fil, dans le centre-ville d'Amiens.",
+  "Lieu « Beffroi d'Amiens », 1117 : En 1117, le Castillon tombe et est détruit sur ordre du roi.",
+  "Lieu « Beffroi d'Amiens », 1406 : Le beffroi est reconstruit au début du XVe siècle (1406-1410).",
+  "Lieu « Beffroi d'Amiens », 1988 : Le beffroi resta à l'état de ruine jusque 1988, date à laquelle débutèrent les travaux de restauration, une nouvelle charpente fut construite recouverte d'ardoise, la renommée du sommet a été posée en 1990.",
+  "Lieu « Beffroi d'Amiens », aujourd'hui : Il est surnommé « Ch' Bédouf », en picard, par les amiénois (bien qu’aujourd’hui, l’appellation semble s’être quelque peu perdue).",
+  "Lieu « Église Saint-Acheul (Amiens) » : L'église Saint-Acheul est un édifice religieux catholique sis à Amiens (quartier Saint-Acheul), dans la Somme (France).",
+  "Lieu « Église Saint-Acheul (Amiens) », IIIe siècle : Selon la tradition catholique, à la fin du IIIe siècle saint Firmin d'Amiens fut décapité.",
+  "Lieu « Église Saint-Acheul (Amiens) », 1751 : L'église abbatiale, fut reconstruite après l'effondrement des voûtes, en 1751.",
+  "Lieu « Église Saint-Acheul (Amiens) », 1969 : Le bâtiment est protégé en tant que monument historique (inscription par arrêté du 8 décembre 1969).",
+  "Lieu « Église Saint-Acheul (Amiens) », aujourd'hui : Église abbatiale de l'abbaye de Saint-Acheul jusqu'à la Révolution française, elle fut longtemps entre les mains des Jésuites (XIXe siècle) et est aujourd'hui église paroissiale de la communauté catholique locale."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
