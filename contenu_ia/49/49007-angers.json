@@ -1,0 +1,323 @@
+{
+ "commune": {
+  "titre": "Angers",
+  "code_insee": "49007",
+  "departement": "49",
+  "population": 159022,
+  "lat": 47.4819,
+  "lon": -0.5629,
+  "url": "https://fr.wikipedia.org/wiki/Angers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:15:09",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4003,
+  "sortie": 2053
+ },
+ "cout_usd": 0.003367,
+ "accroche": "En 845, la ville d’Angers est pillée par le chef nordique Hasting, après des incursions en Anjou, selon les récits rapportés dans la commune.",
+ "histoire": {
+  "recit": "À Angers, la Maine traverse la ville et guide son histoire, du premier peuplement jusqu’aux aménagements modernes. On retrouve les traces les plus anciennes rue de Frémur, puis, au fil des époques, la ville se fixe, se protège et s’élargit.\n\nVers la période antique, une muraille resserre la cité autour d’environ neuf hectares. Plus tard, en 845, Bretons et Vikings frappent l’Anjou : la ville est pillée par Hasting, puis encore en 852.\n\nAux XIIe et XVIe siècles, les édifices romans angevins sont vantés, tandis qu’Henri IV séjourne à Angers en 1598 pour l’élaboration de l’édit de Nantes.\n\nLe XIXe siècle change le visage d’Angers : l’arrivée du chemin de fer en 1849, la reconstruction du Grand pont entre 1846 et 1848, et la transformation des anciens espaces le long de la Maine.\n\nMais la modernité n’efface pas les drames : en 1850, le pont de la Basse-Chaîne s’effondre lors d’une revue et entraîne la mort de 223 personnes.",
+  "chronologie": [
+   {
+    "date": "IIIe- IVe siècles (tournant)",
+    "texte": "Une muraille est édifiée, délimitant une superficie d’environ 9 ha, correspondant à l’actuelle cité.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "845",
+    "texte": "La ville est pillée par le chef nordique Hasting, après des incursions en Anjou.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "852",
+    "texte": "Nouvelle attaque : la ville est à nouveau pillée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Un historien anglais, Raoul de Diceto, vante la magnificence des édifices romans angevins.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1598",
+    "texte": "Henri IV séjourne à Angers pendant l’élaboration de l’édit de Nantes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1846-1848",
+    "texte": "Le Grand pont (pont de Verdun) est reconstruit.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "Le chemin de fer fait son apparition ; la gare Saint-Laud est inaugurée en 1853.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1850",
+    "texte": "Le pont de la Basse-Chaîne s’effondre lors d’une revue et provoque la mort de 223 personnes.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1853",
+    "texte": "La construction d’un bâtiment voyageurs « en dur » débute : il est livré au service en 1853.",
+    "sources": [
+     "S37"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "L’ancien canal des Tanneries est comblé ; l’ancienne île des Carmes est rattachée à la Doutre.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "À La Roseraie, le centre Jean Vilar ouvre au cœur du quartier.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "La Roseraie (Angers)",
+   "histoire": "La Roseraie est l’un des plus importants quartiers d’Angers. En 1989, le centre Jean Vilar ouvre au cœur du quartier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le quartier compte environ 26 000 habitants répartis dans près de 8 500 logements, dont 55 % de logements sociaux.",
+   "sources": [
+    "S15",
+    "S16",
+    "S19"
+   ],
+   "lat": 47.4474,
+   "lon": -0.5587,
+   "url": "https://fr.wikipedia.org/wiki/La_Roseraie_%28Angers%29"
+  },
+  {
+   "nom": "Tenture de l'Apocalypse",
+   "histoire": "La tenture de l’Apocalypse est une représentation de l’Apocalypse de Jean de Patmos, réalisée à la fin du XIVe siècle sur commande du duc Louis Ier d’Anjou.",
+   "anecdotes": [
+    {
+     "texte": "Elle est ensuite léguée à la cathédrale d’Angers au XVe siècle par le roi René, puis confiée par une clause spéciale de son testament exécutée par une lettre de Louis XI.",
+     "statut": "etabli",
+     "sources": [
+      "S21",
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est l’un des plus importants ensembles de tapisseries médiévales subsistant au monde.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S24"
+   ],
+   "lat": 47.47,
+   "lon": -0.56,
+   "url": "https://fr.wikipedia.org/wiki/Tenture_de_l%27Apocalypse"
+  },
+  {
+   "nom": "Château d'Angers",
+   "histoire": "Le château d’Angers, aussi appelé château des ducs d’Anjou, se dresse en ville sur le flanc ouest de la colline de la Cité, point le plus haut d’Angers.",
+   "anecdotes": [
+    {
+     "texte": "Après les troubles des guerres de Religion, Henri III ordonne la destruction du château, mais seule la partie supérieure des tours est détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’emplacement est stratégique, sur le flanc ouest de la colline de la Cité, à 47 mètres.",
+   "sources": [
+    "S25",
+    "S29",
+    "S28"
+   ],
+   "lat": 47.470083,
+   "lon": -0.559889,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Angers"
+  },
+  {
+   "nom": "Berges de Maine",
+   "histoire": "Les berges de la Maine sont un espace public de 300 hectares sur les rives de la Maine à Angers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Deux nouveaux ponts – de la Basse et de la Haute-Chaîne – sont mis en service pour raccorder d’une rive à l’autre les nouveaux boulevards ouverts sur l’emplacement des fortifications.",
+   "sources": [
+    "S30",
+    "S34"
+   ],
+   "lat": 47.4829018,
+   "lon": -0.5502391,
+   "url": "https://fr.wikipedia.org/wiki/Berges_de_Maine"
+  },
+  {
+   "nom": "Gare d'Angers-Saint-Laud",
+   "histoire": "La gare d’Angers-Saint-Laud est la gare ferroviaire principale de la ville d’Angers.",
+   "anecdotes": [
+    {
+     "texte": "Le 30 juillet 1849, la première gare d’Angers-Saint-Laud, bien que provisoire, est inaugurée en présence de Louis-Napoléon Bonaparte.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est séparée de Trélazé par des gares aujourd’hui disparues ou fermées, comme celles de La Paperie et de Savennières - Béhuard, et celles de La Pointe - Bouchemaine et de Béhuard - Les Forges.",
+   "sources": [
+    "S35",
+    "S36",
+    "S39"
+   ],
+   "lat": 47.4646,
+   "lon": -0.557,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Angers-Saint-Laud"
+  },
+  {
+   "nom": "Monplaisir (Angers)",
+   "histoire": "Monplaisir est un quartier nord d’Angers construit entre 1962 et 1976. En 1963, la bourgade se transforme en une petite ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Monplaisir totalise environ 3 397 logements, dont près de 2 700 de type HLM.",
+   "sources": [
+    "S40",
+    "S42",
+    "S44"
+   ],
+   "lat": 47.486962,
+   "lon": -0.52906,
+   "url": "https://fr.wikipedia.org/wiki/Monplaisir_%28Angers%29"
+  },
+  {
+   "nom": "Pont de la Basse-Chaîne",
+   "histoire": "Le pont de la Basse-Chaîne est un ouvrage d’art à Angers.",
+   "anecdotes": [
+    {
+     "texte": "En 1850, lors d’une revue, le pont s’effondre : la rupture provoque la mort de plus de 220 soldats et de trois civils.",
+     "statut": "etabli",
+     "sources": [
+      "S46"
+     ]
+    },
+    {
+     "texte": "Le pont suspendu, achevé en 1838 et conçu par l’architecte Joseph Chaley, est autorisé par ordonnance royale pour une concession de 35 ans.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le pont actuel n’occupe pas l’emplacement du pont en pierre : il est construit en parallèle, légèrement au sud, dans l’alignement du boulevard du Général De Gaulle.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 47.470555556,
+   "lon": -0.563611111,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_la_Basse-Cha%C3%AEne"
+  },
+  {
+   "nom": "Musée des Beaux-Arts d'Angers",
+   "histoire": "Le musée des Beaux-Arts d’Angers se trouve dans l’ancien logis Barrault, à proximité de la cité historique d’Angers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une nouvelle entrée pour le public fait son apparition pour rendre le musée plus visible.",
+   "sources": [
+    "S50",
+    "S54"
+   ],
+   "lat": 47.46889,
+   "lon": -0.55472,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_d%27Angers"
+  }
+ ],
+ "sources": [
+  "Angers (prononcer /ɑ̃.ʒe/ ) est une commune de l'Ouest de la France traversée par la Maine, chef-lieu et siège de la préfecture du département de Maine-et-Loire dans la région Pays de la Loire. Située sur l'axe Paris-Nantes, Angers est en 2023 la deuxième commune la plus peuplée de la région Pays de la Loire et la dix-huitième de France avec 159 022 habitants. En 2023, la ville est la commune-centre d'une aire […]",
+  "La plus ancienne trace d’occupation humaine remonte à 400 000 ans av. J.-C. et a été découverte rue de Frémur. Le site est occupé dès le néolithique (vers 4500-3000 av. J.-C.) puisqu’un cairn a été retrouvé sur le site actuel du château. Des rejets de silex ont également été découverts sous le logis royal. Au Ve siècle av. J.-C., le peuple celte des Andes ou Andécaves s’établit dans la région d’Angers, surtout au […]",
+  "IVe siècle : Ainsi, au tournant des IIIe et IVe siècles est édifiée une muraille ne délimitant plus qu’une petite superficie d’environ 9 ha (l’actuelle cité).",
+  "845 : Tant les Bretons que les Vikings font d’incessantes incursions en Anjou et la ville est pillée par le chef nordique Hasting en 845, puis à nouveau en 852.",
+  "XIIe siècle : Au XIIe siècle, un historien anglais, Raoul de Diceto, vante la magnificence des édifices romans angevins.",
+  "1598 : En 1598, Henri IV séjourne à Angers pendant l’élaboration de l’édit de Nantes et arrive ainsi à convertir les plus réticents catholiques.",
+  "1623 : Jusqu’en 1623, il s’agissait d’une île faite de prairies inondables près de laquelle fut construit l’ancien port Ayrault, comblé à la fin des années 1860.",
+  "1711 : Le pont des Treilles, en ruine depuis 1711, est quant à lui définitivement démoli en 1855 puis 1890 alors que le « Grand pont » — actuel pont de Verdun —, le plus ancien de la ville, est reconstruit entre 1846 et 1848.",
+  "1849 : Le chemin de fer fait son apparition en 1849 en présence de Louis-Napoléon Bonaparte et la gare Saint-Laud est inaugurée en 1853.",
+  "XIXe siècle : Ce détournement est à l'origine du canal de la tannerie, comblé seulement au XIXe siècle.",
+  "1850 : Dans la foulée du décret napoléonien, la ceinture de boulevard est achevée vers 1850-1860 et des ponts sont construits dans son prolongement.",
+  "1850 : En 1850, le pont de la Basse-Chaîne s’effondre lors d’une revue et provoque la mort de 223 personnes, principalement des soldats du 11e régiment d'infanterie légère.",
+  "1866 : De la même manière, l’ancien canal des Tanneries est comblé en 1866 et laisse place à l’actuel boulevard Henri-Arnauld ; par conséquent, l’ancienne île des Carmes est rattachée à la Doutre.",
+  "1898 : Au début du XXe siècle, la ville s’enrichit cependant au niveau universitaire et culturel : en 1898 est fondée l’École supérieure d’agriculture et de viticulture et en 1909, l'École supérieure des sciences commerciales.",
+  "Lieu « La Roseraie (Angers) » : La Roseraie est l'un des plus importants quartiers d'Angers (Maine-et-Loire).",
+  "Lieu « La Roseraie (Angers) », 1989 : 1989 : ouverture du centre Jean Vilar, au cœur de la Roseraie qui comprend un centre de loisirs, une bibliothèque, un gymnase…",
+  "Lieu « La Roseraie (Angers) », 1989 : Centre Jean Vilar : construit vers 1989, il a été restructuré en 2009.",
+  "Lieu « La Roseraie (Angers) », 2012 : Le projet du Conseil Général qui consistait à fermer le Collège Jean Vilar à l'horizon 2012 pour y transplanter tous ses élèves au Collège Jean Mermoz a été abandonné, face aux nombreux opposants.",
+  "Lieu « La Roseraie (Angers) », aujourd'hui : Il compte actuellement environ 26 000 habitants répartis dans près de 8 500 logements (dont 55 % de logements sociaux).",
+  "Lieu « Tenture de l'Apocalypse » : La tenture de l'Apocalypse (ou les tapisseries de l'Apocalypse, ou encore l'Apocalypse d'Angers) est une représentation de l'Apocalypse de Jean de Patmos réalisée à la fin du XIVe siècle sur commande du duc Louis Ier d'Anjou.",
+  "Lieu « Tenture de l'Apocalypse », XVe siècle : La tenture est léguée à la cathédrale d'Angers au XVe siècle par le roi René.",
+  "Lieu « Tenture de l'Apocalypse », 1474 : Elle est ensuite donnée par le roi René à la cathédrale d'Angers par une clause spéciale de son testament du 22 juillet 1474 qui est exécuté par une lettre de Louis XI à l'évêque d'Angers datée du 17 juillet 1480.",
+  "Lieu « Tenture de l'Apocalypse », 1953 : De 1953 à 1954, l'architecte en chef des monuments historiques Bernard Vitry construit une galerie en équerre à l'emplacement des anciens bâtiments qui ferment la cour seigneuriale du château d'Angers.",
+  "Lieu « Tenture de l'Apocalypse », aujourd'hui : Cette œuvre est le plus important ensemble de tapisseries médiévales subsistant au monde.",
+  "Lieu « Château d'Angers » : Le château d'Angers, aussi appelé château des ducs d'Anjou, est situé dans la ville d’Angers dans le département de Maine-et-Loire en France.",
+  "Lieu « Château d'Angers », Ier siècle : Une partie des remparts gallo-romains traversaient l'actuel château d'ouest en est, longeant l'ancien promontoire du Ier siècle dont les édifices sont probablement détruits pour construire la muraille.",
+  "Lieu « Château d'Angers », IXe siècle : On y trouve des bâtiments d'une bonne qualité de construction ainsi que des espaces d'artisanats et de jardins qui correspondraient à une résidence épiscopale, l'évêque étant mentionné comme le propriétaire de l'emplacement du château au milieu du IXe siècle.",
+  "Lieu « Château d'Angers », XVIe siècle : Au XVIe siècle, à la suite des troubles des guerres de Religion, Henri III ordonne la destruction du château, mais seule la partie supérieure des tours est détruite.",
+  "Lieu « Château d'Angers », aujourd'hui : L'emplacement du château d'Angers est stratégique car il se situe sur le flanc ouest de la colline de la Cité, le point le plus haut d'Angers, avec 47 mètres.",
+  "Lieu « Berges de Maine » : Les berges de la Maine constituent un espace public de 300 hectares situé sur les rives de la Maine à Angers.",
+  "Lieu « Berges de Maine », 1838 : Le pont de la Basse-Chaîne et le pont de la Haute-Chaîne sont mis en service en 1838 et 1839 (reconstruits après la seconde guerre mondiale respectivement en 1951 et 1962).",
+  "Lieu « Berges de Maine », 1960 : Construite dans les années 1960-1970, l’A11 appelée l'Océane reliant Paris à Nantes s’interrompait de part et d’autre, aux portes d’Angers.",
+  "Lieu « Berges de Maine », 1973 : En 1973, le pont de l’Atlantique est ouvert dans la continuité des travaux de construction de la voie rapide traversant la ville d’Angers et permet aux voitures de passer du Sud-Ouest de la ville au Nord-Est.",
+  "Lieu « Berges de Maine », aujourd'hui : Deux nouveaux ponts – de la Basse et de la Haute-Chaîne – sont mis en service en 1838 et 1839 pour raccorder d’une rive à l’autre les nouveaux boulevards ouverts sur l’emplacement des fortifications.",
+  "Lieu « Gare d'Angers-Saint-Laud » : La gare d'Angers-Saint-Laud est la gare ferroviaire française principale de la ville d'Angers, située dans le département de Maine-et-Loire, en région Pays de la Loire.",
+  "Lieu « Gare d'Angers-Saint-Laud », 1849 : La première gare d'Angers-Saint-Laud, bien que provisoire, est inaugurée avec la ligne, le 30 juillet 1849, en présence du président de la république Louis-Napoléon Bonaparte.",
+  "Lieu « Gare d'Angers-Saint-Laud », 1853 : Cette même année débutent les travaux de construction d'un bâtiment voyageurs « en dur », il est livré au service en 1853.",
+  "Lieu « Gare d'Angers-Saint-Laud », 1970 : Une troisième gare, la gare d'Angers-Saint-Serge, est une ancienne gare de voyageurs détruite en 1970, et ne servant plus qu'au fret du marché d'intérêt national du Val de Loire.",
+  "Lieu « Gare d'Angers-Saint-Laud », aujourd'hui : Elle est séparée de Trélazé par la gare aujourd'hui disparue de La Paperie et de Savennières - Béhuard par celles fermées de La Pointe - Bouchemaine et de Béhuard - Les Forges.",
+  "Lieu « Monplaisir (Angers) » : Monplaisir est l'un des quartiers nord d'Angers construit entre 1962 et 1976.",
+  "Lieu « Monplaisir (Angers) », 1962 : Monplaisir est l'un des quartiers nord d'Angers construit entre 1962 et 1976.",
+  "Lieu « Monplaisir (Angers) », 1963 : Dès 1963, cette bourgade s'est transformée en une petite ville, qu'est devenu Monplaisir.",
+  "Lieu « Monplaisir (Angers) », 2004 : Le conseil consultatif de quartier de Monplaisir a été installé officiellement le 5 mars 2004 par Jean-Claude Antonini, maire d'Angers de l'époque, et Odile Sallé, présidente du conseil consultatif de quartier.",
+  "Lieu « Monplaisir (Angers) », aujourd'hui : Monplaisir totalise actuellement 3 397 logements, tous types confondus, dont près de 2700 logements de type HLM.",
+  "Lieu « Pont de la Basse-Chaîne » : Le pont de la Basse-Chaîne est un ouvrage d'art situé à Angers, dans le département du Maine-et-Loire, en région Pays de la Loire, en France.",
+  "Lieu « Pont de la Basse-Chaîne », 1838 : Le premier ouvrage, achevé en 1838, est connu pour sa rupture en 1850, qui provoqua la mort de plus de 220 soldats du 3e bataillon du 11e régiment d'infanterie légère et de 3 civils qui le traversaient pour se rendre à une revue militaire.",
+  "Lieu « Pont de la Basse-Chaîne », 1838 : Le pont de la Basse-Chaîne, inauguré en septembre 1838, était un pont suspendu ancré au sol, conçu par l'architecte Joseph Chaley et autorisé par l'ordonnance royale du 12 juin 1835 pour une durée de concession de 35 ans.",
+  "Lieu « Pont de la Basse-Chaîne », 1856 : Il est alors remplacé par un deuxième pont construit en pierre en 1856.",
+  "Lieu « Pont de la Basse-Chaîne », aujourd'hui : Il ne reprend pas l'emplacement du pont en pierre, aligné au boulevard Gaston Dumesnil, mais est construit en parallèle légèrement au sud, dans l'alignement du boulevard du Général De Gaulle.",
+  "Lieu « Musée des Beaux-Arts d'Angers » : Le musée des Beaux-Arts d'Angers est un musée d'art situé à Angers, dans un ancien hôtel particulier, le logis Barrault, place Saint-Éloi à proximité de la cité historique d'Angers.",
+  "Lieu « Musée des Beaux-Arts d'Angers », 1841 : Trois fonds distincts ont été réunis : celui du Museum de l’Ecole Centrale de Maine-et-Loire, devenu depuis le musée des Beaux-Arts d'Angers, celui du musée des Antiquités, créé en 1841 et fermé en 1968, et enfin, celui du musée Turpin de Crissé, installé en 1863 à l’hôtel Pincé.",
+  "Lieu « Musée des Beaux-Arts d'Angers », XIXe siècle : Le XIXe siècle est le plus richement représenté, grâce notamment aux artistes angevins qui ont donné ou légué leurs œuvres aux musées d'Angers : David d’Anger, Lancelot Théodore Turpin de Crissé, Guillaume Bodinier et Jules-Eugène Lenepveu.",
+  "Lieu « Musée des Beaux-Arts d'Angers », 1887 : La galerie Beaurepaire est inaugurée en 1887.",
+  "Lieu « Musée des Beaux-Arts d'Angers », aujourd'hui : Une nouvelle entrée pour le public fait son apparition, pour rendre le musée plus visible."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
