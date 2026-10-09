@@ -1,0 +1,285 @@
+{
+ "commune": {
+  "titre": "Nîmes",
+  "code_insee": "30189",
+  "departement": "30",
+  "population": 151839,
+  "lat": 43.8322,
+  "lon": 4.3429,
+  "url": "https://fr.wikipedia.org/wiki/N%C3%AEmes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:17:36",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3287,
+  "sortie": 2148
+ },
+ "cout_usd": 0.003342,
+ "accroche": "Vers la fin du Ier siècle, les Arènes de Nîmes sont construites : un amphithéâtre romain toujours au cœur de la ville.",
+ "histoire": {
+  "recit": "Nîmes, ville du sud-est, préfecture du Gard et commune urbaine, rassemble aujourd’hui les Nîmois et les Nîmoises autour de son héritage antique et de ses quartiers en transformation.\n\nAvant les grands monuments visibles, le territoire est rattaché à une antique capitale : Strabon et Pline évoquent l’installation d’une peuplade celte et la fondation de l’antique Nîmes, associée aux Volques Arécomiques.\n\nLes repères romains structurent encore le paysage. La Maison carrée, temple hexastyle achevé au début du Ier siècle après J.-C., porte une inscription gravée lors d’une réparation en 1822. En vis-à-vis, Carré d’art vient au XXe siècle donner un pendant moderne à ce cœur antique.\n\nAu même endroit, les Arènes de Nîmes, construites vers la fin du Ier siècle, ont traversé les visites et les projets : François Ier s’y émeut au début du XVIe siècle, puis, bien plus tard, un nouveau parvis offre la statue du matador Nimeño II. Aujourd’hui, elles accueillent plusieurs corridas et courses camarguaises chaque année, et des manifestations culturelles.\n\nEnfin, des traces plus discrètes complètent l’ensemble : à Pissevin-Valdegour, la ZUP-Sud commence avec des immeubles à Super-Nîmes en 1962, tandis que la gare de Nîmes ne conserve plus qu’un pavillon latéral de la première gare.",
+  "chronologie": [
+   {
+    "date": "VIIIe – IIe siècles av. J.-C.",
+    "texte": "Une peuplade celte s’établirait dans la région et aurait fondé, sur le territoire de Nîmes, l’antique capitale des Volques Arécomiques.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début du Ier siècle apr. J.-C.",
+    "texte": "La Maison carrée est achevée, temple romain hexastyle.",
+    "sources": [
+     "S14",
+     "S15"
+    ]
+   },
+   {
+    "date": "vers la fin du Ier siècle",
+    "texte": "Les Arènes de Nîmes sont construites comme amphithéâtre romain.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "début du XVIe siècle",
+    "texte": "François Ier s’émeut de l’état des Arènes et préconise leur dégagement, sans effet durable.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1822",
+    "texte": "Sur la Maison carrée, une inscription en lettres romaines mentionne une réparation et un financement par le roi et les citoyens.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "À Pissevin-Valdegour, la ZUP-Sud démarre : des immeubles de six étages sont achevés à Super-Nîmes.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "Sur le nouveau parvis des Arènes, une statue en bronze du matador Nimeño II est inaugurée.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2016",
+    "texte": "La découverte de ce qui aurait été la première église de Nîmes, construite au Ve siècle, est officialisée avec environ 130 tombes.",
+    "sources": [
+     "S3",
+     "S22"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Arènes de Nîmes",
+   "histoire": "Amphithéâtre romain construit vers la fin du Ier siècle, les Arènes de Nîmes ont ensuite fait l’objet de mesures et de réaménagements, jusqu’à un parvis moderne et vivant.",
+   "anecdotes": [
+    {
+     "texte": "Au début du XVIe siècle, François Ier s’émeut de l’état de l’édifice et propose son dégagement, mais la décision reste sans suite.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Sur le nouveau parvis, inauguré avec la comédienne Bernadette Lafont, on admire la statue en bronze du matador Nimeño II, gravement blessé dans les arènes d’Arles en 1989.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, elles accueillent une vingtaine de corridas et courses camarguaises chaque année, ainsi que diverses manifestations culturelles.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 43.834892,
+   "lon": 4.359586,
+   "url": "https://fr.wikipedia.org/wiki/Ar%C3%A8nes_de_N%C3%AEmes"
+  },
+  {
+   "nom": "Pissevin-Valdegour",
+   "histoire": "Quartier prioritaire de la politique de la ville, Pissevin-Valdegour se situe au sud-ouest de Nîmes et est surnommé « La ZUP ».",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S13"
+   ],
+   "lat": 43.827903,
+   "lon": 4.334811,
+   "url": "https://fr.wikipedia.org/wiki/Pissevin-Valdegour"
+  },
+  {
+   "nom": "Maison carrée",
+   "histoire": "Temple romain hexastyle achevé au début du Ier siècle après J.-C., la Maison carrée a été restaurée au XIXe siècle et conserve une inscription liée à une réparation en 1822. Face à elle, Carré d’art a été conçu comme pendant contemporain.",
+   "anecdotes": [
+    {
+     "texte": "L’inscription gravée sur le flanc ouest mentionne une réparation « par la munificence du roi et l’argent offert par les citoyens, 1822 ».",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le temple romain est présenté comme le mieux conservé au monde.",
+   "sources": [
+    "S18"
+   ],
+   "lat": 43.838194,
+   "lon": 4.356111,
+   "url": "https://fr.wikipedia.org/wiki/Maison_carr%C3%A9e"
+  },
+  {
+   "nom": "Nemausus",
+   "histoire": "Nemausus est le nom antique de la ville de Nîmes. Au IIIe siècle avant notre ère, la puissance de la cité s’accroît et un enclos de pierre sèche, avec tours de surveillance, est bâti autour du site.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges de la Curie, identifiés au nord de la maison carrée, sont mis en avant.",
+   "sources": [
+    "S19",
+    "S20",
+    "S23"
+   ],
+   "lat": 43.8377777778,
+   "lon": 4.36083333333,
+   "url": "https://fr.wikipedia.org/wiki/Nemausus"
+  },
+  {
+   "nom": "Petit temple de Nîmes",
+   "histoire": "Édifice religieux situé au 19, rue du Grand-Couvent à Nîmes, le Petit temple a porté ce nom pour se différencier du Grand temple de la Calade.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une portion de la fresque est visible, près du buffet d’orgue.",
+   "sources": [
+    "S24",
+    "S28"
+   ],
+   "lat": 43.839,
+   "lon": 4.35678,
+   "url": "https://fr.wikipedia.org/wiki/Petit_temple_de_N%C3%AEmes"
+  },
+  {
+   "nom": "Gare de Nîmes",
+   "histoire": "La gare de Nîmes, parfois appelée Nîmes-Centre, se trouve sur le territoire de la commune. Une première gare est établie à l’est en 1839, avant d’être remplacée par l’actuelle gare.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "De nos jours, ne subsiste qu’un des deux pavillons latéraux de la première gare, aujourd’hui rue Sully.",
+   "sources": [
+    "S29",
+    "S31",
+    "S33"
+   ],
+   "lat": 43.832516,
+   "lon": 4.36634,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_N%C3%AEmes"
+  },
+  {
+   "nom": "Carré d'art",
+   "histoire": "Carré d’art est un équipement culturel de Nîmes rassemblant le musée d’art contemporain et la bibliothèque municipale classée. Il est édifié en vis-à-vis de la Maison carrée, comme pendant contemporain.",
+   "anecdotes": [
+    {
+     "texte": "À l’emplacement d’un ancien grand théâtre néo-classique, incendié en octobre 1952, la construction du Carré d’art est décidée par Jean Bousquet.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    },
+    {
+     "texte": "Le 9 mai 1993, le Carré d’art est inauguré.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La mise en valeur passe aussi par la numérisation : plus de 500 000 images sont disponibles sur la bibliothèque numérique de la ville de Nîmes, sur le site E-corpus du CICL d’Arles.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 43.838056,
+   "lon": 4.355,
+   "url": "https://fr.wikipedia.org/wiki/Carr%C3%A9_d%27art"
+  },
+  {
+   "nom": "Théâtre municipal (Nîmes)",
+   "histoire": "Le Théâtre municipal, aussi appelé Grand Théâtre, est un édifice civil de Nîmes. Il a été inauguré en 1803 face à la Maison carrée, puis modifié au fil des décennies avant de disparaître au profit du site actuel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice était situé sur le boulevard Victor Hugo, près de la Maison Carrée et à l’emplacement de l’actuel Carré d’art.",
+   "sources": [
+    "S43"
+   ],
+   "lat": 43.838056,
+   "lon": 4.355,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_municipal_%28N%C3%AEmes%29"
+  }
+ ],
+ "sources": [
+  "Nîmes ([nim] ou localement [ˈnimə] ; et en occitan Nimes ['nimes]) est une commune du sud-est de la France, préfecture du département du Gard en région Occitanie. Ses habitants se nomment les Nîmois et les Nîmoises. Nîmes est une commune urbaine qui compte 151 839 habitants en 2023. Elle est ville-centre de l'agglomération de Nîmes et fait partie de l'aire d'attraction de Nîmes. Située à quelques dizaines de […]",
+  "Strabon et Pline rapportent qu’une peuplade celte se serait établie dans la région et aurait fondé, sur le territoire de la ville de Nîmes, l’antique capitale des Volques Arécomiques. Cette dernière devint maîtresse de vingt-quatre bourgs considérables. Durant l'âge du fer (VIIIe – IIe siècles av. J.-C.), sous le possible toponyme de Namausikabo, se constitue l'un des principaux oppida de la Celtique […]",
+  "2016 : En 2016 est officialisée la découverte de ce qui aurait été la première église de Nîmes, construite au Ve siècle, avec approximativement 130 tombes.",
+  "Lieu « Arènes de Nîmes » : Les arènes de Nîmes sont un amphithéâtre romain construit vers la fin du Ier siècle dans la ville française de Nîmes, dans le Gard.",
+  "Lieu « Arènes de Nîmes », Ier siècle : Les arènes de Nîmes sont un amphithéâtre romain construit vers la fin du Ier siècle dans la ville française de Nîmes, dans le Gard.",
+  "Lieu « Arènes de Nîmes », XVIe siècle : Lors d'une visite à Nîmes au début du XVIe siècle, François Ier s'émeut de l'état de l'édifice et préconise son dégagement pour la première fois, ce qui reste lettre morte.",
+  "Lieu « Arènes de Nîmes », 1989 : Sur ce nouveau parvis, inauguré lors d'une cérémonie présidée par la comédienne gardoise Bernadette Lafont, on peut admirer la statue en bronze du matador Nimeño II, gravement blessé dans les arènes d'Arles en 1989.",
+  "Lieu « Arènes de Nîmes », aujourd'hui : Aujourd'hui, il accueille une vingtaine de corridas et courses camarguaises chaque année et diverses manifestations culturelles (concerts, reconstitutions historiques, comme les Journées romaines de Nîmes).",
+  "Lieu « Pissevin-Valdegour » : Pissevin-Valdegour est un quartier prioritaire de la politique de la ville situé dans la partie sud-ouest de Nîmes, surnommé « La ZUP ».",
+  "Lieu « Pissevin-Valdegour », 1962 : La ZUP-Sud est la première entamée, avec de premières constructions à Super-Nîmes (autrement appelé « les Poètes ») d'immeubles de six étages achevés en 1962.",
+  "Lieu « Pissevin-Valdegour », 1970 : Enfin, le secteur Wagner (« les Musiciens ») est achevé au début des années 1970 avec de hautes tours, jusqu'à 19 étages et une galerie commerciale.",
+  "Lieu « Pissevin-Valdegour », 1973 : Plus à l'est, les trois tours de 17 étages du Messager sont inaugurées en 1973 par le bailleur social.",
+  "Lieu « Pissevin-Valdegour », aujourd'hui : En remplacement du Carrefour démoli dans l'est du quartier, 89 logements devraient être construits, essentiellement en accession sociale.",
+  "Lieu « Maison carrée » : La Maison carrée est un temple romain hexastyle achevé au début du Ier siècle apr. J.-C. à Nîmes, dans le Gard.",
+  "Lieu « Maison carrée », Ier siècle : La Maison carrée est un temple romain hexastyle achevé au début du Ier siècle apr. J.-C. à Nîmes, dans le Gard.",
+  "Lieu « Maison carrée », 1822 : Restauré, comme les autres monuments nîmois, au XIXe siècle, l'édifice porte, gravé en lettres romaines sur le flanc ouest, un court texte en latin : « Réparé par la munificence du roi et l'argent offert par les citoyens, 1822 ».",
+  "Lieu « Maison carrée », 1993 : En 1993, l'architecte britannique Norman Foster construisit face à la Maison carrée un bâtiment appelé Carré d'Art, prévu pour accueillir un musée d'art contemporain, et pensé comme le pendant moderne de la Maison carrée.",
+  "Lieu « Maison carrée », aujourd'hui : Il s'agit aujourd'hui du temple romain le mieux conservé au monde.",
+  "Lieu « Nemausus » : Nemausus est le nom antique de l'actuelle ville de Nîmes.",
+  "Lieu « Nemausus », IIIe siècle : Au IIIe siècle av. J.-C., la puissance de la ville s’accroît et une enceinte en pierre sèche ponctuée par plusieurs tours de surveillance est bâtie autour du site.",
+  "Lieu « Nemausus », 600 : Autour de Massalia (Marseille) fondée en 600 av. J.-C. se développent plusieurs comptoirs commerciaux qui vont au fur et à mesure se regrouper en Oppida.",
+  "Lieu « Nemausus », 2016 : En 2016 est officialisée la découverte de ce qui aurait été la première église de Nîmes, construite au Ve siècle, avec autour 130 tombes.",
+  "Lieu « Nemausus », aujourd'hui : Le bâtiment qui la cristallise le plus est sans doute la Curie dont les vestiges ont tardivement été identifiés au nord de la maison carrée.",
+  "Lieu « Petit temple de Nîmes » : Le petit temple de Nîmes est un édifice religieux situé 19, rue du Grand-Couvent à Nîmes, en Occitanie.",
+  "Lieu « Petit temple de Nîmes », 1686 : Il a été appelé Petit temple autrefois pour le différencier du Grand temple de la Calade (5000 places, détruit en 1686).",
+  "Lieu « Petit temple de Nîmes », 1714 : Il se situe dans l'ancienne église du couvent des Ursulines, édifié de 1714 à 1718.",
+  "Lieu « Petit temple de Nîmes », 1793 : En 1793, pendant la Révolution, l'édifice est acheté pour l'usage des protestants de Nîmes par Alexandre Vincens-Valz, riche protestant et professeur de rhétorique.",
+  "Lieu « Petit temple de Nîmes », aujourd'hui : Une portion de la fresque est visible, située à proximité du buffet d'orgue.",
+  "Lieu « Gare de Nîmes » : La gare de Nîmes, parfois appelée Nîmes-Centre, est une gare ferroviaire française de la ligne de Tarascon à Sète-Ville, située sur le territoire de la commune de Nîmes, préfecture du département du Gard, en région Occitanie.",
+  "Lieu « Gare de Nîmes », XVIIIe siècle : L’embarcadère est construit à l’est de la ville, entre les chemins d'Uzès et d‘Avignon, dans le quartier Richelieu aménagé dans la première moitié du XVIIIe siècle.",
+  "Lieu « Gare de Nîmes », 1839 : La première gare, qui a été établie en 1839 à l'est de la ville par la Compagnie des mines de la Grand'Combe et des chemins de fer du Gard, a été remplacée par l'actuelle gare construite postérieurement.",
+  "Lieu « Gare de Nîmes », 1840 : La seconde gare de Nîmes, face à l'actuelle avenue Feuchères, est construite au sud de la ville, entre 1840 et 1844, sur le viaduc de la ligne de chemin de fer de Montpellier à Nismes, qui se raccorde au chemin de fer du Gard à l’est.",
+  "Lieu « Gare de Nîmes », aujourd'hui : De nos jours ne subsiste qu'un des deux pavillons latéraux de cette première gare, aujourd'hui rue Sully.",
+  "Lieu « Carré d'art » : Carré d'art est un équipement culturel de ville de Nîmes rassemblant le musée d'art contemporain et la bibliothèque municipale classée.",
+  "Lieu « Carré d'art », Ier siècle : Le Carré d'art, constitué de verre, de béton et d'acier, est édifié en vis-à-vis de la Maison carrée, temple romain datant du début du Ier siècle apr. J.-C., dont il constitue un pendant contemporain.",
+  "Lieu « Carré d'art », 1798 : La construction du Carré d'art à l'emplacement d'un ancien grand théâtre néo-classique construit de 1798 à 1800, totalement incendié en octobre 1952 et dont ne subsistait que la façade constituée d'une colonnade néoclassique, est décidée par Jean Bousquet, maire de Nîmes de 1983 à 1995.",
+  "Lieu « Carré d'art », 1993 : Il a été inauguré le 9 mai 1993 Norman Jardin, NÎMES Carré d’art, l’anniversaire est bien lancé, in Objectif Gard, 10 mai 2023",
+  "Lieu « Carré d'art », aujourd'hui : Cette mise en valeur se fait par différents moyens : La numérisation de documents : plus de 500 000 images issues de la numérisation des collections sont aujourd’hui disponibles sur la bibliothèque numérique de la ville de Nîmes accueillie sur le site E-corpus du CICL d’Arles.",
+  "Lieu « Théâtre municipal (Nîmes) » : Le Théâtre municipal, ou Grand Théâtre, est un édifice civil de la ville de Nîmes, dans le département du Gard et la région Languedoc-Roussillon.",
+  "Lieu « Théâtre municipal (Nîmes) », 1803 : En 1803, le Grand Théâtre de l'architecte Meunier est inauguré face à la Maison Carrée.",
+  "Lieu « Théâtre municipal (Nîmes) », 1827 : La colonnade est ajoutée en 1827 et l'édifice est agrandi dix ans plus tard.",
+  "Lieu « Théâtre municipal (Nîmes) », 1860 : En 1860, un incendie se déclare à proximité d'un local abritant les décors et les accessoires du théâtre.",
+  "Lieu « Théâtre municipal (Nîmes) », aujourd'hui : L'édifice était situé sur le boulevard Victor Hugo, près de la Maison Carrée et à l'emplacement de l'actuel Carré d'art."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

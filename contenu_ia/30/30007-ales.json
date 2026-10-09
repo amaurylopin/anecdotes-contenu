@@ -1,0 +1,270 @@
+{
+ "commune": {
+  "titre": "Alès",
+  "code_insee": "30007",
+  "departement": "30",
+  "population": 46125,
+  "lat": 44.125,
+  "lon": 4.0905,
+  "url": "https://fr.wikipedia.org/wiki/Al%C3%A8s"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:35:27",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3388,
+  "sortie": 2018
+ },
+ "cout_usd": 0.0032,
+ "accroche": "À Alès, le premier stade Pierre Pibarot est construit en 1933 et inauguré la même année.",
+ "histoire": {
+  "recit": "À Alès, les époques se répondent. On trouve la trace d’anciens habitats sur la colline de l’Ermitage, avec des vestiges gaulois et une mosaïque liée à la période de Jules César. Plus tard, l’établissement d’une première promotion dans les locaux du collège d’Alais, en novembre 1845, rappelle l’élan éducatif de la ville.\n\nLa mémoire collective passe aussi par les ruptures. Le 21 août 1944, la ville est libérée par la première DB. Puis, dans l’après-guerre et les décennies suivantes, certains bâtiments changent de destin : le théâtre à l’italienne des Cordeliers disparaît dans les années 1960.\n\nCôté patrimoine, la mine témoin d’Alès a servi à former des apprentis mineurs à partir de 1945 jusqu’à sa fermeture en 1968. Ouverte au public en 1985, elle a ensuite connu une fermeture entre 2014 et 2020, avant d’être présentée aujourd’hui comme un lieu de mémoire sociale et industrielle.\n\nEt quand Alès rassemble ses habitants, c’est encore au stade Pierre Pibarot, dont l’équipement s’est élargi au fil du temps : au stade s’ajoutent une salle de sport, une piscine et une patinoire.",
+  "chronologie": [
+   {
+    "date": "Ier siècle av. J.-C.",
+    "texte": "Sur la colline de l’Ermitage, des fouilles mettent au jour des vestiges d’habitats gaulois et une mosaïque de l’époque de Jules César (première moitié du Ier siècle av. J.-C.).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "novembre 1845",
+    "texte": "La première promotion est installée dans les locaux du collège d’Alais.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "21 août 1944",
+    "texte": "La ville est libérée par la 1re DB.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "années 1960",
+    "texte": "L’ancien théâtre à l’italienne, installé dans l’ancienne église des Cordeliers, est démoli.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "Ouverture de la mine témoin d’Alès.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "Fermeture de la mine témoin d’Alès.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "La mine témoin d’Alès est ouverte au public.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2014-2020",
+    "texte": "Entre 2014 et 2020, la visite du site est fermée à la suite d’un épisode pluvieux de forte amplitude.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Mine témoin d'Alès",
+   "histoire": "Site minier situé à Alès, la mine témoin d’Alès a accueilli l’apprentissage de plusieurs générations d’apprentis mineurs sous la conduite d’instructeurs, de son ouverture en 1945 jusqu’à sa fermeture en 1968. Ouvert au public en 1985, le site présente une rétrospective de l’activité charbonnière du bassin minier d’Alès, et a été fermé à partir de 2014 jusqu’à 2020 après un épisode pluvieux de forte amplitude. Aujourd’hui, il est présenté comme un lieu de mémoire sociale et industrielle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 44.1318861,
+   "lon": 4.0663239,
+   "url": "https://fr.wikipedia.org/wiki/Mine_t%C3%A9moin_d%27Al%C3%A8s"
+  },
+  {
+   "nom": "Stade Pierre-Pibarot",
+   "histoire": "Stade de football situé à Alès. Il est construit en 1933 par la ville d’Alès et inauguré la même année. En 1950, des gradins en béton de 8 niveaux sont construits derrière un but. En 1990, la tribune « Ouest » en bois devient trop vétuste. Aujourd’hui, le lieu est un complexe sportif avec, en plus du stade et de la salle de sport, une piscine et une patinoire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 44.1189,
+   "lon": 4.09,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Pierre-Pibarot"
+  },
+  {
+   "nom": "Cathédrale Saint-Jean-Baptiste d'Alès",
+   "histoire": "Église catholique romaine du diocèse de Nîmes située à Alès. Son clocher-porche, massive tour carrée, conserve quelques éléments d’édifices antérieurs datant des XIIe et XVe siècles. En 1621-22, des dégâts sont causés sur l’édifice lors d’un conflit entre catholiques et protestants animé par le duc de Rohan. Le dôme d’origine, recouvert de plomb, est détruit par la foudre en 1775 et remplacé par un campanile en forme de flèche en fer forgé datant de 1776. L’église actuelle est édifiée sur les restes d’une ancienne église carolingienne, elle-même située sur l’emplacement d’un temple gallo-romain.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 44.12386,
+   "lon": 4.07749,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Jean-Baptiste_d%27Al%C3%A8s"
+  },
+  {
+   "nom": "Chapelle de l'Ermitage de Notre-Dame-des-Mines",
+   "histoire": "Chapelle située sur la colline de l’Ermitage à Alès, dédiée à Notre-Dame-des-Mines. Elle s’élève sur l’emplacement d’un ancien oppidum et a été bâtie par les moines du prieuré de Saint-Germain-de-Montaigu aux XIe et XIIe siècles pour accueillir des moines devenus vieux ou infirmes. Le sanctuaire est abandonné en 1561 et ruiné pendant les guerres de Religion. En 1675, l’évêque de Nîmes autorise un ermite, le frère Jean Salomon, à s’installer dans les bâtiments en ruine, donnant son nom à l’Ermitage. Aujourd’hui, il ne subsiste que la chapelle, de plan simple avec une abside en cul de four et un chœur de style roman.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 44.123505,
+   "lon": 4.063536,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_de_l%27Ermitage_de_Notre-Dame-des-Mines"
+  },
+  {
+   "nom": "Fort Vauban (Alès)",
+   "histoire": "Ouvrage militaire d’inspiration Vauban réalisé sur la colline de la Roque, surplombant le centre d’Alès. Le site conserve des traces liées à l’histoire antérieure du château des barons et des comtes : au XIIIe siècle, la tour Sainte-Anne du château des comtes est démolie et le château des barons rasé, à l’exception de la porte du XIIIe siècle intégrée à la courtine. Les bâtiments militaires sont ensuite abandonnés et concédés par décrets impériaux au début du XIXe siècle. À l’époque où la construction du fort Vauban est envisagée, le château des barons existe encore, et du château des comtes ne subsiste que la tour Sainte-Anne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 44.125786978131,
+   "lon": 4.0749191348572,
+   "url": "https://fr.wikipedia.org/wiki/Fort_Vauban_%28Al%C3%A8s%29"
+  },
+  {
+   "nom": "Arènes du Tempéras",
+   "histoire": "Arènes de la commune de Alès. Construites en 1891 pour accueillir des courses espagnoles, elles se heurtent aux interdictions de la loi. Inaugurées en 1966, elles connaissent ensuite des abandons : à nouveau abandonnées en 1978, elles ne se relèvent qu’en 1989 avec la feria de l’Ascension.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 44.1280555556,
+   "lon": 4.08166666667,
+   "url": "https://fr.wikipedia.org/wiki/Ar%C3%A8nes_du_Temp%C3%A9ras"
+  },
+  {
+   "nom": "Temple protestant d'Alès",
+   "histoire": "Lieu de culte situé place du Temple à Alès. Le temple est démoli en 1685 après la révocation de l’édit de Nantes. En 1707, la confrérie de pénitents blancs construit sa chapelle à l’emplacement du temple. En 1792, la loi du 18 août 1792 supprime les congrégations séculières : la chapelle des Pénitents blancs est confisquée et vendue comme bien national.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 44.1199,
+   "lon": 4.0749,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_d%27Al%C3%A8s"
+  },
+  {
+   "nom": "Palais épiscopal d'Alès",
+   "histoire": "Ancien palais épiscopal situé à Alès. À partir de juin 1728, il peut accueillir l’évêque dans une partie du bâtiment habitable. En 1936, la Chambre de commerces et d’industrie d’Alès (créée en 1909) décide l’acquisition de l’intégralité des bâtiments de l’ancien archevêché pour agrandir ses locaux. Dans les années 1970, après de nouveaux besoins d’agrandissement, la CCI déménage et l’ancien archevêché est revendu à la Caisse d’Épargne, qui entreprend des travaux d’aménagement.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43",
+    "S44",
+    "S45",
+    "S46"
+   ],
+   "lat": 44.123421,
+   "lon": 4.07707,
+   "url": "https://fr.wikipedia.org/wiki/Palais_%C3%A9piscopal_d%27Al%C3%A8s"
+  }
+ ],
+ "sources": [
+  "Alès (prononcé /a.lɛs/) est une commune française située dans le nord du département du Gard, en région Occitanie. Souvent considérée comme la « capitale » des Cévennes, elle est le siège d'une des deux sous-préfectures du Gard. Exposée à un climat méditerranéen, elle est drainée par le Gardon d'Alès, l'Avène, l'Alzon, le Grabieux et le ruisseau de Bruèges. Alès est une commune urbaine qui compte 46 125 habitants en […]",
+  "Certaines dénominations de quartiers, comme Larnac ou Croupilhac, témoignent de l'existence d'exploitations agricoles à l'époque gallo-romaine[réf. nécessaire]. Les fouilles sur la colline de l'Ermitage ont permis de mettre au jour des vestiges d'habitats gaulois du Ier siècle av. J.-C., dont une mosaïque de l'époque de Jules César (première moitié du Ier siècle av. J.-C.). Ses dimensions (35 m2) et la qualité de […]",
+  "1845 : Ce n'est qu'en novembre 1845 que la première promotion fut installée dans les locaux du collège d'Alais.",
+  "XIXe siècle : L'ancien lycée Jean-Baptiste-Dumas, édifié à la fin du XIXe siècle, sur le même modèle que celui du lycée Daudet de Nîmes, et auquel on accédait par une rotonde d'angle surmontée d'une horloge fut également démoli.",
+  "1944 : La ville est libérée par la 1re DB le 21 août 1944.",
+  "XXe siècle : Le bâtiment de la \"gare du Rhône\" du début du XXe siècle, ancienne ligne reliant Alais à Bagnols-sur-Cèze, désaffecté, disparut…",
+  "1960 : L'ancien théâtre à l'italienne, installé au sein de l'ancienne église des Cordeliers donnant sur la place de l'Hôtel de ville, fut également démoli dans les années 1960.",
+  "2004 : Depuis un incendie de forêt (24 juillet 2004), ce terril est entré en combustion souterraine.",
+  "2007 : En 2007, Pleyel a définitivement fermé son implantation alésienne (43 salariés).",
+  "Lieu « Mine témoin d'Alès » : La mine témoin d'Alès est un site minier situé à Alès, dans le département du Gard et la région Occitanie.",
+  "Lieu « Mine témoin d'Alès », 1945 : De 1945, date de son ouverture, à 1968, date de sa fermeture, ce sont plusieurs générations d’apprentis mineurs qui, sous la conduite d’instructeurs expérimentés, se sont succédé dans ses galeries pour apprendre leur futur métier.",
+  "Lieu « Mine témoin d'Alès », 1985 : Ouvert au public depuis 1985, il présente aujourd'hui une rétrospective de l'activité charbonnière du bassin minier d'Alès.",
+  "Lieu « Mine témoin d'Alès », 2014 : Entre 2014 et 2020 et à la suite d'un épisode pluvieux de forte amplitude, la visite de ce site a été fermée.",
+  "Lieu « Mine témoin d'Alès », aujourd'hui : Témoignage exceptionnel puisque rigoureusement authentique du travail et du courage dont ont su faire preuve les jeunes mineurs cévenols pendant deux décennies, la mine témoin d’Alès se veut aujourd’hui un lieu de mémoire sociale et industrielle unique en France.",
+  "Lieu « Stade Pierre-Pibarot » : Le stade Pierre Pibarot est un stade de football situé à Alès en France.",
+  "Lieu « Stade Pierre-Pibarot », 1933 : Le stade est construit en 1933 par la ville d'Alès et est inaugurée la même année.",
+  "Lieu « Stade Pierre-Pibarot », 1950 : En 1950, des gradins en béton de 8 niveaux sont construits derrière un but.",
+  "Lieu « Stade Pierre-Pibarot », 1990 : En 1990, la tribune \"Ouest\" en bois, construite en 1933 lors de la construction du premier stade, devient trop vétuste.",
+  "Lieu « Stade Pierre-Pibarot », aujourd'hui : Le lieu est aujourd'hui un important complexe sportif car en plus du stade et de la salle de sport, il y a une piscine et une patinoire.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste d'Alès » : La cathédrale Saint-Jean-Baptiste d'Alès est une église catholique romaine du diocèse de Nîmes.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste d'Alès », XVe siècle : Le clocher-porche, massive tour carrée, possède quelques éléments de l'édifice antérieur datant des XIIe et XVe siècles.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste d'Alès », 1621 : Mais en 1621-22, le conflit entre catholiques et protestants animé par le duc de Rohan entraîne de nouveaux dégâts sur l'édifice.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste d'Alès », 1775 : À l'origine surmonté d'un dôme recouvert de plomb détruit par la foudre en 1775, il est surmonté d'un gracieux campanile en forme de flèche en fer forgé datant de 1776 abritant la cloche des heures.",
+  "Lieu « Cathédrale Saint-Jean-Baptiste d'Alès », aujourd'hui : L'église actuelle est édifiée sur les restes d'une ancienne église carolingienne, elle-même située sur l'emplacement d'un temple gallo-romain.",
+  "Lieu « Chapelle de l'Ermitage de Notre-Dame-des-Mines » : La chapelle Notre-Dame-des-Mines, appelée aussi Notre-Dame-de-l'Ermitage, est une chapelle, surmontée d'une statue de la Vierge, bâtie sur la colline de l'Ermitage à Alès dans le Gard.",
+  "Lieu « Chapelle de l'Ermitage de Notre-Dame-des-Mines », XIIe siècle : Notre-Dame-des-Mines a été bâti sur l'emplacement d'un ancien oppidum, par les moines du prieuré de Saint-Germain-de-Montaigu, aux XIe et XIIe siècles, pour accueillir les moines devenus vieux ou infirmes.",
+  "Lieu « Chapelle de l'Ermitage de Notre-Dame-des-Mines », 1561 : Les moines ayant abandonné le sanctuaire en 1561, il fut ruiné pendant les guerres de Religion.",
+  "Lieu « Chapelle de l'Ermitage de Notre-Dame-des-Mines », 1675 : En 1675, l'évêque de Nîmes autorise un ermite, le frère Jean Salomon, à s’installer dans les bâtiments en ruine et qui donnera le nom d'Ermitage au lieu.",
+  "Lieu « Chapelle de l'Ermitage de Notre-Dame-des-Mines », aujourd'hui : Aujourd'hui, ne subsiste de l'édifice initial, que la chapelle, de plan très simple avec une abside en cul de four et un chœur de style roman.",
+  "Lieu « Fort Vauban (Alès) » : Le fort d'inspiration Vauban d'Alès est un ouvrage militaire réalisé sur la colline de la Roque, surplombant le centre de la ville d'Alès dans le département du Gard.",
+  "Lieu « Fort Vauban (Alès) », XIIIe siècle : La tour Sainte-Anne du château des comtes fut démolie, le château des barons rasé, à l'exception de la porte du XIIIe siècle intégrée à la courtine; le couvent des Capucins fut également démoli.",
+  "Lieu « Fort Vauban (Alès) », 1810 : Le décret impérial du 23 avril 1810 abandonne en toute propriété aux villes où ils sont situés les bâtiments militaires, casernes, hôpitaux.",
+  "Lieu « Fort Vauban (Alès) », 1811 : En ce qui concerne les prisons, le décret du 9 avril 1811 concède aux départements et communes les propriétés nationales occupées par le service de l'administration des cours et tribunaux.",
+  "Lieu « Fort Vauban (Alès) », aujourd'hui : À l'époque où la construction du fort Vauban fut envisagée, le château des barons existait toujours : du château des comtes ne subsistait que la tour Sainte-Anne.",
+  "Lieu « Arènes du Tempéras » : Les arènes du Tempéras, inaugurées en 1966, sont les arènes de la commune de Alès située dans le département du Gard et la région Languedoc-Roussillon.",
+  "Lieu « Arènes du Tempéras », 1891 : Construites en 1891 pour accueillir des courses espagnoles, elles se sont heurtées aux interdictions de la loi.",
+  "Lieu « Arènes du Tempéras », 1966 : Les arènes du Tempéras, inaugurées en 1966, sont les arènes de la commune de Alès située dans le département du Gard et la région Languedoc-Roussillon.",
+  "Lieu « Arènes du Tempéras », 1978 : A nouveau abandonnées en 1978, faute de moyen elles ne se relèvent qu'en 1989 avec la feria de l'Ascension.",
+  "Lieu « Temple protestant d'Alès » : Le temple protestant d'Alès est un lieu de culte situé place du Temple à Alès dans le Gard.",
+  "Lieu « Temple protestant d'Alès », 1685 : Le temple est démoli en 1685, après la révocation de l'édit de Nantes.",
+  "Lieu « Temple protestant d'Alès », 1707 : En 1707, la confrérie de pénitents blancs construit sa chapelle à l'emplacement du temple.",
+  "Lieu « Temple protestant d'Alès », 1792 : La loi du 18 août 1792 supprime les congrégations séculières, et la chapelle des Pénitents blancs est confisquée et vendue comme bien national.",
+  "Lieu « Palais épiscopal d'Alès » : Le palais épiscopal d'Alès est un ancien palais épiscopal situé à Alès, en France.",
+  "Lieu « Palais épiscopal d'Alès », 1728 : Il put emménager dans une partie du bâtiment habitable, dès juin 1728.",
+  "Lieu « Palais épiscopal d'Alès », 1909 : La Chambre de commerces et d'industrie d'Alès, créée en 1909, décide l'acquisition de l'intégralité des bâtiments de l'ancien archevêché en 1936, pour agrandir ses locaux.",
+  "Lieu « Palais épiscopal d'Alès », 1970 : À la suite de nouveaux besoins d’agrandissement, dans les années 1970, la CCI d'Alès déménage dans une nouveau bâtiment, et l'ancien archevêché est revendu à la Caisse d’Épargne, que entreprend des travaux d’aménagement."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
