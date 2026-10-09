@@ -1,0 +1,308 @@
+{
+ "commune": {
+  "titre": "Haguenau",
+  "code_insee": "67180",
+  "departement": "67",
+  "population": 36391,
+  "lat": 48.8388,
+  "lon": 7.8213,
+  "url": "https://fr.wikipedia.org/wiki/Haguenau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:44:07",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3925,
+  "sortie": 2226
+ },
+ "cout_usd": 0.003567,
+ "accroche": "En 1189, Frédéric Barberousse part de Haguenau pour la troisième croisade, après avoir fondé un hospice pour les pèlerins à l’église Saint-Nicolas.",
+ "histoire": {
+  "recit": "Haguenau, deuxième ville du Bas-Rhin et quatrième d’Alsace, se situe désormais dans le territoire de la collectivité européenne d’Alsace depuis le 1er janvier 2021. Son passé ne commence pas sur des vestiges romains : il n’y a pas eu de présence romaine sur le site, alors décrit comme une vaste forêt.\n\nDès le Moyen Âge, la ville devient un point de passage et de pouvoir. En 1189, Frédéric Barberousse y fonde un hospice pour accueillir les pèlerins. En 1193, Richard Cœur de Lion est jugé à Haguenau par le tribunal impérial présidé par Henri VI, qui y fait treize séjours. L’activité se lit aussi dans la vie quotidienne : en 1268, une douane est construite pour percevoir les taxes, et en 1518, une salle à côté de la Moder sert au vin et aux tissus.\n\nLa ville connaît ensuite les blessures du conflit : en 1636, le siège est levé après ravitaillement, puis l’hôtel de ville brûle en 1677. Le château impérial est détruit en 1687, et ses pierres servent à construire Fort-Louis.\n\nPlus tard, la gare de Haguenau voit son bâtiment voyageurs détruit en 1944, puis reconstruit achevé en 1964 et inauguré en septembre 2017 avec des ascenseurs accessibles.",
+  "chronologie": [
+   {
+    "date": "1er janvier 2021",
+    "texte": "Haguenau est située dans le territoire de la collectivité européenne d’Alsace.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1189",
+    "texte": "Frédéric Barberousse part de Haguenau pour la troisième croisade et fonde un hospice pour les pèlerins à l’église Saint-Nicolas.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1193",
+    "texte": "Richard Cœur de Lion est jugé à Haguenau devant le tribunal impérial présidé par Henri VI.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1268",
+    "texte": "Une douane est construite pour percevoir les taxes sur les marchandises vendues ou transitant par la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1518",
+    "texte": "Une salle de la Douane est construite à côté de la Moder : le vin s’y entrepose au rez-de-chaussée, les tissus au premier étage.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1636",
+    "texte": "Assiégée en 1636 par les troupes impériales, la ville est ravitaillée et le siège est levé.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1677",
+    "texte": "L’incendie de la ville en 1677 consume entièrement l’intérieur de l’hôtel de ville.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1687",
+    "texte": "La Burg, le château impérial, est détruite ; les pierres servent à construire Fort-Louis.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Le bâtiment voyageurs de la gare est détruit en 1944 lors de la libération de l’Alsace.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1964",
+    "texte": "Un nouveau bâtiment de la gare est reconstruit au début des années 1960 et achevé en 1964.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "septembre 2017",
+    "texte": "La gare est inaugurée en septembre 2017 et permet notamment l’accès aux quais par des ascenseurs.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Haguenau",
+   "histoire": "La gare de Haguenau est une gare ferroviaire française située sur le territoire de la commune. Son bâtiment voyageurs est détruit en 1944, puis un nouveau bâtiment est reconstruit et achevé en 1964. Inaugurée en septembre 2017, elle dessert aujourd’hui les quais par des ascenseurs et fait partie du réseau TER Grand Est.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, la gare appartient à la SNCF et au réseau TER Grand Est, desservie par des trains express régionaux.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.813509,
+   "lon": 7.782265,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Haguenau"
+  },
+  {
+   "nom": "Château impérial de Haguenau",
+   "histoire": "Résidence des empereurs du Saint-Empire romain germanique, le château de Haguenau est supposé construit autour de 1027 pour freiner la progression en Alsace des troupes du duc de Souabe Ernest. Il est saccagé en 1622 et incendié pour la première fois en janvier 1677, puis encore en février et en septembre. Il est à l’origine du développement de la ville de Hagenau, devenue française en 1676, aujourd’hui commune de Haguenau.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.815803,
+   "lon": 7.788421,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_imp%C3%A9rial_de_Haguenau"
+  },
+  {
+   "nom": "Médiathèque de Haguenau",
+   "histoire": "Construite entre 1783 et 1788 dans un style néo-classique, la médiathèque devait servir d’hôpital militaire et bourgeois. Elle ouvre en 1841 dans l’ancienne chancellerie, puis déménage en 1905 dans un bâtiment nouvellement construit. Elle ferme officiellement par décret le 24 août 1960.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.81584,
+   "lon": 7.785836,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9diath%C3%A8que_de_Haguenau"
+  },
+  {
+   "nom": "Église Saint-Georges de Haguenau",
+   "histoire": "L’église Saint-Georges se trouve rue Saint-Georges à Haguenau. Un premier édifice est élevé au XIIe siècle, à l’emplacement d’une chapelle romane consacrée par Léon IX. La nef, primitivement charpentée à trois vaisseaux, serait construite vers 1200-1220. Elle est classée monument historique depuis 1848, et de l’ancien édifice subsistent deux tourelles d’escalier, la base de la tour et des vestiges de crypte, d’abside semi-circulaire et du bas-côté sud.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "De ce premier édifice subsistent deux tourelles d’escalier, la base de la tour et des vestiges de crypte, d’une abside semi-circulaire et du bas-côté sud.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.81389,
+   "lon": 7.78667,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Georges_de_Haguenau"
+  },
+  {
+   "nom": "Musée historique de Haguenau",
+   "histoire": "Le musée historique de Haguenau est un musée situé dans la ville éponyme. En 1193, Richard Cœur-de-Lion est jugé à Haguenau, comme le montre un vitrail visible à droite du hall d’accueil. En 1724, Charles-François Hannong obtient l’autorisation d’ouvrir une manufacture de faïence à Haguenau en raison de la présence d’argile et de forêt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le cahier de fouilles a été numérisé et est visible sur une vidéo.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S39"
+   ],
+   "lat": 48.813,
+   "lon": 7.79162,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_historique_de_Haguenau"
+  },
+  {
+   "nom": "Forêt de Haguenau",
+   "histoire": "La forêt de Haguenau s’étend sur le territoire de la commune et représente 21 000 ha. Elle attire des foules d’ermites et de nombreux couvents et églises, ce qui lui vaut l’appellation de « Forêt sainte » ou « Heiliger Forst ». Du VIe siècle au XIIIe siècle, huit couvents sont fondés dans la forêt ou sur sa lisière.",
+   "anecdotes": [
+    {
+     "texte": "Un monument érigé en 1862 près d’un gros chêne remarquable raconte qu’Arbogast y aurait vécu en ermite au VIIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle représente aujourd’hui 21 000 ha.",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 48.85,
+   "lon": 7.88333,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_de_Haguenau"
+  },
+  {
+   "nom": "Hôpital civil de Haguenau",
+   "histoire": "L’hôpital civil de Haguenau est un monument historique à Haguenau. En 1757, un nouveau bâtiment imaginé par Georges-Joseph Barth est construit ; en 1883, le bâtiment de l’ancien hôpital militaire est rattaché à l’hôpital civil. L’édifice fait l’objet d’une inscription au titre des monuments historiques depuis 1930. En 1328, Ottelin Truttmann fait don au Sénat d’une maison pour soigner les malades.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S49",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 48.8149,
+   "lon": 7.7885,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_civil_de_Haguenau"
+  },
+  {
+   "nom": "Porte des Chevaliers",
+   "histoire": "La porte des Chevaliers est un monument historique à Haguenau. Tour-porte construite vers 1235 après la construction de la troisième enceinte, elle sert de poudrière, puis à partir de 1763 de prison. La maison accolée est construite en 1763 pour donner accès aux cachots. L’édifice fait l’objet d’une inscription au titre des monuments historiques depuis 1930, et l’étage était occupé par des cellules éclairées par de petites baies grillagées, haut placées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’étage des cellules était éclairé par d’étroites petites baies grillagées, haut placées.",
+   "sources": [
+    "S50",
+    "S51",
+    "S52",
+    "S53",
+    "S54"
+   ],
+   "lat": 48.8181,
+   "lon": 7.7873,
+   "url": "https://fr.wikipedia.org/wiki/Porte_des_Chevaliers"
+  }
+ ],
+ "sources": [
+  "Haguenau (prononcé : /a.gə.no/ ; en alsacien : Hawenau /ˈhaːvəˌnaʊ/ ou Hawena /ˈhaːvəˌnaː/), est une commune française située dans la circonscription administrative du Bas-Rhin et, depuis le 1er janvier 2021, dans le territoire de la collectivité européenne d'Alsace, en région Grand Est. Elle est la deuxième ville du Bas-Rhin et la quatrième d'Alsace avec une population d'environ 35 000 habitants tandis que son […]",
+  "Il n'y a pas eu de présence romaine sur le site de Haguenau qui était à l'époque une vaste forêt. Une ville, chef-lieu des Celtes de la tribu des Triboques était installée à Brumath appelé Brocomagus. Des camps romains sont installés en 15 avant J.-C. pour sécuriser le Rhin en Alsace du nord à Strasbourg (appelé Argentoratum), Drusenheim (Castellum Drusi), Seltz (Saletio : voir l'histoire de Seltz) et Lauterbourg […]",
+  "1189 : En 1189, Frédéric Barberousse part de Haguenau pour la troisième croisade, non sans avoir auparavant fondé un hospice confié à l'ordre des prémontrés pour accueillir les pèlerins à l'église Saint-Nicolas de Haguenau.",
+  "1193 : En 1193, Richard Cœur de Lion fut jugé devant le tribunal impérial présidé par Henri VI (qui fait treize séjours à Haguenau) pour avoir abandonné le combat de la troisième croisade.",
+  "1268 : En 1268, deux cloches sont installées à l'église Saint-Georges de Haguenau, il s'agit des deux plus anciennes cloches « datées et signées » d'Europe qui sont toujours en activité.",
+  "1350 : En 1350, une douane est construite pour percevoir les taxes sur les marchandises vendues ou transitant par la ville.",
+  "1518 : En 1518, une salle de la Douane est construite à côté de la Moder au rez-de-chaussée on entrepose le vin et au premier étage les tissus.",
+  "1523 : L'architecte Fritz Hammer construit la sacristie de l'église, la custode du chœur (1523) et le grenier de la paroisse Saint-Georges, visible au 10, rue du Grenier (1527-1529, restauré en 1683, à la suite d'un incendie).",
+  "1636 : Assiégée par les troupes impériales en 1636, la ville est ravitaillée par le régiment de Rambures et les troupes du cardinal de La Valette et le siège fut levéHaguenau perd, selon l'interprétation qui est faite par les Français du très ambigu traité de Münster, son statut de ville impériale en 1648.",
+  "1677 : Lors de l'incendie de la ville en 1677, l'intérieur de l'hôtel de ville brûla entièrement.",
+  "1687 : En 1687, la Burg (le château impérial) de Haguenau est détruite et les pierres servent à construire Fort-Louis.",
+  "1763 : Sous Louis XV, les jésuites sont suspectés de n'être fidèles qu'au pape, à la suite de la suppression de la Compagnie de Jésus en 1763, les biens des jésuites sont inventoriés et en 1766, le collège jésuite de Haguenau est dissous et les bâtiments servent de caserne de cavalerie.",
+  "1784 : Finalement, la vénérable construction, ne fut démolie pour vétusté qu'en 1784 avec pour consignes de conserver les éléments d'architecture les plus intéressants, alors que l'aile droite fut conservée et passa entre les mains privées.",
+  "1791 : En 1791 la maison fut vendue aux enchères et acquise par le « Stadtprokurator ».",
+  "Lieu « Gare de Haguenau » : La gare de Haguenau est une gare ferroviaire française située sur le territoire de la commune de Haguenau, dans la collectivité européenne d'Alsace, en région Grand Est.",
+  "Lieu « Gare de Haguenau », 1944 : Le bâtiment voyageurs de la gare est détruit en 1944 lors de la libération de l'Alsace.",
+  "Lieu « Gare de Haguenau », 1960 : Après le conflit un nouveau bâtiment est reconstruit au début des années 1960 et achevé en 1964.",
+  "Lieu « Gare de Haguenau », 2017 : Celle-ci est inaugurée en septembre 2017 et permet notamment la desserte des quais par des ascenseurs accessibles aux personnes à mobilité réduite.",
+  "Lieu « Gare de Haguenau », aujourd'hui : C'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF), du réseau TER Grand Est, desservie par des trains express régionaux.",
+  "Lieu « Château impérial de Haguenau » : Le château impérial de Haguenau était une résidence des empereurs du Saint-Empire romain germanique.",
+  "Lieu « Château impérial de Haguenau », 1027 : Le château de Haguenau pourrait avoir été construit par Hugues IV d’Eguisheim, vers 1027, dans l’intention de stopper la progression en Alsace des troupes du duc de Souabe Ernest, alors en révolte contre l’empereur Conrad II.",
+  "Lieu « Château impérial de Haguenau », 1622 : Il est saccagé en 1622, lorsque les Autrichiens assiègent Haguenau, qui est alors occupé par Ernest de Mansfeld.",
+  "Lieu « Château impérial de Haguenau », 1677 : Haguenau est incendiée pour la première fois en janvier 1677, puis encore en février et en septembre.",
+  "Lieu « Château impérial de Haguenau », aujourd'hui : Il est à l'origine du développement de la ville de Hagenau, devenue française en 1676, actuellement la commune de Haguenau, dans le département du Bas-Rhin, en région Alsace.",
+  "Lieu « Médiathèque de Haguenau » : La médiathèque de Haguenau est une médiathèque publique française, située dans la commune de Haguenau, en Alsace.",
+  "Lieu « Médiathèque de Haguenau », 1783 : Construit entre 1783 et 1788, de style néo-classique, il doit servir d'hôpital militaire et bourgeois.",
+  "Lieu « Médiathèque de Haguenau », 1841 : Elle ouvre en 1841 dans l'ancienne chancellerie, au-dessus de la nouvelle justice de paix, pour déménager en 1905 dans le bâtiment nouvellement construit par le maire Xavier Nessel pour y abriter le musée, les archives et la bibliothèque.",
+  "Lieu « Médiathèque de Haguenau », 1960 : Cette dernière a officiellement fermé par décret du 24 août 1960, même si fin 1959, la population carcérale semble déjà avoir été transférée à la maison centrale de Rennes.",
+  "Lieu « Médiathèque de Haguenau », aujourd'hui : Quand la société est dissoute en 1765, la bibliothèque est sans doute transférée au grand séminaire de Strasbourg où se retrouvent aujourd'hui quelques rares vestiges de ces richesses haguenoviennes.",
+  "Lieu « Église Saint-Georges de Haguenau » : L'église Saint-Georges se situe rue Saint-Georges dans la commune française de Haguenau, sous-préfecture du Bas-Rhin dans le nord de l'Alsace.",
+  "Lieu « Église Saint-Georges de Haguenau », XIIe siècle : Un premier édifice est élevé sous Frédéric II le Borgne au XIIe siècle, à l'emplacement d'une chapelle romane, consacrée par le pape alsacien-lorrain Léon IX.",
+  "Lieu « Église Saint-Georges de Haguenau », 1200 : La nef primitivement charpentée à trois vaisseaux aurait été construite vers 1200-1220.",
+  "Lieu « Église Saint-Georges de Haguenau », 1848 : Elle constitue, avec l'église Saint-Nicolas et la basilique de Marienthal, l'un des édifices religieux majeurs de la ville et est classée monument historique depuis 1848.",
+  "Lieu « Église Saint-Georges de Haguenau », aujourd'hui : De ce premier édifice subsistent deux tourelles d'escalier, la base de la tour et des vestiges de la crypte, d'une abside semi-circulaire et du bas-côté sud.",
+  "Lieu « Musée historique de Haguenau » : Le musée historique de Haguenau est un musée situé dans la ville éponyme dans la circonscription administrative du Bas-Rhin et, depuis le 1er janvier 2021, dans le territoire de la collectivité européenne d'Alsace, en région Grand Est.",
+  "Lieu « Musée historique de Haguenau », 1193 : En 1193, Richard Cœur-de-Lion fut jugé à Haguenau devant le tribunal impérial présidé par Henri VI du Saint-Empire (qui fit 13 séjours à Haguenau) pour avoir abandonné le combat de la Troisième croisade, comme le montre le vitrail à droite du hall d'accueil.",
+  "Lieu « Musée historique de Haguenau », 1724 : Charles-François Hannong, un Hollandais installé à Strasbourg, obtient l'autorisation d'ouvrir une manufacture de faïence à Haguenau en 1724 en raison de la présence d'argile et de forêt, exploités depuis le Moyen âge par le village de Soufflenheim.",
+  "Lieu « Musée historique de Haguenau », 1892 : Cet édifice de styles néo-gothique et néo-Renaissance est édifié par le cabinet d'architectes strasbourgeois Kuder et Müller (association entre les deux architectes de 1892 à 1906).",
+  "Lieu « Musée historique de Haguenau », aujourd'hui : Le cahier de fouilles a été numérisé et est visible sur une vidéo.",
+  "Lieu « Forêt de Haguenau » : La forêt de Haguenau est une forêt située sur le territoire de la commune de Haguenau ; elle est la plus vaste forêt d'Alsace (21 000 ha).",
+  "Lieu « Forêt de Haguenau », VIe siècle : Au Moyen Âge, la forêt attirait selon la légende sacrée d'Alsace, foules d'ermites et de nombreux couvents et églises s'édifièrent autour, notamment entre le VIe siècle et le XIIIe siècle, ce qui donne à la forêt son appellation de « Forêt sainte » ou « Heiliger Forst ».",
+  "Lieu « Forêt de Haguenau », VIe siècle : Du VIe siècle au XIIIe siècle, huit couvents furent fondés dans la forêt ou sur sa lisière : Arnulfsau, Biblisheim, Koenigsbruck, Marienthal, Neubourg, Seltz, Surbourg et Walbourg.",
+  "Lieu « Forêt de Haguenau », 1862 : Une tradition évoquée par un monument érigé en 1862 à proximité d'un gros chêne remarquable indique le fait suivant : « Arbogast vécut ici en ermite au VIIe siècle.",
+  "Lieu « Forêt de Haguenau », aujourd'hui : Elle représente aujourd'hui 21 000 ha, ce qui contribue à en faire la sixième forêt de France.",
+  "Lieu « Hôpital civil de Haguenau » : L'hôpital civil de Haguenau est un monument historique situé à Haguenau, dans le département français du Bas-Rhin.",
+  "Lieu « Hôpital civil de Haguenau », 1757 : Ce n’est qu’en 1757 qu’un nouveau bâtiment, imaginé par Georges-Joseph Barth, fut construit.",
+  "Lieu « Hôpital civil de Haguenau », 1883 : En 1883, le bâtiment de l’ancien hôpital militaire est rattaché à l’hôpital civil.",
+  "Lieu « Hôpital civil de Haguenau », 1930 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1930.",
+  "Lieu « Hôpital civil de Haguenau », aujourd'hui : En 1328, le Prévôt Impérial Ottelin Truttmann fait don au Sénat de la ville d’une maison située sur l’emplacement de l’ancien hôpital (place d’Armes) pour que l’on y soigne les malades.",
+  "Lieu « Porte des Chevaliers » : La porte des Chevaliers est un monument historique situé à Haguenau, dans le département français du Bas-Rhin.",
+  "Lieu « Porte des Chevaliers », 1235 : Tour-porte construite vers 1235 après la construction de la 3e enceinte, elle servit de poudrière, puis à partir de 1763, de prison.",
+  "Lieu « Porte des Chevaliers », 1763 : La maison accolée fut construite en 1763 comme prison et donnait accès aux cachots de la tour.",
+  "Lieu « Porte des Chevaliers », 1930 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1930.",
+  "Lieu « Porte des Chevaliers », aujourd'hui : L’étage était occupé par des cellules éclairées par d’étroites petites baies grillagées, haut placées."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
