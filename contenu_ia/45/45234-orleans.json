@@ -1,0 +1,315 @@
+{
+ "commune": {
+  "titre": "Orléans",
+  "code_insee": "45234",
+  "departement": "45",
+  "population": 116357,
+  "lat": 47.8734,
+  "lon": 1.9122,
+  "url": "https://fr.wikipedia.org/wiki/Orl%C3%A9ans"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:19:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4091,
+  "sortie": 2159
+ },
+ "cout_usd": 0.003517,
+ "accroche": "Le 8 mai 1429, Orléans est libérée après des mois de siège grâce à Dunois et Florent d’Illiers.",
+ "histoire": {
+  "recit": "Avant d’être Orléans, la ville est décrite comme Cenabum, une place forte gauloise liée aux Carnutes, dont l’assemblée annuelle des druides est restée célèbre. Son port de la Loire attire les nautes, et la tradition locale évoque un massacre des marchands romains par un parti autochtone.\n\nPlus tard, l’enseignement devient un repère : en 1306, l’université d’Orléans est fondée par le pape Clément V et se spécialise dans le droit. En 1429, le siège finit : la levée par Jeanne d’Arc annonce la reconquête, et la libération intervient le 8 mai, avec l’aide de Dunois et Florent d’Illiers.\n\nLe destin continue d’être heurté. En 1562, un monument est détruit par les huguenots puis, après d’autres violences, la ville subit en 1563 un siège catholique qui mène au démantèlement des remparts.\n\nSous la Révolution, la province de l’Orléanais est démantelée et le Loiret est créé avec Orléans pour chef-lieu. Plus près de nous, la compagnie du chemin de fer de Paris à Orléans ouvre la voie au XIXe siècle, puis la ville connaît l’occupation prussienne en 1870 et les destructions de 1940. Après la libération, un plan de reconstruction est adopté en 1943 et les travaux commencent au début de 1945.",
+  "chronologie": [
+   {
+    "date": "1306",
+    "texte": "L’université d’Orléans est fondée par le pape Clément V et se spécialise dans le droit.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1429",
+    "texte": "La levée du siège de la ville est marquée par Jeanne d’Arc.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "8 mai 1429",
+    "texte": "La ville, assiégée en vain depuis des mois, est libérée avec l’aide de Dunois et de Florent d’Illiers.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "La province de l’Orléanais est démantelée et le département du Loiret est créé, avec Orléans comme chef-lieu.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "La compagnie du chemin de fer de Paris à Orléans est créée.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "13 octobre 1870",
+    "texte": "La ville est occupée par les Prussiens.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "juillet 1921",
+    "texte": "Le terrain de secours d’Orléans-Saran ouvre en juillet 1921, aménagé pour le service de la Navigation aérienne.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "juin 1940",
+    "texte": "Pendant l’Occupation, des immeubles sont détruits ou endommagés et la gare des Aubrais sert à la logistique ferroviaire.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "Le plan de reconstruction et d’aménagement est adopté en 1943.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "début 1945",
+    "texte": "Les travaux de reconstruction commencent au début de l’année 1945.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont George-V (Orléans)",
+   "histoire": "Le pont d’Orléans a porté plusieurs noms : pont Royal, pont National, puis, au cours de la Première Guerre mondiale, pont George-V. C’est un pont voûté en maçonnerie franchissant la Loire à Orléans.",
+   "anecdotes": [
+    {
+     "texte": "En 1768, il est question d’une « véritable révolution » : le rapport de l’épaisseur des piles à l’ouverture des arches serait tombé à 1/9.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "En 1760, l’intérieur du pont est comblé, et des travaux annexes sont réalisés.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, il dispose d’une voie automobile sud-nord, d’une piste cyclable bidirectionnelle, de deux voies pour les tramways et d’un trottoir.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 47.896667,
+   "lon": 1.904167,
+   "url": "https://fr.wikipedia.org/wiki/Pont_George-V_%28Orl%C3%A9ans%29"
+  },
+  {
+   "nom": "Parc Louis-Pasteur",
+   "histoire": "Le parc Louis-Pasteur, ou parc Pasteur, est un jardin public de quatre hectares créé en 1927, au nord de la Loire, en centre-ville d’Orléans.",
+   "anecdotes": [
+    {
+     "texte": "Le parc reçoit en 2023 un mémorial à Jean Zay, œuvre des plasticiens Anne et Patrick Poirier.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "En 1970, le monument des résistants et déportés du Loiret d’André Bordes est installé à l’angle nord-ouest du jardin.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le parc est ouvert selon les horaires indiqués pour les périodes d’heure d’hiver et d’heure d’été.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 47.908056,
+   "lon": 1.911944,
+   "url": "https://fr.wikipedia.org/wiki/Parc_Louis-Pasteur"
+  },
+  {
+   "nom": "Rue Royale (Orléans)",
+   "histoire": "La rue Royale est une des principales rues d’Orléans, remarquable pour ses arcades commerçantes et ses pavillons symétriques datant en partie du XVIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En juin 1940, après les bombardements de la Luftwaffe, environ la moitié de la rue est détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est desservie par la ligne A du tramway via la station Royale-Châtelet.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 47.899142,
+   "lon": 1.904078,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Royale_%28Orl%C3%A9ans%29"
+  },
+  {
+   "nom": "Théâtre antique d'Orléans",
+   "histoire": "Le théâtre antique d’Orléans est un édifice de spectacles antique. Construit au Ier siècle, agrandi au siècle suivant, il est peu à peu démonté à partir du IIIe siècle et son emprise est mise en culture au Moyen Âge.",
+   "anecdotes": [
+    {
+     "texte": "En 1821, le monument est découvert lors de travaux d’urbanisme, alors que son existence était supposée depuis longtemps.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aucune trace n’est signalée avant la première moitié du XIXe siècle, malgré l’existence évoquée par le parcellaire et des documents.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 47.9003545,
+   "lon": 1.922126,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_antique_d%27Orl%C3%A9ans"
+  },
+  {
+   "nom": "Église Notre-Dame-de-Recouvrance d'Orléans",
+   "histoire": "L’église Notre-Dame-de-Recouvrance est une église des XVe et XVIe siècles située à Orléans. Une extension de l’enceinte rend l’ancien mur inutile : celui-ci et ses fossés sont vendus, et deux acquéreurs cèdent leurs terrains en 1513 pour la construction de l’église.",
+   "anecdotes": [
+    {
+     "texte": "En 1562, l’incendie des charpentes par les huguenots entraîne la destruction de nombreux éléments de structure, dont la voûte centrale et le sommet du clocher.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 47.898833,
+   "lon": 1.9005972,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Recouvrance_d%27Orl%C3%A9ans"
+  },
+  {
+   "nom": "Centre hospitalier universitaire d'Orléans",
+   "histoire": "Le centre hospitalier universitaire d’Orléans est un établissement public de santé ayant le statut de centre hospitalier universitaire et situé à Orléans.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le nouvel hôpital d’Orléans, ouvert en 2015 à Orléans-La Source, est construit selon une démarche de haute qualité environnementale.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 47.836715,
+   "lon": 1.920305,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_d%27Orl%C3%A9ans"
+  },
+  {
+   "nom": "Hôtel Groslot",
+   "histoire": "L’hôtel Groslot est un hôtel particulier du XVIe siècle à Orléans. Le projet aboutit après cession à Jacques Groslot en 1545, puis l’édifice est hérité par sa veuve et ses deux fils.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le monument, successivement hôtel particulier puis hôtel de ville d’Orléans, accueille aujourd’hui la célébration des mariages.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 47.90266,
+   "lon": 1.90809,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Groslot"
+  },
+  {
+   "nom": "Port d'Orléans",
+   "histoire": "Le port d’Orléans est un port fluvial ligérien situé à Orléans ; son existence est attestée avant la conquête de la Gaule par Jules César. Des vestiges de bâtiments, peut-être des entrepôts, ont été découverts et des quais successifs témoignent de l’évolution du rivage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des fouilles archéologiques réalisées en 1993, dans le quartier Dessaux, ont permis de découvrir les vestiges de cinq quais aménagés successivement du Ier siècle.",
+   "sources": [
+    "S54"
+   ],
+   "lat": 47.897611,
+   "lon": 1.909167,
+   "url": "https://fr.wikipedia.org/wiki/Port_d%27Orl%C3%A9ans"
+  }
+ ],
+ "sources": [
+  "Orléans (/ɔʁ.le.ɑ̃/ ) est une commune française située sur les rives de la Loire, préfecture du département du Loiret et chef-lieu de la région Centre-Val de Loire. Située au cœur du Val de Loire et aux portes des régions naturelles de la forêt d'Orléans, de la Sologne et de la Beauce, et à environ 120 kilomètres au sud de Paris, Orléans est, en 2023, la deuxième commune la plus peuplée de la région Centre-Val de […]",
+  "Cenabum a été fondée pendant l'Antiquité. Elle fut une place forte gauloise, l'une des villes principales de la tribu des Carnutes dont l'assemblée annuelle des druides est restée célèbre. La métropole des Carnutes était alors Chartres. Port de commerce majeur pour la corporation des nautes de la Loire, Orléans fut le lieu d'un célèbre massacre des marchands romains par un parti autochtone. Cet évènement donna un […]",
+  "1306 : En 1306, l'université d'Orléans, la quatrième de France après Paris, Toulouse et Montpellier, est fondée par le pape Clément V. Attirant des intellectuels de toute l'Europe, elle se spécialise dans le droit.",
+  "XIVe siècle : Les ducs d'Orléans, dont le duché a été fondé au XIVe siècle, ne venaient presque jamais dans leur ville.",
+  "1429 : La levée du siège de la ville en 1429 par Jeanne d'Arc marque le début de la reconquête des territoires occupés par les Anglais.",
+  "1429 : La ville qui était assiégée en vain depuis des mois fut libérée le 8 mai 1429, avec l'aide des grands chefs militaires du royaume, Dunois et Florent d'Illiers.",
+  "1562 : Le monument, détruit en 1562 par les huguenots, puis reconstruit, est à nouveau détruit en 1792.",
+  "1563 : De janvier à avril 1563, la ville subit un siège rude de la part des armées catholiques du duc de Guise, elle est reprise et ses remparts sont démantelés.",
+  "1790 : En 1790, la province de l'Orléanais est démantelée et le département du Loiret est créé, avec Orléans comme chef-lieu.",
+  "1852 : En 1852 est créée la compagnie du chemin de fer de Paris à Orléans, qui fait notamment édifier la gare d'Orsay à Paris.",
+  "1870 : Le 13 octobre 1870, la ville est occupée par les Prussiens.",
+  "1921 : Puis le terrain de secours d'Orléans-Saran ouvre en juillet 1921, aménagé par le service de la Navigation aérienne avec un bâtiment pour loger un gardien, un atelier, un hangar et une cave à essence.",
+  "1940 : En juin 1940, 681 immeubles sont détruits et 695 endommagés Pendant l'Occupation, les Allemands font de la gare des Aubrais une gare centrale pour leur logistique ferroviaire.",
+  "1943 : Dans les années qui suivent sa libération, la ville est l'une des premières reconstruites : le plan de reconstruction et d'aménagement de Jean Kerisel et Jean Royer est adopté dès 1943 et les travaux commencent dès le début de l'année 1945.",
+  "Lieu « Pont George-V (Orléans) » : Le pont d'Orléans, dénommé pont Royal, puis pont National et, au cours de la Première Guerre mondiale, pont George-V, en l'honneur du roi du Royaume-Uni George V, est un pont voûté en maçonnerie franchissant la Loire à Orléans dans le département du",
+  "Lieu « Pont George-V (Orléans) », XVIIIe siècle : Le XVIIIe siècle a été en France un âge d'or pour la construction des ponts tant par le nombre de ceux qui furent édifiés que par les progrès réalisés dans l'exécution et la structure de ce type d'ouvrages.",
+  "Lieu « Pont George-V (Orléans) », 1760 : L’intérieur du pont est comblé en 1760, de même que des travaux annexes sont réalisés.",
+  "Lieu « Pont George-V (Orléans) », 1768 : Ce fut une véritable révolution lorsqu'au pont de Neuilly (1768-1774) il fit tomber le rapport de l'épaisseur des piles à l'ouverture des arches à 1/9.",
+  "Lieu « Pont George-V (Orléans) », aujourd'hui : Le pont dispose aujourd'hui d'une voie de circulation pour automobiles dans le sens sud-nord, d'une piste cyclable bidirectionnelle, de deux voies pour les tramways et d'un trottoir.",
+  "Lieu « Parc Louis-Pasteur » : Le parc Louis-Pasteur ou parc Pasteur est un jardin public français de quatre hectares, créé en 1927 et situé dans le centre-ville d'Orléans, au nord de la Loire, dans le département du Loiret et la région Centre-Val de Loire.",
+  "Lieu « Parc Louis-Pasteur », 1970 : En 1970, le monument des résistants et déportés du Loiret d’André Bordes est installé à l’angle nord-ouest du jardin.",
+  "Lieu « Parc Louis-Pasteur », 2023 : Un mémorial à Jean Zay, œuvre des plasticiens Anne et Patrick Poirier, y est installé en 2023.",
+  "Lieu « Parc Louis-Pasteur », 2025 : Le parc est ouvert de 08h00 à 18h00 pendant les périodes d'heure d'hiver ; et de 07h45 à 20h00 pendant les périodes d'heure d'été (2025-2026).",
+  "Lieu « Parc Louis-Pasteur », aujourd'hui : Deux nouveaux cimetières sont créés pour les remplacer et notamment celui du Champ-Carré renommé par la suite Saint-Vincent sur l'emplacement de l'actuel parc Pasteur.",
+  "Lieu « Rue Royale (Orléans) » : La rue Royale est l'une des principales rues de la ville d'Orléans, remarquable pour ses arcades commerçantes et ses pavillons symétriques datant en partie du XVIIIe siècle.",
+  "Lieu « Rue Royale (Orléans) », 1940 : Près de la moitié de ses constructions furent détruites par les bombardements et incendies de juin 1940, avant une restauration après la guerre.",
+  "Lieu « Rue Royale (Orléans) », 1940 : Au cours de la Seconde Guerre mondiale, à la suite des bombardements de la Luftwaffe de juin 1940, environ la moitié de la rue est détruite.",
+  "Lieu « Rue Royale (Orléans) », 1965 : La nouvelle rue Royale est inaugurée le 24 mars 1965 sous le mandat de Roger Secrétain.",
+  "Lieu « Rue Royale (Orléans) », aujourd'hui : Aujourd'hui, la rue est desservie par la ligne A du tramway via la station Royale-Châtelet.",
+  "Lieu « Théâtre antique d'Orléans » : Le théâtre antique d'Orléans est un édifice de spectacles antique situé dans la commune française d'Orléans, dans le département du Loiret.",
+  "Lieu « Théâtre antique d'Orléans », 1821 : Construit au Ier siècle, agrandi au siècle suivant, il est peu à peu démonté à partir du IIIe siècle et son emprise est mise en culture au Moyen Âge. le monument est découvert en 1821 à l'occasion de travaux d'urbanisme, même si son existence était supposée depuis longtemps.",
+  "Lieu « Théâtre antique d'Orléans », 1847 : L'aménagement d'un boulevard puis de la ligne ferroviaire Orléans - Vierzon (1847), détruite en 1944 puis reconstruite en 1944-1947, finit de bouleverser le site.",
+  "Lieu « Théâtre antique d'Orléans », XXIe siècle : Aux XXe et XXIe siècles, la possibilité d'un édifice mixte associant des caractéristiques d'un théâtre (présence d'un bâtiment de scène) et d'un amphithéâtre (cavea et orchestra dépassant le demi-cercle) est évoquée.",
+  "Lieu « Théâtre antique d'Orléans », aujourd'hui : Même si le parcellaire, l'existence d'une rue des Arènes et des documents évoquent l'existence d'un théâtre antique sur ce site, aucune trace n'en est signalée avant la première moitié du XIXe siècle.",
+  "Lieu « Église Notre-Dame-de-Recouvrance d'Orléans » : L'église Notre-Dame-de-Recouvrance est une église française des XVe et XVIe siècles située à Orléans, dans le département du Loiret et la région Centre-Val de Loire.",
+  "Lieu « Église Notre-Dame-de-Recouvrance d'Orléans », 1513 : L'extension de l'enceinte jusqu'aux mails actuels rend l'ancien mur inutile : celui-ci ainsi que ses fossés est vendu à divers carriers et autres acquéreurs; deux d'entre eux abandonnent leurs terrains en 1513 pour permettre la construction de l'église.",
+  "Lieu « Église Notre-Dame-de-Recouvrance d'Orléans », 1562 : Durant les guerres de Religion, en 1562, l’église est fortement endommagée, de nombreux éléments de structure sont détruits tels que la voûte centrale, les voûtes latérales, les contreforts et le sommet du clocher, du fait de l'incendie par les Huguenots des charpentes.",
+  "Lieu « Église Notre-Dame-de-Recouvrance d'Orléans », 1823 : Au début du XIXe, l'église est pourvue d'autels de style néoclassique et de plusieurs tableaux; en 1823, elle a ses écoles, fondées et construites avec les fonds et la générosité de deux industriels, MM. Feyzan et Raguenet de Saint-Albin.",
+  "Lieu « Église Notre-Dame-de-Recouvrance d'Orléans », aujourd'hui : Par ailleurs, la paroisse dispose d'une école de filles tenue par les sœurs de Ruillé et située au no 12 de la rue du Four-à-Chaux (aujourd'hui Stanislas-Julien); cet édifice saisi en 1905 par la puissance publique devient par la suite l'annexe d'un collège privé, puis la fédération des œuvres laïques.",
+  "Lieu « Centre hospitalier universitaire d'Orléans » : Le centre hospitalier universitaire d'Orléans, depuis peu appelé CHU d'Orléans (anciennement CHR d'Orléans) est un établissement public de santé français ayant le statut de centre hospitalier universitaire et situé à Orléans, préfecture du départemen",
+  "Lieu « Centre hospitalier universitaire d'Orléans », 1975 : Le dernier en date des hôpitaux, celui d'Orléans-La Source, a été ouvert en 1975 pour suppléer au manque de capacité de l'Hôtel-Dieu, qui poursuit parallèlement son activité, les deux hôpitaux se répartissant dorénavant, les diverses disciplines médicales.",
+  "Lieu « Centre hospitalier universitaire d'Orléans », 2015 : Le nouvel hôpital d'Orléans, ouvert en 2015 à Orléans-La Source, est construit selon une démarche de haute qualité environnementale (HQE).",
+  "Lieu « Centre hospitalier universitaire d'Orléans », 2017 : Il est inauguré le 2 janvier 2017 à Orléans-La Source par Bernard Cazeneuve, Premier ministre, en présence de Marisol Touraine, ministre de la Santé.",
+  "Lieu « Centre hospitalier universitaire d'Orléans », aujourd'hui : Des incertitudes subsistent sur la création du premier hôpital d'Orléans.",
+  "Lieu « Hôtel Groslot » : L’hôtel Groslot est un hôtel particulier du XVIe siècle situé à Orléans, dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Hôtel Groslot », 1545 : Ils envisagent d'y bâtir un hôtel particulier mais le cèdent avant l'aboutissement de ce projet, le 18 mai 1545, à Jacques Groslot, bailli d'Orléans et chancelier de Marguerite de Navarre, grand-mère d'Henri IV.",
+  "Lieu « Hôtel Groslot », 1553 : Sa veuve et ses deux fils, Jérôme et Henri, héritent de l'édifice et assistent à la fin de sa construction entre 1553 et 1558.",
+  "Lieu « Hôtel Groslot », 1855 : Le nouvel hôtel de ville est inauguré le 8 mai 1855.",
+  "Lieu « Hôtel Groslot », aujourd'hui : Le monument, appelé également Grande-Maison de l'Étape, Maison du Gouverneur, ou encore l'Intendance fut successivement un hôtel particulier puis l’Hôtel de ville d'Orléans et accueille aujourd’hui la célébration des mariages.",
+  "Lieu « Port d'Orléans » : Le port d'Orléans est un port fluvial ligérien français situé dans la ville d'Orléans dont l'existence est attestée avant la conquête de la Gaule par Jules César.",
+  "Lieu « Port d'Orléans », IIe siècle : Des vestiges de bâtiments, peut-être des entrepôts, présents jusqu'à la fin du Ier ou le début du IIe siècle, ont également été découverts.",
+  "Lieu « Port d'Orléans », XVIIIe siècle : L'opération la plus importante date de la seconde moitié du XVIIIe siècle où, dans le cadre des grands travaux qui voient notamment la construction du nouveau pont Royal, l'île médiane est rasée et le duit entièrement reconstruit.",
+  "Lieu « Port d'Orléans », 1831 : Celui-ci est d'abord installé en retrait du port de la Poterne, près de l'église Saint-Euverte, en 1831, puis à proximité immédiate de la Loire en aval du port de Recouvrance, quai Saint-Laurent.",
+  "Lieu « Port d'Orléans », aujourd'hui : Des fouilles archéologiques effectuées en 1993 dans le « quartier Dessaux » ont permis de découvrir les vestiges de cinq quais, très en retrait de la berge actuelle, aménagés successivement au Ier siècle en gagnant progressivement sur le fleuve."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}
