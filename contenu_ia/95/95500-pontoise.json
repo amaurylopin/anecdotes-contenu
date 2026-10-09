@@ -1,0 +1,302 @@
+{
+ "commune": {
+  "titre": "Pontoise",
+  "code_insee": "95500",
+  "departement": "95",
+  "population": 31970,
+  "lat": 49.0516,
+  "lon": 2.1017,
+  "url": "https://fr.wikipedia.org/wiki/Pontoise"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:47:33",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3803,
+  "sortie": 1725
+ },
+ "cout_usd": 0.002917,
+ "accroche": "Vers 1070, un nouveau pont est construit sur l’Oise à Pontoise, quand le passage ne se fait plus par l’ancienne voie.",
+ "histoire": {
+  "recit": "Sur la rive droite de l’Oise, Pontoise devient au fil du temps une ville qui se fortifie. À la fin du XIe siècle, l’abbaye d’abord fondée en ville s’installe sur le plateau Saint-Martin. Puis la cité change d’échelle : le pont sur l’Oise est reconstruit et fortifié, tandis qu’un château royal domine l’eau.\n\nPlus tard, Pontoise reçoit les pèlerins de Compostelle avec l’hôpital Saint-Jacques, avant d’être ballottée par les sièges et les prises. Le XIXe siècle apporte un autre élan : l’ouverture d’une gare, puis des remaniements autour du pont. Au XXe siècle, la ville continue de se reconstruire, et le quartier du pont s’organise autour d’un nouveau pont routier.\n\nAujourd’hui, plusieurs lieux gardent la trace de ces bouleversements : la gare au bord de la Viosne, les églises et l’abbaye, le carmel, et même les vestiges du château à l’aplomb de l’Oise.",
+  "chronologie": [
+   {
+    "date": "XIe siècle (fin du XIe siècle)",
+    "texte": "Une abbaye, initialement fondée à Pontoise, s’implante sur le plateau Saint-Martin.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1070",
+    "texte": "Un nouveau pont est construit sur l’Oise ; le passage ne se fait plus par l’ancienne voie.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1103",
+    "texte": "La ville est entourée d’une muraille ; le pont sur l’Oise est reconstruit en pierre et fortifié, et le château royal est reconstruit de 1103 à 1122.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1368",
+    "texte": "L’hôpital Saint-Jacques est construit pour accueillir les pèlerins de Compostelle, avec une façade encore visible aujourd’hui rue du Grand-Godet.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1589",
+    "texte": "Assiégée après son adhésion à la Ligue, la ville est prise par les deux Henri en juillet 1589 puis reprise par la Ligue en janvier 1590 après un bombardement de six jours.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1800",
+    "texte": "Le pont est remodelé entre 1800 et 1840.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1863",
+    "texte": "Une gare est construite aux portes de la ville, le long de la Viosne, lors de l’ouverture de la ligne Paris-Dieppe.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1940 (15 septembre)",
+    "texte": "Un pont de bois est ouvert à la circulation ; les troupes allemandes s’installent dans la caserne du quartier Bossut.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1947",
+    "texte": "Le quartier du pont est reconstruit dans un style évoquant les bords de Loire, et le nouveau pont routier est inauguré en 1947.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Pontoise",
+   "histoire": "Installée dans la vallée de la Viosne, la gare a été mise en service lors de l’ouverture d’une nouvelle ligne vers Dieppe, et son implantation correspond à l’emplacement de l’ancien cours de la Viosne qui traversait l’étang du Vert-Buisson.",
+   "anecdotes": [
+    {
+     "texte": "Devant l’emplacement actuel du parking et de la gare routière, le cours de la Viosne passait autrefois à l’endroit de l’étang du Vert-Buisson.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 49.046653,
+   "lon": 2.095174,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Pontoise"
+  },
+  {
+   "nom": "Cathédrale Saint-Maclou de Pontoise",
+   "histoire": "Église paroissiale du secteur Nord devenue par la suite cathédrale, Saint-Maclou connaît des étapes de construction et de dégâts, notamment liés à un ouragan qui fait chuter le clocher central.",
+   "anecdotes": [
+    {
+     "texte": "Le 30 octobre 1309, un ouragan fait chuter le clocher central, entraînant la destruction partielle de la nef avec l’effondrement de son dernier pilier côté Sud.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 49.050556,
+   "lon": 2.097222,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Maclou_de_Pontoise"
+  },
+  {
+   "nom": "Abbaye Saint-Martin de Pontoise",
+   "histoire": "Fondée au début du XIe siècle, l’abbaye de Saint-Martin connaît ensuite des changements de bâtiments, avant d’être reprise plus tard et d’abriter aujourd’hui une école.",
+   "anecdotes": [
+    {
+     "texte": "Les bâtiments de l’abbaye, en mauvais état, sont rasés à partir de 1791.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le domaine de Saint-Martin abrite aujourd’hui l’École Saint-Martin-de-France.",
+   "sources": [
+    "S29",
+    "S25"
+   ],
+   "lat": 49.042203,
+   "lon": 2.093101,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Martin_de_Pontoise"
+  },
+  {
+   "nom": "Église Notre-Dame de Pontoise",
+   "histoire": "Bâtie puis remaniée, Notre-Dame reçoit une chapelle au milieu du quartier de la Foulerie, et son destin est lié au siège de Pontoise en juillet 1589, avec une reconstruction ensuite incomplète à la fin du XVIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Très peu de vestiges subsistent, dont une Vierge, quelques fragments de dalles funéraires et des tapisseries qui ne se trouvent plus dans l’église.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 49.0494,
+   "lon": 2.09231,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Pontoise"
+  },
+  {
+   "nom": "Carmel de Pontoise",
+   "histoire": "Placée sous le vocable de Saint-Joseph, la communauté du carmel de Pontoise est fondée en 1605 ; elle s’installe dans des bâtiments rendus visibles aujourd’hui et conserve un mausolée commandé au XVIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "C’est le plus ancien carmel encore en activité en France, selon la source.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S36"
+     ]
+    },
+    {
+     "texte": "Un mausolée est commandé en 1626 à Francesco Bordoni et se voit dans l’église du carmel.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 49.049046,
+   "lon": 2.097364,
+   "url": "https://fr.wikipedia.org/wiki/Carmel_de_Pontoise"
+  },
+  {
+   "nom": "Château de Pontoise",
+   "histoire": "Château royal et fortifications dominent la cité et l’Oise aux XIe et XIIe siècles, avant que l’organisation défensive ne soit profondément transformée au XVIe siècle ; il ne reste plus aujourd’hui que quelques vestiges.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne subsiste aujourd’hui que de maigres vestiges en élévation, à l’aplomb de l’Oise.",
+   "sources": [
+    "S44",
+    "S42",
+    "S43"
+   ],
+   "lat": 49.048228,
+   "lon": 2.099952,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pontoise"
+  },
+  {
+   "nom": "Hôtel de la Caisse d’épargne de Pontoise",
+   "histoire": "Bâtiment de la fin du XIXe siècle, il fait suite à un concours ouvert en 1898 puis à une mise en œuvre à partir du printemps 1899 sur le lieu de l’ancien hôtel des Postes.",
+   "anecdotes": [
+    {
+     "texte": "Le concours pour la construction est ouvert le 15 juillet 1898 jusqu’au 1er décembre à tous les architectes de l’arrondissement, avec condition d’exercer la profession avant la publication de l’avis.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’hôtel de la Caisse d’épargne est aujourd’hui un hôtel de ville annexe de Pontoise.",
+   "sources": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 49.049818,
+   "lon": 2.100098,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Pontoise"
+  }
+ ],
+ "sources": [
+  "Pontoise est une commune française située en région Île-de-France, sur la rive droite de l'Oise, à environ vingt-cinq kilomètres au Nord-Ouest de Paris. Chef-lieu du département du Val-d'Oise, la préfecture ne se situe pas au chef-lieu, mais dans la ville voisine de Cergy, depuis la création de la ville nouvelle de Cergy-Pontoise, ce qui constitue un cas unique en France métropolitaine. La ville abrite une des plus […]",
+  "Pontoise est la capitale historique du Vexin français. Elle est, de 1964 à 1970, la préfecture unique du Val-d'Oise, avant d'en devenir une sous-préfecture (jusqu'au 1er avril 2016, date de la fermeture définitive de la sous-préfecture de Pontoise) en restant le chef-lieu du département. Elle abrite aujourd'hui la résidence du préfet tandis que Cergy accueille la préfecture. C'est peut-être une fondation antérieure […]",
+  "XIe siècle : À la fin du XIe siècle une abbaye, initialement fondée à Pontoise, rue de la Coutellerie, s'implante sur le plateau Saint-Martin.",
+  "1070 : Peu à peu, Pontoise s’agrandit et devient une ville ; le passage de l'Oise ne se fait plus par l'ancienne voie mais par un nouveau pont construit vers 1070.",
+  "1103 : La ville est entourée d'une muraille, le pont sur l'Oise est reconstruit en pierre et fortifié et le puissant château royal, dominant la cité et l'Oise, est alors reconstruit de 1103 à 1122.",
+  "1368 : En 1368 est construit l'hôpital Saint-Jacques pour accueillir les pèlerins de Compostelle ; la façade du bâtiment est encore visible de nos jours, rue du Grand-Godet.",
+  "1436 : Libérée en 1436, la cité est reconquise par les Anglais l'année suivante.",
+  "1589 : À la suite de son adhésion à la Ligue, elle est à nouveau assiégée et prise par les deux Henri (le roi de France Henri III et son cousin Henri de Navarre) en juillet 1589, mais profitant de l'éloignement de l'armée royale, la Ligue reprend la ville en janvier 1590 après un bombardement de six jours.",
+  "1800 : Ce pont sera remodelé entre 1800 et 1840, fortement remanié en 1870, remplacé en 1891 par un pont métallique avant d'être détruit par le génie militaire français en juin 1940.",
+  "1863 : Mais une gare est enfin construite aux portes de la ville en 1863, le long de la Viosne, lors de l'ouverture de la ligne Paris-Dieppe, et permet à Pontoise de communiquer avec Paris et la banlieue proche.",
+  "1870 : Pontoise est occupée du 18 septembre 1870 au 26 juin 1871 ; durant cette période, les habitants sont obligés d'héberger chez eux les soldats prussiens.",
+  "1940 : Un pont de bois est ouvert à la circulation le 15 septembre 1940, et les troupes allemandes s'installent dans la caserne du quartier Bossut, abandonnée par le 1er régiment de dragons (1er RD).",
+  "1947 : Enfin, le quartier du pont est reconstruit dans un style évoquant les bords de Loire et le nouveau pont routier est inauguré en 1947.",
+  "1954 : De 1954 à 1958, le quartier des Cordeliers sort de terre : de 1948 à 1962, 1 200 logements sont construits.",
+  "Lieu « Gare de Pontoise » : La gare de Pontoise est une gare ferroviaire française de la ligne de Saint-Denis à Dieppe et de la ligne d'Achères à Pontoise, située en contrebas au sud du centre-ville dans la vallée de la Viosne sur le territoire de la commune de Pontoise dans le",
+  "Lieu « Gare de Pontoise », 1863 : Lorsque la compagnie du Nord décide de mettre en service une nouvelle ligne vers Dieppe, inaugurée le 1er août 1863, une nouvelle gare plus proche de Pontoise est mise en service et la première, située sur la ligne de Creil, est rebaptisée gare d'Épluches.",
+  "Lieu « Gare de Pontoise », 1912 : Le PRCI a été construit côté « avenue du Maréchal Canrobert » (sud) à l'emplacement de l'ancienne gare marchandises de la compagnie du CGB (chemin de fer de grande banlieue) qui desservait à partir de 1912 les lignes Pontoise - Sagy- Magny-en-Vexin et Pontoise - Poissy fermées en 1949.",
+  "Lieu « Gare de Pontoise », 1965 : L'ancien poste de technologie PRS datait de 1965, mais le bâtiment existe toujours.",
+  "Lieu « Gare de Pontoise », aujourd'hui : Le parking situé devant, ainsi que la gare routière, occupent l'emplacement de l'ancien cours de la Viosne qui traversait à cet endroit l'étang du Vert-Buisson.",
+  "Lieu « Cathédrale Saint-Maclou de Pontoise » : La cathédrale Saint-Maclou de Pontoise est une cathédrale catholique située à Pontoise dans le département français du Val-d'Oise en région Île-de-France.",
+  "Lieu « Cathédrale Saint-Maclou de Pontoise », 1110 : Cette seconde possibilité est plus plausible, car la chapelle fondée en 1110 seulement était desservie par des vicaires de la paroisse Saint-Mellon, et n'était peut-être qu'une chapelle latérale d'une première église Saint-Maclou connue depuis 1090.",
+  "Lieu « Cathédrale Saint-Maclou de Pontoise », XIIe siècle : L'église Saint-Maclou n'a pas été bâtie en tant que cathédrale, mais comme église paroissiale du secteur Nord de la ville de Pontoise, autour du milieu du XIIe siècle.",
+  "Lieu « Cathédrale Saint-Maclou de Pontoise », 1309 : L'église primitive garda sa physionomie d'origine pendant un siècle et demi environ, jusqu'au 30 octobre 1309, quand un ouragan fit chuter le clocher central, entraînant la destruction partielle de la nef avec l'effondrement de son dernier pilier côté Sud.",
+  "Lieu « Cathédrale Saint-Maclou de Pontoise », aujourd'hui : Aucun document d'époque ne subsiste pour attester la période de construction exacte de l'église Saint-Maclou, mais elle paraît postérieure à la basilique de Saint-Denis terminée en 1144.",
+  "Lieu « Abbaye Saint-Martin de Pontoise » : L'abbaye de Saint-Martin à Pontoise (Val-d'Oise) a été fondée dans la première moitié du XIe siècle.",
+  "Lieu « Abbaye Saint-Martin de Pontoise », VIIe siècle : Il vient de l'abbaye Saint-Pierre de Rebais fondée au VIIe siècle par Ouen de Rouen, et c'est avec grande réticence et après trois fugues (dont les moines profitaient pour relâcher la discipline) et un appel au pape (refusé) qu'il finit par en accepter la charge.",
+  "Lieu « Abbaye Saint-Martin de Pontoise », XIe siècle : L'abbaye de Saint-Martin à Pontoise (Val-d'Oise) a été fondée dans la première moitié du XIe siècle.",
+  "Lieu « Abbaye Saint-Martin de Pontoise », 1791 : Les bâtiments, en mauvais état, furent rasés à partir de 1791.",
+  "Lieu « Abbaye Saint-Martin de Pontoise », aujourd'hui : Reprise par les mauristes au XVIIe siècle, le domaine de Saint-Martin abrite aujourd’hui l'École Saint-Martin-de-France, animée par les oratoriens.",
+  "Lieu « Église Notre-Dame de Pontoise » : L'église Notre-Dame est une église catholique paroissiale située à Pontoise, en France.",
+  "Lieu « Église Notre-Dame de Pontoise », 1177 : En 1177, une chapelle est ainsi bâtie par les religieux de Saint-Martin, au milieu de ce que l'on appela désormais le quartier de la Foulerie.",
+  "Lieu « Église Notre-Dame de Pontoise », 1437 : Déjà partiellement détruite en 1437 puis reconstruite, la basilique venait juste d'être agrandie quand elle a péri pendant le siège de Pontoise en juillet 1589.",
+  "Lieu « Église Notre-Dame de Pontoise », 1587 : À partir du milieu du XVIe siècle, les parties haute du chœur sont rebâties comme déjà signalé, et l'édifice existant est apparemment agrandi par l'ajout de chapelles, qui ne sont pas encore parachevées en 1587, quand écrit le premier historien de Pontoise, Noël Taillepied.",
+  "Lieu « Église Notre-Dame de Pontoise », aujourd'hui : Très peu de vestiges subsistent, sinon une Vierge, quelques fragments de dalles funéraires, et des tapisseries qui ne se trouvent plus dans l'église.",
+  "Lieu « Carmel de Pontoise » : Le carmel de Pontoise, placé sous le vocable de Saint-Joseph, a été fondé en 1605.",
+  "Lieu « Carmel de Pontoise », 1603 : C'est le plus ancien carmel encore en activité en France (le carmel de l'Incarnation rue Saint-Jacques à Paris, fondé en 1603, ayant été détruit après la Révolution française).",
+  "Lieu « Carmel de Pontoise », 1605 : Le carmel de Pontoise, placé sous le vocable de Saint-Joseph, a été fondé en 1605.",
+  "Lieu « Carmel de Pontoise », 1610 : Grâce à l'action de Michel de Marillac, garde des sceaux, et de Madame Acarie, en religion sœur Marie de l'Incarnation, fondatrice de l'ordre en France, les carmélites de Pontoise peuvent s'établir dès 1610 dans les bâtiments toujours visibles de nos jours, rue Pierre-Butin.",
+  "Lieu « Carmel de Pontoise », aujourd'hui : Un mausolée est commandé en 1626 à Francesco Bordoni (1580-1654) et est visible dans l'église du carmel.",
+  "Lieu « Château de Pontoise » : Le château de Pontoise est un ancien château fort, situé à Pontoise, dans le département du Val-d'Oise, en région Île-de-France.",
+  "Lieu « Château de Pontoise », 1070 : Peu à peu, Pontoise s’agrandit et devient une ville ; le passage de l'Oise ne se fait plus par l'ancienne voie mais par un nouveau pont construit vers 1070.",
+  "Lieu « Château de Pontoise », 1103 : La ville est entourée d'une muraille, le pont sur l'Oise est reconstruit en pierre et fortifié et le puissant château royal, dominant la cité et l'Oise, est alors reconstruit de 1103 à 1122.",
+  "Lieu « Château de Pontoise », XIIe siècle : Le système défensif remontant au XIIe siècle fut profondément transformé au XVIe siècle.",
+  "Lieu « Château de Pontoise », aujourd'hui : Il ne subsiste, de nos jours, de ce château que de maigres vestiges en élévation, à l'aplomb de l'Oise.",
+  "Lieu « Hôtel de la Caisse d'épargne de Pontoise » : L’hôtel de la Caisse d'épargne, de nos jours hôtel de ville annexe de Pontoise, est un bâtiment de la fin du XIXe siècle situé à Pontoise, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Pontoise », XIXe siècle : L’hôtel de la Caisse d'épargne, de nos jours hôtel de ville annexe de Pontoise, est un bâtiment de la fin du XIXe siècle situé à Pontoise, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Pontoise », 1898 : Le 15 juillet 1898, un concours pour la construction d'un hôtel de la Caisse d'épargne est ouvert jusqu'au 1er décembre à tous les architectes de l'arrondissement, à condition que ceux-ci exercent leur profession avant la publication de l'avis (justifiable par la production d'un extrait du rôle des patentes).",
+  "Lieu « Hôtel de la Caisse d'épargne de Pontoise », 1899 : L'édifice est élevé à partir du printemps 1899, sur le lieu de l'ancien hôtel des Postes."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 6
+ }
+}
