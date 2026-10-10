@@ -1,0 +1,166 @@
+{
+ "commune": {
+  "titre": "Nieppe",
+  "code_insee": "59431",
+  "departement": "59",
+  "population": 7764,
+  "lat": 50.70388889,
+  "lon": 2.83972222,
+  "url": "https://fr.wikipedia.org/wiki/Nieppe"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:23:26",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2012,
+  "sortie": 1099
+ },
+ "cout_usd": 0.001776,
+ "accroche": "Le prieuré de Nieppe est fondé en 1084, d’après une charte signée avec l’évêque Gérard de Thérouanne.",
+ "histoire": {
+  "recit": "Nieppe, au sud du Westhoek, s’est construite entre fondation religieuse et épreuves guerrières. Le prieuré naît en 1084, puis reçoit en 1245 un don de la seigneurie de Nieppe. Plus tard, la seigneurie change de mains, vendue en 1610 à la famille de Vicq. \n\nAu XXe siècle, la ville connaît la violence de la Première Guerre mondiale : Nieppe est détruite et reçoit la Croix de guerre 1914-1918. Dans le même temps, l’église Notre-Dame-de-Bon-Secours ne conserve qu’une partie de ses volumes après les destructions.\n\nQuand la paix revient, la mémoire locale se lit aussi dans les lieux : la gare de Nieppe voit sa halte mise en service le 15 juin 1884, tandis que l’histoire du “Pont-de-Nieppe” passe par un siège en 1914 et une présence alliée jusqu’au 11 avril 1918. Sur place, des soldats principalement venus du Royaume-Uni et d’Australie reposent au “Pont-de-Nieppe Communal Cemetery”.",
+  "chronologie": [
+   {
+    "date": "1084",
+    "texte": "Le prieuré de Nieppe est fondé d’après la charte signée avec l’évêque Gérard de Thérouanne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1245",
+    "texte": "Marguerite de Constantinople fait don de la seigneurie de Nieppe au prieuré.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1610",
+    "texte": "La seigneurie est vendue à la famille de Vicq d’Ypres.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Nieppe est détruite pendant la Première Guerre mondiale et reçoit la Croix de guerre 1914-1918.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "15 juin 1884",
+    "texte": "La halte de Nieppe est mise en service et ouverte aux voyageurs.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "16 octobre 1914",
+    "texte": "Le pont sur la Lys, entre Armentières et le quartier nieppois “Pont-de-Nieppe”, est assiégé par la “First Hampshires”.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "11 avril 1918",
+    "texte": "La 34e Division d’infanterie est chassée par les troupes allemandes après de durs combats.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-de-Bon-Secours de Nieppe",
+   "histoire": "Située rue d'Armentières, dans le quartier du Pont de Nieppe, l’église voit ses premiers travaux d’élévation en 1876 et est bénite le 8 janvier 1877. Endommagée puis reconstruite après la Première Guerre mondiale, il n’en subsiste aujourd’hui qu’une partie, dont le chœur et une portion du transept.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La Première Guerre mondiale fut fatale à Notre-Dame-de-Bon-Secours : il ne subsista que le chœur et, en mauvais état, une grande partie du transept.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 50.6968,
+   "lon": 2.85648,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Bon-Secours_de_Nieppe"
+  },
+  {
+   "nom": "Église Saint-Martin de Nieppe",
+   "histoire": "L’église Saint-Martin se trouve rue d'Armentières, au centre-ville. Un prieuré bénédictin fondé en 1084 est présenté comme un “fils” de l’abbaye de Marmoutier. Construite au XIIIe siècle, elle subit des destructions : incendiée lors de la révolte des gueux en 1568 et bombardée pendant la Première Guerre mondiale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 50.7041004,
+   "lon": 2.8395019,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Nieppe"
+  },
+  {
+   "nom": "Gare de Nieppe",
+   "histoire": "La gare de Nieppe se situe sur la ligne de Lille aux Fontinettes. La halte de Nieppe est mise en service le 15 juin 1884 et ouverte aux voyageurs par la Compagnie des chemins de fer du Nord.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 50.696706,
+   "lon": 2.828957,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Nieppe"
+  },
+  {
+   "nom": "Pont-de-Nieppe Communal Cemetery",
+   "histoire": "Le “Pont-de-Nieppe Communal Cemetery” est un cimetière où reposent principalement des soldats de la Première Guerre mondiale venus du Royaume-Uni et d’Australie, ainsi que deux militaires morts durant la Seconde Guerre mondiale.",
+   "anecdotes": [
+    {
+     "texte": "Le pont sur la Lys, entre Armentières et le quartier nieppois “Pont-de-Nieppe”, est assiégé par la “First Hampshires” le 16 octobre 1914, et la Ville de Nieppe reste ensuite dans les limites des lignes alliées jusqu’au 11 avril 1918.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 50.6998,
+   "lon": 2.8559,
+   "url": "https://fr.wikipedia.org/wiki/Pont-de-Nieppe_Communal_Cemetery"
+  }
+ ],
+ "sources": [
+  "Nieppe [njɛp] (Niepkerke en Flamand) est une commune française située dans le département du Nord, en région Hauts-de-France. Culturellement, le village est situé dans le sud du Westhoek au sein de la Plaine de la Lys.",
+  "Du point de vue religieux, la commune était située dans le diocèse de Thérouanne puis dans le diocèse d'Ypres, doyenné de Bailleul. Le prieuré de Nieppe fut fondé en 1084 d'après la charte signée alors avec l'évêque, Gérard de Thérouanne. Même si le prieuré disposait de quelques terres, il fallut attendre 1245 lorsque Marguerite de Constantinople fit don de la seigneurie de Nieppe au prieuré ; bénéfice que gardèrent […]",
+  "1084 : Le prieuré de Nieppe fut fondé en 1084 d'après la charte signée alors avec l'évêque, Gérard de Thérouanne.",
+  "1610 : En 1610, la seigneurie est vendue à la famille de Vicq d'Ypres, laquelle possédait la seigneurie d'Oosthove composée notamment de nombreuses terres sur Nieppe.",
+  "1914 : Nieppe a été détruite pendant la Première Guerre mondiale et a reçu à ce titre la Croix de guerre 1914-1918.",
+  "1958 : Membre du Rassemblement du peuple français, parti fondé par le général de Gaulle, cette proximité vaudra à la commune de recevoir plusieurs fois de Gaulle lors des mandats qu'il exerça, comme par exemple, le 25 septembre 1958, dans le cadre d'une tournée dans la région.",
+  "Lieu « Église Notre-Dame-de-Bon-Secours de Nieppe » : L’église Notre-Dame-de-Bon-Secours est une église, située rue d'Armentières, dans le quartier du Pont de Nieppe.",
+  "Lieu « Église Notre-Dame-de-Bon-Secours de Nieppe », 1876 : Cette démarche fut accueillie positivement permettant, en 1876, la réalisation des premiers travaux de l'élévation de la nouvelle église, construite en briques locales car provenant de la briqueterie Debosque.",
+  "Lieu « Église Notre-Dame-de-Bon-Secours de Nieppe », 1877 : Le 8 janvier 1877, le nouvel édifice fut béni et, entièrement construit en 1781 ; aussi, vint-il d'adjoindre à la récente école mixte Saint-Charles, sise à l'arrière de son chevet.",
+  "Lieu « Église Notre-Dame-de-Bon-Secours de Nieppe », 1920 : L'église fut reconstruite, dans les années 1920, pour être inaugurée par Monseigneur Jansoone (évêque auxiliaire de Lille), le 6 octobre 1929.",
+  "Lieu « Église Notre-Dame-de-Bon-Secours de Nieppe », aujourd'hui : La Première Guerre mondiale fut fatale à Notre-Dame-de-Bon-Secours dont il ne subsista que le chœur et, en mauvais état, une grande partie du transept.",
+  "Lieu « Église Saint-Martin de Nieppe » : L'église Saint-Martin de Nieppe est une église située rue d'Armentières, dans le centre-ville de Nieppe, commune du département du Nord en région Hauts-de-France.",
+  "Lieu « Église Saint-Martin de Nieppe », 1084 : En effet, saint Martin est connu comme étant un grand évangélisateur des Flandres ; de plus, le prieuré bénédictin de Nieppe (fondé en 1084) était un \"fils\" de l’abbaye de Marmoutier, fondée par le saint lui-même.",
+  "Lieu « Église Saint-Martin de Nieppe », 1568 : Construite au XIIIe siècle, elle fut, par deux fois, détruite ou gravement endommagée : incendiée lors de la révolte des gueux en 1568 et bombardée lors de la Première Guerre mondiale.",
+  "Lieu « Gare de Nieppe » : La gare de Nieppe est une gare ferroviaire française de la ligne de Lille aux Fontinettes, située sur le territoire de la commune de Nieppe dans le département du Nord, en région Hauts-de-France.",
+  "Lieu « Gare de Nieppe », 1884 : La halte de Nieppe est mise en service et ouverte aux voyageurs le 15 juin 1884 par la Compagnie des chemins de fer du Nord.",
+  "Lieu « Pont-de-Nieppe Communal Cemetery » : Le « Pont-de-Nieppe Communal Cemetery » est un cimetière où reposent principalement des soldats de la Première Guerre mondiale venus du Royaume Uni et d'Australie ; deux militaires morts durant la Seconde Guerre mondiale y ont également leur sépultur",
+  "Lieu « Pont-de-Nieppe Communal Cemetery », 1914 : Le pont sur la lys situé entre Armentières et le quartier nieppois dénommé \"Pont-de-Nieppe\" fut assiégé par la \"First Hampshires\" le 16 octobre 1914 ; la Ville de Nieppe resta dès lors dans les limites des lignes alliées jusqu'au 11 avril 1918, date à laquelle la 34e Division d'infanterie fut chassée par les troupes allemandes après de durs combats."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}

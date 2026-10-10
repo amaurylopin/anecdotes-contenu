@@ -1,0 +1,193 @@
+{
+ "commune": {
+  "titre": "Onnaing",
+  "code_insee": "59447",
+  "departement": "59",
+  "population": 8479,
+  "lat": 50.386395,
+  "lon": 3.600583,
+  "url": "https://fr.wikipedia.org/wiki/Onnaing"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:17",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1686,
+  "sortie": 1234
+ },
+ "cout_usd": 0.00188,
+ "accroche": "Le 14 novembre 1842, la gare d’Onnaing est mise en service lors de l’ouverture de la ligne de Valenciennes à Blanc-Misseron et Quiévrain.",
+ "histoire": {
+  "recit": "Onnaing, au cœur du département du Nord, s’inscrit dans l’unité urbaine de Valenciennes et fait partie de Valenciennes Métropole. Dans le village, des biens sont signalés dès 1602 par l’abbaye des Dames de Beaumont, et les fouilles évoquent une occupation très ancienne, de la Préhistoire à l’époque gallo-romaine.\n\nLe charbon marque ensuite la commune. La fosse Cuvinot, fondée en juillet 1893 par la Compagnie des mines d’Anzin, adopte la méthode de congélation des terrains. En 1918, elle est complètement détruite pendant la retraite allemande. Puis l’histoire se referme : elle cesse définitivement d’extraire le 29 décembre 1967, ses puits sont comblés l’année suivante, et en mai 2009 une trémie, aussi appelée cribleuse, est incendiée. Aujourd’hui, il ne reste que quelques vestiges des murs d’enceinte.\n\nSur d’autres terrains, la vie industrielle continue : la gare d’Onnaing, ouverte en 1842, change de propriétaire en 1938 et ne conserve plus de trafic voyageurs à partir de 1954 ; sur le territoire, l’usine Toyota Boshoku France et le parc éolien d’Onnaing complètent le paysage.",
+  "chronologie": [
+   {
+    "date": "1602",
+    "texte": "L’abbaye des Dames de Beaumont déclare posséder des biens dans le village.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "juillet 1893",
+    "texte": "La fosse Cuvinot est fondée par la Compagnie des mines d’Anzin par la méthode de congélation des terrains.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1918",
+    "texte": "La fosse Cuvinot est complètement détruite par les Allemands lors de leur retraite.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "29 décembre 1967",
+    "texte": "La fosse Cuvinot cesse définitivement d’extraire.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "année suivante après 29 décembre 1967",
+    "texte": "Les puits de la fosse Cuvinot sont comblés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "14 novembre 1842",
+    "texte": "La gare d’Onnaing est mise en service par la Compagnie anonyme du chemin de fer de Lille à Valenciennes et ses Extensions.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1er janvier 1938",
+    "texte": "La SNCF devient propriétaire de la ligne et de la gare.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1954",
+    "texte": "Fermeture officielle de la section au trafic voyageurs.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "mi-2000",
+    "texte": "Un bâtiment de quatre-mille mètres carrés est construit sur un terrain de seize hectares.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "mai 2009",
+    "texte": "Une trémie (cribleuse) de la fosse Cuvinot est incendiée.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2011",
+    "texte": "Le parc éolien d’Onnaing est construit sur le finage de la commune.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Cuvinot",
+   "histoire": "Ancien charbonnage du Bassin minier du Nord-Pas-de-Calais situé à Onnaing, la fosse Cuvinot est fondée en juillet 1893 par la Compagnie des mines d’Anzin. Détruite en 1918 lors de la retraite allemande, elle cesse définitivement d’extraire le 29 décembre 1967, puis ses puits sont comblés l’année suivante. Une trémie, aussi nommée cribleuse, est incendiée en mai 2009. Aujourd’hui, il ne reste rien de la fosse, à part quelques vestiges des murs d’enceinte.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Quelques vestiges des murs d’enceinte.",
+   "sources": [
+    "S5",
+    "S3",
+    "S4",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 50.402625,
+   "lon": 3.599757,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Cuvinot"
+  },
+  {
+   "nom": "Gare d'Onnaing",
+   "histoire": "Gare ferroviaire de la ligne de Douai à Blanc-Misseron, située sur le territoire d’Onnaing. La gare est mise en service le 14 novembre 1842 lors de l’ouverture de l’exploitation de la ligne de Valenciennes à Blanc-Misseron et Quiévrain. Le 1er janvier 1938, la SNCF devient propriétaire de la ligne et de la gare ; la section concernée est officiellement fermée au trafic voyageurs en 1954. Des voies de service, désaffectées, subsistent sur le site.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des voies de service, désaffectées, subsistent sur le site.",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 50.391869,
+   "lon": 3.60082,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Onnaing"
+  },
+  {
+   "nom": "Toyota Boshoku France",
+   "histoire": "Usine de l’équipementier japonais Toyota Boshoku située à Onnaing. Un bâtiment de quatre-mille mètres carrés est construit sur un terrain de seize hectares au milieu des années 2000.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 50.368867,
+   "lon": 3.603109,
+   "url": "https://fr.wikipedia.org/wiki/Toyota_Boshoku_France"
+  },
+  {
+   "nom": "Parc éolien d'Onnaing",
+   "histoire": "Parc éolien terrestre construit en 2011 sur le finage de la commune d’Onnaing.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16"
+   ],
+   "lat": 50.37421,
+   "lon": 3.607299,
+   "url": "https://fr.wikipedia.org/wiki/Parc_%C3%A9olien_d%27Onnaing"
+  }
+ ],
+ "sources": [
+  "Onnaing est une commune française, située dans le département du Nord, en région Hauts-de-France. Adhérente à la communauté d'agglomération Valenciennes Métropole, Onnaing fait également partie de l'unité urbaine de Valenciennes qui est la troisième du département du Nord.",
+  "L'Abbaye des Dames de Beaumont a déclaré posséder des biens dans le village en 1602. On sait qu'Onnaing a connu une occupation ancienne et ce dès la Préhistoire, en témoignent les nombreux outils retrouvés lors de fouilles, puis gallo-romaine, le site de Toyota peu avant la construction de l'usine a été exploré. La famille Venot, industriels ayant œuvré dans la commune et dont certains membres sont devenus […]",
+  "1893 : La fosse Cuvinot est fondée par la Compagnie des mines d'Anzin, par la méthode de congélation des terrains, en juillet 1893.",
+  "1918 : La Fosse est complètement détruite par les Allemands lors de leur retraite en 1918.",
+  "Lieu « Fosse Cuvinot » : La fosse Cuvinot ou Paul Cuvinot de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Onnaing.",
+  "Lieu « Fosse Cuvinot », 1967 : Elle cesse définitivement d'extraire le 29 décembre 1967 et ses puits sont comblés l'année suivante.",
+  "Lieu « Fosse Cuvinot », 2009 : Une trémie, également nommée cribleuse, a été incendiée en mai 2009.",
+  "Lieu « Fosse Cuvinot », aujourd'hui : Il ne reste rien de la fosse, mis à part quelques vestiges des murs d'enceinte.",
+  "Lieu « Gare d'Onnaing » : La gare d'Onnaing est une gare ferroviaire française de la ligne de Douai à Blanc-Misseron, située sur le territoire de la commune d'Onnaing, dans le département du Nord, en région Hauts-de-France.",
+  "Lieu « Gare d'Onnaing », 1842 : La gare d'Onnaing est mise en service le 14 novembre 1842 par la Compagnie anonyme du chemin de fer de Lille à Valenciennes et ses Extensions, lors de l'ouverture de l'exploitation de la « ligne de Valenciennes à Blanc-Misseron et Quiévrain » (section de l'actuelle ligne de Douai à Blanc-Misseron).",
+  "Lieu « Gare d'Onnaing », 1938 : Le 1er janvier 1938, la SNCF est devenue propriétaire de la ligne et donc de la gare, et a officiellement fermé la section de ligne concernée au trafic voyageurs en 1954.",
+  "Lieu « Gare d'Onnaing », aujourd'hui : Par ailleurs, des voies de service, désaffectées, subsistent sur le site.",
+  "Lieu « Toyota Boshoku France » : Toyota Boshoku France est une usine de l'équipementier japonais Toyota Boshoku, située à Onnaing, dans le Nord, en France.",
+  "Lieu « Toyota Boshoku France », 2000 : Un bâtiment de quatre-mille mètres carrés est construit sur un terrain de seize hectares au milieu des années 2000.",
+  "Lieu « Parc éolien d'Onnaing » : Le parc éolien d'Onnaing est un parc éolien terrestre construit en 2011 et sis sur le finage de la commune d'Onnaing, dans le département du Nord, en France.",
+  "Lieu « Parc éolien d'Onnaing », 2011 : Le parc éolien d'Onnaing est un parc éolien terrestre construit en 2011 et sis sur le finage de la commune d'Onnaing, dans le département du Nord, en France."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 0
+ }
+}

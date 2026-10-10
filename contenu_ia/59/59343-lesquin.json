@@ -1,0 +1,74 @@
+{
+ "commune": {
+  "titre": "Lesquin",
+  "code_insee": "59343",
+  "departement": "59",
+  "population": 9600,
+  "lat": 50.59055556,
+  "lon": 3.11166667,
+  "url": "https://fr.wikipedia.org/wiki/Lesquin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:01:15",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1035,
+  "sortie": 444
+ },
+ "cout_usd": 0.000762,
+ "accroche": "Leçon d’histoire locale : Lechin est mentionné en 1066 dans l’acte de fondation du chapitre Saint-Pierre de Lille.",
+ "histoire": {
+  "recit": "Lesquin, prononcé [lekɛ̃], se trouve dans le département du Nord, en Hauts-de-France, au sein de la Métropole européenne de Lille. On y a découvert une nécropole mérovingienne, signe que le territoire attire depuis longtemps.\n\nLe nom de la commune apparaît tôt : Lechin est mentionné en 1066 dans l’acte de fondation du chapitre Saint-Pierre de Lille, dans un contexte où le comte de Flandre dote un lieu d’une résidence. Avant la Révolution française, Lesquin compte plusieurs seigneuries, dont la principale.\n\nPlus près des voyageurs, la gare de Lesquin, sur la ligne de Fives à Hirson, occupe la commune depuis un projet de tracé où l’emplacement de la station est précisé dès l’approbation du 5 juin 1867.",
+  "chronologie": [
+   {
+    "date": "1066",
+    "texte": "Lechin est mentionné dans l’acte de fondation du chapitre Saint-Pierre de Lille, où le comte de Flandre dote une résidence située dans le village.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "5 juin 1867",
+    "texte": "L’approbation du projet de tracé précise l’emplacement de la station de Lesquin.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Lesquin",
+   "histoire": "La gare de Lesquin est une gare ferroviaire française de la ligne de Fives à Hirson, située sur le territoire de la commune de Lesquin, dans le département du Nord, en Hauts-de-France. Le premier projet de tracé présenté par la Compagnie du chemin de fer de Lille à Valenciennes, approuvé le 5 juin 1867, indique l’emplacement de la station.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 50.590774,
+   "lon": 3.117984,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lesquin"
+  }
+ ],
+ "sources": [
+  "Lesquin (prononcé : [lekɛ̃] ) est une commune française, située dans le département du Nord en région Hauts-de-France. Elle fait partie de la Métropole européenne de Lille.",
+  "Une nécropole mérovingienne y a été découverte. Lechin est mentionné en 1066 dans l'acte de fondation du chapitre Saint-Pierre de Lille, que le comte de Flandre dota d'une résidence située dans le village. Avant la Révolution française, Lesquin était le siège de plusieurs seigneuries. La seigneurie principale de Lesquin est achetée au XVe siècle par Daniel Thieulaine, issu d'une famille de bourgeois de Lille. Daniel […]",
+  "Lieu « Gare de Lesquin » : La gare de Lesquin est une gare ferroviaire française de la ligne de Fives à Hirson, située sur le territoire de la commune de Lesquin, dans le département du Nord, en région Hauts-de-France.",
+  "Lieu « Gare de Lesquin », aujourd'hui : Le premier projet de tracé présenté par la Compagnie du chemin de fer de Lille à Valenciennes, approuvé le 5 juin 1867, précise l'emplacement de la station de Lesquin."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

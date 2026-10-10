@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Neuville-en-Ferrain",
+  "code_insee": "59426",
+  "departement": "59",
+  "population": 10002,
+  "lat": 50.74722222,
+  "lon": 3.15888889,
+  "url": "https://fr.wikipedia.org/wiki/Neuville-en-Ferrain"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1033,
+  "sortie": 407
+ },
+ "cout_usd": 0.000715,
+ "accroche": "En 1609, un acte autorise les habitants de Neuville-en-Ferrain à fabriquer des ouvrages de bourgeterie, étoffes de laine en patois lillois.",
+ "histoire": {
+  "recit": "À Neuville-en-Ferrain, la naissance de la ville est liée au grand défrichement et aux progrès agricoles, quand la population du Nord augmente. La vie pratique s’organise vite : en 1609, un acte autorise les habitants à fabriquer des ouvrages de bourgeterie, ces étoffes de laine décrites en patois lillois. Le village devient ensuite français en 1668, avec le traité d’Aix-la-Chapelle. Sur le territoire, la Hamayde a été le siège d’une seigneurie avant la Révolution.",
+  "chronologie": [
+   {
+    "date": "1609",
+    "texte": "Un acte autorise les habitants à fabriquer des ouvrages de bourgeterie, fabrication d’étoffe de laine en patois lillois.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1668",
+    "texte": "Le village devient français, avec le traité d’Aix-la-Chapelle.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Risquons-Tout",
+   "histoire": "Risquons-Tout est un hameau situé de l’autre côté de la frontière, dans la commune belge de Mouscron, en Région wallonne, province de Hainaut. Son nom viendrait de l’enseigne d’un cabaret aujourd’hui disparu, et le lieu-dit se trouve à l’extrémité immédiate de la France voisine.",
+   "anecdotes": [
+    {
+     "texte": "Le nom de Risquons-Tout viendrait d’une enseigne de cabaret aujourd’hui disparu.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 50.7528,
+   "lon": 3.18778,
+   "url": "https://fr.wikipedia.org/wiki/Risquons-Tout"
+  }
+ ],
+ "sources": [
+  "Neuville-en-Ferrain est une commune française située dans le département du Nord, en région Hauts-de-France. Elle fait partie de la Métropole européenne de Lille.",
+  "Fondation de la ville due au grand défrichement, aux progrès agricoles et à l'augmentation de la population de la région du Nord. En 1609, un acte autorise les habitants à fabriquer des ouvrages de bourgeterie (fabrication d'étoffe de laine en patois lillois). Le village devient français en 1668, avec le traité d'Aix-la-Chapelle. Sur Neuville-en-Ferrain, la Hamayde était le siège d'une seigneurie avant la Révolution […]",
+  "Lieu « Risquons-Tout » : Risquons-Tout est un hameau de la commune belge de Mouscron située en Région wallonne dans la province de Hainaut.",
+  "Lieu « Risquons-Tout », aujourd'hui : Immédiatement voisin de la France (Neuville-en-Ferrain et Tourcoing) et de la Région flamande (Rekkem), le lieu-dit doit son nom à l'enseigne d'un cabaret aujourd'hui disparu."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

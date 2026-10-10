@@ -1,0 +1,235 @@
+{
+ "commune": {
+  "titre": "Escaudain",
+  "code_insee": "59205",
+  "departement": "59",
+  "population": 9039,
+  "lat": 50.33527778,
+  "lon": 3.34361111,
+  "url": "https://fr.wikipedia.org/wiki/Escaudain"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:07:00",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2125,
+  "sortie": 1528
+ },
+ "cout_usd": 0.002335,
+ "accroche": "À Escaudain, la fosse Saint-Mark ferme le 13 juin 1968, puis les puits sont comblés l’année suivante.",
+ "histoire": {
+  "recit": "À Escaudain, le passé commence dans des donations d’abbayes avant de basculer vers le temps des puits. En 847, le village est donné à l’Abbaye de Saint-Amand par Charles II le Chauve, puis, en 877, huit manses passent à l’Abbaye d’Hasnon. En 899, Charles le Simple ratifie la donation. Bien plus tard, la commune garde les traces d’une activité minière dense : la fosse Saint-Mark, la fosse de la Cuvette, la fosse de Rœulx, et la fosse Audiffret-Pasquier, dont il ne reste aujourd’hui que l’entrée.\n\nLe monde des rails n’est pas absent. La gare d’Escaudain, autrefois « la maison du chef-cantonnier », est abandonnée et remplacée en 1957 par un préfabriqué, avant de fermer aux voyageurs en 1963.\n\nEnfin, la mémoire locale se fixe dans un lieu : le musée de la Mine et des Traditions populaires, inauguré en 1978 dans l’ancienne mairie.",
+  "chronologie": [
+   {
+    "date": "847",
+    "texte": "Le village d’Escaudain est donné à l’Abbaye de Saint-Amand par Charles II le Chauve.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "877",
+    "texte": "Huit manses du village sont données à l’Abbaye d’Hasnon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "899",
+    "texte": "Charles le Simple ratifie la donation.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "28 juillet 1934",
+    "texte": "Catastrophe à la Fosse Saint-Mark : un éboulement de galerie sur une trentaine de mètres cause la mort de deux mineurs polonais.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "Ouverture d’un nouvel étage à 733 mètres à la fosse Saint-Mark : la fosse Casimir-Perier, sise à Somain, est alors concentrée et cesse d’extraire.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "13 juin 1968",
+    "texte": "La fosse Saint-Mark ferme ; les puits sont comblés l’année suivante et les installations sont détruites.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1967",
+    "texte": "Les puits profonds de 763 mètres de la fosse Audiffret-Pasquier sont remblayés et les installations détruites.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "La gare d’Escaudain est abandonnée et remplacée par un préfabriqué.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "La gare d’Escaudain ferme au service des voyageurs ; les installations sont ensuite détruites.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1978",
+    "texte": "Le musée de la Mine et des Traditions populaires est inauguré à Escaudain, dans l’ancienne mairie.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Audiffret-Pasquier",
+   "histoire": "Ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Escaudain. Par la suite, elle est affectée au service et à l’aérage de la fosse Saint-Mark, jusqu’en 1967, date à laquelle ses puits profonds de 763 mètres sont remblayés et ses installations détruites.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S6"
+   ],
+   "lat": 50.346179,
+   "lon": 3.344414,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Audiffret-Pasquier"
+  },
+  {
+   "nom": "Gare d'Escaudain",
+   "histoire": "Gare ferroviaire française aujourd’hui fermée, située sur la ligne de Somain à Péruwelz et sur le territoire de la commune d’Escaudain.",
+   "anecdotes": [
+    {
+     "texte": "En 1957, la gare est décrite comme « la maison du chef-cantonnier », puis abandonnée et remplacée par un préfabriqué.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 50.338065,
+   "lon": 3.343819,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Escaudain"
+  },
+  {
+   "nom": "Fosse Saint-Mark",
+   "histoire": "Ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Escaudain. En 1935, un nouvel étage s’ouvre à 733 mètres ; en 1968, la fosse ferme et les puits sont comblés l’année suivante.",
+   "anecdotes": [
+    {
+     "texte": "Le 28 juillet 1934, un éboulement de galerie sur une trentaine de mètres frappe la fosse Saint-Mark et cause la mort de deux mineurs polonais.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S2"
+   ],
+   "lat": 50.338103,
+   "lon": 3.314481,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Saint-Mark"
+  },
+  {
+   "nom": "Fosse de la Cuvette",
+   "histoire": "Ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Escaudain. Le puits est définitivement abandonné en 1941, puis les installations sont détruites.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 50.330094,
+   "lon": 3.35423,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_de_la_Cuvette"
+  },
+  {
+   "nom": "Musée de la mine et des traditions populaires d'Escaudain",
+   "histoire": "Musée ethnographique inauguré en 1978, situé à Escaudain, dans l’ancienne mairie. Il présente sur une surface de 300 m2 divers objets, maquettes, costumes et archives liés à la vie locale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 50.3327,
+   "lon": 3.34436,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_mine_et_des_traditions_populaires_d%27Escaudain"
+  },
+  {
+   "nom": "Fosse de Rœulx",
+   "histoire": "Ancien charbonnage de la Compagnie des mines d’Anzin, situé à Escaudain. Elle assure l’aérage de la fosse Schneider jusqu’en 1956, puis les puits nos 1 et 2 sont remblayés en 1957 et 1958, et les installations de surfaces sont détruites.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 50.321011,
+   "lon": 3.339581,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_de_R%C5%93ulx"
+  }
+ ],
+ "sources": [
+  "Escaudain (prononcer [ekodɛ̃] , « Écaudain ») est une commune française située dans le département du Nord, en région Hauts-de-France.",
+  "En 847 le village fut donné à l'Abbaye de Saint-Amand par Charles II le Chauve. En 877, huit manses du village sont données à l'Abbaye d'Hasnon. En 899, Charles le Simple ratifie la donation. L'Abbaye des Dames de Beaumont qui y a déclaré des terres en 1602. Catastrophe du 28 juillet 1934 à la Fosse Saint-Mark. Un éboulement de galerie sur une trentaine de mètres cause la mort de deux mineurs polonais Wladislaw […]",
+  "Lieu « Fosse Audiffret-Pasquier » : La fosse Audiffret Pasquier, Audiffret-Pasquier ou Gaston d'Audiffret-Pasquier de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Escaudain.",
+  "Lieu « Fosse Audiffret-Pasquier », 1967 : La fosse Audiffret-Pasquier est ensuite affectée au service et à l'aérage de la fosse Saint-Mark jusqu'en 1967, date à laquelle ses puits profonds de 763 mètres sont remblayés et ses installations détruites.",
+  "Lieu « Fosse Audiffret-Pasquier », 1967 : La fosse Audiffret Pasquier est ensuite affectée au service et à l'aérage de la fosse Saint-Mark jusqu'en 1967, date à laquelle les puits profonds de 763 mètres sont remblayés et les installations détruites.",
+  "Lieu « Fosse Audiffret-Pasquier », aujourd'hui : Le seul vestige de la fosse est son entrée.",
+  "Lieu « Gare d'Escaudain » : La gare d'Escaudain est une gare ferroviaire française aujourd'hui fermée, située sur la ligne de Somain à Péruwelz et le territoire de la commune d'Escaudain (département du Nord et région des Hauts-de-France).",
+  "Lieu « Gare d'Escaudain », 1957 : La revue no 9 de Valentiana précise que la gare d'Escaudain était « la maison du chef-cantonnier » qui fut « abandonnée et remplacée en 1957 par un préfabriqué ».",
+  "Lieu « Gare d'Escaudain », 1963 : Fermée au service des voyageurs en 1963, ses installations ont été détruites depuis.",
+  "Lieu « Gare d'Escaudain », aujourd'hui : La gare d'Escaudain est une gare ferroviaire française aujourd'hui fermée, située sur la ligne de Somain à Péruwelz et le territoire de la commune d'Escaudain (département du Nord et région des Hauts-de-France).",
+  "Lieu « Fosse Saint-Mark » : La fosse Saint-Mark de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Escaudain.",
+  "Lieu « Fosse Saint-Mark », 1935 : Un nouvel étage est ouvert à la profondeur de 733 mètres en 1935, la fosse Casimir-Perier, sise à Somain à 1 628 mètres à l'ouest-nord-ouest, est alors concentrée sur la fosse Saint-Mark et cesse d'extraire.",
+  "Lieu « Fosse Saint-Mark », 1968 : La fosse ferme le 13 juin 1968, les puits sont comblés l'année suivante, et les installations sont détruites.",
+  "Lieu « Fosse de la Cuvette » : La fosse de la Cuvette de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Escaudain.",
+  "Lieu « Fosse de la Cuvette », 1941 : Le puits est définitivement abandonné en 1941, puis les installations sont détruites.",
+  "Lieu « Fosse de la Cuvette », 1941 : Le puits est définitivement abandonné en 1941, soit cinq ans avant que la Compagnie des mines d'Anzin ne soit nationalisée, et n'intègre le Groupe de Valenciennes.",
+  "Lieu « Musée de la mine et des traditions populaires d'Escaudain » : Le musée de la Mine et des Traditions populaires est un musée ethnographique inauguré en 1978, situé à Escaudain, dans le département du Nord, en France.",
+  "Lieu « Musée de la mine et des traditions populaires d'Escaudain », 1978 : Le musée de la Mine et des Traditions populaires est un musée ethnographique inauguré en 1978, situé à Escaudain, dans le département du Nord, en France.",
+  "Lieu « Musée de la mine et des traditions populaires d'Escaudain », 1978 : Ouvert en 1978, le musée de la Mine et des Traditions populaires d'Escaudain situé dans l'ancienne mairie, présente sur une surface de 300 m2 divers objets, maquettes, costumes et archives, liés à la vie locale et vous plonge dans l'atmosphère du début du XXe siècle.",
+  "Lieu « Fosse de Rœulx » : La fosse de Rœulx de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Escaudain.",
+  "Lieu « Fosse de Rœulx », 1956 : Elle assure l'aérage de la fosse Schneider jusqu'en 1956, les puits nos 1 et 2 sont respectivement remblayés en 1957 et 1958, et les installations de surfaces détruites."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 2
+ }
+}

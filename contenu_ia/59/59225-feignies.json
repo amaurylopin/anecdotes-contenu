@@ -1,0 +1,119 @@
+{
+ "commune": {
+  "titre": "Feignies",
+  "code_insee": "59225",
+  "departement": "59",
+  "population": 6703,
+  "lat": 50.30305556,
+  "lon": 3.91888889,
+  "url": "https://fr.wikipedia.org/wiki/Feignies"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:41:00",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1285,
+  "sortie": 716
+ },
+ "cout_usd": 0.001152,
+ "accroche": "À Feignies, le fort de Leveau a été bombardé le 7 septembre 1914, faisant 120 morts, selon le musée local.",
+ "histoire": {
+  "recit": "À la frontière entre la Belgique et la France, Feignies vit au rythme d’une histoire industrielle et défensive liée à Maubeuge.\n\nL’Usine Renault de Maubeuge naît au cœur de la crise : une convention est signée le 29 avril 1969 pour la construction d’une usine de 6 000 employés, puis la chaîne s’adapte en 2007 avec la présentation du Kangoo II et la signature de l’accord de fabrication en octobre. Aujourd’hui, le site compte 2 000 employés et contribue au maintien d’une partie des emplois industriels de l’agglomération.\n\nDe l’autre côté, le Musée du Fort de Leveau rappelle un projet militaire plus ancien : construit entre 1882 et 1884, le fort fait partie des six ouvrages élevés autour de Maubeuge. Le 7 septembre 1914, il est bombardé par les Allemands, et la mairie en est aujourd’hui propriétaire.",
+  "chronologie": [
+   {
+    "date": "29 avril 1969",
+    "texte": "Une convention est signée avec la Chambre de Commerce pour la construction de l’usine, dans un contexte de crise industrielle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "septembre 2007",
+    "texte": "Le Kangoo II, successeur du Kangoo, est présenté sur le site.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "octobre 2007",
+    "texte": "L’accord de fabrication est signé pour lancer la production du Kangoo II.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1882-1884",
+    "texte": "Le fort de Leveau est construit dans le cadre du programme du général Séré de Rivières de 1874.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "7 septembre 1914",
+    "texte": "Le fort de Leveau est bombardé par les Allemands, causant la mort de 120 hommes.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Usine Renault de Maubeuge",
+   "histoire": "Implantée dans la zone industrielle de Grévaux-les-Guides, l’usine est liée à la production automobile et à l’emploi industriel de l’agglomération maubeugeoise.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, le site compte 2 000 employés et aide l’agglomération maubeugeoise à maintenir une partie de ses emplois industriels.",
+   "sources": [
+    "S5"
+   ],
+   "lat": 50.27125,
+   "lon": 3.907972,
+   "url": "https://fr.wikipedia.org/wiki/Usine_Renault_de_Maubeuge"
+  },
+  {
+   "nom": "Musée du Fort de Leveau",
+   "histoire": "Installé à Feignies, le musée présente le fort de Leveau, construit pour protéger la ville de Maubeuge des bombardements d’artillerie.",
+   "anecdotes": [
+    {
+     "texte": "Le 7 septembre 1914, le fort est bombardé par les Allemands et 120 hommes meurent.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La mairie en est aujourd’hui propriétaire.",
+   "sources": [
+    "S9"
+   ],
+   "lat": 50.2994,
+   "lon": 3.94179,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Fort_de_Leveau"
+  }
+ ],
+ "sources": [
+  "Feignies est une commune française, située dans le département du Nord (59) en région Hauts-de-France, à la frontière entre la Belgique et la France.",
+  "Lieu « Usine Renault de Maubeuge » : L'usine Ampère de Maubeuge, anciennement Maubeuge Construction Automobile (MCA), est une usine de montage automobile installée dans la zone industrielle de Grévaux-les-Guides.",
+  "Lieu « Usine Renault de Maubeuge », 1969 : C'est le 29 avril 1969, en pleine crise industrielle, que grâce aux efforts conjugués de Maurice Schumann, Ministre d’État du général De Gaulle et de Pierre Forest, maire de Maubeuge, une convention est signée avec la Chambre de Commerce pour la construction de cette usine de 6 000 employés appartenant à la Société des usines Chausson.",
+  "Lieu « Usine Renault de Maubeuge », 2007 : En septembre 2007, a été présenté à l'usine le Kangoo II successeur du modèle Kangoo, et en octobre 2007, l'accord de fabrication a été signé pour lancer la production.",
+  "Lieu « Usine Renault de Maubeuge », aujourd'hui : Aujourd’hui, avec ses 2 000 employés, MCA permet à l'agglomération maubeugeoise de maintenir une partie de ses emplois industriels.",
+  "Lieu « Musée du Fort de Leveau » : Le Musée du Fort de Leveau est situé à Feignies (Nord, France).",
+  "Lieu « Musée du Fort de Leveau », 1882 : Construit entre 1882 et 1884 dans le cadre du programme du général Séré de Rivières de 1874, le fort de Leveau fait partie avec Boussois, Les Sarts, Hautmont, Cerfontaine et le Bourdiau, des six forts construits en périphérie de Maubeuge pour mettre la ville à l'abri des bombardements d'artillerie.",
+  "Lieu « Musée du Fort de Leveau », 1914 : Le fort a été bombardé par les Allemands le 7 septembre 1914 causant la mort de 120 hommes.",
+  "Lieu « Musée du Fort de Leveau », aujourd'hui : La mairie en est aujourd'hui propriétaire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "commune": {
+  "titre": "Auby",
+  "code_insee": "59028",
+  "departement": "59",
+  "population": 7083,
+  "lat": 50.41583333,
+  "lon": 3.055,
+  "url": "https://fr.wikipedia.org/wiki/Auby"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:34:10",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1194,
+  "sortie": 600
+ },
+ "cout_usd": 0.000989,
+ "accroche": "À Auby, la Compagnie des mines de l’Escarpelle a ouvert sa fosse no 8, connue comme « Port-Arthur ».",
+ "histoire": {
+  "recit": "Auby se trouve dans le Bassin minier du Nord-Pas-de-Calais, et sa trame locale s’est dessinée avec la fosse no 8 de la Compagnie des mines de l’Escarpelle. Au-delà des textes anciens, des fouilles menées à partir de 2002 ont mis au jour des vestiges plus anciens : des occupations du haut Moyen Âge et de périodes médiévales, ainsi que des tombes et des objets autour de l’église actuelle, où une motte féodale a aussi été localisée.\n\nCôté charbonnage, la fosse no 8 dite « Port-Arthur » a fonctionné dans ce paysage minier, avant que la production ne s’arrête en 1968. Cette année-là, les principales installations ont été détruites, mais des bâtiments annexes ont été conservés, et certains restent visibles jusqu’au XXIe siècle. Aujourd’hui, on peut encore voir l’habitation du garde et une partie des murs d’enceinte.",
+  "chronologie": [
+   {
+    "date": "XXe siècle",
+    "texte": "La Compagnie des mines de l’Escarpelle ouvre la fosse no 8 à Auby.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "Depuis 2002",
+    "texte": "Des fouilles menées par le service d’archéologie de la communauté d’agglomération mettent en évidence des occupations du haut Moyen Âge et des périodes médiévales, avec tombes et objets près de l’église actuelle ; une motte féodale y est localisée.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "La fosse cesse d’extraire ; les principales installations sont détruites, tandis que des bâtiments annexes sont conservés.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "XXIe siècle",
+    "texte": "Quelques bâtiments annexes sont toujours visibles.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse no 8 des mines de l'Escarpelle",
+   "histoire": "À Auby, la fosse no 8 de la Compagnie des mines de l’Escarpelle, dite « Port-Arthur », est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais. La production s’arrête en 1968, les installations principales sont démolies, mais certains bâtiments annexes demeurent visibles au XXIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’habitation du garde est visible, ainsi qu’une partie non négligeable des murs d’enceinte.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 50.412592,
+   "lon": 3.044261,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_8_des_mines_de_l%27Escarpelle"
+  }
+ ],
+ "sources": [
+  "Auby est une commune française située dans le département du Nord, en région Hauts-de-France. Auby est situé dans le Bassin minier du Nord-Pas-de-Calais et la Compagnie des mines de l'Escarpelle y a ouvert au XXe siècle sa fosse no 8.",
+  "De nombreuses fouilles menées par le service d'archéologie de la communauté d'agglomération depuis 2002 ont permis de mettre en évidence une occupation antérieure à celles mentionnées dans les textes anciens. Des vestiges d'occupations du haut Moyen Âge et moyenâgeuse viennent d'être découverts, de nombreuses tombes et objets notamment près de l'église actuelle ou a d'ailleurs été localisée la motte féodale mais […]",
+  "Lieu « Fosse no 8 des mines de l'Escarpelle » : La fosse no 8 de la Compagnie des mines de l'Escarpelle, dite Port-Arthur, est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Auby.",
+  "Lieu « Fosse no 8 des mines de l'Escarpelle », 1968 : Mais la fosse cesse d’extraire en 1968, date à laquelle les principales installations sont détruites.",
+  "Lieu « Fosse no 8 des mines de l'Escarpelle », 1968 : Bien que la partie production ait été démolie en 1968, des bâtiments annexes ont été conservés.",
+  "Lieu « Fosse no 8 des mines de l'Escarpelle », XXIe siècle : Quelques bâtiments annexes ont été conservés, et sont toujours visibles au XXIe siècle.",
+  "Lieu « Fosse no 8 des mines de l'Escarpelle », aujourd'hui : L'habitation du garde est également visible, ainsi qu'une partie non négligeable des murs d'enceinte."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

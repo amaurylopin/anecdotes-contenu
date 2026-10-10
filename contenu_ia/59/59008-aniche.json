@@ -1,0 +1,226 @@
+{
+ "commune": {
+  "titre": "Aniche",
+  "code_insee": "59008",
+  "departement": "59",
+  "population": 9963,
+  "lat": 50.33055556,
+  "lon": 3.25194444,
+  "url": "https://fr.wikipedia.org/wiki/Aniche"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:29",
+ "lieux_ecartes_autre_commune": 8,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2952,
+  "sortie": 1330
+ },
+ "cout_usd": 0.002253,
+ "accroche": "Le 28 novembre 1900, à la fosse Fénelon, vingt-et-un ouvriers meurent dans l’explosion de 148 kg de dynamite.",
+ "histoire": {
+  "recit": "Aniche, dans le bassin minier du Nord-Pas-de-Calais, s’est longtemps tenue au rythme des mines : quatorze puits y furent creusés, dont onze par la Compagnie des mines d’Aniche. Le verre prit aussi sa place, avec neuf verreries, et, après l’ouverture des premières verreries en 1823, la ville devint dès le milieu du XIXe siècle la capitale française de l’industrie du verre à vitres.\n\nMais le sous-sol n’offrait pas que des réussites. À la fosse Fénelon, le 28 novembre 1900, une explosion emporta vingt-et-un ouvriers, rendant ensuite obligatoires des dynamitières en surface, dans des zones protégées. Plus loin dans la même trame minière, la fosse Sainte-Barbe - Saint-Waast commence en 1786, est noyée en 1793, puis reprise.\n\nLa vie d’Aniche connut aussi la guerre : l’occupation dure quarante-neuf mois, de septembre 1914 au 20 octobre 1918, lorsque le village est libéré par les forces britanniques. Et durant l’occupation de 1940, la ville est occupée par l’Allemagne nazie.\n\nAu-dessus du travail, l’église Saint-Martin d’Aniche porte les marques du temps : bombardement du clocher en 1918 et reconstruction de l’instrument, puis bénédiction de la première pierre en 1857 à l’emplacement d’une église plus ancienne.",
+  "chronologie": [
+   {
+    "date": "XXe siècle (sans précision)",
+    "texte": "Le charbon et le verre ont façonné la commune, avec quatorze puits de mine et neuf verreries.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1823",
+    "texte": "Ouverture des premières verreries : Aniche s’élève ensuite, au milieu du XIXe siècle, au rang de capitale de l’industrie du verre à vitres, avec une forte hausse de population vers 1900.",
+    "sources": [
+     "S3",
+     "S1"
+    ]
+   },
+   {
+    "date": "28 novembre 1900",
+    "texte": "À la fosse Fénelon, l’explosion de 148 kg de dynamite fait vingt-et-un morts.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "20 octobre 1918",
+    "texte": "Aniche est libérée après quarante-neuf mois d’occupation, commencée en septembre 1914.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "La ville est occupée par l’Allemagne nazie.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Sainte-Catherine - Saint-Mathias",
+   "histoire": "Ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Aniche. Son histoire se lit aussi au travers de périodes de reprises et de noyages, liés aux aléas des travaux et des inondations.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S11"
+   ],
+   "lat": 50.327292,
+   "lon": 3.24445,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Sainte-Catherine_-_Saint-Mathias"
+  },
+  {
+   "nom": "Fosse Sainte-Barbe - Saint-Waast",
+   "histoire": "Ancien charbonnage de la Compagnie des mines d’Aniche à Aniche. Le fonçage commence en 1786, puis les puits sont abandonnés et noyés en 1793 avant une reprise l’année suivante.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S16"
+   ],
+   "lat": 50.329669,
+   "lon": 3.244271,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Sainte-Barbe_-_Saint-Waast"
+  },
+  {
+   "nom": "Fosse Saint-Hyacinthe",
+   "histoire": "Ancien charbonnage de la Compagnie des mines d’Aniche à Aniche, avec un puits unique ouvert en 1793. Les travaux se décalent ensuite avant des reprises et, plus tard, une transformation des pratiques d’extraction.",
+   "anecdotes": [
+    {
+     "texte": "C’est dans cette fosse que l’usage d’une machine d’extraction, en remplacement du manège à chevaux, est effectué pour la première fois.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 50.334642,
+   "lon": 3.245408,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Saint-Hyacinthe"
+  },
+  {
+   "nom": "Fosse Fénelon",
+   "histoire": "Ancien charbonnage situé à Aniche, près de la limite avec Somain. L’accident du 28 novembre 1900 y rend obligatoire l’établissement de dynamitières en surface dans des zones protégées, avant la fermeture de la fosse.",
+   "anecdotes": [
+    {
+     "texte": "L’explosion du dépôt de dynamite, le 28 novembre 1900, rend obligatoire l’établissement de dynamitières en surface dans des zones protégées.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    },
+    {
+     "texte": "De la fosse, il ne reste plus qu’un bâtiment.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "De la fosse, il ne reste plus qu’un bâtiment.",
+   "sources": [
+    "S26"
+   ],
+   "lat": 50.336558,
+   "lon": 3.273906,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_F%C3%A9nelon"
+  },
+  {
+   "nom": "Église Saint-Martin d'Aniche",
+   "histoire": "Église principale d’Aniche. Des évolutions internes et des dommages liés à la guerre y ont été signalés, ainsi que l’inauguration d’un nouvel orgue.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La première pierre de l’église est bénite le 13 avril 1857 par René-François Régnier, archevêque de Cambrai, à l’emplacement de l’ancienne église dont les origines remontent à l’époque mérovingienne.",
+   "sources": [
+    "S27",
+    "S31",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 50.330974,
+   "lon": 3.251293,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_d%27Aniche"
+  },
+  {
+   "nom": "Fosse Aoust",
+   "histoire": "Fosse de la Compagnie des mines d’Aniche située à Aniche. Le fonçage commence en 1836, la fosse ne livre finalement que des résultats limités, et le puits est serrementé puis abandonné en 1871.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 50.333347,
+   "lon": 3.266244,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Aoust"
+  }
+ ],
+ "sources": [
+  "Aniche est une commune française située dans le département du Nord, en région Hauts-de-France. La commune, située dans le bassin minier du Nord-Pas-de-Calais, a longtemps vécu de l'exploitation du charbon : quatorze puits de mine furent creusés sur son territoire, onze par la Compagnie des mines d'Aniche, trois par la Compagnie des mines d'Azincourt mais aussi de la fabrication du verre avec neuf verreries […]",
+  "Au début XIIe siècle, l'abbaye de Marchiennes possède l'autel et la dîme qui lui avait été ravie auparavant par Anselme le Barbu, comte d'Ostrevent dont les successeurs s'amendèrent[réf. à confirmer]. Aniche et Auberchicourt ont longtemps les mêmes seigneurs.[réf. nécessaire] La gouache (ci-contre) probablement peinte en 1603, figure dans les Albums de Croÿ et fait partie d'un vaste ensemble de peintures […]",
+  "1823 : Après l'ouverture des premières verreries en 1823, Aniche devient dès le milieu du XIXe siècle, la capitale française de l'industrie du verre à vitres et passe de 4 000 à 7 500 habitants en 1900.",
+  "1900 : Le 28 novembre 1900, vingt-et-un ouvriers sont tués par l'explosion de 148 kg de dynamite à la fosse Fénelon de la Compagnie des mines d'Aniche.",
+  "1914 : L'occupation dure quarante neuf mois, de septembre 1914 au 20 octobre 1918, lorsque le village est libéré par les forces britanniques.",
+  "1940 : Tout comme le reste du bassin minier, la ville est occupée par l'Allemagne nazie en 1940.",
+  "Lieu « Fosse Sainte-Catherine - Saint-Mathias » : La fosse Sainte-Catherine - Saint-Mathias, également orthographiée Sainte Catherine - Saint Mathias de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Aniche.",
+  "Lieu « Fosse Sainte-Catherine - Saint-Mathias », 1798 : Entretemps, la fosse Aglaé est mise en chantier à Auberchicourt en 1798, mais elle est envahie par les eaux et abandonnée en 1799.",
+  "Lieu « Fosse Sainte-Catherine - Saint-Mathias », 1817 : La fosse Espérance est mise en chantier en 1817 à Auberchicourt, à la suite de l'échec de la fosse La Paix, abandonnée à l'état d'avaleresse.",
+  "Lieu « Fosse Sainte-Catherine - Saint-Mathias », 1835 : Une fosse est ouverte à Mastaing de 1835 à 1838, mais trop au sud, la houille n'y est pas découverte.",
+  "Lieu « Fosse Sainte-Catherine - Saint-Mathias », aujourd'hui : En même temps que la destruction de l'usine, son exutoire de grisou a également été démoli, et le puits n'en est depuis plus pourvu, la canalisation au sol est encore visible.",
+  "Lieu « Fosse Sainte-Barbe - Saint-Waast » : La fosse Sainte-Barbe - Saint-Waast, également orthographiée Sainte Barbe - Saint Waast, de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Aniche.",
+  "Lieu « Fosse Sainte-Barbe - Saint-Waast », 1786 : Son fonçage commence en 1786, lorsque l'arrêt de l'exhaure au puits Saint-Laurent de la fosse récemment abandonnée Saint-Laurent - Sainte-Thérèse entraîne également l'inondation de la fosse Sainte-Catherine - Saint-Mathias.",
+  "Lieu « Fosse Sainte-Barbe - Saint-Waast », 1793 : Les puits sont abandonnés et noyés en 1793 à cause de l'invasion Autrichienne, mais sont repris un an plus tard, et la compagnie engrange un bénéfice en 1796.",
+  "Lieu « Fosse Sainte-Barbe - Saint-Waast », 1817 : La fosse Espérance est mise en chantier en 1817 à Auberchicourt, à la suite de l'échec de la fosse La Paix, abandonnée à l'état d'avaleresse.",
+  "Lieu « Fosse Sainte-Barbe - Saint-Waast », aujourd'hui : Le bouchon en béton du puits Saint-Waast est un peu visible.",
+  "Lieu « Fosse Saint-Hyacinthe » : La fosse Saint-Hyacinthe, également orthographiée Saint Hyacinthe, de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Aniche.",
+  "Lieu « Fosse Saint-Hyacinthe », 1793 : Le puits unique est ouvert à Aniche, le long de la route reliant Douai à Denain, en 1793.",
+  "Lieu « Fosse Saint-Hyacinthe », 1798 : En 1798, la Compagnie reporte ses travaux 940 mètres à l'ouest, à Auberchicourt, toujours le long de la même route, dans le but d'ouvrir la fosse Aglaé, mais le puits est envahi par de fortes venues d'eau l'année suivante, et abandonné à l'état d'avaleresse.",
+  "Lieu « Fosse Saint-Hyacinthe », 1804 : La fosse Sainte-Catherine - Saint-Mathias est rouverte en 1804, après avoir été abandonnée pendant dix-huit ans.",
+  "Lieu « Fosse Saint-Hyacinthe », aujourd'hui : C'est dans cette fosse que l'usage d'une machine d'extraction en remplacement du manège à chevaux est effectué pour la première fois.",
+  "Lieu « Fosse Fénelon » : La fosse Fénelon de la Compagnie des mines d'Aniche est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Aniche, près de la limite avec Somain.",
+  "Lieu « Fosse Fénelon », 1840 : Au début des années 1840, la Compagnie des mines d'Aniche a pris un nouvel essor grâce à l'ouverture de la fosse La Renaissance à Somain.",
+  "Lieu « Fosse Fénelon », 1900 : Le 28 novembre 1900, l'explosion du dépôt de dynamite entraîne 21 morts, cet accident a rendu obligatoire l'établissement des dynamitières en surface, dans des zones protégées.",
+  "Lieu « Fosse Fénelon », 1925 : La fosse est fermée en 1925, et le puits de 724 mètres remblayé ou serrementé la même année.",
+  "Lieu « Fosse Fénelon », aujourd'hui : De la fosse, il ne reste plus qu'un bâtiment.",
+  "Lieu « Église Saint-Martin d'Aniche » : L'église Saint-Martin est l'église principale de la ville d'Aniche dans le département du Nord.",
+  "Lieu « Église Saint-Martin d'Aniche », 1861 : À l'intérieur, le maître-autel néo-gothique béni en 1861 a été démantelé par le clergé à la suite de la réforme liturgique de 1969 et remplacé par une table d'autel en briques.",
+  "Lieu « Église Saint-Martin d'Aniche », 1918 : Le clocher est bombardé par les Allemands en 1918 et la chute de la flèche provoque la destruction de l'orgue.",
+  "Lieu « Église Saint-Martin d'Aniche », 1931 : Un nouvel orgue à transmission mécanique construit à Bruxelles est inauguré en 1931.",
+  "Lieu « Église Saint-Martin d'Aniche », aujourd'hui : La première pierre de l'église est bénite le 13 avril 1857 par René-François Régnier, archevêque de Cambrai, à l'emplacement de l'ancienne église dont les origines remontent à l'époque mérovingienne.",
+  "Lieu « Fosse Aoust » : La fosse Aoust ou d'Aoust de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Aniche. le fonçage commence en 1836, à un peu plus d'un kilomètre de la limite de la concession d'Aniche avec celle",
+  "Lieu « Fosse Aoust », 1835 : La Compagnie n'a alors que quatre fosses en exploitation, et la fosse commencée à Mastaing en 1835 est abandonné en 1838, faute de résultats probants En janvier 1839, un groupe d'associés venus de Cambrai se rend maître de la Compagnie, ils entreprennent sa réorganisation complète.",
+  "Lieu « Fosse Aoust », 1836 : Finalement, le puits est resté ouvert de 1836 à 1871, soit 35 ans, mais n'a été exploité que de 1845 à 1860, soit quinze ans.",
+  "Lieu « Fosse Aoust », 1860 : Ainsi, la fosse d'Aoust s'avère inutile, l'extraction cesse en 1860, après seulement quinze ans d'extraction, et le puits est serrementé puis abandonné en 1871."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 3
+ }
+}

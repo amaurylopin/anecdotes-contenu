@@ -1,0 +1,90 @@
+{
+ "commune": {
+  "titre": "Aulnoy-lez-Valenciennes",
+  "code_insee": "59032",
+  "departement": "59",
+  "population": 7080,
+  "lat": 50.33194444,
+  "lon": 3.53083333,
+  "url": "https://fr.wikipedia.org/wiki/Aulnoy-lez-Valenciennes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:34:15",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1193,
+  "sortie": 508
+ },
+ "cout_usd": 0.000874,
+ "accroche": "En novembre 1676, le bâtiment dit du « vieux-manoir » aurait hébergé le roi Louis XIV pendant l’assiégeant de Valenciennes jusqu’en mars 1677.",
+ "histoire": {
+  "recit": "Aulnoy-lez-Valenciennes, commune de la banlieue de Valenciennes dans le Nord, a vu des temps durs et des périodes d’attente. En 1602, l’abbaye des Dames de Beaumont y a déclaré des terres, comme si la commune gardait déjà des attaches anciennes.\n\nPlus tard, un nom circule pour l’un de ses bâtiments : le « vieux-manoir ». On raconte qu’il aurait accueilli le roi Louis XIV pendant que ses armées assiégeaient Valenciennes, de novembre 1676 à mars 1677.\n\nAu XXe siècle, la guerre change de rythme. La ville est occupée dès août 1914, loin du front pendant de longs mois. Puis, fin octobre 1918, elle devient le théâtre de violents combats avant d’être reprise après des affrontements. Sur place, le Cimetière militaire britannique d’Aulnoy-lez-Valenciennes rappelle cette époque avec un cimetière militaire de la Première Guerre mondiale situé sur le territoire de la commune.",
+  "chronologie": [
+   {
+    "date": "1602",
+    "texte": "L’abbaye des Dames de Beaumont y déclare des terres.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "novembre 1676 - mars 1677",
+    "texte": "Le « vieux-manoir » aurait hébergé le roi Louis XIV pendant l’assiégeant de Valenciennes.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "août 1914",
+    "texte": "La ville est occupée par les armées allemandes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "fin octobre 1918",
+    "texte": "De violents combats se déroulent, puis la ville est reprise par des troupes canadiennes et britanniques.",
+    "sources": [
+     "S2",
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cimetière militaire britannique d'Aulnoy-lez-Valenciennes",
+   "histoire": "C’est un cimetière militaire de la Première Guerre mondiale situé sur le territoire de la commune d’Aulnoy-lez-Valenciennes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5"
+   ],
+   "lat": 50.32948,
+   "lon": 3.52313,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_militaire_britannique_d%27Aulnoy-lez-Valenciennes"
+  }
+ ],
+ "sources": [
+  "Aulnoy-lez-Valenciennes est une commune française de la banlieue de Valenciennes, située dans le département du Nord en région Hauts-de-France.",
+  "L'abbaye des Dames de Beaumont y a déclaré des terres en 1602. Le bâtiment dit du \"vieux-manoir\" aurait hébergé le roi Louis XIV pendant que ses armées assiégeaient Valenciennes de novembre 1676 à mars 1677. La ville est occupée par les armées allemandes dès août 1914. Fin octobre 1918, la ville est le théâtre de violents combats au terme desquels le régiment canadien du 4th Seatforths libère la ville. La bataille […]",
+  "1676 : Le bâtiment dit du \"vieux-manoir\" aurait hébergé le roi Louis XIV pendant que ses armées assiégeaient Valenciennes de novembre 1676 à mars 1677.",
+  "1914 : La ville est occupée par les armées allemandes dès août 1914.",
+  "Lieu « Cimetière militaire britannique d'Aulnoy-lez-Valenciennes » : Le Cimetière militaire britannique d'Aulnoy-lez-Valenciennes (Aulnoy Communal Cemetery) » est un cimetière militaire de la Première Guerre mondiale situé sur le territoire de la commune d'Aulnoy-lez-Valenciennes, Nord.",
+  "Lieu « Cimetière militaire britannique d'Aulnoy-lez-Valenciennes », 1914 : Occupée dès la fin août 1914 par les troupes allemandes, la ville d'Aulnoy-lez-Valenciennes est restée loin du front jusqu'au derniers jours d'octobre 1918, date à laquelle elle a été reprise par les troupes canadiennes et britanniques après de violents affrontements ."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

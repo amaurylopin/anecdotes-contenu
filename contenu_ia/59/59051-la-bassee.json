@@ -1,0 +1,75 @@
+{
+ "commune": {
+  "titre": "La Bassée",
+  "code_insee": "59051",
+  "departement": "59",
+  "population": 6650,
+  "lat": 50.53416667,
+  "lon": 2.80805556,
+  "url": "https://fr.wikipedia.org/wiki/La_Bass%C3%A9e"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:42:09",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1034,
+  "sortie": 434
+ },
+ "cout_usd": 0.000749,
+ "accroche": "La Bassée est une commune du département du Nord, en Hauts-de-France, faisant partie de la Métropole européenne de Lille.",
+ "histoire": {
+  "recit": "À La Bassée, les origines sont difficiles à fixer avec certitude. On raconte qu’avant l’arrivée des Romains, le lieu était rattaché aux Atrébates, comme l’évoque Pline l’Ancien sous les noms de Bassi ou Bassy.\n\nPuis viennent des temps plus nets. En 1673, un traité prévoit le démantèlement des fortifications, et l’exécution suit l’année même. Plus tard, la Première Guerre mondiale frappe durement : la ville est ravagée pendant la bataille de La Bassée en 1914, puis encore pendant celle de la Lys en 1918.\n\nLe même choc revient pendant la Seconde Guerre mondiale. En 1944, lors des combats de la Libération de la France, La Bassée est libérée par le 12e corps britannique, au milieu de nouveaux combats.",
+  "chronologie": [
+   {
+    "date": "1673",
+    "texte": "Le traité prévoit le démantèlement des fortifications, exécuté en 1673.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Lors de la Première Guerre mondiale, La Bassée est ravagée pendant la bataille de La Bassée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1918",
+    "texte": "Toujours pendant la Première Guerre mondiale, la ville subit aussi la bataille de la Lys.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "En 1944, pendant les combats de la Libération de la France, La Bassée est libérée par le 12e corps britannique.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "La Bassée est une commune française située dans le département du Nord, en région Hauts-de-France. Elle fait partie de la Métropole européenne de Lille.",
+  "La Bassée a connu comme beaucoup de localités du nord de la France une longue histoire mouvementée dont les origines, très anciennes, sont mal connues, si ce n'est à travers des hypothèses plus ou moins acceptables. Pline l'Ancien cite La Bassée dans ses écits sous le nom de Bassi ou Bassy qui est rattachée, avant l'arrivée des Romains, aux Atrébates. Il pourrait s'agir d'un site tribal constitutif des Atrébates. […]",
+  "1673 : Le traité prévoyait le démantèlement de ses fortifications qui est exécuté en 1673.",
+  "1914 : Lors de la Première Guerre mondiale, la ville est ravagée pendant la bataille de La Bassée en 1914 et celle de la Lys en 1918.",
+  "1944 : La Bassée connaît de nouveaux combats lors de la Seconde Guerre mondiale, pendant les combats de la Libération de la France en 1944 où elle est libérée par le 12e corps britannique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

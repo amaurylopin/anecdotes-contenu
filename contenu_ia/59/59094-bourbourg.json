@@ -1,0 +1,169 @@
+{
+ "commune": {
+  "titre": "Bourbourg",
+  "code_insee": "59094",
+  "departement": "59",
+  "population": 6931,
+  "lat": 50.947222,
+  "lon": 2.198611,
+  "url": "https://fr.wikipedia.org/wiki/Bourbourg"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:37:01",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1837,
+  "sortie": 1004
+ },
+ "cout_usd": 0.001622,
+ "accroche": "En mai 1940, lors de l’invasion allemande, l’église Saint-Jean-Baptiste de Bourbourg est incendiée et quasi détruite, ainsi que de nombreuses maisons.",
+ "histoire": {
+  "recit": "Bourbourg se fixe sur des terres nourries par des alluvions venues du bassin de l’Aa, et apparaît dans l’ombre du delta sous le nom de « Burgus in broco ». Très tôt, la ville se fortifie : vers 900, le comte de Flandres fait reconstruire remparts et fossés.\n\nAu sud, les œuvres religieuses prennent la mesure du lieu. Vers 1099, Clémence de Bourgogne fonde l’abbaye Notre-Dame de Bourbourg pour les jeunes filles nobles, puis elle devient un chapitre de chanoinesses. Vers 1132, une maison des lépreux, tenue par des religieuses puis par les « sœurs noires », s’établit à environ un kilomètre au sud.\n\nLe destin de Bourbourg passe aussi par le feu. Le 30 décembre 1894, un incendie éclate dans l’église de Bourbourg, attribué à une lampe à huile tombée sur du papier doré décorant la crèche. En mai 1940, l’église Saint-Jean-Baptiste est incendiée et presque effacée.\n\nPlus près des échanges, la commune vit avec ses rails et son canal : la gare de Bourbourg se dote en 1885 d’une grue hydraulique et d’une citerne, tandis que le canal poursuit encore aujourd’hui le transport des marchandises.",
+  "chronologie": [
+   {
+    "date": "vers 800",
+    "texte": "Sur une carte de Malbrancq, le village « Burgus in broco » est indiqué dans la partie orientale du delta de l’Aa, entouré d’autres noms de lieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 900",
+    "texte": "Le comte de Flandres Baudouin II fait reconstruire remparts et fossés autour de la ville.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "vers 1099",
+    "texte": "Clémence de Bourgogne fonde l’abbaye Notre-Dame de Bourbourg au sud de la ville, destinée aux jeunes filles nobles.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "vers 1132",
+    "texte": "Malger fonde une maison des lépreux à environ un kilomètre au sud de la ville, desservie par des religieuses puis par les sœurs noires.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "30 décembre 1894",
+    "texte": "Un incendie se déclare dans l’église de Bourbourg, vraisemblablement à partir des décorations de Noël.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "18 décembre 1917",
+    "texte": "Un incendie éclate à Bourbourg-Campagne dans une sècherie de chicorée.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "La première des deux lignes ferme en 1939 pour le service marchandises.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "mai 1940",
+    "texte": "Lors de l’invasion allemande, l’église Saint-Jean-Baptiste est incendiée et quasi détruite, avec de nombreuses maisons.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "La Compagnie installe une grue hydraulique et construit une citerne pour le chef de gare à la gare de Bourbourg.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "Le canal de Bourbourg poursuit encore le transport des marchandises.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Jean-Baptiste de Bourbourg",
+   "histoire": "Église catholique située à Bourbourg. La construction primitive remonte probablement au début du XIIe siècle, avec des soubassements alternant briques et pierres calcaires, à l’origine en croix latine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 50.9465,
+   "lon": 2.19662,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Bourbourg"
+  },
+  {
+   "nom": "Gare de Bourbourg",
+   "histoire": "Gare ferroviaire française sur la ligne de Coudekerque-Branche aux Fontinettes, située sur le territoire de Bourbourg.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 50.952264,
+   "lon": 2.194153,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bourbourg"
+  },
+  {
+   "nom": "Canal de Bourbourg",
+   "histoire": "Canal situé du côté ouest du port de Dunkerque, passant notamment à Bourbourg, Craywick et Grande-Synthe.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seul subsiste le transport des marchandises, rôle que le canal continue de jouer.",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 50.9375,
+   "lon": 2.15111111,
+   "url": "https://fr.wikipedia.org/wiki/Canal_de_Bourbourg"
+  }
+ ],
+ "sources": [
+  "Bourbourg est une commune française, située dans le département du Nord en région Hauts-de-France.",
+  "Bourbourg est apparue sur des terres en partie formées des alluvions descendant de la partie supérieure du bassin de l'Aa. Vers 800, selon une carte de Malbrancq qui représente la partie orientale du delta de l'Aa, le village Burgus in broco est indiqué, entouré de Ecclesia in broco (Brouckerque), Grunberga (Bergues), Saint-Wilbrordi (Gravelines), Koudekerke (Coudekerque), Spikere (Spycker) ou Loo berga (Looberghe). […]",
+  "900 : Le comte de Flandres Baudouin II (Baudouin le Chauve) entoure la ville reconstruite de remparts et de fossés vers 900.",
+  "1099 : Vers 1099, au retour de la première croisade de son mari et comte de Flandres, Robert II de Flandre, Clémence de Bourgogne fonde l'abbaye Notre-Dame de Bourbourg au sud de la ville, abbaye réservée aux jeunes filles nobles, plus tard transformée en chapitre noble de chanoinesses.",
+  "1132 : Vers 1132, une maison des lépreux, desservie par des religieuses, et plus tard par les sœurs noires, est fondée à environ un kilomètre au sud de la ville par un dénommé Malger, avec l'assentiment de l'évêque des Morins et de l'abbé de Saint-Bertin.",
+  "1894 : Le dimanche 30 décembre 1894, dans l'après-midi, un incendie se déclare dans l'église de Bourbourg, a priori à partir des décorations de Noël (des enfants auraient fait tomber une petite lampe à huile sur du papier doré décorant la crèche).",
+  "1917 : La ville bénéficie de la présence de soldats sur la commune : le 18 décembre 1917, un incendie se déclare à Bourbourg-Campagne dans une sècherie de chicorée.",
+  "1939 : La première des deux lignes a fermé en 1939 pour le service marchandises et en 1958 pour celui des marchandises.",
+  "1940 : En mai 1940, au début de la Seconde Guerre mondiale, lors de l'invasion allemande, l'église Saint-Jean-Baptiste est incendiée et quasi détruite, de même que de nombreuses maisons.",
+  "Lieu « Église Saint-Jean-Baptiste de Bourbourg » : L'église Saint-Jean-Baptiste est une église catholique située à Bourbourg, en France.",
+  "Lieu « Église Saint-Jean-Baptiste de Bourbourg », XIIe siècle : La construction de l'église primitive remonte probablement au début du XIIe siècle, comme en témoignent les soubassements de briques et de pierres calcaires qui se succèdent alternativement pour former les assises de l'édifice, initialement conçu en forme de croix latine.",
+  "Lieu « Église Saint-Jean-Baptiste de Bourbourg », 1383 : Douze vitraux représentent des faits de l’histoire religieuse de Bourbourg comme l’attentat contre la statue de Notre-Dame de Bourbourg en 1383, l’incendie de l’église le 25 mai 1940 ou encore la Fondation de l’Hospice Saint-Jean pour accueillir les pèlerins à Notre-Dame de Bourbourg.",
+  "Lieu « Église Saint-Jean-Baptiste de Bourbourg », 2008 : Inaugurée en 2008, l'œuvre est composée d’un ensemble de 15 sculptures dont neuf se déploient en cercle autour de la cuve baptismale sur les 450 m2 du chœur, conçu comme socle.",
+  "Lieu « Gare de Bourbourg » : La gare de Bourbourg est une gare ferroviaire française de la ligne de Coudekerque-Branche aux Fontinettes, située sur le territoire de la commune de Bourbourg dans le département du Nord, en région Hauts-de-France.",
+  "Lieu « Gare de Bourbourg », 1885 : En 1885, la Compagnie installe une grue hydraulique et construit une citerne pour le chef de gare.",
+  "Lieu « Canal de Bourbourg » : Le canal de Bourbourg est un canal situé dans le département français du Nord, du côté ouest du port de Dunkerque, passant notamment à Bourbourg, Craywick et Grande-Synthe.",
+  "Lieu « Canal de Bourbourg », aujourd'hui : Seul subsista le transport des marchandises, rôle que continue de jouer depuis le canal de Bourbourg."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 0
+ }
+}

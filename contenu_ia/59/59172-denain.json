@@ -1,0 +1,272 @@
+{
+ "commune": {
+  "titre": "Denain",
+  "code_insee": "59172",
+  "departement": "59",
+  "population": 20665,
+  "lat": 50.32944444,
+  "lon": 3.39583333,
+  "url": "https://fr.wikipedia.org/wiki/Denain"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:09:08",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3116,
+  "sortie": 2234
+ },
+ "cout_usd": 0.003416,
+ "accroche": "Le 24 juillet 1712, la bataille de Denain se joue lors de la guerre de Succession d'Espagne. ",
+ "histoire": {
+  "recit": "Denain, commune de la banlieue de Valenciennes, s’est longtemps organisée autour de l’Escaut canalisé et de l’exploitation du charbon. Avant même les grands chantiers miniers, l’Abbaye des Dames Chanoinesses est fondée à Denain en 764, puis elle est incendiée et pillée par les Vikings en 851 avant d’être reconstruite, et encore détruite à la Révolution.\n\nAu XVIIIe siècle, la Compagnie des mines d’Anzin tente d’explorer : en 1777, des sondages sont menés près de l’actuelle mairie, sur les terres des chanoinesses, mais ils se révèlent infructueux. La ville bascule ensuite dans l’ère industrielle : l’usine à fer s’installe en 1824 avec de nombreux ouvriers anglais.\n\nSur le terrain minier, la fosse Villars commence à produire dès 1828, la fosse Bellevue démarre ses travaux en 1834, et l’industrie sidérurgique s’impose avec Usinor-Denain. Après des destructions et des reconstructions, la production d’acier reprend, puis l’aciérie cesse et l’usine ferme définitivement ses portes en 1988. Aujourd’hui, certains carreaux et bâtiments subsistent, tandis que d’autres sites ont laissé place à de nouvelles activités.",
+  "chronologie": [
+   {
+    "date": "764",
+    "texte": "Fondation de l’Abbaye des Dames Chanoinesses à Denain.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "851",
+    "texte": "L’abbaye est incendiée et pillée par les Vikings.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1712",
+    "texte": "La bataille de Denain, pendant la guerre de Succession d'Espagne, a lieu le 24 juillet 1712.",
+    "sources": [
+     "S25"
+    ]
+   },
+   {
+    "date": "1777",
+    "texte": "Des sondages sur Denain sont effectués près de l’actuelle mairie, sur les terres des chanoinesses, et sont abandonnés faute de résultats.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1824",
+    "texte": "L’usine à fer de Denain s’installe, avec de nombreux ouvriers anglais, près de l’Escaut.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1834",
+    "texte": "La Compagnie des mines d’Anzin commence le fonçage de la huitième fosse sur Denain, dans la partie nord de la commune.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "Usinor-Denain est fondée par Jean-François Dumont.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "Usinor-Denain ferme définitivement ses portes.",
+    "sources": [
+     "S20"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Renard",
+   "histoire": "La fosse Renard, aussi appelée Jacques Renard, est un ancien charbonnage du bassin minier situé à Denain. Reconstruite vers 1920, elle cesse d’extraire en 1948, puis les puits sont comblés en 1952. Plus tard, les installations de surface sont détruites à partir de 1972. Le carreau de fosse est occupé par diverses entreprises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 50.325311,
+   "lon": 3.374606,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Renard"
+  },
+  {
+   "nom": "Fosse Villars",
+   "histoire": "La fosse Villars, dite fosse Claude Louis Hector de Villars, est un ancien charbonnage du bassin minier à Denain. Les premiers sondages sur Denain, menés près de l’actuelle mairie, portent aussi sur les terres des chanoinesses, avant les ouvertures de fosses. La fosse Villars se caractérise par des arcades en plein cintre, commencée en 1826, elle commence à produire dès 1828. Aujourd’hui, un nouveau système abrité remplace le pompe à feu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 50.325573,
+   "lon": 3.386162,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Villars"
+  },
+  {
+   "nom": "Fosse Bellevue",
+   "histoire": "La fosse Bellevue est un ancien charbonnage du bassin minier situé à Denain. La Compagnie des mines d’Anzin commence en 1834 le fonçage de sa huitième fosse dans la partie nord de la commune. En 1923, une troisième vague de logements permet de loger 82 familles supplémentaires. Les corons sont détruits en 1988, tandis que les autres habitations sont pour la plupart rénovées. Aujourd’hui, il subsiste un des bâtiments de la fosse.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 50.343345,
+   "lon": 3.37822,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Bellevue"
+  },
+  {
+   "nom": "Usine sidérurgique de Denain",
+   "histoire": "L’usine sidérurgique Usinor-Denain est fondée en 1839 par Jean-François Dumont. En 1875, l’affinage de la fonte brute pour fabriquer un acier peu coûteux par le convertisseur Bessemer est installé, avec un autre convertisseur Martin. En 1919, l’usine est entièrement détruite, puis très endommagée en 1945 ; elle est reconstruite et produit 742 000 tonnes d’acier en 1947. L’aciérie Martin cesse son activité en 1972, et l’usine ferme définitivement ses portes en 1988.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S20"
+   ],
+   "lat": 50.316964,
+   "lon": 3.37873,
+   "url": "https://fr.wikipedia.org/wiki/Usine_sid%C3%A9rurgique_de_Denain"
+  },
+  {
+   "nom": "Bataille de Denain",
+   "histoire": "La bataille de Denain est un épisode décisif de la guerre de Succession d’Espagne, qui se déroule le 24 juillet 1712. Des négociations de paix sont ouvertes à Utrecht, tandis que les Alliés reprennent l’offensive dans le nord du royaume. À Denain, le monument lié à l’événement porte des vers de Voltaire dans sa version initiale, avant d’être mutilé et remplacé par un obélisque.",
+   "anecdotes": [
+    {
+     "texte": "Le monument initial, en pierre bleue, affichait deux vers de Voltaire : « Regardez dans Denain, l'audacieux Villars/ Disputant le tonnerre à l'aigle des Césars. »",
+     "statut": "tradition_locale",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S28",
+    "S29"
+   ],
+   "lat": 50.329444444444,
+   "lon": 3.3958333333333,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Denain"
+  },
+  {
+   "nom": "Fosse de l'Enclos",
+   "histoire": "La fosse de l’Enclos, ou Enclos de la Compagnie des mines d’Anzin, est un ancien charbonnage situé à Denain. En 1953, le puits no 2, profond de 630 mètres, est remblayé, et le puits no 1, profond de 727 mètres, est comblé deux ans plus tard. Aujourd’hui, le seul vestige de la fosse est sa mine-image.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 50.320053,
+   "lon": 3.394025,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_de_l%27Enclos"
+  },
+  {
+   "nom": "Fosse Chabaud-Latour (Denain)",
+   "histoire": "La fosse François de Chabaud-Latour est un ancien charbonnage de la Compagnie des mines d’Anzin situé à Denain. Commencée en 1842, elle commence à extraire en 1847, puis est abandonnée en 1853 après une venue d’eau impossible à épuiser. En 1870, la cité Chabaud-Latour Ancienne est construite et agrandie en 1875, essentiellement composée de corons. Les installations de surface sont détruites en 1877 et les puits remblayés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 50.334452,
+   "lon": 3.399544,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Chabaud-Latour_%28Denain%29"
+  },
+  {
+   "nom": "Fosse Jean Bart",
+   "histoire": "La fosse Jean Bart de la Compagnie des mines d’Anzin est un ancien charbonnage situé à Denain. La fosse en elle-même n’a rien de particulier, mais ses corons bâtis dans les années 1830 et 1851 sont mis en avant. L’extraction s’arrête en 1859 ; la fosse sert encore à l’aérage et au service jusqu’à 1881, puis elle est définitivement abandonnée. En 1976, tous les corons sont détruits sauf celui où a vécu Jules Mousseron.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 50.325825,
+   "lon": 3.391297,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Jean_Bart"
+  }
+ ],
+ "sources": [
+  "Denain est une commune française de la banlieue de Valenciennes, située sur le cours canalisé de l'Escaut, dans le département du Nord et la région Hauts-de-France. Ancienne « capitale du charbon et de l'acier », la ville est située au cœur du bassin minier du Nord. Au total, les 15 fosses de Denain auront produit 34 millions de tonnes de charbon. Le terril Renard, la fosse Mathilde et la cité Chabaud-Latour sont […]",
+  "L'Abbaye des Dames Chanoinesses, fondée à Denain en l'an 764 puis incendiée et pillée par les Vikings en 851 sera reconstruite puis à nouveau détruite à la Révolution française. Une épée de type Norvégien[Quoi ?], trouvée dans l'Escaut à Denain, aujourd'hui conservée au musée municipal, témoigne du passage des Vikings dans la région. Lors de la guerre de Succession d'Espagne a lieu le 24 juillet 1712 la bataille de […]",
+  "764 : L'Abbaye des Dames Chanoinesses, fondée à Denain en l'an 764 puis incendiée et pillée par les Vikings en 851 sera reconstruite puis à nouveau détruite à la Révolution française.",
+  "1824 : L'usine à fer de Denain s'installe aussi, avec de nombreux ouvriers anglais près de l'Escaut, fondée par Pierre-François Dumont, né à Bouchain, qui avait créé à Raismes dès 1824 une usine comprenant des fours, laminoirs, et fonderies.",
+  "Lieu « Fosse Renard » : La fosse Renard ou Jacques Renard de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Denain.",
+  "Lieu « Fosse Renard », 1920 : Elle est reconstruite vers 1920 avec des chevalements en béton armé.",
+  "Lieu « Fosse Renard », 1948 : La fosse cesse d'extraire en 1948, les réserves étant faibles, et les puits sont comblés en 1952.",
+  "Lieu « Fosse Renard », 1972 : Les installations de surface sont détruites à partir de 1972.",
+  "Lieu « Fosse Renard », aujourd'hui : Le carreau de fosse est occupé par diverses entreprises, dont un ferrailleur, une casse, et deux concessionnaires.",
+  "Lieu « Fosse Villars » : La fosse Claude Louis Hector de Villars dite fosse Villars de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Denain.",
+  "Lieu « Fosse Villars », 1777 : La Compagnie des mines d'Anzin a effectué des recherches à la fin du XVIIIe siècle, les premiers sondages sur Denain sont effectués en 1777 sur les terres des chanoinesses, près de l'actuelle mairie, mais ces recherches ont été infructueuses, et elles ont été abandonnées.",
+  "Lieu « Fosse Villars », 1820 : Il possède trois arcades en plein cintre, un élément architectural caractéristique des fosses ouvertes par la Compagnie dès les années 1820 et 1830.",
+  "Lieu « Fosse Villars », 1826 : Commencée en 1826, elle est la première fosse ouverte sur la commune, et commence à produire dès 1828.",
+  "Lieu « Fosse Villars », aujourd'hui : Le « pompe à feu » qui assure l'exhaure est remplacé par un nouveau système abrité dans le bâtiment neuf.",
+  "Lieu « Fosse Bellevue » : La fosse Bellevue de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Denain.",
+  "Lieu « Fosse Bellevue », 1834 : La Compagnie des mines d'Anzin commence en 1834 le fonçage de sa huitième fosse sur Denain dans la partie nord de la commune, à 2 055 mètres au nord-nord-ouest de la fosse Villars, la première fosse denaisienne, ouverte il y a dix-huit ans.",
+  "Lieu « Fosse Bellevue », 1923 : Une troisième vague de logements construite en 1923 permet de loger 82 familles supplémentaires.",
+  "Lieu « Fosse Bellevue », 1988 : Les corons sont détruits en 1988, les autres habitations sont en revanche rénovées pour la plupart.",
+  "Lieu « Fosse Bellevue », aujourd'hui : Il subsiste un des bâtiments de la fosse.",
+  "Lieu « Usine sidérurgique de Denain » : Usinor-Denain est une usine sidérurgique, fondée en 1839 par Jean-François Dumont, qui a fermé définitivement ses portes en 1988, au terme de dix années de restructurations.",
+  "Lieu « Usine sidérurgique de Denain », 1839 : Usinor-Denain est une usine sidérurgique, fondée en 1839 par Jean-François Dumont, qui a fermé définitivement ses portes en 1988, au terme de dix années de restructurations.",
+  "Lieu « Usine sidérurgique de Denain », 1875 : En 1875, l'affinage de la fonte brute, pour fabriquer de l'acier peu coûteux par le convertisseur Bessemer est installé ainsi qu'un autre convertisseur Martin.",
+  "Lieu « Usine sidérurgique de Denain », 1919 : Entièrement détruite en 1919, très endommagée en 1945, elle fut reconstruite et produira 742 000 tonnes d'acier en 1947.",
+  "Lieu « Usine sidérurgique de Denain », aujourd'hui : L’aciérie Martin fournissant le métal cessera son activité en 1972, et remplacé par l’Usine de Dunes de Leffrinckoucke, concurrent d'Usinor.",
+  "Lieu « Bataille de Denain » : La bataille de Denain, qui eut lieu le 24 juillet 1712, est un épisode décisif de la guerre de Succession d'Espagne.",
+  "Lieu « Bataille de Denain », 1712 : En 1712, alors que des négociations de paix sont ouvertes à Utrecht, les Alliés reprennent l'offensive dans le nord du royaume.",
+  "Lieu « Bataille de Denain », 1712 : Le clocher d'Avesnes-le-Sec est incendié le 17 juillet 1712[réf. nécessaire].",
+  "Lieu « Bataille de Denain », 1781 : Érigé en pierre bleue, le monument initial portait deux vers de Voltaire « Regardez dans Denain, l'audacieux Villars/ Disputant le tonnerre à l'aigle des Césars. » Il indiquait également « Érigé par les soins de M.Gabriel Sénac de Meilhan, intendant du Hainaut, 1781».",
+  "Lieu « Bataille de Denain », aujourd'hui : Mutilé en 1792 et 1815, l'édifice a été remplacé par un obélisque classé aux monuments historiques.",
+  "Lieu « Fosse de l'Enclos » : La fosse de l'Enclos ou Enclos de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Denain.",
+  "Lieu « Fosse de l'Enclos », 1953 : Le puits no 2, profond de 630 mètres, est remblayé en 1953, le puits no 1, profond de 727 mètres, est comblé deux ans plus tard.",
+  "Lieu « Fosse de l'Enclos », 1953 : Le puits no 2 est comblé en 1953, le puits no 1 en 1955.",
+  "Lieu « Fosse de l'Enclos », aujourd'hui : Le seul vestige de la fosse est sa mine-image.",
+  "Lieu « Fosse Chabaud-Latour (Denain) » : La fosse François de Chabaud-Latour ou Chabaud-Latour de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Denain.",
+  "Lieu « Fosse Chabaud-Latour (Denain) », 1842 : Commencée en 1842, elle commence à extraire en 1847, mais est abandonnée en 1853 après une venue d'eau qu'il n'a pas été possible d'épuiser, alors qu'elle n'avait extrait que 595 tonnes, sans extraire de 1849 à 1952.",
+  "Lieu « Fosse Chabaud-Latour (Denain) », 1870 : La cité Chabaud-Latour Ancienne est construite en 1870 et agrandie en 1875, elle est essentiellement composée de corons.",
+  "Lieu « Fosse Chabaud-Latour (Denain) », 1877 : Les installations de surface sont détruites en 1877 et les puits remblayés.",
+  "Lieu « Fosse Jean Bart » : La fosse Jean Bart de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Denain.",
+  "Lieu « Fosse Jean Bart », 1830 : La fosse en elle-même n'a rien de particulier, ce sont ses corons, bâtis dans les années 1830 et 1851 qui sont d'un grand intérêt.",
+  "Lieu « Fosse Jean Bart », 1859 : Elle est arrêtée à l'extraction en 1859, mais est encore utilisée pour l'aérage et le service jusqu'en 1881, date à laquelle la fosse est définitivement abandonnée.",
+  "Lieu « Fosse Jean Bart », 1976 : Tous les corons, sauf celui dans lequel a vécu Jules Mousseron, sont détruits en 1976."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

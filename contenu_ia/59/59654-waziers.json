@@ -1,0 +1,263 @@
+{
+ "commune": {
+  "titre": "Waziers",
+  "code_insee": "59654",
+  "departement": "59",
+  "population": 7266,
+  "lat": 50.38777778,
+  "lon": 3.11388889,
+  "url": "https://fr.wikipedia.org/wiki/Waziers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:31:27",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2148,
+  "sortie": 2222
+ },
+ "cout_usd": 0.003207,
+ "accroche": "À Waziers, l’extraction aux fosses de la Compagnie des mines d’Aniche cesse en 1978.",
+ "histoire": {
+  "recit": "Waziers tient son nom de « wazier », apparu au XIIIe siècle, une terre marécageuse détrempée par l’eau. Au même temps, deux châteaux se partagent le destin de la seigneurie : l’un au lieu appelé le Viès-Motte, et l’autre, le Grand Chastel, bâti dans la première moitié du XIIIe siècle.\n\nPuis vient le temps du charbon. La Compagnie des mines d’Aniche ouvre plusieurs fosses : Notre-Dame, Gayant et Bernicourt. À la fosse Notre-Dame, la production est mise en avant en 1878 par Émile Vuillemin, tandis qu’en 1869 une catastrophe minière frappe la fosse Notre-Dame. Après l’arrêt de l’extraction en 1978, de nombreux bâtiments annexes demeurent à la fosse Notre-Dame, quand les puits et chevalements ont disparu.",
+  "chronologie": [
+   {
+    "date": "XIIIe siècle",
+    "texte": "Au XIIIe siècle, le mot « wazier » apparaît, désignant une étendue de terre marécageuse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le plus ancien château est érigé au lieu appelé déjà le Viès-Motte.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "première moitié du XIIIe siècle",
+    "texte": "Le Grand Chastel de Waziers, chef-lieu de la seigneurie de Waziers-FIandre, est bâti.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "Une première fosse Gayant est ouverte, sans pouvoir dépasser la profondeur de 20 mètres à cause des eaux.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "27 juillet 1869",
+    "texte": "La catastrophe de la fosse Notre-Dame survient : la chute de la cage de transport des mineurs cause l’accident à Waziers.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "La fosse Notre-Dame est dite très riche et productive : elle a produit depuis son ouverture 1 465 000 tonnes de houille.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "19 janvier 1901",
+    "texte": "Un incendie détruit les installations de surface de la fosse Bernicourt ; la fosse cesse d’extraire après 763 850 tonnes de houille.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1978",
+    "texte": "Les puits de la fosse Notre-Dame sont remblayés ; l’extraction à Waziers cesse.",
+    "sources": [
+     "S8",
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Notre-Dame",
+   "histoire": "La fosse Notre-Dame, aussi orthographiée Notre Dame, est un ancien charbonnage de la Compagnie des mines d’Aniche à Waziers.",
+   "anecdotes": [
+    {
+     "texte": "En 1878, la fosse Notre-Dame est décrite comme très riche et productive : Émile Vuillemin indique 1 465 000 tonnes de houille produites depuis son ouverture.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1978, les puits sont remblayés : ceux-ci atteignent des profondeurs de 542 et 834 mètres.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il subsiste de nombreux bâtiments annexes : bureaux, atelier, magasin, lavabos, lampisterie, chaufferie, salle des machines du puits Notre-Dame no 2, la maison du garde et des garages, ainsi qu’une bonne partie des murs d’enceinte.",
+   "sources": [
+    "S5",
+    "S6",
+    "S8",
+    "S9"
+   ],
+   "lat": 50.372775,
+   "lon": 3.110744,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Notre-Dame"
+  },
+  {
+   "nom": "Fosse Gayant",
+   "histoire": "La fosse Gayant est un ancien charbonnage de la Compagnie des mines d’Aniche à Waziers.",
+   "anecdotes": [
+    {
+     "texte": "En 1852, l’ouverture d’une première fosse Gayant bute sur les eaux : la profondeur s’arrête à 20 mètres.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Les chevalements tombent en deux temps : le 14 avril 1981 à 15 h 35 pour le puits no 2, puis le 3 juin 1981 à 16 h 5 pour le puits no 1.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Quelques bâtiments subsistent encore : les lavabos, les bureaux et l’atelier-magasin.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 50.381044,
+   "lon": 3.103286,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Gayant"
+  },
+  {
+   "nom": "Fosse Bernicourt",
+   "histoire": "La fosse Bernicourt est un ancien charbonnage de la Compagnie des mines d’Aniche situé à Waziers.",
+   "anecdotes": [
+    {
+     "texte": "Reprise en 1872 grâce au procédé Kind-Chaudron, la fosse doit être abandonnée après des éboulements, à la profondeur de 28 mètres.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Le 19 janvier 1901, un incendie détruit les installations de surface ; la fosse cesse d’extraire après avoir produit 763 850 tonnes de houille.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Au début du XXIe siècle, une stèle signale l’emplacement de l’avaleresse Bernicourt no 1, et la tête de puits Bernicourt no 2 est matérialisée.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S19"
+   ],
+   "lat": 50.383447,
+   "lon": 3.112116,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Bernicourt"
+  },
+  {
+   "nom": "Catastrophe de la fosse Notre-Dame de 1869",
+   "histoire": "La catastrophe de la fosse Notre-Dame de 1869 est un accident minier survenu à Waziers.",
+   "anecdotes": [
+    {
+     "texte": "Le 27 juillet 1869, la chute de la cage de transport des mineurs provoque l’accident à la fosse Notre-Dame.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "« Aujourd’hui mercredi », on ne pourra retirer que les onze autres victimes, dont six laissent des veuves et des orphelins.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 50.372775,
+   "lon": 3.110758,
+   "url": "https://fr.wikipedia.org/wiki/Catastrophe_de_la_fosse_Notre-Dame_de_1869"
+  },
+  {
+   "nom": "Église Notre-Dame-des-Mineurs de Waziers",
+   "histoire": "L’église Notre-Dame-des-Mineurs se situe à Waziers, dans le quartier de la Clochette.",
+   "anecdotes": [
+    {
+     "texte": "Sur les fonts baptismaux, des éléments de mosaïque sont visibles, de même que des candélabres et des crucifix.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des éléments de mosaïque se voient sur les fonts baptismaux, ainsi que des candélabres et des crucifix.",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 50.375843,
+   "lon": 3.099709,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-des-Mineurs_de_Waziers"
+  }
+ ],
+ "sources": [
+  "Waziers [wazje] est une commune française située dans le département du Nord, en région Hauts-de-France. La Compagnie des mines d'Aniche y a ouvert les fosses de Gayant, de Notre Dame et de Bernicourt. L'extraction a cessé en 1978.",
+  "Le mot « wazier » est apparu au XIIIe siècle. Il désigne une étendue de terre marécageuse détrempée par l'eau. Plusieurs termes se sont succédé, parmi lesquels Wasers, Wassers, Wasiers. « Il y a eu deux châteaux à Waziers. Le plus ancien était érigé à un endroit qu'au XIIIe siècle on appelait déjà le Viès-Motte. C'était le chef-lieu de la seigneurie de Waziers-Hainaut qui subsistait encore au commencement du XVIe […]",
+  "XIIIe siècle : Le plus ancien était érigé à un endroit qu'au XIIIe siècle on appelait déjà le Viès-Motte.",
+  "XIIIe siècle : Le Grand Chastel de Waziers, chef-lieu de la seigneurie de Waziers-FIandre, fut bâti dans la première moitié du XIIIe siècle.",
+  "Lieu « Fosse Notre-Dame » : La fosse Notre-Dame, également orthographiée Notre Dame, de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Waziers.",
+  "Lieu « Fosse Notre-Dame », 1878 : En 1878, Émile Vuillemin indique que la fosse Notre-Dame est très riche et productive, et a alors produit depuis son ouverture 1 465 000 tonnes de houille.",
+  "Lieu « Fosse Notre-Dame », 1948 : La machine d'extraction et son bâtiment, datant de 1948, proviennent de la fosse no 4 - 4 bis des mines de Nœux, sise à Hersin-Coupigny et récemment fermée.",
+  "Lieu « Fosse Notre-Dame », 1978 : Les puits, profonds de 542 et 834 mètres, sont remblayés en 1978, et les chevalements respectivement détruits en octobre et décembre 1981.",
+  "Lieu « Fosse Notre-Dame », aujourd'hui : Bien que la partie extractive ait été démolie, il subsiste de nombreux bâtiments annexes : les bureaux, l'atelier, le magasin, les lavabos, la lampisterie, la chaufferie, la salle des machines du puits Notre-Dame no 2 (qui provient de la fosse no 4 - 4 bis des mines de Nœux), la maison du garde et les garages, ainsi qu'une bonne partie des murs d'enceinte.",
+  "Lieu « Fosse Gayant » : La fosse Gayant de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Waziers.",
+  "Lieu « Fosse Gayant », 1852 : Une première fosse est ouverte en 1852, mais elle n'a pas pu dépasser la profondeur de 20 mètres à cause de l'abondance des eaux.",
+  "Lieu « Fosse Gayant », 1980 : La fosse Gayant est détruite au début des années 1980, en même temps que la cokerie et les lavoirs.",
+  "Lieu « Fosse Gayant », 1981 : Le chevalement du puits no 2 est détruit le 14 avril 1981 à 15 h 35, celui du puits no 1 le 3 juin 1981 à 16 h 5.",
+  "Lieu « Fosse Gayant », aujourd'hui : Quelques bâtiments subsistent encore, les lavabos, les bureaux et l'atelier-magasin.",
+  "Lieu « Fosse Bernicourt » : La fosse Bernicourt de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Waziers.",
+  "Lieu « Fosse Bernicourt », 1872 : Il est repris en 1872, grâce au procédé Kind-Chaudron, mais des éboulements se produisent, et il est abandonné à la profondeur de 28 mètres.",
+  "Lieu « Fosse Bernicourt », 1901 : Un incendie survient le 19 janvier 1901 et détruit les installations de surface, la fosse cesse alors d'extraire après avoir produit 763 850 tonnes de houille.",
+  "Lieu « Fosse Bernicourt », 1950 : Le chevalement est détruit en 1950, le bâtiment des compresseurs vingt-sept ans plus tard.",
+  "Lieu « Fosse Bernicourt », aujourd'hui : Au début du XXIe siècle, Charbonnages de France matérialise la tête de puits Bernicourt no 2, et implante une stèle pour indiquer l'emplacement de l'avaleresse Bernicourt no 1.",
+  "Lieu « Catastrophe de la fosse Notre-Dame de 1869 » : La catastrophe de la fosse Notre-Dame de 1869 est une catastrophe minière causée par la chute de la cage de transport des mineurs le 27 juillet 1869 la Fosse Notre Dame à Waziers de la Compagnie des mines d'Aniche.",
+  "Lieu « Catastrophe de la fosse Notre-Dame de 1869 », aujourd'hui : Malgré les plus énergiques efforts on ne pourra retirer qu'aujourd'hui mercredi les onze autres victimes dont six laissent des veuves et des orphelins.",
+  "Lieu « Église Notre-Dame-des-Mineurs de Waziers » : L'église Notre-Dame-des-Mineurs est située à Waziers, dans le quartier de la Clochette.",
+  "Lieu « Église Notre-Dame-des-Mineurs de Waziers », aujourd'hui : Des éléments de mosaïque sont également visibles sur les fonts baptismaux, les candélabres et les crucifix."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 9
+ }
+}

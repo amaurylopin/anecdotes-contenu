@@ -1,0 +1,292 @@
+{
+ "commune": {
+  "titre": "Condé-sur-l'Escaut",
+  "code_insee": "59153",
+  "departement": "59",
+  "population": 9253,
+  "lat": 50.45,
+  "lon": 3.591389,
+  "url": "https://fr.wikipedia.org/wiki/Cond%C3%A9-sur-l%27Escaut"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:05:18",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2831,
+  "sortie": 1676
+ },
+ "cout_usd": 0.002661,
+ "accroche": "Le 3 septembre 1794, Condé-sur-l'Escaut est libérée des Autrichiens par le général Schérer.",
+ "histoire": {
+  "recit": "Sur le cours canalisé de l’Escaut, Condé-sur-l'Escaut s’est formée au croisement des empires et des chantiers. Occupé par les Nerviens puis par les Romains, le site est ensuite évangélisé au VIIe siècle par saint Wasnon, avant qu’une collégiale dédiée à Notre-Dame ne s’élève près de la place Verte. Plus tard, les terres passent au duché de Croÿ le 27 novembre 1788, avant la libération du 3 septembre 1794. Au XXe siècle, la commune est occupée de 1940 à 1944, tandis que sa mine de charbon fait travailler des ouvriers. Aujourd’hui, on lit encore ce passé dans les fosses et les édifices : la fosse Ledoux a vu ses installations comblées, puis détruites, et l’église Saint-Wasnon rappelle l’ombre longue du culte de saint Wasnon.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "Le secteur est évangélisé par saint Wasnon, patron de l’église paroissiale.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "27 novembre 1788",
+    "texte": "Les terres de Condé sont érigées en duché sous la dénomination de duché de Croÿ au profit d’Emmanuel Ferdinand François duc de Croÿ.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "3 septembre 1794",
+    "texte": "La ville est libérée des Autrichiens par le général Schérer.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1940-1944",
+    "texte": "La commune est occupée par les Allemands, qui exploitent ses ouvriers et sa mine de charbon.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Wasnon de Condé-sur-l'Escaut",
+   "histoire": "Place Verte, l’église Saint-Wasnon se dresse à l’emplacement de l’ancienne église paroissiale, élevée entre 1751 et 1756.",
+   "anecdotes": [
+    {
+     "texte": "Le clocher accolé à l’église remonte à 1607, et l’édifice des 1751-1756 vient se greffer sur cette structure plus ancienne.",
+     "statut": "etabli",
+     "sources": [
+      "S21",
+      "S22",
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Élevée entre 1751 et 1756 à l’emplacement de l’ancienne église paroissiale.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 50.4493,
+   "lon": 3.592436,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Wasnon_de_Cond%C3%A9-sur-l%27Escaut"
+  },
+  {
+   "nom": "Abbaye de Condé",
+   "histoire": "Notre-Dame de Condé est une ancienne abbaye fondée vers 630 au confluent de l’Escaut et de la Haine, puis liée à la collégiale devenue place Verte.",
+   "anecdotes": [
+    {
+     "texte": "Vers 856, les Normands s’installent à l’emplacement de Notre-Dame de Condé, ravagent le lieu et le transforment en forteresse depuis laquelle ils partent piller une grande partie de la région.",
+     "statut": "legende",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "En 1793, la collégiale est détruite : son emplacement devient la place Verte.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 50.449341,
+   "lon": 3.591682,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Cond%C3%A9"
+  },
+  {
+   "nom": "Fosse Ledoux",
+   "histoire": "La fosse Ledoux, ancienne installation du bassin minier, a connu bombardements, réparations, puis comblements et destructions.",
+   "anecdotes": [
+    {
+     "texte": "Bombardée pendant la Première Guerre mondiale, la fosse est réparée et en mesure de produire à partir du 3 juin 1919.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En 1989, les puits Ledoux numéros 1 et 2, ainsi que le grand puits de la fosse Saint-Pierre, sont comblés.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 1990 et 1991, la fosse Ledoux est détruite, mais le chevalement du puits numéro 1 est inscrit aux monuments historiques le 6 mai 1992.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On observe l’installation de nouveaux chevalements et la construction de nouvelles salles des machines.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 50.456047,
+   "lon": 3.619579,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Ledoux"
+  },
+  {
+   "nom": "Château des comtes de Hainaut",
+   "histoire": "Le château des comtes de Hainaut connaît plusieurs phases : une première fortification au Quesnoy, une reconstruction et une mise dans la mouvance des comtes de Hainaut, puis des vestiges repérés au début 2005.",
+   "anecdotes": [
+    {
+     "texte": "En 1142, le château fait entourer Raismes et Braine-le-Comte d’une « chemise ».",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Le donjon, dernier vestige du château roman, est arasé en 1727.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 50.4469,
+   "lon": 3.59083,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_comtes_de_Hainaut"
+  },
+  {
+   "nom": "Fosse Chabaud-Latour (Condé-sur-l'Escaut)",
+   "histoire": "À Condé-sur-l'Escaut, la fosse Chabaud-Latour correspond à un ancien charbonnage, dont les puits sont successivement comblés.",
+   "anecdotes": [
+    {
+     "texte": "En 1915, le puits numéro 1 est serrementé et comblé, tandis que les puits numéros 2 et 3 assurent le retour d’air.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "En 1972, les puits Chabaud-Latour numéros 2 et 3 cessent d’aérer et sont comblés l’année suivante.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 50.463548,
+   "lon": 3.603929,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Chabaud-Latour_%28Cond%C3%A9-sur-l%27Escaut%29"
+  },
+  {
+   "nom": "Redoute du Jard",
+   "histoire": "La redoute du Jard est une redoute faisant partie de l’enceinte de Condé-sur-l'Escaut, construite à la fin du XVIIe siècle puis renforcée au XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 50.448844887147,
+   "lon": 3.5829261660042,
+   "url": "https://fr.wikipedia.org/wiki/Redoute_du_Jard"
+  },
+  {
+   "nom": "Château de l'Hermitage (Condé-sur-l'Escaut)",
+   "histoire": "Le château de l’Hermitage se trouve dans la forêt de Bonsecours, sur une zone coupée par la frontière entre la France et la Belgique.",
+   "anecdotes": [
+    {
+     "texte": "Le maréchal-duc Emmanuel de Croÿ fait consulter plusieurs architectes avant la construction, et le château est élevé pour le prince Anne Emmanuel de Croÿ.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    },
+    {
+     "texte": "En 1757, l’acte de création de la Compagnie des Mines d’Anzin est signé à cet endroit.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 50.4867,
+   "lon": 3.59612,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27Hermitage_%28Cond%C3%A9-sur-l%27Escaut%29"
+  }
+ ],
+ "sources": [
+  "Condé-sur-l'Escaut est une commune française située dans le département du Nord, en région Hauts-de-France. Localisée sur le cours canalisé de l'Escaut, elle fait partie de la banlieue de Valenciennes et de la communauté d'agglomération Valenciennes Métropole, qui regroupe 35 communes et 191 738 habitants, en 2023.",
+  "Situé en Gaule belgique à l'époque celtique, le site est occupé par les Nerviens puis par les Romains qui y installent un campement militaire. Les Francs s'y installent ensuite à l'époque des Invasions et la région est évangélisée au VIIe siècle par saint Wasnon, patron de l'église paroissiale. Une collégiale s'érige à proximité immédiate (actuellement place Verte) et se trouve placé sous le vocable de Notre-Dame. […]",
+  "1788 : Le 27 novembre 1788, sont érigées en duché les terres de Condé, Fresnes, Vieux-Condé, Hargnies, situées en Hainaut, sous la dénomination de duché de Croÿ en faveur d'Emmanuel Ferdinand François duc de Croÿ (maison de Croÿ).",
+  "1794 : La ville est libérée des Autrichiens le 3 septembre 1794 par le général Schérer.",
+  "1940 : Lors de la Seconde Guerre mondiale, la commune est occupée de 1940 à 1944 par les Allemands qui exploitent ses ouvriers et sa mine de charbon.",
+  "Lieu « Fosse Ledoux » : La fosse Ledoux ou Charles Ledoux de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Condé-sur-l'Escaut.",
+  "Lieu « Fosse Ledoux », 1919 : La fosse est bombardée durant la Première Guerre mondiale, mais elle est réparée et en mesure de produire à partir de 3 juin 1919.",
+  "Lieu « Fosse Ledoux », 1989 : Les puits Ledoux nos 1 et 2, ainsi que le grand puits de la fosse Saint-Pierre, sont comblés en 1989.",
+  "Lieu « Fosse Ledoux », 1990 : Toutes les installations de la fosse Ledoux sont détruites en 1990 et 1991, à l'exception du chevalement du puits no 1, qui a été inscrit aux monuments historiques le 6 mai 1992.",
+  "Lieu « Fosse Ledoux », aujourd'hui : Le changement le plus visible en surface est l'installation de nouveaux chevalements et la construction de nouvelles salles des machines.",
+  "Lieu « Château des comtes de Hainaut » : Le château des comtes de Hainaut est un château situé dans la commune de Condé-sur-l'Escaut dans le nord de la France.",
+  "Lieu « Château des comtes de Hainaut », 1142 : En 1142, il fait entourer Raismes et Braine-le-Comte d'une « chemise », et construit un château fort au Quesnoy vers 1150.",
+  "Lieu « Château des comtes de Hainaut », 1184 : En 1184, le château est reconstruit et entre dans la mouvance des comtes de Hainaut.",
+  "Lieu « Château des comtes de Hainaut », 2005 : Les substructions de cet édifice du XIIe siècle ont été mises au jour au début 2005.",
+  "Lieu « Château des comtes de Hainaut », aujourd'hui : Le donjon, dernier vestige du château roman, est arasé en 1727.",
+  "Lieu « Fosse Chabaud-Latour (Condé-sur-l'Escaut) » : La fosse Chabaud-Latour ou François de Chabaud-Latour de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Condé-sur-l'Escaut.",
+  "Lieu « Fosse Chabaud-Latour (Condé-sur-l'Escaut) », 1842 : Une fosse commencée en 1842 a porté son nom à Denain, mais les puits nos 57 et 58 ont été comblés en 1877.",
+  "Lieu « Fosse Chabaud-Latour (Condé-sur-l'Escaut) », 1915 : Le puits no 1 est serrementé et comblé en 1915 tandis que les puits nos 2 et 3 assurent le retour d'air.",
+  "Lieu « Fosse Chabaud-Latour (Condé-sur-l'Escaut) », 1972 : Les puits Chabaud-Latour nos 2 et 3 cesse d'aérer en 1972 et sont comblés l'année suivante.",
+  "Lieu « Église Saint-Wasnon de Condé-sur-l'Escaut » : L’église Saint-Wasnon est une église située place Verte à Condé-sur-l'Escaut dans le département français du Nord en région Hauts-de-France.",
+  "Lieu « Église Saint-Wasnon de Condé-sur-l'Escaut », 1607 : Le clocher auquel elle est accolée a été érigé en 1607.",
+  "Lieu « Église Saint-Wasnon de Condé-sur-l'Escaut », 1751 : Construite à partir de 1751, elle est accolée à un clocher construit 150 ans plus tôt, de 1607 à 1621.",
+  "Lieu « Église Saint-Wasnon de Condé-sur-l'Escaut », aujourd'hui : Élevée entre 1751 et 1756 à l’emplacement de l’ancienne église paroissiale, l’église Saint-Wasnon est une commande du maréchal Emmanuel de Croÿ-Solre à l’architecte parisien Pierre Contant d'Ivry.",
+  "Lieu « Abbaye de Condé » : Notre-Dame de Condé est une ancienne abbaye sous l'invocation de la Sainte Vierge fondée vers 630, au confluent de l'Escaut et de la Haine.",
+  "Lieu « Abbaye de Condé », 630 : Notre-Dame de Condé est une ancienne abbaye sous l'invocation de la Sainte Vierge fondée vers 630, au confluent de l'Escaut et de la Haine.",
+  "Lieu « Abbaye de Condé », 1793 : En 1793, la collégiale est détruite et à son emplacement se trouve l'actuelle place Verte.",
+  "Lieu « Abbaye de Condé », aujourd'hui : Vers 856, au temps du roi Charles le Chauve, les Normands s'établissent à l'emplacement de Notre-Dame de Condé, qu'ils ravagent et transforment en forteresse d'où ils partent piller toute la Gaule inférieure jusqu'à la mer, la Meuse, la Somme et la Lys.",
+  "Lieu « Redoute du Jard » : La redoute du Jard ou redoute n°12 est une ancienne redoute faisant partie de l'enceinte de Condé-sur-l'Escaut et située dans cette même ville.",
+  "Lieu « Redoute du Jard », XVIIe siècle : La redoute est construite à la fin du XVIIe siècle lors des travaux de modernisation de l'enceinte de Condé-sur-l'Escaut par Sébastien Le Prestre de Vauban.",
+  "Lieu « Redoute du Jard », XVIIIe siècle : Elle est renforcée d'un dehors non revêtu construit progressivement au cours de la première moitié du XVIIIe siècle.",
+  "Lieu « Château de l'Hermitage (Condé-sur-l'Escaut) » : Le château de l'Hermitage est situé sur la commune française de Condé-sur-l'Escaut, dans la forêt de Bonsecours, coupée par la frontière entre la France et la Belgique.",
+  "Lieu « Château de l'Hermitage (Condé-sur-l'Escaut) », 1718 : Après consultation de plusieurs architectes (Ange-Jacques Gabriel, Pierre Contant d'Ivry) par le maréchal-duc Emmanuel de Croÿ (1718-1784), il a été construit entre 1786 et 1789 par l'architecte Jean-Baptiste Chaussard pour le fils de celui-ci, le prince Anne Emmanuel de Croÿ (1743-1803).",
+  "Lieu « Château de l'Hermitage (Condé-sur-l'Escaut) », 1750 : Il succède à un autre édifice, dont il subsiste les beaux communs élevés dans les années 1750 et 1770, et où fut signé, en 1757, par Emmanuel de Croÿ-Solre, l'acte de création de la Compagnie des Mines d'Anzin."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 12
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "commune": {
+  "titre": "Grande-Synthe",
+  "code_insee": "59271",
+  "departement": "59",
+  "population": 20239,
+  "lat": 51.01388889,
+  "lon": 2.30277778,
+  "url": "https://fr.wikipedia.org/wiki/Grande-Synthe"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:10:54",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 1579,
+  "sortie": 1298
+ },
+ "cout_usd": 0.003508,
+ "accroche": "En 1280, le comte Jean fait édifier une première digue, à l’emplacement de l’actuelle rue qui porte son nom, pour tenir tête aux eaux.",
+ "histoire": {
+  "recit": "Grande-Synthe, en flamand occidental et néerlandais « Groot-Sinten », naît comme un village rural de fermes, posé sur des terres conquises sur la mer. Le nom « Synthe » ferait référence à une relique, rapproché du néerlandais sint et du latin sanctus. À partir du VIIIe siècle, les Bénédictins organisent le drainage grâce aux wateringues, canaux qui évacuent l’eau vers les fleuves.\n\nQuand vient 1280, une première digue est bâtie à l’emplacement de l’actuelle rue du comte Jean. Plus tard, en 1944, l’ouverture des vannes qui inondent les sols sous le niveau de la mer freine les Allemands, qui se replient.\n\nLa ville continue d’aménager ses équipements : l’église Saint-Jacques est consacrée en mars 1961, la gare de triage suit, puis le stade Jean-Deconninck est inauguré en juin 1965. L’après-guerre transforme aussi le port : sur Grande-Synthe, ArcelorMittal Dunkerque s’y installe, avec des accès portuaires détruits de 1940 à 1946 et, plus tard, une reconstruction progressive des installations.\n\nEn mai 2020, la mairie accorde un permis de démolir pour des bâtiments désaffectés de La Linière, que Médecins du monde critique. Et en septembre 2026, le président de la CUD évoque des pollutions visibles durant l’été, avec fumées noires et panaches orangés depuis le site d’ArcelorMittal.",
+  "chronologie": [
+   {
+    "date": "648",
+    "texte": "Première mention des Synthes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIIIe siècle",
+    "texte": "Les Bénédictins canalisent les eaux avec des wateringues pour drainer le sol.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1280",
+    "texte": "Le comte Jean fait édifier une première digue au niveau de l’actuelle rue qui porte son nom.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Les Allemands se replient en 1944, freinés par l’inondation des sols sous le niveau de la mer.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "mars 1961",
+    "texte": "L’église Saint-Jacques est consacrée, en même temps que la gare de triage.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "juin 1965",
+    "texte": "Le stade de football Jean-Deconninck est inauguré.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "mai 2020",
+    "texte": "La mairie accorde un permis de démolir pour des bâtiments désaffectés de La Linière ; Médecins du monde dénonce la décision.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "28 septembre 2026",
+    "texte": "Le président de la CUD évoque des fumées noires et des panaches orangés observés en juin, juillet et août depuis le site d’ArcelorMittal.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "ArcelorMittal Dunkerque",
+   "histoire": "Installée sur la commune de Grande-Synthe près de Dunkerque, l’usine sidérurgique du groupe ArcelorMittal façonne le port. De 1940 à 1946, les accès du port sont détruits, avec des mines magnétiques, des navires coulés et l’absence de balises qui entrave la navigation. Après la guerre, une raffinerie de pétrole BP n’est reconstruite qu’à partir de 1950, avec une inauguration en décembre 1952. Le IIe Plan consacre ensuite la moitié des crédits portuaires au rétablissement des installations détruites, et le reste à la modernisation des équipements et des liaisons.",
+   "anecdotes": [
+    {
+     "texte": "Entre 1940 et 1946, l’absence de balises freine toute navigation, pendant que des mines magnétiques et des navires coulés bloquent les accès du port.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Lors du conseil communautaire du 28 septembre 2026, le président de la CUD évoque des épisodes de fumées noires et de panaches orangés observés en juin, juillet et août depuis le site d’ArcelorMittal.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 51.03806,
+   "lon": 2.3025472,
+   "url": "https://fr.wikipedia.org/wiki/ArcelorMittal_Dunkerque"
+  }
+ ],
+ "sources": [
+  "Grande-Synthe (en flamand occidental et néerlandais : Groot-Sinten) est une commune française située dans le département du Nord, en région Hauts-de-France. Avec ses 20 239 habitants, Grande-Synthe est la principale ville de la périphérie de Dunkerque, dont elle abrite d'ailleurs une partie du port.",
+  "Grande-Synthe a d'abord été un village rural de fermes entourées de champs gagnés sur la mer au fil des siècles. La première mention des Synthes date de 648. Le mot Synthe serait apparenté au néerlandais sint « saint » et au latin sanctus « sacré », à cause d'une relique. À partir du VIIIe siècle, les Bénédictins canalisent les eaux, en ayant recours aux wateringues qui drainent le sol et s'écoulent dans les fleuves […]",
+  "1280 : Le comte Jean fait édifier une première digue dès 1280 au niveau de l'actuelle rue qui porte son nom.",
+  "1944 : Freinés par l'ouverture des vannes qui inondent les sols en dessous du niveau de la mer, les Allemands se replieront sur la ville en 1944.",
+  "1965 : En juin 1965, le stade de football Jean-Deconninck est inauguré, l'église Saint-Jacques est consacré en mars 1961, en même temps que la gare de triage.",
+  "1982 : Dès 1982, des HLM, construits 20 ans avant, sont détruits.",
+  "2020 : La mairie a accordé, en mai 2020, un permis de démolir pour les bâtiments désaffectés de La Linière, ainsi qu'une suppression des sanitaires ; Médecins du monde dénonce cette décision.",
+  "Lieu « ArcelorMittal Dunkerque » : ArcelorMittal Dunkerque est une usine sidérurgique du groupe ArcelorMittal, installée dans le Nord de la France, sur la commune de Grande-Synthe près de Dunkerque.",
+  "Lieu « ArcelorMittal Dunkerque », 1940 : De 1940 à 1946, les accès du port sont détruits, des mines magnétiques et navires coulés, l'absence de balises entrave toute navigation.",
+  "Lieu « ArcelorMittal Dunkerque », 1950 : La raffinerie de pétrole BP n'est reconstruite qu'à partir de 1950 et son inauguration n'intervient qu'en décembre 1952.",
+  "Lieu « ArcelorMittal Dunkerque », 1954 : Mais le IIe Plan (1954-1957) consacre la moitié des crédits portuaires au rétablissement des installations détruites (ce sera le cas d'encore un quart du IIIe Plan) et l’autre à la modernisation des équipements de manutention, liaisons routières et ferroviaires.",
+  "Lieu « ArcelorMittal Dunkerque », aujourd'hui : Lors du conseil communautaire du 28 septembre 2026, le président de la CUD, Patrice Vergriete, évoque les pollutions visibles au cours de l’été :« Nous avons toutes et tous pu voir ces épisodes de fumées noires et de panaches orangés émanants du site d’ArcelorMittal en juin, puis en juillet, puis en août."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

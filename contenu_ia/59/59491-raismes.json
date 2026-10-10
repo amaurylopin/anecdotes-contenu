@@ -1,0 +1,246 @@
+{
+ "commune": {
+  "titre": "Raismes",
+  "code_insee": "59491",
+  "departement": "59",
+  "population": 12199,
+  "lat": 50.38972222,
+  "lon": 3.48666667,
+  "url": "https://fr.wikipedia.org/wiki/Raismes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:41:45",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3308,
+  "sortie": 2410
+ },
+ "cout_usd": 0.003674,
+ "accroche": "À Raismes, la fosse Sabatier commence à extraire en 1913 après un démarrage des puits en juillet 1910, avant d’être détruite pendant la Première Guerre mondiale.",
+ "histoire": {
+  "recit": "Raismes a longtemps vécu au rythme des charbonnages. Au XIXe et au XXe siècle, ses fosses alimentent l’activité minière du Bassin minier du Nord-Pas-de-Calais, avec notamment les puits de la Compagnie des mines de Vicoigne et ceux exploités par la Compagnie des mines d’Anzin.\n\nSous la cendre et la houille, d’autres traces circulent aussi : la terre de Raismes aurait été le théâtre d’un rendez-vous de chasse des rois mérovingiens.\n\nDans le secteur de Vicoigne, les fosses s’ouvrent dès 1839, puis changent de rôle après les destructions de guerre. La fosse no 4, par exemple, est détruite pendant la Première Guerre mondiale et ne sert plus ensuite qu’à l’aérage.\n\nPlus au nord, la forêt de Raismes-Saint-Amand-Wallers, liée à l’ancienne forêt de Vicoigne, a aussi été travaillée par l’exploitation des mines avant de garder, encore aujourd’hui, des traces de vieux fossés de drainage.\n\nEt, localement, les bâtiments marquent les chocs : l’église du secteur de la fosse Sabatier brûle en 1976, puis est reconstruite à l’identique.",
+  "chronologie": [
+   {
+    "date": "1125",
+    "texte": "L’abbaye de Vicogne est fondée par le bienheureux Guy de Vicogne, ermite breton, de l’ordre des Prémontrés, en Hainaut.",
+    "sources": [
+     "S33"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "À Vicoigne, les fosses no 1, no 2 et la fosse Le Bret (no 4) s’ouvrent, portées par des compagnies liées à l’Escaut et à la concession locale.",
+    "sources": [
+     "S14",
+     "S9",
+     "S20"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "Pour la fosse Sabatier, les puits nos 1 et 2 sont commencés en juillet 1910.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "La fosse Sabatier commence à extraire en 1913.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1910-1920",
+    "texte": "La fosse Sabatier est détruite durant la Première Guerre mondiale, puis reconstruite et redémarre le 16 octobre 1920.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "L’église du secteur de la fosse Sabatier, détruite dans un incendie, est reconstruite à l’identique.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Sabatier",
+   "histoire": "D’abord, les puits nos 1 et 2 sont commencés en juillet 1910. La fosse commence à extraire en 1913, puis elle est détruite durant la Première Guerre mondiale. Reconstruite de façon similaire, elle recommence à extraire le 16 octobre 1920 et devient rapidement très productive malgré des venues d’eau. Plus tard, l’église brûle en 1976 et est reconstruite à l’identique. Aujourd’hui, le changement le plus visible concerne l’installation d’un chevalement du puits no 1 par-dessus l’ancien chevalement du puits no 2.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’installation d’un nouveau chevalement par-dessus l’ancien chevalement du puits no 2 se remarque aujourd’hui.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 50.405372,
+   "lon": 3.5007,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Sabatier"
+  },
+  {
+   "nom": "Fosse no 2 des mines de Vicoigne",
+   "histoire": "La fosse no 2 dite Évrard est un ancien charbonnage situé à Raismes. Elle est ouverte en 1839 par la Compagnie de l’Escaut dans le hameau de Vicoigne. Des travaux de reconnaissance sont menés au niveau de 204 mètres. Plus tard, un sondage de décompression a lieu en 1990. Aujourd’hui, les vestiges se réduisent à deux piliers du portail d’entrée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Deux piliers du portail d’entrée subsistent.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 50.401996,
+   "lon": 3.459151,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_2_des_mines_de_Vicoigne"
+  },
+  {
+   "nom": "Fosse no 1 des mines de Vicoigne",
+   "histoire": "La fosse no 1, dite Boitelle ou du Prussien, est un ancien charbonnage situé à Raismes. Ouverte en 1839 dans le hameau de Vicoigne, elle connaît ensuite des prolongements et des travaux de reconnaissance. Un sondage de décompression est exécuté en 2003. Aujourd’hui, il ne subsiste rien de la fosse et quelques maisons ont été bâties sur son carreau.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Rien ne subsiste de la fosse ; quelques maisons ont été bâties sur son carreau.",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 50.411726,
+   "lon": 3.455171,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_1_des_mines_de_Vicoigne"
+  },
+  {
+   "nom": "Fosse no 4 des mines de Vicoigne",
+   "histoire": "La fosse no 4 dite Le Bret est un ancien charbonnage situé à Raismes. Elle est ouverte en 1839 par la Compagnie de l’Escaut, dans le hameau de Vicoigne. Détruite pendant la Première Guerre mondiale, elle ne sert ensuite qu’à l’aérage, tandis que la fosse no 3 devient le siège de concentration. Aujourd’hui, il ne reste rien : la forêt s’est développée sur le terril et le carreau.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aucun vestige : la forêt s’est développée sur le terril et le carreau.",
+   "sources": [
+    "S18",
+    "S19",
+    "S21",
+    "S22"
+   ],
+   "lat": 50.409008,
+   "lon": 3.471764,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_4_des_mines_de_Vicoigne"
+  },
+  {
+   "nom": "Forêt de Raismes-Saint-Amand-Wallers",
+   "histoire": "Avec 4 600 hectares, la forêt domaniale de Raismes-Saint-Amand-Wallers, liée à l’ancienne forêt de Vicoigne, se situe au nord-ouest de Valenciennes. Au XIXe siècle, la découverte de charbon entraîne une première menace : une partie des bois est rasée pour l’exploitation minière, très consommatrice de bois. Après la Première Guerre mondiale, la forêt est reconstituée avec plusieurs essences. Des affaissements miniers modifient localement le paysage dès 1950. Aujourd’hui, ce sont les moines des abbayes de Vicoigne et Saint-Amand qui défrichèrent la forêt et la mirent en culture : on voit encore des traces des anciens fossés de drainage du XIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y voit encore des traces des anciens fossés de drainage du XIIe siècle.",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 50.421327,
+   "lon": 3.474577,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_de_Raismes-Saint-Amand-Wallers"
+  },
+  {
+   "nom": "Fosse no 3 des mines de Vicoigne",
+   "histoire": "La fosse no 3 dite Ewbank est un ancien charbonnage situé à Raismes. Ouverte en 1839 par la Compagnie de Bruille dans le hameau de Vicoigne, elle est reconstruite en 1920 avec des bâtiments et un chevalement en béton armé. À partir de 1920, elle devient le siège de concentration de la concession de Vicoigne : le puits est alors profond de 410 mètres en 1922, et la fosse produit 162 550 tonnes en 1927. Aujourd’hui, elle est très peu utilisée et a remplacé la fosse no 4 comme siège de concentration.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est très peu utilisée aujourd’hui.",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 50.40485,
+   "lon": 3.463858,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_3_des_mines_de_Vicoigne"
+  },
+  {
+   "nom": "Abbaye de Vicogne",
+   "histoire": "L’abbaye de Vicogne (ou Vicogne de Saint-Sébastien, ou abbaye de Vicoigne) est une abbaye fondée par le bienheureux Guy de Vicogne, ermite breton, en 1125, de l’ordre des Prémontrés, en Hainaut. Aujourd’hui, il s’agit d’une forêt, dont le périmètre est mal appréhendé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’abbaye correspond aujourd’hui à une forêt, dont le périmètre est mal appréhendé.",
+   "sources": [
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 50.399919,
+   "lon": 3.466375,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Vicogne"
+  },
+  {
+   "nom": "Gare de Vicoigne",
+   "histoire": "La gare de Vicoigne (aussi appelée gare de Raismes-Vicoigne) est une ancienne gare ferroviaire de la ligne de Fives à Hirson, située près du quartier de Vicoigne sur le territoire de Raismes. Le chantier débute en 1868 ; la gare est mise en service à l’ouverture de la section Lille – Valenciennes, le 22 juin 1870. Le bâtiment voyageurs, les quais et les autres installations sont rasés en 1973 à la suite d’une décision prise par la SNCF le 2 décembre 1972.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 50.398338,
+   "lon": 3.478601,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Vicoigne"
+  }
+ ],
+ "sources": [
+  "Raismes [ʁɛm] est une commune française située dans le département du Nord, en région Hauts-de-France. La commune a été au XIXe siècle et au XXe siècle un grand centre de l'exploitation minière dans le Bassin minier du Nord-Pas-de-Calais : la Compagnie des mines de Vicoigne a exploité ses fosses nos 1, 2, 3 et 4, et la Compagnie des mines d'Anzin ses fosses La Grange et Sabatier. Outre le chevalement du puits […]",
+  "Rendez-vous de chasse des rois mérovingiens La terre de Raismes fut possédée par : les comtes de Hainaut, l'empereur germanique Henri VII du Saint-Empire et de Luxembourg, dont la mère était Béatrice de Flandre-Hainaut-Beaumont, petite-fille de la comtesse Marguerite II et de Bouchard d'Avesnes le roi René d'Anjou, arrière-petit-fils de la reine Bonne de Luxembourg petite-fille d'Henri VII, Nicolas Rolin (chancelier […]",
+  "Lieu « Fosse Sabatier » : La fosse Sabatier ou Maurice Sabatier de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Raismes.",
+  "Lieu « Fosse Sabatier », 1910 : Les puits nos 1 et 2 sont commencés en juillet 1910, la fosse commence à extraire en 1913, mais elle est détruite durant la Première Guerre mondiale.",
+  "Lieu « Fosse Sabatier », 1920 : Reconstruite similaire à la fosse Agache, elle recommence à extraire le 16 octobre 1920 et devient rapidement très productive, malgré les nombreuses venues d'eau qui entravent la bonne marche des travaux.",
+  "Lieu « Fosse Sabatier », 1976 : L'église, dont le toit et l'intérieur ont été détruits dans un incendie en 1976, est reconstruite à l'identique.",
+  "Lieu « Fosse Sabatier », aujourd'hui : Le changement le plus visible est l'installation du chevalement du puits no 1 de la fosse no 1 - 1 bis des mines de La Clarence à Divion par-dessus l'ancien chevalement du puits no 2, qui dépassait alors à peine du bâtiment.",
+  "Lieu « Fosse no 2 des mines de Vicoigne » : La fosse no 2 dite Évrard de la Compagnie des mines de Vicoigne est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Raismes.",
+  "Lieu « Fosse no 2 des mines de Vicoigne », 1839 : La fosse Évrard est ouverte en 1839 par la Compagnie de l'Escaut, dans le hameau de Vicoigne à Raismes, ainsi que la fosse Le Bret.",
+  "Lieu « Fosse no 2 des mines de Vicoigne », 1880 : Dans les années 1880, au niveau de 204 mètres, une galerie de reconnaissance a été exécutée en direction du sud, à 1 350 mètres au couchant de la fosse, à partir du premier plat de Burny.",
+  "Lieu « Fosse no 2 des mines de Vicoigne », 1990 : Un sondage de décompression est exécuté à 25 mètres au sud-sud-ouest du puits no 2 du 26 avril au 16 juin 1990, et est arrêté à la profondeur de 112,50 mètres dans une galerie haute de 2,70 mètres.",
+  "Lieu « Fosse no 2 des mines de Vicoigne », aujourd'hui : Les seuls vestiges de la fosse sont les deux piliers du portail d'entrée.",
+  "Lieu « Fosse no 1 des mines de Vicoigne » : La fosse no 1 dite Boitelle ou du Prussien de la Compagnie des mines de Vicoigne est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Raismes.",
+  "Lieu « Fosse no 1 des mines de Vicoigne », 1839 : La fosse Boittelle (probablement baptisée ainsi en référence à Casimir Joseph Boittelle, président de la compagnie des mines de Vicoigne) est ouverte en 1839 par la Compagnie de Cambrai, dans le hameau de Vicoigne à Raismes.",
+  "Lieu « Fosse no 1 des mines de Vicoigne », 1868 : Au niveau de 150 mètres, on a prolongé la bowette nord vers une veine reconnue par un sondage exécuté en 1868 et 1869, à 670 mètres au nord du puits.",
+  "Lieu « Fosse no 1 des mines de Vicoigne », 2003 : Un sondage de décompression S34 est exécuté à 22 mètres au nord-ouest du puits en 2003.",
+  "Lieu « Fosse no 1 des mines de Vicoigne », aujourd'hui : Il ne subsiste rien de la fosse, quelques maisons ont été bâties sur son carreau.",
+  "Lieu « Fosse no 4 des mines de Vicoigne » : La fosse no 4 dite Le Bret ou du Mont des Ermites de la Compagnie des mines de Vicoigne est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Raismes.",
+  "Lieu « Fosse no 4 des mines de Vicoigne », 1839 : La fosse Le Bret est ouverte en 1839 par la Compagnie de l'Escaut, qui entreprend également la fosse Évrard.",
+  "Lieu « Fosse no 4 des mines de Vicoigne », 1839 : La fosse Le Bret est ouverte en 1839 par la Compagnie de l'Escaut, dans le hameau de Vicoigne à Raismes, ainsi que la fosse Évrard.",
+  "Lieu « Fosse no 4 des mines de Vicoigne », 1920 : Elle est détruite durant la Première Guerre mondiale, et ne sert plus après qu'à l'aérage, la fosse no 3 étant devenu le siège de concentration de la compagnie à partir de 1920.",
+  "Lieu « Fosse no 4 des mines de Vicoigne », aujourd'hui : Il ne reste rien de la fosse, dont la forêt s'est développée sur le terril et le carreau.",
+  "Lieu « Forêt de Raismes-Saint-Amand-Wallers » : Avec 4 600 ha, la forêt domaniale de Raismes-Saint-Amand-Wallers (reste de l’antique « forêt de vicoigne »), situé au nord-ouest de Valenciennes, est le second massif forestier du département du Nord, loin derrière la forêt de Mormal (9163 ha) mais p",
+  "Lieu « Forêt de Raismes-Saint-Amand-Wallers », XIXe siècle : La découverte de charbon, au XIXe siècle, représenta une première menace pour la forêt : une partie des bois fut rasée pour l'exploitation des mines, très consommatrices de bois.",
+  "Lieu « Forêt de Raismes-Saint-Amand-Wallers », 1920 : On trouve aussi le charme commun, l'érable sycomore, le merisier, l'aulne glutineux et le pin sylvestre, ce dernier ayant été introduit à plusieurs époques dans le peuplement dont après la Première Guerre mondiale (vers 1920) alors que la forêt avait été entièrement détruite par une coupe rase.",
+  "Lieu « Forêt de Raismes-Saint-Amand-Wallers », 1950 : Des affaissements miniers, dès 1950, ont localement transformé le paysage de manière tous aussi spectaculaire.",
+  "Lieu « Forêt de Raismes-Saint-Amand-Wallers », aujourd'hui : Ce sont les moines des abbayes de Vicoigne et Saint-Amand qui défrichèrent la forêt et la mirent en culture : on voit encore aujourd'hui des traces des anciens fossés de drainage du XIIe siècle.",
+  "Lieu « Fosse no 3 des mines de Vicoigne » : La fosse no 3 dite Ewbank de la Compagnie des mines de Vicoigne est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Raismes.",
+  "Lieu « Fosse no 3 des mines de Vicoigne », 1839 : La fosse Ewbank est ouverte en 1839 par la Compagnie de Bruille, dans le hameau de Vicoigne à Raismes.",
+  "Lieu « Fosse no 3 des mines de Vicoigne », 1920 : Elle est alors reconstruite avec des bâtiments et un chevalement en béton armé et devient, à partir de 1920, le siège de concentration de la concession de Vicoigne. le puits est en 1922 profond de 410 mètres, et la fosse a produit 162 550 tonnes en 1927.",
+  "Lieu « Fosse no 3 des mines de Vicoigne », aujourd'hui : Très peu utilisée jusqu'alors, elle devient, en remplacement de la fosse no 4, le siège de concentration de la concession de Vicoigne.",
+  "Lieu « Abbaye de Vicogne » : L' abbaye de Vicogne ou abbaye de Vicoigne ou Vicogne de Saint-Sébastien, est une abbaye fondée par le bienheureux Guy de Vicogne, ermite breton . en 1125 de l'ordre des Prémontrés, en Hainaut.",
+  "Lieu « Abbaye de Vicogne », 1125 : L' abbaye de Vicogne ou abbaye de Vicoigne ou Vicogne de Saint-Sébastien, est une abbaye fondée par le bienheureux Guy de Vicogne, ermite breton . en 1125 de l'ordre des Prémontrés, en Hainaut.",
+  "Lieu « Abbaye de Vicogne », aujourd'hui : Il s'agit d'une forêt dont le périmètre est aujourd'hui mal appréhendé.",
+  "Lieu « Gare de Vicoigne » : La gare de Vicoigne, également appelée gare de Raismes-Vicoigne, est une ancienne gare ferroviaire française de la ligne de Fives à Hirson, située à proximité du quartier de Vicoigne, sur le territoire de la commune de Raismes, dans le département du",
+  "Lieu « Gare de Vicoigne », 1868 : La gare — dont le chantier débute en 1868 — est mise en service à l'ouverture de la section Lille – Valenciennes de la ligne de Fives à Hirson, réalisée par la Compagnie anonyme du chemin de fer de Lille à Valenciennes et ses Extensions le 22 juin 1870.",
+  "Lieu « Gare de Vicoigne », 1973 : Le bâtiment voyageurs, les quais et les autres installations de la gare ont tous été rasés en 1973, à la suite d'une décision prise par la SNCF le 2 décembre 1972."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "commune": {
+  "titre": "Saint-Saulve",
+  "code_insee": "59544",
+  "departement": "59",
+  "population": 10947,
+  "lat": 50.37055556,
+  "lon": 3.55555556,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Saulve"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:49:52",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1568,
+  "sortie": 1275
+ },
+ "cout_usd": 0.001907,
+ "accroche": "Le 2 novembre 1918, Saint-Saulve est libérée par le Corps expéditionnaire canadien.",
+ "histoire": {
+  "recit": "Saint-Saulve, au Nord, tient sa trame d’abbaye et de charbon. Au début du VIIIe siècle, un missionnaire nommé Saulve est assassiné : ses reliques sont conservées dans une église dédiée à saint Martin, et les récits placent la basilique sous le patronage de Sauve d’Angoulême. Plus tard, un prieuré bénédictin installé au Xe siècle devient abbaye au XVIIe siècle.\n\nQuand les mines prennent le relais, la fosse Thiers, ancienne installation de la Compagnie des mines d’Anzin, change d’époque : l’église Saint-Adolphe est bâtie en 1875-1877 au cœur des cités les plus anciennes, puis reconstruite après 1919 avec une cokerie et une centrale électrique à proximité.\n\nLa guerre marque ensuite la ville : en 1916, le séminaire est transformé en hôpital militaire ; en septembre 1918, 200 civils évacués de Douai arrivent ; et le 2 novembre 1918, Saint-Saulve est libérée par le Corps expéditionnaire canadien.",
+  "chronologie": [
+   {
+    "date": "Début du VIIIe siècle",
+    "texte": "Un missionnaire, Saulve, est assassiné ; ses reliques sont conservées dans une église dédiée à saint Martin, tandis qu’une basilique est fondée en l’honneur de Sauve d’Angoulême.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Xe siècle",
+    "texte": "Un prieuré bénédictin est installé, puis élevé au rang d’abbaye au XVIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1916",
+    "texte": "Le séminaire est transformé en hôpital militaire ; les écoles servent à la détention de prisonniers de guerre britanniques et russes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Septembre 1918",
+    "texte": "La commune reçoit 200 civils évacués de Douai, alors que le front se rapproche.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2 novembre 1918",
+    "texte": "Saint-Saulve est libérée par le Corps expéditionnaire canadien.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Thiers",
+   "histoire": "La fosse Thiers ou Adolphe Thiers de la Compagnie des mines d’Anzin est un ancien charbonnage situé à Saint-Saulve. L’ensemble évolue au fil du temps : des aménagements liés au grisou sont prévus en 1991, puis il ne subsiste aujourd’hui que la base.",
+   "anecdotes": [
+    {
+     "texte": "En 1991, des exutoires de grisou sont installés sur les puits, et un sondage de décompression est entrepris.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne subsiste que la base.",
+   "sources": [
+    "S7",
+    "S10",
+    "S11"
+   ],
+   "lat": 50.405415,
+   "lon": 3.561785,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Thiers"
+  },
+  {
+   "nom": "Abbaye Saulve de Valenciennes",
+   "histoire": "Sur les lieux du martyre de saint Saulve, Abbaye Saulve de Valenciennes est présentée comme une abbaye de l’Ordre de Saint-Benoît fondée au IXe siècle dans le diocèse de Cambrai. Le récit rattache le martyre à Salvius et à son disciple Exupery, exécutés sur ordre de Winegard et par Wineaigre.",
+   "anecdotes": [
+    {
+     "texte": "Le martyre de Salvius et de son disciple Exupery est raconté sous les ordres de Winegard, puis exécuté par Wineaigre (ou Winegaire).",
+     "statut": "tradition_locale",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 50.375166,
+   "lon": 3.552692,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saulve_de_Valenciennes"
+  }
+ ],
+ "sources": [
+  "Saint-Saulve est une commune française située dans le département du Nord, en région Hauts-de-France.",
+  "Au début du VIIIe siècle, un missionnaire du nom de Saulve est assassiné. Ses reliques sont conservées dans une église dédiée à saint Martin. Charlemagne y fonde une basilique en l'honneur de Sauve d'Angoulême. Un prieuré bénédictin, installé au Xe siècle, fut élevé au rang d'abbaye au XVIIe siècle. Des fouilles archéologiques menées successivement par MM. Michel Descamps, Vincent Maliet et Éric Compagnon, ont été […]",
+  "Xe siècle : Un prieuré bénédictin, installé au Xe siècle, fut élevé au rang d'abbaye au XVIIe siècle.",
+  "1916 : Le séminaire est transformé en hôpital militaire en 1916, les écoles servent à la détention de prisonniers de guerre britanniques et russes, soumis au travail forcé et maltraités.",
+  "1918 : Pendant la retraite allemande de 1918, le front se rapproche de Saint-Saulve : en septembre 1918, elle reçoit 200 civils évacués de Douai.",
+  "1918 : Le 2 novembre 1918, Saint-Saulve est libérée par le Corps expéditionnaire canadien.",
+  "Lieu « Fosse Thiers » : La fosse Thiers ou Adolphe Thiers de la Compagnie des mines d'Anzin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Saint-Saulve.",
+  "Lieu « Fosse Thiers », 1875 : 50° 24′ 29″ N, 3° 33′ 27″ E L'église Saint-Adolphe est bâtie en 1875-1877 au cœur des cités les plus anciennes.",
+  "Lieu « Fosse Thiers », 1919 : Elle est reconstruite en 1919, et une cokerie et une centrale électrique sont bâties à proximité.",
+  "Lieu « Fosse Thiers », 1991 : Des exutoires de grisou sont installés sur les puits, et un sondage de décompression est entrepris en 1991.",
+  "Lieu « Fosse Thiers », aujourd'hui : Initialement haut de 83 mètres, il a été exploité par Tercharnor, il ne subsiste que la base.",
+  "Lieu « Abbaye Saulve de Valenciennes » : Abbaye Saulve de Valenciennes était une abbaye de l'Ordre de Saint-Benoît, fondée au IXe siècle dans le Diocèse de Cambrai, sur les lieux du martyre de saint Saulve.",
+  "Lieu « Abbaye Saulve de Valenciennes », 771 : Le martyre de Salvius et de son disciple Exupery a eu lieu sous les ordres de Winegard, fils du seigneur, et fut exécuté par Wineaigre (ou Winegaire), son serviteur (vers 771).",
+  "Lieu « Abbaye Saulve de Valenciennes », IXe siècle : Abbaye Saulve de Valenciennes était une abbaye de l'Ordre de Saint-Benoît, fondée au IXe siècle dans le Diocèse de Cambrai, sur les lieux du martyre de saint Saulve.",
+  "Lieu « Abbaye Saulve de Valenciennes », XVIIIe siècle : Le prieuré clunisien de Saint-Saulve fut érigé en abbaye au XVIIIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

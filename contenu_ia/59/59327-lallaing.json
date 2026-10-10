@@ -1,0 +1,85 @@
+{
+ "commune": {
+  "titre": "Lallaing",
+  "code_insee": "59327",
+  "departement": "59",
+  "population": 6287,
+  "lat": 50.39083333,
+  "lon": 3.16916667,
+  "url": "https://fr.wikipedia.org/wiki/Lallaing"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:49:26",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1107,
+  "sortie": 489
+ },
+ "cout_usd": 0.000833,
+ "accroche": "À Lallaing, la fosse Bonnel de la Compagnie des mines d’Aniche a ouvert ses travaux, et ses puits ont été remblayés en 1985.",
+ "histoire": {
+  "recit": "À Lallaing, l’histoire commence avec une communauté déjà comptée au premier dénombrement connu, en 1365. Installée sur une partie de terre ferme, elle vivait près d’un cours d’eau : l’absence de route rendait la voie d’eau nécessaire, et cette situation en a vite fait un point stratégique, la rivière servant de frontière entre des possessions.\n\nPlus tard, le paysage change avec l’industrie : la Compagnie des mines d’Aniche y ouvre la fosse Bonnel. Mais l’exploitation s’arrête. En 1985, les puits sont remblayés, puis les installations sont détruites l’année suivante.\n\nAujourd’hui, la fosse n’a pas tout à fait disparu : il subsiste quatre bâtiments, et aussi les cités minières, qu’elles aient été construites avant ou après la Nationalisation.",
+  "chronologie": [
+   {
+    "date": "1365",
+    "texte": "Premier dénombrement connu : la communauté de Lallaing rassemble 60 « feux », soit environ 250 personnes.",
+    "sources": [
+     "S3",
+     "S2"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "À la fosse Bonnel, les puits sont remblayés.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1986",
+    "texte": "À la fosse Bonnel, les installations sont détruites l’année suivante.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse Bonnel",
+   "histoire": "La fosse Bonnel, ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, se trouve à Lallaing. Exploitée par la Compagnie des mines d’Aniche, elle a connu une fin d’activité marquée : les puits sont remblayés en 1985, puis les installations sont détruites l’année suivante. Aujourd’hui, quatre bâtiments subsistent, ainsi que les cités minières.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il subsiste quatre bâtiments de la fosse, ainsi que les cités minières.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 50.380014,
+   "lon": 3.164197,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_Bonnel"
+  }
+ ],
+ "sources": [
+  "Lallaing est une commune française, située dans le département du Nord (59) en région Hauts-de-France. La Compagnie des mines d'Aniche y a ouvert la fosse Bonnel.",
+  "C'est sur cette partie de terre ferme que s'est installé, à une date très reculée, une communauté qui, en 1365, date du premier dénombrement connu, rassemblait déjà 60 « feux » soit 250 personnes environ. Mais cette situation au bord d'une rivière, lorsque l'absence de route imposait le recours à la voie d'eau, a très vite été considérée comme stratégique car la rivière servait de frontière entre les possessions de […]",
+  "1365 : C'est sur cette partie de terre ferme que s'est installé, à une date très reculée, une communauté qui, en 1365, date du premier dénombrement connu, rassemblait déjà 60 « feux » soit 250 personnes environ.",
+  "Lieu « Fosse Bonnel » : La fosse Bonnel de la Compagnie des mines d'Aniche est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Lallaing.",
+  "Lieu « Fosse Bonnel », 1985 : Les puits sont remblayés en 1985, et les installations détruites l'année suivante.",
+  "Lieu « Fosse Bonnel », aujourd'hui : Il subsiste quatre bâtiments de la fosse, ainsi que les cités minières, qu'elles aient été construites avant ou après la Nationalisation."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

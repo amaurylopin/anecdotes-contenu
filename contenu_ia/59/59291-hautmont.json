@@ -1,0 +1,188 @@
+{
+ "commune": {
+  "titre": "Hautmont",
+  "code_insee": "59291",
+  "departement": "59",
+  "population": 14152,
+  "lat": 50.24861111,
+  "lon": 3.92527778,
+  "url": "https://fr.wikipedia.org/wiki/Hautmont"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:31:56",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2077,
+  "sortie": 1174
+ },
+ "cout_usd": 0.001883,
+ "accroche": "À Hautmont, l’abbaye bénédictine d’Hautmont aurait été fondée en 643 par saint Vincent Maldegaire, associé à Altus mons. ",
+ "histoire": {
+  "recit": "Hautmont s’est construite autour d’un passé monastique et de lieux de travail et de culte. Tout commence sur une hauteur : une petite chapelle-oratoire dédiée à saint Waast, sur un monticule au lieu-dit « Mont-Aigu », aurait donné son nom au village, tandis qu’autour de l’abbaye, la vie religieuse s’organise.\n\nAu fil des crises, l’abbaye résiste : en 1789, grâce à Dom Ghuislain Dusart, le 28 juillet, des paysans venus pour piller et détruire le site sont calmés, et l’abbaye n’est pas totalement détruite. Plus tard, la commune traverse la Première Guerre mondiale : des Hautmontois sont internés, et la ville est libérée le 8 novembre 1918.\n\nDans la seconde moitié du XIXe siècle, la gare d’Hautmont devient une station de pleine ligne, et l’industrie marque aussi le paysage avec la verrerie Darche, inscrite à l’Inventaire général du patrimoine culturel.",
+  "chronologie": [
+   {
+    "date": "643",
+    "texte": "Saint Vincent Maldegaire entreprend de faire bâtir un monastère en un lieu appelé Altus Mons, à l’origine de l’abbaye bénédictine d’Hautmont.",
+    "sources": [
+     "S3",
+     "S6",
+     "S8"
+    ]
+   },
+   {
+    "date": "28 juillet 1789",
+    "texte": "Dom Ghuislain Dusart calme les paysans venus pour piller et détruire l’abbaye : elle n’est pas totalement détruite à la Révolution française.",
+    "sources": [
+     "S4",
+     "S9"
+    ]
+   },
+   {
+    "date": "1855-10-21",
+    "texte": "La section de Saint-Quentin à Hautmont ouvre : la gare d’Hautmont devient rapidement une station de pleine ligne.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Certains Hautmontois sont internés, comme Adelson Dubois, qui prend part au siège de Maubeuge en 1914 avec le 145e régiment d’infanterie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "8 novembre 1918",
+    "texte": "La ville d’Hautmont est libérée et reprise par des troupes britanniques après de violents combats.",
+    "sources": [
+     "S5",
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye de Hautmont",
+   "histoire": "L’abbaye bénédictine d’Hautmont, en latin Altus mons ou Altimontensis Abbatia, aurait été fondée en 643 par saint Vincent Maldegaire.",
+   "anecdotes": [
+    {
+     "texte": "Le 28 juillet 1789, Dom Ghuislain Dusart parvient à calmer les paysans venus pour piller et détruire l’abbaye : elle n’est pas totalement détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S4",
+      "S9"
+     ]
+    },
+    {
+     "texte": "Le nom d’Hautmont serait lié à la construction d’un petit oratoire dédié à saint Waast, sur le monticule de « Mont-Aigu ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S8",
+    "S4",
+    "S9",
+    "S2"
+   ],
+   "lat": 50.25094,
+   "lon": 3.92037,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Hautmont"
+  },
+  {
+   "nom": "Gare d'Hautmont",
+   "histoire": "La gare d’Hautmont se trouve sur le territoire de la commune, sur la ligne de Creil à Jeumont.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 50.253887,
+   "lon": 3.915367,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Hautmont"
+  },
+  {
+   "nom": "Verrerie Darche",
+   "histoire": "La verrerie Darche (ou verrerie d’Hautmont) est inscrite à l’Inventaire général du patrimoine culturel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 50.2486111111,
+   "lon": 3.92527777778,
+   "url": "https://fr.wikipedia.org/wiki/Verrerie_Darche"
+  },
+  {
+   "nom": "Chapelle Saint-Éloi d'Hautmont",
+   "histoire": "La chapelle Saint-Éloi d’Hautmont est une chapelle catholique dédiée à saint Éloi.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 50.241397,
+   "lon": 3.905213,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-%C3%89loi_d%27Hautmont"
+  },
+  {
+   "nom": "Cimetière communal de Hautmont",
+   "histoire": "Le cimetière communal de Hautmont est situé sur le territoire de la commune, dans le département du Nord.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 50.25262,
+   "lon": 3.93046,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_communal_de_Hautmont"
+  }
+ ],
+ "sources": [
+  "Hautmont est une commune française située dans le département du Nord, en région Hauts-de-France. Hautmont, comme beaucoup de villes du Nord, a connu une histoire mouvementée du Moyen Âge à la Révolution française. Elle est touchée par le conflit lors de la guerre franco-autrichienne et durement éprouvée par les deux Guerres mondiales du XXe siècle.",
+  "C'est à la suite de la construction d'un petit oratoire, dédié à saint Waast, sur un petit monticule situé sur la rive droite de la Sambre au lieu-dit « Mont-Aigu » que le village d'Hautmont a apparemment pris son nom. Onulphe d'Hautmont, ou Onulfus Altimontensis, est moine bénédictin de l'abbaye d'Hautmont, vers 1050. Il est connu par son œuvre hagiographique.[réf. nécessaire]. En 643, Vincent Madelgaire, comte et […]",
+  "610 : En 643, Vincent Madelgaire, comte et gouverneur du Hainaut (né vers 610 à Strépy), membre de la cour du roi Dagobert Ier, aide l'action missionnaire et entreprend de faire bâtir un monastère en un lieu appelé Altus Mons.",
+  "1789 : Contrairement à de nombreuses autres, l'abbaye n'a pas été totalement détruite à la Révolution française, grâce à Dom Ghuislain Dusart qui, le 28 juillet 1789, a réussi à calmer les paysans venus pour piller et détruire l'abbaye.",
+  "1914 : Certains Hautmontois sont internés dans le camp de prisonnier allemand de Stargard comme Adelson Dubois qui prend part au Siège de Maubeuge en 1914 avec le 145e régiment d'infanterie et qui est fait prisonnier à la suite de la capitulation de la ville La ville d'Hautmont est libérée le 8 novembre 1918.",
+  "Lieu « Abbaye de Hautmont » : L’abbaye bénédictine d’Hautmont (en latin : Altus mons ou Altimontensis Abbatia), située dans le département actuel du Nord, a été fondée en 643 par saint Vincent Maldegaire, époux de sainte Waudru.",
+  "Lieu « Abbaye de Hautmont », 607 : 643 : Madelgaire, comte et gouverneur du Hainaut (né vers 607 à Strépy), membre de la Cour du roi Dagobert Ier, aide l’action missionnaire et entreprend de faire bâtir un monastère en un lieu appelé Altus Mons.",
+  "Lieu « Abbaye de Hautmont », 643 : L’abbaye bénédictine d’Hautmont (en latin : Altus mons ou Altimontensis Abbatia), située dans le département actuel du Nord, a été fondée en 643 par saint Vincent Maldegaire, époux de sainte Waudru.",
+  "Lieu « Abbaye de Hautmont », 1723 : Contrairement à de nombreuses autres, l'abbaye n'a pas été totalement détruite à la Révolution française, grâce au courage de Dom Ghuislain Dusart (né à Quaregnon, en Hainaut, le 1er novembre 1723) qui, le 28 juillet 1789, a réussi à calmer les paysans venus pour piller et détruire l'abbaye.",
+  "Lieu « Gare d'Hautmont » : La gare d'Hautmont est une gare ferroviaire française de la ligne de Creil à Jeumont, située sur le territoire de la commune d'Hautmont, dans le département du Nord, en région Hauts-de-France.",
+  "Lieu « Gare d'Hautmont », 1855 : Elle devient rapidement une station de pleine ligne avec l'ouverture de la section de Saint-Quentin à Hautmont le 21 octobre 1855.",
+  "Lieu « Gare d'Hautmont », 1865 : En 1865 elle utilise toujours son bâtiment voyageurs provisoire.",
+  "Lieu « Verrerie Darche » : La verrerie Darche ou verrerie d'Hautmont est inscrite à l'Inventaire général du patrimoine culturel.",
+  "Lieu « Verrerie Darche », 1780 : La verrerie est fondée par Valentin Darche né le 7 septembre 1780 au château de Tromcourt - Couvin, Province de Namur, Belgique, il décède en 1854 à Hautmont, se marie le 18 mai 1812 à Condé-sur-l'Escaut avec Augustine Paillot, née en 1791 à Condé-sur-l'Escaut.",
+  "Lieu « Chapelle Saint-Éloi d'Hautmont » : La chapelle Saint-Éloi d'Hautmont est une chapelle catholique dédiée à saint Éloi, située à Hautmont dans le département du Nord.",
+  "Lieu « Chapelle Saint-Éloi d'Hautmont », 1950 : Conçue par l'architecte Denis Honegger dans le cadre de l'aménagement de la cité ouvrière du Bois-du-Quesnoy, elle a été réalisée à la fin des années 1950 et achevée en 1960.",
+  "Lieu « Cimetière communal de Hautmont » : Le cimetière communal de Hautmont, est un cimetière situé sur le territoire de la commune de Hautmont dans le département du Nord en France.",
+  "Lieu « Cimetière communal de Hautmont », 1914 : Occupée dès fin août 1914, Hautmont est restée loin du front jusqu'au 8 novembre 1918, date à laquelle la ville a été repris par les troupes britanniques après de violents combats."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Première",
+   "XIXe"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}
