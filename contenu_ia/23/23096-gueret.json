@@ -1,0 +1,238 @@
+{
+ "commune": {
+  "titre": "Guéret",
+  "code_insee": "23096",
+  "departement": "23",
+  "population": 12955,
+  "lat": 46.171389,
+  "lon": 1.869167,
+  "url": "https://fr.wikipedia.org/wiki/Gu%C3%A9ret"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:28",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2932,
+  "sortie": 1697
+ },
+ "cout_usd": 0.002708,
+ "accroche": "Guéret est la première préfecture de France continentale libérée, le 7 juin 1944, selon des sources convergentes sur la Libération de Guéret.",
+ "histoire": {
+  "recit": "Guéret, préfecture de la Creuse, doit une partie de son origine à une rupture brutale : au IXe siècle, l’ensemble est rasé par les Vikings, puis une modeste cité y est reconstruite, donnant naissance à Guéret. La ville traverse ensuite les crises : en juin 1848, l’Assemblée conservatrice vote un impôt, et des habitants veulent délivrer leurs camarades emprisonnés pour s’y être opposés. En 1940, Guéret est placée en zone « libre » ; après le débarquement allié en Afrique du nord, l’occupation ne commence qu’en novembre 1942. Malgré les retours de forces allemandes, la ville attend jusqu’au 25 août 1944 pour être définitivement libérée.\n\nPlus tard, Guéret ancre ses jours dans des lieux concrets : le Musée d’Art et d’Archéologie, installé dans la « Sénatorerie », et le Labyrinthe géant de Guéret, dont le nom circule avant même la construction. Aujourd’hui, certains équipements changent : le musée est fermé, en agrandissement et modernisation.",
+  "chronologie": [
+   {
+    "date": "IXe siècle",
+    "texte": "L’ensemble est rasé par les Vikings ; une modeste cité est reconstruite, donnant naissance à Guéret.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1848",
+    "texte": "Des habitants veulent délivrer leurs camarades emprisonnés pour s’être opposés à l’impôt voté en juin 1848.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Guéret est placée en zone « libre » ; elle n’est occupée qu’en novembre 1942.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Guéret est la première préfecture de France continentale libérée par les forces de la Résistance intérieure le 7 juin 1944.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Après le retour des forces allemandes le 9 juin 1944, Guéret attend le 25 août 1944 pour être définitivement libérée.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "Dans les années 1960, des enfants réunionnais sont déplacés de force dans la Métropole pour repeupler des départements métropolitains en voie de désertification.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Libération de Guéret",
+   "histoire": "La Libération de Guéret se déroule en plusieurs temps : une libération datée du 7 juin 1944, puis une attente jusqu’au 25 août 1944 après le retour des forces allemandes le 9 juin 1944.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S15",
+    "S16"
+   ],
+   "lat": 46.171388888889,
+   "lon": 1.8691666666667,
+   "url": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_de_Gu%C3%A9ret"
+  },
+  {
+   "nom": "Musée d'Art et d'Archéologie de Guéret",
+   "histoire": "Le musée d’Art et d’Archéologie de Guéret, aussi appelé musée de la Sénatorerie, est un musée municipal dépendant de la ville. Il s’est installé dans l’ancien hôtel du Clos, puis dans l’« hôtel de la Sénatorerie », acquis en 1905, avant un transfert final achevé en 1911.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Actuellement fermé, le musée est en cours d’agrandissement et de modernisation.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 46.165959,
+   "lon": 1.871661,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_et_d%27Arch%C3%A9ologie_de_Gu%C3%A9ret"
+  },
+  {
+   "nom": "Labyrinthe géant de Guéret",
+   "histoire": "Le labyrinthe géant de Guéret est un labyrinthe végétal de 22 000 m² et 4,5 km d’allées. Il est érigé sur le terrain prévu pour une durée de 18 ans.",
+   "anecdotes": [
+    {
+     "texte": "En 1995, le labyrinthe s’appelle « labyrinthe végétal » sans même être construit.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les fondateurs recherchent un terrain visible depuis la RN 145 et finissent par trouver un emplacement aux abords de la Forêt de Chabrières.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 46.147925,
+   "lon": 1.860916,
+   "url": "https://fr.wikipedia.org/wiki/Labyrinthe_g%C3%A9ant_de_Gu%C3%A9ret"
+  },
+  {
+   "nom": "Gare de Guéret",
+   "histoire": "La gare de Guéret appartient à la ligne de Montluçon à Saint-Sulpice-Laurière, sur le territoire de la commune de Guéret. L’édification de la première ligne ferroviaire en Creuse et l’ouverture de la gare remontent à 1864.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis 1938, les chemins de fer à Guéret et en Creuse entrent dans une longue phase de déclin jusqu’à aujourd’hui.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 46.174189,
+   "lon": 1.879174,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gu%C3%A9ret"
+  },
+  {
+   "nom": "Présidial de Guéret",
+   "histoire": "Le présidial de Guéret est un édifice de la ville. Des parties du XVIIe siècle sont inscrites au titre des monuments historiques, et il n’en reste aujourd’hui qu’une partie Est de l’hôtel de ville datant du XVIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 46.170551,
+   "lon": 1.867558,
+   "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidial_de_Gu%C3%A9ret"
+  },
+  {
+   "nom": "Hôtel des Moneyroux",
+   "histoire": "L’hôtel des Moneyroux est un monument historique construit au XVe siècle par Antoine Allard, seigneur de Moneyroux et trésorier du comté de la Marche.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "C’est aujourd’hui le siège du conseil départemental de la Creuse.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.167038164226,
+   "lon": 1.8772741131814,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_des_Moneyroux"
+  },
+  {
+   "nom": "Maison Rocaille",
+   "histoire": "La maison Rocaille est un monument historique édifié au début du XXe siècle dans l’enceinte de l’Entrepôt Général de Matériaux de madame veuve E. Bourdier, servant de vitrine pour promouvoir l’art de la rocaille et le savoir-faire des artisans creusois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La construction d’un nouveau bâtiment et d’un mur de clôture a remplacé en grande partie la clôture initiale ; il ne subsiste que quelques vestiges.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 46.173506,
+   "lon": 1.878051,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Rocaille"
+  },
+  {
+   "nom": "Église Saint-Pierre-et-Saint-Paul de Guéret",
+   "histoire": "L’église Saint-Pierre-et-Saint-Paul de Guéret est une église de culte catholique érigée au XIXe siècle à Guéret, dans le département de la Creuse.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34"
+   ],
+   "lat": 46.171161,
+   "lon": 1.867657,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-et-Saint-Paul_de_Gu%C3%A9ret"
+  }
+ ],
+ "sources": [
+  "Guéret est une commune française, préfecture du département de la Creuse dans la région Nouvelle-Aquitaine. Après avoir été d'abord la capitale du comté de la Marche au Moyen Âge, la ville est devenue le chef-lieu du département de la Creuse depuis 1790. Ses habitants sont appelés les Guérétois.",
+  "C'est sur le Puy-de-Gaudy, qui surplombe la commune de Guéret du haut de ses 651 m au sud-ouest, que l'oppidum protohistorique a été installé sur la commune de Sainte-Feyre limitrophe. Occupé jusqu'au moyen-âge, l'Oppidum du Puy de Gaudy à Sainte-Feyre est inscrit comme Monument Historique pour une part par arrêté du 3 août 1982 et pour une autre part classé par arrêté du 23 décembre 1982, sous la référence de la […]",
+  "IXe siècle : L'ensemble est rasé par les Vikings au IXe siècle, mais une modeste cité y est reconstruite, donnant naissance à Guéret.",
+  "1848 : Ils veulent délivrer leurs camarades emprisonnés pour s'être opposés à l'impôt que l’Assemblée conservatrice vient de voter en juin 1848.",
+  "1944 : Après une guérilla dans l'ensemble du département, Guéret est de nouveau libérée le 25 août 1944 par les maquisards du commandant François.",
+  "1960 : Dans les années 1960, afin de repeupler les départements métropolitains en voie de désertification, des enfants réunionnais sont déplacés de force dans la Métropole.",
+  "1982 : Occupé jusqu'au moyen-âge, l'Oppidum du Puy de Gaudy à Sainte-Feyre est inscrit comme Monument Historique pour une part par arrêté du 3 août 1982 et pour une autre part classé par arrêté du 23 décembre 1982, sous la référence de la Base Mérimée : PA00100156.",
+  "Lieu « Musée d'Art et d'Archéologie de Guéret » : Le musée d’Art et d’Archéologie de Guéret ou musée de la Sénatorerie est un musée municipal qui dépend de la ville de Guéret, préfecture de la Creuse.",
+  "Lieu « Musée d'Art et d'Archéologie de Guéret », XVIIIe siècle : L’ancien hôtel du Clos, de son premier nom, est édifié dans la seconde moitié du XVIIIe siècle par Pierre Sylvain Tournyol du Clos, conseiller du roi et premier président au présidial de la Marche.",
+  "Lieu « Musée d'Art et d'Archéologie de Guéret », 1905 : Face à l’exiguïté des locaux et à la précarité des conditions de conservation, la ville de Guéret acquiert en 1905 un ancien hôtel particulier construit à la fin du XVIIIe siècle, ayant servi, sous Napoléon Ier, de résidence aux sénateurs du Limousin et depuis lors appelé « hôtel de la Sénatorerie ».",
+  "Lieu « Musée d'Art et d'Archéologie de Guéret », 1911 : Le transfert des collections s’achève en 1911 et le musée, couramment appelé « musée de la Sénatorerie », est officiellement inauguré par René Viviani, alors ministre des Transports.",
+  "Lieu « Musée d'Art et d'Archéologie de Guéret », aujourd'hui : Actuellement fermé, le musée est en cours d’agrandissement et de modernisation.",
+  "Lieu « Libération de Guéret » : La ville française de Guéret, selon des sources convergentes, est la première préfecture de France continentale libérée par les forces de la Résistance Intérieure le 7 juin 1944.",
+  "Lieu « Libération de Guéret », 1940 : La ville de Guéret placée en zone \"libre\" en 1940, n'est occupée qu'en novembre 1942 après le débarquement allié en Afrique du nord qui entraîne le déploiement des troupes nazies sur tout le territoire national.",
+  "Lieu « Libération de Guéret », 1944 : La ville française de Guéret, selon des sources convergentes, est la première préfecture de France continentale libérée par les forces de la Résistance Intérieure le 7 juin 1944.",
+  "Lieu « Libération de Guéret », 1944 : Après le retour des forces allemandes le 9 juin 1944, la ville doit attendre le 25 août 1944 pour être définitivement libérée.",
+  "Lieu « Labyrinthe géant de Guéret » : Le labyrinthe géant de Guéret ou labyrinthe géant des Monts de Guéret est un labyrinthe végétal avec 22 000 m2 et 4,5 km d'allées.",
+  "Lieu « Labyrinthe géant de Guéret », 1995 : Le labyrinthe s'est appelé en 1995 « labyrinthe végétal » sans même être construit.",
+  "Lieu « Labyrinthe géant de Guéret », 1996 : C'est en 1996 que le labyrinthe est érigé sur le terrain prévu pour une durée de 18 ans.",
+  "Lieu « Labyrinthe géant de Guéret », aujourd'hui : Les fondateurs du labyrinthe recherchent un terrain qui serait visible depuis la RN 145 mais après de longues recherches, les fondateurs trouvent un terrain dans la ville de Guéret aux abords de la Forêt de Chabrières.",
+  "Lieu « Gare de Guéret » : La gare de Guéret est une gare ferroviaire française de la ligne de Montluçon à Saint-Sulpice-Laurière, située sur le territoire de la commune de Guéret, préfecture du département de la Creuse, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Guéret », 1864 : L'édification de la première ligne ferroviaire en Creuse et l'ouverture de la gare de Guéret remontent à 1864, date à laquelle fut mise en service la première liaison St-Sulpice Laurière - Busseau sur Creuse.",
+  "Lieu « Gare de Guéret », aujourd'hui : Depuis 1938, date de création de la SNCF, les chemins de fer à Guéret et en Creuse vont entrer dans une longue phase de déclin jusqu'à aujourd'hui.",
+  "Lieu « Présidial de Guéret » : Le présidial de Guéret est un édifice situé dans la ville de Guéret, dans le département de la Creuse, en région Nouvelle-Aquitaine.",
+  "Lieu « Présidial de Guéret », 1934 : Les parties du XVIIe siècle comprenant le portail sur la place du Marché, les façades en retour d'équerre construites en granit et décorées de pilastres et cartouches, l'escalier en pierre et la salle à rez-de-chaussée de l'aile avançante sont inscrits au titre des monuments historiques par arrêté du 26 juillet 1934.",
+  "Lieu « Présidial de Guéret », aujourd'hui : Il ne reste que la partie Est de l’hôtel de ville datant du XVIIe siècle, il servait de palais de justice au présidial et à la sénéchaussée de la Marche jusqu'à la Révolution, ensuite de palais de justice au tribunal et à la cour d'assises de la Creuse jusqu'en 1835.",
+  "Lieu « Hôtel des Moneyroux » : L’hôtel des Moneyroux est un monument historique dans la commune de Guéret dans la Creuse en région Nouvelle-Aquitaine.",
+  "Lieu « Hôtel des Moneyroux », XVe siècle : Il fut construit au XVe siècle par Antoine Allard, seigneur de Moneyroux et trésorier du comté de la Marche.",
+  "Lieu « Hôtel des Moneyroux », aujourd'hui : C'est aujourd'hui le siège du conseil départemental de la Creuse.",
+  "Lieu « Maison Rocaille » : La maison Rocaille est un monument historique dans la commune de Guéret dans la Creuse en région Nouvelle-Aquitaine.",
+  "Lieu « Maison Rocaille », XXe siècle : La maison édifiée au début du XXe siècle dans l’enceinte de l’Entrepôt Général de Matériaux de madame veuve E. Bourdier, servait de vitrine pour promouvoir l’art de la rocaille et le savoir-faire des artisans creusois.",
+  "Lieu « Maison Rocaille », aujourd'hui : Toutefois, la construction d’un nouveau bâtiment et d’un mur de clôture a en grande partie remplacé la clôture initiale sur l’avenue Gambetta, dont seuls subsistent quelques vestiges.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Guéret » : L'église Saint-Pierre-et-Saint-Paul de Guéret est une église de culte catholique érigée au XIXe siècle à Guéret, dans le département de la Creuse.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Guéret », XIXe siècle : L'église Saint-Pierre-et-Saint-Paul de Guéret est une église de culte catholique érigée au XIXe siècle à Guéret, dans le département de la Creuse."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
