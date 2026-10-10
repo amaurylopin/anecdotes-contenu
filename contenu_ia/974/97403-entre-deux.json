@@ -1,0 +1,96 @@
+{
+ "commune": {
+  "titre": "Entre-Deux",
+  "code_insee": "97403",
+  "departement": "974",
+  "population": 7176,
+  "lat": -21.2486,
+  "lon": 55.4703,
+  "url": "https://fr.wikipedia.org/wiki/Entre-Deux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:56",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 1223,
+  "sortie": 661
+ },
+ "cout_usd": 0.002062,
+ "accroche": "Le 30 mai 1839, un arrêté érigea Entre-Deux en section spéciale de la commune de Saint-Pierre, avant sa direction administrative confiée à Vital Hoarau.",
+ "histoire": {
+  "recit": "Entre-Deux, aussi appelée L'Entre-Deux dans le langage courant, est une commune française de La Réunion, dont les habitants sont appelés les Entre-Deusiens. Longtemps, la commune dépendait civilement et économiquement de Saint-Pierre, où étaient enregistrés baptêmes, mariages et décès. Puis, par un arrêté du 30 mai 1839, Entre-Deux fut érigée en section spéciale de la commune de Saint-Pierre, et un adjoint administra alors l’entité.\n\nEn 1840, Entre-Deux reçut un adjoint spécial, et ce fut Vital Hoarau qui prit, le premier, la direction administrative du village.\n\nPlus tard, le pont du Bras de la Plaine—souvent appelé pont de l’Entre-Deux—enjambe le Bras de la Plaine et, par son tracé, franchit la frontière communale entre L’Entre-Deux et Saint-Pierre.",
+  "chronologie": [
+   {
+    "date": "30 mai 1839",
+    "texte": "Un arrêté érige Entre-Deux en section spéciale de la commune de Saint-Pierre, alors que la commune dépendait auparavant de Saint-Pierre pour les registres civils.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "Entre-Deux reçoit un adjoint spécial, et Vital Hoarau prend la direction administrative du village.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "18 décembre 2002",
+    "texte": "Le pont du Bras de la Plaine est inauguré, enjambe le Bras de la Plaine et franchit la frontière communale entre L’Entre-Deux et Saint-Pierre.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont du Bras de la Plaine",
+   "histoire": "Le pont du Bras de la Plaine, appelé aussi pont de l’Entre-Deux, enjambe le Bras de la Plaine et forme, en passant, la frontière communale entre L’Entre-Deux à l’ouest et Saint-Pierre à l’est.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": -21.27638889,
+   "lon": 55.46527778,
+   "url": "https://fr.wikipedia.org/wiki/Pont_du_Bras_de_la_Plaine"
+  },
+  {
+   "nom": "Maison Valy",
+   "histoire": "La Maison Valy est une maison remarquable de l’île de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle accueille actuellement un débit de boisson.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": -21.247306,
+   "lon": 55.470806,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Valy"
+  }
+ ],
+ "sources": [
+  "Entre-Deux, aussi appelée L'Entre-Deux dans le langage courant, est une commune française, située dans le département d'outre-mer de La Réunion. Ses habitants sont appelés les Entre-Deusiens.",
+  "Le 30 mai 1839, un arrêté érigea Entre-Deux en section spéciale de la commune de Saint-Pierre (5e section). Auparavant, elle dépendait civilement et économiquement de Saint-Pierre, où l'on enregistrait baptêmes, mariages et décès. Un adjoint administre alors l'entité. Entre-Deux reçut ainsi un adjoint spécial en 1840. Ce fut alors Vital Hoarau qui, le premier, prit la direction administrative du village. Jusqu'en […]",
+  "Lieu « Pont du Bras de la Plaine » : Le pont du Bras de la Plaine, souvent appelé pont de l'Entre-Deux, est un pont de l'île de La Réunion, un département et région d'outre-mer français dans l'océan Indien.",
+  "Lieu « Pont du Bras de la Plaine », 2002 : D'une longueur totale de 305 mètres, cet ouvrage d'art d'une portée de 280 mètres inauguré le 18 décembre 2002 enjambe le Bras de la Plaine en amont de sa jonction avec le Bras de Cilaos pour former la Rivière Saint-Étienne et il franchit ce faisant la frontière communale entre L'Entre-Deux à l'ouest et Saint-Pierre à l'est.",
+  "Lieu « Maison Valy » : La maison Valy est une maison remarquable de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Maison Valy », aujourd'hui : Elle accueille actuellement un débit de boisson."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "commune": {
+  "titre": "Les Trois-Bassins",
+  "code_insee": "97423",
+  "departement": "974",
+  "population": 7221,
+  "lat": -21.1058,
+  "lon": 55.295,
+  "url": "https://fr.wikipedia.org/wiki/Les_Trois-Bassins"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:13",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1199,
+  "sortie": 676
+ },
+ "cout_usd": 0.001085,
+ "accroche": "Les Trois-Bassins ont été créés en commune le 27 février 1897, avec l’« arrêté portant sur la promulgation de la loi » correspondante.",
+ "histoire": {
+  "recit": "Aux Trois-Bassins, la ville est née d’un acte administratif : la commune est érigée par arrêté à la date du 27 février 1897. Puis les années suivantes ont surtout laissé parler les routes et leurs franchissements, notamment avec deux grands ouvrages : le viaduc de la ravine des Trois-Bassins, à la frontière avec Saint-Paul, et le viaduc de la Grande Ravine, sur la route des Tamarins. Le premier a été construit entre 2005 et le début de 2009, tandis que le second a été inauguré le 6 mai 2009 par Paul Vergès.",
+  "chronologie": [
+   {
+    "date": "27 février 1897",
+    "texte": "Création de la commune des « Trois Bassins » par arrêté portant promulgation de la loi du 27 février 1897.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Entre 2005 et début 2009",
+    "texte": "Construction du viaduc de la ravine des Trois-Bassins.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "6 mai 2009",
+    "texte": "Inauguration du pont de la Grande Ravine (viaduc de la Grande Ravine) par Paul Vergès.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Viaduc de la ravine des Trois-Bassins",
+   "histoire": "Le viaduc de la ravine des Trois-Bassins, aussi appelé viaduc de Trois-Bassins, se situe à la frontière communale de Saint-Paul et Trois-Bassins, dans l’ouest de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le viaduc se trouve à la frontière communale de Saint-Paul et Trois-Bassins.",
+   "sources": [
+    "S3"
+   ],
+   "lat": -21.105556,
+   "lon": 55.271806,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_la_ravine_des_Trois-Bassins"
+  },
+  {
+   "nom": "Viaduc de la Grande Ravine",
+   "histoire": "Le viaduc de la Grande Ravine est un viaduc de la route des Tamarins aux Trois-Bassins, dans l’ouest de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le pont de la Grande Ravine a été inauguré le 6 mai 2009 par Paul Vergès.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": -21.121944,
+   "lon": 55.279722,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_la_Grande_Ravine"
+  }
+ ],
+ "sources": [
+  "Les Trois-Bassins (nommée également Trois-Bassins non officiellement) sont une commune française, située dans le département et région de La Réunion. Ses habitants sont appelés les Trois-Bassinoises et Trois-Bassinois. Sa devise est : Toujours plus haut.",
+  "La commune a été créée le 27 février 1897. « Arrêté portant sur la promulgation de la loi du 27 février 1897, érigeant en commune la localité des « Trois Bassins ». Du 15 avril 1897 (Inséré au Journal officiel du 20 avril 1897) Nous Gouverneur de l’île de la Réunion Vu l’article 9 du sénatus-consulte du 3 mai 1854 Vu la dépêche ministérielle en date du 9 mars 1847, n°36 Sur la proposition du directeur de […]",
+  "Lieu « Viaduc de la ravine des Trois-Bassins » : Le viaduc de la ravine des Trois-Bassins, parfois également appelé viaduc de Trois-Bassins ou viaduc des Trois-Bassins, est un viaduc construit à la frontière communale de Saint-Paul et Trois-Bassins, dans l'ouest de l'île de La Réunion, département",
+  "Lieu « Viaduc de la ravine des Trois-Bassins », 2005 : Il a été construit entre 2005 et début 2009.",
+  "Lieu « Viaduc de la Grande Ravine » : Le viaduc de la Grande Ravine est un viaduc de la route des Tamarins situé aux Trois-Bassins, dans l'ouest de l'île de La Réunion.",
+  "Lieu « Viaduc de la Grande Ravine », 2009 : Le Pont de la Grande Ravine a été inauguré le 6 mai 2009 par Paul Vergès."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

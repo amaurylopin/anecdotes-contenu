@@ -1,0 +1,81 @@
+{
+ "commune": {
+  "titre": "Bras-Panon",
+  "code_insee": "97402",
+  "departement": "974",
+  "population": 13012,
+  "lat": -20.9953,
+  "lon": 55.6761,
+  "url": "https://fr.wikipedia.org/wiki/Bras-Panon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:09",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1000,
+  "sortie": 470
+ },
+ "cout_usd": 0.000788,
+ "accroche": "Le 24 février 1882, Bras-Panon devient commune, en séparant son territoire rattaché jusque-là à Saint-Benoît, entre la rivière du Mât et la rivière des Roches.",
+ "histoire": {
+  "recit": "À La Réunion, Bras-Panon s’est d’abord fait connaître comme un lieu voué à la culture du café : le lieu-dit Bras Panon n’apparaît qu’en 1725. Peu à peu, le quartier qui s’y construit prend de l’ampleur et, au milieu du XIXe siècle, il est rattaché administrativement à Saint-Benoît.\n\nMais un jour vient où l’on s’organise autrement : la séparation devient effective en 1882. Le 24 février, Bras-Panon naît comme commune et intègre un territoire situé entre la rivière du Mât et la rivière des Roches. Aujourd’hui, un point d’eau local attire les regards et les précautions : « Bassin la Paix », avec des panneaux visibles interdisant la baignade et d’autres activités sur le site.",
+  "chronologie": [
+   {
+    "date": "1725",
+    "texte": "Le lieu-dit Bras Panon, lié à une concession destinée à la culture du café, apparaît pour la première fois.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "milieu du XIXe siècle",
+    "texte": "Le quartier créé à Bras Panon est rattaché administrativement à Saint-Benoît.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "24 février 1882",
+    "texte": "Bras-Panon devient commune, en intégrant un territoire entre la rivière du Mât et la rivière des Roches.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Bassin la Paix",
+   "histoire": "« Bassin la Paix » est un point d’eau de l’île de La Réunion. Sur le site, on peut voir des panneaux d’interdictions de baignade et d’autres interdictions dans les deux communes de Saint-Benoît et Bras-Panon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Panneaux visibles interdisant la baignade et d’autres activités sur le site.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": -21.0225,
+   "lon": 55.66972,
+   "url": "https://fr.wikipedia.org/wiki/Bassin_la_Paix"
+  }
+ ],
+ "sources": [
+  "Bras-Panon est une commune française, située dans le département et la région de La Réunion. Ses habitants sont appelés les Panonnais et Panonnaises.",
+  "En tant que concession destinée à la culture du café, le lieu-dit Bras Panon n'apparaît qu'en 1725. Au milieu du XIXe siècle, le quartier qui s'y est créé est rattaché administrativement à Saint-Benoît. Il s'en sépare en devenant commune le 24 février 1882, en intégrant le territoire qui se trouve entre la rivière du Mât et la rivière des Roches. À l'origine, la séparation entre la commune de St-André et celle de […]",
+  "Lieu « Bassin la Paix » : Le bassin la Paix est un point d'eau de l'île de La Réunion.",
+  "Lieu « Bassin la Paix », aujourd'hui : Dans les deux communes ( Saint-Benoit et Bras-Panon), des panneaux d'interdictions de baignade et autres interdictions sont visibles sur le site."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "commune": {
+  "titre": "La Plaine-des-Palmistes",
+  "code_insee": "97406",
+  "departement": "974",
+  "population": 6936,
+  "lat": -21.135,
+  "lon": 55.6256,
+  "url": "https://fr.wikipedia.org/wiki/La_Plaine-des-Palmistes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:36:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1379,
+  "sortie": 992
+ },
+ "cout_usd": 0.001516,
+ "accroche": "La Plaine-des-Palmistes est desservie par la seule transversale et non littorale reliant Saint-Benoît à Saint-Pierre au centre de La Réunion.",
+ "histoire": {
+  "recit": "Sur la Plaine-des-Palmistes, la route majeure traverse un espace plat et légèrement incliné entre deux massifs volcaniques, au centre de l’île. Ici, les récits se mêlent à la géographie : une tradition parle d’une pierre gravée dans le lit de la Ravine Sèche, datée 1801, rattachée à des échanges de propriété. Plus tard, le territoire se structure : en 1841, de nouvelles rampes sont construites ; en 1847, un poste militaire de Sainte-Agathe est ordonné. \nAu fil du temps, certains bâtiments prennent une autre allure. Le Domaine des Tourelles change d’usage : acheté puis détruit et reconstruit, il devient d’abord un refuge familial, puis une maison progressivement abandonnée au début des années 1950, avant d’ouvrir ses portes aux colonies de vacances en 1955.",
+  "chronologie": [
+   {
+    "date": "1801",
+    "texte": "Une tradition fait mention d’une pierre commémorative gravée dans le lit de la Ravine Sèche, portant le millésime 1801.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1841",
+    "texte": "Construction des nouvelles rampes Letort.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1847",
+    "texte": "Édification du poste militaire de Sainte-Agathe, ordonnée par le gouverneur Graëb.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1923",
+    "texte": "Achat du Domaine des Tourelles par Joseph Alexis Champierre de Villeneuve.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1926-1927",
+    "texte": "Le domaine est entièrement détruit et reconstruit.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "début des années 1950",
+    "texte": "La maison est progressivement abandonnée après des décès violents dans la famille.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1955",
+    "texte": "Vente à la Fédération des œuvres laïques : la maison devient colonie de vacances.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Domaine des Tourelles",
+   "histoire": "Grand édifice sur l’île de La Réunion, le Domaine des Tourelles a connu plusieurs transformations : achat en 1923, destruction puis reconstruction en 1926-1927, puis changements d’usage après la Seconde Guerre mondiale.",
+   "anecdotes": [
+    {
+     "texte": "Après la Seconde Guerre mondiale, des décès violents frappent plusieurs membres de la famille, ce qui les dissuade de séjourner dans la maison, peu à peu abandonnée.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1955, la maison familiale est vendue à la Fédération des œuvres laïques et devient une colonie de vacances pour les enfants de familles démunies.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": -21.1375,
+   "lon": 55.6242,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_des_Tourelles"
+  },
+  {
+   "nom": "Gros Piton Rond",
+   "histoire": "Le Gros Piton Rond est un sommet montagneux de l’île de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un site de décollage de parapente y a été aménagé, et quelques ruches y ont été déposées.",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": -21.1556,
+   "lon": 55.59778,
+   "url": "https://fr.wikipedia.org/wiki/Gros_Piton_Rond"
+  },
+  {
+   "nom": "Cascade Biberon",
+   "histoire": "La Cascade Biberon est une chute d’eau de l’île de La Réunion.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’accès est actuellement fermé par arrêté.",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": -21.11833333,
+   "lon": 55.62416667,
+   "url": "https://fr.wikipedia.org/wiki/Cascade_Biberon"
+  }
+ ],
+ "sources": [
+  "La Plaine-des-Palmistes est une commune française de l'île de La Réunion. La commune est située dans un espace plat et légèrement incliné entre deux massifs volcaniques, au centre de l'île ; elle est desservie par une route majeure, la seule transversale et non littorale, reliant Saint-Benoît à Saint-Pierre.",
+  "D'après une première version, toute cette région aurait appartenu avant 1800 à un sieur Chabrier. Puis elle serait devenue, par voie d'échange, la propriété de Hubert de Montfleury qui aurait fait graver dans le lit de la Ravine Sèche une pierre commémorative avec le millésime 1801. Une autre version tirée d'un opuscule de l'orientaliste Anatole-Arthur, baron Textor de Ravisi (1822-1902) — gouverneur de Karikal […]",
+  "1841 : En 1841 eut lieu la construction des nouvelles rampes Letort et en 1847, l'édification du poste militaire de Sainte-Agathe est ordonnée par le gouverneur Graëb.",
+  "Lieu « Domaine des Tourelles » : Le domaine des Tourelles est un grand édifice de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Domaine des Tourelles », 1923 : Achetée en 1923 par Joseph Alexis Champierre de Villeneuve, la maison est entièrement détruite et reconstruite en 1926-1927.",
+  "Lieu « Domaine des Tourelles », 1950 : Le décès violent de plusieurs membres de la famille après la Seconde Guerre mondiale n’incite plus la famille à séjourner dans cette maison progressivement abandonnée au début des années 1950.",
+  "Lieu « Domaine des Tourelles », 1955 : Vendue en 1955 à la Fédération des œuvres laïques, la maison familiale devient colonie de vacances, pour les enfants des familles démunies du tout jeune département.",
+  "Lieu « Gros Piton Rond » : Le Gros Piton Rond est un sommet montagneux de l'île de La Réunion, département d'outre-mer français dans le sud-ouest de l'océan Indien.",
+  "Lieu « Gros Piton Rond », aujourd'hui : Aujourd'hui, un site de décollage de parapente y a été aménagé et quelques ruches y ont été déposées.",
+  "Lieu « Cascade Biberon » : La cascade Biberon est une chute d'eau de l'île de La Réunion.",
+  "Lieu « Cascade Biberon », aujourd'hui : L’accès à celle-ci est actuellement fermé par arrêté."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}
