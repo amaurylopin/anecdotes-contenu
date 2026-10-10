@@ -1,0 +1,337 @@
+{
+ "commune": {
+  "titre": "Les Pavillons-sous-Bois",
+  "code_insee": "93057",
+  "departement": "93",
+  "population": 25804,
+  "lat": 48.9058,
+  "lon": 2.5106,
+  "url": "https://fr.wikipedia.org/wiki/Les_Pavillons-sous-Bois"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:58:26",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2798,
+  "sortie": 2309
+ },
+ "cout_usd": 0.003446,
+ "accroche": "Le 3 janvier 1905, Les Pavillons-sous-Bois sont officiellement institués, mais le territoire garde des activités repérables dès le XVIIe siècle. ",
+ "histoire": {
+  "recit": "Autrefois, le terrain des Pavillons-sous-Bois n’était qu’une zone marécageuse, au sein de la forêt de Bondy, réputée pour être un repaire pour brigands. Pourtant, le paysage se met à changer : autour de l’avenue Jean-Jaurès, « la terre des Rincis » est achetée en 1633 et le château du Raincy y voit le jour. Puis, après que les ducs d’Orléans deviennent propriétaires du domaine du Raincy, en 1769, deux pavillons de garde se dressent près de la Fourche, et en 1770 deux pavillons de chasse viennent compléter l’entrée de l’allée menant au château.\n\nLe château finit par être abandonné en 1793, et le domaine du Raincy est ensuite séquestré, puis confisqué en 1852. En 1855, il est vendu pour être loti, tandis que la gare se développe : en 1889, un bâtiment voyageurs sort de terre, et en 1915 la création d’une nouvelle voie oblige à reconstruire la gare de Gargan.\n\nAu XXe siècle, l’église Notre-Dame-de-Lourdes est inaugurée le 17 septembre 1911. Des vitraux sont offerts à la paroisse en 1913, puis en 1960, une nouvelle mairie et de nouveaux équipements pour la culture et les spectacles apparaissent. À Gargan, un centre d’exploitation T4 fonctionne dès les débuts, avant la démolition complète des anciens éléments dans les années 1990. Le développement suit aussi l’industrie née du Pont de l’Europe reconstruit dans les années 1930.",
+  "chronologie": [
+   {
+    "date": "3 janvier 1905",
+    "texte": "La commune est officiellement instituée.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "autour du XVIIe siècle",
+    "texte": "Premières traces d’activité sur le territoire actuel.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "1633",
+    "texte": "Jacques Bordier achète « la terre des Rincis » et y fait bâtir le château du Raincy.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1769",
+    "texte": "Les ducs d’Orléans deviennent propriétaires du domaine du Raincy et deux pavillons de garde sont bâtis au lieu dit la Fourche.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1770",
+    "texte": "La famille des ducs d’Orléans fait bâtir deux pavillons de chasse à l’entrée de l’allée menant au château.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1770",
+    "texte": "Deux pavillons de garde marquent l’entrée du domaine du Raincy au lieu-dit la Fourche, angle de l’avenue Jean-Jaurès.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "Le château est abandonné après l’arrestation et l’exécution de Philippe égalité, duc d’Orléans.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "Le domaine du Raincy est confisqué, puis vendu pour être loti en 1855.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1855",
+    "texte": "Le domaine du Raincy est vendu pour être loti.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "Construction d’un bâtiment voyageurs à la gare.",
+    "sources": [
+     "S25"
+    ]
+   },
+   {
+    "date": "1911",
+    "texte": "L’église Notre-Dame-de-Lourdes est inaugurée par l’archevêque de Paris le 17 septembre 1911.",
+    "sources": [
+     "S8",
+     "S9"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "Deux vitraux de la chapelle des Barnabites sont offerts à la paroisse.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1915",
+    "texte": "La gare de Gargan est rebâtie en 1915 par la Compagnie de l’Est avec des installations marchandises.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2 novembre 1919",
+    "texte": "Inauguration de l’ancien cimetière, avenue Aristide-Briand, près du dispensaire.",
+    "sources": [
+     "S27"
+    ]
+   },
+   {
+    "date": "années 1960",
+    "texte": "Une nouvelle mairie est construite et de nouveaux équipements pour la culture et les spectacles sont créés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "années 1970",
+    "texte": "Le chœur liturgique de l’église est déplacé du côté du transept droit.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "troisième gare (1980)",
+    "texte": "Un bâtiment destiné à la troisième gare est utilisé après la construction, pour le centre d’exploitation T4 dans l’ancien bâtiment voyageurs jusqu’en 2003.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "années 1990",
+    "texte": "Termin us et anciennes installations à Gargan sont démolis pour construire de nouveaux logements.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "années 1930",
+    "texte": "Reconstruction du Pont de l’Europe, menant à la création d’une zone industrielle et à l’accroissement de la population.",
+    "sources": [
+     "S29"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-de-Lourdes des Pavillons-sous-Bois",
+   "histoire": "Église affectée au culte catholique située avenue Aristide-Briand. Inaugurée le 17 septembre 1911 par l’archevêque de Paris Monseigneur Léon Adolphe Amette, elle voit ensuite son chœur déplacé durant les années 1970.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 48.90883,
+   "lon": 2.504,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Lourdes_des_Pavillons-sous-Bois"
+  },
+  {
+   "nom": "Gargan (tramway d'Île-de-France)",
+   "histoire": "Gare ferroviaire sur la ligne de Bondy à Aulnay-sous-Bois, située sur le territoire de la commune à la limite de Livry-Gargan. La gare et ses installations évoluent au gré des reconstructions, de l’exploitation T4 puis des démolitions liées aux logements.",
+   "anecdotes": [
+    {
+     "texte": "En 1915, une nouvelle voie oblige à démolir la gare originelle, puis elle est rebâtie par la Compagnie de l’Est avec une halle de 60 m² et une cour dédiée au négoce du charbon.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 48.908169,
+   "lon": 2.516995,
+   "url": "https://fr.wikipedia.org/wiki/Gargan_%28tramway_d%27%C3%8Ele-de-France%29"
+  },
+  {
+   "nom": "Avenue Jean-Jaurès (Les Pavillons-sous-Bois)",
+   "histoire": "Axe de communication majeur des Pavillons-sous-Bois. Autour de son tracé se relie l’histoire du domaine du Raincy, avec l’achat de « la terre des Rincis » en 1633 et l’entrée marquée par les pavillons au lieu-dit la Fourche.",
+   "anecdotes": [
+    {
+     "texte": "L’achat en 1633 de « la terre des Rincis » par Jacques Bordier mène à la construction du château du Raincy.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S21"
+   ],
+   "lat": 48.9049,
+   "lon": 2.5033,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Jean-Jaur%C3%A8s_%28Les_Pavillons-sous-Bois%29"
+  },
+  {
+   "nom": "Avenue Aristide-Briand (Les Pavillons-sous-Bois)",
+   "histoire": "Axe de communication majeur. C’est aussi l’emplacement de l’église Notre-Dame-de-Lourdes et le lieu d’installation initiale, en 1919, du cimetière communal près du dispensaire.",
+   "anecdotes": [
+    {
+     "texte": "Le dimanche 2 novembre 1919, le cimetière communal nouvellement installé avenue Aristide-Briand est inauguré près du dispensaire.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "En 1919, un monument aux morts est édifié à cet endroit, en hommage aux soldats de la Première Guerre mondiale.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S7",
+    "S27",
+    "S23"
+   ],
+   "lat": 48.9093,
+   "lon": 2.5033,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Aristide-Briand_%28Les_Pavillons-sous-Bois%29"
+  },
+  {
+   "nom": "Les Pavillons-sous-Bois (tramway d'Île-de-France)",
+   "histoire": "Gare de la ligne de Bondy à Aulnay-sous-Bois dite ligne des Coquetiers, située sur le territoire des Pavillons-sous-Bois, à la limite de Livry-Gargan et proche du Raincy. Un bâtiment voyageurs est construit en 1889.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 48.902469,
+   "lon": 2.511726,
+   "url": "https://fr.wikipedia.org/wiki/Les_Pavillons-sous-Bois_%28tramway_d%27%C3%8Ele-de-France%29"
+  },
+  {
+   "nom": "Ancien cimetière des Pavillons-sous-Bois",
+   "histoire": "L’ancien cimetière est l’un des deux cimetières de la commune. Il est d’abord installé avenue Aristide-Briand près du dispensaire, avec une inauguration le dimanche 2 novembre 1919.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 48.91663,
+   "lon": 2.49368,
+   "url": "https://fr.wikipedia.org/wiki/Ancien_cimeti%C3%A8re_des_Pavillons-sous-Bois"
+  },
+  {
+   "nom": "Pont de l'Europe (Les Pavillons-sous-Bois)",
+   "histoire": "Pont franchissant le canal de l’Ourcq sur le territoire des Pavillons-sous-Bois. Reconstruit dans les années 1930, il permet la réalisation d’une zone industrielle qui entraîne l’accroissement de la population et la création de nouveaux équipements.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 48.914614,
+   "lon": 2.502075,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_l%27Europe_%28Les_Pavillons-sous-Bois%29"
+  }
+ ],
+ "sources": [
+  "Les Pavillons-sous-Bois est une commune française située dans le département de la Seine-Saint-Denis en région Île-de-France, à environ 10 kilomètres au nord-est de Paris. La commune est officiellement instituée le 3 janvier 1905 mais les premières traces d'activité sur son territoire actuel remontent au XVIIe siècle. La commune des Pavillons-sous-Bois tire son nom des deux pavillons de garde bâtis en 1770 et qui se […]",
+  "La ville des Pavillons-sous-Bois a fêté son centenaire en 2005. Elle existe en effet officiellement depuis le 3 janvier 1905 mais on retrouve les premières traces d'activité sur son territoire aux alentours du XVIIe siècle. Vers 1600, le territoire des Pavillons-sous-Bois n'était qu'une zone marécageuse au sein de l'immense forêt de Bondy, qui avait la mauvaise réputation d'être un repaire pour brigands. Un sentier […]",
+  "1769 : Après que la famille des ducs d'Orléans fut devenue en 1769 propriétaire du domaine du Raincy, deux pavillons de garde furent bâtis; au lieu dit la Fourche, à l'entrée de l'allée qui reliait le château au Grand Chemin.",
+  "1793 : En 1793, le château fut abandonné, après l'arrestation, puis l'exécution, pendant la Terreur, de Philippe égalité, duc d'Orléans.",
+  "1848 : Après la Révolution de février 1848, le domaine du Raincy est à nouveau séquestré, puis confisqué en 1852 par Louis Napoléon Bonaparte et vendu en 1855 pour être loti.",
+  "1960 : Après la guerre, la ville continua à se développer et dans les années 1960 une nouvelle mairie fut construite ainsi que de nouveaux équipements pour la culture et les spectacles.",
+  "Lieu « Église Notre-Dame-de-Lourdes des Pavillons-sous-Bois » : L'église Notre-Dame-de-Lourdes située avenue Aristide-Briand aux Pavillons-sous-Bois dans le département de la Seine-Saint-Denis en région Île-de-France est une église affectée au culte catholique.",
+  "Lieu « Église Notre-Dame-de-Lourdes des Pavillons-sous-Bois », 1911 : Elle est inaugurée par l'archevêque de Paris, Monseigneur Léon Adolphe Amette, le 17 septembre 1911.",
+  "Lieu « Église Notre-Dame-de-Lourdes des Pavillons-sous-Bois », 1911 : Elle est inaugurée par l'archevêque de Paris, Monseigneur Amette, le 17 septembre 1911.",
+  "Lieu « Église Notre-Dame-de-Lourdes des Pavillons-sous-Bois », 1970 : Le chœur liturgique de l'église a été déplacée durant les années 1970 du côté du transept droit.",
+  "Lieu « Église Notre-Dame-de-Lourdes des Pavillons-sous-Bois », aujourd'hui : En 1913, deux vitraux appartenant à la chapelle des Barnabites (aujourd'hui l'église Saint-Charles-de-Monceau à Paris) sont offerts à la paroisse : celui de saint Joseph et celui de l'Annonciation (actuellement dans la sacristie).",
+  "Lieu « Gargan (tramway d'Île-de-France) » : Gargan est une gare ferroviaire française de la ligne de Bondy à Aulnay-sous-Bois (dite ligne des Coquetiers), située sur le territoire de la commune des Pavillons-sous-Bois, à la limite de celle de Livry-Gargan, dans le département de la Seine-Saint",
+  "Lieu « Gargan (tramway d'Île-de-France) », 1915 : La création d'une nouvelle voie nécessite la démolition de la gare originelle et elle est rebâtie en 1915 par la Compagnie de l'Est, avec des installations marchandises (une halle de 60 m2 et deux cours, dont l'une dédiée au négoce du charbon).",
+  "Lieu « Gargan (tramway d'Île-de-France) », 1980 : Un centre d'exploitation de la ligne T4 était initialement situé à la gare de Gargan dans l'ancien bâtiment voyageurs, utilisé comme tel de la construction de la troisième gare de 1980, jusqu'en 2003.",
+  "Lieu « Gargan (tramway d'Île-de-France) », 1990 : Dans les années 1990, le terminus de l'ancienne ligne de tramway désaffecté depuis 1930, ainsi que l'ancienne halle à marchandises également désaffectée depuis, sont entièrement démolis afin d'y construire des nouveaux logements avoisinant la gare.",
+  "Lieu « Avenue Jean-Jaurès (Les Pavillons-sous-Bois) » : L'avenue Jean-Jaurès, est un important axe de communication des Pavillons-sous-Bois.",
+  "Lieu « Avenue Jean-Jaurès (Les Pavillons-sous-Bois) », 1633 : En 1633, « la terre des Rincis » fut achetée par Jacques Bordier, conseiller d'État et intendant des finances du roi Louis XIII, qui y fit bâtir le château du Raincy.",
+  "Lieu « Avenue Jean-Jaurès (Les Pavillons-sous-Bois) », 1770 : En 1770, la famille des ducs d'Orléans acquit ce domaine et fit bâtir deux pavillons de chasse à l'entrée de l'allée qui menait au château.",
+  "Lieu « Avenue Jean-Jaurès (Les Pavillons-sous-Bois) », aujourd'hui : Ces deux pavillons, qui ont donné son nom à la commune, sont toujours visibles.",
+  "Lieu « Avenue Aristide-Briand (Les Pavillons-sous-Bois) » : L'avenue Aristide-Briand est un important axe de communication des Pavillons-sous-Bois.",
+  "Lieu « Avenue Aristide-Briand (Les Pavillons-sous-Bois) », 1770 : Au lieu-dit la Fourche, angle de l'avenue Jean-Jaurès, se trouvent deux pavillons de garde bâtis en 1770 qui marquaient l'entrée du domaine du Raincy.",
+  "Lieu « Avenue Aristide-Briand (Les Pavillons-sous-Bois) », XIXe siècle : Au numéro 91, les bâtiments du centre municipal de santé datent de la fin du XIXe siècle.",
+  "Lieu « Avenue Aristide-Briand (Les Pavillons-sous-Bois) », 1919 : À cet endroit fut aussi édifié en 1919 un monument aux morts en hommage aux soldats de la première guerre mondiale.",
+  "Lieu « Les Pavillons-sous-Bois (tramway d'Île-de-France) » : Les Pavillons-sous-Bois est une gare ferroviaire française de la ligne de Bondy à Aulnay-sous-Bois (dite ligne des Coquetiers), située sur le territoire de la commune des Pavillons-sous-Bois, à la limite de Livry-Gargan et proche du Raincy, dans le d",
+  "Lieu « Les Pavillons-sous-Bois (tramway d'Île-de-France) », 1889 : En 1889, on construit un bâtiment voyageurs et au début des années 1900, la gare comporte un quai avec le bâtiment voyageurs et un grand abri ainsi que, de l'autre côté de la voie unique, un petit édicule (voir photo).",
+  "Lieu « Ancien cimetière des Pavillons-sous-Bois » : L'ancien cimetière des Pavillons-sous-Bois, est un des deux cimetières de la commune des Pavillons-sous-Bois en Seine-Saint-Denis.",
+  "Lieu « Ancien cimetière des Pavillons-sous-Bois », 1919 : Il fut tout d'abord installé avenue Aristide-Briand, près du dispensaire, où eut lieu son inauguration le dimanche 2 novembre 1919.",
+  "Lieu « Pont de l'Europe (Les Pavillons-sous-Bois) » : Situé sur le territoire des Pavillons-sous-Bois (Seine-Saint-Denis), le pont de l'Europe franchit le canal de l'Ourcq.",
+  "Lieu « Pont de l'Europe (Les Pavillons-sous-Bois) », 1930 : Il a été reconstruit dans les années 1930, ce qui a permis la réalisation de cette zone industrielle qui, à son tour, a entraîné l’accroissement de la population et la création de nouveaux équipements."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 4
+ }
+}

@@ -1,0 +1,365 @@
+{
+ "commune": {
+  "titre": "L'Île-Saint-Denis",
+  "code_insee": "93039",
+  "departement": "93",
+  "population": 8696,
+  "lat": 48.9358,
+  "lon": 2.3397,
+  "url": "https://fr.wikipedia.org/wiki/L%27%C3%8Ele-Saint-Denis"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:10:09",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2800,
+  "sortie": 1971
+ },
+ "cout_usd": 0.003024,
+ "accroche": "Au Xe siècle, Bouchard le Barbu possédait l’île centrale, appelée Isle du Chastelier, et y fit construire une forteresse dont la garnison tourmentait le voisinage.",
+ "histoire": {
+  "recit": "L’Île-Saint-Denis est une commune française dont le territoire correspond à celui de l’île fluviale de la Seine, l’île Saint-Denis, souvent confondue à tort avec la ville de Saint-Denis. Son histoire commence au Moyen Âge avec les premières traces d’occupation humaine.\n\nAu Xe siècle, Bouchard le Barbu tient l’île centrale et fait édifier une forteresse : la garnison inquiète les alentours, et il rançonne les navires qui passent. Plus tard, Philippe-Auguste permet la construction d’une maison dans l’île du Chatelier, puis, en 1435, après la prise de la ville par les Anglais, une petite forteresse y est élevée.\n\nLes ponts, aujourd’hui, relient l’île d’amont en aval avec plusieurs franchissements, dont le pont d’Épinay. À l’intérieur du bourg, l’église Saint-Pierre, sur le quai de Seine et la rue de l’Église, a connu plusieurs reconstructions : une chapelle édifiée en 1620, puis des évolutions au XIXe siècle. Et près des abords, les projets d’équipement continuent de transformer les lieux, comme le pont olympique Louafi Bouguera inauguré en 2024.",
+  "chronologie": [
+   {
+    "date": "Xe siècle",
+    "texte": "Bouchard le Barbu possède l’île centrale, alors nommée Isle du Chastelier, et y fait construire une forteresse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "866",
+    "texte": "Des moines se seraient installés sur une île près de Saint-Denis, d’après les Annales de Saint-Bertin.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1220",
+    "texte": "Philippe-Auguste permet à Robert de Montmorency de bâtir, dans l’île du Chatelier (insula de Chasteler), une maison non fortifiée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1435",
+    "texte": "Après des prises contre les troupes de Charles VII, les Anglais édifient sur l’île une petite forteresse.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1620",
+    "texte": "L’église primitive est édifiée en 1620 comme chapelle de la paroisse Saint-Marcel, dédiée à saint Sébastien et servant de refuge lors des inondations.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1832",
+    "texte": "Une autre église, construite en 1832, se révèle trop petite.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1855",
+    "texte": "En 1855, l’ancienne église est détruite ; les dernières tombes du cimetière accolées sont transférées au cimetière, et le parvis est nivelé.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "L’ingénieur Lahonde construit deux ponts enjambant les deux bras de la Seine entre Gennevilliers et Épinay-sur-Seine.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "30 janvier 1918",
+    "texte": "Une bombe lancée d’un avion allemand explose à 200 mètres en aval du pont d’Épinay.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "1913 à 1918",
+    "texte": "L’édifice actuel de l’hôtel de ville est construit de 1913 à 1918.",
+    "sources": [
+     "S22"
+    ]
+   },
+   {
+    "date": "7 décembre 2024",
+    "texte": "Le pont olympique Louafi Bouguera est inauguré officiellement.",
+    "sources": [
+     "S24"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Île Saint-Denis",
+   "histoire": "Une île fluviale de la Seine qui correspond au territoire de la commune, située dans le département de la Seine-Saint-Denis.",
+   "anecdotes": [
+    {
+     "texte": "Bouchard le Barbu rançonnait les navires qui passaient dans les parages, notamment ceux des moines.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    },
+    {
+     "texte": "En 866, des moines se seraient installés sur une île près de Saint-Denis, d’après les Annales de Saint-Bertin.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Après la prise de la ville par les troupes de Charles VII, les Anglais y édifient une petite forteresse en 1435.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S1",
+    "S3"
+   ],
+   "lat": 48.9356,
+   "lon": 2.3393,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Saint-Denis"
+  },
+  {
+   "nom": "Grande Nef de l'Île-des-Vannes",
+   "histoire": "Édifice sportif situé sur la commune de L’Île-Saint-Denis.",
+   "anecdotes": [
+    {
+     "texte": "En 1910, à cet endroit peu urbanisé et fortement inondé, une communauté de chiffonniers habitait encore près de la Tour Mahu.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Inscrit à l’inventaire supplémentaire des monuments historiques depuis 2007.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Un projet de centre de formation annoncé début 2022 n’a pas vu le jour.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Peu utilisé aujourd’hui, l’édifice est dans l’attente de travaux de rénovation.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.9178,
+   "lon": 2.32264,
+   "url": "https://fr.wikipedia.org/wiki/Grande_Nef_de_l%27%C3%8Ele-des-Vannes"
+  },
+  {
+   "nom": "Église Saint-Pierre de l'Île-Saint-Denis",
+   "histoire": "Église catholique située à l’angle du quai de Seine et de la rue de l'Église.",
+   "anecdotes": [
+    {
+     "texte": "La chapelle de 1620 dédiée à saint Sébastien servait aussi de refuge aux habitants lors des inondations.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.932884,
+   "lon": 2.340394,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_l%27%C3%8Ele-Saint-Denis"
+  },
+  {
+   "nom": "Pont d'Épinay",
+   "histoire": "Pont qui franchit la Seine entre Gennevilliers et Épinay-sur-Seine, en s’appuyant en son centre sur la pointe ouest de L’Île-Saint-Denis.",
+   "anecdotes": [
+    {
+     "texte": "Le 30 janvier 1918, une bombe explose à 200 mètres en aval du pont d’Épinay.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.95,
+   "lon": 2.306667,
+   "url": "https://fr.wikipedia.org/wiki/Pont_d%27%C3%89pinay"
+  },
+  {
+   "nom": "Hôtel de ville de L’Île-Saint-Denis",
+   "histoire": "Bâtiment administratif principal situé Rue Méchin.",
+   "anecdotes": [
+    {
+     "texte": "Acquis en 1836 pour la somme de huit-mille francs, l’ancien bâtiment était sans caractère particulier.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 48.9358,
+   "lon": 2.3397,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_L%E2%80%99%C3%8Ele-Saint-Denis"
+  },
+  {
+   "nom": "Pont olympique Louafi Bouguera",
+   "histoire": "Pont reliant les communes de Saint-Denis et L’Île-Saint-Denis, connu aussi sous le nom de projet de « passerelle du Village olympique ».",
+   "anecdotes": [
+    {
+     "texte": "Inauguré officiellement le 7 décembre 2024.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    },
+    {
+     "texte": "Les 1 500 tonnes du pont ont été transportées par barge entre le 25 et le 28 octobre 2022 pour rejoindre l’emplacement définitif.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.925277777778,
+   "lon": 2.335,
+   "url": "https://fr.wikipedia.org/wiki/Pont_olympique_Louafi_Bouguera"
+  },
+  {
+   "nom": "Cimetière de L'Île-Saint-Denis",
+   "histoire": "Cimetière de la commune, situé quai de la Marine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.94324,
+   "lon": 2.33544,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_L%27%C3%8Ele-Saint-Denis"
+  },
+  {
+   "nom": "Parc départemental de l'Île-Saint-Denis",
+   "histoire": "Espace vert public de 23 hectares situé sur la commune.",
+   "anecdotes": [
+    {
+     "texte": "Le projet Lil'O vise à étendre le parc entre la partie publique et la réserve naturelle, sur une friche de 3,6 ha.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 48.947916,
+   "lon": 2.319159,
+   "url": "https://fr.wikipedia.org/wiki/Parc_d%C3%A9partemental_de_l%27%C3%8Ele-Saint-Denis"
+  }
+ ],
+ "sources": [
+  "L’Île-Saint-Denis est une commune française située dans le département de la Seine-Saint-Denis, dont le territoire correspond parfaitement à celui d'une île fluviale de la Seine, l'île Saint-Denis. Elle est souvent considérée, à tort, comme une partie de la ville de Saint-Denis. Sa superficie et sa population en font l'une des plus petites communes de la Seine-Saint-Denis. Ses habitants sont appelés les […]",
+  "L'histoire de L'Île-Saint-Denis remonte au Moyen Âge, avec les premières traces d'occupation humaine sur l'île fluviale située sur la Seine. Au Xe siècle, Bouchard le Barbu possédait l'île centrale, alors dénommée Isle du Chastelier sur laquelle il avait fait construire une forteresse dont la garnison tourmentait le voisinage. Il rançonnait tous les navires qui passaient dans les parages et notamment ceux des moines […]",
+  "Lieu « Île Saint-Denis » : L’île Saint-Denis est une île de la Seine, dans le département de la Seine-Saint-Denis, en région Île-de-France.",
+  "Lieu « Île Saint-Denis », 866 : Cependant, d'après les Annales de Saint-Bertin, ceux-ci se seraient installés en 866 sur une île près de Saint-Denis.",
+  "Lieu « Île Saint-Denis », 1220 : En 1220, Philippe-Auguste permet à Robert de Montmorency, sergent dudit Mathieu de bâtir dans l'île du Chatelier (insula de Chasteler) une maison non fortifiée.",
+  "Lieu « Île Saint-Denis », 1435 : En 1435, après avoir pris la ville aux troupes de Charles VII, les Anglais y édifient une petite forteresse.",
+  "Lieu « Île Saint-Denis », aujourd'hui : Actuellement quatre séries de ponts traversent l'île d'amont en aval : le pont de Saint-Ouen-les-Docks ; le viaduc autoroutier de L'Île-Saint-Denis (emprunté par l'autoroute A86) ; le pont de l'île Saint-Denis ; le pont d'Épinay.",
+  "Lieu « Grande Nef de l'Île-des-Vannes » : La Grande Nef Lucien-Belloni est le palais des sports de la ville de Saint-Ouen-sur-Seine, situé sur la commune de L'Île-Saint-Denis.",
+  "Lieu « Grande Nef de l'Île-des-Vannes », 1910 : À cet endroit peu urbanisé, et fortement inondé en 1910, une communauté de chiffonniers habitait encore près de la Tour Mahu, bâtiment antique et décrépit qui n'allait pas survivre aux travaux ultérieurs.",
+  "Lieu « Grande Nef de l'Île-des-Vannes », 2007 : L'édifice est inscrit à l’inventaire supplémentaire des monuments historiques depuis 2007.",
+  "Lieu « Grande Nef de l'Île-des-Vannes », 2022 : Début 2022, la Ville et le basketteur Tony Parker annoncent l'ouverture après les Jeux olympiques d'un centre de formation de sportives et de sportifs autour du basket-ball et du padel, mais ce dernier projet ne voit pas le jour.",
+  "Lieu « Grande Nef de l'Île-des-Vannes », aujourd'hui : Peu utilisé aujourd’hui, l'édifice est dans l’attente de travaux de rénovation.",
+  "Lieu « Église Saint-Pierre de l'Île-Saint-Denis » : L’église Saint-Pierre, située à l'angle du quai de Seine et de la rue de l'Église, sur l'Île-Saint-Denis est une église affectée au culte catholique.",
+  "Lieu « Église Saint-Pierre de l'Île-Saint-Denis », 1620 : Après que l'autorisation en eut été finalement donnée par le cardinal de Retz, l'église primitive de l'Île-Saint-Denis fut édifiée en 1620, en tant que chapelle de la paroisse Saint-Marcel ; elle était dédiée à saint Sébastien, et servait aussi de refuge aux habitants lors des inondations.",
+  "Lieu « Église Saint-Pierre de l'Île-Saint-Denis », 1832 : Une autre église, construite en 1832 par l'architecte Auguste Guenepin, se révèle trop petite.",
+  "Lieu « Église Saint-Pierre de l'Île-Saint-Denis », 1855 : En 1855, l'ancienne église est détruite et les dernières tombes du cimetière qui lui étaient accolées, sont transférées au cimetière de L'Île-Saint-Denis, et le parvis nivelé.",
+  "Lieu « Pont d'Épinay » : Le pont d'Épinay franchit la Seine sur une longueur de trois cent cinquante mètres de Gennevilliers, au sud, à Épinay-sur-Seine, au nord, en s'appuyant en son centre sur la pointe ouest de L'Île-Saint-Denis où il rencontre le quai de la Marine.",
+  "Lieu « Pont d'Épinay », 1878 : En 1878, l'ingénieur ordinaire des ponts et chaussées Lahonde construit deux ponts, enjambant les deux bras de la Seine entre Gennevilliers, au sud, et Épinay-sur-Seine, au nord.",
+  "Lieu « Pont d'Épinay », 1918 : Le 30 janvier 1918, durant la Première Guerre mondiale, une bombe lancée d'un avion allemand explose à 200 mètres en aval du pont d'Epinay Selon une carte du site Géoportail, le pont du côté d'Épinay-sur-Seine mesure environ 140 mètres, tandis que celui du côté de Gennevilliers mesure environ 100 mètres.",
+  "Lieu « Hôtel de ville de L’Île-Saint-Denis » : L' Hôtel de Ville de L'Île-Saint-Denis, ville française du département de la Seine-Saint-Denis en région Île-de-France, situé Rue Méchin, est le principal bâtiment administratif de la ville.",
+  "Lieu « Hôtel de ville de L’Île-Saint-Denis », 1836 : C'était un bâtiment sans caractère particulier, acquis en 1836 pour la somme de huit-mille francs.",
+  "Lieu « Hôtel de ville de L’Île-Saint-Denis », 1913 : L'édifice actuel a été construit de 1913 à 1918.",
+  "Lieu « Pont olympique Louafi Bouguera » : Le Pont olympique Louafi Bouguera (connu également sous son nom de projet de « passerelle du Village olympique ») est un pont reliant les communes de Saint-Denis et L'Île-Saint-Denis.",
+  "Lieu « Pont olympique Louafi Bouguera », 2024 : L'ouvrage est dénommé Pont olympique Louafi Bouguera et inauguré officiellement le 7 décembre 2024.",
+  "Lieu « Pont olympique Louafi Bouguera », aujourd'hui : Assemblées au port de Gennevilliers (Hauts-de-Seine), les 1 500 tonnes du pont de 138 mètres de longueur sont transportées par une barge entre le 25 et le 28 octobre 2022 pour rejoindre l'emplacement définitif et relier les deux parties du village olympique.",
+  "Lieu « Cimetière de L'Île-Saint-Denis » : Le cimetière de L'Île-Saint-Denis est le cimetière de la commune de L'Île-Saint-Denis en Seine-Saint-Denis, situé quai de la Marine.",
+  "Lieu « Cimetière de L'Île-Saint-Denis », 1807 : Cimetière de Saint-Denis, ouvert vers 1807",
+  "Lieu « Cimetière de L'Île-Saint-Denis », 1977 : Cimetière intercommunal des Joncherolles, ouvert en 1977.",
+  "Lieu « Parc départemental de l'Île-Saint-Denis » : Le parc de l'île Saint-Denis est un espace vert public de 23 hectares situé dans la commune de L'Île-Saint-Denis.",
+  "Lieu « Parc départemental de l'Île-Saint-Denis », 1981 : 1981 : début des travaux 1990 : ouverture de la dernière tranche du parc.",
+  "Lieu « Parc départemental de l'Île-Saint-Denis », aujourd'hui : Lil'O est un projet visant à étendre le parc entre la partie publique et la réserve naturelle où subsiste une parcelle occupée par une entreprise de travaux publics, entre le pont routier le pont ferroviaire, sur une friche de 3,6 ha."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 13
+ }
+}

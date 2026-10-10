@@ -1,0 +1,298 @@
+{
+ "commune": {
+  "titre": "Les Lilas",
+  "code_insee": "93045",
+  "departement": "93",
+  "population": 23843,
+  "lat": 48.88,
+  "lon": 2.4169,
+  "url": "https://fr.wikipedia.org/wiki/Les_Lilas"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:01:31",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2467,
+  "sortie": 2348
+ },
+ "cout_usd": 0.003428,
+ "accroche": "En 1867, le fort de Romainville se retrouve sur le territoire de la commune des Lilas lors de sa création, après avoir été construit entre 1844 et 1848.",
+ "histoire": {
+  "recit": "Aux Lilas, l’urbanisation prend racine sur le bois de Romainville, lieu de détente des habitants de l’est parisien au début du XIXe siècle : les allées cavalières en étoile se dessinent autour du rond-point devenu place du Général de Gaulle, tandis que le romancier Paul de Kock en acquiert une partie en 1832.\n\nAu nord, le fort de Romainville monte entre 1844 et 1848, sur le domaine du château de la marquise de Montesson. Ensemble militaire d’environ trois hectares destiné à protéger Paris, il change de territoire en 1867, quand les Lilas deviennent une commune.\n\nLe 6 avril 1918, un obus lancé par la Grosse Bertha explose dans ses fossés. Aujourd’hui, le fort n’a plus d’usage militaire et est rattaché au quartier de l’Avenir.\n\nLa ville se construit aussi autour de lieux de vie et de soins : la maternité des Lilas est fondée en 1964 par la comtesse Colette de Charnières, puis le site est transformé en juillet 2026 en centre spécialisé. Dans la même commune, la vie publique s’organise encore autour de la Mairie des Lilas, station de la ligne 11 ouverte le 17 février 1937.",
+  "chronologie": [
+   {
+    "date": "1830s",
+    "texte": "Le bois de Romainville est défriché pour construire des maisons le long des allées cavalières en étoile autour du rond-point, devenu place du Général de Gaulle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1832",
+    "texte": "Paul de Kock acquiert une partie du bois de Romainville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1844-1848",
+    "texte": "Le fort de Romainville est construit sur le domaine du château de la marquise de Montesson.",
+    "sources": [
+     "S3",
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "1867",
+    "texte": "Lors de la création de la commune des Lilas, le fort se trouve sur son territoire.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "6 avril 1918",
+    "texte": "Un obus lancé par la Grosse Bertha explose dans les fossés du fort.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1964",
+    "texte": "La maternité des Lilas est fondée en 1964 par la comtesse Colette de Charnières.",
+    "sources": [
+     "S10",
+     "S11"
+    ]
+   },
+   {
+    "date": "17 février 1937",
+    "texte": "La station Mairie des Lilas est ouverte avec le prolongement de la ligne 11 vers la banlieue.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "juillet 2026",
+    "texte": "Le site de la maternité des Lilas est transformé en centre spécialisé pour les suivis de grossesse et les consultations gynécologiques.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fort de Romainville",
+   "histoire": "Érigé de 1844 à 1848, le fort de Romainville est un ensemble militaire d’environ trois hectares, élément des fortifications destinées à protéger Paris. En 1867, il se trouve sur le territoire de la commune des Lilas. Plus tard, le 6 avril 1918, un obus lancé par la Grosse Bertha explose dans ses fossés. Depuis, sans usage militaire, il est rattaché au quartier de l’Avenir.",
+   "anecdotes": [
+    {
+     "texte": "Le 6 avril 1918, un obus lancé par la Grosse Bertha explose dans les fossés du fort.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.885126,
+   "lon": 2.422718,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Romainville"
+  },
+  {
+   "nom": "Maternité des Lilas",
+   "histoire": "La maternité des Lilas est une maternité fondée en 1964, avec un statut d’établissement privé d’intérêt collectif. Elle est fondée par la comtesse Colette de Charnières. Le site ferme en novembre 2025, puis en juillet 2026 il est transformé en un centre spécialisé dans les suivis de grossesse et les consultations gynécologiques.",
+   "anecdotes": [
+    {
+     "texte": "Fondée en 1964, la maternité des Lilas est portée par la comtesse Colette de Charnières.",
+     "statut": "etabli",
+     "sources": [
+      "S11",
+      "S10"
+     ]
+    },
+    {
+     "texte": "Après sa fermeture en novembre 2025, le site change de vocation en juillet 2026 pour devenir un centre de suivis de grossesse et de consultations gynécologiques.",
+     "statut": "etabli",
+     "sources": [
+      "S9",
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.8785,
+   "lon": 2.4145,
+   "url": "https://fr.wikipedia.org/wiki/Maternit%C3%A9_des_Lilas"
+  },
+  {
+   "nom": "Cimetière communal des Lilas",
+   "histoire": "Le cimetière communal des Lilas se trouve rue de l'Égalité. Un Monument aux morts y est édifié en 1919 sur décision du maire Eugène Ducros, avec une inscription « Aux morts pour la France ». Le monument est réalisé par le sculpteur Félix-Alexandre Desruelles et inauguré le 29 mars 1925 par le général Nollet. Plus tard, un monument commémorant le génocide arménien est érigé en 2000.",
+   "anecdotes": [
+    {
+     "texte": "En 1919, sur décision d’Eugène Ducros, un Monument aux morts est édifié dans le cimetière et porte l’inscription « Aux morts pour la France ».",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "En 2000, un monument commémorant le génocide arménien est installé au cimetière.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.8822304,
+   "lon": 2.4125561,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_communal_des_Lilas"
+  },
+  {
+   "nom": "Mairie des Lilas (métro de Paris)",
+   "histoire": "Mairie des Lilas est une station de la ligne 11 du métro de Paris située sur la commune des Lilas. Elle est ouverte le 17 février 1937, lors de la mise en service du premier prolongement de la ligne 11 depuis son terminus de Porte des Lilas. La station s’intercale entre Porte des Lilas et Serge Gainsbourg, et la partie basse de cette œuvre d’art est aujourd’hui masquée par un édicule vitré complétant l’accès no 1.",
+   "anecdotes": [
+    {
+     "texte": "La station est ouverte le 17 février 1937 et devient alors le nouveau terminus oriental de la ligne depuis Châtelet.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 48.879788056426,
+   "lon": 2.4162894487381,
+   "url": "https://fr.wikipedia.org/wiki/Mairie_des_Lilas_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Tour hertzienne TDF site Romainville",
+   "histoire": "La tour hertzienne TDF site Romainville, souvent appelée tour de Romainville, est destinée à l’émission radio et télévisée et culmine à 141 mètres. Construite en 1984 par l’architecte Claude Vasconi pour TDF, à l’est de Paris sur la commune des Lilas, elle est achevée en 1984 et mise en service début 1986. Elle remplace la tour TDF des Buttes-Chaumont, détruite en 1996 après la vente des studios à des promoteurs immobiliers.",
+   "anecdotes": [
+    {
+     "texte": "La tour de Romainville remplace la tour TDF des Buttes-Chaumont, détruite en 1996 après la vente des studios.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.8851,
+   "lon": 2.4222,
+   "url": "https://fr.wikipedia.org/wiki/Tour_hertzienne_TDF_site_Romainville"
+  },
+  {
+   "nom": "Église Notre-Dame-du-Rosaire des Lilas",
+   "histoire": "L’église Notre-Dame-du-Rosaire est une église catholique rattachée au diocèse de Saint-Denis. Elle est issue d’une chapelle de pierre construite en 1887, utilisée plus d’un siècle. Elle est inaugurée le 30 janvier 2011 par M. Daniel Guiraud, maire des Lilas, et Mgr Pascal Delannoy.",
+   "anecdotes": [
+    {
+     "texte": "Le bâtiment actuel prolonge une chapelle de pierre construite en 1887, restée en service plus d’un siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.87988,
+   "lon": 2.41461,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-du-Rosaire_des_Lilas"
+  },
+  {
+   "nom": "Rue de Paris (Les Lilas)",
+   "histoire": "La rue de Paris est une artère principale des Lilas. On y trouve notamment une ancienne gendarmerie construite en 1887, acquise par la Ville en 2008 et affectée à la Direction générale des services techniques municipaux. La rue accueille aussi le Théâtre du Garde-Chasse, construit en 1902.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.87985,
+   "lon": 2.4164,
+   "url": "https://fr.wikipedia.org/wiki/Rue_de_Paris_%28Les_Lilas%29"
+  }
+ ],
+ "sources": [
+  "Les Lilas /le li.la/ est une commune française située dans le département de la Seine-Saint-Denis en région Île-de-France. Ses habitants sont appelés les Lilasiens, Lilasiennes. La devise des Lilas est « J’étais fleur, je suis cité ».",
+  "L’agglomération s’est constituée sur le bois de Romainville ou bois des Boulleaux, lieu de détente des habitants de l’est parisien au début du XIXe siècle. Ce bois est défriché à partir des années 1830 pour construire des maisons le long des allées cavalières en étoile autour du rond-point (actuelle place du Général de Gaulle). Le romancier Paul de Kock en acquiert une en 1832. Au nord, le fort de Romainville est […]",
+  "1844 : Au nord, le fort de Romainville est construit de 1844 à 1848 sur le domaine du château de la marquise de Montesson dont la rue du château conserve le souvenir.",
+  "Lieu « Fort de Romainville » : Le fort de Romainville est un ensemble militaire de 3 hectares construit au milieu du XIXe siècle, élément de la fortifications destinées à protéger Paris.",
+  "Lieu « Fort de Romainville », XIXe siècle : Le fort de Romainville est un ensemble militaire de 3 hectares construit au milieu du XIXe siècle, élément de la fortifications destinées à protéger Paris.",
+  "Lieu « Fort de Romainville », 1867 : Construit sur ce qui était alors la commune de Romainville, à l'est de la capitale, il se trouve sur le territoire de la commune des Lilas lors de la création de cette dernière en 1867.",
+  "Lieu « Fort de Romainville », 1918 : Le 6 avril 1918, durant la première Guerre mondiale, un obus lancé par la Grosse Bertha explose dans les fossés du fort.",
+  "Lieu « Fort de Romainville », aujourd'hui : Aujourd'hui sans usage militaire, il est rattaché au quartier de l’Avenir.",
+  "Lieu « Maternité des Lilas » : La maternité des Lilas est une maternité française fondée en 1964, qui a le statut d'établissement privé d’intérêt collectif, jusqu'à sa fermeture en novembre 2025.",
+  "Lieu « Maternité des Lilas », 1964 : La maternité des Lilas est une maternité française fondée en 1964, qui a le statut d'établissement privé d’intérêt collectif, jusqu'à sa fermeture en novembre 2025.",
+  "Lieu « Maternité des Lilas », 1964 : La maternité des Lilas est fondée en 1964 par la comtesse Colette de Charnières avec un statut de clinique privée.",
+  "Lieu « Maternité des Lilas », 2026 : En juillet 2026, le site est transformé en un centre spécialisé dans les suivis de grossesse et les consultations gynécologiques.",
+  "Lieu « Cimetière communal des Lilas » : Le cimetière communal des Lilas, est un cimetière se trouvant rue de l'Égalité aux Lilas en Seine-Saint-Denis.",
+  "Lieu « Cimetière communal des Lilas », 1919 : Dans le cimetière, a été édifié en 1919, sur la décision du maire Eugène Ducros, un Monument aux morts, réalisé par le sculpteur Félix-Alexandre Desruelles en 1924, et portant l'inscription « Aux morts pour la France ».",
+  "Lieu « Cimetière communal des Lilas », 1925 : Il est inauguré le 29 mars 1925 par le général Nollet.",
+  "Lieu « Cimetière communal des Lilas », 2000 : Érigé en 2000, il s'y trouve aussi un monument commémorant le génocide arménien, réalisé par le sculpteur David Erevantzi.",
+  "Lieu « Mairie des Lilas (métro de Paris) » : Mairie des Lilas est une station de la ligne 11 du métro de Paris, située sur la commune des Lilas.",
+  "Lieu « Mairie des Lilas (métro de Paris) », 1937 : La station est ouverte le 17 février 1937 avec la mise en service du premier prolongement de la ligne 11 à travers la banlieue parisienne depuis son terminus initial de Porte des Lilas, et constitue alors le nouveau terminus oriental de la ligne depuis Châtelet.",
+  "Lieu « Mairie des Lilas (métro de Paris) », 2023 : Approximativement orientée selon un axe est-ouest, elle s'intercale entre l'actuelle station Porte des Lilas et la station Serge Gainsbourg, cette dernière étant précédée par l'ancien atelier de maintenance des Lilas, définitivement fermé le 1er juillet 2023 au profit du nouvel atelier de Rosny-sous-Bois.",
+  "Lieu « Mairie des Lilas (métro de Paris) », aujourd'hui : La partie basse de cette œuvre d'art est aujourd'hui masquée par le nouvel édicule vitré complétant l'accès no 1. .",
+  "Lieu « Tour hertzienne TDF site Romainville » : La tour hertzienne TDF site Romainville, souvent simplement appelée tour de Romainville, est une tour destinée à l'émission radio et télévisée, d'une hauteur de 141 mètres.",
+  "Lieu « Tour hertzienne TDF site Romainville », 1984 : Elle fut construite en 1984 par l'architecte Claude Vasconi pour TDF, à l'est de Paris, sur la commune des Lilas en Seine-Saint-Denis.",
+  "Lieu « Tour hertzienne TDF site Romainville », 1984 : Achevé en 1984, elle est mise en service au début de l'année 1986, elle remplace la tour TDF des Buttes-Chaumont dans le 19e arrondissement de Paris détruite en 1996 après la vente des studios du même nom, à des promoteurs immobiliers.",
+  "Lieu « Église Notre-Dame-du-Rosaire des Lilas » : L'église Notre-Dame-du-Rosaire est une église catholique des Lilas, en Seine-Saint-Denis, rattachée au diocèse de Saint-Denis.",
+  "Lieu « Église Notre-Dame-du-Rosaire des Lilas », 1887 : Elle est issue d'une chapelle de pierre, construite en 1887, qui aura été utilisée plus d'un siècle.",
+  "Lieu « Église Notre-Dame-du-Rosaire des Lilas », 2011 : Elle a été inaugurée le 30 janvier 2011 par M. Daniel Guiraud, maire des Lilas, et Mgr Pascal Delannoy.",
+  "Lieu « Rue de Paris (Les Lilas) » : La rue de Paris, est l'une des artères principales des Lilas.",
+  "Lieu « Rue de Paris (Les Lilas) », 1887 : Ancienne gendarmerie, construite en 1887, acquise par la Ville en 2008 qui l'affecte à la Direction générale des services techniques municipaux.",
+  "Lieu « Rue de Paris (Les Lilas) », 1902 : Théâtre du Garde-Chasse, construit en 1902."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 8
+ }
+}

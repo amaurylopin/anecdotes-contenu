@@ -1,0 +1,211 @@
+{
+ "commune": {
+  "titre": "Dugny",
+  "code_insee": "93030",
+  "departement": "93",
+  "population": 11700,
+  "lat": 48.9536,
+  "lon": 2.4164,
+  "url": "https://fr.wikipedia.org/wiki/Dugny"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:44:04",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2677,
+  "sortie": 920
+ },
+ "cout_usd": 0.001685,
+ "accroche": "Le 16 août 1943, l’opération Starkey rase Dugny à 95 ou 98 %, notamment l’hôtel de ville, avant sa reconstruction en 1952.",
+ "histoire": {
+  "recit": "Dugny, au nord de la Seine-Saint-Denis, était longtemps un petit village, avant d’être régulièrement frappé par les conflits et les chantiers du XXe siècle.\n\nEn 1814 et 1815, lors de la Première Restauration, les armées alliées occupent la commune et y provoquent de nombreux dégâts. Plus tard, en 1870, le siège de Paris change le sort de Dugny : le territoire est occupé par les Prussiens et subit des tirs d’artillerie française installée au Bourget.\n\nLe tournant le plus violent arrive le 16 août 1943. Les forces américaines et anglaises bombardent les pistes : la base aérienne reste occupée jusqu’à sa libération, et le bombardement, appelé opération Starkey, détruit une grande partie de la commune. Le nouvel hôtel de ville est bâti en 1952.\n\nAprès la reconstruction, la croissance de Dugny s’accélère, avec une demande rapide de logements entre les années 1950 et les années 1970, notamment pour loger des rapatriés et des populations issues du grand bidonville de Saint-Denis-La Courneuve. La ville voit aussi se dessiner de nouveaux repères, comme les équipements liés à l’aéronautique et, plus récemment, l’évolution de la station « Le Bourget - Aéroport » pour la ligne 17 du métro.",
+  "chronologie": [
+   {
+    "date": "1814-1815",
+    "texte": "Pendant la Première Restauration, Dugny est occupée par les armées alliées et subit de nombreux dégâts.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Pendant la guerre franco-allemande, Dugny est occupée par les Prussiens et touchée par des tirs d’artillerie française implantée au Bourget.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "16 août 1943",
+    "texte": "Les forces américaines et anglaises bombardent les pistes : l’opération Starkey vise l’aéroport et rase une grande partie de la commune.",
+    "sources": [
+     "S7",
+     "S8"
+    ]
+   },
+   {
+    "date": "1952",
+    "texte": "Le nouvel hôtel de ville est reconstruit en 1952.",
+    "sources": [
+     "S8",
+     "S29"
+    ]
+   },
+   {
+    "date": "1950",
+    "texte": "Entre les années 1950 et les années 1970, Dugny fait face à un développement démographique porté par une demande très rapide de logements.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "L’aéroport du Bourget, reconstruit à l’identique après la Seconde Guerre mondiale, sert d’aéroport civil de Paris jusque dans les années 1970.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1975",
+    "texte": "Le hall B est inauguré en 1975, peu avant le salon du Bourget.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée de l'Air et de l'Espace",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.9474,
+   "lon": 2.4353,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Air_et_de_l%27Espace"
+  },
+  {
+   "nom": "Base aérienne 104 Dugny-Le Bourget",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.957031,
+   "lon": 2.426341,
+   "url": "https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_104_Dugny-Le_Bourget"
+  },
+  {
+   "nom": "Le Bourget - Aéroport (métro de Paris)",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.946,
+   "lon": 2.435,
+   "url": "https://fr.wikipedia.org/wiki/Le_Bourget_-_A%C3%A9roport_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Église Saint-Denys de Dugny",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.95318,
+   "lon": 2.4161,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Denys_de_Dugny"
+  },
+  {
+   "nom": "Hôtel de ville de Dugny",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S8"
+   ],
+   "lat": 48.955328,
+   "lon": 2.417495,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Dugny"
+  },
+  {
+   "nom": "Cimetière du Hazeret",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 48.95534,
+   "lon": 2.42174,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_Hazeret"
+  }
+ ],
+ "sources": [
+  "Dugny est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France. Petit village jusqu'à la Révolution française, la commune de Dugny subit de nombreux dégâts et destructions à l'époque contemporaine. En 1814 et 1815, lors de la Première Restauration, Dugny est occupée par les armées alliées (russe, prussienne et autrichienne) qui y font des dégâts ; les batailles du Bourget […]",
+  "Une fouille de sauvetage effectuée en 1998 a permis de mettre au jour deux enclos circulaires et sont datables de l'holocène et plus spécifiquement de la Protohistoire (à l'âge du bronze ou à l'âge du fer). On pense qu'ils délimitaient des tertres et même si aucune inhumation ou incinération de l'époque n'a été découverte, la fonction funéraire du lieu semble certaine. Quatre sépultures datées de l'époque […]",
+  "1814 : En 1814 et 1815, lors de la Restauration, Dugny est occupé par les armées alliées (russe, prussienne et autrichienne) qui y font des dégâts.",
+  "1870 : La guerre franco-allemande de 1870 vient changer les choses et plus particulièrement le Siège de Paris (1870), le territoire de Dugny est alors occupé par les Prussiens et subit des tirs de l'artillerie française implantée au Bourget.",
+  "1932 : En 1932, la cité-jardin de l'Eguillez est édifiée par les architectes Georges Albenque et Eugène Gonnot pour l'Office public d'HBM de la Seine.",
+  "1933 : En 1933, la cité du Pont-Yblon est bâtie par l'architecte Germain Dorel, composée de 334 logements.",
+  "1943 : Le 16 août 1943, les forces américaines et anglaises bombardent les pistes mais la base aérienne reste occupée jusqu’à sa libération.",
+  "1943 : Ce bombardement du 16 août 1943, appelé opération Starkey, destiné à détruire l'aéroport, rase la commune à 95 ou 98 %, notamment l'hôtel de ville qui sera reconstruit en 1952.",
+  "XXe siècle : À la Belle Époque, la commune se reconstruit peu à peu et le XXe siècle va marquer un tournant dans l'histoire du village.",
+  "1950 : En plus de sa reconstruction, la ville doit aussi faire face à un développement démographique qui est la conséquence d'une demande de construction très rapide de logements entre les années 1950 et les années 1970, en partie pour loger les rapatriés d'Algérie mais aussi la population issue du grand bidonville de Saint-Denis-La Courneuve qui a été démantelé.",
+  "1970 : De même, l'aéroport du Bourget, sérieusement endommagé pendant la Seconde Guerre mondiale est reconstruit à l'identique, et sert d'aéroport civil de Paris jusque dans les années 1970.",
+  "1975 : Le premier hall, le hall B, est inauguré en 1975 peu avant le salon du Bourget.",
+  "Lieu « Musée de l'Air et de l'Espace » : Le musée de l'Air et de l'Espace (MAE) du Bourget est le plus important musée aéronautique de France.",
+  "Lieu « Musée de l'Air et de l'Espace », 1919 : Fondé en 1919, il est le plus ancien et l'un des plus grands musées d'aviation du monde.",
+  "Lieu « Musée de l'Air et de l'Espace », 1919 : Fondé en 1919 d'après la proposition d'Albert Caquot, la collection commence à prendre forme dans un hangar du terrain d'Issy-les-Moulineaux.",
+  "Lieu « Musée de l'Air et de l'Espace », 1921 : Le musée est inauguré en 1921, à Chalais-Meudon, puis le 20 novembre 1936, boulevard Victor, dans le 15e arrondissement de Paris.",
+  "Lieu « Musée de l'Air et de l'Espace », aujourd'hui : Sur le tarmac, un ancien bombardier d'eau Canadair CL-215 de la Sécurité civile est également visible dans sa traditionnelle livrée jaune.",
+  "Lieu « Base aérienne 104 Dugny-Le Bourget » : La Base aérienne 104 Dugny-Le Bourget était une base aérienne de l'Armée de l'air française, créée en 1914 et fermée en 1985 (à ne pas confondre avec la base Aérienne 725 Chambéry-Le Bourget-du-Lac, également fermée en 1985).",
+  "Lieu « Base aérienne 104 Dugny-Le Bourget », 1914 : La Base aérienne 104 Dugny-Le Bourget était une base aérienne de l'Armée de l'air française, créée en 1914 et fermée en 1985 (à ne pas confondre avec la base Aérienne 725 Chambéry-Le Bourget-du-Lac, également fermée en 1985).",
+  "Lieu « Base aérienne 104 Dugny-Le Bourget », 1955 : Elle a partagé le terrain (notamment la piste 03/21) avec la base d'aéronautique navale Dugny, créée le 1er janvier 1955 et fermée en juin 2011.",
+  "Lieu « Base aérienne 104 Dugny-Le Bourget », 1984 : Elle a abrité de nombreuses unités de l'Armée de l'air, dont le Centre d'instruction militaire de la Cité de l'Air, déplacé en 1984 à la Base aérienne 122 Chartres-Champhol.",
+  "Lieu « Le Bourget - Aéroport (métro de Paris) » : Le Bourget - Aéroport est le nom provisoire d’une future station de la ligne 17 du métro de Paris située sur le territoire du Blanc-Mesnil et de Dugny.",
+  "Lieu « Le Bourget - Aéroport (métro de Paris) », 2019 : Installé depuis l’été 2019, le long de l’avenue du 8 mai 1945, entre Dugny et Le Blanc-Mesnil, le chantier de la gare est l'un des chantiers les plus avancé de la ligne 17.",
+  "Lieu « Le Bourget - Aéroport (métro de Paris) », aujourd'hui : La station doit s'établir au sud de l'esplanade du musée de l'Air et de l'Espace, à l'emplacement d'un parking silo qui sera partiellement démoli.",
+  "Lieu « Église Saint-Denys de Dugny » : L'église Saint-Denis est une église catholique située à Dugny (Seine-Saint-Denis), 15 avenue Louis-Larivière.",
+  "Lieu « Église Saint-Denys de Dugny », 1943 : L'ancienne église a été détruite en 1943 lors de l'Opération Starkey, bombardement allié qui impliquait entre autres de détruire l'aéroport du Bourget.",
+  "Lieu « Église Saint-Denys de Dugny », 1972 : En 1972, la nouvelle église Saint-Denis est achevée grâce au soutien de l'Œuvre des Chantiers du Cardinal.",
+  "Lieu « Hôtel de ville de Dugny » : L'hôtel de ville de Dugny est le principal bâtiment administratif de la ville de Dugny, en Seine-Saint-Denis.",
+  "Lieu « Hôtel de ville de Dugny », 1952 : Le nouvel hôtel de ville et l'école Victor-Hugo sont alors bâtis en 1952.",
+  "Lieu « Cimetière du Hazeret » : Le cimetière du Hazaret est l'ancien cimetière communal de la ville de Dugny en Seine-Saint-Denis.",
+  "Lieu « Cimetière du Hazeret », 1943 : Le cimetière compte de nombreuses tombes de victimes du bombardement aérien du 16 août 1943 qui visait l'aéroport du Bourget, détruit une grande partie de la commune."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 0
+ }
+}
