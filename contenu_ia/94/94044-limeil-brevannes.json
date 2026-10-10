@@ -1,0 +1,162 @@
+{
+ "commune": {
+  "titre": "Limeil-Brévannes",
+  "code_insee": "94044",
+  "departement": "94",
+  "population": 27406,
+  "lat": 48.74638889,
+  "lon": 2.48833333,
+  "url": "https://fr.wikipedia.org/wiki/Limeil-Br%C3%A9vannes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:54:53",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1939,
+  "sortie": 1357
+ },
+ "cout_usd": 0.002084,
+ "accroche": "En 1942, un camp de jeunesse « Maréchal Pétain » est installé à Limeil-Brévannes.",
+ "histoire": {
+  "recit": "Limeil-Brévannes naît de la fusion entre le hameau de Brévannes et celui de Limeil, entre 1790 et 1794. Avant même cette réunion, le terrain garde des marques plus anciennes : lors de fouilles en 1860, une nécropole et une voie gallo-romaine sont retrouvées.\n\nPlus près de nous, l’histoire du lieu prend un tour bien particulier en 1942, quand un camp de jeunesse « Maréchal Pétain » est installé dans la commune, avec une gestion confiée à Robert Hersant et Jean-Marie Balestre.\n\nSur le territoire, plusieurs repères racontent aussi des trajectoires très différentes : la Batterie de Limeil, ancienne batterie militaire, est devenue une friche industrielle puis un centre de formation ; le Château de Brévannes connaît des occupations successives ; la Gare de Limeil ouvre au service ferroviaire avant de fermer au trafic voyageurs.",
+  "chronologie": [
+   {
+    "date": "1790-1794",
+    "texte": "La commune se forme par la fusion du hameau de Brévannes et de Limeil.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "Des fouilles mettent au jour une nécropole et une voie gallo-romaine, témoins de la période antique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1942",
+    "texte": "Un camp de jeunesse « Maréchal Pétain » est installé à Limeil-Brévannes, géré par Robert Hersant et Jean-Marie Balestre.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Batterie de Limeil",
+   "histoire": "La batterie de Limeil est une ancienne batterie militaire, construite à la fin des années 1870 et occupée par l’armée jusqu’à la fin de la première moitié du XXe siècle. Abandonnée, la friche industrielle est acquise par les pompiers de Paris en 2006, où un centre de formation a été construit.",
+   "anecdotes": [
+    {
+     "texte": "En 2006, la friche de la batterie est acquise par les pompiers de Paris, qui y construisent un centre de formation.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La batterie de Limeil fait partie de la ceinture extérieure, dans un ensemble avec le fort de Villeneuve et deux ouvrages périphériques sur le plateau de Brie.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 48.739240973009,
+   "lon": 2.4762528518372,
+   "url": "https://fr.wikipedia.org/wiki/Batterie_de_Limeil"
+  },
+  {
+   "nom": "Château de Brévannes",
+   "histoire": "Le château de Brévannes se trouve sur la commune de Limeil-Brévannes. Il est occupé par les Autrichiens en 1814. Au fil des aménagements, un quartier complémentaire est construit en 1891 pour les malades chroniques, puis un ensemble de bâtiments pour les malades tuberculeux est édifié en 1907 par l’architecte Paul-Louis Renaud. Après la guerre de 1870, le site est occupé par les troupes prussiennes.",
+   "anecdotes": [
+    {
+     "texte": "En 1814, le château de Brévannes est occupé par les Autrichiens.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "En 1907, Paul-Louis Renaud édifie des bâtiments réservés aux malades tuberculeux.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.74845,
+   "lon": 2.488559,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Br%C3%A9vannes"
+  },
+  {
+   "nom": "Gare de Limeil",
+   "histoire": "La gare de Limeil est une ancienne gare ferroviaire située sur le territoire de la commune, sur la ligne de Paris-Bastille à Marles-en-Brie (ligne de Vincennes). Ouverte en 1875 par la Compagnie des chemins de fer de l’Est, elle ferme en 1939 après la fermeture au trafic des voyageurs de la section Boissy-Saint-Léger à Verneuil-l’Étang ; le bâtiment voyageurs est ensuite détruit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.740278,
+   "lon": 2.484722,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Limeil"
+  },
+  {
+   "nom": "Église Saint-Martin de Limeil-Brévannes",
+   "histoire": "L’église Saint-Martin est une église paroissiale située dans la commune de Limeil-Brévannes, sous le patronage de saint Martin. D’après l’abbé Lebeuf, elle figure dans les pouillés du XIIIe siècle au rang de paroisse, et la construction serait à dater du XIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 48.74372,
+   "lon": 2.474319,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Limeil-Br%C3%A9vannes"
+  }
+ ],
+ "sources": [
+  "Limeil-Brévannes est une commune française située dans le sud-est du département du Val-de-Marne en région Île-de-France. Ses habitants sont appelés les Brévannais.",
+  "Une nécropole et une voie gallo-romaine, retrouvés lors de fouilles en 1860, sont les témoins de la période antique. Limeil-Brévannes est le résultat de la fusion du hameau de Brévannes (sur le bas de la ville, au nord-est de l'Hôpital Émile-Roux) et de Limeil (sur le plateau, au sud-ouest du Parc-de-Limeil et de la LGV de Villeneuve-Saint-Georges à Moisenay) entre 1790-1794. En 1942 un camp de jeunesse « Maréchal […]",
+  "1942 : En 1942 un camp de jeunesse « Maréchal Pétain » géré par Robert Hersant et Jean-Marie Balestre est installé a Limeil-Brévannes.",
+  "Lieu « Batterie de Limeil » : La batterie de Limeil, située à cheval sur les communes de Limeil-Brévannes et de Valenton dans le Val-de-Marne, est une ancienne batterie militaire construite à la fin des années en 1870 et occupée par l'armée jusqu'à la fin de la première moitié du",
+  "Lieu « Batterie de Limeil », 1870 : La batterie de Limeil, située à cheval sur les communes de Limeil-Brévannes et de Valenton dans le Val-de-Marne, est une ancienne batterie militaire construite à la fin des années en 1870 et occupée par l'armée jusqu'à la fin de la première moitié du XXe siècle.",
+  "Lieu « Batterie de Limeil », 1874 : Au total, ce sont 18 forts, 5 redoutes et 34 batteries qui ont été construits entre 1874 et 1881.",
+  "Lieu « Batterie de Limeil », 2006 : Abandonnée, la friche industrielle est acquise par les pompiers de Paris en 2006 où un centre de formation a été construit.",
+  "Lieu « Batterie de Limeil », aujourd'hui : La batterie de Limeil fait partie de la ceinture extérieure et d'un ensemble composé d'un fort, le fort de Villeneuve, avec deux ouvrages périphériques sur le plateau de Brie : la batterie de Château Gaillard (à Crosne) aujourd'hui détruite et la batterie de Limeil.",
+  "Lieu « Château de Brévannes » : Le château de Brévannes est situé sur la commune de Limeil-Brévannes, dans le département du Val-de-Marne.",
+  "Lieu « Château de Brévannes », 1814 : Le château est occupé par les Autrichiens en 1814.",
+  "Lieu « Château de Brévannes », 1891 : Un quartier complémentaire est construit en 1891 pour les malades chroniques.",
+  "Lieu « Château de Brévannes », 1907 : En 1907, un ensemble de bâtiments réservés aux malades tuberculeux est édifié par l'architecte Paul-Louis Renaud.",
+  "Lieu « Château de Brévannes », aujourd'hui : Après la guerre de 1870, il est occupé par les troupes prussiennes.",
+  "Lieu « Gare de Limeil » : La gare de Limeil est une ancienne gare ferroviaire française de la ligne de Paris-Bastille à Marles-en-Brie (dite aussi ligne de Vincennes), située sur le territoire de la commune de Limeil-Brévannes, dans le département du Val-de-Marne, en région Î",
+  "Lieu « Gare de Limeil », 1875 : La gare de Limeil est ouverte par la Compagnie des chemins de fer de l'Est, sur la ligne de Paris-Bastille à Marles-en-Brie (dite aussi ligne de Vincennes), lorsqu'elle met en service la section de Boissy-Saint-Léger à Brie-Comte-Robert le 5 août 1875.",
+  "Lieu « Gare de Limeil », 1875 : Mise en service en 1875 par la Compagnie des chemins de fer de l'Est, elle est fermée en 1939 par la Société nationale des chemins de fer français (SNCF) à la suite de la fermeture au trafic des voyageurs de la section de Boissy-Saint-Léger à Verneuil-l'Étang ; son bâtiment voyageurs sera détruit par la suite.",
+  "Lieu « Gare de Limeil », 1939 : Le 17 juillet 1939, le tronçon peu fréquenté entre les gares de Boissy-Saint-Léger et Verneuil-l'Étang est fermé à tout trafic.",
+  "Lieu « Église Saint-Martin de Limeil-Brévannes » : L'église Saint-Martin est une église paroissiale située dans la commune de Limeil-Brévannes, sous le patronage de saint Martin.",
+  "Lieu « Église Saint-Martin de Limeil-Brévannes », XIIIe siècle : L'abbé Lebeuf précise que cet édifice se trouve dans les pouillés du XIIIe siècle au rang de paroisse, et estime sa construction dater du XIIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 3
+ }
+}

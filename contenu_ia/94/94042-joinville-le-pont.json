@@ -1,0 +1,297 @@
+{
+ "commune": {
+  "titre": "Joinville-le-Pont",
+  "code_insee": "94042",
+  "departement": "94",
+  "population": 20525,
+  "lat": 48.82139,
+  "lon": 2.47278,
+  "url": "https://fr.wikipedia.org/wiki/Joinville-le-Pont"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:09:48",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3034,
+  "sortie": 2238
+ },
+ "cout_usd": 0.003404,
+ "accroche": "À Joinville-le-Pont, la Marne traverse la commune, et le passage du pont a une histoire ancienne : au XIIe siècle, un bac permettait déjà de franchir la rivière à l’emplacement actuel. ",
+ "histoire": {
+  "recit": "Joinville-le-Pont naît au bord de la Marne. Au XIIe siècle, on y passe par un bac, avant que le secteur ne prenne forme autour du passage du pont. Plus tard, les auberges des bateliers et des voyageurs font naître un hameau, d’abord dit de Pont des Fossés puis de Pont de Saint-Maur. \n\nLe pont subit les temps de guerre : en 1649, il est détruit par les partisans de la Fronde, puis, au moment de la bataille de 1870, tandis que les combats se déroulent à Champigny et Joinville, les troupes nationales font disparaître le pont de Joinville.\n\nQuand la ville s’étire le long de l’eau, la vie prend un rythme léger : dès le XIXe siècle, les guinguettes installées sur les bords de Marne deviennent une marque locale. Plus près de nous, l’autoroute A4 modifie fortement le front riverain en 1971. \n\nPolangis, lui, garde des traces plus récentes : un parc urbain nommé « Le Spot » ouvre en 2025 sous le tablier de l’autoroute A4, avec des équipements d’entraînement au parkour et à l’escalade, et des fresques.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Un bac assure le passage de la Marne à l’emplacement actuel du pont de Joinville.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1205",
+    "texte": "L’archevêque Odon de Sully dote l’abbaye de Saint-Maur d’un pont sur la Marne, dénommé Pont Olin.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1259",
+    "texte": "Les auberges des bateliers et des voyageurs constituent le hameau dit de Pont des Fossés, puis de Pont de Saint-Maur.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1649",
+    "texte": "Le pont est détruit par les partisans de la Fronde.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "La commune est particulièrement connue pour ses guinguettes installées le long de la Marne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "30 novembre - 2 décembre 1870",
+    "texte": "La bataille a lieu à Champigny et Joinville ; les troupes nationales détruisent le pont de Joinville.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "",
+    "sources": []
+   },
+   {
+    "date": "1971",
+    "texte": "La construction de l’autoroute de l’Est (A4) entraîne la démolition de 130 pavillons et de plusieurs restaurants à terrasses en bord de Marne.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "Les studios de télévision de la SFP de Joinville ferment et sont transférés à Bry-sur-Marne.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2025",
+    "texte": "Sous le tablier de l’autoroute A4, « Le Spot » ouvre en 2025 à Polangis, avec des équipements de parkour et d’escalade et des fresques.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Polangis",
+   "histoire": "Polangis est un quartier entièrement situé sur l’ancien domaine du château de Polangis. Le domaine est vendu en 1623 par les frères minimes de Vincennes à Charles Valdir (ou Valliech). Une enquête publique est ordonnée en 2016. En 2025, un parc urbain nommé « Le Spot » ouvre sous le tablier de l’autoroute A4.",
+   "anecdotes": [
+    {
+     "texte": "Sous l’autoroute A4, « Le Spot » a ouvert en 2025 avec des équipements atypiques pour l’entraînement au parkour et à l’escalade, décoré par de larges fresques.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "« Le Spot » a ouvert en 2025 sous le tablier de l’autoroute A4.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 48.8246,
+   "lon": 2.4752,
+   "url": "https://fr.wikipedia.org/wiki/Polangis"
+  },
+  {
+   "nom": "Château du Parangon",
+   "histoire": "Le château du Parangon est un monument du XVIIe siècle. Appelé Maison des Champs, il est construit en 1613 par la famille Amelot. Les jardins sont dessinés par Le Nôtre. Au XVIIe siècle, il est construit dans la deuxième moitié du siècle. En 1857, il devient un établissement d’enseignement ; aujourd’hui, il appartient au conseil départemental du Val-de-Marne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.813889,
+   "lon": 2.470833,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Parangon"
+  },
+  {
+   "nom": "École municipale des arts (Joinville-le-Pont)",
+   "histoire": "L’École municipale des arts se situe sur l’île Fanac. Le bâtiment est construit en 1860. À partir de 2018, des travaux d’assainissement permettent de relier le bâtiment au réseau d’assainissement. En février 2022, le conseil municipal exprime le souhait de transférer l’école de musique puis de transformer le bâtiment en centre d’exposition artistique.",
+   "anecdotes": [
+    {
+     "texte": "En février 2022, la transformation envisagée en centre d’exposition s’appuie notamment sur l’idée que les locaux se prêtent « mal à la pratique musicale ».",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.821004,
+   "lon": 2.467868,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89cole_municipale_des_arts_%28Joinville-le-Pont%29"
+  },
+  {
+   "nom": "Église Sainte-Anne de Polangis",
+   "histoire": "Une chapelle est construite en 1907 sous le nom de Sainte-Anne de Polangis, puis elle est érigée en église paroissiale le 19 juin 1910 lors de la division de la paroisse Saint-Charles-Borromée. Sous l’impulsion du cardinal Verdier, un projet est lancé pour remplacer l’église Sainte-Anne par une construction plus importante dédiée à Notre-Dame du Cinéma.",
+   "anecdotes": [
+    {
+     "texte": "Le plan change de dédicace : après Sainte-Anne, le projet vise une église dédiée à Notre-Dame du Cinéma sur le même emplacement.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.822046,
+   "lon": 2.477571,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Anne_de_Polangis"
+  },
+  {
+   "nom": "Église Saint-Charles-Borromée de Joinville-le-Pont",
+   "histoire": "L’église Saint-Charles-Borromée est une église catholique de Joinville-le-Pont. En 1790, la commune de La Branche-du-Pont-de-Saint-Maur dispose d’une chapelle Saint-Léonard, détruite en 1804. L’église Saint-Charles-Borromée est construite entre 1856 et 1860 sur des plans de l’architecte Claude Naissant, par l’entrepreneur Lucot, puis érigée en église paroissiale en août 1860.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.8195038,
+   "lon": 2.4655785,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Charles-Borrom%C3%A9e_de_Joinville-le-Pont"
+  },
+  {
+   "nom": "Île Fanac",
+   "histoire": "Île Fanac est une île fluviale de la Marne sur le territoire de Joinville-le-Pont. Elle accueille des activités culturelles et sportives. De nombreux descendants des familles ayant construit leurs pavillons sur l’île au XIXe siècle quittent les lieux entre 2000 et 2020. En 2010, un ascenseur complète l’accès piéton à l’île depuis le pont de Joinville.",
+   "anecdotes": [
+    {
+     "texte": "Bien que le pont de Joinville traverse l’île, il ne la dessert que par un escalier accessible aux piétons, complété par un ascenseur installé en 2010.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un ascenseur complète l’accès à l’île depuis le pont (installé en 2010).",
+   "sources": [
+    "S33"
+   ],
+   "lat": 48.8222,
+   "lon": 2.46806,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Fanac"
+  },
+  {
+   "nom": "Cimetière de Joinville-le-Pont",
+   "histoire": "Le cimetière de Joinville-le-Pont est un cimetière communal. En 1790, La Branche-du-Pont-de-Saint-Maur n’a ni église ni cimetière et partage ces équipements avec Saint-Maur-des-Fossés. Le cimetière est fondé en 1863. L’accès se fait actuellement par l’avenue des Familles, voie du quartier de Palissy.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’accès se fait par l’avenue des Familles (quartier de Palissy).",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 48.8182,
+   "lon": 2.47996,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_Joinville-le-Pont"
+  },
+  {
+   "nom": "Studios de Joinville",
+   "histoire": "Les studios de Joinville étaient des studios de tournage de cinéma et de télévision au 20 avenue du Général-Gallieni, en activité de 1910 à 1987. Les premiers studios sont construits en 1908 ou 1910 pour Charles Pathé et Léon Gaumont, par les frères Levinsky, loueurs de meubles. En 1991, les bâtiments sont démolis et un ensemble immobilier résidentiel est construit sur le site.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.819369,
+   "lon": 2.471016,
+   "url": "https://fr.wikipedia.org/wiki/Studios_de_Joinville"
+  }
+ ],
+ "sources": [
+  "Joinville-le-Pont est une commune française située dans le département du Val-de-Marne en région Île-de-France. Elle jouxte par l'est la ville de Paris et est traversée par la Marne.",
+  "Joinville était à l'origine rattachée à la ville de Saint-Maur. L'archevêque Odon de Sully dote l'abbaye de Saint-Maur, en 1205, d'un pont sur la Marne dénommé Pont Olin. Sur les rives s'installent des auberges pour les bateliers et les voyageurs. Elles constituent, vers 1259, le hameau dit de Pont des Fossés, puis de Pont de Saint-Maur. Il deviendra ensuite la Branche du Pont de-Saint-Maur. Une chapelle dédiée à […]",
+  "1649 : En 1649, le pont est détruit par les partisans de la Fronde.",
+  "XIXe siècle : La ville de Joinville est particulièrement connue depuis le XIXe siècle pour ses guinguettes, installées le long de la Marne.",
+  "1870 : La bataille qui dure du 30 novembre au 2 décembre 1870 a lieu à Champigny et Joinville entre les troupes françaises et allemandes, tandis que les troupes nationales ont détruit le pont de Joinville.",
+  "1971 : En 1971, la construction de l'autoroute de l'Est (autoroute A4) entraîne la démolition de 130 pavillons et plusieurs restaurants avec terrasses en bord de Marne, notamment: quai de la Marne.",
+  "1987 : En 1987, les studios de télévision (ancien studios de cinéma) de la SFP de Joinville sont fermés et transférés à Bry-sur-Marne.",
+  "Lieu « Polangis » : Polangis est un quartier constitué d’une partie du territoire des communes françaises de Joinville-le-Pont et de Champigny-sur-Marne, dans le Val-de-Marne, en Île-de-France, entièrement situé sur l'ancien domaine du château de Polangis, composé de so",
+  "Lieu « Polangis », 1623 : En 1623, il est vendu par les frères minimes de Vincennes à Charles Valdir (ou Valliech), secrétaire du duc d'Épernon.",
+  "Lieu « Polangis », 2016 : En 2016, le tribunal administratif a ordonné l'ouverture de l'enquête publique.",
+  "Lieu « Polangis », 2025 : Un parc urbain nommé \"Le Spot\" a ouvert en 2025 sous le tablier de l'autoroute A4, comportant notamment des équipements atypiques d'entraînement au parkour et à l'escalade, et décoré par de larges fresques.",
+  "Lieu « Polangis », aujourd'hui : Au XIIe siècle, un bac permet le passage de la Marne, à l'emplacement actuel du pont de Joinville.",
+  "Lieu « Château du Parangon » : Le château du Parangon est un monument français du XVIIe siècle, situé sur la commune de Joinville-le-Pont, en Île-de-France.",
+  "Lieu « Château du Parangon », 1613 : Appelé Maison des Champs, il est construit par la famille Amelot et les jardins, dont il ne reste quasiment rien, ont été dessinés par Le Nôtre (v.1613-1700).",
+  "Lieu « Château du Parangon », XVIIe siècle : Le château est construit dans la deuxième moitié du XVIIe siècle, sur le territoire de la paroisse de Saint Maur hors La Varenne (actuellement Saint-Maur-des-Fossés).",
+  "Lieu « Château du Parangon », 1857 : En 1857, le château est aménagé en établissement d'enseignement par le docteur Louis-Ferdinand Rousseau (1810-1889), qui y transfère l’école d’enseignement libre qu’il avait fondée en 1832 et qui était située rue Molette à Joinville-le-Pont.",
+  "Lieu « Château du Parangon », aujourd'hui : Il est actuellement la propriété du conseil départemental du Val-de-Marne en Île-de-France.",
+  "Lieu « École municipale des arts (Joinville-le-Pont) » : L'École municipale des arts (EMA - anciennement nommée École de musique Hector Berlioz) est un établissement territorial d'enseignement artistique situé sur l'île Fanac à Joinville-le-Pont dans le département du Val-de-Marne en région Île-de-France.",
+  "Lieu « École municipale des arts (Joinville-le-Pont) », 1860 : Le bâtiment de l'école municipale des arts est construit en 1860.",
+  "Lieu « École municipale des arts (Joinville-le-Pont) », 2018 : À partir de 2018, des travaux d'assainissement de l'île Fanac permettent au bâtiment d'être relié au réseau d'assainissement des eaux usées de la ville.",
+  "Lieu « École municipale des arts (Joinville-le-Pont) », 2022 : En février 2022, le conseil municipal exprime le souhait de transférer l'école de musique puis transformer le bâtiment en centre d'exposition artistique : « aussi bucoliques soient-ils, [les actuels locaux] se prêtent mal à la pratique musicale, locaux exigus, humides, mal isolés, difficilement accessibles ».",
+  "Lieu « Église Sainte-Anne de Polangis » : L'église Sainte-Anne de Polangis est une église catholique du quartier de Polangis à Joinville-le-Pont, en France.",
+  "Lieu « Église Sainte-Anne de Polangis », 1907 : Une chapelle est construite en 1907 sous le nom de Sainte-Anne de Polangis.",
+  "Lieu « Église Sainte-Anne de Polangis », 1910 : La chapelle est érigée en église paroissiale le 19 juin 1910, lors de la division de la paroisse Saint-Charles-Borromée.",
+  "Lieu « Église Sainte-Anne de Polangis », aujourd'hui : Sous l’impulsion du cardinal Verdier, un projet est alors lancé pour remplacer l'église Sainte-Anne par une construction plus importante sur le même emplacement, dédiée à Notre-Dame du Cinéma.",
+  "Lieu « Église Saint-Charles-Borromée de Joinville-le-Pont » : L'église Saint-Charles-Borromée est une église catholique de Joinville-le-Pont, en France.",
+  "Lieu « Église Saint-Charles-Borromée de Joinville-le-Pont », 1790 : La commune de La Branche-du-Pont-de-Saint-Maur dispose, au moment de sa formation en 1790, d’un lieu de culte, la chapelle Saint-Léonard, qui est détruite en 1804.",
+  "Lieu « Église Saint-Charles-Borromée de Joinville-le-Pont », 1856 : L'église Saint-Charles-Borromée est construite entre 1856 et 1860 sur des plans de l'architecte Claude Naissant par l’entrepreneur Lucot.",
+  "Lieu « Église Saint-Charles-Borromée de Joinville-le-Pont », 1860 : Elle est érigée en église paroissiale en août 1860.",
+  "Lieu « Île Fanac » : L’île Fanac est une île fluviale française de la Marne située sur le territoire communal de Joinville-le-Pont (Val-de-Marne).",
+  "Lieu « Île Fanac », 1860 : L’île accueille des activités culturelles (École municipale des arts, bâtiment construit en 1860) et sportives (le club de canoë-kayak Joinville Eau Vive, le club Aviron Marne et Joinville).",
+  "Lieu « Île Fanac », 2000 : De 2000 à 2020, de nombreux descendants des familles ayant construit leurs pavillons sur l'île au XIXe siècle ont quitté les lieux.",
+  "Lieu « Île Fanac », 2010 : Bien que le pont de Joinville traverse l'île, il ne la dessert que par un escalier accessible aux piétons, complété par un ascenseur installé en 2010.",
+  "Lieu « Cimetière de Joinville-le-Pont » : Le cimetière de Joinville-le-Pont est un cimetière communal se trouvant à Joinville-le-Pont dans le Val-de-Marne.",
+  "Lieu « Cimetière de Joinville-le-Pont », 1790 : Fondée en 1790, la commune de La Branche-du-Pont-de-Saint-Maur n’avait ni église, ni cimetière et partageait ces deux équipements avec la commune de Saint-Maur-des-Fossés.",
+  "Lieu « Cimetière de Joinville-le-Pont », 1860 : L’église fut érigée en 1860 et le cimetière fondé en 1863.",
+  "Lieu « Cimetière de Joinville-le-Pont », aujourd'hui : L’accès se fait actuellement par l’avenue des Familles, voie du quartier de Palissy.",
+  "Lieu « Studios de Joinville » : Les studios de Joinville étaient des studios de tournage de cinéma et de télévision situés au 20 avenue du Général-Gallieni à Joinville-le-Pont (Val-de-Marne), en activité de 1910 à 1987.",
+  "Lieu « Studios de Joinville », 1908 : Les premiers studios sont construits en 1908 ou 1910 pour Charles Pathé et Léon Gaumont par les frères Levinsky, loueurs de meubles.",
+  "Lieu « Studios de Joinville », 1991 : En 1991, les bâtiments des studios sont démolis, et un ensemble immobilier résidentiel est construit sur le site."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 1,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}

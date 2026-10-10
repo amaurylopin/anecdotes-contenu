@@ -1,0 +1,242 @@
+{
+ "commune": {
+  "titre": "Gentilly (Val-de-Marne)",
+  "code_insee": "94037",
+  "departement": "94",
+  "population": 19963,
+  "lat": 48.81333333,
+  "lon": 2.34444444,
+  "url": "https://fr.wikipedia.org/wiki/Gentilly_%28Val-de-Marne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:11:37",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2713,
+  "sortie": 2151
+ },
+ "cout_usd": 0.003231,
+ "accroche": "En 1860, la Bièvre est si polluée qu’elle est couverte à Paris pour des raisons d’hygiène, conséquence de l’urbanisation rapide de Gentilly.",
+ "histoire": {
+  "recit": "Gentilly, commune du Val-de-Marne intégrée à la métropole du Grand Paris, s’est construite sur une vallée très occupée dès le néolithique, mais dont les traces préhistoriques sont discrètes sur le site même. Au XIXe siècle, l’industrialisation et l’urbanisation gagnent vite du terrain : l’habitat devient médiocre et la Bièvre, extrêmement polluée, conduit à sa couverture à Paris à partir de 1860.\n\nPlus tard, au milieu du XXe siècle, la commune diversifie ses activités : métallurgie, alimentation, bâtiment, imprimerie et fabrication de médicaments. Les grands ensembles marquent alors le paysage, comme Le Chaperon-Vert, construit entre 1955 et 1965.\n\nDans le même temps, le patrimoine religieux et l’art façonnent l’identité locale : l’église du Sacré-Cœur, aux travaux de 1933 à 1936, et Saint-Saturnin, bâtie sur des vestiges plus anciens. Gentilly continue aussi de changer, avec des projets de rénovation urbaine et, du côté de la santé, des fermetures urgentes en pédopsychiatrie annoncées en février 2026.",
+  "chronologie": [
+   {
+    "date": "1860",
+    "texte": "L’urbanisation rapide du XIXe siècle dégrade la qualité de l’habitat et la Bièvre devient si polluée qu’elle est couverte à Paris pour des raisons d’hygiène.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "milieu du XXe siècle",
+    "texte": "Développement d’activités de métallurgie, alimentation, bâtiment, imprimerie et fabrication de médicaments.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1955",
+    "texte": "Le Chaperon-Vert est lancé : 1 582 logements, à cheval sur Gentilly et Arcueil, construits entre 1955 et 1965.",
+    "sources": [
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "Le quartier du Chaperon-Vert engage un premier projet de rénovation urbaine, terminé en 2014 avec la démolition du bâtiment HU.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "février 2026",
+    "texte": "En février 2026, les hospitalisations de pédopsychiatrie à temps complet sont fermées en urgence par l’agence régionale de santé d’Île-de-France.",
+    "sources": [
+     "S25"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Le Chaperon-Vert",
+   "histoire": "Le Chaperon-Vert est un ensemble de 1 582 logements pour près de 3 400 habitants, à cheval sur Gentilly et Arcueil, construit entre 1955 et 1965. En 2001, le quartier lance un premier projet de rénovation urbaine, terminé en 2014 avec la démolition du bâtiment HU.",
+   "anecdotes": [
+    {
+     "texte": "À l’emplacement de la cité, on trouvait auparavant deux bidonvilles—la villa Mélanie à Arcueil et l’îlot Calmus à Gentilly—implantés sur le lieu-dit des Hautes-Bornes, qui suggère la présence de menhirs préhistoriques.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S8",
+    "S9",
+    "S7"
+   ],
+   "lat": 48.81351,
+   "lon": 2.33396,
+   "url": "https://fr.wikipedia.org/wiki/Le_Chaperon-Vert"
+  },
+  {
+   "nom": "Église du Sacré-Cœur de Gentilly",
+   "histoire": "L’église du Sacré-Cœur est située à Gentilly, avenue Paul-Vaillant-Couturier, et sert aussi d’église pour la Cité internationale universitaire de Paris. Construite sur un terrain privé grâce à la volonté de l’abbé Robert Picard de La Vacquerie, les travaux durent de 1933 à 1936 ; l’édifice est consacré par le cardinal Verdier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On peut aujourd’hui admirer un style néo-roman lié à une construction de type néo-byzantin.",
+   "sources": [
+    "S10",
+    "S12",
+    "S13",
+    "S14",
+    "S11"
+   ],
+   "lat": 48.816161,
+   "lon": 2.33629,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_du_Sacr%C3%A9-C%C5%93ur_de_Gentilly"
+  },
+  {
+   "nom": "Maison de la photographie Robert-Doisneau",
+   "histoire": "La Maison de la photographie Robert-Doisneau est un centre d’exposition de photographie, inauguré en avril 1996 au no 1 rue de la Division-du-Général-Leclerc à Gentilly. Depuis son ouverture en 1996, elle accueille des expositions temporaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "C’est un lieu d’expositions temporaires depuis 1996.",
+   "sources": [
+    "S15",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.8140535,
+   "lon": 2.3478339000001,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_la_photographie_Robert-Doisneau"
+  },
+  {
+   "nom": "Église Saint-Saturnin de Gentilly",
+   "histoire": "L’église Saint-Saturnin est une église catholique située à Gentilly. Elle est bâtie sur les vestiges d’une abbaye du VIIe siècle construite par saint Éloi sur un domaine donné par Dagobert, puis l’église actuelle est construite au XIIIe siècle et remaniée après l’effondrement de la nef au XVIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice est classé au titre des monuments historiques en 1989.",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 48.8155,
+   "lon": 2.35156,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Saturnin_de_Gentilly"
+  },
+  {
+   "nom": "Fondation Vallée",
+   "histoire": "La Fondation Vallée est une institution de soins en pédopsychiatrie située à Gentilly. Elle est fondée en 1847 par Hippolyte Vallée pour soigner des enfants déficients mentaux, puis Roger Misès la réforme en profondeur à partir des années 1950. En février 2026, les hospitalisations à temps complet sont fermées en urgence en raison de faits d’isolement d’enfants, de contention et de durées d’hospitalisation jugées injustifiées au regard de l’état de santé des patients.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.810338,
+   "lon": 2.347923,
+   "url": "https://fr.wikipedia.org/wiki/Fondation_Vall%C3%A9e"
+  },
+  {
+   "nom": "Hôtel de ville de Gentilly",
+   "histoire": "L’hôtel de ville de Gentilly est la mairie de la commune. Il est édifié sur des terrains achetés en 1838, à l’emplacement où se trouvait le château de Jean de Beauvais, seigneur de la Tour-Carrée, fief du Grand-Gentilly.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.8156,
+   "lon": 2.3481,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Gentilly"
+  },
+  {
+   "nom": "Gare de Gentilly",
+   "histoire": "La gare de Gentilly est une gare ferroviaire française de la ligne de Sceaux, sur le territoire de la commune de Gentilly. Le bâtiment voyageurs actuel est construit en 1933 par l’architecte de la compagnie Louis Brachet.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 48.816104,
+   "lon": 2.340581,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gentilly"
+  },
+  {
+   "nom": "Rue Charles-Frérot",
+   "histoire": "La rue Charles-Frérot est une voie de circulation à Gentilly, dans le Val-de-Marne.",
+   "anecdotes": [
+    {
+     "texte": "Victor Hugo séjourne en 1822 rue Frileuse, dans une tour : c’est un vestige d’un ancien château appartenant au père de sa fiancée Adèle Foucher.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 48.815580264,
+   "lon": 2.350592944,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Charles-Fr%C3%A9rot"
+  }
+ ],
+ "sources": [
+  "Gentilly est une commune française située dans le département du Val-de-Marne en région Île-de-France. Elle fait partie de la métropole du Grand Paris.",
+  "Si le site de la ville de Gentilly n'a donné lieu qu'à peu de découvertes archéologiques concernant la période préhistorique (quelques objets trouvés au XIXe siècle), il présente néanmoins un faisceau concordant d'indices, permettant de préjuger d'une forte occupation dès le néolithique. La vallée de la Bièvre dans son ensemble, est en effet très prolifique en sites de cette ère et l'occupation du site par les […]",
+  "1860 : À la suite de l'industrialisation et de l'urbanisation très rapide de la commune au XIXe siècle, l'habitat construit est de piètre qualité et la Bièvre extrêmement polluée (au point d'entraîner sa couverture à Paris à partir de 1860 pour des raisons d'hygiène).",
+  "XXe siècle : Le milieu du XXe siècle voit aussi se développer des activités de métallurgie, alimentation, bâtiment, imprimerie et fabrication de médicaments.",
+  "Lieu « Le Chaperon-Vert » : Le Chaperon-Vert est un ensemble de 1 582 logements pour près de 3 400 habitants, situé à cheval sur les communes de Gentilly et d'Arcueil, construit entre 1955 et 1965.",
+  "Lieu « Le Chaperon-Vert », 1955 : Le Chaperon-Vert est un ensemble de 1 582 logements pour près de 3 400 habitants, situé à cheval sur les communes de Gentilly et d'Arcueil, construit entre 1955 et 1965.",
+  "Lieu « Le Chaperon-Vert », 1955 : La cité est bâtie entre 1955 et 1965 par les architectes des mairies des deux communes (Gentilly et Arcueil), respectivement Lucien Métrich et Charles Malaurant ainsi que l'architecte du ministère de la rénovation urbaine Jacques Poirrier.",
+  "Lieu « Le Chaperon-Vert », 2001 : En 2001, le quartier a fait l'objet d'un premier projet de rénovation urbaine (ORU) de l'Agence nationale pour la rénovation urbaine (ANRU), terminé en 2014 avec la démolition du bâtiment HU.",
+  "Lieu « Le Chaperon-Vert », aujourd'hui : À l'emplacement de la cité, il y avait autrefois deux bidonvilles, la villa Mélanie à Arcueil et l’îlot Calmus à Gentilly, implantés sur le lieu-dit des Hautes-Bornes, qui suggère la présence de menhirs préhistoriques.",
+  "Lieu « Église du Sacré-Cœur de Gentilly » : L'église du Sacré-Cœur, située à Gentilly, avenue Paul-Vaillant-Couturier, est aussi celle de la Cité internationale universitaire de Paris.",
+  "Lieu « Église du Sacré-Cœur de Gentilly », 1870 : Les 17 verrières abstraites sont dues à Jacques Grüber (1870-1936), maître verrier des années 1930, exécutées en 1935.",
+  "Lieu « Église du Sacré-Cœur de Gentilly », 1893 : Cette église catholique fut donc bâtie non loin de la cité, sur un terrain privé, grâce à la volonté de l'abbé Robert Picard de La Vacquerie (1893-1969), futur évêque d'Orléans (1951-1963).",
+  "Lieu « Église du Sacré-Cœur de Gentilly », 1933 : Les travaux durèrent de 1933 à 1936, date de la consécration de l'édifice par l'archevêque de Paris, le cardinal Verdier, et sa dédicace au Sacré-Cœur de Jésus.",
+  "Lieu « Église du Sacré-Cœur de Gentilly », aujourd'hui : C'est donc un style néo-roman lié à une construction de type néo-byzantin que l'on peut aujourd'hui admirer.",
+  "Lieu « Maison de la photographie Robert-Doisneau » : La Maison de la photographie Robert-Doisneau est un centre d'exposition de photographie, inaugurée en avril 1996, situé au no 1 rue de la Division-du-Général-Leclerc à Gentilly (Val-de-Marne).",
+  "Lieu « Maison de la photographie Robert-Doisneau », XXe siècle : Ce n’est qu’au cours du XXe siècle que l’édifice devient un hôtel de location de chambres meublées, l'hôtel du Paroy, prenant ainsi le nom de la rue éponyme, devenue plus tard rue de la Division-du-Général-Leclerc.",
+  "Lieu « Maison de la photographie Robert-Doisneau », 1996 : La Maison de la photographie Robert-Doisneau est un centre d'exposition de photographie, inaugurée en avril 1996, situé au no 1 rue de la Division-du-Général-Leclerc à Gentilly (Val-de-Marne).",
+  "Lieu « Maison de la photographie Robert-Doisneau », 1996 : Depuis son ouverture en 1996, la Maison de la photographie Robert-Doisneau est un lieu d’expositions temporaires.",
+  "Lieu « Église Saint-Saturnin de Gentilly » : L'église Saint-Saturnin est une église catholique située à Gentilly, en France.",
+  "Lieu « Église Saint-Saturnin de Gentilly », VIIe siècle : L'église est bâtie sur les vestiges d'une abbaye du VIIe siècle construite par saint Éloi sur un domaine que lui avait donné Dagobert.",
+  "Lieu « Église Saint-Saturnin de Gentilly », XIIIe siècle : Construite au XIIIe siècle, l'église actuelle a été remaniée au XVIe siècle après l'effondrement de la nef.",
+  "Lieu « Église Saint-Saturnin de Gentilly », 1989 : L'édifice est classé au titre des monuments historiques en 1989.",
+  "Lieu « Fondation Vallée » : La Fondation Vallée est une institution de soins en pédopsychiatrie située à Gentilly dans le Val-de-Marne (France), que Roger Misès a profondément réformée à partir des années 1950.",
+  "Lieu « Fondation Vallée », 1847 : L'établissement est fondé en 1847 par Hippolyte Vallée, instituteur à Bicêtre, pour soigner les enfants déficients mentaux ; il en fait don à sa mort au département de la Seine.",
+  "Lieu « Fondation Vallée », 2026 : En février 2026, les hospitalisations de pédopsychiatrie à temps complet sont fermées en urgence par l'agence régionale de santé d'Île-de-France, en raison de faits d'isolement d'enfants, de « contention » et de « durées d’hospitalisation injustifiées au regard de l’état de santé des patients, de leurs besoins et du consensus professionnel ».",
+  "Lieu « Hôtel de ville de Gentilly » : L'hôtel de ville de Gentilly est la mairie de la commune de Gentilly dans le Val-de-Marne, en France.",
+  "Lieu « Hôtel de ville de Gentilly », 1838 : L'hôtel de ville est donc édifié sur ces terrains achetés en 1838.",
+  "Lieu « Hôtel de ville de Gentilly », aujourd'hui : À cet emplacement se trouvait le château de Jean de Beauvais, seigneur de la Tour-Carrée, fief du Grand-Gentilly.",
+  "Lieu « Gare de Gentilly » : La gare de Gentilly est une gare ferroviaire française de la ligne de Sceaux, située sur le territoire de la commune de Gentilly, dans le département du Val-de-Marne, en région Île-de-France.",
+  "Lieu « Gare de Gentilly », 1933 : Le bâtiment voyageurs actuel est construit en 1933 par l'architecte de la compagnie, Louis Brachet.",
+  "Lieu « Rue Charles-Frérot » : La rue Charles-Frérot est une voie de circulation se trouvant à Gentilly dans le Val-de-Marne.",
+  "Lieu « Rue Charles-Frérot », aujourd'hui : Victor Hugo séjourna en 1822 rue Frileuse dans une tour, vestige d'un ancien château qui appartenait au père de sa fiancée Adèle Foucher."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

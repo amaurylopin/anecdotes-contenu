@@ -1,0 +1,283 @@
+{
+ "commune": {
+  "titre": "Le Kremlin-Bicêtre",
+  "code_insee": "94043",
+  "departement": "94",
+  "population": 24110,
+  "lat": 48.81,
+  "lon": 2.35805556,
+  "url": "https://fr.wikipedia.org/wiki/Le_Kremlin-Bic%C3%AAtre"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:00:56",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3112,
+  "sortie": 2093
+ },
+ "cout_usd": 0.003239,
+ "accroche": "En novembre 1410, un traité de paix est signé à Bicêtre, sous le nom de « paix de Bicêtre ».",
+ "histoire": {
+  "recit": "Le Kremlin-Bicêtre se rattache d’abord à la paroisse de Gentilly, et, jusqu’au XVIIIe siècle, son histoire se confond avec celle du domaine de Bicêtre : château puis hôpital, et sans doute le seul grand bâtiment du territoire à cette époque. Le château connaît ensuite des passages de mains : confisqué en 1294 puis vendu et revendu, il devient le décor de rivalités qui tournent au drame en 1411, après un traité de paix signé l’année précédente.\n\nAu XIXe siècle, la commune change d’échelle avec les fortifications : l’enceinte dite « enceinte de Thiers » et le fort de Bicêtre, construits dans les années 1841 à 1845, dans un contexte de tensions. Le fort évolue encore : une infirmerie est ajoutée dans la cour fermée, puis l’ouvrage est livré aux Prussiens en 1871.\n\nPlus près de nous, Bicêtre s’ancre aussi dans la vie urbaine et hospitalière : le centre commercial Okabé ouvre en 2010 et la médiathèque l’Écho suit deux ans plus tard. Sur le site hospitalier, l’Hôpital de Bicêtre s’inscrit dans l’Assistance publique - Hôpitaux de Paris.",
+  "chronologie": [
+   {
+    "date": "1294",
+    "texte": "Le château est confisqué en 1294 par Philippe le Bel pendant les guerres avec le roi d’Angleterre Édouard Ier, puis rendu à son propriétaire.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1304",
+    "texte": "Le château est vendu en 1304 au comte de Savoie, Amédée VI.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1346",
+    "texte": "Amédée VI revend le château en 1346 à Philippe d’Orléans, fils du roi Philippe VI.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "novembre 1410",
+    "texte": "Un traité de paix est signé en novembre 1410 sous le nom de « paix de Bicêtre ».",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1411",
+    "texte": "Après le traité, une émeute populaire s’accompagne d’une incendie du château de Bicêtre par une bande armée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1841-1845",
+    "texte": "Le fort de Bicêtre est construit entre 1841 et 1845, au sein de l’enceinte fortifiée dite « enceinte de Thiers ».",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1842-1846",
+    "texte": "Le fort de Bicêtre est un ouvrage militaire défensif construit entre 1842 et 1846, dans la commune du Kremlin-Bicêtre.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1842",
+    "texte": "Construction du fort de Bicêtre annoncée pour la période 1842 à 1846, sous la monarchie de Juillet.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1859-1860",
+    "texte": "En 1859-60, une infirmerie est construite dans la cour fermée qui prolonge le bâtiment vers le Sud.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "En 1871, le fort est livré aux Prussiens ; après leur départ, il est brièvement occupé par les Fédérés.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "Le centre commercial Okabé arrive en 2010, tandis que la médiathèque l’Écho ouvre deux ans plus tard.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "Okabé ouvre en 2010.",
+    "sources": [
+     "S33",
+     "S30"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée de l'Assistance publique - Hôpitaux de Paris",
+   "histoire": "Installé par l’institution de l’Assistance publique - Hôpitaux de Paris, le musée rappelle l’histoire des hospices. Vers 1811, un dispositif d’abandon est développé : un tour fonctionnant comme un guichet tournant, pour déposer un bébé dans l’anonymat et en sécurité.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S12"
+   ],
+   "lat": 48.809824,
+   "lon": 2.353524,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Assistance_publique_-_H%C3%B4pitaux_de_Paris"
+  },
+  {
+   "nom": "Fort de Bicêtre",
+   "histoire": "Construit entre 1842 et 1846 sur la commune du Kremlin-Bicêtre, le fort est porté par les tensions du moment avec l’Angleterre. Il reçoit plus tard une infirmerie prolongée vers le Sud, puis l’ouvrage est livré aux Prussiens en 1871 avant une courte occupation par les Fédérés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il ne reste du pont-levis que le système de poulie et de contrepoids, et le fossé a été rebouché.",
+   "sources": [
+    "S13",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.805278,
+   "lon": 2.354444,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Bic%C3%AAtre"
+  },
+  {
+   "nom": "Bicêtre",
+   "histoire": "Bicêtre est un ancien domaine français sur l’actuelle commune. En 1286, Jean de Pontoise, évêque de Winchester et ambassadeur d’Angleterre en France, achète une métairie appelée la Grange-aux-Queux et y fait bâtir un château portant le nom de son évêché. Les ruines sont ensuite rasées en 1632 par le cardinal de Richelieu, puis la propriété est rebâtie pour y placer des soldats invalides. Le lieu reste aussi associé à des épisodes liés à « Bicêtre des femmes », où Cadoudal est emprisonné avant d’être exécuté en place de l’Hôtel-de-Ville en 1804.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.809517,
+   "lon": 2.355114,
+   "url": "https://fr.wikipedia.org/wiki/Bic%C3%AAtre"
+  },
+  {
+   "nom": "Hôpital de Bicêtre",
+   "histoire": "L’Hôpital de Bicêtre est un hôpital universitaire de l’Assistance publique - Hôpitaux de Paris, situé au lieu-dit Bicêtre, au 78 rue du Général-Leclerc, sur le site de l’ancien hospice de Bicêtre fondé au XVIIe siècle. Les origines remontent au XVIIe siècle, quand Louis XIII fait bâtir un établissement pour accueillir des soldats et des officiers blessés. En 1952, l’hôpital pour enfants ouvre, et en 1957 le premier service de cardiologie infantile en France est mis en place.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.8100713,
+   "lon": 2.3539817,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_de_Bic%C3%AAtre"
+  },
+  {
+   "nom": "Le Kremlin-Bicêtre (métro de Paris)",
+   "histoire": "Le Kremlin-Bicêtre est une station de la ligne 7 du métro de Paris. Elle ouvre le 10 décembre 1982, lors de la première phase d’une branche de la ligne 7 à partir de Maison Blanche vers Villejuif. Plus tard, avec l’ouverture de la seconde phase jusqu’à Villejuif - Louis Aragon, la station devient une simple station de passage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.810388,
+   "lon": 2.361849,
+   "url": "https://fr.wikipedia.org/wiki/Le_Kremlin-Bic%C3%AAtre_%28m%C3%A9tro_de_Paris%29"
+  },
+  {
+   "nom": "Centre commercial Okabé",
+   "histoire": "Okabé est un centre commercial régional d’Île-de-France sur la commune du Kremlin-Bicêtre. Construit sur une friche industrielle laissée libre depuis le départ de la charcuterie Géo en 1995, il ouvre en 2010 et reçoit le label HQE.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S30"
+   ],
+   "lat": 48.81158,
+   "lon": 2.36279,
+   "url": "https://fr.wikipedia.org/wiki/Centre_commercial_Okab%C3%A9"
+  },
+  {
+   "nom": "Église du Saint-Curé-d'Ars du Kremlin-Bicêtre",
+   "histoire": "L’église du Saint-Curé-d’Ars (dédiée à Jean-Marie Vianney) est une église catholique du Kremlin-Bicêtre. Une première chapelle, avec une nef de quatre travées, est édifiée de 1910 à 1933 pour desservir le quartier sud de Bicêtre dans le cadre de l’Œuvre des Chantiers du Cardinal. Le bâtiment actuel date de 1980 : en béton, avec un clocher latéral portant deux cloches et une croix en fer.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 48.804688,
+   "lon": 2.346699,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_du_Saint-Cur%C3%A9-d%27Ars_du_Kremlin-Bic%C3%AAtre"
+  },
+  {
+   "nom": "Hôpital Bicêtre (métro de Paris)",
+   "histoire": "Hôpital Bicêtre est une station de la ligne 14 du métro de Paris, implantée sur la commune du Kremlin-Bicêtre, près de la limite de Gentilly. Sur le prolongement sud de la ligne 14, inauguré en juin 2024, elle longe la rue Gabriel-Péri et l’autoroute A6b.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 48.8098167,
+   "lon": 2.34978333,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Bic%C3%AAtre_%28m%C3%A9tro_de_Paris%29"
+  }
+ ],
+ "sources": [
+  "Le Kremlin-Bicêtre est une commune française de la métropole du Grand Paris, située dans le département du Val-de-Marne en région Île-de-France.",
+  "Au Moyen Âge, le territoire de l'actuelle commune relevait de la paroisse de Gentilly. Jusqu'au XVIIIe siècle, l'histoire du Kremlin-Bicêtre se confond avec celle du domaine qui va devenir le château puis l'hôpital de Bicêtre. Il s'agissait d'ailleurs probablement durant cette période du seul bâtiment sur ce territoire. Le premier propriétaire mentionné en cet endroit est Pierre le Queux qui possédait un domaine, La […]",
+  "1294 : Le château a ensuite plusieurs fois changé de mains : confisqué en 1294 par Philippe le Bel dans les guerres avec le roi d'Angleterre Édouard Ier, rendu ensuite à son propriétaire, il est vendu en 1304 au comte de Savoie, Amédée VI qui le revend en 1346 à Philippe d'Orléans, fils du roi Philippe VI.",
+  "1410 : Un traité de paix est finalement signé en novembre 1410 sous le nom de paix de Bicêtre.",
+  "1411 : Malgré ce traité, les rivalités subsistent et à la suite d'une émeute populaire, une bande armée vient incendier le château de Bicêtre en 1411.",
+  "1841 : Cette enceinte fortifiée, dite « enceinte de Thiers », est entourée de forts dont celui de Bicêtre, construit entre 1841 et 1845.",
+  "2010 : Sous ses différents mandats, la ville a vu l'arrivée du centre commercial Okabé en 2010 et l'ouverture de la médiathèque l'Écho, deux ans plus tard.",
+  "Lieu « Musée de l'Assistance publique - Hôpitaux de Paris » : Le musée de l'Assistance publique - Hôpitaux de Paris est le musée de l'institution de l'Assistance publique - Hôpitaux de Paris, CHU de Paris.",
+  "Lieu « Musée de l'Assistance publique - Hôpitaux de Paris », 1811 : Vers 1811, les autorités municipales développent le tour d'abandon : ce dispositif, installé dans la façade des hospices et fonctionnant sur le principe du guichet tournant, permet aux parents de déposer leur bébé dans l’anonymat et en toute sécurité.",
+  "Lieu « Musée de l'Assistance publique - Hôpitaux de Paris », XIXe siècle : Au XIXe siècle, une valeur patrimoniale est attribuée à des objets anciens, dotés d'une qualité artistique ou esthétique : peintures, sculptures, objets d'art décoratif, édifices dont l'architecture était jugée remarquable…",
+  "Lieu « Musée de l'Assistance publique - Hôpitaux de Paris », 1934 : Le musée de l’Assistance publique-Hôpitaux de Paris a été officiellement ouvert au public en 1934.",
+  "Lieu « Musée de l'Assistance publique - Hôpitaux de Paris », aujourd'hui : Ce musée est actuellement fermé au public.",
+  "Lieu « Fort de Bicêtre » : Le fort de Bicêtre est un ouvrage militaire défensif construit entre 1842 et 1846 sous la monarchie de Juillet et le règne du roi des Français Louis-Philippe Ier, à un moment de tension avec l’Angleterre, sur la commune du Kremlin-Bicêtre.",
+  "Lieu « Fort de Bicêtre », 1842 : Le fort de Bicêtre est un ouvrage militaire défensif construit entre 1842 et 1846 sous la monarchie de Juillet et le règne du roi des Français Louis-Philippe Ier, à un moment de tension avec l’Angleterre, sur la commune du Kremlin-Bicêtre.",
+  "Lieu « Fort de Bicêtre », 1859 : En 1859-60, à la suite des incessantes réclamations d'officiers mariés, une infirmerie est construite dans la cour fermée qui prolonge le bâtiment vers le Sud (n’existe plus actuellement).",
+  "Lieu « Fort de Bicêtre », 1871 : Livré aux Prussiens en 1871, après leur départ, il sera brièvement occupé par les Fédérés.",
+  "Lieu « Fort de Bicêtre », aujourd'hui : Actuellement il ne reste du pont-levis que le système de poulie et de contrepoids, le fossé a été rebouché.",
+  "Lieu « Bicêtre » : Bicêtre est un ancien domaine français situé sur l'actuelle commune du Kremlin-Bicêtre.",
+  "Lieu « Bicêtre », 1286 : À la fin du XIIIe siècle, Jean de Pontoise, évêque de Winchester et ambassadeur d'Angleterre en France, acheta aux Chartreux une ancienne métairie appelée la Grange-aux-Queux et y fit bâtir, en 1286, un château qui porta le nom de son évêché.",
+  "Lieu « Bicêtre », 1632 : Les ruines furent rasées de fond en comble par le cardinal de Richelieu en 1632 et la propriété immédiatement rebâtie pour y placer les soldats invalides de la commanderie de Saint Louis, deux ans plus tard.",
+  "Lieu « Bicêtre », 1804 : C'est le Bicêtre des femmes […]. » Cadoudal, chef des chouans, sera emprisonné à Bicêtre avant d'être exécuté en place de l’Hôtel-de-Ville, le 25 juin 1804.",
+  "Lieu « Bicêtre », aujourd'hui : Charles le Sage, en ayant fait présent à son frère le duc Jean de Berry, celui-ci fit bâtir un magnifique château sur l'emplacement de la maison de Bicêtre.",
+  "Lieu « Hôpital de Bicêtre » : L'hôpital de Bicêtre (parfois appelé par l'AP-HP « Hôpital Bicêtre ») est un hôpital universitaire situé au lieu-dit Bicêtre (commune du Kremlin-Bicêtre) dans le Val-de-Marne faisant partie de l'Assistance publique - Hôpitaux de Paris (AP-HP).",
+  "Lieu « Hôpital de Bicêtre », XVIIe siècle : Il est situé au 78 rue du Général-Leclerc sur le site de l'ancien hospice de Bicêtre fondé au XVIIe siècle.",
+  "Lieu « Hôpital de Bicêtre », XVIIe siècle : Les origines de l'hôpital de Bicêtre remontent au XVIIe siècle lorsque Louis XIII fait bâtir sur les ruines d’un château un établissement destiné à l’accueil de soldats et d’officiers blessés.",
+  "Lieu « Hôpital de Bicêtre », 1952 : Les premières étapes de cette entreprise aboutirent à l’ouverture, en 1952 de l’hôpital pour enfants et en 1957, du premier service de cardiologie infantile en France.",
+  "Lieu « Le Kremlin-Bicêtre (métro de Paris) » : Le Kremlin-Bicêtre est une station de la ligne 7 du métro de Paris, située sur la commune du Kremlin-Bicêtre.",
+  "Lieu « Le Kremlin-Bicêtre (métro de Paris) », 1982 : La station est ouverte le 10 décembre 1982, lors de la première phase de la création d'une branche de la ligne 7 qui se détache à Maison Blanche en direction de Villejuif.",
+  "Lieu « Le Kremlin-Bicêtre (métro de Paris) », 1985 : Avec l'ouverture de la seconde phase jusqu'à Villejuif - Louis Aragon, le 28 février 1985, elle devient une simple station de passage.",
+  "Lieu « Le Kremlin-Bicêtre (métro de Paris) », 2010 : Centre commercial Okabé, ouvert en mars 2010.",
+  "Lieu « Centre commercial Okabé » : Okabé est un centre commercial régional d'Île-de-France situé dans la commune du Kremlin-Bicêtre.",
+  "Lieu « Centre commercial Okabé », 1995 : Le centre commercial a été construit sur une friche industrielle laissée libre depuis le départ de la charcuterie Géo en 1995.",
+  "Lieu « Centre commercial Okabé », 2010 : Il a ouvert en 2010, et est le premier centre commercial français à recevoir le label HQE.",
+  "Lieu « Église du Saint-Curé-d'Ars du Kremlin-Bicêtre » : L'église du Saint-Curé-d'Ars (dédiée à Jean-Marie Vianney) est une église catholique de la commune du Kremlin-Bicêtre (Val-de-Marne).",
+  "Lieu « Église du Saint-Curé-d'Ars du Kremlin-Bicêtre », 1910 : La première chapelle, avec une nef de quatre travées, fut édifiée de 1910 à 1933 pour desservir le quartier sud de Bicêtre dans le cadre de l'Œuvre des Chantiers du Cardinal.",
+  "Lieu « Église du Saint-Curé-d'Ars du Kremlin-Bicêtre », 1980 : Le bâtiment actuel de 1980 est en béton, muni d'un clocher latéral supportant deux cloches et surmonté d'une croix en fer.",
+  "Lieu « Hôpital Bicêtre (métro de Paris) » : Hôpital Bicêtre est une station de la ligne 14 du métro de Paris, située sur la commune du Kremlin-Bicêtre dans le département du Val-de-Marne, près de la limite de Gentilly.",
+  "Lieu « Hôpital Bicêtre (métro de Paris) », 2024 : Située sur le prolongement sud de la ligne 14 inauguré en juin 2024, elle est implantée sur le territoire de la commune du Kremlin-Bicêtre (à quelques mètres de la limite communale de Gentilly), le long de la rue Gabriel-Péri et de l'autoroute A6b.",
+  "Lieu « Hôpital Bicêtre (métro de Paris) », aujourd'hui : S'inspirant du film Fellini Roma où les vestiges antiques enfouis voient le jour à la construction du métro de Rome, l'œuvre en deux parties à l’extérieur et à l’intérieur de la station comporte des émergences, notamment des copies en bronze des œuvres de carton d'Eva Jospin."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

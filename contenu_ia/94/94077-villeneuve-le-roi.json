@@ -1,0 +1,136 @@
+{
+ "commune": {
+  "titre": "Villeneuve-le-Roi",
+  "code_insee": "94077",
+  "departement": "94",
+  "population": 21000,
+  "lat": 48.733333,
+  "lon": 2.416667,
+  "url": "https://fr.wikipedia.org/wiki/Villeneuve-le-Roi"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:08:12",
+ "lieux_ecartes_autre_commune": 12,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1550,
+  "sortie": 1020
+ },
+ "cout_usd": 0.001585,
+ "accroche": "En mars 1914, une nouvelle gare, « Villeneuve-le-Roi - La Faisanderie », est inaugurée sur la ligne de Juvisy-sur-Orge.",
+ "histoire": {
+  "recit": "À Villeneuve-le-Roi, on commence par la Seine à l’est et le coteau en pente vers la rivière, avant de gagner le plateau vers Orly. Très tôt, le site laisse des traces : un menhir signale une activité humaine à l’époque néolithique, puis, en 1860, des découvertes archéologiques mettent au jour un hameau gaulois et des fragments de poterie. Au XIIe siècle, des moines défricheurs s’installent et créent le village appelé Villa Nova, sur des terres alors possession de l’abbaye Saint-Victor.\n\nLa commune connaît ensuite les heures sombres : en 1870, pendant la guerre de 1870, l’armée prussienne occupe la ville et le général von Tümpling installe son état-major au château de l’Abbaye.\n\nPlus tard, les habitants des nouveaux lotissements réclament un meilleur accès : en mars 1914, la gare « Villeneuve-le-Roi - La Faisanderie » est inaugurée. Et, sur l’autre passage vers la Seine, le pont de Villeneuve-le-Roi voit se succéder constructions, remplacements et adaptations, jusqu’aux modifications liées aux événements de 1870 et aux transformations plus récentes.",
+  "chronologie": [
+   {
+    "date": "1860",
+    "texte": "Des découvertes archéologiques mettent au jour un hameau gaulois et des fragments de poterie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Des moines défricheurs s’installent et créent le village appelé Villa Nova ; les terres dépendent alors de l’abbaye Saint-Victor.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "La ville est occupée par l’armée prussienne ; le général von Tümpling installe son état-major au château de l’Abbaye.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "mars 1914",
+    "texte": "Une nouvelle gare, « Villeneuve-le-Roi - La Faisanderie », est inaugurée sur la ligne de Juvisy-sur-Orge.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Villeneuve-le-Roi",
+   "histoire": "Le pont de Villeneuve-le-Roi, aussi appelé pont de Villeneuve-Saint-Georges, traverse la Seine et relie Villeneuve-le-Roi à Villeneuve-Saint-Georges. Sa construction est réalisée par la compagnie des frères Seguin, et il est achevé en 1843.",
+   "anecdotes": [
+    {
+     "texte": "Pendant la guerre de 1870, le pont est coupé et remplacé par deux ponts flottants par les prussiens.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Les remplacements se poursuivent : le pont suspendu est remplacé par un nouvel ouvrage achevé en 1939.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 48.728086,
+   "lon": 2.443897,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Villeneuve-le-Roi"
+  },
+  {
+   "nom": "Gare de Villeneuve-le-Roi",
+   "histoire": "La gare de Villeneuve-le-Roi se trouve sur la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, sur le territoire de la commune.",
+   "anecdotes": [
+    {
+     "texte": "En 1973, la gare est le lieu de tournage de la séquence d’ouverture du film « L’An 01 ».",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.739943,
+   "lon": 2.426329,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Villeneuve-le-Roi"
+  }
+ ],
+ "sources": [
+  "Villeneuve-le-Roi est une commune française située dans le département du Val-de-Marne, en région Île-de-France. Ses habitants sont appelés les Villeneuvois. Située à 15 km au sud-est de Paris, la ville est bordée par la Seine à l’est et par l’aéroport d’Orly à l’ouest. Du plateau sur lequel est situé l’aéroport, la ville s’étire à flanc de coteau jusque vers la Seine, en contrebas. La ville se caractérise par un […]",
+  "La présence d'un menhir sur le site témoigne d'une activité humaine à l'époque néolithique. En 1860, les découvertes archéologiques mettent au jour un hameau gaulois et des fragments de poterie. Au XIIe siècle, des moines défricheurs s'installent sur le site particulièrement boisé et créent le village appelé Villa Nova. À cette époque, les terres de Villeneuve-le-Roi sont possession de l'abbaye Saint-Victor. Nombre […]",
+  "1870 : Durant la guerre de 1870, la ville est occupée par l'armée prussienne qui encercle la capitale et le général von Tümpling établit son état-major au château de l'Abbaye (ancien domaine des Chartreux).",
+  "1914 : À la demande des habitants des nouveaux lotissements, en mars 1914, une nouvelle gare dénommée « Villeneuve-le-Roi - La Faisanderie» est inaugurée sur la ligne de Juvisy-sur-Orge.",
+  "Lieu « Pont de Villeneuve-le-Roi » : Le pont de Villeneuve-le-Roi, ou aussi appelé le pont de Villeneuve-Saint-Georges, est un pont qui traverse la Seine et relie les communes de Villeneuve-le-Roi et de Villeneuve-Saint-Georges.",
+  "Lieu « Pont de Villeneuve-le-Roi », 1843 : Sa construction est réalisée par la compagnie des frères Seguin (selon la technique mise au point par l'ingénieur Marc Seguin) et achevée en 1843.",
+  "Lieu « Pont de Villeneuve-le-Roi », 1939 : Le pont suspendu lui-même est remplacé par le nouvel ouvrage achevé en 1939.",
+  "Lieu « Pont de Villeneuve-le-Roi », 1994 : Les pylônes du pont suspendu qui se dressaient encore sur la commune de Villeneuve-Saint-Georges ont été rasés en 1994.",
+  "Lieu « Pont de Villeneuve-le-Roi », aujourd'hui : Il est coupé pendant la guerre de 1870 et remplacé par deux ponts flottants par les prussiens.",
+  "Lieu « Gare de Villeneuve-le-Roi » : La gare de Villeneuve-le-Roi est une gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Villeneuve-le-Roi, dans le département du Val-de-Marne, en région Île-de-France.",
+  "Lieu « Gare de Villeneuve-le-Roi », XXe siècle : Le bâtiment voyageurs est en état proche de l'origine ; il a reçu deux ailes latérales à toiture à deux versants durant la seconde moitié du XXe siècle.",
+  "Lieu « Gare de Villeneuve-le-Roi », 1973 : La gare a été le lieu de tournage de la séquence d'ouverture de L'An 01, film français de 1973, réalisé par Jacques Doillon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "commune": {
+  "titre": "La Queue-en-Brie",
+  "code_insee": "94060",
+  "departement": "94",
+  "population": 12241,
+  "lat": 48.79,
+  "lon": 2.5775,
+  "url": "https://fr.wikipedia.org/wiki/La_Queue-en-Brie"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:41:29",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1072,
+  "sortie": 623
+ },
+ "cout_usd": 0.000993,
+ "accroche": "À La Queue-en-Brie, l’église Saint-Nicolas de La Queue-en-Brie a remplacé une paroisse installée sur cet emplacement dès le XIe siècle.",
+ "histoire": {
+  "recit": "La Queue-en-Brie, dans le Val-de-Marne, est connue pour son lien ancien avec la vallée du Morbras. En bordure du massif forestier de l’Arc Boisé, des fouilles menées lors de travaux de construction ont montré une occupation humaine importante au Néolithique, avec des sites découverts dans la vallée. \n\nPlus tard, le village se structure autour de l’église Saint-Nicolas de La Queue-en-Brie. On y trouve l’indice d’une paroisse en place dès le XIe siècle, puis une église construite entre le XIIe et le XIIIe siècle. Le Moyen Âge apporte aussi ses ruptures : en 1429, La Queue est brièvement libérée, avant d’être reprise et détruite l’année suivante. \n\nAujourd’hui, la commune reste identifiée par ses habitants, les Caudaciens.",
+  "chronologie": [
+   {
+    "date": "Néolithique",
+    "texte": "Dans la vallée du Morbras, des fouilles liées à des travaux de construction mettent en évidence une occupation humaine importante, avec des aménagements possibles en terrasses en bordure du Morbras.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Une paroisse existe déjà sur l’emplacement de l’église Saint-Nicolas de La Queue-en-Brie.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "Entre le XIIe et le XIIIe siècle",
+    "texte": "L’église est construite entre le XIIe et le XIIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1429",
+    "texte": "La Queue est brièvement libérée par les Français.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1430",
+    "texte": "L’année suivante, La Queue est reprise et détruite par Suffolk.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Nicolas de La Queue-en-Brie",
+   "histoire": "Église catholique située à La Queue-en-Brie, elle marque un emplacement où se trouvait une paroisse dès le XIe siècle. L’édifice a été construit entre le XIIe et le XIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S3"
+   ],
+   "lat": 48.7851,
+   "lon": 2.57899,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nicolas_de_La_Queue-en-Brie"
+  }
+ ],
+ "sources": [
+  "La Queue-en-Brie (/kø.ɑ̃.bʁi/ ) est une commune française située dans le département du Val-de-Marne, en région Île-de-France. Ses habitants sont appelés les Caudaciens.",
+  "La Queue-en-Brie se situe en bordure du massif forestier de l'Arc Boisé, haut lieu d'occupation préhistorique en Île-de-France. Les différentes fouilles archéologiques menées lors de travaux de construction ont mis en évidence une occupation humaine importante dans la vallée du Morbras au cours du néolithique. Des terrasses ont pu être aménagées en bordure du Morbras, comme l'attestent les nombreux sites découverts […]",
+  "XIIIe siècle : Elle fut construite entre le XIIe et le XIIIe siècle.",
+  "1429 : En 1429, La Queue est brièvement libérée par les Français, puis reprise et détruite par Suffolk l'année suivante.",
+  "Lieu « Église Saint-Nicolas de La Queue-en-Brie » : L'église Saint-Nicolas est une église catholique située à La Queue-en-Brie dans le Val-de-Marne, en France.",
+  "Lieu « Église Saint-Nicolas de La Queue-en-Brie », aujourd'hui : Il existait une paroisse sur cet emplacement, au XIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

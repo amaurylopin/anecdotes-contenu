@@ -1,0 +1,334 @@
+{
+ "commune": {
+  "titre": "Arcueil",
+  "code_insee": "94003",
+  "departement": "94",
+  "population": 22200,
+  "lat": 48.8075,
+  "lon": 2.33611111,
+  "url": "https://fr.wikipedia.org/wiki/Arcueil"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:04:36",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2665,
+  "sortie": 1909
+ },
+ "cout_usd": 0.002919,
+ "accroche": "Au IIe siècle, l’aqueduc de Lutèce est édifié à Arcueil pour amener l’eau puisée à Rungis et à Wissous jusqu’aux thermes de Cluny, sur le site de l’actuel musée de Cluny.",
+ "histoire": {
+  "recit": "À Arcueil, les hommes s’installent très tôt sur les plateaux, puis la commune s’organise autour de l’eau et des voies. Le IIe siècle voit naître l’aqueduc de Lutèce, reconstruit ensuite au XVIIe siècle. Plus tard, Arcueil devient un lieu de défense avec le fort de Montrouge, construit dans les années 1843-1845, puis bombardé en 1871. La vie quotidienne s’accroche aussi au rail : la gare de Laplace ouvre en 1894, avant d’être reconstruite en style Art déco. Non loin, le cimetière communal ouvre en 1821, puis se prolonge au fil des extensions. Enfin, au cœur d’Arcueil, l’église Saint-Denys rassemble les époques, du premier art gothique aux transformations ultérieures, tandis que la chapelle Perret, sur l’avenue Laplace, raconte l’histoire d’un orphelinat lié aux religieuses franciscaines.",
+  "chronologie": [
+   {
+    "date": "IIe siècle",
+    "texte": "Édification de l’aqueduc de Lutèce, de 16 kilomètres, pour acheminer l’eau jusqu’aux thermes de Cluny, sur le site de l’actuel musée de Cluny.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Reconstructions de l’aqueduc de Lutèce.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1843",
+    "texte": "Construction du fort de Montrouge, fortification de Paris située à Arcueil.",
+    "sources": [
+     "S10",
+     "S11"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "Le fort de Montrouge est bombardé par les Prussiens à partir du 5 janvier 1871, recevant plus de 12 000 projectiles de gros calibre.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1894",
+    "texte": "Ouverture de la gare de Laplace sur la ligne de Sceaux.",
+    "sources": [
+     "S14",
+     "S15"
+    ]
+   },
+   {
+    "date": "1821",
+    "texte": "Ouverture du cimetière d’Arcueil, avec 2,6 hectares et plus de 3 600 emplacements.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "2002",
+    "texte": "Inauguration d’un crématorium géré par le SIFUREP, implanté à Arcueil.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1220",
+    "texte": "Élévation des deux premières travées orientales de l’église Saint-Denys d’Arcueil, entre 1220 et 1230.",
+    "sources": [
+     "S24"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "La Vache-Noire",
+   "histoire": "À Arcueil, La Vache-Noire est un carrefour au sud de Paris, sur la D920 (anciennement RN 20). La mention désigne, sur les plans anciens, une bâtisse particulière avant de devenir, plus tard, le nom du quartier et du centre commercial.",
+   "anecdotes": [
+    {
+     "texte": "Après une phase de démolition en 2003, les travaux débutent au début de 2004 avec un chantier de terrassement de 18 mètres de profondeur pour construire de futurs parkings.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Le carrefour a donné son nom au quartier qui l’entoure et au centre commercial ouvert en 2007.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Sur les plans de 1812 et de 1859, « la Vache-Noire » ne désigne pas tout le carrefour : la bâtisse à trois ailes et une cour, du côté de la route d’Orléans, retient l’attention.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 48.8099,
+   "lon": 2.32668,
+   "url": "https://fr.wikipedia.org/wiki/La_Vache-Noire"
+  },
+  {
+   "nom": "Fort de Montrouge",
+   "histoire": "Fort de Montrouge est une fortification de Paris située à Arcueil, construite entre 1843 et 1845. Il s’inscrit dans la première ceinture de seize forts pour la défense de Paris.",
+   "anecdotes": [
+    {
+     "texte": "À partir du 5 janvier 1871, les Prussiens bombardent le fort de Montrouge, qui reçoit plus de 12 000 projectiles de gros calibre.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.807832,
+   "lon": 2.321613,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Montrouge"
+  },
+  {
+   "nom": "Gare de Laplace",
+   "histoire": "La gare de Laplace appartient à la ligne de Sceaux sur le territoire d’Arcueil. Elle ouvre en 1894 et, plus tard, connaît une reconstruction dans un style Art déco.",
+   "anecdotes": [
+    {
+     "texte": "La gare est reconstruite dans le style Art déco par la Compagnie du chemin de fer métropolitain de Paris (CMP) durant les travaux de modernisation dans les années 1930.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Dans l’autre sens, l’omnibus vers Paris stationne sur un quai décalé au sud de la gare, aujourd’hui inutilisé et grillagé.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.80763,
+   "lon": 2.333109,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Laplace"
+  },
+  {
+   "nom": "Cimetière d'Arcueil",
+   "histoire": "Le cimetière d’Arcueil, cimetière communal de la ville, ouvre en 1821. Il s’étend ensuite avec une extension inaugurée en 1883, puis agrandie en 1931, avant l’arrivée d’un crématorium en 2002.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.804,
+   "lon": 2.34,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_d%27Arcueil"
+  },
+  {
+   "nom": "Église Saint-Denys d'Arcueil",
+   "histoire": "L’église Saint-Denys d’Arcueil est catholique. Bâtie entre la fin du XIIe siècle et le début du XIIIe siècle, elle présente le premier art gothique en Île-de-France. Son clocher date du XVIIIe siècle, édifié par Germain Boffrand.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S25",
+    "S24"
+   ],
+   "lat": 48.80247,
+   "lon": 2.33195,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Denys_d%27Arcueil"
+  },
+  {
+   "nom": "Rue Émile-Raspail",
+   "histoire": "La rue Émile-Raspail fait partie des plus anciennes voies de communication d’Arcueil. On y trouve aussi des éléments repérés au titre du patrimoine, comme un immeuble partiellement inscrit aux monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "Au no 47 de la rue Émile-Raspail, un immeuble construit en 1929 est partiellement inscrit aux monuments historiques.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "Au no 30 se trouve l’emplacement de l’ancienne mairie.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.801598708889,
+   "lon": 2.3316955822222,
+   "url": "https://fr.wikipedia.org/wiki/Rue_%C3%89mile-Raspail"
+  },
+  {
+   "nom": "Avenue Laplace",
+   "histoire": "L’avenue Laplace structure Arcueil comme voie de communication. Elle accueille aussi des lieux marqués par des implantations successives, de la friche culturelle à la chapelle Perret.",
+   "anecdotes": [
+    {
+     "texte": "Au no 55, la friche culturelle « Anis Gras - Le lieu de l’autre » s’installe dans des bâtiments créés par Émile Raspail au XIXe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    },
+    {
+     "texte": "Au no 52, la chapelle Perret est construite entre 1927 et 1929 par les frères Perret pour les religieuses franciscaines de l’Immaculée Conception.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 48.80763,
+   "lon": 2.333109,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_Laplace"
+  },
+  {
+   "nom": "Chapelle des Franciscains d'Arcueil",
+   "histoire": "La chapelle des Franciscains d’Arcueil, dite chapelle Perret, est une chapelle catholique située au 52 avenue Laplace. Elle est bâtie entre 1927 et 1929 par les frères Perret pour des religieuses franciscaines de l’Immaculée Conception.",
+   "anecdotes": [
+    {
+     "texte": "Les religieuses franciscaines qui reçoivent la chapelle détenaient l’orphelinat de Petites-Filles-Pauvres d’Arcueil.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 48.809139,
+   "lon": 2.331111,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_Franciscains_d%27Arcueil"
+  }
+ ],
+ "sources": [
+  "Arcueil (prononcé /aʁ.kœj/) est une commune française située dans le département du Val-de-Marne en région Île-de-France, faisant partie de la métropole du Grand Paris et du Forum métropolitain du Grand Paris. Cette commune urbanisée à plus de 90 % disposait en 2010 de 45 % de logements sociaux, de quelques espaces verts, et se situe en grande partie dans la vallée de la Bièvre. Son urbanisation date de plusieurs […]",
+  "Les traces les plus anciennes d'occupation humaine remontent à la préhistoire et se situent sur les plateaux d'Arcueil. Plusieurs sites sont identifiés au titre des sites archéologiques avec des vestiges néolithiques et gallo-romains. Au IIe siècle est édifié l'aqueduc de Lutèce, d'une longueur de 16 kilomètres pour amener l'eau puisée à Rungis et à Wissous jusqu'aux thermes de Cluny (Lutèce), sur le site de […]",
+  "IIe siècle : Au IIe siècle est édifié l'aqueduc de Lutèce, d'une longueur de 16 kilomètres pour amener l'eau puisée à Rungis et à Wissous jusqu'aux thermes de Cluny (Lutèce), sur le site de l'actuel musée de Cluny.",
+  "XVIIe siècle : L'aqueduc est reconstruit au XVIIe siècle.",
+  "Lieu « La Vache-Noire » : La Vache-Noire est un carrefour d'Arcueil, au sud de Paris en Île-de-France sur la D920 (anciennement RN 20).",
+  "Lieu « La Vache-Noire », 1812 : Sur les plans de 1812 et de 1859, la mention ne désigne pas l'ensemble du carrefour, mais la bâtisse comprenant trois ailes et une cour, située du côté de la route d'Orléans.",
+  "Lieu « La Vache-Noire », 2003 : Après une phase de démolition en 2003, les travaux ont démarré début 2004 par l'important chantier de terrassement de 18 mètres de profondeur destiné à la construction des futurs parkings.",
+  "Lieu « La Vache-Noire », 2007 : Ce carrefour a donné son nom au quartier qui l'entoure et au centre commercial ouvert en 2007.",
+  "Lieu « La Vache-Noire », aujourd'hui : Elle est aujourd'hui le pont de rencontre de l'avenue Aristide-Briand (anciennement route d'Orléans), de l'avenue du Président-Allende (qui mène vers l'avenue Jean-Jaurès, et dont elle portait antan le nom), de l'avenue Laplace et de l'avenue Marx-Dormoy (anciennement rue du Fort).",
+  "Lieu « Fort de Montrouge » : Le fort de Montrouge est une fortification de Paris, construite entre 1843 et 1845 et située à Arcueil dans le Val-de-Marne.",
+  "Lieu « Fort de Montrouge », 1843 : Le fort de Montrouge est une fortification de Paris, construite entre 1843 et 1845 et située à Arcueil dans le Val-de-Marne.",
+  "Lieu « Fort de Montrouge », 1843 : Construit entre 1843 et 1845, le fort fait partie de la première ceinture de seize forts pour la défense de Paris (enceinte de Thiers).",
+  "Lieu « Fort de Montrouge », 1871 : Il est bombardé par les Prussiens à partir du 5 janvier 1871 et reçoit plus de 12 000 projectiles de gros calibre.",
+  "Lieu « Gare de Laplace » : La gare de Laplace est une gare ferroviaire française de la ligne de Sceaux, située sur le territoire de la commune d'Arcueil, dans le département du Val-de-Marne, en région Île-de-France.",
+  "Lieu « Gare de Laplace », 1894 : Ouverte en 1894, c'est aujourd'hui une gare de la Régie autonome des transports parisiens (RATP) desservie par les trains de la ligne B du RER.",
+  "Lieu « Gare de Laplace », 1930 : Gare de la ligne de Sceaux, elle a été reconstruite dans le style Art déco par la Compagnie du chemin de fer métropolitain de Paris (CMP) dans le cadre des travaux de modernisation de la ligne dans les années 1930.",
+  "Lieu « Gare de Laplace », aujourd'hui : Dans l'autre sens, l'omnibus allant vers Paris stationnait sur un quai décalé au sud de la gare, aujourd'hui inutilisé et grillagé.",
+  "Lieu « Cimetière d'Arcueil » : Le cimetière d'Arcueil est le cimetière communal de la ville d'Arcueil dans le Val-de-Marne en proche banlieue parisienne.",
+  "Lieu « Cimetière d'Arcueil », 1821 : Ce cimetière de 2,6 hectares et plus de 3 600 emplacements a ouvert en 1821.",
+  "Lieu « Cimetière d'Arcueil », 1883 : Son extension donnant rue de la Division-du-Général-Leclerc a ouvert en 1883 et a été agrandie en 1931.",
+  "Lieu « Cimetière d'Arcueil », 2002 : Inauguré en 2002, un crématorium géré par le SIFUREP est également implanté à Arcueil.",
+  "Lieu « Église Saint-Denys d'Arcueil » : L'église Saint-Denys est une église catholique située à Arcueil, en France.",
+  "Lieu « Église Saint-Denys d'Arcueil », XIIe siècle : Bâtie à la fin du XIIe siècle et au début du XIIIe siècle, l'église est caractéristique du premier art gothique en Île-de-France.",
+  "Lieu « Église Saint-Denys d'Arcueil », 1220 : Construite sur un plan simple, avec transept non saillant et chevet plat, ses deux premières travées orientales ont été élevées entre 1220 et 1230, les cinq suivantes entre 1240 et 1250 et les deux travées occidentales au milieu du XVIIIe siècle.",
+  "Lieu « Église Saint-Denys d'Arcueil », XVIIIe siècle : Le clocher du XVIIIe siècle a été édifié par l'architecte Germain Boffrand.",
+  "Lieu « Rue Émile-Raspail » : La rue Émile-Raspail est une des plus anciennes voies de communication d'Arcueil, en France.",
+  "Lieu « Rue Émile-Raspail », 1929 : Au no 47, un immeuble construit en 1929, partiellement inscrit aux monuments historiques.",
+  "Lieu « Rue Émile-Raspail », aujourd'hui : Au no 30, emplacement de l'ancienne mairie.",
+  "Lieu « Avenue Laplace » : L'avenue Laplace est une voie de communication d'Arcueil.",
+  "Lieu « Avenue Laplace », XIXe siècle : Au no 55 se trouve \"La friche culturelle « Anis Gras - Le lieu de l'autre »\", installée dans des bâtiments créés par Émile Raspail au XIXe siècle.",
+  "Lieu « Avenue Laplace », 1927 : Au no 52 se trouve la chapelle Perret, construite entre 1927 et 1929 par les frères Perret pour les religieuses franciscaines de l'Immaculée Conception.",
+  "Lieu « Chapelle des Franciscains d'Arcueil » : La chapelle des Franciscains d'Arcueil, dite chapelle Perret, est une chapelle catholique située au 52 avenue Laplace à Arcueil, en France.",
+  "Lieu « Chapelle des Franciscains d'Arcueil », 1927 : C'est une chapelle construite entre 1927 et 1929 par les frères Auguste et Gustave Perret pour les religieuses franciscaines de l'Immaculée Conception qui détenaient l'orphelinat de Petites-Filles-Pauvres d'Arcueil."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 11
+ }
+}
