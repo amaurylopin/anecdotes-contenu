@@ -1,0 +1,209 @@
+{
+ "commune": {
+  "titre": "Yzeure",
+  "code_insee": "03321",
+  "departement": "03",
+  "population": 12897,
+  "lat": 46.56694444,
+  "lon": 3.35527778,
+  "url": "https://fr.wikipedia.org/wiki/Yzeure"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:46",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1616,
+  "sortie": 1496
+ },
+ "cout_usd": 0.002193,
+ "accroche": "À Yzeure, en 2023, les habitants sont appelés les Yzeuriens et les Yzeuriennes, et la commune comptait 12 897 personnes.",
+ "histoire": {
+  "recit": "Yzeure, à l’est de la préfecture Moulins, s’est construite sur plusieurs strates : d’abord un territoire gaulois, puis des demeures seigneuriales, avant des équipements plus récents.\n\nDans l’Antiquité, l’agglomération d’Isodorum, comme Moulins, relevait du territoire des Éduens. Plus tard, au Moyen Âge, on mentionne une maison forte appelée « Pré Puttet » (ou « Champ Putet »), occupée jusqu’à la fin du XVIIe siècle.\n\nLe paysage est ensuite marqué par des châteaux : Panloup, élevé au XVIIe siècle et inscrit aux monuments historiques en 1947, abrite aujourd’hui le service Jeunesse et l’accueil de loisirs de la ville. Pouzeux et Joulet ont aussi leurs inscriptions patrimoniales, respectivement en 1947 et en 1929. Enfin, l’église Saint-Pierre d’Yzeure a été classée au titre des monuments historiques en 1914.\n\nPlus récemment, le centre pénitentiaire de Moulins-Yzeure est construit entre 1980 et 1983 et ouvre en 1983 ; à partir de 2013, il a été supplanté pour cette mission après l’ouverture d’autres établissements.",
+  "chronologie": [
+   {
+    "date": "2023",
+    "texte": "Yzeure compte 12 897 habitants, appelés les Yzeuriens et les Yzeuriennes.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "Début du XXe siècle",
+    "texte": "Un vase portant des noms en langue gauloise a permis d’identifier plusieurs noms (dont ATIPASTU, ADAXILU et ABINOS) liés à l’agglomération d’Isodorum.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "À Yzeure se trouve une maison forte, « Pré Puttet » (ou « Champ Putet »), probablement datée du XIVe siècle, occupée jusqu’à la fin du XVIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le château de Panloup est construit au XVIIe siècle, sous le règne de Louis XIII, et devient la résidence d’officiers moulinois avant d’être surtout habité par des familles privées.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "L’église Saint-Pierre d’Yzeure est classée au titre des monuments historiques.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "Le château de Joulet est inscrit au titre des monuments historiques.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1947",
+    "texte": "Le château de Panloup est inscrit au titre des monuments historiques.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1947",
+    "texte": "Le château de Pouzeux est inscrit au titre des monuments historiques.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1980",
+    "texte": "Le centre pénitentiaire de Moulins-Yzeure est construit entre 1980 et 1983.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1983",
+    "texte": "L’établissement du centre pénitentiaire de Moulins-Yzeure ouvre en 1983.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2013",
+    "texte": "À partir de 2013, l’établissement est supplanté sur ce point à la suite de l’ouverture d’autres centres pénitentiaires.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Panloup",
+   "histoire": "Château du XVIIe siècle à Yzeure, construit sous le règne de Louis XIII, il a d’abord servi de résidence à des officiers moulinois, avant d’être principalement habité par des familles privées. Inscrit aux monuments historiques en 1947, il accueille aujourd’hui le service Jeunesse et l’accueil de loisirs de la ville.",
+   "anecdotes": [
+    {
+     "texte": "Le château de Panloup, d’abord résidence d’officiers moulinois, a ensuite été surtout occupé par des familles privées.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château abrite aujourd’hui le service Jeunesse et l’accueil de loisirs de la ville.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 46.5538,
+   "lon": 3.35447,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Panloup"
+  },
+  {
+   "nom": "Centre pénitentiaire de Moulins-Yzeure",
+   "histoire": "Centre pénitentiaire situé à Yzeure, il est construit entre 1980 et 1983 et ouvre en 1983. À partir de 2013, il est supplanté sur ce point après l’ouverture de centres pénitentiaires d’Alençon-Condé-sur-Sarthe et de Vendin-le-Vieil.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 46.537991925195,
+   "lon": 3.3553468574309,
+   "url": "https://fr.wikipedia.org/wiki/Centre_p%C3%A9nitentiaire_de_Moulins-Yzeure"
+  },
+  {
+   "nom": "Château de Pouzeux",
+   "histoire": "Château situé rue Parmentier à Yzeure. L’édifice est inscrit au titre des monuments historiques en 1947.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 46.5585,
+   "lon": 3.34967,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pouzeux"
+  },
+  {
+   "nom": "Château de Joulet",
+   "histoire": "Château situé rue de Foulet à Yzeure. L’édifice est inscrit au titre des monuments historiques en 1929.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 46.5672,
+   "lon": 3.34254,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Joulet"
+  },
+  {
+   "nom": "Église Saint-Pierre d'Yzeure",
+   "histoire": "Église catholique située à Yzeure. Elle est classée au titre des monuments historiques en 1914.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 46.5667,
+   "lon": 3.35472,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_d%27Yzeure"
+  }
+ ],
+ "sources": [
+  "Yzeure est une commune française située dans le département de l'Allier, en région Auvergne-Rhône-Alpes. Située à l'est de la préfecture Moulins, elle comptait 12 897 habitants en 2023, appelés les Yzeuriens et les Yzeuriennes.",
+  "Durant l'Antiquité (âge du Fer), l'agglomération d'Isodorum, tout comme la ville voisine de Moulins, faisait partie du territoire du peuple gaulois des Éduens. Une liste de noms en langue gauloise gravés sur un vase retrouvé au début du XXe siècle ont permis de trouver des noms de langue gauloise : ATIPASTU, ADAXILU, ABINOS, ATONILLOS, ASSULATOS, ANDROULOS, ATIASSU. Le site de Saint-Bonnet à Yzeure n'est longtemps […]",
+  "XIVe siècle : Au Moyen Âge, il y avait une maison forte, aujourd'hui disparue, dite de « Pré Puttet » ou le « Champ Putet » datant probablement du XIVe siècle et qui fut occupée jusqu'à la fin du XVIIe siècle.",
+  "Lieu « Château de Panloup » : Le château de Panloup est un château du XVIIe siècle situé à Yzeure, dans le département français de l'Allier.",
+  "Lieu « Château de Panloup », XVIIe siècle : Construit au XVIIe siècle sous le règne de Louis XIII, le château fut la résidence d'officiers moulinois, mais fut principalement habité par des familles privées.",
+  "Lieu « Château de Panloup », 1947 : L'édifice est inscrit au titre des monuments historiques en 1947.",
+  "Lieu « Château de Panloup », aujourd'hui : Inscrit aux Monuments historiques, il abrite aujourd'hui le service Jeunesse et l'accueil de loisirs de la ville.",
+  "Lieu « Centre pénitentiaire de Moulins-Yzeure » : Le centre pénitentiaire de Moulins-Yzeure est un centre pénitentiaire français situé dans la commune d'Yzeure, dans le département de l'Allier et dans la région Auvergne-Rhône-Alpes.",
+  "Lieu « Centre pénitentiaire de Moulins-Yzeure », 1980 : L'établissement est construit entre 1980 et 1983 et ouvre en 1983.",
+  "Lieu « Centre pénitentiaire de Moulins-Yzeure », 2013 : L'établissement a été supplanté sur ce point à partir de 2013 à la suite de l'ouverture des centres pénitentiaires d'Alençon-Condé-sur-Sarthepuis de Vendin-le-Vieil.",
+  "Lieu « Château de Pouzeux » : Le château de Pouzeux est un château situé rue Parmentier à Yzeure, en France.",
+  "Lieu « Château de Pouzeux », 1947 : L'édifice est inscrit au titre des monuments historiques en 1947.",
+  "Lieu « Château de Joulet » : Le château de Joulet est un château situé rue de Foulet, à Yzeure, en France.",
+  "Lieu « Château de Joulet », 1929 : L'édifice est inscrit au titre des monuments historiques en 1929.",
+  "Lieu « Église Saint-Pierre d'Yzeure » : L'église Saint-Pierre est une église catholique située à Yzeure, en France.",
+  "Lieu « Église Saint-Pierre d'Yzeure », 1914 : L'édifice est classé au titre des monuments historiques en 1914."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}

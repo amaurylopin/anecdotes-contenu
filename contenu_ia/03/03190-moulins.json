@@ -1,0 +1,288 @@
+{
+ "commune": {
+  "titre": "Moulins (Allier)",
+  "code_insee": "03190",
+  "departement": "03",
+  "population": 19206,
+  "lat": 46.56527,
+  "lon": 3.333333,
+  "url": "https://fr.wikipedia.org/wiki/Moulins_%28Allier%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:13:26",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4072,
+  "sortie": 1491
+ },
+ "cout_usd": 0.002678,
+ "accroche": "En 1327, la seigneurie du Bourbonnais est érigée en duché par le roi de France Charles IV le Bel, et Moulins devient la capitale du duché.",
+ "histoire": {
+  "recit": "À Moulins, tout semble commencer par l’Allier et se compliquer aussitôt avec les hommes. La ville devient capitale du duché en 1327, puis doit composer avec les ruptures : une crue détruit tous les ponts en 1407, et une autre guerre l’amène au siège en 1412. Quand il faut reconnecter la ville, le pont de pierre arrive en 1532, mais les fondations restent fragiles, au point qu’il est emporté en 1676.\n\nLa vie du pouvoir et celle des convulsions se croisent aussi : le 18 novembre 1632, Marie-Félicie des Ursins arrive à Moulins pour être retenue captive dans l’ancien palais ducal. La fin du XVIIIe siècle change encore de ton : une société philosophique est fondée dès 1787, et, le 31 décembre 1793, trente-deux Moulinois envoyés à Lyon sont exécutés. Puis l’École centrale de Moulins ouvre en 1796, succédant au collège fondé par les jésuites.\n\nMoulins garde enfin ses grands repères de pierre et de tradition, du gothique de sa cathédrale aux essais d’Eugène Freyssinet.",
+  "chronologie": [
+   {
+    "date": "1327",
+    "texte": "La seigneurie du Bourbonnais est érigée en duché ; Moulins devient la capitale du duché et de ses dépendances.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1407",
+    "texte": "Une crue de l’Allier détruit tous les ponts desservant la ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1412",
+    "texte": "Moulins est assiégée, sans succès, par les Bourguignons.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1532",
+    "texte": "Construction effective du premier pont de pierre à Moulins.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1632-11-18",
+    "texte": "Marie-Félicie des Ursins arrive à Moulins pour être retenue captive dans l’ancien palais ducal.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1676",
+    "texte": "Le pont reconstruit est emporté.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1787",
+    "texte": "La société philosophique La Société de Moulins est fondée dans la ville.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1793-12-31",
+    "texte": "Trente-deux Moulinois envoyés à Lyon sont exécutés.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1796-09-26",
+    "texte": "Inauguration de l’École centrale de Moulins.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame-de-l'Annonciation de Moulins",
+   "histoire": "Cathédrale catholique romaine de Moulins, la collégiale des Bourbons est à l’origine dédiée à saint Pierre ; elle devient cathédrale en 1823.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S18",
+    "S16"
+   ],
+   "lat": 46.566667,
+   "lon": 3.331667,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-l%27Annonciation_de_Moulins"
+  },
+  {
+   "nom": "Arche d'essai Freyssinet",
+   "histoire": "Arche en béton peu armé construite à Moulins en 1909 par Eugène Freyssinet.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’arche est construite à Moulins sur le site d’une gare du réseau ferré secondaire départemental, aujourd’hui disparue, à 250 m au nord-ouest de l’actuelle gare de Moulins.",
+   "sources": [
+    "S20",
+    "S24"
+   ],
+   "lat": 46.555834798778,
+   "lon": 3.3344791010517,
+   "url": "https://fr.wikipedia.org/wiki/Arche_d%27essai_Freyssinet"
+  },
+  {
+   "nom": "Maison Mantin",
+   "histoire": "Demeure bourgeoise de la fin du XIXe siècle, conçue par René-Justin Moreau et construite entre 1894 et 1897.",
+   "anecdotes": [
+    {
+     "texte": "La maison devait « témoigner du mode de vie d’un bourgeois de la fin du XIXe siècle ».",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne reste aujourd’hui qu’une partie des bâtiments de l’ensemble castral.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 46.5668222,
+   "lon": 3.3304583,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Mantin"
+  },
+  {
+   "nom": "Lycée Théodore-de-Banville",
+   "histoire": "Lycée situé à Moulins ; à sa création, il s’installe dans l’ancien couvent de la Visitation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment d’origine est encore visible aujourd’hui (rue de Paris), mais l’accès au lycée se fait maintenant par l’autre extrémité des bâtiments.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 46.568889,
+   "lon": 3.328056,
+   "url": "https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Th%C3%A9odore-de-Banville"
+  },
+  {
+   "nom": "Hôtel de Chavagnac",
+   "histoire": "Hôtel particulier construit au XVIIe siècle, remanié au XVIIIe, puis restauré et réaménagé sous le Second Empire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S38",
+    "S39"
+   ],
+   "lat": 46.5694694,
+   "lon": 3.3301139,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Chavagnac"
+  },
+  {
+   "nom": "Tour Jacquemart (Moulins)",
+   "histoire": "Tour horloge d’une trentaine de mètres de haut, appelée ainsi à cause du jacquemart qu’elle porte.",
+   "anecdotes": [
+    {
+     "texte": "La trace de la tour se retrouve dans le sobriquet du paysan français.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On retrouve aussi cette trace dans le sobriquet du paysan français.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 46.56583333,
+   "lon": 3.33277778,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Jacquemart_%28Moulins%29"
+  },
+  {
+   "nom": "Chapelle Sainte-Claire de Moulins",
+   "histoire": "Chapelle catholique située à Moulins.",
+   "anecdotes": [
+    {
+     "texte": "En 1794, la chapelle sert de prison de femmes après l’emprisonnement des religieux et prêtres réfractaires.",
+     "statut": "etabli",
+     "sources": [
+      "S48"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui la messe dominicale y est célébrée à 18 h 30.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 46.5676556,
+   "lon": 3.3334194,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Sainte-Claire_de_Moulins"
+  },
+  {
+   "nom": "Couvent des Carmes de Moulins",
+   "histoire": "Ancien couvent de Carmes situé à Moulins contre l’église Saint-Pierre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S50",
+    "S54"
+   ],
+   "lat": 46.562483,
+   "lon": 3.333192,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Carmes_de_Moulins"
+  }
+ ],
+ "sources": [
+  "Moulins, parfois dénommée Moulins-sur-Allier (notamment à la gare SNCF et dans les services de La Poste), est une commune du centre de la France située en région Auvergne-Rhône-Alpes. C'est la préfecture du département de l'Allier et une ville d'art et d'histoire. Son agglomération s'étend le long de l'Allier. Moulins est historiquement la capitale de la province du Bourbonnais et sous l'Ancien Régime de la vaste […]",
+  "L’histoire de la ville de Moulins est étroitement liée à celle des ducs de Bourbon, puisqu’elle devient la capitale du duché et de ses importantes dépendances en 1327. Cet état de fait perdurera jusqu’en 1523, avec la défection du connétable de Bourbon. Durant l'âge du fer, le site de la ville de Moulins est situé au point de rencontre des territoires des peuples gaulois des Éduens (dont Moulins fait partie), des […]",
+  "1327 : En 1327, la seigneurie du Bourbonnais est érigée en duché par le roi de France Charles IV le Bel.",
+  "1407 : En 1407, une crue de l'Allier détruit tous les ponts desservant la ville.",
+  "1412 : En 1412, s’étant engagé aux côtés des Armagnac, Moulins est assiégée, sans succès, par les Bourguignons.",
+  "1532 : L'an 1532 marque un tournant, puisque l'on construit effectivement le premier pont de pierre de Moulins.",
+  "1536 : La population ne cesse de croître, à tel point qu’à partir de 1536, une seconde enceinte est érigée, pour protéger tous les faubourgs qui s’étalaient au-delà de la première muraille de Louis II.",
+  "1595 : En 1595, on le reconstruit mais il est emporté en 1676 ; le lit de la rivière étant particulièrement sablonneux à Moulins, il rend les fondations de ces édifices très fragiles.",
+  "1632 : Le 18 novembre 1632, Marie-Félicie des Ursins, l'épouse du duc Henri II de Montmorency, qui vient d'être exécuté à Toulouse pour crime de lèse-majesté, arrive à Moulins pour être retenue captive dans l'ancien palais ducal.",
+  "1685 : En 1685, un nouveau pont est bâti ; il s'effondre quatre ans plus tard.",
+  "1771 : Il fait publier en 1771 une Description du nouveau pont de pierre construit sur la rivière d’Allier à Moulins, dans lequel il indique par quels moyens il est venu à bout des difficultés qui causaient la ruine de chacune des entreprises précédentes.",
+  "1787 : Dès 1787, une société philosophique, La Société de Moulins, est fondée dans la ville.",
+  "1793 : Le 31 décembre 1793, trente-deux Moulinois, envoyés par le Comité de surveillance à Lyon, sont exécutés.",
+  "1796 : Le 5 vendémiaire an V (26 septembre 1796), l’École centrale de Moulins est inaugurée, succédant au collège qui avait été fondé par les jésuites.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Moulins » : La cathédrale Notre-Dame-de-l'Annonciation de Moulins est une cathédrale catholique romaine située à Moulins, dans le département de l'Allier.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Moulins », Xe siècle : Remplaçant une chapelle de la fin du Xe siècle, à l'origine dédiée à saint Pierre, la « collégiale des Bourbons » fut construite à la fin de l'époque médiévale.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Moulins », 1468 : Partie la plus ancienne de l'édifice actuel, construite en style gothique flamboyant, sa première pierre fut posée en 1468 par Agnès de Bourgogne, mère de Jean II de Bourbon, duc de Bourbon, et veuve du duc Charles Ier de Bourbon.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Moulins », 1823 : La collégiale fut érigée en cathédrale en 1823 lors de la création du diocèse de Moulins.",
+  "Lieu « Cathédrale Notre-Dame-de-l'Annonciation de Moulins », aujourd'hui : La cathédrale est surtout célèbre pour son triptyque du Maître de Moulins, chef-d'œuvre réalisé autour de l'an 1500 par un artiste longtemps non identifié, le Maître de Moulins, aujourd'hui reconnu comme le peintre d'origine néerlandaise Jean Hey.",
+  "Lieu « Arche d'essai Freyssinet » : L'arche d'essai Freyssinet est une arche en béton peu armé construite en 1909 à Moulins (Allier) par Eugène Freyssinet.",
+  "Lieu « Arche d'essai Freyssinet », 1909 : L'arche d'essai Freyssinet est une arche en béton peu armé construite en 1909 à Moulins (Allier) par Eugène Freyssinet.",
+  "Lieu « Arche d'essai Freyssinet », 1912 : Dans les deux façons \"le décintrement par mise en compression de l’arc, ça marche !\" Le premier des trois ponts construit avec cette technique, le pont du Veurdre, un pont de 3 arches en béton armé, est inauguré en 1912.",
+  "Lieu « Arche d'essai Freyssinet », 1923 : Le troisième pont, avec des articulations Freyssinet, le pont de Châtel-de-Neuvre est achevé en 1923.",
+  "Lieu « Arche d'essai Freyssinet », aujourd'hui : L'arche est construite à Moulins, sur ce qui est alors le site d'une gare du réseau ferré secondaire départemental, aujourd'hui disparue, à 250 m au nord-ouest de l'actuelle gare de Moulins.",
+  "Lieu « Maison Mantin » : La maison Mantin est une demeure bourgeoise de la fin du XIXe siècle située dans la ville de Moulins, dans l'Allier.",
+  "Lieu « Maison Mantin », 1858 : La maison a été conçue par un architecte de renom local, René-Justin Moreau (28 avril 1858 - 18 septembre 1924), en collaboration avec son père, Jean-Bélisaire Moreau (1828-1899), également architecte, et construite entre 1894 et 1897.",
+  "Lieu « Maison Mantin », 1905 : Léguée à sa mort en 1905 à la ville de Moulins par Louis Mantin qui n’avait aucun héritier, cette maison devait « témoigner du mode de vie d’un bourgeois de la fin du XIXe siècle ».",
+  "Lieu « Maison Mantin », 1910 : La demeure, qui a l'apparence d'une villa composite, a ouvert ses portes au public en 1910, puis fermée pendant l'entre-deux guerres, est rouverte en novembre 2010 en tant que musée, après près de trois années de travaux et restauration entrepris par le conseil général de l’Allier.",
+  "Lieu « Maison Mantin », aujourd'hui : Il ne reste aujourd’hui qu’une partie des bâtiments de l’ensemble castral, dont la construction s’est étalée sur les derniers siècles du Moyen Âge.",
+  "Lieu « Lycée Théodore-de-Banville » : Le lycée Théodore-de-Banville est un lycée situé dans la ville française de Moulins, dans le département de l'Allier.",
+  "Lieu « Lycée Théodore-de-Banville », 1616 : À sa création, le lycée fut installé dans l'ancien couvent de la Visitation, fondé en 1616 par la vénérable Jeanne-Charlotte de Bréchard, et où mourut sainte Jeanne de Chantal en 1641.",
+  "Lieu « Lycée Théodore-de-Banville », 1802 : Il a la particularité d'être l'un des plus vieux lycées français ; il fut créé par la loi du 11 floréal an X (1er mai 1802), et inauguré le 16 juin 1803 par Napoléon Bonaparte.",
+  "Lieu « Lycée Théodore-de-Banville », 1863 : De 1863 à 1885, le lycée bénéficie d’une extension (bâtiments E et D actuels, puis bâtiments M) et de la démolition du vieux lycée (couvent).",
+  "Lieu « Lycée Théodore-de-Banville », aujourd'hui : Le bâtiment d'origine est encore visible aujourd'hui (rue de Paris), mais l'accès au lycée se fait maintenant par l'autre extrémité des bâtiments (cours Vincent-d'Indy).",
+  "Lieu « Hôtel de Chavagnac » : L’hôtel de Chavagnac est un hôtel particulier situé à Moulins (Allier).",
+  "Lieu « Hôtel de Chavagnac », XVIIe siècle : Construit au XVIIe siècle et remanié au XVIIIe siècle, il a fait l'objet d'une restauration et d'un réaménagement important sous le Second Empire.",
+  "Lieu « Hôtel de Chavagnac », XIXe siècle : L'hôtel de Chavagnac a appartenu au XIXe siècle à une branche de la famille auvergnate de Chavagnac installée par mariage en Bourbonnais.",
+  "Lieu « Hôtel de Chavagnac », 1987 : L'édifice a été inscrit comme monument historique par arrêté du 12 février 1987.",
+  "Lieu « Hôtel de Chavagnac », aujourd'hui : Elle a été bordée dès le XVIIe siècle de bâtiments appartenant à des ordres religieux, comme le collège des Jésuites de Moulins – aujourd'hui palais de justice – et le couvent de la Visitation – aujourd'hui lycée Banville – et d'hôtels particuliers, comme l'hôtel Dubuisson de Douzon, l'hôtel de la Feronnays, l'hôtel Héron et l'hôtel Vic de Pontgibaud.",
+  "Lieu « Tour Jacquemart (Moulins) » : La tour Jacquemart est une tour horloge d'une trentaine de mètres de haut située dans le centre de Moulins (Allier, France), appelée ainsi à cause du jacquemart qu'elle porte.",
+  "Lieu « Tour Jacquemart (Moulins) », 1409 : En 1409, le beffroi de Moulins, édifié par les consuls en 1407-1408 (probablement à la place de la tour actuelle), est achevée.",
+  "Lieu « Tour Jacquemart (Moulins) », XVe siècle : Construite au milieu du XVe siècle, elle a été modifiée et restaurée à la suite de différents incendies.",
+  "Lieu « Tour Jacquemart (Moulins) », 1451 : De 1451 à 1455, quatre consulats (les gouvernements de la ville) consécutifs se consacrent à l'acquisition et à la construction d'une tour d'horloge perfectionnée, à l'image de celles construites en Flandre.",
+  "Lieu « Tour Jacquemart (Moulins) », aujourd'hui : On retrouve également cette trace dans : le sobriquet du paysan français.",
+  "Lieu « Chapelle Sainte-Claire de Moulins » : La chapelle Sainte-Claire est une chapelle catholique située à Moulins (Allier).",
+  "Lieu « Chapelle Sainte-Claire de Moulins », 1421 : Un couvent de clarisses colettines est fondé en 1421 par la duchesse de Bourbon qui fait appel à sainte Colette.",
+  "Lieu « Chapelle Sainte-Claire de Moulins », 1685 : Il est situé derrière la tour de la Géole près des remparts, et sa construction se poursuit pendant deux siècles, le couvent étant reconstruit de 1685 à 1691.",
+  "Lieu « Chapelle Sainte-Claire de Moulins », 1794 : En 1794, sous la Terreur, soixante-seize religieux et prêtres réfractaires de la région y sont emprisonnés, avant d'être déportés à Rochefort et tués pour la plupart sur les pontons, ensuite il sert de prison de femmes.",
+  "Lieu « Chapelle Sainte-Claire de Moulins », aujourd'hui : Aujourd'hui la messe dominicale y est célébrée à 18 h 30.",
+  "Lieu « Couvent des Carmes de Moulins » : Le couvent des Carmes est un ancien couvent de Carmes situé à Moulins (Allier) contre l'église Saint-Pierre, l'ancienne église du couvent.",
+  "Lieu « Couvent des Carmes de Moulins », 1384 : En 1384, il est pillé par les bandes anglo-bourguignonnes, puis une assemblée générale des Carmes s'y tient en 1387.",
+  "Lieu « Couvent des Carmes de Moulins », 1411 : En 1411, le couvent est à nouveau ravagé par les armées anglo-bourguignonnes commandées par Amé de Viry et la première église est incendiée.",
+  "Lieu « Couvent des Carmes de Moulins », XVe siècle : L'ensemble est reconstruit tout au long du XVe siècle.",
+  "Lieu « Couvent des Carmes de Moulins », aujourd'hui : Les Carmes arrivent à Moulins en 1351, grâce à un don de terres d'un pieux bourgeois, Jean Rousseau dit Michiel, et construisent leur couvent en 1352 à l'emplacement d'une chapelle à l'extérieur des remparts, dédiée à Notre-Dame de Pitié, avec l'aide financière de Pierre Ier de Bourbon et de Goussaut de Thoury qui s'y fait inhumer en 1380."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

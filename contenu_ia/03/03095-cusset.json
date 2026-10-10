@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "Cusset",
+  "code_insee": "03095",
+  "departement": "03",
+  "population": 13316,
+  "lat": 46.13527778,
+  "lon": 3.45722222,
+  "url": "https://fr.wikipedia.org/wiki/Cusset"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:35:33",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2709,
+  "sortie": 1655
+ },
+ "cout_usd": 0.002611,
+ "accroche": "À Cusset, le tramway à air comprimé est inauguré le 15 décembre 1895, un 3e réseau de ce type en France après Nantes et la région parisienne.",
+ "histoire": {
+  "recit": "Cusset, sur les contreforts de la Montagne bourbonnaise, a longtemps vécu avec son relief et avec sa voisine Vichy. Avant la ville, un oppidum arverne, dit de Viermeux, surveillait l’entrée septentrionale de la Limagne. Plus tard, les vestiges fortifiaient encore la cité : les fortifications de la 2e moitié du XVe siècle ont traversé le temps, au point que la tour calcaire et basalte reste le dernier vestige debout.\n\nAu XIXe siècle, la ville s’organise autour des eaux avec l’établissement thermal de Sainte-Marie, fondé en 1852, où figurent les sources Sainte-Élisabeth et Sainte-Marie. Dans le même élan, Cusset fait circuler des voyageurs par tramway à air comprimé : inauguré le 15 décembre 1895, il relie l’époque industrielle à une forme de transport singulière.\n\nLe centre historique garde aussi ses repères : l’église Saint-Saturnin, reconstruite au XIXe siècle après une décision municipale de démolition en 1857. Et, tout près des routes du rail, la gare de Cusset existe aujourd’hui surtout pour le fret, avec un bâtiment de lampisterie devenu habitation.",
+  "chronologie": [
+   {
+    "date": "IVe siècle av. J.-C.",
+    "texte": "Un site celtique précède l’actuelle ville ; l’oppidum de Viermeux surveille l’entrée septentrionale de la Limagne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "Les sources Sainte-Élisabeth et Sainte-Marie appartiennent à l’établissement thermal de Sainte-Marie, fondé en 1852 par Félix Bertrand.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "15 décembre 1895",
+    "texte": "Le tramway à air comprimé de Cusset, avec Vichy, est inauguré.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1857-1867",
+    "texte": "L’église Saint-Saturnin de Cusset est construite entre 1857 et 1867 dans un style débutant le gothique.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "La municipalité décide en 1857 la démolition de l’ancienne église jugée trop délabrée et trop exiguë.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "4 juillet 1912",
+    "texte": "La construction de la voie normale vers Vichy est terminée ; l’ouverture à l’exploitation a lieu le 4 juillet.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "milieu du XXe siècle",
+    "texte": "La gare cesse d’être ouverte aux voyageurs, tout en restant en service pour le fret.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Cusset",
+   "histoire": "Sur le territoire de la commune, la gare de Cusset se trouve sur la ligne entre Vichy et Cusset.",
+   "anecdotes": [
+    {
+     "texte": "Cusset et Vichy ont connu un tramway à air comprimé, inauguré le 15 décembre 1895.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La gare accueille aujourd’hui un service fret SNCF, avec un bâtiment de lampisterie construit à l’est de la gare et abritant une habitation.",
+   "sources": [
+    "S6",
+    "S9",
+    "S10"
+   ],
+   "lat": 46.138825,
+   "lon": 3.457865,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Cusset"
+  },
+  {
+   "nom": "Maison de Louis XI à Cusset",
+   "histoire": "Cette maison du XVe siècle a été bâtie dans le premier quart du XVe siècle ; elle comprenait deux ailes à l’origine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La maison de Louis XI accueille un restaurant, la « Taverne Louis XI ».",
+   "sources": [
+    "S11",
+    "S13",
+    "S15",
+    "S12"
+   ],
+   "lat": 46.132222,
+   "lon": 3.455895,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_Louis_XI_%C3%A0_Cusset"
+  },
+  {
+   "nom": "Église Saint-Saturnin de Cusset",
+   "histoire": "Dédiée à saint Saturnin, l’église s’installe à l’emplacement d’une église romane construite à la fin du XIe siècle, avant d’être reconstruite au XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 46.1319,
+   "lon": 3.4573,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Saturnin_de_Cusset"
+  },
+  {
+   "nom": "Fortifications de Cusset",
+   "histoire": "Les fortifications de Cusset datent de la 2e moitié du XVe siècle et ont été protégées au titre des monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "À partir de 1767, le fossé est comblé et les murailles servent de carrière.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "En calcaire et en basalte, la tour située au sud-ouest de la ville est le dernier vestige encore debout.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 46.1328,
+   "lon": 3.45336,
+   "url": "https://fr.wikipedia.org/wiki/Fortifications_de_Cusset"
+  },
+  {
+   "nom": "Maison Seive",
+   "histoire": "La maison Seive est une maison construite en 1929 et conçue par les architectes vichyssois Antoine Chanet et Jean Liogier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 46.138084,
+   "lon": 3.446295,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Seive"
+  },
+  {
+   "nom": "Maison à pans de bois (Cusset)",
+   "histoire": "Maison d’angle datant du XVe siècle, elle a accueilli une épicerie après guerre puis une teinturerie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.1296,
+   "lon": 3.4573,
+   "url": "https://fr.wikipedia.org/wiki/Maison_%C3%A0_pans_de_bois_%28Cusset%29"
+  },
+  {
+   "nom": "Générations Star Wars et Science Fiction",
+   "histoire": "Générations Star Wars et Science Fiction est une convention de fans consacrée à l’univers Star Wars et plus largement à la science-fiction, ainsi qu’à d’autres univers de fantasy et apparentés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 46.130162552514,
+   "lon": 3.459255695343,
+   "url": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rations_Star_Wars_et_Science_Fiction"
+  },
+  {
+   "nom": "Maison de l'ancienne rue de la Goutte",
+   "histoire": "La maison de l’ancienne rue de la Goutte se trouve dans le centre historique de Cusset, près de Vichy : elle donne désormais sur un square, une partie de la rue Saturnin-Arloing.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 46.1296,
+   "lon": 3.4578,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_l%27ancienne_rue_de_la_Goutte"
+  }
+ ],
+ "sources": [
+  "Cusset (/ky.sɛ/) est une commune française, intimement liée à sa voisine Vichy et située sur les contreforts de la Montagne bourbonnaise, dans le département de l'Allier, en région Auvergne-Rhône-Alpes. C'est la deuxième commune la plus importante de l'unité urbaine et de l'aire d'attraction de Vichy et de la communauté d'agglomération Vichy Communauté, ainsi que la quatrième commune du département après les trois […]",
+  "Dès le IVe siècle av. J.-C., un site celtique précédait et dominait l'actuelle ville. L'oppidum de Viermeux, oppidum arverne destiné à surveiller l'entrée septentrionale de la Limagne, dont le site est constitué de deux plateaux de 60 hectares dont l'un, de 25 ha abritait plusieurs centaines de familles qui l'abandonnèrent au cours des premiers siècles de notre ère[réf. nécessaire]. De la période gallo-romaine ont […]",
+  "XVIIe siècle : Détruites petit à petit à partir du XVIIe siècle, il n'en subsiste qu'une tour (qui abrite le musée) et des « souterrains », c'est-à-dire les galeries de rez-de-chaussée des portes qui se sont retrouvées enterrées lors du comblement des fossés.",
+  "1852 : Les sources Sainte-Élisabeth et Sainte-Marie appartenaient à l'établissement thermal de Sainte-Marie, fondé en 1852 par Félix Bertrand.",
+  "1895 : Cusset avait la particularité, avec Vichy, de posséder un tramway à air comprimé ; inauguré le 15 décembre 1895, il s'agissait du 3e réseau de ce type créé en France après ceux de Nantes et de la région parisienne.",
+  "Lieu « Gare de Cusset » : La gare de Cusset est une gare ferroviaire française située sur le territoire de la commune de Cusset, dans le sud-est du département de l'Allier, en région Auvergne-Rhône-Alpes, sur la ligne entre Vichy et Cusset.",
+  "Lieu « Gare de Cusset », 1910 : L’horloge Jappy au fronton de l'édifice, porte l'année de construction (1910).",
+  "Lieu « Gare de Cusset », 1912 : La construction de la voie normale vers Vichy est terminée à l'été 1912, avec ouverture à l'exploitation le 4 juillet.",
+  "Lieu « Gare de Cusset », XXe siècle : Fermée aux voyageurs depuis le milieu du XXe siècle, la gare est ouverte au service fret SNCF pour la desserte, sur Cusset, de la carrière des Malavaux (avec un embranchement dédié) et d'un dépôt de carburant.",
+  "Lieu « Gare de Cusset », aujourd'hui : Juste à l'est de la gare, un bâtiment est construit pour abriter la lampisterie (du fait du risque d'incendie, ce bâtiment était dans de nombreuses gares séparé du bâtiment principal, il abrite aujourd'hui une habitation).",
+  "Lieu « Maison de Louis XI à Cusset » : La maison de Louis XI est une maison du XVe siècle située à Cusset, en France.",
+  "Lieu « Maison de Louis XI à Cusset », XVe siècle : Maison du XVe siècle, elle comprenait à l'origine deux ailes : une aile gauche donnant sur la place est masquée en partie par une bâtisse de construction plus tardive et une aile en profondeur qui a brûlé au début du XXe siècle.",
+  "Lieu « Maison de Louis XI à Cusset », XVe siècle : La maison est bâtie dans le premier quart du XVe siècle.",
+  "Lieu « Maison de Louis XI à Cusset », 1928 : L'édifice est classé partiellement (éléments protégés : les façades sur la place Victor-Hugo et le boulevard de l'Hôtel-de-Ville ; façades sur cour correspondantes, y compris la tourelle d'escalier et toitures) au titre des monuments historiques par arrêté du 24 novembre 1928 (l'un des deux seuls classés dans cette ville).",
+  "Lieu « Maison de Louis XI à Cusset », aujourd'hui : Actuellement, la maison de Louis XI accueille un restaurant, la « Taverne Louis XI ».",
+  "Lieu « Église Saint-Saturnin de Cusset » : L'église Saint-Saturnin est un édifice situé dans le centre-ville de Cusset dans le sud-est du département de l'Allier.",
+  "Lieu « Église Saint-Saturnin de Cusset », XIe siècle : Une église romane dédiée à saint Saturnin est construite à la fin du XIe siècle à cet emplacement, cœur de la cité royale qu'était alors Cusset.",
+  "Lieu « Église Saint-Saturnin de Cusset », 1857 : Principal édifice religieux de la ville, elle a été construite entre 1857 et 1867, dans un style début du gothique.",
+  "Lieu « Église Saint-Saturnin de Cusset », 1857 : La municipalité de la ville décide en 1857 de la faire démolir car elle est jugée trop délabrée et trop exiguë.",
+  "Lieu « Fortifications de Cusset » : Les fortifications de Cusset sont des fortifications de la 2e moitié du XVe siècle en partie conservées et protégées au titre des monuments historiques, situées à Cusset, dans le département français de l'Allier.",
+  "Lieu « Fortifications de Cusset », 1767 : À partir de 1767, le fossé est comblé et les murailles servent de carrière.",
+  "Lieu « Fortifications de Cusset », 1996 : L'édifice est inscrit au titre des monuments historiques en 1996.",
+  "Lieu « Fortifications de Cusset », aujourd'hui : En calcaire et en basalte, cette tour, située au sud-ouest de la ville, est le dernier vestige encore debout des fortifications.",
+  "Lieu « Maison Seive » : La maison Seive est une maison située à Cusset, en France.",
+  "Lieu « Maison Seive », 1929 : Construite en 1929, la maison a été conçue par les architectes vichyssois Antoine Chanet et Jean Liogier.",
+  "Lieu « Maison Seive », 2005 : L'édifice est inscrit au titre des monuments historiques en 2005.",
+  "Lieu « Maison à pans de bois (Cusset) » : La maison à pans de bois est une maison d'angle datant du XVe siècle située dans le centre de Cusset (agglomération de Vichy, dans le sud-est du département de l'Allier), en France.",
+  "Lieu « Maison à pans de bois (Cusset) », 1976 : Le bâtiment, a abrité une épicerie après guerre puis une teinturerie, est acheté par la mairie de Cusset en 1976, qui le restaure, lui rendant son aspect original, un crépi ayant recouvert sa façade.",
+  "Lieu « Maison à pans de bois (Cusset) », 2017 : Celui-ci quitte le bâtiment en 2017 pour l'immeuble de la mairie place Victor-Hugo.",
+  "Lieu « Générations Star Wars et Science Fiction » : Générations Star Wars et Science Fiction, parfois abrégé Gen SW, est une convention de fans consacrée à l'univers Star Wars et à la science-fiction en général, mais également aux univers fantastiques et de fantasy, à la bande dessinée et aux comics.",
+  "Lieu « Générations Star Wars et Science Fiction », 2002 : En 2002, pour sa quatrième année, la convention est déplacée en mai afin de coïncider avec la sortie de Star Wars, épisode II : L'Attaque des clones.",
+  "Lieu « Maison de l'ancienne rue de la Goutte » : La maison de l'ancienne rue de la Goutte, se trouve à Cusset, près de Vichy dans le sud-est du département de l'Allier, en France.",
+  "Lieu « Maison de l'ancienne rue de la Goutte », aujourd'hui : La maison est située sur l'ancienne rue de la Goutte, aujourd'hui disparue, et la maison donne désormais sur un square partie de la rue Saturnin-Arloing, dans le centre historique de la ville."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
