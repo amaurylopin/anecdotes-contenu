@@ -1,0 +1,192 @@
+{
+ "commune": {
+  "titre": "Francheville (métropole de Lyon)",
+  "code_insee": "69089",
+  "departement": "69",
+  "population": 15604,
+  "lat": 45.737222,
+  "lon": 4.764167,
+  "url": "https://fr.wikipedia.org/wiki/Francheville_%28m%C3%A9tropole_de_Lyon%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:24:54",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1788,
+  "sortie": 1441
+ },
+ "cout_usd": 0.002159,
+ "accroche": "À Francheville, le fort du Bruissin est construit de 1878 à 1881. ",
+ "histoire": {
+  "recit": "Francheville s’installe très tôt sur les voies qui relient Lugdunum à ses environs : les pistes des marchands sont remplacées par des voies romaines, et la « franca villa » prend une importance particulière.\n\nPlus tard, la commune se lit aussi dans ses ouvrages. Sur un escarpement rocheux, le château de Francheville domine ; il ne reste d’ailleurs qu’un donjon ruiné aux deux tiers, et une vieille procédure judiciaire évoque un accès sans pont-levis, par échelle.\n\nLe Fort du Bruissin, lui, est un projet militaire plus tardif, mené de 1878 à 1881. La commune le rachète en 1979 : le lieu devient « Cité des Artistes », où des salles servent d’ateliers.\n\nEnfin, l’église Saint-Roch garde ses détails : au XVIIe siècle, le cimetière occupe le jardin de la cure actuelle, et une chapelle Saint-Priest est supposée s’y trouver avant l’agrandissement des bâtiments. Aujourd’hui, il n’y a pas de traces de porte : l’entrée devait se faire au sud ou au nord.",
+  "chronologie": [
+   {
+    "date": "Antiquité",
+    "texte": "La proximité de Lugdunum et les voies romaines renforcent l’importance de Francheville, décrite comme une « franca villa ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Le château de Francheville est fondé au XIIe siècle, avant qu’il n’en reste que le donjon ruiné aux deux tiers.",
+    "sources": [
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "date": "vers 1200",
+    "texte": "Du château primitif, il ne subsiste qu’un donjon ruiné aux deux tiers, au sommet d’un escarpement rocheux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1514",
+    "texte": "En 1514, une action en justice signale un château sans pont-levis : il faut entrer par une échelle.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1878-1881",
+    "texte": "Le fort du Bruissin est construit à Francheville, de 1878 à 1881.",
+    "sources": [
+     "S8",
+     "S9"
+    ]
+   },
+   {
+    "date": "1979",
+    "texte": "Racheté par la commune en 1979, le fort est transformé en « Cité des Artistes » en 1991, avec des artistes utilisant les salles comme ateliers.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le cimetière de l’église Saint-Roch occupe le jardin de la cure actuelle ; la chapelle Saint-Priest est supposée s’y trouver.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1651",
+    "texte": "Antoine Richard et Jeanne de Rodillas font bâtir une chapelle privée sous le vocable de Saint-Joseph.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "En 1862, le clocher est démoli et reconstruit : il est porté à 32 mètres au lieu de 28.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Francheville",
+   "histoire": "Un ancien château fort fondé au XIIe siècle, dont les ruines se dressent sur Francheville. Du château primitif, il ne subsiste qu’un donjon ruiné aux deux tiers, sur un escarpement rocheux.",
+   "anecdotes": [
+    {
+     "texte": "En 1514, on signale que le château n’a pas de pont-levis et qu’il faut entrer par une échelle.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, on peut encore voir une fenêtre et une niche tapissée de briques.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une fenêtre et une niche tapissée de briques sont encore visibles.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 45.736493,
+   "lon": 4.770148,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Francheville"
+  },
+  {
+   "nom": "Fort du Bruissin",
+   "histoire": "Fort militaire construit à Francheville de 1878 à 1881. Racheté par la commune en 1979, il est ensuite transformé en « Cité des Artistes ».",
+   "anecdotes": [
+    {
+     "texte": "Durant la Seconde Guerre mondiale, le fort, occupé par les Allemands, aurait contenu des munitions pour le bombardement des ponts de Lyon, ou servi de poste de commandement.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le fort a été transformé en « Cité des Artistes », où des artistes utilisent les salles comme atelier.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 45.730532,
+   "lon": 4.738508,
+   "url": "https://fr.wikipedia.org/wiki/Fort_du_Bruissin"
+  },
+  {
+   "nom": "Église Saint-Roch de Francheville (métropole de Lyon)",
+   "histoire": "Église paroissiale catholique dédiée à Saint-Roch. Au fil des reconstructions, son clocher a été démoli et reconstruit en 1862.",
+   "anecdotes": [
+    {
+     "texte": "Au XVIIe siècle, le cimetière occupe le jardin de la cure actuelle : la chapelle Saint-Priest est probablement à placer à cet endroit avant l’agrandissement de la maison presbytérale.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il n’y a pas de traces de porte : l’entrée devait se faire soit au sud, soit au nord.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 45.73748,
+   "lon": 4.76495,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Roch_de_Francheville_%28m%C3%A9tropole_de_Lyon%29"
+  }
+ ],
+ "sources": [
+  "Francheville est une commune française de la métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "En raison de sa proximité immédiate avec l'ancienne capitale des Gaules, Lugdunum, et de son rôle stratégique précoce dès l'Antiquité, Francheville est historiquement qualifiée de première banlieue de Lyon[pas clair]. Avec la civilisation romaine, « franca villa », prend une importance toute particulière. En effet, les voies romaines, en partance de Lugdunum, remplacent les pistes des marchands. À Francheville, il […]",
+  "Lieu « Château de Francheville » : Le château de Francheville est un ancien château fort, fondé au XIIe siècle, dont les ruines se dressent sur la commune de Francheville dans la collectivité territoriale de la Métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Francheville », XIIe siècle : Le château de Francheville est un ancien château fort, fondé au XIIe siècle, dont les ruines se dressent sur la commune de Francheville dans la collectivité territoriale de la Métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Francheville », 1200 : Il ne subsiste du château primitif, construit vers 1200, qu'un donjon ruiné aux deux tiers, au sommet d'un escarpement rocheux.",
+  "Lieu « Château de Francheville », 1514 : En 1514, une action en justice nous renseigne sur le mauvais état de la bâtisse ; « Le château n’a pas de pont-levis et il faut entrer par une échelle.",
+  "Lieu « Château de Francheville », aujourd'hui : Une fenêtre, ainsi qu'une niche tapissée de briques, sont encore visibles.",
+  "Lieu « Fort du Bruissin » : Le fort du Bruissin est un fort militaire construit à Francheville de 1878 à 1881.",
+  "Lieu « Fort du Bruissin », 1878 : Le fort du Bruissin est un fort militaire construit à Francheville de 1878 à 1881.",
+  "Lieu « Fort du Bruissin », 1979 : Racheté par la commune de Francheville en 1979, le bâtiment est transformé en \"Cité des Artistes\" en 1991, dans laquelle des artistes utilisent les salles du fort comme atelier.",
+  "Lieu « Fort du Bruissin », 1981 : En 1981, le fort est vendu à la commune de Francheville.",
+  "Lieu « Fort du Bruissin », aujourd'hui : Durant la Seconde Guerre mondiale, le fort, occupé par les Allemands, aurait contenu les munitions pour le bombardement des ponts de Lyon, ou un poste de commandement.",
+  "Lieu « Église Saint-Roch de Francheville (métropole de Lyon) » : L'église Saint-Roch de Francheville est une église paroissiale de culte catholique, dédiée à Saint-Roch, située dans la commune française de Francheville et la collectivité territoriale de la Métropole de Lyon.",
+  "Lieu « Église Saint-Roch de Francheville (métropole de Lyon) », XVIIe siècle : Elle était située dans le cimetière de l'église paroissiale : « Nous savons qu'au XVIIe siècle, le cimetière occupait le jardin de la cure actuelle , c'est probablement là qu'il faut placer la chapelle Saint-Priest qui a dû faire place à l'agrandissement des bâtiments de la maison presbytérale. ».",
+  "Lieu « Église Saint-Roch de Francheville (métropole de Lyon) », 1651 : En 1651 Antoine Richard, sieur du Colombier, et Jeanne de Rodillas, sa femme, firent bâtir à leurs dépens une chapelle privée sous le vocable de Saint-Joseph.",
+  "Lieu « Église Saint-Roch de Francheville (métropole de Lyon) », 1862 : En 1862 le clocher est démoli et reconstruit, élevé à 32 mètres au lieu de 28.",
+  "Lieu « Église Saint-Roch de Francheville (métropole de Lyon) », aujourd'hui : Il n'y a pas de traces de porte, l'entrée devait se faire soit au sud , soit au nord ."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 4
+ }
+}

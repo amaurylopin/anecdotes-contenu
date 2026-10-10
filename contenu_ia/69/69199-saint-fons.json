@@ -1,0 +1,80 @@
+{
+ "commune": {
+  "titre": "Saint-Fons",
+  "code_insee": "69199",
+  "departement": "69",
+  "population": 19285,
+  "lat": 45.709444,
+  "lon": 4.853889,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Fons"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:13:19",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1077,
+  "sortie": 672
+ },
+ "cout_usd": 0.001055,
+ "accroche": "La gare de Saint-Fons a été ouverte le 16 avril 1855, sur la ligne de Paris-Lyon à Marseille-Saint-Charles. ",
+ "histoire": {
+  "recit": "Saint-Fons est une commune du Rhône, dans la métropole de Lyon, juste au sud de Lyon. Ses habitants sont les Saint-Foniards. Longtemps, son destin s’est confondu avec celui de Vénissieux : avant 1888, Saint-Fons n’était qu’un hameau du bourg de Vénissieux, essentiellement agricole.\n\nLe tournant se lit aussi dans ses voies de passage. Traversée par la route nationale 7 et par l’artère impériale, c’est-à-dire le chemin de fer de Paris à Lyon et Marseille, la commune s’est rapprochée des grands axes. Et dans cet ensemble, la gare a pris une place nette : sur le territoire de Saint-Fons, elle appartient à la ligne de Paris-Lyon à Marseille-Saint-Charles.",
+  "chronologie": [
+   {
+    "date": "Avant 1888",
+    "texte": "Saint-Fons n’est alors qu’un hameau du bourg de Vénissieux, essentiellement agricole.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1888",
+    "texte": "Saint-Fons devient une commune indépendante, après une histoire étroitement liée à celle de Vénissieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "16 avril 1855",
+    "texte": "La gare de Saint-Fons est ouverte par la Compagnie du chemin de fer de Lyon à la Méditerranée.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Saint-Fons",
+   "histoire": "La gare de Saint-Fons est une gare ferroviaire de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de Saint-Fons dans la métropole de Lyon. Elle aurait été ouverte le 16 avril 1855 par la Compagnie du chemin de fer de Lyon à la Méditerranée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La gare de Saint-Fons dessert la ligne de Paris-Lyon à Marseille-Saint-Charles.",
+   "sources": [
+    "S3"
+   ],
+   "lat": 45.70581,
+   "lon": 4.852521,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Fons"
+  }
+ ],
+ "sources": [
+  "Saint-Fons (prononcé : [sɛ̃ fɔ̃]) est une commune française, située en région Auvergne-Rhône-Alpes dans le département du Rhône. Elle fait partie de la métropole de Lyon et se trouve juste au sud de Lyon. Les habitants de Saint-Fons sont appelés les Saint-Foniards.",
+  "Jusqu'en 1888, l'histoire de Saint-Fons était étroitement liée à celle de Vénissieux. Ce n'est en effet qu'à cette date que Saint-Fons est devenue une commune indépendante. Antérieurement, elle était un hameau du bourg de Vénissieux, essentiellement agricole. Traversée par la route nationale 7 et par l’artère impériale (chemin de fer de Paris à Lyon et Marseille) établie par Napoléon III, les activités de Saint-Fons […]",
+  "Lieu « Gare de Saint-Fons » : La gare de Saint-Fons est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune de Saint-Fons, dans la métropole de Lyon, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Saint-Fons », 1855 : La gare de Saint-Fons fut ouverte le 16 avril[réf. nécessaire]1855 par la Compagnie du chemin de fer de Lyon à la Méditerranée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

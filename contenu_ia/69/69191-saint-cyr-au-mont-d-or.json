@@ -1,0 +1,171 @@
+{
+ "commune": {
+  "titre": "Saint-Cyr-au-Mont-d'Or",
+  "code_insee": "69191",
+  "departement": "69",
+  "population": 6327,
+  "lat": 45.815278,
+  "lon": 4.818889,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Cyr-au-Mont-d%27Or"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:48:43",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1508,
+  "sortie": 1058
+ },
+ "cout_usd": 0.001624,
+ "accroche": "À Saint-Cyr-au-Mont-d'Or, le château de Saint-Cyr a été reconstruit vers 1210, et ses vestiges dominent encore le bourg depuis le donjon.",
+ "histoire": {
+  "recit": "Sur le site de Saint-Cyr, la vie s’est installée très tôt : à l’époque gallo-romaine, les sources abondantes servaient à alimenter en eau les thermes et le bain du forum de Lugdunum, et l’on retrouve encore des ruines d’un ancien aqueduc des monts d’Or sur la commune. Plus près de nous, le château de Saint-Cyr a connu une histoire de bâtisseurs et de reconstructions : d’abord une fondation au XIIe siècle, puis des travaux au début du XIIIe. Dans le paysage, le mont Thou garde aussi une trace plus récente, liée aux radars, tandis que le Château-Perret a marqué le lieu par un incendie spectaculaire au cœur du XXe siècle.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle (3e quart du XIIe)",
+    "texte": "Le château de Saint-Cyr est fondé au 3e quart du XIIe siècle, avant une reconstruction ultérieure.",
+    "sources": [
+     "S3",
+     "S5"
+    ]
+   },
+   {
+    "date": "1154",
+    "texte": "Girin de Rosset, sénéchal de l’Église de Lyon, fait bâtir le château ; la construction est complétée par Dalmace Morel.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "fin XIIe (jusqu’à -1185)",
+    "texte": "Dalmace Morel complète la construction du château de Saint-Cyr.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1210",
+    "texte": "Le château de Saint-Cyr est reconstruit vers 1210, à l’initiative de l’archevêque de Lyon, Renaud II de Forez.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Au sommet du mont Thou, un radar militaire « Palmier » (« radar boule ») est construit.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1928",
+    "texte": "Le 27 juin 1928, le Château-Perret appartenant à Louis Canavy est victime d’un incendie.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "En mai 2018, le radar « Palmier » du mont Thou est remplacé par un Ground Master 406.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Saint-Cyr",
+   "histoire": "Un ancien château fort, fondé au 3e quart du XIIe siècle puis reconstruit vers 1210, dont il subsiste le donjon. Il domine le bourg, sur la commune de Saint-Cyr-au-Mont-d'Or.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le donjon subsiste et le château domine le bourg.",
+   "sources": [
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "lat": 45.814722,
+   "lon": 4.817778,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saint-Cyr"
+  },
+  {
+   "nom": "Mont Thou",
+   "histoire": "Deuxième plus haut sommet des monts d’Or, le mont Thou atteint 611 mètres d’altitude. Il a aussi accueilli un équipement radar au sommet.",
+   "anecdotes": [
+    {
+     "texte": "Au mont Thou, le radar « Palmier » (« radar boule ») construit en 1970 est décrit comme un volumineux dispositif : 100 m2 de surface, 15 tonnes, et six tours par minute.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En mai 2018, le radar « Palmier » a été remplacé par un radar de type Ground Master 406.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 45.841111,
+   "lon": 4.796389,
+   "url": "https://fr.wikipedia.org/wiki/Mont_Thou"
+  },
+  {
+   "nom": "Château-Perret",
+   "histoire": "Le Château-Perret est installé à flanc de pente, dominant la vallée de la Saône, rue Jean-Baptiste Perret, sur la commune de Saint-Cyr-au-Mont-d'Or.",
+   "anecdotes": [
+    {
+     "texte": "Le 27 juin 1928, le Château-Perret, alors propriété de Louis Canavy, est victime d’un incendie causant pour six cent mille francs de dégâts.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 45.818801,
+   "lon": 4.835551,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau-Perret"
+  }
+ ],
+ "sources": [
+  "Saint-Cyr-au-Mont-d'Or est une commune française située dans la métropole de Lyon, dans la région d'Auvergne-Rhône-Alpes. Ses habitants sont appelés les Saint-Cyrôts.",
+  "Proche de Lyon, le site de Saint-Cyr a été habité depuis les périodes les plus anciennes. À l’époque gallo-romaine, l’abondance des sources a été utilisée pour approvisionner en eau les thermes et le bain du forum de Lugdunum. On retrouve encore des ruines de l'ancien aqueduc des monts d'Or sur la commune. À la Renaissance, la ville de Lyon a connu une expansion économique considérable. De riches Lyonnais ont […]",
+  "Lieu « Château de Saint-Cyr » : Le château de Saint-Cyr est un ancien château fort, fondé dans le 3e quart du XIIe siècle, reconstruit en 1210, dont les vestiges se dressent sur la commune de Saint-Cyr-au-Mont-d'Or dans la métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Saint-Cyr », 1154 : Girin de Rosset ( -1154), sénéchal de l’Église de Lyon fait bâtir le château et la construction est complétée par Dalmace Morel ( -1185) puis reconstruit vers 1210 par l'archevêque de Lyon, Renaud II de Forez.",
+  "Lieu « Château de Saint-Cyr », 1210 : Le château de Saint-Cyr est un ancien château fort, fondé dans le 3e quart du XIIe siècle, reconstruit en 1210, dont les vestiges se dressent sur la commune de Saint-Cyr-au-Mont-d'Or dans la métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Saint-Cyr », aujourd'hui : Le château de Saint-Cyr, dont il subsiste le donjon, est situé dans la métropole de Lyon sur la commune de Saint-Cyr-au-Mont-d'Or, dominant le bourg.",
+  "Lieu « Mont Thou » : Le mont Thou est, avec ses 611 mètres d'altitude, le deuxième plus haut sommet, derrière le mont Verdun (626 mètres), des monts d'Or, au nord-ouest de Lyon.",
+  "Lieu « Mont Thou », 1970 : Au sommet se trouvait un radôme militaire (« radar boule »), un volumineux radar « Palmier » construit en 1970 (100 m2 de surface, 15 tonnes, six tours par minute).",
+  "Lieu « Mont Thou », aujourd'hui : En mai 2018 le radar « Palmier » a été remplacé par un radar de type Ground Master 406, plus moderne.",
+  "Lieu « Château-Perret » : Le Château-Perret, est situé à flanc de pente, dominant la vallée de la Saône, rue Jean-Baptiste Perret, sur la commune de Saint-Cyr-au-Mont-d'Or dans le département français du Rhône en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château-Perret », 1928 : Le 27 juin 1928, le château, qui appartient à Louis Canavy, est victime d'un incendie occasionnant pour six cent mille francs de dégâts."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIIe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

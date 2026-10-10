@@ -1,0 +1,209 @@
+{
+ "commune": {
+  "titre": "Dardilly",
+  "code_insee": "69072",
+  "departement": "69",
+  "population": 9221,
+  "lat": 45.806388,
+  "lon": 4.753611,
+  "url": "https://fr.wikipedia.org/wiki/Dardilly"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:05:40",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2333,
+  "sortie": 1328
+ },
+ "cout_usd": 0.002127,
+ "accroche": "En 1650, Dardilly prend son nom du marchand auvergnat Pécoil, installé à Lyon, en souvenir du lieudit de son village natal dans le Puy-de-Dôme.",
+ "histoire": {
+  "recit": "Sur le plateau lyonnais, à l’ouest et à l’est, Dardilly se dessine entre roches dures et reliefs. Son nom naît avec un homme de commerce : en 1650, Pécoil s’en porte acquéreur et choisit de rappeler son village du Puy-de-Dôme.\n\nPlus tard, le grand bâtiment vise le terme de château : il n’est construit qu’à partir de 1778, par un maître maçon creusois. La Révolution change le destin du lieu : devenu bien national, il doit abriter en même temps la mairie, l’école de garçons, et le desservant de la paroisse.\n\nLe bourg se réorganise aussi : la vieille église doit être démolie en 1852. Les travaux s’enchaînent, et le 13 mars 1853, Beaujolin, vicaire général, bénit le nouvel édifice, placé sous le vocable de saint Claude. Dans le parc du château, la chapelle attend encore : elle ne se construit que beaucoup plus tard, en 1870. Au même moment, la vie locale bouge : la mécanisation réduit l’emploi agricole et le minimum démographique est atteint en 1911.",
+  "chronologie": [
+   {
+    "date": "1650",
+    "texte": "Le nom de Dardilly vient de l’acquéreur Pécoil, marchand auvergnat installé à Lyon, en souvenir d’un lieudit dans le Puy-de-Dôme.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1778",
+    "texte": "Le bâtiment que l’on appelle « château » est construit à partir de 1778 par un maître maçon creusois.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Le bâtiment devient bien national en 1790 ; par décision de 1803, il doit accueillir la mairie et l’école de garçons, ainsi que le desservant et l’instituteur.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1803",
+    "texte": "En 1803, à 17 ans, il est possible de fréquenter l’école ouverte par la municipalité dans les locaux du presbytère.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "La vieille église doit être démolie en 1852 ; l’ancienne cure paroissiale reste un témoin au cœur du bourg.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1853",
+    "texte": "Les travaux de reconstruction sont achevés dès 1853, et le 13 mars 1853 le nouvel édifice est béni par Beaujolin.",
+    "sources": [
+     "S9",
+     "S10"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "La chapelle du parc au-devant du château est construite en 1870.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1883",
+    "texte": "Un fort est construit entre 1883 et 1886, enterré derrière un fossé long de 700 mètres.",
+    "sources": [
+     "S12",
+     "S20"
+    ]
+   },
+   {
+    "date": "1911",
+    "texte": "Le minimum démographique est atteint en 1911, après un déclin lié à la mécanisation des tâches agricoles.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Jean-Marie-Vianney de Dardilly",
+   "histoire": "L’édifice actuel est une église néo-romane construite de 1852 à 1869 sur l’emplacement de l’ancien édifice et du cimetière. De l’ancien, il ne reste qu’un bénitier en pierre et la cuve baptismale en cuivre rouge datant de 1600, utilisée pour le baptême de Jean-Marie Vianney, futur curé d’Ars, alors qu’il était installé dans une autre église. Le patronage change : après saint Pancrace, l’église est placée sous saint Jean-Marie Vianney en 1973.",
+   "anecdotes": [
+    {
+     "texte": "La cuve baptismale en cuivre rouge datant de 1600 conserve le souvenir du baptême de Jean-Marie Vianney, futur curé d’Ars, lorsqu’il était encore dans une autre église.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 45.80531611,
+   "lon": 4.75300611,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Marie-Vianney_de_Dardilly"
+  },
+  {
+   "nom": "Fort du Paillet",
+   "histoire": "Fort construit entre 1883 et 1886 à Dardilly, au nord-ouest de Lyon, couvrant un secteur allant de La Tour-de-Salvagny à Limonest. Conçu selon les règles adaptées à l’évolution de l’artillerie, il est enterré derrière un fossé long de 700 mètres et se confond avec le relief.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’entrée du fort était assurée par un pont-levis à bascule, aujourd’hui figé, menant au second niveau de la caserne.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 45.825342,
+   "lon": 4.746941,
+   "url": "https://fr.wikipedia.org/wiki/Fort_du_Paillet"
+  },
+  {
+   "nom": "Gare de Dardilly-les-Mouilles",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "À partir de juillet 2022, la gare est fermée à la circulation en raison de travaux de rénovation de la ligne entre Tassin et Lozanne et est desservie par un service d’autocars de substitution.",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 45.796822,
+   "lon": 4.759963,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Dardilly-les-Mouilles"
+  },
+  {
+   "nom": "Gare de Dardilly-le-Jubin",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "À partir de juillet 2022, la gare est fermée à la circulation en raison de travaux de rénovation de la ligne entre Tassin et Lozanne et est desservie par un service d’autocars de substitution.",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 45.815319,
+   "lon": 4.761224,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Dardilly-le-Jubin"
+  },
+  {
+   "nom": "Manoir de Parsonge",
+   "histoire": "Ancienne maison forte située au nord est de la commune de Dardilly.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le manoir appartient de nos jours à la commune de Dardilly.",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 45.81889,
+   "lon": 4.75694,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Parsonge"
+  }
+ ],
+ "sources": [
+  "Dardilly [daʁdiji] est une commune française située dans la métropole de Lyon, au sein du département du Rhône, en région Auvergne-Rhône-Alpes.",
+  "Le territoire de Dardilly fait partie du plateau lyonnais. (Par cette expression, les géographes désignent le gradin intermédiaire entre les monts du Lyonnais à l’ouest et les plaines rhodaniennes à l’est, étiré du nord au sud sur une trentaine de km jusqu’au confluent du Gier avec le Rhône). Il en a les deux caractéristiques essentielles : la structure géologique de roches dures, granitiques et métamorphiques, qui […]",
+  "1650 : Ce n’est pas le bourgeois lyonnais premier propriétaire qui lui a donné son nom mais celui qui s’en est porté acquéreur en 1650, un marchand auvergnat du nom de Pécoil installé à Lyon, en souvenir du lieudit de son village natal dans le Puy-de-Dôme.",
+  "1778 : Et pourtant, la construction du bâtiment qui mérite le terme de château n’a été construit qu’à partir de 1778 par un maître maçon creusois.",
+  "1790 : En fait, devenu bien national en 1790, par une décision de 1803, le bâtiment et ses dépendances devaient abriter la mairie et l’école de garçons, en même temps que le desservant de la paroisse et l’instituteur.",
+  "1803 : En revanche, il est parmi les premiers, en 1803, à 17 ans à pouvoir fréquenter l’école ouverte par la municipalité dans les locaux du presbytère.",
+  "1848 : Au lendemain de la Révolution de 1848, cette relative unanimité explose lorsque, en 1850, une nouvelle municipalité fait le choix d’une nouvelle église au Bourg, conformément aux vœux des quartiers du bas attachés aux anciennes traditions.",
+  "1852 : Alors que la vieille église devait être démolie en 1852, cette ancienne cure paroissiale reste le seul témoin au cœur du bourg de la vivacité des racines religieuses des Dardillois.",
+  "1853 : Les travaux furent immédiatement entrepris et furent achevés dès 1853.",
+  "1853 : Le 13 mars 1853, Beaujolin, vicaire général de l’archevêché bénit le nouvel édifice qui fut placé sous le vocable de saint Claude patron du donateur du terrain ».",
+  "1870 : Dans le parc au-devant du château, la chapelle n’a été construite que beaucoup plus tard, en 1870.",
+  "1883 : Construit entre 1883 et 86 selon les nouvelles règles adaptées à l’évolution de l’artillerie, il est enterré derrière un fossé long de 700 mètres et se confond avec le relief.",
+  "1908 : Enfin, quand l’école catholique des sœurs de Saint-Joseph a été réinstallée dans des bâtiments neufs en 1908, elle est restée dans le même voisinage.",
+  "1911 : La jeunesse, en partie libérée par le début de la mécanisation des tâches agricoles va y chercher un emploi entraînant un certain déclin démographique (le minimum est atteint en 1911 avec 981 habitants).",
+  "Lieu « Église Saint-Jean-Marie-Vianney de Dardilly » : L'église Saint-Jean-Marie Vianney de Dardilly est un édifice religieux catholique situéu 12 avenue de Verdun à Dardilly.",
+  "Lieu « Église Saint-Jean-Marie-Vianney de Dardilly », 1600 : De l'ancien édifice il ne reste qu'un bénitier en pierre et la cuve baptismale en cuivre rouge datant de 1600, dans lequel Jean-Marie Vianney, le futur curé d’Ars, a été baptisé en 1786 alors qu'il était encore installé dans une autre église.",
+  "Lieu « Église Saint-Jean-Marie-Vianney de Dardilly », 1852 : L'église de style néo-roman est construite de 1852 à 1869 sur l’emplacement de l’ancien édifice et du cimetière.",
+  "Lieu « Église Saint-Jean-Marie-Vianney de Dardilly », 1973 : L'édifice a d'abord été placé sous le patronage de saint Pancrace puis en 1973 sous le patronage de saint Jean-Marie Vianney, saint patron « de tous les curés du monde » né à Dardilly.",
+  "Lieu « Fort du Paillet » : Le fort du Paillet est un fort construit entre 1883 et 1886 dans la commune de Dardilly, au nord-ouest de Lyon, couvrant un secteur allant de La Tour-de-Salvagny à Limonest.",
+  "Lieu « Fort du Paillet », 1883 : Le fort du Paillet est un fort construit entre 1883 et 1886 dans la commune de Dardilly, au nord-ouest de Lyon, couvrant un secteur allant de La Tour-de-Salvagny à Limonest.",
+  "Lieu « Fort du Paillet », aujourd'hui : L'entrée du fort était assurée par un pont-levis à bascule aujourd'hui figé menant au second niveau de la caserne.",
+  "Lieu « Gare de Dardilly-les-Mouilles » : La gare de Dardilly-les-Mouilles est une gare ferroviaire française située sur la commune de Dardilly dans la métropole de Lyon et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Dardilly-les-Mouilles », 2022 : À partir de juillet 2022, la gare est fermée à la circulation en raison de travaux de rénovation de la ligne entre Tassin et Lozanne et est desservie par un service d'autocars de substitution.",
+  "Lieu « Gare de Dardilly-le-Jubin » : La gare de Dardilly-le-Jubin est une gare ferroviaire française située sur la commune de Dardilly dans la métropole de Lyon et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Dardilly-le-Jubin », 2022 : À partir de juillet 2022, la gare est fermée à la circulation en raison de travaux de rénovation de la ligne entre Tassin et Lozanne et est desservie par un service d'autocars de substitution.",
+  "Lieu « Manoir de Parsonge » : Le manoir de Parsonge est une ancienne maison forte, situé au nord est de la commune de Dardilly, dans la métropole de Lyon.",
+  "Lieu « Manoir de Parsonge », aujourd'hui : Le manoir appartient de nos jours à la commune de Dardilly."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "commune": {
+  "titre": "Grigny-sur-Rhône",
+  "code_insee": "69096",
+  "departement": "69",
+  "population": 10030,
+  "lat": 45.60916667,
+  "lon": 4.79055556,
+  "url": "https://fr.wikipedia.org/wiki/Grigny-sur-Rh%C3%B4ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:00",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1595,
+  "sortie": 1475
+ },
+ "cout_usd": 0.002163,
+ "accroche": "À Grigny-sur-Rhône, la gare de triage de Badan existe dans le quartier de la ville et a compté, dès 1881, un dépôt de locomotives avec rotondes aujourd’hui disparues.",
+ "histoire": {
+  "recit": "À Grigny-sur-Rhône, l’occupation du site remonte à l’âge du Bronze, puis se poursuit sans interruption repérable tout au long de l’Antiquité. Les “trouvailles du Vieux Port”, et des outils ou armes trouvés lors d’un dragage du Rhône, dessinent une présence ancienne et persistante.\n\nPlus tard, le château vient marquer le paysage : en 1646, Jean de Moulceau le fait bâtir, avec des peintures murales de la même époque. Puis, au rythme du chemin de fer, le quartier de Badan devient un cœur de triage. La gare de triage de Badan accueille des installations où l’on stocke des locomotives et où des rotondes se succèdent.\n\nEn 1944, le triage et le viaduc subissent les bombardements : le viaduc de la Méditerranée est reconstruit après la démolition de l’ancien ouvrage. Aujourd’hui, une seule rotonde subsiste à Badan, à l’abandon, après la fermeture des “ateliers de Badan”. Les habitants, les Grignerots ou les Grignerotes, sont 10 030 en 2023.",
+  "chronologie": [
+   {
+    "date": "1646",
+    "texte": "Jean de Moulceau fait bâtir le château, richement décoré de peintures murales de la même époque.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "31 décembre 2024",
+    "texte": "La commune, anciennement appelée Grigny, est nommée Grigny-sur-Rhône jusqu’au 31 décembre 2024.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "Au sein du triage de Badan, un dépôt de locomotives existe depuis 1881.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1905",
+    "texte": "Une rotonde en pierre, munie d’une coupole couvrant la plaque tournante, est construite en 1905.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "27 juillet 1944",
+    "texte": "Le triage de Badan est bombardé, notamment par l’aviation britannique alliée.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Le viaduc de la Méditerranée est reconstruit après la démolition de l’ancien viaduc par bombardement.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "Une rotonde en béton armé est construite en 1945.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2023",
+    "texte": "La commune compte 10 030 habitants en 2023.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de triage de Badan",
+   "histoire": "La gare de triage de Badan est une gare de triage ferroviaire située à Badan, quartier de Grigny-sur-Rhône, dans la métropole de Lyon.",
+   "anecdotes": [
+    {
+     "texte": "Le triage a été bombardé le 27 juillet 1944, notamment par l’aviation britannique alliée.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Depuis 1881, le triage comptait un dépôt de locomotives, avec des rotondes successives dont deux aujourd’hui disparues.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 45.604049,
+   "lon": 4.785533,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_triage_de_Badan"
+  },
+  {
+   "nom": "Viaduc de la Méditerranée",
+   "histoire": "Le viaduc de la Méditerranée, aussi dit viaduc de Chasse, est un pont ferroviaire en arc à tablier intermédiaire suspendu qui enjambe le Rhône entre Ternay et Grigny.",
+   "anecdotes": [
+    {
+     "texte": "Après les bombardements de 1944, l’ancien viaduc est démoli puis le viaduc est reconstruit.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Selon Jean François, l’ancien ouvrage, dont les fondations subsistent en partie, a déterminé une grande part des caractéristiques du nouveau viaduc.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les fondations de l’ancien ouvrage subsistent en partie et ont influencé le nouveau viaduc.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 45.59383,
+   "lon": 4.7847,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_la_M%C3%A9diterran%C3%A9e"
+  },
+  {
+   "nom": "Rotonde ferroviaire de Grigny",
+   "histoire": "La rotonde ferroviaire de Grigny est une rotonde du dépôt de Badan, située dans la gare de triage de Badan.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, la rotonde est bombardée puis remise en état par l’entreprise Boussiron.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, une seule rotonde subsiste : elle est à l’abandon à la suite de la fermeture des “ateliers de Badan”.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une seule rotonde subsiste aujourd’hui, à l’abandon après la fermeture des “ateliers de Badan”.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 45.603083,
+   "lon": 4.788219,
+   "url": "https://fr.wikipedia.org/wiki/Rotonde_ferroviaire_de_Grigny"
+  }
+ ],
+ "sources": [
+  "Grigny-sur-Rhône, anciennement Grigny jusqu'au 31 décembre 2024, est une commune française de la métropole de Lyon, en région Auvergne-Rhône-Alpes. Elle compte 10 030 habitants en 2023. Les habitants sont appelés les Grignerots ou Grignerotes.",
+  "L'occupation humaine du site de Grigny remonte à l'âge du Bronze et s'avère constante tout au long de l'Antiquité. L'existence de populations à Grigny semble remonter à l'époque pré- et protohistorique par les « trouvailles du Vieux Port » constituées d'objets de l'âge du Bronze. Des outils et armes datant de cette période et de celle de l'âge du Fer ont été retrouvés lors d'un dragage du Rhône. Les vestiges […]",
+  "1646 : Par ailleurs, son château, bâti en 1646 par Jean de Moulceau, est richement décoré de peintures murales de la même époque et dont la quantité et la qualité de conservation sont uniques en Rhône-Alpes[réf. nécessaire].",
+  "Lieu « Gare de triage de Badan » : La gare de triage de Badan est une gare de triage ferroviaire française située à Badan, quartier de la ville de Grigny-sur-Rhône, dans la métropole de Lyon.",
+  "Lieu « Gare de triage de Badan », 1881 : Au sein du triage, il existait depuis 1881, un dépôt de locomotives contenant deux rotondes aujourd'hui disparues : une rotonde construite en pierre et munie d'une coupole couvrant la plaque tournante, construite en 1905 ; une rotonde en béton armé, construite en 1945.",
+  "Lieu « Gare de triage de Badan », 1944 : Le triage fut bombardé, notamment par l'aviation britannique alliée le 27 juillet 1944 vers la fin de la Seconde Guerre mondiale.",
+  "Lieu « Gare de triage de Badan », aujourd'hui : Une seule rotonde subsiste mais est à l'abandon, à la suite de la fermeture des « ateliers de Badan ».",
+  "Lieu « Viaduc de la Méditerranée » : Le viaduc de la Méditerranée (dit aussi viaduc de Chasse) est un pont ferroviaire en arc à tablier intermédiaire suspendu qui enjambe le Rhône entre Ternay et Grigny (Rhône).",
+  "Lieu « Viaduc de la Méditerranée », 1944 : Le viaduc est reconstruit après la démolition de l'ancien viaduc par bombardement en 1944.",
+  "Lieu « Viaduc de la Méditerranée », aujourd'hui : Jean François, adjoint de Nicolas Esquillan, indiquait : « l'ancien ouvrage, dont les fondations subsistent en partie, a déterminé les caractéristiques du nouveau viaduc, le passage provisoire en a conditionné l'exécution pour une très grande part ».",
+  "Lieu « Rotonde ferroviaire de Grigny » : La rotonde de Grigny est une rotonde ferroviaire du dépôt de Badan de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache, située dans la gare de triage de Badan, à Grigny-sur-Rhône, dans le département du Rhône, en France.",
+  "Lieu « Rotonde ferroviaire de Grigny », 1944 : Elle est bombardée en 1944, puis remise en état par l'entreprise Boussiron."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 6
+ }
+}

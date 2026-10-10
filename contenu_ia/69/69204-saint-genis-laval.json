@@ -1,0 +1,285 @@
+{
+ "commune": {
+  "titre": "Saint-Genis-Laval",
+  "code_insee": "69204",
+  "departement": "69",
+  "population": 21212,
+  "lat": 45.696111,
+  "lon": 4.793888,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Genis-Laval"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:07:33",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3587,
+  "sortie": 1958
+ },
+ "cout_usd": 0.003165,
+ "accroche": "Saint-Genis-Laval est une commune française de la métropole de Lyon, dont les habitants sont appelés les Saint-Genois.",
+ "histoire": {
+  "recit": "Sur le territoire de Saint-Genis-Laval, les premiers indices humains sont devenus visibles lors de fouilles préventives en 2022, menées sur le chantier de la prolongation du métro ligne B de la gare d’Oullins jusqu’à Saint-Genis-Laval : on y a découvert des traces d’occupation remontant à l’âge du bronze, dont des trous de bâtiments sur pilotis près de la rue Francisque-Darcieux.",
+  "chronologie": [
+   {
+    "date": "2022",
+    "texte": "Des fouilles préventives sur le chantier de prolongation du métro ligne B mettent au jour des traces d’occupation remontant à l’âge du bronze, de part et d’autre de la rue Francisque-Darcieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1447",
+    "texte": "La croissance du secteur se fait par demi-cercles concentriques jusqu’à un nouveau rempart, érigé à partir de 1447 et qualifié en 1552 de vingtain.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1663",
+    "texte": "Lumagne ou La Citadelle est bâtie pour un banquier lyonnais, puis transmise à son neveu, échevin, en 1663.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1720",
+    "texte": "Lumagne ou La Citadelle est démolie à deux reprises, et l’édifice actuel, dû à noble Benoît Renaud, date de 1720.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1826",
+    "texte": "Trois manufactures de papiers peints s’installent : Pignet et Paillard en 1826, après Richoud à la fin du XVIIIe siècle.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1827",
+    "texte": "En souvenir d’une mission de 1827, une construction s’impose en plein centre, avec 4,4 mètres de hauteur.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Sur le vaste domaine du Montet, la Congrégation décide d’y établir son siège entre 1863 et 1866, puis l’hôpital Sainte Eugénie est fondé à partir de 1866.",
+    "sources": [
+     "S13",
+     "S14"
+    ]
+   },
+   {
+    "date": "20 août 1944",
+    "texte": "Au fort de Côte-Lorette, des occupants allemands regroupent environ 120 otages et résistants de la prison Montluc, les fusillent et incendient le bâtiment.",
+    "sources": [
+     "S22"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Observatoire de Lyon",
+   "histoire": "Le site historique de l’observatoire astronomique professionnel se trouve à Saint-Genis-Laval, et l’ensemble a des racines liées à une chaire de mathématiques fondée au collège jésuite de la Trinité en 1604.",
+   "anecdotes": [
+    {
+     "texte": "En 1762, les jésuites quittent l’observatoire avec ses instruments : l’établissement tombe à nouveau en léthargie avant d’être en grande partie détruit en octobre 1793 durant le siège de Lyon.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, l’observatoire est un observatoire des sciences de l’univers, avec une école interne de l’université Claude-Bernard-Lyon-I.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 45.6947,
+   "lon": 4.7825,
+   "url": "https://fr.wikipedia.org/wiki/Observatoire_de_Lyon"
+  },
+  {
+   "nom": "Fort de Côte-Lorette",
+   "histoire": "Le fort de Côte-Lorette est un ancien ouvrage militaire construit entre 1874 et 1894 sur la commune de Saint-Genis-Laval.",
+   "anecdotes": [
+    {
+     "texte": "Le 20 août 1944, les occupants allemands fusillent des détenus venant de la prison Montluc avant d’incendier le bâtiment.",
+     "statut": "etabli",
+     "sources": [
+      "S22",
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’entrée du fort se faisait par un ravelin couvert par une demi-lune extérieure et la maison du gardien, aujourd’hui détruits.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 45.6984,
+   "lon": 4.7839,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_C%C3%B4te-Lorette"
+  },
+  {
+   "nom": "Château de Beauregard (Saint-Genis-Laval)",
+   "histoire": "Le château de Beauregard (olim maison Fizicat) est une ancienne maison forte fondée au XIVe siècle, puis remaniée aux XVIe et XVIIe siècles.",
+   "anecdotes": [
+    {
+     "texte": "En 1526, la vente du château à Pierre Gadagne fait naître l’expression lyonnaise « riche comme Gadagne » après le passage du fief à son frère Thomas II.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un pont enjambe un ancien fossé : à droite se trouvait la maison du régisseur, ou maison Ricard, aujourd’hui murée.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 45.6931,
+   "lon": 4.78768,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beauregard_%28Saint-Genis-Laval%29"
+  },
+  {
+   "nom": "Massacre du fort de Côte-Lorette",
+   "histoire": "Le massacre du fort de Côte-Lorette, ou massacre de Saint-Genis-Laval, est l’exécution par les occupants allemands d’environ 120 détenus de la prison Montluc au fort, le 20 août 1944.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’ASPAL collecte encore aujourd’hui des archives et retrouve les familles des victimes pour la commémoration.",
+   "sources": [
+    "S32"
+   ],
+   "lat": 45.698499,
+   "lon": 4.783948,
+   "url": "https://fr.wikipedia.org/wiki/Massacre_du_fort_de_C%C3%B4te-Lorette"
+  },
+  {
+   "nom": "Hôpital Henry Gabrielle",
+   "histoire": "L’hôpital Henry Gabrielle se trouve à Saint-Genis-Laval, spécialisé en médecine physique et de réadaptation, et appartient au groupement hospitalier sud des Hospices civils de Lyon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 45.689508,
+   "lon": 4.789805,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Henry_Gabrielle"
+  },
+  {
+   "nom": "Château de Lumagne",
+   "histoire": "Le château de Lumagne, aussi appelé de la Citadelle, se trouve sur la commune de Saint-Genis-Laval.",
+   "anecdotes": [
+    {
+     "texte": "Dans le château, une cheminée monumentale armoriée porte l’inscription « NUNQUAM PATRIAE SERVIRE PIGEBIT ».",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 45.68654,
+   "lon": 4.79784,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Lumagne"
+  },
+  {
+   "nom": "Château de La Tour",
+   "histoire": "Le château de La Tour est situé au sud de la commune de Saint-Genis-Laval.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 45.6936,
+   "lon": 4.7929,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_La_Tour"
+  },
+  {
+   "nom": "Château de Longchêne",
+   "histoire": "Le château de Longchêne se trouve sur la commune de Saint-Genis-Laval.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un large vallon sépare le domaine de celui du Grand Perron, et l’ensemble constitue aujourd’hui une partie du Centre hospitalier Lyon Sud.",
+   "sources": [
+    "S47"
+   ],
+   "lat": 45.70434,
+   "lon": 4.79872,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Longch%C3%AAne"
+  }
+ ],
+ "sources": [
+  "Saint-Genis-Laval [sɛ̃ ʒəni laval] est une commune française située dans la métropole de Lyon, en région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Saint-Genois.",
+  "On ignorait tout des origines humaines sur le territoire de la commune jusqu'à ces dernières années. Des fouilles préventives menées en 2022 sur le chantier de la prolongation du métro ligne B de la gare d'Oullins jusqu'à Saint-Genis-Laval ont mis au jour des traces d'occupation remontant à l'âge du bronze, de part et d'autre de la rue Francisque-Darcieux : des trous de bâtiments sur pilotis, les restes de cinq à […]",
+  "1447 : Cette croissance s’opère sous forme de demi-cercles concentriques jusqu’à un nouveau rempart érigé à partir de 1447, qualifié en 1552 de vingtain.",
+  "1663 : Lumagne ou La Citadelle a été bâtie pour un banquier lyonnais et transmise à son neveu, échevin de la ville en 1663.",
+  "1720 : Mais il fallut la démolir à deux reprises et l’édifice actuel dû à noble Benoît Renaud date de 1720.",
+  "XVIIIe siècle : Le coteau ensoleillé de Saint-Genis-Laval a su séduire, aux XVIIe et XVIIIe siècles, les élites lyonnaises fortunées qui y ont construit à leur tour au milieu de jardins leurs maisons des champs « pour jouir en bonne compagnie des plaisirs de la campagne ».",
+  "1826 : Successivement se sont installées trois manufactures de papiers peints : Richoud dès la fin du XVIIIe siècle, Pignet et Paillard en 1826, Olivier et Chabert à partir de 1829.",
+  "1827 : Celle érigée en plein centre en souvenir d’une mission de 1827 s’impose avec ses 4,4 mètres de hauteur.",
+  "XIXe siècle : La maison Alice, construite sur le territoire du château Beauregard, date aussi du XIXe siècle.",
+  "1853 : Il n’est donc pas étonnant qu’une école de garçons y ait été ouverte (entre beaucoup d’autres !) en 1853.",
+  "1857 : Elle a été reconstruite en 1857 et élevée en 1862 au rang de paroisse, sans doute, vu sa situation, pour les fidèles venus des bas de Chaponost comme cela avait déjà été le cas dans le passé.",
+  "1860 : La maison qui tire son nom du musicien Michel Chapuis (1860-1934) a été bâtie en 1822 mais rachetée par ses parents en 1851.",
+  "1863 : Plus surprenante est l’importance des bâtiments en pierre de taille construits sur le vaste domaine (50 ha) du Montet entre 1863 et 1866 : c’est à cette époque que la Congrégation a décidé d’y établir son siège.",
+  "1866 : C’est sur une partie de son vaste domaine que sera fondé l’hôpital Sainte Eugénie à partir de 1866.",
+  "Lieu « Observatoire de Lyon » : L'observatoire de Lyon est un observatoire astronomique professionnel dont le site historique est situé à Saint-Genis-Laval, près de Lyon.",
+  "Lieu « Observatoire de Lyon », 1604 : En 1604, une chaire de mathématiques, dont l'astronomie est l'une des composantes, est fondée au collège jésuite de la Trinité.",
+  "Lieu « Observatoire de Lyon », 1702 : L'observatoire du collège à proprement parler est fondé en 1702 sur l'initiative de Jean de Saint-Bonnet, alors professeur de mathématiques, membre fondateur de l'Académie des sciences, belles-lettres et arts de Lyon et correspondant de Giovanni Domenico Cassini.",
+  "Lieu « Observatoire de Lyon », 1762 : En 1762, les jésuites sont bannis du royaume et quittent l'observatoire avec ses instruments, ce qui le plonge de nouveau en léthargie avant d'être en grande partie détruit en octobre 1793 durant le siège de Lyon.",
+  "Lieu « Observatoire de Lyon », aujourd'hui : Créé par décret en 1878 par le président Mac Mahon et fondé par l'astronome Charles André, c'est aujourd'hui un observatoire des sciences de l'univers ainsi qu'une école interne de l'université Claude-Bernard-Lyon-I qui réunit le Centre de recherche astrophysique de Lyon (CRAL) et le Laboratoire de géologie de Lyon : Terre, planètes, environnement (LGL-TPE).",
+  "Lieu « Fort de Côte-Lorette » : Le fort de Côte-Lorette est un ancien ouvrage militaire construit de 1874 à 1894 sur la commune de Saint-Genis-Laval, au sud-ouest de Lyon.",
+  "Lieu « Fort de Côte-Lorette », 1874 : Le fort de Côte-Lorette est un ancien ouvrage militaire construit de 1874 à 1894 sur la commune de Saint-Genis-Laval, au sud-ouest de Lyon.",
+  "Lieu « Fort de Côte-Lorette », 1944 : Le 20 août 1944, les Allemands regroupent 120 otages et résistants détenus à la prison Montluc dans la maison du gardien, les fusillent puis incendient le bâtiment.",
+  "Lieu « Fort de Côte-Lorette », 1960 : Dans les années 1960, un château d'eau est construit au-dessus de la caserne, comme au fort de Bron.",
+  "Lieu « Fort de Côte-Lorette », aujourd'hui : L'entrée du fort se faisait par un ravelin couvert par une demi-lune extérieure et la maison du gardien, aujourd'hui détruits.",
+  "Lieu « Château de Beauregard (Saint-Genis-Laval) » : Le château de Beauregard, olim maison Fizicat est une ancienne maison forte, fondée au XIVe siècle, profondément remaniée aux XVIe et XVIIe siècles, dont les ruines se dressent sur la commune de Saint-Genis-Laval dans la métropole de Lyon en région A",
+  "Lieu « Château de Beauregard (Saint-Genis-Laval) », XIVe siècle : Le château de Beauregard, olim maison Fizicat est une ancienne maison forte, fondée au XIVe siècle, profondément remaniée aux XVIe et XVIIe siècles, dont les ruines se dressent sur la commune de Saint-Genis-Laval dans la métropole de Lyon en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Beauregard (Saint-Genis-Laval) », 1526 : Le château est vendu pour 2 200 écus d’or à Pierre Gadagne (1526-fin XVIe siècle) qui devient seigneur de Beauregard, mais qui cède peu après le fief à son frère Thomas II, banquier dont l’opulence lui vaudra l’expression lyonnaise « riche comme Gadagne ».",
+  "Lieu « Château de Beauregard (Saint-Genis-Laval) », aujourd'hui : Un pont enjambe un ancien fossé laissant à droite la maison du régisseur ou maison Ricard, du nom de son dernier propriétaire, aujourd’hui murée.",
+  "Lieu « Massacre du fort de Côte-Lorette » : Le massacre du fort de Côte-Lorette ou massacre de Saint-Genis-Laval est l'exécution par les occupants allemands d'environ 120 détenus de la prison Montluc au fort de Côte-Lorette à Saint-Genis-Laval le 20 août 1944.",
+  "Lieu « Massacre du fort de Côte-Lorette », 1943 : Quarante-quatre prisonniers allemands sont exécutés le 28 août à Annecy, et quarante autres au château d'Habère-Lullin le 2 septembre, sur les lieux où les nazis avaient abattu 25 jeunes le soir de Noël 1943.",
+  "Lieu « Massacre du fort de Côte-Lorette », 1944 : La prison est libérée onze jours avant la libération de Lyon qui a lieu le 3 septembre 1944.",
+  "Lieu « Massacre du fort de Côte-Lorette », aujourd'hui : L'ASPAL se charge encore aujourd'hui de collecter des archives et de retrouver les familles des victimes pour cette commémoration.",
+  "Lieu « Hôpital Henry Gabrielle » : L'hôpital Henry Gabrielle se situe à huit kilomètres de Lyon, sur la commune de Saint-Genis-Laval (Rhône), spécialisé en médecine physique et de réadaptation, et appartient au groupement hospitalier sud des Hospices civils de Lyon (HCL).",
+  "Lieu « Hôpital Henry Gabrielle », 1895 : Une propriété bourgeoise, villa de type florentin construite à la fin du XIXe siècle, entre 1895 et 1900, occupe le parc d'agrément de l'ancienne propriété.",
+  "Lieu « Hôpital Henry Gabrielle », 1966 : Le premier pavillon de L'hôpital, le pavillon Jacques Bourret a été construit entre 1966 et 1969, ouvre en novembre 1969.",
+  "Lieu « Hôpital Henry Gabrielle », 1970 : Les communs sont composés d’un corps de bâtiments et comprenaient également 2 bâtiments (le lavoir et le réservoir d’eau) qui ont été démolis vers 1970 pour élargir la route de Vourles.",
+  "Lieu « Château de Lumagne » : Le château de Lumagne (ou de la Citadelle) est situé sur la commune de Saint-Genis-Laval, dans la Métropole de Lyon.",
+  "Lieu « Château de Lumagne », 1631 : À l'intérieur, on découvre un salon orné de fresques de l'école de Nicolas Poussin et dans lequel une cheminée monumentale armoriée édifiée en 1631 porte l'inscription « NUNQUAM PATRIAE SERVIRE PIGEBIT ».",
+  "Lieu « Château de Lumagne », XVIIe siècle : La construction du XVIIe siècle se compose, autour d'une cour d'honneur, d’un logis principal carré, d’un pavillon rectangulaire au nord ouest et d’un pavillon en \"L\" au sud ouest, les deux premiers bâtiments étant coiffés d'une toiture en tuiles à quatre pans ; s'ajoute à cela un parc, du côté Est du grand bâtiment.",
+  "Lieu « Château de Lumagne », aujourd'hui : Une allée bordée d'arbres, aujourd'hui incluse dans une résidence pavillonnaire, permettait d'accéder à la propriété.",
+  "Lieu « Château de La Tour » : Le château de La Tour est situé au sud de la commune de Saint-Genis-Laval, dans la Métropole de Lyon.",
+  "Lieu « Château de La Tour », 1592 : Famille de Villars 1592: le 25 mars, une trêve y est signée entre le duc de Nemours et Alphonse d'Ornano, alors lieutenant du roi de Navarre. début du XVIIe siècle: Jérôme de Villars (1547 - 1626), archevêque de Vienne, fait construire le château actuel.",
+  "Lieu « Château de La Tour », 1655 : 1655: Jean (1626 - 1703), fils des précédents, est écuyer, comte de La Bâtie, seigneur de La Tour, Sardon et Anthon ; il avait épousé en 1649 Gabrielle de Sèvre.",
+  "Lieu « Château de La Tour », 1703 : 1703: Jean (1650 - 1707), fils des précédents, est comte de La Bâtie, seigneur de La Tour et capitaine de cavalerie.",
+  "Lieu « Château de Longchêne » : Le château de Longchêne est situé sur la commune de Saint-Genis-Laval, dans la Métropole de Lyon.",
+  "Lieu « Château de Longchêne », 1792 : 1792: le château est vendu comme bien national.",
+  "Lieu « Château de Longchêne », aujourd'hui : Un large vallon sépare ce domaine de celui du Grand Perron, avec lequel il constitue aujourd'hui une partie du Centre hospitalier Lyon Sud."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}

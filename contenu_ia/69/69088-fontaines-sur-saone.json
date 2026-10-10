@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Fontaines-sur-Saône",
+  "code_insee": "69088",
+  "departement": "69",
+  "population": 6957,
+  "lat": 45.836388,
+  "lon": 4.845555,
+  "url": "https://fr.wikipedia.org/wiki/Fontaines-sur-Sa%C3%B4ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:36:27",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1081,
+  "sortie": 375
+ },
+ "cout_usd": 0.000685,
+ "accroche": "À Fontaines-sur-Saône, la gare de Fontaines-sur-Saône a été mise en service en 1882, puis fermée officiellement le 16 mai 1938.",
+ "histoire": {
+  "recit": "Fontaines-sur-Saône est une commune française de la métropole de Lyon, en région Auvergne-Rhône-Alpes, bordant la Saône et comptant encore de nombreux espaces verts. Elle est essentiellement résidentielle. Son visage a aussi été façonné par une ligne ferroviaire désormais silencieuse : la gare de Fontaines-sur-Saône, aujourd’hui fermée et désaffectée.",
+  "chronologie": [
+   {
+    "date": "1882",
+    "texte": "La gare de Fontaines-sur-Saône est mise en service par la Compagnie des Dombes et des chemins de fer du Sud-Est.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "16 mai 1938",
+    "texte": "La gare est officiellement fermée, lors de la suppression du trafic voyageurs sur la section de Sathonay à Trévoux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1er janvier 2015",
+    "texte": "Le Grand Lyon disparaît : la commune rejoint la métropole de Lyon et quitte le département du Rhône.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Fontaines-sur-Saône",
+   "histoire": "La gare de Fontaines-sur-Saône est une gare ferroviaire française fermée et désaffectée, située sur la ligne de Lyon-Croix-Rousse à Trévoux, à Fontaines-sur-Saône, près de Fontaines-Saint-Martin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 45.837868,
+   "lon": 4.845398,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Fontaines-sur-Sa%C3%B4ne"
+  }
+ ],
+ "sources": [
+  "Fontaines-sur-Saône est une commune française située dans la métropole de Lyon en région Auvergne-Rhône-Alpes. Bordant la Saône et comptant encore de nombreux espaces verts, la commune est essentiellement résidentielle.",
+  "Le Grand Lyon disparait le 1er janvier 2015, et laisse place à la collectivité territoriale de la métropole de Lyon. La commune quitte ainsi le département du Rhône.",
+  "Lieu « Gare de Fontaines-sur-Saône » : La gare de Fontaines-sur-Saône est une gare ferroviaire française (fermée et désaffectée) de la ligne de Lyon-Croix-Rousse à Trévoux, située à Fontaines-sur-Saône, à proximité de Fontaines-Saint-Martin, dans le département du Rhône en région Rhône-Al",
+  "Lieu « Gare de Fontaines-sur-Saône », 1882 : Elle est mise en service en 1882 par la Compagnie des Dombes et des chemins de fer du Sud-Est et fermée par la Société nationale des chemins de fer français (SNCF) en 1938.",
+  "Lieu « Gare de Fontaines-sur-Saône », 1938 : La gare de Fontaines-sur-Saône est officiellement fermée le 16 mai 1938, lors de la suppression du trafic voyageurs sur la section de Sathonay à Trévoux."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

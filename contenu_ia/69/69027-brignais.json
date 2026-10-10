@@ -1,0 +1,81 @@
+{
+ "commune": {
+  "titre": "Brignais",
+  "code_insee": "69027",
+  "departement": "69",
+  "population": 12503,
+  "lat": 45.674722,
+  "lon": 4.755,
+  "url": "https://fr.wikipedia.org/wiki/Brignais"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:39:40",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1023,
+  "sortie": 442
+ },
+ "cout_usd": 0.000757,
+ "accroche": "Le 6 avril 1362, Brignais est le théâtre de la bataille de Brignais, opposant l’ost royal de Jean II le Bon à des mercenaires visibles.",
+ "histoire": {
+  "recit": "À Brignais, le passé passe par une route et par un combat. La commune s’est d’abord trouvée sur la route royale de Lyon à Saint-Étienne, aujourd’hui la rue du Général-de-Gaulle. Là, pour franchir le Garon, on comptait sur le pont vieux.\n\nPlus loin dans le temps, la guerre de Cent Ans fait irruption : le 6 avril 1362, Brignais devient le champ de la bataille de Brignais. Selon le récit, l’armée royale, faute d’éclaireurs efficaces, attaque de front un groupe de mercenaires repéré à vue. Les Brignairots et Brignairotes gardent ainsi un nom de lieu devenu épisode majeur de la commune, au cœur du Rhône.",
+  "chronologie": [
+   {
+    "date": "avant 1362",
+    "texte": "Brignais fait autrefois partie du Jarez et se situe sur la route royale de Lyon à Saint-Étienne, aujourd’hui la rue du Général-de-Gaulle, avec le franchissement du Garon par le pont vieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "6 avril 1362",
+    "texte": "Brignais devient le théâtre de la bataille de Brignais, durant la guerre de Cent Ans.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "6 avril 1362",
+    "texte": "L’armée royale, sans informations fiables grâce à des éclaireurs efficaces, attaque frontalement des mercenaires visibles.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Bataille de Brignais",
+   "histoire": "La bataille de Brignais est une bataille de la guerre de Cent Ans ayant eu lieu le 6 avril 1362, sur le territoire de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3"
+   ],
+   "lat": 45.666666666667,
+   "lon": 4.75,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Brignais"
+  }
+ ],
+ "sources": [
+  "Brignais est une commune française située dans le département du Rhône, en région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Brignairots et Brignairotes.",
+  "Brignais faisait autrefois partie du Jarez. La ville était située sur la route royale de Lyon à Saint-Étienne (actuelle rue du Général-de-Gaulle). L'actuel pont vieux permettait de franchir le Garon. Durant la guerre de Cent Ans, Brignais fut le théâtre de la bataille de Brignais, le 6 avril 1362, entre d'une part l’ost royal de Jean II le Bon commandé par Jacques Ier de Bourbon, comte de la Marche et connétable de […]",
+  "Lieu « Bataille de Brignais » : La bataille de Brignais est une bataille de la guerre de Cent Ans qui eut lieu le 6 avril 1362.",
+  "Lieu « Bataille de Brignais », aujourd'hui : L'armée royale, n'ayant pas d'éclaireurs efficaces les informant des positions ennemies, attaqua frontalement le groupe de mercenaires visible."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "commune": {
+  "titre": "Chaponost",
+  "code_insee": "69043",
+  "departement": "69",
+  "population": 9382,
+  "lat": 45.7108,
+  "lon": 4.7425,
+  "url": "https://fr.wikipedia.org/wiki/Chaponost"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:04:00",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1872,
+  "sortie": 952
+ },
+ "cout_usd": 0.001564,
+ "accroche": "En 1733, le château de Combalat a été construit à Chaponost et son architecture sobre a été confiée à un sous-secrétaire de la ville de Lyon.",
+ "histoire": {
+  "recit": "Chaponost, commune du Rhône au site perché, a longtemps vécu au rythme d’une activité rurale liée à la métropole lyonnaise. Le passage obligé de l’aqueduc romain du Gier y a laissé de nombreux ouvrages d’art, et cette relation particulière a nourri une vocation viticole.\n\nParmi les grandes demeures, le château des Cartières se lit en plusieurs temps : au XVIIe siècle, il se forme comme château, puis ses bâtiments du XIXe siècle dessinent un carré autour d’une cour intérieure. En 1732, malgré les volontés de Cécile Cartier, le bien est vendu au marchand lyonnais Jean-Baptiste Chazattes.\n\nSur un autre pan de l’histoire, la maison forte de Pravieux remonte au XIIIe siècle. Au XVIe siècle, la famille de Gadagne s’en empare, et Thomas de Gadagne dit « le Riche » transmet sa fortune à son neveu Thomas, surnommé « le Magnifique ».\n\nEnfin, la mobilité a aussi marqué Chaponost : la gare de Chaponost, sur la ligne Paray-le-Monial - Givors, participe au tram-train de l’Ouest lyonnais, avant d’être remplacée par la halte actuelle.",
+  "chronologie": [
+   {
+    "date": "1285",
+    "texte": "Le château est édifié, avec une première mention dans un manuscrit de 1285.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1731",
+    "texte": "Le domaine de Montgriffon est érigé en fief, après une constitution tardive au XVIIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1732",
+    "texte": "Le château des Cartières est vendu au marchand lyonnais Jean-Baptiste Chazattes, malgré les volontés de Cécile Cartier.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1733",
+    "texte": "Le château de Combalat est construit, avec une architecture sobre en cinq travées sur deux niveaux.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "Nicolas Dutartre y ouvre une usine de toiles cirées, jusqu’à une centaine d’ouvriers.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "La municipalité fait construire un grand lavoir, restauré en 2007.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "La ligne Givors - Lozanne n’est ouverte qu’en 1910, après déclaration d’utilité publique en 1898.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château des Cartières",
+   "histoire": "Château du quatrième quart du XVIIe siècle, il est remanié au XIXe siècle. Les bâtiments du XIXe siècle forment un carré délimitant une cour intérieure.",
+   "anecdotes": [
+    {
+     "texte": "En 1732, malgré les volontés de Cécile Cartier, le bien du château des Cartières est vendu au marchand lyonnais Jean-Baptiste Chazattes.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S17",
+    "S16"
+   ],
+   "lat": 45.698056,
+   "lon": 4.755556,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Carti%C3%A8res"
+  },
+  {
+   "nom": "Maison forte de Pravieux",
+   "histoire": "Ancienne maison forte du XIIIe siècle, la maison forte de Pravieux se dresse sur Chaponost. Au XVIe siècle, la famille de Gadagne prend possession du fief.",
+   "anecdotes": [
+    {
+     "texte": "Thomas de Gadagne, dit « le Riche », cède sa fortune à son neveu Thomas, surnommé « le Magnifique », après l’installation de la famille de Gadagne à Lyon.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 45.710833,
+   "lon": 4.763333,
+   "url": "https://fr.wikipedia.org/wiki/Maison_forte_de_Pravieux"
+  },
+  {
+   "nom": "Gare de Chaponost",
+   "histoire": "La gare de Chaponost se situe sur la ligne Paray-le-Monial - Givors et compte parmi les gares du tram-train de l’Ouest lyonnais reliant Lyon St-Paul à Brignais. Aujourd’hui, elle est désaffectée et remplacée par la halte du Tram-train, TER de l’Ouest lyonnais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 45.69829,
+   "lon": 4.764273,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Chaponost"
+  }
+ ],
+ "sources": [
+  "Chaponost (prononcé [ʃapɔno]) est une commune française, située dans le département du Rhône en région Auvergne-Rhône-Alpes.",
+  "La solide communauté paysanne de Chaponost a entretenu de tout temps des relations spécifiques avec la métropole lyonnaise du fait de son site perché. Passage obligé de l’aqueduc romain du Gier, elle en a conservé de nombreux ouvrages d’art. Une exposition favorable a développé une vocation viticole transmise des autorités religieuses au Moyen Âge aux élites bourgeoises en leurs maisons des champs. Le contact avec […]",
+  "1285 : C’est à ce contact précis qu’a été édifié le château dont la première mention figure dans un manuscrit de 1285.",
+  "XVIIe siècle : Leur résidence, modeste à l’origine, avait été reconstruite et agrandie au XVIIe siècle mais avec des modifications multiples qui l’ont rendue hétérogène et sans intérêt.",
+  "1731 : Troisième exemple, le domaine de Montgriffon, foncièrement constitué de manière tardive au XVIIe siècle, a été érigé en fief seulement en 1731.",
+  "1733 : Le château de Combalat a été construit en 1733 par un sous-secrétaire de la ville de Lyon qui lui a donné sa sobre architecture (cinq travées de deux niveaux) mais c’est un autre Lyonnais, hôtelier, qui devait l’acquérir en 1882 et le doter d’un somptueux escaler intérieur.",
+  "1760 : De 45 % des surfaces occupées en 1760, elle est passée à 72 % en 1957.",
+  "1828 : En 1828 était ouvert un itinéraire routier qui, au départ de la Chapelle de Beaunant, s’élevait progressivement par Combalat jusqu’au plateau du Plat de l’Air.",
+  "1837 : La tombe la plus ancienne, dès l’ouverture en 1837, est celle de la famille Bayzelon-Porte.",
+  "1860 : Nicolas Dutartre y a ouvert en 1860 une usine de toiles cirées qui a employé jusqu’à une centaine d’ouvriers.",
+  "1885 : Le grand lavoir construit par la municipalité en 1885 a valeur de symbole de cette activité et a mérité à ce titre d'être restauré en 2007.",
+  "1898 : Mais c’est seulement en 1898 que sa section Givors - Lozanne a été déclarée d’utilité publique et la ligne n’a été ouverte qu’en 1910 avec une limitation à cent kilos pour les colis.",
+  "1906 : Si la circulation des attelages s’en est trouvée fortement facilitée, les simples voyageurs durent attendre jusqu’en 1906 pour bénéficier enfin des services réguliers d’une ligne de tramway ouverte par l’0TL (Omnibus et Tramways de Lyon).",
+  "1909 : Il fallut attendre 1909 pour que soit inauguré au cœur du village un bâtiment en capacité d’accueillir garçons et filles dans d’excellentes conditions.",
+  "Lieu « Château des Cartières » : Le château des Cartières est un château, du 4e quart du XVIIe siècle, remanié au XIXe siècle qui se dresse sur la commune de Chaponost dans le département du Rhône en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château des Cartières », 1732 : En 1732, en dépit des volontés de Cécile Cartier, le bien est vendu au marchand lyonnais Jean-Baptiste Chazattes.",
+  "Lieu « Château des Cartières », XIXe siècle : Les différents bâtiments, qui datent du XIXe siècle, forment un carré qui délimite une cour intérieure.",
+  "Lieu « Maison forte de Pravieux » : La maison forte de Pravieux est une ancienne maison forte, du XIIIe siècle, qui se dresse sur la commune de Chaponost, dans le département du Rhône en région Auvergne-Rhône-Alpes.",
+  "Lieu « Maison forte de Pravieux », XVIe siècle : La famille de Gadagne, installée à Lyon mais d'origine florentine, prend possession du fief au XVIe siècle ; Thomas de Gadagne, dit « le Riche », cède sa fortune à son neveu, lui aussi prénommé Thomas et surnommé « le Magnifique ».",
+  "Lieu « Gare de Chaponost » : La gare de Chaponost est une gare ferroviaire française, elle se situe sur la ligne Paray-le-Monial - Givors ; C'est une des gares du tram-train de l'Ouest lyonnais qui relie Lyon St-Paul à Brignais.",
+  "Lieu « Gare de Chaponost », aujourd'hui : Aujourd'hui désaffectée, elle est remplacée par la halte du Tram-train, TER de l'Ouest lyonnais."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}
