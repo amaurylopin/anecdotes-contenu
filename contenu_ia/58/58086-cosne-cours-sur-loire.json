@@ -1,0 +1,307 @@
+{
+ "commune": {
+  "titre": "Cosne-Cours-sur-Loire",
+  "code_insee": "58086",
+  "departement": "58",
+  "population": 9733,
+  "lat": 47.41222222,
+  "lon": 2.9275,
+  "url": "https://fr.wikipedia.org/wiki/Cosne-Cours-sur-Loire"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:00:42",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2991,
+  "sortie": 1906
+ },
+ "cout_usd": 0.002981,
+ "accroche": "Le 7 juin 1959, le pont de Cosne-Cours-sur-Loire est inauguré : il remplace l’ouvrage provisoire de l’après-1940.",
+ "histoire": {
+  "recit": "Cosne-Cours-sur-Loire est une commune de la Nièvre, née de la fusion de Cosne-sur-Loire et de Cours au 1er janvier 1973. Son territoire est occupé depuis la Préhistoire : dès 596, le règlement de saint Aunaire place Cosne (Cône) parmi les trente principales paroisses du diocèse.\n\nLe temps y a laissé des traces de conflits, dont des affrontements pendant la guerre de Cent Ans et les guerres de religion. Puis la vie s’est organisée autour du fleuve et du rail : en 1833, un premier pont sur la Loire est construit, avant d’être détruit pendant la Seconde Guerre mondiale. Après cela, plusieurs passerelles provisoires se succèdent jusqu’à l’inauguration, en 1959, du « nouveau » pont.\n\nAu XXe siècle, le quartier Saint-Laurent se développe à partir de la fin des années 1950 : il compte un millier de logements pour 2 000 habitants dans les années 1980. Plus récemment, en 2020, six immeubles du quartier sont détruits et d’autres rénovés.\n\nEnfin, la commune abrite le musée de la Loire, installé dans l’ancien couvent des Augustins, et l’église Saint-Aignan, reconstruite après incendies et effondrements.",
+  "chronologie": [
+   {
+    "date": "596",
+    "texte": "Le règlement de saint Aunaire inclut Cosne (Cône) parmi les trente principales paroisses du diocèse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1833",
+    "texte": "Construction du premier pont sur la Loire, ensuite détruit pendant la Seconde Guerre mondiale.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Le musée de la Loire est détruit le 16 juin 1940 lors du bombardement du pont de Loire tout proche.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1952",
+    "texte": "La section d’Entrains à Cosne est fermée le 18 mai 1952.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1959",
+    "texte": "Le pont actuel, dit « nouveau », est bâti et inauguré le 7 juin 1959.",
+    "sources": [
+     "S37"
+    ]
+   },
+   {
+    "date": "Fin des années 1950",
+    "texte": "Le quartier Saint-Laurent est construit et compte un millier de logements.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Années 1980",
+    "texte": "Le quartier Saint-Laurent compte 2 000 habitants.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2020",
+    "texte": "Six immeubles du quartier Saint-Laurent sont détruits lors d’une réhabilitation.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Cosne-sur-Loire",
+   "histoire": "La gare de Cosne-sur-Loire, anciennement gare de Cosne, dessert des lignes reliant notamment Moret - Veneux-les-Sablons à Lyon-Perrache, et Laroche-Migennes à Cosne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Lors de la préparation de l’électrification de la ligne du Bourbonnais, le poste d’aiguillage mécanique est remplacé par un poste d’aiguillage tout relais à câblage géographique.",
+   "sources": [
+    "S6",
+    "S10"
+   ],
+   "lat": 47.414006,
+   "lon": 2.932135,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Cosne-sur-Loire"
+  },
+  {
+   "nom": "Musée de la Loire",
+   "histoire": "Le musée de la Loire est un musée d’art et d’ethnographie au cœur de Cosne-Cours-sur-Loire. Il a changé de place : d’abord dans des locaux de l’ancienne sous-préfecture, puis dans l’ancien couvent des Augustins.",
+   "anecdotes": [
+    {
+     "texte": "Le musée est détruit le 16 juin 1940 lors du bombardement du pont de Loire tout proche.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Le musée est installé dans l’ancien couvent des Augustins, inscrit comme monument historique depuis le 15 juin 1977.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 47.41032,
+   "lon": 2.92343,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Loire"
+  },
+  {
+   "nom": "Église Saint-Aignan de Cosne-Cours-sur-Loire",
+   "histoire": "L’église Saint-Aignan se trouve à Cosne-Cours-sur-Loire. Son histoire est marquée par des incendies, puis par des reconstructions : un maître autel en pierre de taille y est inauguré en octobre 1858, et l’édifice est élevé sur l’emplacement d’un oratoire dédié à saint Front.",
+   "anecdotes": [
+    {
+     "texte": "En octobre 1858, le maître autel en pierre de taille est inauguré, avec l’Agneau pascal entouré des symboles des quatre évangélistes.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "L’historique de l’église signale des incendies du bas-côté sud au milieu du XIIe siècle, ainsi que le cocher en 1626 et 1726.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’église est élevée sur l’emplacement d’un oratoire du VIe siècle dédié à saint Front.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 47.4089,
+   "lon": 2.9232,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Aignan_de_Cosne-Cours-sur-Loire"
+  },
+  {
+   "nom": "Cours (Nièvre)",
+   "histoire": "Cours, ancienne commune du département de la Nièvre, est liée à l’abbaye Saint-Laurent par la cure et la construction d’un prieuré.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 47.4375,
+   "lon": 2.96703,
+   "url": "https://fr.wikipedia.org/wiki/Cours_%28Ni%C3%A8vre%29"
+  },
+  {
+   "nom": "Couvent des Augustins de Cosne-Cours-sur-Loire",
+   "histoire": "Le couvent des Augustins est un ancien établissement religieux à Cosne-Cours-sur-Loire. Fondé en 1616, il abrite ensuite diverses institutions avant de devenir le musée de la Loire.",
+   "anecdotes": [
+    {
+     "texte": "Fondé en 1616 par l’évêque d’Auxerre François de Donadieu, le couvent accueille les Augustins dans des bâtiments déjà existants au bord du Nohain.",
+     "statut": "etabli",
+     "sources": [
+      "S26",
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.410399,
+   "lon": 2.923317,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Augustins_de_Cosne-Cours-sur-Loire"
+  },
+  {
+   "nom": "Gare de Villechaud",
+   "histoire": "La gare de Villechaud est une halte ferroviaire française, aujourd’hui fermée et disparue, de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29"
+   ],
+   "lat": 47.373094,
+   "lon": 2.900262,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Villechaud"
+  },
+  {
+   "nom": "Viaduc de Port-Aubry",
+   "histoire": "Le viaduc de Port-Aubry est un pont ferroviaire franchissant la Loire et reliant Cosne-Cours-sur-Loire à Bannay.",
+   "anecdotes": [
+    {
+     "texte": "Le 17 juin 1940, le brigadier Yves Mathurin Marie Rault est tué en tentant sans succès de mettre à feu une charge explosive pour faire sauter le viaduc.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    },
+    {
+     "texte": "En juillet 1944, l’occupant allemand fait exploser la 3e travée.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 47.3894,
+   "lon": 2.90556,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_Port-Aubry"
+  },
+  {
+   "nom": "Pont de Cosne-Cours-sur-Loire",
+   "histoire": "Le pont de Cosne-Cours-sur-Loire est un pont suspendu enjambant la Loire entre Cosne-Cours-sur-Loire et Boulleret.",
+   "anecdotes": [
+    {
+     "texte": "En 1928, un premier pont en béton est construit, puis détruit par des bombardements en 1940.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 47.41141,
+   "lon": 2.9199,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Cosne-Cours-sur-Loire"
+  }
+ ],
+ "sources": [
+  "Cosne-Cours-sur-Loire ([kon kuʁ syʁ lwaʁ]), souvent abrégée en Cosne-sur-Loire ([kon syʁ lwaʁ]), du nom de l'ancienne commune, est une commune française située dans le département de la Nièvre, en région Bourgogne-Franche-Comté. Elle résulte de la fusion au 1er janvier 1973 des communes de Cosne-sur-Loire et de Cours.",
+  "Le territoire de la commune est peuplé depuis la Préhistoire. En 596, le règlement de saint Aunaire, 18e évêque d'Auxerre (572-605), inclut Cosne (Cône) dans les trente principales paroisses du diocèse. Puis le site de Cosne voit plusieurs affrontements à travers l'Histoire, tels que la guerre de Cent Ans et les guerres de religion. Henri V de Lancastre, malade, tente de rejoindre la garnison bourguignonne de Cosne, […]",
+  "1833 : En 1833, est construit le premier pont sur la Loire, qui est détruit pendant la Seconde Guerre mondiale.",
+  "1950 : Le quartier Saint-Laurent est construit à partir de la fin des années 1950, et compte un millier de logements pour 2 000 habitants durant les années 1980.",
+  "2020 : Dans le cadre de sa réhabilitation, six immeubles du quartier sont détruits en 2020 et d'autres rénovés.",
+  "Lieu « Gare de Cosne-sur-Loire » : La gare de Cosne-sur-Loire, anciennement gare de Cosne, est une gare ferroviaire française des lignes de Moret - Veneux-les-Sablons à Lyon-Perrache, de Laroche-Migennes à Cosne et de Saint-Germain-du-Puy à Cosne-Cours-sur-Loire.",
+  "Lieu « Gare de Cosne-sur-Loire », 1861 : Ouverte en 1861 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), elle devient un nœud ferroviaire actif jusqu'à la fin de la Seconde Guerre mondiale, avec notamment une importante activité militaire et un dépôt-relais de locomotives.",
+  "Lieu « Gare de Cosne-sur-Loire », 1952 : La section d'Entrains à Cosne est fermée le 18 mai 1952.",
+  "Lieu « Gare de Cosne-sur-Loire », 1966 : La ligne de Bourges à Cosne est fermée au service des voyageurs en 1966.",
+  "Lieu « Gare de Cosne-sur-Loire », aujourd'hui : Lors de la préparation de l'électrification de la ligne du Bourbonnais, au début des années 1980, le poste d'aiguillage mécanique à commandes individuelles, de type Vignier, est remplacé par un poste d'aiguillage tout relais à câblage géographique (PRG).",
+  "Lieu « Musée de la Loire » : Le musée de la Loire est un musée d'art et d'ethnographie situé au cœur de la commune de Cosne-Cours-sur-Loire, en région Bourgogne-Franche-Comté, dans le département de la Nièvre.",
+  "Lieu « Musée de la Loire », 1937 : Le musée est déplacé en 1937 dans les locaux de l’ancienne sous-préfecture de l’époque, rue Eugène-Pelletan.",
+  "Lieu « Musée de la Loire », 1940 : Ce dernier est détruit le 16 juin 1940 lors du bombardement du pont de Loire tout proche.",
+  "Lieu « Musée de la Loire », 1977 : Installé dans l'ancien couvent des Augustins de la ville, il est inscrit au titre des monuments historiques depuis le 15 juin 1977.",
+  "Lieu « Musée de la Loire », aujourd'hui : Très peu d’informations subsistent sur les acquisitions réalisées jusqu’aux années 1950, beaucoup de documents ayant été perdus lors du bombardement de juin 1940.",
+  "Lieu « Église Saint-Aignan de Cosne-Cours-sur-Loire » : L'église Saint-Aignan (parfois orthographié Saint-Agnan) est une église catholique située à Cosne-Cours-sur-Loire, en France.",
+  "Lieu « Église Saint-Aignan de Cosne-Cours-sur-Loire », 1626 : Il est fait mention d’incendies selon l’historique de l’église : du bas-côté sud au milieu du XIIe siècle ; du cocher en 1626 et 1726.",
+  "Lieu « Église Saint-Aignan de Cosne-Cours-sur-Loire », XVIIIe siècle : Incendie et effondrements détruisirent une partie de l’église qui fut refaite au XVIIIe siècle.",
+  "Lieu « Église Saint-Aignan de Cosne-Cours-sur-Loire », 1858 : Le maître autel en pierre de taille fut inauguré en octobre 1858 : l’Agneau pascal y figure,entouré des symboles des quatre évangélistes.",
+  "Lieu « Église Saint-Aignan de Cosne-Cours-sur-Loire », aujourd'hui : L’église Saint-Agnan fut élevée sur l’emplacement d’un oratoire du VIe siècle dédié à saint Front.",
+  "Lieu « Cours (Nièvre) » : Cours, parfois Cours-lès-Cosne, est une ancienne commune française située dans le département de la Nièvre et la région Bourgogne-Franche-Comté.",
+  "Lieu « Cours (Nièvre) », 1087 : 1087-1114) donne à l'abbaye Saint-Laurent la cure de Cours, où il construit également un prieuré.",
+  "Lieu « Cours (Nièvre) », XVIe siècle : L'église Saint-Symphorien datant du XVIe siècle fut édifiée sur l'emplacement d'une ancienne église romane.",
+  "Lieu « Cours (Nièvre) », 1631 : Une plaque portant une inscription latine, au-dessus de la porte d'entrée, signale que subséquemment à ces guerres, l'abbaye est reconstruite en 1631 par N. de Launay, prieur-curé de Cours.",
+  "Lieu « Couvent des Augustins de Cosne-Cours-sur-Loire » : Le couvent des Augustins est un ancien établissement religieux situé à Cosne-Cours-sur-Loire, dans la Nièvre.",
+  "Lieu « Couvent des Augustins de Cosne-Cours-sur-Loire », 1616 : Fondé par l'évêque d’Auxerre François de Donadieu en 1616, c'est aujourd'hui le musée de la Loire.",
+  "Lieu « Couvent des Augustins de Cosne-Cours-sur-Loire », 1616 : Depuis l'installation des Augustins en 1616 jusqu'à celle du musée de la Loire, le bâtiment a abrité de nombreuses institutions religieuses, administratives, éducatives ou culturelles :",
+  "Lieu « Couvent des Augustins de Cosne-Cours-sur-Loire », 1616 : Les Augustins s’installent en 1616, sous l’épiscopat de François de Donadieu, évêque d’Auxerre, dans des bâtiments déjà existants au bord du Nohain.",
+  "Lieu « Gare de Villechaud » : La gare de Villechaud est une halte ferroviaire française, fermée et disparue, de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache.",
+  "Lieu « Gare de Villechaud », 1985 : En service en 1985, ses dates d'ouverture et de fermeture sont inconnues.",
+  "Lieu « Gare de Villechaud », 1985 : Ancienne halte voyageurs, c'est, en 1985, un point d'arrêt non géré (PANG), fermé au service des marchandises, de la Société nationale des chemins de fer français (SNCF).",
+  "Lieu « Viaduc de Port-Aubry » : Le viaduc de Port-Aubry est un pont ferroviaire français qui franchit la Loire, et relie la commune de Cosne-Cours-sur-Loire (Nièvre) à celle de Bannay (Cher).",
+  "Lieu « Viaduc de Port-Aubry », 1940 : Le 17 juin 1940, le brigadier Yves Mathurin Marie Rault, du 231e régiment d'artillerie lourde divisionnaire (RALD), y est tué en tentant sans succès de mettre à feu une charge explosive pour le faire sauter.",
+  "Lieu « Viaduc de Port-Aubry », 1944 : En juillet 1944, l’occupant allemand fait exploser la 3e travée.",
+  "Lieu « Pont de Cosne-Cours-sur-Loire » : Le pont de Cosne-Cours-sur-Loire est un pont suspendu enjambant la Loire, situé entre la commune de Cosne-Cours-sur-Loire dans le département de la Nièvre et la commune de Boulleret dans le département du Cher, en France.",
+  "Lieu « Pont de Cosne-Cours-sur-Loire », 1928 : En 1928, un premier pont en béton est construit par l’entreprise Christiani et Nielsen mais sera détruit par des bombardements en 1940.",
+  "Lieu « Pont de Cosne-Cours-sur-Loire », 1940 : Remplacé par plusieurs passerelles provisoires de 1940 à 1960, le pont actuel, alors dit « nouveau », est bâti par l’entreprise spécialisée Baudin Chateauneuf et inauguré le 7 juin 1959."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}
