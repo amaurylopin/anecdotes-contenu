@@ -1,0 +1,275 @@
+{
+ "commune": {
+  "titre": "Chaville",
+  "code_insee": "92022",
+  "departement": "92",
+  "population": 20594,
+  "lat": 48.80861111,
+  "lon": 2.18861111,
+  "url": "https://fr.wikipedia.org/wiki/Chaville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:09:24",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3004,
+  "sortie": 2008
+ },
+ "cout_usd": 0.003111,
+ "accroche": "En 1840, la gare de Chaville-Rive-Droite est ouverte le 18 juillet, sur la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite.",
+ "histoire": {
+  "recit": "Chaville, commune des Hauts-de-Seine, s’étire le long de l’axe entre le sud-ouest de Paris et Versailles, avec un patrimoine forestier remarquable : une grande partie du territoire est occupée par la forêt de Meudon et la forêt de Fausses-Reposes.\n\nL’histoire du lieu s’organise aussi autour de grands noms. Entre 811 et 831, l’évêque de Paris Inchadus crée un hameau, Inchadivilla, pour la convalescence des patients de l’Hôtel-Dieu. Plus tard, en 1654, le chancelier Michel Le Tellier est seigneur de Chaville et de Viroflay : son fils Louvois fait construire le Château de Chaville, inspiré du Versailles de Louis XIII.\n\nLe château change ensuite de visage. Le vieux château est démoli dans les années 1650 à 1655 pour créer un nouveau domaine et ses jardins. À l’automne 1706, les travaux de jonction des parcs de Meudon et de Chaville sont achevés.\n\nAu tournant du XXe siècle, la commune bat au rythme du linge : en 1900, un tiers des Chavillois est occupé à laver, sécher et repasser le linge de la capitale.\n\nEnfin, le paysage religieux continue d’évoluer : l’église Notre-Dame-de-Lourdes est construite de 1911 à 1914, et le clocher est érigé en 1935 ; elle succède à une ancienne église progressivement délabrée, détruite en 1966.",
+  "chronologie": [
+   {
+    "date": "811 - 831",
+    "texte": "L’évêque de Paris Inchadus crée un hameau appelé Inchadivilla pour la convalescence des patients de l’Hôtel-Dieu.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1654",
+    "texte": "Michel Le Tellier, secrétaire du roi et chancelier de France, est seigneur de Chaville et de Viroflay.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1650 - 1655 (années)",
+    "texte": "Le vieux château est démoli pour créer un nouveau domaine et de superbes jardins.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "automne 1706",
+    "texte": "Les travaux de jonction des parcs de Meudon et de Chaville sont achevés.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1900",
+    "texte": "Un tiers des Chavillois travaille à laver, sécher et repasser le linge de la capitale.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "18 juillet 1840",
+    "texte": "La gare de Chaville-Rive-Droite est ouverte par la Société anonyme du chemin de fer de Paris à Saint-Cloud et Versailles.",
+    "sources": [
+     "S25"
+    ]
+   },
+   {
+    "date": "1911 - 1914",
+    "texte": "Construction de l’église Notre-Dame-de-Lourdes sur un projet inspiré de la basilique de Lourdes.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "L’église Notre-Dame-de-Lourdes est achevée par l’érection du clocher.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "L’ancienne église Notre-Dame, progressivement délabrée, est détruite et l’église Notre-Dame-de-Lourdes lui succède.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Chaville",
+   "histoire": "Le château de Chaville, détruit, se trouvait sur la route royale entre Paris et Versailles. Il est rebâti par Michel Le Tellier au milieu du XVIIe siècle, puis le vieux château est démoli dans les années 1650-1655 afin de créer un nouveau domaine et ses jardins. À l’automne 1706, les travaux de jonction des parcs de Meudon et de Chaville sont achevés.",
+   "anecdotes": [
+    {
+     "texte": "Dès le XVIIe siècle, le château change de forme : l’élan donné par Michel Le Tellier mène à des travaux de réaménagement avec une attention portée aux jardins.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4",
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.8018887,
+   "lon": 2.1867943,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chaville"
+  },
+  {
+   "nom": "Église Notre-Dame-de-Lourdes de Chaville",
+   "histoire": "L’église Notre-Dame-de-Lourdes se situe au 1427 avenue Roger-Salengro. Construite de 1911 à 1914, elle est achevée en 1935 avec l’érection du clocher. En 1966, elle succède à une ancienne église Notre-Dame, progressivement délabrée et détruite. Pour son implantation, plusieurs terrains sont proposés avant un choix au Doisu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.80914,
+   "lon": 2.18958,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Lourdes_de_Chaville"
+  },
+  {
+   "nom": "Église Notre-Dame de Chaville",
+   "histoire": "Une première église est construite à cet endroit à la fin du XIIe siècle par détachement d’un territoire d’Ursine. Une nouvelle église dédiée à Notre-Dame est bâtie en 1626 au même emplacement. Cette ancienne église est détruite au XXe siècle ; rien n’en est conservé, et même certains tableaux du XVIIe siècle ne subsistent plus, malgré une trace dans l’inventaire de 1906.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S14"
+   ],
+   "lat": 48.803237,
+   "lon": 2.188794,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Chaville"
+  },
+  {
+   "nom": "Rue Anatole-France (Chaville)",
+   "histoire": "La rue Anatole-France suit le tracé de la route départementale 53. Elle correspond à une métairie fondée par l’évêque Inchadus au début du IXe siècle. Construite en 1197, elle est rebâtie en 1626 puis définitivement détruite en 1966. Son emplacement se lit aussi aujourd’hui, notamment vers le no 37 aux « Allées de Chaville ».",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Emplacement de l’ancienne église Notre-Dame, vers le no 37, aux « Allées de Chaville ».",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S23"
+   ],
+   "lat": 48.80512,
+   "lon": 2.1881,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Anatole-France_%28Chaville%29"
+  },
+  {
+   "nom": "Gare de Chaville-Rive-Droite",
+   "histoire": "La gare de Chaville-Rive-Droite se trouve sur le territoire de la commune de Chaville, sur la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite. Elle est ouverte le 18 juillet 1840 par la Société anonyme du chemin de fer de Paris à Saint-Cloud et Versailles. Pendant la guerre franco-allemande de 1870, ses installations sont détruites, entraînant une nouvelle fermeture. En avril 1976, le bâtiment des voyageurs est détruit lors de la réélectrification de la ligne ; un nouveau bâtiment est inauguré le 30 juin 1977.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.8121,
+   "lon": 2.18783,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Chaville-Rive-Droite"
+  },
+  {
+   "nom": "Gare de Chaville-Rive-Gauche",
+   "histoire": "La gare de Chaville-Rive-Gauche est située sur le territoire de Chaville, sur la ligne de Paris-Montparnasse à Brest. Elle est mise en service le 10 septembre 1840 avec l’ouverture de la voie entre Paris-Montparnasse et Versailles-Rive-Gauche. En 2016, l’entrée principale et le guichet ferment très souvent aux voyageurs par manque de personnel, à la suite d’un plan économique SNCF ; un second ascenseur devait être installé en 2016.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 48.804754,
+   "lon": 2.188535,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Chaville-Rive-Gauche"
+  },
+  {
+   "nom": "Avenue de Louvois",
+   "histoire": "L’avenue de Louvois est une voie de communication de Chaville, dans les Hauts-de-Seine. Au no 29, une maison est construite en 1882. Le château, dit maison du Parc, est démoli en 1964 après avoir été utilisé comme pouponnière puis orphelinat. Aujourd’hui, l’ancien parc de Chaville correspond au quartier du parc Fourchon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ancien parc de Chaville, aujourd’hui le quartier du parc Fourchon.",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.80416,
+   "lon": 2.1851,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_de_Louvois"
+  },
+  {
+   "nom": "Église apostolique arménienne Saint-Grégoire-l'Illuminateur de Chaville",
+   "histoire": "L’église apostolique arménienne Saint-Grégoire-l'Illuminateur est située dans la ville de Chaville. La première pierre de l’édifice actuel, financé par les fidèles, est bénie le 17 février 1957. À compter de 1931, les offices ont lieu d’abord au 20 avenue de Ville-d’Avray, aujourd’hui avenue de la Résistance.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.809781,
+   "lon": 2.185382,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_apostolique_arm%C3%A9nienne_Saint-Gr%C3%A9goire-l%27Illuminateur_de_Chaville"
+  }
+ ],
+ "sources": [
+  "Chaville est une commune française située dans le département des Hauts-de-Seine en région Île-de-France, le long de l'axe majeur entre le sud-ouest de Paris et Versailles. Chaville, situé en banlieue ouest de Paris sur la route de Versailles, dispose d'un patrimoine forestier remarquable : la moitié de son territoire est occupé par la forêt de Meudon et la forêt de Fausses-Reposes, héritage des chasses des rois de […]",
+  "Entre 811 et 831, l'évêque de Paris, Ichad ou Inchadus, crée un hameau appelé Inchadivilla pour la convalescence des patients de l'Hôtel-Dieu. En 1654, le secrétaire du roi chancelier de France Michel Le Tellier était seigneur de Chaville et de Viroflay. Son fils, Louvois, ministre de la guerre sous Louis XIV fit construire le Château de Chaville, inspiré du Versailles de Louis XIII. Il remplace l'un des trois […]",
+  "1900 : En 1900, un tiers des Chavillois est occupé à laver, sécher et repasser le linge de la capitale.",
+  "Lieu « Château de Chaville » : Le château de Chaville est un château détruit, qui se trouvait situé dans la commune de Chaville, idéalement placé sur la route royale entre Paris et Versailles, et rebâti par Michel Le Tellier au milieu du XVIIe siècle.",
+  "Lieu « Château de Chaville », XVIIe siècle : Le château de Chaville est un château détruit, qui se trouvait situé dans la commune de Chaville, idéalement placé sur la route royale entre Paris et Versailles, et rebâti par Michel Le Tellier au milieu du XVIIe siècle.",
+  "Lieu « Château de Chaville », 1650 : C'est lui qui fera démolir le vieux château dans les années 1650-1655 pour créer un nouveau domaine avec de superbes jardins.",
+  "Lieu « Château de Chaville », 1706 : À l'automne 1706, les travaux de jonction des parcs de Meudon et de Chaville sont achevés.",
+  "Lieu « Château de Chaville », aujourd'hui : De nombreux châteaux différents se sont succédé dans le temps, plus ou moins au même emplacement.",
+  "Lieu « Église Notre-Dame-de-Lourdes de Chaville » : L'église Notre-Dame-de-Lourdes est une église située au n° 1427 avenue Roger-Salengro dans la ville de Chaville, en Île-de-France, dans le département des Hauts-de-Seine.",
+  "Lieu « Église Notre-Dame-de-Lourdes de Chaville », 1911 : Cette église fut tout d'abord construite de 1911 à 1914 sur un projet qui s'inspirait de la basilique de Lourdes.",
+  "Lieu « Église Notre-Dame-de-Lourdes de Chaville », 1935 : Elle fut achevée en 1935 par l'érection du clocher.",
+  "Lieu « Église Notre-Dame-de-Lourdes de Chaville », 1966 : Elle succède en quelque sorte à l'ancienne église Notre-Dame de Chaville qui, progressivement délabrée, dut être détruite en 1966.",
+  "Lieu « Église Notre-Dame-de-Lourdes de Chaville », aujourd'hui : Un premier terrain lui est proposé boulevard des Trois-Gares (aujourd'hui le boulevard de la Libération), puis un autre dans le nouveau lotissement du parc Lefebvre, mais choisit pour finir un troisième terrain situé au Doisu.",
+  "Lieu « Église Notre-Dame de Chaville » : L'ancienne église Notre-Dame est une église autrefois située dans la ville de Chaville, en Île-de-France, dans le département des Hauts-de-Seine, et détruite au XXe siècle.",
+  "Lieu « Église Notre-Dame de Chaville », XIIe siècle : Une première église fut construite à cet endroit à la fin du XIIe siècle, par détachement d'un territoire d'Ursine.",
+  "Lieu « Église Notre-Dame de Chaville », 1626 : Une nouvelle église, dédiée à Notre-Dame, est bâtie en 1626 au même emplacement.",
+  "Lieu « Église Notre-Dame de Chaville », XXe siècle : L'ancienne église Notre-Dame est une église autrefois située dans la ville de Chaville, en Île-de-France, dans le département des Hauts-de-Seine, et détruite au XXe siècle.",
+  "Lieu « Église Notre-Dame de Chaville », aujourd'hui : Rien n'a été conservé de son patrimoine mobilier, dont certains tableaux du XVIIe siècle dont gardait trace l'inventaire de 1906.",
+  "Lieu « Rue Anatole-France (Chaville) » : La rue Anatole-France est une importante voie de communication de la commune de Chaville, dans les Hauts-de-Seine, en France. elle suit le tracé de la route départementale 53.",
+  "Lieu « Rue Anatole-France (Chaville) », IXe siècle : C'était une métairie fondée par l'évêque Inchadus, au début du IXe siècle.",
+  "Lieu « Rue Anatole-France (Chaville) », 1197 : Construite en 1197, elle fut rebâtie en 1626 et définitvement détruite en 1966.",
+  "Lieu « Rue Anatole-France (Chaville) », 1964 : Groupe scolaire Anatole-France - Les Iris, construit en 1964 à l'emplacement de l'ancien château Saint-Paul.",
+  "Lieu « Rue Anatole-France (Chaville) », aujourd'hui : Emplacement de l'ancienne église Notre-Dame, vers le no 37, aux « Allées de Chaville ».",
+  "Lieu « Gare de Chaville-Rive-Droite » : La gare de Chaville-Rive-Droite est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite, située sur le territoire de la commune de Chaville, dans le département des Hauts-de-Seine en région Île-de-France.",
+  "Lieu « Gare de Chaville-Rive-Droite », 1840 : Ouverte le 18 juillet 1840 par la Société anonyme du chemin de fer de Paris à Saint-Cloud et Versailles, c'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains des lignes L (réseau Paris-Saint-Lazare) et U du Transilien.",
+  "Lieu « Gare de Chaville-Rive-Droite », 1870 : Mais durant la guerre franco-allemande de 1870, les installations de la gare sont détruites, ce qui entraîne une nouvelle fermeture.",
+  "Lieu « Gare de Chaville-Rive-Droite », 1976 : La réélectrification de la ligne par caténaire 25 kV est fatale au bâtiment des voyageurs, qui est établi sur une dalle engageant le gabarit : il est détruit en avril 1976 et remplacé par un nouveau bâtiment, d'architecture banale, inauguré le 30 juin 1977.",
+  "Lieu « Gare de Chaville-Rive-Gauche » : La gare de Chaville-Rive-Gauche est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune de Chaville, dans le département des Hauts-de-Seine, en région Île-de-France.",
+  "Lieu « Gare de Chaville-Rive-Gauche », 1840 : Elle est mise en service le 10 septembre 1840 avec l'ouverture de la voie entre la gare de Paris-Montparnasse et la gare de Versailles-Rive-Gauche.",
+  "Lieu « Gare de Chaville-Rive-Gauche », 2016 : Depuis 2016, l'entrée principale et le guichet sont très souvent fermés aux voyageurs par manque de personnel, à la suite d'un plan économique décidé par la SNCF.",
+  "Lieu « Gare de Chaville-Rive-Gauche », 2016 : Un second ascenseur doit être installé en 2016.",
+  "Lieu « Avenue de Louvois » : L'avenue de Louvois est une voie de communication de la commune de Chaville, dans les Hauts-de-Seine, en France.",
+  "Lieu « Avenue de Louvois », 1882 : Au no 29, une maison construite en 1882.",
+  "Lieu « Avenue de Louvois », 1964 : Le château, dit maison du Parc, est démoli en 1964 après avoir été utilisé comme pouponnière puis orphelinat.",
+  "Lieu « Avenue de Louvois », aujourd'hui : Ancien parc de Chaville, aujourd'hui le quartier du parc Fourchon.",
+  "Lieu « Église apostolique arménienne Saint-Grégoire-l'Illuminateur de Chaville » : L'église apostolique arménienne Saint-Grégoire-l'Illuminateur est une église située dans la ville de Chaville, en Île-de-France, dans le département des Hauts-de-Seine.",
+  "Lieu « Église apostolique arménienne Saint-Grégoire-l'Illuminateur de Chaville », 1957 : La première pierre de l'édifice actuel, financé par les fidèles, a été bénie le 17 février 1957.",
+  "Lieu « Église apostolique arménienne Saint-Grégoire-l'Illuminateur de Chaville », aujourd'hui : A compter de 1931, les offices religieux avaient lieu d’abord au 20, avenue de Ville-d’Avray, aujourd'hui l'avenue de la Résistance."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
