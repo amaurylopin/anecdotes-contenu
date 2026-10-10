@@ -1,0 +1,131 @@
+{
+ "commune": {
+  "titre": "Chenôve",
+  "code_insee": "21166",
+  "departement": "21",
+  "population": 14244,
+  "lat": 47.29166667,
+  "lon": 5.00805556,
+  "url": "https://fr.wikipedia.org/wiki/Chen%C3%B4ve"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:31:31",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1493,
+  "sortie": 902
+ },
+ "cout_usd": 0.001426,
+ "accroche": "À Chenôve, les Pressoirs des ducs de Bourgogne, cœur du vieux bourg, sont vendus comme « biens nationaux » le 12 février 1791 à Jean Poinsard fils. ",
+ "histoire": {
+  "recit": "Chenôve, commune de la Côte-d’Or en banlieue de Dijon, compte 14 244 habitants au recensement de 2023. Son nom viendrait de « Chenave », un terrain planté en chanvre, cultivé dans l’Antiquité sur certaines parties du territoire.\n\nLongtemps, le village a gardé une allure de campagne : petit village vigneron au début du XXe siècle, Chenôve commence en 1955 à déployer une urbanisation de grande envergure après l’explosion démographique de Dijon.\n\nAu cœur du vieux bourg, les Pressoirs des ducs de Bourgogne racontent une histoire de vin et de pierres : pressoirs à contrepoids mobile en pierre unique, du XVe siècle, ouverts au tourisme sur des périodes estivales entre 1987 et 2019. Leur première trace dans les archives remonte à 1238, sous la voix d’Alix, mère d’Hugues duc de Bourgogne. Vendus en 1791 comme biens nationaux, ils sont ensuite protégés à partir de 1934.\n\nÀ côté, l’église Saint-Nazaire de Chenôve, paroissiale, a été construite probablement au XIIIe siècle à l’emplacement d’une chapelle mérovingienne du VIIIe siècle, puis modifiée au fil du temps.",
+  "chronologie": [
+   {
+    "date": "1238",
+    "texte": "Une trace d’archives mentionne un treuil de Chenôve, dans une assignation faite à l’église de Saint-Benigne de Dijon.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1955",
+    "texte": "Chenôve entame un projet d’urbanisation de grande envergure, après l’explosion démographique de Dijon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "12 février 1791",
+    "texte": "Les Pressoirs sont vendus comme « biens nationaux » à Jean Poinsard fils, cultivateur à Ahuy, pour 34 500 livres.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1934",
+    "texte": "Les Pressoirs sont inscrits à l’inventaire supplémentaire des Monuments historiques.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "Les Pressoirs des ducs de Bourgogne sont ouverts au tourisme pendant la période estivale, entre 1987 et 2019.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pressoirs des ducs de Bourgogne",
+   "histoire": "Au cœur du vieux bourg de Chenôve, ce sont des pressoirs à contrepoids mobile en pierre unique, datés du XVe siècle et liés au village viticole de la Route des Grands Crus.",
+   "anecdotes": [
+    {
+     "texte": "En 1791, les pressoirs passent entre les mains d’un cultivateur d’Ahuy : ils sont vendus comme « biens nationaux » à Jean Poinsard fils.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "La première trace documentaire remonte à 1238 : Alix, mère d’Hugues duc de Bourgogne, y assigne à l’église de Saint-Benigne de Dijon un muid de vin et une somme de Dijon sur le treuil de Chenôve.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La première trace des pressoirs remonte à 1238 et ils sont ouverts au tourisme durant certaines périodes estivales (entre 1987 et 2019).",
+   "sources": [
+    "S4",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 47.292,
+   "lon": 5.0005,
+   "url": "https://fr.wikipedia.org/wiki/Pressoirs_des_ducs_de_Bourgogne"
+  },
+  {
+   "nom": "Église Saint-Nazaire de Chenôve",
+   "histoire": "Église paroissiale de Chenôve, elle a été construite probablement au XIIIe siècle sur l’emplacement d’une chapelle mérovingienne du VIIIe siècle, puis modifiée au fil de son histoire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 47.29255,
+   "lon": 5.00075,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nazaire_de_Chen%C3%B4ve"
+  }
+ ],
+ "sources": [
+  "Chenôve (prononcer [ʃə.no.v]) est une commune française, faisant partie de Dijon Métropole et située dans le département de la Côte-d'Or, en région Bourgogne-Franche-Comté dans la banlieue de Dijon. Sa population est de 14 244 habitants au recensement de 2023.",
+  "Le village de Chenôve est un des plus anciens de toute la Côte-d'Or. Il a dû être habité lors de l'époque romaine. Entre Chenôve et Longvic se trouvait un chemin des Romains, qui tirait en droite ligne des bois de Perrigny à la Colombière. L'étymologie de Chenôve vient de \"Chenave\", terrain planté en chanvre, nom d'une plante qui a été cultivée dans l'antiquité sur certaines parties du territoire. Chenôve s’est […]",
+  "1955 : Petit village vigneron au début du XXe siècle, Chenôve commence en 1955 à appliquer un projet d'urbanisation de grande envergure à la suite de l'explosion démographique de Dijon.",
+  "Lieu « Pressoirs des ducs de Bourgogne » : Les Pressoirs des ducs de bourgogne sont des pressoirs à contrepoids mobile en pierre unique en Bourgogne, du XVe siècle au cœur du vieux bourg de Chenôve (village viticole de la Route des Grands Crus).",
+  "Lieu « Pressoirs des ducs de Bourgogne », 1791 : Les Pressoirs sont vendus comme « biens nationaux », le 12 février 1791, à « Jean Poinsard fils, cultivateur à Ahuy, pour la somme de 34 500 livres ».",
+  "Lieu « Pressoirs des ducs de Bourgogne », 1934 : Ils sont inscrits à l’inventaire supplémentaire des Monuments historiques depuis 1934 et sur la Liste des Bâtiments d'Architecture Industrielle de la Fondation Claude-Nicolas Ledoux depuis 1989.",
+  "Lieu « Pressoirs des ducs de Bourgogne », 1987 : Ils sont ouverts au tourisme durant la période estivale, entre 1987 et 2019.",
+  "Lieu « Pressoirs des ducs de Bourgogne », aujourd'hui : La première trace des pressoirs dans les archives remonte à 1238 : « Moi, Alix, mère d'Hugues duc de Bourgogne, j'assigne et assoie à l'église de Saint-Benigne de Dijon un muid de vin et six sous et demi de Dijon sur mon treuil de Chenôve. » Les pressoirs des ducs de Bourgogne sont entièrement reconstruits entre 1404 à 1407 sous le règne du duc Jean Ier de […]",
+  "Lieu « Église Saint-Nazaire de Chenôve » : L'église Saint-Nazaire est l'église paroissiale de Chenôve dans le département de la Côte-d'Or.",
+  "Lieu « Église Saint-Nazaire de Chenôve », XIIIe siècle : L'église a été construite probablement au XIIIe siècle, à l'emplacement d'une chapelle mérovingienne du VIIIe siècle. elle a été modifiée tout au long de son histoire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

@@ -1,0 +1,336 @@
+{
+ "commune": {
+  "titre": "Beaune",
+  "code_insee": "21054",
+  "departement": "21",
+  "population": 20352,
+  "lat": 47.025,
+  "lon": 4.83972222,
+  "url": "https://fr.wikipedia.org/wiki/Beaune"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:10:28",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3787,
+  "sortie": 2267
+ },
+ "cout_usd": 0.003591,
+ "accroche": "En 1203, Eudes III, duc de Bourgogne, confère à Beaune une existence d’institution autonome, sur le modèle de Dijon.",
+ "histoire": {
+  "recit": "À Beaune, l’histoire commence par des franchises. La charte accordée dès 1203 installe l’idée même d’une ville organisée, avec droits et privilèges, et elle se conserve encore aux Archives municipales. Très vite, la place se protège : de 1513 à 1524, de grosses tours surgissent aux angles et l’enceinte est épaissie. Plus tard, Beaune connaît aussi la guerre lointaine, quand Wolfgang de Bavière, financé par Élisabeth Ire, mène une armée de mercenaires vers La Rochelle en 1568.\n\nLa ville prend surtout figure par ses bâtisseurs et ses maisons de charité. Les Hospices de Beaune, fondés au XVe siècle par Nicolas Rolin et Guigone de Salins, montent en chantier avec une grande salle achevée autour de 1449-50. La vente des vins des hospices devient une tradition de charité, et l’ensemble, modernisé en “hospices civils”, emploie aujourd’hui des salariés et finance des établissements à Beaune. Tout près, l’Hôpital de la Sainte-Trinité de Beaune, construit en 1645, a continué d’évoluer jusqu’à devenir un home pour personnes âgées.\n\nEnfin, la vigne et le commerce donnent à Beaune une autre scène : Bouchard Père & Fils installe son siège dans les fortifications et chais de l’ancien château, et son histoire judiciaire rappelle comment les vins ont été identifiés et vendus.",
+  "chronologie": [
+   {
+    "date": "1203",
+    "texte": "Eudes III, duc de Bourgogne, permet à Beaune d’exister comme institution autonome, avec une charte conservée aux Archives municipales.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1513",
+    "texte": "De 1513 à 1524, des grosses tours sont construites aux angles de la cité et l’enceinte est épaissie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1568",
+    "texte": "En 1568, Wolfgang de Bavière, financé par Élisabeth Ire, part à la tête de 14 000 mercenaires pour aider les protestants français assiégés à La Rochelle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1449",
+    "texte": "Aux Hospices de Beaune, les travaux commencent et la grande salle sur la rue est achevée autour de 1449-50.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Les Hospices de Beaune sont un hôtel-Dieu de style gothique flamboyant, fondé au XVe siècle par Nicolas Rolin et son épouse Guigone.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1443",
+    "texte": "Les hospices de Beaune sont fondés en 1443 par Nicolas Rolin et son épouse Guigone de Salins.",
+    "sources": [
+     "S22"
+    ]
+   },
+   {
+    "date": "1645",
+    "texte": "L’Hôpital de la Sainte-Trinité de Beaune, aussi appelé Hospice de la Charité, est construit en 1645 par Antoine Rousseau et Barbe Deslandes.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1859",
+    "texte": "Depuis 1859, les cuvées de prestige des hospices sont vendues l’année même, sous forme de pièces, lors d’enchères traditionnelle de charité.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1971",
+    "texte": "En 1971, le centre hospitalier Philippe le Bon de courts séjours à Beaune est ouvert, financé par les hospices modernisés en hospices civils.",
+    "sources": [
+     "S24"
+    ]
+   },
+   {
+    "date": "1872",
+    "texte": "En 1872, la maison Bouchard Père & Fils installe son siège aux numéros 13 et 15 de la rue du Château.",
+    "sources": [
+     "S34"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Bouchard Père & Fils",
+   "histoire": "Domaine viticole et maison de négoce implantée à Beaune, dont le siège s’installe dans les fortifications et bastions des restes de l’ancien château. La maison s’établit définitivement à Beaune en 1738, et, au XXe siècle, un jugement encadre l’usage de certains noms pour des vins.",
+   "anecdotes": [
+    {
+     "texte": "Le tribunal conclut, par jugement du 12 mai 1921, que les vins produits sur les vignes des défenseurs ne se sont jamais vendus sous le nom de Montrachet, mais sous ceux de Bâtard-montrachet et Chevalier-Montrachet.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S34"
+   ],
+   "lat": 47.024515,
+   "lon": 4.843524,
+   "url": "https://fr.wikipedia.org/wiki/Bouchard_P%C3%A8re_%26_Fils"
+  },
+  {
+   "nom": "Hospices de Beaune",
+   "histoire": "Hôtel-Dieu de style gothique flamboyant fondé au XVe siècle par Nicolas Rolin et Guigone, organisé autour d’une cour et aujourd’hui utilisé comme lieu de visite et d’exposition sur l’histoire des hospices et de son vignoble. La vente des vins y poursuit la tradition de charité.",
+   "anecdotes": [
+    {
+     "texte": "La vente des hospices est décrite comme une prestigieuse vente aux enchères traditionnelle de charité des vins de Bourgogne.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Les travaux des Hospices commencent par la grande salle sur la rue, achevée autour de 1449-50.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Les cuvées de prestige sont vendues l’année même sous forme de pièces, lors d’enchères traditionnelle de charité, le troisième dimanche de novembre.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ils servent actuellement de salle d’exposition sur l’histoire des Hospices et de son vignoble.",
+   "sources": [
+    "S15"
+   ],
+   "lat": 47.021944444444,
+   "lon": 4.8366666666667,
+   "url": "https://fr.wikipedia.org/wiki/Hospices_de_Beaune"
+  },
+  {
+   "nom": "Hôpital de la Sainte-Trinité de Beaune",
+   "histoire": "Ancien établissement hospitalier construit en 1645 par Antoine Rousseau et Barbe Deslandes, situé entre la rue Rousseau Deslandes et la rue Marie Favart. L’ensemble a réemployé des constructions plus anciennes et, aujourd’hui, l’hospice fonctionne comme un home pour personnes âgées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, l’hospice est un home pour personnes âgées.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 47.0249,
+   "lon": 4.83921,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_de_la_Sainte-Trinit%C3%A9_de_Beaune"
+  },
+  {
+   "nom": "Vente des hospices de Beaune",
+   "histoire": "Rendez-vous attaché aux Hospices de Beaune : une vente aux enchères de charité, où des cuvées de prestige sont vendues sous forme de pièces. Le domaine est adossé à un important vignoble.",
+   "anecdotes": [
+    {
+     "texte": "Depuis 1859, les ventes se font l’année même, et l’enchère était à l’origine « à la bougie », désormais abandonnée.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    },
+    {
+     "texte": "Les hospices emploient aujourd’hui 700 salariés et financent, notamment, le centre hospitalier Philippe le Bon de courts séjours, ouvert en 1971.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.02254,
+   "lon": 4.837246,
+   "url": "https://fr.wikipedia.org/wiki/Vente_des_hospices_de_Beaune"
+  },
+  {
+   "nom": "Basilique Notre-Dame de Beaune",
+   "histoire": "Ensemble canonial placé au cœur de Beaune. Les chanoines entreprennent la construction au milieu du XIIe siècle selon un modèle clunysien ; l’édifice garde une unité stylistique et se complète au début du siècle suivant. Le portail du bras droit du transept ouvre sur une galerie de cloître et des bâtiments canoniaux utilisés comme presbytère.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le portail du bras droit du transept ouvre sur une galerie de cloître à sept travées, surmontée d’une partie des anciens bâtiments canoniaux actuellement utilisée comme presbytère.",
+   "sources": [
+    "S30",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 47.024167,
+   "lon": 4.836389,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame_de_Beaune"
+  },
+  {
+   "nom": "Château de Beaune",
+   "histoire": "Château du XIXe siècle, en tuile vernissée de Bourgogne, construit sur l’emplacement de l’ancien château fort du XVe siècle. Un ordre royal impose la démolition côté ville, pour éviter l’installation de nouveaux opposants et prévenir des troubles ; la démolition ne s’achève qu’en 1606.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château de Beaune est un château du XIXe siècle sur l’emplacement de l’ancien château fort de Beaune du XVe siècle.",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S35"
+   ],
+   "lat": 47.023889,
+   "lon": 4.842639,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beaune"
+  },
+  {
+   "nom": "Commanderie de Beaune",
+   "histoire": "Commanderie fondée au XIIe siècle par l’ordre du Temple puis devenue hospitalière. Le temple est établi avant 1177, à l’emplacement de la chapelle dédiée à Saint-Jacques. Au XVIe siècle, la ville loue les bâtiments et la chapelle pour en faire un hôpital pour les pestiférés. Aujourd’hui, le portail est exposé au musée des Cloîtres aux États-Unis.",
+   "anecdotes": [
+    {
+     "texte": "Au XVIe siècle, la ville loue les bâtiments ainsi que la chapelle pour en faire un hôpital pour les pestiférés.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    },
+    {
+     "texte": "Le portail a été acheté après la première Guerre mondiale par des Chevaliers de Colomb et il est actuellement exposé au musée des Cloîtres aux États-Unis.",
+     "statut": "etabli",
+     "sources": [
+      "S40"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le portail est actuellement exposé au musée des Cloîtres aux États-Unis.",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 47.017237,
+   "lon": 4.839199,
+   "url": "https://fr.wikipedia.org/wiki/Commanderie_de_Beaune"
+  },
+  {
+   "nom": "Chartreuse Notre-Dame de Fontenay-lès-Beaune",
+   "histoire": "Monastère de l’ordre des Chartreux fondé en 1328 sous les murs de Beaune, dont ne subsiste aujourd’hui qu’un portail du XVIIe siècle sur la route de Verdun. Plus tard, l’église est consacrée en 1602.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne subsiste aujourd’hui de l’ancien monastère qu’un portail du XVIIe siècle sur la route de Verdun.",
+   "sources": [
+    "S45",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 47.010162,
+   "lon": 4.847363,
+   "url": "https://fr.wikipedia.org/wiki/Chartreuse_Notre-Dame_de_Fontenay-l%C3%A8s-Beaune"
+  }
+ ],
+ "sources": [
+  "Beaune (en bourguignon : Beane) est une commune française située dans le département de la Côte-d'Or et la région Bourgogne-Franche-Comté. Située à 45 kilomètres au sud de Dijon et 150 km au nord de Lyon, elle est la sous-préfecture de l'arrondissement de Beaune. En 2023, la population de Beaune est de 20 352 habitants ce qui en fait la deuxième commune de Côte-d'Or. La communauté d'agglomération Beaune Côte et Sud, […]",
+  "La charte de franchise de la commune de Beaune confère à ses habitants droits et privilèges. Eudes III, duc de Bourgogne, permet à Beaune d’exister en tant qu’institution autonome dès 1203 sur le modèle de Dijon. Cette charte est conservée aux Archives municipales de Beaune. En 1422, Nicolas Rolin devient le chancelier du duc de Bourgogne Philippe le Bon. Il fut très lié à Jean sans Peur, qui fut le parrain de son […]",
+  "1513 : De 1513 à 1524 furent construites les « grosses tours » aux angles de la cité et l'enceinte fut épaissie.",
+  "1568 : En 1568, Wolfgang de Bavière, financé par Élisabeth Ire d'Angleterre prend la tête d'une armée expéditionnaire de 14 000 mercenaires pour apporter des renforts aux protestants français assiégés à La Rochelle.",
+  "1918 : En 1918, l'hôpital militaire américain est construit aux portes de la ville, avec 20 000 lits il sera l'un des plus importants en Europe.",
+  "Lieu « Bouchard Père & Fils » : Bouchard Père & Fils est un domaine viticole et une maison de négoce, situé en Bourgogne.",
+  "Lieu « Bouchard Père & Fils », 1482 : Le siège, les bureaux et les chais sont implantés à Beaune dans les fortifications et bastions des restes de l'ancien château de Beaune construit par Louis XI en 1482.",
+  "Lieu « Bouchard Père & Fils », 1738 : En 1738, il s'établit définitivement avec sa famille à Beaune, Rue Maufoux, pour son commerce de drap installé en 1731.",
+  "Lieu « Bouchard Père & Fils », 1921 : Par l'audience et son jugement du 12 mai 1921 le tribunal conclut : « démontrant que les vins produits sur les vignes des défenseurs ne se sont jamais vendus sous le nom de Montrachet, mais généralement et principalement sous celui de Bâtard-montrachet et Chevalier-Montrachet »..",
+  "Lieu « Bouchard Père & Fils », aujourd'hui : Elle est dirigée à partir du 12 mars 2018 par Thomas Seiter en remplacement de Christian Albouy, ancien directeur général de la crème de cassis Lejay-Lagoute, liquoriste dijonnais racheté en 2004 et revendu en 2019 au no 2 français des vins et liqueurs La Martiniquaise.",
+  "Lieu « Hospices de Beaune » : Les hospices de Beaune (ou hôtel-Dieu de Beaune) sont un hôtel-Dieu ou hospice de style gothique flamboyant avec toiture en tuile vernissée de Bourgogne, fondé au XVe siècle par le chancelier des ducs de Bourgogne Nicolas Rolin et son épouse Guigone",
+  "Lieu « Hospices de Beaune », 1449 : Les travaux commencent par la grande salle sur la rue, achevée autour de 1449-50, et s'achève par le côté sud-ouest.",
+  "Lieu « Hospices de Beaune », XVe siècle : Les hospices de Beaune (ou hôtel-Dieu de Beaune) sont un hôtel-Dieu ou hospice de style gothique flamboyant avec toiture en tuile vernissée de Bourgogne, fondé au XVe siècle par le chancelier des ducs de Bourgogne Nicolas Rolin et son épouse Guigone de Salins à Beaune en Bourgogne.",
+  "Lieu « Hospices de Beaune », XVe siècle : Les bâtiments se présentent sous la forme d'un U autour d'une cour d'honneur, qui sera clos au XVe siècle d'une grange, puis du bâtiment XVIIe actuel sur son côté nord-ouest.",
+  "Lieu « Hospices de Beaune », aujourd'hui : Elle sert actuellement de salle d'exposition sur l'histoire des Hospices et de son vignoble.",
+  "Lieu « Hôpital de la Sainte-Trinité de Beaune » : L'Hôpital de la Sainte-Trinité dit Hospice de la Charité de Beaune est un ancien établissement hospitalier, situé 3 rue Rousseau Deslandes et 20 rue Marie Favart à Beaune, construit en 1645 par Antoine Rousseau et Barbe Deslandes.",
+  "Lieu « Hôpital de la Sainte-Trinité de Beaune », 1645 : L'Hôpital de la Sainte-Trinité dit Hospice de la Charité de Beaune est un ancien établissement hospitalier, situé 3 rue Rousseau Deslandes et 20 rue Marie Favart à Beaune, construit en 1645 par Antoine Rousseau et Barbe Deslandes.",
+  "Lieu « Hôpital de la Sainte-Trinité de Beaune », 1645 : L'établissement fondé en 1645, fut construit à partir de maisons de la fin du XVe siècle ou du début du XVIe siècle dont une partie du gros œuvre a été conservée dans le bâtiment ouest édifié dans la deuxième moitié du XVIIe siècle.",
+  "Lieu « Hôpital de la Sainte-Trinité de Beaune », XVIIe siècle : La maison des fondateurs date vraisemblablement de la première moitié du XVIIe siècle ; le corps de bâtiment qui la jouxte ainsi que ceux qui longent la rue Rousseau-Deslandes sont des constructions du XVIIIe siècle.",
+  "Lieu « Hôpital de la Sainte-Trinité de Beaune », aujourd'hui : L'hospice est aujourd'hui un home pour personnes âgées.",
+  "Lieu « Vente des hospices de Beaune » : La vente des hospices de Beaune est une prestigieuse vente aux enchères traditionnelle de charité des vins de Bourgogne des hospices de Beaune.",
+  "Lieu « Vente des hospices de Beaune », 1443 : Les hospices de Beaune sont fondés en 1443 par Nicolas Rolin et son épouse Guigone de Salins.",
+  "Lieu « Vente des hospices de Beaune », 1859 : Les différentes cuvées de prestige obtenues chaque année sont vendues l'année même sous forme de pièces, soit près de 400 à 600 fûts de 228 litres depuis 1859 (soit 288 bouteilles après l'élevage) sous forme d'enchères traditionnelle de charité (à l'origine « à la bougie », désormais abandonnée) à la renommée mondiale, le troisième dimanche de novembre.",
+  "Lieu « Vente des hospices de Beaune », 1971 : Ces hospices, devenues aujourd'hui musée, ont été modernisées en « hospices civils de Beaune » qui emploient à ce jour 700 salariés et financent : le centre hospitalier Philippe le Bon de courts séjours, à Beaune, ouvert en 1971 ; le centre Nicolas Rolin de long et moyen séjour ; deux structures d'hébergement pour personnes âgées dépendantes, l'Hôtel-Dieu et la Charité.",
+  "Lieu « Vente des hospices de Beaune », aujourd'hui : Le domaine est actuellement constitué de près de 61 hectares de vignes (50 de pinot noir et dix de chardonnay) situées essentiellement dans le vignoble de la côte de Beaune et dans le vignoble de la côte de Nuits, dont la plupart des parcelles sont situées dans des zones d'appellations prestigieuses, classées parmi les premiers crus et les grands crus.",
+  "Lieu « Basilique Notre-Dame de Beaune » : La basilique Notre-Dame de Beaune (ou basilique collégiale Notre-Dame de Beaune) est un ensemble canonial datant de la deuxième moitié du XIIe siècle située à Beaune en Côte-d'Or.",
+  "Lieu « Basilique Notre-Dame de Beaune », XIIe siècle : Sa construction fut entreprise au milieu du XIIe siècle sur le modèle clunysien et fut achevée au début du siècle suivant en conservant une remarquable unité stylistique.",
+  "Lieu « Basilique Notre-Dame de Beaune », XIIe siècle : Les chanoines entreprirent de faire bâtir l'édifice au milieu du XIIe siècle et la construction, d'est en ouest, ne s'acheva qu'au début du XIIIe siècle.",
+  "Lieu « Basilique Notre-Dame de Beaune », XIIe siècle : Les bâtiments canoniaux datent de la fin du XIIe siècle, le porche du milieu du XIIIe siècle.",
+  "Lieu « Basilique Notre-Dame de Beaune », aujourd'hui : Le portail du bras droit du transept ouvre sur une galerie de cloître à sept travées que surmonte une partie des anciens bâtiments canoniaux, actuellement utilisée comme presbytère.",
+  "Lieu « Château de Beaune » : Le château de Beaune est un château du XIXe siècle (en tuile vernissée de Bourgogne) sur l'emplacement de l'ancien château fort de Beaune du XVe siècle.",
+  "Lieu « Château de Beaune », 1602 : Le roi de France Henri IV, par lettres patentes du 19 août 1602, après celles du 26 mars 1595, ordonna au gouverneur de Bourgogne Roger de Bellegarde, suivant la requête des États du Duché, de faire démolir le château fort côté ville, afin que de nouveaux opposants ne s'y installent et pour éviter de nouveaux troubles.",
+  "Lieu « Château de Beaune », 1606 : La démolition ne fut guère terminée qu'en 1606.",
+  "Lieu « Château de Beaune », 1872 : Le siège de la maison Bouchard Père & Fils fut installé en 1872 aux n°13 et n°15 de la rue du Château, par Antonin Bouchard, son deuxième fils, et par Julien son fils cadet.",
+  "Lieu « Château de Beaune », aujourd'hui : Le château de Beaune est un château du XIXe siècle (en tuile vernissée de Bourgogne) sur l'emplacement de l'ancien château fort de Beaune du XVe siècle.",
+  "Lieu « Commanderie de Beaune » : La commanderie de Beaune est une commanderie du XIIe siècle fondée par l'ordre du Temple puis hospitalière à Beaune en Bourgogne (diocèse d'Autun, duché de Bourgogne).",
+  "Lieu « Commanderie de Beaune », XIIe siècle : La commanderie de Beaune est une commanderie du XIIe siècle fondée par l'ordre du Temple puis hospitalière à Beaune en Bourgogne (diocèse d'Autun, duché de Bourgogne).",
+  "Lieu « Commanderie de Beaune », 1177 : Le temple de Beaune est fondé un peu avant 1177 au 25 de l'actuelle rue du Faubourg Saint-Jacques, à l'intersection avec la rue Jacques de Molay, dans le faubourg Saint-Jacques de Beaune (du nom de la chapelle construite au XIIe siècle par les Templiers et dédiée à leur saint patron Saint-Jacques).",
+  "Lieu « Commanderie de Beaune », XVIe siècle : Au XVIe siècle, la ville de Beaune loue les bâtiments ainsi que la chapelle, pour en faire un hôpital pour les pestiférés.",
+  "Lieu « Commanderie de Beaune », aujourd'hui : Le portail a été acheté après la première Guerre mondiale par des Chevaliers de Colomb ; il est actuellement exposé au musée des Cloîtres aux États-Unis.",
+  "Lieu « Chartreuse Notre-Dame de Fontenay-lès-Beaune » : Le monastère de Notre-Dame de Fontenay-lès-Beaune, Domus Fontaneti prope Belnam, était un monastère de l'ordre des Chartreux fondé en 1328.",
+  "Lieu « Chartreuse Notre-Dame de Fontenay-lès-Beaune », 1328 : Le monastère de Notre-Dame de Fontenay-lès-Beaune, Domus Fontaneti prope Belnam, était un monastère de l'ordre des Chartreux fondé en 1328.",
+  "Lieu « Chartreuse Notre-Dame de Fontenay-lès-Beaune », 1328 : La chartreuse de Notre-Dame de Fontenay est fondée sous les murs de Beaune par le duc Eudes IV de Bourgogne en 1328.",
+  "Lieu « Chartreuse Notre-Dame de Fontenay-lès-Beaune », 1602 : Reconstruite, l’église est consacrée en 1602 par Pierre Saulnier, évêque d'Autun.",
+  "Lieu « Chartreuse Notre-Dame de Fontenay-lès-Beaune », aujourd'hui : Il ne subsiste aujourd’hui de l’ancien monastère qu’un portail du XVIIe siècle sur la route de Verdun."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}

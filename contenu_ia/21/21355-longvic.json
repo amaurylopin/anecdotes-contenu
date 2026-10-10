@@ -1,0 +1,111 @@
+{
+ "commune": {
+  "titre": "Longvic",
+  "code_insee": "21355",
+  "departement": "21",
+  "population": 8896,
+  "lat": 47.28861111,
+  "lon": 5.06444444,
+  "url": "https://fr.wikipedia.org/wiki/Longvic"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:08:19",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1131,
+  "sortie": 711
+ },
+ "cout_usd": 0.001115,
+ "accroche": "Longvic tire son nom de « longus vicus » et tient sa position sur la grande voie romaine de Lyon à Trèves, selon l’explication locale. ",
+ "histoire": {
+  "recit": "Longvic, prononcé [lɔ̃.vi], est une commune de Côte-d’Or, dans Dijon Métropole. On y compte 8 896 habitants au recensement de 2023, appelés les Longviciennes et les Longviciens. Le nom de la commune renvoie à « longus vicus », la « longue voie » : c’est à Longvic que passe la grande voie romaine de Lyon à Trèves.\n\nÀ Longvic, le domaine de Beauregard a connu plusieurs métamorphoses. Le château de Beauregard, présenté comme moderne, a été rapidement revendu comme bien national à la Révolution. La ferme du Coron s’en est trouvée dissociée, et une partie du château a été détruite au XIXe siècle. Plus récemment, le domaine a été racheté en 2019 par Pascal et Franck Boisselier, puis transformé en hôtel Ibis.\n\nLe château de Longvic, également décrit comme moderne, a fait l’objet d’une transformation repérée en 1877 : le corps de logis a été surmonté d’un second étage, et l’ensemble des bâtiments a été couvert d’ardoise.",
+  "chronologie": [
+   {
+    "date": "2023",
+    "texte": "La commune compte 8 896 habitants au recensement de 2023.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "Révolution",
+    "texte": "Le château de Beauregard est rapidement revendu comme bien national ; la ferme du Coron en est dissociée et une partie du château est détruite au XIXe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Une partie du château de Beauregard est détruite au XIXe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1877",
+    "texte": "En 1877, le corps de logis du château de Longvic est surmonté d’un second étage et les bâtiments sont couverts d’ardoise.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2019",
+    "texte": "En 2019, Pascal et Franck Boisselier rachètent le domaine de Beauregard, transformé ensuite en hôtel Ibis.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Beauregard (Longvic)",
+   "histoire": "Le château de Beauregard est un château moderne à Longvic. Après une revente comme bien national à la Révolution, une partie du château est détruite au XIXe siècle. En 2019, Pascal et Franck Boisselier rachètent le domaine, transformé ensuite en hôtel Ibis.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Hôtel Ibis (domaine de Beauregard transformé depuis 2019).",
+   "sources": [
+    "S2",
+    "S3",
+    "S4"
+   ],
+   "lat": 47.2711,
+   "lon": 5.0437,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beauregard_%28Longvic%29"
+  },
+  {
+   "nom": "Château de Longvic",
+   "histoire": "Le château de Longvic est un château moderne à Longvic. En 1877, son corps de logis reçoit un second étage et l’ensemble des bâtiments est couvert d’ardoise.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 47.2866,
+   "lon": 5.0612,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Longvic"
+  }
+ ],
+ "sources": [
+  "Longvic (prononcer [lɔ̃.vi]) est une commune française appartenant à Dijon Métropole située dans le département de la Côte-d'Or, en région Bourgogne-Franche-Comté. Ses habitants sont appelés les Longviciennes et les Longviciens. Sa population est de 8 896 habitants au recensement de 2023. Longvic tire son nom de longus vicus (longue voie en latin) : c'est à Longvic que la grande voie romaine de Lyon à Trèves […]",
+  "Lieu « Château de Beauregard (Longvic) » : Le château de Beauregard est un château moderne situé à Longvic (Côte-d'Or) en Bourgogne-Franche-Comté .",
+  "Lieu « Château de Beauregard (Longvic) », XIXe siècle : Rapidement revendu comme bien national à la Révolution, la ferme du Coron en est dissociée et une partie du château est détruite au XIXe siècle.",
+  "Lieu « Château de Beauregard (Longvic) », 2019 : Racheté en 2019 par Pascal et Franck Boisselier le domaine de Beauregard est transformé depuis en hôtel Ibis.",
+  "Lieu « Château de Longvic » : Le château de Longvic est un château moderne situé à Longvic (Côte-d'Or) en Bourgogne-Franche-Comté.",
+  "Lieu « Château de Longvic », 1877 : En 1877, le corps de logis est surmonté d'un second étage et l'ensemble des bâtiments est couvert d'ardoise[réf. souhaitée]."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

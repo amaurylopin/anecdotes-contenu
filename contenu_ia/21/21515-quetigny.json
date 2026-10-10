@@ -1,0 +1,115 @@
+{
+ "commune": {
+  "titre": "Quetigny",
+  "code_insee": "21515",
+  "departement": "21",
+  "population": 8971,
+  "lat": 47.31527778,
+  "lon": 5.10694444,
+  "url": "https://fr.wikipedia.org/wiki/Quetigny"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:07:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1273,
+  "sortie": 938
+ },
+ "cout_usd": 0.001427,
+ "accroche": "Le 3 septembre 1968, Grand Quetigny est inauguré à Quetigny, devenu le deuxième plus grand centre commercial de l’agglomération dijonnaise après celui de la Toison d’Or.",
+ "histoire": {
+  "recit": "À Quetigny, l’histoire urbaine a d’abord refusé le modèle tout tracé. Dans les années 1960, le bourg ne compte encore que 300 habitants, mais la commune prend une direction à part : le maire Roger Rémond refuse le modèle des grands ensembles imposé aux communes de périphérie urbaine et cherche à conserver la maîtrise de son développement, par des achats (dont le détail n’est pas précisé ici). Quetigny passe ensuite de ce petit village à une ville proche des 10 000 habitants, et la population atteint 8 971 habitants au recensement de 2023.",
+  "chronologie": [
+   {
+    "date": "années 1960",
+    "texte": "Quetigny ne compte qu’environ 300 habitants, et le maire Roger Rémond refuse le modèle des grands ensembles imposé aux communes de périphérie urbaine pour garder la maîtrise du développement.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "3 septembre 1968",
+    "texte": "Grand Quetigny est inauguré et se place comme le deuxième plus grand centre commercial de l’agglomération dijonnaise, après celui de la Toison d’Or.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "3 septembre 1968",
+    "texte": "À cette même date, Grand Quetigny s’ouvre comme le premier hypermarché Carrefour en Bourgogne, et le cinquième en France.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "recensement 2023",
+    "texte": "Quetigny compte 8 971 habitants, appelés les Quetignois.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Grand Quetigny",
+   "histoire": "Grand Quetigny est un centre commercial situé à Quetigny, dans l’agglomération de Dijon. Inauguré le 3 septembre 1968, il devient un repère majeur dans le secteur dijonnais.",
+   "anecdotes": [
+    {
+     "texte": "Lors de son ouverture, il s’agit du premier hypermarché sous l’enseigne Carrefour à ouvrir en Bourgogne, et du cinquième en France.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Centre commercial situé à Quetigny, dans l’agglomération de Dijon.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 47.310092,
+   "lon": 5.102112,
+   "url": "https://fr.wikipedia.org/wiki/Grand_Quetigny"
+  },
+  {
+   "nom": "Château de la Motte (Côte-d'Or)",
+   "histoire": "Le château de la Motte est un château moderne à Quetigny. Son histoire commence avec un bâtiment carré, doté de deux tours en façade à l’est en 1686, puis il est rebâti en 1718 : il n’en reste alors qu’un bâtiment rectangulaire sous toit à croupe, entouré d’un large fossé qui englobe jardins et vergers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Château moderne situé à Quetigny.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 47.3146,
+   "lon": 5.105,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Motte_%28C%C3%B4te-d%27Or%29"
+  }
+ ],
+ "sources": [
+  "Quetigny (prononcer [kə.ti.ɲi]) est une commune française appartenant à la métropole Dijon Métropole. Elle est située dans le département de la Côte-d'Or en région Bourgogne-Franche-Comté. Ses habitants sont appelés les Quetignois. Sa population est de 8 971 habitants au recensement de 2023.",
+  "Quetigny a connu une histoire assez originale dans sa conception. Elle est en effet passée du petit village de 300 habitants dans les années 1960 à la ville de près de 10 000 habitants aujourd'hui. À l'origine de cette mutation, un maire, Roger Rémond, refusant le modèle des grands ensembles imposé aux communes de périphérie urbaine à cette époque, a souhaité conserver la maitrise de son développement par l'achat de […]",
+  "Lieu « Grand Quetigny » : Grand Quetigny est un centre commercial situé à Quetigny, dans l'agglomération de Dijon, en France.",
+  "Lieu « Grand Quetigny », 1968 : Inauguré le 3 septembre 1968, il est le deuxième plus grand centre commercial de l'agglomération dijonnaise après celui de la Toison d'Or.",
+  "Lieu « Grand Quetigny », 1968 : Inauguré le 3 septembre 1968, il s'agit initialement du premier hypermarché sous l'enseigne (Carrefour) à ouvrir en Bourgogne et le cinquième en France.",
+  "Lieu « Château de la Motte (Côte-d'Or) » : Le château de la Motte est un château moderne situé à Quetigny (Côte-d'Or) en Bourgogne-Franche-Comté .",
+  "Lieu « Château de la Motte (Côte-d'Or) », 1686 : En 1686, le château de Quetigny est un bâtiment carré avec deux tours en façade à l'est.",
+  "Lieu « Château de la Motte (Côte-d'Or) », 1718 : En 1718, il a été rebâti et il n’en reste qu'un bâtiment rectangulaire sous toit à croupe, entouré d'un large fossé qui englobe les jardins et les vergers."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}
