@@ -1,0 +1,260 @@
+{
+ "commune": {
+  "titre": "Paimpol",
+  "code_insee": "22162",
+  "departement": "22",
+  "population": 7341,
+  "lat": 48.77861111,
+  "lon": -3.04527778,
+  "url": "https://fr.wikipedia.org/wiki/Paimpol"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:29:50",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2806,
+  "sortie": 1639
+ },
+ "cout_usd": 0.00261,
+ "accroche": "Le 26 novembre 1960, Plounez et Kérity furent rattachées à Paimpol, donnant à la commune sa forme actuelle. ",
+ "histoire": {
+  "recit": "Paimpol s’est bâtie autour de ses bassins, port de pêche et de plaisance vers la Manche. Avant d’être une seule commune, ses quartiers et paroisses ont changé d’allure au fil des rattachements.\n\nAu cœur de cette histoire, l’abbaye de Beauport marque la côte. Plus loin, Kérity rappelle des liens anciens avec les moines de Beauport : lorsque l’ancienne église de la zone fut abandonnée, elle fut donnée en 1202 et resta liée jusqu’à la Révolution. \n\nQuand vient le temps des drames, la mer n’épargne pas. En janvier 1894, deux « Islandais » de Paimpol, la Petite-Jeanne et la Catherine, font un double naufrage : Pierre Loti décrit la douleur des veuves et lance une souscription en faveur des familles. \n\nLa commune continue ensuite de se structurer : une nouvelle église Notre-Dame-de-Bonne-Nouvelle est terminée en 1914, après avoir été lancée par le curé Henri Fromal en 1899.",
+  "chronologie": [
+   {
+    "date": "1202",
+    "texte": "Le comte Alain Ier d’Avaugour fonde l’abbaye de Beauport ; et, à Kérity, une église donnée aux moines de l’abbaye de Beauport dépend jusqu’à la Révolution.",
+    "sources": [
+     "S2",
+     "S12",
+     "S6"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Paimpol et Plounez sont érigées en communes.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1824",
+    "texte": "Lanvignec est rattachée à Paimpol.",
+    "sources": [
+     "S2",
+     "S28"
+    ]
+   },
+   {
+    "date": "26 novembre 1960",
+    "texte": "Plounez et Kérity sont rattachées à Paimpol.",
+    "sources": [
+     "S2",
+     "S16"
+    ]
+   },
+   {
+    "date": "janvier 1894",
+    "texte": "Naufrage de la Petite-Jeanne et de la Catherine, « Islandais » de Paimpol : Pierre Loti décrit la douleur des veuves et initie une souscription.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1899 - 1914",
+    "texte": "L’église Notre-Dame-de-Bonne-Nouvelle, commencée en 1899 par Henri Fromal, est terminée en 1914 sous la conduite d’Ernest Le Guerranic.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye de Beauport",
+   "histoire": "Abbaye de chanoines prémontrés fondée au début du XIIIe siècle sur le territoire de Paimpol, vendue en 1790 avant un rachat en 1993 pour sa protection. ",
+   "anecdotes": [
+    {
+     "texte": "Ce monastère aurait été confié aux Augustins de Saint-Victor de Paris entre 1184 et 1189, installés par Alain Ier, comte de Penthièvre, de Goëllo et de Tréguier.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 48.76783,
+   "lon": -3.019309,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Beauport"
+  },
+  {
+   "nom": "Kérity (Côtes-d'Armor)",
+   "histoire": "Quartier de la commune de Paimpol. L’église abandonnée y est donnée en 1202 aux moines de l’abbaye de Beauport jusqu’à la Révolution. De l’ancienne église reconstruite au XVIe siècle, il ne reste plus rien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.769371,
+   "lon": -3.025961,
+   "url": "https://fr.wikipedia.org/wiki/K%C3%A9rity_%28C%C3%B4tes-d%27Armor%29"
+  },
+  {
+   "nom": "Plounez",
+   "histoire": "Ancienne commune des Côtes-d’Armor qui a fusionné en 1960 avec Paimpol et Kérity. Son école communale et sa mairie sont construites en 1839, et l’église Saint-Pierre est reconstruite entre 1892 et 1895 selon les plans d’Ernest Le Guerranic.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S19"
+   ],
+   "lat": 48.770729,
+   "lon": -3.073339,
+   "url": "https://fr.wikipedia.org/wiki/Plounez"
+  },
+  {
+   "nom": "Chapelle Notre-Dame de Kergrist",
+   "histoire": "Chapelle située à Paimpol, sur le territoire de l’ancienne commune de Plounez. L’édifice actuel est consacré le 10 avril 1603, avec l’évêque de Saint-Brieuc et l’abbé de Beauport en assistants.",
+   "anecdotes": [
+    {
+     "texte": "On raconte qu’un édifice plus ancien aurait été remplacé vers le VIIIe siècle par la communauté religieuse qui aurait donné naissance à la chapelle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.77909,
+   "lon": -3.09224,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame_de_Kergrist"
+  },
+  {
+   "nom": "Festival du chant de marin de Paimpol",
+   "histoire": "Manifestation musicale et maritime internationale qui a lieu tous les deux ans au port de Paimpol.",
+   "anecdotes": [
+    {
+     "texte": "Le premier bassin du port a été construit en 1878 avec les pierres de l’ancien château fort de Bréhat, un réemploi devenu partie du paysage du festival.",
+     "statut": "etabli",
+     "sources": [
+      "S25",
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.780551,
+   "lon": -3.044646,
+   "url": "https://fr.wikipedia.org/wiki/Festival_du_chant_de_marin_de_Paimpol"
+  },
+  {
+   "nom": "Lanvignec",
+   "histoire": "Ancienne commune des Côtes-d’Armor devenue commune en 1790 puis annexée à Paimpol en 1824, avant de redevenir trève de Perros-Hamon avant 1664.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.783327,
+   "lon": -3.058833,
+   "url": "https://fr.wikipedia.org/wiki/Lanvignec"
+  },
+  {
+   "nom": "Gare de Paimpol",
+   "histoire": "Gare ferroviaire de la ligne de Guingamp à Paimpol, située dans le quartier de la gare, près du centre-ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 48.776916,
+   "lon": -3.046123,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Paimpol"
+  },
+  {
+   "nom": "Ancienne église de Paimpol",
+   "histoire": "Ancienne église de Paimpol, aussi dénommée Vieille tour. De l’église paroissiale détruite au début du XXe siècle, il ne subsiste que la tour-clocher datant de 1784.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34"
+   ],
+   "lat": 48.778669,
+   "lon": -3.04862,
+   "url": "https://fr.wikipedia.org/wiki/Ancienne_%C3%A9glise_de_Paimpol"
+  }
+ ],
+ "sources": [
+  "Paimpol (/pɛ̃.pɔl/) est une commune française côtière située dans le département des Côtes-d'Armor en région Bretagne. Construite autour de ses bassins, Paimpol est l'un des principaux ports de pêche et de plaisance donnant sur la Manche. Pour assurer l'extension de la zone urbanisée de Paimpol, la fusion des communes apparaît nécessaire juste après la Seconde Guerre mondiale. L'actuelle commune de Paimpol résulte […]",
+  "1202 : le comte Alain Ier d'Avaugour fonde l'abbaye de Beauport. 1790 : Paimpol et Plounez sont érigées en communes. 1824 : la commune de Lanvignec est rattachée à Paimpol. 1960 : le 26 novembre, les communes de Plounez et Kérity sont rattachées à Paimpol. En 1325, le comte de Goëlo Henri, baron d'Avaugour et son épouse Jeanne d'Harcourt ratifièrent le don fait par Jean de Keraoul d'un terrain donné à l'église […]",
+  "1790 : 1790 : Paimpol et Plounez sont érigées en communes.",
+  "1894 : Un article de Pierre Loti publié dans la presse décrit la douleur des veuves lors du naufrage de deux '\"Islandais\" de Paimpol, la Petite-Jeanne et la Catherine en janvier 1894 ; ce double naufrage fit 30 veuves et 80 orphelins, principalement dans les communes de Ploubazlanec, Plouézec et Kérity ; Pierre Loti fut à l'initiative d'une souscription en faveur de ces familles.",
+  "1899 : La nouvelle église Notre-Dame-de-Bonne-Nouvelle, construite à l'initiative en 1899 d'Henri Fromal, alors curé de Paimpol, fut terminée en 1914 sous les ordres de l'architecte Ernest Le Guerranic.",
+  "Lieu « Abbaye de Beauport » : L'abbaye de Beauport est une ancienne abbaye de chanoines prémontrés, fondée au début du XIIIe siècle, qui se dresse sur le territoire de la commune française de Paimpol, dans le département des Côtes-d'Armor, en région Bretagne.",
+  "Lieu « Abbaye de Beauport », 1184 : Ce monastère, rattaché à l'évêque de Dol Jean Meschin est confié aux Augustins de Saint-Victor de Paris, installés entre 1184 et 1189 par le fils d'Henri, Alain Ier, comte de Penthièvre, de Goëllo et de Tréguier.",
+  "Lieu « Abbaye de Beauport », XIIIe siècle : L'abbaye de Beauport est une ancienne abbaye de chanoines prémontrés, fondée au début du XIIIe siècle, qui se dresse sur le territoire de la commune française de Paimpol, dans le département des Côtes-d'Armor, en région Bretagne.",
+  "Lieu « Abbaye de Beauport », 1790 : En 1790, l'abbaye est vendue et demeure en mains privées jusqu'à son rachat en 1993 par le Conservatoire du littoral qui met en œuvre des mesures de protection.",
+  "Lieu « Abbaye de Beauport », aujourd'hui : Aujourd'hui, bien que partiellement en ruines, elle demeure l'un des sites monastiques les plus complets de Bretagne.",
+  "Lieu « Kérity (Côtes-d'Armor) » : Kérity, en breton Keriti, est un quartier de la commune de Paimpol dans le département des Côtes-d'Armor.",
+  "Lieu « Kérity (Côtes-d'Armor) », 1202 : Lorsque celle-ci fut abandonnée, l'église fut donnée aux moines de l'Abbaye de Beauport en 1202 dont elle dépendit jusqu'à la Révolution.",
+  "Lieu « Kérity (Côtes-d'Armor) », XVIe siècle : De l'ancienne église reconstruite au XVIe siècle, il ne reste plus rien.",
+  "Lieu « Kérity (Côtes-d'Armor) », 1908 : Dominant l'anse de Paimpol, la chapelle Sainte-Barbe est un édifice du XVIIe siècle remanié au XXe siècle (1908).",
+  "Lieu « Kérity (Côtes-d'Armor) », aujourd'hui : A. Marteville et P. Varin, continuateurs d'Ogée, décrivent ainsi Kérity en 1843 : « Kerity : commune formée de l'ancienne paroisse de ce nom ; aujourd'hui succursale.",
+  "Lieu « Plounez » : Plounez est une ancienne commune des Côtes-d'Armor ayant fusionné en 1960 avec Paimpol et Kérity.",
+  "Lieu « Plounez », 1839 : L'école communale de garçons et la mairie sont construites en 1839 ; l'école communale de filles est ouverte en 1863.",
+  "Lieu « Plounez », XIXe siècle : Une base navale est construite pour la Marine nationale à la fin du XIXe siècle : elle a été peu employée.",
+  "Lieu « Plounez », 1892 : L'église Saint-Pierre de Plounez est reconstruite selon les plans d'Ernest Le Guerranic entre 1892 et 1895.",
+  "Lieu « Plounez », aujourd'hui : A. Marteville et P. Varin, continuateurs d'Ogée, décrivent ainsi Plounez en 1853 : « Plounez : commune formée de l'ancienne paroisse de ce nom ; aujourd'hui succursale.",
+  "Lieu « Chapelle Notre-Dame de Kergrist » : La chapelle Notre-Dame de Kergrist est une chapelle située à Paimpol, sur le territoire de l'ancienne commune de Plounez, dans le département des Côtes-d'Armor.",
+  "Lieu « Chapelle Notre-Dame de Kergrist », VIIIe siècle : Elle aurait remplacé un édifice plus ancien bâti vers le VIIIe siècle par une communauté religieuse.",
+  "Lieu « Chapelle Notre-Dame de Kergrist », 1603 : L’édifice actuel a été consacrée le 10 avril 1603 par l’évêque de Saint-Brieuc assisté de l’abbé de Beauport.",
+  "Lieu « Chapelle Notre-Dame de Kergrist », aujourd'hui : Enfin, un ensemble de statues provient de la chapelle Saint-Julien, aujourd’hui disparue.",
+  "Lieu « Festival du chant de marin de Paimpol » : Le Festival du chant de marin de Paimpol (Gouel kan ar vartoloded en Breton) est une grande manifestation musicale et maritime internationale qui a lieu tous les deux ans au port de Paimpol (Côtes-d'Armor).",
+  "Lieu « Festival du chant de marin de Paimpol », 1878 : Le premier bassin, construit avec les pierres de l’ancien château fort de Bréhat, fut construit en 1878 et le second en 1902.",
+  "Lieu « Festival du chant de marin de Paimpol », aujourd'hui : De nos jours, grâce aux progrès de la technique, ils ne sont plus aussi essentiels.",
+  "Lieu « Lanvignec » : Lanvignec est une ancienne commune des Côtes-d'Armor ayant fusionné en 1824 avec Paimpol.",
+  "Lieu « Lanvignec », 1790 : En 1790, elle est érigée en commune, puis en 1824 est annexée à Paimpol.",
+  "Lieu « Lanvignec », aujourd'hui : Avant 1664, elle devient une trève de Perros-Hamon (actuellement située à Ploubazlanec).",
+  "Lieu « Gare de Paimpol » : La gare de Paimpol est une gare ferroviaire française de la ligne de Guingamp à Paimpol, située au quartier de la gare à proximité du centre-ville de Paimpol, dans le département des Côtes-d'Armor en région Bretagne.",
+  "Lieu « Gare de Paimpol », 1894 : La ligne ouverte le 14 août 1894 est à voie métrique, le bâtiment voyageur comporte un corps central avec un étage et trois ouvertures deux ailes symétriques ne comportent qu'une ouverture en façade.",
+  "Lieu « Ancienne église de Paimpol » : L'ancienne église de Paimpol aussi dénommée Vieille tour est située sur la commune du Paimpol en France.",
+  "Lieu « Ancienne église de Paimpol », 1784 : De l'ancienne église paroissiale, détruite au début du XXe siècle, ne subsiste qu'une tour-clocher datant de 1784."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

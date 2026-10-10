@@ -1,0 +1,193 @@
+{
+ "commune": {
+  "titre": "Pordic (commune déléguée)",
+  "code_insee": "22251",
+  "departement": "22",
+  "population": 7454,
+  "lat": 48.57111111,
+  "lon": -2.81638889,
+  "url": "https://fr.wikipedia.org/wiki/Pordic_%28commune_d%C3%A9l%C3%A9gu%C3%A9e%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:27:43",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1856,
+  "sortie": 1187
+ },
+ "cout_usd": 0.001855,
+ "accroche": "Le 1er janvier 2016, Pordic fusionne avec Tréméloir pour créer la commune nouvelle Pordic, dont Pordic devient une commune déléguée.",
+ "histoire": {
+  "recit": "Près de Saint-Brieuc, Pordic a commencé très tôt à être occupée, mais les mégalithes érigés sur son territoire ont été détruits au XIXe siècle. Après la période gallo-romaine, on retrouve près de Quéré les ruines du Camp des Bernains, qui semblent avoir appartenu à un ensemble défensif plus vaste. Au XVIe siècle, la guerre de la Ligue laisse une trace : un donjon fortifié construit à la Côte de Courbiot est ensuite détruit.\n\nBien plus tard, le paysage change avec le chantier du viaduc du Parfond du Gouët, construit en 1904 pour les chemins de fer des Côtes-du-Nord. Puis, entre 1940 et 1944, des batteries d’artilleries sont mises en place : leurs casemates existent encore, mais la végétation les rend difficilement visibles. Enfin, en 2016, la fusion avec Tréméloir réorganise le territoire, sans effacer l’identité locale de Pordic.",
+  "chronologie": [
+   {
+    "date": "1er janvier 2016",
+    "texte": "Pordic fusionne avec Tréméloir pour créer la commune nouvelle Pordic ; Pordic devient une commune déléguée.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Des mégalithes situés sur le territoire de Pordic sont détruits.",
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Un donjon fortifié est construit à la Côte de Courbiot pendant la guerre de la Ligue, puis détruit.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1904",
+    "texte": "Le viaduc du Parfond du Gouët est construit par Louis Harel de la Noë pour les chemins de fer des Côtes-du-Nord.",
+    "sources": [
+     "S15",
+     "S16"
+    ]
+   },
+   {
+    "date": "1940-1944",
+    "texte": "Les batteries d’artilleries de Pordic et d’Étables-sur-Mer sont construites.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pordic",
+   "histoire": "Commune déléguée près de Saint-Brieuc, Pordic porte des traces anciennes : occupation dès le Néolithique, ruines gallo-romaines dont le Camp des Bernains, et des éléments plus récents comme l’ancienne église reconstruite à partir de matériaux réemployés.",
+   "anecdotes": [
+    {
+     "texte": "Les mégalithes repérés sur Pordic n’ont pas traversé les siècles : ils sont détruits au XIXe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S2",
+      "S4"
+     ]
+    },
+    {
+     "texte": "Le Camp des Bernains, près du village de Quéré, semble former un ensemble défensif plus complet avec d’autres camps.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S1",
+    "S2",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.5711111111,
+   "lon": -2.81638888889,
+   "url": "https://fr.wikipedia.org/wiki/Pordic"
+  },
+  {
+   "nom": "Tréméloir",
+   "histoire": "Ancienne commune devenue commune déléguée dans la commune nouvelle de Pordic. Tréméloir connaît un recul de population après l’exode rural, puis un nouvel essor avec l’arrivée de jeunes habitants et la réouverture de l’école.",
+   "anecdotes": [
+    {
+     "texte": "La population, après être tombée à moins de 400 au début des années 1980, remonte fortement à partir de l’an 2000 avec l’implantation de jeunes ménages venus chercher des terrains à bâtir moins chers.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "L’école primaire, fermée en 1986, rouvre le 30 août 2007 avec 78 élèves répartis en trois classes.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.5561111111,
+   "lon": -2.85694444444,
+   "url": "https://fr.wikipedia.org/wiki/Tr%C3%A9m%C3%A9loir"
+  },
+  {
+   "nom": "Batteries d'artilleries de Pordic et d'Étables-sur-Mer",
+   "histoire": "Un ensemble de casemates réparties sur deux positions entre les communes de Pordic et d’Étables-sur-Mer. Construites entre 1940 et 1944, elles restent en place aujourd’hui, mais la végétation les rend difficiles à voir.",
+   "anecdotes": [
+    {
+     "texte": "Malgré leur présence actuelle, les casemates sont difficiles à repérer à cause de la forte végétation.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.588364258847,
+   "lon": -2.843158796222,
+   "url": "https://fr.wikipedia.org/wiki/Batteries_d%27artilleries_de_Pordic_et_d%27%C3%89tables-sur-Mer"
+  },
+  {
+   "nom": "Viaduc du Parfond du Gouët",
+   "histoire": "Le viaduc du Parfond du Gouët, aussi appelé viaduc de la Percée, est construit en 1904 pour les chemins de fer des Côtes-du-Nord.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 48.5579,
+   "lon": -2.7975,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_du_Parfond_du_Gou%C3%ABt"
+  }
+ ],
+ "sources": [
+  "Pordic [pɔʁdik] (en breton Porzhig) est une ancienne commune française située près de Saint-Brieuc dans le département des Côtes-d'Armor en région Bretagne. Le 1er janvier 2016, elle fusionne avec sa voisine Tréméloir pour créer la nouvelle commune Pordic dont elle est une commune déléguée.",
+  "Le territoire de Pordic a été occupé dès le Néolithique, mais les mégalithes érigés sur la commune ont été détruits au XIXe siècle. La période gallo-romaine y a laissé un certain nombre de traces, notamment les ruines du Camp des Bernains, situées à proximité du village de Quéré. Ce camp faisait vraisemblablement partie d’un ensemble défensif plus complet comprenant aussi celui de la ville Oria en Trégomeur et du […]",
+  "XVIe siècle : Elle a traversé les diverses vicissitudes de l’histoire de la Bretagne mais en a gardé peu de traces ; même le donjon fortifié construit au XVIe siècle à la Côte de Courbiot pendant la guerre de la Ligue, a été détruit depuis.",
+  "XIXe siècle : Le territoire de Pordic a été occupé dès le Néolithique, mais les mégalithes érigés sur la commune ont été détruits au XIXe siècle.",
+  "Lieu « Tréméloir » : Tréméloir [tʁemelwaʁ] est une ancienne commune française située dans le département des Côtes-d'Armor en région Bretagne, devenue, le 1er janvier 2016, une commune déléguée de la commune nouvelle de Pordic.",
+  "Lieu « Tréméloir », 1980 : Après avoir subi un fort exode rural qui a fait passer la population d'environ 700 au début du XXe siècle à moins de 400 au début des années 1980, la population de la commune a de nouveau cru fortement à partir de l'an 2000 avec l'implantation de nouveaux et jeunes habitants incités à s'y installer par la recherche de terrains à bâtir moins chers qu'à Saint-Brieuc.",
+  "Lieu « Tréméloir », 1986 : Si bien que l'école primaire qui avait fermé en 1986 a fini par rouvrir le 30 août 2007 avec 78 élèves répartis en 3 classes.",
+  "Lieu « Tréméloir », aujourd'hui : Il devient en 1793 une commune du premier canton de Tregomeur (Trégomeur aujourd'hui) dans le nouveau département des Côtes du Nord, puis en 1801 une commune du canton de Château-Landren (Châtelaudren aujourd'hui).",
+  "Lieu « Batteries d'artilleries de Pordic et d'Étables-sur-Mer » : Les batteries d'artilleries de Pordic et d'Étables-sur-Mer sont un ensemble de plusieurs casemates positionnées sur deux positions différentes dans les communes de Pordic et Étables-sur-Mer dans les Côtes-d'Armor.",
+  "Lieu « Batteries d'artilleries de Pordic et d'Étables-sur-Mer », 1940 : Elles ont toutes été construites entre 1940 à 1944.",
+  "Lieu « Batteries d'artilleries de Pordic et d'Étables-sur-Mer », aujourd'hui : Celui-ci est toujours présent mais difficilement visible à cause de la forte végétation présente.",
+  "Lieu « Pordic » : Pordic [pɔʁdik] (en breton Porzhig) est une commune française située près de Saint-Brieuc, dans le département des Côtes-d'Armor, en région Bretagne.",
+  "Lieu « Pordic », 1853 : Elle a été construite en 1853, à l'emplacement d'une église du XVIIIe siècle (détruite en 1836), en réemployant les matériaux de construction de celle-ci.",
+  "Lieu « Pordic », aujourd'hui : Il dépend aujourd’hui de celui de Binic, commune créée au début du xixe siècle par démembrement partiel de celles d’Étables-sur-Mer et de Pordic.",
+  "Lieu « Viaduc du Parfond du Gouët » : Le viaduc du Parfond du Gouët ou viaduc de la Percée a été construit en 1904 par Louis Harel de la Noë pour les chemins de fer des Côtes-du-Nord.",
+  "Lieu « Viaduc du Parfond du Gouët », 1904 : Le viaduc du Parfond du Gouët ou viaduc de la Percée a été construit en 1904 par Louis Harel de la Noë pour les chemins de fer des Côtes-du-Nord."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 5
+ }
+}

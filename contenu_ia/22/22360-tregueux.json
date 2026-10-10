@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Trégueux",
+  "code_insee": "22360",
+  "departement": "22",
+  "population": 8450,
+  "lat": 48.49138889,
+  "lon": -2.73638889,
+  "url": "https://fr.wikipedia.org/wiki/Tr%C3%A9gueux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:44",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1007,
+  "sortie": 456
+ },
+ "cout_usd": 0.000771,
+ "accroche": "En avril 2008, un diagnostic archéologique révèle au sud de Trégueux un site gallo-romain, fouillé de juin 2009 à mars 2010.",
+ "histoire": {
+  "recit": "Près de Saint-Brieuc, en Côtes-d’Armor, Trégueux porte aussi son nom en breton : Tregaeg. En 2008, tout bascule pour les fouilles : un diagnostic mené avant la construction de la rocade de contournement de Saint-Brieuc met au jour, au sud de la commune, un important site gallo-romain. Les investigations se poursuivent ensuite, de juin 2009 à mars 2010, sur plus d’un kilomètre, avec une équipe franco-britannique pilotée par Oxford Archeology.\n\nÀ Trégueux, on trouve aussi le Manoir de Guélambert. L’endroit a gardé des traces concrètes : un pan coupé à trompe, avec une ouverture de surveillance sur l’angle échancré, aujourd’hui bouchée. ",
+  "chronologie": [
+   {
+    "date": "avril 2008",
+    "texte": "Un diagnostic archéologique, préalable à la rocade de contournement de Saint-Brieuc, découvre au sud de Trégueux un important site gallo-romain.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "juin 2009 à mars 2010",
+    "texte": "Le site découvert est fouillé sur plus d’un kilomètre par une équipe franco-britannique, avec Oxford Archeology, à l’occasion des travaux.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Manoir de Guélambert",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "Sur le manoir, un pan coupé à trompe conserve une ouverture de surveillance sur l’angle échancré, désormais bouchée.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un pan coupé à trompe avec une ouverture de surveillance sur l’angle échancré, actuellement bouchée.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.487159,
+   "lon": -2.766033,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Gu%C3%A9lambert"
+  }
+ ],
+ "sources": [
+  "Trégueux [tʁegø] (Tregaeg en breton) est une commune française située près de Saint-Brieuc dans le département des Côtes-d'Armor, en région Bretagne.",
+  "En avril 2008, à l'occasion d'un diagnostic archéologique préalable à la construction de la rocade de contournement de Saint-Brieuc, un important site gallo-romain est découvert au sud de Trégueux. Il est fouillé de juin 2009 à mars 2010, sur une distance de plus d'un kilomètre, par une équipe franco-britannique de la société anglaise Oxford Archeology. Le site de La Porte Allain situé à l'extrémité nord-ouest du […]",
+  "Lieu « Manoir de Guélambert » : Le manoir de Guélambert est situé à Trégueux en France.",
+  "Lieu « Manoir de Guélambert », aujourd'hui : Un pan coupé à trompe, avait une ouverture de surveillance sur l'angle échancré, actuellement bouchée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

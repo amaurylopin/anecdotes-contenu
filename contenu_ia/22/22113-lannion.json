@@ -1,0 +1,271 @@
+{
+ "commune": {
+  "titre": "Lannion",
+  "code_insee": "22113",
+  "departement": "22",
+  "population": 20315,
+  "lat": 48.73333333,
+  "lon": -3.45416667,
+  "url": "https://fr.wikipedia.org/wiki/Lannion"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:10:33",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3430,
+  "sortie": 1965
+ },
+ "cout_usd": 0.003142,
+ "accroche": "En 1961, Lannion s’est construite par la fusion de Lannion, Brélévenez, Buhulien, Loguivy-lès-Lannion et Servel.",
+ "histoire": {
+  "recit": "À Lannion, le passé se devine d’abord par les traces anciennes de la région, entre mégalithes et objets préhistoriques, tandis que, près de la ville, le tumulus de la Motta a livré des bijoux de métal précieux.\n\nLa ville a aussi connu des jours sombres : en juillet 1590, des paroisses et la ville de Lannion ont été brûlées et ravagées selon les récits rapportés par des curés.\n\nPlus tard, l’école s’organise avec peine : en 1882, l’ouverture de l’école publique se fait sans matériel, avec seulement trois petites tables prêtées par le collège.\n\nAu XXe siècle, la gare devient un point sensible : en mars 1943, un engin explosif endommage un baraquement de soldats allemands, puis, en avril 1944, des wagons citernes reçoivent des engins explosifs. La gare, elle, a ensuite perdu son bâtiment voyageurs historique le 5 juin 2000, avant d’être toujours en service aujourd’hui.\n\nAutour de la ville, chaque quartier garde son identité : l’église de la Trinité de Brélévenez, l’église Saint-Jean-du-Baly classée en 1907, et le monastère Sainte-Anne dont l’histoire commence en 1667.",
+  "chronologie": [
+   {
+    "date": "1590",
+    "texte": "En juillet 1590, des paroisses et la ville de Lannion sont brûlées et ravagées, selon des écrits rapportant des affrontements entre partis.",
+    "sources": [
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "En 1840, une salle d’asile s’ouvre à Kermaria pour les enfants pauvres de 2 à 7 ans.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "Le 1er janvier 1882, l’école publique s’ouvre sans matériel (pas de tableaux noirs, d’encriers, de livres ni de cahiers), avec seulement trois petites tables prêtées par le collège.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1667",
+    "texte": "En 1667, cinq Sœurs hospitalières de la miséricorde de Jésus sont envoyées pour prendre possession d’un Hôtel-Dieu et d’une chapelle préexistants.",
+    "sources": [
+     "S33"
+    ]
+   },
+   {
+    "date": "1943",
+    "texte": "Le 16 mars 1943, vers 22 h 45, un engin explosif endommage un baraquement hébergeant des soldats allemands.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Le 14 avril 1944, vers 0 h 45, des wagons citernes reçoivent des engins explosifs ; puis, le 1er mai 1944, des explosifs sont placés entre les voies près d’un pont.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1961",
+    "texte": "En 1961, la commune actuelle est formée par la fusion de Lannion, Brélévenez, Buhulien, Loguivy-lès-Lannion et Servel.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "Le 5 juin 2000, la démolition du bâtiment voyageurs historique de la gare a lieu.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "L’église Saint-Jean-du-Baly de Lannion est classée au titre des monuments historiques.",
+    "sources": [
+     "S41"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Lannion",
+   "histoire": "La gare de Lannion se situe sur la ligne de Plouaret à Lannion, dans la commune de Lannion.",
+   "anecdotes": [
+    {
+     "texte": "Le 16 mars 1943, vers 22 h 45, un engin explosif endommage un baraquement hébergeant des soldats allemands.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Le 14 avril 1944, vers 0 h 45, cinq wagons citernes reçoivent des engins explosifs, mais seuls ceux des deux wagons vides atteignent leur objectif.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, la gare est desservie par des TGV et des trains TER Bretagne.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 48.727268,
+   "lon": -3.46033,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lannion"
+  },
+  {
+   "nom": "Manoir de Kervégan",
+   "histoire": "Le manoir de Kervégan, appelé aussi Ker Guegant puis Kervégant, se trouve au lieu-dit de Kerlaouénan (ancienne commune de Servel, rattachée à Lannion depuis 1961).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les registres des baptêmes-mariages-sépultures tenus par les recteurs de Servel gardent la trace des seigneurs de Kervégan.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 48.741661,
+   "lon": -3.493911,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Kerv%C3%A9gan"
+  },
+  {
+   "nom": "Église de la Trinité de Brélévenez",
+   "histoire": "L’église de la Trinité de Brélévenez est un édifice religieux de l’ancienne commune de Brélévenez, devenue un quartier de Lannion depuis 1961.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle devient paroissiale en remplacement de celle du Rusquet au XVIIIe siècle.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.735886,
+   "lon": -3.458969,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_la_Trinit%C3%A9_de_Br%C3%A9l%C3%A9venez"
+  },
+  {
+   "nom": "Aéroport de Lannion",
+   "histoire": "L’aéroport de Lannion - Côte de granit rose est un aéroport dans le département des Côtes-d’Armor.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le service a vu passer des avions, et l’appareil de 40 places remplaçait les DC-3 avant d’être remplacé par un ATR-42 de 46 places.",
+   "sources": [
+    "S26"
+   ],
+   "lat": 48.755566,
+   "lon": -3.474512,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Lannion"
+  },
+  {
+   "nom": "Loguivy-lès-Lannion",
+   "histoire": "Loguivy-lès-Lannion est une ancienne commune des Côtes-d’Armor désormais rattachée à Lannion.",
+   "anecdotes": [
+    {
+     "texte": "On raconte que l’église Saint-Ivi, avec son bras reliquaire de saint Ivy donné par les seigneurs de Kergomar, attira de nombreux pèlerins—et même des bancs de Pierre le long du mur.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 48.735033,
+   "lon": -3.482202,
+   "url": "https://fr.wikipedia.org/wiki/Loguivy-l%C3%A8s-Lannion"
+  },
+  {
+   "nom": "Monastère Sainte-Anne de Lannion",
+   "histoire": "Le monastère Sainte-Anne commence en 1667, quand des Sœurs hospitalières de la miséricorde de Jésus prennent possession d’un Hôtel-Dieu et d’une chapelle préexistants ; le chœur conventuel est achevé en 1704, et un nouvel hôpital est inauguré en 1866.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.7304,
+   "lon": -3.46161,
+   "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_Sainte-Anne_de_Lannion"
+  },
+  {
+   "nom": "Trégor",
+   "histoire": "Le Trégor est une ancienne division administrative et religieuse de la Bretagne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S38"
+   ],
+   "lat": 48.7325,
+   "lon": -3.4552777777778,
+   "url": "https://fr.wikipedia.org/wiki/Tr%C3%A9gor"
+  },
+  {
+   "nom": "Église Saint-Jean-du-Baly de Lannion",
+   "histoire": "L’église Saint-Jean-du-Baly a été construite dès le XIVe siècle puis modifiée aux XVe et XVIe siècles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice est classé au titre des monuments historiques depuis 1907.",
+   "sources": [
+    "S41"
+   ],
+   "lat": 48.73253,
+   "lon": -3.46018,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-du-Baly_de_Lannion"
+  }
+ ],
+ "sources": [
+  "Lannion (/la.njɔ̃/) est une commune française située dans le département des Côtes-d'Armor, en région Bretagne. Ses habitants sont appelés les Lannionnais. La commune actuelle est formée de la fusion des communes de Lannion, Brélévenez, Buhulien, Loguivy-lès-Lannion et Servel en 1961.",
+  "Les mégalithes nombreux dans la région, témoignent de son passé ancien, sans compter les silex, haches et pierres polies appartenant aux âges préhistoriques. Les rivières nombreuses et l'or alluvionnaire dans le Massif armoricain, expliquent la présence et la richesse du développement des populations préhistoriques. Près de Lannion, le tumulus de la Motta comporte des bijoux de métal précieux. En avril 2014, des […]",
+  "1590 : « Le troisième et septième jours de juillet 1590 fut brûlée et ravagée la paroisse de Plestin par ceux du parti du roi.",
+  "1590 : Et au réciproque le 21 du même mois de juillet 1590 fut pareillement brûlée et ravagée la paroisse de Plouaret, Ploubezre et la ville de Lannion par ceux qui tenaient le parti du duc de Mercœur » a écrit le curé de Lanvellec.",
+  "1840 : En 1840, s'est ouverte dans les locaux de Kermaria une salle d'asile pour les enfants pauvres de 2 à 7 ans (ancêtre de la maternelle).",
+  "1882 : Lors de l'ouverture de l'école publique de Lannion le 1er janvier 1882, il n'y a « ni tableaux noirs, ni encriers, ni livres, ni cahiers » ; tout le matériel scolaire se compose de trois petites tables prêtées par le collège.",
+  "Lieu « Gare de Lannion » : La gare de Lannion est une gare ferroviaire française de la ligne de Plouaret à Lannion, située sur le territoire de la commune de Lannion, dans le département des Côtes-d'Armor, en région Bretagne.",
+  "Lieu « Gare de Lannion », 1943 : Pendant la Seconde Guerre Mondiale, la gare de Lannion est l'objet de plusieurs actes de résistance : 16 mars 1943 : vers 22 h 45, un engin explosif endommage un baraquement hébergeant des soldats allemands et provoque des dégâts matériels.",
+  "Lieu « Gare de Lannion », 1944 : 14 avril 1944 : vers 0 h 45 cinq wagons citernes dont trois remplis de 10 000 litres d'essence reçoivent des engins explosifs mais seul ceux des deux wagons vides ont atteint leur objectif 1er mai 1944 : au niveau d'un pont à proximité de la gare, 2 explosifs réalisés avec du mastic et un détonateur sont placés entre les voies.",
+  "Lieu « Gare de Lannion », 2000 : Cela s'accompagne de la démolition de son bâtiment voyageurs historique le 5 juin 2000.",
+  "Lieu « Gare de Lannion », aujourd'hui : C'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF), desservie par des TGV et des trains TER Bretagne.",
+  "Lieu « Manoir de Kervégan » : Le manoir de Kervégan (également appelé Ker Guegant puis Kervégant) est un manoir situé au lieu-dit de Kerlaouénan dans l'ancienne commune de Servel, rattachée depuis 1961 à Lannion (Côtes-d'Armor).",
+  "Lieu « Manoir de Kervégan », 1635 : Le bâti actuel se situe entre les années 1635 et 1645 avec une restauration lui donnant son aspect contemporain en 1815.",
+  "Lieu « Manoir de Kervégan », 1815 : Il était probablement doté d'un four à pain sur le pignon sud-ouest (très certainement détruit lors de la restauration de 1815), si l'on se fit aux attaches en pierre encore existantes.",
+  "Lieu « Manoir de Kervégan », 1826 : Malheureusement, une partie de ce patrimoine bâti a aujourd'hui disparu : porte cochère et piétonne, four à pain, sculptures sur granit en tout genre, pigeonnier et moulin (Servel - Cadastre C, 2e feuille - 1826), etc. Le manoir fait partie en 2021 des dix lauréats Vieilles maisons françaises parmi les châteaux et demeures historiques en France.",
+  "Lieu « Manoir de Kervégan », aujourd'hui : Les registres des baptêmes-mariages-sépultures, tenus par les différents recteurs de Servel, ont gardé la trace des seigneurs de Kervégan(t).",
+  "Lieu « Église de la Trinité de Brélévenez » : L’église de la Trinité de Brélévenez est un édifice religieux situé dans l’ancienne commune de Brélévenez, devenue depuis 1961 un quartier de Lannion, dans le département français des Côtes-d'Armor.",
+  "Lieu « Église de la Trinité de Brélévenez », XIIe siècle : Elle semble avoir été édifiée à partir de la fin du XIIe siècle sur des substructions du XIe siècle.",
+  "Lieu « Église de la Trinité de Brélévenez », 1845 : La sacristie est reconstruite en 1845 à l’emplacement d’une plus ancienne, obstruant des fenêtres romanes.",
+  "Lieu « Église de la Trinité de Brélévenez », 1961 : L’église de la Trinité de Brélévenez est un édifice religieux situé dans l’ancienne commune de Brélévenez, devenue depuis 1961 un quartier de Lannion, dans le département français des Côtes-d'Armor.",
+  "Lieu « Église de la Trinité de Brélévenez », aujourd'hui : L’église devient paroissiale en remplacement de celle du Rusquet au XVIIIe siècle.",
+  "Lieu « Aéroport de Lannion » : L'aéroport de Lannion - Côte de granit rose (code IATA : LAI • code OACI : LFRO) est un aéroport du département des Côtes-d'Armor.",
+  "Lieu « Aéroport de Lannion », 1959 : En avril 1959, Le centre national d'études des télécommunications (CNET) installe un premier département près de la piste de l'aérodrome, un centre d'essai en vol (Le CNET, « centre de recherches », est inauguré le 28 octobre 1963).",
+  "Lieu « Aéroport de Lannion », 2001 : La décision était donc prise par France Télécom R & D : la ligne vers Paris était abandonnée le 21 décembre 2001.",
+  "Lieu « Aéroport de Lannion », 2001 : Lorsque France Télécom R&D décida l'arrêt de sa ligne privée vers Paris le 21 décembre 2001, elle décida aussi de démanteler le service transport et missions.",
+  "Lieu « Aéroport de Lannion », aujourd'hui : Le Fokker de 40 places (série F-27 Friendship comme le F-SEBG, le F-SEBJ et le F-SEBF) remplaçait les DC-3 puis était remplacé par un ATR-42 de 46 places (le F-SEBK).",
+  "Lieu « Loguivy-lès-Lannion » : Loguivy-lès-Lannion est une ancienne commune française du département des Côtes-d'Armor en région Bretagne désormais rattachée à celle de Lannion.",
+  "Lieu « Loguivy-lès-Lannion », XVe siècle : Église Saint-Ivi, de style gothique flamboyant, construite entre le XVe siècle et le XVIIe siècle en granite local du Yaudet, réputée pour son enclos paroissial et par la présence d'un bras reliquaire de saint Ivy, donné par les seigneurs de Kergomar, ce qui attira de nombreux pèlerins et explique les bancs de Pierre le long du mur.",
+  "Lieu « Loguivy-lès-Lannion », 1793 : Les premiers actes d'état civil sont signés par Yves Briant début janvier 1793 qui signe « maire » ou « faisant office d'officier public ».",
+  "Lieu « Loguivy-lès-Lannion », 1961 : Érigée en commune après la révolution, elle fusionne avec Lannion le 27 avril 1961.",
+  "Lieu « Loguivy-lès-Lannion », aujourd'hui : À l’Est à la création de la commune, la frontière était le Min-Ran (aussi dit Kerlouzouen) qui se prolongeait avec un affluent au Sud canalisé aujourd’hui qui passait derrière Kergomar pour rejoindre Saint-Patrice.",
+  "Lieu « Monastère Sainte-Anne de Lannion » : Le monastère Sainte-Anne est un édifice situé à Lannion, en France.",
+  "Lieu « Monastère Sainte-Anne de Lannion », 1667 : L’histoire de l’édifice actuel commence lorsqu’en 1667, à la demande de la communauté de ville, cinq Sœurs hospitalières de la miséricorde de Jésus (Augustines) sont envoyées de Quimper prendre possession d’un Hôtel-Dieu et d’une chapelle préexistants mais dans un état de délabrement avancé.",
+  "Lieu « Monastère Sainte-Anne de Lannion », 1704 : Le monastère et ses dépendances sont édifiés progressivement avec le soutien de bienfaiteurs locaux : le chœur conventuel (la partie la plus proche du pont sur le Léguer) est achevé en 1704 ; la « petite » chapelle (sise dans ce qui est aujourd’hui le parc Sainte-Anne), en 1753.",
+  "Lieu « Monastère Sainte-Anne de Lannion », 1866 : Conçu par l’architecte Edouard Puyo, à proximité immédiate du monastère (côté ouest), le nouvel hôpital Sainte-Anne est inauguré en 1866.",
+  "Lieu « Trégor » : Le Trégor (en breton : Bro-Dreger) est une ancienne division administrative et religieuse constituant l'un des neuf pays de Bretagne.",
+  "Lieu « Trégor », 1325 : C'est ainsi par exemple qu'en 1325 un collège de Tréguier, reconstruit ultérieurement en Collège de France par François Ier, est fondé par Monseigneur Guillaume de Coëtman à Paris, presque simultanément à un collège de Léon voisin.",
+  "Lieu « Trégor », aujourd'hui : Aujourd'hui peu d'activité de pêche, mais beaucoup de petites exploitations agricoles.",
+  "Lieu « Église Saint-Jean-du-Baly de Lannion » : L'église Saint-Jean-du-Baly est une église catholique située dans la ville de Lannion, en France.",
+  "Lieu « Église Saint-Jean-du-Baly de Lannion », XIVe siècle : Elle a été construite dès le XIVe siècle puis modifiée aux XVe et XVIe siècles.",
+  "Lieu « Église Saint-Jean-du-Baly de Lannion », 1907 : L'édifice est classé au titre des monuments historiques depuis 1907."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

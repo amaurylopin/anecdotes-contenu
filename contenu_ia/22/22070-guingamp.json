@@ -1,0 +1,266 @@
+{
+ "commune": {
+  "titre": "Guingamp",
+  "code_insee": "22070",
+  "departement": "22",
+  "population": 7111,
+  "lat": 48.56333333,
+  "lon": -3.15,
+  "url": "https://fr.wikipedia.org/wiki/Guingamp"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:33:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3255,
+  "sortie": 1993
+ },
+ "cout_usd": 0.003142,
+ "accroche": "À Guingamp, le château du XIIIe siècle? (non) : plutôt, un premier château est daté vers 1030 sur une motte féodale circulaire entourée d’un fossé de 5 m.",
+ "histoire": {
+  "recit": "Guingamp, en Bretagne, a vécu très tôt sur ses reliefs et ses voies : le pays guingampais montre de nombreux tumulus et dolmens, tandis qu’une voie romaine passait tout près, notamment à Saint-Adrien et Plésidy. Vers 1030, un premier château prend place sur une motte circulaire ; au XIIe siècle, il laisse place à un second château de pierre, puis, au milieu du XVe siècle, un troisième château aux tours circulaires s’adapte à l’artillerie.\n\nL’histoire continue à travers ses lieux : la Prison de Guingamp, construite selon un modèle du XIXe siècle, connaît une nouvelle activité entre 1941 et 1952. La Basilique Notre-Dame-de-Bon-Secours de Guingamp porte aussi les marques du temps et des crises : un ouragan, puis un obus américain détruisent des parties de l’ensemble. Plus au nord-ouest, le Stade de Roudourou naît comme terre agricole au bord du Trieux, avant de faire l’objet de plusieurs vagues de travaux. Et quand la guerre vient, Guingamp est libérée le 7 août 1944 par les maquisards de Plésidy-Saint-Connan.",
+  "chronologie": [
+   {
+    "date": "1030",
+    "texte": "Un premier château est construit vers 1030 sur une motte féodale circulaire, entourée d’un fossé creusé dans le rocher et profond de 5 m.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Un second château, édifié en pierre au XIIe siècle, succède à la première installation.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Au milieu du XVe siècle, un troisième château est construit avec un plan carré et des tours circulaires aux quatre angles, adaptées à l’artillerie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "5 mars 1942",
+    "texte": "Georges Le Bonnie, arrêté à Guingamp le 5 mars 1942 pour avoir hébergé et caché des aviateurs anglais, est décapité à Cologne le 20 octobre 1942.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "7 août 1944",
+    "texte": "Guingamp est libérée le 7 août 1944 par les maquisards de Plésidy-Saint-Connan.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade de Roudourou",
+   "histoire": "Jusqu’à la fin des années 1950, le lieu-dit Roudourou, au nord-ouest de la commune, est quasi entièrement occupé par des parcelles agricoles au bord du Trieux. Des travaux transforment ensuite le site : en 1997, des tribunes sont construites derrière les buts ; en 2007, des aménagements élargissent et modernisent les installations. Aujourd’hui, un seul élément subsiste, les berges restant accessibles derrière la tribune Super U.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.566116,
+   "lon": -3.16445,
+   "url": "https://fr.wikipedia.org/wiki/Stade_de_Roudourou"
+  },
+  {
+   "nom": "Prison de Guingamp",
+   "histoire": "L’ancienne Prison de Guingamp se trouve au 4, rue Auguste Pavie. Construite entre 1836 et 1841, elle suit un modèle « Pennsylvanien » proposé par l’architecte Louis Lorin, sous l’impulsion de l’humaniste Charles Lucas. Entre 1941 et 1952, elle connaît une nouvelle activité : 1 400 personnes y sont de nouveau emprisonnées pour des délits de droit commun. En 2008, la ville entreprend des travaux de sécurisation et de restauration, pour mettre hors d’eau et hors d’air les installations.",
+   "anecdotes": [
+    {
+     "texte": "Entre 1941 et 1952, la prison redevient un lieu d’enfermement : 1 400 personnes y furent de nouveau emprisonnées pour des délits de droit commun.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.561666666667,
+   "lon": -3.1469444444444,
+   "url": "https://fr.wikipedia.org/wiki/Prison_de_Guingamp"
+  },
+  {
+   "nom": "Château de Pierre II",
+   "histoire": "Le château de Pierre II est un ancien château fort du début du XIe siècle, élevé sur ordre de Pierre II dit le Simple. Au XIIe siècle, la motte est rasée à la suite d’une reprise du duché de Bretagne, puis remplacée par une fortification polygonale en pierre jusqu’à la fin du XIVe siècle, date à laquelle le duc de Bretagne Jean V en ordonne la destruction. En 1446, le site s’insère dans une ceinture défensive, avec des remparts construits pour Pierre II. Jusqu’au XXe siècle, l’endroit est occupé par une école primaire ; des fouilles archéologiques récentes, en 2005, mettent au jour un pan de l’histoire. Les vestiges sont inscrits au titre des monuments historiques en 1926.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 48.559923,
+   "lon": -3.150147,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pierre_II"
+  },
+  {
+   "nom": "Abbaye Sainte-Croix de Guingamp",
+   "histoire": "L’abbaye Saint-Croix de Guingamp est une fondation pour des chanoines réguliers de saint Augustin en Bretagne, établie en 1134 par le comte Étienne de Penthièvre pour des chanoines issus d’une abbaye mentionnée dans la source. Au cours de son histoire, elle connaît des reconstructions : en 1437, l’abbé Jean Hamon reconstruit partiellement les bâtiments du XIIe siècle avec l’appui du comte Pierre de Guingamp. Au XVIIIe siècle, les bâtiments menacent ruine : en 1748, l’évêque de Tréguier fait transférer le Saint-Sacrement dans la chapelle de Rochefort ; vers 1750, lors de la réfection, ne sont conservés que la croisée du transept et le chevet polygonal. Aujourd’hui, il subsiste des bâtiments : les ruines de l’abbatiale, essentiellement datées de 1748 à 1750.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.552288,
+   "lon": -3.156244,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Sainte-Croix_de_Guingamp"
+  },
+  {
+   "nom": "Basilique Notre-Dame-de-Bon-Secours de Guingamp",
+   "histoire": "La Basilique Notre-Dame-de-Bon-Secours de Guingamp se trouve au cœur de la cité historique. Les sources rappellent qu’après un ouragan en 1535, une tour collée au portail occidental s’effondre et entraîne avec elle le portail ouest, la nef latérale et une partie de la grande nef, endommageant aussi les orgues et des maisons voisines. Après le passage de la Révolution française, et avec le Concordat signé le 16 juillet 1801, Notre-Dame-de-Bon-Secours reste seule paroisse en activité. Pendant la Seconde Guerre mondiale, à la Libération, le 7 août 1944, un obus américain détruit la partie supérieure de la tour du centre. Aujourd’hui, l’église conserve la trace de vocables successifs : connue au XIIe siècle avec d’autres noms avant de porter celui de la Bienheureuse-Marie de Guingamp, lieu de pèlerinage marial.",
+   "anecdotes": [
+    {
+     "texte": "En 1535, après un ouragan, une tour collée au portail occidental s’est effondrée et a entraîné plusieurs parties de l’église, jusqu’aux orgues.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    },
+    {
+     "texte": "À la Libération, le 7 août 1944, un obus américain détruit la partie supérieure de la tour du centre.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.561144,
+   "lon": -3.150851,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame-de-Bon-Secours_de_Guingamp"
+  },
+  {
+   "nom": "Gare de Guingamp",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 48.555476,
+   "lon": -3.143288,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Guingamp"
+  },
+  {
+   "nom": "Fontaine de la Plomée",
+   "histoire": "La Fontaine de la Plomée se trouve à Guingamp, au sommet de la Place du centre, au croisement de la rue Notre Dame et de la rue Henry Kerfant. Elle est construite au XVe siècle. En 2003, elle est rénovée et équipée d’un système d’alimentation en circuit fermé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 48.5619,
+   "lon": -3.15184,
+   "url": "https://fr.wikipedia.org/wiki/Fontaine_de_la_Plom%C3%A9e"
+  },
+  {
+   "nom": "Château des Salles",
+   "histoire": "Le château des Salles est situé à Guingamp, dans les Côtes-d’Armor ; il a été construit au XVe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41"
+   ],
+   "lat": 48.5583,
+   "lon": -3.1564,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Salles"
+  }
+ ],
+ "sources": [
+  "Guingamp /gɛ̃.gɑ̃/ , Gwengamp [ˈɡwɛ̃ŋɡãmp] en breton, est une commune française située dans le département des Côtes-d'Armor, en Bretagne. Elle est membre de l'association Petite cité de caractère.",
+  "De nombreux tumulus et dolmens paléolithiques, néolithiques et de l'Âge du bronze sont présents dans le pays guingampais (Trésor de Kérivoa). La ville est toute proche de la voie romaine allant à Vorgium, passant notamment à Saint-Adrien et Plésidy. Le Penthièvre fut un temps réduit à un petit comté dit « de Guingamp ». Les fouilles menées par Laurent Beuchet dans le château de Guingamp ont mis en évidence les trois […]",
+  "1030 : Un premier château, construit vers 1030 sur une motte féodale circulaire, était entouré d'un fossé d'une profondeur de 5 m creusé dans le rocher.",
+  "XIIe siècle : Un second château, construit en pierre, est édifié au XIIe siècle.",
+  "XVe siècle : Un troisième château est construit au milieu du XVe siècle, de plan carré avec d'imposantes tours circulaires aux quatre angles, adaptées à l'artillerie de l'époque.",
+  "1942 : Pour avoir hébergé et caché des aviateurs anglais, Georges Le Bonnie, de Lanvollon, fut arrêté le 5 mars 1942 à Guingamp ; il fut décapité à Cologne le 20 octobre 1942.",
+  "1944 : Guingamp est libérée le 7 août 1944 par les maquisards de Plésidy-Saint-Connan.",
+  "Lieu « Stade de Roudourou » : Le stade municipal de Roudourou est un stade situé à Guingamp.",
+  "Lieu « Stade de Roudourou », 1950 : Jusqu'à la fin des années 1950, le lieu-dit Roudourou, au nord-ouest de la commune de Guingamp, à quelques centaines de mètres du centre-ville, est quasi entièrement occupé par des parcelles agricoles au bord du Trieux.",
+  "Lieu « Stade de Roudourou », 1997 : Une première vague de travaux de rénovation est conduite en 1997, durant laquelle des tribunes sont construites derrière les buts.",
+  "Lieu « Stade de Roudourou », 2007 : Une seconde vague de travaux est lancée en 2007, afin d'installer un toit sur la tribune Est et sur la tribune destinée aux supporters visiteurs, créer des loges dans la tribune Honneur, rénover les vestiaires des équipes et des arbitres, agrandir la salle de presse, mettre aux normes les éclairages et construire un bâtiment destiné à accueillir des événements annexes.",
+  "Lieu « Stade de Roudourou », aujourd'hui : Un seul subsiste à ce jour[C'est-à-dire ?] (les berges sont encore accessibles derrière la tribune Super U).",
+  "Lieu « Prison de Guingamp » : L'ancienne Prison de Guingamp est située 4, rue Auguste Pavie à Guingamp dans les Côtes-d'Armor.",
+  "Lieu « Prison de Guingamp », 1836 : Cet édifice remarquable a été construit entre 1836 et 1841 selon le modèle « Pennsylvanien » par l'architecte Louis Lorin, sous l'impulsion de l'humaniste Charles Lucas, inspecteur général des prisons.",
+  "Lieu « Prison de Guingamp », 1941 : La prison connut une nouvelle activité entre 1941 et 1952, 1 400 personnes y furent de nouveau emprisonnées pour des délits de droit commun.",
+  "Lieu « Prison de Guingamp », 2008 : Des travaux de sécurisation et de restauration, d'un montant de 850 000 €, ont été entrepris en 2008 par la ville de Guingamp, afin de mettre hors d'eau et hors d'air les installations et sauvegarder cet édifice.",
+  "Lieu « Prison de Guingamp », aujourd'hui : Ce modèle s'oppose au système carcéral « Auburnien » (New-York), qui lui, privilégie le contact permanent entre détenus le jour et une séparation, en cellule individuelle, la nuit ; modèle encore en vigueur dans les prisons d'aujourd'hui, en France.",
+  "Lieu « Château de Pierre II » : Le château de Pierre II est un ancien château fort, du début du XIe siècle, situé dans la commune de Guingamp dans les Côtes-d'Armor en Bretagne, élevé sur ordre de Pierre II dit le Simple.",
+  "Lieu « Château de Pierre II », XIIe siècle : Au cours du XIIe siècle, cette motte fut rasée sur ordre des Plantagenêt lors de la reprise du duché de Bretagne et remplacée par une fortification polygonale en pierre, jusqu'à la fin du XIVe siècle, date à laquelle le duc de Bretagne Jean V ordonna sa destruction.",
+  "Lieu « Château de Pierre II », 1446 : Le château faisait également partie de la ceinture défensive de la ville : des remparts construits en 1446 par Jean de Beuves pour Pierre II, étaient également présents et dessinaient les contours de la ville au XVe siècle.",
+  "Lieu « Château de Pierre II », 2005 : Ce patrimoine oublié de la ville ayant été occupé jusqu'au XXe siècle par une école primaire, des fouilles archéologiques récentes (2005) ont permis de mettre au jour tout un pan de l'histoire de la ville.",
+  "Lieu « Château de Pierre II », aujourd'hui : Les vestiges du château ont été inscrits aux titre des monuments historiques en 1926.",
+  "Lieu « Abbaye Sainte-Croix de Guingamp » : L'abbaye Saint-Croix de Guingamp, dans l'actuelle commune de Guingamp (Côtes-d'Armor) est une fondation pour les chanoines réguliers de saint Augustin en Bretagne, établie en 1134 par le comte Étienne de Penthièvre pour des chanoines issus de l'abbay",
+  "Lieu « Abbaye Sainte-Croix de Guingamp », 1437 : L'abbé Jean Hamon (1437-1452) reconstruit partiellement les bâtiments du XIIe siècle avec l'appui du comte Pierre de Guingamp.",
+  "Lieu « Abbaye Sainte-Croix de Guingamp », 1748 : Les bâtiments menacent ruine et l'évêque de Tréguier fait transférer en 1748 le Saint-Sacrement dans la chapelle de Rochefort.",
+  "Lieu « Abbaye Sainte-Croix de Guingamp », 1750 : Lors de la réfection faite vers 1750, on ne réussit à sauver de l'édifice initial que la croisée du transept et le chevet polygonal.",
+  "Lieu « Abbaye Sainte-Croix de Guingamp », aujourd'hui : Des bâtiments de l'abbaye subsistent aujourd'hui : les ruines de l'abbatiale, essentiellement datées de 1748 à 1750 : chevet polygonal et transept.",
+  "Lieu « Basilique Notre-Dame-de-Bon-Secours de Guingamp » : La basilique Notre-Dame-de-Bon-Secours de Guingamp se situe au cœur de la cité historique de Guingamp, en Bretagne.",
+  "Lieu « Basilique Notre-Dame-de-Bon-Secours de Guingamp », 1535 : En 1535, après un ouragan, une tour collée au portail occidental s'effondre et entraîne avec elle le portail ouest, la nef latérale, une partie de la grande nef et endommage les orgues et quelques maisons avoisinantes.",
+  "Lieu « Basilique Notre-Dame-de-Bon-Secours de Guingamp », 1801 : Mais, après le passage de la Révolution française, avec le pillage et la destruction de nombreux autres édifices religieux, la signature du Concordat du 16 juillet 1801 entre Napoléon Bonaparte et Pie VII, laisse Notre-Dame-de-Bon-Secours seule paroisse en activité.",
+  "Lieu « Basilique Notre-Dame-de-Bon-Secours de Guingamp », 1944 : Enfin, durant la Seconde Guerre mondiale, à la Libération, le 7 août 1944, un obus américain détruit la partie supérieure de la tour du centre ou tour pointue.",
+  "Lieu « Basilique Notre-Dame-de-Bon-Secours de Guingamp », aujourd'hui : Au XIIe siècle, l'église connue aujourd'hui sous le nom de Notre-Dame-de-Bon-Secours porte les vocables successifs de Saint-Pierre et de Saint-Paul avant de porter celui de l'église de la Bienheureuse-Marie de Guingamp, lieu de pèlerinage marial.",
+  "Lieu « Gare de Guingamp » : La gare de Guingamp est une gare ferroviaire française des lignes de Paris-Montparnasse à Brest, de Guingamp à Carhaix et de Guingamp à Paimpol.",
+  "Lieu « Gare de Guingamp », XIXe siècle : C'est à la fin du XIXe siècle qu'il est de nouveau question d'ouvertures d'un réseau de voies ferrées d'intérêt local dont certaines doivent desservir Guingamp.",
+  "Lieu « Gare de Guingamp », 1893 : Les ouvertures se succèdent avec les 53 km de Carhaix à Guingamp le 24 septembre 1893 et les 37 km de Guingamp à Paimpol le 14 août 1894.",
+  "Lieu « Gare de Guingamp », 1967 : Elle devient le centre d'une étoile ferroviaire à six branches lors de l'époque des réseaux secondaires à voie métrique dont la dernière ligne desservant Guingamp est transformée en voie normale en 1967.",
+  "Lieu « Fontaine de la Plomée » : La Fontaine de la Plomée est une fontaine située à Guingamp au sommet de la Place du centre, au croisement de la rue Notre Dame et de la rue Henry Kerfant.",
+  "Lieu « Fontaine de la Plomée », XVe siècle : La fontaine a été construite au XVe siècle.",
+  "Lieu « Fontaine de la Plomée », 2003 : En 2003, la fontaine a été rénovée et équipée d'un système d'alimentation en circuit fermé.",
+  "Lieu « Château des Salles » : Le château des Salles, situé à Guingamp dans le département des Côtes-d'Armor, a été construit au XVe siècle.",
+  "Lieu « Château des Salles », XVe siècle : Le château des Salles, situé à Guingamp dans le département des Côtes-d'Armor, a été construit au XVe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIIe",
+   "XVIIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

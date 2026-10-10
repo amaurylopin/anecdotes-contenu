@@ -1,0 +1,324 @@
+{
+ "commune": {
+  "titre": "Dinan",
+  "code_insee": "22050",
+  "departement": "22",
+  "population": 14764,
+  "lat": 48.45638889,
+  "lon": -2.04888889,
+  "url": "https://fr.wikipedia.org/wiki/Dinan"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:28:35",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3667,
+  "sortie": 1972
+ },
+ "cout_usd": 0.003198,
+ "accroche": "Le 6 août 1944, un groupe de reconnaissance du 802nd Tank Destroyer Battalion apprend que Dinan et Lanvallay ont été évacués par les troupes allemandes.",
+ "histoire": {
+  "recit": "Dinan, commune nouvelle née le 1er janvier 2018 de la fusion de Dinan et Léhon, a d’abord été un site occupé bien avant le Moyen Âge : un dolmen en ruines et la proximité de Corseul et de Taden évoquent une fréquentation très ancienne. On retrouve ensuite Dinan plus nettement à partir du XIe siècle, quand le site s’organise et que la ville se dote de défenses.\n\nEn 1357, la guerre de succession du duché de Bretagne se lit jusqu’aux remparts : Bertrand Du Guesclin et son frère Olivier défendent la ville assiégée par des troupes anglaises et des Bretons fidèles à Jean de Montfort.\n\nPlus près de nous, le début du XXe siècle est marqué par un incendie en 1907 qui détruit cinq maisons à colombages. La ville subit aussi un bombardement en août 1944.\n\nEnfin, les remparts continuent d’agir dans le quotidien : dans la nuit du 6 au 7 juin 2007, une portion s’effondre sur la rue principale d’accès, la rue du Général-de-Gaulle, et réclame des travaux de consolidation. ",
+  "chronologie": [
+   {
+    "date": "1er janvier 2018",
+    "texte": "Dinan devient une commune nouvelle, créée par fusion des communes de Dinan et Léhon.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’histoire de Dinan est mieux connue à partir du XIe siècle, même si le site est occupé depuis l’Antiquité.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1357",
+    "texte": "Bertrand Du Guesclin et son frère Olivier défendent la ville assiégée pendant la guerre de succession du duché de Bretagne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Un incendie détruit cinq maisons à colombages.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "août 1944",
+    "texte": "Un bombardement touche la ville.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "6 août 1944",
+    "texte": "Un groupe de reconnaissance du 802nd Tank Destroyer Battalion apprend que Dinan et Lanvallay ont été évacués par les troupes allemandes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "6 au 7 juin 2007",
+    "texte": "Une portion des remparts s’effondre sur la rue du Général-de-Gaulle et nécessite une consolidation.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Remparts de Dinan",
+   "histoire": "Érigés au Moyen Âge pour protéger la ville, les remparts s’appuient sur des défenses naturelles et forment un quadrilatère irrégulier suivant les escarpements sur les côtés est, sud et ouest.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S21"
+   ],
+   "lat": 48.452064,
+   "lon": -2.045391,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Dinan"
+  },
+  {
+   "nom": "Basilique Saint-Sauveur de Dinan",
+   "histoire": "L’édifice conserve des parties romanes : les travaux ayant été interrompus, subsistent le mur sud de la nef et les parties basses de la façade. Les parties les plus anciennes datent du XIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "L’effondrement du clocher, en 1547, entraîne des modifications de l’église, notamment l’abandon du voûtement du chœur au profit d’une charpente lambrissée.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Une représentation de l’Assomption de la Vierge fait l’objet d’une vénération locale, permettant l’érection de l’édifice en basilique mineure le 23 mai 1954.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Mur sud de la nef et parties basses de la façade subsistent.",
+   "sources": [
+    "S12",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.453332,
+   "lon": -2.041698,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Sauveur_de_Dinan"
+  },
+  {
+   "nom": "Musée de Dinan",
+   "histoire": "Musée municipal d’art et d’histoire portant l’appellation Musée de France, il est créé sur l’initiative de Luigi Odorici, réfugié italien installé à Dinan à partir de 1833. Fondé à partir de sa collection personnelle, il rassemble des collections archéologiques, de sculptures et de tableaux, ainsi que des ethnographies et des spécimens d’histoire naturelle.",
+   "anecdotes": [
+    {
+     "texte": "Pour reconstituer des archives dispersées durant la Révolution française, Luigi Odorici collecte les vestiges du passé de Dinan et les présente dans une salle du rez-de-chaussée de l’hôtel de ville de Dinan.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.454713,
+   "lon": -2.050808,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Dinan"
+  },
+  {
+   "nom": "Château de Dinan",
+   "histoire": "Le château actuel, érigé au XIVe siècle, remplace une première motte castrale construite dès le XIe siècle. Le chantier est achevé en 1393 sous la conduite du maître d’œuvre Étienne le Tur.",
+   "anecdotes": [
+    {
+     "texte": "Pour relier la tour maîtresse à la tour Coëtquen, une gaine militaire dite « souterrain Mercœur » est aménagée, entraînant la condamnation de la porte du Guichet, alors murée.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Son emplacement présumé est un promontoire au nord-est de la ville, à l’extérieur de l’enceinte actuelle.",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.450277777778,
+   "lon": -2.0448888888889,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Dinan"
+  },
+  {
+   "nom": "Couvent des Ursulines de Dinan",
+   "histoire": "Le couvent des Ursulines se situe au nord de l’église Saint-Malo, au carrefour de la rue de la Boulangerie et de la rue Saint-Charles. Trois religieuses de Saint-Malo s’installent en 1618 ; la première pierre n’est posée qu’en 1620, et la chapelle est construite en 1638. Les bâtiments sont vendus comme biens nationaux en 1798.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un vaste espace au nord est occupé par le jardin du couvent, jusqu’aux remparts entre la rue de la Croix et la rue de la Sagesse.",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.455221,
+   "lon": -2.047346,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Ursulines_de_Dinan"
+  },
+  {
+   "nom": "Couvent des Cordeliers de Dinan",
+   "histoire": "Le couvent des cordeliers est un monument religieux datant du XIIIe siècle bâti par Henry d’Avaugour, seigneur de Dinan. Il abrite aujourd’hui le collège-lycée privé catholique des Cordeliers.",
+   "anecdotes": [
+    {
+     "texte": "En 1904, la nouvelle chapelle est bénite par le Supérieur, l’abbé Le Fer de la Motte, futur évêque de Nantes.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    },
+    {
+     "texte": "En 1933, sous le supériorat du chanoine Meinser, les bâtiments sont rachetés.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le couvent abrite aujourd’hui le collège-lycée privé catholique des Cordeliers.",
+   "sources": [
+    "S37",
+    "S33",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 48.454278,
+   "lon": -2.044742,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Cordeliers_de_Dinan"
+  },
+  {
+   "nom": "Léhon",
+   "histoire": "Léhon est une ancienne commune voisine de Dinan, en amont, à 2 km au sud. Elle conserve l’idée d’un passé médiéval avec les vestiges d’un château fort et une abbatiale jointe à un ancien monastère.",
+   "anecdotes": [
+    {
+     "texte": "Vers 910, l’apparition des Vikings pousse les moines à fuir vers Paris pendant que l’abbaye est pillée et détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S42",
+    "S39"
+   ],
+   "lat": 48.4425,
+   "lon": -2.03833333333,
+   "url": "https://fr.wikipedia.org/wiki/L%C3%A9hon"
+  },
+  {
+   "nom": "Église Saint-Malo de Dinan",
+   "histoire": "L’église Saint-Malo est une église catholique du XVe siècle située à Dinan. Une première église se trouvait hors des murs à l’emplacement de l’actuelle chapelle Saint-Joachim. En 1597, un magasin de poudre explose : l’église est endommagée et doit être réparée.",
+   "anecdotes": [
+    {
+     "texte": "Une inscription sculptée dans la dernière chapelle du déambulatoire nord indique « En l’an 1549. », rappelant l’époque des chapelles nord.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S45"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une partie des matériaux est récupérée sur le site de l’ancienne église Saint-Malo (actuelle chapelle Saint-Joachim).",
+   "sources": [
+    "S43",
+    "S44",
+    "S45",
+    "S46",
+    "S47"
+   ],
+   "lat": 48.454776,
+   "lon": -2.045989,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Malo_de_Dinan"
+  }
+ ],
+ "sources": [
+  "Dinan /di.nɑ̃/ est une commune nouvelle française, créée le 1er janvier 2018 par fusion des communes de Dinan et Léhon. Sous-préfecture du département des Côtes-d'Armor, en région Bretagne, c'est une ville du Poudouvre, pays traditionnel du nord de la Haute-Bretagne. La ville de Dinan est fortifiée par une ceinture de remparts et était défendue par un imposant château. Point stratégique pour la circulation entre la […]",
+  "La région de Dinan est habitée depuis le Néolithique, comme en témoigne la présence d'un dolmen en ruines à la sortie de la ville en direction de Lanvallay. Sa proximité avec la grande cité gallo-romaine de Corseul et le port gaulois puis gallo-romain de Taden permettent d'en déduire une occupation humaine à cette période. Le territoire de Dinan appartenait il y a plus de deux mille ans au peuple gaulois des […]",
+  "XIe siècle : L’histoire de Dinan est mieux connue à partir du XIe siècle, bien que le site eût été occupé depuis l'Antiquité.",
+  "1357 : En 1357, lors de la guerre de succession du duché de Bretagne, Bertrand Du Guesclin et son frère Olivier défendent avec succès la ville assiégée par les troupes anglaises et les Bretons fidèles à Jean de Montfort.",
+  "1907 : Malgré un incendie en 1907 qui a détruit cinq maisons à colombages, et un bombardement en août 1944, la ville n'a pas connu de grands changements depuis le début du XXe siècle.",
+  "1944 : Ce n'est que le 6 août 1944 qu'un groupe de reconnaissance du 802nd Tank Destroyer Battalion (802e Bataillon antichar) apprend que Dinan et Lanvallay ont été évacués par les troupes allemandes.",
+  "2007 : Dans la nuit du 6 au 7 juin 2007, une petite portion des remparts s'est effondrée sur la rue principale d'accès (rue du Général-de-Gaulle), et nécessite des travaux de consolidation.",
+  "Lieu « Basilique Saint-Sauveur de Dinan » : La basilique Saint-Sauveur de Dinan est un édifice religieux catholique situé à Dinan dans les Côtes-d'Armor, en France.",
+  "Lieu « Basilique Saint-Sauveur de Dinan », XIIe siècle : Les parties les plus anciennes de l'édifice ont été construites au XIIe siècle.",
+  "Lieu « Basilique Saint-Sauveur de Dinan », 1547 : Cependant, l'effondrement du clocher en 1547 conduit à des modifications de l'église, et en particulier à renoncer au voûtement du chœur qui est donc couvert d'une charpente lambrissée.",
+  "Lieu « Basilique Saint-Sauveur de Dinan », 1954 : Objet d'une vénération locale, cette représentation de l'Assomption de la Vierge a permis que l'édifice soit érigé en basilique mineure par le pape Pie XII le 23 mai 1954.",
+  "Lieu « Basilique Saint-Sauveur de Dinan », aujourd'hui : Les travaux ayant dû être interrompus, ont subsisté de l'église romane le mur sud de la nef et les parties basses de la façade.",
+  "Lieu « Musée de Dinan » : Le musée de Dinan est un musée municipal d'art et d'histoire qui porte l'appellation Musée de France.",
+  "Lieu « Musée de Dinan », 1833 : Le musée de Dinan est créé sur l'initiative de Luigi Odorici, réfugié italien installé à Dinan à partir de 1833.",
+  "Lieu « Musée de Dinan », 1843 : Fondé en 1843 à partir de la collection personnelle de l'érudit italien Luigi Odorici, il réunit des collections de natures diverses : collection archéologique, collection de sculptures et de tableaux, collection d'ethnographie extra-européenne, collection d'ethnographie locale, collection de spécimens d'histoire naturelle.",
+  "Lieu « Musée de Dinan », 1908 : À sa création, il était installé au rez-de-chaussée de l'hôtel de ville de Dinan, puis il fut transféré au château de Dinan en 1908.",
+  "Lieu « Musée de Dinan », aujourd'hui : Passionné d'histoire, Luigi Odorici reconstitue les collections d'archives dispersées durant la Révolution française et collecte les vestiges du passé de Dinan qu'il présente dans une salle du rez-de-chaussée de l'hôtel de ville de Dinan.",
+  "Lieu « Remparts de Dinan » : Les remparts de Dinan sont une série de murailles érigées au Moyen Âge pour protéger la ville de Dinan.",
+  "Lieu « Remparts de Dinan », XIe siècle : Dinan est construite dans la première moitié du XIe siècle sur le bord oriental d'un plateau dominant la Rance, dont il contrôle le fond de l'estuaire, à un kilomètre en aval de l'abbaye Saint-Magloire de Léhon, qui avait elle-même été fondée au IXe siècle.",
+  "Lieu « Remparts de Dinan », XIe siècle : Le premier ouvrage défensif de Dinan est une motte castrale, appelée « vieil chastel » ou « Châteauganne », construite dès le XIe siècle.",
+  "Lieu « Remparts de Dinan », XIIIe siècle : Les remparts, construits à partir du XIIIe siècle (d'abord par les seigneurs de la famille de Dinan, puis par les ducs de Bretagne aux XIVe et XVe siècles), exploitent ces défenses naturelles, formant ainsi un quadrilatère irrégulier suivant les escarpement sur les côtés est, sud et ouest.",
+  "Lieu « Remparts de Dinan », aujourd'hui : Les remparts de Rennes et de Nantes ayant aujourd'hui disparu, alors que ceux de Dinan sont remarquablement préservés, ces derniers sont maintenant les plus grands de Bretagne et constituent « l'un des ensembles fortifiés parmi les plus exceptionnels de France », selon l'historien Xavier Barral i Altet (es).",
+  "Lieu « Couvent des Ursulines de Dinan » : L’ancien couvent des Ursulines de Dinan se situe au nord de l'église Saint-Malo, au carrefour de la rue de la Boulangerie et de la rue Saint-Charles.",
+  "Lieu « Couvent des Ursulines de Dinan », 1618 : Trois religieuses de Saint-Malo s'installent donc à Dinan en 1618 dans une maison proche de la chapelle Saint-Nicolas (détruite au XVIIIe siècle), le couvent n'est pas encore construit, sa première pierre n'est posée qu'en 1620 par l'évêque de Saint-Malo.",
+  "Lieu « Couvent des Ursulines de Dinan », 1638 : La chapelle est construite en 1638, par le Maître d'œuvre Poussin, auquel on doit également la construction du couvent des Dominicaines de Dinan.",
+  "Lieu « Couvent des Ursulines de Dinan », 1798 : Puis les bâtiments sont vendus comme biens nationaux en 1798 (25 prairial an VI), M. Toussaint-Dutertre les achète et y installe, en 1802, une manufacture de tissage de toiles à voiles.",
+  "Lieu « Couvent des Ursulines de Dinan », aujourd'hui : Au nord un vaste espace est occupé par le jardin du couvent, il s'étend jusqu'aux remparts entre la rue de la Croix et la rue de la Sagesse.",
+  "Lieu « Château de Dinan » : Le château de Dinan est un ancien château fort du XIVe siècle, ayant remplacé une antique forteresse, remanié à plusieurs reprises, situé sur la commune française de Dinan dans le département des Côtes-d'Armor, en région Bretagne.",
+  "Lieu « Château de Dinan », XIVe siècle : Le château actuel, érigé au XIVe siècle, remplace une première motte castrale, appelée « vieil chastel » ou « Châteauganne », construite dès le XIe siècle.",
+  "Lieu « Château de Dinan », 1393 : Sous la conduite du maître d’œuvre Étienne le Tur, le chantier est achevé en 1393 et peut-être même dès 1384.",
+  "Lieu « Château de Dinan », XVe siècle : Afin de réunir la tour maîtresse à la tour Coëtquen (tour d'artillerie érigée à la fin du XVe siècle), une gaine militaire dite « souterrain Mercœur » est aménagée, entraînant la condamnation de la porte du Guichet qui est alors murée.",
+  "Lieu « Château de Dinan », aujourd'hui : Son emplacement présumé est un promontoire au nord-est de la ville, qui se trouve à l'extérieur de l'enceinte actuelle.",
+  "Lieu « Couvent des Cordeliers de Dinan » : Le couvent des cordeliers est un monument religieux datant du XIIIe siècle bâti par Henry d'Avaugour seigneur de Dinan .",
+  "Lieu « Couvent des Cordeliers de Dinan », XIIIe siècle : Le couvent des cordeliers est un monument religieux datant du XIIIe siècle bâti par Henry d'Avaugour seigneur de Dinan .",
+  "Lieu « Couvent des Cordeliers de Dinan », 1904 : 1904 : Bénédiction de la nouvelle chapelle construite par le Supérieur, l'abbé Le Fer de la Motte, futur évêque de Nantes.",
+  "Lieu « Couvent des Cordeliers de Dinan », 1933 : 1933 : sous le supériorat du chanoine Meinser (1914-1961) rachat des bâtiments.",
+  "Lieu « Couvent des Cordeliers de Dinan », aujourd'hui : Le couvent abrite aujourd'hui le collège-lycée privé catholique des Cordeliers.",
+  "Lieu « Léhon » : Léhon [leɔ̃] est une ancienne commune française du département des Côtes-d'Armor, ville voisine de Dinan en amont (2 km au sud), dans la région Bretagne, en France.",
+  "Lieu « Léhon », 910 : Les Vikings firent leur apparition vers 910 et les moines fuient vers Paris alors que l'abbaye est pillée et détruite.",
+  "Lieu « Léhon », 1065 : Le château est assiégé en 1065 par le duc de Normandie et il est alors abandonné pour le château de Dinan, mais reconstruit en 1124.",
+  "Lieu « Léhon », 1168 : Le château subit un autre siège en 1168 par Henri II roi d'Angleterre et le château est rasé l'année suivante, mais reconstruit en 1170.",
+  "Lieu « Léhon », aujourd'hui : Ce bourg de petite taille est constitué de petites maisons en pierre typiques, d'une abbatiale jointe à un ancien monastère et aux vestiges d'un château fort du Moyen Âge.",
+  "Lieu « Église Saint-Malo de Dinan » : L'église Saint-Malo est une église catholique du XVe siècle située à Dinan, en France.",
+  "Lieu « Église Saint-Malo de Dinan », 1066 : La première église Saint-Malo se situait hors les murs à l'emplacement de l'actuelle chapelle Saint-Joachim (boulevard Flaud, Dinan), cette première église dépendait du prieuré Saint-Malo fondé en 1066 par Olivier, vicomte de Dinan.",
+  "Lieu « Église Saint-Malo de Dinan », 1549 : Les chapelles nord n'auraient été construites qu'au milieu du XVIe, une inscription sculptée dans la dernière chapelle du déambulatoire nord indique : « En l'an 1549.",
+  "Lieu « Église Saint-Malo de Dinan », 1597 : En 1597, un magasin de poudre situé tour Saint-Julien explose, l'église est endommagée et demande à être réparée.",
+  "Lieu « Église Saint-Malo de Dinan », aujourd'hui : Une partie des matériaux est récupérée sur le site de l'ancienne église Saint-Malo (actuelle chapelle Saint-Joachim) dont il ne subsistera qu'une partie de la nef, le complément est fourni par du granit de Querignan provenant d'une carrière de Languedias puis de Mégrit."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Merc"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}

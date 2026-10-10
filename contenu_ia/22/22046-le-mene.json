@@ -1,0 +1,212 @@
+{
+ "commune": {
+  "titre": "Le Mené (Côtes-d'Armor)",
+  "code_insee": "22046",
+  "departement": "22",
+  "population": 6556,
+  "lat": 48.2960995,
+  "lon": -2.5213838,
+  "url": "https://fr.wikipedia.org/wiki/Le_Men%C3%A9_%28C%C3%B4tes-d%27Armor%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:43:48",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2234,
+  "sortie": 1620
+ },
+ "cout_usd": 0.002472,
+ "accroche": "Le Mené devient une commune nouvelle le 1er janvier 2016, rassemblant notamment Collinée, Le Gouray et Saint-Gouéno dans les Côtes-d’Armor.",
+ "histoire": {
+  "recit": "Au pays du Mené, la commune nouvelle est née le 1er janvier 2016, en réunissant sept communes déléguées. Avant cette création, les habitants avaient déjà tourné leur regard vers l’avenir : le 23 mars 2015, les conseils municipaux approuvaient le projet en remplacement de la communauté de communes du Mené.\n\nLe territoire a aussi vécu des chocs industriels. À Saint-Gilles-du-Mené, l’usine Géotexia, inaugurée le 17 juin 2011, a été remarquée comme première unité de méthanisation construite en partenariat. Elle est ensuite placée en redressement judiciaire en février 2019 et ravagée par un incendie le 16 juillet 2019.\n\nEt quand on quitte les sirènes des événements, on trouve des itinéraires plus intimes : à Saint-Gouéno, la chapelle Notre-Dame-des-Sept-Douleurs domine la colline du Tertre, tandis qu’un chemin de Quatorze croix de granit relie l’église à la chapelle.",
+  "chronologie": [
+   {
+    "date": "23 mars 2015",
+    "texte": "Le projet de création d’une commune nouvelle remplaçant la Communauté de communes du Mené est approuvé par les conseils municipaux des sept communes concernées.",
+    "sources": [
+     "S9",
+     "S13",
+     "S19",
+     "S21"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "Le Mené est constituée comme commune nouvelle par les communes membres de la communauté de communes du Mené (Collinée, Le Gouray, Saint-Gouéno, et autres).",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "17 juin 2011",
+    "texte": "L’usine « Géotexia » est inaugurée à Saint-Gilles-du-Mené en présence de Jean-Louis Borloo.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "février 2019",
+    "texte": "L’usine Géotexia est placée en redressement judiciaire.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "16 juillet 2019",
+    "texte": "L’usine Géotexia est ravagée par un incendie.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "février 2005 — janvier 2008",
+    "texte": "Le centre émetteur de Saint-Gouéno est construit.",
+    "sources": [
+     "S15"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Saint-Gouéno",
+   "histoire": "Ancienne commune, devenue commune déléguée du Mené le 1er janvier 2016, Saint-Gouéno conserve des repères religieux et des cheminements construits autour de la chapelle Notre-Dame-des-Sept-Douleurs.",
+   "anecdotes": [
+    {
+     "texte": "Dans la chapelle Notre-Dame-des-Sept-Douleurs, une statue en bois de la Vierge Marie est dite transpercée de sept glaives, pour représenter les sept douleurs endurées.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Un chemin de Quatorze croix de granit, datant de 1910, relie l’église à la chapelle Notre-Dame-des-Sept-Douleurs, avec un Calvaire élevé par les familles les plus aisées.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S7",
+    "S8",
+    "S6"
+   ],
+   "lat": 48.268333333,
+   "lon": -2.567222222,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Gou%C3%A9no"
+  },
+  {
+   "nom": "Le Gouray",
+   "histoire": "Commune déléguée depuis le 1er janvier 2016, Le Gouray conserve des traces d’occupation ancienne, dont une allée couverte et des vestiges décrits à la fin du XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le pont des Planchettes, construit vers 1925, servait au passage du « Petit train », un chemin de fer secondaire à voie métrique qui a fonctionné de 1926 à 1937.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une allée couverte (Allée couverte des Meurtiaux) est encore visible.",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 48.3280555556,
+   "lon": -2.4875,
+   "url": "https://fr.wikipedia.org/wiki/Le_Gouray"
+  },
+  {
+   "nom": "Émetteur de Saint-Gouéno",
+   "histoire": "Au cœur des monts du Mené, l’émetteur de Saint-Gouéno est implanté à 307 mètres d’altitude et le projet de construction s’étale de février 2005 à janvier 2008.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Émetteur implanté au cœur des monts du Mené, à 307 m d’altitude.",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 48.305567,
+   "lon": -2.549806,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89metteur_de_Saint-Gou%C3%A9no"
+  },
+  {
+   "nom": "Château du Parc (Saint-Jacut-du-Mené)",
+   "histoire": "À Saint-Jacut-du-Mené, le château du Parc comprend une chapelle datée du XIVe siècle, remaniée plus tard, et un bâtiment annexe présenté comme un ancien ermitage pour un ermite gardien du lieu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 48.283707,
+   "lon": -2.457644,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Parc_%28Saint-Jacut-du-Men%C3%A9%29"
+  },
+  {
+   "nom": "Saint-Jacut-du-Mené",
+   "histoire": "Saint-Jacut-du-Mené est une ancienne commune devenue, le 1er janvier 2016, une commune déléguée du Mené.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 48.284166667,
+   "lon": -2.480555556,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Jacut-du-Men%C3%A9"
+  },
+  {
+   "nom": "Collinée",
+   "histoire": "Collinée est une ancienne commune devenue, le 1er janvier 2016, une commune déléguée de la commune nouvelle du Mené.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 48.3016666667,
+   "lon": -2.51888888889,
+   "url": "https://fr.wikipedia.org/wiki/Collin%C3%A9e"
+  }
+ ],
+ "sources": [
+  "Le Mené [lə məne] est une commune nouvelle française du pays du Mené, constituée le 1er janvier 2016 par les communes membres de la Communauté de communes du Mené (Collinée, Le Gouray, Langourla, Plessala, Saint-Gilles-du-Mené, Saint-Gouéno, Saint-Jacut-du-Mené) situées dans le département des Côtes-d'Armor en région Bretagne.",
+  "De nombreuses jeunes mères de la région du Mené qui venaient de mettre au monde un enfant quittaient leur famille, y compris leur propre nouveau-né, pour quelques mois, se rendant en ville, souvent à Paris, pour s'y placer comme nourrices dans des familles bourgeoises. Le recteur de Hénon se demande « si l'éloignement prolongé de la mère de famille ne constitue pas un dommage que ne saurait compenser le salaire reçu […]",
+  "2011 : L'usine « Géotexia », implantée à Saint-Gilles-du-Mené, inaugurée le 17 juin 2011 en présence de Jean-Louis Borloo, alors ministre de l'environnement, est pionnière pour la méthanisation en France car c'est la première unité en partenariat entre agriculteurs, industriels et associations dont la CUMA du Mené.",
+  "2019 : Elle est placée en redressement judiciaire en février 2019 et ravagée par un incendie le 16 juillet 2019.",
+  "Lieu « Saint-Gouéno » : Saint-Gouéno [sɛ̃ gweno] (ou Saint-Gouëno) est une ancienne commune française située dans le département des Côtes-d'Armor en région Bretagne, devenue, le 1er janvier 2016, une commune déléguée de la commune nouvelle du Mené.",
+  "Lieu « Saint-Gouéno », XVIIe siècle : L'ancien presbytère datant du XVIIe siècle, maintenant transformé en logements sociaux.",
+  "Lieu « Saint-Gouéno », 1893 : La chapelle Notre-Dame-des-Sept-Douleurs, reconstruite et agrandie en 1893, dominant Saint Gouéno, située au sommet de la colline du Tertre abrite en son sein une statue en bois de la Vierge Marie transpercée de sept glaives représentant les sept douleurs endurées par la Sainte au cours de sa vie.",
+  "Lieu « Saint-Gouéno », 1910 : Le chemin de Quatorze croix de granit date de 1910 et un Calvaire édifié par les familles les plus aisées de Saint-Gouéno relie l'église à la chapelle Notre-Dame-des-Sept-Douleurs.",
+  "Lieu « Saint-Gouéno », aujourd'hui : Le 23 mars 2015, le projet de création d'une commune nouvelle en remplacement de la Communauté de communes du Mené est approuvé par les conseils municipaux des sept communes concernées.",
+  "Lieu « Le Gouray » : Le Gouray [lə guʁɛ] (Gorre en breton) est une ancienne commune française située dans le département des Côtes-d'Armor en région Bretagne, devenue, le 1er janvier 2016, une commune déléguée de la commune nouvelle du Mené.",
+  "Lieu « Le Gouray », XIXe siècle : L'occupation humaine sur le territoire de la commune est attestée par la présence d'une allée couverte encore visible (Allée couverte des Meurtiaux) et de trois autres dolmens ou allées couvertes signalées à la fin du XIXe siècle et désormais détruits situés près des lieux-dits de La Motte du Parc, La Ville Herdussan, Les Noës et La Ville-Martel.",
+  "Lieu « Le Gouray », 1925 : Allée couverte des Meurtiaux Le pont des Planchettes construit vers 1925 servait au passage du chemin de fer secondaire à voie métrique de la ligne Collinée - Dinan des chemins de fer des Côtes-du-Nord, appelé localement le Petit train, qui a fonctionné de 1926 à 1937.",
+  "Lieu « Le Gouray », aujourd'hui : Le 23 mars 2015, le projet de création d'une commune nouvelle en remplacement de la Communauté de communes du Mené est approuvé par les conseils municipaux des sept communes concernées.",
+  "Lieu « Émetteur de Saint-Gouéno » : L’émetteur de Saint-Gouéno est implanté au cœur des monts du Mené, à 307 m d'altitude, à 3,2 km au nord-ouest du mont Bel-Air qui culmine à 339 mètres.",
+  "Lieu « Émetteur de Saint-Gouéno », 2005 : Le centre émetteur a été construit entre février 2005 et janvier 2008.",
+  "Lieu « Château du Parc (Saint-Jacut-du-Mené) » : Le château du Parc est un édifice situé à Saint-Jacut-du-Mené, en France.",
+  "Lieu « Château du Parc (Saint-Jacut-du-Mené) », XIVe siècle : La chapelle du château date du XIVe siècle, remaniée plus tard, elle s'accompagne d'un bâtiment annexe qui devait servir d'ermitage à un ermite gardien du lieu.",
+  "Lieu « Saint-Jacut-du-Mené » : Saint-Jacut-du-Mené [sɛ̃ʒakydyməne] est une ancienne commune française située dans le département des Côtes-d'Armor en région Bretagne, devenue, le 1er janvier 2016, une commune déléguée de la commune nouvelle du Mené.",
+  "Lieu « Saint-Jacut-du-Mené », aujourd'hui : Le 23 mars 2015, le projet de création d'une commune nouvelle en remplacement de la Communauté de communes du Mené est approuvé par les conseils municipaux des sept communes concernées.",
+  "Lieu « Collinée » : Collinée [koline] est une ancienne commune française située dans le département des Côtes-d'Armor en région Bretagne, devenue, le 1er janvier 2016, une commune déléguée de la commune nouvelle du Mené.",
+  "Lieu « Collinée », aujourd'hui : Le 23 mars 2015, le projet de création d'une commune nouvelle en remplacement de la Communauté de communes du Mené est approuvé par les conseils municipaux des sept communes concernées."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 3
+ }
+}
