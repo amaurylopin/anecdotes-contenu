@@ -29,7 +29,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-UA = "ProjetAnecdotes/0.1 (contact: amaury@lopin.io)"
+UA = "ProjetAnecdotes/0.1 (contact: https://github.com/amaurylopin/anecdotes-contenu)"
 WIKI_API = "https://fr.wikipedia.org/w/api.php"
 SPARQL = "https://query.wikidata.org/sparql"
 
