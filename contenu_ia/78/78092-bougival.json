@@ -1,0 +1,235 @@
+{
+ "commune": {
+  "titre": "Bougival",
+  "code_insee": "78092",
+  "departement": "78",
+  "population": 9134,
+  "lat": 48.8656,
+  "lon": 2.1403,
+  "url": "https://fr.wikipedia.org/wiki/Bougival"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:30",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2247,
+  "sortie": 2249
+ },
+ "cout_usd": 0.003261,
+ "accroche": "À Bougival, le pont de l'île de la Loge a été inauguré sous le nom pont Abbé-Pierre le 18 mai 2014.",
+ "histoire": {
+  "recit": "Bougival se lit d’abord dans ses hauteurs, où l’on a retrouvé des haches et des couteaux en silex taillés, avant de laisser place à des souvenirs celtiques derrière le nom de Bog ou Boges. On peut ensuite reconstituer l’histoire à partir du VIIe siècle : la commune s’appelait alors Beudechisilovalle, avant que le nom Bougival apparaisse seulement au XIIIe siècle.\n\nAu début du XIIIe siècle, une léproserie, dite Sainte-Madeleine, s’installe à cheval sur les territoires de Bougival et de Charlevanne. Plus tard, le 15 décembre 1793, la maison dite La Maladrerie de La Chaussée est vendue avec jardins et pré.\n\nBougival vit aussi au rythme de l’eau. La machine de Marly y porte un dispositif de pompage pour les jardins du château de Marly et le parc de Versailles. Et, côté mémoire plus légère, Alphonse Daudet y puise une satire : La Pendule de Bougival paraît d’abord le 5 septembre 1871.\n\nEnfin, on traverse la Seine : le pont de l’île de la Loge a changé de nom en 2014, tandis que l’île de la Chaussée accueille aujourd’hui golf et parc.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "La commune se nomme alors Beudechisilovalle, et le nom Bougival n’apparaît qu’au XIIIe siècle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Début du XIIIe siècle",
+    "texte": "Fondation de la léproserie Sainte-Madeleine à cheval sur les territoires de Bougival et de Charlevanne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "15 décembre 1793",
+    "texte": "Vente de la maison dite La Maladrerie de La Chaussée, avec jardins et pré, à Michel Gilles.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "5 septembre 1871",
+    "texte": "Publication initiale de La Pendule de Bougival dans le journal Le Soir.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1672",
+    "texte": "Louis Petit, fils de Louis Petit, contrôleur général des Bâtiments du roi, est associé à la machine de Marly jusqu’à sa mort.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1685",
+    "texte": "Achèvement de l’aqueduc de Louveciennes, et achèvement de l’ensemble des travaux trois ans plus tard.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1825",
+    "texte": "Assemblée en 1825 et installation dans le bâtiment Charles X ; mise en service en 1827.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2014",
+    "texte": "Le pont de l’île de la Loge est renommé pont Abbé-Pierre et inauguré sous ce nom.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Machine de Marly",
+   "histoire": "La machine de Marly est un dispositif de pompage des eaux de la Seine destiné à l’alimentation hydraulique des jardins du château de Marly et du parc de Versailles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 48.87111,
+   "lon": 2.12556,
+   "url": "https://fr.wikipedia.org/wiki/Machine_de_Marly"
+  },
+  {
+   "nom": "Villa Viardot (Bougival)",
+   "histoire": "La villa Viardot est un hôtel particulier de Bougival, situé dans la propriété des Frênes. La propriété comprend aussi un chalet dit datcha de Tourgueniev, transformé en musée.",
+   "anecdotes": [
+    {
+     "texte": "Dans la propriété des Frênes, le chalet dit datcha de Tourgueniev a été transformé en musée.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.8632,
+   "lon": 2.1475,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Viardot_%28Bougival%29"
+  },
+  {
+   "nom": "Musée Ivan-Tourgueniev",
+   "histoire": "Le musée Ivan-Tourgueniev se trouve au 16 rue Yvan Tourgueneff à Bougival.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est accessible uniquement par le parking de la forêt, rue de la Croix au Vents.",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.866462,
+   "lon": 2.147402,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Ivan-Tourgueniev"
+  },
+  {
+   "nom": "Pont de l'île de la Loge",
+   "histoire": "Le pont de l'île de la Loge franchit le bras de la Seine et relie la rive gauche à Bougival et à l’île de la Loge.",
+   "anecdotes": [
+    {
+     "texte": "Le pont a été renommé pont Abbé-Pierre et inauguré sous ce nouveau nom le dimanche 18 mai 2014.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 48.871589,
+   "lon": 2.125357,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_l%27%C3%AEle_de_la_Loge"
+  },
+  {
+   "nom": "Île de la Chaussée",
+   "histoire": "L’île de la Chaussée, aussi appelée île de la Grenouillère ou île de Croissy, est une île de la Seine entre Bougival et Rueil-Malmaison sur la rive gauche, et Croissy-sur-Seine sur la rive droite.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle accueille aujourd’hui le golf de la Grenouillère, un parc municipal et des installations sportives privées et publiques.",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 48.86974,
+   "lon": 2.145152,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_la_Chauss%C3%A9e"
+  },
+  {
+   "nom": "Pont du Maréchal-de-Lattre-de-Tassigny",
+   "histoire": "Le pont du Maréchal-de-Lattre-de-Tassigny, communément appelé pont de Bougival, franchit la Seine entre Croissy-sur-Seine et Bougival, en s’appuyant sur l’île de la Chaussée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les culées de l’ancien pont sont encore visibles un peu en amont du pont actuel.",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 48.868889,
+   "lon": 2.136944,
+   "url": "https://fr.wikipedia.org/wiki/Pont_du_Mar%C3%A9chal-de-Lattre-de-Tassigny"
+  },
+  {
+   "nom": "Passerelle de l'île de la Loge",
+   "histoire": "La passerelle de l’île de la Loge franchissait le bras de la Seine en reliant la rive gauche à Bougival et la pointe de l’île de la Loge.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il n’en reste plus aujourd’hui que les piliers sur les deux rives de la Seine.",
+   "sources": [
+    "S23",
+    "S24"
+   ],
+   "lat": 48.869711,
+   "lon": 2.130314,
+   "url": "https://fr.wikipedia.org/wiki/Passerelle_de_l%27%C3%AEle_de_la_Loge"
+  }
+ ],
+ "sources": [
+  "Bougival est une commune française située dans le département des Yvelines en région Île-de-France. Ses habitants sont appelés les Bougivalais. Cette commune est située à l'est de Saint-Germain-en-Laye et au nord de Versailles, sur la rive gauche de la Seine, à une vingtaine de kilomètres à l'ouest de Paris. D'à peine plus de 20 m d'altitude au niveau des écluses, cette rive s'élève jusqu'à plus de 110 m vers la […]",
+  "La commune de Bougival parait avoir été habitée depuis l'époque préhistorique car on y a retrouvé quelques haches et couteaux en silex taillés, en particulier sur les hauteurs. De l'époque celtique, il ne reste que le souvenir du nom de Bog ou Boges. Il est possible de reconstituer l'histoire de Bougival à partir du VIIe siècle. Elle se nomme alors Beudechisilovalle, le nom Bougival apparaissant seulement au XIIIe […]",
+  "XIIIe siècle : Léproserie Sainte-Madeleine Au début du XIIIe siècle, la léproserie Sainte-Madeleine est fondée, à cheval, sur les territoires de Bougival et de Charlevanne.",
+  "1793 : Le 25 frimaire an II (15 décembre 1793), la maison dite La Maladrerie de La Chaussée est vendue avec 2 jardins et 2 arpents de pré à Michel Gilles, portier à Paris pour la somme de 11 550 francs.",
+  "1871 : Alphonse Daudet a immortalisé Bougival dans une nouvelle satirique, La Pendule de Bougival, d'abord publiée dans le journal Le Soir du 5 septembre 1871, reprise ensuite dans les Contes du lundi (1873).",
+  "Lieu « Machine de Marly » : La machine de Marly à Bougival est un gigantesque dispositif de pompage des eaux de la Seine destiné à l’alimentation hydraulique des jardins du château de Marly et du parc de Versailles.",
+  "Lieu « Machine de Marly », 1672 : Louis Petit, fils de Louis Petit, contrôleur général des Bâtiments du roi jusqu'à sa mort en 1672.",
+  "Lieu « Machine de Marly », 1685 : L'aqueduc de Louveciennes fut achevé en 1685 et l'ensemble des travaux, trois ans plus tard, en 1688.",
+  "Lieu « Machine de Marly », 1825 : Assemblée en 1825 et installée à Bougival dans le bâtiment Charles X (du nom de son inaugurateur), elle fut mise en service en 1827.",
+  "Lieu « Machine de Marly », aujourd'hui : Le stockage continue de fonctionner de nos jours à Montbauron, fournissant une heure de réserve d'eau pour l'alimentation des grandes eaux de Versailles.",
+  "Lieu « Villa Viardot (Bougival) » : La villa Viardot est un hôtel particulier de Bougival de 1830 situé dans la propriété des Frênes, qui comporte par ailleurs un chalet dit datcha de Tourgueniev, transformé en musée en 1983.",
+  "Lieu « Villa Viardot (Bougival) », 1830 : La villa Viardot est un hôtel particulier de Bougival de 1830 situé dans la propriété des Frênes, qui comporte par ailleurs un chalet dit datcha de Tourgueniev, transformé en musée en 1983.",
+  "Lieu « Villa Viardot (Bougival) », 1980 : En 1980, la villa Viardot est inscrite à l'Inventaire supplémentaire des monuments historiques et donc protégée de la démolition.",
+  "Lieu « Musée Ivan-Tourgueniev » : Le musée Ivan-Tourgueniev est situé au 16 rue Yvan Tourgueneff à Bougival, dans les Yvelines.",
+  "Lieu « Musée Ivan-Tourgueniev », 1980 : En 1980, les bâtiments sont inscrits à l'Inventaire supplémentaire des monuments historiques et donc protégés de la démolition.",
+  "Lieu « Musée Ivan-Tourgueniev », aujourd'hui : Actuellement il est accessible uniquement par le parking de la forêt, rue de la Croix au Vents",
+  "Lieu « Pont de l'île de la Loge » : Le pont de l'île de la Loge franchit le bras de la Seine et relie sa rive gauche à Bougival et l'île de la Loge.",
+  "Lieu « Pont de l'île de la Loge », 2014 : Ce pont a été renommé pont Abbé-Pierre et inauguré sous ce nouveau nom le dimanche 18 mai 2014.",
+  "Lieu « Île de la Chaussée » : L’île de la Chaussée, également île de la Grenouillère ou île de Croissy, est une île de la Seine, longue de 2,5 kilomètres environ, située dans les Yvelines entre Bougival et Rueil-Malmaison sur la rive gauche, et Croissy-sur-Seine sur la rive droit",
+  "Lieu « Île de la Chaussée », aujourd'hui : Elle accueille actuellement, dans sa pointe amont, le golf de la Grenouillère, ainsi qu'un parc municipal et des installations sportives privées et publiques.",
+  "Lieu « Pont du Maréchal-de-Lattre-de-Tassigny » : Le pont du Maréchal-de-Lattre-de-Tassigny, communément appelé pont de Bougival, franchit la Seine sur une longueur de trois cent quarante mètres de Croissy-sur-Seine à Bougival en s'appuyant sur l'île de la Chaussée, à laquelle il donne également acc",
+  "Lieu « Pont du Maréchal-de-Lattre-de-Tassigny », aujourd'hui : Les culées de l'ancien pont sont encore visibles un peu en amont du pont actuel.",
+  "Lieu « Passerelle de l'île de la Loge » : La passerelle de l'île de la Loge qui franchissait le bras de la Seine en reliant sa rive gauche à Bougival et la pointe de l'île de la Loge a été démontée.",
+  "Lieu « Passerelle de l'île de la Loge », aujourd'hui : Il n'en reste plus aujourd'hui, que les piliers sur les deux rives de la Seine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 2
+ }
+}

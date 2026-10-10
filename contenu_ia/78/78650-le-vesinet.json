@@ -1,0 +1,287 @@
+{
+ "commune": {
+  "titre": "Le Vésinet",
+  "code_insee": "78650",
+  "departement": "78",
+  "population": 15554,
+  "lat": 48.894722,
+  "lon": 2.133056,
+  "url": "https://fr.wikipedia.org/wiki/Le_V%C3%A9sinet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:25:07",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3370,
+  "sortie": 1820
+ },
+ "cout_usd": 0.002949,
+ "accroche": "Le 31 mai 1875, Le Vésinet est érigée en commune autonome, née d’un des premiers lotissements de la région parisienne à la fin du XIXe siècle.",
+ "histoire": {
+  "recit": "Le Vésinet commence comme une terre de forêt, longtemps domaine de chasse : une charte du roi Childebert III, pour l’abbaye de Fontenelle devenue Saint-Wandrille, y fait entrer le Pecq et son annexe. Bien plus tard, le rail arrive et change le rythme du lieu : en 1837, la ligne de Paris-Saint-Lazare au Pecq est inaugurée, avec une première gare sur les bords de la Seine. Puis, en 1855, Napoléon III décide d’y bâtir un asile pour des ouvriers convalescents ou mutilés, avant qu’une société ne se lance, en 1856, dans l’urbanisation de la forêt. L’asile impérial ouvre en 1859. À mesure que les tracés évoluent, la gare se déplace en 1862.\n\nAutour des loisirs, un champ de courses s’installe en 1866 autour du Grand Lac, aussi appelé lac des Ibis. En 1875, le Vésinet devient commune autonome et s’organise en ville résidentielle. Le XXe siècle n’épargne pas le quartier : la commune subit des bombardements en 1940 et ailleurs. Pourtant, certains lieux continuent de se raconter, comme le palais Rose, où la présence de personnalités est fixée par des traces visibles depuis la rue.",
+  "chronologie": [
+   {
+    "date": "704",
+    "texte": "Une charte du roi Childebert III octroie la terre du Pecq et son annexe Le Vésinet aux moines de l’abbaye de Fontenelle devenue Saint-Wandrille.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Une partie de l’ancienne forêt d’Yveline est acquise par le roi François Ier et reste longtemps un domaine de chasse de la couronne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1837",
+    "texte": "La ligne de chemin de fer de Paris-Saint-Lazare au Pecq est inaugurée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1855",
+    "texte": "Napoléon III décrète qu’il sera bâti au sud du bois du Vésinet un asile pour les ouvriers convalescents ou mutilés.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2 octobre 1855",
+    "texte": "Le contrat provisoire d’échange est signé entre Achille Fould et Henri Place.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "24 mai 1856",
+    "texte": "La société Pallu et Cie est fondée pour urbaniser la forêt du Vésinet et fonder une ville nouvelle.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "29 septembre 1859",
+    "texte": "L’asile impérial du Vésinet est inauguré.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "La ligne est modifiée : la première gare est abandonnée et une deuxième gare ouvre 1 km en amont.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Un champ de courses s’installe autour de l’actuel Grand Lac, appelé aussi lac des Ibis.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "31 mai 1875",
+    "texte": "Le Vésinet est érigée en commune autonome.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "La ville est bombardée notamment le 3 juin 1940 par les Allemands, avec au moins une victime.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare du Vésinet - Le Pecq",
+   "histoire": "La première gare associée à la ligne arrive au Pecq en 1837, puis le tracé est modifié : la gare d’origine est abandonnée et une nouvelle ouvre en 1862, 1 km en amont. Aujourd’hui, la gare est une gare du RER desservie par des trains de la ligne A.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S8",
+    "S19"
+   ],
+   "lat": 48.898209,
+   "lon": 2.122083,
+   "url": "https://fr.wikipedia.org/wiki/Gare_du_V%C3%A9sinet_-_Le_Pecq"
+  },
+  {
+   "nom": "Palais Rose du Vésinet",
+   "histoire": "Le palais Rose se trouve au 12, rue Diderot. Après la faillite de l’armateur, il est vendu aux enchères en 1906, puis une vente est signée en 1908, avant d’accueillir, en 1940, un séjour lié au commandement de la 4e division cuirassée.",
+   "anecdotes": [
+    {
+     "texte": "Au début de la bataille de France, le général de Gaulle séjourne du 12 au 15 mai 1940 à l’Ermitage du palais Rose ; une plaque commémorative est visible depuis la rue Diderot.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    },
+    {
+     "texte": "En 1908, le poète Robert de Montesquiou s’écrie en découvrant la maison : « Si cette maison… n’est pas à moi demain, je meurs ! », puis la vente est signée le 29 octobre 1908.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "En 1906, après la faillite de l’armateur, le palais Rose est vendu aux enchères le 19 juillet à Ratanji Tata.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le palais Rose a conservé des traces de goût pour la fête.",
+   "sources": [
+    "S24",
+    "S20"
+   ],
+   "lat": 48.8972444,
+   "lon": 2.1266889,
+   "url": "https://fr.wikipedia.org/wiki/Palais_Rose_du_V%C3%A9sinet"
+  },
+  {
+   "nom": "Villa Berthe",
+   "histoire": "Œuvre d’Hector Guimard, la villa Berthe se trouve au 72 route de Montesson et fait partie des premières réalisations architecturales Art nouveau en France. Elle est inscrite aux Monuments historiques depuis 1979 et des règles encadrent désormais la visibilité de sa façade depuis la rue.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des principes stricts encadrent l’élévation du mur de clôture pour préserver la visibilité de la façade depuis la rue.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 48.89932,
+   "lon": 2.11867,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Berthe"
+  },
+  {
+   "nom": "Temple protestant du Vésinet",
+   "histoire": "Le temple protestant du Vésinet se situe 1 route du Grand Pont. Inauguré en 1880, il reçoit ensuite des vitraux et un orgue, puis il est agrandi en 1967 avec déplacement du fond et construction d’ailes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 48.887693950138,
+   "lon": 2.1381403428125,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_du_V%C3%A9sinet"
+  },
+  {
+   "nom": "Église Sainte-Pauline du Vésinet",
+   "histoire": "L’église Sainte-Pauline, bâtiment néo-gothique, est conçue par Alphonse Debeauve-Duplan. Une propriété est offerte en 1911 à l’évêché de Versailles. La verrière dans l’axe du chœur est remplacée en 1947, puis le chœur est transformé en 1971.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 48.897361,
+   "lon": 2.116707,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Pauline_du_V%C3%A9sinet"
+  },
+  {
+   "nom": "Gare du Vésinet-Centre",
+   "histoire": "La gare du Vésinet-Centre est mise en service le 26 août 1837, à l’occasion de la première ligne ferroviaire d’Île-de-France de Paris à Saint-Germain-en-Laye, initialement limitée à Paris jusqu’au Pecq. Elle se place ensuite dans le réseau ferroviaire desservant la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39"
+   ],
+   "lat": 48.890148,
+   "lon": 2.13447,
+   "url": "https://fr.wikipedia.org/wiki/Gare_du_V%C3%A9sinet-Centre"
+  },
+  {
+   "nom": "Île des Ibis",
+   "histoire": "L’Île des Ibis se trouve dans le Grand Lac des Ibis, un plan d’eau artificiel au Vésinet. Elle abrite un ensemble lié à la restauration et à la promenade, avec des bâtiments évoqués dans l’histoire locale du site.",
+   "anecdotes": [
+    {
+     "texte": "L’Île des Ibis a accueilli, au début du XXe siècle, le restaurant gastronomique « Le Pavillon des Ibis », qui provient d’un café-restaurant plus ancien, « Casino des Ibis », dont un des bâtiments a été démoli.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle propose un parc aménagé de promenade.",
+   "sources": [
+    "S41",
+    "S40"
+   ],
+   "lat": 48.898342,
+   "lon": 2.1270993,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_des_Ibis"
+  }
+ ],
+ "sources": [
+  "Le Vésinet est une commune française située à l'est du département des Yvelines en région Île-de-France. Officiellement érigée en commune autonome le 31 mai 1875, elle présente la particularité d'être née d'un des premiers lotissements créés en région parisienne à la fin du XIXe siècle. C'est une commune résidentielle de l'ouest parisien s'ordonnant autour de parcs, lacs et rivières artificiels, desservie par des […]",
+  "Dans une charte de 704, le roi Childebert III octroie la terre du Pecq et son annexe Le Vésinet aux moines de l'abbaye de Fontenelle devenue Saint-Wandrille au XIIe siècle. Le territoire actuel du Vésinet est alors recouvert par une forêt, une partie de l'ancienne forêt d'Yveline, acquise par le roi François Ier au XVIe siècle et restant longtemps un domaine de chasse de la couronne. Du Moyen Âge au règne de Louis […]",
+  "1837 : La ligne de train et l'ancienne gare En 1837, la nouvelle ligne de chemin de fer de Paris-Saint-Lazare au Pecq est inaugurée.",
+  "1855 : En 1855, Napoléon III décrète qu'il sera bâti au sud du bois du Vésinet un asile pour les ouvriers convalescents ou mutilés dans le cours de leurs travaux.",
+  "1855 : Le contrat provisoire d’échange est signé le 2 octobre 1855 entre Achille Fould, ministre des Finances, et Henri Place.",
+  "1856 : Le 24 mai 1856 est fondée la société Pallu et Cie, dont l'objectif est d'urbaniser la forêt du Vésinet afin de fonder une ville nouvelle.",
+  "1859 : Le 29 septembre 1859, l'asile impérial du Vésinet est inauguré.",
+  "1862 : Le tracé de la ligne étant modifié pour se raccorder avec le viaduc, cette première gare est abandonnée et, en 1862, une deuxième gare est ouverte, 1 km en amont.",
+  "1866 : En 1866, est installé un champ de courses autour de l'actuel Grand Lac, appelé aussi lac des Ibis (appelé à l'époque « lac du Champ de Courses »).",
+  "1875 : Le 31 mai 1875, le Vésinet est érigée en commune autonome.",
+  "1917 : En 1917, il installe au Vésinet son atelier et son magasin de construction et de réparation de cycles dans l'immeuble qu'il fait construire au 15 bis boulevard Carnot, bâtiment qui appartient maintenant à la Ville.",
+  "1940 : La ville est bombardée notamment trois fois : par les Allemands le 3 juin 1940, au moins une victime ; par les Britanniques le 3 mars 1942, deux ou trois morts, quinze blessés ; par les Américains le 1er juin 1944, trois ou quatre morts.",
+  "1955 : En 1955, un nouveau bâtiment voyageurs est construit rue Watteau 50 mètres plus loin.",
+  "1963 : Le train ne pouvant franchir le dénivelé jusqu'à Saint-Germain-en-Laye, la gare se situe sur la commune du Pecq, sur la rive droite de la Seine, au pied du pont dit « pont du Pecq », reconstruit en 1963 et baptisé « pont Georges Pompidou » en 1996 .",
+  "Lieu « Gare du Vésinet - Le Pecq » : La gare du Vésinet - Le Pecq (ancien nom Le Pecq) est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Saint-Germain-en-Laye, située sur le territoire de la commune du Vésinet, à proximité du Pecq, dans le département des Yvelines e",
+  "Lieu « Gare du Vésinet - Le Pecq », 1837 : La première est édifiée par la Compagnie du chemin de fer de Paris à Saint-Germain en 1837 sur le bord de la Seine au Pecq.",
+  "Lieu « Gare du Vésinet - Le Pecq », 1837 : L'histoire de la gare se confond avec celle de la première ligne ferroviaire d'Île-de-France de Paris à Saint-Germain-en-Laye qui, dans un premier temps, se limitera à une ligne de Paris au Pecq inaugurée le 24 août 1837 par la Compagnie du chemin de fer de Paris à Saint-Germain.",
+  "Lieu « Gare du Vésinet - Le Pecq », 1837 : L'ouverture de la ligne au public a lieu le 26 août 1837 et, à cette occasion, est mise en service la première gare du Pecq et son bâtiment voyageurs, œuvre de l'architecte Alfred Armand.",
+  "Lieu « Gare du Vésinet - Le Pecq », aujourd'hui : C'est aujourd'hui une gare de la Régie autonome des transports parisiens (RATP), desservie par des trains du RER qui effectuent des missions sur la ligne A. Depuis cette gare, le temps de trajet est de 25 minutes environ vers ou depuis la gare de Châtelet - Les Halles située au centre de Paris.",
+  "Lieu « Palais Rose du Vésinet » : Le palais Rose est édifice situé au no 12, rue Diderot au Vésinet dans le département français des Yvelines, en région Île-de-France.",
+  "Lieu « Palais Rose du Vésinet », 1906 : En effet, à la suite de la faillite de l’armateur, le palais est vendu aux enchères le 19 juillet 1906 à l'homme d’affaires parsi, Ratanji Tata (en).",
+  "Lieu « Palais Rose du Vésinet », 1908 : En effet, en 1908, le poète Robert de Montesquiou déclare, en découvrant l'endroit : « Si cette maison, qui n’est pas à vendre et que d’ailleurs mes moyens modestes ne semblent guère me mettre en état d’acquérir, si cette maison improbable, impossible, et pourtant réelle, n’est pas à moi demain, je meurs ! » La vente est signée le 29 octobre 1908.",
+  "Lieu « Palais Rose du Vésinet », 1940 : Au début de la bataille de France, le général de Gaulle, venant de prendre le commandement de la 4e division cuirassée, acceptant l’hospitalité de monsieur Scrive, séjourna du 12 au 15 mai 1940 à l’Ermitage du palais Rose, comme l´atteste la plaque commémorative scellée à même le bâtiment et visible depuis la rue Diderot.",
+  "Lieu « Palais Rose du Vésinet », aujourd'hui : On retrouve également des traces de son goût pour la fête.",
+  "Lieu « Villa Berthe » : La villa Berthe, située au Vésinet, 72 route de Montesson, dans le département des Yvelines, est une œuvre d'Hector Guimard et fait partie des premières réalisations architecturales Art nouveau en France.",
+  "Lieu « Villa Berthe », 1892 : Guimard ne s’était jusqu’alors confronté qu’à de rares projets de villas (villa Toucy en 1892 à Billancourt, aujourd’hui détruite ; maison de campagne pour Charles Jassedé en 1893 sur l’actuelle commune d’Issy-les-Moulineaux).",
+  "Lieu « Villa Berthe », 1899 : Cet édifice contribue à sa notoriété : le Castel Béranger obtient en 1899 l’une des médailles d’or du concours de façades de la ville de Paris.",
+  "Lieu « Villa Berthe », 1979 : La construction est inscrite aux Monuments historiques depuis 1979, notamment en raison des façades, des toitures, des ferronneries du perron et de la grille de clôture (qui a été déplacé), de l'escalier intérieur avec sa rampe en bois ainsi que des plafonds décorés.",
+  "Lieu « Villa Berthe », aujourd'hui : Un article stipule que la façade doit rester visible depuis la rue : des principes stricts encadrent l’élévation du mur de clôture.",
+  "Lieu « Temple protestant du Vésinet » : Le temple protestant du Vésinet est un édifice religieux situé 1 route du Grand Pont dans la commune de Le Vésinet, dans les Yvelines.",
+  "Lieu « Temple protestant du Vésinet », 1880 : Il est inauguré le 20 juin 1880 par les pasteurs Ernest Dhombres et Napoléon Peyrat, ministre au temple protestant de Saint-Germain-en-Laye.",
+  "Lieu « Temple protestant du Vésinet », 1912 : En 1912 sont installés des vitraux ainsi qu'un orgue du facteur Cavaillé-Coll.",
+  "Lieu « Temple protestant du Vésinet », 1967 : Le temple est agrandi en 1967, avec déplacement du fond, construction des ailes et d'un bâtiment supplémentaire.",
+  "Lieu « Église Sainte-Pauline du Vésinet » : L'église Sainte-Pauline est une église catholique située au Vésinet, en France.",
+  "Lieu « Église Sainte-Pauline du Vésinet », 1871 : C'est un bâtiment de style néo-gothique conçu par l'architecte Alphonse Debeauve-Duplan (1871-1955).",
+  "Lieu « Église Sainte-Pauline du Vésinet », 1911 : Elle fut construite sur une propriété offerte en 1911 à l'évêché de Versailles par Adèle Chardron, en souvenir de son mari Joseph Armand Chardon, secrétaire général de plusieurs sociétés, bienfaiteur de la commune, décédé en 1905.",
+  "Lieu « Église Sainte-Pauline du Vésinet », 1947 : La verrière dans l'axe du chœur fut remplacée en 1947 En 1971, le chœur fut transformé par l'architecte Dominique Denis.",
+  "Lieu « Gare du Vésinet-Centre » : La gare du Vésinet-Centre est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Saint-Germain-en-Laye, située dans la commune du Vésinet (département des Yvelines).",
+  "Lieu « Gare du Vésinet-Centre », 1837 : La gare est mise en service le 26 août 1837 à l'occasion de la création de la première ligne ferroviaire d'Île-de-France de Paris à Saint-Germain-en-Laye qui, dans un premier temps, se limitera à une ligne de Paris au Pecq inaugurée deux jours avant.",
+  "Lieu « Île des Ibis » : L'île des Ibis est une île de France située dans le Grand Lac des Ibis un plan d'eau artificiel au Vésinet.",
+  "Lieu « Île des Ibis », XXe siècle : Elle abrite le restaurant gastronomique, Le Pavillon des Ibis, du début du XXe siècle (autrefois un café-restaurant, le « Casino des Ibis », comportant deux bâtiments, œuvre de l'architecte Marcel Oudin), dont l'un a été démoli, le Vésinet Ibis Tennis Club (VITC) et un parc aménagé de promenade."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 4
+ }
+}

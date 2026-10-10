@@ -1,0 +1,266 @@
+{
+ "commune": {
+  "titre": "Guyancourt",
+  "code_insee": "78297",
+  "departement": "78",
+  "population": 29778,
+  "lat": 48.77138889,
+  "lon": 2.07388889,
+  "url": "https://fr.wikipedia.org/wiki/Guyancourt"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:51:30",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3180,
+  "sortie": 2213
+ },
+ "cout_usd": 0.003402,
+ "accroche": "À Guyancourt, le site est déjà habité au Néolithique, avec des vestiges retrouvés à Bouviers, Troux et Villaroy.",
+ "histoire": {
+  "recit": "Guyancourt, dans les Yvelines, est d’abord un lieu fréquenté très tôt : des vestiges néolithiques y ont été retrouvés à Bouviers, Troux et Villaroy, et une occupation se poursuit à l’époque romaine. Plus tard, le village prend forme autour de l’idée d’une “cour, terrain, culture de Guy”, liée à Guy de Chevreuse.\n\nAu XIXe siècle, la batterie de Bouviers sort de terre : construite en 1879, elle devient une véritable usine en 1891, et l’activité se prolonge jusqu’en 1960. Le site change alors de mains : occupée par les militaires jusqu’en 1932, la batterie est ensuite louée à Hispano Suiza, qui y fabrique des munitions et réalise des essais. En 1944, dans le Bois Robert, une stèle rappelle la mémoire de Jean Lanot et de Jean Roger Allviger, fusillés le 23 août.\n\nAprès des fermetures et transformations, l’aérodrome ferme en 1989, la communauté d’agglomération se met en place en 2004, et la batterie de Bouviers est préservée en 2006 quand elle devient un café de musiques.",
+  "chronologie": [
+   {
+    "date": "1065",
+    "texte": "Guy de Chevreuse bâtit le village Guidonis Curtis, “la cour, le terrain, la culture de Guy”.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1879",
+    "texte": "La batterie de Bouviers est construite.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "La batterie devient une usine, construite en 1891 et en activité jusqu’en 1960.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1932",
+    "texte": "Les militaires occupent le fort jusqu’en 1932.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Dans le Bois Robert, une stèle est érigée en mémoire de Jean Lanot et de Jean Roger Allviger fusillés le 23 août 1944.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "L’aérodrome de Guyancourt ferme le 1er octobre 1989 pour des raisons de sécurité.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "Le syndicat d’agglomération se transforme en communauté d’agglomération le 1er janvier 2004.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2006",
+    "texte": "La batterie de Bouviers est transformée en Café Musiques, préservée et ouverte au public.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Batterie de Bouviers",
+   "histoire": "Ancienne batterie militaire à Guyancourt, la batterie de Bouviers est construite en 1879 et devient une usine en 1891. Occupée par les militaires jusqu’en 1932, elle est ensuite louée à la société Hispano Suiza à partir de 1933. Elle est achetée au ministère des Armées en 1999 puis transformée en équipement culturel musical en 2006.",
+   "anecdotes": [
+    {
+     "texte": "Transformée en 2006 en Café Musiques, la batterie change de fonction tout en restant ouverte au public.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, la batterie appartient au quartier des Saules.",
+   "sources": [
+    "S12",
+    "S5",
+    "S6",
+    "S7",
+    "S13",
+    "S14",
+    "S11",
+    "S16"
+   ],
+   "lat": 48.783584,
+   "lon": 2.059764,
+   "url": "https://fr.wikipedia.org/wiki/Batterie_de_Bouviers"
+  },
+  {
+   "nom": "Église Saint-Victor de Guyancourt",
+   "histoire": "Église gothique construite dans le centre-ville de Guyancourt, avec des éléments dont certains seraient antérieurs au XIIIe siècle, notamment des sarcophages mérovingiens découverts en 1998.",
+   "anecdotes": [
+    {
+     "texte": "En 1506, une inscription en lettres gothiques mentionne : « Ai été nommée Louise par les habitants de Guyencourt ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S21",
+    "S19"
+   ],
+   "lat": 48.77139,
+   "lon": 2.07028,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Victor_de_Guyancourt"
+  },
+  {
+   "nom": "Parc des Sources de la Bièvre",
+   "histoire": "Parc situé à Guyancourt dans les Yvelines, aménagé avec des jardins urbains bordés par des bâtiments réalisés par des architectes, puis complété par un aménagement autour de l’eau orienté en 1999.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bois des Roussières, sur ses berges, est géré par l’Office national des forêts (ONF).",
+   "sources": [
+    "S22",
+    "S23",
+    "S25",
+    "S26",
+    "S24"
+   ],
+   "lat": 48.779242,
+   "lon": 2.048564,
+   "url": "https://fr.wikipedia.org/wiki/Parc_des_Sources_de_la_Bi%C3%A8vre"
+  },
+  {
+   "nom": "Étangs de La Minière",
+   "histoire": "Étangs situés dans la vallée de la Bièvre à Guyancourt. Le secteur est lié à l’évolution du paysage : le site est abandonné vers 1750, et la batterie du Ravin-de-Bouviers est construite sur le plateau de Satory au-dessus du ravin de Bouviers en 1879.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La vallée de la Bièvre est protégée par un site inscrit depuis le 4 mai 1972 et un site classé depuis le 7 juillet 2000.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.7804,
+   "lon": 2.091,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tangs_de_La_Mini%C3%A8re"
+  },
+  {
+   "nom": "Challenger (bâtiment)",
+   "histoire": "Bâtiment abritant le siège social de la société Bouygues Construction, construit en 1988 à Guyancourt. Il fait l’objet à partir de 2008 d’une rénovation visant notamment à réduire la consommation énergétique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.785294,
+   "lon": 2.072459,
+   "url": "https://fr.wikipedia.org/wiki/Challenger_%28b%C3%A2timent%29"
+  },
+  {
+   "nom": "Technocentre Renault",
+   "histoire": "Centre de recherche de Renault, implanté sur une partie des anciennes pistes de l’ancien aérodrome Caudron-Renault fermé en 1989. Le site est inauguré en 1998.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.7611,
+   "lon": 2.08194,
+   "url": "https://fr.wikipedia.org/wiki/Technocentre_Renault"
+  },
+  {
+   "nom": "Lycée d'hôtellerie et de tourisme de Guyancourt",
+   "histoire": "Lycée implanté place François Rabelais à Guyancourt. Il ouvre en 1981, avec des apprentis à partir de 1993, puis ses bâtiments font l’objet d’une restructuration à partir de 2009.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 48.784603,
+   "lon": 2.049719,
+   "url": "https://fr.wikipedia.org/wiki/Lyc%C3%A9e_d%27h%C3%B4tellerie_et_de_tourisme_de_Guyancourt"
+  }
+ ],
+ "sources": [
+  "Guyancourt (prononcé [gɥi.jɑ̃.kuʁ]) est une commune française située dans le département des Yvelines en région Île-de-France à 20 km au sud-ouest de Paris. Elle fait partie de la communauté d'agglomération de Saint-Quentin-en-Yvelines. Le site de la commune était déjà habité au Néolithique selon les vestiges tels que flèches, grattoirs de silex, haches polies, etc., retrouvés à Bouviers, Troux et Villaroy. Une urne […]",
+  "Le site de la ville était déjà habité au Néolithique. Ces premiers habitants ont laissé des centaines de vestiges tels que flèches, grattoirs de silex, haches polies… qui ont été retrouvés à Bouviers, Troux et Villaroy ». Certaines pièces sont conservées au musée d’Archéologie nationale installé dans le château de Saint-Germain-en-Laye. L’occupation persistait à l’époque romaine. Monsieur Leclère, agriculteur, le […]",
+  "1065 : Guy de Chevreuse a bâti en l’an 1065 le village Guidonis Curtis, c’est-à-dire la cour, le terrain, la culture de Guy.",
+  "1255 : L'abbaye royale de Longchamp fut fondée en 1255 par Isabelle de France, sœur de Saint-Louis, dans la paroisse d'Auteuil.",
+  "1879 : C’est dans ce cadre que la batterie de Bouviers est construite en 1879.",
+  "1891 : Il s’agit d’une véritable usine, construite en 1891 et qui fonctionnera jusqu’en 1960.",
+  "1932 : Occupée par les militaires jusqu’en 1932, le fort fut loué à partir de 1933, à la société Hispano Suiza qui y fabriqua des munitions et y procédait à des essais de moteurs et de canons.",
+  "1944 : Dans le Bois Robert, une stèle est érigée en mémoire de Jean Lanot et de Jean Roger Allviger fusillés le 23 août 1944 par les nazis.",
+  "1989 : L’aérodrome de Guyancourt sera fermé le 1er octobre 1989 pour des raisons de sécurité.",
+  "2004 : Par la suite le syndicat d’agglomération de la ville nouvelle de Saint-Quentin-en-Yvelines s’est transformé en communauté d'agglomération le 1er janvier 2004.",
+  "2006 : La batterie a été transformée en 2006 en Café Musiques et ainsi préservée et ouverte au public.",
+  "Lieu « Batterie de Bouviers » : La batterie de Bouviers est une ancienne batterie militaire située sur la commune de Guyancourt, dans les Yvelines.",
+  "Lieu « Batterie de Bouviers », 1933 : À partir de 1933, elle est louée à la société Hispano-Suiza qui l'utilise comme usine et construit à sa périphérie des bâtiments industriels.",
+  "Lieu « Batterie de Bouviers », 1999 : Après avoir été achetée au ministère des Armées en 1999, la batterie est transformée en 2006 en équipement culturel musical.",
+  "Lieu « Batterie de Bouviers », 2009 : Sur les cinq hectares de terrain situés autour du site, des immeubles de bureaux sont construits en 2009 et une école municipale de musique ouvre ses portes au public en septembre 2010.",
+  "Lieu « Batterie de Bouviers », aujourd'hui : Aujourd'hui, du fait de la création dans les années 1980 d'un nouveau quartier plus proche de la batterie, celle-ci appartient au quartier des Saules.",
+  "Lieu « Église Saint-Victor de Guyancourt » : L’église Saint-Victor est une église gothique construite dans le centre-ville de Guyancourt.",
+  "Lieu « Église Saint-Victor de Guyancourt », 1065 : Guy de Chevreuse aurait bâti en 1065 le village Guidonis Curtis, c'est-à-dire la cour, le terrain, la culture de Guy.",
+  "Lieu « Église Saint-Victor de Guyancourt », 1506 : La première est installée en 1506, une inscription en lettres gothiques y était gravée : « Ai été nommée Louise par les habitants de Guyencourt », un nom sans doute porté en l’honneur du roi Louis XII régnant alors sur la France.",
+  "Lieu « Église Saint-Victor de Guyancourt », 1854 : Un décret du 14 juin 1854, signé par Napoléon III, autorisa la commune à déplacer le cimetière rue de la Rigole.",
+  "Lieu « Église Saint-Victor de Guyancourt », aujourd'hui : Certains éléments de l'église seraient antérieurs au XIIIe siècle ainsi les sarcophages mérovingiens, découverts en 1998, laissent penser à la présence sur cet emplacement d'un lieu cultuel dès le VIe siècle.",
+  "Lieu « Parc des Sources de la Bièvre » : Le parc des Sources de la Bièvre est situé à Guyancourt dans les Yvelines.",
+  "Lieu « Parc des Sources de la Bièvre », 1991 : Ces jardins urbains sont bordés par plusieurs bâtiments réalisés par des architectes de renom : Massimiliano Fuksas construit, en 1991, « Edison », la Maison de la communication, Dominique Perrault construit en 1991 des logements, cet architecte a acquis très jeune une renommée internationale en remportant le concours de la Bibliothèque François-Mitterrand de Paris en […]",
+  "Lieu « Parc des Sources de la Bièvre », 1993 : Antoine Grumbach réalise en 1993 puis en 2002, les bâtiments universitaires, Jacques Ripault et Denise Duhart réalisent en 2005 la bibliothèque universitaire de Guyancourt.",
+  "Lieu « Parc des Sources de la Bièvre », 1999 : Dani Karavan s'est alors orienté en 1999 vers un aménagement plus traditionnel organisé autour de l'eau reliant La Perspective de Marta Pan et les bâtiments universitaires (les jardins de l'Université) aux espaces naturels précurseurs de la vallée de la Bièvre.",
+  "Lieu « Parc des Sources de la Bièvre », aujourd'hui : Le bois des Roussières, situé sur ses berges, est actuellement géré par l’Office national des forêts (ONF).",
+  "Lieu « Étangs de La Minière » : Les étangs de La Minière sont situés dans la vallée de la Bièvre à Guyancourt dans les Yvelines.",
+  "Lieu « Étangs de La Minière », 1750 : Ce dernier ne sera abandonné que vers 1750.",
+  "Lieu « Étangs de La Minière », 1879 : En 1879, la batterie du Ravin-de-Bouviers a été construite sur le plateau de Satory au-dessus du ravin de Bouviers à la limite du territoire de Guyancourt.",
+  "Lieu « Étangs de La Minière », 1972 : Aujourd'hui, la vallée de la Bièvre est protégée par un site inscrit depuis le 4 mai 1972 et un site classé depuis le 7 juillet 2000 grâce à un décret signé par la ministre Dominique Voynet.",
+  "Lieu « Étangs de La Minière », aujourd'hui : Enfin Germain Braque, seigneur de Guyancourt en 1443 a laissé son nom au troisième étang.",
+  "Lieu « Challenger (bâtiment) » : Le site Challenger, abritant le siège social de la société Bouygues Construction, a été construit en 1988 à Guyancourt dans les Yvelines, France.",
+  "Lieu « Challenger (bâtiment) », 1988 : Le site Challenger, abritant le siège social de la société Bouygues Construction, a été construit en 1988 à Guyancourt dans les Yvelines, France.",
+  "Lieu « Challenger (bâtiment) », 2008 : À partir de 2008, une rénovation du site est entreprise, afin d'une part de diviser la consommation énergétique du bâtiment par 10, et d'autre part de présenter une vitrine des technologies liées au développement durable pour les partenaires et clients de la société.",
+  "Lieu « Challenger (bâtiment) », 2013 : En janvier 2013, le premier bâtiment de Challenger réceptionné en février 2012, vient de recevoir la triple certification LEED (niveau \"platine\"), BREEAM (\"exceptionnel\") et HQE (\"exceptionnel\").",
+  "Lieu « Technocentre Renault » : Le Technocentre Renault est un centre de recherche où sont conçues les futures voitures du groupe Renault.",
+  "Lieu « Technocentre Renault », 1989 : Le Technocentre Renault est implanté sur une partie des anciennes pistes de l'ancien aérodrome « Caudron-Renault » qui a été fermé en 1989, permettant ainsi l'implantation du Technocentre.",
+  "Lieu « Technocentre Renault », 1998 : Le site, inauguré en 1998, se trouve à Guyancourt dans les Yvelines à environ 30 km à l'ouest de Paris, et emploie 9 438 personnes en 2014 – y compris les prestataires, sous-traitants et filiales de Renault.",
+  "Lieu « Technocentre Renault », 2024 : En 2024, le bâtiment Le Gradient est prévu d'être détruit après la diminution des effectifs des employés sur le site et l'échec de la mise en vente du bâtiment",
+  "Lieu « Lycée d'hôtellerie et de tourisme de Guyancourt » : Le lycée d'hôtellerie et de tourisme de Guyancourt aussi appelé école hôtelière de Saint-Quentin-en-Yvelines et par abréviation EHTSQY est implanté place François Rabelais à Guyancourt dans les Yvelines.",
+  "Lieu « Lycée d'hôtellerie et de tourisme de Guyancourt », 1981 : Ouvert en 1981, le lycée des métiers de l’hôtellerie-restauration et du tourisme a accueilli des apprentis à partir de 1993.",
+  "Lieu « Lycée d'hôtellerie et de tourisme de Guyancourt », 2009 : Les bâtiments du lycée vont faire l'objet à partir de l'année 2009 d'une restructuration par une maîtrise d'œuvre constituée autour du cabinet Architecture Anne Démians."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 7,
+  "nb_anecdotes": 2
+ }
+}

@@ -1,0 +1,258 @@
+{
+ "commune": {
+  "titre": "Meulan-en-Yvelines",
+  "code_insee": "78401",
+  "departement": "78",
+  "population": 8950,
+  "lat": 49.004962,
+  "lon": 1.909961,
+  "url": "https://fr.wikipedia.org/wiki/Meulan-en-Yvelines"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:07:48",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2403,
+  "sortie": 1678
+ },
+ "cout_usd": 0.002578,
+ "accroche": "En 1364, Meulan est reprise lors du siège du 11 avril par Bertrand Du Guesclin, pour le compte du roi Charles V, quatre jours après Mantes-la-Jolie.",
+ "histoire": {
+  "recit": "Meulan-en-Yvelines, au confluent de l’Aubette et sur la rive droite de la Seine, est née comme port fluvial et comptoir commercial gaulois, entre Véliocasses et Carnutes. Le lieu s’ancre aussi dans des temps plus anciens, avec une zone évoquée comme ancien oppidum, entre le lieu-dit Thun et la berge, appelée la Rive.\n\nLa ville change de mains et se retrouve au cœur des conflits. Elle devient le siège du comté de Meulan ; puis elle est pillée en 878 par des Vikings conduits par Rollon. Plus tard, en 1364, elle est assiégée et reprise lors du siège de Meulan.\n\nÀ partir de l’époque des grands ouvrages, le passage sur la Seine structure le paysage : du grand pont aux Perches, jusqu’au pont Rhin et Danube. La gare de Thun-le-Paradis s’inscrit aussi dans le tissu des liaisons, ouverte au service au 1er juin 1892.\n\nMême la voile a sa trace : en 1900, les régates se tiennent à Meulan pour les bateaux jusqu’à 10 tonneaux, tandis que les catégories plus lourdes vont au Havre.",
+  "chronologie": [
+   {
+    "date": "878",
+    "texte": "La ville devient le siège du comté de Meulan et est pillée en 878 par les Vikings conduits par Rollon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "11 avril 1364",
+    "texte": "Lors du siège de Meulan, la ville est reprise le 11 avril 1364 par Bertrand Du Guesclin, pour le compte du roi Charles V.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1168",
+    "texte": "Le grand pont de Meulan, sur fondations en maçonnerie, est construit vers 1168.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1240",
+    "texte": "Le pont à douze arches inégales est construit sous le règne de Philippe-Auguste en 1240.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "21 mai 1944",
+    "texte": "Le grand pont est détruit le 21 mai 1944 par les bombardements alliés.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1er juin 1892",
+    "texte": "Ouverture de la ligne où se situe la gare de Thun-le-Paradis, au 1er juin 1892.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "1764",
+    "texte": "Un clocher démoli en 1764 explique l’augmentation du nombre de colonnettes sur l’église Saint-Nicolas.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2 janvier à fin mars 1765",
+    "texte": "Deux premières voûtes de la nef centrale reconstruites entre le 2 janvier et fin mars 1765 en réemployant des claveaux d’origine.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Nicolas de Meulan",
+   "histoire": "Église catholique paroissiale de Meulan-en-Yvelines, elle a connu une reconstruction de voûtes au milieu du XVIIIe siècle, puis a été marquée par les vibrations liées au passage de convois lourds après l’ouverture de la ligne en avril 1892.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y trouve notamment des chapiteaux gothiques et sept voûtes d’ogives à grosses nervures subsistant de la première campagne de construction.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 49.006267,
+   "lon": 1.90818,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nicolas_de_Meulan"
+  },
+  {
+   "nom": "Grand pont de Meulan",
+   "histoire": "Ancien pont traversant le grand bras de la Seine à Meulan. Construit vers 1168, il compte douze arches inégales au XIIIe siècle et est détruit en 1944 avant d’être remplacé ailleurs.",
+   "anecdotes": [
+    {
+     "texte": "Au fil du temps, l’administration des Ponts et Chaussée le fait démolir vers 1749, car il devient trop dangereux.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "En 1240, le pont compte douze arches inégales sous le règne de Philippe-Auguste.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S16"
+   ],
+   "lat": 49.000911,
+   "lon": 1.910833,
+   "url": "https://fr.wikipedia.org/wiki/Grand_pont_de_Meulan"
+  },
+  {
+   "nom": "Pont aux Perches",
+   "histoire": "Le pont aux Perches, aussi appelé petit pont de Meulan, franchit un bras non navigable de la Seine et relie la ville de Meulan à l’île du Fort.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15"
+   ],
+   "lat": 49.003333,
+   "lon": 1.909722,
+   "url": "https://fr.wikipedia.org/wiki/Pont_aux_Perches"
+  },
+  {
+   "nom": "Pont Rhin et Danube",
+   "histoire": "Pont à structure métallique franchissant la Seine entre Meulan-en-Yvelines et les Mureaux, en s’appuyant sur l’île Belle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17"
+   ],
+   "lat": 49.001111,
+   "lon": 1.906667,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Rhin_et_Danube"
+  },
+  {
+   "nom": "Gare de Thun-le-Paradis",
+   "histoire": "Gare ferroviaire située dans Meulan-en-Yvelines sur la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 49.006723,
+   "lon": 1.919215,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Thun-le-Paradis"
+  },
+  {
+   "nom": "Voile aux Jeux olympiques de 1900",
+   "histoire": "En 1900, les régates se tiennent en partie à Meulan selon la catégorie des bateaux.",
+   "anecdotes": [
+    {
+     "texte": "Les bateaux jusqu’à 10 tonneaux naviguent à Meulan, tandis que les bateaux de 10 tonneaux et plus vont au Havre.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21"
+   ],
+   "lat": 49.00666667,
+   "lon": 1.90722222,
+   "url": "https://fr.wikipedia.org/wiki/Voile_aux_Jeux_olympiques_de_1900"
+  },
+  {
+   "nom": "Île Belle",
+   "histoire": "Île de la Seine dans la commune de Meulan, elle abrite une piscine gérée par un syndicat intercommunal et un hôtel fermé de la chaîne Mercure installé sur les ruines d’un château du XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24"
+   ],
+   "lat": 49.000277777778,
+   "lon": 1.8991666666667,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Belle"
+  },
+  {
+   "nom": "Île de Mézy",
+   "histoire": "Ancienne île de la Seine, elle forme aujourd’hui, avec l’île Belle et l’île de Juziers, une île unique longue de 5 km.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26"
+   ],
+   "lat": 48.9974,
+   "lon": 1.88847,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_M%C3%A9zy"
+  }
+ ],
+ "sources": [
+  "Meulan-en-Yvelines est une commune des Yvelines, dans la région Île-de-France, située dans le Vexin français, au confluent avec l'Aubette, sur la rive droite de la Seine, à 16 km environ à l'est de Mantes-la-Jolie. Ses habitants sont appelés les Meulanais.",
+  "À l'origine, Meulan est un port fluvial sur la Seine, et un comptoir commercial gaulois, situé à la frontière entre les Véliocasses au nord et les Carnutes au sud. Ancien lieu de culte et certainement un ancien oppidum gaulois, peut-être le peu fiable Locenius (qui voulait dire poste de guerre), qui se trouvait entre le lieu-dit Thun et la berge de la Seine en un lieu nommé la Rive. L'oppidum appartenait aux […]",
+  "878 : Devenue le siège du comté de Meulan, la ville est pillée en 878, par les Vikings conduits par Rollon.",
+  "1364 : Redevenue propriété de Charles le Mauvais, la ville est assiégée par Bertrand Du Guesclin qui la reprend lors du siège de Meulan, le 11 avril 1364, pour le compte du roi Charles V le Sage, quatre jours après avoir conquis la ville de Mantes-la-Jolie.",
+  "Lieu « Église Saint-Nicolas de Meulan » : L'église Saint-Nicolas est une église catholique paroissiale située à Meulan-en-Yvelines, en France.",
+  "Lieu « Église Saint-Nicolas de Meulan », 1764 : Le nombre accru de colonnettes qui cantonnent les piliers va à l'encontre de la tendance générale, mais s'explique facilement par le fait que la première travée du bas-côté nord sert de base au clocher démoli en 1764.",
+  "Lieu « Église Saint-Nicolas de Meulan », 1765 : Les deux premières voûtes de la nef centrale sont reconstruites entre le 2 janvier et fin mars 1765, en réemployant les claveaux des ogives d'origine.",
+  "Lieu « Église Saint-Nicolas de Meulan », 1892 : Puis, depuis l'inauguration de la ligne en avril 1892, l'édifice est soumis à des vibrations lors du passage de convois lourds.",
+  "Lieu « Église Saint-Nicolas de Meulan », aujourd'hui : Sinon, l'on trouve des chapiteaux gothiques à feuilles d'eau et à feuilles d'acanthe de bon niveau, et encore sept voûtes d'ogives à grosses nervures subsistant de la première campagne de construction.",
+  "Lieu « Grand pont de Meulan » : Le grand pont de Meulan est un ancien pont qui traversait le grand bras de la Seine à Meulan dans l'actuel département des Yvelines (France).",
+  "Lieu « Grand pont de Meulan », 1168 : Le grand pont de Meulan sur fondations en maçonnerie a été construit vers 1168, environ un siècle après le petit pont.",
+  "Lieu « Grand pont de Meulan », 1240 : Ce pont, qui comptait douze arches inégales, a été construit sous le règne de Philippe-Auguste en 1240 et détruit le 21 mai 1944 par les bombardements alliés.",
+  "Lieu « Grand pont de Meulan », 1749 : Vers 1749, l'administration des Ponts et Chaussée fit procéder à la démolition du pont devenu trop dangereux.",
+  "Lieu « Grand pont de Meulan », aujourd'hui : Tracé dans le prolongement du petit pont de Meulan ou pont aux Perches, il reliait l'île du Fort à la rive gauche de la Seine (qui appartient actuellement à la commune des Mureaux).",
+  "Lieu « Pont aux Perches » : Le pont aux Perches, ou petit pont de Meulan, franchit un bras non navigable de la Seine sur une longueur de cent mètres et relie la ville de Meulan à l'île du Fort.",
+  "Lieu « Pont aux Perches », 1944 : Il était autrefois prolongé entre l'île du Fort et la rive gauche (Les Mureaux) par le grand pont de Meulan, détruit en 1944 par les bombardements alliés.",
+  "Lieu « Pont Rhin et Danube » : Le pont Rhin et Danube est un pont à structure métallique qui franchit la Seine sur une longueur de cinq cent trente mètres entre Meulan-en-Yvelines et les Mureaux, en s'appuyant sur l'île Belle, dans le département des Yvelines (France).",
+  "Lieu « Pont Rhin et Danube », 1953 : Ce pont, mis en service en 1953, remplace l'ancien grand pont de Meulan, détruit par les bombardements alliés en mai 1944.",
+  "Lieu « Gare de Thun-le-Paradis » : La gare de Thun-le-Paradis est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine, située dans la commune de Meulan-en-Yvelines (département des Yvelines).",
+  "Lieu « Gare de Thun-le-Paradis », 1892 : La gare est située sur la partie de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine ouverte le 1er juin 1892.",
+  "Lieu « Voile aux Jeux olympiques de 1900 » : Les régates ont eu lieu à Meulan pour les bateaux jusqu'à 10 tonneaux, au Havre pour les bateaux de 10 tonneaux et plus.",
+  "Lieu « Voile aux Jeux olympiques de 1900 », 1900 : Pour les épreuves de voile aux Jeux olympiques de 1900 à Paris : La plus petite catégorie, de 0 à 0,5 tonneau, est principalement représentée, parmi les sept concurrents, par des dériveurs de 5 mètres construits par François Texier, dont le dessin issu du Lark américain, devient en 1901 le Monotype de Chatou du YCIF (Yacht Club de l'Île-de-France).",
+  "Lieu « Île Belle » : L’île Belle est une île de la Seine située dans la commune de Meulan (Yvelines)",
+  "Lieu « Île Belle », XVIIIe siècle : L’île Belle accueille notamment une piscine gérée par un syndicat intercommunal et un hôtel fermé de la chaîne Mercure construit sur les ruines d’un château du XVIIIe siècle, celui de l’abbé Bignon, bibliothécaire de Louis XV.",
+  "Lieu « Île de Mézy » : L’île de Mézy est une ancienne île de la Seine faisant partie de la commune de Mézy-sur-Seine.",
+  "Lieu « Île de Mézy », aujourd'hui : Elle forme aujourd'hui avec l'île Belle, commune de Meulan (en amont) et l'île de Juziers (en aval, commune de Juziers) une île unique, longue de 5 km."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

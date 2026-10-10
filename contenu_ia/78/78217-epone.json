@@ -1,0 +1,229 @@
+{
+ "commune": {
+  "titre": "Épône",
+  "code_insee": "78217",
+  "departement": "78",
+  "population": 7031,
+  "lat": 48.95638889,
+  "lon": 1.81611111,
+  "url": "https://fr.wikipedia.org/wiki/%C3%89p%C3%B4ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:35:11",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2728,
+  "sortie": 1621
+ },
+ "cout_usd": 0.002572,
+ "accroche": "Le 4 mai 1843, la gare d’Épône - Mézières est inaugurée avec la ligne de Paris à Rouen, et le 9 mai ouvre au trafic voyageurs.",
+ "histoire": {
+  "recit": "À Épône, sur la rive gauche de la Seine, l’histoire se lit autant dans les vestiges anciens que dans les épisodes de guerre et les transformations de ses lieux. Les traces les plus reculées remontent au Paléolithique, avec des objets en silex du Moustérien, puis des sépultures collectives de type allée couverte rattachées à la civilisation Seine-Oise-Marne.\n\nPlus tard, les seigneurs et institutions pèsent sur la commune : le château est construit vers 1650, et en 1697 un accord permet un bornage des fiefs. Après la dissolution du chapitre de Notre-Dame en 1790, les terres sont vendues comme biens nationaux. Le dernier seigneur, Marie-Jean Hérault de Séchelles, participe aux événements révolutionnaires et finit guillotiné le 5 avril 1794.\n\nLe XIXe siècle apporte le rail : la gare d’Épône - Mézières s’inaugure en 1843, mais elle est incendiée en 1870 par représailles. Au XXe siècle, l’occupation débute dès le 13 juin 1940. Plus près de nous, restent des communs du château, un témoignage ancien autour de l’allée couverte de la Justice, et la gare avec son ancienne halle à marchandises.",
+  "chronologie": [
+   {
+    "date": "1650",
+    "texte": "Marie de la Vallée-Fossez, mariée à Henri de Mesmes, fait construire le château vers 1650.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1697",
+    "texte": "Un accord signé en 1697 permet de délimiter les fiefs et de procéder à un bornage.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Le chapitre de Notre-Dame de Paris est dissous le 29 novembre 1790 ; ses biens à Épône sont déclarés biens nationaux puis vendus aux enchères en 1791.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "Marie-Jean Hérault de Séchelles participe activement à la Révolution et finit guillotiné le 5 avril 1794.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1843",
+    "texte": "La ligne de chemin de fer Paris-Rouen et la gare d’Épône - Mézières sont inaugurées le 4 mai 1843 ; la gare ouvre au trafic de voyageurs le 9 mai.",
+    "sources": [
+     "S8",
+     "S16"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "La gare d’Épône - Mézières est incendiée le 22 septembre 1870 par représailles contre les francs-tireurs.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1918",
+    "texte": "En 1918, des chantiers de réparation navale sont installés en bord de Seine, d’abord par les Français puis par les Américains.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1921",
+    "texte": "Le monument aux morts communal est inauguré le 30 octobre 1921.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Après la débâcle de 1940, Épône est occupée dès le 13 juin 1940.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare d'Épône - Mézières",
+   "histoire": "Gare établie sur les lignes de Paris-Saint-Lazare au Havre et de Plaisir - Grignon à Épône - Mézières, située sur le territoire des communes d’Épône et de Mézières-sur-Seine.",
+   "anecdotes": [
+    {
+     "texte": "Le 22 septembre 1870, la gare est incendiée par représailles contre les francs-tireurs.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il subsiste l’ancienne halle à marchandises, tandis que la cour de débord a été transformée en parc de stationnement dans les années 1960.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 48.9633027296,
+   "lon": 1.80862937113,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27%C3%89p%C3%B4ne_-_M%C3%A9zi%C3%A8res"
+  },
+  {
+   "nom": "Allée couverte de la Justice",
+   "histoire": "Allée couverte située sur la commune d’Épône. Le monument tient son nom du lieu où il a été érigé, appelé depuis le XIIe siècle « Champtier de la Justice ».",
+   "anecdotes": [
+    {
+     "texte": "En 1793, l’allée couverte est pillée et en partie détruite : des habitants y croient trouver un trésor.",
+     "statut": "legende",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "En 1953-1954, elle est fouillée sans résultat par un archéologue allemand, le Dr Eugène Eble, puis l’édifice est restauré et la chambre remblayée.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un foyer aux dimensions données a été découvert sous le dallage de la chambre, sans traces de combustion sur les ossements.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 48.970294,
+   "lon": 1.832189,
+   "url": "https://fr.wikipedia.org/wiki/All%C3%A9e_couverte_de_la_Justice"
+  },
+  {
+   "nom": "Château d'Épône",
+   "histoire": "Ancien château du XVIIe siècle, détruit en 1944 par l’armée allemande. Il n’en reste aujourd’hui que les communs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il n’en reste aujourd’hui que les communs, occupés par le centre culturel municipal et le parc, ouverts au public.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 48.953611,
+   "lon": 1.812222,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27%C3%89p%C3%B4ne"
+  },
+  {
+   "nom": "Église Saint-Béat d'Épône",
+   "histoire": "Église paroissiale de style roman, datant des XIe et XIIe siècles. Elle a fait l’objet d’une restauration forte entre 1865 et 1871, avec notamment la flèche déposée pierre à pierre puis remontée.",
+   "anecdotes": [
+    {
+     "texte": "Le 11 août 1901, deux cloches nommées « Adolphine Emma Alphonsine » et « Alphonsine Adolphine Emma » sont installées, offertes par le maire et le propriétaire du château de l’époque.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 48.95528,
+   "lon": 1.81417,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-B%C3%A9at_d%27%C3%89p%C3%B4ne"
+  },
+  {
+   "nom": "Pavillon de David",
+   "histoire": "Petit pavillon de style néo-classique, nommé aussi temple de David en référence au peintre Jacques-Louis David, construit au cours du XVIIIe siècle en 1785.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 48.95487,
+   "lon": 1.80842,
+   "url": "https://fr.wikipedia.org/wiki/Pavillon_de_David"
+  }
+ ],
+ "sources": [
+  "Épône est une commune française située dans le département des Yvelines en région Île-de-France. Elle est située le long de la Seine sur sa rive gauche à 45 km à l'ouest de Paris. Ses habitants sont appelés les Épônois.",
+  "Le passé d'Épône remonte à la préhistoire la plus ancienne puisque des vestiges du Paléolithique ont été retrouvés tant dans la basse plaine alluviale que sur le plateau, notamment divers objets en silex du Moustérien. Trois sépultures collectives datées du Néolithique, du type allée couverte, ont été découvertes sur le territoire de la commune. Elles ont été rattachées à la civilisation dite « Seine-Oise-Marne ». […]",
+  "1650 : Celui-ci agrandit le domaine et c'est probablement sa petite-fille, Marie de la Vallée-Fossez, mariée à Henri de Mesmes, deuxième du nom, seigneur de Roissy et marquis de Malassise, qui construit le château vers 1650.",
+  "1697 : Un accord signé en 1697 entre le chapitre de Notre-Dame et madame de Créqui permet de délimiter les fiefs respectifs et de procéder à un bornage.",
+  "1790 : Le chapitre de Notre-Dame de Paris est dissous le 29 novembre 1790, ses biens, notamment des terres à Épône et à Mézières, sont déclarés biens nationaux comme biens ecclésiastiques et vendus aux enchères au cours 1791.",
+  "1794 : Le dernier seigneur d'Épône, Marie-Jean Hérault de Séchelles participe activement aux événements de la Révolution et finit guillotiné le 5 avril 1794.",
+  "1814 : En 1814 et 1815, la région est occupée par les armées alliées qui ont vaincu Napoléon et la population doit subir réquisitions et contributions de guerre pour loger et nourrir hommes et chevaux.",
+  "1843 : Le 4 mai 1843, est inaugurée la ligne de chemin de fer Paris-Rouen ainsi que la gare d'Épône - Mézières, établie à la limite des deux communes, ouverte au trafic de voyageurs le 9 mai.",
+  "1870 : Cette dernières est incendiée par représailles contre les francs-tireurs le 22 septembre 1870.",
+  "1908 : En 1908, l'« Avenir social », orphelinat fondé par Madeleine Vernet, militante syndicaliste et féministe, s'installe à Épône, créant une certaine tension dans cette commune plutôt conservatrice.",
+  "1918 : Des chantiers de réparation navale sont installés en bord de Seine par les Français puis par les Américains en 1918.",
+  "1921 : Le monument aux morts communal qui les honore est inauguré le 30 octobre 1921.",
+  "1940 : Lors de la Seconde Guerre mondiale, après la débâcle de 1940, Épône est occupée, comme le reste des Yvelines, dès le 13 juin 1940.",
+  "1960 : Des bornes carrées installées à l'époque, vingt-et-une subsistaient encore dans les années 1960.",
+  "Lieu « Gare d'Épône - Mézières » : La gare d'Épône - Mézières est une gare ferroviaire française des lignes de Paris-Saint-Lazare au Havre et de Plaisir - Grignon à Épône - Mézières, située sur le territoire des communes d'Épône et de Mézières-sur-Seine, dans le département des Yvelin",
+  "Lieu « Gare d'Épône - Mézières », 1843 : La gare d'Épône - Mézières a été inaugurée en même temps que la ligne de Paris à Rouen le 4 mai 1843 et le premier train régulier a desservi la gare le 9 mai.",
+  "Lieu « Gare d'Épône - Mézières », 1910 : Lors de la crue de la Seine de janvier 1910, la gare se trouve en zone inondée et l'eau recouvre les voies.",
+  "Lieu « Gare d'Épône - Mézières », 1990 : Ce bâtiment, qui abrite les installations de télécommande des appareils de voie, a été construit lors de la création de la troisième voie entre Aubergenville-Élisabethville et Épône-Mézières dans les années 1990.",
+  "Lieu « Gare d'Épône - Mézières », aujourd'hui : Il subsiste l'ancienne halle à marchandises mais la cour de débord a été transformée en parc de stationnement dans les années 1960.",
+  "Lieu « Allée couverte de la Justice » : L'allée couverte de la Justice est une allée couverte située sur la commune d'Épône dans le département des Yvelines.",
+  "Lieu « Allée couverte de la Justice », XIIe siècle : Le monument tient son nom du lieu où il a été érigé et qui est appelé depuis le XIIe siècle le « Champtier de la Justice ».",
+  "Lieu « Allée couverte de la Justice », 1793 : Il fut pillé et en partie détruit en 1793 par les habitants croyant y trouver un trésor.",
+  "Lieu « Allée couverte de la Justice », 1953 : Elle fut à nouveau fouillée, sans résultat, en 1953-1954 par un archéologue allemand, le Dr Eugène Eble, puis l'édifice fut restauré et la chambre remblayée à hauteur de sol.",
+  "Lieu « Allée couverte de la Justice », aujourd'hui : Un foyer (1,30 m de large sur 0,80 m de long) a été découvert sous le dallage de la chambre mais aucun ossement ne comportait de traces de combustion.",
+  "Lieu « Château d'Épône » : Le château d'Épône est un ancien château du XVIIe siècle, détruit en 1944 par l'armée allemande, qui se trouvait au centre d'Épône dans les Yvelines (France).",
+  "Lieu « Château d'Épône », 1759 : Dans ce château a notamment vécu Hérault de Séchelles (1759-1794), dernier seigneur d'Épône, qui fut député de Seine-et-Oise à la Convention nationale et membre du Comité de salut public aux côtés de Robespierre, et qui mourut guillotiné en 1794.",
+  "Lieu « Château d'Épône », 1944 : Le château d'Épône est un ancien château du XVIIe siècle, détruit en 1944 par l'armée allemande, qui se trouvait au centre d'Épône dans les Yvelines (France).",
+  "Lieu « Château d'Épône », aujourd'hui : Il n'en reste aujourd'hui que les communs, occupés par le centre culturel municipal et le parc, ouvert au public.",
+  "Lieu « Église Saint-Béat d'Épône » : L'église Saint-Béat d'Épône est une église paroissiale de style roman, datant des XIe et XIIe siècles, située dans la commune française d'Épône (Yvelines).",
+  "Lieu « Église Saint-Béat d'Épône », 1865 : Elle a été fortement restaurée entre 1865 et 1871, en partie reconstruite, notamment la flèche déposée pierre à pierre et remontée.",
+  "Lieu « Église Saint-Béat d'Épône », 1901 : Deux autres cloches, « Adolphine Emma Alphonsine » et « Alphonsine Adolphine Emma », ont été installées le 11 août 1901, offertes par le maire et le propriétaire du château de l'époque.",
+  "Lieu « Pavillon de David » : Le pavillon de David, nommé également temple de David en référence au peintre Jacques-Louis David qui le dessine pour Marie-Jean Hérault de Séchelles seigneur d'Épône, est un petit pavillon de style néo-classique de proportions modestes construit au",
+  "Lieu « Pavillon de David », 1785 : Le pavillon de David, nommé également temple de David en référence au peintre Jacques-Louis David qui le dessine pour Marie-Jean Hérault de Séchelles seigneur d'Épône, est un petit pavillon de style néo-classique de proportions modestes construit au cours du XVIIIe siècle en 1785."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 4
+ }
+}

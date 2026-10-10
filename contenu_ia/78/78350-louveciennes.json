@@ -1,0 +1,248 @@
+{
+ "commune": {
+  "titre": "Louveciennes",
+  "code_insee": "78350",
+  "departement": "78",
+  "population": 7990,
+  "lat": 48.860833,
+  "lon": 2.117222,
+  "url": "https://fr.wikipedia.org/wiki/Louveciennes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:20:06",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3512,
+  "sortie": 1678
+ },
+ "cout_usd": 0.0028,
+ "accroche": "Le chantier de la machine de Marly, de 1681 à 1684, fait traverser Louveciennes par des canalisations alimentées depuis Bougival, jusqu’à l’aqueduc sur ses hauteurs.",
+ "histoire": {
+  "recit": "Autrefois nommé Luciennes, Louveciennes se glisse dans la proche banlieue ouest de Paris, dans le canton du Chesnay-Rocquencourt. Petit village d’agriculteurs sur les coteaux de la Seine, il change d’allure quand la cour s’installe à Versailles : la machine de Marly vient y bouleverser le quotidien.\n\nDe 1681 à 1684, les eaux de la Seine sont remontées, puis distribuées par des canalisations qui traversent le territoire communal, jusqu’à l’aqueduc établi sur ses hauteurs. Sur la Seine, l’Île de la Loge sert alors de cadre au barrage qui permet l’installation de la machine.\n\nLe temps poursuit ensuite ses travaux d’architecture : à côté de l’église Saint-Martin-et-Saint-Blaise, dont les parties romanes remontent aux XIe-XIIe siècles, Louveciennes rassemble des lieux remarquables. Le Château Louis XIV est reconstruit entre 2008 et 2011, tandis que le Château de Madame du Barry s’organise autour d’un bâtiment élevé à la fin du XVIIe siècle. Un pavillon de musique, œuvre de Claude-Nicolas Ledoux, s’élève aussi à l’initiative de Madame du Barry.\n\nEnfin, la Gare de Louveciennes relie la commune à la ligne de Saint-Cloud à Saint-Nom-la-Bretèche : ouverte le 5 mai 1884, elle démarre avec un trafic modeste, avant de s’étoffer.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Louveciennes dépend au XIe siècle de l’abbaye de Saint-Denis.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le « éveil » du village arrive au XVIIe siècle avec l’installation de la cour à Versailles et la construction du château de Marly.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1681",
+    "texte": "Les travaux de la machine de Marly commencent : les eaux de la Seine, puisées à Bougival, sont remontées et menées par des canalisations à travers la commune jusqu’à l’aqueduc sur ses hauteurs.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1681-1684",
+    "texte": "La construction de la machine de Marly bouleverse le quotidien du village : elle transforme le territoire en passage pour les conduites d’eau.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "5 mai 1884",
+    "texte": "La gare de Louveciennes est ouverte par la Compagnie des chemins de fer de l’Ouest.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "L’église Saint-Martin-et-Saint-Blaise de Louveciennes est classée au titre des monuments historiques.",
+    "sources": [
+     "S32"
+    ]
+   },
+   {
+    "date": "2008-2011",
+    "texte": "Le Château Louis XIV est construit dans la commune de Louveciennes.",
+    "sources": [
+     "S4",
+     "S7"
+    ]
+   },
+   {
+    "date": "1978",
+    "texte": "L’église orthodoxe Saint-Germain-et-Saint-Cloud de Louveciennes est consacrée.",
+    "sources": [
+     "S38"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château Louis XIV",
+   "histoire": "Un château portant ce nom a été construit entre 2008 et 2011 dans la commune de Louveciennes. Sa méthode de construction reprend des principes du XVIIe siècle, avec notamment du béton plaqué de pierres pour la façade.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S7"
+   ],
+   "lat": 48.849941535608,
+   "lon": 2.1202974319458,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Louis_XIV"
+  },
+  {
+   "nom": "Gare de Louveciennes",
+   "histoire": "La gare de Louveciennes fait partie de la ligne de Saint-Cloud à Saint-Nom-la-Bretèche. Elle est ouverte le 5 mai 1884 par la Compagnie des chemins de fer de l’Ouest et est aujourd’hui desservie par les trains de la ligne L du Transilien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 48.861138,
+   "lon": 2.123235,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Louveciennes"
+  },
+  {
+   "nom": "Château de Madame du Barry",
+   "histoire": "Le Château de Madame du Barry comprend un château construit à la fin du XVIIe siècle par Robert de Cotte, puis agrandi et redécoré probablement par Ange-Jacques Gabriel pour Madame du Barry. Il conserve aussi, en partie, un décor de boiseries sculptées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S18"
+   ],
+   "lat": 48.86867,
+   "lon": 2.1232,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Madame_du_Barry"
+  },
+  {
+   "nom": "Pavillon de musique (Louveciennes)",
+   "histoire": "Le pavillon de musique, aussi appelé pavillon Ledoux, est un édifice construit par Claude-Nicolas Ledoux de décembre 1770 à janvier 1772, à l’initiative de Madame du Barry. Les travaux démarrent en décembre 1770 et le gros-œuvre est exécuté en seulement neuf mois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’emplacement, en surplomb de la Seine, permet de suivre ses boucles sur 180°, depuis Paris jusqu’aux terrasses de Saint-Germain-en-Laye.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 48.8686472,
+   "lon": 2.1231917,
+   "url": "https://fr.wikipedia.org/wiki/Pavillon_de_musique_%28Louveciennes%29"
+  },
+  {
+   "nom": "Voisins (Louveciennes)",
+   "histoire": "Voisins est un hameau situé dans la commune de Louveciennes. Sa renommée démarre en 1681, avec le début des travaux de la machine de Marly.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S28"
+   ],
+   "lat": 48.869232,
+   "lon": 2.120962,
+   "url": "https://fr.wikipedia.org/wiki/Voisins_%28Louveciennes%29"
+  },
+  {
+   "nom": "Église Saint-Martin-et-Saint-Blaise de Louveciennes",
+   "histoire": "L’église Saint-Martin-et-Saint-Blaise est une église catholique à Louveciennes. Les parties les plus anciennes remontent aux XIe-XIIe siècles, notamment le chœur et le chevet plat, témoins de son origine romane.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une chapelle latérale, à gauche de la nef, abritait le tableau religieux Sainte Geneviève gardant ses moutons, peint par Élisabeth Vigée Le Brun et aujourd’hui conservé au Musée‑Promenade de Marly-le-Roi et Louveciennes.",
+   "sources": [
+    "S30",
+    "S33"
+   ],
+   "lat": 48.8609,
+   "lon": 2.11413,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin-et-Saint-Blaise_de_Louveciennes"
+  },
+  {
+   "nom": "Île de la Loge",
+   "histoire": "L’Île de la Loge est une île de la Seine entre Le Port-Marly, Louveciennes et Bougival, et Croissy-sur-Seine sur sa rive. Au XVIIe siècle, un barrage y est construit pour installer la machine de Marly. Avec le temps, les fossés sont comblés et, en 1664, toutes ces îles ne forment plus qu’une seule, appelée île de la Loge.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est rattachée à la rive gauche par un pont routier, appelé pont Abbé Pierre, et par une passerelle piétonne reliant le Port-Marly, inaugurée le 20 mai 2017.",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 48.875752,
+   "lon": 2.120612,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_la_Loge"
+  },
+  {
+   "nom": "Église Saint-Germain-et-Saint-Cloud",
+   "histoire": "L’église Saint-Germain-et-Saint-Cloud est une église orthodoxe consacrée en 1978. Elle dépend de la Métropole orthodoxe roumaine d’Europe occidentale et méridionale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En 2011, un site propose du « conseil spirituel en ligne » auprès d’un prêtre virtuel, le « père Clodoald », ainsi que des articles de formation théologique.",
+   "sources": [
+    "S38",
+    "S41"
+   ],
+   "lat": 48.86077,
+   "lon": 2.1208,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain-et-Saint-Cloud"
+  }
+ ],
+ "sources": [
+  "Louveciennes, anciennement appelé Luciennes, est une commune française située dans le département des Yvelines en région Île-de-France. Louveciennes appartient au canton du Chesnay-Rocquencourt. Elle se trouve dans la proche banlieue ouest de Paris. Ses habitants sont appelés les Louveciennois ou les Luciennois.",
+  "Comme la majeure partie des communes des Yvelines, Louveciennes dépendait au XIe siècle de l'abbaye de Saint-Denis. Petit village d'agriculteurs cultivant arbres fruitiers et vignes sur les coteaux de la Seine, son « éveil » se produit au XVIIe siècle lorsque Louis XIV installe sa cour à Versailles et fait construire le château de Marly. De 1681 à 1684, la construction de la machine de Marly bouleverse le quotidien […]",
+  "1681 : De 1681 à 1684, la construction de la machine de Marly bouleverse le quotidien du village : les eaux de la Seine, puisées à Bougival, sont remontées dans des canalisations qui traversent le territoire communal jusqu'à l'aqueduc construit sur ses hauteurs.",
+  "Lieu « Château Louis XIV » : Le château Louis XIV est un château construit entre 2008 et 2011 dans la commune de Louveciennes dans les Yvelines.",
+  "Lieu « Château Louis XIV », XVIIe siècle : La méthode de construction est celle des châteaux construits au XVIIe siècle sur un site vierge et en utilisant principalement des techniques de l'époque telles qu'elles étaient connues en France, au moins pour la décoration car le château est construit en béton plaqué de pierres.",
+  "Lieu « Château Louis XIV », 1888 : En 1888, Charles-Émile Clerc, nouveau propriétaire des lieux après le décès du docteur Duborgia, va alors entreprendre la démolition des premiers bâtiments qui n’avaient subi, au fil des années, que quelques changements à peine notables.",
+  "Lieu « Château Louis XIV », 2008 : Le château Louis XIV est un château construit entre 2008 et 2011 dans la commune de Louveciennes dans les Yvelines.",
+  "Lieu « Château Louis XIV », aujourd'hui : Un bâtiment de service enterré de 2 500 m2 avec tunnel d'accès doit être réalisé à la place des jardins à la française, les parterres de buis seront remplacés par un bassin, le squash remplacé par un spa, les locaux techniques dans les combles feront place à des suites, etc.",
+  "Lieu « Gare de Louveciennes » : La gare de Louveciennes est une gare ferroviaire française de la ligne de Saint-Cloud à Saint-Nom-la-Bretèche, située dans la commune de Louveciennes, dans le département français des Yvelines en région Île-de-France.",
+  "Lieu « Gare de Louveciennes », 1884 : Ouverte le 5 mai 1884 par la Compagnie des chemins de fer de l'Ouest, c'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains de la ligne L du Transilien (réseau Paris-Saint-Lazare).",
+  "Lieu « Gare de Louveciennes », 1884 : Le trafic montant quotidien ne dépasse pas 63 voyageurs à l'ouverture de la ligne en 1884, puis 122 par jour en 1893.",
+  "Lieu « Gare de Louveciennes », 2011 : En 2011, un guichet Transilien est ouvert du lundi au samedi de 6 h 40 à 1 h 25, les dimanches et fêtes de 7 h 50 à 1 h 25.",
+  "Lieu « Gare de Louveciennes », aujourd'hui : Après 1978, un embranchement particulier orienté vers Saint-Nom-la-Bretèche subsiste jusqu'à la fin des années 1980, assurant un trafic diffus de boissons.",
+  "Lieu « Château de Madame du Barry » : Le château de Madame du Barry à Louveciennes (Yvelines), se compose : du château proprement dit, construit à la fin du XVIIe siècle par Robert de Cotte, puis agrandi et redécoré probablement par Ange-Jacques Gabriel pour Madame du Barry ; d'un pavill",
+  "Lieu « Château de Madame du Barry », 1755 : En 1755, le marquis de Marigny, directeur des Bâtiments du roi, passe commande à Christophe-Gabriel Allegrain d'une Vénus pour le château de Choisy.",
+  "Lieu « Château de Madame du Barry », 1767 : En 1767, le grand marbre est achevé et exposé dans l'atelier du sculpteur.",
+  "Lieu « Château de Madame du Barry », XIXe siècle : Des deux petits temples situés dans le parc, le temple dorique a été édifié par Henri Goury à la fin du XIXe siècle.",
+  "Lieu « Château de Madame du Barry », aujourd'hui : Celle-ci fit probablement appel à Ange-Jacques Gabriel, Premier architecte du Roi, pour agrandir et redécorer le bâtiment, qui se vit alors adjoindre l’aile basse orientale, ainsi qu'un décor de boiseries sculptées qui subsiste en partie.",
+  "Lieu « Pavillon de musique (Louveciennes) » : Le pavillon de musique, pavillon Ledoux ou encore pavillon de musique de Madame du Barry est un édifice construit par l'architecte Claude-Nicolas Ledoux, de décembre 1770 à janvier 1772, à l'initiative de Madame du Barry, dernière favorite du roi Lou",
+  "Lieu « Pavillon de musique (Louveciennes) », 1770 : Le pavillon de musique, pavillon Ledoux ou encore pavillon de musique de Madame du Barry est un édifice construit par l'architecte Claude-Nicolas Ledoux, de décembre 1770 à janvier 1772, à l'initiative de Madame du Barry, dernière favorite du roi Louis XV.",
+  "Lieu « Pavillon de musique (Louveciennes) », 1770 : Les travaux démarrent en décembre 1770, le gros-œuvre, dirigé par les entrepreneurs Lefaivre et Couesnon est exécuté en seulement neuf mois, les sculptures extérieures sont exécutées, quant à elle, par Feuillet et Métivier.",
+  "Lieu « Pavillon de musique (Louveciennes) », 1773 : En 1773, Madame du Barry, satisfaite de son pavillon, commande à Ledoux les plans d'un grand château, destiné à envelopper le petit bâtiment, mais la mort de Louis XV en 1774 met un terme à ce projet.",
+  "Lieu « Pavillon de musique (Louveciennes) », aujourd'hui : L'emplacement choisi, en surplomb de la Seine, permet de suivre ses boucles sur 180°, depuis Paris jusqu'aux terrasses de Saint-Germain-en-Laye.",
+  "Lieu « Voisins (Louveciennes) » : Le hameau de Voisins (ou village de Voisins) se situe dans la commune de Louveciennes, dans le département des Yvelines en France.",
+  "Lieu « Voisins (Louveciennes) », 1650 : Dans l'alignement de l'avenue Saint-Martin, un premier château construit entre 1650 et 1675 fut habité de 1696 à 1716 par Louis Oger de Cavoye (1640-1716), grand maréchal des logis de la maison du roi depuis 1677.",
+  "Lieu « Voisins (Louveciennes) », 1681 : La machine de Marly est construite à compter de 1681 dans le but de remonter l'eau de la Seine puisée à Bougival vers les réservoirs situés sur le plateau du Cœur volant à proximité du château de Marly.",
+  "Lieu « Voisins (Louveciennes) », 1820 : Vers 1820, son propriétaire le comte Hocquart de Turtot le fit démolir puis reconstruire selon de nouveaux plans.",
+  "Lieu « Voisins (Louveciennes) », aujourd'hui : De nos jours quartier de la ville de Louveciennes mais cependant quelque peu à l'écart, Voisins a acquis sa renommée à partir de 1681, date où ont commencé les travaux de la machine de Marly.",
+  "Lieu « Église Saint-Martin-et-Saint-Blaise de Louveciennes » : L'église Saint-Martin-et-Saint-Blaise est une église catholique située à Louveciennes, en France.",
+  "Lieu « Église Saint-Martin-et-Saint-Blaise de Louveciennes », XIIe siècle : L'édifice présente une architecture dont les parties les plus anciennes remontent au XIe‑XIIe siècle, dont notamment le chœur et le chevet plat, témoins de son origine romane.",
+  "Lieu « Église Saint-Martin-et-Saint-Blaise de Louveciennes », 1818 : Plus tard, elle est transformée en 1818 par François Collet-Duclos, ainsi qu'à la fin du même siècle.",
+  "Lieu « Église Saint-Martin-et-Saint-Blaise de Louveciennes », 1889 : L'édifice est classé au titre des monuments historiques en 1889.",
+  "Lieu « Église Saint-Martin-et-Saint-Blaise de Louveciennes », aujourd'hui : Une chapelle latérale, à gauche de la nef, a longtemps abrité le tableau religieux Sainte Geneviève gardant ses moutons peint par Élisabeth Vigée Le Brun, œuvre aujourd'hui conservée au Musée‑Promenade de Marly-le-Roi et Louveciennes.",
+  "Lieu « Île de la Loge » : L'île de la Loge est une île de la Seine, longue de 2,5 km environ, située dans les Yvelines entre Le Port-Marly, Louveciennes et Bougival sur la rive gauche (communes auxquelles elle est rattachée administrativement), et Croissy-sur-Seine sur la riv",
+  "Lieu « Île de la Loge », XVIIe siècle : C'est dans le bras de la Seine situé entre cette île et la rive gauche, au niveau de Louveciennes, que fut construit au XVIIe siècle un barrage permettant l'installation de la Machine de Marly, conçue pour alimenter les châteaux de Versailles et de Marly en eau provenant de la Seine.",
+  "Lieu « Île de la Loge », 1664 : Ces fossés ont été comblées avec le temps et, en 1664, toutes ces îles ne formèrent plus qu'une seule île qui a pris le nom d'île de la Loge.",
+  "Lieu « Île de la Loge », 2017 : Cette île est rattachée à la rive gauche par un pont routier, appelé pont Abbé Pierre, situé non loin de son extrémité amont, ainsi que par une passerelle piétonne, située non loin de son extrémité aval, la reliant au Port-Marly et inaugurée le 20 mai 2017.",
+  "Lieu « Église Saint-Germain-et-Saint-Cloud » : L'église Saint-Germain-et-Saint-Cloud de Louveciennes est une église orthodoxe consacrée en 1978 et dépendant de la Métropole orthodoxe roumaine d'Europe occidentale et méridionale.",
+  "Lieu « Église Saint-Germain-et-Saint-Cloud », 1977 : Fondée en 1977 sous la direction de son recteur, le prêtre Grégoire Bertrand-Hardy, la paroisse Saint-Germain-et-Saint-Cloud se rattache d'abord à l'Église catholique orthodoxe de France.",
+  "Lieu « Église Saint-Germain-et-Saint-Cloud », 1977 : Francophone, elle s'inscrit dans une paroisse fondée en 1977.",
+  "Lieu « Église Saint-Germain-et-Saint-Cloud », 2011 : Un site est ouvert en 2011, qui propose du « conseil spirituel en ligne » auprès d'un prêtre virtuel (le « père Clodoald »), ainsi que des articles de formation théologique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

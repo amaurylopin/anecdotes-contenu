@@ -1,0 +1,160 @@
+{
+ "commune": {
+  "titre": "Maurepas (Yvelines)",
+  "code_insee": "78383",
+  "departement": "78",
+  "population": 20629,
+  "lat": 48.76,
+  "lon": 1.95,
+  "url": "https://fr.wikipedia.org/wiki/Maurepas_%28Yvelines%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:09:23",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1492,
+  "sortie": 1327
+ },
+ "cout_usd": 0.001957,
+ "accroche": "Le 11 septembre 1432, le château de Maurepas est pris d’assaut puis démantelé, avant que la commune ne connaisse de nouveaux chantiers, jusqu’au donjon du XIIe siècle.",
+ "histoire": {
+  "recit": "À Maurepas, le vallon est habité dès la préhistoire : des outils et des poteries des IVe et IIIe millénaire av. J.-C. ont été retrouvés près de la fontaine Saint-Sauveur et le long du ru de la Courance. Plus tard, au Ier siècle av. J.-C., le réseau des voies romaines se développe en Gaule, avec des axes qui se croisent non loin de là.\n\nLe temps des pierres fortes arrive : au XIIe siècle, un donjon cylindrique haut de 20 mètres est bâti sur une faible motte castrale, et il reste aujourd’hui le dernier vestige d’un ancien château fort, en ruines.\n\nLe destin du château est brutal : le 11 septembre 1432, il est pris d’assaut et démantelé.\n\nPlus paisiblement, l’église Notre-Dame rouvre en 2018 après un an de fermeture dû à des fissures dans la charpente, et, en 2020, son orgue de 910 tuyaux est béni et inauguré le 6 septembre. Enfin, le quartier des Friches se construit entre 1982 et 1983 et compte près de 1 700 habitants en 2020.",
+  "chronologie": [
+   {
+    "date": "IVe et IIIe millénaire av. J.-C.",
+    "texte": "Des outils et des poteries sont retrouvés près de la fontaine Saint-Sauveur et le long du ru de la Courance.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle av. J.-C.",
+    "texte": "Le réseau des voies romaines se développe en Gaule, avec de grands axes qui se croisent non loin de Maurepas.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "Une première chapelle seigneuriale en bois est édifiée à l’emplacement de l’église Saint-Sauveur.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Le donjon cylindrique de Maurepas est bâti, haut d’environ 20 mètres, sur une faible motte castrale.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "11 septembre 1432",
+    "texte": "Le château de Maurepas est pris d’assaut puis démantelé.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1982-1983",
+    "texte": "Le quartier des Friches est construit entre 1982 et 1983.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "L’église Notre-Dame rouvre en 2018 après une fermeture d’un an liée à des fissures dans la charpente.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "6 septembre 2020",
+    "texte": "Un orgue de 910 tuyaux est béni et inauguré le 6 septembre 2020.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Donjon de Maurepas",
+   "histoire": "Dernier vestige d’un ancien château fort, le donjon de Maurepas se dresse aujourd’hui en ruines sur la commune. Le reste visible correspond à un donjon cylindrique bâti au XIIe siècle, haut de 20 mètres, posé sur une faible motte castrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Donjon cylindrique du XIIe siècle, aujourd’hui en ruines, dernier vestige d’un ancien château fort.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.77261111,
+   "lon": 1.92063889,
+   "url": "https://fr.wikipedia.org/wiki/Donjon_de_Maurepas"
+  },
+  {
+   "nom": "Église Notre-Dame de Maurepas",
+   "histoire": "Église Notre-Dame de Maurepas : un édifice religieux situé dans la commune. Fermée pendant un  an de travaux à la suite de fissures dans la charpente, elle rouvre en 2018.",
+   "anecdotes": [
+    {
+     "texte": "En 2020, un orgue de 910 tuyaux est remonté en un mois par un facteur d’orgue et un menuisier, puis béni et inauguré le 6 septembre.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Église Notre-Dame, rouverte en 2018 après travaux ; orgue de 910 tuyaux béni et inauguré le 6 septembre 2020.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 48.76124,
+   "lon": 1.94245,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Maurepas"
+  },
+  {
+   "nom": "Église Saint-Sauveur de Maurepas",
+   "histoire": "Église Saint-Sauveur de Maurepas : un édifice religieux situé dans la commune. Au IXe siècle, une première chapelle seigneuriale en bois est édifiée à cet endroit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 48.773188,
+   "lon": 1.920982,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Sauveur_de_Maurepas"
+  }
+ ],
+ "sources": [
+  "Maurepas est une commune française située dans le département des Yvelines en région Île-de-France. Intégrée au sein de l'agglomération de Saint-Quentin-en-Yvelines et située à proximité de Trappes et d'Elancourt, la ville compte près de 18 000 habitants en 2019.",
+  "Le fond du vallon de Maurepas est habité dès la préhistoire. Des outils et des poteries datant du IVe et du IIIe millénaire av. J.-C. ont été retrouvés à proximité de la source (fontaine Saint-Sauveur) et le long du ru de la Courance. Au Ier siècle av. J.-C., le réseau des voies romaines se développe en Gaule. Deux grands axes se croisent non loin de Maurepas, sur le territoire de Jouars-Pontchartrain : la voie qui […]",
+  "1432 : Le château est pris d’assaut le 11 septembre 1432 et démantelé.",
+  "1982 : Construit entre 1982 et 1983, le quartier des Friches est aujourd'hui classé prioritaire et compte près de 1 700 habitants en 2020.",
+  "Lieu « Donjon de Maurepas » : Le donjon de Maurepas est le dernier vestige d'un ancien château fort, de nos jours en ruines, qui se dresse sur la commune française de Maurepas dans le département des Yvelines, en région Île-de-France.",
+  "Lieu « Donjon de Maurepas », XIIe siècle : Aujourd'hui, seul le donjon cylindrique bâti au XIIe siècle, haut de 20 mètres, reste sur une faible motte castrale.",
+  "Lieu « Donjon de Maurepas », aujourd'hui : Le donjon de Maurepas est le dernier vestige d'un ancien château fort, de nos jours en ruines, qui se dresse sur la commune française de Maurepas dans le département des Yvelines, en région Île-de-France.",
+  "Lieu « Église Notre-Dame de Maurepas » : L’église Notre-Dame est un édifice religieux qui se trouve dans la commune française de Maurepas, dans les Yvelines.",
+  "Lieu « Église Notre-Dame de Maurepas », 2018 : Fermée pendant un an de travaux à la suite de fissures dans la charpente en bois, elle rouvre en 2018.",
+  "Lieu « Église Notre-Dame de Maurepas », 2020 : Cet instrument de 910 tuyaux, remonté en un mois par un facteur d'orgue et un menuisier, a été béni et inauguré le 6 septembre 2020.",
+  "Lieu « Église Saint-Sauveur de Maurepas » : L’église Notre-Dame est un édifice religieux qui se trouve dans la commune française de Maurepas, dans les Yvelines.",
+  "Lieu « Église Saint-Sauveur de Maurepas », IXe siècle : Une première chapelle seigneuriale, en bois, est édifiée à cet endroit au IXe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

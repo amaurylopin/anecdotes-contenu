@@ -1,0 +1,95 @@
+{
+ "commune": {
+  "titre": "Chanteloup-les-Vignes",
+  "code_insee": "78138",
+  "departement": "78",
+  "population": 10861,
+  "lat": 48.97916667,
+  "lon": 2.03194444,
+  "url": "https://fr.wikipedia.org/wiki/Chanteloup-les-Vignes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:50:31",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1116,
+  "sortie": 578
+ },
+ "cout_usd": 0.000946,
+ "accroche": "À Chanteloup-les-Vignes, les fidèles peuvent construire une chapelle à partir de mars 1514, pour un chantier qui s’étend jusqu’à octobre 1518.",
+ "histoire": {
+  "recit": "Chanteloup-les-Vignes naît comme commune à partir de 1789 : avant cela, Chanteloup n’était qu’un hameau de Triel. Son territoire est alors distrait de celui de Triel, mais aussi d’un hameau d’Andrésy nommé Le Chapitre, rattaché à la paroisse d’Andrésy. Dans le cahier de doléances, on décrit un village comptant 240 feux pour 800 habitants, et un territoire « enclavé dans 4 prévôtés ». Plus tard, au cœur de la vie paroissiale, l’Église Saint-Roch de Chanteloup-les-Vignes devient le lieu des chantiers : entre mars 1514 et octobre 1518, les fidèles peuvent construire une chapelle, puis, selon les étapes, le chœur est édifié sur un terrain offert en 1535. Les chapelles latérales, elles, sont reconstruites au XVIIe siècle. Aujourd’hui, la commune compte 10 861 habitants, appelés les Chantelouvais et les Chantelouvaises.",
+  "chronologie": [
+   {
+    "date": "1789",
+    "texte": "Chanteloup devient une commune : le territoire est distrait de Triel et aussi du hameau d’Andrésy, Le Chapitre, dépendant de la paroisse d’Andrésy.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1514-1518",
+    "texte": "De mars 1514 à octobre 1518, les fidèles peuvent construire une chapelle à l’église Saint-Roch, achevée en plusieurs étapes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1535",
+    "texte": "Le chœur est édifié sur un terrain offert en 1535, au milieu de la construction par étapes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Les chapelles latérales sont reconstruites au XVIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2023",
+    "texte": "Au dernier recensement de 2023, la commune compte 10 861 habitants.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Roch de Chanteloup-les-Vignes",
+   "histoire": "Église catholique paroissiale à Chanteloup-les-Vignes, elle associe une construction menée par les fidèles et des campagnes de travaux sur plusieurs périodes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.97885,
+   "lon": 2.03078,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Roch_de_Chanteloup-les-Vignes"
+  }
+ ],
+ "sources": [
+  "Chanteloup-les-Vignes est une commune française située dans le département des Yvelines en région Île-de-France. Au dernier recensement de 2023, la commune comptait 10 861 habitants. Ses habitants sont appelés les Chantelouvais et Chantelouvaises.",
+  "Jusqu'en 1789, Chanteloup est un hameau de Triel et ce n'est qu'à partir de cette époque qu'il a été formé en commune. Son territoire a été distrait de celui de Triel mais également d'un hameau d'Andrésy, Le Chapitre, qui dépendait de la paroisse d'Andrésy. Le cahier de doléances de Chanteloup indique que le village se compose de 240 feux avec 800 habitants et que son territoire se trouve enclavé dans 4 prévôtés […]",
+  "Lieu « Église Saint-Roch de Chanteloup-les-Vignes » : L'église Saint-Roch est une église catholique paroissiale, située à Chanteloup-les-Vignes, dans les Yvelines, en France.",
+  "Lieu « Église Saint-Roch de Chanteloup-les-Vignes », 1514 : C'est de mars 1514 à octobre 1518 que les fidèles de la ville peuvent construire une chapelle, qui sera achevée en plusieurs étapes ; le chœur est édifié sur un terrain offert en 1535 entre 1550 et 1555 ; les chapelles latérales sont reconstruites au XVIIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

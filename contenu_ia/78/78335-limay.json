@@ -1,0 +1,374 @@
+{
+ "commune": {
+  "titre": "Limay",
+  "code_insee": "78335",
+  "departement": "78",
+  "population": 17885,
+  "lat": 48.99416667,
+  "lon": 1.73666667,
+  "url": "https://fr.wikipedia.org/wiki/Limay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:16:48",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2926,
+  "sortie": 2546
+ },
+ "cout_usd": 0.003768,
+ "accroche": "En 1226, une chapelle carrée est édifiée au nord du chœur roman de l’Église Saint-Aubin de Limay.",
+ "histoire": {
+  "recit": "Limay, commune des Yvelines en Île-de-France, se tient au bord de la Seine, face à Mantes-la-Jolie, avec une vocation industrielle et des espaces naturels sensibles. Le terrain a pourtant commencé bien avant : des traces préhistoriques y ont été mises au jour lors de l’exploitation de sablières et ballastières.\n\nPlus tard, le cœur religieux de Limay se dessine autour de l’Église Saint-Aubin. Vers le début du règne de saint Louis, une chapelle s’élève au nord du chœur roman, puis l’église se complète ensuite dans un style gothique. À l’autre bout du paysage, le passage sur la Seine marque les esprits : le vieux pont relie la ville à l’île aux Dames, a vu des moulins y travailler, puis a été transformé au fil des démolitions, des reconstructions et même des destructions liées aux conflits.\n\nLe château des Célestins, né du monastère de la Sainte Trinité, raconte un autre pan de l’histoire de Limay. Et quand la ville passe à la modernité, le port de Limay-Porcheville s’impose comme un équipement fluvio-maritime, tandis que le viaduc de Limay franchit les bras de la Seine.\n\nAujourd’hui, la gare de Limay relie la commune à la ligne de Paris-Saint-Lazare à Mantes-Station via Conflans-Sainte-Honorine, poursuivant le rôle de carrefour que la Seine avait déjà imposé.",
+  "chronologie": [
+   {
+    "date": "époque préhistorique",
+    "texte": "Le site de Limay est déjà habité ; des restes archéologiques sont trouvés lors d’exploitations dans les alluvions quaternaires.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1226",
+    "texte": "Une chapelle carrée de deux fois deux travées est édifiée au nord du chœur roman de l’Église Saint-Aubin.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "à partir de 1230 (environ)",
+    "texte": "Le reste de l’église actuelle est édifié au nord de l’église romane, dans le style gothique.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "L’histoire du Château des Célestins est liée au monastère de la Sainte Trinité, fondé pour accueillir une communauté de moines Célestins.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "13 février 1376",
+    "texte": "La charte de fondation est publiée par le roi, pour édifier le monastère à l’emplacement de la chapelle Sainte Christine.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "fin du XVIIe siècle",
+    "texte": "La nef unique de l’époque est démolie vers la fin du XVIIe siècle ; restent la base du clocher et l’ancien chœur roman tardif.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "en 1778",
+    "texte": "Le monastère de la Sainte Trinité est supprimé, et le site sert de base à la construction du château.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1765",
+    "texte": "Le vieux pont de Mantes est démoli après la mise en service du pont Perronnet.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "jusqu’en 1855",
+    "texte": "La circulation côté Limay emprunte encore le vieux pont jusqu’en 1855, avant la mise en service du pont neuf de Limay.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Le vieux pont est partiellement détruit : deux arches centrales sont sautées et ne sont pas reconstruites.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1658",
+    "texte": "Un moulin sur le pont de Mantes est détruit lors d’une inondation.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "15 nivose an 12 (6 janvier 1804)",
+    "texte": "Le moulin du Ponceau est vendu à Pierre-Charles Vacher par acte notarié.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Le dernier moulin du vieux pont sombre pendant une crue, après un choc contre les pilotis.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1980",
+    "texte": "Un premier quai en rive de Seine de 200 m est érigé au Port de Limay.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1981",
+    "texte": "Le quai en fond de darse est construit.",
+    "sources": [
+     "S24"
+    ]
+   },
+   {
+    "date": "1983",
+    "texte": "Le quai Ouest puis le quai Est sont livrés.",
+    "sources": [
+     "S24"
+    ]
+   },
+   {
+    "date": "11 décembre 1986",
+    "texte": "La darse est officiellement inaugurée.",
+    "sources": [
+     "S25"
+    ]
+   },
+   {
+    "date": "17 avril 1984",
+    "texte": "Les premiers financements du viaduc sont débloqués dans le cadre du IXe contrat de plan État-région.",
+    "sources": [
+     "S27"
+    ]
+   },
+   {
+    "date": "1993",
+    "texte": "Le viaduc de Limay est mis en service.",
+    "sources": [
+     "S26"
+    ]
+   },
+   {
+    "date": "ouverte le 1er juin 1892",
+    "texte": "La gare de Limay est située sur la partie de la ligne ouverte à cette date.",
+    "sources": [
+     "S33"
+    ]
+   },
+   {
+    "date": "ouverture de la gare (1er juin 1892)",
+    "texte": "La ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine ouvre la portion où se situe la gare de Limay.",
+    "sources": [
+     "S33"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Aubin de Limay",
+   "histoire": "L’église Saint-Aubin de Limay est une église catholique paroissiale. Vers le début du règne de saint Louis, une chapelle carrée est ajoutée au nord du chœur roman, puis le reste de l’église est édifié à partir d’environ 1230 dans un style gothique. Au XVIIe siècle, la base du clocher et l’ancien chœur roman tardif subsistent après la démolition d’une nef unique vers la fin du XVIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.9946,
+   "lon": 1.73196,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Aubin_de_Limay"
+  },
+  {
+   "nom": "Château des Célestins (Limay)",
+   "histoire": "Le château des Célestins, de style néo-classique, prend place à Limay. Son histoire est liée au monastère de la Sainte Trinité fondé pour accueillir une communauté de moines Célestins ; la charte de fondation est publiée le 13 février 1376. Le monastère est supprimé en 1778, et le château s’élabore sur la base de ces éléments.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.999982871222,
+   "lon": 1.734835186199,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_C%C3%A9lestins_%28Limay%29"
+  },
+  {
+   "nom": "Vieux pont de Limay",
+   "histoire": "Le vieux pont de Limay enjambe un bras de la Seine, le bras de Limay, reliant la ville de Limay à l’île aux Dames. Les traces anciennes en subsistent : l’arche ogivale du XIIe siècle est la dernière trace de cette époque. La circulation continue encore jusqu’en 1855, puis l’ouvrage subit aussi des destructions en 1940, avec deux arches centrales sautées et non reconstruites.",
+   "anecdotes": [
+    {
+     "texte": "En 1940, le vieux pont compte onze arches ; deux arches centrales sont sautées pour retarder l’avancée, et elles ne seront pas reconstruites.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "La dernière trace de l’époque ancienne est une arche ogivale du XIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’arche ogivale du XIIe siècle est la dernière trace de cette époque.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.991944,
+   "lon": 1.725556,
+   "url": "https://fr.wikipedia.org/wiki/Vieux_pont_de_Limay"
+  },
+  {
+   "nom": "Moulins du vieux pont de Limay",
+   "histoire": "Sur le vieux pont de Limay, des moulins sont installés sur les arches enjambant un bras de la Seine. Le couvent de l’abbaye Saint-Corentin possède un moulin sur le pont de Mantes, détruit lors d’une inondation en 1658. Plus tard, le moulin du Ponceau est vendu en 1804 à Pierre-Charles Vacher, puis le dernier moulin s’achève en 1870 pendant une crue, après un choc contre les pilotis.",
+   "anecdotes": [
+    {
+     "texte": "En 1870, le dernier moulin sombre : « une péniche est venue heurter les pilotis du moulin et l’a détruit ».",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "En 1804, le moulin du Ponceau change de mains, vendu à Pierre-Charles Vacher par acte notarié le 15 nivose an 12.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.991944,
+   "lon": 1.725556,
+   "url": "https://fr.wikipedia.org/wiki/Moulins_du_vieux_pont_de_Limay"
+  },
+  {
+   "nom": "Port de Limay",
+   "histoire": "Le port de Limay-Porcheville est le premier port fluvio-maritime d’Île-de-France. Il se construit par étapes avec l’édification d’un premier quai en 1980, puis du quai en fond de darse en 1981, suivi du quai Ouest et du quai Est livrés en 1983. La darse est officiellement inaugurée le 11 décembre 1986.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.975,
+   "lon": 1.74361,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Limay"
+  },
+  {
+   "nom": "Viaduc de Limay",
+   "histoire": "Le viaduc de Limay est un viaduc routier en béton précontraint de 500 mètres mis en service en 1993. Il franchit les deux bras de la Seine entre Mantes-la-Ville et Limay, ainsi que l’île de Limay. Les financements sont débloqués dans le cadre du IXe contrat de plan État-région signé le 17 avril 1984, et l’ouvrage s’inscrit dans la rocade Est de Limay ouverte en 2002.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.98547,
+   "lon": 1.729347,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_Limay"
+  },
+  {
+   "nom": "Île aux Dames",
+   "histoire": "L’île aux Dames, aussi appelée île de Limay, est une île de la Seine longue d’environ trois kilomètres, située dans les Yvelines entre Mantes-la-Jolie et Limay. Au XIXe siècle, sa surface est occupée par une simple promenade ornée d’ormes ou de tilleuls et de quinconces de peupliers. Aujourd’hui, elle est connue comme le « pont de Corot » : Camille Corot y représente l’île à plusieurs reprises, dont un tableau intitulé Pont de Mantes, peint en 1868 et exposé au musée du Louvre.",
+   "anecdotes": [
+    {
+     "texte": "Elle est connue comme le « pont de Corot » : Camille Corot l’a représentée plusieurs fois, avec un tableau intitulé Pont de Mantes.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est connue comme le « pont de Corot ».",
+   "sources": [
+    "S31"
+   ],
+   "lat": 48.9878,
+   "lon": 1.7275,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_aux_Dames"
+  },
+  {
+   "nom": "Gare de Limay",
+   "histoire": "La gare de Limay est une gare ferroviaire de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine. Elle se situe sur la partie de la ligne ouverte le 1er juin 1892.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 48.984305,
+   "lon": 1.747002,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Limay"
+  }
+ ],
+ "sources": [
+  "Limay est une commune française des Yvelines et de la région Île-de-France. C'est une petite ville industrielle, situé en bord de Seine, au sud du Vexin français, face à Mantes-la-Jolie à 45 km à l'ouest de Paris. La commune, qui dispose de 300 hectares classés en espaces naturels sensibles, est devenue depuis le 1er juillet 2005 « ville-porte » du parc naturel régional du Vexin français. Elle participe au Concours […]",
+  "Le site de Limay était déjà habité à l'époque préhistorique. De nombreux restes archéologiques tels que pierres polies et taillées, pointes de flèches, haches, ont été trouvés dans le territoire communal, notamment à l'occasion de l'exploitation de sablières et ballastières dans les alluvions quaternaires. Avant la conquête romaine, le territoire était occupé par le peuple celte des Véliocasses, rattachée à la Gaule […]",
+  "Lieu « Église Saint-Aubin de Limay » : L'église Saint-Aubin est une église catholique paroissiale située à Limay, dans les Yvelines, en France.",
+  "Lieu « Église Saint-Aubin de Limay », 1226 : Vers le début du règne de saint Louis (en 1226), selon Louis Régnier, une chapelle carrée de deux fois deux travées est édifiée au nord du chœur roman.",
+  "Lieu « Église Saint-Aubin de Limay », 1230 : Le reste de l'église actuelle fut édifié à partir de 1230 environ au nord de l'église romane, dans le style gothique.",
+  "Lieu « Église Saint-Aubin de Limay », XVIIe siècle : Ce sont la base du clocher et l'ancien chœur de style roman tardif, qui faisaient suite à une nef unique de la même époque démolie vers la fin du XVIIe siècle.",
+  "Lieu « Église Saint-Aubin de Limay », aujourd'hui : Aujourd'hui, la paroisse de Limay-Vexin au sein du doyenné de Mantes regroupe seize communes, dont deux comptent deux lieux de culte.",
+  "Lieu « Château des Célestins (Limay) » : Le château des Célestins est un édifice de style néo-classique situé à Limay dans le département des Yvelines en région Île-de-France.",
+  "Lieu « Château des Célestins (Limay) », XIVe siècle : L'histoire de ce château est liée au monastère de la Sainte Trinité qui préexistait avant lui, un établissement fondé par le roi Charles V à la fin du XIVe siècle pour y installer une communauté de moines Célestins.",
+  "Lieu « Château des Célestins (Limay) », 1376 : Le monastère est édifié là ou se trouve déjà la chapelle Sainte Christine et la charte de fondation est publiée par le roi le 13 février 1376.",
+  "Lieu « Château des Célestins (Limay) », 1778 : Il a été construit sur la base du monastère de la Sainte Trinité (ordre des Célestins) qui a été supprimé en 1778.",
+  "Lieu « Château des Célestins (Limay) », aujourd'hui : Les revenus des moines (rentes, récoltes, etc) leur permettent de subsister durablement.",
+  "Lieu « Vieux pont de Limay » : Le vieux pont de Limay, qui enjambe un bras de la Seine, le bras de Limay, et relie la ville de Limay (Yvelines) à l'île aux Dames (également appelée « île de Limay ») est l'un des plus anciens ponts de France.",
+  "Lieu « Vieux pont de Limay », 1765 : Le vieux pont de Mantes fut démoli en 1765 après la mise en service d'un nouveau pont, le pont Perronnet, situé un peu en aval, à l'emplacement du pont actuel.",
+  "Lieu « Vieux pont de Limay », 1855 : La circulation continua, côté Limay, à emprunter le vieux pont jusqu'en 1855, année de la mise en service du pont neuf de Limay construit dans le prolongement du pont Perronet.",
+  "Lieu « Vieux pont de Limay », 1940 : Le pont, qui comptait onze arches, a été partiellement détruit en 1940 lorsque le génie militaire français fit sauter deux arches centrales, qui n'ont pas été reconstruites, pour retarder l'avancée de l'armée allemande.",
+  "Lieu « Vieux pont de Limay », aujourd'hui : L'arche ogivale du XIIe siècle est la dernière trace de cette époque.",
+  "Lieu « Moulins du vieux pont de Limay » : Les moulins du vieux pont de Limay étaient situés sur le vieux pont de Limay, qui enjambe un bras de la Seine sur le territoire de la commune de Limay, dans le département des Yvelines.",
+  "Lieu « Moulins du vieux pont de Limay », 1658 : Le couvent de l'Abbaye Saint-Corentin avait, sur le pont de Mantes, un moulin qui fut détruit lors d’une inondation en 1658.",
+  "Lieu « Moulins du vieux pont de Limay », 1804 : Le nom d'un exploitant des moulins est connu pour le début du XIXe siècle par un acte notarié : le 15 nivose an 12 (6 janvier 1804), le moulin du Ponceau est vendu à Pierre-Charles Vacher, meunier et propriétaire des maison et moulin construits sur le pont de Limay.",
+  "Lieu « Moulins du vieux pont de Limay », 1870 : Le dernier moulin, reposant entre la 3e et la 4e pile du pont, a sombré en 1870 pendant une crue, « une péniche est venue heurter les pilotis du moulin et l’a détruit ».",
+  "Lieu « Port de Limay » : Le port de Limay-Porcheville est le premier port fluvio-maritime d'Île-de-France.",
+  "Lieu « Port de Limay », 1980 : En 1980, un premier quai en rive de Seine de 200 m de long est érigé.",
+  "Lieu « Port de Limay », 1981 : Le quai en fond de darse est construit en 1981 ; l'année suivante, le quai Ouest et enfin le quai Est est livré en 1983.",
+  "Lieu « Port de Limay », 1986 : La darse est officiellement inaugurée le 11 décembre 1986.",
+  "Lieu « Viaduc de Limay » : Le viaduc de Limay est un viaduc routier en béton précontraint de 500 mètres de long mis en service en 1993 qui franchit les deux bras de la Seine entre Mantes-la-Ville et Limay, ainsi que l'île de Limay, dans les Yvelines (France).",
+  "Lieu « Viaduc de Limay », 1984 : Les premiers financements ont été débloqués, à hauteur de 120 millions de francs, dans le cadre du IXe contrat de plan État-région (CPER) signé le 17 avril 1984 et supportés à 55 % par l'État et à 45 % par la région Île-de-France.",
+  "Lieu « Viaduc de Limay », 2002 : Cet ouvrage fait partie de la rocade Est de Limay, ouverte en 2002, longue de 5 km, qui permet le contournement de l'agglomération de Mantes-Limay par la route départementale 983, en évitant les centres-villes de Mantes-la-Ville, Mantes-la-Jolie et Limay.",
+  "Lieu « Île aux Dames » : L’île aux Dames, appelée aussi île de Limay, est une île de la Seine, longue de trois kilomètres environ, située dans les Yvelines entre Mantes-la-Jolie et Limay, en amont de l'île l'Aumône voisine.",
+  "Lieu « Île aux Dames », XIXe siècle : Sa surface était occupée au XIXe siècle par une simple promenade ornée d'un plan d'ormes ou de tilleuls plantés par la ville de Mantes, avec des quinconces de peupliers détachés sur ses flancs.",
+  "Lieu « Île aux Dames », aujourd'hui : Il est connu comme le « pont de Corot », le peintre Camille Corot l’ayant représenté plusieurs fois, dont le célèbre tableau Pont de Mantes, montrant une vue depuis l’île de Limay, peint en 1868 et actuellement exposé au musée du Louvre.",
+  "Lieu « Gare de Limay » : La gare de Limay est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine, située dans la commune de Limay (département des Yvelines).",
+  "Lieu « Gare de Limay », 1892 : La gare est située sur la partie de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine ouverte le 1er juin 1892."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

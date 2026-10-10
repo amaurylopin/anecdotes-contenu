@@ -1,0 +1,84 @@
+{
+ "commune": {
+  "titre": "Montesson",
+  "code_insee": "78418",
+  "departement": "78",
+  "population": 14549,
+  "lat": 48.9076,
+  "lon": 2.1493,
+  "url": "https://fr.wikipedia.org/wiki/Montesson"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:29:58",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1025,
+  "sortie": 495
+ },
+ "cout_usd": 0.000824,
+ "accroche": "En 1360, Montesson devient une paroisse autonome, séparée de Chatou.",
+ "histoire": {
+  "recit": "Montesson, en Yvelines, est connue pour son ancienneté. Les traces d’activité humaine mises au jour sous forme de haches en silex laissent penser à une occupation dès la préhistoire.\n\nLes plus anciennes mentions écrites rattachent Montesson à l’époque romaine, au sens de villa, au même titre que Chatou. Plus tard, le destin paroissial change : en 1360, Montesson est érigée en paroisse autonome, distincte de Chatou.\n\nMais la commune connaît une rupture brutale au temps des conflits. En 1470, le village est complètement détruit pendant la guerre de Cent Ans : la population tombe à quatre habitants, selon le livre de l’élection de Paris.\n\nAu XVIe siècle, c’est une autre bascule. En 1577, les possessions restantes de l’abbaye de la Malnoue sont vendues à Guillaume le Pilleur, qui devient propriétaire du bac.",
+  "chronologie": [
+   {
+    "date": "1050",
+    "texte": "Des traces écrites datent de 1050 et indiquent Montesson, au même titre que Chatou, comme une ville au sens de villa (tel que compris par les Romains).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1144",
+    "texte": "Des traces écrites datent aussi de 1144 et mentionnent Montesson, comme Chatou, au sens de villa romaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1360",
+    "texte": "Montesson est érigée en paroisse autonome, séparée de Chatou.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1470",
+    "texte": "Le village est complètement détruit pendant la guerre de Cent Ans ; la population est réduite à quatre habitants, d’après le livre de l’élection de Paris.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1577",
+    "texte": "En 1577, les possessions restantes de l’abbaye de la Malnoue sont vendues à Guillaume le Pilleur, qui devient propriétaire du bac.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Montesson est une commune française située dans le département des Yvelines en région Île-de-France. Ses habitants sont appelés les Montessonnais.",
+  "Des traces d'activité humaine, sous forme de haches en silex, permettent de supposer que le territoire de l'actuelle commune de Montesson a été occupé à l'époque préhistorique. Des traces écrites datent de 1050 et 1144 et indiquent Montesson, tout comme Chatou, comme ville, au sens de villa tel que compris par les Romains. Chatou et Montesson étaient propriétés des abbayes de Saint-Denis et de Malnoue […]",
+  "1360 : Montesson a été érigée en paroisse autonome, séparée de Chatou, en 1360.",
+  "1470 : Le village est complètement détruit pendant la guerre de Cent Ans, la population fut réduite à quatre habitants en 1470, ce dont témoigne le livre de l'élection de Paris.",
+  "1577 : En 1577, les possessions restantes de l'abbaye de la Malnoue sont vendues à Guillaume le Pilleur qui devient propriétaire du bac."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIe"
+  ],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

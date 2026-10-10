@@ -1,0 +1,164 @@
+{
+ "commune": {
+  "titre": "Orgeval (Yvelines)",
+  "code_insee": "78466",
+  "departement": "78",
+  "population": 7252,
+  "lat": 48.9211,
+  "lon": 1.9764,
+  "url": "https://fr.wikipedia.org/wiki/Orgeval_%28Yvelines%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:31:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1422,
+  "sortie": 1234
+ },
+ "cout_usd": 0.001827,
+ "accroche": "À Orgeval, l’abbaye Notre-Dame d’Abbecourt est fondée en 1180 par Gasun, seigneur de Poissy. ",
+ "histoire": {
+  "recit": "Orgeval, commune des Yvelines, est habité depuis la préhistoire : des outils en silex du néolithique y ont été retrouvés. Une source a été exploitée par les Gallo-Romains pour ses vertus thérapeutiques, puis redécouverte vers 1708 par un médecin de l’abbaye, avant que son usage ne soit abandonné vers 1850.\n\nAu cœur de l’histoire religieuse d’Orgeval, l’abbaye Notre-Dame d’Abbecourt prend place : fondée en 1180 par Gasun, elle voit ses bâtiments sombrer en ruines vers 1440 à la suite de la guerre de Cent Ans, avant une reconstruction après la paix. Plus tard, en 1741, des plans d’une nouvelle église sont dressés, et la construction se poursuit jusqu’en 1749. Malgré cela, cette abbaye d’hommes est détruite vers le début du XIXe siècle.\n\nParallèlement, l’église Saint-Pierre-Saint-Paul d’Orgeval s’élève en plusieurs temps : un premier édifice au XIe siècle dont subsiste le portail ouest, puis une nouvelle église au milieu du XIIe siècle, avec un clocher et une abside. Le clocher est classé le 12 juillet 1886, et le reste de l’édifice est inscrit à l’inventaire des Monuments Historiques le 18 juin 1962.",
+  "chronologie": [
+   {
+    "date": "1180",
+    "texte": "Gasun, seigneur de Poissy, fait fonder l’abbaye Notre-Dame d’Abbecourt.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "vers 1440",
+    "texte": "À la suite de la guerre de Cent Ans, les bâtiments de l’abbaye sont en ruines, puis reconstruits après la paix.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Un premier édifice de l’église Saint-Pierre-Saint-Paul d’Orgeval est construit, avec un portail ouest conservé.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "milieu du XIIe siècle",
+    "texte": "Une nouvelle église est édifiée : clocher et abside en témoignent.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1741",
+    "texte": "Louis François Herbet dresse les plans d’une nouvelle église pour l’abbaye Notre-Dame d’Abbecourt.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1743 à 1749",
+    "texte": "La construction de la nouvelle église se poursuit, achevée entre 1743 et 1749.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "vers 1708",
+    "texte": "La source, exploitée jadis par les Gallo-Romains, est redécouverte vers 1708 par un médecin de l’abbaye.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1850",
+    "texte": "L’usage de cette source est abandonné vers 1850.",
+    "sources": [
+     "S4",
+     "S2"
+    ]
+   },
+   {
+    "date": "début du XIXe siècle",
+    "texte": "L’abbaye Notre-Dame d’Abbecourt, près de l’hôtel du Moulin d’Orgeval, est détruite vers le début du XIXe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "12 juillet 1886",
+    "texte": "Le clocher de l’église Saint-Pierre-Saint-Paul d’Orgeval est classé parmi les monuments historiques.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "18 juin 1962",
+    "texte": "Le reste de l’édifice de l’église Saint-Pierre-Saint-Paul d’Orgeval est inscrit à l’inventaire supplémentaire des Monuments Historiques.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Notre-Dame d'Abbecourt",
+   "histoire": "C’est une ancienne abbaye appartenant à l’ordre des prémontrés. Fondée en 1180 par Gasun, seigneur de Poissy, elle subit des ruines vers 1440 après la guerre de Cent Ans, avant d’être reconstruite. En 1741, des plans pour une nouvelle église sont établis, puis la construction se poursuit jusqu’en 1749. L’ensemble est ensuite détruit vers le début du XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S3"
+   ],
+   "lat": 48.91,
+   "lon": 1.957,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_d%27Abbecourt"
+  },
+  {
+   "nom": "Église Saint-Pierre-Saint-Paul d'Orgeval",
+   "histoire": "Église catholique d’Orgeval, elle comporte un premier édifice du XIe siècle dont subsiste le portail ouest. Une nouvelle église est édifiée au milieu du XIIe siècle : clocher et abside en sont les témoins. Le clocher est classé le 12 juillet 1886, et le reste de l’édifice est inscrit à l’inventaire supplémentaire des Monuments Historiques le 18 juin 1962.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 48.9195,
+   "lon": 1.97632,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-Saint-Paul_d%27Orgeval"
+  }
+ ],
+ "sources": [
+  "Orgeval est une commune française située dans le département des Yvelines en région Île-de-France. Ses habitants sont appelés les Orgevalais.",
+  "Le site d'Orgeval est habité depuis la préhistoire, des outils en silex datés du néolithique y ont été retrouvés. Une source y fut sans doute exploitée par les Gallo-Romains pour ses vertus thérapeutiques. Elle a d'ailleurs été redécouverte vers 1708 par le médecin de l'abbaye. Malgré tout, son usage fut abandonné vers 1850. Mais sa première mention dans l'Histoire est la fondation de l'abbaye Notre-Dame d'Abbecourt […]",
+  "XIXe siècle : Cette abbaye d'hommes qui dépendait du diocèse de Chartres, située près de l'hôtel du Moulin d'Orgeval, fut détruite vers le début du XIXe siècle.",
+  "1850 : Malgré tout, son usage fut abandonné vers 1850.",
+  "Lieu « Abbaye Notre-Dame d'Abbecourt » : L’abbaye de Notre-Dame d'Abbecourt est une ancienne abbaye qui appartenait à l'ordre des prémontrés.",
+  "Lieu « Abbaye Notre-Dame d'Abbecourt », 1180 : En 1180, Beata Maria de Alba Curia est fondée par Gasun, seigneur de Poissy.",
+  "Lieu « Abbaye Notre-Dame d'Abbecourt », 1440 : Vers 1440, à la suite de la guerre de Cent Ans, les bâtiments sont en ruines, et, la paix retrouvée, sont reconstruits.",
+  "Lieu « Abbaye Notre-Dame d'Abbecourt », 1741 : En 1741, l'architecte Louis François Herbet dresse les plans d'une nouvelle église dont la construction sera achevée par l'architecte Claude-Louis d'Aviler de 1743 à 1749.",
+  "Lieu « Église Saint-Pierre-Saint-Paul d'Orgeval » : L'église Saint-Pierre-Saint-Paul est une église catholique située à Orgeval, en France.",
+  "Lieu « Église Saint-Pierre-Saint-Paul d'Orgeval », XIe siècle : Un premier édifice est construit au XIe siècle, dont il subsiste encore le portail ouest.",
+  "Lieu « Église Saint-Pierre-Saint-Paul d'Orgeval », XIIe siècle : Une nouvelle église est alors édifiée au milieu du XIIe siècle, dont témoignent le clocher et l'abside.",
+  "Lieu « Église Saint-Pierre-Saint-Paul d'Orgeval », 1886 : Le clocher est classé parmi les monuments historiques le 12 juillet 1886, et le reste de l'édifice est inscrit à l'inventaire supplémentaire des Monuments Historiques le 18 juin 1962."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

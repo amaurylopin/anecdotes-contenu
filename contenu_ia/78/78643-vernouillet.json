@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Vernouillet (Yvelines)",
+  "code_insee": "78643",
+  "departement": "78",
+  "population": 9699,
+  "lat": 48.9725,
+  "lon": 1.983,
+  "url": "https://fr.wikipedia.org/wiki/Vernouillet_%28Yvelines%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:00:56",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1108,
+  "sortie": 528
+ },
+ "cout_usd": 0.000882,
+ "accroche": "Le 25 septembre 1870, le Ville de Florence s’élève du champ de la Glacière à Paris avec Gabriel Mangin et son passager à destination de Tours, malgré l’encerclement.",
+ "histoire": {
+  "recit": "Vernouillet est une commune des Yvelines, en Île-de-France, à environ 13 km au nord-ouest de Saint-Germain-en-Laye et à 29 km de la Porte Maillot. Ses habitants sont appelés les Vernolitains. \n\nIci, l’histoire se lit surtout à travers l’Église Saint-Étienne de Vernouillet. On la rattache à des droits exercés sur le village par les bénédictins de Saint-Magloire au Xe siècle, et l’édifice aurait pu être bâti à leur initiative. \n\nPlus près de nous, la base du clocher, les vestiges de la nef primitive et le transept sud datent du XIIe siècle : ils affichent un style roman qui annonce déjà le gothique.",
+  "chronologie": [
+   {
+    "date": "Xe siècle",
+    "texte": "L’église Saint-Étienne aurait pu être bâtie à l’initiative des bénédictins de Saint-Magloire, qui exercent des droits sur le village.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "La base du clocher, les vestiges de la nef primitive et le transept sud remontent au XIIe siècle, dans un style roman annonçant le gothique.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "25 septembre 1870",
+    "texte": "Le Ville de Florence, ballon monté utilisé pour sortir de Paris malgré l’encerclement, s’envole du champ de la Glacière à Paris : l’aéronaute Gabriel Mangin emporte un passager, un certain de Lutz, commissaire du gouvernement, vers Tours.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Étienne de Vernouillet",
+   "histoire": "Église catholique à Vernouillet, dont l’origine est parfois rattachée aux bénédictins de Saint-Magloire au Xe siècle. Une partie du bâti remonte au XIIe siècle : base du clocher, vestiges de la nef primitive et transept sud, de style roman annonçant le gothique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 48.9717,
+   "lon": 1.98364,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Vernouillet"
+  }
+ ],
+ "sources": [
+  "Vernouillet est une commune du département des Yvelines, dans la région Île-de-France, en France, située à 13 km environ au nord-ouest de Saint-Germain-en-Laye, et à 29 km de la Porte Maillot (Paris). Ses habitants sont appelés les Vernolitains.",
+  "Malgré des sources discordantes, c'est probablement le 25 septembre 1870 que le Ville de Florence, l'un des premiers ballons montés utilisés pour sortir de Paris malgré l'encerclement, emportant l'aéronaute Gabriel Mangin et son passager, un certain de Lutz, commissaire du gouvernement, à destination de Tours, s'envole du champ de la Glacière, boulevard d'Italie à Paris alors assiégée par les Prussiens. Après avoir […]",
+  "Lieu « Église Saint-Étienne de Vernouillet » : L'église Saint-Étienne est une église catholique située à Vernouillet, en France.",
+  "Lieu « Église Saint-Étienne de Vernouillet », Xe siècle : Elle aurait pu être bâtie à l'initiative des bénédictins de Saint-Magloire qui au Xe siècle exercent des droits sur ce village.",
+  "Lieu « Église Saint-Étienne de Vernouillet », aujourd'hui : La base du clocher, les vestiges de la nef primitive, et le transept sud remontent au XIIe siècle et sont de style roman, mais préludent au style gothique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

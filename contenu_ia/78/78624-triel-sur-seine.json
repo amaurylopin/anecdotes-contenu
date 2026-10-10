@@ -1,0 +1,219 @@
+{
+ "commune": {
+  "titre": "Triel-sur-Seine",
+  "code_insee": "78624",
+  "departement": "78",
+  "population": 12206,
+  "lat": 48.98,
+  "lon": 2.00694,
+  "url": "https://fr.wikipedia.org/wiki/Triel-sur-Seine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:41:34",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2238,
+  "sortie": 1732
+ },
+ "cout_usd": 0.002613,
+ "accroche": "Le pont suspendu de Triel est mis en service en septembre 1838, après avoir franchi la Seine dans la commune de Triel-sur-Seine. ",
+ "histoire": {
+  "recit": "À Triel-sur-Seine, la Seine n’apporte pas que le paysage : elle impose aussi des passages, des reconstructions et des changements de paroisse.\n\nL’histoire commence loin dans les récits : selon Gautier de Coutances, les habitants du bord de la Seine, dont Triel, auraient été évangélisés par saint Nicaise, disciple de saint Denis ; et la présence ancienne de Triel, « Triellum » puis « Trel », serait ainsi attestée. Plus concrètement, lors de la construction de la voie et de la gare, un cimetière mérovingien a été découvert.\n\nAu XVIe siècle, la paroisse Saint-Martin de Triel rassemble plusieurs lieux, avant que les équilibres ne se modifient : en 1791, Chanteloup et Carrières deviennent des communes, tandis que Pissefontaine revient à Triel.\n\nLa guerre franco-prussienne marque aussi la commune : Triel est occupée par les troupes prussiennes à partir du 18 septembre 1870. Puis, le pont suspendu devient un acteur de l’histoire : mis en service en septembre 1838, il est détruit le 9 juin 1940, avant d’être remplacé et déplacé vers l’amont.\n\nAujourd’hui, Triel s’affirme aussi par ses lieux : l’église Saint-Martin et le pont de Triel, et, côté ciel, l’Observatoire de Triel-sur-Seine et le Parc aux étoiles.",
+  "chronologie": [
+   {
+    "date": "1515",
+    "texte": "Jusqu’à la Révolution, la paroisse Saint-Martin de Triel comprend Triel, Pissefontaine, Chanteloup, dont l’église construite au XVe siècle est reconstruite en 1515.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1791",
+    "texte": "Chanteloup et Carrières sont séparées de la paroisse de Triel et érigées en communes, tandis que Pissefontaine est intégrée à Triel.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 septembre 1870",
+    "texte": "Triel est occupée par les troupes prussiennes à partir du 18 septembre 1870, lors du siège de Paris, durant la guerre franco-prussienne.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "septembre 1838",
+    "texte": "Le premier pont construit à Triel pour traverser la Seine est mis en service en septembre 1838.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "9 juin 1940",
+    "texte": "Le pont suspendu est détruit par le génie militaire français le 9 juin 1940, pour freiner l’avance de l’armée allemande.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1956",
+    "texte": "Le pont est remis en service en 1956, en remplacement de celui de 1838 détruit en juin 1940.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "L’observatoire est fondé en 1973 par le journaliste Jean-Paul Trachier.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "11 septembre 2003",
+    "texte": "Le pont de Triel-sur-Seine est inauguré le 11 septembre 2003.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "Le Parc aux étoiles est géré par la Communauté urbaine Grand Paris Seine & Oise depuis le 1er janvier 2016.",
+    "sources": [
+     "S25"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Triel-sur-Seine",
+   "histoire": "Église catholique paroissiale à Triel-sur-Seine, son vaisseau central connaît des effondrements probables au XIVe siècle, suivis de reconstructions des parties hautes. À la fin du XIXe siècle, la nef menace de s’écrouler, et sa démolition semble inévitable. La richesse des verrières de la Renaissance lui vaut un classement au titre des monuments historiques dès la liste de 1862.",
+   "anecdotes": [
+    {
+     "texte": "La nef menace de s’écrouler à la fin du XIXe siècle : une démolition semble alors inévitable.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Depuis la Révolution française, Triel dépend du diocèse de Versailles nouvellement créé.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 48.9826,
+   "lon": 2.00276,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Triel-sur-Seine"
+  },
+  {
+   "nom": "Pont suspendu de Triel",
+   "histoire": "Pont routier de type suspendu franchissant la Seine à Triel-sur-Seine. Le premier pont du genre à Triel est mis en service en septembre 1838, puis détruit le 9 juin 1940 ; un nouveau pont est mis en service en 1956. Son emplacement est ensuite déplacé de 74 mètres vers l’amont du précédent.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Son emplacement est déplacé de 74 mètres vers l’amont du précédent.",
+   "sources": [
+    "S15"
+   ],
+   "lat": 48.978611,
+   "lon": 2.001389,
+   "url": "https://fr.wikipedia.org/wiki/Pont_suspendu_de_Triel"
+  },
+  {
+   "nom": "Château de Triel",
+   "histoire": "Le château de Triel, aujourd’hui disparu, était situé sur la rive droite de la Seine à Triel-sur-Seine. Le château vieux est construit au XVIIe siècle à la place d’un château fort, et le château neuf constitue une extension réalisée au XVIIIe siècle. En 1796, le château est vendu au sieur Bottot, secrétaire de Barras, puis démoli, le domaine étant morcelé en plusieurs lots.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.9844,
+   "lon": 2,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Triel"
+  },
+  {
+   "nom": "Observatoire de Triel-sur-Seine",
+   "histoire": "L’Observatoire de Triel-sur-Seine, appelé aussi Centre astronomique des Yvelines, est un observatoire astronomique situé à Triel-sur-Seine et comprend un télescope.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’observatoire est fondé en 1973 par le journaliste français Jean-Paul Trachier.",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 48.9983,
+   "lon": 2.00929,
+   "url": "https://fr.wikipedia.org/wiki/Observatoire_de_Triel-sur-Seine"
+  },
+  {
+   "nom": "Pont de Triel-sur-Seine",
+   "histoire": "Viaduc routier à double tablier situé à Triel-sur-Seine. Il est inauguré le 11 septembre 2003 et correspond au dernier pont sur la Seine construit dans les Yvelines.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 48.9675,
+   "lon": 2.001389,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Triel-sur-Seine"
+  },
+  {
+   "nom": "Parc aux étoiles",
+   "histoire": "Le Parc aux étoiles est une exposition sur l’astronomie et l’exploration spatiale installée à Triel-sur-Seine dans le parc du château de la To… (parc du château de la To…). Il est lié à Jean-Paul Trachier, fondateur de l’observatoire et du parc.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le Parc aux étoiles est actuellement géré par la Communauté urbaine Grand Paris Seine & Oise depuis le 1er janvier 2016.",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 48.998634,
+   "lon": 2.00979,
+   "url": "https://fr.wikipedia.org/wiki/Parc_aux_%C3%A9toiles"
+  }
+ ],
+ "sources": [
+  "Triel-sur-Seine est une commune française du département des Yvelines en région Île-de-France, au nord-ouest de Paris à environ 35 kilomètres, et à 12 km environ de Saint-Germain-en-Laye, en bordure de la Seine. Ses habitants sont appelés les Triellois.",
+  "Selon Gautier de Coutances, les habitants du bord de la Seine, Conflans, Andrésy, Triel, Vaux, Meulan, Mantes, la Roche-Guyon, etc. aurait été évangélisés par saint Nicaise, disciple de saint Denis. Ces faits prouverait que Triel, Triellum en latin puis Trel en langue romane existait dans la haute Antiquité. Lors de la construction de la voie et de la gare, on a découvert un cimetière mérovingien, avec des […]",
+  "1515 : Jusqu'à la Révolution la paroisse Saint-Martin de Triel comprenait alors Triel, Pissefontaine, Chanteloup, dont l'église construite au XVe siècle est reconstruite en 1515 et Carrières qui ne fut dotée d'une église qu'au XVIIe siècle était à la collation de l'abbé de Fécamp.",
+  "1791 : En 1791, Chanteloup et Carrières sont séparées de la paroisse de Triel et érigées en communes, tandis que Pissefontaine était intégrée à Triel.",
+  "1870 : Triel est occupée par les troupes prussiennes à partir du 18 septembre 1870, lors du siège de Paris, durant la guerre franco-prussienne.",
+  "Lieu « Église Saint-Martin de Triel-sur-Seine » : L'église Saint-Martin est une église catholique paroissiale située à Triel-sur-Seine, en France.",
+  "Lieu « Église Saint-Martin de Triel-sur-Seine », XIVe siècle : Les voûtes de son vaisseau central s'effondrent probablement au bout de deux générations, ce qui motive la reconstruction des parties hautes au début du XIVe siècle.",
+  "Lieu « Église Saint-Martin de Triel-sur-Seine », XIXe siècle : Or, à la fin du XIXe siècle, la nef menace de s'écrouler, et sa démolition semble inévitable.",
+  "Lieu « Église Saint-Martin de Triel-sur-Seine », 1862 : En tant qu'édifice d'une grande valeur artistique, qui peut en plus s'enorgueillir de posséder une bonne douzaine de verrières de la Renaissance, l'église Saint-Martin est classée au titre des monuments historiques assez tôt par la liste de 1862.",
+  "Lieu « Église Saint-Martin de Triel-sur-Seine », aujourd'hui : Depuis la Révolution française, Triel dépend du diocèse de Versailles nouvellement créé, qui regroupe l'ensemble des paroisses du département de Seine-et-Oise, et aujourd'hui, des Yvelines.",
+  "Lieu « Pont suspendu de Triel » : Le pont suspendu de Triel-sur-Seine est un pont routier de type suspendu qui franchit la Seine dans la commune de Triel-sur-Seine (département français des Yvelines).",
+  "Lieu « Pont suspendu de Triel », 1838 : Le premier pont construit à Triel pour traverser la Seine a été mis en service en septembre 1838.",
+  "Lieu « Pont suspendu de Triel », 1940 : Le pont est à nouveau détruit par le génie militaire français le 9 juin 1940 pour freiner l'avance de l'armée allemande au cours de la bataille de France.",
+  "Lieu « Pont suspendu de Triel », 1956 : Ce pont fut mis en service en 1956 et remplaçait le premier pont suspendu de Triel datant de 1838 et détruit en juin 1940.",
+  "Lieu « Pont suspendu de Triel », aujourd'hui : Son emplacement est déplacé de 74 mètres vers l'amont du précédent.",
+  "Lieu « Château de Triel » : Le château de Triel, aujourd'hui disparu, était situé sur la rive droite de la Seine, sur la commune de Triel-sur-Seine, dans le département des Yvelines.",
+  "Lieu « Château de Triel », XVIIe siècle : Le château vieux fut construit au XVIIe siècle à la place d'un château fort ; le château neuf est une extension réalisée au XVIIIe siècle.",
+  "Lieu « Château de Triel », 1796 : 1796: Le château est vendu au sieur Bottot, secrétaire de Barras, qui le fait démolir; le domaine est morcelé en plusieurs lots.",
+  "Lieu « Château de Triel », aujourd'hui : Le château de Triel, aujourd'hui disparu, était situé sur la rive droite de la Seine, sur la commune de Triel-sur-Seine, dans le département des Yvelines.",
+  "Lieu « Observatoire de Triel-sur-Seine » : L’observatoire de Triel-sur-Seine ou Centre astronomique des Yvelines est un observatoire astronomique situé à Triel-sur-Seine, en France, qui comprend un télescope.",
+  "Lieu « Observatoire de Triel-sur-Seine », 1973 : L'observatoire est fondé en 1973 par le journaliste français Jean-Paul Trachier, également fondateur du parc aux étoiles.",
+  "Lieu « Pont de Triel-sur-Seine » : Le pont de Triel-sur-Seine est un viaduc routier à double tablier qui se trouve dans le département français des Yvelines, à Triel-sur-Seine.",
+  "Lieu « Pont de Triel-sur-Seine », 2003 : Inauguré le 11 septembre 2003, c'est le dernier pont sur la Seine construit dans les Yvelines.",
+  "Lieu « Parc aux étoiles » : Le Parc aux étoiles, CCSTI des Yvelines (fondé par Jean-Paul Trachier, également fondateur de l'observatoire de Triel-sur-Seine) est une exposition sur l'astronomie et l'exploration spatiale installé à Triel-sur-Seine dans le parc du château de la To",
+  "Lieu « Parc aux étoiles », aujourd'hui : Le Parc aux étoiles est actuellement géré par la Communauté urbaine Grand Paris Seine & Oise depuis le 1er janvier 2016."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIe"
+  ],
+  "nb_lieux": 6,
+  "nb_anecdotes": 1
+ }
+}

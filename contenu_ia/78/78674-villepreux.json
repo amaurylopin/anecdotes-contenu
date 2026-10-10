@@ -1,0 +1,152 @@
+{
+ "commune": {
+  "titre": "Villepreux",
+  "code_insee": "78674",
+  "departement": "78",
+  "population": 11931,
+  "lat": 48.8308,
+  "lon": 2.0031,
+  "url": "https://fr.wikipedia.org/wiki/Villepreux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:43:16",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1239,
+  "sortie": 877
+ },
+ "cout_usd": 0.001344,
+ "accroche": "Villepreux trouve une première mention écrite dans une charte de Charles le Chauve datée de 856, selon la source locale.",
+ "histoire": {
+  "recit": "Dans la plaine de Versailles, Villepreux a une entrée précoce dans l’écrit, mais pas seulement : la découverte d’un cimetière mérovingien, mise au jour à la fin du XIXe siècle au haut de la pépinière de l’école d’horticulture Le Nôtre, rappelle que des habitants existaient bien avant cette charte.\n\nAu Moyen Âge, la vie locale suit la ligne des seigneurs : du XIe siècle à 1789, Villepreux compte 34 seigneurs successifs.\n\nPlus tard, la grande chasse royale influence le destin du lieu : lors de l’élaboration de la « plaine de Versailles », un échange de terre permet à Pierre François de Francini de récupérer la seigneurie de Villepreux, érigée en comté en 1707. Le château de Villepreux, aussi appelé château de Grand'Maisons, marque encore le paysage.\n\nL’église Saint-Germain, édifiée au XIIe siècle, porte le vocable de Saint-Germain, évêque d’Auxerre. Et l’histoire du château continue : en 1949, Simone s’y installe, puis Luc Le Gouz de Saint Seine est installé dans la ferme en 1972.",
+  "chronologie": [
+   {
+    "date": "856",
+    "texte": "Une charte de Charles le Chauve mentionne Villepreux par écrit.",
+    "sources": [
+     "S2",
+     "S1"
+    ]
+   },
+   {
+    "date": "fin du XIXe siècle",
+    "texte": "Un cimetière mérovingien est découvert sur le site de l’école d’horticulture Le Nôtre, aujourd’hui Centre de formation professionnelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle - 1789",
+    "texte": "Villepreux compte 34 seigneurs successifs.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1706",
+    "texte": "Dans le cadre de la « plaine de Versailles », un échange de terre permet à Pierre François de Francini de récupérer la seigneurie de Villepreux.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1707",
+    "texte": "La seigneurie de Villepreux est érigée en comté.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "L’église Saint-Germain est édifiée sous le vocable de Saint-Germain, évêque d’Auxerre.",
+    "sources": [
+     "S7",
+     "S6"
+    ]
+   },
+   {
+    "date": "1949",
+    "texte": "À la mort de Thibault, Simone occupe le château.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1972",
+    "texte": "Simone installe son fils Luc Le Gouz de Saint Seine dans la ferme.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Villepreux",
+   "histoire": "Le château de Villepreux, aussi appelé château de Grand'Maisons, est un château du XVIIIe siècle situé dans le domaine de Grand'Maisons, dans la commune.",
+   "anecdotes": [
+    {
+     "texte": "Lors de l’élaboration de la « plaine de Versailles », un échange de terre permet en 1706 à Pierre François de Francini de récupérer la seigneurie de Villepreux, ensuite érigée en comté en 1707.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 1949, le château est occupé par Simone, puis Luc Le Gouz de Saint Seine est installé dans la ferme en 1972.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 48.83767,
+   "lon": 2.01248,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Villepreux"
+  },
+  {
+   "nom": "Église Saint-Germain de Villepreux",
+   "histoire": "L’église Saint-Germain est un édifice religieux situé à Villepreux. Elle a été édifiée au XIIe siècle sous le vocable de Saint-Germain, évêque d’Auxerre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 48.833493,
+   "lon": 2.012166,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain_de_Villepreux"
+  }
+ ],
+ "sources": [
+  "Villepreux est une commune française située dans le département des Yvelines en région Île-de-France, en France, située à environ 20 kilomètres au sud-ouest de Paris, au cœur de la plaine de Versailles. Ses habitants sont appelés les Villepreusiens.",
+  "Si la première mention écrite sur Villepreux remonte à une charte de Charles le Chauve datée de 856, cela n’exclut pas l’existence d’habitants avant cette époque comme l’atteste la découverte d’un cimetière mérovingien en haut de la pépinière de l’école d’horticulture Le Nôtre, à la fin du XIXe siècle (aujourd’hui Centre de formation professionnelle). Du XIe siècle à 1789, Villepreux compte 34 seigneurs successifs. […]",
+  "Lieu « Château de Villepreux » : Le château de Villepreux ou château de Grand'Maisons est un château du XVIIIe siècle situé à quelques kilomètres de Versailles, à Villepreux, dans le domaine de Grand'Maisons.",
+  "Lieu « Château de Villepreux », 1706 : Lors de l'élaboration de la « plaine de Versailles », vaste domaine de chasse du roi Louis XIV, un échange de terre permet à Pierre François de Francini de récupérer en 1706 la seigneurie de Villepreux, qui est érigée en comté en 1707.",
+  "Lieu « Château de Villepreux », 1949 : À la mort de Thibault en 1949, le château est occupée par sa fille Simone, qui installe son fils Luc Le Gouz de Saint Seine dans la ferme en 1972.",
+  "Lieu « Église Saint-Germain de Villepreux » : L’église Saint-Germain est un édifice religieux qui se trouve dans la commune française de Villepreux, dans les Yvelines.",
+  "Lieu « Église Saint-Germain de Villepreux », XIIe siècle : L'église fut édifiée au XIIe siècle sous le vocable de Saint-Germain, évêque d'Auxerre."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

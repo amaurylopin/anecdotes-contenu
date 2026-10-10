@@ -1,0 +1,270 @@
+{
+ "commune": {
+  "titre": "Viroflay",
+  "code_insee": "78686",
+  "departement": "78",
+  "population": 17237,
+  "lat": 48.80083333,
+  "lon": 2.17305556,
+  "url": "https://fr.wikipedia.org/wiki/Viroflay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:19:12",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2715,
+  "sortie": 1618
+ },
+ "cout_usd": 0.002566,
+ "accroche": "Ouverte le 18 juillet 1840, la gare de Viroflay-Rive-Droite demeure desservie par la ligne L du Transilien. ",
+ "histoire": {
+  "recit": "À Viroflay, la grande route reliant Paris à Versailles a depuis longtemps tenu les habitants au contact des grands événements nationaux. À deux pas des voies, les lieux de culte marquent les temps anciens, tandis que le patrimoine ferroviaire raconte l’évolution des trajets.\n\nDans le centre historique, la rue Jean-Rey rassemble des repères : l’église Saint-Eustache, érigée en paroisse au XVIe siècle et consacrée en 1543, puis saccagée en novembre 1793. Plus loin, le pavillon Saint-Vigor, construit en 1770, a connu l’inscription monument historique et de longues périodes d’abandon avant sa restauration.\n\nLe paysage de la commune est aussi façonné par la mobilité : la gare de Viroflay-Rive-Droite, ouverte en 1840, reconstruite dans les années 1930, a été remplacée par l’actuel pont lors des travaux de réélectrification. Et pour relier des lignes différentes, le viaduc de Viroflay, appelé localement « les Arcades », a été construit au milieu du XIXe siècle puis électrifié en 1995.",
+  "chronologie": [
+   {
+    "date": "1543",
+    "texte": "L’église Saint-Eustache est consacrée par le cardinal Eustache du Bellay.",
+    "sources": [
+     "S29"
+    ]
+   },
+   {
+    "date": "1695",
+    "texte": "Viroflay est rachetée en 1695 par la famille royale à la veuve du chancelier Michel Le Tellier, seigneur de Chaville et de Viroflay.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "La gare de Viroflay-Rive-Droite est ouverte le 18 juillet 1840.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1851-1852",
+    "texte": "Le viaduc de Viroflay, appelé localement « les Arcades », est construit entre 1851 et 1852 et ouvert en 1852.",
+    "sources": [
+     "S20",
+     "S21"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Les locomotives à vapeur système Valentin Purrey sont utilisées avant l’électrification complète de la ligne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "La ligne est complètement électrifiée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "La première pierre de l’église Notre-Dame-du-Chêne est posée le 19 juin 1960 et l’église est achevée et consacrée le 16 avril 1966.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "Le pont actuel de la gare de Viroflay-Rive-Droite est mis en place lors des travaux de réélectrification.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1995",
+    "texte": "Le viaduc de Viroflay est électrifié en 1995.",
+    "sources": [
+     "S21"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Viroflay-Rive-Droite",
+   "histoire": "Gare de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite, elle a été ouverte le 18 juillet 1840 et reste desservie par la ligne L du Transilien. Reconstruite durant les années 1930, elle a été remplacée par l’actuel pont en 1976 lors des travaux de réélectrification.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.80549,
+   "lon": 2.1683,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Viroflay-Rive-Droite"
+  },
+  {
+   "nom": "Rue Jean-Rey (Viroflay)",
+   "histoire": "Voie du centre historique de Viroflay, la rue Jean-Rey relie les repères religieux et patrimoniaux. On y trouve l’église Saint-Eustache et l’histoire du pavillon Saint-Vigor, devenu ensuite une école avant de rester une rue commerçante.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.79914,
+   "lon": 2.16892,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Jean-Rey_%28Viroflay%29"
+  },
+  {
+   "nom": "Pavillon Saint-Vigor",
+   "histoire": "Demeure historique construite en 1770, le pavillon Saint-Vigor a été inscrit monument historique en 1945 et 1946. Il a ensuite été presque abandonné pendant une trentaine d’années, avant une restauration en 2004. Un aménagement ancien permettait l’évolution des carrosses.",
+   "anecdotes": [
+    {
+     "texte": "On disait qu’une demi-lune servait à l’évolution des carrosses, à l’emplacement où ont été plantés en 1794 deux peupliers, appelés « arbres de la liberté ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.79919,
+   "lon": 2.16761,
+   "url": "https://fr.wikipedia.org/wiki/Pavillon_Saint-Vigor"
+  },
+  {
+   "nom": "Viaduc de Viroflay",
+   "histoire": "Le viaduc de Viroflay, appelé localement « les Arcades », assure le raccordement entre la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite et la ligne de Paris-Montparnasse à Brest (rive gauche). Construit entre 1851 et 1852, il a été électrifié en 1995.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.8041,
+   "lon": 2.17008,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_Viroflay"
+  },
+  {
+   "nom": "Église Notre-Dame-du-Chêne de Viroflay",
+   "histoire": "Église catholique située rue Rieussec, dont la première pierre est posée en 1960. Achevée et consacrée en avril 1966, elle se distingue par une architecture typique des années 1960, principalement en béton et bois lamellé-collé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.80253,
+   "lon": 2.1697,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-du-Ch%C3%AAne_de_Viroflay"
+  },
+  {
+   "nom": "Rue Rieussec",
+   "histoire": "Voie du centre historique de Viroflay. À la fin du XIXe siècle, elle accueille des bâtiments publics, et en 1990 s’y installe le siège social de Savencia Fromage & Dairy dans l’« Alliance ».",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.801846,
+   "lon": 2.170798,
+   "url": "https://fr.wikipedia.org/wiki/Rue_Rieussec"
+  },
+  {
+   "nom": "Église Saint-Eustache de Viroflay",
+   "histoire": "Église située rue Jean-Rey, construite en 1543 et consacrée par le cardinal Eustache du Bellay. En novembre 1793, elle est saccagée et ses biens sont vendus aux enchères.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.79921,
+   "lon": 2.17157,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Eustache_de_Viroflay"
+  },
+  {
+   "nom": "Chêne de la Vierge à Viroflay",
+   "histoire": "Arbre consacré à Viroflay, présenté comme plusieurs fois centenaire. Une statue de pierre, copie de celle de la cathédrale de Chartres, y est installée en 1881, avant que sa tête ne soit brisée en juillet suivant.",
+   "anecdotes": [
+    {
+     "texte": "En juillet suivant l’installation de la statue de pierre, la tête de la Vierge est brisée à coup de pierres.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 48.79697,
+   "lon": 2.17531,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%AAne_de_la_Vierge_%C3%A0_Viroflay"
+  }
+ ],
+ "sources": [
+  "Viroflay est une commune française située dans le département des Yvelines en région Île-de-France, le long de l'axe majeur entre le sud-ouest de Paris et Versailles et à la limite du département des Hauts-de-Seine. Avec dix-huit autres communes de la banlieue ouest de Paris, Viroflay appartient à la communauté d'agglomération Versailles Grand Parc. Viroflay a la particularité de disposer d'un patrimoine forestier […]",
+  "La grande route, qui relie Paris à Versailles, et qui constitue de nos jours le principal cœur de ville, a depuis longtemps permis aux habitants de Viroflay de prendre part à de nombreux événements nationaux, notamment : les journées des 5 et 6 octobre 1789 (marche révolutionnaire des Parisiens sur Versailles et retour de la famille royale à Paris), le siège de Paris par les Prussiens pendant la guerre de 1870-1871, […]",
+  "1695 : Érigée en paroisse au XVIe siècle, Viroflay est rachetée en 1695 par la famille royale à la veuve du chancelier Michel Le Tellier, seigneur de Chaville et de Viroflay.",
+  "1907 : Celles-ci ont, par la suite, été transformées en 1907 en locomotives à vapeur système Valentin Purrey avant que la ligne ne soit complètement électrifiée en 1913.",
+  "Lieu « Gare de Viroflay-Rive-Droite » : La gare de Viroflay-Rive-Droite est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite située dans la commune de Viroflay (département des Yvelines).",
+  "Lieu « Gare de Viroflay-Rive-Droite », 1840 : Ouverte le 18 juillet 1840 par la Société anonyme du chemin de fer de Paris à Saint-Cloud et Versailles, c'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains de la ligne L du Transilien (réseau Paris-Saint-Lazare).",
+  "Lieu « Gare de Viroflay-Rive-Droite », 1930 : Il est finalement reconstruit durant les années 1930, puis remplacé par l'actuel pont en 1976 lors des travaux de rélectrification de la ligne par caténaire.",
+  "Lieu « Gare de Viroflay-Rive-Droite », XXIe siècle : Au XXIe siècle, l'aspect général de la gare a peu évolué depuis son ouverture, et le bâtiment des voyageurs est resté en service depuis les origines.",
+  "Lieu « Gare de Viroflay-Rive-Droite », aujourd'hui : Le coude que constitue la rue des Marais à son extrémité sud en rend le franchissement délicat, la Compagnie n'ayant jamais réalisé la demi-lune prévue à cet emplacement.",
+  "Lieu « Rue Jean-Rey (Viroflay) » : La rue Jean-Rey est une voie de communication du centre historique de la commune de Viroflay, dans les Yvelines.",
+  "Lieu « Rue Jean-Rey (Viroflay) », 1546 : Église Saint-Eustache de Viroflay, érigée en paroisse en 1546.",
+  "Lieu « Rue Jean-Rey (Viroflay) », 1770 : Pavillon Saint-Vigor, édifice classique construit en 1770 pour Louis Mercier de Saint-Vigor.",
+  "Lieu « Rue Jean-Rey (Viroflay) », 1930 : Elle fut transformée en école des années 1930 aux années 1970.",
+  "Lieu « Rue Jean-Rey (Viroflay) », aujourd'hui : C'est encore aujourd'hui une des principales rues commerçantes de la ville, et dont certains établissements datent du début du XXe siècle.",
+  "Lieu « Pavillon Saint-Vigor » : Le pavillon Saint-Vigor est une demeure historique se trouvant à Viroflay, dans le département des Yvelines, en France.",
+  "Lieu « Pavillon Saint-Vigor », 1770 : C'est un édifice classique construit en 1770 par un élève de l'architecte Gabriel.",
+  "Lieu « Pavillon Saint-Vigor », 1945 : Inscrit monument historique en 1945 et 1946, il fut quasiment abandonné pendant une trentaine d'années jusqu'à ce qu'en 2004, les nouveaux propriétaires procèdent à sa restauration.",
+  "Lieu « Pavillon Saint-Vigor », aujourd'hui : Jadis, une demi-lune permettait l'évolution des carrosses et s'étendait environ sur l'emplacement où furent plantés en 1794 deux peupliers : « arbres de la liberté ».",
+  "Lieu « Viaduc de Viroflay » : Le viaduc de Viroflay est un viaduc qui permet de connecter la ligne de Paris-Montparnasse à Brest (ligne de la rive gauche) à la ligne de Paris-Saint-Lazare à Versailles-Rive-Droite (ligne de la rive droite).",
+  "Lieu « Viaduc de Viroflay », 1851 : Le viaduc de Viroflay, appelé localement « les Arcades », a été construit entre 1851 et 1852 pour assurer le raccordement ferroviaire entre la ligne de Paris-Saint‑Lazare et celle de Paris‑Montparnasse.",
+  "Lieu « Viaduc de Viroflay », 1852 : Ouvert en 1852, il a été électrifié en 1995 avec le reste du raccordement de Viroflay pour permettre de mettre en place une liaison de Saint-Quentin-en-Yvelines à la Défense.",
+  "Lieu « Église Notre-Dame-du-Chêne de Viroflay » : L'église Notre-Dame-du-Chêne est une église catholique située rue Rieussec à Viroflay, en France.",
+  "Lieu « Église Notre-Dame-du-Chêne de Viroflay », 1960 : La première pierre de l’église Notre-Dame du Chêne a été posée le 19 juin 1960 et elle a été achevée et consacrée le 16 avril 1966.",
+  "Lieu « Église Notre-Dame-du-Chêne de Viroflay », 1960 : D'architecture typique des années 1960, elle est construite principalement en béton et bois lamellé-collé.",
+  "Lieu « Rue Rieussec » : La rue Rieussec est une voie de communication du centre historique de la commune de Viroflay, dans les Yvelines.",
+  "Lieu « Rue Rieussec », XIXe siècle : À la fin du XIXe siècle, des bâtiments publics comme la poste et l’école primaire y sont bâtis.",
+  "Lieu « Rue Rieussec », 1990 : Siège social de Savencia Fromage & Dairy, installé dans l'« Alliance » (rue Rieussec), édifice contemporain à l'architecture néo-classique, construit en 1990.",
+  "Lieu « Église Saint-Eustache de Viroflay » : L'église Saint-Eustache est une église située rue Jean-Rey à Viroflay.",
+  "Lieu « Église Saint-Eustache de Viroflay », 1543 : Le nouvel édifice, construit en 1543, a été consacré par le cardinal Eustache du Bellay.",
+  "Lieu « Église Saint-Eustache de Viroflay », 1793 : En novembre 1793, elle est saccagée, ses biens vendus aux enchères, y compris le linge et les boiseries offertes par Louis XIV.",
+  "Lieu « Chêne de la Vierge à Viroflay » : Le Chêne de la Vierge à Viroflay est un arbre consacré, plusieurs fois centenaire.",
+  "Lieu « Chêne de la Vierge à Viroflay », 1881 : Une statue de pierre, copie d'une statue de la cathédrale de Chartres, sera installée en 1881, mais le 26 juillet suivant, la tête de la Vierge est brisée à coup de pierres."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

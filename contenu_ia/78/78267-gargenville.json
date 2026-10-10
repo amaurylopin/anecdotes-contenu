@@ -1,0 +1,105 @@
+{
+ "commune": {
+  "titre": "Gargenville",
+  "code_insee": "78267",
+  "departement": "78",
+  "population": 7869,
+  "lat": 48.99277778,
+  "lon": 1.81083333,
+  "url": "https://fr.wikipedia.org/wiki/Gargenville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:21:38",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1261,
+  "sortie": 842
+ },
+ "cout_usd": 0.001305,
+ "accroche": "En 1883, deux ponts routiers prenant appui sur l’île de Rangiport sont construits entre Épône et Gargenville.",
+ "histoire": {
+  "recit": "Gargenville est une commune des Yvelines, dans la région Île-de-France, située le long de la Seine et rattachée au parc naturel régional du Vexin français. Avant la Révolution, elle se compose de deux fiefs : le domaine d’Hanneucourt et celui de Moufle de la Tuilerie. En 1790, ces deux ensembles sont réunis pour former la nouvelle municipalité.\n\nAu XIXe siècle, la commune vit aussi au rythme du fleuve : un coche d’eau, la Galiote, relie Rolleboise à Poissy et transporte aussi bien des voyageurs que des marchandises. Plus tard, le lien avec l’axe ferroviaire se précise avec l’ouverture de la ligne où se trouve la gare de Gargenville.\n\nÀ l’ouest, le franchissement de la Seine marque le paysage : le Pont de Rangiport, constitué de deux ponts successifs, change au gré des événements. D’abord construits en 1883, ils sont ensuite détruits en 1940 afin de ralentir l’avancée des troupes.",
+  "chronologie": [
+   {
+    "date": "1790",
+    "texte": "Les deux fiefs de Gargenville sont réunis : la nouvelle municipalité est formée et compte 990 habitants.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1883",
+    "texte": "Les premiers ponts reliant Épône à Gargenville, en prenant appui sur l’île de Rangiport, sont construits.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1er juin 1892",
+    "texte": "La gare de Gargenville s’inscrit dans la partie de ligne ouverte ce jour-là.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Les deux ponts du secteur de Rangiport sont détruits par le génie militaire français pour ralentir l’avancée des troupes allemandes.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Rangiport",
+   "histoire": "Le Pont de Rangiport correspond à deux ponts routiers successifs qui franchissent deux bras de la Seine, séparés par l’île de Rangiport, entre Épône et Gargenville. Les premiers ouvrages sont construits en 1883 et détruits en 1940 pour retarder l’avancée des troupes allemandes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 48.972778,
+   "lon": 1.808056,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Rangiport"
+  },
+  {
+   "nom": "Gare de Gargenville",
+   "histoire": "La gare de Gargenville est une gare ferroviaire de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine, située dans la commune. La ligne concernée est ouverte le 1er juin 1892.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 48.983028,
+   "lon": 1.808918,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gargenville"
+  }
+ ],
+ "sources": [
+  "Gargenville est une commune française située dans le département des Yvelines en région Île-de-France. C'est une petite ville située le long de la Seine, à 45 km à l'ouest de Paris. Avec la commune voisine d'Issou, elle forme une agglomération de 10 000 habitants environ. Ses habitants sont appelés les Gargenvillois. La commune fait partie du parc naturel régional du Vexin français.",
+  "Avant la Révolution, Gargenville était constituée de deux fiefs, le domaine d'Hanneucourt et celui de Moufle de la Tuilerie. En 1790, ils sont réunis et forment la nouvelle municipalité, qui compte alors 990 habitants. Au début du XIXe siècle un coche d'eau, la Galiote, reliait Rolleboise à Poissy. Elle transportait indifféremment voyageurs et marchandises et était très utilisée. Elle contenait 89 places dont 40 […]",
+  "Lieu « Pont de Rangiport » : Les ponts de Rangiport sont deux ponts routiers successifs qui franchissent deux bras de la Seine séparés par l'île de Rangiport, entre les communes d'Épône et Gargenville (département français des Yvelines).",
+  "Lieu « Pont de Rangiport », 1883 : Les premiers ponts reliant Épône à Gargenville en prenant appui sur l'île de Rangiport sont construits en 1883.",
+  "Lieu « Pont de Rangiport », 1940 : En 1940, ces deux ponts sont détruits par le génie militaire français pour ralentir l'avancée des troupes allemandes.",
+  "Lieu « Gare de Gargenville » : La gare de Gargenville est une gare ferroviaire française de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine, située dans la commune de Gargenville (département des Yvelines).",
+  "Lieu « Gare de Gargenville », 1892 : La gare est située sur la partie de la ligne de Paris-Saint-Lazare à Mantes-Station par Conflans-Sainte-Honorine ouverte le 1er juin 1892."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "commune": {
+  "titre": "Magny-les-Hameaux",
+  "code_insee": "78356",
+  "departement": "78",
+  "population": 9386,
+  "lat": 48.736267,
+  "lon": 2.087746,
+  "url": "https://fr.wikipedia.org/wiki/Magny-les-Hameaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:03:55",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1154,
+  "sortie": 612
+ },
+ "cout_usd": 0.000996,
+ "accroche": "À Magny-les-Hameaux, les ruines de l’abbaye de Port-Royal des Champs, haut-lieu du jansénisme jusqu’en 1709, rappellent l’expulsion des religieuses par Louis XIV.",
+ "histoire": {
+  "recit": "Magny-les-Hameaux tient son visage des abords de Port-Royal des Champs, à l’extrême ouest de son territoire. L’abbaye y accueille des religieuses cisterciennes et devient un haut-lieu du jansénisme jusqu’en 1709, quand les religieuses sont expulsées. On y reconnaît encore quelques ruines, et surtout les granges de Port-Royal, avec la ferme et les bâtiments associés.\n\nPlus loin, dans le paysage d’aujourd’hui, la Porte de Mérantais marque l’organisation du Grand parc de chasse de Louis XIV. Elle fait partie des portes du mur d’enceinte, bâtie en 1684 par Jules Hardouin-Mansart, avec une grande porte cochère accolé à l’habitation du garde. Elle se trouve désormais sur la commune, au Golf national de Saint-Quentin-en-Yvelines, où l’on peut encore la situer dans l’espace.",
+  "chronologie": [
+   {
+    "date": "1684",
+    "texte": "La porte de Mérantais est bâtie en 1684 par Jules Hardouin-Mansart, sur le même modèle que les autres portes et pavillons de garde du Grand Parc, avec une grande porte cochère accolée à l’habitation du garde.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1709",
+    "texte": "Les religieuses de Port-Royal des Champs sont expulsées ; du site d’origine, seuls restent debout la ferme (granges de Port-Royal) et le bâtiment des Petites Écoles.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "Le bâtiment des Petites Écoles accueille depuis 1962 le musée national des Granges de Port-Royal.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Porte de Mérantais",
+   "histoire": "La porte de Mérantais est l’une des 24 portes du mur d’enceinte du Grand parc de chasse de Louis XIV. Bâtie en 1684 par Jules Hardouin-Mansart, elle adopte le même modèle architectural que les autres portes et pavillons de garde, avec une grande porte cochère accolée à l’habitation du garde. Aujourd’hui, elle se trouve sur la commune, au Golf national de Saint-Quentin-en-Yvelines.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle se trouve actuellement sur la commune de Magny-les-Hameaux dans les Yvelines, sur le Golf national de Saint-Quentin-en-Yvelines.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 48.7479,
+   "lon": 2.0783,
+   "url": "https://fr.wikipedia.org/wiki/Porte_de_M%C3%A9rantais"
+  }
+ ],
+ "sources": [
+  "Magny-les-Hameaux est une commune française située dans le département des Yvelines en région Île-de-France, située à 27 km au sud-ouest de Paris.",
+  "La commune est surtout marquée par l'histoire de l'abbaye de Port-Royal des Champs (à l'extrême ouest du territoire communal) qui accueillit des religieuses cisterciennes et fut un haut-lieu du jansénisme jusqu'en 1709, date de l'expulsion des religieuses par Louis XIV. La commune présente encore quelques ruines de l'abbaye de Port-Royal. Au bout de la plaine de Trappes, dans un vallon retiré nommé Borroy, qui, en […]",
+  "1709 : Du site d'origine, seuls restent debout la ferme (granges de Port-Royal), rattachée a posteriori (1709) et le bâtiment des Petites Écoles (XVIIe siècle), accueillant depuis 1962 le musée national des Granges de Port-Royal.",
+  "Lieu « Porte de Mérantais » : La porte de Mérantais était l'une des 24 portes du mur d'enceinte du Grand parc de chasse de Louis XIV.",
+  "Lieu « Porte de Mérantais », 1684 : Elle fut bâtie en 1684 par Jules Hardouin-Mansart sur le même modèle architectural que toutes les autres portes/pavillons de garde du Grand Parc, avec une grande porte cochère accolée à l'habitation du garde.",
+  "Lieu « Porte de Mérantais », aujourd'hui : Elle se trouve actuellement sur la commune de Magny-les-Hameaux dans les Yvelines, sur le Golf national de Saint-Quentin-en-Yvelines."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

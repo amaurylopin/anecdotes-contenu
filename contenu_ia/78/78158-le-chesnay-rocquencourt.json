@@ -1,0 +1,234 @@
+{
+ "commune": {
+  "titre": "Le Chesnay",
+  "code_insee": "78158",
+  "departement": "78",
+  "population": 30689,
+  "lat": 48.821111,
+  "lon": 2.131111,
+  "url": "https://fr.wikipedia.org/wiki/Le_Chesnay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:49:43",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3099,
+  "sortie": 1399
+ },
+ "cout_usd": 0.002369,
+ "accroche": "Le 1er janvier 2019, Le Chesnay fusionne avec Rocquencourt pour former la commune nouvelle du Chesnay-Rocquencourt, selon les sources locales.",
+ "histoire": {
+  "recit": "Au Chesnay, les premiers signes d’une agglomération remontent à l’époque de Charlemagne. Au XIIIe siècle, le bourg n’est qu’un point au milieu d’une forêt, entre bûcherons et cultivateurs, à l’endroit « où il y a des chênes ». La dépendance à la paroisse de Rocquencourt prend fin quand, en 1683, Louis XIV achète le Chesnay pour l’enfermer dans le parc de Versailles.\n\nQuand le plateau se met à se bâtir, l’église Saint-Antoine-de-Padoue marque l’entrée dans le XXe siècle : elle est consacrée le 18 novembre 1900 après trois années de travaux. Plus tard, le territoire du Chesnay-Rocquencourt change encore d’allure avec des ensembles conçus au XXe siècle, et avec un site de Voluceau qui accueille l’INRIA à partir de 1967.\n\nAujourd’hui, le cadre de la commune nouvelle se prolonge : l’ensemble culturel évoqué a notamment accueilli un institut médico-éducatif, et le parc reste ouvert au public. Et l’identité a bougé avec la fusion : les Chesnaysiens deviennent les Chesnaycourtois.",
+  "chronologie": [
+   {
+    "date": "époque de Charlemagne",
+    "texte": "Les premières traces d’une agglomération sont attribuées à cette époque.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le Chesnay n’est encore qu’un bourg au milieu d’une forêt, avec bûcherons et cultivateurs, « l’endrois où il y a des chênes ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1683",
+    "texte": "Louis XIV achète le Chesnay pour l’enfermer dans le parc de Versailles.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1900",
+    "texte": "L’église Saint-Antoine-de-Padoue est consacrée le 18 novembre 1900 après trois années de travaux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1er janvier 2019",
+    "texte": "Le Chesnay fusionne avec Rocquencourt pour former la commune nouvelle du Chesnay-Rocquencourt ; les habitants s’appellent désormais les Chesnaycourtois.",
+    "sources": [
+     "S1",
+     "S4"
+    ]
+   },
+   {
+    "date": "d’aujourd’hui",
+    "texte": "Le cadre actuel mentionne l’accueil d’un Institut médico-éducatif (I.M.E.) et l’ouverture du parc au public.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Le Chesnay-Rocquencourt",
+   "histoire": "Commune nouvelle née de la fusion du Chesnay et de Rocquencourt le 1er janvier 2019, dans les Yvelines, en Île-de-France.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4"
+   ],
+   "lat": 48.8278506,
+   "lon": 2.1319603,
+   "url": "https://fr.wikipedia.org/wiki/Le_Chesnay-Rocquencourt"
+  },
+  {
+   "nom": "Château du Grand-Chesnay",
+   "histoire": "Demeure de plaisance dont l’édification a lieu à la fin du XVIIIe et au début du XIXe siècle, en remplacement d’un château plus ancien. Une partie subsistante est aménagée et ouverte au public sous le nom de Parc Aubert.",
+   "anecdotes": [
+    {
+     "texte": "L’épouse Elisabeth, née en 1837, serait devenue victime de l’incendie du Bazar de la Charité.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La partie subsistante est aménagée, ouverte au public, et reçoit le nom de Parc Aubert.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 48.8311814,
+   "lon": 2.1237071,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Grand-Chesnay"
+  },
+  {
+   "nom": "Rocquencourt (Yvelines)",
+   "histoire": "Commune déléguée associée à Le Chesnay au sein de la commune nouvelle du Chesnay-Rocquencourt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14"
+   ],
+   "lat": 48.8375,
+   "lon": 2.1125,
+   "url": "https://fr.wikipedia.org/wiki/Rocquencourt_%28Yvelines%29"
+  },
+  {
+   "nom": "Temple mormon de Paris",
+   "histoire": "Temple situé au Chesnay, en bordure de la ville de Versailles. Le terrain a d’abord été occupé par un bâtiment lié à EDF-GDF, puis les travaux se sont terminés avec une ouverture au public en avril 2017.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S22"
+   ],
+   "lat": 48.81789167,
+   "lon": 2.12317222,
+   "url": "https://fr.wikipedia.org/wiki/Temple_mormon_de_Paris"
+  },
+  {
+   "nom": "Parly 2",
+   "histoire": "Ensemble urbanistique incluant Westfield Parly 2 et un ensemble résidentiel haut de gamme, constitué en une copropriété. Sa copropriété est construite en 1967 et le centre commercial ouvre le 4 novembre 1969.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.827778,
+   "lon": 2.116667,
+   "url": "https://fr.wikipedia.org/wiki/Parly_2"
+  },
+  {
+   "nom": "Église Saint-Antoine-de-Padoue du Chesnay",
+   "histoire": "Église catholique du Chesnay. L’évêque Pierre Goux confie à l’abbé Charles Boissis la mission de bâtir une nouvelle église en 1894 ; l’édifice est inauguré et béni le 18 novembre 1900, puis les deux orgues sont finies d’être installées en 1913.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.818389,
+   "lon": 2.131036,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Antoine-de-Padoue_du_Chesnay"
+  },
+  {
+   "nom": "Hôpital André-Mignot",
+   "histoire": "Hôpital du centre hospitalier de Versailles, situé au Chesnay-Rocquencourt. Le domaine sur lequel il est installé est créé au milieu du XVIIe siècle ; l’hôpital est inauguré en mars 1981 et il ne subsiste du château qu’un pavillon, le pavillon Aubert, avec service de psychiatrie et biologie médicale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il subsiste un pavillon, le pavillon Aubert, qui accueille le service de psychiatrie, un service de biologie médicale, et un parc accessible au public et aux patients.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 48.8250676,
+   "lon": 2.1280533,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_Andr%C3%A9-Mignot"
+  },
+  {
+   "nom": "Château de Rocquencourt",
+   "histoire": "Château situé dans Le Chesnay-Rocquencourt. Il n’est plus conservé : il est démoli en 1963, ne laissant subsister que la grille d’entrée portant des initiales entrelacées : CFH.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37"
+   ],
+   "lat": 48.8378,
+   "lon": 2.115,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Rocquencourt"
+  }
+ ],
+ "sources": [
+  "Le Chesnay [lə ʃɛnɛ] est l'une des deux communes déléguées, avec Rocquencourt, de la commune nouvelle du Chesnay-Rocquencourt située dans le département des Yvelines en région Île-de-France. Ses habitants, anciennement appelés les Chesnaysiens, s'appellent désormais les Chesnaycourtois depuis la fusion du Chesnay avec Rocquencourt le 1er janvier 2019.",
+  "Les premières traces d'une agglomération remontent à l'époque de Charlemagne. Au XIIIe siècle, c'est encore un bourg au milieu d'une forêt, de bûcherons et de cultivateurs, le Chesnay « l'endrois où il y a des chênes ». Le Chesnay dépendait de la paroisse de Rocquencourt quand en 1683, Louis XIV l'acheta pour l'enfermer dans le parc de Versailles. Le château du Grand-Chesnay dans le parc Aubert prend naissance avec […]",
+  "1900 : Au début du XXe siècle, « le plateau » se construit avec l'église Saint-Antoine-de-Padoue, consacrée le 18 novembre 1900 après trois années de travaux.",
+  "Lieu « Le Chesnay-Rocquencourt » : Le Chesnay-Rocquencourt [lə ʃɛnɛ ʁɔkɑ̃kuʁ] est une commune nouvelle française résultant le 1er janvier 2019 de la fusion des communes du Chesnay et de Rocquencourt, situées dans le département des Yvelines, en région Île-de-France.",
+  "Lieu « Le Chesnay-Rocquencourt », 1964 : Cet ensemble, conçu avec le paysagiste Jean-Noël Capart, est connu sous le nom de résidence du Parc, constitué de 3 bâtiments construits entre 1964 et 1974 Le Chesnay abrite, avec les logements de Parly 2 construits au début des années 1970, une partie de la plus grande copropriété de France.",
+  "Lieu « Le Chesnay-Rocquencourt », 1967 : Rocquencourt abrite, dans le camp Voluceau, dans les anciens bâtiments du quartier-général des Forces Alliées en Europe (SHAPE), le siège de l'INRIA ainsi que, depuis 1967, les services techniques de la brigade de sapeurs-pompiers de Paris.",
+  "Lieu « Le Chesnay-Rocquencourt », 2009 : L'inauguration de l'ensemble culturel était prévue le 9 juin 2009, suivie par une semaine de spectacles tous les soirs et une journée portes ouvertes le dimanche 14 juin.",
+  "Lieu « Le Chesnay-Rocquencourt », aujourd'hui : Il accueille actuellement un Institut médico-éducatif (I.M.E.) Le parc est ouvert au public.",
+  "Lieu « Château du Grand-Chesnay » : Le château du Grand-Chesnay, situé au Chesnay-Rocquencourt dans le département français des Yvelines est une demeure de plaisance dont l'édification a eu lieu à la fin du XVIIIe et au début du XIXe siècle en remplacement d'un château plus ancien.",
+  "Lieu « Château du Grand-Chesnay », 1837 : Son épouse, Elisabeth (1837-1897), fille du préfet Claude-Joseph-Brandelys Green de Saint-Marsault sera une des victimes de l'incendie du Bazar de la Charité.",
+  "Lieu « Château du Grand-Chesnay », XIXe siècle : Le château du Grand-Chesnay, situé au Chesnay-Rocquencourt dans le département français des Yvelines est une demeure de plaisance dont l'édification a eu lieu à la fin du XVIIIe et au début du XIXe siècle en remplacement d'un château plus ancien.",
+  "Lieu « Château du Grand-Chesnay », 1890 : Elle sera cependant vendue à part au départ des Caruel de Saint-Martin en 1890.",
+  "Lieu « Château du Grand-Chesnay », aujourd'hui : La partie subsistante de celui-ci est aménagée, ouverte au public, et reçoit le nom de Parc Aubert en hommage au dernier châtelain du Chesnay.",
+  "Lieu « Rocquencourt (Yvelines) » : Rocquencourt est l'une des deux communes déléguées, avec Le Chesnay, de la commune nouvelle du Chesnay-Rocquencourt située dans le département des Yvelines en région Île-de-France.",
+  "Lieu « Rocquencourt (Yvelines) », 1951 : En juillet 1951, le grand quartier général des puissances alliées en Europe (SHAPE) s'installe dans des bâtiments pré-fabriqués, construits en trois mois environ par le génie militaire français, sur un emplacement dont la France avait fait don à l'OTAN.",
+  "Lieu « Rocquencourt (Yvelines) », 1964 : Le bâtiment, conçu en 1964 par Jean Dubuisson, est restructuré par son petit-fils, Thomas Dubuisson, cofondateur de l’agence d’architecture Search.",
+  "Lieu « Rocquencourt (Yvelines) », 1967 : À partir de 1967, le site de Voluceau est occupé par l'INRIA qui y a son siège social.",
+  "Lieu « Rocquencourt (Yvelines) », aujourd'hui : L’œuvre appartient de nos jours au Kunsthaus de Zurich.",
+  "Lieu « Temple mormon de Paris » : Le Temple de l’Église de Jésus-Christ des saints des derniers jours « de Paris » est situé au Chesnay, en bordure de la ville de Versailles, en France.",
+  "Lieu « Temple mormon de Paris », 1971 : Le terrain retenu était celui d'un bâtiment utilisé par l'entreprise publique d'électricité, EDF-GDF, de 1971 à 2011 ; il est situé sur le territoire de la commune du Chesnay.",
+  "Lieu « Temple mormon de Paris », 1984 : Il s'agit du premier temple de l’Église de Jésus-Christ des Saints des Derniers Jours construit en France métropolitaine, et le deuxième en France, le premier étant le Temple de Tahiti en fonction en Polynésie française depuis 1984.",
+  "Lieu « Temple mormon de Paris », 2017 : Les travaux achevés, une période de visites s'ouvre au public, en avril 2017.",
+  "Lieu « Parly 2 » : Parly 2 est un ensemble d'urbanisme comprenant un centre commercial régional français dénommé Westfield Parly 2 ainsi qu'un ensemble immobilier résidentiel haut de gamme, situé au Chesnay-Rocquencourt (Yvelines), constituant une unique copropriété, l",
+  "Lieu « Parly 2 », 1967 : En 1967 a été construite la copropriété du Chesnay-Trianon, également appelée Parly 2.",
+  "Lieu « Parly 2 », 1969 : Le centre commercial est ouvert le 4 novembre 1969 avec 150 boutiques sur 56 000 m2 ; il est le deuxième centre commercial de cette importance en France, à peine deux semaines après l'ouverture de Cap 3000 proche de Nice, à Saint-Laurent-du-Var.",
+  "Lieu « Parly 2 », 2019 : Inspiré du Southdale Center construit dans le Minnesota, le centre commercial comprend une galerie couverte à trois niveaux, dans laquelle sont implantées des succursales de grands magasins parisiens (Le Printemps, BHV), de nombreux commerces et des salles de cinéma (reconstruites en 2019).",
+  "Lieu « Église Saint-Antoine-de-Padoue du Chesnay » : L'église Saint-Antoine de Padoue du Chesnay est un édifice religieux catholique situé dans la ville du Chesnay.",
+  "Lieu « Église Saint-Antoine-de-Padoue du Chesnay », 1894 : En 1894, l'évêque Pierre Goux confie à l'abbé Charles Boissis la mission de bâtir une nouvelle église dans la commune du Chesnay.",
+  "Lieu « Église Saint-Antoine-de-Padoue du Chesnay », 1900 : Le 18 novembre 1900, l’église est inaugurée et bénie.",
+  "Lieu « Église Saint-Antoine-de-Padoue du Chesnay », 1913 : En 1913, les deux orgues sont finis d'être installés.",
+  "Lieu « Hôpital André-Mignot » : L'hôpital André-Mignot est un hôpital du centre hospitalier de Versailles (CHV), situé au Chesnay-Rocquencourt dans les Yvelines, créé en mars 1981.",
+  "Lieu « Hôpital André-Mignot », XVIIe siècle : Le domaine sur lequel a été installé cet hôpital a été créé par Maignard de Bernières au milieu du XVIIe siècle.",
+  "Lieu « Hôpital André-Mignot », 1981 : L'hôpital André-Mignot du Chesnay est inauguré en mars 1981.",
+  "Lieu « Hôpital André-Mignot », aujourd'hui : Il ne subsiste du château qu'un pavillon, dénommé le pavillon Aubert en l'honneur de Pierre Aubert, qui accueille le service de psychiatrie et un service de biologie médicale, ainsi qu'un parc accessible au public et aux patients de l'hôpital.",
+  "Lieu « Château de Rocquencourt » : Le château de Rocquencourt était un château situé dans la commune de Le Chesnay-Rocquencourt, dans le département des Yvelines.",
+  "Lieu « Château de Rocquencourt », 1924 : À l'occasion des Jeux olympiques de 1924, pour la première fois, un village olympique est construit, à Colombes, avec la volonté d'y regrouper les athlètes de toutes les nations.",
+  "Lieu « Château de Rocquencourt », 1963 : Il est démoli en 1963, ne subsistant que la grille d'entrée portant des initiales entrelacées : CFH, pour Cécile Furtado-Heine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

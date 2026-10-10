@@ -1,0 +1,100 @@
+{
+ "commune": {
+  "titre": "Les Essarts-le-Roi",
+  "code_insee": "78220",
+  "departement": "78",
+  "population": 6831,
+  "lat": 48.7175,
+  "lon": 1.89527778,
+  "url": "https://fr.wikipedia.org/wiki/Les_Essarts-le-Roi"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:38:57",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1110,
+  "sortie": 764
+ },
+ "cout_usd": 0.001177,
+ "accroche": "À la fin du Xe siècle, une décision royale attribuée à Hugues Capet fonde Les Essarts-le-Roi, dans les Yvelines, en Île-de-France.",
+ "histoire": {
+  "recit": "Aux Essarts-le-Roi, tout commence avec une fondation décidée par une autorité royale à la fin du Xe siècle. Le territoire change ensuite de destin : en 1203, Philippe Auguste cède le territoire au duché de Bretagne, et le sort des Essarts dépend dès lors de celui des seigneurs de Montfort. Plus tard, la commune telle qu’on la connaît est marquée par la Révolution française : les Essarts sont institués, puis la commune des Layes est absorbée en 1814. Le nom devient alors Les Essarts-le-Roi. Au XIXe siècle, l’activité s’organise aussi autour du chemin de fer : une première gare est mise en service lors de l’ouverture du tronçon entre Versailles-Chantiers et Chartres le 12 juillet 1849. Et, bien plus près de nous, le bâtiment voyageurs et les installations sont renouvelés en 1981.",
+  "chronologie": [
+   {
+    "date": "fin du Xe siècle",
+    "texte": "Les Essarts-le-Roi sont fondés par une décision royale émanant d’Hugues Capet.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1203",
+    "texte": "Philippe Auguste cède le territoire au duché de Bretagne ; le sort des Essarts dépend ensuite de celui des seigneurs de Montfort.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "La commune des Essarts absorbe celle des Layes et prend le nom des Essarts-le-Roi.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "12 juillet 1849",
+    "texte": "Mise en service d’une première gare, lors de l’ouverture du tronçon entre la gare de Versailles-Chantiers et la gare de Chartres.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1981",
+    "texte": "Renouvellement du bâtiment voyageurs et des installations de la gare.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare des Essarts-le-Roi",
+   "histoire": "Sur le territoire de la commune, la gare des Essarts-le-Roi se situe sur la ligne de Paris-Montparnasse à Brest. Une première gare est mise en service avec l’ouverture du tronçon entre Versailles-Chantiers et Chartres le 12 juillet 1849. Le bâtiment voyageurs et les installations ont ensuite été renouvelés en 1981.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Bâtiment voyageurs et installations renouvelés en 1981.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 48.721766,
+   "lon": 1.890244,
+   "url": "https://fr.wikipedia.org/wiki/Gare_des_Essarts-le-Roi"
+  }
+ ],
+ "sources": [
+  "Les Essarts-le-Roi est une commune française située dans le département des Yvelines en région Île-de-France.",
+  "Les Essarts-le-Roi sont fondés par une décision royale émanant d'Hugues Capet à la fin du Xe siècle. Philippe Auguste cède le territoire en 1203 au duché de Bretagne et son sort dépend dès lors de celui des seigneurs de Montfort.[réf. nécessaire] La commune des Essarts, instituée par la Révolution française, absorbe en 1814 celle des Layes et prend le nom des Essarts-le-Roi. Depuis 1879 étaient exploitées les […]",
+  "Xe siècle : Les Essarts-le-Roi sont fondés par une décision royale émanant d'Hugues Capet à la fin du Xe siècle.",
+  "Lieu « Gare des Essarts-le-Roi » : La gare des Essarts-le-Roi est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune des Essarts-le-Roi, dans le département des Yvelines, en région Île-de-France.",
+  "Lieu « Gare des Essarts-le-Roi », 1849 : Une première gare est mise en service avec l'ouverture du tronçon entre la gare de Versailles-Chantiers et la gare de Chartres le 12 juillet 1849.",
+  "Lieu « Gare des Essarts-le-Roi », 1981 : Le bâtiment voyageurs et les installations ont été renouvelés en 1981."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
