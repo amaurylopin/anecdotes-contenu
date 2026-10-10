@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Taiarapu-Ouest",
+  "code_insee": "98748",
+  "departement": "987",
+  "population": 8371,
+  "lat": -17.83,
+  "lon": -149.28,
+  "url": "https://fr.wikipedia.org/wiki/Taiarapu-Ouest"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:15:33",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 995,
+  "sortie": 401
+ },
+ "cout_usd": 0.0007,
+ "accroche": "Le 17 mai 1972, la collectivité territoriale de Taiarapu-Ouest est créée, avec trois communes associées et des maires délégués.",
+ "histoire": {
+  "recit": "Taiarapu-Ouest est une commune de la Polynésie française, sur l’île de Tahiti. Sa collectivité territoriale naît le 17 mai 1972, portée par trois communes associées où chacun dispose d’un maire délégué.\n\nLe nom de la commune revient aussi par Teahupo'o : le spot de surf y a accueilli les épreuves de surf des Jeux olympiques d’été de 2024.\n\nÀ Teahupo'o, on raconte encore une trace liée à une séparation de territoire : un mur aurait été bâti à l’emplacement où se seraient trouvés les crânes et ossements des vaincus.",
+  "chronologie": [
+   {
+    "date": "17 mai 1972",
+    "texte": "La collectivité territoriale est créée, avec trois communes associées dotées chacune d’un maire délégué.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2024",
+    "texte": "Le spot de surf de Teahupo'o accueille les épreuves de surf des Jeux olympiques d’été de 2024.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Teahupo'o",
+   "histoire": "Teahupo'o est une ancienne commune française devenue commune associée à Taiarapu-Ouest, sur la presqu’île de Tahiti Iti, en Polynésie française.",
+   "anecdotes": [
+    {
+     "texte": "On dit qu’un mur aurait été bâti à l’emplacement de la séparation du territoire, près des crânes et des ossements des vaincus.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": -17.847222,
+   "lon": -149.267222,
+   "url": "https://fr.wikipedia.org/wiki/Teahupo%27o"
+  }
+ ],
+ "sources": [
+  "Taiarapu-Ouest est une commune de la Polynésie française dans l'île de Tahiti.",
+  "La collectivité territoriale est créée le 17 mai 1972 avec trois communes associées qui ont chacune un maire délégué. C'est une ancienne commune associée de Taravao et d'Afaahiti[réf. nécessaire]. La commune a accueilli sur le spot de surf de Teahupo'o les épreuves de surf des Jeux olympiques d'été de 2024.",
+  "Lieu « Teahupo'o » : Teahupo'o (prononcé [te.a.hu.ˈpo.ʔo] en tahitien) est une ancienne commune française, devenue commune associée à Taiarapu-Ouest à Tahiti, sur la presqu'île de Tahiti Iti, en Polynésie française.",
+  "Lieu « Teahupo'o », aujourd'hui : Un mur aurait été bâti à l'emplacement de la séparation du territoire avec les crânes et ossements des vaincus."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

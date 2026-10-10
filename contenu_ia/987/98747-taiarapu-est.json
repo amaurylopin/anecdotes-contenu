@@ -1,0 +1,99 @@
+{
+ "commune": {
+  "titre": "Taiarapu-Est",
+  "code_insee": "98747",
+  "departement": "987",
+  "population": 13602,
+  "lat": -17.7033,
+  "lon": -149.3333,
+  "url": "https://fr.wikipedia.org/wiki/Taiarapu-Est"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:34:23",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1219,
+  "sortie": 685
+ },
+ "cout_usd": 0.0011,
+ "accroche": "Taiarapu-Est s’étend sur Tahiti Iti, dont elle occupe la moitié septentrionale, et comprend notamment Faaone et Taravao (Tahiti).",
+ "histoire": {
+  "recit": "Dans Taiarapu-Est, sur Tahiti Iti, la commune occupe une moitié septentrionale du littoral avant de gagner aussi l’est de Tahiti Nui. Elle rassemble des communes associées, dont Afaahiti-Taravao, Faaone et Tautira avec l’île rattachée de Mehetia.\n\nÀ Faaone, le sable a laissé son nom : « extension de sable ». L’histoire s’y lit aussi dans les décisions prises au fil des années. En 1973, l’école Ahiti Tera ouvre ses portes. Puis, après la dévastation partielle de l’ancienne église par le cyclone « Ve'ena », les paroissiens se mobilisent : une nouvelle église est inaugurée le 17 septembre 1988. Aujourd’hui, la pente et la falaise imposent des travaux réguliers entre le pont d’Outuofai et Vaiiha pour sécuriser le secteur.\n\nPlus loin, Taravao (Tahiti) est un lieu dit de la commune associée d’Afaahiti à Taiarapu-Est, et il accueille aussi, plus récemment, des établissements d’enseignement : un lycée polyvalent inauguré le 8 mai 2014.",
+  "chronologie": [
+   {
+    "date": "1973",
+    "texte": "À Faaone, l’école Ahiti Tera est ouverte.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "17 septembre 1988",
+    "texte": "À Faaone, la nouvelle église est inaugurée, après l’ancienne partiellement dévastée par le cyclone « Ve'ena ».",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "8 mai 2014",
+    "texte": "À Taravao (Tahiti), un lycée polyvalent est inauguré.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Faaone",
+   "histoire": "Faaone est une commune associée située sur le littoral de l’île de Tahiti. Son nom signifie « extension de sable ». La commune y a ouvert l’école Ahiti Tera en 1973, puis a inauguré une nouvelle église le 17 septembre 1988. Aujourd’hui, la topographie escarpée visible entre le pont d’Outuofai et Vaiiha impose des travaux réguliers de terrassement pour sécuriser la falaise.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Topographie escarpée, avec travaux réguliers de terrassement pour sécuriser la falaise, notamment entre le pont d’Outuofai et Vaiiha.",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": -17.676389,
+   "lon": -149.3075,
+   "url": "https://fr.wikipedia.org/wiki/Faaone"
+  },
+  {
+   "nom": "Taravao (Tahiti)",
+   "histoire": "Taravao (Tahiti) est une ville et un lieu dit de la commune associée d’Afaahiti à Taiarapu-Est. Le secteur accueille un lycée polyvalent inauguré le 8 mai 2014.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": -17.73611111,
+   "lon": -149.30833333,
+   "url": "https://fr.wikipedia.org/wiki/Taravao_%28Tahiti%29"
+  }
+ ],
+ "sources": [
+  "Taiarapu-Est est une commune de la Polynésie française dans l'île de Tahiti. Elle est située à Tahiti Iti (la presqu'île), dont elle occupe la moitié septentrionale, mais s'étend aussi sur l'est de Tahiti Nui. Elle comprend les communes associées de Afaahiti-Taravao, Faaone, Pueu, Tautira (avec l'île rattachée de Mehetia).",
+  "Lieu « Faaone » : Faaone (traduction : extension de sable) est une commune associée située sur le littoral de l'île de Tahiti, en Polynésie française.",
+  "Lieu « Faaone », 1973 : Adresse : PK 46.8 côté montagne - Tél./Fax : 40.57.13.37 - Email : faaone@dep.pf L'école Ahiti Tera a été ouverte en 1973.",
+  "Lieu « Faaone », 1988 : Pour remplacer l'ancienne église dévastée partiellement par le cyclone \"Ve'ena\", le projet de construction d'une nouvelle église a été accomplie grâce au dynamisme des paroissiens et de l'ancien président de la paroisse, Monsieur Tatarata Henri, qui ont pu inaugurer ce nouvel édifice le 17 septembre 1988.",
+  "Lieu « Faaone », aujourd'hui : Cette topographie escarpée, notamment visible entre le pont d'Outuofai et Vaiiha, impose d'ailleurs de réguliers travaux de terrassement pour sécuriser la falaise.",
+  "Lieu « Taravao (Tahiti) » : Taravao est une ville et un lieu dit de la commune associée d'Afaahiti à Taiarapu-Est, en Polynésie française.",
+  "Lieu « Taravao (Tahiti) », 2014 : Le lycée polyvalent de Taiarapu-nui Le lycée du Sacré-Cœur, inauguré le 8 mai 2014 Lycée professionnel agricole protestant"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

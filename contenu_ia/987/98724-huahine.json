@@ -1,0 +1,91 @@
+{
+ "commune": {
+  "titre": "Huahine (Polynésie française)",
+  "code_insee": "98724",
+  "departement": "987",
+  "population": 6263,
+  "lat": -16.7555,
+  "lon": -151.0041,
+  "url": "https://fr.wikipedia.org/wiki/Huahine_%28Polyn%C3%A9sie_fran%C3%A7aise%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:49:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1108,
+  "sortie": 764
+ },
+ "cout_usd": 0.001177,
+ "accroche": "Le chef-lieu de la commune de Huahine est Fare, sur l’île de Huahine, dite « l’Authentique » dans les îles Sous-le-Vent.",
+ "histoire": {
+  "recit": "Huahine est une commune de Polynésie française formée par les huit communes associées de l’île de Huahine, dans les îles Sous-le-Vent. Son chef-lieu est Fare. La commune a été créée au début des années 1970.\n\nDans la mémoire locale, l’île « Huahine » se raconte aussi par des successions de dynasties. Selon la tradition, trois grandes dynasties s’y seraient succédé : la dynastie Hau-mo'o-rere, fondée au XVIIe siècle, menant jusqu’à la reine Teha'apapa I que le capitaine Cook aurait rencontrée en 1769.\n\nPlus près de nous, Huahine projette ses liens au-delà de l’île : en novembre 2008, le maire Félix Faatau, la représentante Annick Afo-Oopa et le sénateur Richard Tuheiava se rendent à Pierrefonds (dans l’Oise) pour commémorer le séjour de Pouvanaa Oopa dans cette commune, et un jumelage est alors envisagé. Et sur le terrain sportif, l’île brille aussi : en 2018, Huahine est sacrée championne du monde junior en Australie.",
+  "chronologie": [
+   {
+    "date": "Début des années 1970",
+    "texte": "La commune de Huahine est créée, comme la plupart des communes de Polynésie française.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Novembre 2008",
+    "texte": "Le maire Félix Faatau, Annick Afo-Oopa et Richard Tuheiava se rendent à Pierrefonds pour commémorer le séjour de Pouvanaa Oopa ; un jumelage est projeté.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Huahine",
+   "histoire": "Huahine, prononcée [huahine], est une île de Polynésie française située dans les îles Sous-le-Vent, dans l’archipel de la Société.",
+   "anecdotes": [
+    {
+     "texte": "Selon la tradition, trois dynasties se sont succédé à Huahine : la dynastie Hau-mo'o-rere, fondée au XVIIe siècle, avec comme dernier représentant la reine Teha'apapa I rencontrée par le capitaine Cook en 1769.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 2018, Huahine est sacrée championne du monde junior en Australie et se trouve alors numéro deux mondial.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": -16.733333333333,
+   "lon": -151.03333333333,
+   "url": "https://fr.wikipedia.org/wiki/Huahine"
+  }
+ ],
+ "sources": [
+  "Huahine est une commune de la Polynésie française composée des huit communes associées de l'île de Huahine dans les îles Sous-le-Vent (archipel de la Société). Le chef-lieu de la commune est Fare.",
+  "La commune de Huahine a été créée au début des années 1970, comme la plupart des communes de Polynésie française. En novembre 2008, le maire de Huahine, Félix Faatau, la représentante Annick Afo-Oopa et le sénateur Richard Tuheiava se rendent à Pierrefonds dans l'Oise, pour commémorer le séjour de Pouvanaa Oopa (né à Huahine en 1897) dans cette commune ; un jumelage Pierrefonds-Huahine est projeté.",
+  "Lieu « Huahine » : Huahine (prononcé [huahine]), ou « l'Authentique », est une île de Polynésie française qui fait partie des îles Sous-le-Vent, dans l'archipel de la Société.",
+  "Lieu « Huahine », 1769 : Selon la tradition, trois principales dynasties s'y sont succédé : La dynastie Hau-mo'o-rere a été fondée au XVIIe siècle ; son dernier représentant est la reine Teha'apapa I que le capitaine Cook a rencontrée en 1769.",
+  "Lieu « Huahine », aujourd'hui : En 2018, elle est sacrée championne du monde junior en Australie et est actuellement numéro deux mondial."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}
