@@ -1,0 +1,81 @@
+{
+ "commune": {
+  "titre": "Saint-Pierre-du-Perray",
+  "code_insee": "91573",
+  "departement": "91",
+  "population": 11993,
+  "lat": 48.6123491,
+  "lon": 2.4952081,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-du-Perray"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:43:01",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1031,
+  "sortie": 468
+ },
+ "cout_usd": 0.000791,
+ "accroche": "À Saint-Pierre-du-Perray, Winnoland est racheté le 1er juin 1987, puis le parc est inauguré en 1994.",
+ "histoire": {
+  "recit": "Saint-Pierre-du-Perray, dans l’Essonne, se trouve à trente kilomètres au sud-est de Paris et ses habitants sont appelés les Saint-Perreyens. Au cœur de la commune, Winnoland a connu un tournant quand le site change de mains à la suite de difficultés financières.\n\nL’histoire du parc se dessine par étapes : d’abord le rachat, ensuite la naissance de la société qui le fait vivre, puis l’inauguration et les travaux menés avec attention. Plus d’une fois, la stratégie des dirigeants a pris le pas sur la hâte : le parc reste fermé un temps, le temps de concentrer leurs efforts sur un autre site.",
+  "chronologie": [
+   {
+    "date": "1er juin 1987",
+    "texte": "Le site est racheté après des difficultés financières, et la société Babyland est fondée le 1er juin 1987 pour faire repartir l’aventure.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1994",
+    "texte": "Winnoland est inauguré en 1994, tandis qu’un groupe belge prévoit le début des travaux pour le parc essonnien l’année suivante.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1995",
+    "texte": "Les dirigeants décident de garder Winnoland fermé au départ et n’envisagent pas d’ouverture avant 1995, le temps de se consacrer aux travaux d’un site néerlandais, Walibi Flevo.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Winnoland",
+   "histoire": "Winnoland est un parc d’attractions situé à Saint-Pierre-du-Perray, à trente kilomètres au sud-est de Paris.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2"
+   ],
+   "lat": 48.59215,
+   "lon": 2.515461,
+   "url": "https://fr.wikipedia.org/wiki/Winnoland"
+  }
+ ],
+ "sources": [
+  "Saint-Pierre-du-Perray est une commune française de l'arrondissement d’Évry, située à trente kilomètres au sud-est de Paris dans le département de l'Essonne en région Île-de-France. Ses habitants sont appelés les Saint-Perreyens.",
+  "Lieu « Winnoland » : Winnoland est un parc d'attractions situé à Saint-Pierre-du-Perray, à trente kilomètres au sud-est de Paris, en France.",
+  "Lieu « Winnoland », 1987 : À la suite de difficultés financières, le site est racheté par les forains Christian Reverchon et Duhy et la société Babyland est fondée le 1er juin 1987.",
+  "Lieu « Winnoland », 1994 : Celui-ci est inauguré en 1994 et le groupe belge projette alors le début des travaux pour le parc essonnien l'année suivante.",
+  "Lieu « Winnoland », 1995 : Dans un premier temps, les dirigeants du groupe décident de garder fermé le parc et n'envisagent pas d'ouverture avant 1995 car les travaux d'un site néerlandais requièrent toute leur attention et leur temps : Walibi Flevo."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

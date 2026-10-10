@@ -1,0 +1,213 @@
+{
+ "commune": {
+  "titre": "Yerres",
+  "code_insee": "91691",
+  "departement": "91",
+  "population": 27906,
+  "lat": 48.7170945,
+  "lon": 2.4880868,
+  "url": "https://fr.wikipedia.org/wiki/Yerres"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:53:35",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2292,
+  "sortie": 1708
+ },
+ "cout_usd": 0.002593,
+ "accroche": "Le 10 octobre 1792, les sœurs de l’abbaye Notre-Dame d’Yerres furent expulsées et l’abbaye vendue en lots.",
+ "histoire": {
+  "recit": "À Yerres, le village s’est formé au rythme de ses établissements religieux et de ses terres au creux de la vallée de l’Yerres. L’histoire connue commence quand l’abbaye Notre-Dame est édifiée à partir de 1120, tenue par des bénédictines. Puis, au XIIe siècle, un château vient s’asseoir au cœur de la ville : il en subsiste aujourd’hui le châtelet.\n\nAu XVIIe siècle, la seigneurie change de mains, et au fil du temps, d’autres religieux prennent place : en 1652, des camaldules édifient une nouvelle abbaye sur des terres données. La Révolution bouleverse l’ensemble : en octobre 1792, les sœurs sont expulsées, une partie des bâtiments détruite, et le reste vendu.\n\nYerres poursuit ensuite son façonnage : l’ancien cimetière est déplacé en 1832. Plus tard, la commune accueille un geste lié à François Rákóczi, avec une stèle élevée par l’État hongrois en 1937 puis déplacée en 1978. Enfin, le patrimoine se réinscrit dans la vie d’aujourd’hui, notamment autour de la propriété Caillebotte et de l’abbaye Notre-Dame d’Yerres.",
+  "chronologie": [
+   {
+    "date": "1120",
+    "texte": "Début de l’édification de l’abbaye Notre-Dame d’Yerres, tenue par les bénédictines.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1130",
+    "texte": "Le seigneur Guillaume de Hierres édifie un château ; subsiste aujourd’hui le châtelet en centre-ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Reconstruction de l’église paroissiale.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1637",
+    "texte": "Vente des deux tiers de la seigneurie à Rollin Burin, maître d’hôtel du roi.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1652",
+    "texte": "Édification d’une nouvelle abbaye par les camaldules sur des terres données par Charles d’Angoulême.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "10 octobre 1792",
+    "texte": "Expulsion des sœurs de l’abbaye Notre-Dame ; abbaye vendue en lots.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1832",
+    "texte": "Déplacement de l’ancien cimetière, situé au nord de l’église, à son emplacement actuel.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "Une stèle est élevée en l’honneur du héros national François Rákóczi.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1978",
+    "texte": "La stèle dédiée à François Rákóczi est déplacée dans le square qui porte son nom.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "4 décembre 1966",
+    "texte": "Signature du jumelage entre la commune d’Yerres et Mendig.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Propriété Caillebotte",
+   "histoire": "La propriété Caillebotte appartenait à la famille du peintre Gustave Caillebotte et à son frère Martial. Durant la guerre de 1870, la demeure est occupée militairement. Elle est rachetée par la ville de Yerres en 1973, ouverte au public, puis fait l’objet de restaurations. Le potager est agrandi et aménagé en 2011, ouvert de mai à octobre, et la propriété propose notamment des fabriques d’ornementation restaurées.",
+   "anecdotes": [
+    {
+     "texte": "Pendant la guerre de 1870, la demeure est occupée militairement alors que le peintre fait partie des gardes mobiles défendant Paris.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "La commune ouvre le potager au public, de mai à octobre, après son aménagement en 2011.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ouverte au public, la propriété offre un lieu de repos et permet de découvrir un patrimoine historique, dont des fabriques d’ornementation restaurées.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 48.7170945,
+   "lon": 2.4880868,
+   "url": "https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9_Caillebotte"
+  },
+  {
+   "nom": "Abbaye Notre-Dame d'Yerres",
+   "histoire": "L’abbaye Notre-Dame d’Yerres est un ancien monastère construit entre 1124 et 1132. Après les difficultés financières des XVIIe et XVIIIe siècles, la Révolution entraîne l’expulsion des bénédictines en 1792, la destruction d’une partie des bâtiments en 1793 et la vente du reste en plusieurs lots. Au XIXe siècle, une manufacture de laine occupe l’essentiel des bâtiments. Aujourd’hui, la restauration d’un édifice rare en Île-de-France a permis la préservation du patrimoine et la création de logements : ne subsistent notamment le bâtiment du dortoir (XVIe siècle), ainsi que la pharmacie et la salle de l’abbesse (XVIIIe siècle) renfermant des structures du XVIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la Révolution, les bénédictines sont expulsées en 1792, puis une partie des bâtiments est détruite en 1793 avant la vente du reste en lots.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le dortoir du XVIe siècle et des bâtiments liés à la pharmacie et à l’abbesse (XVIIIe siècle) existent encore, dans un ensemble restauré et transformé en logements.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.7085,
+   "lon": 2.49884,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_d%27Yerres"
+  },
+  {
+   "nom": "Église Saint-Honest d'Yerres",
+   "histoire": "L’église Saint-Honest est une église paroissiale catholique dédiée au martyr Honest du IIIe siècle, située à Yerres. Construite au XIIe siècle, elle conserve le chœur ; le clocher date du XIIIe siècle et le reste de l’édifice a été reconstruit au XIXe siècle dans un style néoclassique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 48.717116,
+   "lon": 2.491879,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Honest_d%27Yerres"
+  },
+  {
+   "nom": "Château de la Grange (Yerres)",
+   "histoire": "Le château de la Grange est un château situé dans la commune d’Yerres, en pays de Brie. En 1959, une usufruitière du domaine familial meurt au château le 14 juillet 1959 et avait été faite chevalier de la Légion d’honneur.",
+   "anecdotes": [
+    {
+     "texte": "En 1959, l’usufruitière du domaine familial meurt au château le 14 juillet, ayant été faite chevalier de la Légion d’honneur.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 48.729036,
+   "lon": 2.495222,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Grange_%28Yerres%29"
+  }
+ ],
+ "sources": [
+  "Yerres (prononcé [ jɛʁ] ; ) est une commune française située à vingt kilomètres au sud-est de Paris dans le département de l’Essonne en région Île-de-France. Reprenant le nom de la rivière l’Yerres dont elle occupe les versants nord et sud de la basse vallée, le village constitué autour de l’abbaye bénédictine Notre-Dame et plus tard du monastère des Camaldules devint à partir du XVIIIe siècle et du XIXe siècle un […]",
+  "Il est probable que le gué d’Yerres, situé sur la voie romaine menant de Paris à Montereau, ait été à l’origine du premier peuplement d’Yerres. L’ensemble de la basse vallée de l’Yerres fut attribué par les rois mérovingiens aux grandes abbayes parisiennes, qui contribuèrent au développement local. La paroisse, initialement dédiée à Saint Loup fut citée au XIe siècle. L’histoire connue du lieu démarre avec […]",
+  "1120 : L’histoire connue du lieu démarre avec l’édification à partir de 1120 de l’abbaye Notre-Dame d'Yerres, tenue par les bénédictines.",
+  "1130 : En 1130, le seigneur Guillaume de Hierres édifia un château dont subsiste aujourd’hui le châtelet en centre-ville.",
+  "XIIIe siècle : Au XIIIe siècle fut reconstruite l’église paroissiale.",
+  "1637 : Les deux tiers de la seigneurie sont donc vendus en 1637 à Rollin Burin, maître d’hôtel du roi, dont l’épouse était l’une des précieuses de l’époque, connue sous le nom de Bertaminde.",
+  "1652 : En 1652, des camaldules édifièrent une nouvelle abbaye sur des terres données par Charles d’Angoulême.",
+  "1792 : Le 10 octobre 1792 furent expulsées les sœurs de l’abbaye Notre-Dame qui fut vendu en lots.",
+  "1832 : L’ancien cimetière, situé au nord de l’église, fut déplacé à son emplacement actuel en 1832.",
+  "1937 : En 1937, l’État hongrois fit élever une stèle pour honorer le héros national François Rákóczi, qui fut déplacée en 1978 dans le square qui porte son nom.",
+  "1966 : Le 4 décembre 1966 fut signé le jumelage entre la commune d’Yerres et Mendig.",
+  "Lieu « Propriété Caillebotte » : La propriété Caillebotte est une propriété qui a appartenu à la famille du peintre Gustave Caillebotte et à son frère Martial.",
+  "Lieu « Propriété Caillebotte », 1870 : Durant la guerre de 1870, tandis que le peintre fait partie des gardes mobiles défendant Paris, la demeure est occupée militairement, comme d'autres à Yerres.",
+  "Lieu « Propriété Caillebotte », 1973 : La propriété a été rachetée par la ville de Yerres en 1973 qui l'a ouverte au public et qui y mène des restaurations depuis plusieurs années, notamment depuis 1995.",
+  "Lieu « Propriété Caillebotte », 2011 : Aujourd’hui, le potager, agrandi et aménagé par la commune en 2011, est ouvert au public, de mai à octobre.",
+  "Lieu « Propriété Caillebotte », aujourd'hui : Elle est aujourd’hui ouverte au public et constitue autant un lieu de repos qu’une invitation à découvrir un riche patrimoine historique : les fameuses fabriques d’ornementation qui parsèment son beau parc d’agrément et qui ont presque toutes été restaurées.",
+  "Lieu « Abbaye Notre-Dame d'Yerres » : L'abbaye Notre-Dame d'Yerres est un ancien monastère construit entre 1124 et 1132, sous l'épiscopat d'Étienne de Senlis, et grâce au don de quatre arpents de terre d'Eustachie de Corbeil, fille de Ferry de Châtillon, épouse de Baudoin de Corbeil, pui",
+  "Lieu « Abbaye Notre-Dame d'Yerres », XVIIIe siècle : L'abbaye a connu bien des vicissitudes et notamment de grandes difficultés financières, conduisant à la dégradation des bâtiments, à plusieurs reprises au cours des XVIIe et XVIIIe siècles.",
+  "Lieu « Abbaye Notre-Dame d'Yerres », 1792 : Lors de la Révolution, les bénédictines sont expulsées en 1792, une partie des bâtiments est détruite en 1793 et les autres sont vendus en plusieurs lots.",
+  "Lieu « Abbaye Notre-Dame d'Yerres », XIXe siècle : Une manufacture de laine occupera l'essentiel des bâtiments au cours de la deuxième moitié du XIXe siècle, jusqu'au milieu du XXe siècle.",
+  "Lieu « Abbaye Notre-Dame d'Yerres », aujourd'hui : Ainsi ont été conciliées la restauration d'un édifice rare en Île-de-France, donc la préservation du patrimoine, et la création de logements.De nos jours ne subsistent que le bâtiment du dortoir (XVIe siècle) et les bâtiments de la pharmacie et de l'abbesse (XVIIIe siècle), ces deux derniers renfermant des structures du XVIe siècle.",
+  "Lieu « Église Saint-Honest d'Yerres » : L’église Saint-Honest est une église paroissiale de culte catholique, dédiée au martyr Honest du IIIe siècle, située dans la commune française d'Yerres, dans le département de l'Essonne et la région Île-de-France.",
+  "Lieu « Église Saint-Honest d'Yerres », XIIe siècle : L’église Saint-Honest construite au XIIe siècle en conserve le chœur, le clocher date lui du XIIIe siècle et le reste de l’édifice a été reconstruit au XIXe siècle dans un style néoclassique.",
+  "Lieu « Château de la Grange (Yerres) » : Le château de la Grange est un château français situé dans la commune d'Yerres, en pays de Brie, dans le département de l'Essonne et la région Île-de-France, à dix-huit kilomètres au sud-est de Paris.",
+  "Lieu « Château de la Grange (Yerres) », 1959 : Légataire universelle de son époux mais usufruitière du domaine familial légué par son époux à un cousin, celle-ci mourut au château le 14 juillet 1959 ; elle avait été faite chevalier de la Légion d'honneur."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}

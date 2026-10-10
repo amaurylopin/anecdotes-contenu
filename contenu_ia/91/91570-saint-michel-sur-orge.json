@@ -1,0 +1,66 @@
+{
+ "commune": {
+  "titre": "Saint-Michel-sur-Orge",
+  "code_insee": "91570",
+  "departement": "91",
+  "population": 21776,
+  "lat": 48.6303347,
+  "lon": 2.302537,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Michel-sur-Orge"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:06:11",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1005,
+  "sortie": 433
+ },
+ "cout_usd": 0.000742,
+ "accroche": "À Saint-Michel-sur-Orge, la gare ferroviaire de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean se trouve sur le territoire communal.",
+ "histoire": {
+  "recit": "Saint-Michel-sur-Orge est une commune française située à vingt-quatre kilomètres au sud de Paris, dans l’Essonne, en Île-de-France, où l’on appelle les habitants les Saint-Michellois. Sur place, la Gare de Saint-Michel-sur-Orge donne accès à la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, un point de passage essentiel au quotidien.\n\nLe changement s’est aussi installé aux abords de la gare : depuis le 5 janvier 2025, une nouvelle gare routière est mise en service à proximité de la rue Albert Peuvrier, en remplacement de l’ancienne. L’opération s’inscrit dans le projet « Pôles gare » porté par Cœur d’Essonne Agglomération, signe que la commune continue d’aménager ses liaisons.",
+  "chronologie": [
+   {
+    "date": "5 janvier 2025",
+    "texte": "Une nouvelle gare routière est mise en service à proximité de la rue Albert Peuvrier, en remplacement de l’ancienne, dans le cadre du projet « Pôles gare » porté par Cœur d’Essonne Agglomération.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Saint-Michel-sur-Orge",
+   "histoire": "La Gare de Saint-Michel-sur-Orge est une gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Saint-Michel-sur-Orge, en Essonne (Île-de-France).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis le 5 janvier 2025, une nouvelle gare routière est mise en service à proximité de la rue Albert Peuvrier, en remplacement de l’ancienne.",
+   "sources": [
+    "S2",
+    "S3"
+   ],
+   "lat": 48.635577,
+   "lon": 2.306599,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Michel-sur-Orge"
+  }
+ ],
+ "sources": [
+  "Saint-Michel-sur-Orge (prononcé [sɛ̃ miʃɛl syʁ ɔʁʒ] ) est une commune française située à vingt-quatre kilomètres au sud de Paris dans le département de l'Essonne en région Île-de-France. Ses habitants sont appelés les Saint-Michellois.",
+  "Lieu « Gare de Saint-Michel-sur-Orge » : La gare de Saint-Michel-sur-Orge est une gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Saint-Michel-sur-Orge, dans le département de l'Essonne en région d'Île-de-France.",
+  "Lieu « Gare de Saint-Michel-sur-Orge », aujourd'hui : Depuis le 5 janvier 2025, une nouvelle gare routière est mise en service à proximité de la rue Albert Peuvrier, en remplacement de l'ancienne, dans le cadre du projet « Pôles gare » porté par Cœur d'Essonne Agglomération."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

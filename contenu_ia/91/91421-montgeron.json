@@ -1,0 +1,216 @@
+{
+ "commune": {
+  "titre": "Montgeron",
+  "code_insee": "91421",
+  "departement": "91",
+  "population": 24022,
+  "lat": 48.7039052,
+  "lon": 2.4605083,
+  "url": "https://fr.wikipedia.org/wiki/Montgeron"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:01:10",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2073,
+  "sortie": 1146
+ },
+ "cout_usd": 0.001847,
+ "accroche": "En 1855, l’église paroissiale de Montgeron est reconstruite, entre 1855 et 1856, dans la commune partagée entre le canton de Vigneux-sur-Seine et celui de Draveil.",
+ "histoire": {
+  "recit": "Montgeron s’étire au sud-est de Paris, entre les vallées de l’Yerres et de la Seine, en contrebas de la forêt de Sénart, sur l’ancienne route stratégique de Paris vers la Bourgogne devenue la route nationale 6. Les traces remontent loin : dans la forêt de Sénart, près du ru d’Oly, un polyèdre en silex, daté de la préhistoire, témoigne d’une occupation humaine. Plus tard, à l’époque gallo-romaine, un habitat prend place au lieu-dit Le Nouzet, et le gué de Senlis permet le passage de la route entre Lutèce et Agedincum.\n\nLe Moyen Âge apporte son lot d’installations : vers 1147, le lieu est mentionné dans la description « Auprès du mont de Gisons, dans la paroisse de Vigneux. » Au XIIe siècle, une léproserie s’établit au nord du territoire, puis cesse son activité en 1604 avant d’être transformée en ermitage vers 1630.\n\nAux XIXe et XXe siècles, le village se restructure : reconstruite en 1855-1856, l’église est suivie de l’ancienne mairie et de l’école en 1858. La gare ouvre ensuite en 1875. En 1875 aussi, un certain mouvement artistique marque la commune : Ludovic Halévy s’y installe et reçoit Albert Bartholomé et Edgar Degas. Le musée municipal, lui, ouvre en 1993.",
+  "chronologie": [
+   {
+    "date": "1147",
+    "texte": "Le lieu est mentionné sous la description « Auprès du mont de Gisons, dans la paroisse de Vigneux. »",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Une léproserie est installée au nord du territoire.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1604",
+    "texte": "La léproserie cesse son activité et, la même année, Nicolas Brûlart de Sillery fait l’acquisition du domaine.",
+    "sources": [
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "date": "1630",
+    "texte": "La léproserie est transformée en ermitage.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1855-1856",
+    "texte": "L’église paroissiale est reconstruite.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "L’ancienne mairie et l’école communale sont construites.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "La gare est ouverte ; Ludovic Halévy s’installe à Montgeron et reçoit Albert Bartholomé et Edgar Degas.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1909 (octobre)",
+    "texte": "L’école communale est inaugurée.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1993 (24 septembre)",
+    "texte": "Le musée municipal est inauguré.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Moulin de Senlis",
+   "histoire": "Bâti au XVe siècle, le moulin de Senlis est inscrit au titre des monuments historiques en 2018.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il n’est plus en utilisation à la suite du déplacement du lit de la rivière un peu plus au nord.",
+   "sources": [
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.7146,
+   "lon": 2.4514,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_Senlis"
+  },
+  {
+   "nom": "Église Saint-Jacques de Montgeron",
+   "histoire": "L’église Saint-Jacques de Montgeron est une église paroissiale catholique dédiée à saint Jacques-le-Majeur.",
+   "anecdotes": [
+    {
+     "texte": "Une première église aurait été élevée en 1189, à l’emplacement de la Place de Tilleuls, dans le centre de l’ancien village.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Le 28 janvier 2021, un arrêté inscrit l’église Saint-Jacques de Montgeron au titre des Monuments historiques.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.70733,
+   "lon": 2.45653,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jacques_de_Montgeron"
+  },
+  {
+   "nom": "Domaine des Prés",
+   "histoire": "Le domaine des Prés est un château à Montgeron.",
+   "anecdotes": [
+    {
+     "texte": "Fondée en 1865 par Jeanne-Marie Moisan, une œuvre apparaît en lien avec le domaine des Prés.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Le domaine est acquis par M. Bidal, grand industriel du textile fournisseur de l’armée, puis vendu en 1930 à la congrégation des Sœurs Servantes du Saint-Cœur de Marie.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.703859,
+   "lon": 2.4604529000001,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_des_Pr%C3%A9s"
+  },
+  {
+   "nom": "Gare de Montgeron - Crosne",
+   "histoire": "La gare de Montgeron - Crosne est une gare ferroviaire située sur le territoire de la commune, à proximité de Crosne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 48.708108,
+   "lon": 2.462203,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Montgeron_-_Crosne"
+  }
+ ],
+ "sources": [
+  "Montgeron (prononcé [mɔ̃ʒǝʁɔ̃] ) est une commune française située à dix-neuf kilomètres au sud-est de Paris dans le département de l’Essonne en région Île-de-France. Elle est partagée entre le canton de Vigneux-sur-Seine et celui de Draveil. Située entre les deux vallées de l’Yerres et de la Seine en contrebas de la forêt de Sénart sur le chemin stratégique de Paris à la Bourgogne devenue la route nationale 6, le […]",
+  "Dans la forêt de Sénart à proximité du ru d’Oly fut retrouvé un polyèdre en silex daté de la préhistoire attestant d’une occupation humaine du lieu à cette époque. À l’époque gallo-romaine, un habitat était situé au lieu-dit Le Nouzet et l’actuel gué de Senlis servait au passage de la route entre Lutèce et Agedincum (nom à l'époque romaine de la commune de Sens dans l'Yonne). Le lieu fut mentionné à l’époque de […]",
+  "1147 : Le lieu fut mentionné à l’époque de Louis VII vers 1147 sous la description de « Auprès du mont de Gisons, dans la paroisse de Vigneux. » Au XIIe siècle, une léproserie fut installée au nord du territoire, elle cessa son activité en 1604, et fut transformée en ermitage vers 1630.",
+  "1604 : En 1604, Nicolas Brûlart de Sillery fit l’acquisition du domaine vendu en 1642 à Guy Carré.",
+  "1652 : En 1652, le village situé sur le passage des troupes de la Fronde fut ravagé[réf. nécessaire].",
+  "1732 : Entre 1732 et 1752, la seigneurie appartint à Jacques-César Parat de Vareilles, en 1753 elle fut vendue à Michel-Henri Fabus et revint en 1767 à Anne Gabriel Henry Bernard de Boulainvilliers.",
+  "1855 : Entre 1855 et 1856, l’église paroissiale fut reconstruite.En 1858 furent construites l’ancienne mairie et l’école communale.En 1875 fut ouverte la gare.En 1890, c’est Ludovic Halévy qui s’installa à Montgeron et reçut Albert Bartholomé et Edgar Degas.En 1903, Jean Escoula s’y installa.",
+  "1909 : Le but était de préparer l’attaque de la Société générale de Chantilly qui fit un mort et un blessé.En octobre 1909 fut inaugurée l’école communale.",
+  "1993 : Le 24 septembre 1993 fut inauguré le musée municipal.",
+  "2017 : Une plaque fut inaugurée ce jour.En 2017, c'est cette fois la dernière étape qui passe à nouveau devant le Réveil-Matin avant de rejoindre les Champs-Élysées.",
+  "Lieu « Moulin de Senlis » : Le moulin de Senlis, situé à Montgeron (département français de l'Essonne), est un bâtiment du XVe siècle inscrit au titre des monuments historiques en 2018.",
+  "Lieu « Moulin de Senlis », 2018 : Le moulin de Senlis, situé à Montgeron (département français de l'Essonne), est un bâtiment du XVe siècle inscrit au titre des monuments historiques en 2018.",
+  "Lieu « Moulin de Senlis », aujourd'hui : Aujourd'hui, il n'est plus en utilisation à la suite du déplacement du lit de la rivière un peu plus au nord.",
+  "Lieu « Église Saint-Jacques de Montgeron » : L'église Saint-Jacques de Montgeron est une église paroissiale catholique, dédiée à saint Jacques-le-Majeur, située dans la commune française de Montgeron, dans le département de l'Essonne en région Île-de-France.",
+  "Lieu « Église Saint-Jacques de Montgeron », 2021 : Le préfet de la Région Île-de-France, Marc Guillaume, a signé jeudi 28 janvier 2021, un arrêté inscrivant l’église Saint-Jacques de Montgeron au titre des Monuments historiques.",
+  "Lieu « Église Saint-Jacques de Montgeron », aujourd'hui : Dans le centre de l'ancien village, à l'emplacement de la Place de Tilleuls, se trouvait une première église élevée en 1189 .",
+  "Lieu « Domaine des Prés » : Le domaine des Prés est un château situé à Montgeron, dans le département de l'Essonne.",
+  "Lieu « Domaine des Prés », 1865 : Cet ordre avait été fondé en 1865 par Jeanne-Marie Moisan.",
+  "Lieu « Domaine des Prés », 1930 : Vendu peu après, la propriété fut acquise par M. Bidal, un grand industriel du textile, fournisseur de l’armée, et dont le fils Pierre Bidal vendit le domaine en 1930 à la congrégation des Sœurs Servantes du Saint-Cœur de Marie.",
+  "Lieu « Gare de Montgeron - Crosne » : La gare de Montgeron - Crosne est une gare ferroviaire française située sur le territoire de la commune de Montgeron, à proximité de Crosne, dans le département de l'Essonne, en région Île-de-France.",
+  "Lieu « Gare de Montgeron - Crosne », 1852 : Le bâtiment de la gare, bâti entre 1852-53 est l'œuvre de l'architecte François-Alexis Cendrier, qui a aussi construit de nombreuses autres gares de la compagnie du PLM, notamment celle de Brunoy et de Boussy-Saint-Antoine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen",
+   "XIXe"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}

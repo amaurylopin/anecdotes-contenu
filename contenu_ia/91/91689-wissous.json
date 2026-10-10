@@ -1,0 +1,336 @@
+{
+ "commune": {
+  "titre": "Wissous",
+  "code_insee": "91689",
+  "departement": "91",
+  "population": 7151,
+  "lat": 48.731903,
+  "lon": 2.327057,
+  "url": "https://fr.wikipedia.org/wiki/Wissous"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:33:21",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2846,
+  "sortie": 1879
+ },
+ "cout_usd": 0.002918,
+ "accroche": "À Wissous, l’aqueduc de Lutèce traverse le sol de la future commune au Ier siècle, puis au début du IIe siècle pour l’alimentation en eau des thermes.",
+ "histoire": {
+  "recit": "Wissous se tient à environ quatorze kilomètres au sud de Paris, en Essonne, et doit d’abord son implantation aux sources et aux cours d’eau : même sans fleuve ni route ancienne, les traces d’habitats remontent à la fin de la Préhistoire et au début de l’Antiquité. Au nord-est, des fouilles mettent au jour des vestiges allant de l’âge du Bronze final au Premier âge du fer, jusqu’aux périodes gauloise.\n\nPlus tard, l’eau continue d’organiser le territoire : l’aqueduc de Lutèce, construit au Ier siècle ou au début du IIe siècle, passe sur la future commune pour alimenter Lutèce.\n\nLe Moyen Âge laisse des repères solides. Au XIIe siècle, l’église Saint-Denis est bâtie, puis une grange dîmière est construite au XIIIe siècle.\n\nAu XIXe et au XXe siècle, la commune change de rythme avec la gare de Wissous, ouverte en 1886 sur la ligne de Grande Ceinture stratégique, puis fermée aux voyageurs en 1939. En 1792 à 1797, les biens du clergé sont vendus. En 1815, pendant les Cent-Jours, des troupes anglaises occupent la commune. Enfin, le 24 août 1944, Wissous est libérée par une colonne de la 2e division blindée du général Philippe Leclerc de Hauteclocque, quelques heures après le départ des troupes allemandes.",
+  "chronologie": [
+   {
+    "date": "fin de la Préhistoire et début de l’Antiquité",
+    "texte": "Installation humaine dans la zone, rendue possible notamment par la présence de sources et de cours d’eau.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "âge du Bronze final et Premier âge du fer",
+    "texte": "Au nord-est de Wissous, des traces d’habitats sont mises au jour.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle ou début du IIe siècle",
+    "texte": "L’aqueduc de Lutèce passe sur le sol de la future commune, pour apporter de l’eau à Lutèce.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Construction de l’église Saint-Denis, dédiée à saint Denis.",
+    "sources": [
+     "S4",
+     "S9"
+    ]
+   },
+   {
+    "date": "XIIe siècle (période de transition)",
+    "texte": "L’église connaît une transition entre roman et gothique : clocher roman, chœur et bas-côté gothiques.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Construction d’une grange dîmière.",
+    "sources": [
+     "S5",
+     "S18"
+    ]
+   },
+   {
+    "date": "XIIIe siècle (grange aux dîmes)",
+    "texte": "La grange aux dîmes date du XIIIe siècle, à l’origine dans l’enceinte d’une ferme.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "1792-1797",
+    "texte": "Vente des biens du clergé.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIIIe siècle (fonction)",
+    "texte": "La grange dîmière renvoie à la collecte de la dîme, dans l’organisation agricole médiévale.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1815",
+    "texte": "Pendant les Cent-Jours, la commune est occupée par des troupes anglaises.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1886",
+    "texte": "Ouverture de la gare de Wissous sur la ligne de Grande Ceinture stratégique.",
+    "sources": [
+     "S15",
+     "S16"
+    ]
+   },
+   {
+    "date": "18 octobre 1886",
+    "texte": "Mise en service de la gare de Wissous, avec la ligne de Grande Ceinture stratégique ouverte sur exigence de l’armée.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "15 mai 1939",
+    "texte": "Fermeture au trafic des voyageurs, avec l’essentiel de la Grande Ceinture.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Libération de la commune le 24 août 1944 par une colonne de la 2e division blindée du général Philippe Leclerc de Hauteclocque.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Denis de Wissous",
+   "histoire": "Église catholique dédiée à saint Denis, construite au XIIe siècle : le clocher est roman tandis que le chœur et le bas-côté sont gothiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Dix-sept éléments décoratifs sont protégés au titre des objets, dont une peinture murale du XVIe siècle et la seule cloche subsistant des quatre d’origine.",
+   "sources": [
+    "S9",
+    "S10",
+    "S13"
+   ],
+   "lat": 48.731202,
+   "lon": 2.327209,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Denis_de_Wissous"
+  },
+  {
+   "nom": "Gare de Wissous",
+   "histoire": "Gare ferroviaire fermée sur la ligne de Choisy-le-Roi à Massy - Verrières, située sur le territoire de Wissous.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 48.741242,
+   "lon": 2.33087,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Wissous"
+  },
+  {
+   "nom": "Grange aux dîmes (Wissous)",
+   "histoire": "Ancienne grange dîmière datée du XIIIe siècle, à l’origine dans l’enceinte d’une ferme.",
+   "anecdotes": [
+    {
+     "texte": "En 1895, un pigeonnier est détruit pour permettre le passage de la rue Victor-Baloche et la jonction avec la rue André-Dolimier.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Depuis les années 1990, le bâtiment est utilisé comme restaurant gastronomique.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le bâtiment est utilisé comme restaurant gastronomique depuis les années 1990.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.730611111111,
+   "lon": 2.3264722222222,
+   "url": "https://fr.wikipedia.org/wiki/Grange_aux_d%C3%AEmes_%28Wissous%29"
+  },
+  {
+   "nom": "Domaine du château de Montjean",
+   "histoire": "Parc public situé dans la plaine de Montjean, à Wissous, qui a connu des usages militaires pendant les deux guerres mondiales.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ces déblais ont fait disparaître toute trace du ru de Rungis qui traversait le domaine.",
+   "sources": [
+    "S22",
+    "S25",
+    "S23"
+   ],
+   "lat": 48.745125,
+   "lon": 2.331612,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_du_ch%C3%A2teau_de_Montjean"
+  },
+  {
+   "nom": "Château de Montjean (Wissous)",
+   "histoire": "Demeure bourgeoise dans la plaine de Montjean : au début du XIXe siècle, elle sert d’hôpital militaire durant la Première Guerre mondiale, puis est occupée par les troupes allemandes pendant la Seconde Guerre mondiale.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1900, l’ensemble de deux propriétés : celle de Clermont-Gallerande est conservée tandis que celle de Chasseloup-Laubat est détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "Dans les années 2010 et 2020, une partie seulement est occupée et l’autre est murée.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château n’est que partiellement occupé dans les années 2010 et 2020, l’autre partie étant murée.",
+   "sources": [
+    "S29",
+    "S26",
+    "S27"
+   ],
+   "lat": 48.744172,
+   "lon": 2.335566,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Montjean_%28Wissous%29"
+  },
+  {
+   "nom": "Rue de l'Amiral-Mouchez (Wissous)",
+   "histoire": "Voie de communication de Wissous portant le nom de l’amiral Mouchez.",
+   "anecdotes": [
+    {
+     "texte": "En février 1883, l’amiral Mouchez fait un don de 2000 francs à la commune pour améliorer la rue.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La rue porte aujourd’hui le nom de l’amiral Mouchez, après son don de 2000 francs en février 1883.",
+   "sources": [
+    "S30",
+    "S33"
+   ],
+   "lat": 48.73286,
+   "lon": 2.32799,
+   "url": "https://fr.wikipedia.org/wiki/Rue_de_l%27Amiral-Mouchez_%28Wissous%29"
+  },
+  {
+   "nom": "Domaine Les Étangs - Espace Arthur-Clark",
+   "histoire": "Parc public sur la commune de Wissous, dans le département de l’Essonne.",
+   "anecdotes": [
+    {
+     "texte": "En 1999, une « porte du millénaire » est inaugurée par des élèves de la commune.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une « porte du millénaire » inaugurée en 1999 se trouve dans l’espace public.",
+   "sources": [
+    "S34",
+    "S35"
+   ],
+   "lat": 48.734818,
+   "lon": 2.329829,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_Les_%C3%89tangs_-_Espace_Arthur-Clark"
+  },
+  {
+   "nom": "Route d'Antony-Charles de Gaulle (Wissous)",
+   "histoire": "Voie de communication de Wissous permettant le franchissement de l’autoroute.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37"
+   ],
+   "lat": 48.74005,
+   "lon": 2.32187,
+   "url": "https://fr.wikipedia.org/wiki/Route_d%27Antony-Charles_de_Gaulle_%28Wissous%29"
+  }
+ ],
+ "sources": [
+  "Wissous (prononcé [visu] ) est une commune française située à environ quatorze kilomètres au sud de Paris dans le département de l'Essonne en région Île-de-France. Grâce à la présence de sources et de cours d'eau, l'installation humaine dans la zone remonte à la fin de la Préhistoire et au début de l'Antiquité. Commune rurale, Wissous s'est développée notamment dans le domaine agricole. Au XXe siècle, la […]",
+  "Si aucun fleuve ni route ancienne ne passe sur le territoire de la commune, c'est la présence de sources qui explique notamment l'installation humaine dans la zone à la fin de la Préhistoire et au début de l'Antiquité. Des fouilles ont notamment révélé au nord-est de Wissous des traces d'habitats datant de la période de l'âge du Bronze final et du Premier âge du fer, mais aussi aux périodes gauloise et […]",
+  "Ier siècle : L'aqueduc de Lutèce, construit au Ier siècle ou au début du IIe siècle, pour apporter de l'eau à Lutèce (Thermes de l'Est et de Cluny) passait sur le sol de la future commune.",
+  "XIIe siècle : Au XIIe siècle, l'église Saint-Denis est bâtie et sera au début du XXe siècle classée aux monuments historiques.",
+  "XIIIe siècle : Une grange dîmière est alors construite au XIIIe siècle.",
+  "1792 : Entre 1792 et 1797, les biens du clergé sont vendus.",
+  "1815 : En 1815, pendant les Cent-Jours, la commune est occupée par des troupes anglaises.",
+  "1944 : La commune est finalement libérée le 24 août 1944 par une colonne de la 2e division blindée du général Philippe Leclerc de Hauteclocque et menée par les généraux Jacques Branet ou Louis Warabiot (selon les sources), quelques heures après le départ des troupes allemandes.",
+  "Lieu « Église Saint-Denis de Wissous » : L'église Saint-Denis est une église de culte catholique, dédiée à saint Denis, située dans la commune française de Wissous et le département de l'Essonne, en France.",
+  "Lieu « Église Saint-Denis de Wissous », XIIe siècle : L'église a été construite au XIIe siècle dans une période de transition entre le roman et le gothique , le clocher de 28 mètres de haut étant roman, le chœur et le bas-côté gothiques.",
+  "Lieu « Église Saint-Denis de Wissous », XVIe siècle : L'église dispose également d'une chapelle latérale, construit au XVIe siècle, dont l'ogive d'accès date du XIIe siècle.",
+  "Lieu « Église Saint-Denis de Wissous », 1919 : En 1919, un chêne symbolisant la victoire dans la Première Guerre mondiale a été planté devant l'édifice, en remplacement de celui existant auparavant.",
+  "Lieu « Église Saint-Denis de Wissous », aujourd'hui : Dix-sept éléments décoratifs de l'église Saint-Denis sont protégés au titre des objets, dont une peinture murale du XVIe siècleet la seule cloche subsistant des quatre d'origine.",
+  "Lieu « Gare de Wissous » : La gare de Wissous est une gare ferroviaire française, fermée, de la ligne de Choisy-le-Roi à Massy - Verrières, située sur le territoire de la commune de Wissous, dans le département de l'Essonne, en région Île-de-France.",
+  "Lieu « Gare de Wissous », 1886 : Ouverte en 1886, cette gare de la Société nationale des chemins de fer français (SNCF) n'accueille plus de voyageurs depuis 1939.",
+  "Lieu « Gare de Wissous », 1886 : La gare est mise en service le 18 octobre 1886 avec la ligne dite de Grande Ceinture stratégique, ouverte sur exigence de l'armée.",
+  "Lieu « Gare de Wissous », 1939 : La gare est fermée au trafic des voyageurs avec l'essentiel de la Grande Ceinture, le 15 mai 1939, dans le cadre des mesures de coordination.",
+  "Lieu « Grange aux dîmes (Wissous) » : La grange aux dîmes est une ancienne grange dîmière située à Wissous, dans le département de l'Essonne, en France.",
+  "Lieu « Grange aux dîmes (Wissous) », XIIIe siècle : Datant du XIIIe siècle, le bâtiment se situe à l'origine dans l'enceinte d'une ferme, au fond d'une cour qui est l'entrée du corps de ferme.",
+  "Lieu « Grange aux dîmes (Wissous) », 1895 : Un pigeonnier a été détruit en 1895 pour le passage de la rue Victor-Baloche entre l'église et la ferme et afin de permettre sa jonction avec la rue André-Dolimier.",
+  "Lieu « Grange aux dîmes (Wissous) », 1990 : Depuis les années 1990, le bâtiment est utilisé comme restaurant gastronomique.",
+  "Lieu « Domaine du château de Montjean » : Le domaine du château de Montjean, parc du château de Montjean ou parc de Montjean, est un parc public situé dans la plaine de Montjean dans la commune de Wissous en Essonne.",
+  "Lieu « Domaine du château de Montjean », XIXe siècle : Le château, construit au début du XIXe siècle, servit d'hôpital militaire durant la Première Guerre mondiale avant d'être occupé par les troupes allemandes pendant la Seconde Guerre mondiale.",
+  "Lieu « Domaine du château de Montjean », 1900 : L'une des propriétés a été démolie en 1900 et l'autre fut acquise par l'un des membres de la famille Darblay.",
+  "Lieu « Domaine du château de Montjean », aujourd'hui : Ces déblais ont fait disparaître toute trace du ru de Rungis qui traversait le domaine.",
+  "Lieu « Château de Montjean (Wissous) » : Le château de Montjean est une demeure bourgeoise située dans la plaine de Montjean, dans la commune de Wissous, en Essonne.",
+  "Lieu « Château de Montjean (Wissous) », XIXe siècle : Le château, construit au début du XIXe siècle, sert d'hôpital militaire durant la Première Guerre mondiale avant d'être occupé par les troupes allemandes pendant la Seconde Guerre mondiale.",
+  "Lieu « Château de Montjean (Wissous) », 1900 : Il y a à l'époque deux propriétés, le « château » étant la propriété de Clermont-Gallerande qui a été conservée, tandis que celle de Chasseloup-Laubat a été détruite vers 1900.",
+  "Lieu « Château de Montjean (Wissous) », 2010 : Dans les années 2010 et 2020, le château est apparu en mauvais état et il n'est que partiellement occupé, l'autre partie étant murée.",
+  "Lieu « Rue de l'Amiral-Mouchez (Wissous) » : La rue de l'Amiral-Mouchez est une voie de communication de Wissous dans l'Essonne.",
+  "Lieu « Rue de l'Amiral-Mouchez (Wissous) », XVIIe siècle : Legs Dhommé, bâtisse datant du XVIIe siècle.",
+  "Lieu « Rue de l'Amiral-Mouchez (Wissous) », 1970 : À l'angle de la rue Pelletier, emplacement de l'ancien lavoir communal, détruit dans les années 1970.",
+  "Lieu « Rue de l'Amiral-Mouchez (Wissous) », aujourd'hui : L'amiral Mouchez fit en février 1883, un don de 2000 francs à la commune, afin d'améliorer cette rue qui porte aujourd'hui son nom.",
+  "Lieu « Domaine Les Étangs - Espace Arthur-Clark » : L’Espace Arthur-Clark, officiellement Domaine Les Étangs - Espace Arthur-Clark, est un parc public situé sur la commune de Wissous en Essonne.",
+  "Lieu « Domaine Les Étangs - Espace Arthur-Clark », 1999 : Dans un autre registre, une « porte du millénaire » fut inaugurée en 1999 par des élèves de la commune.",
+  "Lieu « Route d'Antony-Charles de Gaulle (Wissous) » : La route d'Antony-Charles de Gaulle est une voie de communication de Wissous dans l'Essonne.",
+  "Lieu « Route d'Antony-Charles de Gaulle (Wissous) », 1950 : Dans les années 1950, un pont fut construit pour permettre le franchissement de l'autoroute, tout en gardant un tracé identique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}

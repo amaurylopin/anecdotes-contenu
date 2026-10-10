@@ -1,0 +1,95 @@
+{
+ "commune": {
+  "titre": "Étréchy (Essonne)",
+  "code_insee": "91226",
+  "departement": "91",
+  "population": 6986,
+  "lat": 48.4937863,
+  "lon": 2.1898413,
+  "url": "https://fr.wikipedia.org/wiki/%C3%89tr%C3%A9chy_%28Essonne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:36:12",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1054,
+  "sortie": 559
+ },
+ "cout_usd": 0.00091,
+ "accroche": "À Étréchy, l’église Saint-Étienne a été bâtie aux XIIIe ou XIVe siècles et classée au titre des monuments historiques en 1908.",
+ "histoire": {
+  "recit": "Etréchy est une commune d’Île-de-France, située dans l’Essonne, à quarante-deux kilomètres au sud-ouest de Paris. Sous la Révolution française, la commune est instituée et, entre 1790 et 1794, elle absorbe celle de Vaucelas. Dans les archives de l’Assemblée nationale, un manuscrit conserve le cahier de doléance de la commune d’Etréchy pour les états généraux de 1789.\n\nPendant la Première Guerre mondiale, le château de Gravelles devient un hôpital auxiliaire de l’association des Dames de France. Aujourd’hui, le repère le plus ancien et reconnaissable d’Étréchy reste l’église Saint-Étienne : elle est dédiée au protomartyr Étienne, et son édifice, bâti au XIIIe ou XIVe siècle, a été classé en 1908.",
+  "chronologie": [
+   {
+    "date": "1790 à 1794",
+    "texte": "La commune d’Étréchy absorbe celle de Vaucelas.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1789",
+    "texte": "Le cahier de doléance de la commune d’Étréchy est conservé dans les archives de l’Assemblée nationale, à travers le manuscrit original des états généraux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Première Guerre mondiale",
+    "texte": "Le château de Gravelles devient l’hôpital auxiliaire de l’association des Dames de France.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1908",
+    "texte": "L’église Saint-Étienne d’Étréchy est classée au titre des monuments historiques.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIIe ou XIVe siècle",
+    "texte": "L’église Saint-Étienne d’Étréchy est un édifice bâti aux XIIIe ou XIVe siècles.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Étienne d'Étréchy",
+   "histoire": "Église paroissiale catholique dédiée au protomartyr Étienne, située à Étréchy, dans le département de l’Essonne. Son édifice date des XIIIe ou XIVe siècles et a été classé au titre des monuments historiques en 1908.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Classée au titre des monuments historiques (1908).",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.493343,
+   "lon": 2.189993,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_d%27%C3%89tr%C3%A9chy"
+  }
+ ],
+ "sources": [
+  "Étréchy (prononcé [et̪ʁeʃi] ) est une commune française située à quarante-deux kilomètres au sud-ouest de Paris dans le département de l'Essonne en région Île-de-France.",
+  "La commune, instituée sous la Révolution française, absorbe entre 1790 et 1794 celle de Vaucelas. Les archives de l’Assemblée nationale conservent le témoignage des cahiers de doléance des états généraux de 1789 à travers le manuscrit original du cahier de la commune d’Etréchy. Pendant la Première Guerre mondiale, le château de Gravelles devient l'Hôpital auxiliaire de l'association des Dames de France (HAADF) […]",
+  "Lieu « Église Saint-Étienne d'Étréchy » : L'église Saint-Étienne est une église paroissiale de culte catholique, dédiée au protomartyr Étienne, située dans la commune française d'Étréchy et le département de l'Essonne.",
+  "Lieu « Église Saint-Étienne d'Étréchy », 1908 : L'édifice, bâti au XIIIe ou XIVe siècle, est classé au titre des monuments historiques en 1908."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

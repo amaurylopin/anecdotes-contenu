@@ -1,0 +1,267 @@
+{
+ "commune": {
+  "titre": "Brunoy",
+  "code_insee": "91114",
+  "departement": "91",
+  "population": 25643,
+  "lat": 48.6979148,
+  "lon": 2.5044322,
+  "url": "https://fr.wikipedia.org/wiki/Brunoy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:58:56",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2805,
+  "sortie": 1638
+ },
+ "cout_usd": 0.002609,
+ "accroche": "À Brunoy, l’obélisque de Brunoy (pyramide de Brunoy) a été construit en 1779 par Soufflot, aidé notamment par Richard Mique et Michel-Barthélemy Hazon.",
+ "histoire": {
+  "recit": "Dans une boucle de l’Yerres, en bordure de la forêt de Sénart, Brunoy est habitée très tôt : des outils en pierre y ont été retrouvés, et deux alignements mégalithiques, dits des Pierres Frittes, se dressent au bord de l’eau. Plus tard, le fief change de mains et devient un théâtre de grandes décisions : vendu en 1722 au gardien du trésor royal Jean Pâris de Monmartel, le domaine est ensuite érigé en marquisat en 1757, puis vendu en 1774, lorsque Marie Antoinette y est reçue à plusieurs reprises. \n\nBrunoy grandit encore : la mairie actuelle est construite en 1898, la population bondit au début du XXe siècle et, plus près de nous, des ensembles comme le Grand Parc ou le Parc de Talma voient le jour. Le Moulin de la Galette, fermé depuis plusieurs années, est racheté par la Ville en 2017 pour redynamiser le quartier.\n\nAujourd’hui, la mémoire du lieu se lit aussi dans ses traces : deux bâtiments subsistent de l’ancien château, et l’entrée de Brunoy est toujours marquée par son obélisque.",
+  "chronologie": [
+   {
+    "date": "1722",
+    "texte": "Le fief de Brunoy est vendu au gardien du trésor royal, Jean Pâris de Monmartel.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1757",
+    "texte": "Le domaine est érigé en marquisat.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1774",
+    "texte": "Le domaine est vendu, et Marie Antoinette y est reçue plusieurs fois.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1777",
+    "texte": "Les marquisats de Brunoy et de Grosbois sont érigés en duché pairie de Brunoy pour le comte de Provence et son épouse.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1898",
+    "texte": "La mairie actuelle est construite.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1906",
+    "texte": "La population atteint 2 745 habitants.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "Les Hautes Mardelles, cité HLM de plus de trois mille habitants, sont construites.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2017",
+    "texte": "Le Moulin de la Galette est racheté et fait l’objet d’un appel à projets pour redynamiser le quartier.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Brunoy",
+   "histoire": "Le château de Brunoy a été une demeure importante, aujourd’hui disparue dans sa majeure partie : il n’en reste que deux bâtiments à peu près intacts, aux deux extrémités de l’ensemble.",
+   "anecdotes": [
+    {
+     "texte": "En 1722, le fief est vendu à Jean Pâris de Monmartel, l’un des frères Pâris, financiers d’origine pauvre passés dans les très grosses fortunes.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "Le château a aussi connu le gouvernement de Jules-David Cromot du Bourg, gouverneur du château de Brunoy.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il subsiste deux bâtiments à peu près intacts : à l’angle de la place, face à l’église, et à l’autre bout, à droite d’un porche donnant accès à une cour intérieure.",
+   "sources": [
+    "S17",
+    "S13"
+   ],
+   "lat": 48.7005623,
+   "lon": 2.497648894,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Brunoy"
+  },
+  {
+   "nom": "Église Saint-Médard de Brunoy",
+   "histoire": "Église paroissiale de culte catholique dédiée à l’évêque Médard de Noyon. Une partie ancienne remonte au XIIe siècle, et l’édifice a connu des remplacements et rénovations d’éléments musicaux au XXe et au début du XXIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S21",
+    "S22",
+    "S20"
+   ],
+   "lat": 48.6974527,
+   "lon": 2.5030723,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-M%C3%A9dard_de_Brunoy"
+  },
+  {
+   "nom": "Obélisque de Brunoy",
+   "histoire": "L’obélisque de Brunoy, aussi appelé pyramide de Brunoy, signale l’entrée de Brunoy au bord de la RN6 et à la porte de la forêt de Sénart.",
+   "anecdotes": [
+    {
+     "texte": "Construit en 1779, il servait de rendez-vous de chasse du roi Louis XVI.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S24"
+     ]
+    },
+    {
+     "texte": "L’obélisque a été déplacé de quelques mètres pour libérer la chaussée durant les années 1960.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il se dresse à l’entrée de Brunoy, au bord de la RN6 et à la porte de la forêt de Sénart.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 48.6836,
+   "lon": 2.49,
+   "url": "https://fr.wikipedia.org/wiki/Ob%C3%A9lisque_de_Brunoy"
+  },
+  {
+   "nom": "Musée Robert-Dubois-Corneau",
+   "histoire": "Le musée Robert-Dubois-Corneau est un musée municipal labellisé Musée de France. Il est installé dans l’ancienne maison du collectionneur Robert Dubois-Corneau, qui a légué ses collections à sa ville.",
+   "anecdotes": [
+    {
+     "texte": "Le musée est officiellement inauguré en 1980, mais n’ouvre ses portes qu’en 1988.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 48.7001931,
+   "lon": 2.5003821,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Robert-Dubois-Corneau"
+  },
+  {
+   "nom": "Gare de Brunoy",
+   "histoire": "La gare de Brunoy appartient à la ligne de Paris-Lyon à Marseille-Saint-Charles. Son bâtiment est attribué à l’architecte François-Alexis Cendrier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 48.699108,
+   "lon": 2.50644,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Brunoy"
+  },
+  {
+   "nom": "Centre d'écologie générale de Brunoy",
+   "histoire": "Le centre d’écologie générale de Brunoy, aussi appelé campus de Brunoy, est un centre de recherche du Muséum national d’histoire naturelle. Il s’appuie sur la villa « Lionet », aujourd’hui appelée « Petit Château », devenue propriété du Muséum par un legs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 48.694742,
+   "lon": 2.496176,
+   "url": "https://fr.wikipedia.org/wiki/Centre_d%27%C3%A9cologie_g%C3%A9n%C3%A9rale_de_Brunoy"
+  },
+  {
+   "nom": "Alignement des Pierres Frittes (Talma)",
+   "histoire": "Les Pierres Frittes, dits menhirs de la propriété Talma, forment un alignement mégalithique à Brunoy, dont l’aspect varie avec les basses eaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seule la face supérieure est visible durant les basses eaux.",
+   "sources": [
+    "S34",
+    "S33"
+   ],
+   "lat": 48.6957,
+   "lon": 2.5039,
+   "url": "https://fr.wikipedia.org/wiki/Alignement_des_Pierres_Frittes_%28Talma%29"
+  }
+ ],
+ "sources": [
+  "Brunoy (prononcé [bʁynwa] ) est une commune française située à vingt et un kilomètres au sud-est de Paris dans le département de l’Essonne en région Île-de-France ; elle se trouve dans la région historique de la Brie française. Située dans une boucle de l’Yerres en bordure de la forêt de Sénart, lieu d’habitation dès le Paléolithique, très tôt intégrée au domaine royal français plus tard distribué aux seigneurs […]",
+  "Le territoire de la commune est fréquenté dès le Paléolithique. Plusieurs outils en pierre ont été retrouvés à la sablière, en forêt de Sénart, dont certains sont exposés au musée Robert Dubois-Corneau. Au Néolithique, deux alignements mégalithiques, dits des Pierres Frittes, sont érigés au bord de l’Yerres. Quatre autres menhirs et un dolmen incertains ont aussi été signalés autrefois mais ne sont plus visibles […]",
+  "1722 : En 1722, le fief de Brunoy est vendu au gardien du trésor royal, Jean Pâris de Monmartel.",
+  "1757 : Ce domaine est érigé en marquisat en 1757.",
+  "1774 : Son étrange comportement (il travaillait avec ses ouvriers) et la dilapidation de sa fortune amènent sa chute : en 1774, le domaine est vendu à Monsieur frère du roi Louis XVI, futur Louis XVIII qui y reçoit plusieurs fois Marie Antoinette.",
+  "1777 : Par lettres patentes données à Versailles en 1777, les marquisats de Brunoy et de Grosbois sont érigés pour le comte de Provence et son épouse en duché pairie de Brunoy; lequel est ensuite donné en 1786 (sous réserve d'usufruit) à leur neveu, le duc de Normandie, second fils du roi, alors âgé d'un an.",
+  "1898 : La mairie actuelle est construite en 1898.",
+  "1906 : La population explose : 2 745 habitants en 1906, 8 149 en 1936, 22 727 en 1975.",
+  "XXe siècle : Le général Dupont-Chaumont est lui propriétaire d’un grand parc aux Bosserons comprenant un château, détruit lors du morcellement du parc au début du XXe siècle.",
+  "XXe siècle : Dans la seconde moitié du XXe siècle, on construit de grands ensembles immobiliers comme le Grand Parc ou le Parc de Talma au sud de la rivière.",
+  "1968 : Les Hautes Mardelles, cité HLM de plus de trois mille habitants, sont construites en 1968.",
+  "2017 : En 2017, le Moulin de la Galette, fermé depuis plusieurs années, est racheté par la Ville qui lance alors un appel à projets pour redynamiser la vie du quartier.",
+  "Lieu « Château de Brunoy » : Le château de Brunoy est une demeure détruite qui était située sur la commune de Brunoy.",
+  "Lieu « Château de Brunoy », 1722 : En 1722, le fief de Brunoy est vendu au gardien du Trésor royal, Jean Pâris de Monmartel, l'un des frères Pâris, financiers d'origine pauvre passés tous quatre dans le petit clan des très grosses fortunes grâce, en ce qui concerne Montmartel, à la traite des noirs.",
+  "Lieu « Château de Brunoy », 1725 : Jules-David Cromot du Bourg (1725-1786), surintendant des finances et bâtiments de Monsieur, est gouverneur du château de Brunoy.",
+  "Lieu « Château de Brunoy », 1781 : Il alla à son château de Varise, d'où une lettre de cachet le tira pour le faire emprisonner, cloîtré sur Saint-Germain-en-Laye au prieuré des Génovéfains d'Elmont puis aux Loges où il mourut en mars 1781 à 33 ans.",
+  "Lieu « Château de Brunoy », aujourd'hui : De l'ensemble original il ne reste que deux bâtiments à peu près intacts aux deux extrémités : à l'angle de la place, face à l’église et à l’autre bout, à droite d’un porche qui permet l’accès à une cour intérieur.",
+  "Lieu « Église Saint-Médard de Brunoy » : L'église Saint-Médard est une église paroissiale de culte catholique, consacrée à l'évêque de Tournai Médard de Noyon, située dans la commune française de Brunoy et le département de l'Essonne.",
+  "Lieu « Église Saint-Médard de Brunoy », XIIe siècle : La plus ancienne partie, le sud de la nef fut construite au XIIe siècle.",
+  "Lieu « Église Saint-Médard de Brunoy », 1927 : En 1927, l'unique cloche subsistante fut remplacée, en 1946, un nouvel orgue fut installé, inauguré par Marcel Dupré.",
+  "Lieu « Église Saint-Médard de Brunoy », 1999 : Elle a été rénovée entre 1999 et 2005 et dotée d'un orgue neuf construit par le facteur d'orgues Bertrand Cattiaux et inauguré en novembre 2008 par Michel Chapuis.",
+  "Lieu « Église Saint-Médard de Brunoy », aujourd'hui : Cet orgue a été transféré en 2005 dans l'église Saint-Pierre-Fourier pour être remplacé par un orgue neuf, bénit le 23 novembre 2008 par Monseigneur Michel Dubost, évêque d'Évry - Corbeil-Essonnes.",
+  "Lieu « Obélisque de Brunoy » : L'obélisque de Brunoy, appelé aussi pyramide de Brunoy, est un obélisque marquant l'entrée de Brunoy au bord de la RN6 et la porte de la forêt de Sénart.",
+  "Lieu « Obélisque de Brunoy », 1779 : Construit en 1779 par Soufflot (aidé des architectes Richard Mique et Michel-Barthélemy Hazon), en remplacement de l'ancienne croix de Malesherbes, c'était le rendez-vous de chasse du roi Louis XVI.",
+  "Lieu « Obélisque de Brunoy », 1960 : Lieu accidentogène, cet obélisque a été déplacé de quelques mètres pour libérer la chaussée durant les années 1960.",
+  "Lieu « Musée Robert-Dubois-Corneau » : Le musée Robert-Dubois-Corneau est un musée municipal labellisé Musée de France situé dans la commune française de Brunoy, dans le département de l'Essonne et la région Île-de-France.",
+  "Lieu « Musée Robert-Dubois-Corneau », 1876 : Il est installé dans l'ancienne maison du collectionneur Robert Dubois-Corneau (1876-1951), passionné d'histoire locale, qui a légué à sa ville l'ensemble de ses collections.",
+  "Lieu « Musée Robert-Dubois-Corneau », 1980 : Le musée est officiellement inauguré en 1980 mais il n'ouvre ses portes qu'en 1988.",
+  "Lieu « Gare de Brunoy » : La gare de Brunoy est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune de Brunoy, dans le département de l'Essonne en région Île-de-France.",
+  "Lieu « Gare de Brunoy », 1852 : La gare de Brunoy est mise en service en 1852[réf. nécessaire] Le bâtiment de la gare est l'œuvre de l'architecte François-Alexis Cendrier, qui a aussi construit de nombreuses autres gares de la compagnie du PLM.",
+  "Lieu « Centre d'écologie générale de Brunoy » : Le centre d'écologie générale de Brunoy, ou campus de Brunoy est un centre de recherche du Muséum national d'histoire naturelle situé à Brunoy, en Essonne, en Île-de-France.",
+  "Lieu « Centre d'écologie générale de Brunoy », aujourd'hui : En 1926, par un legs, le Muséum national d'histoire naturelle devient propriétaire d'une maison bourgeoise du XVIIIe siècle, la villa « Lionet » du nom de son propriétaire, aujourd'hui appelée « Petit Château ».",
+  "Lieu « Alignement des Pierres Frittes (Talma) » : L'alignement des Pierres Frittes, dit menhirs de la propriété Talma, est un alignement mégalithique situé à Brunoy dans le département français de l'Essonne.",
+  "Lieu « Alignement des Pierres Frittes (Talma) », aujourd'hui : Seule sa face supérieure est visible durant les basses eaux."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XXIe"
+  ],
+  "nb_lieux": 7,
+  "nb_anecdotes": 5
+ }
+}

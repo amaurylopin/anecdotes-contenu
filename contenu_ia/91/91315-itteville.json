@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Itteville",
+  "code_insee": "91315",
+  "departement": "91",
+  "population": 6746,
+  "lat": 48.5152114,
+  "lon": 2.3416489,
+  "url": "https://fr.wikipedia.org/wiki/Itteville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:40:35",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1090,
+  "sortie": 478
+ },
+ "cout_usd": 0.000816,
+ "accroche": "À Itteville, l’église paroissiale Saint-Germain est dédiée à l’évêque saint Germain et son édifice du XIIIe siècle a été classé en 1924.",
+ "histoire": {
+  "recit": "Ilteville commence par une villa : vers l’an 613, Itta de Nivelles y fait construire une métairie, appelée « Ittæ Villa », la maison d’Itte, nom qui marque encore le lieu. Cette terre finit par changer de mains, passant notamment à saint Gombert, devenu archevêque de Sens, puis vers l’évêché de Paris et les chanoines de Paris.\n\nPlus tard, le village connaît une épreuve brutale : après la Révolution, il est ravagé en 1814 puis en 1815, d’abord par les Cosaques, ensuite par les Bavarois.\n\nAujourd’hui, le principal repère religieux est l’Église Saint-Germain d’Itteville, dédiée à saint Germain. Son édifice, daté du XIIIe siècle, a reçu un statut de protection au titre des monuments historiques en 1924.",
+  "chronologie": [
+   {
+    "date": "vers l’an 613",
+    "texte": "Itta de Nivelles fait construire une métairie, « Ittæ Villa », à l’origine du nom d’Itteville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1814 et 1815",
+    "texte": "Après la Révolution, le village est ravagé en 1814 et 1815, d’abord par les Cosaques puis par les Bavarois.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1924",
+    "texte": "L’édifice de l’église Saint-Germain, daté du XIIIe siècle, est classé au titre des monuments historiques.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Germain d'Itteville",
+   "histoire": "Église paroissiale de culte catholique, elle est dédiée à l’évêque saint Germain. Son édifice, du XIIIe siècle, est classé au titre des monuments historiques depuis 1924.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 48.514947,
+   "lon": 2.342035,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain_d%27Itteville"
+  }
+ ],
+ "sources": [
+  "Itteville (prononcé [it̪vil] ) est une commune française située à 38 kilomètres au sud de Paris dans le département de l'Essonne en région Île-de-France.",
+  "À l’origine, vers l’an 613, une métairie ou « Villa » fut construite par Itta de Nivelles, épouse de Pépin de Landen, maire du palais de Clotaire II, d’où son nom « Ittæ Villa », maison d'Itte. Devenu maire du Palais de Dagobert, roi d'Austrasie, Pépin de Landen et son épouse quittèrent leur terre qui fut donnée à saint Gombert, devenu archevêque de Sens. Passa à l'évêché de Paris en 795, puis aux chanoines de Paris […]",
+  "1814 : Après la Révolution, le village fut ravagé en 1814 et 1815 par les Cosaques puis par les Bavarois.",
+  "Lieu « Église Saint-Germain d'Itteville » : L'église Saint-Germain est une église paroissiale de culte catholique, dédiée à l'évêque saint Germain, située dans la commune française d'Itteville et le département de l'Essonne.",
+  "Lieu « Église Saint-Germain d'Itteville », 1924 : L'édifice du XIIIe siècle est classé au titre des monuments historiques en 1924."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Égly",
+  "code_insee": "91207",
+  "departement": "91",
+  "population": 7166,
+  "lat": 48.5798474,
+  "lon": 2.221781,
+  "url": "https://fr.wikipedia.org/wiki/%C3%89gly"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:33:06",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1050,
+  "sortie": 521
+ },
+ "cout_usd": 0.000861,
+ "accroche": "À Égly, l’église Saint-Pierre-Saint-Paul, dédiée à Pierre et Paul, est inscrite au titre des monuments historiques en 1929.",
+ "histoire": {
+  "recit": "Égly est une commune d’Île-de-France, dans l’Essonne, à trente-deux kilomètres au sud-ouest de Paris. Dès son origine, son histoire s’entrelace avec celle de Boissy-sous-Saint-Yon : la paroisse d’Égly y reste distincte, mais les destins sont mêlés par les terres et les dons.\n\nAu tournant du Moyen Âge, Buchard de Vaugrineuse figure comme propriétaire de terres à Égly dans un document daté de 1100. Vers l’an 1200, Yolande de Coucy est dame d’Égly et de Boissy ; elle fait don de plusieurs arpents communaux aux deux villages. Plus tard, à partir du XVIIe siècle, les seigneurs d’Égly apparaissent aussi dans la trame locale.",
+  "chronologie": [
+   {
+    "date": "1100",
+    "texte": "Buchard de Vaugrineuse est mentionné comme propriétaire de terres à Égly dans un document daté de 1100.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers l'an 1200",
+    "texte": "Yolande de Coucy, dame d’Égly et de Boissy, fait don de plusieurs arpents communaux aux deux villages.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "L’église Saint-Pierre-Saint-Paul d’Égly est inscrite au titre des monuments historiques.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Pierre-Saint-Paul d'Égly",
+   "histoire": "Église paroissiale de culte catholique dédiée aux apôtres Pierre et Paul, située à Égly. L’édifice a été inscrit au titre des monuments historiques en 1929.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.580476,
+   "lon": 2.223508,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-Saint-Paul_d%27%C3%89gly"
+  }
+ ],
+ "sources": [
+  "Égly (prononcé [eɡli] ) est une commune française située à trente-deux kilomètres au sud-ouest de Paris dans le département de l'Essonne en région Île-de-France. Ses habitants sont appelés les Aglatiens.",
+  "Dès son origine, l'histoire d'Égly est liée à celle de Boissy-sous-Saint-Yon, dont la paroisse d'Égly est cependant distincte. Buchard de Vaugrineuse, propriétaire de terres à Égly, est mentionné dans un document daté de 1100. Vers l'an 1200, Yolande de Coucy est dame d'Égly et de Boissy. Elle fait don de plusieurs arpents communaux à ces deux villages. À partir du XVIIe siècle, les seigneurs d'Égly sont également […]",
+  "Lieu « Église Saint-Pierre-Saint-Paul d'Égly » : L'église Saint-Pierre-Saint-Paul est une église paroissiale de culte catholique, dédiée aux apôtres Pierre et Paul, située dans la commune française d'Égly et le département de l'Essonne.",
+  "Lieu « Église Saint-Pierre-Saint-Paul d'Égly », 1929 : L'édifice est inscrit au titre des monuments historiques en 1929."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
