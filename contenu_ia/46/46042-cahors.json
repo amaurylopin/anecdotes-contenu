@@ -1,0 +1,283 @@
+{
+ "commune": {
+  "titre": "Cahors",
+  "code_insee": "46042",
+  "departement": "46",
+  "population": 20050,
+  "lat": 44.448333,
+  "lon": 1.441389,
+  "url": "https://fr.wikipedia.org/wiki/Cahors"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:11:10",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3711,
+  "sortie": 2363
+ },
+ "cout_usd": 0.003696,
+ "accroche": "En 650, l’évêque saint Didier relève Cahors de ses ruines et fait édifier la première cathédrale, ainsi qu’une muraille dont le tracé correspond au boulevard Gambetta.",
+ "histoire": {
+  "recit": "À Cahors, le passé commence bien avant les murs. Les hauteurs portent les vestiges des Cadurques, peuple gaulois installé après le Quercy habité depuis très longtemps. Plus tard, la ville renaît : en 650, l’évêque saint Didier relève Cahors de ses ruines et lance la première cathédrale, avec une muraille dont le tracé rejoint le boulevard Gambetta. La paix ne dure pas : en 732, la ville est pillée par les Sarrasins, avant d’être touchée par d’autres raids. \n\nL’histoire religieuse se lit encore dans la cathédrale Saint-Étienne : plusieurs destructions sont évoquées, puis l’édifice actuel est édifié à partir du XIIe siècle, mêlant romans et gothiques. Plus au bord du Lot, l’église Saint-Urcisse témoigne de la transition roman-gothique, mais l’inondation de 1927 a provoqué l’effondrement de la crypte, et l’édifice reste fermé au public pour sécurité. \n\nAu Moyen Âge, le pont Valentré a donné naissance à une légende que se plaît à raconter chaque cadurcien. \n\nPlus récemment, Cahors est occupée à partir du 11 novembre 1942, et, en 2009, un parking ouvert le 4 avril aménage un accès pour admirer des vestiges depuis une balustrade au premier sous-sol. Enfin, depuis 2021, la chapelle axiale s’ouvre dans la semaine qui suit Pâques et celle qui précède la Pentecôte, pour passer sous la Sainte Coiffe.",
+  "chronologie": [
+   {
+    "date": "650",
+    "texte": "Cahors est relevée de ses ruines : saint Didier fait édifier la première cathédrale et une muraille dont le tracé correspond au boulevard Gambetta.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "732",
+    "texte": "La ville est de nouveau pillée, cette fois par les Sarrasins.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "La cathédrale Saint-Étienne est édifiée à partir du XIIe siècle, mêlant éléments romans et gothiques.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Le pont Valentré est un pont fortifié du XIVe siècle franchissant le Lot à l’ouest de Cahors.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "11 novembre 1942",
+    "texte": "Cahors est occupée par l’armée allemande à partir du 11 novembre 1942.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "4 avril 2009",
+    "texte": "Un parking ouvert le 4 avril 2009 permet d’admirer des vestiges depuis une balustrade aménagée au premier sous-sol.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2021",
+    "texte": "Depuis 2021, la chapelle axiale de la cathédrale s’ouvre après Pâques et avant la Pentecôte pour permettre aux visiteurs de passer sous la Sainte Coiffe.",
+    "sources": [
+     "S46"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Étienne de Cahors",
+   "histoire": "La cathédrale Saint-Étienne de Cahors est une cathédrale catholique romaine, située à Cahors. Une première église est évoquée puis des destructions sont mentionnées, avec une nouvelle édification à partir du XIIe siècle, mêlant éléments romans et gothiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La chapelle axiale est ouverte dans la semaine qui suit Pâques et celle qui précède la Pentecôte pour permettre aux pèlerins et aux visiteurs de passer sous la Sainte Coiffe.",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S46"
+   ],
+   "lat": 44.447222,
+   "lon": 1.443056,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_de_Cahors"
+  },
+  {
+   "nom": "Église Saint-Urcisse de Cahors",
+   "histoire": "Située à proximité des rives du Lot dans la ville médiévale, l’église Saint-Urcisse témoigne de la transition de l’art roman à l’art gothique en Quercy. Elle serait détruite au VIe siècle lors du sac de la ville, puis connaît d’autres étapes marquées par des changements curiaux et une inondation au XXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’église est fermée au public pour des raisons de sécurité liées à l’instabilité de l’édifice.",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 44.446155,
+   "lon": 1.444755,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Urcisse_de_Cahors"
+  },
+  {
+   "nom": "Pont Valentré",
+   "histoire": "Le pont Valentré, aussi appelé pont du Diable, est un pont fortifié du XIVe siècle franchissant le Lot à l’ouest de Cahors. Sa construction, commencée en 1308 et achevée en 1378, a donné naissance à une légende locale.",
+   "anecdotes": [
+    {
+     "texte": "La construction « en s’éternisant sur plus d’un demi-siècle » fit naître la légende que chaque cadurcien se plaît à raconter.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On pénètre encore dans la ville de Cahors à pied par ce pont, qui constitue un exemple rare d’architecture militaire française et un pont médiéval fortifié subsistant encore.",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S23"
+   ],
+   "lat": 44.445056,
+   "lon": 1.431667,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Valentr%C3%A9"
+  },
+  {
+   "nom": "Chartreuse Notre-Dame de Cahors",
+   "histoire": "La chartreuse Notre-Dame est un ancien monastère de l’ordre des Chartreux fondé en 1320 par le pape Jean XXII à l’emplacement d’une ancienne commanderie des Templiers de Cahors. Après la suppression de l’ordre du Temple, les bâtiments sont repris par l’ordre de Saint-Jean de Jérusalem.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S28",
+    "S27"
+   ],
+   "lat": 44.4474,
+   "lon": 1.4382,
+   "url": "https://fr.wikipedia.org/wiki/Chartreuse_Notre-Dame_de_Cahors"
+  },
+  {
+   "nom": "Divona Cadurcorum",
+   "histoire": "Divona Cadurcorum est le nom latin d’une ville de Gaule romaine, chef-lieu de la cité des Cadurques : aujourd’hui Cahors. Un grand temple de type fanum est évoqué, construit probablement dans la seconde moitié du Ier siècle, puis abandonné trois siècles plus tard. En 2002, des vestiges d’un édifice cultuel antique ont été mis au jour lors de travaux de rénovation de l’hôpital, à proximité du méandre du Lot.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S32",
+    "S33"
+   ],
+   "lat": 44.448333,
+   "lon": 1.441389,
+   "url": "https://fr.wikipedia.org/wiki/Divona_Cadurcorum"
+  },
+  {
+   "nom": "Maison d'arrêt de Cahors",
+   "histoire": "La maison d'arrêt de Cahors, aussi appelée château du Roi, est une ancienne prison située à Cahors. Vers 1232, Arnaud des Près est accusé d’hérésie et condamné à la prison ; ses biens sont confisqués, dont un bâtiment à Cahors où sera construit le château du Roi. Plus tard, l’édifice passe par la vente de l’évêque Bertrand de Cardaillac, puis il subsiste encore dans l’aspect de deux tours en pierre de taille faisant partie du présidial.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Deux grandes tours en pierre de taille restent encore et font, aujourd’hui, une partie du présidial.",
+   "sources": [
+    "S34",
+    "S35",
+    "S37",
+    "S38"
+   ],
+   "lat": 44.45,
+   "lon": 1.44222,
+   "url": "https://fr.wikipedia.org/wiki/Maison_d%27arr%C3%AAt_de_Cahors"
+  },
+  {
+   "nom": "Immeuble des Mirepoises",
+   "histoire": "L’immeuble des Mirepoises, situé au 15 boulevard Léon-Gambetta, a connu une réutilisation après la Révolution : le 6 octobre 1792, la ville s’en empare et y fonde une institution laïque pour l’instruction des jeunes filles pauvres, dirigée par l’ancienne supérieure devenue la citoyenne Delsol. Après la Révolution, des religieuses des Sacrés-Cœurs s’y installent le 4 juillet 1804. L’édifice porte aussi des protections au titre des monuments historiques, et une étude archéologique a montré la présence de vestiges d’habitations remontant aux XIIIe et XIVe siècles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 44.4508,
+   "lon": 1.4402,
+   "url": "https://fr.wikipedia.org/wiki/Immeuble_des_Mirepoises"
+  },
+  {
+   "nom": "Sainte Coiffe de Cahors",
+   "histoire": "La Sainte Coiffe de Cahors serait l’un des linges mortuaires ayant servi pour l’ensevelissement de Jésus-Christ. Dans la cathédrale, une tribune réservée aux chanoines est construite en 1732 ; la chaire de présentation de la relique est mentionnée en 1738. Depuis 2021, la chapelle axiale de la cathédrale est ouverte selon un calendrier autour de Pâques et de la Pentecôte pour permettre aux pèlerins et aux visiteurs de passer sous la relique.",
+   "anecdotes": [
+    {
+     "texte": "D’après une notice anonyme de 1899, l’extérieur de la coiffe présente un trou, une déchirure et une trace de rouille, et l’extrémité sous le menton est usée et percée à jour.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S47"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La chapelle axiale est ouverte dans la semaine qui suit Pâques et celle qui précède la Pentecôte pour permettre aux pèlerins et aux visiteurs de passer sous la Sainte Coiffe.",
+   "sources": [
+    "S44",
+    "S45",
+    "S46",
+    "S47"
+   ],
+   "lat": 44.447222,
+   "lon": 1.443056,
+   "url": "https://fr.wikipedia.org/wiki/Sainte_Coiffe_de_Cahors"
+  }
+ ],
+ "sources": [
+  "Cahors [ka.ɔʁ] est une commune du Sud-Ouest de la France. Située dans la région Occitanie, la préfecture du Lot, principale ville du département, est également la ville-centre de la communauté d'agglomération du Grand Cahors. Peuplée de 20 050 habitants en 2023, au cœur d'une agglomération de 24 307 habitants, et d'une intercommunalité du Grand Cahors de 42 094 habitants en 2022. Cahors est la capitale historique du […]",
+  "Le Quercy, dont le département du Lot est un des composants, était habité il y a 335 000 ans, comme le montrent les grottes de Pradayrol à Caniac-du-Causse ou celles de la vallée du Célé comme la grotte du Pech Merle à Cabrerets. Un des peuples gaulois du Sud-Ouest, les Cadurques, vint s'installer par la suite sur les hauteurs où il subsiste des vestiges de leurs oppida fortifiés. Une de leurs places-fortes, […]",
+  "650 : Elle est relevée de ses ruines par l'évêque saint Didier, dit aussi saint Géry, qui y fit édifier la première cathédrale en 650 ainsi qu'une muraille dont le tracé correspond à l'actuel boulevard Gambetta.",
+  "732 : Mais la ville est à nouveau pillée par les Sarrasins en 732, puis par les Vikings et les Magyars.",
+  "XVIe siècle : Ainsi l'université, une des plus anciennes de France, qui était très renommée du XIVe au XVIe siècle est fermée au XVIIe siècle.",
+  "1861 : Et surtout Le Journal du Lot de 1861 (appartenant à la famille Laytou qui l'avait fondé) et qui a été édité jusqu'en 1944.",
+  "1942 : Située d'abord en « zone nono » (non occupée) Cahors sera occupée par l'armée allemande à partir du 11 novembre 1942.",
+  "2009 : Le parking ouvert le 4 avril 2009, a été aménagé de sorte que l'on puisse admirer ces vestiges depuis une balustrade aménagée au premier sous-sol.",
+  "Lieu « Cathédrale Saint-Étienne de Cahors » : La cathédrale Saint-Étienne de Cahors est une cathédrale catholique romaine, située à Cahors, dans le département du Lot, en région Occitanie.",
+  "Lieu « Cathédrale Saint-Étienne de Cahors », 574 : Il est possible que cette première église ait été détruite par Théodebert (ou Thibert), fils de Chilpéric Ier, quand il a pris la ville et la détruisit en 574.",
+  "Lieu « Cathédrale Saint-Étienne de Cahors », 732 : Cette église a dû être de nouveau détruite, soit en 732 par les Sarrasins, ou en 763, par Pépin le Bref quand il lutte contre le duc d'Aquitaine Waïfre.",
+  "Lieu « Cathédrale Saint-Étienne de Cahors », XIIe siècle : Édifiée à partir du XIIe siècle, elle est un des plus vastes édifices français à coupoles sur pendentifs et mêle éléments romans et gothiques (chœur).",
+  "Lieu « Cathédrale Saint-Étienne de Cahors », aujourd'hui : De même, le testament de saint Didier mentionne que la cathédrale de Cahors existait au même emplacement.",
+  "Lieu « Église Saint-Urcisse de Cahors » : L’église paroissiale Saint-Urcisse de Cahors, située à proximité des rives du Lot dans la ville médiévale de Cahors, est considérée comme l’un des édifices majeurs qui témoignent de la transition de l’art roman à l’art gothique en Quercy.",
+  "Lieu « Église Saint-Urcisse de Cahors », VIe siècle : Dans la deuxième moitié du VIe siècle, l’église serait détruite, d’après Joseph Daymard, lors du sac de la ville par le fils de Chilpéric, Thibert.",
+  "Lieu « Église Saint-Urcisse de Cahors », 1801 : Cette situation dura jusqu’au concordat de 1801, après lequel M. Plantade reprit ses fonctions curiales dans l’église Saint-Urcisse en délaissant l’édifice au profit de la ville de Cahors le 25 messidor an XI, contre une pension viagère.",
+  "Lieu « Église Saint-Urcisse de Cahors », 1927 : En mars 1927, elle subit une inondation du Lot, qui provoqua l’effondrement de la voûte de la crypte.",
+  "Lieu « Église Saint-Urcisse de Cahors », aujourd'hui : Aujourd’hui, l’église, inaccessible de trois côtés à part l’ouest, est fermée au public pour des raisons de sécurité liées à l’instabilité de l’édifice.",
+  "Lieu « Pont Valentré » : Le pont Valentré (en occitan pont de Balandras), également appelé pont du Diable, est un pont fortifié du XIVe siècle franchissant le Lot à l'ouest de Cahors, en France.",
+  "Lieu « Pont Valentré », 1308 : La construction, en s'éternisant sur plus d'un demi-siècle (le pont a été commencé en 1308 et achevé en 1378), fit naître la légende que chaque cadurcien se plaît à raconter.",
+  "Lieu « Pont Valentré », 1378 : Il fut achevé en 1378, son aspect initial a été sensiblement modifié au cours des travaux de restauration entrepris en 1879.",
+  "Lieu « Pont Valentré », 2017 : Le compteur, installé en fixe, a dénombré 231 500 visiteurs en 2017, et 250 000 visiteurs en 2020.",
+  "Lieu « Pont Valentré », aujourd'hui : Construit aux temps des guerres franco-anglaises, le pont Valentré, par lequel on pénètre toujours, mais seulement à pied, dans la ville de Cahors, constitue un exemple rare d'architecture militaire française de cette époque et l'un des plus beaux ponts médiévaux fortifiés subsistant encore.",
+  "Lieu « Chartreuse Notre-Dame de Cahors » : La chartreuse Notre-Dame est un ancien monastère de l'ordre des Chartreux qui a été fondé en 1320 par le pape Jean XXII à l'emplacement d'une ancienne commanderie des Templiers de Cahors.",
+  "Lieu « Chartreuse Notre-Dame de Cahors », 1312 : Après la suppression de l'ordre du Temple, en 1312, les bâtiments de la commanderie de Cahors sont repris par l'ordre de Saint-Jean de Jérusalem.",
+  "Lieu « Chartreuse Notre-Dame de Cahors », 1320 : La chartreuse Notre-Dame est un ancien monastère de l'ordre des Chartreux qui a été fondé en 1320 par le pape Jean XXII à l'emplacement d'une ancienne commanderie des Templiers de Cahors.",
+  "Lieu « Chartreuse Notre-Dame de Cahors », XIXe siècle : L'hôtellerie doit être le bâtiment dans lequel se sont installés les Sœurs de la Charité au XIXe siècle.",
+  "Lieu « Chartreuse Notre-Dame de Cahors », aujourd'hui : Aujourd'hui disparue, le grand cloître se trouvait à l'emplacement du cours de la chartreuse et rue de la chartreuse.",
+  "Lieu « Divona Cadurcorum » : Divona Cadurcorum est le nom latin d'une ville de Gaule romaine, chef-lieu de la cité des Cadurques, aujourd'hui Cahors, chef-lieu du département du Lot.",
+  "Lieu « Divona Cadurcorum », Ier siècle : Ce grand temple de type fanum à cella de 22 m de diamètre extérieur fut probablement construit dans la seconde moitié du Ier siècle et abandonné trois siècles plus tard.",
+  "Lieu « Divona Cadurcorum », 1144 : À cette époque, le site de Montauban ne connait aucune occupation urbaine (Montauban est une ancienne bastide, fondée en 1144).",
+  "Lieu « Divona Cadurcorum », 2002 : Les vestiges d'un édifice cultuel antique ont été mis au jour, en 2002, lors de travaux de rénovation de l'hôpital dans la partie occidentale de la ville, à proximité du méandre du Lot.",
+  "Lieu « Divona Cadurcorum », aujourd'hui : Divona Cadurcorum est le nom latin d'une ville de Gaule romaine, chef-lieu de la cité des Cadurques, aujourd'hui Cahors, chef-lieu du département du Lot.",
+  "Lieu « Maison d'arrêt de Cahors » : La maison d'arrêt de Cahors ou château du Roi (anciennement palais de Via) est une ancienne prison située à Cahors dans le Lot.",
+  "Lieu « Maison d'arrêt de Cahors », 1232 : Vers 1232, Arnaud des Près, seigneur de Montpezat est accusé d'hérésie albigeoise par les inquisiteurs; Il est condamné à la prison et ses biens sont confisqués dont un bâtiment dans Cahors où a été construit le château du roi.",
+  "Lieu « Maison d'arrêt de Cahors », 1243 : Depuis 1243, le roi de France a un sénéchal installé à Cahors pour les affaires du Limousin, du Périgord et du Quercy.",
+  "Lieu « Maison d'arrêt de Cahors », 1326 : En 1326, l'évêque Bertrand de Cardaillac vend ce bâtiment à la riche famille de Via de Cahors.",
+  "Lieu « Maison d'arrêt de Cahors », aujourd'hui : Cette maison était un des plus beaux bâtiments qui fussent dans Cahors, comme il paraît encore par deux grandes tours en pierre de taille, qui restent et qui font, aujourd'hui, une partie du présidial ».",
+  "Lieu « Immeuble des Mirepoises » : L'immeuble des Mirepoises est un monument historique, située no 15 Boulevard Léon-Gambetta, à Cahors.",
+  "Lieu « Immeuble des Mirepoises », 1792 : Le 6 octobre 1792, la ville s'est emparé de l'immeuble et y a fondé une institution laïque donnant l'instruction aux jeunes filles pauvres sous la direction de l'ancienne supérieure devenue la citoyenne Delsol.",
+  "Lieu « Immeuble des Mirepoises », 1804 : Après la Révolution, le conseil municipal fit appel aux religieuses des Sacrés-Cœurs de Jésus et de Marie, connues sous le nom de Dames blanches, qui se sont installées dans l'ancien bâtiment des Mirepoises, le 4 juillet 1804.",
+  "Lieu « Immeuble des Mirepoises », 1977 : Dans l'édifice, les façades et les toitures, la cheminée de la pièce voûtée au rez-de-chaussée, les peintures murales de l'oratoire, les poutres peintes et la cheminée à décor peint au premier étage ont été inscrites titre des monuments historiques le 25 mars 1977.",
+  "Lieu « Immeuble des Mirepoises », aujourd'hui : Son étude archéologique a montré qu'il comprend des vestiges d'habitations remontant aux XIIIe et XIVe siècles.",
+  "Lieu « Sainte Coiffe de Cahors » : La Sainte Coiffe de Cahors serait l'un des linges mortuaires qui auraient été utilisés pour l'ensevelissement de Jésus-Christ.",
+  "Lieu « Sainte Coiffe de Cahors », 1732 : En 1732, la tribune réservée aux chanoines pour la fête de la Pentecôte est construite dans la cathédrale, suivi en 1738 de la chaire de laquelle la relique était montrée.",
+  "Lieu « Sainte Coiffe de Cahors », 2021 : Depuis 2021, la chapelle axiale de la cathédrale est ouverte dans la semaine qui suit Pâques et celle qui précède la Pentecôte pour permettre aux pèlerins et aux visiteurs de passer sous la Sainte Coiffe.",
+  "Lieu « Sainte Coiffe de Cahors », aujourd'hui : D’après une notice anonyme de 1899, l’extérieur de la Coiffe, du côté droit, présente un trou, une déchirure et une trace de rouille ; l’extrémité de la coiffe « qui se prolonge sous le menton est usée et percée à jour. » À l’intérieur de la Coiffe, du côté droit, on voit plusieurs déchirures au niveau de la zone de l’oreille."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen",
+   "Sacrés-C"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
