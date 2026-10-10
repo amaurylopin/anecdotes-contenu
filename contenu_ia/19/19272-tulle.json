@@ -1,0 +1,271 @@
+{
+ "commune": {
+  "titre": "Tulle",
+  "code_insee": "19272",
+  "departement": "19",
+  "population": 13401,
+  "lat": 45.267336,
+  "lon": 1.765537,
+  "url": "https://fr.wikipedia.org/wiki/Tulle"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:35:07",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3518,
+  "sortie": 1857
+ },
+ "cout_usd": 0.003025,
+ "accroche": "Préfecture de la Corrèze, Tulle, dite « la ville aux sept collines », est connue pour le développement de son industrie et de son artisanat, dont la dentelle et son festival international.",
+ "histoire": {
+  "recit": "À Tulle, l’histoire s’écrit aussi bien sur les chantiers que dans les destructions. Au puy Saint-Clair, l’installation d’un oppidum gaulois est envisagée, comme si le lieu commandait déjà les routes. Plus tard, en 846, un premier monastère est détruit, puis l’abbaye se relève : dédiée à saint Martin et convertie à la règle bénédictine au XIe siècle, elle est reconstruite avant de disparaître encore au XIe siècle. En 1130, la première pierre de la nouvelle abbatiale est posée, mais l’édifice n’aboutit que deux siècles plus tard.\n\nLa ville subit ensuite les coups du temps : en 1426, des « routiers » incendient Tulle ; au XVIe siècle, nobles et bourgeois lancent une compétition de façades Renaissance, tandis qu’en 1796, la cathédrale et les bâtiments abbatiaux, transformées en manufacture d’armes, perdent leurs ferrures et voient l’effondrement de la coupole.\n\nAu XXe siècle, le 9 juin 1944, les SS de la division Das Reich entrent dans Tulle, libérée la veille par les FTP. Le cloître, lui, a conservé ses galeries mêlant gothique et reconstructions, et le musée du Cloître ferme définitivement ses portes le 3 janvier 2022 pour préparer l’ouverture d’un nouvel équipement.",
+  "chronologie": [
+   {
+    "date": "846",
+    "texte": "En 846, un saccage détruit le premier monastère.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’abbaye est dédiée à saint Martin et convertie à la règle bénédictine, puis le monastère reconstruit disparaît finalement au XIe siècle.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "1130",
+    "texte": "La première pierre de la nouvelle abbatiale est posée en 1130 ; l’édifice n’est achevé que deux siècles plus tard.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1426",
+    "texte": "Tulle est incendiée par des « routiers » au début du XVe siècle ; Jean de La Roche incendie la ville en 1426.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1551",
+    "texte": "Au XVIe siècle, la compétition architecturale laisse des bâtiments Renaissance, dont l’hôtel de Lauthonye (1551).",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1796",
+    "texte": "Convertie en manufacture d’armes, la cathédrale subit de graves mutilations : en 1796, l’effondrement touche coupole, chevet, transept et galerie nord du cloître.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1803",
+    "texte": "L’église rouvre au culte en 1803, sans retrouver sa coupole reconstruite ; la nef est seulement close.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "9 juin 1944",
+    "texte": "Le 9 juin 1944, les SS de la division Das Reich entrent dans Tulle, libérée la veille par les FTP de Jacques Chapou.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1971",
+    "texte": "La construction de la Cité administrative Jean-Montalat débute en 1971, sur l’emplacement d’une caserne détruite par un incendie.",
+    "sources": [
+     "S36"
+    ]
+   },
+   {
+    "date": "3 janvier 2022",
+    "texte": "Le musée du Cloître ferme définitivement ses portes le 3 janvier 2022 pour préparer l’ouverture d’un nouvel équipement muséal.",
+    "sources": [
+     "S23"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cloître de Tulle",
+   "histoire": "En galerie, le cloître mêle des éléments gothiques du XIIIe siècle et des restitutions issues des campagnes de reconstruction à partir de la fin du XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le musée du Cloître ferme définitivement le 3 janvier 2022, afin de préparer l’ouverture du nouvel équipement muséal de la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La salle capitulaire, ornée de vestiges d’un décor peint du début du XIVe siècle, est présentée comme un sanctuaire vénérant la présence miraculeuse de Notre-Dame de Tulle.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 45.267721,
+   "lon": 1.771276,
+   "url": "https://fr.wikipedia.org/wiki/Clo%C3%AEtre_de_Tulle"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame de Tulle",
+   "histoire": "Construite à l’emplacement d’une abbaye mérovingienne, la cathédrale témoigne d’une longue suite de transformations, depuis la construction d’une abbatiale et de bâtiments claustraux au début du XIe siècle jusqu’aux crises révolutionnaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S25",
+    "S28"
+   ],
+   "lat": 45.265327,
+   "lon": 1.76911,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Tulle"
+  },
+  {
+   "nom": "Massacre de Tulle",
+   "histoire": "En 1944, Tulle est le théâtre de crimes commis dans la ville par la 2e division SS « Das Reich », le 9 juin 1944.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15"
+   ],
+   "lat": 45.251666666667,
+   "lon": 1.7527777777778,
+   "url": "https://fr.wikipedia.org/wiki/Massacre_de_Tulle"
+  },
+  {
+   "nom": "Monument aux morts de Tulle",
+   "histoire": "Au sommet du Rocher des Malades, le monument aux morts domine la ville ; il est érigé en vue d’une fête de retour du 100e Régiment d’Infanterie, puis construit en 1923 sur un terrain donné par la commune.",
+   "anecdotes": [
+    {
+     "texte": "À la différence des autres monuments aux morts, aucun nom de défunt n’y est inscrit, et la statue est restée sur son lieu d’origine, une rareté à Tulle.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 45.267336,
+   "lon": 1.765537,
+   "url": "https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Tulle"
+  },
+  {
+   "nom": "Cité administrative (Tulle)",
+   "histoire": "La Cité administrative Jean-Montalat est un immeuble de bureaux abritant des services de l’État ; sa construction débute en 1971 sur l’emplacement d’une caserne détruite par un incendie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36"
+   ],
+   "lat": 45.2642998,
+   "lon": 1.7685777,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_administrative_%28Tulle%29"
+  },
+  {
+   "nom": "Manufacture d'armes de Tulle",
+   "histoire": "Ancienne entreprise d’armement située à Tulle, la Manufacture d’armes de Tulle est fondée en 1690 ; un musée des Armes y est créé, puis ouvert au public sous gestion municipale en 1999.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 45.259959,
+   "lon": 1.751965,
+   "url": "https://fr.wikipedia.org/wiki/Manufacture_d%27armes_de_Tulle"
+  },
+  {
+   "nom": "Gare de Tulle",
+   "histoire": "La gare de Tulle est une gare ferroviaire située sur le territoire de la commune ; elle est fermée au service du fret le 2 novembre 2004.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S46",
+    "S47"
+   ],
+   "lat": 45.258889,
+   "lon": 1.756389,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Tulle"
+  }
+ ],
+ "sources": [
+  "Tulle est une commune du centre-ouest de la France, préfecture du département de la Corrèze dans la région Nouvelle-Aquitaine. Les habitants de la ville sont appelés les Tullistes. Surnommée « la ville aux sept collines », la cité a construit sa renommée sur le développement de son industrie et de son artisanat : elle est devenue l'un des centres de fabrication de la dentelle (avec son festival international), des […]",
+  "Les origines de la ville sont encore aujourd'hui sujettes à débat. Il semble que l'actuel puy Saint-Clair, éperon rocheux aux pentes abruptes séparant la vallée de la Corrèze de celle de la Solane, a constitué un emplacement idéal pour l'établissement d'un oppidum gaulois. Depuis longtemps, la ville semble avoir été un carrefour important au croisement des routes entre Armorique et Méditerranée et entre Aquitaine et […]",
+  "846 : À l'occasion de l'un de ces saccages, en 846, le premier monastère est détruit.",
+  "XIe siècle : De nouvelles constructions sont entreprises pour l'abbaye, désormais dédiée à saint Martin et convertie à la règle bénédictine au XIe siècle.",
+  "XIe siècle : Le monastère est reconstruit mais disparaît finalement au XIe siècle.",
+  "1130 : La première pierre de la nouvelle abbatiale est posée en 1130 mais l'édifice n'est terminé que deux siècles plus tard.",
+  "1426 : Au début du XVe siècle, la ville est victime de ceux que l'on appelle les «routiers », des brigands comme Jean de La Roche qui incendia la ville en 1426 ou Rodrigue de Villandrando à qui la ville versa une forte rançon afin d'être épargnée en 1436.",
+  "1551 : Au XVIe siècle, les nobles et bourgeois de Tulle se livrent à une véritable compétition architecturale dont subsistent aujourd'hui des bâtiments aux façades finement ouvragées dans un style Renaissance comme l'hôtel de Lauthonye (1551), l'hôtel de Ventadour ou la maison Loyac aussi surnommée «maison de l'Abbé» et décrite par Prosper Mérimée en 1838.",
+  "1796 : Pendant la Révolution, la cathédrale et des bâtiments abbatiaux subissent de très importantes mutilations car, converties en manufacture d'armes, toutes les ferrures, y compris les fers de soutènement de la coupole, en sont arrachés pour récupération, ce qui provoque en 1796 l'effondrement de la coupole, du chevet, du transept et de la galerie nord du cloître.",
+  "1803 : L'église est rouverte au culte en 1803 mais ne retrouve son titre de cathédrale qu'en 1823: La coupole n est jamais reconstruite, la nef est simplement close.",
+  "XIXe siècle : À la fin du XIXe siècle, la caserne de la Botte est construite et le couvent des Récollets est transformé en caserne.",
+  "1899 : Achevé en 1899, le théâtre est un monument d'Anatole de Baudot, la première réalisation de ce genre au monde en ciment armé.",
+  "1907 : En 1907, la ville accueille le 100e régiment d'infanterie, auparavant en garnison à Narbonne et déplacé à cause de son soutien à la révolte des vignerons du Languedoc.",
+  "1944 : Le 9 juin 1944, les SS de la division Das Reich commandée par le général Heinz Lammerding rentrent dans Tulle, libérée la veille par les FTP de Jacques Chapou.",
+  "Lieu « Massacre de Tulle » : Le massacre de Tulle est un ensemble de crimes commis dans la ville de Tulle par la 2e division SS « Das Reich » le 9 juin 1944, trois jours après le débarquement en Normandie.",
+  "Lieu « Massacre de Tulle », 1944 : Du 1er au 7 avril 1944, la division du général Brehmer arrête 3 000 personnes ; dans le village du Lonzac, 17 habitants sont abattus et 24 maisons incendiées ; à Brive, 300 personnes sont arrêtées et envoyées dans des camps de travail en Allemagne.",
+  "Lieu « Massacre de Tulle », 1944 : Walter Schmald, du SIPO-SD est capturé par des maquisards à Brive le 15 août 1944, et exécuté par ceux-ci le 22 août, sans avoir fait l’objet d’un procès.",
+  "Lieu « Massacre de Tulle », 1952 : Schlewski et Retzer sont libérés le 18 septembre 1952 et Reichmann le 25 janvier 1953.",
+  "Lieu « Massacre de Tulle », aujourd'hui : Selon le récit auto-publié du SS-Sturmbannführer Otto Weidinger, plusieurs dizaines de soldats allemands auraient été abattus après leur reddition et de nombreux cadavres auraient porté des traces de mutilations.",
+  "Lieu « Cloître de Tulle » : Le cloître de Tulle est un ensemble religieux adjacent à la cathédrale Notre-Dame de Tulle.",
+  "Lieu « Cloître de Tulle », XIIIe siècle : L’abbaye Saint-Martin-et-Saint-Michel, édifice de style gothique du XIIIe siècle, jouxte la cathédrale Notre-Dame de Tulle.",
+  "Lieu « Cloître de Tulle », XIIIe siècle : Les galeries du cloître offrent un mélange entre des éléments gothiques du XIIIe siècle et des restitutions, dues aux campagnes de reconstruction que connut l'édifice à partir de la fin du XIXe siècle.",
+  "Lieu « Cloître de Tulle », 2022 : Le 3 janvier 2022, le musée du Cloître a définitivement fermé ses portes afin de préparer l’ouverture du nouvel équipement muséal de la ville, la Cité de l'accordéon et des patrimoines de Tulle, inauguré en avril 2024.",
+  "Lieu « Cloître de Tulle », aujourd'hui : La salle capitulaire, ornée de vestiges d’un décor peint du début du XIVe siècle est un sanctuaire vénérant la présence miraculeuse de Notre-Dame de Tulle.",
+  "Lieu « Cathédrale Notre-Dame de Tulle » : La cathédrale Notre-Dame de Tulle est une cathédrale catholique située dans la ville de Tulle, en Corrèze.",
+  "Lieu « Cathédrale Notre-Dame de Tulle », 1103 : En 1103, l'abbé Guillaume de Carbonnières, voulant donner à son abbaye, alors en pleine prospérité, un cadre digne d'elle, entreprend de construire une abbatiale et les bâtiments claustraux.",
+  "Lieu « Cathédrale Notre-Dame de Tulle », 1317 : Le diocèse de Tulle est érigé en 1317, sur le territoire du Bas-Limousin qui relevait de l’évêché de Limoges.",
+  "Lieu « Cathédrale Notre-Dame de Tulle », 1793 : Le 27 novembre 1793, le culte de la déesse « Raison » est célébré dans la cathédrale, puis elle est fermée au culte.",
+  "Lieu « Cathédrale Notre-Dame de Tulle », aujourd'hui : L'abbatiale a été bâtie à l’emplacement d’une abbaye mérovingienne dont les titulaires avaient acquis la dignité épiscopale.",
+  "Lieu « Monument aux morts de Tulle » : Le monument aux morts de la Grande Guerre de Tulle (Corrèze) est édifié au sommet du Rocher des Malades.",
+  "Lieu « Monument aux morts de Tulle », 1909 : Il domine la ville sur le Rocher des Malades, non loin de l’école normale d’instituteurs construite en 1909.",
+  "Lieu « Monument aux morts de Tulle », 1919 : Il a été érigé, en vue de la « fête de retour du 100e Régiment d’Infanterie » qui s’est déroulée les 20 et 21 septembre 1919.",
+  "Lieu « Monument aux morts de Tulle », 1923 : Le monument, reprise d’un projet écarté, est construit en 1923 sur un terrain donné par la commune.",
+  "Lieu « Monument aux morts de Tulle », aujourd'hui : Il possède trois caractéristiques : il est départemental (et non communal) ; à la différence des autres monuments aux morts, aucun nom de défunt n'y est inscrit (contrairement à ce qui était prévu au départ) ; sa statue a la particularité d'être restée sur son lieu d'origine, ce qui est rare à Tulle où toutes les statues ont changé d'emplacement.",
+  "Lieu « Cité administrative (Tulle) » : La Cité administrative Jean-Montalat est un immeuble de bureaux abritant des services de l’État situé à Tulle, en France.",
+  "Lieu « Cité administrative (Tulle) », 1971 : Œuvre en béton armé de l'architecte Jacques Sarrabezolles, sa construction débute en 1971, sur l'emplacement de la caserne du Champ de Mars, détruite par un incendie.",
+  "Lieu « Cité administrative (Tulle) », 1971 : Il s'agit de l'une des dernières tours construites dans une ville moyenne française, autorisée quelques mois avant leur interdiction par la circulaire Chalandon du 30 novembre 1971.",
+  "Lieu « Cité administrative (Tulle) », 1975 : Inaugurée en janvier 1975 par Jacques Chirac, elle se veut comme un point de jonction entre la vieille ville et le quartier plus moderne de la Gare.",
+  "Lieu « Manufacture d'armes de Tulle » : La manufacture d'armes de Tulle (MAT) est une ancienne entreprise d'armement française située à Tulle, dans le département de la Corrèze, fondée en 1690.",
+  "Lieu « Manufacture d'armes de Tulle », 1690 : La manufacture d'armes de Tulle (MAT) est une ancienne entreprise d'armement française située à Tulle, dans le département de la Corrèze, fondée en 1690.",
+  "Lieu « Manufacture d'armes de Tulle », 1979 : En 1979, un musée des Armes est créé dans l'enceinte de l'usine, à son ouverture ce musée était réservé à un public restreint, c'était dédié aux amateurs d'armements et aux potentiels acheteurs.",
+  "Lieu « Manufacture d'armes de Tulle », 1999 : Il est ouvert au public depuis 1999, date de son passage sous gestion municipale.",
+  "Lieu « Hôtel de la Caisse d'épargne de Tulle » : L’hôtel de la Caisse d’épargne est un bâtiment de la fin du XIXe siècle situé à Tulle, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Tulle », XIXe siècle : L’hôtel de la Caisse d’épargne est un bâtiment de la fin du XIXe siècle situé à Tulle, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Tulle », aujourd'hui : En juillet 1893, les administrateurs de la Caisse d’épargne de Tulle décident la construction d’un nouvel hôtel pour son institution à l’emplacement de leur siège d’alors, rue de la République.",
+  "Lieu « Gare de Tulle » : La gare de Tulle est une gare ferroviaire française située sur le territoire de la commune de Tulle, préfecture du département de la Corrèze, en Nouvelle-Aquitaine.",
+  "Lieu « Gare de Tulle », 2004 : Cette gare a été fermée au service du fret le 2 novembre 2004."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 2
+ }
+}

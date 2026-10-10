@@ -1,0 +1,214 @@
+{
+ "commune": {
+  "titre": "Malemort-sur-Corrèze",
+  "code_insee": "19123",
+  "departement": "19",
+  "population": 8239,
+  "lat": 45.1717,
+  "lon": 1.5647,
+  "url": "https://fr.wikipedia.org/wiki/Malemort-sur-Corr%C3%A8ze"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:16:59",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1977,
+  "sortie": 1421
+ },
+ "cout_usd": 0.002172,
+ "accroche": "Le 21 avril 1177, à Malemort, la bataille de Malemort oppose les mercenaires du duc aux Limousins.",
+ "histoire": {
+  "recit": "À Malemort, l’histoire commence sur les hauteurs : autour de l’an mil, la famille de Malemort fait construire le castrum de Montemart, un site fortifié dont il ne reste aujourd’hui que les pans sud-ouest et sud-est du donjon. Plus tard, les seigneurs font évoluer leurs demeures : le castrum n’est délaissé qu’au XIVe siècle, lorsque la famille s’installe dans le château de Bréniges, au centre du village. \n\nLe village n’est pas seulement un décor : le 21 avril 1177, lors de la révolte des seigneurs du Limousin face au duc d’Aquitaine Richard Cœur de Lion, Malemort devient le théâtre d’une bataille. En 1180, le château de Malemort est pris par des Brabançons commandés par Mercadier. \n\nParmi les repères actuels, l’église Saint-Sanctin (ou Saint-Xantin) a été classée monuments historiques le 4 avril 1905. Le prieuré Saint-Xantin, dont le bâtiment appartient désormais à la mairie, a fait l’objet de travaux de sauvegarde en 2001. Et, à côté des pierres, la vie continue : le stade Raymond-Faucher inaugure son terrain d’honneur et ses tribunes en 1977.",
+  "chronologie": [
+   {
+    "date": "autour de l’an mil",
+    "texte": "La famille de Malemort fait construire le castrum de Montemart sur les hauteurs du village.",
+    "sources": [
+     "S2",
+     "S5"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Le castrum de Montemart se compose d’un petit donjon rectangulaire en granite, renforcé de trois contreforts par face, avec un autre bâtiment rectangulaire encastré dans le roc (aujourd’hui disparu).",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "21 avril 1177",
+    "texte": "Le village est le théâtre de la bataille de Malemort, entre les mercenaires du duc et les Limousins.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1180",
+    "texte": "Le château de Malemort est pris par les Brabançons commandés par Mercadier.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Le castrum de Montemart n’est délaissé qu’au XIVe siècle, quand la famille de Malemort s’installe dans son nouveau château, construit au centre du village, le château de Bréniges.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1415",
+    "texte": "Les habitants de Brive-la-Gaillarde obtiennent du roi la permission d’attaquer et démanteler le château de Malemort, redoutant les pillages.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "4 avril 1905",
+    "texte": "L’église Saint-Sanctin (Saint-Xantin) est classée au titre des monuments historiques.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1977",
+    "texte": "Le terrain d’honneur et ses tribunes du stade Raymond-Faucher sont inaugurés, dans le cadre d’un match de gala entre le CA Brive et le Stade aurillacois.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "Malemort-sur-Corrèze devient, à cette date, une commune déléguée au sein de la commune nouvelle de Malemort.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "Des travaux de sauvegarde sont entrepris sur le prieuré Saint-Xantin, dont le bâtiment appartient à la mairie.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Castrum de Montemart",
+   "histoire": "Construit autour de l’an mil, le castrum de Montemart présente au XIe siècle un donjon rectangulaire en granite renforcé par des contreforts, puis il est délaissé au XIVe siècle lorsque la famille de Malemort s’installe au château de Bréniges. Aujourd’hui, il n’en subsiste que des éléments du donjon et des traces d’un étage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne demeure de l’édifice que les pans Sud-ouest et Sud-est du donjon, ainsi que les traces d’un étage.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S9"
+   ],
+   "lat": 45.172472,
+   "lon": 1.565861,
+   "url": "https://fr.wikipedia.org/wiki/Castrum_de_Montemart"
+  },
+  {
+   "nom": "Malemort",
+   "histoire": "Le village de Malemort est lié à des conflits seigneuriaux : il accueille la bataille du 21 avril 1177 et connaît, en 1180, une prise du château. Depuis le 1er janvier 2016, Malemort-sur-Corrèze est une commune déléguée au sein de la commune nouvelle de Malemort.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S1",
+    "S2"
+   ],
+   "lat": 45.1717,
+   "lon": 1.5647,
+   "url": "https://fr.wikipedia.org/wiki/Malemort"
+  },
+  {
+   "nom": "Stade Raymond-Faucher",
+   "histoire": "Le stade Raymond-Faucher est un stade omnisports à Malemort. Après deux ans de travaux, son terrain d’honneur et ses tribunes sont inaugurés en 1977, lors d’un match de gala.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 45.17159,
+   "lon": 1.57653,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Raymond-Faucher"
+  },
+  {
+   "nom": "Église Saint-Sanctin de Malemort-sur-Corrèze",
+   "histoire": "L’église Saint-Sanctin (ou Saint-Xantin) est une église catholique située à Malemort-sur-Corrèze. L’édifice est classé au titre des monuments historiques le 4 avril 1905.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 45.1721,
+   "lon": 1.57402,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Sanctin_de_Malemort-sur-Corr%C3%A8ze"
+  },
+  {
+   "nom": "Prieuré Saint-Xantin",
+   "histoire": "Le prieuré Saint-Xantin, appelé aussi ancien presbytère de Malemort, est situé à Malemort. Le bâtiment appartient aujourd’hui à la mairie, et des travaux de sauvegarde ont été entrepris en 2001.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 45.1686,
+   "lon": 1.5736,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_Saint-Xantin"
+  },
+  {
+   "nom": "Château de Puymaret",
+   "histoire": "Le château de Puymaret se trouve sur la commune de Malemort. Il est construit au XIIIe siècle, incendié en 1793, puis reconstruit au XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 45.181156,
+   "lon": 1.588538,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Puymaret"
+  }
+ ],
+ "sources": [
+  "Malemort-sur-Corrèze est une ancienne commune du Sud-Ouest de la France, située dans le département de la Corrèze en région Nouvelle-Aquitaine, devenue le 1er janvier 2016 une commune déléguée au sein de la commune nouvelle de Malemort qui se place au quatrième rang des communes les plus peuplées du département, après Brive-la-Gaillarde, Tulle et Ussel.",
+  "Autour de l'an mil, la famille de Malemort fait construire le castrum de Montemart sur les hauteurs du village. Le 21 avril 1177, lors de la révolte des seigneurs du Limousin face au duc d'Aquitaine Richard Cœur de Lion, le village est le théâtre de la bataille de Malemort, entre les mercenaires du duc et les Limousins. En 1180, le château de Malemort est pris par les Brabançons commandés par Mercadier. Au XIVe […]",
+  "XIVe siècle : Au XIVe siècle, le château de Bréniges est construit dans le bourg.",
+  "1415 : En 1415, les habitants de Brive-la-Gaillarde, craignant les pillages des seigneurs de Malemort, obtiennent la permission du roi pour attaquer et démanteler le château.",
+  "Lieu « Castrum de Montemart » : Le castrum de Montemart, aussi appelé domaine de Montemart, est un ancien castrum situé sur la commune de Malemort, anciennement Malemort-sur-Corrèze, dans le département français de Corrèze, en région Nouvelle-Aquitaine.",
+  "Lieu « Castrum de Montemart », XIe siècle : Au XIe siècle, l'édifice se compose d'un petit donjon rectangulaire en granite, renforcé de trois contreforts par face, ainsi que d'un autre bâtiment rectangulaire, encastré dans le roc, aujourd'hui disparu.",
+  "Lieu « Castrum de Montemart », XIVe siècle : Le castrum de Montemart n'est délaissé qu'au XIVe siècle, lorsque la famille de Malemort s'installe dans son nouveau château, construit au centre du village, le château de Bréniges.",
+  "Lieu « Castrum de Montemart », XIXe siècle : Au milieu du XIXe siècle, la famille Hom, détentrice du domaine, y construit une maison, toujours existante, mais elle-aussi dans un état de délabrement avancé.",
+  "Lieu « Castrum de Montemart », aujourd'hui : Aujourd'hui, il ne demeure de l'édifice que les pans Sud-ouest et Sud-est du donjon, ainsi que les traces d'un étage.",
+  "Lieu « Malemort » : Malemort est, depuis le 1er janvier 2016, une commune nouvelle française située dans la Corrèze en région Nouvelle-Aquitaine.",
+  "Lieu « Malemort », 1956 : Parmi elles se trouve une entreprise fondée en 1956 avec une composante stratégique : LMB Aérospace.",
+  "Lieu « Malemort », 2019 : Sur les 3 394 bâtiments dénombrés sur la commune en 2019, 2 393 sont en aléa moyen ou fort, soit 71 %, à comparer aux 36 % au niveau départemental et 54 % au niveau national.",
+  "Lieu « Stade Raymond-Faucher » : Le stade Raymond-Faucher est un stade omnisports situé à Malemort, dans le département de la Corrèze, en France.",
+  "Lieu « Stade Raymond-Faucher », 1977 : Après deux ans de travaux, le terrain d'honneur et ses tribunes sont inaugurées en 1977, dans le cadre d'un match de gala entre le CA Brive et le Stade aurillacois.",
+  "Lieu « Église Saint-Sanctin de Malemort-sur-Corrèze » : L'église Saint-Sanctin, ou Saint-Xantin, est une église catholique située à Malemort-sur-Corrèze, en France.",
+  "Lieu « Église Saint-Sanctin de Malemort-sur-Corrèze », 1905 : L'édifice est classé au titre des monuments historiques le 4 avril 1905.",
+  "Lieu « Prieuré Saint-Xantin » : Le prieuré Saint-Xantin, ou ancien presbytère de Malemort, est situé à Malemort (ex Malemort-sur-Corrèze) en Corrèze, en Limousin.",
+  "Lieu « Prieuré Saint-Xantin », 2001 : Aujourd'hui, le bâtiment appartient à la mairie de Malemort, et des travaux de sauvegarde ont été entrepris en 2001.",
+  "Lieu « Château de Puymaret » : Le château de Puymaret est un château construit sur la commune de Malemort, dans le département de la Corrèze, en France.",
+  "Lieu « Château de Puymaret », 1793 : Construit au XIIIe siècle et incendié en 1793, il est reconstruit au XIXe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 0
+ }
+}
