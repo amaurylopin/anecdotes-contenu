@@ -1,0 +1,288 @@
+{
+ "commune": {
+  "titre": "Montbéliard",
+  "code_insee": "25388",
+  "departement": "25",
+  "population": 24672,
+  "lat": 47.51027,
+  "lon": 6.79888,
+  "url": "https://fr.wikipedia.org/wiki/Montb%C3%A9liard"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:00:27",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3333,
+  "sortie": 1909
+ },
+ "cout_usd": 0.003053,
+ "accroche": "À Montbéliard, de 1042 à 1793, la ville forme le cœur du comté puis de la principauté de Montbéliard.",
+ "histoire": {
+  "recit": "Montbéliard se raconte d’abord par ses statuts successifs, au cœur de la principauté qui lui donne sa stature. Longtemps, la ville reste francophone même lorsque une cour germanique occupe parfois le château.\n\nLa pierre locale continue de vivre dans les lieux. Au Stade Auguste-Bonal, l’enceinte porte le nom de stade de la Forge quand elle est construite en 1931, avant d’accueillir plus tard un éclairage inauguré le 22 mai 1957 lors d’un match contre les Anglais de Burnley, puis une version rénovée inaugurée en 2000.\n\nDans le centre, l’Église Saint-Maimbœuf de Montbéliard suit un destin heurté : le clocher s’écroule en 1468, sans reconstruction, remplacé par un beffroi ; l’édifice est ensuite entièrement démoli en 1810.\n\nAutour de Montbéliard, Courcelles-lès-Montbéliard connaît aussi ses coups de feu : le village est ravagé et incendié lors du passage des troupes du Comte de Thierstein en 1465, puis, reconstruit, il subit encore des incendies en 1588. Quant aux bâtiments qui restent, la Maison Forstner change de mains, et l’ancienne université luthérienne affirme sa présence au fil des transformations.",
+  "chronologie": [
+   {
+    "date": "1042 - 1793",
+    "texte": "La ville fait partie du Saint-Empire romain germanique et forme le cœur du comté puis de la principauté de Montbéliard.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1931",
+    "texte": "Le stade Auguste-Bonal est construit sous le nom de stade de la Forge.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "22 mai 1957",
+    "texte": "Inauguration d’un éclairage au stade Auguste-Bonal à l’occasion d’un match contre les Anglais de Burnley.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "L’enceinte actuelle du stade Auguste-Bonal est inaugurée en 2000, lors du Trophée des champions opposant le FC Nantes à l’AS Monaco.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1468",
+    "texte": "Le clocher de l’Église Saint-Maimbœuf de Montbéliard s’écroule et est remplacé par un beffroi.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1810",
+    "texte": "L’édifice de l’Église Saint-Maimbœuf de Montbéliard est entièrement démoli.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1465",
+    "texte": "Courcelles-lès-Montbéliard est ravagé et incendié lors du passage des troupes du Comte de Thierstein.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "17 juillet 1588",
+    "texte": "Le capitaine Dupuis incendie Courcelles, avec la papeterie et le village (19 maisons), faute de rançon.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade Auguste-Bonal",
+   "histoire": "Une enceinte sportive de Montbéliard. Construite en 1931 sous le nom de stade de la Forge, elle jouxte les usines Peugeot, et reçoit un éclairage inauguré le 22 mai 1957. L’enceinte actuelle est inaugurée en 2000.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 47.512311,
+   "lon": 6.811345,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Auguste-Bonal"
+  },
+  {
+   "nom": "Église Saint-Maimbœuf de Montbéliard",
+   "histoire": "Église paroissiale de style néo-Renaissance du XIXe siècle à Montbéliard. Le clocher s’écroule en 1468 : il n’est pas reconstruit mais remplacé par un beffroi. L’édifice est ensuite entièrement démoli en 1810.",
+   "anecdotes": [
+    {
+     "texte": "En 1468, le clocher s’écroule sans reconstruction : les cloches trouvent place dans un beffroi.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S13"
+   ],
+   "lat": 47.50981,
+   "lon": 6.79184,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maimb%C5%93uf_de_Montb%C3%A9liard"
+  },
+  {
+   "nom": "Courcelles-lès-Montbéliard",
+   "histoire": "Commune proche de Montbéliard, au département du Doubs. Le village est ravagé et incendié en 1465, puis reconstruit avant de connaître de nouveaux chocs en 1588. Son occupation des sols et ses infrastructures se lisent dans des représentations cartographiques anciennes et actuelles.",
+   "anecdotes": [
+    {
+     "texte": "En 1588, faute de rançon pour la papeterie, Dupuis incendie la papeterie et le village, avec dix-neuf maisons.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "En 1465, lors du passage des troupes du Comte de Thierstein, Courcelles-lès-Montbéliard est ravagé et incendié.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 47.5002777778,
+   "lon": 6.78694444444,
+   "url": "https://fr.wikipedia.org/wiki/Courcelles-l%C3%A8s-Montb%C3%A9liard"
+  },
+  {
+   "nom": "Maison Forstner",
+   "histoire": "Bâtiment historique de Montbéliard appelé aussi Maison Morlot ou Maison des Princes. Construit à la fin du XVIe siècle (1597) par Joseph Morlot, il est racheté en 1637 par le comte de Montbéliard Léopold-Frédéric de Wurtemberg, puis par la Banque de France en 1920 pour y installer une succursale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Sur le fronton de l’entrée principale, l’inscription « Banque de France » en lettres capitales dorées y est toujours visible.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 47.5104,
+   "lon": 6.79721,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Forstner"
+  },
+  {
+   "nom": "Gare de Montbéliard",
+   "histoire": "Gare ferroviaire sur le territoire de Montbéliard. La première gare date de 1858 ; elle est démolie en 1889 et remplacée par un bâtiment de type PLM. Les voies sont traversées à niveau jusqu’en 1968, avant la construction d’un passage souterrain. La gare constitue aussi l’origine, au PK 0,000, de la ligne de Montbéliard à Morvillars actuellement inexploitée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.510471,
+   "lon": 6.801662,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Montb%C3%A9liard"
+  },
+  {
+   "nom": "Temple Saint-Martin de Montbéliard",
+   "histoire": "Édifice religieux luthérien de Montbéliard. La charpente est achevée en 1604 et l’édifice est définitivement achevé en 1607. L’orgue est construit en 1755, puis rénové en 1843. Le temple est aussi mentionné comme partie affectée lors des événements de 1677.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 47.5102,
+   "lon": 6.79735,
+   "url": "https://fr.wikipedia.org/wiki/Temple_Saint-Martin_de_Montb%C3%A9liard"
+  },
+  {
+   "nom": "Ancien hôpital de Montbéliard",
+   "histoire": "Ancien centre médical au cœur de la vieille ville de Montbéliard. L’édifice tel qu’on le connaît est bâti en 1759 et 1762, avec un agrandissement en 1850. Il est ouvert à tous les malades en 1840, puis le bâtiment des bains est construit entre 1852 et 1857.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le premier bâtiment construit à l’emplacement actuel date de 1490.",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 47.508826,
+   "lon": 6.797273,
+   "url": "https://fr.wikipedia.org/wiki/Ancien_h%C3%B4pital_de_Montb%C3%A9liard"
+  },
+  {
+   "nom": "Université luthérienne de Montbéliard",
+   "histoire": "Bâtiment historique de Montbéliard. L’université est construite entre 1598 et 1607 par Heinrich Schickhardt. En 1677, l’occupation française affecte le bâtiment au culte catholique en y installant une petite chapelle. En 1866, des ailes sont détruites pour libérer l’espace de la nouvelle église de Saint-Maimbœuf. Les parties subsistantes de l’aile nord sont inscrites au titre des monuments historiques depuis le 6 octobre 1989.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les parties subsistantes de l’aile nord de l’édifice font l’objet d’une inscription au titre des monuments historiques depuis le 6 octobre 1989.",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 47.51,
+   "lon": 6.79204,
+   "url": "https://fr.wikipedia.org/wiki/Universit%C3%A9_luth%C3%A9rienne_de_Montb%C3%A9liard"
+  }
+ ],
+ "sources": [
+  "Montbéliard (/mɔ̃.be.ljaʁ/) est une commune française, sous-préfecture du département du Doubs, dans la région culturelle et historique de Franche-Comté et la région administrative Bourgogne-Franche-Comté. Elle est située dans le nord-est de la Franche-Comté, à moins d'une vingtaine de kilomètres de la Suisse, aux portes du massif du Jura. Montbéliard et sa proche région (le « Pays de Montbéliard ») ont été […]",
+  "De 1042 à 1793, la ville fait partie du Saint-Empire romain germanique et forme le cœur du comté puis de la principauté de Montbéliard (Grafschaft Mömpelgard) fondé par l'empereur Henri III du Saint-Empire. De 1407 à 1793, elle appartient aux comtes de Wurtemberg, sans cesser d'être francophone, même si une cour germanique occupait parfois le château. C'est de cette Maison qu'est issue la princesse Sophie-Dorothée […]",
+  "1042 : De 1042 à 1793, la ville fait partie du Saint-Empire romain germanique et forme le cœur du comté puis de la principauté de Montbéliard (Grafschaft Mömpelgard) fondé par l'empereur Henri III du Saint-Empire.",
+  "Lieu « Stade Auguste-Bonal » : Le stade Auguste-Bonal ou stade Bonal est une enceinte sportive située sur la commune de Montbéliard (Doubs).",
+  "Lieu « Stade Auguste-Bonal », 1931 : Construit en 1931 sous le nom de stade de la Forge, l'enceinte jouxte les usines Peugeot dont la marque a été l'actionnaire du FC Sochaux-Montbéliard jusqu'en 2015.",
+  "Lieu « Stade Auguste-Bonal », 1957 : Un éclairage est inauguré le 22 mai 1957 à l'occasion d'un match contre les Anglais de Burnley.",
+  "Lieu « Stade Auguste-Bonal », 2000 : Rénovée à plusieurs reprises, l'enceinte actuelle est inaugurée en 2000, à l'occasion du Trophée des champions opposant le FC Nantes à l'AS Monaco.",
+  "Lieu « Stade Auguste-Bonal », aujourd'hui : Entre 1928 et 1931, le FC Sochaux évolue au Stade de la Carrosserie, puis au Stade du champ de foire (aujourd'hui stade René-Blum).",
+  "Lieu « Église Saint-Maimbœuf de Montbéliard » : L’église Saint-Maimbœuf de Montbéliard est une église paroissiale de style néo-Renaissance du XIXe siècle de Montbéliard dans le Doubs en Franche-Comté.",
+  "Lieu « Église Saint-Maimbœuf de Montbéliard », 1468 : Le clocher, qui s'écroula en 1468, ne fut pas reconstruit mais remplacé par un beffroi qui abrita les cloches.",
+  "Lieu « Église Saint-Maimbœuf de Montbéliard », 1810 : Enfin, l'édifice fut entièrement démoli en 1810.",
+  "Lieu « Église Saint-Maimbœuf de Montbéliard », 1884 : La construction de la deuxième tour est abandonnée en 1884.",
+  "Lieu « Église Saint-Maimbœuf de Montbéliard », aujourd'hui : Son emplacement ne fut pas le fruit du hasard : érigée sur un promontoire, elle « écrase » littéralement de sa masse le temple Saint-Georges.",
+  "Lieu « Courcelles-lès-Montbéliard » : Courcelles-lès-Montbéliard est une commune française située dans le département du Doubs, la région culturelle et historique de Franche-Comté et la région administrative Bourgogne-Franche-Comté.",
+  "Lieu « Courcelles-lès-Montbéliard », 1465 : Le village fut ravagé et incendié lors du passage des troupes du Comte de Thierstein en 1465.",
+  "Lieu « Courcelles-lès-Montbéliard », 1586 : Reconstruit, il eut à supporter, un siècle plus tard, la vengeance des princes lorrains, les Guise, qui voulaient punir le Comte Frédéric d'avoir soutenu en 1586 la politique de Henri de Navarre.",
+  "Lieu « Courcelles-lès-Montbéliard », 1588 : Un capitaine, nommé Dupuis, s'empara de Courcelles et, comme il n'obtenait pas de rançon pour la papeterie, ils l'incendièrent ainsi que le village (19 maisons) le 17 juillet 1588.",
+  "Lieu « Courcelles-lès-Montbéliard », aujourd'hui : L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (XVIIIe siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).",
+  "Lieu « Maison Forstner » : La Maison Forstner (ou Maison Morlot ou Maison des Princes) est un bâtiment historique situé à Montbéliard dans le Doubs en France.",
+  "Lieu « Maison Forstner », 1597 : Le bâtiment a été construit à la fin du XVIe siècle, en 1597 par Joseph Morlot un notable local.",
+  "Lieu « Maison Forstner », 1637 : En 1637, l'édifice est racheté par le comte de Montbéliard Léopold-Frédéric de Wurtemberg.",
+  "Lieu « Maison Forstner », 1920 : En 1920, l'édifice est racheté par la Banque de France pour y installer une succursale.",
+  "Lieu « Maison Forstner », aujourd'hui : Sur le fronton de l'entrée principale, l'inscription « Banque de France » en lettres capitales dorées y est toujours visible.",
+  "Lieu « Gare de Montbéliard » : La gare de Montbéliard , parfois appelée gare de Montbéliard-Ville, est une gare ferroviaire française située sur le territoire de la commune de Montbéliard, dans le département du Doubs, en région Bourgogne-Franche-Comté.",
+  "Lieu « Gare de Montbéliard », 1858 : Construite en briques et pans de bois à l'origine, la première gare date de 1858.",
+  "Lieu « Gare de Montbéliard », 1889 : Elle fut démolie en 1889 et remplacée par un bâtiment du type PLM avec corps central, à deux niveaux et cinq ouvertures, et deux ailes symétriques à chacune cinq ouvertures.",
+  "Lieu « Gare de Montbéliard », 1968 : Les voies sont traversées à niveau jusqu'en 1968 où fut construit un passage souterrain.",
+  "Lieu « Gare de Montbéliard », aujourd'hui : Gare de bifurcation, elle constitue également l'origine, au PK 0,000, de la ligne de Montbéliard à Morvillars actuellement inexploitée.",
+  "Lieu « Temple Saint-Martin de Montbéliard » : Le temple Saint-Martin de Montbéliard est un édifice religieux luthérien situé à Montbéliard, dans le Doubs.",
+  "Lieu « Temple Saint-Martin de Montbéliard », 1604 : La charpente sera achevée en 1604 et l'édifice sera définitivement achevé en 1607.",
+  "Lieu « Temple Saint-Martin de Montbéliard », 1677 : En 1677, l'armée française investit Montbéliard rasant certains édifices militaires (Citadelle de Montbéliard, Fort le Chat).",
+  "Lieu « Temple Saint-Martin de Montbéliard », 1755 : L'orgue, construit en 1755 et rénové en 1843 est placé à l'intérieur du temple sur la tribune.",
+  "Lieu « Temple Saint-Martin de Montbéliard », aujourd'hui : MDCIIII Œuvre de l'architecte d'Herrenberg Heinrich Schickhardt 1604 » Le Retable de Montbéliard (Mömpelgarder Altar, en allemand), commandé en 1538 par le comte Georges Ier de Wurtemberg-Montbéliard et réalisé notamment par l'artiste allemand Heinrich Füllmaurer et pillé pendant la guerre de Trente Ans, se trouve aujourd'hui au musée d'Histoire de l'art de […]",
+  "Lieu « Ancien hôpital de Montbéliard » : L'ancien hôpital de Montbéliard est un ancien centre médical situé au cœur de la vieille ville de Montbéliard dans le Doubs.",
+  "Lieu « Ancien hôpital de Montbéliard », 1759 : L'édifice tel que nous le connaissons a été bâti en 1759 et 1762 et a bénéficié d'un agrandissement en 1850.",
+  "Lieu « Ancien hôpital de Montbéliard », 1840 : Initialement réservés au vieillard et infirmes, il est ouvert à tous les malades en 1840.",
+  "Lieu « Ancien hôpital de Montbéliard », 1852 : Entre 1852 et 1857, le bâtiment des bains est construit, vraisemblablement par l'architecte Jean Frédéric Fallot.",
+  "Lieu « Ancien hôpital de Montbéliard », aujourd'hui : Le premier bâtiment construit à l'emplacement actuel date de 1490.",
+  "Lieu « Université luthérienne de Montbéliard » : L'université luthérienne de Montbéliard est un bâtiment historique situé à Montbéliard dans le Doubs en France.",
+  "Lieu « Université luthérienne de Montbéliard », 1598 : L'université fut construite entre 1598 et 1607 par Heinrich Schickhardt, l'architecte qui a modifié en profondeur l'apparence de la ville de Montbéliard à la Renaissance.",
+  "Lieu « Université luthérienne de Montbéliard », 1677 : L'occupation française en 1677 affecta le bâtiment au culte catholique en y installant une petite chapelle dans son aile occidentale.",
+  "Lieu « Université luthérienne de Montbéliard », 1866 : En 1866, les ailes est, sud et ouest sont détruites pour libérer de l'espace pour la construction de la nouvelle église de Saint-Maimbœuf.",
+  "Lieu « Université luthérienne de Montbéliard », aujourd'hui : Les parties subsistantes de l'aile nord de l’édifice font l’objet d’une inscription au titre des monuments historiques depuis le 6 octobre 1989."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Saint-Maimb"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
