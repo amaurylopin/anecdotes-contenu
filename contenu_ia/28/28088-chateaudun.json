@@ -1,0 +1,270 @@
+{
+ "commune": {
+  "titre": "Châteaudun",
+  "code_insee": "28088",
+  "departement": "28",
+  "population": 12830,
+  "lat": 48.071667,
+  "lon": 1.33867,
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teaudun"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:38:09",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3408,
+  "sortie": 1992
+ },
+ "cout_usd": 0.003172,
+ "accroche": "En 911, Châteaudun subit un incendie, avant de connaître d’autres destructions majeures, dont celles liées à la Ligue catholique en 1590.",
+ "histoire": {
+  "recit": "Châteaudun, chef-lieu d’arrondissement d’Eure-et-Loir, s’est construite au bord du Loir, drainée aussi par le bras du Loir et la vallée de Crépainville. Dès l’Antiquité, un oppidum gaulois s’y dresse sur le promontoire dominant le fleuve, probablement lié aux Carnutes.\n\nAu fil des troubles, la ville brûle en 911. Plus tard, à partir du Xe siècle, la vigne gagne du terrain en Beauce, et les vignerons deviennent une présence marquante à Châteaudun. En 1590, des sympathisants de la Ligue catholique incendient les faubourgs et les détruisent intégralement.\n\nLe dimanche 20 juin 1723, un nouvel incendie détruit une grande moitié de la ville. Malgré cela, la vie continue : en 1865, l’inauguration de la gare marque l’arrivée du rail.\n\nLe paysage d’aujourd’hui garde surtout l’empreinte de ses lieux : le château, avec son donjon bâti vers 1180, et la Sainte-Chapelle édifiée au tournant du XVe siècle ; plus loin, la Base aérienne 279 Châteaudun a fait longtemps travailler les horizons avant de devenir un aérodrome civil.",
+  "chronologie": [
+   {
+    "date": "911",
+    "texte": "La ville subit un incendie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Xe siècle",
+    "texte": "La culture de la vigne se développe en Beauce ; Châteaudun compte de nombreux vignerons.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1590",
+    "texte": "Des sympathisants de la Ligue catholique incendient et détruisent intégralement les faubourgs.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "20 juin 1723",
+    "texte": "L’incendie du dimanche 20 juin 1723 détruit une grande moitié de la ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1779",
+    "texte": "L’hôtel de ville n’est achevé qu’en 1779.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "23 décembre 1865",
+    "texte": "La gare de Châteaudun est inaugurée à l’ouverture de la ligne Paris-Tours.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "28 décembre 1865",
+    "texte": "La gare est mise en service lors de l’ouverture à l’exploitation de la première section, de Brétigny à Vendôme.",
+    "sources": [
+     "S23"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Châteaudun",
+   "histoire": "Édifié au XIIe siècle puis remanié aux XVe et XVIe siècles, le château de Châteaudun occupe un éperon rocheux dominant la commune et le Loir. Le donjon, le plus ancien, est construit vers 1180 par Thibaut V, comte de Blois, et, en 1452, une chapelle ainsi qu’un corps de logis de style gothique sont entrepris. Aujourd’hui, l’accès au donjon passait initialement par une porte située à 10 mètres de hauteur, désormais ouverte vers les combles de la chapelle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.070555555556,
+   "lon": 1.3236111111111,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Base aérienne 279 Châteaudun",
+   "histoire": "La base aérienne 279 Châteaudun « Lieutenant Marcel Beau » existe comme base militaire de 1934 à 2014, avant de devenir un aérodrome civil. En janvier 1939, le terrain est ouvert à la circulation civile. Dans le présent, des projets d’aménagements sont évoqués, notamment autour d’une centrale photovoltaïque et d’une filière hydrogène, sur des espaces libérés après installation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.058033,
+   "lon": 1.379385,
+   "url": "https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_279_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Sainte-Chapelle de Châteaudun",
+   "histoire": "Chapelle du château de Châteaudun, la Sainte-Chapelle est édifiée au tournant du XVe siècle. En 1439, Jean, bâtard d’Orléans, reçoit le comté de Dunois et la vicomté de Châteaudun ; en 1467, il déclare la fondation de la chapelle pour le salut des âmes de proches de sa famille. Classée au titre des monuments historiques, elle fait partie des sept saintes chapelles qui subsistent en France.",
+   "anecdotes": [
+    {
+     "texte": "En 1467, Jean, bâtard d’Orléans, affirme fonder la chapelle pour le salut des âmes de plusieurs proches : son aïeul Charles V, son cousin Charles VII, et d’autres membres de sa famille.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 48.0706,
+   "lon": 1.32357,
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Chapelle_de_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Gare de Châteaudun",
+   "histoire": "La gare de Châteaudun appartient à la ligne de Brétigny à La Membrolle-sur-Choisille. Elle est mise en service le 28 décembre 1865 lors de l’ouverture à l’exploitation de la première section, puis la deuxième section jusqu’à La Membrolle-sur-Choisille s’ouvre en août 1867. D’autres ouvertures suivent, dont celle de Châteaudun à Courtalain en 1898.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.073352,
+   "lon": 1.338376,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Lycée Émile-Zola de Châteaudun",
+   "histoire": "Le lycée Émile-Zola de Châteaudun est un établissement d’enseignement situé au 26, rue de Civry. Il remplace un ancien collège implanté depuis 1814 rue Toufaire, qui lui-même vient du premier collège fondé en 1582 dans le quartier Saint-Lubin. Un nouveau Collège Moderne et Classique est inauguré le dimanche 1er mars 1953, et plusieurs aménagements majeurs ont lieu dans l’enceinte du lycée entre 1986 et 2000.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.072528,
+   "lon": 1.334181,
+   "url": "https://fr.wikipedia.org/wiki/Lyc%C3%A9e_%C3%89mile-Zola_de_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Musée des Beaux-Arts et d'Histoire Naturelle de Châteaudun",
+   "histoire": "Le musée des Beaux-Arts et d’Histoire Naturelle de Châteaudun est un musée municipal. Il s’appuie sur un département d’histoire naturelle : deux salles présentent la collection de plus de 2 500 oiseaux léguée par le marquis Léonce de Tarragon à la fin du XIXe siècle. Installé depuis 1890 dans une ancienne école, il comprend neuf salles, et en 1897 il réunit les collections municipales ainsi que le musée privé du marquis Léonce de Tarragon légué à la ville en 1897.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 48.071106,
+   "lon": 1.328072,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_et_d%27Histoire_Naturelle_de_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Église Saint-Jean-de-la-Chaîne de Châteaudun",
+   "histoire": "L’église Saint-Jean-de-la-Chaîne de Châteaudun est une église catholique. Elle se trouve à l’endroit où Saint-Aventin aurait fait bâtir une église en l’honneur de Saint-Jean au VIe siècle. Un tableau du XVIIIe siècle, Les Noces de Cana, est exposé dans le bras nord du transept : il est signalé comme classé monument historique. En 1907, l’église dépendait de l’abbaye de la Trinité de Vendôme, et l’édifice ainsi que le portail de l’ancien cimetière Saint-Jean sont classés au titre des monuments historiques en 1907.",
+   "anecdotes": [
+    {
+     "texte": "Selon les indications du site, Saint-Aventin aurait fait bâtir une église en l’honneur de Saint-Jean à l’endroit même de l’église Saint-Jean-de-la-Chaîne.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 48.0769,
+   "lon": 1.32068,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-de-la-Cha%C3%AEne_de_Ch%C3%A2teaudun"
+  },
+  {
+   "nom": "Bataille de Châteaudun",
+   "histoire": "La bataille de Châteaudun, aussi appelée défense de Châteaudun, est un fait marquant de la guerre franco-prussienne de 1870 : le 18 octobre 1870, une armée allemande affronte une armée française. Dans le contexte de la défense, Léon Gambetta s’envole en ballon depuis Paris le 7 octobre 1870. Aujourd’hui, la fumée des incendies des combats de Varize et de Civry des 14 et 15 octobre est annoncée comme visible depuis les hauteurs de la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.071667,
+   "lon": 1.33867,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Ch%C3%A2teaudun"
+  }
+ ],
+ "sources": [
+  "Châteaudun est une commune française, chef-lieu d'arrondissement d'Eure-et-Loir dans la région Centre-Val de Loire. Exposée à un climat océanique altéré, elle est drainée par le Loir, le bras du Loir, la Vallée de Crépainville et divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable composé de deux sites Natura 2000 et trois zones naturelles d'intérêt écologique, faunistique et […]",
+  "La présence d'un oppidum gaulois est attestée dès l'Antiquité. C'est sur le promontoire surplombant le Loir que l'oppidum fut bâti, probablement occupé par le peuple des Carnutes. La ville subit un incendie en 911. À partir du Xe siècle, la culture de la vigne se développe en Beauce. Le Dunois ne fait alors pas exception et la classe des vignerons devient l'une des plus représentées à Châteaudun. En 1197, la ville […]",
+  "1590 : En 1590, des sympathisants de la Ligue catholique incendient les faubourgs de Châteaudun et les détruisent intégralement.",
+  "1723 : L’incendie du dimanche 20 juin 1723 joua un grand rôle dans l’histoire de Châteaudun, car il détruisit une grande moitié de la ville.",
+  "1773 : Dans les faits, de nombreux bâtiments étaient encore à construire en 1773, à l'instar de l'hôtel de ville qui ne sera achevé qu'en 1779.",
+  "1865 : L'ouverture de la ligne Paris-Tours permet l'inauguration de la gare de Châteaudun le 23 décembre 1865.",
+  "Lieu « Château de Châteaudun » : Le château de Châteaudun est un château édifié au XIIe siècle et remanié aux XVe et XVIe siècles, situé sur un éperon rocheux dominant la commune française de Châteaudun et le Loir, dans le département d’Eure-et-Loir.",
+  "Lieu « Château de Châteaudun », XIIe siècle : Le château de Châteaudun est un château édifié au XIIe siècle et remanié aux XVe et XVIe siècles, situé sur un éperon rocheux dominant la commune française de Châteaudun et le Loir, dans le département d’Eure-et-Loir.",
+  "Lieu « Château de Châteaudun », 1180 : Le donjon, bâtiment le plus ancien, a été construit vers 1180 par Thibaut V, comte de Blois.",
+  "Lieu « Château de Châteaudun », 1452 : En 1452 celui-ci entreprend l'édification de la chapelle et du corps de logis de style gothique.",
+  "Lieu « Château de Châteaudun », aujourd'hui : L'accès au donjon se faisait initialement par une porte située à 10 mètres de hauteur qui communique aujourd'hui avec les combles de la chapelle.",
+  "Lieu « Base aérienne 279 Châteaudun » : La base aérienne 279 Châteaudun « Lieutenant Marcel Beau » de l'Armée de l'air française était une base aérienne de 1934 à 2014, avant de devenir un aérodrome civil.",
+  "Lieu « Base aérienne 279 Châteaudun », 1939 : 1939 : en janvier, le terrain est ouvert à la circulation civile.",
+  "Lieu « Base aérienne 279 Châteaudun », 2024 : En attendant la mise en place d'une centrale photovoltaïque d’EDF Renouvelables fin 2024, le maire de Châteaudun et président de la communauté de communes du Grand Châteaudun propose aux entreprises de s'installer sur l'espace libéré.",
+  "Lieu « Base aérienne 279 Châteaudun », 2024 : Une centrale photovoltaïque de près de 83 ha devait y être construite en 2024 et le maire étudie la possibilité de développer une filière de production d'hydrogène.",
+  "Lieu « Base aérienne 279 Châteaudun », aujourd'hui : Cette présence militaire et l'emplacement des terrains confèrent à Châteaudun un rôle actif dans les navigations aériennes effectuées à partir des écoles d'aviation de Chartres (future base aérienne 122 Chartres-Champhol) et d'Étampes.",
+  "Lieu « Sainte-Chapelle de Châteaudun » : La Sainte-Chapelle de Châteaudun est une chapelle édifiée au tournant du XVe siècle dans le château de Châteaudun, dans le département français d'Eure-et-Loir.",
+  "Lieu « Sainte-Chapelle de Châteaudun », 1439 : Jean, bâtard d'Orléans et compagnon d'armes de Jeanne d'Arc, reçoit en 1439 le comté de Dunois et la vicomté de Châteaudun de son demi-frère, Charles d'Orléans qui est libéré de sa prison anglaise en 1440.",
+  "Lieu « Sainte-Chapelle de Châteaudun », XVe siècle : La Sainte-Chapelle de Châteaudun est une chapelle édifiée au tournant du XVe siècle dans le château de Châteaudun, dans le département français d'Eure-et-Loir.",
+  "Lieu « Sainte-Chapelle de Châteaudun », 1467 : C'est ce qu'il déclare en 1467 pour la fondation de la chapelle qu'il a construite pour le salut des âmes de son aïeul Charles V, de son cousin Charles VII, de son père Louis d'Orléans, de son demi-frère Charles d'Orléans, de la sienne et de celle de son épouse, Marie d'Harcourt.",
+  "Lieu « Sainte-Chapelle de Châteaudun », aujourd'hui : Classée au titre des monuments historiques, elle est l'une des sept saintes chapelles (sur les dix d'origine, outre celle de Paris) qui subsistent en France.",
+  "Lieu « Gare de Châteaudun » : La gare de Châteaudun est une gare ferroviaire française de la ligne de Brétigny à La Membrolle-sur-Choisille.",
+  "Lieu « Gare de Châteaudun », 1865 : La gare de Châteaudun est mise en service le 28 décembre 1865 par la Compagnie du chemin de fer de Paris à Orléans (PO), lors de l'ouverture à l'exploitation de la première section, de Brétigny à Vendôme, de la ligne de Paris à Tours par Châteaudun et Vendôme.",
+  "Lieu « Gare de Châteaudun », 1867 : La deuxième section, jusqu'à la gare de La Membrolle-sur-Choisille (près de Tours) est ouverte au mois d'août 1867.",
+  "Lieu « Gare de Châteaudun », 1898 : L'ouverture de la section suivante de Châteaudun à Courtalain a lieu en 1898.",
+  "Lieu « Lycée Émile-Zola de Châteaudun » : Le lycée Émile-Zola est un établissement d'enseignement secondaire et supérieur de l'académie d'Orléans-Tours situé à Châteaudun au 26, rue de Civry, dans le département d'Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Lycée Émile-Zola de Châteaudun », 1814 : Il remplace l'ancien collège situé depuis 1814 rue Toufaire, lui-même issu du premier collège fondé en 1582 dans le quartier Saint-Lubin.",
+  "Lieu « Lycée Émile-Zola de Châteaudun », 1953 : Le nouveau Collège Moderne et Classique est inauguré le dimanche 1er mars 1953.",
+  "Lieu « Lycée Émile-Zola de Châteaudun », 1986 : De 1986 à 2000, plusieurs aménagements majeurs sont réalisés dans l'enceinte du lycée : Construction du bâtiment D achevé en 1987.",
+  "Lieu « Musée des Beaux-Arts et d'Histoire Naturelle de Châteaudun » : Le musée des Beaux-Arts et d'Histoire Naturelle de Châteaudun est un musée municipal situé à Châteaudun dans le département français d'Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Musée des Beaux-Arts et d'Histoire Naturelle de Châteaudun », XIXe siècle : L'important département d'histoire naturelle contribue particulièrement à la réputation du musée : deux salles sont consacrées à la collection de plus de 2 500 oiseaux léguée par le marquis Léonce de Tarragon à la fin du XIXe siècle.",
+  "Lieu « Musée des Beaux-Arts et d'Histoire Naturelle de Châteaudun », 1890 : Installé, depuis 1890, dans une ancienne école il est composé de neuf salles.",
+  "Lieu « Musée des Beaux-Arts et d'Histoire Naturelle de Châteaudun », 1897 : Il rassemble les collections municipales — constituées dès la fin du XIXe siècle — et le musée privé du marquis Léonce de Tarragon, légué à la Ville en 1897.",
+  "Lieu « Église Saint-Jean-de-la-Chaîne de Châteaudun » : L'église Saint-Jean-de-la-Chaîne est une église catholique située à Châteaudun, dans le département français d'Eure-et-Loir en région Centre-Val de Loire.",
+  "Lieu « Église Saint-Jean-de-la-Chaîne de Châteaudun », VIe siècle : L'église est située à l'endroit où Saint-Aventin aurait fait bâtir une église en l'honneur de Saint-Jean au VIe siècle.",
+  "Lieu « Église Saint-Jean-de-la-Chaîne de Châteaudun », 1692 : Un tableau du XVIIIe siècle de Jean II Restout (1692-1768), Les Noces de Cana, est exposé, selon la plateforme ouverte du patrimoine du ministère de la Culture, dans le bras nord du transept de l'église, Classé MH (1906).",
+  "Lieu « Église Saint-Jean-de-la-Chaîne de Châteaudun », 1907 : L’église dépendait de l’abbaye de la Trinité de Vendôme[source insuffisante] L'édifice et le portail de l'ancien cimetière Saint-Jean sont classés au titre des monuments historiques en 1907.",
+  "Lieu « Bataille de Châteaudun » : La bataille de Châteaudun (aussi connue sous le nom de défense de Châteaudun) fut un fait marquant de la guerre franco-prussienne de 1870, et opposa une armée allemande à une armée française le 18 octobre 1870.",
+  "Lieu « Bataille de Châteaudun », 1870 : Léon Gambetta, alors membre du gouvernement de défense nationale s’envole en ballon depuis Paris assiégée le 7 octobre 1870 dans le but de reformer l’armée française.",
+  "Lieu « Bataille de Châteaudun », aujourd'hui : La fumée des incendies des combats de Varize et de Civry des 14 et 15 octobre est visible depuis les hauteurs de la ville."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

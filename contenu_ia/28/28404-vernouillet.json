@@ -1,0 +1,104 @@
+{
+ "commune": {
+  "titre": "Vernouillet (Eure-et-Loir)",
+  "code_insee": "28404",
+  "departement": "28",
+  "population": 12310,
+  "lat": 48.7217,
+  "lon": 1.3614,
+  "url": "https://fr.wikipedia.org/wiki/Vernouillet_%28Eure-et-Loir%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:41:03",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1134,
+  "sortie": 820
+ },
+ "cout_usd": 0.001252,
+ "accroche": "Le 16 août 1944, Vernouillet fut libérée en même temps que Dreux par le bataillon blindé américain du lieutenant Sam Isaacs.",
+ "histoire": {
+  "recit": "Vernouillet est une commune d’Eure-et-Loir, dans la région Centre-Val de Loire, rattachée à l’unité urbaine de Dreux et à l’aire d’attraction de Paris. Sa population a fortement augmenté depuis 1962, pour atteindre 12 310 habitants en 2023. Le territoire est drainé notamment par la Blaise et par d’autres petits cours d’eau.\n\nPendant la Seconde Guerre mondiale, Vernouillet, comme sa grande voisine Dreux, subit l’occupation allemande de 1940 à 1944. La libération arrive le 16 août 1944, au même moment que celle de Dreux, menée par le bataillon blindé américain du lieutenant Sam Isaacs.\n\nSur place, l’aérodrome de Dreux - Vernouillet, situé à 4 km au sud de Dreux, marque aussi l’histoire locale. En 1986, la démolition des deux pistes en béton y est achevée.",
+  "chronologie": [
+   {
+    "date": "1962",
+    "texte": "La population de Vernouillet connaît une forte hausse à partir de 1962.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1940-1944",
+    "texte": "La commune est occupée par l’armée allemande durant la Seconde Guerre mondiale.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "16 août 1944",
+    "texte": "Vernouillet est libérée, en même temps que Dreux, par le bataillon blindé américain du lieutenant Sam Isaacs.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1986",
+    "texte": "La démolition des deux pistes en béton de l’aérodrome de Dreux - Vernouillet est terminée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2023",
+    "texte": "Vernouillet compte 12 310 habitants en 2023.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Aérodrome de Dreux - Vernouillet",
+   "histoire": "L’aérodrome de Dreux - Vernouillet (code OACI : LFON) est ouvert à la circulation aérienne publique. Il se situe sur les communes de Vernouillet et Garnay, à 4 km au sud de Dreux, en Eure-et-Loir.",
+   "anecdotes": [
+    {
+     "texte": "En 1986, la démolition des deux pistes en béton de l’aérodrome est terminée.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 48.70667,
+   "lon": 1.36278,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Dreux_-_Vernouillet"
+  }
+ ],
+ "sources": [
+  "Vernouillet est une commune du département d'Eure-et-Loir, dans la région Centre-Val de Loire, comptant 12 310 habitants en 2023, après avoir connu une forte hausse de la population depuis 1962. Elle est dans l'unité urbaine de Dreux et fait partie de l'aire d'attraction de Paris. Exposée à un climat océanique altéré, elle est drainée par la Blaise et divers autres petits cours d'eau. La commune possède un […]",
+  "Durant la Seconde Guerre mondiale, Vernouillet, comme sa grande voisine Dreux, connut l'occupation allemande de 1940 à 1944. Elle fut libérée, en même temps que Dreux, le 16 août 1944, par le bataillon blindé américain du lieutenant Sam Isaacs.",
+  "1944 : Elle fut libérée, en même temps que Dreux, le 16 août 1944, par le bataillon blindé américain du lieutenant Sam Isaacs.",
+  "Lieu « Aérodrome de Dreux - Vernouillet » : L’aérodrome de Dreux - Vernouillet (code OACI : LFON) est un aérodrome ouvert à la circulation aérienne publique (CAP), situé sur les communes de Vernouillet et Garnay à 4 km au sud de Dreux en Eure-et-Loir (région Centre-Val de Loire, France).",
+  "Lieu « Aérodrome de Dreux - Vernouillet », 1986 : La démolition des deux pistes en béton sera terminée en 1986."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

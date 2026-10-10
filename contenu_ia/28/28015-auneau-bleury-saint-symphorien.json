@@ -1,0 +1,163 @@
+{
+ "commune": {
+  "titre": "Auneau",
+  "code_insee": "28015",
+  "departement": "28",
+  "population": 6419,
+  "lat": 48.4625,
+  "lon": 1.77361111,
+  "url": "https://fr.wikipedia.org/wiki/Auneau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:47:07",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1635,
+  "sortie": 1042
+ },
+ "cout_usd": 0.00163,
+ "accroche": "À Auneau, la tour-donjon dite « Tour d’Auneau » remonte à un premier château carolingien construit « vers 750 ».",
+ "histoire": {
+  "recit": "Auneau, ancienne commune d’Eure-et-Loir, est devenue le 1er janvier 2016 une commune déléguée au sein de la commune nouvelle d’Auneau-Bleury-Saint-Symphorien ; ses habitants sont les Alnélois. Son origine plonge loin : le berceau de la ville semble s’être fixé à Saint-Rémi, autour de l’église bâtie sur une fontaine présentée comme sacrée.\n\nSur l’éperon qui domine le bourg, la « Tour d’Auneau » garde la trace des temps anciens. Un premier château est posé sur le petit épi au temps carolingien, « vers 750 », puis la protection se renforce avec La Vieille Cour au VIIIe ou IXe siècle, chargée de veiller sur la route de Chartres. Plus tard, le donjon féodal est élevé vers 1090-1100 par Hugues Ier Le Riche de Gallardon. La tour, aujourd’hui encore, se lit en vestige : un donjon dont la couverture a été repensée au courant du XVIe siècle, avec coupole et lanternon.\n\nPlus bas, la « Gare d’Auneau-Ville » rappelle l’ère du rail : la gare cesse d’accueillir les voyageurs en 1940, et le trafic marchandises ne s’éteint qu’après des années de service persistant.",
+  "chronologie": [
+   {
+    "date": "vers 750",
+    "texte": "Sur le petit épi qui domine la ville d’Auneau, le premier château est construit à l’époque carolingienne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "VIIIe ou IXe siècle",
+    "texte": "Le premier château, appelé La Vieille Cour, est construit pour protéger la route de Chartres et les habitants.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "vers 1090-1100",
+    "texte": "Le donjon féodal est élevé par Hugues Ier Le Riche de Gallardon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe, XVIe et XVIIIe siècles (pour le corps de logis) ; XIe siècle (pour le donjon)",
+    "texte": "La Tour d’Auneau se compose de deux parties : le corps de logis, et le donjon de forme cylindrique.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "courant XVIe siècle",
+    "texte": "Il reste le donjon, couvert d’une coupole et d’un lanternon.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "Auneau devient commune déléguée au sein de la commune nouvelle d’Auneau-Bleury-Saint-Symphorien.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1er août 1940",
+    "texte": "La gare d’Auneau-Ville est fermée au trafic voyageurs.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1942",
+    "texte": "La gare d’Auneau-Ville ferme aussi au trafic marchandises.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "jusqu’en juillet 1971",
+    "texte": "Un trafic marchandises subsiste encore sur la section Beaulieu-le-Coudray - Auneau-Ville jusqu’en juillet 1971.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Tour d'Auneau",
+   "histoire": "Donjon lié à l’éperon qui domine Auneau : un premier château apparaît vers 750, puis La Vieille Cour protège la route de Chartres, avant l’élévation du donjon féodal vers 1090-1100 ; aujourd’hui, il reste le donjon, avec couverture en coupole et lanternon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S2",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.4626,
+   "lon": 1.7779,
+   "url": "https://fr.wikipedia.org/wiki/Tour_d%27Auneau"
+  },
+  {
+   "nom": "Auneau-Bleury-Saint-Symphorien",
+   "histoire": "Commune nouvelle créée le 1er janvier 2016 par la fusion d’Auneau et de Bleury-Saint-Symphorien, dans le département d’Eure-et-Loir.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8"
+   ],
+   "lat": 48.4625,
+   "lon": 1.77361111111,
+   "url": "https://fr.wikipedia.org/wiki/Auneau-Bleury-Saint-Symphorien"
+  },
+  {
+   "nom": "Gare d'Auneau-Ville",
+   "histoire": "Ancienne gare des lignes d’Auneau-Ville à Dreux et de Beaulieu-le-Coudray à Auneau-Embranchement : fermée au trafic voyageurs le 1er août 1940 et au trafic marchandises en 1942 ; un trafic marchandises subsiste ensuite jusqu’en juillet 1971 sur la section Beaulieu-le-Coudray - Auneau-Ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.45944,
+   "lon": 1.769199,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Auneau-Ville"
+  }
+ ],
+ "sources": [
+  "Auneau est une ancienne commune française située dans le département d'Eure-et-Loir en région Centre-Val de Loire, devenue le 1er janvier 2016 une commune déléguée au sein de la commune nouvelle d'Auneau-Bleury-Saint-Symphorien. Les habitants d'Auneau sont les Alnélois.",
+  "L'origine de la ville remonte avec certitude au Moyen Âge mais son emplacement pourrait avoir été occupé dès l'époque romaine et gauloise. Le berceau de la ville semble avoir été localisé à Saint-Rémi où s'élève l'église bâtie sur la fontaine sacrée des druides, un peu au nord-ouest du centre actuel. Le donjon féodal est élevé vers 1090-1100 par Hugues Ier Le Riche de Gallardon (ci-dessous), qui construit le […]",
+  "Lieu « Tour d'Auneau » : La tour d'Auneau est un donjon situé dans la commune d'Auneau-Bleury-Saint-Symphorien du département français d’Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Tour d'Auneau », 750 : À l'époque carolingienne, vers 750, le premier château est construit sur le petit épi qui domine la ville d'Auneau.",
+  "Lieu « Tour d'Auneau », IXe siècle : Le premier château appelé La Vieille Cour fut construit au VIIIe ou IXe siècle pour protéger la route de Chartres et les habitants de la commune.",
+  "Lieu « Tour d'Auneau », XVIIIe siècle : Aujourd'hui, il se compose de deux parties : le corps de logis édifié aux XIVe, XVIe et XVIIIe siècles et le Donjon, ou Tour de forme cylindrique édifié au XIe siècle.",
+  "Lieu « Tour d'Auneau », aujourd'hui : De cette époque, il reste le donjon, couvert courant XVIe siècle d'une coupole et d'un lanternon.",
+  "Lieu « Auneau-Bleury-Saint-Symphorien » : Auneau-Bleury-Saint-Symphorien est une commune nouvelle française créée le 1er janvier 2016, issue de la fusion des communes d'Auneau et de Bleury-Saint-Symphorien, situées dans le département d’Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Auneau-Bleury-Saint-Symphorien », 1927 : La tour, un donjon du XIe siècle accompagné de bâtiments des XIVe siècle et XVe siècle, est inscrite en 1927.",
+  "Lieu « Auneau-Bleury-Saint-Symphorien », 1967 : L’église Saint-Rémy, édifice roman à façade à modillons sculptés et décor peint au XIXe siècle, est inscrite en 1967.",
+  "Lieu « Auneau-Bleury-Saint-Symphorien », 2019 : Sur les 1 894 bâtiments dénombrés sur la commune en 2019, 1617 sont en aléa moyen ou fort, soit 85 %, à comparer aux 70 % au niveau départemental et 54 % au niveau national.",
+  "Lieu « Gare d'Auneau-Ville » : La gare d'Auneau-Ville est une ancienne gare ferroviaire des lignes d'Auneau-Ville à Dreux et de Beaulieu-le-Coudray à Auneau-Embranchement.",
+  "Lieu « Gare d'Auneau-Ville », 1940 : Elle est fermée au trafic voyageurs le 1er août 1940 et au trafic marchandises en 1942.",
+  "Lieu « Gare d'Auneau-Ville », aujourd'hui : Un trafic marchandises subsistera sur la section Beaulieu-le-Coudray - Auneau-Ville jusqu'en juillet 1971."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 0
+ }
+}

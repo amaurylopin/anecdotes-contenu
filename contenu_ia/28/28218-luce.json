@@ -1,0 +1,101 @@
+{
+ "commune": {
+  "titre": "Lucé (Eure-et-Loir)",
+  "code_insee": "28218",
+  "departement": "28",
+  "population": 15921,
+  "lat": 48.43888889,
+  "lon": 1.46583333,
+  "url": "https://fr.wikipedia.org/wiki/Luc%C3%A9_%28Eure-et-Loir%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:23:26",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1183,
+  "sortie": 562
+ },
+ "cout_usd": 0.000939,
+ "accroche": "À Lucé, l’éclairage du stade Jean-Boudrie est inauguré en mai 1973 avec un match de gala entre anciens de l’Amicale et ceux du Stade de Reims.",
+ "histoire": {
+  "recit": "Lucé, commune urbaine de la banlieue ouest de Chartres, compte 15 921 habitants en 2023 et a connu une forte hausse de population depuis 1962. Son histoire administrative change à la fin du XVIIIe siècle : en 1791, la commune de Lucé est réunie à Mainvilliers. Les plans du cadastre napoléonien de Mainvilliers, établis en 1809, conservent alors la trace d’une section dite du Hameau de Lucé, avec l’église et les hameaux du Petit et du Grand Lucé. Puis, en 1836, la section cadastrale de Lucé est séparée et érigée en commune, par ordonnance royale du 4 mars 1836, sous Louis-Philippe.",
+  "chronologie": [
+   {
+    "date": "1791",
+    "texte": "La commune de Lucé est réunie à Mainvilliers par un décret de l’Assemblée nationale du 27 avril 1791.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1809",
+    "texte": "Les plans du cadastre napoléonien de Mainvilliers sont établis ; une section Q « dite du Hameau de Lucé » y figure, avec l’église de la paroisse et les hameaux du Petit et du Grand Lucé.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "4 mars 1836",
+    "texte": "La section cadastrale de Lucé est séparée et érigée en commune par ordonnance royale, sous Louis-Philippe.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "mai 1973",
+    "texte": "L’éclairage du stade Jean-Boudrie est inauguré en mai 1973 avec un match de gala entre anciens de l’Amicale et ceux du Stade de Reims.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade Jean-Boudrie",
+   "histoire": "Stade de football situé à Lucé, le stade Jean-Boudrie accueille l’Amicale de Lucé football depuis le milieu des années 1960.",
+   "anecdotes": [
+    {
+     "texte": "En mai 1973, l’éclairage du stade est inauguré à l’occasion d’un match de gala entre les anciens de l’Amicale et ceux du Stade de Reims.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 48.4421,
+   "lon": 1.45301,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Jean-Boudrie"
+  }
+ ],
+ "sources": [
+  "Lucé est une commune française de la banlieue ouest de Chartres, située dans le département d'Eure-et-Loir en région Centre-Val de Loire. La commune, qui compte plus de 15 000 habitants, est, par sa population, la troisième plus grande ville du département après Chartres et Dreux. Lucé est une commune urbaine qui compte 15 921 habitants en 2023, après avoir connu une forte hausse de la population depuis 1962. Elle […]",
+  "En 1791, la commune de Lucé est réunie à celle de Mainvilliers par le décret de l'Assemblée nationale du 27 avril 1791. Ainsi, les plans du cadastre napoléonien de Mainvilliers, établis en 1809, comporte une section Q « dite du Hameau de Lucé », mentionnant notamment l'église de cette paroisse et les hameaux du Petit et du Grand Lucé. En 1836, la section cadastrale de Lucé est séparée des autres sections de […]",
+  "1836 : En 1836, la section cadastrale de Lucé est séparée des autres sections de Mainvilliers et érigée en commune sous Louis-Philippe par l'ordonnance royale du 4 mars 1836.",
+  "Lieu « Stade Jean-Boudrie » : Le stade Jean-Boudrie est un stade de football situé à Lucé, en Eure-et-Loir.",
+  "Lieu « Stade Jean-Boudrie », 1960 : Inauguré au milieu des années 1960, il est depuis cette date le terrain de jeu de l'Amicale de Lucé football.",
+  "Lieu « Stade Jean-Boudrie », 1973 : L'éclairage est inauguré en mai 1973 avec un match de gala entre les anciens de l'Amicale et ceux du Stade de Reims."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIIe"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

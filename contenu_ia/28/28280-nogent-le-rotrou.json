@@ -1,0 +1,273 @@
+{
+ "commune": {
+  "titre": "Nogent-le-Rotrou",
+  "code_insee": "28280",
+  "departement": "28",
+  "population": 9292,
+  "lat": 48.3225,
+  "lon": 0.8225,
+  "url": "https://fr.wikipedia.org/wiki/Nogent-le-Rotrou"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:04:41",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2677,
+  "sortie": 1944
+ },
+ "cout_usd": 0.002965,
+ "accroche": "À Nogent-le-Rotrou, le donjon du Château Saint-Jean a été édifié dans les années 1040 par Rotrou II, l’un des plus anciens de ce type encore debout en France.",
+ "histoire": {
+  "recit": "Au cœur du Perche, Nogent-le-Rotrou s’est construite entre eaux de l’Huisne et des cours d’eau voisins, et autour de deux pôles puissants : un château fort et une abbaye. Le Château Saint-Jean marque l’entrée dans une histoire vraiment visible, avec un donjon élevé dans les années 1040, puis une attaque restée célèbre. Plus loin, l’abbaye Saint-Denis prend forme avec une charte de fondation qui décrit une basilique semblant achevée en 1031.\n\nLa vie religieuse et la vie civique se renouvellent ensuite : l’église Notre-Dame commence comme chapelle de l’Hôtel-Dieu en 1182 et changera de vocable, tandis que, bien plus tard, l’orgue de Notre-Dame est entièrement reconstruit et inauguré. Même les projets modernes laissent des traces d’échanges, comme la controverse autour du choix de l’emplacement de l’hôtel de la Caisse d’épargne.\n\nAujourd’hui, le château conserve l’épaisseur des temps : sur le site, les traces de fortification les plus anciennes remontent à l’Antiquité et à la période mérovingienne.",
+  "chronologie": [
+   {
+    "date": "années 1040",
+    "texte": "Rotrou II fait édifier le donjon actuel en pierre du Château Saint-Jean, parmi les plus anciens de ce type encore debout.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1428",
+    "texte": "Le château subit sa plus lourde attaque : le comte de Salisbury attaque avec de l’artillerie et détruit l’angle nord-est du donjon.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1031",
+    "texte": "La charte de fondation de l’abbaye Saint-Denis décrit une basilique semblant achevée en 1031.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1031",
+    "texte": "L’abbaye est fondée par Geoffroy Ier du Perche (mort en 1040), seigneur de Nogent aux alentours de l’an mil jusqu’à sa mort.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1182",
+    "texte": "L’église Notre-Dame de Nogent-le-Rotrou naît comme chapelle de l’Hôtel-Dieu, placée sous le vocable de Saint-Jacques avant de devenir église paroissiale après la Révolution.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1807",
+    "texte": "L’église mariale Notre-Dame de Nogent-le-Rotrou devient en 1807 le réfectoire de la caserne, avec des usages qui évoluent ensuite.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1983",
+    "texte": "L’orgue entièrement reconstruit de l’église Notre-Dame est inauguré en 1983 par Jean-Jacques Mounier.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château Saint-Jean de Nogent-le-Rotrou",
+   "histoire": "Ancien château fort sur la commune de Nogent-le-Rotrou, le Château Saint-Jean réunit un donjon et des éléments d’enceinte, avec une histoire marquée par des assauts et des classements au titre des monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "En 1428, le comte de Salisbury attaque avec de l’artillerie et détruit l’angle nord-est du donjon.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Le donjon actuel, édifié dans les années 1040, est présenté comme l’un des plus anciens de ce type encore debout en France.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les traces de fortification les plus anciennes sur le site remontent à l’Antiquité et à la période mérovingienne, avant que l’histoire du château commence véritablement peu avant l’avant-mil.",
+   "sources": [
+    "S6"
+   ],
+   "lat": 48.3143,
+   "lon": 0.8206,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Saint-Jean_de_Nogent-le-Rotrou"
+  },
+  {
+   "nom": "Abbaye Saint-Denis de Nogent-le-Rotrou",
+   "histoire": "Sur le territoire de Nogent-le-Rotrou, l’abbaye Saint-Denis est une ancienne abbaye de l’ordre de Saint-Benoît, fondée par Geoffroy Ier du Perche et liée au diocèse de Chartres.",
+   "anecdotes": [
+    {
+     "texte": "Au milieu du XIIe siècle, il ne reste que 27 moines dans ses murs, ce qui lui confère encore le titre de prieuré.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S9",
+    "S11"
+   ],
+   "lat": 48.316312,
+   "lon": 0.8154,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Denis_de_Nogent-le-Rotrou"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Nogent-le-Rotrou",
+   "histoire": "L’hôtel de la Caisse d’épargne est un bâtiment situé à Nogent-le-Rotrou, dont le conseil d’administration décide la construction pour mieux accueillir une clientèle devenue plus nombreuse.",
+   "anecdotes": [
+    {
+     "texte": "Le choix de l’emplacement de l’hôtel suscite une controverse et nourrit les échos du journal local Le Nogentais.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S15"
+   ],
+   "lat": 48.32309,
+   "lon": 0.82129,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Nogent-le-Rotrou"
+  },
+  {
+   "nom": "Église Notre-Dame de Nogent-le-Rotrou",
+   "histoire": "Église catholique dans le centre-ville, l’église Notre-Dame commence comme chapelle de l’Hôtel-Dieu en 1182 ; elle deviendra église paroissiale après la destruction en 1798 de l’église Notre-Dame des Marais dont elle prendra le nom, puis ses usages et son mobilier évoluent au fil du temps.",
+   "anecdotes": [
+    {
+     "texte": "L’orgue entièrement reconstruit de l’église a été inauguré en 1983 par Jean-Jacques Mounier.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Dans le chœur, une statue en pierre figurant une Vierge à l’Enfant de la fin du XVe siècle conserve des traces de polychromie.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 48.321041666667,
+   "lon": 0.82208333333333,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Nogent-le-Rotrou"
+  },
+  {
+   "nom": "Église Saint-Hilaire de Nogent-le-Rotrou",
+   "histoire": "L’église Saint-Hilaire remonte à une construction d’origine au XIe siècle, avec un chœur édifié au XIIIe siècle ; elle conserve des vitraux réalisés au XIXe siècle et un orgue d’environ 700 tuyaux.",
+   "anecdotes": [
+    {
+     "texte": "Les ateliers Lorin de Chartres réalisent et installent quatorze vitraux au XIXe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "Elle renferme un orgue d’environ 700 tuyaux datant de 1876, construit par le facteur d’orgues Georges Wenner.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.3243,
+   "lon": 0.812598,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Hilaire_de_Nogent-le-Rotrou"
+  },
+  {
+   "nom": "Gare de Nogent-le-Rotrou",
+   "histoire": "La gare de Nogent-le-Rotrou est une gare ferroviaire située sur le territoire de la commune, sur la ligne de Paris-Montparnasse à Brest, mise en service après l’ouverture de la voie vers Rennes et Chartres.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 48.325691,
+   "lon": 0.810188,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Nogent-le-Rotrou"
+  },
+  {
+   "nom": "Musée de Nogent-le-Rotrou",
+   "histoire": "Le musée municipal de Nogent-le-Rotrou présente ses collections dans les salles Renaissance du Château Saint-Jean, un espace décrit comme classé et inscrit monument historique.",
+   "anecdotes": [
+    {
+     "texte": "Dès 1862, le musée est constitué à partir des legs de M. Ferrières et de Mademoiselle Clara Filleul de Pétigny, avant d’être installé à l’hôtel de ville.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 48.314045,
+   "lon": 0.820152,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Nogent-le-Rotrou"
+  }
+ ],
+ "sources": [
+  "Nogent-le-Rotrou est une commune française située dans le département d'Eure-et-Loir en région Centre-Val de Loire, au cœur du parc naturel régional du Perche. Exposée à un climat océanique altéré, elle est drainée par l'Huisne, le bras de l'Huisne, la Berthe, la Jambette, la Rhône, l'Erre, le Val Roquet et deux petits cours d'eau. Incluse dans le parc naturel régional du Perche, la commune possède un patrimoine […]",
+  "Lieu « Château Saint-Jean de Nogent-le-Rotrou » : Le château Saint-Jean ou château des comtes du Perche est un ancien château fort situé sur la commune de Nogent-le-Rotrou dans la région naturelle du Perche et le département français d'Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Château Saint-Jean de Nogent-le-Rotrou », 1040 : Le donjon actuel en pierre est édifié dans les années 1040 par Rotrou II ce qui en fait l'un des plus anciens donjons de ce type encore debout en France.",
+  "Lieu « Château Saint-Jean de Nogent-le-Rotrou », 1428 : En 1428, le château subit la plus lourde attaque de son histoire : le comte de Salisbury attaque avec de l'artillerie et détruit l'angle nord-est du donjon.",
+  "Lieu « Château Saint-Jean de Nogent-le-Rotrou », 1948 : Par arrêté du 23 décembre 1948, le donjon, les tours, le châtelet, les murs d'enceinte, les cours intérieures, le bâtiment Louis XIII, les puits, les fossés sont inscrits à l'inventaire des monuments historiques.",
+  "Lieu « Château Saint-Jean de Nogent-le-Rotrou », aujourd'hui : Si les traces de fortification les plus anciennes sur le site remontent à l'Antiquité et à la période mérovingienne, c'est peu avant l'avant Mil que commence véritablement l'histoire du château de Nogent-le-Rotrou.",
+  "Lieu « Abbaye Saint-Denis de Nogent-le-Rotrou » : L'abbaye Saint-Denis de Nogent-le-Rotrou est une ancienne abbaye de l'ordre de Saint-Benoît sur le territoire de la commune française de Nogent-le-Rotrou, dans le département d'Eure-et-Loir, en région Centre-Val de Loire, dans le diocèse de Chartres.",
+  "Lieu « Abbaye Saint-Denis de Nogent-le-Rotrou », 1031 : La charte de fondation décrit la construction d'une basilique qui semble être achevée en 1031.",
+  "Lieu « Abbaye Saint-Denis de Nogent-le-Rotrou », 1040 : L'abbaye est fondée par Geoffroy Ier du Perche, mort en 1040, seigneur de Mortagne-au-Perche et de Nogent des alentours de l'an mil à sa mort et vicomte de Châteaudun sous le nom de Geoffroy II de 1004 à 1040.",
+  "Lieu « Abbaye Saint-Denis de Nogent-le-Rotrou », 1807 : C'est pendant ce siècle qu'est construite l'église mariale dite église Notre-Dame de Nogent-le-Rotrou, qui deviendra en 1807 le réfectoire de la caserne et, à l'étage, ses logements, puis en 1948 une salle d'étude et un économat.",
+  "Lieu « Abbaye Saint-Denis de Nogent-le-Rotrou », aujourd'hui : Dans le milieu du XIIe siècle, il ne reste que 27 moines dans ses murs, ce qui lui confère encore le titre de prieuré.",
+  "Lieu « Hôtel de la Caisse d'épargne de Nogent-le-Rotrou » : L'hôtel de la Caisse d'épargne est un bâtiment dans la première moitié du XXe siècle situé à Nogent-le-Rotrou, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Nogent-le-Rotrou », 1897 : En 1897, le conseil d'administration décide la construction d'un bâtiment dédié à l'institution afin notamment de mieux accueillir la clientèle devenue plus nombreuse et asseoir « sa respectabilité, sa visibilité et son ancrage dans la Ville ».",
+  "Lieu « Hôtel de la Caisse d'épargne de Nogent-le-Rotrou », XXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment dans la première moitié du XXe siècle situé à Nogent-le-Rotrou, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Nogent-le-Rotrou », aujourd'hui : Le choix de l'emplacement suscite une controverse et nourrit les échos du journal local Le Nogentais.",
+  "Lieu « Église Notre-Dame de Nogent-le-Rotrou » : L'église Notre-Dame de Nogent-le-Rotrou est une église catholique située dans le centre-ville de Nogent-le-Rotrou dans le département français d'Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Église Notre-Dame de Nogent-le-Rotrou », 1182 : À l'origine chapelle de l’Hôtel-Dieu, bâti en 1182, elle est alors placée sous le vocable de Saint-Jacques et ne devient église paroissiale qu'après la Révolution, après la destruction en 1798 de l'église Notre-Dame des Marais dont elle prendra le nom.",
+  "Lieu « Église Notre-Dame de Nogent-le-Rotrou », 1983 : L'orgue entièrement reconstruit, a été inauguré en 1983 par Jean-Jacques Mounier.",
+  "Lieu « Église Notre-Dame de Nogent-le-Rotrou », aujourd'hui : Dans le chœur, trône une statue en pierre figurant une Vierge à l'Enfant de la fin du XVe siècle qui conserve des traces de polychromie.",
+  "Lieu « Église Saint-Hilaire de Nogent-le-Rotrou » : L'église Saint-Hilaire est une église catholique située dans la commune de Nogent-le-Rotrou, dans le département français d'Eure-et-Loir.",
+  "Lieu « Église Saint-Hilaire de Nogent-le-Rotrou », XIe siècle : La construction d'origine date du XIe siècle, le chœur ayant été édifié au XIIIe siècle.",
+  "Lieu « Église Saint-Hilaire de Nogent-le-Rotrou », 1866 : Au XIXe siècle, les ateliers Lorin de Chartres a réalisé et installé quatorze vitraux.Sont également présents des vitraux de Le Dien d'Argentan de 1866 et de Bernard Campin de Chartres de 1947.",
+  "Lieu « Église Saint-Hilaire de Nogent-le-Rotrou », 1876 : Il renferme un orgue d'environ 700 tuyaux qui date de 1876, construit par un facteur d’orgues bordelais, Georges Wenner.",
+  "Lieu « Gare de Nogent-le-Rotrou » : La gare de Nogent-le-Rotrou est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune de Nogent-le-Rotrou, dans le département d'Eure-et-Loir, en région Centre-Val de Loire.",
+  "Lieu « Gare de Nogent-le-Rotrou », 1857 : Elle est mise en service en mai 1857 avec l'ouverture de la voie entre la gare de Chartres et la gare de Rennes.",
+  "Lieu « Musée de Nogent-le-Rotrou » : Le musée municipal de Nogent-le-Rotrou (Eure-et-Loir) est présenté dans les salles Renaissance du château Saint-Jean, classé et inscrit monument historique.",
+  "Lieu « Musée de Nogent-le-Rotrou », 1862 : Quelques dates permettent de retracer un bref historique du musée : initialement constitué en 1862 à partir des legs de M. Ferrières et de Mademoiselle Clara Filleul de Pétigny, le musée est installé à l'hôtel de ville."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 8
+ }
+}
