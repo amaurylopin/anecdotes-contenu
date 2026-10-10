@@ -1,0 +1,225 @@
+{
+ "commune": {
+  "titre": "Saint-Rémy-de-Provence",
+  "code_insee": "13100",
+  "departement": "13",
+  "population": 9599,
+  "lat": 43.79,
+  "lon": 4.8325,
+  "url": "https://fr.wikipedia.org/wiki/Saint-R%C3%A9my-de-Provence"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:01:19",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2925,
+  "sortie": 1893
+ },
+ "cout_usd": 0.002951,
+ "accroche": "En 1874, Saint-Rémy-de-Provence se dote d’une gare grâce à l’ouverture d’une ligne de chemin de fer jusqu’à Tarascon, au service des voyageurs et des marchandises.",
+ "histoire": {
+  "recit": "À Saint-Rémy-de-Provence, le passé commence bien avant les rues : le territoire est habité depuis la Préhistoire, et des gravures rupestres ont été trouvées dans la grotte Otello, dite grotte ornée. Plus tard, Romanin rassemble des indices de station préhistorique.\n\nQuand viennent les grandes heures, la commune abrite aussi Glanum, cité antique de l’Empire romain, aujourd’hui site archéologique. On y voit des monuments attribués aux Salyens et un bouleutérion, lieu de rencontre à ciel ouvert pour les notables. Les fouilles, enfin, ont préparé la restitution du forum, achevée en 2008.\n\nAu cœur de la ville, le Monastère Saint-Paul-de-Mausole raconte d’autres histoires : un prieuré dédié à saint Paulus de Mausole est construit sur l’oratoire, puis un monastère de chanoines s’installe en 1080. Au fil des transformations, des moines franciscains y établissent en 1605 un asile d’aliénés, devenu hôpital psychiatrique.\n\nEt lorsque la modernité arrive, la gare ouverte en 1874 relie la commune à Tarascon, nourrissant l’activité économique.",
+  "chronologie": [
+   {
+    "date": "Préhistoire",
+    "texte": "Le territoire est habité depuis la Préhistoire, notamment attesté par des gravures rupestres dans la grotte Otello, dite grotte ornée.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1874",
+    "texte": "La ville se voit dotée d’une gare grâce à l’ouverture d’une ligne de chemin de fer jusqu’à Tarascon, pour les marchandises et les voyageurs.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "982",
+    "texte": "Un prieuré dédié à saint Paulus de Mausole est construit sur l’oratoire.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1080",
+    "texte": "Le lieu devient un monastère de chanoines soumis à la règle de saint Augustin.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1605",
+    "texte": "Des moines franciscains y établissent un asile d’aliénés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2008",
+    "texte": "Les dernières fouilles préparent la restitution du forum, achevée en 2008.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Monastère Saint-Paul-de-Mausole",
+   "histoire": "Monastère de style roman provençal, il s’organise à partir d’un prieuré dédié à saint Paulus de Mausole sur l’oratoire, puis devient en 1080 un monastère de chanoines soumis à la règle de saint Augustin. En 1605, il accueille un asile d’aliénés, transformé ensuite en hôpital psychiatrique.",
+   "anecdotes": [
+    {
+     "texte": "Son nom serait lié à la proximité du mausolée de Glanum, formant avec l’arc de triomphe un ensemble que l’on appelle traditionnellement les « Antiques de Saint-Rémy-de-Provence ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le monastère est aujourd’hui associé, dans son nom, aux vestiges de l’ancienne cité gallo-romaine de Glanum appelés traditionnellement « Antiques de Saint-Rémy-de-Provence ».",
+   "sources": [
+    "S8"
+   ],
+   "lat": 43.776668,
+   "lon": 4.835159,
+   "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_Saint-Paul-de-Mausole"
+  },
+  {
+   "nom": "Glanum",
+   "histoire": "Glanum est une cité antique de l’Empire romain, aujourd’hui un site archéologique sur le territoire de Saint-Rémy-de-Provence. Les premiers monuments, construits par les Salyens à la fin du Ier siècle avant notre ère et au début du IIe siècle avant notre ère, portent une forte influence du style hellénique de Marseille. Un bouleutérion à ciel ouvert accueillait les notables.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Glanum est un site archéologique sur la commune de Saint-Rémy-de-Provence.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 43.773805,
+   "lon": 4.832761,
+   "url": "https://fr.wikipedia.org/wiki/Glanum"
+  },
+  {
+   "nom": "Domaine de Lagoy",
+   "histoire": "Le domaine de Lagoy voit naître, à la fin du XVIIe siècle, un projet de nouveau château commandé en 1685 mais non exécuté. En 1702, la terre est érigée en marquisat ; un moulin est construit entre 1705 et 1707 près d’un pigeonnier de 1633.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.794214,
+   "lon": 4.84658,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_de_Lagoy"
+  },
+  {
+   "nom": "Barrage de Glanum",
+   "histoire": "À Glanum, un barrage antique régulait l’eau d’un gaudre et servait à alimenter en eau les habitants ainsi que l’aqueduc du même nom, pour irriguer les cultures du vallon d’Auge dans les Alpilles. Il est détruit en 1891 lors de la construction d’un ouvrage moderne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il s’agit aujourd’hui d’un ancien barrage antique situé à Glanum, sur la commune de Saint-Rémy-de-Provence.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 43.771306,
+   "lon": 4.828917,
+   "url": "https://fr.wikipedia.org/wiki/Barrage_de_Glanum"
+  },
+  {
+   "nom": "Cimetière juif de Saint-Rémy-de-Provence",
+   "histoire": "Cimetière destiné à la communauté juive de Saint-Rémy-de-Provence, principalement aux XVe et au XIXe siècles. Le mur d’enceinte est pris en charge pour un tiers par la municipalité et érigé en 1847.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y trouve aujourd’hui une soixantaine de tombes, dont la plus ancienne indiquée, celle de Liote Millaud, datée de 1821.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 43.7794,
+   "lon": 4.82889,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_juif_de_Saint-R%C3%A9my-de-Provence"
+  },
+  {
+   "nom": "Hôtel de Sade de Saint-Rémy-de-Provence",
+   "histoire": "Hôtel particulier bâti en 1513 par Balthazar de Sade, ancêtre du marquis de Sade. L’édifice est lié à un musée archéologique et conserve des vestiges de thermes gallo-romains ainsi que des ruines de la chapelle des pénitents noirs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il abrite un musée archéologique lié à Glanum, avec des vestiges de thermes gallo-romains et des ruines de la chapelle des pénitents noirs.",
+   "sources": [
+    "S26"
+   ],
+   "lat": 43.789523,
+   "lon": 4.830889,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Sade_de_Saint-R%C3%A9my-de-Provence"
+  },
+  {
+   "nom": "Mont Gaussier",
+   "histoire": "Le mont Gaussier a été utilisé comme habitat par des populations protohistoriques. Plus tard, seuls le pied et le sommet étaient occupés dans les siècles suivants, selon une étude citée par la source. Un château médiéval a existé au sommet, aujourd’hui disparu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "C’est aujourd’hui un lieu de passage pour de nombreux randonneurs, parcouru par le GR6.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 43.76667,
+   "lon": 4.83694,
+   "url": "https://fr.wikipedia.org/wiki/Mont_Gaussier"
+  },
+  {
+   "nom": "Collégiale Saint-Martin de Saint-Rémy-de-Provence",
+   "histoire": "Ancienne collégiale de Saint-Rémy-de-Provence. Son orgue, installé en 1923, a été entièrement reconstruit par le facteur d’orgues Pascal Quoirin en 1983 et donne lieu chaque année à de nombreux concerts.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice est classé au titre des monuments historiques depuis 1984 et l’orgue est au cœur d’un festival de concerts.",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 43.788702,
+   "lon": 4.83054,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Martin_de_Saint-R%C3%A9my-de-Provence"
+  }
+ ],
+ "sources": [
+  "Saint-Rémy-de-Provence (Sant Roumié de Prouvènço en écriture Provençal ; Sant Romieg (de Provença) en écriture classique ; Sant Romiech en ancien provençal ; du latin Villa Sancti Remigii) est une commune française du département des Bouches-du-Rhône. Située dans la région Provence-Alpes-Côte d'Azur, Saint-Rémy-de-Provence est la petite capitale des Alpilles. À la suite du décret du 30 janvier 2007, son territoire […]",
+  "Le territoire de Saint-Rémy est habité depuis la Préhistoire, en témoignent les gravures rupestres trouvées dans la grotte Otello que les archéologues qualifient de « grotte ornée ». Les peintures remontent au Néolithique final et à l'âge du bronze. Elles consistent en signes anthropomorphes et géométriques. Le site de Romanin est contemporain de celui de la grotte. Il constitue une station préhistorique sur […]",
+  "1874 : En 1874, la ville se voit dotée d'une gare, grâce à l'ouverture d'une ligne de chemin de fer jusqu'à Tarascon, sur laquelle circuleront marchandises et voyageurs, contribuant à la prospérité économique.",
+  "Lieu « Monastère Saint-Paul-de-Mausole » : Le monastère Saint-Paul-de-Mausole est un monastère de style roman provençal du XIe siècle situé à Saint-Rémy-de-Provence en Provence dans le département français des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Monastère Saint-Paul-de-Mausole », 1080 : Un prieuré dédié à saint Paulus de Mausole est construit sur l'oratoire en 982, dépendant de l'abbaye Saint-André de Villeneuve-lès-Avignon, puis, en 1080, un monastère de chanoines soumis à la règle de saint Augustin.",
+  "Lieu « Monastère Saint-Paul-de-Mausole », 1605 : Des moines franciscains y établissent en 1605 un asile d'aliénés, transformé en hôpital psychiatrique à la Révolution française, connu sous le nom de « Maison de Santé de Saint-Paul-de-Mausole ».",
+  "Lieu « Monastère Saint-Paul-de-Mausole », XIXe siècle : Plusieurs fois modifié et amélioré durant son histoire, le monastère est reconstruit aux XVIIe et XIXe siècles.",
+  "Lieu « Monastère Saint-Paul-de-Mausole », aujourd'hui : Le monastère doit son nom à la proximité du mausolée de Glanum, qui forme avec l'arc de triomphe de Glanum un ensemble de vestiges de l'ancienne cité gallo-romaine de Glanum que l'on appelle traditionnellement les « Antiques de Saint-Rémy-de-Provence », au pied du massif des Alpilles, au sud de Saint-Rémy-de-Provence, à 30 km au sud d'Avignon, et 30 km au […]",
+  "Lieu « Glanum » : Glanum est une cité antique de l'Empire romain, aujourd'hui un site archéologique situé sur le territoire de la commune de Saint-Rémy-de-Provence, dans les Bouches-du-Rhône.",
+  "Lieu « Glanum », Ier siècle : Les premiers monuments, construits par les Salyens à la fin du Ier siècle av. J.-C. et au début du IIe siècle av. J.-C., ont été fortement influencés par le style hellénique de la colonie grecque voisine de Marseille.",
+  "Lieu « Glanum », Ier siècle : Le bouleutérion (IIe – Ier siècles av. J.-C.) était un lieu de rencontre à ciel ouvert pour les notables, construit dans le style hellénique, avec un espace ouvert avec un autel au centre entouré de rangées de sièges en escalier sur trois côtés.",
+  "Lieu « Glanum », 2008 : Les dernières fouilles étaient préparatoires à la restitution du forum, achevée en 2008.",
+  "Lieu « Glanum », aujourd'hui : Glanum est une cité antique de l'Empire romain, aujourd'hui un site archéologique situé sur le territoire de la commune de Saint-Rémy-de-Provence, dans les Bouches-du-Rhône.",
+  "Lieu « Domaine de Lagoy » : Le domaine de Lagoy est un domaine situé à Saint-Rémy-de-Provence, dans les Bouches-du-Rhône en France.",
+  "Lieu « Domaine de Lagoy », 1685 : En 1685, Jean de Meyran commande aux maçons Jean Chanterel, Claude Michel, Jean Brun et Gabriel Cabbasud la construction d'un nouveau château, mais ce projet n'est pas exécuté.",
+  "Lieu « Domaine de Lagoy », 1702 : En 1702, Jean de Meyran obtient que sa terre soit érigée en marquisat.",
+  "Lieu « Domaine de Lagoy », 1705 : Un moulin est construit entre 1705 et 1707 près du pigeonnier construit en 1633.",
+  "Lieu « Barrage de Glanum » : Le barrage de Glanum est un ancien barrage antique situé à Glanum, cité de l'empire romain, aujourd'hui sur la commune de Saint-Rémy-de-Provence, département des Bouches-du-Rhône en France.",
+  "Lieu « Barrage de Glanum », 1891 : Détruit lors de la construction d'un ouvrage moderne en 1891 (le barrage des Peiròu), ce barrage qui régulait l'eau d'un gaudre, servait à alimenter en eau les habitants mais aussi l'aqueduc du même nom servant à irriguer les cultures du vallon d'Auge dans les Alpilles.",
+  "Lieu « Barrage de Glanum », aujourd'hui : Le barrage de Glanum est un ancien barrage antique situé à Glanum, cité de l'empire romain, aujourd'hui sur la commune de Saint-Rémy-de-Provence, département des Bouches-du-Rhône en France.",
+  "Lieu « Cimetière juif de Saint-Rémy-de-Provence » : Le cimetière juif de Saint-Rémy-de-Provence est un champ mortuaire destiné à la communauté juive de Saint-Rémy-de-Provence (Bouches-du-Rhône), principalement aux XVe et au XIXe siècles.",
+  "Lieu « Cimetière juif de Saint-Rémy-de-Provence », 1847 : Le mur d'enceinte est pris en charge pour un tiers (400 francs) par la municipalité et érigé en 1847.",
+  "Lieu « Cimetière juif de Saint-Rémy-de-Provence », aujourd'hui : On trouve aujourd'hui une soixantaine de tombes, dont la plus ancienne, celle de Liote Millaud, née à L'Isle-sur-la-Sorgue et habitante d'Eyragues, est datée de 1821.",
+  "Lieu « Hôtel de Sade de Saint-Rémy-de-Provence » : L'hôtel de Sade est un hôtel particulier du XVIe siècle situé à Saint-Rémy-de-Provence (Bouches-du-Rhône).",
+  "Lieu « Hôtel de Sade de Saint-Rémy-de-Provence », 1513 : L'hôtel particulier a été bâti en 1513 par Balthazar de Sade, ancêtre du marquis de Sade.",
+  "Lieu « Hôtel de Sade de Saint-Rémy-de-Provence », aujourd'hui : Il abrite un musée archéologique, lié au site archéologique de Glanum, ainsi que les vestiges de thermes gallo-romains et les ruines de la chapelle des pénitents noirs.",
+  "Lieu « Mont Gaussier » : Le mont Gaussier est un sommet des Alpilles situé dans la commune de Saint-Rémy-de-Provence, au sud de la ville.",
+  "Lieu « Mont Gaussier », VIe siècle : Si, selon l'archéologue Henri Rolland, quelques familles ont occupé le défilé des Alpilles, sur les pentes du mont Gaussier, entre le premier Âge du Fer et la fin de l'Antiquité, mais aussi au Haut-Moyen Âge, seuls le pied et le sommet du mont étaient occupés dans les siècles suivants, notamment au Ve et VIe siècles.",
+  "Lieu « Mont Gaussier », aujourd'hui : Aujourd'hui, lieu de passage de nombreux randonneurs qui le parcourent par le GR6, le mont Gaussier a été très tôt utilisé comme habitat par des populations protohistoriques, avant de voir à son sommet un château médiéval, aujourd'hui disparu.",
+  "Lieu « Collégiale Saint-Martin de Saint-Rémy-de-Provence » : La collégiale Saint-Martin de Saint-Rémy-de-Provence est une ancienne collégiale située à Saint-Rémy-de-Provence (Bouches-du-Rhône).",
+  "Lieu « Collégiale Saint-Martin de Saint-Rémy-de-Provence », 1923 : L'orgue, installé en 1923,sur lequel sont donnés chaque année de nombreux concerts (festival ORGANA), a été entièrement reconstruit par le facteur d'orgues Pascal Quoirin en 1983.",
+  "Lieu « Collégiale Saint-Martin de Saint-Rémy-de-Provence », 1984 : L'édifice est classé au titre des monuments historiques depuis 1984."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

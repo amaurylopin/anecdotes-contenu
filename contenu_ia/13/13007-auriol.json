@@ -1,0 +1,75 @@
+{
+ "commune": {
+  "titre": "Auriol (Bouches-du-Rhône)",
+  "code_insee": "13007",
+  "departement": "13",
+  "population": 13037,
+  "lat": 43.36805556,
+  "lon": 5.63611111,
+  "url": "https://fr.wikipedia.org/wiki/Auriol_%28Bouches-du-Rh%C3%B4ne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:03",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1078,
+  "sortie": 699
+ },
+ "cout_usd": 0.001089,
+ "accroche": "Auriol est jumelée avec la commune italienne de Castelnuovo Rangone depuis le 11 décembre 2010. ",
+ "histoire": {
+  "recit": "Commune provençale des Bouches-du-Rhône, Auriol vit aussi au rythme des témoins laissés par les temps anciens. Dans la vallée du Vède, des grottes comme la grotte des Infernets et la grotte des Morts, ainsi que des abris dans les tufs de Pont-de-Joux, montrent des traces de sépultures préhistoriques et des objets attribués au Néolithique. Plus haut, des oppidums comme le Baou Redon et le Baou Rouge ont fait l’objet d’études.\n\nAu fil des années, la commune a aussi connu l’épreuve des épidémies : en 1576, elle est ravagée par la peste, jusqu’en 1584. Aujourd’hui, l’histoire d’Auriol continue de se raconter dans le paysage, jusque sur les reliefs de Regagnas.\n\n",
+  "chronologie": [
+   {
+    "date": "11 décembre 2010",
+    "texte": "Auriol devient jumelée avec la commune italienne de Castelnuovo Rangone.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1576",
+    "texte": "Auriol est ravagée par la peste, de 1576 à 1584.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Montagne de Regagnas",
+   "histoire": "La montagne de Regagnas est un relief de l’est des Bouches-du-Rhône, en partie à l’ouest du Var, long d’environ 6 km.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Côté varois, quelques traces d’un incendie subsistent.",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 43.4,
+   "lon": 5.67083,
+   "url": "https://fr.wikipedia.org/wiki/Montagne_de_Regagnas"
+  }
+ ],
+ "sources": [
+  "Auriol est une commune provençale située dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Elle est jumelée depuis le 11 décembre 2010 avec la commune italienne de Castelnuovo Rangone.",
+  "De nombreuses grottes (grotte des Infernets, grotte des Morts) dans la vallée du Vède et les abris dans les tufs de Pont-de-Joux, présentent des traces de sépultures préhistoriques, haches du Néolithique, crânes etc.[réf. nécessaire]. Les Ligures sont absorbés par les Celtes (Celto-ligures). De nombreux oppidums, dont l'oppidum du Baou Redon et l'oppidum du Baou Rouge, sont étudiés. Les Phocéens s'installent à […]",
+  "1576 : Auriol est ravagé par la peste de 1576 à 1584.",
+  "Lieu « Montagne de Regagnas » : La montagne de Regagnas est un relief de l'est des Bouches-du-Rhône et en partie à l'ouest du Var, d'une longueur de 6 km.",
+  "Lieu « Montagne de Regagnas », aujourd'hui : Côté varois, quelques traces d'un incendie subsistent."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

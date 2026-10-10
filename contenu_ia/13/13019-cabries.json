@@ -1,0 +1,281 @@
+{
+ "commune": {
+  "titre": "Cabriès",
+  "code_insee": "13019",
+  "departement": "13",
+  "population": 10240,
+  "lat": 43.44194444,
+  "lon": 5.38027778,
+  "url": "https://fr.wikipedia.org/wiki/Cabri%C3%A8s"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:56:10",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2425,
+  "sortie": 1828
+ },
+ "cout_usd": 0.00277,
+ "accroche": "Le 1 mars 2009, à Plan de Campagne, l’ouverture du magasin Fiesta Compagnie est aussitôt suivie par la fête, rapporte la tradition locale du lieu.",
+ "histoire": {
+  "recit": "Cabriès, en provençal Cabriés, est une commune des Bouches-du-Rhône qui regroupe aussi le village de Calas. Sur ses collines, les traces de l’occupation humaine remontent au néolithique : entre -3200 et -2500, Plan de campagne et les alentours livrent des indices d’un peuplement lié à la culture couronnienne.\n\nPlus près des usages d’aujourd’hui, Plan de Campagne naît comme zone commerciale en 1966 sur les territoires des Pennes-Mirabeau et de Cabriès. Le 1 mars 2009, c’est Fiesta Compagnie qui ouvre, aussitôt dit, aussitôt fête ; en 2016, un incendie se déclare dans une station de lavage auto. En 2024, la zone compte 518 commerces occupés, dont un hypermarché Intermarché et un hypermarché Leclerc.\n\nÀ Calas, la chapelle romane Notre-Dame-de-la-Salette, sur la colline de Trébillane, est donnée comme l’un des plus anciens monuments : on y mentionne encore, à cet emplacement exact, une cuve baptismale ancienne en pierre creusée. L’église Sainte-Marie-de-la-Nativité de Cabriès, elle, est un édifice roman : ses vitraux modernes datent de 1955 et l’ensemble est inscrit au titre des monuments historiques le 3 octobre 2012.",
+  "chronologie": [
+   {
+    "date": "-3200 à -2500",
+    "texte": "Des fouilles sur les collines voisines établissent un peuplement relevant de la culture couronnienne autour du site du Baou-Roux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "Plan de Campagne est créée comme zone commerciale sur le territoire des communes des Pennes-Mirabeau et de Cabriès, par Émile Barneoud.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1 mars 2009",
+    "texte": "À Plan de Campagne, ouverture du magasin Fiesta Compagnie ; aussitôt dit, aussitôt fête.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "À Plan de Campagne, un incendie se produit dans une station de lavage auto.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1955",
+    "texte": "Des vitraux modernes non figuratifs sont exécutés et posés à l’église Sainte-Marie-de-la-Nativité.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "3 octobre 2012",
+    "texte": "L’église Sainte-Marie-de-la-Nativité est inscrite comme monument historique.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2024",
+    "texte": "La zone commerciale de Plan de Campagne dispose de 518 commerces occupés.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Plan de Campagne",
+   "histoire": "Plan de Campagne est une zone commerciale créée en 1966 sur le territoire des communes des Pennes-Mirabeau et de Cabriès.",
+   "anecdotes": [
+    {
+     "texte": "Lors de l’ouverture de Fiesta Compagnie, le 1 mars 2009, la fête est annoncée comme immédiate : aussitôt dit, aussitôt fête.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Le 1er janvier 2016, un incendie se déclare dans une station de lavage auto.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "En 2024, la zone commerciale compte 518 commerces occupés, avec notamment un hypermarché Intermarché et un hypermarché Leclerc.",
+   "sources": [
+    "S6"
+   ],
+   "lat": 43.417642,
+   "lon": 5.360684,
+   "url": "https://fr.wikipedia.org/wiki/Plan_de_Campagne"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-de-la-Salette de Calas",
+   "histoire": "Chapelle romane au sommet de la colline de Trébillane, à Calas, petit village de Cabriès.",
+   "anecdotes": [
+    {
+     "texte": "La chapelle serait datée du Ve siècle et serait le plus ancien monument de la commune de Cabriès.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À l’emplacement exact, on peut voir une cuve baptismale très ancienne en pierre creusée.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 43.4603139,
+   "lon": 5.3546417,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-de-la-Salette_de_Calas"
+  },
+  {
+   "nom": "Église Sainte-Marie-de-la-Nativité de Cabriès",
+   "histoire": "Église de style roman sur le territoire de Cabriès.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y distingue des vitraux modernes exécutés en 1955, et l’édifice est inscrit comme monument historique depuis le 3 octobre 2012.",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 43.4409333,
+   "lon": 5.37875,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Marie-de-la-Nativit%C3%A9_de_Cabri%C3%A8s"
+  },
+  {
+   "nom": "Château de Calas",
+   "histoire": "Château de Calas, village dépendant de la commune de Cabriès, transformé en pavillon de chasse au XVIIIe siècle puis agrandi au XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Au XVIIIe siècle, il prend sa forme actuelle après une transformation en pavillon de chasse ; les grands travaux sont menés notamment par Louis Balthazar Dauphin et Louise Garavaque.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 43.4606222,
+   "lon": 5.3517944,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Calas"
+  },
+  {
+   "nom": "Calas (Bouches-du-Rhône)",
+   "histoire": "Calas est un village situé sur la commune de Cabriès, dans le canton de Vitrolles.",
+   "anecdotes": [
+    {
+     "texte": "Le poste émetteur des Saintes-Maries-de-la-Mer, installé en 1908, cesse son activité en 1928.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "La route menant au centre d’enfouissement est bordée des restes de dalles de béton ayant supporté des baraquements en bois au milieu du camp de tentes.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le long de la route vers le centre d’enfouissement, on peut voir des restes de dalles de béton liées à l’ancien camp de tentes.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 43.460056,
+   "lon": 5.35325,
+   "url": "https://fr.wikipedia.org/wiki/Calas_%28Bouches-du-Rh%C3%B4ne%29"
+  },
+  {
+   "nom": "Château de Trébillane",
+   "histoire": "Le château de Trébillane, aussi appelé Bastide de Trébillane, est un château situé à Calas.",
+   "anecdotes": [
+    {
+     "texte": "Bâti au XIIe siècle, il devient ensuite, à partir du XIIIe siècle, un important domaine agricole.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 43.462512,
+   "lon": 5.359261,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Tr%C3%A9billane"
+  },
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption de Calas",
+   "histoire": "Église de style roman à Calas, bâtie de 1866 à 1869 par monsieur Huot, sous l’administration de monsieur Guitton et sous l’impulsion de madame Louise Garavaque.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 43.4600139,
+   "lon": 5.3529611,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_de_Calas"
+  },
+  {
+   "nom": "Château de Cabriès",
+   "histoire": "Château situé sur le territoire de la commune de Cabriès.",
+   "anecdotes": [
+    {
+     "texte": "En 1934, le peintre Edgar Mélik achète l’aile nord du château, peint sur la plupart des murs et construit un atelier avec vue sur le massif de Sainte-Victoire.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 43.44115,
+   "lon": 5.3789778,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cabri%C3%A8s"
+  }
+ ],
+ "sources": [
+  "Cabriès [kabʁijɛs] (Cabriés en provençal) est une commune française, située dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur. Le nom des habitants de Cabriès n’a jamais été officialisé bien que les recherches tendent plutôt vers le gentilé Cabries(s)iens. La commune de Cabriès regroupe aussi le village de Calas.",
+  "La région est riche en traces d'occupations au néolithique : les collines voisines portent les traces de nombreux oppida et celui du Baou-Roux (Commune de Bouc Bel Air) protège le sud du territoire à moins de deux kilomètres. Occupé il y a déjà 6 000 ans, des fouilles y ont établi un peuplement relevant de la culture couronnienne, entre -3200 et -2500. Plan de campagne recèle plusieurs abris ayant livré des objets […]",
+  "Lieu « Plan de Campagne » : Plan de Campagne ou le Plan de Campagne est une zone commerciale créée en 1966 sur le territoire des communes des Pennes-Mirabeau et de Cabriès par Émile Barneoud.",
+  "Lieu « Plan de Campagne », 2009 : Le 1 mars 2009, ouverture du magasin Fiesta Compagnie, Aussitôt dit, aussitôt fête.",
+  "Lieu « Plan de Campagne », 2016 : Le 1er janvier 2016, un incendie se produit dans une station de lavage auto.",
+  "Lieu « Plan de Campagne », 2024 : En 2024, la zone commerciale dispose de 518 commerces occupés dont : un hypermarché Intermarché (le plus grand de France en termes de superficie (14 101 m2) un hypermarché Leclerc un supermarché Lidl un supermarché Aldi 1 parapharmacie",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Calas » : La chapelle Notre-Dame-de-la-Salette est une chapelle romane située au sommet de la colline de Trébillane à Calas, petit village de Cabriès dans le département des Bouches-du-Rhône.",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Calas », Ve siècle : Petite chapelle perché sur la colline de Trébillane à Calas, cet édifice daterait du Ve siècle, ce serait le plus ancien monument de la commune de Cabriès.",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Calas », 1869 : Elle a servi de paroisse aux habitants de l'ancien village de Calas jusqu'en 1869, date à laquelle fut bâtie la nouvelle église de Calas, par les soins de Mademoiselle Garavaque.",
+  "Lieu « Chapelle Notre-Dame-de-la-Salette de Calas », aujourd'hui : On peut voir à cet emplacement exact une cuve baptismale très ancienne en pierre creusée.",
+  "Lieu « Église Sainte-Marie-de-la-Nativité de Cabriès » : L'église Sainte-Marie-de-la-Nativité, est une église de style roman située sur la commune de Cabriès dans le département des Bouches-du-Rhône en France.",
+  "Lieu « Église Sainte-Marie-de-la-Nativité de Cabriès », 1955 : Les vitraux modernes 1955, non figuratifs, en verre antique soufflé dans la masse, ont été exécutés par le peintre J. Riousse, posés par le maçon G.Feraud.",
+  "Lieu « Église Sainte-Marie-de-la-Nativité de Cabriès », 2012 : L’édifice est inscrit en tant que monument historique depuis le 3 octobre 2012.",
+  "Lieu « Château de Calas » : Le château de Calas est un château situé à Calas, village dépendant de la commune de Cabriès, dans département des Bouches-du-Rhône, et la région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Château de Calas », XVIIIe siècle : Il a été ensuite transformé en pavillon de chasse, pour prendre sa forme actuelle au XVIIIe siècle et être agrandi au XIXe siècle par ses propriétaires de l'époque, notamment Louis Balthazar Dauphin et sa descendante Louise Garavaque, qui mena de front les grands travaux de construction de l'Église Notre-Dame-de-l'Assomption de Calas et de l'école du hameau.",
+  "Lieu « Château de Calas », aujourd'hui : C'était autrefois une bergerie dont il reste une salle voûtée au rez-de-chaussée.",
+  "Lieu « Calas (Bouches-du-Rhône) » : Calas est un village situé sur la commune française de Cabriès, dans le canton de Vitrolles.",
+  "Lieu « Calas (Bouches-du-Rhône) », 1908 : Installé en 1908, le poste émetteur des Saintes-Maries-de-la-Mer était trop éloigné et cessa son activité en 1928.",
+  "Lieu « Calas (Bouches-du-Rhône) », aujourd'hui : C'est déjà la route qui mène actuellement au centre d'enfouissement, bordée de part et d'autre par les restes des dalles de béton ayant supporté les baraquement en bois au milieu du camp de tentes, à l'époque avec terre-plein central.",
+  "Lieu « Château de Trébillane » : Le château de Trébillane ou Bastide de Trébillane est un château situé à Calas, village dépendant de la commune de Cabriès, dans le département des Bouches-du-Rhône et la région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Château de Trébillane », XIIe siècle : Trébillane est un bâtiment datant du XIIe siècle, qui fut initialement un château seigneurial et qui s’est transformé à partir du XIIIe siècle en important domaine agricole.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Calas » : L'église Notre-Dame-de-l'Assomption, est une église de style roman située à Calas, petit village de la commune de Cabriès dans le département des Bouches-du-Rhône en France.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Calas », 1866 : Elle a été bâtie de 1866 à 1869 par monsieur Huot, architecte, sous l'administration de monsieur Guitton, curé fondateur sous l'impulsion de madame Louise Garavaque bienfaitrice du hameau de Calas.",
+  "Lieu « Château de Cabriès » : Le château de Cabriès est situé sur le territoire de la commune française de Cabriès dans le département des Bouches-du-Rhône, et la région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Château de Cabriès », 1934 : En 1934, le peintre Edgar Mélik achète l'aile nord du château, il peint sur la plupart des murs (dont la chapelle du XVIIe siècle) et construit son atelier qui offre une vue imprenable sur le massif de Sainte-Victoire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}

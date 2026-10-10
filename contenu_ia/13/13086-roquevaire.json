@@ -1,0 +1,59 @@
+{
+ "commune": {
+  "titre": "Roquevaire",
+  "code_insee": "13086",
+  "departement": "13",
+  "population": 8915,
+  "lat": 43.35,
+  "lon": 5.60527778,
+  "url": "https://fr.wikipedia.org/wiki/Roquevaire"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:08:10",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 987,
+  "sortie": 480
+ },
+ "cout_usd": 0.000797,
+ "accroche": "Le 21 août 1944, Roquevaire est libérée à la suite du débarquement de Provence.",
+ "histoire": {
+  "recit": "Roquevaire, appelée Ròcavaira en provençal et Rocovairo en norme mistralienne, vit au rythme de ses habitants, les Roquevairois et Roquevairoises.\n\nLa commune a aussi sa part dans les grands mouvements du pays. En juin 1792, pendant que des fédérés marseillais partaient vers Paris, trois Roquevairois prennent place dans le voyage : Jean-Baptiste Lan, Antoine Saint-Martin et Pierre Ribot. Leur bataillon, en arrivant en chantant, est présenté comme l’origine du nom de La Marseillaise, et comme ayant activement participé à la chute de la monarchie.\n\nPlus tard, la guerre revient frapper : en 1944, Roquevaire est libérée le 21 août, à la suite du débarquement de Provence.",
+  "chronologie": [
+   {
+    "date": "juin 1792",
+    "texte": "Trois roquevairois, Jean-Baptiste Lan, Antoine Saint-Martin et Pierre Ribot, font partie des fédérés marseillais partis pour Paris.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "21 août 1944",
+    "texte": "Roquevaire est libérée à la suite du débarquement de Provence.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Roquevaire (Ròcavaira en provençal selon la norme classique et Rocovairo selon la norme mistralienne) est une commune française située dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Roquevairois, Roquevairoises.",
+  "Lorsque que les fédérés marseillais quittèrent la région pour Paris en juin 1792 trois roquevairois étaient présents parmi eux : Jean-Baptiste Lan, Antoine Saint-Martin et Pierre Ribot. C'est ce bataillon qui, arrivant en chantant le chant de Rouget de Lisle est à l'origine du nom de La Marseillaise de notre hymne. C'est aussi ce même bataillon qui participa activement à la chute de la monarchie en prenant d'assaut […]",
+  "1944 : Roquevaire est finalement libérée le 21 août 1944 à la suite du débarquement de Provence."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

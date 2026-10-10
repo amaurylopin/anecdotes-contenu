@@ -1,0 +1,219 @@
+{
+ "commune": {
+  "titre": "Gardanne",
+  "code_insee": "13041",
+  "departement": "13",
+  "population": 21597,
+  "lat": 43.45527778,
+  "lon": 5.47666667,
+  "url": "https://fr.wikipedia.org/wiki/Gardanne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:06:38",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1955,
+  "sortie": 1710
+ },
+ "cout_usd": 0.002528,
+ "accroche": "Le 15 octobre 1877, la station de Gardanne est mise en service par la compagnie PLM, lors de l’ouverture à l’exploitation de la ligne directe de Marseille à Aix par Gardanne.",
+ "histoire": {
+  "recit": "À Gardanne, l’occupation du territoire remonte au Néolithique, avec des vestiges du IVe millénaire av. J.-C. retrouvés en 2003. Mais la naissance de la ville est surtout racontée par le Moyen Âge : un castrum est construit sur le versant sud de la colline du Cativel. Plus tard, au XVe siècle, le château du roi René à Gardane est entièrement détruit. \n\nDans le même temps, certains récits locaux prennent l’allure d’une légende bien tenace : un pavillon de chasse existe toujours, mais il n’a jamais été celui du roi René—la bâtisse des « Quatre Tours » est élevée entre 1573 et 1583, bien après sa mort. \n\nGardanne grandit aussi autour de ses lieux d’étude et de travail : à Valabre, l’Institut agronomique devient un lycée agricole, puis la propriété est agrandie avec l’installation d’un centre inter-régional de formation de la sécurité civile. Enfin, l’ère minière marque encore le paysage : au Puits Z comme au Puits Yvon Morandat, des éléments des installations sont conservés après la fermeture des mines.",
+  "chronologie": [
+   {
+    "date": "IVe millénaire av. J.-C.",
+    "texte": "Des vestiges néolithiques sont mis au jour en 2003, donnant à penser à une occupation très ancienne du territoire de Gardanne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Moyen Âge",
+    "texte": "La naissance de la ville est associée à la construction d’un castrum sur le versant sud de la colline du Cativel.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Le château du roi René à Gardane est aujourd’hui entièrement détruit.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1573-1583",
+    "texte": "Entre 1573 et 1583, la bâtisse des « Quatre Tours » est construite à Valabre.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1573",
+    "texte": "Le pavillon appelé « Pavillon du Roi René » a été construit entre 1573 et 1583, et non par le roi René.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1500",
+    "texte": "À Valabre, le nom devient Valabre par métathèse à partir de la vente de 1500 à la veuve Toussaint Guérin.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "À Valabre, de nouveaux bâtiments sont construits pour l’Institut agronomique, qui devient un lycée agricole.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "Au Puits Z, les installations sont démantelées en 2004, hormis le chevalement et le bâtiment de la machine achetés par la ville.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2003",
+    "texte": "En 2003, les mines de Provence sont fermées.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "Au Puits Yvon Morandat, les installations sont démantelées en 2004, hormis la tour d’extraction achetée par la ville.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "15 octobre 1877",
+    "texte": "La station de Gardanne est mise en service par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM).",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Valabre",
+   "histoire": "Quartier au nord de la ville de Gardanne, Valabre doit aussi une partie de son identité à la bâtisse des Quatre Tours, aujourd’hui appelée « Pavillon du Roi René », bien que sa construction se situe entre 1573 et 1583. L’endroit a ensuite accueilli l’Institut agronomique, devenu lycée agricole en 1963, et il a été transformé avec l’installation d’un centre inter-régional de formation de la sécurité civile.",
+   "anecdotes": [
+    {
+     "texte": "Le « Pavillon du Roi René » n’en est pas un : la bâtisse des « Quatre Tours » a été construite entre 1573 et 1583, après la mort du souverain.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4",
+      "S7"
+     ]
+    },
+    {
+     "texte": "Le nom « Valabre » s’explique par un changement de prononciation : vendu en 1500, il devient « Valabre » par métathèse.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le pavillon dit « Pavillon du Roi René » / « Pavillon des Quatre Tours » existe toujours, et le site accueille aujourd’hui le Centre inter-régional de formation de la sécurité civile.",
+   "sources": [
+    "S4",
+    "S9",
+    "S7"
+   ],
+   "lat": 43.4716,
+   "lon": 5.4439,
+   "url": "https://fr.wikipedia.org/wiki/Valabre"
+  },
+  {
+   "nom": "Puits Z",
+   "histoire": "Le puits Z appartient aux principaux charbonnages de l’unité de production de Provence des Houillères du Bassin du Centre et du Midi. Son équipement industriel comprend notamment un moteur de 5 480 kW, construit par la société Alsthom, et des ateliers FCB pour l’assemblage de la poulie koepe.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Après la démolition des installations en 2004, le chevalement et le bâtiment de la machine ont été achetés par la ville de Gardanne.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.467237,
+   "lon": 5.473995,
+   "url": "https://fr.wikipedia.org/wiki/Puits_Z"
+  },
+  {
+   "nom": "Biver (Bouches-du-Rhône)",
+   "histoire": "Biver est un quartier de Gardanne. Un mémoire adressé aux autorités départementales en 1827 évoque des mines « dévastées » par l’inexpérience des ouvriers et par l’abus des ouvertures.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 43.43388889,
+   "lon": 5.46611111,
+   "url": "https://fr.wikipedia.org/wiki/Biver_%28Bouches-du-Rh%C3%B4ne%29"
+  },
+  {
+   "nom": "Gare de Gardanne",
+   "histoire": "La gare de Gardanne se trouve sur le territoire de la commune et appartient à la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble). La station est mise en service le 15 octobre 1877 par la Compagnie PLM.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 43.456186,
+   "lon": 5.463172,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gardanne"
+  },
+  {
+   "nom": "Puits Yvon Morandat",
+   "histoire": "Le puits Yvon Morandat, aussi appelé puits Y, est l’un des principaux charbonnages de l’unité de production de Provence des Houillères du Bassin du Centre et du Midi. Après la fermeture des mines, les installations sont démantelées en 2004.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En 2004, seules la tour d’extraction et ses éléments ont été conservés : elle a été achetée par la ville de Gardanne.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 43.451992,
+   "lon": 5.4482,
+   "url": "https://fr.wikipedia.org/wiki/Puits_Yvon_Morandat"
+  }
+ ],
+ "sources": [
+  "Gardanne est une commune française située dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Elle fait partie du territoire du pays d'Aix au sein de la métropole d'Aix-Marseille-Provence. Ses habitants sont appelés les Gardannais (en provençal : Gardanen, Gardanenco).",
+  "Un site néolithique, où des vestiges datant du IVe millénaire av. J.-C. ont été mis au jour en 2003, permet de penser que l'occupation du territoire de l'actuelle commune de Gardanne est très ancienne. Mais il semble que la naissance de la ville date du Moyen Âge, avec la construction d'un castrum sur le versant sud de la colline du Cativel. Dans le cartulaire de l’abbaye Saint-Victor de Marseille, il est fait […]",
+  "XVe siècle : Le château du roi René à Gardane (Graphie du XVe siècle) est aujourd'hui entièrement détruit.",
+  "1573 : Le pavillon de chasse, qui existe toujours, communément appelé « Pavillon du Roi René » ou « Pavillon des Quatre Tours » n'a jamais été la propriété du roi René puisqu'il a été construit entre 1573 et 1583, soit 93 ans après la mort du souverain.",
+  "Lieu « Valabre » : Valabre est un quartier situé au nord de la ville de Gardanne, dans le département français des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Valabre », 1500 : Il est vendu à la veuve Toussaint Guérin en 1500, et c'est à cette époque que, par métathèse, son nom devient Valabre.",
+  "Lieu « Valabre », 1573 : Entre 1573 et 1583 est construite la bâtisse aux Quatre Tours, appelée aujourd'hui de façon fantaisiste et inexacte le pavillon de chasse du Roi René.",
+  "Lieu « Valabre », 1963 : Des bâtiments nouveaux sont construits en 1963 pour l'Institut agronomique de Valabre, qui devient un lycée agricole.",
+  "Lieu « Valabre », aujourd'hui : Il remplace la bastide roturière par un château (actuellement occupé par le Centre inter-régional de formation de la sécurité civile) et agrandit le domaine.",
+  "Lieu « Puits Z » : Le puits Z est l'un des principaux charbonnages de l'unité de production de Provence des Houillères du Bassin du Centre et du Midi, il est implanté à Gardanne dans les Bouches-du-Rhône en région PACA.",
+  "Lieu « Puits Z », 1998 : Le moteur, d'une puissance de 5 480 kW, est construit par la société Alsthom (Alstom depuis 1998) tandis que les ateliers FCB assemblent la poulie koepe de 4,40 mètres.",
+  "Lieu « Puits Z », 2004 : Les installations sont démantelées en 2004, après la fermeture des mines, excepté le chevalement et le bâtiment de la machine achetés par la ville de Gardanne.",
+  "Lieu « Biver (Bouches-du-Rhône) » : Biver est un quartier de Gardanne, dans le département français des Bouches-du-Rhône.",
+  "Lieu « Biver (Bouches-du-Rhône) », 1827 : En 1827, un mémoire adressé aux autorités départementales indique que : « les mines de Gardanne continuent à être dévastées par l’inexpérience des ouvriers et l’abus des ouvertures.",
+  "Lieu « Biver (Bouches-du-Rhône) », 2003 : En 2003 les mines de Provence sont fermées.",
+  "Lieu « Gare de Gardanne » : La gare de Gardanne est une gare ferroviaire française de la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble), située sur le territoire de la commune de Gardanne, dans le département des Bouches-du-Rhône, en Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de Gardanne », 1877 : La station de Gardanne est mise en service le 15 octobre 1877 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), lorsqu'elle ouvre à l'exploitation la ligne directe de Marseille à Aix par Gardanne Le 9 décembre 2006, la section d'Aix à Marseille est fermée pour être modernisée pour travaux, elle est rouverte le 14 décembre 2008.",
+  "Lieu « Puits Yvon Morandat » : Le puits Yvon Morandat (ou puits Y) est l'un des principaux charbonnages de l'unité de production de Provence des Houillères du Bassin du Centre et du Midi, il est implanté à Gardanne dans les Bouches-du-Rhône en région PACA.",
+  "Lieu « Puits Yvon Morandat », 2004 : Les installations sont démantelées en 2004, après la fermeture des mines, excepté la tour d'extraction achetée par la ville de Gardanne."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}

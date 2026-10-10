@@ -1,0 +1,166 @@
+{
+ "commune": {
+  "titre": "Allauch",
+  "code_insee": "13002",
+  "departement": "13",
+  "population": 21443,
+  "lat": 43.33694444,
+  "lon": 5.48277778,
+  "url": "https://fr.wikipedia.org/wiki/Allauch"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:06:50",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1474,
+  "sortie": 1248
+ },
+ "cout_usd": 0.001855,
+ "accroche": "En 1148, Notre-Dame-du-Château est construite à Allauch et demeure un lieu de culte et de pèlerinage.",
+ "histoire": {
+  "recit": "À Allauch, les traces des premiers peuplements remontent à entre -3200 et -2500, mises au jour sur le territoire avec des vestiges de la culture couronnienne. Au VIe siècle, des objets grecs ou étrusques apparaissent, un siècle après ceux repérés plus au nord.\n\nPlus tard, la légende du siège des Sarrasins au Xe siècle raconte que les Maures assiègent le village, et cette histoire aurait légué un blason à la commune. Du côté des constructions, il reste une poterne et quelques remparts liés à la fortification du temps du château.\n\nNotre-Dame-du-Château, construite en 1148, survit à l’épreuve du château : l’édifice a survécu à la destruction en 1595 et reste aujourd’hui un lieu de culte et de pèlerinage.\n\nAu XIIe siècle, le château est élevé sous la bienveillance des chanoines de la cathédrale de la Major de Marseille, et, sur une butte au nord-est, le château de Ners se dote d’une double muraille au début du XIIe siècle, bâtie pour conserver des droits de péage. Aujourd’hui, il n’en reste que des ruines.\n\nEnfin, la Campagne Vallombert, bastide à Allauch, fait l’objet d’une inscription partielle au titre des monuments historiques depuis le 4 juillet 2003.",
+  "chronologie": [
+   {
+    "date": "-3200 à -2500",
+    "texte": "Des vestiges de la culture couronnienne permettent d’établir les dates des premiers peuplements sur le territoire d’Allauch.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIe siècle",
+    "texte": "Des objets grecs ou étrusques apparaissent au VIe siècle à Allauch.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Xe siècle",
+    "texte": "Selon la légende, les Maures assiègent le village, ce qui aurait légué un blason à la commune.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1148",
+    "texte": "Notre-Dame-du-Château est construite ; il en reste une poterne et quelques remparts.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Le château est construit au XIIe siècle, sous la bienveillance des chanoines de la cathédrale de la Major de Marseille.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "début du XIIe siècle",
+    "texte": "La double muraille du château de Ners est construite pour conserver des droits de péage.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1595",
+    "texte": "La chapelle Notre-Dame-du-Château a survécu à la destruction du château.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "4 juillet 2003",
+    "texte": "La Campagne Vallombert fait l’objet d’une inscription partielle au titre des monuments historiques.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Ners",
+   "histoire": "Le château de Ners est un ancien château fort sur une butte dominant le vallon de Pichauris, au nord-est de la ville d’Allauch. La double muraille d’enceinte est construite au début du XIIe siècle par Raimond Ier, évêque de Marseille, pour conserver ses droits de péage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il n'en reste aujourd’hui que des ruines.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 43.368056,
+   "lon": 5.526389,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Ners"
+  },
+  {
+   "nom": "Campagne Vallombert",
+   "histoire": "La Campagne Vallombert est une bastide située 495 avenue du Vallon-Vert, à Allauch.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 43.3371449,
+   "lon": 5.4599876,
+   "url": "https://fr.wikipedia.org/wiki/Campagne_Vallombert"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-du-Château (Allauch)",
+   "histoire": "La chapelle Notre-Dame-du-Château est construite au XIIIe siècle et a survécu à la destruction du château en 1595. Elle est encore aujourd’hui un lieu de culte et de pèlerinage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Encore aujourd’hui, la chapelle est un lieu de culte et de pèlerinage.",
+   "sources": [
+    "S4",
+    "S12"
+   ],
+   "lat": 43.3366,
+   "lon": 5.4863,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-du-Ch%C3%A2teau_%28Allauch%29"
+  },
+  {
+   "nom": "Bastide Neuve",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 43.324893,
+   "lon": 5.51353,
+   "url": "https://fr.wikipedia.org/wiki/Bastide_Neuve"
+  }
+ ],
+ "sources": [
+  "Allauch (prononciation /a.lo/, en provençal Alaug, Alau) est une commune française située dans la banlieue est de Marseille, dans le département des Bouches-du-Rhône, en Provence.",
+  "La majeure partie de ce chapitre a été rédigée à partir d'informations issues du musée d'Allauch. Des vestiges de la culture couronnienne ont été mis au jour sur le territoire de la commune. Ils permettent d'établir les dates des premiers peuplements entre -3200 et -2500. Des objets grecs ou étrusques apparaissent au VIe siècle, soit un siècle après ceux de la région de Martigues où auraient eu lieu les premiers […]",
+  "Xe siècle : La légende du siège des Sarrasins a légué un blason à cette commune : au Xe siècle les Maures assiègent le village.",
+  "1148 : Il en reste une poterne, quelques remparts et Notre-Dame-du-Château, construite en 1148 qui est, encore aujourd'hui, un lieu de culte et de pèlerinage.",
+  "XIIe siècle : Sous la bienveillance des chanoines de la cathédrale de la Major de Marseille, le château fut construit au XIIe siècle.",
+  "Lieu « Château de Ners » : Le château de Ners est un ancien château fort situé sur une butte dominant le vallon de Pichauris, au nord-est de la ville d'Allauch, dans les Bouches-du-Rhône (France).",
+  "Lieu « Château de Ners », XIIe siècle : La double muraille d’enceinte a été construite au début du XIIe siècle par Raimond Ier, évêque de Marseille, pour conserver ses droits de péage.",
+  "Lieu « Château de Ners », aujourd'hui : Il n'en reste aujourd’hui que des ruines.",
+  "Lieu « Campagne Vallombert » : La Campagne Vallombert est une bastide située 495 avenue du Vallon-Vert, à Allauch, en France.",
+  "Lieu « Campagne Vallombert », 2003 : Le bâtiment fait l’objet d’une inscription partielle au titre des monuments historiques depuis le 4 juillet 2003.",
+  "Lieu « Chapelle Notre-Dame-du-Château (Allauch) » : La chapelle Notre-Dame-du-Château est une chapelle située à Allauch, en France.",
+  "Lieu « Chapelle Notre-Dame-du-Château (Allauch) », 1595 : L'édifice fut construit au XIIIe siècle et a survécu à la destruction du château en 1595.",
+  "Lieu « Bastide Neuve » : La Bastide Neuve est une bastide provençale, du haut du hameau des Bellons de la commune d'Allauch, entre le massif du Garlaban et la sortie du village de la Treille (actuel quartier du 11e arrondissement de Marseille dans les Bouches-du-Rhône en Pro",
+  "Lieu « Bastide Neuve », aujourd'hui : Il ne reste plus qu'à les mettre en place !"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 0
+ }
+}

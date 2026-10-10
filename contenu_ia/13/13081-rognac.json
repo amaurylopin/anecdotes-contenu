@@ -1,0 +1,59 @@
+{
+ "commune": {
+  "titre": "Rognac",
+  "code_insee": "13081",
+  "departement": "13",
+  "population": 12576,
+  "lat": 43.48861111,
+  "lon": 5.23305556,
+  "url": "https://fr.wikipedia.org/wiki/Rognac"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:39:19",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 977,
+  "sortie": 443
+ },
+ "cout_usd": 0.000749,
+ "accroche": "À Rognac, les premières traces humaines remontent au IIIe millénaire av. J.-C., sur les bords de l’étang de Berre.",
+ "histoire": {
+  "recit": "Rognac, commune des Bouches-du-Rhône, fait partie de la métropole d’Aix-Marseille-Provence ; ses habitants se nomment les Rognacais. Très tôt, le territoire est fréquenté : sur les bords de l’étang de Berre, des populations sédentaires pratiquent la chasse et la pêche. Plus loin, la plaine et les barres rocheuses accueillent aussi des groupes qui se consacrent notamment à la culture et à l’élevage.\n\nLes sources évoquent ensuite l’implantation d’une tribu ligure, fondant un village dans la plaine et un castrum au lieu-dit du Castellas. Bien plus tard, vers l’an 1000, un château seigneurial est construit. Au pied du Castellas, un village perché se développe, et le paysage se structure autour de ce nouveau centre de pouvoir.",
+  "chronologie": [
+   {
+    "date": "IIIe millénaire av. J.-C.",
+    "texte": "Sur les bords de l’étang de Berre, des populations sédentaires vivent de la chasse et de la pêche ; la plaine et les barres rocheuses sont aussi habitées, avec culture et élevage.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "autour de l’an 1000",
+    "texte": "Un château seigneurial est construit ; un village perché se développe au pied du Castellas.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Rognac est une commune française située dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Elle fait partie de la métropole d'Aix-Marseille-Provence. Ses habitants sont appelés les Rognacais.",
+  "Les premières traces de présence humaine sur le sol de Rognac remontent au IIIe millénaire av. J.-C. Les bords de l'étang de Berre sont alors habités par des populations sédentaires pratiquant la chasse et la pêche. La plaine et les barres rocheuses sont aussi habitées par des groupes pratiquant notamment la culture et l'élevage. Une tribu ligure fonde un village dans la plaine ainsi qu'un castrum au lieu-dit du […]",
+  "1000 : Aux alentours de l'an 1000, un château seigneurial est construit et un village perché au pied du Castellas se développe."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

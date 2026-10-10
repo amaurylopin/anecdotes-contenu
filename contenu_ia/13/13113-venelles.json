@@ -1,0 +1,67 @@
+{
+ "commune": {
+  "titre": "Venelles",
+  "code_insee": "13113",
+  "departement": "13",
+  "population": 8418,
+  "lat": 43.59916667,
+  "lon": 5.48333333,
+  "url": "https://fr.wikipedia.org/wiki/Venelles"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:15:06",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1016,
+  "sortie": 708
+ },
+ "cout_usd": 0.001088,
+ "accroche": "Le 14 décembre 2008, l’église de Venelles est inaugurée après avoir été agrandie de plus de 400 places.",
+ "histoire": {
+  "recit": "Venelles est une commune française de la banlieue nord d’Aix-en-Provence, dans les Bouches-du-Rhône, où l’on appelle ses habitants les Venellois. Le terrain de la commune a d’abord attiré des hommes très anciens : des pierres taillées ont été retrouvées dans certains quartiers, notamment au nord-ouest, et des constructions en pierres sèches se rencontrent en divers endroits, sans que leurs dates ni leurs fonctions soient clairement établies.\n\nAu fil des troubles médiévaux, la région subit des assauts : elle est assiégée par les Lombards en 574, puis, du VIIIe au Xe siècle, des Sarrasins dévastent à leur tour la région.\n\nPlus près de nous, l’histoire de Venelles se poursuit dans la pierre récente : l’église a été agrandie d’un ajout de plus de 400 places et inaugurée le 14 décembre 2008, en présence de Claude Feidt, archevêque du diocèse d’Aix-en-Provence-et-Arles.",
+  "chronologie": [
+   {
+    "date": "574",
+    "texte": "La région est assiégée par les Lombards.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "du VIIIe au Xe siècle",
+    "texte": "Les Sarrasins dévastent la région.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2008",
+    "texte": "L’église de Venelles est agrandie (plus de 400 places) puis inaugurée le 14 décembre 2008, en présence de Claude Feidt, archevêque du diocèse d’Aix-en-Provence-et-Arles.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Venelles est une commune française située dans la banlieue nord d’Aix-en-Provence, dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Venellois.",
+  "Le site géographique où se situe la commune de Venelles semble d'abord avoir été occupé au paléolithique et au néolithique. En effet, diverses pierres taillées ont été retrouvées dans certains quartiers de la commune de Venelles, notamment au nord-ouest, et de nombreuses constructions en pierres sèches apparaissent à divers endroits sans qu'on en connaisse véritablement leurs dates de création ou leurs fonctions […]",
+  "Xe siècle : En 574, La région est assiégée par les Lombards et du VIIIe au Xe siècle, les Sarrasins dévastent à leur tour la région.",
+  "2008 : L'église de Venelles a été agrandie (ajout de plus de 400 places) et inaugurée le 14 décembre 2008 en présence de Claude Feidt, archevêque du diocèse d'Aix-en-Provence-et-Arles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "commune": {
+  "titre": "La Penne-sur-Huveaune",
+  "code_insee": "13070",
+  "departement": "13",
+  "population": 6605,
+  "lat": 43.28055556,
+  "lon": 5.51583333,
+  "url": "https://fr.wikipedia.org/wiki/La_Penne-sur-Huveaune"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:42:53",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1239,
+  "sortie": 691
+ },
+ "cout_usd": 0.001112,
+ "accroche": "La gare de La Penne-sur-Huveaune est mise en service le 25 octobre 1858, à l’ouverture de la section de Marseille à Aubagne.",
+ "histoire": {
+  "recit": "Dans la banlieue est de Marseille, La Penne-sur-Huveaune porte un passé ancien, de plus de 2 000 ans, que ses armoiries évoquent par un laurier. Au début, le site s’appelait La Peno.\n\nAu rythme du rail, la gare devient un repère local : mise en service le 25 octobre 1858 lors de l’ouverture de la section de Marseille à Aubagne, elle connaît ensuite de grands travaux à partir de 2009. Une passerelle destinée à l’accès aux quais est mise en service le 28 février 2011, avec aussi l’aménagement d’un nouveau quai côté bâtiment voyageur.\n\nDerrière l’activité d’aujourd’hui, une trace industrielle subsiste : une troisième voie, autrefois utile et reliée à des embranchements desservant des établissements locaux, est désormais inutilisée et abandonnée.",
+  "chronologie": [
+   {
+    "date": "25 octobre 1858",
+    "texte": "Mise en service de la gare lors de l’ouverture de la section de Marseille à Aubagne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "à partir de 2009",
+    "texte": "Démarrage de nombreux travaux de réaménagement de la ligne, avec notamment la création d’une passerelle pour accéder aux quais.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "28 février 2011",
+    "texte": "Mise en service de la passerelle permettant l’accès aux quais, ainsi que l’aménagement d’un nouveau quai côté bâtiment voyageur.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de La Penne-sur-Huveaune",
+   "histoire": "Gare ferroviaire sur le territoire de La Penne-sur-Huveaune, elle appartient à la ligne de Marseille-Saint-Charles à Vintimille (frontière).",
+   "anecdotes": [
+    {
+     "texte": "On raconte que les armoiries de La Penne-sur-Huveaune, avec leur laurier, renvoient à la nymphe Daphné : transformée en laurier pour lui permettre d’échapper aux assiduités divines, elle explique ce choix symbolique lié à Penne, « le dieu fleuve ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une troisième voie, autrefois prolongée sur plusieurs kilomètres et reliée à des embranchements industriels, est actuellement inutilisée et abandonnée ; certains embranchements sont encore visibles.",
+   "sources": [
+    "S6",
+    "S3"
+   ],
+   "lat": 43.284751,
+   "lon": 5.515673,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Penne-sur-Huveaune"
+  }
+ ],
+ "sources": [
+  "La Penne-sur-Huveaune est une commune française située dans la banlieue est de Marseille, dans le canton d'Aubagne, dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "La Penne-sur-Huveaune a un passé de plus de 2 000 ans que rappellent ses armoiries initiales. En effet elles portaient un laurier, en souvenir de la nymphe Daphné, premier amour d'Apollon mais non réciproquement, transformée en laurier par son père, Penne, « le dieu fleuve », afin de lui permettre d'échapper aux assiduités divines sans les blesser. Initialement, le site porte le nom de La Peno. Le nom actuel, La […]",
+  "Lieu « Gare de La Penne-sur-Huveaune » : La gare de La Penne-sur-Huveaune est une gare ferroviaire française de la ligne de Marseille-Saint-Charles à Vintimille (frontière) située sur le territoire de la commune de La Penne-sur-Huveaune, dans le département des Bouches-du-Rhône en région Pr",
+  "Lieu « Gare de La Penne-sur-Huveaune », 1858 : La gare est mise en service le 25 octobre 1858, lors de l'ouverture de la section de Marseille à Aubagne.",
+  "Lieu « Gare de La Penne-sur-Huveaune », 2009 : À partir de 2009, la gare fait l'objet de nombreux travaux dans le réaménagement de la ligne entre la Blancarde et Aubagne avec notamment la création d'une passerelle permettant l'accès aux quais mise en service le 28 février 2011 mais également l'aménagement d'un nouveau quai côté bâtiment voyageur",
+  "Lieu « Gare de La Penne-sur-Huveaune », aujourd'hui : Cette troisième voie, qui se poursuit sur plusieurs kilomètres, comportait plusieurs embranchements particuliers desservant des établissements industriels locaux (certains encore visibles), mais est actuellement inutilisée et abandonnée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

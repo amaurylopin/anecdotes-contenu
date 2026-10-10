@@ -1,0 +1,108 @@
+{
+ "commune": {
+  "titre": "Fuveau",
+  "code_insee": "13040",
+  "departement": "13",
+  "population": 10337,
+  "lat": 43.45277778,
+  "lon": 5.56194444,
+  "url": "https://fr.wikipedia.org/wiki/Fuveau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:55:12",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1213,
+  "sortie": 671
+ },
+ "cout_usd": 0.001081,
+ "accroche": "En septembre 1687, la seigneurie de Fuveau est érigée en marquisat en faveur de Charles Boutassy, trésorier de France à Aix.",
+ "histoire": {
+  "recit": "Fuveau, en occitan provençal Fuvèu, est une commune des Bouches-du-Rhône, dont les habitants sont appelés les Fuvelains. Ses origines remontent à l’époque romaine, mais il n’en reste que peu de traces. Le nom de la localité apparaît pour la première fois dans une charte en 1080.\n\nAu fil des crises du Moyen Âge, la communauté de Fuveau s’engage : lors de la crise ouverte par la mort de la reine Jeanne Ire, elle adhère à l’Union d’Aix entre 1382 et 1387 et soutient Charles de Duras contre Louis Ier d’Anjou.\n\nPlus tard, la seigneurie prend de l’ampleur : en septembre 1687, elle est érigée en marquisat pour Charles Boutassy. À l’époque contemporaine, l’histoire se poursuit autour d’un lieu de mémoire consacré aux véhicules : le Musée provençal des transports, consacré aux wagons, tramways, trolleybus et locomotives, ouvre en 1972 grâce à Noël Mailliary, puis ferme en décembre 2002 avant de rouvrir en 2004 sous l’impulsion d’une association.",
+  "chronologie": [
+   {
+    "date": "1080",
+    "texte": "Le nom de Fuveau est cité pour la première fois dans une charte.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1362-63",
+    "texte": "Hugues Roche, fils de feu Jean Roche, juge de Forcalquier, devient coseigneur de Fuveau et rend hommage le 28 juillet 1362.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1382-1387",
+    "texte": "Pendant la crise ouverte par la mort de la reine Jeanne Ire, la communauté de Fuveau adhère à l’Union d’Aix et soutient Charles de Duras contre Louis Ier d’Anjou.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "septembre 1687",
+    "texte": "La seigneurie de Fuveau est érigée en marquisat en faveur de Charles Boutassy, trésorier de France à Aix.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1972",
+    "texte": "Le Musée provençal des transports ouvre en 1972, créé par Noël Mailliary († 2002).",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "décembre 2002",
+    "texte": "Le musée ferme en décembre 2002, au décès de son fondateur, avant de rouvrir en 2004.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée provençal des transports",
+   "histoire": "Le Musée provençal des transports est un musée dédié aux véhicules de transport urbains et régionaux : wagons, tramways, trolleybus, locomotives et matériel minier. Il est installé dans la gare ferroviaire fer.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 43.47000567,
+   "lon": 5.54819231,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_proven%C3%A7al_des_transports"
+  }
+ ],
+ "sources": [
+  "Fuveau (Fuvèu en occitan provençal) est une commune française située dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Fuvelains",
+  "Fuveau tire ses origines de l'époque romaine, même si peu de traces demeurent. En 1080, son nom est pour la première fois cité dans une charte. Hugues Roche, fils de feu Jean Roche, juge de Forcalquier (1362-63), fut coseigneur de Fuveau. Il prêta hommage le 28 juillet 1362. Lors de la crise ouverte par la mort de la reine Jeanne Ire, la communauté de Fuveau adhère à l’Union d'Aix (1382-1387), soutenant Charles de […]",
+  "1382 : Lors de la crise ouverte par la mort de la reine Jeanne Ire, la communauté de Fuveau adhère à l’Union d'Aix (1382-1387), soutenant Charles de Duras contre Louis Ier d'Anjou.",
+  "1687 : La seigneurie fut érigée en marquisat en septembre 1687 en faveur de Charles Boutassy, trésorier de France à Aix.",
+  "Lieu « Musée provençal des transports » : Le musée provençal des transports urbains et régionaux (M.P.T.U.R) est un musée français dédié aux véhicules de transport urbains et régionaux : wagons, tramways, trolleybus, locomotives, matériel minier etc. Il est situé dans la gare ferroviaire fer",
+  "Lieu « Musée provençal des transports », 1972 : Le musée, ouvert en 1972, a été créé par Noël Mailliary († 2002).",
+  "Lieu « Musée provençal des transports », 2002 : Il a été fermé en décembre 2002, au décès de son fondateur, avant d'être rouvert en 2004 par l'association \"Conservatoire provençal du patrimoine de véhicules anciens\" (CPPVA)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

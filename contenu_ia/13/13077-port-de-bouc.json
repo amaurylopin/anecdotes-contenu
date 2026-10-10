@@ -1,0 +1,156 @@
+{
+ "commune": {
+  "titre": "Port-de-Bouc",
+  "code_insee": "13077",
+  "departement": "13",
+  "population": 15802,
+  "lat": 43.40583333,
+  "lon": 4.98916667,
+  "url": "https://fr.wikipedia.org/wiki/Port-de-Bouc"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:24:01",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1490,
+  "sortie": 1017
+ },
+ "cout_usd": 0.001569,
+ "accroche": "En 1805, un décret impérial ordonne l’aménagement du port et de la ville de Port-de-Bouc, avant que, en 1820, seule la jetée soit achevée.",
+ "histoire": {
+  "recit": "Port-de-Bouc naît de plusieurs hameaux, disséminés autrefois sur Fos et Martigues. Puis vient l’ambition portuaire : en 1805, Napoléon Bonaparte ordonne l’aménagement du port et de la ville par décret impérial, mais en 1820, seule la jetée est terminée, et les plans resteront lettre morte. Quand Alexandre Dumas visite le site en 1834, il ne trouve que “trois maisons”, dont deux fermées faute de locataires, et la troisième transformée en auberge.\n\nLa vie du port finit pourtant par prendre son élan. Au fil du développement, les activités industrielles se multiplient : salins, usine à plomb, puis, à partir de 1876, la sécherie de morues Cabissol de la Lèque. En 1894, une raffinerie de pétrole, “La Phocéenne”, ouvre. À partir de 1899, les “Chantiers et ateliers de Provence” donnent une autre cadence au lieu : de 1901 à 1966, ils construisent plus de 150 navires de commerce et 17 navires de guerre.\n\nEt pour aller et venir, la gare de Port-de-Bouc se met en place près du centre-ville : une section vers L’Estaque est construite de 1908 à 1915 et inaugurée le 15 octobre, avant qu’une nouvelle gare soit bâtie sur l’autre rive du canal, l’ancienne étant jugée mal adaptée.",
+  "chronologie": [
+   {
+    "date": "1805",
+    "texte": "Napoléon Bonaparte ordonne, par décret impérial, l’aménagement du port et de la ville.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1820",
+    "texte": "En 1820, seule la jetée est achevée et les plans établis ne seront jamais réalisés.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1834",
+    "texte": "Alexandre Dumas, en visite en 1834, ne trouve que trois maisons, dont deux fermées faute de locataires, et une transformée en auberge.",
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   {
+    "date": "1850",
+    "texte": "En 1850, le port de commerce est en développement, avec des activités industrielles comme les salins et l’usine à plomb.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1876",
+    "texte": "La sécherie de morues Cabissol de la Lèque s’installe en 1876.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1894",
+    "texte": "En 1894, ouverture de la raffinerie de pétrole “La Phocéenne”.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1899",
+    "texte": "Les Chantiers et ateliers de Provence sont fondés à Port-de-Bouc en 1899 par Alfred Fraissinet et Jules Charles-Roux.",
+    "sources": [
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "date": "1901",
+    "texte": "De 1901 à 1966, les Chantiers et Ateliers de Provence construisent plus de 150 navires de commerce et 17 navires de guerre.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1908",
+    "texte": "La section de Port-de-Bouc à L’Estaque est construite de 1908 à 1915.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1915",
+    "texte": "La section Port-de-Bouc à L’Estaque est inaugurée le 15 octobre 1915.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Chantiers et ateliers de Provence",
+   "histoire": "Ancien chantier naval fondé à Port-de-Bouc en 1899 par Alfred Fraissinet et Jules Charles-Roux. De 1901 à 1966, il construit plus de 150 navires de commerce et 17 navires de guerre, principalement des avisos coloniaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 43.403692031494,
+   "lon": 4.9839570652698,
+   "url": "https://fr.wikipedia.org/wiki/Chantiers_et_ateliers_de_Provence"
+  },
+  {
+   "nom": "Gare de Port-de-Bouc",
+   "histoire": "Gare ferroviaire située à proximité du centre-ville de Port-de-Bouc. La section de Port-de-Bouc à L’Estaque est construite de 1908 à 1915 et inaugurée le 15 octobre. L’emplacement de la première gare étant mal adapté, une nouvelle gare est bâtie sur l’autre rive du canal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 43.407253,
+   "lon": 4.984628,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Port-de-Bouc"
+  }
+ ],
+ "sources": [
+  "Port-de-Bouc est une commune française, située dans le département des Bouches-du-Rhône en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Port-de-Boucains. La ville est jumelée depuis octobre 2022 avec Kalymnos, une île grecque du Dodécanèse.",
+  "Port-de-Bouc était originellement plusieurs hameaux situés sur les communes de Fos et de Martigues. Napoléon Bonaparte ordonna en 1805 l'aménagement du port et de la ville, par décret impérial ; mais en 1820, seule la jetée est achevée, et les plans établis ne seront jamais réalisés. Alexandre Dumas, qui visite le site en 1834, n'y trouve que « trois maisons dont deux étaient fermées faute de locataires, et dont la […]",
+  "1805 : Napoléon Bonaparte ordonna en 1805 l'aménagement du port et de la ville, par décret impérial ; mais en 1820, seule la jetée est achevée, et les plans établis ne seront jamais réalisés.",
+  "1834 : Alexandre Dumas, qui visite le site en 1834, n'y trouve que « trois maisons dont deux étaient fermées faute de locataires, et dont la troisième [était] transformée en auberge ».",
+  "1850 : En 1850, le port de commerce est en développement, ainsi que les activités industrielles telles que les salins, l’usine à plomb, l’installation en 1876 de la sécherie de morues Cabissol de la Lèque et, en 1894, l’ouverture de la raffinerie de pétrole “La Phocéenne”.",
+  "Lieu « Chantiers et ateliers de Provence » : Les Chantiers et ateliers de Provence était un ancien chantier naval fondé à Port-de-Bouc en 1899 par Alfred Fraissinet et Jules Charles-Roux.",
+  "Lieu « Chantiers et ateliers de Provence », 1899 : Les Chantiers et ateliers de Provence était un ancien chantier naval fondé à Port-de-Bouc en 1899 par Alfred Fraissinet et Jules Charles-Roux.",
+  "Lieu « Chantiers et ateliers de Provence », 1901 : De 1901 à 1966, les Chantiers et Ateliers de Provence ont construit plus de 150 navires de commerce et 17 navires de guerre, principalement des avisos coloniaux, soit 10 % de la production nationale.",
+  "Lieu « Gare de Port-de-Bouc » : La gare de Port-de-Bouc est une gare ferroviaire française située à proximité du centre-ville de Port-de-Bouc, dans le département des Bouches-du-Rhône, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de Port-de-Bouc », 1908 : La section de Port-de-Bouc à L'Estaque est construite de 1908 à 1915 et inaugurée le 15 octobre de cette année.",
+  "Lieu « Gare de Port-de-Bouc », aujourd'hui : L'emplacement de la première gare de Port-de-Bouc étant mal adapté, une nouvelle gare est bâtie sur l'autre rive du canal."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}
