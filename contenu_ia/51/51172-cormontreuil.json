@@ -1,0 +1,134 @@
+{
+ "commune": {
+  "titre": "Cormontreuil",
+  "code_insee": "51172",
+  "departement": "51",
+  "population": 6534,
+  "lat": 49.2231,
+  "lon": 4.0528,
+  "url": "https://fr.wikipedia.org/wiki/Cormontreuil"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:44:15",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1520,
+  "sortie": 987
+ },
+ "cout_usd": 0.001538,
+ "accroche": "En 1892, un lavoir est construit sur la Vesle, juste à côté du moulin Monlauren, à Cormontreuil.",
+ "histoire": {
+  "recit": "Cormontreuil, commune de la Marne, fait partie de Reims Métropole et ses habitants sont les Cormontreuillois. Avant même l’époque des grandes promenades, des fouilles menées en 2001 aux « Blancs Monts » ont mis au jour une occupation du site dès la période protohistorique.\n\nÀ partir de la fin du XIXe siècle, la commune attire les habitants de Reims : la desserte par le Chemins de fer de la Banlieue de Reims, les bals populaires et la baignade dans la Vesle vont de pair avec l’essor de grandes demeures bourgeoises.\n\nLa vie locale se heurte aussi aux épreuves. En 1924, la ville reconstruit une partie de son cœur après les dégâts subis pendant la Première Guerre mondiale, notamment après la disparition du moulin et de la maison Pinon, et le retour du musée Kellerman en face de la mairie.\n\nCôté patrimoine religieux, le Monastère Sainte-Claire de Reims, aujourd’hui monastère de clarisses à Cormontreuil, porte l’empreinte d’un incendie vers 1400. L’église romane de Cormontreuil, fondée en 1159 et dont il ne reste aujourd’hui que l’abside et la nef de cette époque, raconte aussi la ténacité des lieux.",
+  "chronologie": [
+   {
+    "date": "2001",
+    "texte": "Aux « Blancs Monts », des fouilles révèlent une occupation du site datant de la période protohistorique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Fin du XIXe siècle",
+    "texte": "Cormontreuil devient un lieu de villégiature des habitants de Reims, avec des bals populaires et une baignade dans la Vesle, desservie par le Chemins de fer de la Banlieue de Reims.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1892",
+    "texte": "Un lavoir est construit sur la Vesle, juste à côté du moulin Monlauren.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Vers 1400",
+    "texte": "Un incendie ravage l’église et une partie des bâtiments claustraux du monastère Sainte-Claire de Reims.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1990",
+    "texte": "Des fouilles mettent au jour les bâtiments du XVe siècle du monastère Sainte-Claire de Reims, édifiés après l’incendie.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1924",
+    "texte": "La mairie et des bâtiments perdus pendant la Première Guerre mondiale sont reconstruits en 1924, après la disparition de la maison Pinon, du moulin et du musée Kellerman situé en face de la mairie.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Monastère Sainte-Claire de Reims",
+   "histoire": "Aujourd’hui monastère de clarisses situé à Cormontreuil, il conserve la trace d’un incendie vers 1400. Après cet événement, des bâtiments du XVe siècle sont construits à l’intérieur de l’enceinte médiévale, puis mis au jour lors de fouilles en 1990. Le site est aussi lié à une maison appartenant à l’abbaye construite en 1761 dans l’actuelle rue Marlot.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1400, un incendie ravage l’église et une partie des bâtiments claustraux avant que de nouveaux bâtiments du XVe siècle ne soient édifiés à l’intérieur de l’enceinte médiévale.",
+     "statut": "etabli",
+     "sources": [
+      "S6",
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Monastère Sainte-Claire de Reims : monastère de clarisses aujourd’hui situé à Cormontreuil.",
+   "sources": [
+    "S5",
+    "S9"
+   ],
+   "lat": 49.217444,
+   "lon": 4.033898,
+   "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_Sainte-Claire_de_Reims"
+  },
+  {
+   "nom": "Église de Cormontreuil",
+   "histoire": "Église romane construite au XIIe siècle, elle est fondée en 1159 par Louis VII et financée par l’abbesse de Saint-Pierre-les-Dames. À l’origine, la nef ne compte que quatre travées et un porche triple. Aujourd’hui, il ne reste plus que l’abside et la nef de cette époque.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne reste plus que l’abside et la nef de l’église romane de cette époque.",
+   "sources": [
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 49.2234,
+   "lon": 4.0565,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_Cormontreuil"
+  }
+ ],
+ "sources": [
+  "Cormontreuil est une commune française, située dans le département de la Marne en région Grand Est. Elle fait partie de la communauté d'agglomération Reims Métropole. Ses habitants sont appelés les Cormontreuillois (un Cormontreuillois, une Cormontreuilloise).",
+  "Des fouilles effectuées en 2001 au lieu-dit les Blancs Monts ont permis de découvrir une occupation du site datant de la période protohistorique. Depuis la fin du XIXe siècle, la commune était un lieu de villégiature des habitants de Reims, desservie par le Chemins de fer de la Banlieue de Reims (|C.B.R.) et accueillait des bals populaires, une baignade dans la Vesle et de grandes demeures bourgeoises : château de […]",
+  "1892 : En 1892, un lavoir est construit sur la Vesle juste à côté du moulin Monlauren.",
+  "1924 : D'immenses dégâts furent infligés à la ville durant la Première Guerre mondiale qui virent la disparition de la maison Pinon, du moulin, du musée Kellerman qui se trouvait en face de la mairie qui fut reconstruite en 1924.",
+  "Lieu « Monastère Sainte-Claire de Reims » : Le monastère Sainte-Claire de Reims est un monastère de clarisses aujourd'hui situé à Cormontreuil dans la Marne.",
+  "Lieu « Monastère Sainte-Claire de Reims », 1400 : Vers 1400, un incendie ravage l’église et une partie des bâtiments claustraux.",
+  "Lieu « Monastère Sainte-Claire de Reims », 1400 : Les bâtiments du XVe siècle, édifiés après l'incendie de 1400, dorénavant à l'intérieur de l'enceinte médiévale, ont été mis au jour par des fouilles en 1990.",
+  "Lieu « Monastère Sainte-Claire de Reims », 1761 : En 1761, on construit une assez vaste maison appartenant à l'abbaye dans une rue voisine, l'actuelle rue Marlot, à l'angle de la rue Boulard.",
+  "Lieu « Monastère Sainte-Claire de Reims », aujourd'hui : Le monastère Sainte-Claire de Reims est un monastère de clarisses aujourd'hui situé à Cormontreuil dans la Marne.",
+  "Lieu « Église de Cormontreuil » : L'église de Cormontreuil est une église romane construite au XIIe siècle, située dans la Marne.",
+  "Lieu « Église de Cormontreuil », XIIe siècle : L'église de Cormontreuil est une église romane construite au XIIe siècle, située dans la Marne.",
+  "Lieu « Église de Cormontreuil », 1159 : Elle fut fondée en 1159 par Louis VII et financée par l'abbesse de Saint-Pierre-les-Dames, à l'époque la nef n'avait que quatre travées et un porche triple et elle était de style roman.",
+  "Lieu « Église de Cormontreuil », aujourd'hui : Il ne reste plus que l'abside et la nef de cette époque."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}
