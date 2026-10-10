@@ -1,0 +1,250 @@
+{
+ "commune": {
+  "titre": "Tournon-sur-Rhône",
+  "code_insee": "07324",
+  "departement": "07",
+  "population": 11279,
+  "lat": 45.06805556,
+  "lon": 4.83333333,
+  "url": "https://fr.wikipedia.org/wiki/Tournon-sur-Rh%C3%B4ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:47:35",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2802,
+  "sortie": 1661
+ },
+ "cout_usd": 0.002637,
+ "accroche": "En 1825, Marc Seguin construit entre Tournon et Tain-l’Hermitage un des premiers ponts suspendus à câble d’Europe, ancêtre célèbre de la traversée du Rhône. ",
+ "histoire": {
+  "recit": "À Tournon-sur-Rhône, on passe d’une banlieue romaine élégante aux chantiers modernes au-dessus du Rhône. Dans l’Antiquité, Tournus se rattache à la cité de Muzolium, avec, au quartier du Cornilhac, des thermes et des villas de riches familles, tandis qu’au centre-ville l’emplacement du château abritait un castrum romain. Plus tard, le premier couvent de la ville, celui des Carmes, s’établit au XIVe siècle hors des murs, près de la porte de Mauves.\n\nLe château, lui, traverse les siècles : remanié surtout aux XVe et XVIe siècles, il voit s’élever la tour Beauregard et, au fil des jours, son destin se brouille. Quand la famille de Tournon s’éteint au XVIIe siècle, le château est abandonné. Longtemps occupé par des prisons, il abrite aujourd’hui un musée, tandis qu’à côté, le lycée Gabriel-Faure a grandi de ses anciens noms et de ses changements.\n\nEnfin, la ville se projette sur le fleuve : le pont suspendu de Marc Seguin marque durablement la traversée, puis le pont routier Gustave Toursier est inauguré en 1958. Et sur la tour de la Vierge, une statue prévue pour le pont finit par trouver sa place sans risquer de déséquilibrer l’ensemble.",
+  "chronologie": [
+   {
+    "date": "XIVe siècle",
+    "texte": "Fondation du premier couvent de la ville : les Carmes s’installent hors de la ville, non loin de la porte de Mauves.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XV e et XVIe siècles",
+    "texte": "Le château de Tournon est restauré et remanié pour l’essentiel à cette période.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Construction de nouveaux corps de logis au château, dont le grand bâtiment Renaissance abritant les collections du musée.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1560",
+    "texte": "La tour Beauregard est édifiée, avec deux terrasses et la chapelle.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "La famille de Tournon s’éteint : le dernier seigneur meurt sans descendance et le château est abandonné.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1825",
+    "texte": "Marc Seguin fait construire l’un des premiers ponts suspendus à câble d’Europe entre Tournon et Tain-l’Hermitage.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1958",
+    "texte": "Le pont routier Gustave Toursier est inauguré.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Tournon",
+   "histoire": "Ancien château fort restauré et remanié, le château date pour l’essentiel des XVe et XVIe siècles. Au XVIe siècle, de nouveaux corps de logis sont construits, et la tour Beauregard, avec terrasses et chapelle, est édifiée. Le site conserve aussi des traces du premier château, et le lieu a connu prisons avant d’accueillir un musée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 45.068333333333,
+   "lon": 4.83175,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Tournon"
+  },
+  {
+   "nom": "Lycée Gabriel-Faure",
+   "histoire": "Au centre de la ville, l’établissement est lié à un ancien collège. Le lycée Gabriel-Faure portait le nom de Collège de Tournon lors de sa fondation en 1536 par le cardinal François II de Tournon. Plus tard, un nouveau fonds est constitué en 1763 lors de la vente liée à l’expulsion des jésuites. Certaines parties sont classées monuments historiques, et il porte aujourd’hui le nom de l’écrivain Gabriel Faure, natif de Tournon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 45.067211,
+   "lon": 4.834298,
+   "url": "https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Gabriel-Faure"
+  },
+  {
+   "nom": "Tour de la Vierge (Tournon-sur-Rhône)",
+   "histoire": "Tour de l’Hôpital, la tour de la Vierge fait partie d’un ancien site fortifié où l’on comptait douze tours construites au XVIe siècle sous le commandement de Claude de la Tour Turelle. En 1860, une statue devait être installée sur le pont Marc-Seguin, mais elle est finalement placée sur la tour. L’édifice est inscrit au titre des monuments historiques en 1927.",
+   "anecdotes": [
+    {
+     "texte": "En 1860, une statue de la Vierge prévue sur le pont Marc-Seguin finit par être installée sur la tour, pour ne pas déséquilibrer le pont.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 45.0665,
+   "lon": 4.8307,
+   "url": "https://fr.wikipedia.org/wiki/Tour_de_la_Vierge_%28Tournon-sur-Rh%C3%B4ne%29"
+  },
+  {
+   "nom": "Passerelle Marc-Seguin",
+   "histoire": "Passerelle suspendue enjambant le Rhône pour relier Tournon-sur-Rhône à Tain-l’Hermitage. Une version élargie et plus élevée succède au premier pont de 1825. La passerelle est construite par Marc Seguin de 1847 à 1849 et inscrite au titre des monuments historiques en 1985.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 45.06871678,
+   "lon": 4.83499289,
+   "url": "https://fr.wikipedia.org/wiki/Passerelle_Marc-Seguin"
+  },
+  {
+   "nom": "Église Saint-Julien de Tournon-sur-Rhône",
+   "histoire": "Ancienne collégiale de Tournon-sur-Rhône. L’actuelle église est construite à partir de 1300 et érigée en collégiale le 16 juin 1316. Les chrétiens se réunissaient déjà au XIe siècle, à la même place, dans une petite église d’architecture romane.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 45.06833,
+   "lon": 4.830797,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Julien_de_Tournon-sur-Rh%C3%B4ne"
+  },
+  {
+   "nom": "Hôtel du marquis de la Tourette",
+   "histoire": "Hôtel particulier sur la commune de Tournon-sur-Rhône. Les bâtiments intérieurs commencent au début du XVIe siècle, tandis que la façade date du XVIIIe siècle. L’édifice est inscrit au titre des monuments historiques le 26 mars 1936.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 45.0685,
+   "lon": 4.83034,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_du_marquis_de_la_Tourette"
+  },
+  {
+   "nom": "Tour du Nord (Tournon-sur-Rhône)",
+   "histoire": "Tour médiévale, aussi appelée tour de Pierregourde, sur la commune de Tournon-sur-Rhône. L’édifice est inscrit au titre des monuments historiques en 1927.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 45.0696,
+   "lon": 4.8273,
+   "url": "https://fr.wikipedia.org/wiki/Tour_du_Nord_%28Tournon-sur-Rh%C3%B4ne%29"
+  },
+  {
+   "nom": "Borne milliaire d'Arras-sur-Rhône",
+   "histoire": "Deux bornes milliaires d’Arras-sur-Rhône existent, et l’une d’elles a été déplacée en 1939. Elle avait auparavant servi de support dans le cimetière désaffecté entourant l’église d’Arras-sur-Rhône, avant d’être mise à l’entrée de la cour d’honneur au château-musée de Tournon-sur-Rhône.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34"
+   ],
+   "lat": 45.068287,
+   "lon": 4.832016,
+   "url": "https://fr.wikipedia.org/wiki/Borne_milliaire_d%27Arras-sur-Rh%C3%B4ne"
+  }
+ ],
+ "sources": [
+  "Tournon-sur-Rhône est une commune française située dans le département de l'Ardèche en région Auvergne-Rhône-Alpes, à 20 km au nord de Valence. La ville, bordée par le Rhône, possède sa propre unité urbaine, située entre celles d'Annonay et celle de Valence. Son territoire se positionne au cœur de la communauté d'agglomération Arche Agglo située de chaque côté du fleuve et dont le siège est situé dans la commune […]",
+  "Durant l'Antiquité, Tournon ou plutôt Tournus est la « banlieue chic » de la cité romaine voisine : Muzolium (cf. Muzols). Le quartier du Cornilhac, au nord de la ville, semble être celui où l'on retrouve le plus de vestiges : des thermes, des villas de riches familles romaines, etc. Au centre-ville, à la place de l'actuel château, se trouvait un castrum, c'est-à-dire une forteresse romaine qui abritera les […]",
+  "XIVe siècle : Au XIVe siècle, est fondé le premier couvent de la ville, les Carmes qui s'installent hors de la ville, non loin de la porte de Mauves.",
+  "XVIIe siècle : La famille de Tournon s'éteint au XVIIe siècle car le dernier Seigneur meurt sans descendance et le château est abandonné.",
+  "1825 : Un des premiers ponts suspendus à câble d'Europe fut construit en 1825 entre Tournon et Tain-l'Hermitage par Marc Seguin.",
+  "1958 : Le pont routier Gustave Toursier est inauguré en 1958.",
+  "Lieu « Château de Tournon » : Le château de Tournon ou château-musée est un ancien château fort restauré et remanié qui date pour l'essentiel des XVe et XVIe siècles, et se dresse sur la commune française de Tournon-sur-Rhône dans le département de l'Ardèche en région Auvergne-Rh",
+  "Lieu « Château de Tournon », XVIe siècle : Au XVIe siècle, de nouveaux corps de logis ont été construits, dont le grand bâtiment Renaissance abritant les collections du musée.",
+  "Lieu « Château de Tournon », 1560 : La tour Beauregard est édifiée entre 1560 et 1600 ainsi que les deux terrasses et la chapelle qui abrite notamment le triptyque du peintre Jean Capassin.",
+  "Lieu « Château de Tournon », 1926 : Il fut habité par les seigneurs de Tournon jusqu'au XVIIe siècle et occupé par des prisons jusqu'en 1926 et abrite actuellement un musée qui présente des collections variées.",
+  "Lieu « Château de Tournon », aujourd'hui : Les traces du premier château du Xe siècle, situé à l'emplacement d'une ancienne tour de guet de l'époque gallo-romaine[réf. nécessaire], sont encore visibles à droite en entrant dans la cour d'honneur.",
+  "Lieu « Lycée Gabriel-Faure » : Le lycée Gabriel-Faure est un établissement public situé au centre de la ville de Tournon-sur-Rhône, en Ardèche.",
+  "Lieu « Lycée Gabriel-Faure », 1536 : Anciennement nommé Collège de Tournon, il fut fondé en 1536 par le cardinal François II de Tournon.",
+  "Lieu « Lycée Gabriel-Faure », 1763 : Un nouveau fonds est constitué, vendu en 1763 lors de l’expulsion des jésuites (environ 4 000 livres).",
+  "Lieu « Lycée Gabriel-Faure », 1925 : Plusieurs parties de l'édifice sont classés « Monument historique » : le portail d'entrée est classé depuis 1925, le parc depuis 1932 et la chapelle depuis 1943.",
+  "Lieu « Lycée Gabriel-Faure », aujourd'hui : Il porte aujourd'hui le nom de l’écrivain Gabriel Faure (1877-1962), natif de Tournon.",
+  "Lieu « Tour de la Vierge (Tournon-sur-Rhône) » : La tour de la Vierge, également dénommée tour de l'Hôpital, est une tour située dans la commune de Tournon-sur-Rhône, dans le département de l'Ardèche en région Rhône-Alpes, en France.",
+  "Lieu « Tour de la Vierge (Tournon-sur-Rhône) », XVIe siècle : Le site fortifié comprenait autrefois douze tours, construites durant le XVIe siècle sous le commandement de Claude de la Tour Turelle, comtesse de Tournon.",
+  "Lieu « Tour de la Vierge (Tournon-sur-Rhône) », 1860 : En 1860, une statue de la Vierge doit être installée sur le pont Marc-Seguin qui surplombe le Rhône mais elle sera finalement installée sur la tour afin de ne pas déséquilibrer.",
+  "Lieu « Tour de la Vierge (Tournon-sur-Rhône) », 1927 : L'édifice est inscrit au titre des monuments historiques en 1927.",
+  "Lieu « Passerelle Marc-Seguin » : La passerelle Marc-Seguin est un pont suspendu enjambant le Rhône pour relier Tournon-sur-Rhône à Tain-l'Hermitage en France.",
+  "Lieu « Passerelle Marc-Seguin », 1825 : C'est une version élargie et plus élevée du premier pont suspendu qu'il avait construit juste à côté en 1825 (détruit en 1965).",
+  "Lieu « Passerelle Marc-Seguin », 1847 : La passerelle Marc-Seguin fut construite par Marc Seguin de 1847 à 1849 .",
+  "Lieu « Passerelle Marc-Seguin », 1985 : L'édifice est inscrit au titre des monuments historiques en 1985.",
+  "Lieu « Église Saint-Julien de Tournon-sur-Rhône » : L'église Saint-Julien de Tournon-sur-Rhône est une ancienne collégiale située en France sur la commune de Tournon-sur-Rhône, dans le département de l'Ardèche en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Saint-Julien de Tournon-sur-Rhône », 1300 : L'actuelle église Saint-Julien est construite à partir de 1300 et érigée en collégiale le 16 juin 1316 par Guillaume, évêque de Valence et de Die.",
+  "Lieu « Église Saint-Julien de Tournon-sur-Rhône », aujourd'hui : Les chrétiens de Tournon se réunissaient au XIe siècle au même emplacement, dans une petite église d’architecture romane.",
+  "Lieu « Hôtel du marquis de la Tourette » : L'hôtel du marquis de la Tourette est un hôtel particulier situé à Tournon-sur-Rhône, en France.",
+  "Lieu « Hôtel du marquis de la Tourette », XVIe siècle : La construction des bâtiments intérieurs a commencé au début du XVIe siècle mais la façade date du XVIIIe siècle.",
+  "Lieu « Hôtel du marquis de la Tourette », 1936 : L'édifice est inscrit au titre des monuments historiques le 26 mars 1936.",
+  "Lieu « Tour du Nord (Tournon-sur-Rhône) » : La tour du Nord, aussi appelée tour de Pierregourde, est une tour médiévale située en France sur la commune de Tournon-sur-Rhône, dans le département de l'Ardèche en région Rhône-Alpes.",
+  "Lieu « Tour du Nord (Tournon-sur-Rhône) », 1927 : L'édifice est inscrit au titre des monuments historiques en 1927.",
+  "Lieu « Borne milliaire d'Arras-sur-Rhône » : Les deux bornes milliaires d'Arras-sur-Rhône sont des bornes milliaires trouvées en France sur la commune d'Arras-sur-Rhône, dans le département de l'Ardèche, en région Rhône-Alpes.",
+  "Lieu « Borne milliaire d'Arras-sur-Rhône », 1939 : Anciennement dans le cimetière désaffecté entourant l'église d'Arras-sur-Rhône (après avoir servi de support, près de la grande porte, à l'angle d'une tribune), la borne est déplacée en 1939 à l'entrée de la cour d'honneur au château-musée de Tournon-sur-Rhône[réf. nécessaire]."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

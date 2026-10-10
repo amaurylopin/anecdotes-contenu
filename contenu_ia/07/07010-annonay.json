@@ -1,0 +1,259 @@
+{
+ "commune": {
+  "titre": "Annonay",
+  "code_insee": "07010",
+  "departement": "07",
+  "population": 17274,
+  "lat": 45.24083333,
+  "lon": 4.67138889,
+  "url": "https://fr.wikipedia.org/wiki/Annonay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:18:57",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3169,
+  "sortie": 2108
+ },
+ "cout_usd": 0.003269,
+ "accroche": "En 1288, une charte accorde à Annonay une autonomie notable, notamment le droit de levée des tailles.",
+ "histoire": {
+  "recit": "Annonay, capitale historique du Haut-Vivarais, compte plus de 17 000 habitants ; ses habitants sont appelés les Annonéens. Dès le premier écrit citant la ville, une chronique décrit une bourgade « bâtie par de pauvres ouvriers parcheminiers égarés dans les montagnes du Haut-Vivarais ». \n\nAu Moyen Âge, la cité négocie son souffle : en 1288, une charte lui reconnaît le droit de lever des tailles. Plus tard, au XVIe siècle, les berges de la Deûme et de la Cance attirent une trentaine de tanneries, grâce à la qualité de leurs eaux et aux élevages alentour.\n\nL’élan industriel se poursuit au XVIIe siècle avec l’implantation de l’industrie papetière. Puis vient la rupture : le 23 août 1926, un incendie s’empare de l’hôtel de ville. En 1944, après des changements de position liés à la politique menée, la ville est la première libérée par la Résistance entre le 6 et le 17 juin, avant la reprise par les Allemands et Vichy.\n\nEnfin, Annonay continue d’entretenir ses repères : en 2012, les Annonéens fêtent le centenaire de l’ouverture au culte de la nouvelle église Notre-Dame et la création d’une usine liée à Joseph Besset.",
+  "chronologie": [
+   {
+    "date": "403",
+    "texte": "Le premier écrit citant Annonay date de 403.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1288",
+    "texte": "Entre la ville et le seigneur, une charte accorde à la cité une autonomie, dont le droit de levée des tailles.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIe siècle (fin)",
+    "texte": "À la fin du XVIe siècle, une trentaine de tanneries s’installent sur les berges de la Deûme et de la Cance.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Au XVIIe siècle, l’industrie papetière s’implante à Annonay avec les Montgolfier, papetiers originaires d’Ambert.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "23 août 1926",
+    "texte": "Le 23 août 1926, l’hôtel de ville est pris par un incendie.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "6 au 17 juin 1944",
+    "texte": "Annonay est la première ville libérée par la Résistance entre le 6 et le 17 juin 1944.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2012",
+    "texte": "En 2012, les Annonéens fêtent le centenaire de l’ouverture au culte de la nouvelle église Notre-Dame et la création de l’usine de Joseph Besset (2013).",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Joseph d'Annonay",
+   "histoire": "Construite dans un style rappelant le gothique des XIIe et XIIIe siècles, l’église est ouverte et bénie le 1er novembre 1872, jour de la Toussaint.",
+   "anecdotes": [
+    {
+     "texte": "Sur l’édifice, saint Antoine rappelle l’existence d’un hôpital du XIIIe siècle, installé au-dessus de l’emplacement de l’église actuelle ; à droite, saint Claude évoque une chapelle médiévale disparue.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 45.238611111111,
+   "lon": 4.6697222222222,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Joseph_d%27Annonay"
+  },
+  {
+   "nom": "Église Saint-François d'Annonay",
+   "histoire": "L’église Saint-François d’Assise a été construite dans un style néo-gothique rappelant le gothique du XIIIe siècle. Elle est ouverte au public en 2012 lors de la « Nuit des églises », puis de nouveau en 2020 pendant les Journées européennes du patrimoine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 45.241944444444,
+   "lon": 4.6730555555556,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Fran%C3%A7ois_d%27Annonay"
+  },
+  {
+   "nom": "Chapelle de Trachin",
+   "histoire": "La chapelle de Trachin conserve un clocher devenu clocher d’église paroissiale à la suite de l’effondrement de celui de la collégiale Notre-Dame, distante de quelques dizaines de mètres.",
+   "anecdotes": [
+    {
+     "texte": "En 1552, le clocher de la chapelle devient clocher de l’église paroissiale après l’effondrement du clocher de la collégiale Notre-Dame.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Des toiles de Trachin, dont Saint Jacques et saint Philippe signée Adrian Dassier, sont mentionnées en 1668.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des immeubles masquent aujourd’hui le chevet plat, qui peut être admiré depuis une cour intérieure privée.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 45.23944,
+   "lon": 4.6703972,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_de_Trachin"
+  },
+  {
+   "nom": "Château de Déomas",
+   "histoire": "Le château de Déomas est construit en 1876 par Paul Seguin. La propriété est vendue en 1897 à Claire Cyprien-Fabre, puis restaurée après un incendie accidentel au début des années 1990 ; aujourd’hui, le château est un lieu public où se trouve la MJC.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château de Déomas est un lieu public où se trouve la MJC (Maison des Jeunes et de la Culture) d’Annonay.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 45.255556,
+   "lon": 4.673611,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_D%C3%A9omas"
+  },
+  {
+   "nom": "Couvent Sainte-Marie d'Annonay",
+   "histoire": "Le couvent Sainte-Marie est un ancien couvent à Annonay. En 1748, les bâtiments centraux sont reconstruits et une partie du cloître disparaît. Affectée au culte jusqu’en 1904, la chapelle devient ensuite une salle de réunions puis un dépôt municipal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La cour formée était autrefois le cloitre, ouvert sur des jardins conventuels en contrebas, aujourd’hui disparus.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 45.241417,
+   "lon": 4.6699361,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_Sainte-Marie_d%27Annonay"
+  },
+  {
+   "nom": "Chapelle Sainte-Claire d'Annonay",
+   "histoire": "La chapelle Sainte-Claire est liée à un couvent reconstruit au milieu du XIVe siècle. La chapelle conventuelle est détruite en 1574 pendant les guerres de Religion, puis les bâtiments conventuels sont démolis en 1912, la chapelle étant transformée en salle de cinéma après la Première Guerre mondiale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 45.2425,
+   "lon": 4.67148,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Sainte-Claire_d%27Annonay"
+  },
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption d'Annonay",
+   "histoire": "L’église Notre-Dame-de-l’Assomption a fait l’objet d’une restauration des structures et de la façade principale entre 2001 et 2002. En 2018, elle ouvre au public dans « Porte ouverte à Notre-Dame » ; en 2020, elle s’ouvre encore pour les Journées européennes du patrimoine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 45.240555555556,
+   "lon": 4.6686111111111,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_d%27Annonay"
+  }
+ ],
+ "sources": [
+  "Annonay est une commune française située dans le département de l'Ardèche, en région Auvergne-Rhône-Alpes. Capitale historique du Haut-Vivarais, Annonay est avec plus de 17 000 habitants la commune la plus peuplée d'Ardèche. Ses habitants sont appelés les Annonéens.",
+  "Le premier écrit citant Annonay daterait de 403. Une chronique des archives de Vienne qualifierait la ville de bourgade « bâtie par de pauvres ouvriers parcheminiers égarés dans les montagnes du Haut-Vivarais ». Un manuscrit aujourd'hui disparu : l’Histoire d’Annonay du Père Barthélemy Popon (fl. en 1743 ; curé d'Annonay, chanoine de Saint-Ruf), préciserait qu'Evance, évêque de Vienne, aurait fait construire sur […]",
+  "1288 : Dès 1288, entre la ville et le seigneur est signée une charte qui accorde une certaine autonomie à la cité : en particulier, le droit de levée des tailles.",
+  "XVIe siècle : À la fin du XVIe siècle, une trentaine de tanneries sont installées sur les berges de la Deûme et de la Cance, attirées par la qualité de leurs eaux et les élevages environnants.",
+  "1634 : Les Johannot, autre famille auvergnate, est installée depuis 1634 à Faya.",
+  "XVIIe siècle : L'industrie papetière s'implante à Annonay au XVIIe siècle, avec les Montgolfier, papetiers originaires d'Ambert, installés à Vidalon-lès-Annonay (aujourd’hui hameau de la commune de Davézieux).",
+  "1926 : Le 23 août 1926, l’hôtel de ville est pris par un incendie.",
+  "1944 : Cependant, Annonay évolue d'un soutien au régime de Vichy à une franche opposition (surtout après l'instauration du S.T.O), elle est la première ville libérée par la Résistance (A.S. et F.T.P.) du 6 au 17 juin 1944, date de reprise de la ville par les Allemands et Vichy.",
+  "2012 : Les Annonéens fêtent le centenaire de l'ouverture au culte de la nouvelle église Notre-Dame (2012) et de la création de l’usine de Joseph Besset (2013).",
+  "Lieu « Église Saint-Joseph d'Annonay » : L'église Saint-Joseph de Cance est érigée dans la commune d'Annonay, département de l'Ardèche en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Saint-Joseph d'Annonay », XIIIe siècle : L’église Saint-Joseph a été construite dans un style rappelant le gothique des XIIe et XIIIe siècles.",
+  "Lieu « Église Saint-Joseph d'Annonay », XIIIe siècle : À sa gauche, saint Antoine rappelle l’existence d’un hôpital du XIIIe siècle, installé au-dessus de l’emplacement de l’église actuelle et à droite : saint Claude, patron d’une chapelle médiévale disparue.",
+  "Lieu « Église Saint-Joseph d'Annonay », 1872 : 1872 : ouverture et bénédiction de l’église (1er novembre, jour de la Toussaint).",
+  "Lieu « Église Saint-Joseph d'Annonay », aujourd'hui : Diaporama « Sur les Traces de saint Paul », temps musicaux, présentation historique de l’église, des vitraux, d’objets liturgiques et temps de méditation (juillet).",
+  "Lieu « Église Saint-François d'Annonay » : L'église Saint-François d'Assise est érigée dans la commune d'Annonay, département de l'Ardèche en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Saint-François d'Annonay », XIIIe siècle : L’église Saint-François d’Assise a été construite dans le plus pur style néo-gothique rappelant le gothique du XIIIe siècle.",
+  "Lieu « Église Saint-François d'Annonay », 2012 : 2012 : Ouverture de l'édifice dans le cadre de la « Nuit des églises » en lien avec la Conférence des évêques de France.",
+  "Lieu « Église Saint-François d'Annonay », 2020 : 2020 : Ouverture de l'église dans le cadre des Journées européennes du patrimoine » en partenariat avec Annonay Rhône Agglo.",
+  "Lieu « Église Saint-François d'Annonay », aujourd'hui : Saint François d’Assise a été choisi comme patron en raison de sa situation : entre les emplacements des anciens couvents des franciscains ou cordeliers et des clarisses fondés aux XIIIe et XIVe siècles.",
+  "Lieu « Chapelle de Trachin » : La chapelle de Trachin est une chapelle située à Annonay, dans le département français de l'Ardèche, en France.",
+  "Lieu « Chapelle de Trachin », 1552 : 1552 : Le clocher de la chapelle devient le clocher de l’église paroissiale à la suite de l'effondrement de celui de la collégiale Notre-Dame distante de quelques dizaines de mètres.",
+  "Lieu « Chapelle de Trachin », 1668 : Trachin possède plusieurs grandes toiles : Saint Jacques et saint Philippe (1668), signée Adrian Dassier.",
+  "Lieu « Chapelle de Trachin », 1920 : Au crépuscule la nef est éclairée par un vitrail signé Jean-Marcel Héraut (1920 - 1982) : Saint-Jacques et saint Philippe (deuxième moitié du XXe siècle).",
+  "Lieu « Chapelle de Trachin », aujourd'hui : Des immeubles cachent aujourd’hui le chevet plat de la chapelle qui peut être admiré depuis une cour intérieure privée.",
+  "Lieu « Château de Déomas » : Le château de Déomas est un château situé dans la commune d'Annonay dans le département de l'Ardèche en France.",
+  "Lieu « Château de Déomas », 1876 : Il a été construit en 1876, au nord d'Annonay, par Paul Seguin.",
+  "Lieu « Château de Déomas », 1897 : À sa mort, la propriété est vendue en 1897 à Claire Cyprien-Fabre (1872-1967), d'une grande famille marseillaise, et épouse de George Vignat, rentier à Annonay.",
+  "Lieu « Château de Déomas », 1990 : Après restauration à la suite d'un incendie accidentel au début des années 1990, ce château constitue l'élément décoratif central du parc.",
+  "Lieu « Château de Déomas », aujourd'hui : De nos jours, le château de Déomas est un lieu public dans lequel se trouve la MJC (Maison des Jeunes et de la Culture) d'Annonay.",
+  "Lieu « Couvent Sainte-Marie d'Annonay » : Le couvent Sainte-Marie est un ancien couvent situé à Annonay dans le département de l'Ardèche, en France.",
+  "Lieu « Couvent Sainte-Marie d'Annonay », 1748 : En 1748 les bâtiments centraux sont reconstruits, une partie du cloître disparaît.",
+  "Lieu « Couvent Sainte-Marie d'Annonay », 1904 : Affectée au culte jusqu’en 1904, la chapelle de l'édifice devient une salle de réunions puis un dépôt municipal.",
+  "Lieu « Couvent Sainte-Marie d'Annonay », XXIe siècle : Les logements à l'intérieur des anciens bâtiments conventuels sont reconstruits entre la fin du XXe et le début du XXIe siècle.",
+  "Lieu « Couvent Sainte-Marie d'Annonay », aujourd'hui : La cour ainsi formée était autrefois le cloitre qui avait la particularité d'être ouvert sur les jardins conventuels situés en contrebas (aujourd'hui disparus) et sur la ville.",
+  "Lieu « Chapelle Sainte-Claire d'Annonay » : La chapelle Sainte-Claire est une ancienne chapelle située à Annonay, en France.",
+  "Lieu « Chapelle Sainte-Claire d'Annonay », XIVe siècle : Leur couvent est reconstruit au milieu du XIVe siècle, grâce au cardinal Pierre Bertrand sur un autre site.",
+  "Lieu « Chapelle Sainte-Claire d'Annonay », 1574 : La chapelle conventuelle est détruite une première fois pendant les guerres de Religion en 1574.",
+  "Lieu « Chapelle Sainte-Claire d'Annonay », 1912 : Les bâtiments conventuels sont démolis en 1912 à l'exception de la chapelle transformée en salle de cinéma après la Première Guerre mondiale.",
+  "Lieu « Chapelle Sainte-Claire d'Annonay », aujourd'hui : Dans un premier temps sur les bords de la Cance, pratiquement à l'emplacement de l'église Saint-Joseph.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Annonay » : L'église Notre-Dame est érigée dans la commune d'Annonay, département de l'Ardèche en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Annonay », 2001 : 2001 - 2002 : Restauration des structures de l’édifice et de la façade principale.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Annonay », 2018 : 2018 : Ouverture de l'église intitulée « Porte ouverte à Notre-Dame » dans le cadre de l'exposition « Places aux arts » proposée par le « Collectif centre ancien » en partenariat avec Annonay Rhône Agglo.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Annonay », 2020 : 2020 : Ouverture de l'église dans le cadre des Journées européennes du patrimoine » en partenariat avec Annonay Rhône Agglo."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 7,
+  "nb_anecdotes": 3
+ }
+}

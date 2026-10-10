@@ -1,0 +1,100 @@
+{
+ "commune": {
+  "titre": "Guilherand-Granges",
+  "code_insee": "07102",
+  "departement": "07",
+  "population": 11235,
+  "lat": 44.93527778,
+  "lon": 4.87555556,
+  "url": "https://fr.wikipedia.org/wiki/Guilherand-Granges"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:47:53",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1193,
+  "sortie": 591
+ },
+ "cout_usd": 0.000977,
+ "accroche": "En 1830, l’ouverture à la circulation du premier pont entre Valence et le quartier des Granges change l’élan de Guilherand-Granges.",
+ "histoire": {
+  "recit": "Guilherand-Granges, petite commune d’Ardèche, se trouve juste à l’ouest de Valence, sur la rive droite du Rhône. Autrefois rattachée au Vivarais, elle a adhéré à la communauté de communes Rhône-Crussol depuis 2014.\n\nÀ Granges, l’édifice le plus marquant est l’église Sainte-Thérèse de Guilherand-Granges. On y voit comment la ville s’est construite par étapes : d’abord la facilitation des liens avec Valence, puis la mobilisation des habitants et les temps de consécration du lieu de culte.",
+  "chronologie": [
+   {
+    "date": "2014",
+    "texte": "La commune adhère à la communauté de communes Rhône-Crussol.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "Ouverture à la circulation du premier pont entre Valence et le quartier des Granges.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1931",
+    "texte": "Un appel à souscription paraît dans « La Croix de l’Ardèche » pour la construction de l’édifice dédié à sainte-Thérèse de l’Enfant-Jésus.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "Bénédiction par Mgr Pierre-Marie Durieux et ouverture du lieu de culte (octobre).",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Sainte-Thérèse de Guilherand-Granges",
+   "histoire": "L’église Sainte-Thérèse se dresse dans la commune de Guilherand-Granges. Sa construction est soutenue par un appel à souscription publié en 1931, puis le lieu est béni en octobre 1935 et ouvert au culte.",
+   "anecdotes": [
+    {
+     "texte": "Jusqu’à leur suppression, des ancrages pour béton armé marquaient l’emplacement de l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 44.931556,
+   "lon": 4.8767028,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Th%C3%A9r%C3%A8se_de_Guilherand-Granges"
+  }
+ ],
+ "sources": [
+  "Guilherand-Granges [ɡijʁɑ̃ ɡʁɑ̃ʒ] est une commune française située dans le département de l'Ardèche en région Auvergne-Rhône-Alpes, juste à l'ouest de la ville de Valence, sur la rive droite du Rhône. Autrefois située dans la province royale du Vivarais et adhérente à la communauté de communes Rhône-Crussol depuis 2014, cette petite ville est située à 1 km de Valence, chef-lieu de la Drôme dans la vallée du Rhône. […]",
+  "Lieu « Église Sainte-Thérèse de Guilherand-Granges » : L'église Sainte-Thérèse est érigée dans la commune de Guilherand-Granges, département de l'Ardèche en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Sainte-Thérèse de Guilherand-Granges », 1830 : Quelques faits à l’origine de la construction : 1830 : Ouverture à la circulation du premier pont entre Valence et le quartier des Granges .",
+  "Lieu « Église Sainte-Thérèse de Guilherand-Granges », 1931 : 1931 : Appel à souscription publié dans « La Croix de l’Ardèche » pour la construction de cet édifice dédié à sainte-Thérèse de l’Enfant-Jésus.",
+  "Lieu « Église Sainte-Thérèse de Guilherand-Granges », 1935 : 1935 : Bénédiction par Mgr Pierre-Marie Durieux, successeur de Mgr Hurault et ouverture de ce lieu de culte à Granges-lès-Valence (octobre).",
+  "Lieu « Église Sainte-Thérèse de Guilherand-Granges », aujourd'hui : Des ancrages pour béton armé marquaient son emplacement jusqu'à leur suppression, il y a quelques années."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,318 @@
+{
+ "commune": {
+  "titre": "Privas",
+  "code_insee": "07186",
+  "departement": "07",
+  "population": 8538,
+  "lat": 44.73583333,
+  "lon": 4.6,
+  "url": "https://fr.wikipedia.org/wiki/Privas"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:12:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2458,
+  "sortie": 2315
+ },
+ "cout_usd": 0.003385,
+ "accroche": "Privas, chef-lieu de l’Ardèche, est dominée par le neck du Mont Toulon (ou Montoulon), et comptait 8 313 habitants au dernier recensement Insee de 2023.",
+ "histoire": {
+  "recit": "À Privas, les ruelles se sont forgées entre guerres de religion et reconstructions de lieux de culte. Le mouvement protestant, réprimé, gagne pourtant du terrain : pendant près de 70 ans, le culte catholique n’est plus célébré et l’église est détruite en 1570. En 1629, après une prise d’armes, la ville est assiégée par l’armée royale, avant que la vie religieuse ne se réorganise. \n\nPlus tard, les transformations urbaines passent aussi par la route et le chemin de fer. La gare, ouverte pour le service des marchandises en 1862, ferme aux voyageurs en décembre 1938, puis disparaît : en juin 2007, le site n’est plus qu’un terre-plein vide. \n\nAujourd’hui, certains repères résistent : à côté du clocher, quelques arcades de l’ancien cloître du Couvent des Récollets rappellent l’édification progressive de leur chapelle, tandis que le Temple protestant de Privas a trouvé sa forme actuelle au début du XIXe siècle.",
+  "chronologie": [
+   {
+    "date": "1570",
+    "texte": "Malgré la répression, le culte catholique ne fut plus célébré à Privas pendant près de 70 ans, et l’église fut même détruite en 1570.",
+    "sources": [
+     "S3",
+     "S20"
+    ]
+   },
+   {
+    "date": "1629",
+    "texte": "À la suite de la prise d’armes par les protestants, Privas est assiégée par l’armée royale, dans le cadre d’une opération militaire organisée en 1629.",
+    "sources": [
+     "S4",
+     "S19"
+    ]
+   },
+   {
+    "date": "juin 1815 - novembre 1818",
+    "texte": "Après Waterloo, Privas et une grande partie de l’Ardèche sont occupées par les troupes autrichiennes de juin 1815 à novembre 1818.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "17 février 1862",
+    "texte": "Les installations de la station sont achevées avec la mise en service de la nouvelle ligne et l’ouverture du service des marchandises.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "décembre 1938",
+    "texte": "La gare est fermée au service voyageurs.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "juin 2007",
+    "texte": "Le site de l’ancienne gare n’est plus qu’un terre-plein vide, sans traces des emprises ferroviaires.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Couvent des Récollets de Privas",
+   "histoire": "Le Couvent des Récollets s’élève, depuis la fin des guerres de religion, au-dessus du centre ancien de la ville. En 1644, quelques religieux s’installent à Privas pour convertir une population majoritairement protestante, puis les États du Vivarais accordent une somme pour lancer l’édification d’un couvent et d’une chapelle.",
+   "anecdotes": [
+    {
+     "texte": "En 1644, ils ne sont que trois ou quatre religieux à s’installer à Privas pour convertir une population majoritairement protestante.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "La chapelle des Récollets est construite entre 1684 et 1692 sous le règne de Louis XIV.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, il ne reste que quelques arcades de l’ancien cloître à proximité du clocher de la chapelle.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Quelques arcades de l’ancien cloître, à proximité du clocher de la chapelle.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 44.735954,
+   "lon": 4.595391,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_R%C3%A9collets_de_Privas"
+  },
+  {
+   "nom": "Gare de Privas",
+   "histoire": "La gare de Privas, gare ferroviaire française fermée et disparue, appartenait à la ligne du Pouzin à Privas. Les installations sont achevées en 1862 pour le service des marchandises, puis la gare ferme aux voyageurs avant de disparaître totalement.",
+   "anecdotes": [
+    {
+     "texte": "En juin 2007, le site n’est plus qu’un terre-plein vide de toutes traces des anciennes emprises ferroviaires.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "La mise en service de la ligne s’accompagne de l’ouverture du service des marchandises le 17 février 1862.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 44.731444,
+   "lon": 4.593478,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Privas"
+  },
+  {
+   "nom": "Temple protestant de Privas",
+   "histoire": "Le Temple protestant de Privas est un lieu de culte situé 12, cours du Temple à Privas. Après le siège de 1629, la ville est rasée et le premier temple est détruit. Le temple actuel est inauguré le 9 mars 1823, puis des aménagements de fenêtres et une grille sont installés en 1854.",
+   "anecdotes": [
+    {
+     "texte": "En 1854, les fenêtres sont réaménagées et une grille est installée, avec un portail en fer forgé.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Après le siège de 1629, le premier temple est détruit.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Le temple actuel est inauguré le 9 mars 1823.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Temple protestant de Privas, au 12, cours du Temple à Privas.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 44.734892,
+   "lon": 4.594266,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_de_Privas"
+  },
+  {
+   "nom": "Siège de Privas",
+   "histoire": "Le siège de Privas est une opération militaire organisée en 1629 par le roi de France Louis XIII et le cardinal de Richelieu, afin de mettre fin aux rébellions huguenotes. En 1629, à la suite de la prise d’armes par les protestants, la ville est assiégée. Les armées installent leur quartier général dans ce qui s’appelle aujourd’hui la plaine du Lac et assiègent la ville avec 20 000 soldats royaux.",
+   "anecdotes": [
+    {
+     "texte": "Ayant établi leur quartier général à l’est et au sud de Privas, dans la plaine du Lac, les assiégeants arrivent avec 20 000 soldats royaux.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S4",
+    "S21"
+   ],
+   "lat": 44.7358333333,
+   "lon": 4.6,
+   "url": "https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Privas"
+  },
+  {
+   "nom": "Maison d'arrêt de Privas",
+   "histoire": "La maison d’arrêt de Privas est une maison d’arrêt située dans la ville de Privas. Elle est construite en 1818 et mise en service en février 1820.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 44.7357,
+   "lon": 4.5947,
+   "url": "https://fr.wikipedia.org/wiki/Maison_d%27arr%C3%AAt_de_Privas"
+  },
+  {
+   "nom": "Pont sur l'Ouvèze (Privas)",
+   "histoire": "Le pont sur l’Ouvèze, aussi dit de Louis XIII, est un pont du XIIe siècle à Privas. En 1855, un viaduc est construit en amont et la circulation est déplacée sur ce nouvel ouvrage.",
+   "anecdotes": [
+    {
+     "texte": "En 1855, la circulation se déplace après la construction d’un viaduc quelques centaines de mètres en amont.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "Le pont sur l’Ouvèze est aussi appelé pont de Louis XIII.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 44.728886,
+   "lon": 4.599718,
+   "url": "https://fr.wikipedia.org/wiki/Pont_sur_l%27Ouv%C3%A8ze_%28Privas%29"
+  },
+  {
+   "nom": "Calvaire du Montoulon",
+   "histoire": "Le calvaire du Montoulon domine la ville de Privas, à environ 427 mètres d’altitude. Juste au-dessus de la Pietà, trois croix installées par le père Joseph-Marie Chiron, au milieu du XIXe siècle, dominent le site et l’agglomération, y compris la nuit grâce à un éclairage.",
+   "anecdotes": [
+    {
+     "texte": "Les trois croix installées par le père Joseph-Marie Chiron éclairent aussi la nuit grâce à l’installation d’un éclairage du site.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 44.7335,
+   "lon": 4.59015,
+   "url": "https://fr.wikipedia.org/wiki/Calvaire_du_Montoulon"
+  },
+  {
+   "nom": "Tour Diane de Poitiers",
+   "histoire": "La tour Diane de Poitiers sert d’entrée à l’hôtel particulier du même nom situé à Privas. L’édifice est inscrit au titre des monuments historiques en 1935.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 44.735774391328,
+   "lon": 4.5970091207083,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Diane_de_Poitiers"
+  }
+ ],
+ "sources": [
+  "Privas (prononcé [pʁi.va]) est une commune du Sud-Est de la France, chef-lieu du département de l'Ardèche, en région Auvergne-Rhône-Alpes. Dominée par le neck du Mont Toulon (ou Montoulon), c'est la moins peuplée des préfectures de France avec 8 313 habitants d'après le dernier recensement de l'Insee en 2023. Située au cœur du bassin privadois et ville-siège de la communauté d'agglomération Privas Centre Ardèche, la […]",
+  "Durant la période antique, le peuple gaulois des Helviens (en latin Helvii) est installé dans l'actuelle partie Sud du département de l'Ardèche, en limite du territoire des Segovellaunes, essentiellement situé dans le Valentinois (région de Valence) Les premières traces de la ville sont attestées au hameau du Lac, secteur où des fouilles archéologiques récentes ont permis de mettre au jour une villa du début de […]",
+  "1570 : Cependant, malgré la répression, le mouvement s'étendit et pendant près de 70 ans, le culte catholique ne fut plus célébré à Privas, l'église fut même détruite en 1570.",
+  "1629 : Il en découla une nouvelle guerre qui nécessita l'intervention du maréchal de Montmorency, puis, en 1629 à la suite de la prise d’armes par les protestants, la ville est assiégée par l’armée royale.",
+  "1815 : Après la victoire des coalisés à la bataille de Waterloo en juin 1815, Privas ainsi que la majeure partie du département de l'Ardèche est occupé par les troupes autrichiennes de juin 1815 à novembre 1818 (voir occupation de la France à la fin du Premier Empire).",
+  "Lieu « Couvent des Récollets de Privas » : Le Couvent des Récollets de Privas s'élève depuis la fin des guerres de religion au-dessus du centre ancien de la ville.",
+  "Lieu « Couvent des Récollets de Privas », 1644 : Ils ne sont que trois ou quatre religieux qui s'installent à Privas en 1644 dans le but de convertir la population majoritairement protestante.",
+  "Lieu « Couvent des Récollets de Privas », 1652 : En 1652 et 1681, les États du Vivarais accordent une somme d'argent afin de lancer l'édification d'un couvent et une chapelle.",
+  "Lieu « Couvent des Récollets de Privas », 1684 : La chapelle des Récollets a été construite entre 1684 et 1692, sous le règne de Louis XIV.",
+  "Lieu « Couvent des Récollets de Privas », aujourd'hui : Il ne reste que quelques arcades de l'ancien cloître, à proximité du clocher de la chapelle.",
+  "Lieu « Gare de Privas » : La gare de Privas est une gare ferroviaire française, fermée et disparue, de la ligne du Pouzin à Privas.",
+  "Lieu « Gare de Privas », 1862 : Les installations de la station sont achevées lorsque la compagnie met en service sa nouvelle ligne avec l'ouverture du service des marchandises le 17 février 1862.",
+  "Lieu « Gare de Privas », 1938 : La gare est fermée au service voyageurs en décembre 1938.",
+  "Lieu « Gare de Privas », 2007 : La gare est détruite à une date indéterminée, mais, en juin 2007, le site n'est plus qu'un terre-plein vide de toutes traces des anciennes emprises ferroviaires.",
+  "Lieu « Temple protestant de Privas » : Le temple protestant de Privas est un lieu de culte situé 12, cours du Temple à Privas, en Ardèche.",
+  "Lieu « Temple protestant de Privas », 1629 : En 1629, après le siège de Privas, la ville est rasée et le premier temple détruit.",
+  "Lieu « Temple protestant de Privas », 1823 : Le temple actuel est inauguré 9 mars 1823.",
+  "Lieu « Temple protestant de Privas », 1854 : En 1854, sont réaménagées les fenêtres, et est installée une grille sur le mur longeant la rue, ouvert avec un portail en fer forgé.",
+  "Lieu « Siège de Privas » : Le siège de Privas est une opération militaire organisée en 1629 par le roi de France, Louis XIII, et le cardinal de Richelieu dans le but de mettre fin aux rébellions huguenotes dans le Sud de la France, après la victoire contre les protestants lors",
+  "Lieu « Siège de Privas », 1570 : Cependant, malgré la répression, le mouvement s'étendit et pendant près de 70 ans, le culte catholique ne fut plus célébré à Privas, l'église fut même détruite en 1570.",
+  "Lieu « Siège de Privas », aujourd'hui : Ayant établi leur quartier général respectivement à l'est et au sud de Privas dans ce que l'on appelle aujourd'hui la plaine du Lac, ils assiégèrent la ville avec 20 000 soldats royaux dépêchés pour venir en aide au vicomte de Lestrange.",
+  "Lieu « Maison d'arrêt de Privas » : La maison d'arrêt de Privas est une maison d'arrêt française située dans la ville de Privas, dans le département de l'Ardèche et en région Auvergne-Rhône-Alpes.",
+  "Lieu « Maison d'arrêt de Privas », 1818 : La maison d'arrêt de Privas est construite en 1818 et mise en service en février 1820.",
+  "Lieu « Pont sur l'Ouvèze (Privas) » : Le pont sur l'Ouvèze, également dit de Louis XIII, est un pont du XIIe siècle situé à Privas dans le département de l'Ardèche.",
+  "Lieu « Pont sur l'Ouvèze (Privas) », 1855 : En 1855, un viaduc sera construit quelques centaines de mètres en amont et la circulation se déplacera sur ce nouvel ouvrage.",
+  "Lieu « Calvaire du Montoulon » : Le calvaire du Montoulon (quelquefois dénommé calvaire du Mont-Toulon) est un monument religieux catholique qui domine la ville de Privas, dans le département français de l'Ardèche à environ à 427 mètres d'altitude.",
+  "Lieu « Calvaire du Montoulon », XIXe siècle : Juste au-dessus de la Pietà, les trois croix installées par le père Joseph-Marie Chiron au milieu du XIXe siècle dominent le site et l'agglomération y compris la nuit, grâce à l'installation d'un éclairage du site.",
+  "Lieu « Tour Diane de Poitiers » : La tour Diane de Poitiers sert d'entrée à l'hôtel particulier du même nom situé à Privas, en France.",
+  "Lieu « Tour Diane de Poitiers », 1935 : L'édifice est inscrit au titre des monuments historiques en 1935."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 12
+ }
+}
