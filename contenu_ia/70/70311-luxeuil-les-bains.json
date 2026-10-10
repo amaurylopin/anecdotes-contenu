@@ -1,0 +1,249 @@
+{
+ "commune": {
+  "titre": "Luxeuil-les-Bains",
+  "code_insee": "70311",
+  "departement": "70",
+  "population": 6663,
+  "lat": 47.81694444,
+  "lon": 6.38138889,
+  "url": "https://fr.wikipedia.org/wiki/Luxeuil-les-Bains"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:41:30",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3039,
+  "sortie": 1993
+ },
+ "cout_usd": 0.003099,
+ "accroche": "Le 16 septembre 1944, Luxeuil-les-Bains est libérée de l’occupant allemand par le 3e Bataillon du 143e Régiment d’Infanterie de la 36e Division d’Infanterie Américaine.",
+ "histoire": {
+  "recit": "Avant même la conquête romaine, le site de Luxeuil-les-Bains est réputé pour ses sources thermales, et prospère à l’époque gallo-romaine sous le nom de Luxovium, autour d’un forum proche des thermes. Quand les temps se font plus durs, le monastère et la petite bourgade ne résistent pas aux Normands : ils sont attaqués au IXe siècle et la ville est ensuite pillée plusieurs fois. \n\nPlus tard, la guerre frappe encore. Le 10 mai 1940, la base est bombardée ; puis, le 16 septembre 1944, la ville est libérée. Aujourd’hui, les thermes demeurent un repère : les cures sont préconisées notamment pour la phlébologie et certaines affections gynécologiques et rhumatismales.\n\nDans le même espace, la ville a bâti ses repères religieux et civils : la basilique Saint-Pierre a été reprise sur des fondations plus anciennes, et l’église Saint-Martin a révélé des vestiges lors de fouilles.",
+  "chronologie": [
+   {
+    "date": "IXe siècle",
+    "texte": "Le monastère et la petite bourgade ne résistent pas à l’attaque des Normands ; la ville est ensuite pillée plusieurs fois.",
+    "sources": [
+     "S10",
+     "S3"
+    ]
+   },
+   {
+    "date": "934",
+    "texte": "La ville est à nouveau pillée, notamment en 934 par les Magyars.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "10 mai 1940",
+    "texte": "La base est bombardée par la Luftwaffe ; des combats opposent des pilotes de la base et des pilotes allemands.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "16 septembre 1944",
+    "texte": "L’occupant allemand se retire : Luxeuil-les-Bains est libérée par le 3e Bataillon du 143e Régiment d’Infanterie de la 36e Division d’Infanterie Américaine.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Saint-Pierre-et-Saint-Paul de Luxeuil",
+   "histoire": "Fondé vers 585-590 par le missionnaire irlandais saint Colomban, puis fondé en 590, le monastère permet à Luxovium de revivre. Au IXe siècle, Normands et pillages fragilisent l’ensemble, et Colomban choisit ensuite l’installation sur les ruines d’un bourg gallo-romain, à Luxovium, dont les fortifications restent visibles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 47.81639,
+   "lon": 6.38139,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Pierre-et-Saint-Paul_de_Luxeuil"
+  },
+  {
+   "nom": "Établissement thermal de Luxeuil-les-Bains",
+   "histoire": "L’établissement actuel, construit en grès rose des Vosges, est bâti sous le règne de Louis XV et inauguré en 1768. Il est classé à plusieurs reprises au titre des monuments historiques, et la municipalité récupère les thermes en 1936 : une piscine thermale moderne est construite en 1938-1939.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les cures y sont actuellement préconisées surtout pour la phlébologie et les affections gynécologiques et rhumatismales.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 47.8207,
+   "lon": 6.3765,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tablissement_thermal_de_Luxeuil-les-Bains"
+  },
+  {
+   "nom": "Église Saint-Martin de Luxeuil-les-Bains",
+   "histoire": "On y retrouve d’abord un bâti romain : le plus ancien bâtiment en pierre correspond à une domus du IIe siècle. Plus tard, le site passe par une phase d’abandon au IVe siècle puis, au début du IXe siècle, l’église est reconstruite et intègre des sarcophages primitifs et une abside à caractère mémoriel. Des fouilles INRAP ont ensuite mis au jour des vestiges.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Lors de la fouille INRAP, les vestiges de l’église Saint Martin ont été découverts sous la direction de Sébastien Bully.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 47.8175,
+   "lon": 6.3806,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Luxeuil-les-Bains"
+  },
+  {
+   "nom": "Hôpital de Luxeuil-les-Bains",
+   "histoire": "Plusieurs hospices existent avant la Révolution française, dont celui fondé en 1409 par l’abbé Guillaume de Busseuil, à l’extérieur des remparts. En 1867, les fondations du bâtiment sont bénies par le cardinal Césaire Mathieu. Le bâtiment surnommé le « château », en style néo-Louis XIII, est construit et ouvre en 1882.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’hôpital est un établissement de santé de proximité, avec des services de médecine polyvalente, de gériatrie et de soin de suite.",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.822018,
+   "lon": 6.379601,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_de_Luxeuil-les-Bains"
+  },
+  {
+   "nom": "Tour des échevins",
+   "histoire": "Édifice du XVe siècle abritant un musée d’art et d’archéologie, la tour est construite dans la deuxième moitié du XVe siècle par Henri, fils de Perrin Jouffoy, et frère du cardinal Jean Jouffroy. Elle est classée au titre des monuments historiques depuis 1862.",
+   "anecdotes": [
+    {
+     "texte": "On attribue la construction de la tour des échevins à Henri, fils de Perrin Jouffoy, frère du cardinal Jean Jouffroy.",
+     "statut": "etabli",
+     "sources": [
+      "S28",
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 47.8178,
+   "lon": 6.3804,
+   "url": "https://fr.wikipedia.org/wiki/Tour_des_%C3%A9chevins"
+  },
+  {
+   "nom": "Hôtel Thiebaut de Montureux",
+   "histoire": "Hôtel particulier à l’angle de la place de la République, l’édifice est du XVIe siècle. Il a abrité la première pharmacie de Luxeuil au XVIIIe siècle. Inscrit au titre des monuments historiques en 2011, il accueille aujourd’hui un fleuriste.",
+   "anecdotes": [
+    {
+     "texte": "L’hôtel a accueilli la première pharmacie de Luxeuil.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, un fleuriste y est installé.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 47.8173,
+   "lon": 6.3805,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Thiebaut_de_Montureux"
+  },
+  {
+   "nom": "Hôtel Bretons-d'Amblans",
+   "histoire": "Hôtel particulier de Luxeuil-les-Bains, partiellement inscrit au titre des monuments historiques par arrêté du 19 novembre 1976. Le bâtiment est aujourd’hui en ruine et menace de s’écrouler.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment est actuellement en ruine et menace de s’écrouler.",
+   "sources": [
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 47.8176,
+   "lon": 6.3818,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Bretons-d%27Amblans"
+  },
+  {
+   "nom": "Basilique Saint-Pierre de Luxeuil-les-Bains",
+   "histoire": "À la Place Saint-Pierre, la basilique Saint-Pierre est la quatrième église construite sur ce site. Hugues de Faucogney commence la construction en 1215 sur des fondations d’un édifice précédent incendié en 1201, et l’ensemble est achevé sous l’autorité de l’abbé Eudes de Charenton en 1330, puis consacré à Saint Pierre et Saint Paul. Abbatiale jusqu’en 1790, elle devient église paroissiale de la ville après avoir successivement servi à la fermeture de l’Abbaye du temple de la Raison.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, c’est l’église paroissiale de la ville.",
+   "sources": [
+    "S37",
+    "S38",
+    "S39"
+   ],
+   "lat": 47.816854,
+   "lon": 6.381978,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Pierre_de_Luxeuil-les-Bains"
+  }
+ ],
+ "sources": [
+  "Luxeuil-les-Bains est une commune française située dans le département de la Haute-Saône, en Franche-Comté, dans la région administrative Bourgogne-Franche-Comté. Commune principale de la communauté de communes du Pays de Luxeuil, elle est la quatrième la plus peuplée du département après Vesoul, Héricourt et Lure. Réputée pour ses spécialités culinaires, sa dentelle et principalement ses thermes, elle fait partie […]",
+  "Le site de Luxeuil-les-Bains était connu bien avant la conquête de la Gaule par les Romains pour ses sources thermales et tirant sans doute son nom du dieu celtique Luxovios ou Lussoius, la ville prospéra à l'époque gallo-romaine sous le nom de Luxovium. Développée à cette époque autour de son forum probablement proche des thermes, soit dans la partie septentrionale de la ville actuelle, elle se situe au carrefour […]",
+  "934 : Le monastère et la petite bourgade ne résistent pas à l'attaque des Normands au IXe siècle, et la ville est à nouveau pillée plusieurs fois dont en 934 par les magyars.",
+  "1940 : Lors de la Seconde Guerre mondiale, le 10 mai 1940, la base est bombardée par la Luftwaffe, des combats ont lieu entre les pilotes de la base et les pilotes allemands.",
+  "1944 : Luxeuil-les-Bains est libérée de l'occupant allemand le 16 septembre 1944 par le 3e Bataillon du 143e Régiment d'Infanterie de la 36e Division d'Infanterie Américaine.",
+  "1966 : Après avoir accueilli l'arme nucléaire de 1966 à 2011 (abandonnée après la fin de la guerre froide), celle-ci doit faire son retour à l'horizon 2032 sous la forme de missiles hypersoniques, portés par deux escadrons de Rafale.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Luxeuil » : L'abbaye Saint-Pierre-et-Saint-Paul de Luxeuil est située à Luxeuil-les-Bains au sud-est des Vosges.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Luxeuil », 585 : Le monastère a été fondé vers 585-590 par le missionnaire irlandais saint Colomban.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Luxeuil », 590 : Elle a été fondée en 590 par saint Colomban, ce qui a permis à Luxovium, importante cité à l'époque romaine mais déserte car complètement ruinée par les invasions barbares, de revivre.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Luxeuil », IXe siècle : Les rares survivants entreprirent de réparer les édifices, mais le monastère et la petite bourgade qui s'était établie à l'entour ne résistèrent pas à l'attaque des Normands au IXe siècle, et fut à nouveau pillée plusieurs fois.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Luxeuil », aujourd'hui : En quête d'un lieu plus propice à l'établissement permanent de sa communauté, Columban porta son choix sur les ruines d'un bourg gallo-romain : Luxovium, à 12 km de là, dont les fortifications étaient encore visibles.",
+  "Lieu « Établissement thermal de Luxeuil-les-Bains » : L'établissement thermal de Luxeuil-les-Bains est un édifice situé à Luxeuil-les-Bains, en France.",
+  "Lieu « Établissement thermal de Luxeuil-les-Bains », 1768 : C'est sous le règne de Louis XV que fut construit l’actuel bâtiment d'architecture classique en grès rose des Vosges : l'établissement est inauguré en 1768.",
+  "Lieu « Établissement thermal de Luxeuil-les-Bains », 1862 : L'édifice est classé au titre des monuments historiques en 1862 et 1942, et inscrit en 2011.",
+  "Lieu « Établissement thermal de Luxeuil-les-Bains », 1936 : En 1936, la municipalité récupère les thermes ; une piscine thermale moderne est construite en 1938-1939.",
+  "Lieu « Établissement thermal de Luxeuil-les-Bains », aujourd'hui : Les cures à Luxeuil-les-bains sont actuellement préconisées surtout pour la phlébologie et les affections gynécologiques et rhumatismales.",
+  "Lieu « Église Saint-Martin de Luxeuil-les-Bains » : L'église Saint-Martin est une ancienne église catholique située à Luxeuil-les-Bains, en France.",
+  "Lieu « Église Saint-Martin de Luxeuil-les-Bains », IIe siècle : Source : journals.openedition.org Le plus ancien bâtiment en pierre retrouvé correspond à une domus romaine du IIe siècle de notre ère.",
+  "Lieu « Église Saint-Martin de Luxeuil-les-Bains », IVe siècle : Elle est abandonnée dans la première moitié du IVe siècle et à sa place est établie une nécropole païenne.",
+  "Lieu « Église Saint-Martin de Luxeuil-les-Bains », IXe siècle : L'église est reconstruite au début du IXe siècle, intégrant un groupe de sarcophages primitifs ainsi qu'une abside témoignant d'un caractère mémoriel.",
+  "Lieu « Église Saint-Martin de Luxeuil-les-Bains », aujourd'hui : C'est lors de la fouille INRAP que sont découverts les vestiges de l'église Saint Martin, sous la direction de Sébastien Bully .",
+  "Lieu « Hôpital de Luxeuil-les-Bains » : L'hôpital de Luxeuil-les-Bains (anciennement dit hôpital Grammont) est un établissement de santé de proximité, regroupant des services médecine polyvalente, de gériatrie et de soin de suite.",
+  "Lieu « Hôpital de Luxeuil-les-Bains », 1409 : Plusieurs hospices existent à Luxeuil-les-Bains avant la Révolution française, notamment celui fondé par l'abbé Guillaume de Busseuil en 1409 qui serait situé à l'extérieur des remparts.",
+  "Lieu « Hôpital de Luxeuil-les-Bains », 1867 : En 1867, les fondations du bâtiment sont bénies par le cardinal Césaire Mathieu, archevêque de Besançon.",
+  "Lieu « Hôpital de Luxeuil-les-Bains », 1882 : Le bâtiment originel surnommé le « château » est construit dans un style néo-Louis XIII, il ouvre en 1882.",
+  "Lieu « Tour des échevins » : La tour des échevins est un édifice du XVe siècle abritant un musée d'art et d'archéologie, situé à Luxeuil-les-Bains (Haute-Saône).",
+  "Lieu « Tour des échevins », XVe siècle : La tour des échevins est un édifice du XVe siècle abritant un musée d'art et d'archéologie, situé à Luxeuil-les-Bains (Haute-Saône).",
+  "Lieu « Tour des échevins », XVe siècle : L' édifice a été construit dans la deuxième moitié du XVe siècle par Henri, fils de Perrin Jouffoy, et donc frère du cardinal Jean Jouffroy.",
+  "Lieu « Tour des échevins », 1862 : L'édifice est classé au titre des monuments historiques depuis 1862.",
+  "Lieu « Hôtel Thiebaut de Montureux » : L'hôtel Thiebaut de Montureux est un hôtel particulier situé à Luxeuil-les-Bains, en France, à l'angle de la place de la République, dans le département français de la Haute-Saône.",
+  "Lieu « Hôtel Thiebaut de Montureux », XVIe siècle : Édifice du XVIe siècle, le bâtiment abrita la première pharmacie de Luxeuil au XVIIIe siècle.",
+  "Lieu « Hôtel Thiebaut de Montureux », 2011 : L'édifice est inscrit au titre des monuments historiques en 2011.",
+  "Lieu « Hôtel Thiebaut de Montureux », aujourd'hui : Aujourd'hui, c'est un fleuriste qui y est installé.",
+  "Lieu « Hôtel Bretons-d'Amblans » : L'hôtel Bretons-d'Amblans est un hôtel particulier situé sur la commune de Luxeuil-les-Bains, dans le département de la Haute-Saône, en France.",
+  "Lieu « Hôtel Bretons-d'Amblans », 1976 : L'édifice est inscrit partiellement au titre des monuments historiques par arrêté du 19 novembre 1976.",
+  "Lieu « Hôtel Bretons-d'Amblans », aujourd'hui : Le bâtiment est actuellement en ruine et menace de s’écrouler.",
+  "Lieu « Basilique Saint-Pierre de Luxeuil-les-Bains » : La basilique Saint-Pierre de Luxeuil-les-Bains, située Place Saint-Pierre à Luxeuil-les-Bains, est la quatrième église construite sur ce site.",
+  "Lieu « Basilique Saint-Pierre de Luxeuil-les-Bains », 1215 : Hugues de Faucogney commence sa construction en 1215 sur les fondations d'un édifice précédent du XIe siècle incendié en 1201 par Richard de Montbéliard, elle est achevée sous l'autorité de l'abbé Eudes de Charenton en 1330 pour être consacrée à Saint Pierre et Saint Paul.",
+  "Lieu « Basilique Saint-Pierre de Luxeuil-les-Bains », aujourd'hui : Abbatiale du monastère de Luxeuil jusqu'en 1790, elle est aujourd'hui église paroissiale de la ville, non sans avoir servi précédemment et successivement à la fermeture de l'Abbaye du temple de la Raison."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
