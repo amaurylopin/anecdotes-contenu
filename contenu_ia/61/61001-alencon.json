@@ -1,0 +1,367 @@
+{
+ "commune": {
+  "titre": "Alençon",
+  "code_insee": "61001",
+  "departement": "61",
+  "population": 25490,
+  "lat": 48.429722,
+  "lon": 0.091944,
+  "url": "https://fr.wikipedia.org/wiki/Alen%C3%A7on"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:59:22",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3391,
+  "sortie": 2199
+ },
+ "cout_usd": 0.003427,
+ "accroche": "En 1135, la ville est ravagée par le roi d’Angleterre Henri Ier, avant d’accueillir, plus tard, un duché-pairie en 1414.",
+ "histoire": {
+  "recit": "À Alençon, tout commence comme un carrefour : avant notre ère, le site n’est qu’un passage de routes et de l’étain, puis une implantation gauloise, Alencium, se développe à l’intérieur d’une petite enceinte ovale. Très tôt, la ville devient aussi un point stratégique : sur les axes Paris-Bretagne et Rouen-Tours, elle joue le rôle de carrefour administratif et économique.\n\nLes siècles ne l’épargnent pas. En 1135, elle est ravagée par le roi d’Angleterre Henri Ier. Au temps des guerres de Religion, dès 1562, les églises sont pillées et dévastées. Pendant la Seconde Guerre mondiale, Alençon est occupée à partir de juin 1940, après des bombardements le 14 juin.\n\nAu XIXe siècle, l’essor se lit dans les équipements publics, et l’on voit même le téléphone s’installer : en 1900 à la préfecture. La gare, elle aussi, marque les époques : la ligne est ouverte à la fin des années 1859 et, plus tard, la gare est rénovée avec un calendrier annoncé sur 2012-2014.\n\nEnfin, l’identité d’Alençon se devine dans ses grands lieux : le château des ducs d’Alençon, reconverti à la Révolution, et la basilique Notre-Dame, officiellement érigée en basilique mineure en 2009.",
+  "chronologie": [
+   {
+    "date": "vers 300 av. J.-C.",
+    "texte": "Le site devient Alencium, une fondation gauloise des Aulerques, installée dans une enceinte ovale puis agrandie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1135",
+    "texte": "La ville est ravagée par le roi d’Angleterre Henri Ier.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1414",
+    "texte": "Le comté est érigé en duché-pairie.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1562",
+    "texte": "Pendant les guerres de Religion, les églises sont pillées et dévastées.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1767",
+    "texte": "Jullien fait construire le pavillon en retour d’équerre vers le nord de l’hôtel Fromont de La Besnardière.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIXe siècle (début)",
+    "texte": "Dans l’abbaye bénédictine vendue comme bien national, François Richard-Lenoir et Joseph Lenoir-Dufresne installent une manufacture de coton.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Bibliothèque, tribunal de commerce, halles aux blés, collège, palais de justice, théâtre, gare ferroviaire et école normale sont construits au XIXe siècle.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1er janvier 1900",
+    "texte": "Le premier téléphone de la ville est installé à la préfecture.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "21 mai 1944",
+    "texte": "La gare d’Alençon est bombardée par les avions américains.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2 septembre 1988",
+    "texte": "La tour Verlaine est détruite, autour de la place de la Paix.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château des ducs d'Alençon",
+   "histoire": "Centre du comté puis du duché d’Alençon, il s’agit d’un ancien château fort dont subsistent des vestiges sur le territoire d’Alençon.",
+   "anecdotes": [
+    {
+     "texte": "Après l’incendie de l’église Notre-Dame, en 1744, on utilise pour sa reconstruction des pierres de couronnement du donjon.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "L’ensemble de bâtiments subsistant, construit vers 1400 par Jean Ier, est converti à la Révolution et conserve cette fonction jusqu’en 2010.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Un premier château, complètement disparu, aurait été construit au IXe siècle sous le règne du duc de Normandie Richard Ier.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des vestiges du château se dressent sur le territoire de la commune d’Alençon.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.4296,
+   "lon": 0.0831,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_ducs_d%27Alen%C3%A7on"
+  },
+  {
+   "nom": "Gare d'Alençon",
+   "histoire": "Gare ferroviaire française de la ligne du Mans à Mézidon, située à proximité du centre d’Alençon.",
+   "anecdotes": [
+    {
+     "texte": "La gare est bombardée le 21 mai 1944 par les avions américains.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "L’ensemble de la ligne sera ouverte le 1er février 1859, avec la mise en service du dernier tronçon d’Argentan à Mézidon.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est séparée de la gare aujourd’hui fermée de Vingt-Hanaps.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 48.434021,
+   "lon": 0.098969,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Alen%C3%A7on"
+  },
+  {
+   "nom": "Église Saint-Pierre d'Alençon",
+   "histoire": "Église catholique d’Alençon.",
+   "anecdotes": [
+    {
+     "texte": "La construction de l’édifice démarre avec une première pierre posée en 1880 et s’achève en 1889, dans un style néo-roman.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "L’orgue, construit par les frères Eugène et Edouard Stoltz, est de 1890.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23"
+   ],
+   "lat": 48.4254,
+   "lon": 0.089861,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_d%27Alen%C3%A7on"
+  },
+  {
+   "nom": "Maison d'Ozé",
+   "histoire": "Demeure de style médiéval située dans le quartier Notre-Dame à Alençon, qui accueille aujourd’hui l’office de tourisme.",
+   "anecdotes": [
+    {
+     "texte": "Construite en 1450 par l’échevin Jean de Mesnil, la maison fait l’objet d’un classement au titre des Monuments historiques depuis le 27 août 1903.",
+     "statut": "etabli",
+     "sources": [
+      "S29",
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est le siège de l’office de tourisme de la ville d’Alençon.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 48.4301,
+   "lon": 0.089618,
+   "url": "https://fr.wikipedia.org/wiki/Maison_d%27Oz%C3%A9"
+  },
+  {
+   "nom": "Basilique Notre-Dame d'Alençon",
+   "histoire": "Basilique mineure catholique de style gothique, située dans le centre-ville d’Alençon, dans la zone piétonne.",
+   "anecdotes": [
+    {
+     "texte": "Après un incendie, le chœur, les transepts et le clocher sont reconstruits entre 1745 et 1762.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    },
+    {
+     "texte": "L’église Notre-Dame est officiellement érigée en basilique mineure par le pape Benoît XVI le 10 août 2009.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32"
+   ],
+   "lat": 48.429861,
+   "lon": 0.088722,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame_d%27Alen%C3%A7on"
+  },
+  {
+   "nom": "Bibliothèque municipale d'Alençon",
+   "histoire": "Ancienne chapelle des Jésuites, édifice du XVIIe siècle inscrit au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S39"
+   ],
+   "lat": 48.43167,
+   "lon": 0.08444,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_d%27Alen%C3%A7on"
+  },
+  {
+   "nom": "Maison des Sept Colonnes",
+   "histoire": "Édifice daté du XVe siècle (peut-être sur des bases plus anciennes) à Alençon.",
+   "anecdotes": [
+    {
+     "texte": "En 1990, l’édifice est vendu ; des désordres apparaissent ensuite lors de la tempête de 1999, liés à des travaux réalisés dans les années 1980.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    },
+    {
+     "texte": "En juillet 2004, l’édifice est étayé et vidé des habitants puis du commerce en 2014.",
+     "statut": "etabli",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S43"
+   ],
+   "lat": 48.428243,
+   "lon": 0.085514,
+   "url": "https://fr.wikipedia.org/wiki/Maison_des_Sept_Colonnes"
+  },
+  {
+   "nom": "Tribunal de commerce d'Alençon",
+   "histoire": "Édifice classé au titre des monuments historiques, construit à la fin du XVe siècle puis remanié au XVIIe siècle, historiquement connu sous le nom d’hôtel Erard de Ray.",
+   "anecdotes": [
+    {
+     "texte": "Un édit de mars 1710 installe la juridiction consulaire de la ville dans l’immeuble, qui devient en 1790 le siège du tribunal de commerce.",
+     "statut": "etabli",
+     "sources": [
+      "S46"
+     ]
+    },
+    {
+     "texte": "Honoré de Balzac, qui a brièvement séjourné à Alençon en 1825 puis 1828, s’inspire de ce bâtiment pour décrire, dans Le Cabinet des Antiques (1838), l’hôtel de la famille d’Esgrignon.",
+     "statut": "etabli",
+     "sources": [
+      "S47"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S44",
+    "S45",
+    "S46"
+   ],
+   "lat": 48.4303,
+   "lon": 0.08833,
+   "url": "https://fr.wikipedia.org/wiki/Tribunal_de_commerce_d%27Alen%C3%A7on"
+  }
+ ],
+ "sources": [
+  "Alençon est une commune française, chef-lieu du département de l’Orne, située en région Normandie. Alençon a été au cours des siècles une place administrative (chef-lieu de la généralité d'Alençon) et économique (industries liées à la dentelle d'Alençon, à l'imprimerie) , ainsi qu'un carrefour entre communications est-ouest, sur l’axe Paris-Bretagne, et nord-sud, sur l’axe Rouen-Tours. La ville a subi un […]",
+  "Au deuxième millénaire avant Jésus-Christ, le site n'est alors qu'un carrefour de routes et le passage de celle de l'étain. Fondation gauloise des Aulerques, Alencium, avec ses quelques maisons, à l'intérieur d'une petite enceinte ovale, vers 300 av. J.-C., se développe avec une nouvelle enceinte, probablement une palissade de bois, qui entoure alors un espace de 250 mètres de diamètre. On aurait retrouvé la trace […]",
+  "1135 : En 1135, la ville est ravagée par le roi d'Angleterre Henri Ier.",
+  "1414 : En 1414, le comté est érigé en duché-pairie.",
+  "1562 : Pendant les guerres de Religion, dès 1562, les églises de la ville sont pillées et dévastés.",
+  "1767 : Jullien fait construire, en 1767, le pavillon en retour d'équerre vers le nord de l'hôtel Fromont de La Besnardière ; fait dresser, en 1769, le plan d'une nouvelle route vers la Bretagne ; fait démolir les portes de Lancrel, de la Barre et de Sarthe en 1776.",
+  "XIXe siècle : Au tout début du XIXe siècle, François Richard-Lenoir et Joseph Lenoir-Dufresne installèrent au sein de l'abbaye bénédictine, vendue comme bien national, une manufacture de coton.",
+  "XIXe siècle : La plupart des grands édifices publics d'Alençon sont construits au XIXe siècle : bibliothèque, tribunal de commerce, halles aux blés, collège, palais de justice, théâtre, gare ferroviaire, école normale.",
+  "1900 : Le premier téléphone de la ville est installé à la préfecture, le 1er janvier 1900 et un central téléphonique est établie en 1911 dans le nouvel hôtel des postes.",
+  "1940 : Pendant la Seconde Guerre mondiale, Alençon est occupée par les Allemands à partir de juin 1940, après qu'ils eurent bombardé la ville le 14 juin, faisant 31 victimes.",
+  "1944 : Le 21 mai 1944, la gare d'Alençon est bombardée par les avions américains.",
+  "1988 : Autour de la « place de la Paix », seule trois tours sont construites sur quatre prévues, la tour Verlaine est détruite le 2 septembre 1988, puis les deux restantes entre 2006 et 2007, concomitamment avec une opération de rénovation de 888 logements.",
+  "Lieu « Château des ducs d'Alençon » : Le château des ducs d'Alençon, centre du comté puis du duché d'Alençon, est un ancien château fort, de la fin du XIIe siècle, dont les vestiges se dressent sur le territoire de la commune française d'Alençon dans le département de l’Orne, en région N",
+  "Lieu « Château des ducs d'Alençon », IXe siècle : Le premier château d'Alençon, complètement disparu, a été construit au IXe siècle, sous le règne du duc de Normandie Richard Ier, et confié à la garde de la famille de Bellême, dont les deux premiers seigneurs connus de la ville, sont Yves de Bellême et son fils Guillaume Ier.",
+  "Lieu « Château des ducs d'Alençon », 1400 : L'ensemble des bâtiments subsistant construit, vers 1400, par Jean Ier est converti à la Révolution, fonction qu'il conserve jusqu'en 2010.",
+  "Lieu « Château des ducs d'Alençon », 1744 : En 1744, après l'incendie de l'église Notre-Dame, on utilise pour sa reconstruction les pierres de couronnement du donjon.",
+  "Lieu « Château des ducs d'Alençon », aujourd'hui : Le château des ducs d'Alençon, centre du comté puis du duché d'Alençon, est un ancien château fort, de la fin du XIIe siècle, dont les vestiges se dressent sur le territoire de la commune française d'Alençon dans le département de l’Orne, en région Normandie.",
+  "Lieu « Gare d'Alençon » : La gare d'Alençon est une gare ferroviaire française de la ligne du Mans à Mézidon, située à proximité du centre de la ville d'Alençon, dans le département de l'Orne, en région Normandie.",
+  "Lieu « Gare d'Alençon », 1859 : L'ensemble de la ligne sera ouverte le 1er février 1859, avec la mise en service du dernier tronçon d'Argentan à Mézidon.",
+  "Lieu « Gare d'Alençon », 2010 : Gare de bifurcation, elle était aussi l'origine, au PK 0,000, de la ligne d'Alençon à Condé-sur-Huisne, déclassée, déferrée et transformée en voie verte depuis 2010, et de la ligne d'Alençon à Domfront, partiellement exploitée en trafic fret.",
+  "Lieu « Gare d'Alençon », 2012 : La rénovation de la gare, comprenant notamment l'accessibilité et la mise aux normes du bâtiment et de son parvis, était programmée pour être réalisée entre 2012 et 2014.",
+  "Lieu « Gare d'Alençon », aujourd'hui : Elle est séparée de cette dernière par la gare aujourd'hui fermée de Vingt-Hanaps.",
+  "Lieu « Église Saint-Pierre d'Alençon » : L'église Saint-Pierre est une église catholique située à Alençon, en France.",
+  "Lieu « Église Saint-Pierre d'Alençon », 1879 : Cet édifice succède à une précédente église Saint-Pierre détruite en 1879.",
+  "Lieu « Église Saint-Pierre d'Alençon », 1880 : La première pierre fut posée en 1880 et la construction achevée en 1889 dans un style néo-roman.",
+  "Lieu « Église Saint-Pierre d'Alençon », 1890 : L'orgue, construit par les frères Eugène et Edouard Stoltz, est de 1890.",
+  "Lieu « Église Saint-Pierre d'Alençon », aujourd'hui : Un concours avait été lancé en 1875, qui fut remporté par l'architecte alençonnais Amédée Hédin, plus tard remplacé par Pierre Lheureux.",
+  "Lieu « Maison d'Ozé » : La maison d'Ozé est une demeure de style médiéval située dans le quartier Notre-Dame à Alençon, dans le département de l'Orne et la région Normandie.",
+  "Lieu « Maison d'Ozé », 1450 : Elle a été construite en 1450 par l'échevin Jean de Mesnil.",
+  "Lieu « Maison d'Ozé », 1903 : L'édifice fait l'objet d'un classement au titre des Monuments historiques depuis le 27 août 1903.",
+  "Lieu « Maison d'Ozé », aujourd'hui : Elle est le siège aujourd'hui de l'office de tourisme de la ville d'Alençon.",
+  "Lieu « Basilique Notre-Dame d'Alençon » : La basilique Notre-Dame d'Alençon est une basilique mineure catholique de style gothique située dans le centre-ville d'Alençon, dans la zone piétonne.",
+  "Lieu « Basilique Notre-Dame d'Alençon », XVe siècle : Cet édifice gothique possède une nef à cinq travées du XVe siècle de style gothique flamboyant, début XVIe siècle.",
+  "Lieu « Basilique Notre-Dame d'Alençon », 1745 : À la suite d'un incendie, le chœur, les transepts et le clocher ont été reconstruits entre 1745 et 1762.",
+  "Lieu « Basilique Notre-Dame d'Alençon », 2009 : C'est ainsi que l'église Notre-Dame d'Alençon a été officiellement érigée en basilique mineure par le pape Benoît XVI, le 10 août 2009.",
+  "Lieu « Bibliothèque municipale d'Alençon » : La bibliothèque municipale d'Alençon (ancienne chapelle des Jésuites), est un édifice du XVIIe siècle inscrit Monument historique, situé à Alençon, en France.",
+  "Lieu « Bibliothèque municipale d'Alençon », XVIIe siècle : La bibliothèque municipale d'Alençon (ancienne chapelle des Jésuites), est un édifice du XVIIe siècle inscrit Monument historique, situé à Alençon, en France.",
+  "Lieu « Bibliothèque municipale d'Alençon », XVIIIe siècle : Au XVIIIe siècle, une nouvelle construction est accolée à la face sud du bâtiment pour recevoir une collection particulière léguée à la ville.",
+  "Lieu « Bibliothèque municipale d'Alençon », 1926 : Par arrêté du 22 octobre 1926, l'édifice est inscrit au titre des monuments historiques.",
+  "Lieu « Maison des Sept Colonnes » : La maison des Sept Colonnes est un édifice situé à Alençon, en France.",
+  "Lieu « Maison des Sept Colonnes », XVe siècle : L'édifice est daté du XVe siècle, peut-être sur des bases plus anciennes.",
+  "Lieu « Maison des Sept Colonnes », 1990 : Il est vendu à une société civile immobilière en 1990, mais des désordres apparaissent au grand jour lors de la tempête de 1999, liés à des travaux réalisés dans les années 1980.",
+  "Lieu « Maison des Sept Colonnes », 2004 : L'édifice est étayé en juillet 2004 et vidé des habitants puis du commerce en 2014.",
+  "Lieu « Tribunal de commerce d'Alençon » : Le tribunal de commerce d'Alençon est un édifice classé Monument historique, situé à Alençon, en France.",
+  "Lieu « Tribunal de commerce d'Alençon », XVe siècle : Construit à la fin du XVe siècle et remanié au XVIIe siècle, le bâtiment était initialement la résidence d'une famille de la noblesse normande, les Érard de Ray, et était historiquement connu sous le nom d'hôtel Erard de Ray.",
+  "Lieu « Tribunal de commerce d'Alençon », 1710 : Par un édit de mars 1710, la juridiction consulaire de la ville est installée dans l'immeuble, qui devient en 1790 le siège du tribunal de commerce.",
+  "Lieu « Tribunal de commerce d'Alençon », 1825 : Honoré de Balzac, qui a brièvement séjourné à Alençon en 1825 puis 1828, s'est inspiré de ce bâtiment pour décrire, dans son roman Le Cabinet des Antiques (1838), l'hôtel de la famille d'Esgrignon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 14
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "commune": {
+  "titre": "Flers (Orne)",
+  "code_insee": "61169",
+  "departement": "61",
+  "population": 14432,
+  "lat": 48.748333,
+  "lon": -0.569444,
+  "url": "https://fr.wikipedia.org/wiki/Flers_%28Orne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:30:33",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1883,
+  "sortie": 1282
+ },
+ "cout_usd": 0.001979,
+ "accroche": "À Flers, la gare a été ouverte le 2 juillet 1866, sur la ligne en provenance d’Argentan et du Mans.",
+ "histoire": {
+  "recit": "Flers, dans le nord-ouest de l’Orne, s’est construite autour d’un pouvoir local ancien et de voies qui ont changé la vie quotidienne.\n\nDès le Xe siècle, la famille de Flers tient une baronnie. Au XIe siècle, une tradition raconte que deux frères, Foulques d’Aunou et Guillaume de Gasprée, épousent deux sœurs, demoiselles de Flers : Foulques d’Aunou reçoit alors Flers, siège de la baronnie. La construction du château démarre à partir du XIIe siècle.\n\nLe domaine s’étend ensuite : la baronnie de Flers est érigée en comté en 1598, et le château est rebâti au XVIe siècle par Nicolas III de Grosparmy, présenté comme un alchimiste passionné. Une partie ancienne du château est incendiée en 1800.\n\nAu XIXe siècle, la gare de Flers ouvre le 2 juillet 1866 : elle est reliée à Condé-sur-Noireau en 1868, puis la liaison Caen–Flers-de-l’Orne s’ouvre le 15 mai 1873. En 1944, la gare est bombardée ; elle est relevée de ses ruines, avec un dépôt reconstruit en 1947.\n\nEnfin, le 9 novembre 2019, la mairie est en partie détruite par un incendie.",
+  "chronologie": [
+   {
+    "date": "Xe siècle",
+    "texte": "La famille de Flers prend la tête d’une baronnie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Une tradition fait épouser à deux frères, Foulques d’Aunou et Guillaume de Gasprée, deux sœurs, demoiselles de Flers, avec Flers comme dot.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "La construction du château de Flers est entreprise.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1598",
+    "texte": "La baronnie de Flers est érigée en comté.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1800",
+    "texte": "La partie ancienne du château est incendiée par les républicains.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2 juillet 1866",
+    "texte": "La gare de Flers est ouverte, avec une ligne en provenance d’Argentan et du Mans.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1868",
+    "texte": "La gare est reliée à Condé-sur-Noireau.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "15 mai 1873",
+    "texte": "La section Caen–Berjou est ouverte, permettant la liaison Caen–Flers-de-l’Orne.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "La gare de Flers est sévèrement bombardée.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1947",
+    "texte": "Le dépôt de la gare est reconstruit.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "9 novembre 2019",
+    "texte": "La mairie est en partie détruite par un incendie.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Flers (Orne)",
+   "histoire": "Le château de Flers est une demeure des XVe, XVIe et XVIIIe siècles, entourée de douves.",
+   "anecdotes": [
+    {
+     "texte": "La reconstruction du château est attribuée à Nicolas III de Grosparmy, présenté comme un alchimiste passionné.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "En 1800, une partie ancienne du château est incendiée par les républicains.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S7"
+   ],
+   "lat": 48.75083,
+   "lon": -0.57556,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Flers_%28Orne%29"
+  },
+  {
+   "nom": "Gare de Flers",
+   "histoire": "La gare de Flers se situe sur le territoire de la commune, sur la ligne d’Argentan à Granville.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, la gare est sévèrement bombardée, puis les ruines sont relevées et le dépôt reconstruit en 1947.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.744697,
+   "lon": -0.573175,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Flers"
+  },
+  {
+   "nom": "Chapelle du Souvenir (Flers)",
+   "histoire": "La chapelle du Souvenir, aussi appelée chapelle de l’ancien petit séminaire ou chapelle de l’Immaculée Conception, est une chapelle catholique à Flers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.7475,
+   "lon": -0.560417,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_du_Souvenir_%28Flers%29"
+  },
+  {
+   "nom": "Musée du château de Flers",
+   "histoire": "Le musée du château de Flers se trouve dans l’enceinte du château.",
+   "anecdotes": [
+    {
+     "texte": "En 2019, le musée signe la charte Mom’art pour aider les musées à améliorer leurs services et activités dédiés aux familles.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 48.75083,
+   "lon": -0.575417,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_ch%C3%A2teau_de_Flers"
+  }
+ ],
+ "sources": [
+  "Flers [flɛʁ] , parfois appelée Flers-de-l'Orne, est une commune française, située dans le nord-ouest du département de l'Orne en région Normandie, peuplée de 14 432 habitants. C'est la deuxième plus grande ville du département derrière Alençon et devant Argentan. Flers fait partie de la communauté d'agglomération Flers Agglo.",
+  "À partir du Xe siècle, la famille de Flers est à la tête d'une baronnie. Au XIe siècle, une tradition veut que deux frères Foulques d'Aunou et Guillaume de Gasprée, épousent deux sœurs, demoiselles de Flers. Foulques d'Aunou reçoit en dot Flers, siège de la baronnie. La construction du château de Flers est entreprise à partir du XIIe siècle, même si à l'origine il ne s'agit que d'un corps de logis en pierre et en […]",
+  "2019 : La mairie est en partie détruite par un incendie le 9 novembre 2019.",
+  "Lieu « Château de Flers (Orne) » : Le château de Flers est une demeure, des XVe, XVIe et XVIIIe siècles entouré de douves, qui se dresse sur le territoire de la commune française de Flers, dans l'ouest du département de l'Orne, en région Normandie.",
+  "Lieu « Château de Flers (Orne) », 1527 : Elle est construite par Nicolas III de Grosparmy entre 1527 et 1541, alchimiste passionné.",
+  "Lieu « Château de Flers (Orne) », 1598 : Le domaine s'enrichit de la châtellenie de Condé-sur-Noireau, et en 1598, la baronnie de Flers est érigée en comté.",
+  "Lieu « Château de Flers (Orne) », 1800 : La partie ancienne du château est incendiée par les républicains en 1800.",
+  "Lieu « Château de Flers (Orne) », aujourd'hui : Dans un souci de modernité, Schnetz n’hésite pas à sacrifier une partie du parc pour permettre le passage de la ligne de chemin de fer Paris-Granville et à déplacer le potager de son emplacement traditionnel pour favoriser le développement urbain.",
+  "Lieu « Gare de Flers » : La gare de Flers est une gare ferroviaire française de la ligne d'Argentan à Granville, située sur le territoire de la commune de Flers, dans le département de l'Orne, en région Normandie.",
+  "Lieu « Gare de Flers », 1866 : Le 2 juillet 1866, la gare est ouverte avec la ligne de la Compagnie de l'Ouest en provenance d'Argentan et du Mans.",
+  "Lieu « Gare de Flers », 1868 : En 1868, elle est reliée à la Condé-sur-Noireau puis, le 15 mai 1873, la section Caen - Berjou est ouverte, permettant la liaison Caen - Flers-de-l'Orne.",
+  "Lieu « Gare de Flers », 1944 : Sévèrement bombardée en 1944, la gare fut relevée de ses ruines et le dépôt reconstruit en 1947.",
+  "Lieu « Gare de Flers », aujourd'hui : Elle est également au PK 368,7 le terminus de l'ancienne ligne de La Chapelle-Anthenaise à Flers aujourd'hui déclassée.",
+  "Lieu « Chapelle du Souvenir (Flers) » : La chapelle du Souvenir dite aussi chapelle de l'ancien petit séminaire ou chapelle de l'Immaculée Conception est une chapelle catholique située à Flers, en France.",
+  "Lieu « Chapelle du Souvenir (Flers) », 1926 : L'édifice, destiné à honorer les professeurs et élèves morts lors de la Première Guerre mondiale date du deuxième quart du XXe et est bâti de 1926 à 1932.",
+  "Lieu « Chapelle du Souvenir (Flers) », 2006 : L'édifice est classé au titre des monuments historiques le 19 mai 2006 : la chapelle et son décor intérieur, comprenant la totalité de son agencement (peintures murales, vitraux, autels, bancs, appliques murales) sont évoqués.",
+  "Lieu « Musée du château de Flers » : Le musée du château de Flers est un musée situé dans l'enceinte du château de la commune de Flers, département de l'Orne.",
+  "Lieu « Musée du château de Flers », 2019 : En 2019, le musée a signé la charte Mom'art qui a pour but d’aider les musées à améliorer les services et les activités dédiés aux familles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}
