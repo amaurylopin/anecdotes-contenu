@@ -1,0 +1,117 @@
+{
+ "commune": {
+  "titre": "Couzeix",
+  "code_insee": "87050",
+  "departement": "87",
+  "population": 10195,
+  "lat": 45.8769,
+  "lon": 1.2389,
+  "url": "https://fr.wikipedia.org/wiki/Couzeix"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:56:28",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1100,
+  "sortie": 687
+ },
+ "cout_usd": 0.001079,
+ "accroche": "À Couzeix, l’Hippodrome de Texonnieras a été inauguré en 1821, puis modernisé au début des années 1970.",
+ "histoire": {
+  "recit": "À Couzeix, on remonte tôt : au XIe siècle, une prévôté est établie par les abbés de Saint-Martial à Limoges, autour de laquelle quelques habitations poussent assez vite. Le nom du lieu bouge au fil des siècles, passant par Coseis, Cozei, Cosaï, Coseium, Cozez, Couzeilz, avant de mener à l’orthographe actuelle vers la fin du XVe. Déjà au XIIIe, la commune est surnommée « le petit Limoges » pour sa proximité avec Limoges.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Une prévôté est établie par les abbés de Saint-Martial à Limoges, autour de laquelle quelques habitations se développent assez vite.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe",
+    "texte": "Couzeix est surnommé « le petit Limoges ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "fin du XVe",
+    "texte": "Le nom aboutit à l’orthographe actuelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1821",
+    "texte": "L’Hippodrome de Texonnieras est inauguré.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "début des années 1970",
+    "texte": "L’hippodrome est modernisé.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 février 1975",
+    "texte": "Le château du Mas de l'Age est partiellement inscrit au titre des monuments historiques.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hippodrome de Texonnieras",
+   "histoire": "Situé à Couzeix, près de Limoges en Haute-Vienne, l’hippodrome a été inauguré en 1821 et modernisé au début des années 1970.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 45.87333,
+   "lon": 1.21248,
+   "url": "https://fr.wikipedia.org/wiki/Hippodrome_de_Texonnieras"
+  },
+  {
+   "nom": "Château du Mas de l'Age",
+   "histoire": "Le château du Mas de l'Age se trouve à Couzeix. Son édifice est partiellement inscrit au titre des monuments historiques le 18 février 1975.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 45.8583,
+   "lon": 1.24583,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Mas_de_l%27Age"
+  }
+ ],
+ "sources": [
+  "Couzeix (prononcé [kuzɛks]) est une commune française située dans le département de la Haute-Vienne, en région Nouvelle-Aquitaine. Ses habitants sont appelés les Couzeixois.",
+  "Au XIe siècle déjà, on trouve trace de cette prévôté établie par les abbés de Saint-Martial à Limoges et autour de laquelle quelques habitations se développèrent assez vite. Au cours des siècles suivant son installation, le nom changea plusieurs fois : Coseis, Cozei, Cosaï, Coseium, Cozez, Couzeilz pour aboutir à l'orthographe actuelle vers la fin du XVe. Surnommé « le petit Limoges » déjà au XIIIe, cette proximité […]",
+  "Lieu « Hippodrome de Texonnieras » : L'Hippodrome de Texonnieras se situe à Couzeix près de Limoges en Haute-Vienne.",
+  "Lieu « Hippodrome de Texonnieras », 1821 : C'est un hippodrome inauguré en 1821 et modernisé au début des années 1970.",
+  "Lieu « Château du Mas de l'Age » : Le château du Mas de l'Age est un château situé à Couzeix, en France.",
+  "Lieu « Château du Mas de l'Age », 1975 : L'édifice est partiellement inscrit au titre des monuments historiques le 18 février 1975."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

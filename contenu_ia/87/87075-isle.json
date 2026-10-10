@@ -1,0 +1,106 @@
+{
+ "commune": {
+  "titre": "Isle (Haute-Vienne)",
+  "code_insee": "87075",
+  "departement": "87",
+  "population": 7995,
+  "lat": 45.805,
+  "lon": 1.2272,
+  "url": "https://fr.wikipedia.org/wiki/Isle_%28Haute-Vienne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:20:02",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1223,
+  "sortie": 741
+ },
+ "cout_usd": 0.001171,
+ "accroche": "En 1985, l’église Saint-Martin d’Isle a été inscrite au titre des monuments historiques à Isle.",
+ "histoire": {
+  "recit": "Isle, commune de la banlieue sud-ouest de Limoges en Haute-Vienne, compte les Isloises et les Islois. Longtemps, elle a relevé d’une seigneurie ecclésiastique, appartenant aux évêques de Limoges, dont le château voisin a été démoli pendant la Révolution. La paroisse devient ensuite une commune.\n\nParmi les traces de cette vie locale, le poète limousin Jean Rebier, Majoral du Félibrige, a vécu dans sa propriété au hameau du Mas de l’Aurence, tandis que l’écrivain Robert Margerit a vécu dans la propriété de Thias.\n\nL’école de hameau au Mas de l’Aurence, transférée depuis le Mas des Landes, ainsi que celle de Mérignac, ont fermé en 1993.",
+  "chronologie": [
+   {
+    "date": "1356",
+    "texte": "L’édifice jouxtait les dépendances du château des évêques de Limoges, construit entre 1356 et 1361.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1361",
+    "texte": "Le château des évêques de Limoges, dont dépendaient des bâtiments près de l’église, est achevé en 1361.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "L’église Saint-Martin d’Isle est inscrite au titre des monuments historiques.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1993",
+    "texte": "Les écoles de hameau du Mas de l’Aurence et de Mérignac sont fermées en 1993.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin d'Isle",
+   "histoire": "Église catholique située à Isle, elle jouxtait les dépendances du château des évêques de Limoges, construit entre 1356 et 1361, et elle est inscrite au titre des monuments historiques depuis 1985.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 45.80444,
+   "lon": 1.22639,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_d%27Isle"
+  },
+  {
+   "nom": "Château de Gigondas",
+   "histoire": "Le château de Gigondas se trouve sur la rive gauche de la l’Aurence, sur la commune Isle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "C’est une propriété privée qui ne se visite pas.",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 45.80361,
+   "lon": 1.18806,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Gigondas"
+  }
+ ],
+ "sources": [
+  "Isle est une commune française située dans la banlieue sud-ouest de Limoges, dans le département de la Haute-Vienne en région Nouvelle-Aquitaine. Ses habitants sont appelés les Isloises et les Islois. Isle est la 5e ville du département, en nombre d'habitants, après Limoges, Saint-Junien, Panazol et Couzeix.",
+  "Isle était une seigneurie ecclésiastique appartenant aux évêques de Limoges. Le château des évêques qui était à côté de l'église a été démoli pendant la Révolution. Le poète limousin Jean Rebier « Majoral du Félibrige » (1879-1966) a vécu dans sa propriété du hameau du Mas de l'Aurence. L'écrivain Robert Margerit (1910-1988) a vécu dans la propriété de Thias. Pendant la Révolution, la paroisse devient une commune. […]",
+  "1993 : Les écoles de hameau du Mas de l'Aurence (transférée du Mas des Landes) et de Mérignac ont été fermées en 1993.",
+  "Lieu « Église Saint-Martin d'Isle » : L'église Saint-Martin est une église catholique située à Isle, en France.",
+  "Lieu « Église Saint-Martin d'Isle », 1356 : Cet édifice jouxtait les dépendances du château des évêques de Limoges construit entre 1356 et 1361 par Jean de Cros.",
+  "Lieu « Église Saint-Martin d'Isle », 1985 : L'édifice est inscrit au titre des monuments historiques en 1985.",
+  "Lieu « Château de Gigondas » : Le château de Gigondas se trouve sur la rive gauche de la l'Aurence sur la commune Isle.",
+  "Lieu « Château de Gigondas », aujourd'hui : C'est actuellement une propriété privée qui ne se visite pas."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

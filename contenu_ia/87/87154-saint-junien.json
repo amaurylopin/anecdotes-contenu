@@ -1,0 +1,141 @@
+{
+ "commune": {
+  "titre": "Saint-Junien",
+  "code_insee": "87154",
+  "departement": "87",
+  "population": 11415,
+  "lat": 45.88722222,
+  "lon": 0.90111111,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Junien"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:46:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1503,
+  "sortie": 1406
+ },
+ "cout_usd": 0.002058,
+ "accroche": "En septembre 1939, Saint-Junien accueille des réfugiés de Schiltigheim, évacués car trop proches d’un front possible de combat.",
+ "histoire": {
+  "recit": "Saint-Junien, chef-lieu de canton en Haute-Vienne, est bordée par la Vienne quand la rivière sort de son parcours tortueux au pied des monts de Blond, dans l’ancienne province du Limousin. La commune n’aurait pas connu d’habitat préhistorique évident : les dolmens et menhirs existent, mais les forêts profondes et les vallées humides auraient offert des conditions défavorables.\n\nPlus tard, les sources signalent une rupture brutale : en 866, le monastère est détruit par les Normands.\n\nAu XXe siècle, la ville devient lieu d’accueil. En septembre 1939, arrivent en Haute-Vienne des réfugiés de Schiltigheim, évacués par crainte d’un éventuel front. Puis, à partir de novembre 1944, une centaine de prisonniers russes, libérés des camps de concentration, sont abrités au Chatelard.\n\nAujourd’hui encore, Saint-Junien se lit aussi par ses lieux : l’aérodrome ouvert à la circulation publique, le site Corot fréquenté par Camille Corot au XIXe siècle, et la collégiale Saint-Junien, dont le clocher central a été reconstruit après son écroulement.",
+  "chronologie": [
+   {
+    "date": "866",
+    "texte": "Le monastère de Saint-Junien est détruit par les Normands.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "septembre 1939",
+    "texte": "Arrivée en Haute-Vienne de réfugiés de Schiltigheim, évacuée car trop proche d’un éventuel front.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "novembre 1944",
+    "texte": "Une centaine de prisonniers russes, libérés des camps de concentration, sont abrités au Chatelard.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Aérodrome de Saint-Junien",
+   "histoire": "L’aérodrome de Saint-Junien (Aérodrome Maryse Bastié) est ouvert à la circulation aérienne publique. Une piste de 600 m est ouverte en 1961, puis ouverte à la circulation aérienne publique en 1966. Une nouvelle piste en dur est ouverte en 1984 pour éviter les interruptions d’activité en hiver.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aérodrome ouvert à la circulation aérienne publique.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 45.9025,
+   "lon": 0.91889,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saint-Junien"
+  },
+  {
+   "nom": "Site Corot",
+   "histoire": "Le site Corot est un secteur naturel et touristique de Saint-Junien, très encaissé le long de la Glane. Il est fréquenté par le peintre Camille Corot dans les années 1850. En 2017, des travaux de renaturation sont achevés, avec suppression de l’ancien barrage du Gué Giraud.",
+   "anecdotes": [
+    {
+     "texte": "Le site est lié au passage du peintre Camille Corot, fréquentant la vallée encaissée de la Glane dans les années 1850.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Le barrage du Gué Giraud a été supprimé lors de travaux de renaturation achevés en 2017, redessinant l’espace du site Corot.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Secteur naturel et touristique, avec renaturation achevée en 2017 et suppression du barrage du Gué Giraud.",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 45.899402,
+   "lon": 0.892764,
+   "url": "https://fr.wikipedia.org/wiki/Site_Corot"
+  },
+  {
+   "nom": "Collégiale Saint-Junien de Saint-Junien",
+   "histoire": "La collégiale Saint-Junien est une ancienne collégiale située à Saint-Junien. En 1922, le clocher central s’écroule puis est reconstruit.",
+   "anecdotes": [
+    {
+     "texte": "Le clocher central s’écroule en 1922 avant d’être reconstruit.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Collégiale dont le clocher central a été reconstruit après l’écroulement de 1922.",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 45.887361111111,
+   "lon": 0.9025,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Junien_de_Saint-Junien"
+  }
+ ],
+ "sources": [
+  "Saint-Junien est une commune du centre-ouest de la France située dans le département de la Haute-Vienne, en région Nouvelle-Aquitaine et l'ancienne province historique du Limousin. Chef-lieu de canton, elle est bordée par la Vienne quand celle-ci, au pied des monts de Blond, sort de son parcours tortueux et du Massif central. Avec 11 415 habitants au dernier recensement de 2023, c'est la deuxième ville du […]",
+  "Saint-Junien ne semble pas avoir été habité aux temps préhistoriques. Certes, au nord comme au sud de la ville, les dolmens et les menhirs de l'époque néolithique sont relativement nombreux, notamment aux abords des monts de Blond et dans la région de Rochechouart où l'on trouve aussi des outils en pierre. Cependant, les forêts profondes et les vallées humides n'offraient pas des conditions favorables à […]",
+  "866 : Mais le monastère est détruit par les Normands en 866.",
+  "1939 : Septembre 1939 voit l'arrivée en Haute-Vienne de réfugiés de Schiltigheim (Bas Rhin), évacuée car trop proche d'un éventuel front de combat.",
+  "1944 : À partir de novembre 1944, une centaine de prisonniers russes, libérés des camps de concentration, sont abrités au Chatelard.",
+  "Lieu « Aérodrome de Saint-Junien » : L’aérodrome de Saint-Junien ou Aérodrome Maryse Bastié (code OACI : LFBJ) est un aérodrome ouvert à la circulation aérienne publique (CAP), situé à 2,5 km au nord-est de Saint-Junien dans la Haute-Vienne (région Nouvelle-Aquitaine, France).",
+  "Lieu « Aérodrome de Saint-Junien », 1961 : L'ouverture d’une piste de 600m par arrêté préfectoral intervient en 1961, elle sera ouverte à la circulation aérienne publique en 1966.",
+  "Lieu « Aérodrome de Saint-Junien », 1984 : Une nouvelle piste en dur est enfin ouverte en 1984, évitant ainsi les interruptions hivernales d’activité.",
+  "Lieu « Site Corot » : Le nom de « site Corot » est donné à un site naturel et touristique français situé dans la commune de Saint-Junien (Haute-Vienne), dans un secteur très encaissé du cours de la Glane, fréquenté par le peintre Camille Corot dans les années 1850.",
+  "Lieu « Site Corot », 2017 : Le site Corot se trouve en amont d'un ancien barrage, celui du Gué Giraud, qui est supprimé par des travaux de renaturation achevés en 2017.",
+  "Lieu « Collégiale Saint-Junien de Saint-Junien » : La collégiale Saint-Junien est une ancienne collégiale située à Saint-Junien, dans le département de la Haute-Vienne, en France.",
+  "Lieu « Collégiale Saint-Junien de Saint-Junien », 1922 : Le clocher central, écroulé en 1922, a été reconstruit."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}
