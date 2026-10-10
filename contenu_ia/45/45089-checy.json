@@ -1,0 +1,147 @@
+{
+ "commune": {
+  "titre": "Chécy",
+  "code_insee": "45089",
+  "departement": "45",
+  "population": 9083,
+  "lat": 47.8942,
+  "lon": 2.0275,
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A9cy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1316,
+  "sortie": 761
+ },
+ "cout_usd": 0.001214,
+ "accroche": "Au XVIIe siècle, le canal d’Orléans est construit sur le territoire de Chécy.",
+ "histoire": {
+  "recit": "À Chécy, le vieux bourg a grandi sur des passages anciens. Dès l’époque gallo-romaine, la région sert de couloir le long de la Loire, et l’on y a retrouvé les traces d’un carrefour de voies romaines reliant Orléans, Paris, Gien et Sens. Les Romains y plantent aussi les premières vignes près du fleuve : l’activité perdure longtemps.\n\nPlus tard, le chantier du canal d’Orléans marque un nouvel élan au XVIIe siècle. Le relief reste lié aux vignes, jusqu’à ce qu’en 1912 l’épidémie du phylloxéra en détruit une partie.\n\nSur le terrain, le chemin de fer fait aussi partie du paysage : la gare de Chécy - Mardié se trouve sur la ligne d’Orléans à Gien, mais elle ferme au service des voyageurs avec la ligne depuis 1939. Entre bâtiments et événements, Chécy garde ses repères, de l’église Saint-Pierre au château de la Bretauche, dont l’histoire ferait remonter la construction vers le XVe siècle puis une reconstruction vers le XVIIIe siècle.",
+  "chronologie": [
+   {
+    "date": "époque gallo-romaine",
+    "texte": "On retrouve à Chécy les traces d’un carrefour de voies romaines, et les premières vignes sont plantées près de la Loire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le canal d’Orléans est construit.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "",
+    "sources": []
+   },
+   {
+    "date": "1912",
+    "texte": "Une épidémie de phylloxéra détruit une partie des vignes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVe siècle (alentours) / XVIIIe siècle (reconstruction)",
+    "texte": "Le château de la Bretauche aurait été construit aux alentours du XVe siècle, puis reconstruit vers le XVIIIe siècle.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "La gare de Chécy - Mardié ferme au service des voyageurs, comme la ligne.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2026",
+    "texte": "Un incendie, vite maîtrisé, cause de légers dégâts à l’autel de l’église Saint-Pierre.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Chécy - Mardié",
+   "histoire": "Sur le territoire de Chécy, la gare de Chécy - Mardié appartient à la ligne d’Orléans à Gien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 47.89667,
+   "lon": 2.039017,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Ch%C3%A9cy_-_Mardi%C3%A9"
+  },
+  {
+   "nom": "Église Saint-Pierre de Chécy",
+   "histoire": "L’église Saint-Pierre est un édifice de Chécy, dans le Loiret.",
+   "anecdotes": [
+    {
+     "texte": "En 2026, un incendie vite maîtrisé cause de légers dégâts à l’autel.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 47.8917,
+   "lon": 2.02472,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Ch%C3%A9cy"
+  },
+  {
+   "nom": "Château de la Bretauche",
+   "histoire": "Le château de la Bretauche se trouve à Chécy. Sa construction remonterait aux alentours du XVe siècle, puis il aurait été reconstruit vers le XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 47.918693,
+   "lon": 2.019787,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Bretauche"
+  }
+ ],
+ "sources": [
+  "Chécy est une commune française située dans le département du Loiret en région Centre-Val de Loire. La commune, située dans le périmètre inscrit au patrimoine mondial de l'Unesco, possède des paysages et des milieux écologiques remarquables, ainsi qu'un certain cachet patrimonial autour du canal et du vieux bourg. Si elle s'est développée autour de son activité commerciale, elle devient au début du XXIe siècle de […]",
+  "L’habitation de la région orléanaise commence dès l’époque gallo-romaine. La région constitue un lieu de passage le long de la Loire. À Chécy, on a retrouvé les traces d’un carrefour de voies romaines, reliant Orléans (en passant par Saint-Jean-de-Braye), Paris, Gien et Sens. De plus, les Romains plantent les premières vignes, à proximité de la Loire, et cette activité perdurera jusqu’au XXe siècle. Au Moyen Âge, […]",
+  "XVIIe siècle : Au XVIIe siècle également, le canal d’Orléans est construit.",
+  "1912 : En 1912, l'épidémie du phylloxéra détruit une partie des vignes.",
+  "Lieu « Gare de Chécy - Mardié » : La gare Chécy - Mardié est une gare ferroviaire française de la ligne d'Orléans à Gien, située sur le territoire de la commune de Chécy, dans le département du Loiret, en région Centre-Val de Loire.",
+  "Lieu « Gare de Chécy - Mardié », 1939 : Elle est fermée au service des voyageurs, comme la ligne, depuis 1939.",
+  "Lieu « Église Saint-Pierre de Chécy » : L’église Saint-Pierre est une église française située à Chécy dans le département du Loiret et la région Centre-Val de Loire.",
+  "Lieu « Église Saint-Pierre de Chécy », 2026 : En 2026, un incendie vite maîtrisé cause de légers dégâts à l'autel.",
+  "Lieu « Château de la Bretauche » : Le château de la Bretauche est un château français situé à Chécy dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Château de la Bretauche », XVe siècle : Le château aurait été construit aux alentours du XVe siècle puis reconstruit vers le XVIIIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 1,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

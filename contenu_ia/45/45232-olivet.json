@@ -1,0 +1,99 @@
+{
+ "commune": {
+  "titre": "Olivet (Loiret)",
+  "code_insee": "45232",
+  "departement": "45",
+  "population": 23507,
+  "lat": 47.86388889,
+  "lon": 1.90055556,
+  "url": "https://fr.wikipedia.org/wiki/Olivet_%28Loiret%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:01:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1225,
+  "sortie": 1008
+ },
+ "cout_usd": 0.001505,
+ "accroche": "Au début du XVIIe siècle, le château du Poutyl est construit à Olivet, occupé par le maréchal de camp d'Henri IV.",
+ "histoire": {
+  "recit": "Olivet, commune de la banlieue sud d'Orléans, s’inscrit dans le périmètre du Val de Loire inscrit au patrimoine mondial de l’UNESCO. Les traces les plus anciennes mises au jour remontent aux Mérovingiens. Plus tard, l’eau et le travail des moulins structurent le paysage : dès le Xe siècle, des moulins à eau sont construits par les moines de l’abbaye Saint-Mesmin de Micy.\n\nQuand le début du XVIIe siècle arrive, une grande demeure s’élève : le château du Poutyl est occupé par le maréchal de camp d'Henri IV, qui rend à cette demeure plusieurs visites. Quant au site du château de La Fontaine, il est lié à l’implantation d’ordres religieux le long des rives du Loiret, avec levées et moulins ; et, aujourd’hui encore, les religieuses du prieuré de La Madeleine y possédaient une partie du terrain devenu le parc de La Fontaine, autour des moulins des Béchets et de Saint-Julien.",
+  "chronologie": [
+   {
+    "date": "Époque des Mérovingiens",
+    "texte": "Les plus anciens vestiges découverts remontent à l’époque des Mérovingiens.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Vers le Xe siècle",
+    "texte": "Les premiers moulins à eau sont construits par les moines de l’abbaye Saint-Mesmin de Micy.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Début du XVIIe siècle",
+    "texte": "Construction du château du Poutyl, occupé par le maréchal de camp d'Henri IV, qui y rend plusieurs visites.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "VIe siècle",
+    "texte": "Les rives du Loiret sont occupées par des ordres religieux, qui y construisent les levées et les moulins.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "Aujourd'hui",
+    "texte": "Le parc de La Fontaine correspond en partie à un terrain détenu autrefois par les religieuses du prieuré de La Madeleine, avec les moulins voisins des Béchets et Saint-Julien.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de La Fontaine (Loiret)",
+   "histoire": "Dès le VIe siècle, les rives du Loiret accueillent des ordres religieux, qui y construisent les levées et les moulins. Plus tard, les religieuses du prieuré de La Madeleine possèdent une bonne partie du terrain correspondant aujourd’hui au parc de La Fontaine, avec les moulins voisins des Béchets et Saint-Julien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le parc de La Fontaine occupe une partie du terrain autrefois détenu par les religieuses du prieuré de La Madeleine, en lien avec les moulins des Béchets et Saint-Julien.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 47.87225,
+   "lon": 1.8801,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_La_Fontaine_%28Loiret%29"
+  }
+ ],
+ "sources": [
+  "Olivet est une commune française située dans la banlieue sud d'Orléans, dans le département du Loiret, en région Centre-Val de Loire. La commune d'Olivet est la deuxième ville de la métropole d'Orléans. La commune est située dans le périmètre de la région naturelle du Val de Loire inscrit au patrimoine mondial de l'UNESCO.",
+  "Les plus anciens vestiges découverts remontent à l'époque des Mérovingiens. Les premiers moulins à eau furent construits vers le Xe siècle par les moines de l'abbaye Saint-Mesmin de Micy. Au début du XVIIe siècle, est construit le château du Poutyl qui est occupé par le maréchal de camp d'Henri IV, ce dernier rendant à cette demeure plusieurs visites. Il aurait été ainsi le lieu discret de rencontres entre le roi et […]",
+  "Xe siècle : Les premiers moulins à eau furent construits vers le Xe siècle par les moines de l'abbaye Saint-Mesmin de Micy.",
+  "XVIIe siècle : Au début du XVIIe siècle, est construit le château du Poutyl qui est occupé par le maréchal de camp d'Henri IV, ce dernier rendant à cette demeure plusieurs visites.",
+  "Lieu « Château de La Fontaine (Loiret) » : Le château de La Fontaine est un château français situé sur le territoire de la commune d'Olivet dans la région naturelle du Val de Loire, le département du Loiret et la région Centre-Val de Loire.",
+  "Lieu « Château de La Fontaine (Loiret) », VIe siècle : Dès le VIe siècle, les rives du Loiret furent occupées par des ordres religieux, qui y construisirent les levées et les moulins.",
+  "Lieu « Château de La Fontaine (Loiret) », aujourd'hui : Les religieuses du prieuré de La Madeleine possédaient une bonne partie du terrain occupé aujourd'hui par le parc de La Fontaine, ainsi que les deux moulins voisins, les Béchets et Saint-Julien."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

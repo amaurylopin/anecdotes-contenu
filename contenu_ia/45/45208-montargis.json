@@ -1,0 +1,310 @@
+{
+ "commune": {
+  "titre": "Montargis",
+  "code_insee": "45208",
+  "departement": "45",
+  "population": 14825,
+  "lat": 47.99777778,
+  "lon": 2.73333333,
+  "url": "https://fr.wikipedia.org/wiki/Montargis"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:28:11",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2699,
+  "sortie": 2483
+ },
+ "cout_usd": 0.003644,
+ "accroche": "En juillet 1525, une église de Montargis est incendiée et à moitié détruite le 25 juillet, au même moment qu’une grande partie de la ville.",
+ "histoire": {
+  "recit": "À Montargis, la ville se lit à travers ses lieux : l’eau y circule par le canal de Briare, le Loing, le Puiseaux et le Vernisson, tandis que les bâtiments racontent des violences, des reconstructions et des usages qui changent.\n\nL’histoire de la Madeleine donne le ton : après 1465, on installe des autels latéraux dans les basses-nefs élargies, puis en 1525 des pillards incendient l’église, avant que l’édifice soit porté par une longue construction, de sa base du XIIe siècle aux compléments des XVIIe et à la restauration commencée à partir de 1860. Aujourd’hui, il en reste notamment la base du clocher et des piliers et chapiteaux de la nef.\n\nPlus loin, le palais de justice s’inscrit dans un autre mouvement religieux et administratif : en 1628, cinq religieuses d’un couvent d’Orléans arrivent à Montargis avec 3.000 livres pour fonder un nouvel établissement. Plus tard, après des inondations, le haut du bâtiment est reconstruit en 1774.\n\nEnfin, la commune poursuit ses métamorphoses : la maison Feuillette, œuvre en ossature bois isolée en ballots de paille, accueille aujourd’hui les bureaux du CNCP, avec des missions élargies à la formation et à l’expérimentation du matériau paille.",
+  "chronologie": [
+   {
+    "date": "Après 1465",
+    "texte": "Dans l’église de la Madeleine, quatre autels latéraux sont installés dans les basses-nefs élargies.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "25 juillet (juillet 1525)",
+    "texte": "Des pillards stationnent près de Montargis : l’église est incendiée et à moitié détruite le 25 juillet, avec une grande partie de la ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "L’église de la Madeleine est restaurée à partir de 1860, après une construction commencée au XIIe siècle puis complétée jusqu’à la Renaissance et au XVIIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1628",
+    "texte": "En septembre 1628, cinq religieuses du couvent d’Orléans sont envoyées à Montargis avec 3.000 livres pour fonder un nouvel établissement.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1774",
+    "texte": "Le haut du palais de justice est reconstruit en 1774, à la suite des inondations des 26 novembre 1770 et 16 janvier 1772.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1921",
+    "texte": "Un article de 1921 raconte la construction de la maison Feuillette, achevée à l’automne 1920.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "2020",
+    "texte": "En 2020, le CNCP acquiert un terrain adjacent à la maison Feuillette pour y construire un bâtiment de formation dans le projet Interreg UP STRAW.",
+    "sources": [
+     "S19"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Sainte-Marie-Madeleine de Montargis",
+   "histoire": "Église paroissiale dite « église de la Madeleine », elle est construite entre le XIIe siècle et la Renaissance, complétée dans la seconde moitié du XVIIe siècle, puis restaurée à partir de 1860. Du premier édifice du XIIe siècle, il reste la base du clocher, ainsi que les piliers et chapiteaux de la nef.",
+   "anecdotes": [
+    {
+     "texte": "En juillet 1525, une bande de pillards stationne près de Montargis : l’église est incendiée et à moitié détruite le 25 juillet, en même temps qu’une grande partie de la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Après 1465, on installe quatre autels latéraux dans des basses-nefs élargies.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Du premier édifice du XIIe siècle, il reste la base du clocher et les piliers et chapiteaux de la nef.",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 47.998475,
+   "lon": 2.732598,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Marie-Madeleine_de_Montargis"
+  },
+  {
+   "nom": "Palais de justice de Montargis",
+   "histoire": "En 1628, cinq religieuses du couvent d’Orléans arrivent à Montargis avec 3.000 livres pour fonder un nouvel établissement. Après des inondations, le haut du bâtiment est reconstruit en 1774. Plus tard, elles achètent une maison sur un terrain situé entre la Grande rue du pont du Puiseaux (aujourd’hui rue du Général-Leclerc), la rue de cour Jean Dupont, le Puiseaux et le canal du Loing.",
+   "anecdotes": [
+    {
+     "texte": "En septembre 1628, les religieuses viennent avec 3.000 livres pour fonder un nouvel établissement d’un ordre monastique alors « jeune ».",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 47.999129,
+   "lon": 2.730196,
+   "url": "https://fr.wikipedia.org/wiki/Palais_de_justice_de_Montargis"
+  },
+  {
+   "nom": "Château de Montargis",
+   "histoire": "Château fort et ancienne résidence royale, aujourd’hui en grande partie ruinée. Près du château se trouve l’église de la Madeleine, bâtie à la fin du XIIe siècle. En 1810, la démolition commence et se termine en 1837 avec la chute de la tour de l’Horloge. Sur une partie des jardins, une halle de sport est érigée, et, depuis mars 2010, douze carreaux sont recréés selon des plans de du Cerceau.",
+   "anecdotes": [
+    {
+     "texte": "La démolition du château commence en 1810 et s’achève en 1837, avec la chute de la tour de l’Horloge.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château est aujourd’hui en grande partie ruinée.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 47.998968,
+   "lon": 2.728449,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Montargis"
+  },
+  {
+   "nom": "Maison Feuillette",
+   "histoire": "La maison Feuillette est le plus ancien bâtiment du monde construit en ossature bois et isolé en ballots de paille connu à ce jour. Un article paru en 1921 dans la revue La Science et la Vie relate sa construction, achevée à l’automne 1920. En 2020, le CNCP acquiert un terrain adjacent pour construire un bâtiment de formation dans le cadre du projet européen Interreg UP STRAW. La maison accueille aujourd’hui les bureaux du CNCP.",
+   "anecdotes": [
+    {
+     "texte": "Un article de 1921 dans La Science et la Vie raconte la construction de la maison Feuillette, achevée à l’automne 1920.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La maison accueille actuellement les bureaux du CNCP, avec des missions élargies à la formation, la promotion, la valorisation et l’expérimentation du matériau paille.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.995058,
+   "lon": 2.744459,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Feuillette"
+  },
+  {
+   "nom": "Gare de Montargis",
+   "histoire": "La gare de Montargis est une gare ferroviaire de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache. Ouverte en 1860, elle est mise en service lors de l’ouverture à l’exploitation de la ligne de Moret à Montargis, le 14 août 1860. La deuxième voie devient opérationnelle en novembre 1862, et la gare définitive est construite en 1863.",
+   "anecdotes": [
+    {
+     "texte": "Le 14 août 1860, la gare est mise en service avec l’ouverture à l’exploitation de la ligne de Moret à Montargis, comme première section de la ligne de Paris à Lyon par le Bourbonnais.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.006946,
+   "lon": 2.743072,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Montargis"
+  },
+  {
+   "nom": "Hôtel Ravault",
+   "histoire": "L’hôtel Ravault est un hôtel particulier à Montargis. En 1725, à la mort de Madame de Sélorge, l’hôtel est vendu à Alexandre Burband, munitionnaire général des vivres, qui meurt en 1746. Dans l’église Sainte-Marie-Madeleine, on peut voir la sépulture d’Antoine Lhoste et de Catherine Gassot, avec une épitaphe gravée sur une plaque de marbre noir ornée d’armoiries.",
+   "anecdotes": [
+    {
+     "texte": "Une épitaphe sur une plaque de marbre noir, ornée de motifs et d’armoiries, est visible dans l’église Sainte-Marie-Madeleine : elle concerne Antoine Lhoste et Catherine Gassot.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "En 1725, l’hôtel est vendu à Alexandre Burband après la mort de Madame de Sélorge.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La sépulture d’Antoine Lhoste et de Catherine Gassot, avec l’épitaphe en marbre noir, est visible dans l’église Sainte-Marie-Madeleine de Montargis.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 47.99749,
+   "lon": 2.73443,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Ravault"
+  },
+  {
+   "nom": "Musée historique de l'amitié franco-chinoise",
+   "histoire": "Le musée historique de l’amitié franco-chinoise est situé à Montargis. Créé par le gouvernement de la province chinoise du Hunan, il achète le bâtiment dans le centre de Montargis en 2014 et inaugure le musée le 27 août 2016.",
+   "anecdotes": [
+    {
+     "texte": "Le musée est inauguré le 27 août 2016 après l’achat du bâtiment en 2014 par la province chinoise du Hunan.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 47.99718,
+   "lon": 2.73463,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_historique_de_l%27amiti%C3%A9_franco-chinoise"
+  },
+  {
+   "nom": "Musée Girodet",
+   "histoire": "Le musée Girodet, à Montargis, est un musée d’art ayant reçu le label Musée de France. Entre 2008 et 2018, une rénovation des bâtiments est entreprise pour remédier à l’exiguïté des espaces d’exposition.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 47.997213,
+   "lon": 2.736357,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Girodet"
+  }
+ ],
+ "sources": [
+  "Montargis (/mɔ̃.taʁ.ʒi/ ) est une commune française située dans le département du Loiret, en région Centre-Val de Loire. Exposée à un climat océanique altéré, elle est drainée par le canal de Briare, le Loing, le Puiseaux, le Vernisson et divers autres petits cours d'eau. La commune possède une zone naturelle d'intérêt écologique, faunistique et floristique. Montargis est l'une des deux sous-préfectures du Loiret. […]",
+  "Lieu « Église Sainte-Marie-Madeleine de Montargis » : L'église Sainte-Marie-Madeleine de Montargis, communément appelée église de la Madeleine, est une église paroissiale à Montargis dans le Loiret.",
+  "Lieu « Église Sainte-Marie-Madeleine de Montargis », 1465 : Après 1465, quatre autels latéraux sont installés dans les basses-nefs qui sont élargies.",
+  "Lieu « Église Sainte-Marie-Madeleine de Montargis », 1525 : En juillet 1525, une bande de pillards stationne près de Montargis ; l'église est incendiée et à moitié détruite le 25 juillet en même temps qu'une grande partie de la ville.",
+  "Lieu « Église Sainte-Marie-Madeleine de Montargis », 1860 : L'église est construite entre le XIIe siècle et la Renaissance, puis complétée dans la seconde moitié du XVIIe siècle et restaurée à partir de 1860.",
+  "Lieu « Église Sainte-Marie-Madeleine de Montargis », aujourd'hui : Du premier édifice du XIIe siècle il reste la base du clocher et les piliers et chapiteaux de la nef.",
+  "Lieu « Palais de justice de Montargis » : Le palais de justice de Montargis est un ensemble regroupant le tribunal judiciaire et le Centre de semi-liberté de Montargis situé en France sur la commune de Montargis, dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Palais de justice de Montargis », 1620 : C'est la 2ème des cinq congrégations à s'implanter à Montargis entre 1620 et 1632, après les Barnabites (bâtiment actuel de l'hotel de ville).",
+  "Lieu « Palais de justice de Montargis », 1628 : En septembre 1628, cinq religieuses du couvent d'Orléans sont envoyées à Montargis avec 3.000 livres pour fonder un nouvel établissement de ce jeune ordre monastique, fondé 18 années auparavant.",
+  "Lieu « Palais de justice de Montargis », 1774 : Le haut du bâtiment est reconstruit sous Louis XV en 1774, à la suite des inondations des 26 novembre 1770 et 16 janvier 1772.",
+  "Lieu « Palais de justice de Montargis », aujourd'hui : Après avoir occupé un premier local, elles achètent pour 6 000 livres à Guillaume Argis, contrôleur au grenier à sel, une maison sur un terrain situé entre la Grande rue du pont du Puiseaux (aujourd'hui rue rue du Général-Leclerc), la rue de cour Jean Dupont, le Puiseaux et le canal du Loing.",
+  "Lieu « Château de Montargis » : Le château de Montargis est un château fort français et une ancienne résidence royale aujourd'hui en grande partie ruinée, situé à Montargis dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Château de Montargis », XIIe siècle : À proximité se trouve l'église de la Madeleine, bâtie à la fin du XIIe siècle pour Lambert de Courtenay[réf. souhaitée].",
+  "Lieu « Château de Montargis », 1810 : En 1810 est commencée la démolition qui se termine en 1837 avec la chute de la tour de l'Horloge.",
+  "Lieu « Château de Montargis », 2010 : Sur cette partie des jardins est érigée une halle de sport et, depuis mars 2010, ont été recréés 12 carreaux selon les plans de du Cerceau.",
+  "Lieu « Château de Montargis », aujourd'hui : Le château de Montargis est un château fort français et une ancienne résidence royale aujourd'hui en grande partie ruinée, situé à Montargis dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Maison Feuillette » : La maison Feuillette est le plus ancien bâtiment du monde construit en ossature bois et isolé en ballots de paille connu à ce jour.",
+  "Lieu « Maison Feuillette », 1921 : Un article paru en 1921 dans la revue La Science et la Vie relate la construction de la maison Feuillette, qui s’est achevée à l’automne 1920.",
+  "Lieu « Maison Feuillette », 2020 : En 2020, le CNCP fait l’acquisition d’un terrain adjacent à la maison Feuillette afin d’y construire un nouveau bâtiment de formation dans le cadre du projet européen Interreg UP STRAW.",
+  "Lieu « Maison Feuillette », aujourd'hui : La maison accueille actuellement les bureaux du CNCP dont les missions se sont élargies à la formation, la promotion, la valorisation et l’expérimentation du matériau paille.",
+  "Lieu « Gare de Montargis » : La gare de Montargis est une gare ferroviaire française de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache.",
+  "Lieu « Gare de Montargis », 1860 : Ouverte en 1860 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), c'est une gare de la Société nationale des chemins de fer français (SNCF), desservie par des trains de la ligne R du Transilien et du réseau TER Centre-Val de Loire.",
+  "Lieu « Gare de Montargis », 1860 : La gare de Montargis est mise en service lors de l'ouverture à l'exploitation, par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), de sa ligne de Moret à Montargis, le 14 août 1860, comme première section de la ligne de Paris à Lyon par le Bourbonnais.",
+  "Lieu « Gare de Montargis », 1862 : La deuxième voie est opérationnelle en novembre 1862 et la gare définitive est construite en 1863, toujours à Châlette mais légèrement plus au sud que la gare provisoire.",
+  "Lieu « Hôtel Ravault » : L’hôtel Ravault est un hôtel particulier situé à Montargis dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Hôtel Ravault », 1725 : À la mort de Madame de Sélorge, en 1725, l'hôtel fut vendu à Alexandre Burband, munitionnaire général des vivres, qui mourut en 1746.",
+  "Lieu « Hôtel Ravault », aujourd'hui : La sépulture d'Antoine Lhoste et de Catherine Gassot, sa femme, est visible dans l'église Sainte-Marie-Madeleine de Montargis, l'épitaphe gravée sur une large plaque de marbre noir ornée de motifs et d'armoiries.",
+  "Lieu « Musée historique de l'amitié franco-chinoise » : Le musée historique de l'amitié franco-chinoise (en chinois : 中国旅法勤工俭学蒙达尔纪纪念馆) est situé à Montargis dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Musée historique de l'amitié franco-chinoise », 2014 : Le musée est créé par le gouvernement de la province chinoise du Hunan, qui a acheté le bâtiment dans le centre de Montargis en 2014 et inauguré le musée le 27 août 2016.",
+  "Lieu « Musée Girodet » : Le musée Girodet, situé dans la ville de Montargis dans le Loiret en France, est un musée d'art ayant reçu le label Musée de France.",
+  "Lieu « Musée Girodet », 2008 : Entre 2008 et 2018, une rénovation des bâtiments a été entreprise pour remédier à l'exiguïté des espaces d'exposition."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 9
+ }
+}

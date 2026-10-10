@@ -1,0 +1,298 @@
+{
+ "commune": {
+  "titre": "Gien",
+  "code_insee": "45155",
+  "departement": "45",
+  "population": 13459,
+  "lat": 47.68972222,
+  "lon": 2.63,
+  "url": "https://fr.wikipedia.org/wiki/Gien"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:34:43",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2523,
+  "sortie": 2145
+ },
+ "cout_usd": 0.003186,
+ "accroche": "À Gien, la faïencerie, fondée en 1821, a forgé la réputation de la ville sur la rive droite de la Loire.",
+ "histoire": {
+  "recit": "Gien s’est construite sur un va-et-vient d’occupations et de reconstructions. À l’emplacement de Gien-le-Vieux, des traces préhistoriques ont été découvertes, puis des vestiges gallo-romains (colonnes, monnaies) attestent d’un ancien village. Fin XIIIe siècle, la ville se dote d’une première enceinte de fortifications, avant d’en voir d’autres se succéder.\n\nAu Moyen Âge tardif, l’allure de la ville change : entre 1494 et 1500, le château est reconstruit dans le style renaissance, le pont est en partie reconstruit, l’enceinte fortifiée est restaurée et agrandie, tandis que l’église collégiale Saint-Étienne est reconstruite et le couvent des Minimes fondé.\n\nPuis viennent les chocs du XXe siècle. Le 15 juin 1940, le pont de Gien est bombardé. En 1941, la ville compte de très nombreux immeubles détruits ou touchés. Enfin, en août 1944, l’arche centrale du pont est détruite par les Allemands en retraite. Aujourd’hui, Gien garde surtout ses repères sur le fleuve, autour du vieux pont et de la grande traversée de pierre.",
+  "chronologie": [
+   {
+    "date": "1821",
+    "texte": "La faïencerie de Gien est fondée, devenant un moteur de réputation et d’accueil des visiteurs.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1246",
+    "texte": "Sous Saint Louis, un premier pont de pierre est construit ; des parties en seront reprises pour le pont actuel du XVIIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Fin XIIIe siècle",
+    "texte": "Une première enceinte de fortifications est construite autour de la ville, avant que d’autres enceintes lui succèdent.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1494-1500",
+    "texte": "Reconstruction du château dans le style renaissance, restauration et agrandissement des fortifications, reconstruction de l’église collégiale Saint-Étienne et fondation du couvent des Minimes.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "15 juin 1940",
+    "texte": "Le pont de Gien est bombardé afin de couper la retraite de l’armée française.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "août 1944",
+    "texte": "Les Allemands en retraite détruisent l’arche centrale du pont.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Gien",
+   "histoire": "Le château de Gien est reconstruit à partir de 1482 sur la base d’une forteresse médiévale. Il accueille ensuite une prison, installée dans le logis ouest puis supprimée en 1926. Des fouilles, menées entre 2011 et 2014, ont mis au jour les fondations d’une tour seigneuriale vraisemblablement construite entre le IXe et le XIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La prison du château est supprimée en 1926, après avoir été installée dans le logis ouest.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Des fouilles archéologiques (2011-2014) ont révélé les fondations d’une tour seigneuriale, attribuée vraisemblablement entre le IXe et le XIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 47.685,
+   "lon": 2.63167,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Gien"
+  },
+  {
+   "nom": "Château-musée de Gien",
+   "histoire": "Le château-musée de Gien abrite le musée « Chasse histoire et nature en Val-de-Loire ». Le musée se développe avec un projet lié à la vénerie, puis une inauguration consacrée à la chasse à tir et à la fauconnerie. Après la restauration de 2017, le lieu intègre des tablettes numériques et des films immersifs.",
+   "anecdotes": [
+    {
+     "texte": "Depuis la restauration du château-musée en 2017, des tablettes numériques et des films immersifs ont été installés dans les salles.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "Le musée de la chasse à tir et de la fauconnerie est inauguré dans le château de Gien en 1952.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Le nouveau musée devait compléter un musée de Senlis centré sur la vénerie, inauguré en 1935.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.6848086,
+   "lon": 2.6315573,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau-mus%C3%A9e_de_Gien"
+  },
+  {
+   "nom": "Vieux pont de Gien",
+   "histoire": "Le vieux pont de Gien, dit pont Anne-de-Beaujeu, franchit la Loire en maçonnerie. La tradition locale rapporte une reconstruction de ce pont en 1484. En 1733, une crue emporte les arches les plus proches de la ville. Après les destructions de la guerre, une arche est reconstruite en 1945 selon le même principe.",
+   "anecdotes": [
+    {
+     "texte": "D’après la tradition locale, le pont de pierre aurait été reconstruit par Anne de Beaujeu en 1484.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "Le 28 mai 1733, une crue de la Loire emporte les trois arches les plus proches de la ville et l’arche centrale, ainsi que plusieurs maisons construites sur le pont.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    },
+    {
+     "texte": "En 1945, l’arche 8 est reconstruite en suivant le même principe.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    },
+    {
+     "texte": "Un passage à gué permettant de franchir la Loire est remplacé par un pont en pierres sous le règne de Saint Louis, comte de Gien, en 1246.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.6825,
+   "lon": 2.630833,
+   "url": "https://fr.wikipedia.org/wiki/Vieux_pont_de_Gien"
+  },
+  {
+   "nom": "Gare de Gien",
+   "histoire": "La gare de Gien est une gare ferroviaire française, sur la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache, et aussi un ancien nœud ferroviaire pour plusieurs lignes. Elle est ouverte en 1861, puis la ligne est ouverte en totalité en 1885. Avec la Seconde Guerre mondiale, le trafic reprend sur des lignes fermées en 1939 et s’arrête à la fin du conflit.",
+   "anecdotes": [
+    {
+     "texte": "En 1861, la gare de Gien est ouverte par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM).",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "En 1939, avec la Seconde Guerre mondiale, le trafic reprend sur les lignes fermées puis s’arrête à la fin du conflit.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 47.69917,
+   "lon": 2.636547,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Gien"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Gien",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 47.68574,
+   "lon": 2.63364,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Gien"
+  },
+  {
+   "nom": "Nouveau pont de Gien",
+   "histoire": "Le nouveau pont de Gien franchit la Loire. Les travaux commencent en septembre 1977 et se terminent avec l’inauguration de la section Sud le 8 juillet 1980, puis de la section Nord le 24 juin 1981.",
+   "anecdotes": [
+    {
+     "texte": "Les travaux commencés en septembre 1977 s’achèvent avec l’inauguration de la section Sud le 8 juillet 1980, puis de la section Nord le 24 juin 1981.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 47.6775,
+   "lon": 2.643056,
+   "url": "https://fr.wikipedia.org/wiki/Nouveau_pont_de_Gien"
+  }
+ ],
+ "sources": [
+  "Gien est une commune française située dans le département du Loiret, en région Centre-Val de Loire. La ville, située sur la rive droite de la Loire, joue un rôle important tant par son patrimoine historique que par son industrie. Gien est mondialement connue pour sa faïencerie, fondée en 1821, qui a forgé sa réputation et continue d’attirer des visiteurs et des collectionneurs du monde entier. Surplombant la ville, […]",
+  "On a découvert des traces d’occupation préhistorique à Gien-le-Vieux. Gien fut probablement un centre d’échanges entre cultivateurs carnutes et forgerons éduens. À l'époque romaine, et probablement pendant la période gauloise, le site de Gien-le-Vieux était occupé par un village. On y a en effet retrouvé d'importants vestiges gallo-romains : colonnes, monnaies, etc. Le nom de cette petite cité nous est inconnu. Le […]",
+  "1246 : En 1246, du temps de Saint Louis, un premier pont de pierre est construit ; le pont actuel du XVIIIe siècle en inclut certaines parties.",
+  "XIIIe siècle : Fin XIIIe siècle la première enceinte de fortifications est construite autour de la ville ; trois autres enceintes lui succéderont.",
+  "1494 : Sous son autorité, la ville s'embellit : le château est reconstruit dans le style renaissance entre 1494 et 1500, le pont est en partie reconstruit, l'enceinte fortifiée est restaurée et agrandie, l'église collégiale Saint-Étienne est reconstruite, le couvent des Minimes est fondé.",
+  "XVIe siècle : C'est au XVIe siècle qu'est construite la Maison des Alix, au coeur de la ville basse.",
+  "1940 : Pendant la Seconde Guerre mondiale, le pont de Gien est bombardé le 15 juin 1940 par la Luftwaffe, afin de couper la retraite de l'armée française.",
+  "1941 : En 1941, Gien est en grande partie en ruines : 422 immeubles ont été totalement détruits et 921 partiellement.",
+  "1944 : Les Alliés ont bombardé la zone du pont en juin-juillet août 1944 ; ils n'ont pas atteint leur objectif et n'ont fait que des dégâts collatéraux dont quelques victimes civiles.",
+  "1944 : L'arche centrale du pont a été détruite en août 1944 par les Allemands en retraite.",
+  "Lieu « Château de Gien » : Le château de Gien est un château situé dans la commune française de Gien dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Château de Gien », 1482 : Le château actuel a été construit à partir de 1482, pendant la Première Renaissance française, pour Anne de France et Pierre II de Beaujeu, sur la base d'une forteresse médiévale.",
+  "Lieu « Château de Gien », 1926 : La prison est installée dans le logis ouest, elle est supprimée en 1926.",
+  "Lieu « Château de Gien », 2011 : Des fouilles archéologiques (2011-2014) ont permis de mettre au jour les fondations d'une tour seigneuriale, construite vraisemblablement entre le IXe et le XIe siècle.",
+  "Lieu « Château de Gien », aujourd'hui : Il s'agit de remplacements de pièces de bois.",
+  "Lieu « Château-musée de Gien » : Le château-musée de Gien, abrite le musée « Chasse histoire et nature en Val-de-Loire » situé à Gien dans le département français du Loiret en région Centre-Val de Loire.",
+  "Lieu « Château-musée de Gien », 1935 : Ce nouveau musée devait compléter le musée de Senlis, inauguré en 1935 et centré sur la vénerie.",
+  "Lieu « Château-musée de Gien », 1952 : Le musée de la chasse à tir et de la fauconnerie est inauguré dans le château de Gien en 1952.",
+  "Lieu « Château-musée de Gien », 2017 : Depuis la restauration du château-musée de Gien en 2017, des tablettes numériques sont installées dans les salles ainsi que des films immersifs.",
+  "Lieu « Château-musée de Gien », aujourd'hui : La thématique de la chasse se justifie par l'emplacement de la ville de Gien entre les forêts des régions naturelles de la Sologne et de la Puisaye qui sont des territoires où la chasse est une tradition ancestrale.",
+  "Lieu « Vieux pont de Gien » : Le vieux pont de Gien ou pont Anne-de-Beaujeu est un pont en maçonnerie franchissant la Loire à Gien dans le département du Loiret et la région Centre-Val de Loire.",
+  "Lieu « Vieux pont de Gien », 1484 : D’après la tradition locale, le pont de pierre aurait été reconstruit par Anne de Beaujeu en 1484.",
+  "Lieu « Vieux pont de Gien », 1733 : Le 28 mai 1733, une crue de la Loire emporte les trois arches les plus proches de la ville, l’arche centrale et plusieurs maisons construites sur le pont.",
+  "Lieu « Vieux pont de Gien », 1945 : L’arche 8, reconstruite en 1945, a été réalisée suivant le même principe.",
+  "Lieu « Vieux pont de Gien », aujourd'hui : Le passage à gué permettant le franchissement de la Loire est remplacé par un pont en pierres sous le règne de Saint Louis, comte de Gien, en 1246.",
+  "Lieu « Gare de Gien » : La gare de Gien est une gare ferroviaire française de la ligne de Moret - Veneux-les-Sablons à Lyon-Perrache, mais aussi un ancien important nœud ferroviaire concernant les lignes d'Auxerre-Saint-Gervais à Gien, d'Orléans à Gien et de Gien à Argent.",
+  "Lieu « Gare de Gien », 1861 : Elle est ouverte en 1861 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM).",
+  "Lieu « Gare de Gien », 1885 : La ligne est ouverte dans sa totalité le 28 décembre 1885, lors de l'ouverture de la section d'Auxerre-Saint-Gervais à Toucy - Moulins.",
+  "Lieu « Gare de Gien », 1939 : Avec la Seconde Guerre mondiale, le trafic reprend sur les lignes fermées en 1939 pour s'arrêter à la fin du conflit.",
+  "Lieu « Hôtel de la Caisse d'épargne de Gien » : L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle situé à Gien, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Gien », XXe siècle : L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle situé à Gien, en France.",
+  "Lieu « Nouveau pont de Gien » : Le nouveau pont de Gien est un pont à poutres français franchissant la Loire à Gien, dans le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Nouveau pont de Gien », 1977 : Les travaux commencés en septembre 1977 se sont achevés avec l'inauguration de la section Sud (comprenant le pont sur la Loire) le 8 juillet 1980, puis de la section Nord le 24 juin 1981."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 6,
+  "nb_anecdotes": 12
+ }
+}

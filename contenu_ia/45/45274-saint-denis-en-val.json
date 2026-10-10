@@ -1,0 +1,127 @@
+{
+ "commune": {
+  "titre": "Saint-Denis-en-Val",
+  "code_insee": "45274",
+  "departement": "45",
+  "population": 7766,
+  "lat": 47.87805556,
+  "lon": 1.96083333,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Denis-en-Val"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:23:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1350,
+  "sortie": 953
+ },
+ "cout_usd": 0.001461,
+ "accroche": "À Saint-Denis-en-Val, seul le portail roman du XIe siècle subsiste, intégré à la façade de l’église actuelle.",
+ "histoire": {
+  "recit": "Saint-Denis-en-Val se niche dans le périmètre du Val de Loire inscrit au patrimoine mondial UNESCO. Les archéologues y ont retrouvé des traces de quatre habitations gauloises, avant qu’une première église ne s’élève au VIe siècle. Plus tard, elle est reconstruite : aujourd’hui, c’est le portail roman du XIe siècle qui demeure, pris dans la façade de l’église actuelle.\n\nLe village, lui, est documenté de manière singulière : il est donné par les moines de l’abbaye Saint-Mesmin de Micy, comme l’atteste un certificat royal de 1022 établi par Robert le Pieux. Le 28 avril 1429, une mention liée à Jeanne d’Arc apparaît dans les sources.\n\nAu XVIe siècle, le château de l’Isle surgit : Jacques Groslot le construit en 1530 sur une île de la Loire, aujourd’hui disparue. Mais l’histoire du lieu bascule : en 1866, la Loire en crue fait céder la levée à proximité du château, qui est alors en grande partie détruit. Plus près de nous, une ligne de chemin de fer secondaire à vapeur, dite « tacot », traverse le village en 1905, et contribue ensuite à l’électrification du village, achevée vers 1934. Enfin, un monument aux morts est inauguré en 1922.",
+  "chronologie": [
+   {
+    "date": "VIe siècle",
+    "texte": "Une première église est construite, puis reconstruite plus tard ; seul le portail roman du XIe siècle subsiste dans l’église actuelle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1022",
+    "texte": "Le village est donné par les moines de l’abbaye Saint-Mesmin de Micy, d’après un certificat royal établi par Robert le Pieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "28 avril 1429",
+    "texte": "Une mention liée à Jeanne d’Arc apparaît dans les documents relatifs au village.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1530",
+    "texte": "Jacques Groslot construit le château de l’Isle sur une île de la Loire aujourd’hui disparue.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "L’inondation de septembre 1866 détruit une partie importante du château, après la rupture de la levée à 150 mètres.",
+    "sources": [
+     "S5",
+     "S11"
+    ]
+   },
+   {
+    "date": "1905",
+    "texte": "La Compagnie des tramways du Loiret ouvre une ligne de chemin de fer secondaire à voie métrique et à vapeur, le « tacot », traversant le village.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1922",
+    "texte": "Un monument aux morts est inauguré.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1934",
+    "texte": "L’électrification du village est achevée, avec l’appui de la ligne « tacot ».",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de l'Isle (Saint-Denis-en-Val)",
+   "histoire": "Sur la rive sud de la Loire, le château de l’Isle est un château français en ruine à Saint-Denis-en-Val. Construit en 1530 sur une île aujourd’hui disparue, il subit en septembre 1866 la crue de la Loire : la levée cède à environ 150 mètres, et le château est alors en grande partie détruit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S4",
+    "S11"
+   ],
+   "lat": 47.88833,
+   "lon": 1.9944,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27Isle_%28Saint-Denis-en-Val%29"
+  }
+ ],
+ "sources": [
+  "Saint-Denis-en-Val est une commune française située dans le département du Loiret, en région Centre-Val de Loire. La commune est située dans le périmètre du Val de Loire inscrit au patrimoine mondial de l'Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO).",
+  "Des traces de quatre habitations gauloises ont été retrouvées. Une première église est construite au VIe siècle, reconstruite plus tardivement (seul le portail roman, datant du XIe siècle, subsiste, inclus dans la façade de l'église actuelle). Le village fut donné par les moines de l'abbaye Saint-Mesmin de Micy, comme l'atteste un certificat royal de 1022 fait par Robert le Pieux. Le 28 avril 1429, Jeanne d'Arc […]",
+  "VIe siècle : Une première église est construite au VIe siècle, reconstruite plus tardivement (seul le portail roman, datant du XIe siècle, subsiste, inclus dans la façade de l'église actuelle).",
+  "1530 : En 1530, Jacques Groslot construit le château de l'Isle sur une île de la Loire aujourd'hui disparue.",
+  "1866 : Il a été en grande partie détruit par l'inondation de septembre 1866.",
+  "1905 : En 1905 est ouverte par la Compagnie des tramways du Loiret une ligne de chemin de fer secondaire à voie métrique et à vapeur, le « tacot », allant d'Orléans à Brinon-sur-Sauldre et qui traverse le village.",
+  "1922 : Un monument aux morts est inauguré en 1922.",
+  "1934 : Cette ligne a cependant contribué à l'électrification du village, achevée vers 1934.",
+  "Lieu « Château de l'Isle (Saint-Denis-en-Val) » : Le château de l'Isle est un château français en ruine situé à Saint-Denis-en-Val, sur la rive sud de la Loire, dans le département du Loiret.",
+  "Lieu « Château de l'Isle (Saint-Denis-en-Val) », 1562 : Orléans est occupée par les armées protestantes en 1562 puis 1567.",
+  "Lieu « Château de l'Isle (Saint-Denis-en-Val) », 1866 : En septembre 1866, les eaux de la Loire en crue font céder la levée à 150 mètres du château qui, déjà en mauvais état, est alors en grande partie détruit."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIe"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

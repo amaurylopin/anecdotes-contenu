@@ -1,0 +1,104 @@
+{
+ "commune": {
+  "titre": "Ingré",
+  "code_insee": "45169",
+  "departement": "45",
+  "population": 10062,
+  "lat": 47.92111111,
+  "lon": 1.825,
+  "url": "https://fr.wikipedia.org/wiki/Ingr%C3%A9"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:53",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1126,
+  "sortie": 819
+ },
+ "cout_usd": 0.001249,
+ "accroche": "Le 7 octobre 1888, l’actuelle mairie d’Ingré a été inaugurée.",
+ "histoire": {
+  "recit": "Ingré, commune du Loiret, a livré des indices anciens : des traces d’habitation néolithiques et des vestiges gallo-romains, sur son territoire. Plus tard, sous le règne de Philippe Auguste, l’évêque de Chartres y établit l’une de ses quatre grandes prévôtés, conservée jusqu’à la Révolution française. La vie communale prend aussi forme dans les bâtiments : l’actuelle mairie est inaugurée en octobre 1888. À Ingré, l’église Saint-Loup marque encore le paysage, notamment par une porte de style Renaissance, murée, inscrite au titre des monuments historiques.",
+  "chronologie": [
+   {
+    "date": "10 000 ans avant Jésus-Christ",
+    "texte": "Les premières traces d’habitation du Néolithique ont été mises au jour, ainsi que des vestiges gallo-romains sur le site d’Ingré.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Sous le règne de Philippe Auguste",
+    "texte": "L’évêque de Chartres fait d’Ingré l’une de ses quatre grandes prévôtés.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1789",
+    "texte": "La prévôté d’Ingré subsiste jusqu’à la Révolution française de 1789.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "7 octobre 1888",
+    "texte": "L’actuelle mairie est inaugurée le 7 octobre 1888.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "10 novembre 1925",
+    "texte": "Une porte de style Renaissance de l’église Saint-Loup d’Ingré est inscrite Monument historique par un arrêté du 10 novembre 1925.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Loup d'Ingré",
+   "histoire": "L’église Saint-Loup d’Ingré est une église située à Ingré, dans le Loiret, en région Centre-Val de Loire.",
+   "anecdotes": [
+    {
+     "texte": "Sur la façade occidentale du bas-côté sud, une porte de style Renaissance est aujourd’hui murée et fait l’objet d’une inscription au titre des monuments historiques.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une porte de style Renaissance, actuellement murée, située sur la façade occidentale du bas-côté sud, inscrite Monument historique par un arrêté du 10 novembre 1925.",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 47.92,
+   "lon": 1.82722,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Loup_d%27Ingr%C3%A9"
+  }
+ ],
+ "sources": [
+  "Ingré est une commune française située dans le département du Loiret, en région Centre-Val de Loire. Exposée à un climat océanique altéré, elle est drainée par la Mauve de Saint Aydeux petits cours d'eau. Ingré comptait environ 8 699 habitants en 2014. Cette commune est limitrophe des villes d'Ormes, Saran, Saint-Jean-de-la-Ruelle et La Chapelle-Saint-Mesmin. Ingré est une commune urbaine qui compte 10 062 habitants […]",
+  "Des fouilles archéologiques ont révélé les premières traces d'habitation du Néolithique datant de 10 000 ans avant Jésus-Christ ainsi que des vestiges gallo-romains sur le site de la commune. Sous le règne de Philippe Auguste, l'évêque de Chartres fait d'Ingré l'une de ses quatre grandes prévôtés et il en reste ainsi jusqu'à la Révolution française de 1789. On y cultive le vin essentiellement pour en faire le […]",
+  "1888 : L'actuelle mairie a été inaugurée le 7 octobre 1888.",
+  "Lieu « Église Saint-Loup d'Ingré » : L’église Saint-Loup d'Ingré est une église française située à Ingré dans le département du Loiret et la région Centre-Val de Loire.",
+  "Lieu « Église Saint-Loup d'Ingré », aujourd'hui : Une porte de style Renaissance, actuellement murée, située sur la façade occidentale du bas-côté sud a été inscrite Monument historique par un arrêté du 10 novembre 1925."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

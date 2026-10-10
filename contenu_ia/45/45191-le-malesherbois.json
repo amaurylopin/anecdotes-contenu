@@ -1,0 +1,206 @@
+{
+ "commune": {
+  "titre": "Le Malesherbois",
+  "code_insee": "45191",
+  "departement": "45",
+  "population": 8016,
+  "lat": 48.29611111,
+  "lon": 2.40583333,
+  "url": "https://fr.wikipedia.org/wiki/Le_Malesherbois"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:19:44",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1727,
+  "sortie": 1266
+ },
+ "cout_usd": 0.001928,
+ "accroche": "Le château de Malesherbes, à Malesherbes, a été vendu en 1718 à Guillaume de Lamoignon de Blancmesnil, avocat général au Parlement de Paris.",
+ "histoire": {
+  "recit": "Le Malesherbois est une commune nouvelle du Loiret, créée le 1er janvier 2016 par le regroupement de sept communes, avec Malesherbes pour chef-lieu. Entre l’Essonne et de petits cours d’eau, le territoire porte aussi deux sites Natura 2000 et quatorze zones naturelles.\n\nMais tout commence surtout par une bascule administrative : l’arrêté préfectoral du 30 novembre 2015 fait naître la commune nouvelle, et les villages de Coudray, Labrosse, Mainvilliers, Malesherbes, Manchecourt, Nangeville et Orveau-Bellesauve deviennent des communes déléguées.\n\nAu fil des âges, c’est le château de Malesherbes qui concentre les tournants. Surintendant des finances au temps de 1388 à 1392, il connaît une fin brutale en 1409. Plus tard, le domaine tombe entre des mains nouvelles, avant les perquisitions de décembre 1793. Aujourd’hui encore, le visiteur voit une cour sablée, et des douves asséchées.\n\nPour changer d’air, l’Atelier-musée de l’imprimerie, ouvert en 2018, ancre au Malesherbois l’histoire de l’imprimerie.",
+  "chronologie": [
+   {
+    "date": "1er janvier 2016",
+    "texte": "Création du Malesherbois, commune nouvelle du Loiret, par le regroupement de sept anciennes communes, avec Malesherbes comme chef-lieu.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "30 novembre 2015",
+    "texte": "Arrêté préfectoral portant création de la commune nouvelle du Malesherbois, issue du regroupement des communes de Coudray, Labrosse, Mainvilliers, Malesherbes, Manchecourt, Nangeville et Orveau-Bellesauve.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1388-1392",
+    "texte": "Au château de Malesherbes, un surintendant des finances exerce de 1388 à 1392.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "17-10-1409",
+    "texte": "Le surintendant est décapité à Montfaucon, sur ordre de Jean sans Peur, Duc de Bourgogne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1718",
+    "texte": "Le château, en état de grand délabrement, est vendu à Guillaume de Lamoignon de Blancmesnil, avocat général au Parlement de Paris.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "décembre 1793",
+    "texte": "Une perquisition a lieu au château et les membres de la famille sont conduits à Paris où ils sont guillotinés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "Ouverture de l’Atelier-Musée de l’Imprimerie, musée consacré à l’histoire de l’imprimerie.",
+    "sources": [
+     "S12",
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Malesherbes",
+   "histoire": "Château de Malesherbes situé à Malesherbes, au sein de la commune nouvelle du Malesherbois. Il connut des destins dramatiques, puis des transformations qui laissent aujourd’hui voir une cour sablée et des douves asséchées.",
+   "anecdotes": [
+    {
+     "texte": "De 1388 à 1392, un surintendant des finances est rattaché au château de Malesherbes, avant une décapitation à Montfaucon le 17-10-1409, sur ordre de Jean sans Peur.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En décembre 1793, une perquisition au château conduit la famille à Paris, où elle sera guillotinée.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Le château est décrit en 1718 comme vendu dans un état de grand délabrement à Guillaume de Lamoignon de Blancmesnil.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, une cour sablée entoure le château dont les douves sont asséchées.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Cour sablée autour du château et douves asséchées.",
+   "sources": [
+    "S3",
+    "S7"
+   ],
+   "lat": 48.2873,
+   "lon": 2.4157,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Malesherbes"
+  },
+  {
+   "nom": "Malesherbes",
+   "histoire": "Malesherbes est une ancienne commune du Loiret, devenue commune déléguée au 1er janvier 2016 dans le Malesherbois.",
+   "anecdotes": [
+    {
+     "texte": "Au XIVe siècle, Malesherbes possède en annexe un grand bâtiment des greniers ainsi que l’un des plus grands pigeonniers de France.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Au XVe siècle, un château privé est construit par Hector de Boissy.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 48.2961111111,
+   "lon": 2.4058333333,
+   "url": "https://fr.wikipedia.org/wiki/Malesherbes"
+  },
+  {
+   "nom": "Atelier-musée de l'imprimerie",
+   "histoire": "Musée consacré à l’histoire de l’imprimerie, situé au Malesherbois et ouvert en 2018.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ouvert en 2018.",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 48.298515087799,
+   "lon": 2.386706379307,
+   "url": "https://fr.wikipedia.org/wiki/Atelier-mus%C3%A9e_de_l%27imprimerie"
+  },
+  {
+   "nom": "Coudray (Loiret)",
+   "histoire": "Coudray est une ancienne commune du Loiret devenue commune déléguée au 1er janvier 2016 au sein du Malesherbois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 48.2727777778,
+   "lon": 2.36916666667,
+   "url": "https://fr.wikipedia.org/wiki/Coudray_%28Loiret%29"
+  }
+ ],
+ "sources": [
+  "Le Malesherbois [lə malzɛʁbwa] est une commune nouvelle, située dans le département du Loiret en région Centre-Val de Loire, créée le 1er janvier 2016 par le regroupement de sept anciennes communes. Exposée à un climat océanique altéré, elle est drainée par l'Essonne et divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable composé de deux sites Natura 2000 et quatorze zones […]",
+  "Créée par un arrêté préfectoral du 30 novembre 2015, elle est issue du regroupement des communes de Coudray, Labrosse, Mainvilliers, Malesherbes, Manchecourt, Nangeville et Orveau-Bellesauve qui deviennent des communes déléguées. Son chef-lieu est fixé à Malesherbes.",
+  "Lieu « Château de Malesherbes » : Le château de Malesherbes est un château français situé à Malesherbes, dans la commune nouvelle du Malesherbois et le département du Loiret en région Centre-Val de Loire.",
+  "Lieu « Château de Malesherbes », 1388 : Il fut surintendant des finances de 1388 à 1392 et fut décapité à Montfaucon le 17-10-1409 sur ordre de Jean sans Peur (Duc de Bourgogne).",
+  "Lieu « Château de Malesherbes », 1718 : En 1718, le château est vendu, dans un état de grand délabrement, à Guillaume de Lamoignon de Blancmesnil, avocat général au Parlement de Paris.",
+  "Lieu « Château de Malesherbes », 1793 : En décembre 1793, une perquisition a lieu au château et les membres de sa famille sont conduits à Paris où ils seront guillotinés.",
+  "Lieu « Château de Malesherbes », aujourd'hui : Une cour sablée entoure le château dont les douves sont aujourd'hui asséchées.",
+  "Lieu « Malesherbes » : Malesherbes [malzɛʁb] est une ancienne commune française située dans le département du Loiret en région Centre-Val de Loire, devenue le 1er janvier 2016 une commune déléguée au sein de la commune nouvelle du Malesherbois.",
+  "Lieu « Malesherbes », XIVe siècle : Il possède en annexe, un grand bâtiment des greniers du XIVe siècle ainsi que l'un des plus grands pigeonniers de France.",
+  "Lieu « Malesherbes », XVe siècle : Ce château privé, du XVe siècle, a été construit par Hector de Boissy.",
+  "Lieu « Malesherbes », 2000 : Selon le FSD (Formulaire Standard des Données), le site Natura 2000 est occupé par une diversité d’habitats inscrits a l’annexe 1, dont on retiendra tout particulièrement les pelouses sèches seminaturelles et faciès d’embroussaillement sur calcaire.",
+  "Lieu « Atelier-musée de l'imprimerie » : L'Atelier-Musée de l'Imprimerie est un musée consacré à l'histoire de l'imprimerie, situé au Malesherbois et ouvert en 2018.",
+  "Lieu « Atelier-musée de l'imprimerie », 2018 : L'Atelier-Musée de l'Imprimerie est un musée consacré à l'histoire de l'imprimerie, situé au Malesherbois et ouvert en 2018.",
+  "Lieu « Coudray (Loiret) » : Coudray est une ancienne commune française située dans le département du Loiret en région Centre-Val de Loire, devenue le 1er janvier 2016 une commune déléguée au sein de la commune nouvelle du Malesherbois.",
+  "Lieu « Coudray (Loiret) », 2000 : Selon le FSD (Formulaire Standard des Données), le site Natura 2000 est occupé par une diversité d’habitats inscrits a l’annexe 1, dont on retiendra tout particulièrement les pelouses sèches seminaturelles et faciès d’embroussaillement sur calcaire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 6
+ }
+}
