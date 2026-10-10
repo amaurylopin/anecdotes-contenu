@@ -1,0 +1,84 @@
+{
+ "commune": {
+  "titre": "Fronton (Haute-Garonne)",
+  "code_insee": "31202",
+  "departement": "31",
+  "population": 6671,
+  "lat": 43.84111111,
+  "lon": 1.39027778,
+  "url": "https://fr.wikipedia.org/wiki/Fronton_%28Haute-Garonne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:41:24",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1164,
+  "sortie": 494
+ },
+ "cout_usd": 0.00085,
+ "accroche": "À Fronton, l’église Notre-Dame-de-l'Assomption de Fronton porte un clocher issu de la tour du « château » des Hospitaliers, la tour ayant été réutilisée après l’effondrement du clocher initial en 1693.",
+ "histoire": {
+  "recit": "À Fronton, la vie s’est longtemps tissée autour du vin et des saisons, sur ces terrains du Frontonnais entre Garonne et Tarn. Ici, les Romains sont donnés comme les premiers planteurs des vignes, sur les hauteurs dominant la vallée du Tarn. Mais l’histoire du lieu n’est jamais tout entière agricole : guerres de religion, passages de troupes, météorologie et peste ont aussi pesé sur la commune, au point que des visites exceptionnelles de personnages importants viennent parfois s’inscrire dans le quotidien.",
+  "chronologie": [
+   {
+    "date": "XVIe siècle",
+    "texte": "L’édifice actuel de l’église Notre-Dame-de-l'Assomption de Fronton date du XVIe siècle, construit sur l’emplacement de la première église, en grande partie détruite.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1693",
+    "texte": "Le clocher initial, propre à l’église, s’est effondré en 1693 ; le clocher actuel correspond à une tour du « château » des Hospitaliers.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption de Fronton",
+   "histoire": "L’église Notre-Dame-de-l'Assomption de Fronton se trouve sur la commune de Fronton, en Haute-Garonne. L’édifice actuel date du XVIe siècle et a été élevé sur l’emplacement de la première église, largement détruite. Son clocher provient d’une tour du « château » des Hospitaliers, réutilisée après l’effondrement du clocher initial en 1693.",
+   "anecdotes": [
+    {
+     "texte": "En 1693, le clocher propre à l’église s’est effondré ; on a alors fait du clocher une tour du « château » des Hospitaliers.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 43.84035,
+   "lon": 1.39019,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_de_Fronton"
+  }
+ ],
+ "sources": [
+  "Fronton (occitan : Frontonh) est une commune française située dans le sud-ouest de la France, dans le nord du département de la Haute-Garonne, en région Occitanie. Sur le plan historique et culturel, la commune est dans le Frontonnais, un pays entre Garonne et Tarn constitué d'une succession de terrasses caillouteuses qui ont donné naissance à de riches terroirs, réputés pour leus vins et leurs fruits. Exposée à un […]",
+  "Fronton compte parmi les plus anciens vignobles. Ce sont les Romains qui plantèrent les premiers ceps sur les terrains dominant la vallée du Tarn. La vie de Fronton est marquée par les guerres de religion, les passages et séjours de troupes, la météorologie, la peste et, exceptionnellement, la visite de tel ou tel personnage important : Philippe le Bel, Charles IX, son cousin le futur Henri IV, Louis XIII qui touche […]",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Fronton » : L'église Notre-Dame-de-l'Assomption de Fronton est située sur la commune de Fronton, dans le département de la Haute-Garonne, en France.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Fronton », XVIe siècle : L'édifice actuel date du XVIe siècle et a été érigé sur l'emplacement de la première église en grande partie détruite.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Fronton », 1693 : Le clocher est en fait une tour du « château » des Hospitaliers, le clocher initial, propre à l'église s'étant effondré en 1693."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "commune": {
+  "titre": "Seysses",
+  "code_insee": "31547",
+  "departement": "31",
+  "population": 10539,
+  "lat": 43.49888889,
+  "lon": 1.31333333,
+  "url": "https://fr.wikipedia.org/wiki/Seysses"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:53:31",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1341,
+  "sortie": 623
+ },
+ "cout_usd": 0.001047,
+ "accroche": "À Seysses, la gare était une halte mise en service en 1905, puis définitivement fermée en 1938.",
+ "histoire": {
+  "recit": "Seysses, au nord de la Haute-Garonne, se lit aussi par ses chemins. Le village se trouve sur l’ancienne voie romaine reliant Tolosa à Lugdunum Convenarum, et les fouilles menées en 2018 à la Boulbène des Vitarelles y ont mis au jour des sépultures : les plus anciennes remontent au Néolithique, et les plus nombreuses appartiennent à l’Antiquité tardive, avec aussi une période wisigothique.\n\nPlus près des temps récents, Seysses a connu la vie d’une halte ferroviaire. La Gare de Seysses, sur la ligne de Toulouse-Roguet à Sabarat, a fonctionné comme halte dès 1905, avant d’être fermée à tous trafics en 1938.\n\nAu même territoire, Les Aujoulets a longtemps tenu son école primaire : elle a fermé le 31 août 2005.\n\nEnfin, le Centre pénitentiaire de Toulouse-Seysses, anciennement maison d’arrêt de Seysses, a ouvert en 2003 et dispose d’une capacité de 596 places.",
+  "chronologie": [
+   {
+    "date": "1905",
+    "texte": "La Gare de Seysses est mise en service comme halte ferroviaire.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1938",
+    "texte": "La halte de la Gare de Seysses est définitivement fermée à tous trafics.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2003",
+    "texte": "Le Centre pénitentiaire de Toulouse-Seysses ouvre et compte 596 places.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "31 aout 2005",
+    "texte": "L’école primaire des Aujoulets ferme.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "Des fouilles à la Boulbène des Vitarelles révèlent des sépultures allant du Néolithique à l’Antiquité tardive et à l’époque wisigothique.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centre pénitentiaire de Toulouse-Seysses",
+   "histoire": "Anciennement maison d’arrêt de Seysses, c’est un centre pénitentiaire situé sur la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 43.489,
+   "lon": 1.32565,
+   "url": "https://fr.wikipedia.org/wiki/Centre_p%C3%A9nitentiaire_de_Toulouse-Seysses"
+  },
+  {
+   "nom": "Gare de Seysses",
+   "histoire": "Gare de la ligne de Toulouse-Roguet à Sabarat, située sur la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 43.49663,
+   "lon": 1.31788,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Seysses"
+  },
+  {
+   "nom": "Les Aujoulets",
+   "histoire": "Hameau de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 43.50365,
+   "lon": 1.25852,
+   "url": "https://fr.wikipedia.org/wiki/Les_Aujoulets"
+  }
+ ],
+ "sources": [
+  "Seysses (prononcé) [sɛjs(ə)], Sèishes (['sɛʃes] en occitan gascon local) / Sèisses (['sɛjses] en languedocien de Toulouse), est une commune française qui se situe dans le nord du département de la Haute-Garonne, en région Occitanie. Sur le plan historique et culturel, la commune est dans le Pays toulousain, qui s'étend autour de Toulouse le long de la vallée de la Garonne, bordé à l’ouest par les coteaux du Savès, à […]",
+  "Seysses était situé sur l'ancienne voie romaine qui reliait Tolosa (Toulouse) à Lugdunum Convenarum (Saint-Bertrand-de-Comminges). Des fouilles réalisées en 2018 sur le site de la Boulbène des Vitarelles ont permis la découverte de plusieurs sépultures, les plus anciennes remontant au Néolithique, les plus nombreuses datant de l'Antiquité tardive, l'époque wisigothique, et certaines ont livré des parures, notamment […]",
+  "Lieu « Centre pénitentiaire de Toulouse-Seysses » : Le centre pénitentiaire de Toulouse-Seysses, anciennement maison d'arrêt de Seysses, est un centre pénitentiaire français situé sur le territoire de la commune de Seysses, dans le département de la Haute-Garonne et en région Occitanie, à 25 km au sud",
+  "Lieu « Centre pénitentiaire de Toulouse-Seysses », 2003 : Il a été ouvert en 2003 avec une capacité de 596 places.",
+  "Lieu « Gare de Seysses » : La gare de Seysses était une gare ferroviaire française de la ligne de Toulouse-Roguet à Sabarat située sur le territoire de la commune de Seysses, dans le département de la Haute-Garonne, en région Occitanie.",
+  "Lieu « Gare de Seysses », 1905 : C'était une halte, mise en service en 1905 par la compagnie des chemins de fer du Sud-Ouest et définitivement fermée à tous trafics en 1938.",
+  "Lieu « Les Aujoulets » : Les Aujoulets est un hameau de la commune de Seysses situé dans le département de la Haute-Garonne et la région Occitanie.",
+  "Lieu « Les Aujoulets », 2005 : Les Aujoulets possédait une école primaire qui a fermée le 31 aout 2005."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 0
+ }
+}

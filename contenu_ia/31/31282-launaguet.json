@@ -1,0 +1,81 @@
+{
+ "commune": {
+  "titre": "Launaguet",
+  "code_insee": "31282",
+  "departement": "31",
+  "population": 9173,
+  "lat": 43.675,
+  "lon": 1.45777778,
+  "url": "https://fr.wikipedia.org/wiki/Launaguet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:15",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1082,
+  "sortie": 482
+ },
+ "cout_usd": 0.000819,
+ "accroche": "À Launaguet, des fouilles réalisées en 1968 ont révélé une fosse chasséenne avec des céramiques, attestant une fréquentation il y a environ 7 000 ans.",
+ "histoire": {
+  "recit": "Au nord de la Haute-Garonne, Launaguet appartient au Pays toulousain, une région qui se déploie autour de Toulouse et de la vallée de la Garonne. Bien avant l’histoire écrite de la commune, des fouilles menées en 1968 ont mis au jour une fosse chasséenne, avec des instruments et des céramiques : la fréquentation du lieu remonte à environ 7 000 ans. Plus tard, on ne signale pas de traces d’implantation romaine à Launaguet, même s’il est jugé probable que certaines parties aient pu dépendre d’une grande villa gallo-romaine dont on retrouve des vestiges dans les environs.\n\nÀ l’époque des bâtiments, le château de Launaguet raconte une histoire de ruines et de reconstruction : le château actuel a été élevé en 1845 sur les ruines d’un manoir incendié en 1805.",
+  "chronologie": [
+   {
+    "date": "1968",
+    "texte": "Des fouilles ont mis au jour une fosse chasséenne contenant des instruments d’industrie lithique et des céramiques, preuve d’une fréquentation du lieu il y a environ 7 000 ans.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1805",
+    "texte": "Un manoir est incendié, laissant des ruines sur lesquelles le futur château sera reconstruit.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1845",
+    "texte": "Le château actuel de Launaguet est construit sur les ruines du manoir incendié en 1805.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Launaguet",
+   "histoire": "Le château de Launaguet est un château situé dans la Haute-Garonne. Le château actuel date de 1845 et a été construit sur les ruines d’un manoir incendié en 1805.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 43.674053,
+   "lon": 1.458035,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Launaguet"
+  }
+ ],
+ "sources": [
+  "Launaguet est une commune française située dans le nord du département de la Haute-Garonne en région Occitanie. Sur le plan historique et culturel, la commune est dans le Pays toulousain, qui s’étend autour de Toulouse le long de la vallée de la Garonne, bordé à l’ouest par les coteaux du Savès, à l’est par ceux du Lauragais et au sud par ceux de la vallée de l’ Ariège et du Volvestre. Exposée à un climat océanique […]",
+  "Des fouilles effectuées à Launaguet en 1968 ont mis au jour une fosse chasséenne contenant des instruments d'industrie lithique et des céramiques prouvant que les humains fréquentaient ce lieu il y a environ 7 000 ans. On n'a jamais trouvé de traces d'implantation romaine, mais il est probable que toute une partie de la commune était incluse dans les terres de la vaste villa gallo-romaine dont les vestiges ont été […]",
+  "Lieu « Château de Launaguet » : Le château de Launaguet est un château situé dans le département de la Haute-Garonne dans le Sud-Ouest de la France.",
+  "Lieu « Château de Launaguet », 1845 : Le château actuel a été construit en 1845 sur les ruines d'un manoir incendié en 1805."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "commune": {
+  "titre": "Villemur-sur-Tarn",
+  "code_insee": "31584",
+  "departement": "31",
+  "population": 6345,
+  "lat": 43.86638889,
+  "lon": 1.50583333,
+  "url": "https://fr.wikipedia.org/wiki/Villemur-sur-Tarn"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:48:36",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1154,
+  "sortie": 607
+ },
+ "cout_usd": 0.00099,
+ "accroche": "En 1382, l’église Saint-Michel est reconstruite dans le style gothique toulousain, en brique.",
+ "histoire": {
+  "recit": "Villemur-sur-Tarn, au nord-est de la Haute-Garonne, est un lieu de frontière et de défense, dans le pays Montalbanais. La cité y est fondée depuis plus de mille ans sur un site favorable à la protection : ses aménagements, si bien conçus, lui auraient valu de ne jamais être prise, notamment lorsque des Anglais occupaient alors l’ouest et le sud-ouest du pays.\n\nQuand le temps a exigé des reprises, la ville a rebondi. L’église Saint-Michel est reconstruite en 1382 dans un gothique toulousain en brique, puis refaite en 1673 après les guerres de Religion.\n\nEn matière d’attaque et de défense, les fossés comptent encore. Le fossé Notre Dame, au profil en V, reste quasi infranchissable ; aujourd’hui, il est toujours visible et enjambe une voûte de briques. Plus loin, le ravin de Bifranc a été comblé après l’inondation de 1930.\n\nEnfin, la musique a aussi son histoire : le 18 juin 1961, Xavier Darasse inaugure de nouvelles orgues installées en 1960, grâce à la diligence de Maurice Puget.",
+  "chronologie": [
+   {
+    "date": "1382",
+    "texte": "L’église Saint-Michel est reconstruite dans le style gothique toulousain, en brique.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1673",
+    "texte": "L’église Saint-Michel est de nouveau reconstruite à la suite des guerres de religion.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1930",
+    "texte": "Le ravin de Bifranc est comblé après l’inondation de 1930 ; le fossé Notre Dame reste visible, avec une voûte de briques.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "18 juin 1961",
+    "texte": "Xavier Darasse inaugure les nouvelles orgues installées en 1960 par la diligence de Maurice Puget.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Villemur-sur-Tarn (occitan : Vilamur de Tarn) est une commune française située dans le Sud-Ouest de la France, dans le nord-est du département de la Haute-Garonne, en région Occitanie. Elle est située au nord du département, dans l'aire d'attraction de Toulouse, aux frontières avec le Tarn et le Tarn-et-Garonne. Sur le plan historique et culturel, la commune est dans le pays Montalbanais, un territoire aux confins […]",
+  "La cité de Villemur-sur-Tarn a été fondée il y a plus de mille ans sur un site favorable à la défense. Elle est si remarquablement aménagée que cette place forte partage, avec le Mont-Saint-Michel, l'honneur de n'avoir jamais été prise, notamment par les Anglais qui, à l'époque de la guerre de Cent Ans, occupaient tout l'ouest et le sud-ouest de la France. Tout d'abord, ses défenses naturelles étaient constituées […]",
+  "1382 : En 1382, l’église Saint-Michel est reconstruite dans le style gothique toulousain, en brique.",
+  "1673 : Elle est de nouveau reconstruite en 1673 à la suite des guerres de religion.",
+  "1930 : Ces fossés au profil en V étaient quasi infranchissables pour un agresseur éventuel : le fossé Notre Dame, toujours visible aujourd'hui et qu'enjambe une voûte de briques, puis le ravin de Bifranc, comblé après l'inondation de 1930.",
+  "1961 : Xavier Darasse inaugure le 18 juin 1961 les nouvelles orgues installées en 1960 par la diligence de Maurice Puget."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

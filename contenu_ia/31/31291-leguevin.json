@@ -1,0 +1,67 @@
+{
+ "commune": {
+  "titre": "Léguevin",
+  "code_insee": "31291",
+  "departement": "31",
+  "population": 9945,
+  "lat": 43.59972222,
+  "lon": 1.23388889,
+  "url": "https://fr.wikipedia.org/wiki/L%C3%A9guevin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:40",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1077,
+  "sortie": 359
+ },
+ "cout_usd": 0.000664,
+ "accroche": "En 1363, la fortification du village de Léguevin est achevée le 30 octobre 1363.",
+ "histoire": {
+  "recit": "À Léguevin, l’occupation commence très tôt : des outils préhistoriques, notamment des galets aménagés en quartzite, ont été retrouvés, dont un retrouvé sur les berges du Courbet et présenté comme daté de l’Acheuléen, tandis qu’une pierre de foyer serait liée au Néolithique, mais sa datation est contestée. Plus tard, le village se fait plus solide : en 1363, on décide de fortifier le village, et les travaux sont achevés le 30 octobre 1363. Enfin, la période révolutionnaire marque la commune : l’Hôtel de Ville est pris et pillé à deux reprises, d’abord le 25 juillet 1790, puis le 15 juin 1792.",
+  "chronologie": [
+   {
+    "date": "1363",
+    "texte": "Décision de fortifier le village, achevé le 30 octobre 1363.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "25 juillet 1790",
+    "texte": "L’Hôtel de Ville est pris et pillé par des manifestants.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "15 juin 1792",
+    "texte": "L’Hôtel de Ville est repris et pillé par des manifestants.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Léguevin (occitan : Legavin, prononcé /'lɛ.gɔ.bi/ Lègobi) est une commune française située dans le nord du département de la Haute-Garonne en région Occitanie. Sur le plan historique et culturel, la commune est dans le Pays toulousain, qui s’étend autour de Toulouse le long de la vallée de la Garonne, bordé à l’ouest par les coteaux du Savès, à l’est par ceux du Lauragais et au sud par ceux de la vallée de l’ Ariège […]",
+  "La découverte d'outils préhistoriques atteste que Léguevin fut occupé de bonne heure. Ces outils (galets aménagés en quartzite), sont difficiles à dater. Cependant, l'un d'eux, retrouvé sur les berges du Courbet serait daté de l'Acheuléen, période du Paléolithique inférieur. Une pierre de foyer serait datée du Néolithique, mais cette datation est controversée car certains pensent qu'étant donné qu'elle fut trouvée […]",
+  "1363 : On décida alors de procéder à la fortification du village qui fut achevée le 30 octobre 1363.",
+  "1790 : L'Hôtel de Ville fut pris et pillé par des manifestants à deux reprises, le 25 juillet 1790 et le 15 juin 1792."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "commune": {
+  "titre": "Aussonne",
+  "code_insee": "31032",
+  "departement": "31",
+  "population": 7997,
+  "lat": 43.68472222,
+  "lon": 1.32055556,
+  "url": "https://fr.wikipedia.org/wiki/Aussonne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:20:00",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1120,
+  "sortie": 699
+ },
+ "cout_usd": 0.001098,
+ "accroche": "En 1148, Aussonne est citée dans le cartulaire des seigneurs de l’Isle-en-Jourdain.",
+ "histoire": {
+  "recit": "Aussonne, dont l’origine reste très ancienne faute de documents, apparaît dans les archives au cœur des échanges seigneuriaux. En 1148, le nom d’Aussonne figure dans le cartulaire des seigneurs de l’Isle-en-Jourdain. Deux ans plus tard, en 1150, les droits féodaux sont échangés entre plusieurs seigneurs. Vers 1217, le territoire entre dans le patrimoine du couvent de Lespinasse, puis en 1235 le Comte de Toulouse, Raymond VII, l’acquiert au duché de… avant les étapes suivantes de son histoire.",
+  "chronologie": [
+   {
+    "date": "1148",
+    "texte": "Aussonne est citée dans le cartulaire des seigneurs de l’Isle-en-Jourdain.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1150",
+    "texte": "Les droits féodaux d’Aussonne sont échangés entre plusieurs seigneurs.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1217",
+    "texte": "Aussonne entre dans le patrimoine du couvent de Lespinasse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1235",
+    "texte": "Le Comte de Toulouse, Raymond VII, acquiert Aussonne au duché de…",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare d'Aussonne",
+   "histoire": "La Gare d’Aussonne est une gare ferroviaire située sur le territoire de la commune d’Aussonne, dans le département de la Haute-Garonne, en région Occitanie.",
+   "anecdotes": [
+    {
+     "texte": "La gare a d’abord fonctionné comme halte, mise en service en 1903 par la CFSO, puis définitivement fermée au trafic des voyageurs et des marchandises en 1947.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 43.6848,
+   "lon": 1.3216,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Aussonne"
+  }
+ ],
+ "sources": [
+  "Aussonne (Aussona en occitan) est une commune française située dans le nord du département de la Haute-Garonne en région Occitanie. Sur le plan historique et culturel, la commune est dans le pays toulousain, qui s’étend autour de Toulouse le long de la vallée de la Garonne, bordé à l’ouest par les coteaux du Savès, à l’est par ceux du Lauragais et au sud par ceux de la vallée de l’ Ariège et du Volvestre. Exposée à […]",
+  "L'origine d'Aussonne est très ancienne sans qu'aucun document ne permette de déterminer l'époque de sa fondation. En 1148 Aussonne est cité dans le cartulaire des seigneurs de l’Isle-en-Jourdain. En 1150 les droits féodaux d’Aussonne sont échangés entre plusieurs seigneurs jusqu’en 1217 date à laquelle il entre dans le patrimoine du couvent de Lespinasse. En 1235 le Comte de Toulouse, Raymond VII l’acquiert au duché […]",
+  "Lieu « Gare d'Aussonne » : La gare d'Aussonne était une gare ferroviaire française, située sur le territoire de la commune d'Aussonne, dans le département de la Haute-Garonne, en région Occitanie.",
+  "Lieu « Gare d'Aussonne », 1903 : C'était une halte, mise en service en 1903 par la CFSO et définitivement fermée au trafic des voyageurs et des marchandises en 1947."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

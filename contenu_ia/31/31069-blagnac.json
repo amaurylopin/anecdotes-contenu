@@ -1,0 +1,254 @@
+{
+ "commune": {
+  "titre": "Blagnac",
+  "code_insee": "31069",
+  "departement": "31",
+  "population": 27604,
+  "lat": 43.63638889,
+  "lon": 1.39055556,
+  "url": "https://fr.wikipedia.org/wiki/Blagnac"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:54:26",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2860,
+  "sortie": 1752
+ },
+ "cout_usd": 0.002762,
+ "accroche": "L’aéroport de Toulouse-Blagnac est inauguré le 12 juin 1953, avec une prévision de 900 passagers par jour.",
+ "histoire": {
+  "recit": "À Blagnac, le passé se devine d’abord par l’archéologie : la présence des hommes de la préhistoire, des Celtes et des Gallo-Romains y est signalée. Et puis vient une tradition : saint Exupère, sixième évêque de Toulouse, aurait choisi Blagnac comme lieu de repos, y serait mort et y aurait été enseveli vers 415 ; sa tombe aurait été redécouverte au VIe siècle, avant le transport de ses restes à Saint-Sernin de Toulouse.\n\nPlus tard, le nom d’un lieu change avec les usages : en 1790, un “Blagnacais” l’aurait acheté à Claude Amieu et l’aurait transformé. Au XXe siècle, c’est l’aviation qui prend toute la place : l’aéroport progresse par extensions et équipements, puis, en 1978, sa capacité passe à 2 millions de passagers par an.\n\nAujourd’hui, Blagnac continue d’aménager ses espaces : Aeroscopia accueille des Concorde, l’Aérothèque conserve des maquettes, et la gare agrandie est devenue une boutique. Sur d’autres voies, des souvenirs ont parfois la vie dure, comme la statue du lièvre volée en 2017 sur le rond-point Émile-Dewoitine.",
+  "chronologie": [
+   {
+    "date": "vers 415",
+    "texte": "La tradition place la mort et la sépulture de saint Exupère à Blagnac.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIe siècle",
+    "texte": "La tombe de saint Exupère aurait été redécouverte et ses restes transportés à Saint-Sernin de Toulouse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Un “Blagnacais” achète à Claude Amieu et transforme l’objet évoqué dans le récit local.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "12 juin 1953",
+    "texte": "L’aéroport de Toulouse-Blagnac est inauguré, avec une prévision d’accueil de 900 passagers par jour (35 000 par an).",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "16 juin 1978",
+    "texte": "L’inauguration porte la capacité de l’aéroport à 2 millions de passagers par an.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "5 juillet 1988",
+    "texte": "Ouverture de l’Aérothèque, conservatoire du patrimoine culturel aéronautique.",
+    "sources": [
+     "S28",
+     "S29"
+    ]
+   },
+   {
+    "date": "14 janvier 2015",
+    "texte": "Aeroscopia ouvre au public, notamment autour de deux exemplaires du Concorde.",
+    "sources": [
+     "S15",
+     "S16"
+    ]
+   },
+   {
+    "date": "mai 2009",
+    "texte": "Les premiers résidents s’installent dans ZAC Andromède.",
+    "sources": [
+     "S21"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Aéroport de Toulouse-Blagnac",
+   "histoire": "Aéroport international français situé à Blagnac, l’équipement s’inscrit sur l’emplacement historique de l’aérodrome de Blagnac.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’aéroport est construit sur l’emplacement historique de l’aérodrome de Blagnac et se situe à une altitude de 152 m.",
+   "sources": [
+    "S5",
+    "S9"
+   ],
+   "lat": 43.635,
+   "lon": 1.36778,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Toulouse-Blagnac"
+  },
+  {
+   "nom": "Monastère de Blagnac",
+   "histoire": "Le monastère de Notre-Dame-des-sept-Douleurs de Blagnac est aujourd’hui aussi nommé Notre-Dame-des-sept-Douleurs et de Sainte-Catherine-de-Sienne. Il s’est constitué autour d’un château du XVIIe siècle et de bâtiments conventuels, avant de changer de communautés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Après avoir été une maison des trappistines, puis des dominicaines, il est aujourd’hui confié à la communauté des Béatitudes.",
+   "sources": [
+    "S10",
+    "S12",
+    "S14",
+    "S13"
+   ],
+   "lat": 43.630159,
+   "lon": 1.399162,
+   "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_de_Blagnac"
+  },
+  {
+   "nom": "Aeroscopia",
+   "histoire": "Implanté à Blagnac près du site AéroConstellation, Aeroscopia est un musée aéronautique qui accueille notamment deux exemplaires du Concorde.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 43.6598667,
+   "lon": 1.36053056,
+   "url": "https://fr.wikipedia.org/wiki/Aeroscopia"
+  },
+  {
+   "nom": "ZAC Andromède",
+   "histoire": "ZAC Andromède est présenté comme le premier écoquartier de Toulouse Métropole ; l’idée est lancée en 2001 mais la réalisation reste en développement.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’idée de l’écoquartier Andromède a été lancée en 2001 et la réalisation du projet est en cours de développement.",
+   "sources": [
+    "S20",
+    "S23"
+   ],
+   "lat": 43.655544,
+   "lon": 1.370402,
+   "url": "https://fr.wikipedia.org/wiki/ZAC_Androm%C3%A8de"
+  },
+  {
+   "nom": "Route de Grenade",
+   "histoire": "La route de Grenade est une voie publique de Blagnac. Un groupe scolaire y est construit dans les années 1970, puis un nouvel ensemble est bâti après une démolition.",
+   "anecdotes": [
+    {
+     "texte": "Sur le rond-point Émile-Dewoitine, la statue du lièvre est volée en 2017.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S27",
+    "S26"
+   ],
+   "lat": 43.64186,
+   "lon": 1.3875,
+   "url": "https://fr.wikipedia.org/wiki/Route_de_Grenade"
+  },
+  {
+   "nom": "Aérothèque",
+   "histoire": "L’Aérothèque est un conservatoire du patrimoine culturel aéronautique français implanté à Blagnac ; elle a ouvert le 5 juillet 1988.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une quarantaine de maquettes ont été confiées au musée.",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 43.6328,
+   "lon": 1.394,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9roth%C3%A8que"
+  },
+  {
+   "nom": "Gare de Blagnac",
+   "histoire": "La gare de Blagnac est une gare ferroviaire située sur le territoire de la commune. D’abord halte mise en service en 1903, elle est fermée au trafic des voyageurs et des marchandises en 1947, puis réaménagée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La gare a été agrandie et modifiée et est aujourd’hui une boutique.",
+   "sources": [
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 43.62561,
+   "lon": 1.39307,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Blagnac"
+  },
+  {
+   "nom": "Avenue de Paris (Blagnac)",
+   "histoire": "L’avenue de Paris, en occitan avenguda de París, forme avec l’avenue de Rome (depuis 2006) le principal accès à l’aéroport de Toulouse-Blagnac. Elle s’ouvre à la circulation en même temps qu’un nouveau terminal en 1978.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35"
+   ],
+   "lat": 43.63246,
+   "lon": 1.37909,
+   "url": "https://fr.wikipedia.org/wiki/Avenue_de_Paris_%28Blagnac%29"
+  }
+ ],
+ "sources": [
+  "Blagnac est une commune française située dans le sud-ouest de la France, dans le nord du département de la Haute-Garonne, en région Occitanie. Historiquement en occitan [Blanhàc], la commune fait partie du pays traditionnel du Languedoc et de la région historique de l'Occitanie. Exposée à un climat océanique altéré, elle est drainée par la Garonne, le Touch et par divers autres petits cours d'eau. La commune possède […]",
+  "Le passé le plus ancien de Blagnac n’est connu que par l’archéologie ; celle-ci révèle la présence des hommes de la préhistoire, des Celtes et des Gallo-Romains. La tradition veut que saint Exupère, sixième évêque de Toulouse, ait choisi Blagnac comme lieu de repos, y soit mort et y ait été enseveli, vers 415. Au cours du VIe siècle, sa tombe est redécouverte et ses restes transportées à Saint-Sernin de Toulouse. […]",
+  "1790 : Il est difficile de se le représenter car le Blagnacais qui l’a acheté à Claude Amieu en 1790, l’a transformé.",
+  "2001 : Le site aéronautique aménagé pour l’Airbus 380 en 2001 a été occupé dès le Paléolithique (bifaces, galets de Garonne travaillés), au Néolithique et à l’âge de bronze (amphores, puits), aux IIe et Ier siècles avant J.-C. (ferme gauloise).",
+  "Lieu « Aéroport de Toulouse-Blagnac » : L’aéroport de Toulouse-Blagnac (code IATA : TLS • code OACI : LFBO) est un aéroport international français situé à Blagnac, en proche banlieue de Toulouse.",
+  "Lieu « Aéroport de Toulouse-Blagnac », 1953 : Elle est inaugurée le 12 juin 1953, pour une prévision d'accueil de 900 passagers par jour ou 35 000 passagers par an.",
+  "Lieu « Aéroport de Toulouse-Blagnac », 1960 : Au début des années 1960, l'aérogare est étendue pour un meilleur accueil des passagers et une meilleure fonctionnalité : tour de contrôle, bâtiment radar, station d'observation météorologique sont créés ou améliorés.",
+  "Lieu « Aéroport de Toulouse-Blagnac », 1978 : Inaugurée le 16 juin 1978, elle porte la capacité de l'aéroport à 2 millions de passagers par an.",
+  "Lieu « Aéroport de Toulouse-Blagnac », aujourd'hui : L'aéroport est construit sur l'emplacement historique de l'aérodrome de Blagnac, à une altitude de 152 m.",
+  "Lieu « Monastère de Blagnac » : Le monastère de Notre-Dame-des-sept-Douleurs de Blagnac devenu monastère de Notre-Dame-des-sept-Douleurs et de Sainte-Catherine-de-Sienne est une maison religieuse située à Blagnac, dans la banlieue de Toulouse.",
+  "Lieu « Monastère de Blagnac », XVIIe siècle : Jean d'Aldeguier, issu d’une famille noble de Millau, grand trésorier de la généralité de Toulouse, achète les terres qui lui valent le titre de baron ; il y construit un nouveau château au milieu du XVIIe siècle.",
+  "Lieu « Monastère de Blagnac », XIXe siècle : Elle fut fondée au XIXe siècle autour d'un château construit au XVIIe siècle.",
+  "Lieu « Monastère de Blagnac », 1862 : Le monastère se compose d'un imposant bâtiment conventuel et d'une église du XIXe siècle (consacrée le 18 août 1862), et d'un château du XVIIe siècle, ainsi que de dépendances des XVIIe et XIXe siècles, qui composent le monastère des dominicaines.",
+  "Lieu « Monastère de Blagnac », aujourd'hui : Après avoir été une maison des trappistines, puis des dominicaines, elle est aujourd'hui confiée à la communauté des Béatitudes.",
+  "Lieu « Aeroscopia » : Aeroscopia est un musée aéronautique français implanté à Blagnac (Haute-Garonne), près du site AéroConstellation, et accueille notamment deux exemplaires du Concorde, dont l'ouverture a eu lieu le 14 janvier 2015.",
+  "Lieu « Aeroscopia », 2015 : Aeroscopia est un musée aéronautique français implanté à Blagnac (Haute-Garonne), près du site AéroConstellation, et accueille notamment deux exemplaires du Concorde, dont l'ouverture a eu lieu le 14 janvier 2015.",
+  "Lieu « Aeroscopia », 2015 : L'atelier de restauration qui a vu le jour courant 2015, ainsi que l'espace d'exposition sont ouverts aux visites et permettent aux amateurs de voir comment sont réparés les avions.",
+  "Lieu « Aeroscopia », 2018 : Fin 2018, le chantier d'une extension est lancé par la Mairie de Blagnac : sur le site sont créés un nouveau tarmac représentant une surface d'environ 2 hectares et un nouveau bâtiment permettant de rendre visitable un des appareils accueilli sur ce tarmac, l'A380-800.",
+  "Lieu « Aeroscopia », aujourd'hui : Le projet est actuellement en chantier et une ouverture au public est prévue début 2020.",
+  "Lieu « ZAC Andromède » : La ZAC Andromède est le premier écoquartier de Toulouse Métropole.",
+  "Lieu « ZAC Andromède », 2009 : Les premiers résidents se sont installés dans ce quartier en mai 2009.",
+  "Lieu « ZAC Andromède », 2011 : Cependant, en 2011 il y a eu des problèmes comme celui du chauffage de certains bâtiments qui n'étaient pas suffisant pour le confort des habitants car les pompes à chaleur n'ont pas fonctionné pendant plusieurs mois.",
+  "Lieu « ZAC Andromède », aujourd'hui : L'idée de l'écoquartier Andromède a été lancée en 2001 mais jusqu'à aujourd'hui la réalisation du projet est en cours de développement.",
+  "Lieu « Route de Grenade » : La route de Grenade est une voie publique de Blagnac, commune de la métropole de Toulouse, dans le Midi de la France.",
+  "Lieu « Route de Grenade », 1970 : Un groupe scolaire est construit dans les années 1970 sur une parcelle entre la route de Grenade et la place de Verdun.",
+  "Lieu « Route de Grenade », 2017 : Elles sont installées sur le rond-point Émile-Dewoitine, mais la statue du lièvre est volée en 2017.",
+  "Lieu « Route de Grenade », 2019 : En 2019, l'ensemble est démoli, tandis que de nouveaux bâtiments sont construits : le nouveau groupe scolaire, construit sur les plans de l'agence Matte Devaux Rousseau Architectes, devrait accueillir 11 classes d'élémentaires et 6 de maternelles.",
+  "Lieu « Aérothèque » : L'Aérothèque est un conservatoire du patrimoine culturel aéronautique français implanté à Blagnac (Haute-Garonne) et dont l'ouverture a eu lieu le 5 juillet 1988.",
+  "Lieu « Aérothèque », 1988 : L'Aérothèque est un conservatoire du patrimoine culturel aéronautique français implanté à Blagnac (Haute-Garonne) et dont l'ouverture a eu lieu le 5 juillet 1988.",
+  "Lieu « Aérothèque », aujourd'hui : Actuellement, une quarantaine de maquettes ont été confiées au musée.",
+  "Lieu « Gare de Blagnac » : La gare de Blagnac était une gare ferroviaire française, située sur le territoire de la commune de Blagnac, dans le département de la Haute-Garonne, en région Occitanie.",
+  "Lieu « Gare de Blagnac », 1903 : C'était une halte, mise en service en 1903 par la CFSO et définitivement fermée au trafic des voyageurs et des marchandises en 1947.",
+  "Lieu « Gare de Blagnac », aujourd'hui : Il a été agrandi et modifié et est aujourd'hui une boutique.",
+  "Lieu « Avenue de Paris (Blagnac) » : L'avenue de Paris (en occitan : avenguda de París) est une voie publique de Blagnac qui constitue, avec l'avenue de Rome depuis 2006, le principal accès à l'aéroport de Toulouse-Blagnac.",
+  "Lieu « Avenue de Paris (Blagnac) », 1978 : 1978 : Ouverture de l'avenue de Paris à la circulation, en même temps que le nouveau terminal de l'aéroport ; 1991 : intégration à l'autoroute A621 ; 2019 (16 septembre) : déclassement de l'A621 en N2621 sur le tronçon correspondant à l'avenue de Paris."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
