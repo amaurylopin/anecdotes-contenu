@@ -1,0 +1,302 @@
+{
+ "commune": {
+  "titre": "Sélestat",
+  "code_insee": "67462",
+  "departement": "67",
+  "population": 19589,
+  "lat": 48.259444,
+  "lon": 7.454167,
+  "url": "https://fr.wikipedia.org/wiki/S%C3%A9lestat"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:12:21",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3542,
+  "sortie": 2251
+ },
+ "cout_usd": 0.003522,
+ "accroche": "Sélestat est mentionnée pour la première fois en 727, et son histoire laisse déjà deviner un ancien carrefour en Alsace.",
+ "histoire": {
+  "recit": "Dans le Bas-Rhin, Sélestat s’impose comme une ville de passages. Les traces d’occupation y sont anciennes, repérées par des fouilles de la fin des temps préhistoriques jusqu’à l’âge du bronze. Au cœur du Moyen Âge, la paroisse se consolide et une grande église paroissiale gothique s’élève à partir des années 1220, tandis que plusieurs établissements religieux prennent pied au XIIIe siècle.\n\nLa ville joue aussi avec l’eau : le port, d’abord installé dans un méandre à l’emplacement du Vieux-Port, rejoint ensuite le cours principal de l’Ill en 1398 à cause de l’ensablement. Puis viennent les bascules politiques : l’annexion par le royaume de France est officialisée en 1648, et la Décapole prend fin avec le traité de Nimègue en 1679.\n\nÀ l’époque moderne et contemporaine, Sélestat se redessine : la sous-préfecture passe de Barr à Sélestat en 1806, l’Alsace passe à l’Empire allemand après le traité de Francfort en 1871, et la ville devient un centre industriel avec l’essor des usines au milieu du XXe siècle. Aujourd’hui, le tertiaire prend davantage de place et la Bibliothèque humaniste occupe l’ancienne halle aux blés.",
+  "chronologie": [
+   {
+    "date": "727",
+    "texte": "Première mention de Sélestat.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1220",
+    "texte": "Construction d’une grande église paroissiale gothique, plus imposante que l’église Sainte-Foy, à partir des années 1220.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Implantation d’établissements religieux (dominicans, hospitaliers de l’ordre de Saint-Jean de Jérusalem, franciscains).",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1398",
+    "texte": "Le port quitte le méandre du Vieux-Port pour rejoindre le cours principal de l’Ill, à cause de l’ensablement.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1648",
+    "texte": "L’annexion de Sélestat et du reste de la Décapole par le royaume de France est officialisée par les traités de Westphalie.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1679",
+    "texte": "Le traité de Nimègue met fin à la Décapole.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1806",
+    "texte": "La sous-préfecture est déplacée de Barr à Sélestat.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "Le traité de Francfort fait passer l’Alsace et la Moselle à l’Empire allemand.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "Ouverture d’usines et mise en place d’une zone d’activités après 1945 : Sélestat devient un centre industriel.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Le secteur tertiaire devient prépondérant avec ouverture d’établissements scolaires, d’un nouvel hôpital et d’une seconde zone d’activités.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Bibliothèque humaniste",
+   "histoire": "Installée depuis 1889 dans l’ancienne halle aux blés, la Bibliothèque humaniste a bénéficié, dès 1840, du regroupement des fonds de la bibliothèque paroissiale et de la bibliothèque de Beatus Rhenanus au 2e étage de la mairie transformée. Le bâtiment actuel a été construit par Gustave Klotz entre 1843 et 1845 sur l’emplacement de l’ancienne douane.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, la bibliothèque réunit 460 manuscrits, 550 incunables et près de 2 500 imprimés du XVIe et du XVIIIe siècles, ainsi que 1 600 du XVIIe siècle, dont beaucoup sont numérisés.",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.26056,
+   "lon": 7.4556,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_humaniste"
+  },
+  {
+   "nom": "Église Saint-Georges de Sélestat",
+   "histoire": "Église gothique de Sélestat, Saint-Georges se trouve à proximité de la Bibliothèque humaniste. Elle repose sur les vestiges d’une vaste rotonde, partiellement dégagée lors de fouilles dans la crypte en 1876 et 1902. L’édifice fait l’objet d’un classement au titre des monuments historiques depuis le 18 mars 1848. Une tradition associe aussi l’église à une chapelle baptismale située dans l’enceinte du palais impérial attribué à Charlemagne.",
+   "anecdotes": [
+    {
+     "texte": "Il est dit que l’empereur aurait visité, lors du Noël de l’an 775, une chapelle baptismale située dans l’enceinte du palais impérial.",
+     "statut": "legende",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S20",
+    "S21",
+    "S22",
+    "S19"
+   ],
+   "lat": 48.26028,
+   "lon": 7.45917,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Georges_de_S%C3%A9lestat"
+  },
+  {
+   "nom": "Église Sainte-Foy de Sélestat",
+   "histoire": "L’église Sainte-Foy, construite au XIIe siècle dans le style roman, se trouve en plein cœur de Sélestat. Une église prieurale est érigée entre 1152 et 1190 grâce à des dons de Frédéric Barberousse. Elle constitue le seul vestige de l’ancien prieuré des bénédictins puis des jésuites, dont elle était l’église conventuelle. L’édifice a été classé au titre des monuments historiques depuis 1862.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S25",
+    "S27",
+    "S26",
+    "S24"
+   ],
+   "lat": 48.25944,
+   "lon": 7.45611,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Foy_de_S%C3%A9lestat"
+  },
+  {
+   "nom": "Gare de Sélestat",
+   "histoire": "La gare de Sélestat est une gare ferroviaire française sur le territoire de la commune. Le bâtiment voyageurs actuel a été construit en 1873 par la Direction générale impériale des chemins de fer d’Alsace-Lorraine. Le service voyageurs vers Sainte-Marie-aux-Mines a été fermé en 1980. La rotonde « ouest » de l’ancien dépôt a été démolie au début des années 1990.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La gare comprend un parking de 370 places, le réaménagement du parvis, une nouvelle gare routière, une dépose minute, et un parking en silo.",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 48.260047,
+   "lon": 7.443055,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_S%C3%A9lestat"
+  },
+  {
+   "nom": "Couvent des Dominicaines de Sylo",
+   "histoire": "Le couvent des Dominicaines de Sylo est un monument historique à Sélestat. Le couvent est détruit par le feu en 1263 puis reconstruit entre 1266 et 1275. En 1796, les bâtiments accueillent des blessés de l’hôpital du Fischerbach. Pendant la Révolution française, le couvent devient un hôpital nommé hôpital Saint-Quirin, fonction maintenue jusqu’en 1965. Pendant la Guerre de Trente Ans, il est occupé par les Suédois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35",
+    "S36",
+    "S37",
+    "S37"
+   ],
+   "lat": 48.2577,
+   "lon": 7.45577,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Dominicaines_de_Sylo"
+  },
+  {
+   "nom": "Remparts de Sélestat",
+   "histoire": "Les remparts de Sélestat, dits remparts Vauban, sont des vestiges des fortifications du XVIIe siècle. Une nouvelle enceinte est construite de 1675 à 1691 sous la direction de Vauban et Tarade. La majeure partie de cette enceinte est détruite en 1875. L’édifice fait l’objet d’une inscription au titre des monuments historiques depuis 1947.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ce sont les vestiges actuels des fortifications du XVIIe siècle de la ville.",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 48.255,
+   "lon": 7.45325,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_S%C3%A9lestat"
+  },
+  {
+   "nom": "Arsenal Saint-Hilaire",
+   "histoire": "L’arsenal Saint-Hilaire est un monument historique. Les fondations les plus anciennes remontent aux années 1280. L’édifice, initialement appelé Zeughaus, prend le nom de Marc Gaspard Capriol de Saint-Hilaire en 1785 après d’importants travaux. Il est détruit vers 1910 pour céder la place à un bâtiment de style néo-Renaissance, tandis que sa situation restait stratégique auprès de la porte Neuve.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43",
+    "S44",
+    "S45",
+    "S46",
+    "S47"
+   ],
+   "lat": 48.257558,
+   "lon": 7.4546,
+   "url": "https://fr.wikipedia.org/wiki/Arsenal_Saint-Hilaire"
+  },
+  {
+   "nom": "Tour des Sorcières (Sélestat)",
+   "histoire": "La tour des Sorcières, porte basse ou Niedertor, est une porte des remparts médiévaux de Sélestat. Construite au XIIIe siècle, elle est transformée au XVIIe siècle en réserve et en prison : les arches permettant de franchir la tour sont alors murées. L’édifice est inscrit au titre des monuments historiques depuis 1929. Par la suite, la tour a été rehaussée : le mur côté ville est en pan de bois, tandis que les trois murs vers l’extérieur sont en brique, façade aujourd’hui en brique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La tour présente une façade en brique.",
+   "sources": [
+    "S48",
+    "S49",
+    "S50",
+    "S51",
+    "S52"
+   ],
+   "lat": 48.2598,
+   "lon": 7.45809,
+   "url": "https://fr.wikipedia.org/wiki/Tour_des_Sorci%C3%A8res_%28S%C3%A9lestat%29"
+  }
+ ],
+ "sources": [
+  "Sélestat (prononcé : /se.lɛs.ta/ ; en alsacien : Schlettstàdt ) est une commune située dans le département français du Bas-Rhin en région Grand Est, et dans le territoire de la Collectivité européenne d'Alsace. Sous-préfecture et siège de la communauté de communes de Sélestat, elle comptait 19 360 habitants au dernier recensement en 2018, ce qui en faisait la cinquième commune bas-rhinoise et la huitième commune […]",
+  "Sélestat est mentionnée pour la première fois en 727, mais la ville a peut-être des origines plus anciennes, celtiques ou romaines. La région a probablement connu des migrations humaines au Paléolithique supérieur, et des fouilles archéologiques ont prouvé des occupations humaines à Sélestat au Mésolithique, au Néolithique et durant l'Âge du bronze. Les artefacts retrouvés incluent des pierres taillées et polies, […]",
+  "1220 : De la même façon, la paroisse de Sélestat se consolide et une grande église paroissiale gothique, plus imposante que l'église Sainte-Foy, est construite à partir des années 1220.",
+  "XIIIe siècle : Elle compte un certain nombre d'établissements, fondés pour la plupart au XIIIe siècle, comme des dominicains, des hospitaliers de l'ordre de Saint-Jean de Jérusalem et des franciscains.",
+  "1398 : D'abord installé dans un méandre situé à l'emplacement de la place du Vieux-Port, le port rejoint le cours principal de l'Ill en 1398 à cause de l'ensablement du méandre.",
+  "1648 : L'annexion de Sélestat et du reste de la Décapole par le royaume de France est officialisée par les traités de Westphalie signés en 1648.",
+  "1679 : Le traité de Nimègue, signé à l'issue de la guerre en 1679, met fin à la Décapole.",
+  "1692 : Abandonné en 1692, il a rapidement disparu.",
+  "1806 : Elle est en effet intégrée au district de Benfeld puis à l'arrondissement de Barr (la sous-préfecture est cependant déplacée de Barr à Sélestat en 1806).",
+  "1871 : Le traité de Francfort, signé en 1871, donne l'Alsace et la Moselle au nouvel Empire allemand.",
+  "1945 : L'ouverture des usines de la Société alsacienne d'aluminium et de Celluloïd pendant l'entre-deux-guerres, puis la création d'une première zone d'activités après 1945 font de la ville un véritable centre industriel.",
+  "1970 : À partir de la fin des années 1970, le secteur tertiaire devient prépondérant, avec l'ouverture d'établissements scolaires, d'un nouvel hôpital et d'une seconde zone d'activités, qui accueille surtout des petites entreprises artisanales et de commerce.",
+  "Lieu « Bibliothèque humaniste » : La Bibliothèque humaniste de Sélestat, en Alsace, est installée depuis 1889 dans l'ancienne halle aux blés de cette commune du Bas-Rhin.",
+  "Lieu « Bibliothèque humaniste », 1840 : En 1840, les fonds de la bibliothèque paroissiale et ceux de la bibliothèque de Beatus Rhenanus sont installés au 2e étage de la mairie, alors transformé en bibliothèque de lecture publique.",
+  "Lieu « Bibliothèque humaniste », 1843 : Cet édifice fut construit par Gustave Klotz entre 1843 et 1845 sur l'emplacement de l'ancienne douane, au cœur du centre-ville historique, non loin de l'église gothique Saint-Georges et de l'église romane Sainte-Foy.",
+  "Lieu « Bibliothèque humaniste », 1889 : La Bibliothèque humaniste de Sélestat, en Alsace, est installée depuis 1889 dans l'ancienne halle aux blés de cette commune du Bas-Rhin.",
+  "Lieu « Bibliothèque humaniste », aujourd'hui : Elles sont aujourd’hui constituées de 460 manuscrits (anciens et modernes), de 550 incunables et près de 2 500 imprimés du XVIe siècle et du XVIIIe siècle, et 1 600 du XVIIe siècle, dont beaucoup ont été numérisés.",
+  "Lieu « Église Saint-Georges de Sélestat » : L'église Saint-Georges est une église gothique située dans la ville de Sélestat, dans le Bas-Rhin.",
+  "Lieu « Église Saint-Georges de Sélestat », 775 : Il s'agit alors d'une chapelle baptismale, située dans l'enceinte du palais impérial édifié par Charlemagne, et que l'empereur aurait visité lors du Noël de l'an 775.",
+  "Lieu « Église Saint-Georges de Sélestat », 1452 : L'église se situe à proximité de la Bibliothèque humaniste, fondée en 1452 par Jean de Westhuss, prêtre à l'église Saint-Georges.",
+  "Lieu « Église Saint-Georges de Sélestat », 1848 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis le 18 mars 1848.",
+  "Lieu « Église Saint-Georges de Sélestat », aujourd'hui : L'église repose sur les vestiges d'une vaste rotonde, partiellement dégagée lors de fouilles effectuées dans la crypte en 1876 et 1902.",
+  "Lieu « Église Sainte-Foy de Sélestat » : L'église Sainte-Foy (appelée également St.-Fides-Kirche en allemand) est construite au XIIe siècle dans le style roman, en plein cœur de la ville de Sélestat, dans le Bas-Rhin.",
+  "Lieu « Église Sainte-Foy de Sélestat », XIIe siècle : L'église Sainte-Foy (appelée également St.-Fides-Kirche en allemand) est construite au XIIe siècle dans le style roman, en plein cœur de la ville de Sélestat, dans le Bas-Rhin.",
+  "Lieu « Église Sainte-Foy de Sélestat », 1152 : Une église prieurale est érigée entre 1152 et 1190, grâce à des dons de Frédéric Barberousse.",
+  "Lieu « Église Sainte-Foy de Sélestat », 1862 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis 1862.",
+  "Lieu « Église Sainte-Foy de Sélestat », aujourd'hui : Elle constitue le seul vestige de l'ancien prieuré des bénédictins puis des jésuites, dont elle était l'église conventuelle.",
+  "Lieu « Gare de Sélestat » : La gare de Sélestat est une gare ferroviaire française, située sur le territoire de la commune de Sélestat, dans la collectivité européenne d'Alsace, en région Grand Est.",
+  "Lieu « Gare de Sélestat », 1873 : Le bâtiment voyageurs actuel est construit en 1873, par la Direction générale impériale des chemins de fer d'Alsace-Lorraine.",
+  "Lieu « Gare de Sélestat », 1980 : En 1980, le service voyageurs est fermé en direction de Sainte-Marie-aux-Mines.",
+  "Lieu « Gare de Sélestat », 1990 : La rotonde « ouest » de l'ancien dépôt est démolie au début des années 1990.",
+  "Lieu « Gare de Sélestat », aujourd'hui : Il comprend la réalisation d'un parking de 370 places à l'emplacement d'une ancienne rotonde, le réaménagement du parvis du bâtiment voyageurs, la création d'une nouvelle gare routière et d'une dépose minute ainsi que la construction d'un parking en silo.",
+  "Lieu « Couvent des Dominicaines de Sylo » : Le couvent des Dominicaines de Sylo est un monument historique situé à Sélestat, dans le département français du Bas-Rhin en région Grand Est.",
+  "Lieu « Couvent des Dominicaines de Sylo », 1263 : Le couvent de Sélestat est détruit par le feu en 1263 puis reconstruit entre 1266 et 1275.",
+  "Lieu « Couvent des Dominicaines de Sylo », 1796 : Les bâtiments accueillent des blessés de l'hôpital du Fischerbach en 1796.",
+  "Lieu « Couvent des Dominicaines de Sylo », 1965 : Ouvert au XIIIe siècle, il a été transformé en hôpital pendant la Révolution française et a conservé cette fonction jusqu'en 1965, sous le nom d'hôpital Saint-Quirin.",
+  "Lieu « Couvent des Dominicaines de Sylo », aujourd'hui : Pendant la Guerre de Trente Ans, le couvent est occupé par les Suédois.",
+  "Lieu « Remparts de Sélestat » : Les remparts de Sélestat (remparts Vauban) sont des vestiges des fortifications du XVIIe siècle de la ville de Sélestat.",
+  "Lieu « Remparts de Sélestat », 1675 : Une nouvelle enceinte est construite de 1675 à 1691, sous la direction de Vauban et Tarade.",
+  "Lieu « Remparts de Sélestat », 1875 : La majeure partie de cette enceinte est détruite en 1875.",
+  "Lieu « Remparts de Sélestat », 1947 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1947.",
+  "Lieu « Remparts de Sélestat », aujourd'hui : Les remparts de Sélestat (remparts Vauban) sont des vestiges des fortifications du XVIIe siècle de la ville de Sélestat.",
+  "Lieu « Arsenal Saint-Hilaire » : L'arsenal Saint-Hilaire est un monument historique situé à Sélestat, dans la Collectivité européenne d'Alsace.",
+  "Lieu « Arsenal Saint-Hilaire », 1280 : Si l'arsenal Saint-Hilaire est construit au début du XVIe siècle, ses fondations les plus anciennes remontent aux années 1280.",
+  "Lieu « Arsenal Saint-Hilaire », 1785 : Initialement appelé Zeughaus (« arsenal » en allemand), l'édifice prend en 1785 le nom du commandant de l'artillerie municipale Marc Gaspard Capriol de Saint-Hilaire après que celui-ci y ait effectué d'importants travaux.",
+  "Lieu « Arsenal Saint-Hilaire », 1910 : Il est toutefois détruit vers 1910 pour céder la place à un bâtiment de style néo-Renaissance.",
+  "Lieu « Arsenal Saint-Hilaire », aujourd'hui : Bien que la porte Neuve à proximité de laquelle il se situe n'était déjà plus fonctionnelle à la fin du Moyen Âge, l'arsenal occupait toujours un emplacement stratégique.",
+  "Lieu « Tour des Sorcières (Sélestat) » : La tour des Sorcières, Porte basse ou Niedertor, est une porte des remparts médiévaux de Sélestat.",
+  "Lieu « Tour des Sorcières (Sélestat) », XIIIe siècle : La Tour des Sorcières est à l'origine une porte des remparts médiévaux de la ville, construite au XIIIe siècle.",
+  "Lieu « Tour des Sorcières (Sélestat) », XVIIe siècle : Au XVIIe siècle la tour est transformée pour servir de réserve et de prison, les arches permettant de franchir la tour ont alors été murées.",
+  "Lieu « Tour des Sorcières (Sélestat) », 1929 : L'édifice est inscrit au titre des monuments historiques depuis 1929.",
+  "Lieu « Tour des Sorcières (Sélestat) », aujourd'hui : La tour a par la suite été rehaussée, les trois murs exposés vers l'extérieur de la ville étaient en brique et le mur coté ville en pan de bois, cette façade est aujourd'hui en brique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

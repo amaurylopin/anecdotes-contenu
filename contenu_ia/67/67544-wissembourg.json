@@ -1,0 +1,283 @@
+{
+ "commune": {
+  "titre": "Wissembourg",
+  "code_insee": "67544",
+  "departement": "67",
+  "population": 7566,
+  "lat": 49.03833333,
+  "lon": 7.94694444,
+  "url": "https://fr.wikipedia.org/wiki/Wissembourg"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:26:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3547,
+  "sortie": 1762
+ },
+ "cout_usd": 0.002912,
+ "accroche": "Le 25 janvier 1677, Wissembourg est prise, incendiée et pillée, lors d’une sévère campagne militaire de mise au pas.",
+ "histoire": {
+  "recit": "À Wissembourg, l’histoire commence dans la vallée avec l’abbaye Saint-Pierre-et-Saint-Paul, fondée sur une île de la Lauter par des nobles austrasiens au VIIe siècle. Saint Pirmin y introduit la règle de saint Benoît, et l’établissement devient si puissant qu’il obtient le rang de principauté en 974.\n\nLa ville, pourtant, connaît aussi les ruptures : le 25 janvier 1677, elle est prise, incendiée et pillée. Plus tard, en pleine Seconde Guerre mondiale, Wissembourg est libérée une première fois le 16 décembre 1944, puis reprise par les Allemands avant d’être définitivement reconquise le 19 mars 1945.\n\nAu XIXe siècle, la gare de Wissembourg s’inscrit dans le paysage : elle est mise en service le 23 octobre 1855, avec l’ouverture à l’exploitation de la section de Haguenau à Wissembourg. Et quand le bâtiment voyageurs d’origine est détruit en 1945, un nouveau bâtiment est ouvert en 1966.\n\nDans les environs, la Forêt du Mundat, au contact de la frontière franco-allemande, rappelle l’ancien territoire privilégié de l’abbaye de Weissenburg.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "Fondation de l’abbaye Saint-Pierre-et-Saint-Paul sur une île de la Lauter par des nobles austrasiens, avec l’introduction de la règle de saint Benoît.",
+    "sources": [
+     "S3",
+     "S2"
+    ]
+   },
+   {
+    "date": "974",
+    "texte": "L’abbaye obtient le rang de principauté.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "25 janvier 1677",
+    "texte": "Wissembourg est prise, incendiée et pillée lors d’une campagne militaire de mise au pas.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "16 décembre 1944",
+    "texte": "Première libération de la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "19 mars 1945",
+    "texte": "Reprise définitive de Wissembourg, par l’opération Undertone.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "23 octobre 1855",
+    "texte": "Mise en service de la gare de Wissembourg, lors de l’ouverture de la section de Haguenau à Wissembourg.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "Destruction du bâtiment voyageurs d’origine de la gare de Wissembourg.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "Ouverture du nouveau bâtiment voyageurs de la gare.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Wissembourg",
+   "histoire": "La gare de Wissembourg est mise en service le 23 octobre 1855, lors de l’ouverture à l’exploitation de la section de Haguenau à Wissembourg. Son bâtiment voyageurs d’origine est détruit en 1945 ; le nouveau bâtiment est ouvert en 1966. Elle était aussi l’origine d’une ligne aujourd’hui déclassée vers Lauterbourg-Gare.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S10",
+    "S9",
+    "S11"
+   ],
+   "lat": 49.031626,
+   "lon": 7.950021,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Wissembourg"
+  },
+  {
+   "nom": "Abbaye Saint-Pierre-et-Saint-Paul de Wissembourg",
+   "histoire": "L’abbaye Saint-Pierre-et-Saint-Paul de Wissembourg, également connue comme Kloster Weißenburg, est une ancienne abbaye bénédictine devenue collégiale entre 1524 et 1789. Fondée sur une île de la Lauter, elle s’élève rapidement au point d’obtenir le rang de principauté en 974.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S2"
+   ],
+   "lat": 49.03694444,
+   "lon": 7.94222222,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Pierre-et-Saint-Paul_de_Wissembourg"
+  },
+  {
+   "nom": "Abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg",
+   "histoire": "L’abbatiale est liée à une fondation sur une île de la Lauter et à des reconstructions marquées par des incendies. La charte de fondation évoquée pour Wissembourg raconte une fondation en 623 ; une autre réécriture place la fondation vers 660 ou l’attribue différemment selon les versions.",
+   "anecdotes": [
+    {
+     "texte": "Selon la charte de fondation citée, l’abbaye de Wissembourg aurait été fondée en 623 par le roi mérovingien Dagobert Ier, alors qu’une autre version affirme une fondation vers 660 par un évêque de Spire.",
+     "statut": "conteste",
+     "sources": [
+      "S13",
+      "S14"
+     ]
+    },
+    {
+     "texte": "Une autre version de l’histoire de l’abbaye réécrit sa propre chronologie et ne recule pas devant la falsification de documents.",
+     "statut": "legende",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S17",
+    "S20",
+    "S13",
+    "S14",
+    "S18"
+   ],
+   "lat": 49.0372,
+   "lon": 7.94187,
+   "url": "https://fr.wikipedia.org/wiki/Abbatiale_Saint-Pierre-et-Saint-Paul_de_Wissembourg"
+  },
+  {
+   "nom": "Forêt du Mundat",
+   "histoire": "La Forêt du Mundat désigne deux régions forestières autour de Wissembourg, à la frontière franco-allemande. Au Moyen Âge, ces forêts faisaient partie du Mundat de Wissembourg, des biens privilégiés de l’abbaye de Weissenburg, dont l’abbé possédait le territoire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S26"
+   ],
+   "lat": 49.04,
+   "lon": 7.91,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_du_Mundat"
+  },
+  {
+   "nom": "Église Saint-Ulrich d'Altenstadt",
+   "histoire": "À Altenstadt, une commune associée à Wissembourg, la première église connue est édifiée vers 1050. Une partie est reconstruite au XIIe siècle, avec des travaux sur la tour-porche avant 1130 et une surélévation de la nef. L’édifice est classé au titre des monuments historiques depuis 1898, et des aménagements sont faits avant notamment la reprise du portail occidental.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 49.0305,
+   "lon": 7.9683,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Ulrich_d%27Altenstadt"
+  },
+  {
+   "nom": "Château du Geisberg",
+   "histoire": "Le château du Geisberg est un monument historique à Wissembourg. Le domaine est principalement construit entre 1711 et 1714 : il comprend une demeure principale, un grand jardin avec deux pavillons et des bâtiments agricoles. Vendu en 1755, puis pris pour cible en 1940, il ne laisse aujourd’hui que la tour-porche, la maison du gardien et les ruines des deux pavillons de jardin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les seuls restes sont la tour-porche, la maison du gardien et les ruines des deux pavillons de jardin.",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 49.014,
+   "lon": 7.9538,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Geisberg"
+  },
+  {
+   "nom": "Église protestante Saint-Jean de Wissembourg",
+   "histoire": "L’église protestante Saint-Jean de Wissembourg est un monument historique. L’édifice est classé au titre des monuments historiques depuis 1898. L’orgue Mülheisen, inauguré en 1961, est remplacé par l’orgue Dominique Thomas, inauguré le dimanche 28 juin 2015.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 49.0386,
+   "lon": 7.9426,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_protestante_Saint-Jean_de_Wissembourg"
+  },
+  {
+   "nom": "Doyenné de Wissembourg",
+   "histoire": "Le doyenné de Wissembourg, monument historique, voit l’hôtel destiné au doyen du chapitre achevé en 1784. Par la suite, vendu comme bien national, il devient tribunal départemental puis sous-préfecture jusqu’en 1871, avant de redevenir sous-préfecture en 1918. L’édifice est inscrit au titre des monuments historiques depuis 1994.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 49.0371,
+   "lon": 7.9411,
+   "url": "https://fr.wikipedia.org/wiki/Doyenn%C3%A9_de_Wissembourg"
+  }
+ ],
+ "sources": [
+  "Wissembourg [visɑ̃buʁ] (en francique méridional Weisseburch [ˈvaɪsəbʊʁç]), est une commune française située dans la circonscription administrative du Bas-Rhin et, depuis le 1er janvier 2021, dans le territoire de la Collectivité européenne d'Alsace, en région Grand Est. Cette commune se trouve dans la région historique et culturelle d'Alsace. Ses habitants sont appelés les Wissembourgeois. Elle avait le statut de […]",
+  "L'abbaye Saint-Pierre-et-Saint-Paul est fondée sur le site au VIIe siècle par des nobles austrasiens sur une île de la Lauter. Saint Pirmin y a introduit la règle de saint Benoît. Elle s'éleva bientôt à la tête d'un vaste domaine de plus de 200 km2, et s’enrichit au point de devenir l’abbaye la plus riche d’Alsace et d'obtenir le rang de principauté en 974. Le XIe siècle est marqué par la construction d’une église […]",
+  "VIIe siècle : L'abbaye Saint-Pierre-et-Saint-Paul est fondée sur le site au VIIe siècle par des nobles austrasiens sur une île de la Lauter.",
+  "1677 : Il s'ensuivra une sévère campagne militaire de mise au pas, et Wissembourg sera prise, incendiée et pillée le 25 janvier 1677.",
+  "1872 : En 1872, à la suite de l'annexion par l'Allemagne, ce numéro est affecté à la commune de Saint-Just-la-Pendue.",
+  "1944 : Libérée une première fois le 16 décembre 1944, puis reprise par les Allemands, la ville n'a été définitivement reconquise que le 19 mars 1945, par l'opération Undertone de la 7e armée du général Patch.",
+  "Lieu « Gare de Wissembourg » : La gare de Wissembourg est une gare ferroviaire française de la ligne de Vendenheim à Wissembourg, située sur le territoire de la commune de Wissembourg, dans la collectivité européenne d'Alsace, en région Grand Est.",
+  "Lieu « Gare de Wissembourg », 1855 : La gare de Wissembourg est mise en service le 23 octobre 1855, lors de l'ouverture à l'exploitation de la section de Haguenau à Wissembourg du chemin de fer de Strasbourg à Wissembourg, par la Compagnie des chemins de fer de l'Est.",
+  "Lieu « Gare de Wissembourg », 1945 : Son bâtiment voyageurs (BV) est détruit en 1945 ; le nouveau est ouvert en 1966.",
+  "Lieu « Gare de Wissembourg », 1945 : Le bâtiment voyageurs d'origine est détruit en 1945, à la fin de la Seconde Guerre mondiale.",
+  "Lieu « Gare de Wissembourg », aujourd'hui : Elle était autrefois l'origine, au PK −0,030, de la ligne de Wissembourg à Lauterbourg-Gare, aujourd'hui déclassée.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Wissembourg » : L'abbaye Saint-Pierre-et-Saint-Paul de Wissembourg (allemand : Kloster Weißenburg), également abbaye bénédictine de Wissembourg, est une ancienne abbaye bénédictine (devenant collégiale entre 1524 et 1789) à Wissembourg en Alsace, France.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Wissembourg », 623 : Dans le cas de Wissembourg, la charte de fondation raconte que l'abbaye avait été fondée en 623 par le roi mérovingien Dagobert Ier.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Wissembourg », 660 : L'abbaye de Wissembourg a été fondée vers 660 par l'évêque de Spire, Dragobodo ou probablement par des moines venus de Lorraine.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Wissembourg », XIe siècle : Au XIe siècle, elle est restaurée, partiellement reconstruite et entourée d'une enceinte fortifiée en maçonnerie avec tours.",
+  "Lieu « Abbaye Saint-Pierre-et-Saint-Paul de Wissembourg », aujourd'hui : Au XVIe siècle, il ne reste plus que trois domaines sur les milliers que l'abbaye possédait : il s'agit de Steinfeld, Schweighofen et Koppelhof ; en outre, l'abbaye avait des droits de dîme à Wissembourg et à Bergzabern, ce qui lui donnait un revenu annuel de 1 500 florins.",
+  "Lieu « Abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg » : L'abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg est fondée vers 660 par des nobles austrasiens sur une île de la Lauter.",
+  "Lieu « Abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg », 623 : Pour cela, elle réécrit sa propre histoire, ne reculant pas devant la falsification de documents (cela n'était pas rare au moyen âge) : selon la nouvelle généalogie, c'est le roi mérovingien Dagobert Ier (et non un évêque de Spire) qui aurait fondé le monastère, vers l'an 623.",
+  "Lieu « Abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg », 660 : L'abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg est fondée vers 660 par des nobles austrasiens sur une île de la Lauter.",
+  "Lieu « Abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg », 1004 : Un autre incendie, en 1004, amène l'abbé Liuthard à reconstruire l'église dont le chœur a été consacré en 1033 par l'évêque Reginhard II von Dillingen, ou Reginbald de Spire.",
+  "Lieu « Abbatiale Saint-Pierre-et-Saint-Paul de Wissembourg », aujourd'hui : Hédéric, mort en 967, était l'écolâtre de l'abbaye qui possédait alors une des plus riches bibliothèques monastiques dont les livres se trouvent aujourd'hui à la bibliothèque de Wolfenbüttel.",
+  "Lieu « Forêt du Mundat » : Le terme de forêt du Mundat désigne deux régions forestières directement aux alentours de la ville de Wissembourg en Alsace à la frontière franco-allemande.",
+  "Lieu « Forêt du Mundat », 630 : L’abbaye de Wissembourg était à l'origine un monastère fondé vers 630-660 et faisant partie de l'ordre bénédictin au VIIIe siècle.",
+  "Lieu « Forêt du Mundat », 1938 : Un système d'échanges croisés fut réalisé entre la ville et l'État français (loi du 9 juillet 1938, le contrat n'étant effectivement signé, pour cause de guerre, que le 17 février 1959 avec effet au 1er octobre 1938) et entre les deux pays (accord franco allemand du 16 décembre 1937).",
+  "Lieu « Forêt du Mundat », 1938 : La ligne principale fortifiée de la ligne Siegfried construite à partir de 1938 passait dans le secteur du Hohe Derst entre Oberotterbach à l'est et Bundenthal à l'ouest.",
+  "Lieu « Forêt du Mundat », aujourd'hui : Au Moyen Âge, les forêts faisaient partie du Mundat de Wissembourg, les biens privilégiés de l'abbaye de Weissenburg (aujourd'hui Wissembourg), dont l'abbé, prince du Saint-Empire romain germanique, possédait le territoire.",
+  "Lieu « Église Saint-Ulrich d'Altenstadt » : L'église Saint-Ulrich est un monument historique situé à Altenstadt une commune associée à Wissembourg, dans le département français du Bas-Rhin.",
+  "Lieu « Église Saint-Ulrich d'Altenstadt », 1050 : La première église connue sur le site est édifiée vers 1050.",
+  "Lieu « Église Saint-Ulrich d'Altenstadt », 1130 : Une partie est reconstruite au cours du XIIe siècle : les travaux sur la tour-porche débutent avant 1130 et s’achèvent dans le troisième quart du XIIe siècle, en même temps que la surélévation de la nef.",
+  "Lieu « Église Saint-Ulrich d'Altenstadt », 1898 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis 1898.",
+  "Lieu « Église Saint-Ulrich d'Altenstadt », aujourd'hui : Au cours de ceux-ci, de nouvelles ouvertures sont percées dans les murs des bas-côtés, une chapelle est construite du côté sud du chœur et le portail occidental remplacé par celui de la collégiale Saint-Étienne de Wissembourg, détruite au cours de la guerre.",
+  "Lieu « Château du Geisberg » : Le château du Geisberg est un monument historique situé à Wissembourg, dans le département français du Bas-Rhin.",
+  "Lieu « Château du Geisberg », 1711 : Le domaine, principalement construit entre 1711 et 1714 était composé d'une demeure principale, d'un grand jardin avec 2 pavillons, ainsi que de multiples bâtiments agricoles.",
+  "Lieu « Château du Geisberg », 1755 : Le domaine est vendu en 1755 à Philippe Michel Weber, qui en restera propriétaire jusqu'à la Révolution.",
+  "Lieu « Château du Geisberg », 1940 : En 1940, le château, vidé de ses habitants évacués en Haute-Vienne, est pris pour cible.",
+  "Lieu « Château du Geisberg », aujourd'hui : Aujourd'hui les seuls restes sont la tour-porche, la maison du gardien et les ruines des deux pavillons de jardin.",
+  "Lieu « Église protestante Saint-Jean de Wissembourg » : L'église protestante Saint-Jean de Wissembourg est un monument historique situé à Wissembourg, dans le département français du Bas-Rhin.",
+  "Lieu « Église protestante Saint-Jean de Wissembourg », 1898 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis 1898.",
+  "Lieu « Église protestante Saint-Jean de Wissembourg », 1961 : En effet, l'orgue Mülheisen inauguré en 1961 était de conception électropneumatique et avait très mal vieilli.",
+  "Lieu « Église protestante Saint-Jean de Wissembourg », 2015 : L'orgue Dominique Thomas de Wissembourg a été inauguré le dimanche 28 juin 2015 par un culte de dédicace le matin et un concert de l'organiste Bart Jacobs de la cathédrale de Bruxelles l'après-midi.",
+  "Lieu « Doyenné de Wissembourg » : Le doyenné de Wissembourg est un monument historique situé à Wissembourg, dans le département français du Bas-Rhin.",
+  "Lieu « Doyenné de Wissembourg », 1784 : L'hôtel destiné au doyen du chapitre est achevé en 1784.",
+  "Lieu « Doyenné de Wissembourg », 1871 : Vendu comme bien national, il devient tribunal départemental, puis sous-préfecture jusqu'en 1871, héberge l'administration de la Kreisdirektion et redevient en 1918 sous-préfecture.",
+  "Lieu « Doyenné de Wissembourg », 1994 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1994."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
