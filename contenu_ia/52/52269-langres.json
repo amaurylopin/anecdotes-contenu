@@ -1,0 +1,341 @@
+{
+ "commune": {
+  "titre": "Langres",
+  "code_insee": "52269",
+  "departement": "52",
+  "population": 7421,
+  "lat": 47.85333333,
+  "lon": 5.33388889,
+  "url": "https://fr.wikipedia.org/wiki/Langres"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:28:24",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3436,
+  "sortie": 2068
+ },
+ "cout_usd": 0.003272,
+ "accroche": "À Langres, sous l’impulsion du chanoine de Vergy, la chapelle de la Vierge est édifiée dans l’axe de l’abside en 1282.",
+ "histoire": {
+  "recit": "Langres, en Haute-Marne, est une ville de sous-préfecture, et son nom a essaimé dans un Pays de Langres et dans un diocèse dont le titulaire portait, depuis le XIIe siècle, le titre de duc et pair de France.\n\nAprès un bref déclin lié aux invasions barbares, la cité retrouve sa prospérité dès la renaissance carolingienne, malgré des raids normands entre 888 et 894. Son influence politique grandit aussi, au rythme des renaissances médiévales.\n\nLe Moyen Âge laisse des traces concrètes : la Renaissance voit s’installer une imprimerie, connue notamment par Jean Desprez, tandis que la cathédrale Saint-Mammès raconte, pierre après pierre, les chantiers du cloître et les choix faits face aux menaces de ruine. Plus tard, des institutions changent : en 2010, Langres perd le tribunal d’instance installé en 1958.\n\nAujourd’hui, on visite des lieux qui gardent la mémoire des savoirs et des formes : le musée d’Art et d’Histoire de Langres, la Maison des Lumières Denis Diderot, et l’enceinte qui, autrefois, protégeait la ville haute.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Le diocèse de Langres a pour titulaire le titre de duc et pair de France.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "888",
+    "texte": "Les Normands ravagent le diocèse de Langres.",
+    "sources": [
+     "S2",
+     "S27"
+    ]
+   },
+   {
+    "date": "894",
+    "texte": "Les Normands ont encore ravagé le diocèse de Langres (après 888).",
+    "sources": [
+     "S2",
+     "S27"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Une imprimerie s’installe à Langres, surtout connue par l’imprimeur Jean Desprez (Jehan des Prey).",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1282",
+    "texte": "La chapelle de la Vierge est édifiée dans l’axe de l’abside de la cathédrale Saint-Mammès, sous l’impulsion du chanoine de Vergy.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1282",
+    "texte": "Le cloître est construit ; il n’en reste actuellement que deux galeries.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1746",
+    "texte": "La façade occidentale de la cathédrale Saint-Mammès, menaçant de s’effondrer, est démolie.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1841",
+    "texte": "Le musée d’Art et d’Histoire de Langres est fondé en 1841.",
+    "sources": [
+     "S11",
+     "S13"
+    ]
+   },
+   {
+    "date": "1958",
+    "texte": "Le tribunal d’instance de Langres a été installé.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "Dans la réforme de la carte judiciaire, la ville de Langres perd le tribunal d’instance à compter du 1er janvier 2010.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Mammès de Langres",
+   "histoire": "La cathédrale Saint-Mammès a connu, entre la construction du cloître et les chantiers médiévaux, des évolutions marquées par des choix architecturaux et des décisions de sauvegarde. Sa façade occidentale a notamment été démolie en 1746 avant d’être reconstruite, tandis que les arcs-boutants du chœur et de la nef donnent encore à voir l’histoire des transformations.",
+   "anecdotes": [
+    {
+     "texte": "La façade occidentale a été démolie après qu’on a jugé qu’elle menaçait de s’effondrer.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 47.86417,
+   "lon": 5.33528,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Mamm%C3%A8s_de_Langres"
+  },
+  {
+   "nom": "Musée d'Art et d'Histoire de Langres",
+   "histoire": "Le musée d’Art et d’Histoire de Langres, dit aussi Musée Guy-Baillet, est fondé en 1841 par la Société historique et archéologique de Langres. Il est aujourd’hui installé dans une ancienne église, augmentée d’un bâtiment contemporain inauguré en 1995.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 47.864904,
+   "lon": 5.333648,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_et_d%27Histoire_de_Langres"
+  },
+  {
+   "nom": "Maison des Lumières Denis Diderot",
+   "histoire": "La Maison des Lumières Denis Diderot est un musée de France consacré au Siècle des Lumières, installé dans l’hôtel du Breuil de Saint-Germain. La fabrication des volumes liés à l’entreprise des Lumières s’achève en 1780, et le bâtiment passe ensuite entre les mains de la Société Historique et Archéologique de Langres, qui y crée un musée ; le lieu est inauguré le 5 octobre 2013 et a bénéficié d’une campagne de restauration menée de 2009 à 2013.",
+   "anecdotes": [
+    {
+     "texte": "Achevée en 1780, la fabrication s’étend sur 29 années pour 35 volumes, en comptant les tomes de Supplément et de Table.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "La maison est inaugurée le 5 octobre 2013, le jour du tricentenaire de l’écrivain.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.86683,
+   "lon": 5.334297,
+   "url": "https://fr.wikipedia.org/wiki/Maison_des_Lumi%C3%A8res_Denis_Diderot"
+  },
+  {
+   "nom": "Église Saint-Martin de Langres",
+   "histoire": "L’église Saint Martin a été édifiée au XIIIe siècle et classée aux monuments historiques. L’édifice actuel résulte de campagnes de construction du XIIIe siècle au XVIIIe siècle, et, après l’incendie de 1725, trois vaisseaux du XIIIe siècle sont doublés de deux collatéraux construits après l’incendie. Elle est aujourd’hui en très mauvais état et nécessite une restauration complète.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.860509,
+   "lon": 5.332526,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Langres"
+  },
+  {
+   "nom": "Enceinte de Langres",
+   "histoire": "L’enceinte de Langres rassemble les fortifications de la place forte, protégeant la ville haute jusqu’au XIXe siècle. Elle renvoie aussi à des épisodes de ravages dans la région, et à des transformations plus tardives : des ouvrages sont démolis ou refaits, tandis qu’un arc gallo-romain est intégré aux remparts.",
+   "anecdotes": [
+    {
+     "texte": "Il n’est pas assuré que les Normands aient attaqué la ville, même s’ils ont ravagé le diocèse de Langres en 888 et 894.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "Une seconde porte, appelée « porte Moab », a été démolie en juillet 1840, en même temps qu’une grande partie du mur antique.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 47.8533333333,
+   "lon": 5.33388888889,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_de_Langres"
+  },
+  {
+   "nom": "Arc de triomphe de Langres",
+   "histoire": "Vestige d’un bâti monumental du Ier siècle av. J.-C., l’arc de triomphe de Langres a d’abord marqué l’entrée d’une ville ouverte. Au IIIe siècle, il est intégré aux remparts défensifs : ses passages sont murés. Aujourd’hui, une façade visible se distingue par cinq pilastres toscans coiffés de chapiteaux corinthiens.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 47.8653,
+   "lon": 5.3303,
+   "url": "https://fr.wikipedia.org/wiki/Arc_de_triomphe_de_Langres"
+  },
+  {
+   "nom": "Faïencerie des Auges",
+   "histoire": "La faïencerie des Auges, aussi appelée faïencerie des Oges, est une ancienne faïencerie située sur la commune de Langres. Fondée en 1758 par Jean-Baptiste Arnout, elle devient une exploitation agricole à partir de 1875 et voit sa protection au titre des monuments historiques être actée en 1986. On y conserve un four à faïence du XIXe siècle et des vestiges techniques liés à la production.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 47.8533,
+   "lon": 5.3395,
+   "url": "https://fr.wikipedia.org/wiki/Fa%C3%AFencerie_des_Auges"
+  },
+  {
+   "nom": "Statue de Denis Diderot",
+   "histoire": "La statue de Denis Diderot, œuvre d’Auguste Bartholdi, se dresse sur la place Diderot à Langres. Inaugurée le 3 août 1884, elle a été précédée la veille au soir d’une retraite aux flambeaux, avec fanfare et illuminations. Les parties dégradées du piédestal ont ensuite été remplacées par des bouchons.",
+   "anecdotes": [
+    {
+     "texte": "La veille au soir de l’inauguration, une retraite aux flambeaux a précédé la statue, avec fanfare et illuminations.",
+     "statut": "etabli",
+     "sources": [
+      "S43",
+      "S42"
+     ]
+    },
+    {
+     "texte": "Les parties dégradées du piédestal ont subi un remplacement par bouchons.",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 47.862834,
+   "lon": 5.334037,
+   "url": "https://fr.wikipedia.org/wiki/Statue_de_Denis_Diderot"
+  }
+ ],
+ "sources": [
+  "Langres (prononcé [lɑ̃gʁ]) est une commune française du département de la Haute-Marne, dont elle est l'une des deux sous-préfectures, en région Grand Est. Langres a donné son nom à une région traditionnelle qui avait le titre de comté et une coutume particulière à celle de Sens (le Pays de Langres), ainsi qu'à un diocèse dont le titulaire avait depuis le XIIe siècle le titre de duc et pair de France. Avec son […]",
+  "Après un bref déclin résultant des invasions barbares, Langres recouvre sa prospérité dès la renaissance carolingienne, en dépit des raids dévastateurs des Normands de 888 à 894. L'influence politique grandissante malgré la réforme grégorienne, le développement économique et le rayonnement culturel de l'évêché de Langres à la faveur des renaissances médiévales successives font de Langres une puissante cité du Moyen […]",
+  "XVe siècle : La Renaissance voit notamment se construire de beaux édifices qui subsistent aujourd'hui : L'imprimerie, qui s'y serait installé depuis la fin du XVe siècle, est surtout connue par le biais de l'imprimeur Jean Desprez (Jehan des Prey).",
+  "XVIIIe siècle : Détruit au cours du XVIIIe siècle, il ne reste que très peu de fragments de ce jubé au musée d'histoire de Langres.",
+  "2010 : Dans le cadre de la réforme de la carte judiciaire entreprise par Rachida Dati, la ville de Langres « perd » le tribunal d'instance à compter du 1er janvier 2010, qui avait été installé en 1958.",
+  "Lieu « Cathédrale Saint-Mammès de Langres » : La cathédrale Saint-Mammès de Langres est une cathédrale catholique romaine située à Langres, dans le département français de la Haute-Marne en région Champagne-Ardenne.",
+  "Lieu « Cathédrale Saint-Mammès de Langres », 1282 : Le XIIIe siècle vit la construction du cloître dont il reste actuellement deux galeries, ainsi que l'édification, sous l'impulsion du chanoine de Vergy, de la chapelle de la Vierge dans l'axe de l'abside (1282).",
+  "Lieu « Cathédrale Saint-Mammès de Langres », 1746 : En 1746, la façade occidentale menaçant de s'effondrer, décision fut prise de la démolir.",
+  "Lieu « Cathédrale Saint-Mammès de Langres », XVIIIe siècle : Son style conjugue harmonieusement les volumes romans bourguignons et gothiques avec ses voûtes d'ogives, sa façade occidentale reconstruite au XVIIIe siècle se distinguant par son style classique.",
+  "Lieu « Cathédrale Saint-Mammès de Langres », aujourd'hui : Les arcs-boutants du chœur étaient cachés sous les combles mais ceux de la nef étaient visibles de l'extérieur.",
+  "Lieu « Musée d'Art et d'Histoire de Langres » : Le Musée d'Art et d'Histoire de Langres ou Musée Guy-Baillet est un musée fondé à Langres (Haute-Marne) en 1841.",
+  "Lieu « Musée d'Art et d'Histoire de Langres », XIIe siècle : L’édifice du XIIe siècle, modifié aux XIIIe, XVIe puis au XVIIe siècle, a été partiellement détruit à la Révolution.",
+  "Lieu « Musée d'Art et d'Histoire de Langres », 1841 : Le Musée d'Art et d'Histoire de Langres ou Musée Guy-Baillet est un musée fondé à Langres (Haute-Marne) en 1841.",
+  "Lieu « Musée d'Art et d'Histoire de Langres », 1841 : Fondé en 1841 par la Société historique et archéologique de Langres, le musée est aujourd'hui installé dans une ancienne église augmentée d'un bâtiment contemporain, inauguré en 1995.",
+  "Lieu « Musée d'Art et d'Histoire de Langres », aujourd'hui : En 1837, Girault de Prangey et Émile Sagot (1805-1888) livrent leur « Projet d’un musée d’antiquités » qui intègre les vestiges découverts depuis le XVIe siècle, comme l’« autel de Bacchus » (autel antique en marbre blanc) ou la « stèle des époux » (stèle funéraire représentant quatre personnages).",
+  "Lieu « Maison des Lumières Denis Diderot » : La Maison des Lumières Denis Diderot (MLDD) est un musée de France logé dans l'hôtel du Breuil de Saint-Germain à Langres et consacré au Siècle des Lumières, à la vie et à l’œuvre de Denis Diderot.",
+  "Lieu « Maison des Lumières Denis Diderot », 1780 : Achevée en 1780, la fabrication s’étend sur 29 années pour un total de 35 volumes en comptant les tomes de Supplément et de Table.",
+  "Lieu « Maison des Lumières Denis Diderot », 1923 : En 1923, la famille Du Breuil de Saint-Germain lègue le bâtiment à la Société Historique et Archéologique de Langres qui y crée un musée.",
+  "Lieu « Maison des Lumières Denis Diderot », 2013 : Il fut inauguré le 5 octobre 2013, le jour du tricentenaire de l'écrivain.",
+  "Lieu « Maison des Lumières Denis Diderot », aujourd'hui : La Ville entreprend de 2009 à 2013 une importante campagne de restauration de l'immeuble (1 320 500 euros de travaux, cofinancés entre autres par la Ville de Langres, la DRAC, à hauteur de (408 200 euros, et le mécénat), avec pour objectif d'y installer le musée qu'il abrite aujourd'hui.",
+  "Lieu « Église Saint-Martin de Langres » : C'est à Langres, dans la Haute-Marne, que se dresse l'église Saint Martin, édifiée au XIIIe siècle et classée aux monuments historiques.",
+  "Lieu « Église Saint-Martin de Langres », XIIIe siècle : C'est à Langres, dans la Haute-Marne, que se dresse l'église Saint Martin, édifiée au XIIIe siècle et classée aux monuments historiques.",
+  "Lieu « Église Saint-Martin de Langres », XIIIe siècle : L’édifice actuel résulte de plusieurs campagnes de construction, échelonnées du XIIIe siècle au XVIIIe siècle.",
+  "Lieu « Église Saint-Martin de Langres », 1725 : L'église est formée de trois vaisseaux datant du XIIIe siècle doublés de deux collatéraux construits après l'incendie de l'édifice en 1725.",
+  "Lieu « Église Saint-Martin de Langres », aujourd'hui : Il est cependant aujourd'hui en très mauvais état (plusieurs tuyaux sont hors d'usage) et une restauration complète est nécessaire.",
+  "Lieu « Enceinte de Langres » : L'enceinte de Langres regroupe les fortifications de la place forte de la ville de Langres qui ont protégé la ville haute, ancien oppidum des Lingons, jusqu'au XIXe siècle.",
+  "Lieu « Enceinte de Langres », 888 : Les Normands ont ravagé le diocèse de Langres à deux reprises, en 888 et 894 mais il n'est pas assuré qu'ils aient attaqué la ville.",
+  "Lieu « Enceinte de Langres », 1840 : La seconde porte, qui portait le nom de « porte Moab », a été démolie en juillet 1840 en même temps qu'une grande partie du mur antique.",
+  "Lieu « Enceinte de Langres », 1860 : Au nord, l'accès se faisait par l'arc de triomphe de Longe-Porte qui a été détruit peu avant 1860, quand cette porte a été refaite.",
+  "Lieu « Enceinte de Langres », aujourd'hui : Une trentaine d'années après la conquête de la Gaule par Jules César, à l'époque d'Auguste, a été élevé l'arc du Marché ou porte gallo-romaine, datant d'environ 20 avant J.-C., et aujourd'hui intégré dans les remparts.",
+  "Lieu « Arc de triomphe de Langres » : L'arc de triomphe de Langres est le vestige d'un bâti monumental du Ier siècle av. J.-C., situé à Langres, en France.",
+  "Lieu « Arc de triomphe de Langres », Ier siècle : L'arc de triomphe de Langres est le vestige d'un bâti monumental du Ier siècle av. J.-C., situé à Langres, en France.",
+  "Lieu « Arc de triomphe de Langres », Ier siècle : L'arc de triomphe est construit au Ier siècle av. J.-C., sous le second triumvirat, c'est-à-dire quelques années après la conquête de la Gaule par Jules César.",
+  "Lieu « Arc de triomphe de Langres », IIIe siècle : Point d'entrée d'une ville ouverte, l'arc est, au IIIe siècle, intégré aux remparts défensifs de la ville, et ses passages sont murés.",
+  "Lieu « Arc de triomphe de Langres », aujourd'hui : Cinq pilastres toscans coiffés de chapiteaux corinthiens rythment la façade visible (un sur la pile centrale, et deux sur chaque pile extérieure).",
+  "Lieu « Faïencerie des Auges » : La faïencerie des Auges, également dénommée faïencerie des Oges est une ancienne faïencerie située sur la commune française de Langres, dans le département de la Haute-Marne, en région Grand Est.",
+  "Lieu « Faïencerie des Auges », 1758 : La faïencerie est fondée en 1758 par Jean-Baptiste Arnout.",
+  "Lieu « Faïencerie des Auges », 1875 : Le site est transformé en exploitation agricole à partir de 1875.",
+  "Lieu « Faïencerie des Auges », 1986 : La totalité de l'atelier comprenant le four, les façades et toitures du bâtiment des ouvriers et le terrain de la faïencerie sont inscrits au titre des monuments historiques par arrêté du 19 août 1986.",
+  "Lieu « Faïencerie des Auges », aujourd'hui : Elle conserve un four à faïence du XIXe siècle ainsi que divers vestiges techniques liés à la production.",
+  "Lieu « Statue de Denis Diderot » : La statue de Denis Diderot est une œuvre d'Auguste Bartholdi installée sur la place Diderot de Langres en 1884.",
+  "Lieu « Statue de Denis Diderot », 1884 : La statue de Denis Diderot est une œuvre d'Auguste Bartholdi installée sur la place Diderot de Langres en 1884.",
+  "Lieu « Statue de Denis Diderot », 1884 : La statue est inaugurée le 3 août 1884, par beau temps, déjà précédée la veille au soir d'une retraite aux flambeaux, accompagnée d'une fanfare et d'illuminations.",
+  "Lieu « Statue de Denis Diderot », aujourd'hui : Quant au piédestal, les parties dégradées subissent un remplacement par bouchons."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 7
+ }
+}
