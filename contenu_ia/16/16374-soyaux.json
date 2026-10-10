@@ -1,0 +1,90 @@
+{
+ "commune": {
+  "titre": "Soyaux",
+  "code_insee": "16374",
+  "departement": "16",
+  "population": 10087,
+  "lat": 45.6414,
+  "lon": 0.1986,
+  "url": "https://fr.wikipedia.org/wiki/Soyaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:39",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1049,
+  "sortie": 839
+ },
+ "cout_usd": 0.001259,
+ "accroche": "À Soyaux, sur le plateau de Recoux, un habitat du Néolithique a été trouvé, avec des outils et de la céramique de la Tène III.",
+ "histoire": {
+  "recit": "Soyaux s’étend à l’est d’Angoulême, dans le département de la Charente. Les traces anciennes sont là avant même qu’on ne parle des maisons : sur le plateau de Recoux, une pointe au profil d’éperon barré a livré un habitat du Néolithique, puis des outils et de la céramique de la Tène III. Juste à l’est, à la Font Noire, canaux, céramique sigillée et tegulae évoquent une occupation gallo-romaine, avec une probable villa.\n\nPlus tard, vers 1850, la découverte d’un vaste cimetière avec sarcophages a marqué les recherches locales. Et sur le territoire, le Logis de Frégeneuil garde une autre histoire : du XVIIe au XIXe siècle, le domaine fut très souvent vendu, et aujourd’hui il ne reste que des ruines, dont l’imposante fuie ronde.",
+  "chronologie": [
+   {
+    "date": "du XVIIe au XIXe siècle",
+    "texte": "Au Logis de Frégeneuil, le domaine est très souvent vendu.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "vers 1850",
+    "texte": "Un vaste cimetière avec sarcophages est découvert.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "période gallo-romaine",
+    "texte": "À la Font Noire, canaux, céramique sigillée et tegulae témoignent d’une occupation, avec une probable villa.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Néolithique et Tène III",
+    "texte": "Sur le plateau de Recoux, un habitat du Néolithique est trouvé, avec des outils et de la céramique de la Tène III.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Logis de Frégeneuil",
+   "histoire": "Le Logis de Frégeneuil se trouve sur la commune de Soyaux. Du XVIIe au XIXe siècle, le domaine fut très souvent vendu. Aujourd’hui, les bâtiments les plus anciens ont laissé place à des ruines, notamment celles de l’imposante fuie ronde.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des ruines des bâtiments les plus anciens, dont l’imposante fuie ronde.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 45.63194,
+   "lon": 0.1917,
+   "url": "https://fr.wikipedia.org/wiki/Logis_de_Fr%C3%A9geneuil"
+  }
+ ],
+ "sources": [
+  "Soyaux est une commune du Sud-Ouest de la France, située dans le département de la Charente (région Nouvelle-Aquitaine). Située à l'est d'Angoulême, c'est une des villes de banlieue de son agglomération.",
+  "Des vestiges témoignent d'une occupation ancienne. Sur le plateau de Recoux qui forme une pointe avec éperon barré, un habitat du Néolithique a été trouvé, ainsi que quelques outils et céramique de la Tène III. Juste à l'est, à la Font Noire, des canaux, céramique sigillée et tegulae montrent une occupation gallo-romaine, avec une probable villa. Un vaste cimetière avec sarcophages a été découvert vers 1850 à […]",
+  "Lieu « Logis de Frégeneuil » : Le logis de Frégeneuil est situé sur la commune de Soyaux en Charente.",
+  "Lieu « Logis de Frégeneuil », XIXe siècle : Du XVIIe au XIXe siècle le domaine fut très souvent vendu.",
+  "Lieu « Logis de Frégeneuil », aujourd'hui : Il ne reste des bâtiments les plus anciens que les ruines de l'imposante fuie ronde."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

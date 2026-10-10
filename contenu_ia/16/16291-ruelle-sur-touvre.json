@@ -1,0 +1,165 @@
+{
+ "commune": {
+  "titre": "Ruelle-sur-Touvre",
+  "code_insee": "16291",
+  "departement": "16",
+  "population": 7408,
+  "lat": 45.6786,
+  "lon": 0.2211,
+  "url": "https://fr.wikipedia.org/wiki/Ruelle-sur-Touvre"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:28:57",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1501,
+  "sortie": 1347
+ },
+ "cout_usd": 0.001984,
+ "accroche": "Depuis le 13 mars 2018, la gare de Ruelle n’est plus desservie, la ligne étant fermée entre Saillat - Chassenon et Angoulême.",
+ "histoire": {
+  "recit": "Ruelle-sur-Touvre, au sud-ouest, appartient à l’agglomération d’Angoulême. Au Moyen Âge, Ruelle est une paroisse liée à un fief relevant de la seigneurie de la Tranchade. Le duc de Montpensier s’y retire en 1568 après avoir échoué à reprendre Angoulême aux protestants, rejoint ensuite par le futur Henri III.\n\nPlus tard, le cours de la Touvre entraîne l’histoire industrielle : en 1750, le marquis de Montalembert achète un moulin à papier au Maine-Gagnaud et veut l’aménager en forge. En 1752, les anciens bâtiments sont démolis et reconstruits selon un plan méthodique. À partir de 1753, la fonderie est créée pour couler des canons pour la Marine royale. En 1880, son effectif s’accroît avec du personnel venant de la fonderie de Nevers, et la commune connaît une explosion démographique.\n\nAujourd’hui, le site industriel a changé de visage, tandis que la gare n’est plus desservie depuis 2018.",
+  "chronologie": [
+   {
+    "date": "Moyen Âge",
+    "texte": "Ruelle est une paroisse, liée à un fief relevant de la seigneurie de la Tranchade, avec des mentions de Fissac et de la famille Birot.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1568",
+    "texte": "Le duc de Montpensier se retire à Ruelle après avoir échoué dans sa tentative de reprendre Angoulême aux protestants, puis il y est rejoint par le futur Henri III.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1750",
+    "texte": "Le marquis de Montalembert achète un moulin à papier à Ruelle (au Maine-Gagnaud) pour l’aménager en forge.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1752",
+    "texte": "Les anciens bâtiments sont démolis et reconstruits sur un plan méthodique.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1753",
+    "texte": "La fonderie est créée pour couler des canons pour la Marine royale.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1775-1782",
+    "texte": "André Fougeroux de Secval occupe cette fonction à la fonderie de 1775 à 1782.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1880",
+    "texte": "La fonderie s’augmente du personnel de la fonderie de Nevers, et Ruelle connaît une explosion démographique.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "13 mars 2018",
+    "texte": "Depuis le 13 mars 2018, la gare n’est plus desservie par des trains, la ligne étant fermée entre Saillat - Chassenon et Angoulême.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fonderie de Ruelle",
+   "histoire": "Site industriel et militaire sur le territoire de la commune. Créée en 1753 pour couler des canons pour la Marine royale, elle a évolué au fil des reconstructions et des personnels, et elle est aujourd’hui un site de Naval Group.",
+   "anecdotes": [
+    {
+     "texte": "En 1750, le marquis de Montalembert achète un moulin à papier sur la rivière Touvre, au Maine-Gagnaud, pour le transformer en forge.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "En 1753, la fonderie est créée pour couler des canons pour la Marine royale.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site est aujourd’hui un site de Naval Group.",
+   "sources": [
+    "S4",
+    "S8"
+   ],
+   "lat": 45.678333333333,
+   "lon": 0.22333333333333,
+   "url": "https://fr.wikipedia.org/wiki/Fonderie_de_Ruelle"
+  },
+  {
+   "nom": "Gare de Ruelle",
+   "histoire": "La gare de Ruelle est située sur la ligne de Limoges-Bénédictins à Angoulême, sur le territoire de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis le 13 mars 2018, la gare n’est plus desservie par des trains (ligne fermée entre Saillat - Chassenon et Angoulême).",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 45.676308,
+   "lon": 0.221305,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Ruelle"
+  },
+  {
+   "nom": "Logis de Fissac",
+   "histoire": "Le logis de Fissac se trouve sur la commune, à cinq kilomètres au nord-est d’Angoulême.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En 2018, le logis est occupé en partie par la Maison Jean-Baptiste, une maison d’enfants à caractère social.",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 45.6815,
+   "lon": 0.2123,
+   "url": "https://fr.wikipedia.org/wiki/Logis_de_Fissac"
+  }
+ ],
+ "sources": [
+  "Ruelle-sur-Touvre est une commune du Sud-Ouest de la France, située dans le département de la Charente (région Nouvelle-Aquitaine). Elle est située à l'est d'Angoulême dont elle fait partie de l'agglomération. Ses habitants sont les Ruellois et les Ruelloises.",
+  "Au Moyen Âge, Ruelle était une paroisse portant le nom d'un fief relevant de la seigneurie de la Tranchade (famille Birot). Fissac appartenait aux Tison d'Argence et le duc de Montpensier s'y retira en 1568 après avoir échoué dans sa tentative de reprendre Angoulême aux protestants. Il y fut rejoint par le futur Henri III. Le logis du Maine-Gagnaud, situé à l'emplacement de la fonderie actuelle, avait accueilli […]",
+  "1880 : En 1880 la fonderie s'est augmentée du personnel de la fonderie de Nevers, et Ruelle a connu une explosion démographique.",
+  "Lieu « Fonderie de Ruelle » : La fonderie de Ruelle est un site industriel et militaire situé sur le territoire de la commune française de Ruelle-sur-Touvre dans le département de la Charente.",
+  "Lieu « Fonderie de Ruelle », 1750 : En 1750, le marquis de Montalembert, ingénieur et officier militaire occupé par la guerre jusqu'en 1748 (traité d'Aix-la-Chapelle), voulut réaliser son projet et acheta un moulin à papier sur la rivière Touvre, à Ruelle, au Maine-Gagnaud, avec l'intention de l'aménager en forge.",
+  "Lieu « Fonderie de Ruelle », 1752 : En 1752 les anciens bâtiments sont démolis et reconstruits sur un plan méthodique.",
+  "Lieu « Fonderie de Ruelle », 1775 : Cette fonction est occupée par André Fougeroux de Secval de 1775 à 1782.",
+  "Lieu « Fonderie de Ruelle », aujourd'hui : Créée en 1753 pour couler des canons pour la Marine royale, elle est aujourd'hui un site de Naval Group.",
+  "Lieu « Gare de Ruelle » : La gare de Ruelle est une gare ferroviaire française de la ligne de Limoges-Bénédictins à Angoulême, située sur le territoire de la commune de Ruelle-sur-Touvre, dans le département de la Charente en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Ruelle », 2018 : Depuis le 13 mars 2018, la gare n'est plus desservie par des trains, la ligne étant fermée entre Saillat - Chassenon et Angoulême.",
+  "Lieu « Logis de Fissac » : Le logis de Fissac est situé sur la commune de Ruelle-sur-Touvre, en Charente, à cinq kilomètres au nord-est d'Angoulême.",
+  "Lieu « Logis de Fissac », 2018 : Actuellement en 2018, le logis est occupé en partie par la Maison Jean-Baptiste, une maison d'enfants à caractère social."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}
