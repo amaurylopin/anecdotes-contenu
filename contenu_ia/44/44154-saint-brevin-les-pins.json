@@ -1,0 +1,231 @@
+{
+ "commune": {
+  "titre": "Saint-Brevin-les-Pins",
+  "code_insee": "44154",
+  "departement": "44",
+  "population": 14541,
+  "lat": 47.24861111,
+  "lon": -2.16555556,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Brevin-les-Pins"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:30:00",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2079,
+  "sortie": 1479
+ },
+ "cout_usd": 0.002265,
+ "accroche": "En 1104, une charte signée de Dame Barbota mentionne Saint-Brevin-les-Pins, où elle abandonne ses droits sur l’église.",
+ "histoire": {
+  "recit": "À Saint-Brevin-les-Pins, l’histoire commence par des traces très anciennes : on y a retrouvé des bivouacs remontant au Paléolithique, puis des installations néolithiques, avec dolmens et menhirs recensés sur le site. Le promontoire à l’embouchure de l’estuaire de la Loire porte aussi le nom de Mindin, d’origine celte.\n\nBien plus tard, la ville apparaît dans une charte de 1104, où Dame Barbota renonce à ses droits sur l’église de Saint-Brevin. Le territoire prend ensuite une allure seigneuriale : au XVIIe siècle, la commune est érigée en marquisat après le rachat de la seigneurie de La Guerche par René de Bruc.\n\nLa mer et le sable imposent ensuite leurs rythmes. En 1807, il est décidé d’établir une protection face à l’avancée du sable, et au milieu des années 1950, on lance de nouveaux travaux contre les tempêtes. Une digue est ensuite construite entre 1959 et 1972.\n\nQuand vient le temps de relier davantage, le pont de Saint-Nazaire est inauguré le 18 octobre 1975 : la modernisation s’enclenche, et avec elle, de nouvelles formes de vie locale comme le casino de Saint-Brevin-les-Pins et l’art public près du pont.",
+  "chronologie": [
+   {
+    "date": "1104",
+    "texte": "Une charte signée de Dame Barbota établit qu’elle abandonne ses droits sur l’église de Saint-Brevin et le droit de nommer le chapelain.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "La commune est érigée en marquisat après le rachat de la propriété de la seigneurie de La Guerche par René de Bruc.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1807",
+    "texte": "Une décision est prise pour établir une protection contre l’avancée du sable, qui déplace ensuite le bourg.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1906",
+    "texte": "La nouvelle station balnéaire est desservie par la ligne ferroviaire Pornic - Paimbœuf à voie métrique, avec trois gares : « Mindin », « Saint-Brévin-les-Pins » et « Saint-Brévin-l'Océan ».",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "milieu des années 1950",
+    "texte": "Début d’une période de modernisation : les tempêtes endommagent des bâtiments, et des travaux sont lancés pour protéger la commune.",
+    "sources": [
+     "S7",
+     "S8"
+    ]
+   },
+   {
+    "date": "1959",
+    "texte": "Entre 1959 et 1972, une digue est construite pour se protéger du sable.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "18 octobre 1975",
+    "texte": "Le pont de Saint-Nazaire, supportant la Route bleue (D 213), est inauguré.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Saint-Nazaire",
+   "histoire": "Le pont de Saint-Nazaire enjambe l’estuaire de la Loire et relie la ville de Saint-Nazaire à travers la commune de Montoir-de-Bretagne.",
+   "anecdotes": [
+    {
+     "texte": "Le pont, supportant la Route bleue (D 213), est inauguré le 18 octobre 1975.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "La forme du serpent sculpté reprend celle du pont de Saint-Nazaire, visible à proximité.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La proximité de Serpent d'océan permet de voir le lien de forme avec le pont de Saint-Nazaire.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 47.276667,
+   "lon": -2.164722,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Saint-Nazaire"
+  },
+  {
+   "nom": "Casino de Saint-Brevin-les-Pins",
+   "histoire": "Le casino de Saint-Brevin-les-Pins est installé en Loire-Atlantique, face à l’océan Atlantique.",
+   "anecdotes": [
+    {
+     "texte": "Un nouveau casino, le « casino des Roches », est construit entre 1910 et 1922 avec l’arrivée de la mode des bains de mer.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Le casino actuel, situé à 2 kilomètres plus au sud de l’ancien « casino des Roches », ouvre en 2010.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S16"
+   ],
+   "lat": 47.2293463,
+   "lon": -2.1760654,
+   "url": "https://fr.wikipedia.org/wiki/Casino_de_Saint-Brevin-les-Pins"
+  },
+  {
+   "nom": "Dolmen des Rossignols",
+   "histoire": "Le dolmen des Rossignols est un dolmen situé à Saint-Brevin-les-Pins.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la fouille en 1903, seule la chambre fut déblayée.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Des traces d’une tentative de débitage subsistent, avec des emplacements prévus pour recevoir des coins de bois.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S19"
+   ],
+   "lat": 47.2312,
+   "lon": -2.16657,
+   "url": "https://fr.wikipedia.org/wiki/Dolmen_des_Rossignols"
+  },
+  {
+   "nom": "Dolmen de la Briordais",
+   "histoire": "Le dolmen de la Briordais est aussi appelé dolmen de Moulin Chevalier ou encore dolmen du Quarteron des Chevallais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une large dalle de pierre repose sur un autre bloc et se voit au sommet du tertre.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 47.2444,
+   "lon": -2.1414,
+   "url": "https://fr.wikipedia.org/wiki/Dolmen_de_la_Briordais"
+  },
+  {
+   "nom": "Serpent d'océan",
+   "histoire": "Serpent d'océan est une œuvre de l’artiste Huang Yong Ping.",
+   "anecdotes": [
+    {
+     "texte": "La forme du serpent rejoint celle du pont de Saint-Nazaire, et les « vertèbres » font écho aux carrelets.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On peut voir, à proximité du pont de Saint-Nazaire, une forme de serpent reliée visuellement au pont et aux carrelets.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 47.26786,
+   "lon": -2.1708,
+   "url": "https://fr.wikipedia.org/wiki/Serpent_d%27oc%C3%A9an"
+  }
+ ],
+ "sources": [
+  "Saint-Brevin-les-Pins [sɛ̃ bʁevɛ̃ le pɛ̃] est une commune de l'ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays traditionnel du pays de Retz et dans le pays historique du Pays nantais. La commune se situe à l'embouchure de la Loire, sur la rive opposée à Saint-Nazaire, ville dont le développement de […]",
+  "L'archéologie a permis de révéler des traces de bivouac remontant au Paléolithique (lieu-dit La Briordais et estuaire de la Boivre). Comme les quatre dolmens et les cinq menhirs recensés sur la commune l'attestent, le site de la commune a été habité au Néolithique. L'éperon rocheux à l'embouchure de l'estuaire de la Loire porte le nom de Mindin, vocable d'origine celte signifiant « fortification de pierre », ce qui […]",
+  "1104 : La première référence à la ville est une charte de 1104, signée de Dame Barbota, qui établit que celle-ci abandonne ses droits sur l'église de Saint-Brevin, qui est alors sa propriété, ainsi que le droit de nommer le chapelain.",
+  "XVIIe siècle : Elle est ensuite érigée en marquisat au XVIIe siècle, après le rachat de la propriété de la seigneurie de La Guerche par René de Bruc.",
+  "1807 : C'est en 1807 que la décision d'établir cette protection a été prise, pour faire face à l'avancée du sable comme c'est le cas à Escoublac, dont le bourg finira par être déplacé.",
+  "1906 : En 1906, la nouvelle station balnéaire est desservie par la Ligne ferroviaire Pornic - Paimbœuf à voie métrique, trois gares sont construites sur la commune : « Mindin », « Saint-Brévin-les-Pins » et « Saint-Brévin-l'Océan ».",
+  "1950 : À partir du milieu des années 1950, la ville connaît une période de modernisation, qui sera marquée par l'ouverture du pont de Saint-Nazaire en 1975, permettant de désenclaver le sud de l'estuaire de la Loire.",
+  "1955 : En 1955, des travaux sont lancés pour protéger Saint-Brevin des tempêtes qui endommageaient des bâtiments, notamment sous les effets du sable que les vents violents charriaient.",
+  "1959 : Entre 1959 et 1972, une digue pour se protéger du sable est construite.",
+  "Lieu « Pont de Saint-Nazaire » : Le pont de Saint-Nazaire est un pont routier français à haubans multicâbles en éventail qui enjambe l'estuaire de la Loire et relie la ville de Saint-Nazaire (au quartier de Penhoët, via la commune de Montoir-de-Bretagne où le pont prend réellement p",
+  "Lieu « Pont de Saint-Nazaire », 1975 : Le pont, supportant la Route bleue (D 213), est inauguré le 18 octobre 1975.",
+  "Lieu « Pont de Saint-Nazaire », 1991 : En 1991, le pont de Cheviré, situé à l'ouest de Nantes, est inauguré.",
+  "Lieu « Pont de Saint-Nazaire », aujourd'hui : Les véhicules de la ligne 317 sont équipés d'emplacements réservés pour huit vélos.",
+  "Lieu « Casino de Saint-Brevin-les-Pins » : Le casino de Saint-Brevin-les-Pins est situé en Loire-Atlantique face à l'océan Atlantique.",
+  "Lieu « Casino de Saint-Brevin-les-Pins », 1910 : Un nouveau casino, le « casino des Roches », est construit entre 1910 et 1922 avec l’arrivée de la mode des bains de mer.",
+  "Lieu « Casino de Saint-Brevin-les-Pins », 2010 : Le casino actuel situé à 2 kilomètres plus au sud de l'ancien « casino des Roches » a ouvert en 2010.",
+  "Lieu « Dolmen des Rossignols » : Le dolmen des Rossignols est un dolmen situé à Saint-Brevin-les-Pins, dans le département de la Loire-Atlantique.",
+  "Lieu « Dolmen des Rossignols », 1903 : Lors de la fouille de l'édifice en 1903, seule la chambre fut déblayée.",
+  "Lieu « Dolmen des Rossignols », aujourd'hui : Elle comporte des traces d'une tentative de débitage (emplacements destinés à recevoir des coins de bois) par des carriers.",
+  "Lieu « Dolmen de la Briordais » : Le dolmen de la Briordais (ou dolmen de Moulin Chevalier ou encore dolmen du Quarteron des Chevallais) est un dolmen situé à Saint-Brevin-les-Pins, dans le département de la Loire-Atlantique.",
+  "Lieu « Dolmen de la Briordais », aujourd'hui : Une large dalle de pierre (2,35 m de longueur), reposant sur un autre bloc, est visible au sommet du tertre.",
+  "Lieu « Serpent d'océan » : Serpent d'océan est une œuvre de l'artiste Huang Yong Ping.",
+  "Lieu « Serpent d'océan », aujourd'hui : La forme du serpent rejoint celle du pont de Saint-Nazaire, visible à proximité ; celle des vertèbres fait écho aux carrelets."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 7
+ }
+}

@@ -1,0 +1,238 @@
+{
+ "commune": {
+  "titre": "Bouguenais",
+  "code_insee": "44020",
+  "departement": "44",
+  "population": 20530,
+  "lat": 47.18,
+  "lon": -1.62361111,
+  "url": "https://fr.wikipedia.org/wiki/Bouguenais"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:09:37",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2527,
+  "sortie": 1714
+ },
+ "cout_usd": 0.002648,
+ "accroche": "En 1148, un prieuré de Bénédictins est fondé au lieu-dit de la Bouvre, à moins d’un kilomètre à l’est du bourg de Bouguenais.",
+ "histoire": {
+  "recit": "À Bouguenais, l’histoire se lit par strates : un ancien cœur gallo-romain, puis des fondations religieuses, et enfin des lieux tournés vers la ville moderne.\n\nOn estime que Ratiatum occupait le coteau autrefois en bord de Loire, du bourg de Rezé jusqu’aux Couëts, avec quelques objets antiques trouvés près des Couëts, là où l’on pense qu’existait un sanctuaire médical. Au XIe siècle, une motte féodale est construite à proximité.\n\nPlus à l’est, la Bouvre accueille en 1148 un prieuré de Bénédictins. Abandonné en 1790, il ne laisse que peu de traces ; sur son emplacement, de nouveaux bâtiments finissent par héberger le Petit séminaire de Nantes, puis, au XXe siècle, l’institution des Orphelins d’Auteuil, aujourd’hui sous la forme du lycée professionnel Louis-Brottier.\n\nAu XXe siècle, l’église Saint-Pierre de Bouguenais est bâtie en remplacement d’un sanctuaire plus ancien. Enfin, l’aéroport de Nantes-Atlantique, implanté sur Bouguenais, prend son essor avec des premières activités commerciales en 1951, avant l’évolution de ses infrastructures.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Une motte féodale est construite à proximité de la commune.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1148",
+    "texte": "Un prieuré de Bénédictins est fondé au lieu-dit de la Bouvre, à moins d’un kilomètre à l’est du bourg.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Le prieuré est abandonné et ne laisse que peu de traces tangibles dans le paysage.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1905",
+    "texte": "L’église Saint-Pierre de Bouguenais est bâtie en 1905, en remplacement d’un ancien sanctuaire datant du XVe siècle.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1951",
+    "texte": "Les premières activités commerciales de l’aérodrome apparaissent en 1951 avec la construction d’un premier bâtiment en bois.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "La longueur de la piste est portée à 2 300 mètres et de nouvelles constructions voient le jour.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "Air France renforce sa présence à Nantes et ouvre des liaisons vers Londres, Düsseldorf et Milan.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2025",
+    "texte": "La démolition du château de Bougon est annoncée à la suite d’un incendie lui causant de lourds dommages supplémentaires.",
+    "sources": [
+     "S20"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Aéroport de Nantes-Atlantique",
+   "histoire": "Implanté sur le territoire de Bouguenais, l’aéroport de Nantes-Atlantique (auparavant dénommé aéroport de Nantes-Château Bougon) devient progressivement un outil majeur : premières activités commerciales en 1951, puis allongement de piste et aménagements.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, l’aéroport est géré par la société concessionnaire Aéroports du Grand Ouest.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S11"
+   ],
+   "lat": 47.157914,
+   "lon": -1.607952,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Nantes-Atlantique"
+  },
+  {
+   "nom": "Église Saint-Pierre de Bouguenais",
+   "histoire": "Édifice religieux catholique bâti au XXe siècle dans la commune, l’église Saint-Pierre de Bouguenais date de 1905 pour sa construction en remplacement d’un sanctuaire plus ancien.",
+   "anecdotes": [
+    {
+     "texte": "Jusqu’en 1965, l’ancien clocher, attribué à une construction par des Anglais au Moyen Âge, est resté debout avant d’être démantelé pour être remplacé.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’église est toujours en activité et appartient à la commune.",
+   "sources": [
+    "S14",
+    "S13",
+    "S15",
+    "S16"
+   ],
+   "lat": 47.17909,
+   "lon": -1.62341,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Bouguenais"
+  },
+  {
+   "nom": "Château de Bougon",
+   "histoire": "Château abandonné du XIXe siècle, le château de Bougon est érigé au XIXe siècle par le Nantais Paul Renaud. Non entretenu depuis plusieurs décennies, il subit un incendie puis sa démolition est annoncée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.157724383139,
+   "lon": -1.6204673051834,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Bougon"
+  },
+  {
+   "nom": "Couëts",
+   "histoire": "Quartier et un des deux centres de Bouguenais, les Couëts portent le souvenir de bâtiments construits en 1842 pour le Petit séminaire de Nantes, avant de connaître d’autres usages.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis 1919, c’est un bâtiment scolaire ; dans les années 2020, il est un lycée professionnel privé d’hôtellerie Louis-Brottier.",
+   "sources": [
+    "S21",
+    "S22",
+    "S24"
+   ],
+   "lat": 47.180372080567,
+   "lon": -1.5857733894423,
+   "url": "https://fr.wikipedia.org/wiki/Cou%C3%ABts"
+  },
+  {
+   "nom": "Port Lavigne",
+   "histoire": "Village de Bouguenais, Port Lavigne est aujourd’hui présenté comme une enclave agropastorale possédant un port à sec et un circuit de randonnée vers l’île de la Fourche et la La Roche Ballue.",
+   "anecdotes": [
+    {
+     "texte": "L’état des routes retient l’attention : un jour de crue comme celle de décembre 1872, la rue des Pêcheurs n’aurait même pas été inondée, selon le récit local.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Port Lavigne constitue de nos jours une enclave agropastorale, dispose d’un port à sec et propose un circuit de randonnée.",
+   "sources": [
+    "S25",
+    "S27",
+    "S26"
+   ],
+   "lat": 47.187536326247,
+   "lon": -1.6363269200016,
+   "url": "https://fr.wikipedia.org/wiki/Port_Lavigne"
+  },
+  {
+   "nom": "La Roche Ballue",
+   "histoire": "Lieu-dit où une base de plein air et de loisirs a été aménagée dans une ancienne carrière de pierres.",
+   "anecdotes": [
+    {
+     "texte": "Autrefois, les milieux durablement inondés auraient eu tendance à régresser dans l’estuaire de la Loire, en lien avec les aménagements réalisés depuis le XVIIIe siècle pour canaliser et creuser.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une base de plein air et de loisirs est aménagée dans une ancienne carrière de pierres.",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 47.183817567498,
+   "lon": -1.6528537674323,
+   "url": "https://fr.wikipedia.org/wiki/La_Roche_Ballue"
+  }
+ ],
+ "sources": [
+  "Bouguenais est une commune de l'ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays traditionnel du Pays de Retz et dans le pays historique du Pays nantais. Ses habitants, les Bouguenaisiens, étaient 20 530 au recensement de 2023 , selon l'INSEE.",
+  "On estime que la ville gallo-romaine de Ratiatum s'étendait sur le coteau, alors situé en bord de Loire, de l'actuel bourg de Rezé jusqu'aux Couëts. Quelques objets antiques ont été retrouvés près des Couëts, à un endroit où on pense qu'il y avait un sanctuaire médical. Une motte féodale fut également construite au XIe siècle à proximité de la commune. Les premières mentions textuelles du bourg de Bouguenais […]",
+  "XIe siècle : Une motte féodale fut également construite au XIe siècle à proximité de la commune.",
+  "1148 : En 1148 un prieuré de Bénedictins est fondé au lieu-dit de la Bouvre, à moins d'un km à l'est du bourg.",
+  "1790 : Ce prieuré est abandonné en 1790 et ne laisse que peu de traces tangibles dans le paysage.",
+  "XIXe siècle : Au XIXe siècle, sur leur emplacement, des bâtiments nouveaux hébergeront le Petit séminaire de Nantes ; au XXe siècle, ils sont pris en charge par l'institution des Orphelins d'Auteuil, actuellement sous la forme du lycée professionnel Louis-Brottier (lycée hôtelier).",
+  "Lieu « Aéroport de Nantes-Atlantique » : L'aéroport de Nantes-Atlantique, auparavant dénommé aéroport de Nantes-Château Bougon (code IATA : NTE • code OACI : LFRS), est un aéroport international français situé sur le territoire des communes de Bouguenais et de Saint-Aignan-Grandlieu, au sud",
+  "Lieu « Aéroport de Nantes-Atlantique », 1951 : Les premières activités commerciales de l'aérodrome apparaissent en 1951, avec la construction de premier bâtiment (en bois), alors que se développent les activités de tourisme et de vols d'essais.",
+  "Lieu « Aéroport de Nantes-Atlantique », 1970 : Durant les années 1970, la longueur de la piste est portée à 2 300 mètres, tandis qu'une nouvelle salle d'embarquement et une aérogare de fret sont construits, et un parking payant pour automobiles est aménagé.",
+  "Lieu « Aéroport de Nantes-Atlantique », 1988 : Air France renforce ainsi sa présente à Nantes où elle assure déjà les lignes vers Londres, Düsseldorf (ouverte en mai 1988) et Milan (ouverte en mai 1988), les liaisons La Postale et celles effectuées par sa filiale Air charter.",
+  "Lieu « Aéroport de Nantes-Atlantique », aujourd'hui : L'aéroport de Nantes-Atlantique, comme celui de Saint-Nazaire - Montoir, est actuellement géré par la société concessionnaire Aéroports du Grand Ouest.",
+  "Lieu « Église Saint-Pierre de Bouguenais » : L'église Saint-Pierre de Bouguenais est un édifice religieux catholique, bâti au XXe siècle dans la commune de Bouguenais, en banlieue de Nantes, dans le département de Loire-Atlantique.",
+  "Lieu « Église Saint-Pierre de Bouguenais », 1905 : L'église Saint-Pierre de Bouguenais a été bâtie en 1905, en remplacement d'un ancien sanctuaire datant du XVe siècle.",
+  "Lieu « Église Saint-Pierre de Bouguenais », XXe siècle : L'église Saint-Pierre de Bouguenais est un édifice religieux catholique, bâti au XXe siècle dans la commune de Bouguenais, en banlieue de Nantes, dans le département de Loire-Atlantique.",
+  "Lieu « Église Saint-Pierre de Bouguenais », 1965 : Jusqu'en 1965, l'ancien clocher, qui aurait été bâti par des Anglais au Moyen Âge, est demeuré debout, rattaché à l'église, avant que la commune ne le démantèle et ne le remplace par un clocher moderne.",
+  "Lieu « Église Saint-Pierre de Bouguenais », aujourd'hui : Aujourd'hui, l'église est toujours en activité et appartient à la commune ; auparavant, c'était le sire de Bougon, un seigneur local, qui administrait l'ancienne église.",
+  "Lieu « Château de Bougon » : Le château de Bougon est un château abandonné du XIXe siècle situé à Bouguenais en Loire-Atlantique en France.",
+  "Lieu « Château de Bougon », XIXe siècle : Le château de Bougon est un château abandonné du XIXe siècle situé à Bouguenais en Loire-Atlantique en France.",
+  "Lieu « Château de Bougon », XIXe siècle : Le château a été érigé au XIXe siècle par le Nantais Paul Renaud, un constructeur mécanicien ayant fait fortune dans le machinisme agricole.",
+  "Lieu « Château de Bougon », 2025 : Non entretenu depuis plusieurs décennies, sa démolition est annoncée à la suite d’un incendie lui causant de lourds dommages supplémentaires en 2025.",
+  "Lieu « Couëts » : Les Couëts est un quartier et un des deux centres de la ville de Bouguenais.",
+  "Lieu « Couëts », 1842 : En 1842, sur leur emplacement, des bâtiments nouveaux hébergeront le « Petit séminaire de Nantes » ; au XXe siècle, ils sont pris en charge par l'institution des Orphelins d'Auteuil.",
+  "Lieu « Couëts », 1914 : De 1914 à 1918, pendant la Première Guerre mondiale, le bâtiment devient une caserne.",
+  "Lieu « Couëts », 1919 : Depuis 1919, c'est un bâtiment scolaire, aujourd'hui dans les années 2020 c'est un lycée professionnel privé d’hôtellerie Louis-Brottier (Daniel-Brottier).",
+  "Lieu « Port Lavigne » : Port Lavigne ou Le Port Lavigne est un village de la commune de Bouguenais, dans le département français de la Loire-Atlantique.",
+  "Lieu « Port Lavigne », 1872 : La Loire coule plus bas de nos jours en raison des aménagements et si la crue de décembre 1872 devait se reproduire, la rue des Pêcheurs ne serait même pas inondée.",
+  "Lieu « Port Lavigne », aujourd'hui : Un temps menacé par l'extension du Grand port maritime de Nantes-Saint-Nazaire, propriétaire d'une grande partie du site, Port Lavigne constitue de nos jours une enclave agropastorale, dispose d'un port à sec et propose un circuit de randonnée le reliant à l'île de la Fourche et à la La Roche Ballue.",
+  "Lieu « La Roche Ballue » : La Roche Ballue est un lieu-dit de la commune de Bouguenais, dans le département français de la Loire-Atlantique, sur lequel est aménagée une base de plein air et de loisirs dans une ancienne carrière de pierres.",
+  "Lieu « La Roche Ballue », XVIIIe siècle : Les milieux durablement inondés ont tendance à régresser dans l'estuaire de la Loire en raison des aménagements réalisés depuis le XVIIIe siècle pour le canaliser et le creuser afin d'en améliorer la navigabilité jusqu'au port de Nantes."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 3
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "commune": {
+  "titre": "Saint-Philbert-de-Grand-Lieu",
+  "code_insee": "44188",
+  "departement": "44",
+  "population": 9400,
+  "lat": 47.03583333,
+  "lon": -1.63861111,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Philbert-de-Grand-Lieu"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:03:48",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1421,
+  "sortie": 1039
+ },
+ "cout_usd": 0.001583,
+ "accroche": "À Saint-Philbert-de-Grand-Lieu, l’abbatiale est construite vers 815 sur les terres de Déas, ancien domaine donné au moine saint Philibert.",
+ "histoire": {
+  "recit": "Saint-Philbert-de-Grand-Lieu, en Loire-Atlantique, s’est affirmée autour de deux pôles : une abbaye et une villa. D’abord, l’abbatiale naît vers 815 sur l’ancien domaine de Déas, donné au moine saint Philibert, et l’établissement monastique s’organise plus largement au IXe siècle, avec des moines bénédictins conduits par l’abbé Arnoul. Bien plus tard, la mémoire du lieu resurgit lors de fouilles : le sarcophage du saint est mis au jour, et l’édifice est classé au titre des monuments historiques en 1896. Aujourd’hui, il ne subsiste que l’église abbatiale et quelques bâtiments.\n\nÀ l’écart de ce cœur religieux, la Villa des Bretaudières s’élève au début du XIXe siècle : une propriété construite entre 1804 et 1810 pour la famille du général Jean-Baptiste de Couëtus, sur les plans de l’architecte Michel-André Seheult. Demeure d’agrément inspirée de l’idée palladienne, elle était entourée de bâtiments d’exploitation agricole ; il n’en reste aujourd’hui que les communs à l’ouest.",
+  "chronologie": [
+   {
+    "date": "vers 815",
+    "texte": "L’abbatiale est construite sur les terres d’un ancien domaine nommé Déas, alors donné au moine saint Philibert.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "VIIe siècle",
+    "texte": "Le domaine de Déas est donné au moine saint Philibert, sur lequel s’implante ensuite l’abbatiale.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "Une abbaye, conduite par des moines bénédictins dirigés par l’abbé Arnoul, se développe à Saint-Philbert-de-Grand-Lieu.",
+    "sources": [
+     "S4",
+     "S2"
+    ]
+   },
+   {
+    "date": "1896",
+    "texte": "Des fouilles mettent au jour le sarcophage du saint, et l’édifice est classé au titre des monuments historiques.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "De l’ensemble abbatial, il ne subsiste que l’église abbatiale et quelques bâtiments autour.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1804-1810",
+    "texte": "La propriété des Bretaudières est construite pour la famille du général Jean-Baptiste de Couëtus, sur les plans de Michel-André Seheult.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "début du XIXe siècle",
+    "texte": "La villa des Bretaudières est une demeure d’agrément inspirée des villas palladiennes, avec des bâtiments d’exploitation agricole.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "Il ne reste aujourd’hui que les communs situés à l’ouest de la villa des Bretaudières.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye de Saint-Philbert-de-Grand-Lieu",
+   "histoire": "Fondée au IXe siècle par des moines bénédictins dirigés par l’abbé Arnoul, l’abbaye s’appuie sur un site où l’abbatiale est construite vers 815 sur les terres de Déas, données au moine saint Philibert. Des fouilles mettent ensuite au jour le sarcophage du saint, et l’édifice est classé en 1896. Aujourd’hui, il ne subsiste que l’église abbatiale et quelques bâtiments autour.",
+   "anecdotes": [
+    {
+     "texte": "Lors de fouilles, le sarcophage du saint est mis au jour, avant le classement de l’édifice en 1896.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 47.0386374,
+   "lon": -1.6409178,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Philbert-de-Grand-Lieu"
+  },
+  {
+   "nom": "Villa des Bretaudières",
+   "histoire": "La Villa des Bretaudières, située à Saint-Philbert-de-Grand-Lieu, est construite entre 1804 et 1810 pour la famille du général Jean-Baptiste de Couëtus, sur les plans de l’architecte Michel-André Seheult. Bâtie au début du XIXe siècle, elle constitue une demeure d’agrément inspirée des villas palladiennes, entourée de bâtiments d’exploitation agricole. Aujourd’hui, il n’en reste que les communs à l’ouest.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 47.0158,
+   "lon": -1.6326,
+   "url": "https://fr.wikipedia.org/wiki/Villa_des_Bretaudi%C3%A8res"
+  }
+ ],
+ "sources": [
+  "Saint-Philbert-de-Grand-Lieu est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays traditionnel du pays de Retz et dans le pays historique du Pays nantais. Saint-Philbert-de-Grand-Lieu comptait 9 400 habitants au recensement de 2023 . L'abbatiale de Saint-Philbert-de-Grand-Lieu, datant de […]",
+  "Lieu « Abbaye de Saint-Philbert-de-Grand-Lieu » : L'abbaye Saint-Philibert de Saint-Philbert-de-Grand-Lieu est une abbaye fondée au IXe siècle par des moines bénédictins dirigés par leur abbé Arnoul, et située à Saint-Philbert-de-Grand-Lieu en France.",
+  "Lieu « Abbaye de Saint-Philbert-de-Grand-Lieu », 815 : L'abbatiale est construite vers 815 sur les terres d'un ancien domaine nommé Déas (actuel Saint-Philbert-de-Grand-Lieu), données au VIIe siècle au moine saint Philibert.",
+  "Lieu « Abbaye de Saint-Philbert-de-Grand-Lieu », IXe siècle : L'abbaye Saint-Philibert de Saint-Philbert-de-Grand-Lieu est une abbaye fondée au IXe siècle par des moines bénédictins dirigés par leur abbé Arnoul, et située à Saint-Philbert-de-Grand-Lieu en France.",
+  "Lieu « Abbaye de Saint-Philbert-de-Grand-Lieu », 1896 : Des fouilles mettent au jour le sarcophage du saint et l'édifice est classé au titre des monuments historiques en 1896.",
+  "Lieu « Abbaye de Saint-Philbert-de-Grand-Lieu », aujourd'hui : Il ne subsiste que l'église abbatiale et quelques bâtiments autour.",
+  "Lieu « Villa des Bretaudières » : La villa des Bretaudières est située à Saint-Philbert-de-Grand-Lieu, en France.",
+  "Lieu « Villa des Bretaudières », 1804 : La propriété est construite entre 1804 et 1810 pour la famille du général Jean-Baptiste de Couëtus sur les plans de l'architecte Michel-André Seheult.",
+  "Lieu « Villa des Bretaudières », XIXe siècle : Bâtie au début du XIXe siècle, la villa des Bretaudières est une demeure d'agrément inspirée des villas palladiennes, c'est-à-dire une maison de plaisance entourée de bâtiments d'exploitation agricole.",
+  "Lieu « Villa des Bretaudières », aujourd'hui : Il ne reste aujourd'hui que les communs situés à l'ouest."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

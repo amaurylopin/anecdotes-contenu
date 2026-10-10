@@ -1,0 +1,157 @@
+{
+ "commune": {
+  "titre": "Couëron",
+  "code_insee": "44047",
+  "departement": "44",
+  "population": 24103,
+  "lat": 47.21472222,
+  "lon": -1.72388889,
+  "url": "https://fr.wikipedia.org/wiki/Cou%C3%ABron"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:00:59",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1659,
+  "sortie": 1232
+ },
+ "cout_usd": 0.001872,
+ "accroche": "À Couëron, François II de Bretagne signe en 1488, sur la maison la Gazoire, le traité de paix entre la Bretagne et la France.",
+ "histoire": {
+  "recit": "À l’ouest de Nantes, en Loire-Atlantique, Couëron a longtemps vécu au rythme d’activités artisanales puis industrielles. Dans le centre du bourg, la maison la Gazoire rappelle que François II de Bretagne, en 1488, y signe le traité de paix entre la Bretagne et la France, tandis que le même François II y meurt.\n\nVers le milieu du XIXe siècle, la commune se diversifie : on y trouve briqueterie et biscuiterie. Le tournant industriel vient en 1861, avec l’usine métallurgique installée le long des bords de Loire par la Société des fonderies et laminoirs de Pontgibaud.\n\nSur ce même site, la tour à plomb devient un repère singulier : sur place, la tour édifiée pour produire de la grenaille de plomb aboutit à sa construction en juillet 1878. Plus tard, ses bâtiments appartiennent aujourd’hui à la ville. Couëron connaît aussi un relais ferroviaire important avec la gare, mise en service en août 1857. Enfin, l’Île Thérèse, cultivée en totalité, ne redevient “île” qu’au temps des crues de la Loire.",
+  "chronologie": [
+   {
+    "date": "1488",
+    "texte": "Sur la maison la Gazoire, François II de Bretagne signe le traité de paix entre la Bretagne et la France.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1860",
+    "texte": "Environ en 1860, Couëron compte de petites entreprises comme briqueterie et biscuiterie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "10 août 1857",
+    "texte": "Mise en service de la gare de Couëron, avec un ensemble d’installations comprenant notamment un bâtiment voyageurs et des aménagements de gare marchandises.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1861",
+    "texte": "Implantation de l’usine métallurgique construite le long des bords de Loire par la Société des fonderies et laminoirs de Pontgibaud.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "juillet 1878",
+    "texte": "La construction de la tour à plomb s’achève en juillet 1878.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Les bâtiments de la tour à plomb appartiennent de nos jours à la ville de Couëron.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Tour à plomb de Couëron",
+   "histoire": "La tour à plomb, dernier exemple en France des tours à plomb, est édifiée sur le site industriel des fonderies et laminoirs de Couëron ; la construction s’achève en juillet 1878. Aujourd’hui, ses bâtiments appartiennent à la ville.",
+   "anecdotes": [
+    {
+     "texte": "Dernier exemple en France des tours à plomb, elle servait autrefois à produire de manière industrielle la grenaille de plomb destinée aux cartouches de chasse.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les bâtiments appartiennent aujourd’hui à la ville de Couëron.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 47.2092816,
+   "lon": -1.7201221,
+   "url": "https://fr.wikipedia.org/wiki/Tour_%C3%A0_plomb_de_Cou%C3%ABron"
+  },
+  {
+   "nom": "La Gerbetière",
+   "histoire": "La Gerbetière est une maison noble à Couëron. Au début du XXe siècle, la lucarne d’origine de la façade et les bâtiments formant une cour carrée ont été détruits.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 47.212408,
+   "lon": -1.746249,
+   "url": "https://fr.wikipedia.org/wiki/La_Gerbeti%C3%A8re"
+  },
+  {
+   "nom": "Gare de Couëron",
+   "histoire": "La gare de Couëron est une gare ferroviaire de la ligne de Tours à Saint-Nazaire, sur le territoire de la commune. Elle est mise en service le 10 août 1857 par la compagnie du chemin de fer de Paris à Orléans, avec une station de quatrième classe et un débarcadère pour les voyageurs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 47.222017,
+   "lon": -1.723519,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Cou%C3%ABron"
+  },
+  {
+   "nom": "Île Thérèse",
+   "histoire": "L’Île Thérèse est une île de l’estuaire de la Loire dans la commune de Couëron. Elle est cultivée dans sa totalité et ne devient île que lors des crues de la Loire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle n’est aujourd’hui une île que lors des crues de la Loire.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 47.2118,
+   "lon": -1.76934,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Th%C3%A9r%C3%A8se"
+  }
+ ],
+ "sources": [
+  "Couëron est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. Située à l'ouest de Nantes, elle fait partie des 24 communes de Nantes Métropole. Elle fait aussi partie de la Bretagne historique, située en pays Nantais, un des pays traditionnels de Bretagne.",
+  "Le château, dont il ne reste que quelques vestiges, a appartenu à Marguerite d’Orléans, puis à son fils François II. Dans le centre du bourg se trouve la maison la Gazoire, où est décédé le même François II. Une plaque est apposée sur cette demeure, dans laquelle le duc de Bretagne François II, en 1488, signe le traité de paix entre la Bretagne et la France. Une activité de verrerie se développe sous le règne de […]",
+  "1860 : XIXe siècle Outre la verrerie, on trouve à Couëron vers 1860 quelques petites entreprises : briqueterie, biscuiterie, etc. ; un changement important est introduit par l'implantation de l'usine métallurgique construite en 1861 le long des bords de Loire par la Société des fonderies et laminoirs de Pontgibaud.",
+  "Lieu « Tour à plomb de Couëron » : La tour à plomb est située sur la commune de Couëron, dans le département français de la Loire-Atlantique.",
+  "Lieu « Tour à plomb de Couëron », XIXe siècle : Elle est le dernier exemple en France des tours à plomb qui servaient autrefois à produire de manière industrielle la grenaille de plomb destinée aux cartouches de chasse et l'un des derniers édifices industriels du XIXe siècle dans la région de Nantes.",
+  "Lieu « Tour à plomb de Couëron », 1878 : C'est sur le site industriel des fonderies et laminoirs de Couëron qu'est édifiée la tour à plomb, dont la construction s'achève en juillet 1878.",
+  "Lieu « Tour à plomb de Couëron », aujourd'hui : Ses bâtiments appartiennent de nos jours à la ville de Couëron.",
+  "Lieu « La Gerbetière » : La Gerbetière est une maison noble située à Couëron, dans le département français de la Loire-Atlantique.",
+  "Lieu « La Gerbetière », XXe siècle : La maison a par la suite été modifiée au début du XXe siècle : la lucarne d'origine de la façade et les bâtiments formant une cour carrée ont été détruits.",
+  "Lieu « La Gerbetière », aujourd'hui : Aujourd'hui, la National Audubon Society est une des organisations environnementales les plus puissantes d'Amérique du Nord et la réputation d'Audubon est largement répandue aux Etats-Unis.",
+  "Lieu « Gare de Couëron » : La gare de Couëron est une gare ferroviaire française de la ligne de Tours à Saint-Nazaire, située sur le territoire de la commune de Couëron, dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "Lieu « Gare de Couëron », 1857 : Mise en service le 10 août 1857 par la compagnie du chemin de fer de Paris à Orléans (PO) avec la voie de Nantes à Saint-Nazaire, il s'agit d'une station de quatrième classe ayant nécessité 45 300 fr pour l'ensemble de ces installations qui comprenaient notamment, un bâtiment voyageurs, appelé débarcadère, et les aménagements de la gare marchandises (bâtiment et quais).",
+  "Lieu « Île Thérèse » : L’Île Thérèse est une île de l'estuaire de la Loire située dans la commune de Couëron.",
+  "Lieu « Île Thérèse », aujourd'hui : Cultivée dans sa totalité, elle n’est aujourd'hui une île que lors des crues de la Loire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}

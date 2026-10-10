@@ -1,0 +1,74 @@
+{
+ "commune": {
+  "titre": "Grandchamp-des-Fontaines",
+  "code_insee": "44066",
+  "departement": "44",
+  "population": 7062,
+  "lat": 47.36583333,
+  "lon": -1.60388889,
+  "url": "https://fr.wikipedia.org/wiki/Grandchamp-des-Fontaines"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:34:30",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1082,
+  "sortie": 527
+ },
+ "cout_usd": 0.000875,
+ "accroche": "En 847, des sources mentionnent la présence d’une église à Grandchamp-des-Fontaines, alors citée comme basilique.",
+ "histoire": {
+  "recit": "Grandchamp-des-Fontaines, commune de l’Ouest de la France dans la Loire-Atlantique, appartient au pays nantais et à la Bretagne historique. Au Moyen Âge, elle forme une vicaria ; ailleurs, on évoque aussi l’idée d’un vicus, et l’on place à Grandchamp une villa. L’agglomération se développe le long d’une voie romaine reliant Curette et Casson, avant qu’une église y soit signalée en 847.\n\nPlus tard, en mars 1941, une station radio et de guidage de la Luftwaffe est installée à la limite de Grandchamp et de Treillières. Le lieu redevient un point de tension bien après : en 2000, le projet est relancé, et les habitants se manifestent contre celui-ci, comme dans des communes voisines. Le projet est finalement abandonné définitivement en 2018.",
+  "chronologie": [
+   {
+    "date": "847",
+    "texte": "Des sources mentionnent la présence d’une église à Grandchamp-des-Fontaines, citée comme basilique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "mars 1941",
+    "texte": "Une station radio et de guidage de la Luftwaffe est installée à la limite de Grandchamp et de Treillières.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "Le projet est relancé : les habitants de Grandchamp-des-Fontaines manifestent leur opposition, comme dans des communes voisines.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "Le projet est abandonné définitivement.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Grandchamp-des-Fontaines (graphiée Grandchamps-des-Fontaines jusqu'au 31 décembre 2022) est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. Grandchamp-des-Fontaines fait partie du pays nantais et de la Bretagne historique.",
+  "Au Moyen Âge, Grandchamp-des-Fontaines forme une vicaria (un type de circonscription, voir viguerie). Une autre source estime que Grandchamp est un vicus, petite agglomération du haut Moyen Âge plus petite qu'une vicaria. À Grandchamp se trouvait une villa. L'agglomération se situe alors le long d'une voie romaine reliant Curette et Casson. En 847, les sources mentionnent la présence de l'église (basilique) […]",
+  "1941 : Une station radio et de guidage de la Luftwaffe y avait été installée, à la limite de Grandchamp et de Treillières, en mars 1941.",
+  "2000 : Lorsque le projet est relancé en 2000, les habitants de Grandchamp-des-Fontaines, comme ceux des communes voisines de Notre-Dame-des-Landes (Treillières, Vigneux-de-Bretagne, Fay-de-Bretagne), manifestent leur opposition au projet, qui est finalement abandonné définitivement en 2018."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

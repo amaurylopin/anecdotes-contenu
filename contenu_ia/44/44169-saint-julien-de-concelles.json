@@ -1,0 +1,163 @@
+{
+ "commune": {
+  "titre": "Saint-Julien-de-Concelles",
+  "code_insee": "44169",
+  "departement": "44",
+  "population": 7883,
+  "lat": 47.25416667,
+  "lon": -1.38444444,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Julien-de-Concelles"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:21:19",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 1634,
+  "sortie": 1443
+ },
+ "cout_usd": 0.003962,
+ "accroche": "À Saint-Julien-de-Concelles, la chapelle Saint-Barthélemy, construite au XVe siècle, repose sur des vestiges de bains gallo-romains, attestés par les fouilles.",
+ "histoire": {
+  "recit": "Saint-Julien-de-Concelles est une commune de l’Ouest de la France, dans le département de la Loire-Atlantique, en région Pays de la Loire. Son noyau ancien est le village de Saint-Barthélémy : c’est pourquoi la chapelle Saint-Barthélémy apparaît sur le blason actuel de la commune.\n\nOn y a mené des fouilles autour de la chapelle : des morceaux de murs et les traces d’une route pavée ont été retrouvés. Plus surprenant encore, les résultats ont permis de prouver que la chapelle s’appuie sur une maison de bain datée du IIIe siècle.\n\nLe territoire garde aussi des marques d’autres temps. On y évoque une villa de Nociogilis léguée en 615, tandis que la levée de la Divatte, construite au milieu du XIXe siècle, forme une digue routière protégeant la vallée du Val nantais. Enfin, deux silhouettes complètent le paysage : le moulin à vent de Tue-Loup et la gentilhommière de la Meslerie.",
+  "chronologie": [
+   {
+    "date": "IIIe siècle",
+    "texte": "Les fouilles ont montré que la chapelle Saint-Barthélemy est construite sur une maison de bain datée du IIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "L’actuelle chapelle Saint-Barthélemy est construite au XVe siècle sur des vestiges de bains gallo-romains.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "615",
+    "texte": "Une hypothèse relie la villa de Nociogilis léguée en 615 à la dénomination de ce secteur au VIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "milieu du XIXe siècle",
+    "texte": "La levée de la Divatte est une digue routière construite au milieu du XIXe siècle pour protéger le Val nantais des inondations.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "seconde moitié du XIXe siècle",
+    "texte": "Le moulin à vent de Tue-Loup est édifié durant la seconde moitié du XIXe siècle.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "La gentilhommière de la Meslerie est vendue en 1929 après avoir appartenu un temps à la famille de Gérald Van der Kemp.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Levée de la Divatte",
+   "histoire": "La levée de la Divatte est une digue routière construite au milieu du XIXe siècle, longue de 15,8 km. Elle protège contre les inondations une vallée fertile et peuplée, le Val nantais, répartie entre Divatte-sur-Loire, Saint-Julien-de-Concelles et Basse-Goulaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6"
+   ],
+   "lat": 47.276,
+   "lon": -1.3953,
+   "url": "https://fr.wikipedia.org/wiki/Lev%C3%A9e_de_la_Divatte"
+  },
+  {
+   "nom": "Chapelle Saint-Barthélemy de Saint-Julien-de-Concelles",
+   "histoire": "Chapelle catholique à Saint-Julien-de-Concelles, elle a été construite au XVe siècle sur des vestiges de bains gallo-romains. Des fouilles ont prouvé qu’elle s’appuie sur une maison de bain datée du IIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Autour de la chapelle, les fouilles ont aussi mis au jour des morceaux de murs et des traces de route pavée, avec un déblaiement aidé par des voisins bénévoles.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’actuelle chapelle Saint-Barthélemy se présente comme construite au XVe siècle sur des vestiges de bains gallo-romains.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 47.2577,
+   "lon": -1.36067,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Barth%C3%A9lemy_de_Saint-Julien-de-Concelles"
+  },
+  {
+   "nom": "Moulin à vent de Tue-Loup",
+   "histoire": "Le moulin à vent de Tue-Loup est un moulin à vent situé à Saint-Julien-de-Concelles. Il a été édifié durant la seconde moitié du XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 47.2343,
+   "lon": -1.4249,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_%C3%A0_vent_de_Tue-Loup"
+  },
+  {
+   "nom": "Gentilhommière de la Meslerie",
+   "histoire": "La gentilhommière de la Meslerie est un château situé à Saint-Julien-de-Concelles. Elle a appartenu plus tard à la famille de Gérald Van der Kemp avant d’être vendue en 1929.",
+   "anecdotes": [
+    {
+     "texte": "La vente de 1929 a été vécue comme un “déchirement”, car la maison y était “très chère” : il y gardait de “bons souvenirs” et on le surnommait « L'enfant de la Meslerie ».",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 47.2477,
+   "lon": -1.39715,
+   "url": "https://fr.wikipedia.org/wiki/Gentilhommi%C3%A8re_de_la_Meslerie"
+  }
+ ],
+ "sources": [
+  "Saint-Julien-de-Concelles est une commune de l'Ouest de la France, dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "C'est le village de Saint-Barthélémy qui fut le noyau ancien de la commune. C'est pourquoi la chapelle Saint-Barthélémy apparaît sur le blason actuel de la commune. Des fouilles ont été effectuées en 1842, puis en1889 par Léon Maître, aidé d'une main d'oeuvre bénévole de voisins pour le déblaiement. En effet, autour de la chapelle, avaient été trouvés, outre des morceaux de murs, les traces d'une route pavée dans le […]",
+  "IIIe siècle : Les fouilles permirent de prouver que la chapelle Saint-Barthélemy est construite sur une maison de bain datée sur IIIe siècle.",
+  "615 : Il existe l'hypothèse que la villa de Nociogilis léguée en 615, par Bertrand du Mans, archidiacre de Paris et évêque du Mans, au clergé du Mans, soit la dénomination de ce secteur au VIIe siècle.",
+  "Lieu « Levée de la Divatte » : La levée de la Divatte est une digue routière construite au milieu du XIXe siècle, la plus aval et la plus récente des levées de la Loire ; longue de 15,8 km, elle protège contre les inondations une vallée fertile et peuplée, le Val nantais, répartie",
+  "Lieu « Levée de la Divatte », XIXe siècle : La levée de la Divatte est une digue routière construite au milieu du XIXe siècle, la plus aval et la plus récente des levées de la Loire ; longue de 15,8 km, elle protège contre les inondations une vallée fertile et peuplée, le Val nantais, répartie sur trois communes : Divatte-sur-Loire, Saint-Julien-de-Concelles et Basse-Goulaine.",
+  "Lieu « Chapelle Saint-Barthélemy de Saint-Julien-de-Concelles » : La chapelle Saint-Barthélemy est une chapelle catholique située à Saint-Julien-de-Concelles dans le département de la Loire-Atlantique, en France.",
+  "Lieu « Chapelle Saint-Barthélemy de Saint-Julien-de-Concelles », XVe siècle : L'actuelle chapelle Saint-Barthélemy a été construite au XVe siècle sur des vestiges de bains gallo-romains.",
+  "Lieu « Moulin à vent de Tue-Loup » : Le moulin à vent de Tue-Loup est un moulin à vent situé à Saint-Julien-de-Concelles, en France.",
+  "Lieu « Moulin à vent de Tue-Loup », XIXe siècle : Le monument est édifié durant la seconde moitié du XIXe siècle.",
+  "Lieu « Gentilhommière de la Meslerie » : La gentilhommière de la Meslerie est un château situé à Saint-Julien-de-Concelles, en France.",
+  "Lieu « Gentilhommière de la Meslerie », 1929 : Elle fut plus tard la propriété de la famille de Gérald Van der Kemp, mais fut vendue en 1929, ce qui fut un déchirement pour ce dernier, car cette maison lui était très chère, et il y gardait de très bons souvenirs : on le surnommait d'ailleurs \"L'enfant de la Meslerie\"."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 2
+ }
+}

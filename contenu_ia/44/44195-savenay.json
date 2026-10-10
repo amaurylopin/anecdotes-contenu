@@ -1,0 +1,176 @@
+{
+ "commune": {
+  "titre": "Savenay",
+  "code_insee": "44195",
+  "departement": "44",
+  "population": 9543,
+  "lat": 47.361944,
+  "lon": -1.940556,
+  "url": "https://fr.wikipedia.org/wiki/Savenay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:02:02",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1878,
+  "sortie": 1027
+ },
+ "cout_usd": 0.001659,
+ "accroche": "En 1419, un couvent de Cordeliers est fondé à Savenay par Jean V de Bretagne.",
+ "histoire": {
+  "recit": "À Savenay, le paysage du coteau qui surplombe les marais de Loire a d’abord attiré les premiers habitants : une hache de pierre polie atteste une occupation depuis le Néolithique, et des tailleries de silex révèlent une sédentarisation progressive. Plus tard, les traces religieuses s’installent : en 1419, un couvent de Cordeliers est fondé.\n\nLe travail transforme aussi le territoire. Dès 1816, Blaise Delfaut s’engage dans le défrichement des landes pour en faire des prairies. Le siècle suivant laisse un souvenir plus rude : le dolmen de la Herviais est détruit au XIXe siècle pour empierrer des chemins.\n\nAu XXe siècle, la commune devient un point d’appui. En 1917, un barrage construit sur la vallée Mabille retient l’eau d’un lac artificiel pour alimenter un hôpital militaire de l’armée des États-Unis. Pendant la poche de Saint-Nazaire, en 1945, Savenay abrite le siège de la Kommandantur avant la libération le 11 mai.\n\nAprès les années de reconstruction, la mairie nouvelle est inaugurée en 1988.",
+  "chronologie": [
+   {
+    "date": "1419",
+    "texte": "Un couvent de Cordeliers est fondé par Jean V de Bretagne.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1816",
+    "texte": "Blaise Delfaut s’engage dans le défrichement des landes afin qu’elles soient transformées en prairies.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Le dolmen de la Herviais est détruit pour empierrer des chemins.",
+    "sources": [
+     "S5",
+     "S2"
+    ]
+   },
+   {
+    "date": "1917",
+    "texte": "Le barrage de la vallée Mabille, construit pour la Première Guerre mondiale, alimente un lac artificiel servant un hôpital militaire américain.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "La commune abrite le siège de la Kommandantur lors de la poche de Saint-Nazaire, et elle est libérée le 11 mai 1945.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "La nouvelle mairie est inaugurée.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Savenay",
+   "histoire": "L’église actuelle est érigée en 1841 par l’architecte Théodore Nau, à la place d’une église du XVe siècle elle-même située sur un lieu de culte du Xe siècle dédié à Saint Martin de Tours. Après un coup de vent en mai 1841, les murs nord et sud de la nef sont démolis puis reconstruits à grands frais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S12",
+    "S13",
+    "S11"
+   ],
+   "lat": 47.360746,
+   "lon": -1.9456851,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Savenay"
+  },
+  {
+   "nom": "Moulin de la Pâquelais",
+   "histoire": "Le moulin de la Pâquelais daterait de 1545. À cette époque, il ne comporte qu’un seul étage avec des ailes à voiles et un guivre, et appartient au seigneur de la Paclais. En 1911, après un incendie, il est surélevé de deux étages et reçoit deux paires de meules et des ailes berton.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 47.3417,
+   "lon": -1.89751,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_la_P%C3%A2quelais"
+  },
+  {
+   "nom": "Lac de la vallée Mabille",
+   "histoire": "Le lac de la vallée Mabille est un lac artificiel situé à Savenay, alimenté par le ruisseau de la vallée Mabille. Un barrage construit en 1917 retient l’eau pour fournir un hôpital militaire américain.",
+   "anecdotes": [
+    {
+     "texte": "En 1918, l’armée américaine met en place, pour cet hôpital, la retenue d’eau du lac de la vallée Mabille au début de l’année.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S7"
+   ],
+   "lat": 47.358,
+   "lon": -1.922,
+   "url": "https://fr.wikipedia.org/wiki/Lac_de_la_vall%C3%A9e_Mabille"
+  },
+  {
+   "nom": "Bataille de Savenay",
+   "histoire": "La bataille de Savenay a lieu les 22 et 23 décembre 1793 à Savenay, pendant la guerre de Vendée.",
+   "anecdotes": [
+    {
+     "texte": "Une phrase rapportée promet de « guérir », comme si l’après-bataille devait rendre la fin de l’exécrable guerre plus supportable.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 47.36194,
+   "lon": -1.94056,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Savenay"
+  }
+ ],
+ "sources": [
+  "Savenay [sav(ə)nɛ] est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays historique du Pays nantais. Implantée sur le Sillon de Bretagne, au nord de la Loire, son paysage est caractérisé par le coteau qui surplombe les marais de Loire. À mi-chemin entre les agglomérations de Nantes et […]",
+  "Une hache de pierre polie atteste que le site est occupé depuis le Néolithique par des groupes de chasseurs-cueilleurs. Des tailleries de silex du Paléolithique ont été retrouvées, qui attestent d'une sédentarisation progressive. Le dolmen de la Herviais était un autre témoignage de cette présence : il a été détruit au XIXe siècle pour empierrer des chemins. On a également retrouvé un menhir et des vestiges de […]",
+  "1419 : En 1419, un couvent de Cordeliers est fondé par Jean V de Bretagne.",
+  "1816 : C'est Blaise Delfaut, plusieurs fois maire, qui s'engage dès 1816 dans le défrichement des landes pour être transformées en prairies.",
+  "XIXe siècle : Le dolmen de la Herviais était un autre témoignage de cette présence : il a été détruit au XIXe siècle pour empierrer des chemins.",
+  "1912 : Des locaux dédiés seront inaugurés en 1912.",
+  "1918 : L'armée américaine construit pour cet hôpital la retenue d'eau du lac de la vallée Mabille début 1918.",
+  "1945 : La commune abrite le siège de la Kommandantur lors de l'épisode de la poche de Saint-Nazaire, et n'est libérée que le 11 mai 1945 après la reddition de l'armée allemande, lorsqu'un détachement de gendarmerie précède des troupes alliées.",
+  "1988 : La nouvelle mairie est inaugurée en 1988.",
+  "Lieu « Église Saint-Martin de Savenay » : L'église Saint-Martin est une église située à Savenay, en France.",
+  "Lieu « Église Saint-Martin de Savenay », 1812 : De plus, un orage emporte une partie du pignon de l'ancienne église en 1812, tandis que le clocher doit être démoli en 1825 et reconstruit sur une autre partie de l'édifice.",
+  "Lieu « Église Saint-Martin de Savenay », 1841 : L'Église fut érigée en 1841 par l'architecte Théodore Nau, à la place d'une église du XVe siècle édifiée elle-même à la place d'un lieu de culte du Xe siècle dédié à Saint Martin de Tours.",
+  "Lieu « Église Saint-Martin de Savenay », 1841 : En mai 1841, à la suite d'un violent coup de vent, on procède à la démolition les murs nord et sud de la nef que l'on reconstruit à grands frais avec de nouveaux matériaux, payés à l'aide de la taxe de l'octroi.",
+  "Lieu « Moulin de la Pâquelais » : Le moulin de la Pâquelais est un moulin situé à Savenay, dans le département de la Loire-Atlantique, en France.",
+  "Lieu « Moulin de la Pâquelais », 1545 : Ce moulin daterait de 1545, à cette époque le moulin comportait un seul étage avec des ailes a voiles et un guivre ; il appartenait au seigneur de la Paclais, mais en 1911 le moulin incendié est alors surélevé de deux étage, permettant ainsi de l'équiper de deux paires de meules et des ailes berton.",
+  "Lieu « Lac de la vallée Mabille » : Le lac de la vallée Mabille est un lac artificiel situé à Savenay dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "Lieu « Lac de la vallée Mabille », 1917 : Le ruisseau de la vallée Mabille alimente un lac artificiel retenu par un barrage construit en 1917, durant la Première Guerre mondiale pour fournir en eau un hôpital militaire de l'armée des États-Unis qui venaient de s'engager dans le conflit.",
+  "Lieu « Bataille de Savenay » : La bataille de Savenay a lieu les 22 et 23 décembre 1793 à Savenay, pendant la guerre de Vendée.",
+  "Lieu « Bataille de Savenay », aujourd'hui : Actuellement que cette exécrable guerre est terminée, que les mânes de nos frères sont satisfaits, je vais guérir."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 2
+ }
+}

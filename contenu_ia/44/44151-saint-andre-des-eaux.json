@@ -1,0 +1,92 @@
+{
+ "commune": {
+  "titre": "Saint-André-des-Eaux (Loire-Atlantique)",
+  "code_insee": "44151",
+  "departement": "44",
+  "population": 7013,
+  "lat": 47.31472222,
+  "lon": -2.30972222,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Andr%C3%A9-des-Eaux_%28Loire-Atlantique%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:35:30",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1195,
+  "sortie": 661
+ },
+ "cout_usd": 0.001065,
+ "accroche": "En 1879, la gare de Saint-André-des-Eaux, mise en service par l’administration des chemins de fer de l’État, s’insère bientôt dans le réseau PO.",
+ "histoire": {
+  "recit": "Saint-André-des-Eaux est une commune de l’Ouest de la France, située en Loire-Atlantique, en région Pays de la Loire. Son histoire de passage se lit d’abord dans la gare : édifiée par la compagnie des trains de Saint-Nazaire au Croisic, elle est mise en service en 1879 par l’administration des chemins de fer de l’État, puis intégrée au réseau de la Compagnie du chemin de fer de Paris à Orléans. Reconstruite en 1964 par la SNCF, elle cesse d’être desservie depuis 1986, au moment où la ligne est électrifiée.\n\nÀ côté de ce récit ferroviaire, il reste un autre repère : la Pierre de Coicas, mégalithe implanté sur la commune. Aujourd’hui, il n’en subsiste que peu de chose, mais l’on y reconnaît l’unique vestige d’une allée couverte qui comptait encore neuf pierres à la fin du XIXe siècle.",
+  "chronologie": [
+   {
+    "date": "1879",
+    "texte": "La gare de Saint-André-des-Eaux, édifiée par la compagnie des trains de Saint-Nazaire au Croisic, est mise en service par l’administration des chemins de fer de l’État.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1884",
+    "texte": "La gare devient une gare du réseau de la Compagnie du chemin de fer de Paris à Orléans (PO).",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1964",
+    "texte": "La gare est reconstruite par la SNCF.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1986",
+    "texte": "La gare n’est plus desservie depuis 1986, année de l’électrification de la ligne.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pierre de Coicas",
+   "histoire": "La Pierre de Coicas, aussi appelée Pierre de Coëtcas, est un mégalithe sur la commune. Dans les années 2020, il n’en subsiste que peu de choses, et cela correspond à l’unique vestige d’une allée couverte qui comptait encore neuf pierres à la fin du XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne subsiste que l’unique vestige de l’allée couverte.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 47.308194,
+   "lon": -2.341944,
+   "url": "https://fr.wikipedia.org/wiki/Pierre_de_Coicas"
+  }
+ ],
+ "sources": [
+  "Saint-André-des-Eaux est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "La gare de Saint-André-des-Eaux, édifiée par la compagnie des trains de Saint-Nazaire au Croisic, est mise en service en 1879 par l'administration des chemins de fer de l'État, avant de devenir une gare du réseau de la Compagnie du chemin de fer de Paris à Orléans (PO) en 1884. Reconstruite en 1964 par la SNCF, la gare n'est plus desservie depuis 1986, année de l'électrification de la ligne.",
+  "1879 : La gare de Saint-André-des-Eaux, édifiée par la compagnie des trains de Saint-Nazaire au Croisic, est mise en service en 1879 par l'administration des chemins de fer de l'État, avant de devenir une gare du réseau de la Compagnie du chemin de fer de Paris à Orléans (PO) en 1884.",
+  "1964 : Reconstruite en 1964 par la SNCF, la gare n'est plus desservie depuis 1986, année de l'électrification de la ligne.",
+  "Lieu « Pierre de Coicas » : La Pierre de Coicas, appelée aussi Pierre de Coëtcas, est un mégalithe situé sur la commune de Saint-André-des-Eaux, dans le département de la Loire-Atlantique, en France.",
+  "Lieu « Pierre de Coicas », 2020 : Il ne subsiste que peu de choses dans les années 2020 du mégalithe édifié en ce lieu.",
+  "Lieu « Pierre de Coicas », aujourd'hui : Elle correspond à l'unique vestige d'une allée couverte qui comptait encore neuf pierres à la fin du XIXe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

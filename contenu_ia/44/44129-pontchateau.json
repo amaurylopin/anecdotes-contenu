@@ -1,0 +1,168 @@
+{
+ "commune": {
+  "titre": "Pontchâteau",
+  "code_insee": "44129",
+  "departement": "44",
+  "population": 11474,
+  "lat": 47.43733,
+  "lon": -2.08802,
+  "url": "https://fr.wikipedia.org/wiki/Pontch%C3%A2teau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:46:02",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1591,
+  "sortie": 971
+ },
+ "cout_usd": 0.001532,
+ "accroche": "En 1835, Pontchâteau achète sa première pompe à incendie, un détail qui dit l’importance de la protection au cœur de la commune.",
+ "histoire": {
+  "recit": "Pontchâteau, au bord de la Loire-Atlantique et historiquement dans le Pays nantais, a connu des occupations très anciennes : dès la préhistoire, la région est attestée par plusieurs monuments mégalithiques, dont le fuseau de la Madeleine.\n\nPlus tard, la ville se dote d’installations concrètes pour son quotidien. En 1835, une première pompe à incendie est achetée.\n\nLe XIXe siècle élève aussi un grand repère religieux : le calvaire actuel date de ce temps et rassemble une trentaine de statues et d’édifices, avec un chemin de croix et la Scala Sancta (1891), ainsi qu’une chapelle de pèlerinage (1873).\n\nCôté voies et voyageurs, la gare de Pontchâteau se développe avec la mise en service, en 1885, de la ligne de Saint-Nazaire à Châteaubriant, puis des prolongements du bâtiment voyageurs vers 1890. Le passage des voyageurs est ensuite amélioré : une passerelle est édifiée en 1996. Enfin, la gare continue d’évoluer, car en 1977 on envisage le remplacement du passage à niveau par un pont routier.",
+  "chronologie": [
+   {
+    "date": "1835",
+    "texte": "Achat de la première pompe à incendie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "Le calvaire de Pontchâteau comprend une chapelle de pèlerinage.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "Mise en service de la ligne de Saint-Nazaire à Châteaubriant, avec demande d’ouverture du raccordement entre la gare de Besné et celle de Pontchâteau.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "La Scala Sancta date de 1891 au sein du calvaire, qui rassemble statues et édifices.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1890",
+    "texte": "Les ailes du bâtiment voyageurs sont prolongées vers 1890.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "Le calvaire abrite un ensemble allant du chemin de croix aux édifices de pèlerinage (dont la Scala Sancta).",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1996",
+    "texte": "Une passerelle est édifiée en amont et à proximité du bâtiment principal pour sécuriser la traversée des voies.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1977",
+    "texte": "Les risques liés au passage à niveau font envisager son remplacement par un pont routier.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Pontchâteau",
+   "histoire": "La gare de Pontchâteau est une gare ferroviaire de la ligne de Savenay à Landerneau, à proximité du centre-ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5"
+   ],
+   "lat": 47.435291,
+   "lon": -2.088353,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Pontch%C3%A2teau"
+  },
+  {
+   "nom": "Calvaire de Pontchâteau",
+   "histoire": "Le calvaire actuel est un monument catholique à Pontchâteau. Il est édifié au cours du XIXe siècle, et son ensemble comprend une quarantaine d’éléments : un chemin de croix, la Scala Sancta (1891) et une chapelle de pèlerinage (1873), sur environ 14 hectares. Des fresques décorent aussi le « Temple de Jérusalem ».",
+   "anecdotes": [
+    {
+     "texte": "En 1933, des fresques réalisées par Paul Lemasson décorent le « Temple de Jérusalem », construit pour le Jubilé de la Rédemption.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "À l’initiative du père de Montfort, le calvaire actuel est édifié au XIXe siècle dans un contexte de rechargement sacré.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S4",
+    "S12"
+   ],
+   "lat": 47.44287,
+   "lon": -2.13716,
+   "url": "https://fr.wikipedia.org/wiki/Calvaire_de_Pontch%C3%A2teau"
+  },
+  {
+   "nom": "Fuseau de la Madeleine",
+   "histoire": "Le fuseau de la Madeleine est un menhir à Pontchâteau. Sa forme effilée explique probablement son appellation, et la Madeleine est le nom d’un lieu-dit proche où se situe actuellement le calvaire de Pontchâteau.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 47.4363,
+   "lon": -2.13653,
+   "url": "https://fr.wikipedia.org/wiki/Fuseau_de_la_Madeleine"
+  }
+ ],
+ "sources": [
+  "Pontchâteau (ou Pont-Château) est une commune urbaine de l'Ouest de la France, située dans le département de la Loire-Atlantique (et historiquement en Bretagne dans le Pays nantais), en région Pays de la Loire.",
+  "Dès la préhistoire, la région fut habitée ainsi que l’attestent plusieurs monuments mégalithiques, cf le fuseau de la Madeleine et la carte Sites mégalithiques de la Loire-Atlantique. Les Romains créent des défenses en Gaule et partout dans leur immense Empire contre les invasions qui s'annoncent. Il s'agit de mobiliser et d'utiliser des troupes venant de tous les coins de l'Empire. L'île de Bretagne est bien sûr […]",
+  "1835 : 1835 : Achat de la première pompe à incendie.",
+  "1891 : Le calvaire actuel date du XIXe siècle et abrite une trentaine de statues et édifices sur environ 14 hectares : un Chemin de croix avec personnages, la Scala Sancta (1891), une chapelle de pèlerinage (1873), un prétoire...",
+  "Lieu « Gare de Pontchâteau » : La gare de Pontchâteau est une gare ferroviaire française de la ligne de Savenay à Landerneau, située à proximité du centre ville de Pontchâteau, dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "Lieu « Gare de Pontchâteau », 1885 : En 1885, la ligne de Saint-Nazaire à Châteaubriant est mise en service le 18 mai et le Conseil général réclame, l'ouverture du raccordement réalisé entre la gare de Besné et celle de Pontchâteau, et la réalisation des aménagements prévus dans cette dernière.",
+  "Lieu « Gare de Pontchâteau », 1890 : Les ailes du bâtiment voyageurs sont prolongées vers 1890 et la signalisation entre la gare et le raccordement est modifiée en 1901..",
+  "Lieu « Gare de Pontchâteau », 1996 : En 1996, une passerelle est édifiée en amont et à proximité du bâtiment principal pour sécuriser la traversée des voies et le passage d'un quai à l'autre par les voyageurs.",
+  "Lieu « Gare de Pontchâteau », aujourd'hui : En 1977, les risques dus à ce passage à niveau font envisager son remplacement par un pont routier.",
+  "Lieu « Calvaire de Pontchâteau » : Le calvaire de Pontchâteau est un monument catholique situé à Pontchâteau, dans la Loire-Atlantique (France), sanctuaire du Diocèse de Nantes.",
+  "Lieu « Calvaire de Pontchâteau », XIXe siècle : Le calvaire actuel est édifié au cours du XIXe siècle, dans le contexte de recharge sacrale, à l'initiative du père de Montfort.",
+  "Lieu « Calvaire de Pontchâteau », 1933 : Les fresques du calvaire de Pontchâteau, réalisées par Paul Lemasson, décorent les murs du « Temple de Jérusalem », construit en 1933 pour le Jubilé de la Rédemption.",
+  "Lieu « Fuseau de la Madeleine » : Le fuseau de la Madeleine est un menhir situé à Pontchâteau, en Loire-Atlantique, en France.",
+  "Lieu « Fuseau de la Madeleine », aujourd'hui : Sa forme effilée est probablement à l'origine de son appellation de « fuseau » ; la Madeleine est quant à elle le nom d'un lieu-dit proche, où se situe actuellement le calvaire de Pontchâteau."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

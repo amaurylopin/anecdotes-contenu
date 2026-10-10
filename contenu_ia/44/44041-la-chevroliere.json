@@ -1,0 +1,93 @@
+{
+ "commune": {
+  "titre": "La Chevrolière",
+  "code_insee": "44041",
+  "departement": "44",
+  "population": 6539,
+  "lat": 47.09166667,
+  "lon": -1.61027778,
+  "url": "https://fr.wikipedia.org/wiki/La_Chevroli%C3%A8re"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:44:05",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1175,
+  "sortie": 726
+ },
+ "cout_usd": 0.001143,
+ "accroche": "En 1794, le château de la Freudière est totalement incendié, au cours des guerres de Vendée, sur la commune de La Chevrolière.",
+ "histoire": {
+  "recit": "La Chevrolière, commune de la Loire-Atlantique située dans le pays de Retz, compte 6 539 habitants (recensement de 2023). Son paysage est marqué par le château de la Freudière, dont l’histoire a été brusquement interrompue par les guerres de Vendée.\n\nLe site du château a d’abord été transformé : en 1765, une maison de campagne est construite à l’emplacement d’un ancien manoir. Puis vient le drame : en 1794, l’édifice est totalement incendié. Malgré les dégâts, le lieu n’est pas abandonné : à la fin du XIXe siècle, il est restauré de façon mineure, entre 1872 et 1874, par l’architecte Lenoir.\n\nAinsi, à La Chevrolière, le château de la Freudière résume une histoire faite de reconstructions après la violence des événements.",
+  "chronologie": [
+   {
+    "date": "1765",
+    "texte": "En 1765, une maison de campagne est construite à l’emplacement de l’ancien manoir.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "Le château est totalement incendié, au cours des guerres de Vendée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1872-1874",
+    "texte": "L’édifice est restauré de façon mineure, par l’architecte Lenoir.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de la Freudière",
+   "histoire": "Le château de la Freudière se situe sur la commune de La Chevrolière. Le site est remanié en 1765 avec la construction d’une maison de campagne, avant que l’édifice ne soit totalement incendié en 1794. Il fait ensuite l’objet d’une restauration mineure entre 1872 et 1874, par l’architecte Lenoir.",
+   "anecdotes": [
+    {
+     "texte": "En 1765, on y construit une « maison de campagne » à l’emplacement de l’ancien manoir.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 47.0848,
+   "lon": -1.57258,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Freudi%C3%A8re"
+  }
+ ],
+ "sources": [
+  "La Chevrolière [la.ʃəvʁɔljɛʁ] est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays traditionnel du pays de Retz et dans le pays historique du Pays nantais. Ses habitants s'appellent les Chevrolins et les Chevrolines. La Chevrolière comptait 6 539 habitants au recensement de 2023 .",
+  "Château des Huguetières (XIXe) et chapelle Notre-Dame des Ombres. Le fief des Huguetières passa sous l'autorité de la Machecoul, puis de celle de Châteaubriant, avant de relever de la baronnie de Retz. Au XVe siècle, le château des Huguetières était le siège d'une importante seigneurie qui rayonnait sur 17 paroisses du pays de Grand Lieu. C'est sur la commune de La Chevrolière que se trouve d'ailleurs le principal […]",
+  "Lieu « Château de la Freudière » : Le château de la Freudière est un château situé à La Chevrolière, en France.",
+  "Lieu « Château de la Freudière », 1794 : Ce château est totalement incendié en 1794, au cours des guerres de Vendée.",
+  "Lieu « Château de la Freudière », 1872 : L'édifice sera à nouveau restauré, mais de façon mineure, en 1872-1874 par l'architecte Lenoir.",
+  "Lieu « Château de la Freudière », aujourd'hui : En 1765, il fait construire une « maison de campagne » à l'emplacement de l'ancien manoir."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

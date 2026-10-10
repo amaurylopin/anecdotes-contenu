@@ -1,0 +1,279 @@
+{
+ "commune": {
+  "titre": "Pornic",
+  "code_insee": "44131",
+  "departement": "44",
+  "population": 18745,
+  "lat": 47.116667,
+  "lon": -2.1,
+  "url": "https://fr.wikipedia.org/wiki/Pornic"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:14:13",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2571,
+  "sortie": 1986
+ },
+ "cout_usd": 0.002997,
+ "accroche": "Le 23 mars 1793, la première bataille de Pornic a lieu lors de la guerre de Vendée.",
+ "histoire": {
+  "recit": "À Pornic, les traces humaines remontent à une présence estimée vers 100 000 ans avant notre ère, puis au Ve millénaire av. J.-C., attestée par des mégalithes encore visibles au début du XXIe siècle, dont un groupe de dolmens à couloir de type transeptés.\n\nLe bourg se forge ensuite une histoire plus proche : le 23 mars 1793, Pornic connaît sa première bataille liée à la guerre de Vendée. Au XIXe siècle, les Casinos de Pornic marquent les esprits : le premier casino est construit et inauguré en 1853 à la Noëveillard, avant d’être conservé sur plusieurs sites. En 1926, le Saint-Philibert fait de Pornic son port d’attache.\n\nLa seconde moitié du XXe siècle porte aussi son poids : l’occupation allemande se prolonge d’août 1944 au 11 mai 1945. Plus tard, Pornic fusionne en 1973 avec Le Clion-sur-Mer, puis en 2007 avec une autre commune voisine.",
+  "chronologie": [
+   {
+    "date": "100 000 ans avant notre ère",
+    "texte": "Des découvertes (dont deux bifaces et une hache en pierre polie) conduisent à estimer une première présence humaine sur le territoire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ve millénaire av. J.-C.",
+    "texte": "Les mégalithes encore visibles attestent le peuplement humain du site de Pornic.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "23 mars 1793",
+    "texte": "Première bataille de Pornic, lors de la guerre de Vendée.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "1853",
+    "texte": "Premier casino de Pornic : construction et inauguration à la Noëveillard.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1926",
+    "texte": "Pornic devient le port d’attache du Saint-Philibert, vapeur construit en 1926.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "août 1944 - 11 mai 1945",
+    "texte": "L’occupation allemande se prolonge pour les Pornicais jusqu’au 11 mai 1945.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "Pornic fusionne avec l’ancienne commune du Clion-sur-Mer.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2007",
+    "texte": "Pornic fusionne ensuite avec l’ancienne commune voisine mentionnée dans la source.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Les Casinos de Pornic",
+   "histoire": "Les casinos de Pornic sont situés en Loire-Atlantique et ont été construits entre 1853 et 2018. Le premier casino de la ville est construit et inauguré en 1853 à la Noëveillard.",
+   "anecdotes": [
+    {
+     "texte": "En 1853, le premier casino de Pornic devient l’un des premiers en France, présenté comme le sixième casino à voir le jour sur le territoire national.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En 2024, des travaux de restauration du patrimoine sont mentionnés pour la préservation des casinos encore existants.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seul le plus récent, situé le long du Canal de Haute Perche, est indiqué comme étant en activité aujourd’hui.",
+   "sources": [
+    "S9"
+   ],
+   "lat": 47.1160658,
+   "lon": -2.092123,
+   "url": "https://fr.wikipedia.org/wiki/Les_Casinos_de_Pornic"
+  },
+  {
+   "nom": "Abbaye Sainte-Marie de Pornic",
+   "histoire": "L’abbaye Sainte-Marie de Pornic est une ancienne abbaye située à Sainte-Marie-sur-Mer sur la commune de Pornic. Au IXe siècle, ses édifices religieux subissent les attaques multiples des Vikings, puis au XIe siècle elle est occupée par des moines de Saint-Sauveur de Redon. Au XIIe siècle, elle est agrandie par les religieux de l’abbaye Saint-Serge d’Angers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S16"
+   ],
+   "lat": 47.1129043,
+   "lon": -2.1312082,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Sainte-Marie_de_Pornic"
+  },
+  {
+   "nom": "Sainte-Marie-sur-Mer",
+   "histoire": "Sainte-Marie ou Sainte-Marie-sur-Mer est une ancienne commune française du secteur de l’Ouest, dans le département de la Loire-Atlantique. Elle correspond au lieu où se trouvait l’abbaye Sainte-Marie de Pornic.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S10"
+   ],
+   "lat": 47.1128,
+   "lon": -2.1319,
+   "url": "https://fr.wikipedia.org/wiki/Sainte-Marie-sur-Mer"
+  },
+  {
+   "nom": "Le Clion-sur-Mer",
+   "histoire": "Le Clion-sur-Mer est aujourd’hui une subdivision de la commune française de Pornic. Le cimetière y apparaît comme un site du Commonwealth War Graves de la Seconde Guerre mondiale.",
+   "anecdotes": [
+    {
+     "texte": "Le cimetière du Clion-sur-Mer compte plus de 70 sépultures, dont la majorité sont des victimes du naufrage du RMS Lancastria le 17 juin 1940.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S19",
+    "S18"
+   ],
+   "lat": 47.122356,
+   "lon": -2.053054,
+   "url": "https://fr.wikipedia.org/wiki/Le_Clion-sur-Mer"
+  },
+  {
+   "nom": "Bataille de Pornic (23 mars 1793)",
+   "histoire": "La première bataille de Pornic a lieu le 23 mars 1793 lors de la guerre de Vendée.",
+   "anecdotes": [
+    {
+     "texte": "En 1859, l’historien Jean-François Carou indique que les captifs exécutés sommairement ne seraient qu’une vingtaine, et que les tueries seraient commises par un marin nommé Olivier Renaud avec trois ou quatre hommes.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "La source précise qu’Olivier Renaud est ensuite remplacé par François Athanase Charette de La Contrie.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 47.11667,
+   "lon": -2.1,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_Pornic_%2823_mars_1793%29"
+  },
+  {
+   "nom": "Dolmen de la Joselière",
+   "histoire": "Le dolmen de la Joselière, aussi appelé dolmen du Pissot, est un ensemble mégalithique situé à Pornic.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.10222,
+   "lon": -2.07972,
+   "url": "https://fr.wikipedia.org/wiki/Dolmen_de_la_Joseli%C3%A8re"
+  },
+  {
+   "nom": "Tumulus du Moulin de la Motte",
+   "histoire": "Le tumulus du Moulin de la Motte est un ensemble mégalithique situé à proximité immédiate du tumulus des Mousseaux, à l’ouest de Pornic, sur la colline qui domine la Noëveillard. Il s’agit d’une tombe transeptée dont l’état décrit à l’époque du XIXe siècle a déjà été entamé par la disparition d’une partie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne resterait plus qu’une seule table de couverture effondrée en travers de la chambre.",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.11556,
+   "lon": -2.11306,
+   "url": "https://fr.wikipedia.org/wiki/Tumulus_du_Moulin_de_la_Motte"
+  },
+  {
+   "nom": "Château de Pornic",
+   "histoire": "Le château de Pornic se situe dans la commune de Pornic, à 50 km de Nantes. Au Xe siècle, Alain Barbetorte le construit en bois et en fait une place forte, occupée par une garnison protégeant l’entrée de Pornic.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice est une propriété privée de la famille de Vogüé : il se visite pendant les Journées européennes du patrimoine et, durant la saison estivale, via des visites commentées organisées par l’Office de tourisme local.",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 47.113889,
+   "lon": -2.105556,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pornic"
+  }
+ ],
+ "sources": [
+  "Pornic est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays traditionnel du pays de Retz et dans le pays historique du Pays nantais. Pornic a fusionné en 1973 avec l'ancienne commune du Clion-sur-Mer (dont les habitants s’appellent les Clionnais), puis en 2007 avec l'ancienne commune de […]",
+  "La découverte entre autres de deux bifaces et d'une hache en pierre polie conduit à estimer la première présence humaine sur le territoire de la commune à environ 100 000 ans avant notre ère. Les mégalithes encore visibles au début du XXIe siècle, dont un très important groupe de dolmens à couloir de type transeptés, permettent d'attester le peuplement humain du site de Pornic au Ve millénaire av. J.-C. Une partie […]",
+  "1926 : Pornic est le port d'attache du Saint-Philibert, un vapeur construit en 1926 par les ateliers Dubigeon.",
+  "1944 : L'occupation allemande se prolonge d'août 1944 au 11 mai 1945 pour les Pornicais qui n'ont pas fui ou été évacués, durant donc neuf mois de plus que dans la plus grande partie de l'ouest de la France.",
+  "Lieu « Les Casinos de Pornic » : Les casinos de Pornic sont situés en Loire-Atlantique et ont été construits entre 1853 et 2018.",
+  "Lieu « Les Casinos de Pornic », 1853 : Les casinos de Pornic sont situés en Loire-Atlantique et ont été construits entre 1853 et 2018.",
+  "Lieu « Les Casinos de Pornic », 1853 : Le premier casino de la ville et l'un des premiers en France est construit et inauguré en 1853 à la Noëveillard, devenant le sixième casino à voir le jour sur le territoire national, après les villes Dieppe, Boulogne-Sur-Mer, Saint-Malo, Trouville.",
+  "Lieu « Les Casinos de Pornic », 2024 : Parmi les différents bâtiments (sur les cinq sites) des sept casinos qui ont existé, cinq existent toujours: leur préservation a parfois nécessité certains travaux de restauration du patrimoine, dont les plus récents ont débuté en 2024.",
+  "Lieu « Les Casinos de Pornic », aujourd'hui : Seul le plus récent situé sur le long du Canal de Haute Perche est aujourd'hui en activité en tant que casino.",
+  "Lieu « Abbaye Sainte-Marie de Pornic » : L'abbaye Sainte-Marie de Pornic est une ancienne abbaye située à Sainte-Marie-sur-Mer sur la commune de Pornic, en Loire-Atlantique.",
+  "Lieu « Abbaye Sainte-Marie de Pornic », IXe siècle : Au IXe siècle, les édifices religieux subissent les attaquent multiples des Vikings.",
+  "Lieu « Abbaye Sainte-Marie de Pornic », XIe siècle : Au XIe siècle elle est occupée par les moines de Saint-Sauveur de Redon.",
+  "Lieu « Abbaye Sainte-Marie de Pornic », XIIe siècle : Au XIIe siècle, ce sont les religieux de l'abbaye Saint-Serge d'Angers, déjà installés non loin de là, à Chéméré, qui y travaillent et l'agrandissent.",
+  "Lieu « Sainte-Marie-sur-Mer » : Sainte-Marie ou Sainte-Marie-sur-Mer est une ancienne commune française de l'Ouest de la France, dans le département de la Loire-Atlantique (région Pays de la Loire).",
+  "Lieu « Sainte-Marie-sur-Mer », XIIe siècle : Parmi ces chapelles construites par les moines philibertins et dédiées le plus souvent à la Vierge, se trouve celle qui deviendra au XIIe siècle, l'abbaye Sainte-Marie de Pornic.",
+  "Lieu « Sainte-Marie-sur-Mer », XVIIe siècle : Au XVIIe siècle, l'abbaye est abandonnée par les moines et tombe en ruines au cours du siècle suivant.",
+  "Lieu « Le Clion-sur-Mer » : Le Clion-sur-Mer est aujourd’hui une subdivision de la commune française de Pornic, située dans le département de la Loire-Atlantique et la région Pays de la Loire.",
+  "Lieu « Le Clion-sur-Mer », 1940 : Le cimetière est aussi un site du Commonwealth War Graves de la Seconde Guerre mondiale avec plus de 70 sépultures, la majorité étant des victimes du naufrage du RMS Lancastria le 17 juin 1940.",
+  "Lieu « Le Clion-sur-Mer », aujourd'hui : Le Clion-sur-Mer est aujourd’hui une subdivision de la commune française de Pornic, située dans le département de la Loire-Atlantique et la région Pays de la Loire.",
+  "Lieu « Bataille de Pornic (23 mars 1793) » : La première bataille de Pornic a lieu le 23 mars 1793 lors de la guerre de Vendée.",
+  "Lieu « Bataille de Pornic (23 mars 1793) », 1859 : En 1859, l'historien pornicais Jean-François Carou écrit que les captifs exécutés sommairement après le combat ne sont qu'au nombre d'une vingtaine, et que les tueries sont commises principalement par un marin nommé Olivier Renaud, accompagné de trois ou quatre hommes, qui fouille plusieurs maisons et tue tous les rebelles qu'il capture.",
+  "Lieu « Bataille de Pornic (23 mars 1793) », aujourd'hui : Il est alors remplacé par François Athanase Charette de La Contrie.",
+  "Lieu « Dolmen de la Joselière » : Le dolmen de la Joselière, appelé aussi dolmen du Pissot, est un ensemble mégalithique, situé à Pornic, dans le département de la Loire-Atlantique, en France.",
+  "Lieu « Dolmen de la Joselière », 1978 : L'édifice est classé à l'inventaire des monuments historiques depuis 1978.",
+  "Lieu « Dolmen de la Joselière », 1984 : L'édifice a fait l'objet d'une fouille de sauvegarde et d'une restauration en 1984-1985.",
+  "Lieu « Tumulus du Moulin de la Motte » : Le tumulus du Moulin de la Motte est un ensemble mégalithique situé à proximité immédiate du tumulus des Mousseaux, à l'ouest de Pornic, sur la colline qui domine la Noëveillard, en Loire-Atlantique.",
+  "Lieu « Tumulus du Moulin de la Motte », XIXe siècle : C'est une tombe transeptée dont il ne demeure que l'allée centrale et deux chambres latérales, la chambre terminale ayant été détruite au XIXe siècle.",
+  "Lieu « Tumulus du Moulin de la Motte », aujourd'hui : Il ne reste plus qu'une seule table de couverture effondrée en travers de la chambre.",
+  "Lieu « Château de Pornic » : Le château de Pornic se situe dans la commune de Pornic, à 50 km de Nantes.",
+  "Lieu « Château de Pornic », Xe siècle : Au Xe siècle, Alain Barbetorte, duc de Bretagne, le construit en bois et en fait une place forte ; il est alors occupé par une garnison qui protège l'entrée de Pornic.",
+  "Lieu « Château de Pornic », aujourd'hui : Aujourd'hui, l'édifice est une propriété privée appartenant à la famille de Vogüé qui se visite pendant les Journées européennes du patrimoine ainsi que, durant la saison estivale, par le biais de visites commentées organisées par l'Office de tourisme local."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

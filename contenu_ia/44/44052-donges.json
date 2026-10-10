@@ -1,0 +1,248 @@
+{
+ "commune": {
+  "titre": "Donges",
+  "code_insee": "44052",
+  "departement": "44",
+  "population": 8219,
+  "lat": 47.324163,
+  "lon": -2.075,
+  "url": "https://fr.wikipedia.org/wiki/Donges"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:17:10",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2673,
+  "sortie": 1546
+ },
+ "cout_usd": 0.002467,
+ "accroche": "À Donges, la nuit du 24 juillet 1944, l’église Saint-Martin s’effondre sous les bombes tandis que seul subsiste le clocher, avec sa cloche « Marie‑Françoise ».",
+ "histoire": {
+  "recit": "Donges, commune de l’Ouest de la France en Loire‑Atlantique, est occupée depuis le Paléolithique, puis connaît un peuplement plus actif au Néolithique. Sur son territoire, les mégalithes jalonnent encore le paysage : le menhir de la Vacherie a été fouillé au XIXe siècle et classé au titre des monuments historiques.\n\nAu IXe siècle, le territoire subit les ravages des Vikings, qui s’établissent durablement dans l’estuaire de la Loire. Plus tard, deux tours de l’époque féodale sont construites en bord d’estuaire, puis le château est détruit au milieu du XIIe siècle sur ordre de Conan III le Gros.\n\nAux heures troublées, la ville est occupée en mars 1793 par les Blancs. Le port voit aussi l’ampleur des aménagements : en 1917, il est construit pour désengorger Saint‑Nazaire. En juillet 1944, les bombardements anéantissent le bourg ; la reconstruction se fait à un kilomètre à l’intérieur des terres. L’église Saint‑Martin est rebâtie ensuite : l’édifice actuel date de 1957.\n\nAujourd’hui, Donges vit aussi au rythme de la raffinerie et de ses installations : la gare de Donges a été déplacée en 2022 pour éviter qu’elle ne traverse la raffinerie.",
+  "chronologie": [
+   {
+    "date": "IXe siècle",
+    "texte": "Le territoire de Donges est ravagé par les Vikings, qui s’établissent durablement dans l’estuaire de la Loire.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Deux tours (mottes féodales) sont construites en bord de l’estuaire de la Loire, peut-être à l’initiative du comte de Nantes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Le château est détruit au milieu du XIIe siècle sur ordre de Conan III le Gros, en représailles contre le vicomte Savary de Donges.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "14 au 17 mars 1793",
+    "texte": "La ville est occupée par les Blancs.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1917",
+    "texte": "Le port de Donges est construit pour désengorger le port de Saint‑Nazaire, envahi par le matériel débarqué par les Américains et les Anglais.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "24 et 25 juillet 1944",
+    "texte": "Le bourg est anéanti durant les bombardements et reconstruit à un kilomètre à l’intérieur des terres.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "L’édifice actuel de l’église Saint‑Martin date de 1957, pour remplacer un édifice du XIXe siècle détruit par les bombardements.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2022",
+    "texte": "La gare de Donges est déplacée dans le cadre de la déviation de la ligne ferroviaire afin qu’elle ne traverse plus la raffinerie de Donges.",
+    "sources": [
+     "S31"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Donges",
+   "histoire": "Église catholique de Donges, elle est reconstruite dans les années 1880 dans le style néo‑gothique, puis remplacée par l’édifice actuel datant de 1957, après la destruction liée aux bombardements de 1944. En 2022, une demande d’inscription au titre des monuments historiques aboutit à un arrêté de protection signé le 9 mai 2023.",
+   "anecdotes": [
+    {
+     "texte": "Dans la nuit du 24 juillet 1944, tandis que les voûtes et la toiture s’effondrent, seul subsiste le clocher avec sa cloche « Marie‑Françoise », baptisée en 1830.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 47.31856,
+   "lon": -2.07328,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Donges"
+  },
+  {
+   "nom": "Raffinerie de Donges",
+   "histoire": "Raffinerie de pétrole située à Donges et exploitée par TotalEnergies, elle s’inscrit dans l’histoire industrielle locale. Le lieu a connu plusieurs incidents documentés : une explosion en 1972 et une fuite incendiaire en 2001.",
+   "anecdotes": [
+    {
+     "texte": "Le 26 août 1972, l’explosion du pétrolier Princess Irene à l’appontement 6 cause la mort de 6 personnes.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Le 2 juillet 2001, une fuite déclenche un incendie dans l’unité de viscoréduction.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Le 11 juillet 2013, après une fuite de gaz toxique, une personne est évacuée vers un centre de secours.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 47.312119,
+   "lon": -2.070587,
+   "url": "https://fr.wikipedia.org/wiki/Raffinerie_de_Donges"
+  },
+  {
+   "nom": "Menhir de la Vacherie",
+   "histoire": "Menhir situé sur la commune de Donges, au lieu‑dit le Carlet. Fouillé en 1879 par Pitre de Lisle, il est classé monument historique en 1889. Un fragment visible au pied est ensuite déplacé, puis disparaît.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 47.30934,
+   "lon": -2.06084,
+   "url": "https://fr.wikipedia.org/wiki/Menhir_de_la_Vacherie"
+  },
+  {
+   "nom": "Chapelle de Bonne-Nouvelle de Donges",
+   "histoire": "Chapelle de culte catholique à Donges, sur le même vocable que la « Notre‑Dame‑de‑Bonne‑Nouvelle de l’Annonciation ». L’édifice actuel succède à deux chapelles préexistantes, dont une du début du XVIe siècle. En 1953, son petit clocher d’ardoises est remplacé par un clocher plus haut surmonté d’une croix métallique.",
+   "anecdotes": [
+    {
+     "texte": "En 1714, les fidèles disposent dans la chapelle leur banc fermé, marqué de l’écusson de leur famille.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.32029,
+   "lon": -2.04287,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_de_Bonne-Nouvelle_de_Donges"
+  },
+  {
+   "nom": "Gare de Donges",
+   "histoire": "Gare ferroviaire sur le territoire de Donges, desservie aujourd’hui par des TER Pays de la Loire. Mise en service le 10 août 1857, elle a été déplacée en 2022 afin de ne plus traverser la raffinerie de Donges.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 47.315,
+   "lon": -2.07357,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Donges"
+  }
+ ],
+ "sources": [
+  "Donges (en breton : Donez ; en gallo : Donje) est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "Le site est occupé depuis le Paléolithique, mais il faut attendre le Néolithique pour trouver des traces d'un peuplement actif. De nombreux sites mégalithiques sont répertoriés sur le territoire de Donges : outre le menhir de la Vacherie, classé monument historique, aujourd'hui au milieu de la raffinerie, subsistent le menhir de Condé (« la dent de Gargantua »), le menhir christianisé de la Garenne (« la pierre qui […]",
+  "IXe siècle : Au IXe siècle, le territoire de Donges est ravagé par les Vikings qui s'établissent durablement dans l'estuaire de la Loire.",
+  "XIe siècle : Au XIe siècle, deux tours (mottes féodales) ont été construites en bord de l'estuaire de la Loire, peut-être à l'initiative du comte de Nantes.",
+  "XIIe siècle : Le château sera détruit au milieu du XIIe siècle sur ordre de Conan III le Gros en représailles contre le vicomte de l'époque, Savary de Donges.",
+  "1793 : Du 14 au 17 mars 1793 la ville sera occupée par les Blancs.",
+  "1917 : En 1917, le port de Donges est construit pour désengorger le port de Saint-Nazaire, envahi par le matériel débarqué par les Américains et les Anglais.",
+  "1944 : Le bourg a été anéanti durant les bombardements des 24 et 25 juillet 1944 et reconstruit à 1 km à l'intérieur des terres.",
+  "Lieu « Église Saint-Martin de Donges » : L’église Saint-Martin est une église catholique située à Donges, dans le département de la Loire-Atlantique.",
+  "Lieu « Église Saint-Martin de Donges », 1880 : L'ancienne église de Donges, reconstruite dans les années 1880 dans le style néo-gothique, était connue pour la hauteur de son clocher qui culminait à 75 mètres.",
+  "Lieu « Église Saint-Martin de Donges », 1957 : L'édifice actuel qui date de 1957 est l'œuvre des architectes Jean et Charles Dorian pour remplacer un édifice du XIXe siècle qui avait été détruite au cours des bombardements de la Seconde Guerre mondiale.",
+  "Lieu « Église Saint-Martin de Donges », 2022 : En 2022, le conseil municipal sollicite l'inscription au titre des Monuments historiques qui aboutira à un arrêté de protection signé le 9 mai 2023",
+  "Lieu « Église Saint-Martin de Donges », aujourd'hui : Dans la nuit du 24 juillet 1944, des centaines de bombes sont larguées par des avions de la Royal Air Force ciblant les raffineries et le bourg : les voûtes et la toiture de l'église s'effondrent, tous les vitraux explosent et seul subsiste le clocher avec sa cloche, « Marie-Françoise », qui avait été baptisée en 1830.",
+  "Lieu « Raffinerie de Donges » : La raffinerie de Donges est une raffinerie de pétrole située à Donges en France, exploitée par la société TotalEnergies.",
+  "Lieu « Raffinerie de Donges », 1972 : 26 août 1972 : l'explosion du pétrolier Princess Irene à l'appontement 6 cause la mort de 6 personnes (3 employés de la raffinerie et 3 marins).",
+  "Lieu « Raffinerie de Donges », 2001 : 2 juillet 2001 : une fuite déclenche un incendie dans l'unité de viscoréduction.",
+  "Lieu « Raffinerie de Donges », 2013 : 11 juillet 2013 : à la suite d'une fuite de gaz toxique, une personne est évacuée vers un centre de secours.",
+  "Lieu « Raffinerie de Donges », aujourd'hui : Ex-propriété de Elf Aquitaine, cette raffinerie est actuellement exploitée par la société TotalEnergies.",
+  "Lieu « Menhir de la Vacherie » : Le menhir de la Vacherie, également nommé la galoche de Gargantua ou menhir du Carlet, est un menhir situé sur la commune de Donges au lieu-dit le Carlet, dans le département de la Loire-Atlantique.",
+  "Lieu « Menhir de la Vacherie », 1879 : Pitre de Lisle fouille l'édifice en 1879.",
+  "Lieu « Menhir de la Vacherie », 1889 : L'édifice est classé au titre des monuments historiques en 1889.",
+  "Lieu « Menhir de la Vacherie », 1980 : Le fragment de la pierre, cassé en biseau qui était visible à son pied jusqu'au début des années 1980, gênant l'exploitation de la raffinerie fut tout d'abord déplacé puis disparût.",
+  "Lieu « Menhir de la Vacherie », aujourd'hui : À environ 0,40 m de profondeur, Pitre de Lisle découvre une couche archéologique comportant des traces de charbon, des tessons de poterie à pâte grossière et dégraissant de quartz, des éclats de silex ainsi qu'une hache en diorite verte percée d'un trou d'emmanchement.",
+  "Lieu « Chapelle de Bonne-Nouvelle de Donges » : La chapelle de Bonne-Nouvelle de Donges ou chapelle de Bonne-Nouvelle d'Assac est un lieu de culte catholique situé sur la commune de Donges, dans le département français de la Loire-Atlantique.",
+  "Lieu « Chapelle de Bonne-Nouvelle de Donges », XVIe siècle : Deux chapelles ont préexisté à l'édifice actuel : la première date du Moyen-Age, l'autre du début du XVIe siècle.",
+  "Lieu « Chapelle de Bonne-Nouvelle de Donges », 1624 : L'église Notre-Dame-de-Bonne-Nouvelle de Paris (dans le 2e arrondissement, près des grands boulevards) est construite en 1624 sous le même vocable de « Notre-Dame de Bonne-Nouvelle de l'Annonciation »(de Bono Nuntio)\".",
+  "Lieu « Chapelle de Bonne-Nouvelle de Donges », 1714 : De plus, en 1714, ils ont dans la chapelle leur banc fermé, marqué de l'écusson de leur famille.",
+  "Lieu « Chapelle de Bonne-Nouvelle de Donges », aujourd'hui : En 1953, le petit clocher d’ardoises, qui tombait de vétusté, est volontairement remplacé par un clocher beaucoup plus haut, lui-même surmonté d’une croix métallique de grande dimension.",
+  "Lieu « Gare de Donges » : La gare de Donges est une gare ferroviaire française de la ligne de Tours à Saint-Nazaire, située sur le territoire de la commune de Donges, dans le département de la Loire-Atlantique, en région Pays de la Loire.",
+  "Lieu « Gare de Donges », 1857 : Mise en service le 10 août 1857 par la compagnie du chemin de fer de Paris à Orléans (PO) avec la voie de Nantes à Saint-Nazaire, il s'agit d'une station de troisième classe ayant nécessité 52 200 fr pour l'ensemble de ces installations qui comprenaient notamment, un bâtiment voyageurs, appelé « débarcadère », et les aménagements de la gare marchandises.",
+  "Lieu « Gare de Donges », 2022 : La gare est déplacée en 2022 dans le cadre de la déviation de la ligne ferroviaire afin qu'elle ne traverse plus la raffinerie de Donges.",
+  "Lieu « Gare de Donges », aujourd'hui : C'est aujourd'hui une halte ferroviaire de la Société nationale des chemins de fer français (SNCF) desservie par des trains express régionaux TER Pays de la Loire circulant entre Le Croisic ou Saint-Nazaire et Nantes."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 5
+ }
+}

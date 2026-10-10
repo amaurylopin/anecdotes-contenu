@@ -1,0 +1,169 @@
+{
+ "commune": {
+  "titre": "Héric",
+  "code_insee": "44073",
+  "departement": "44",
+  "population": 6585,
+  "lat": 47.41333333,
+  "lon": -1.65055556,
+  "url": "https://fr.wikipedia.org/wiki/H%C3%A9ric"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:43:17",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1444,
+  "sortie": 1034
+ },
+ "cout_usd": 0.001581,
+ "accroche": "Le 10 octobre 1795, à la Bataille de Héric, les événements de la Chouannerie se jouent sur le territoire de la commune.",
+ "histoire": {
+  "recit": "Héric, au cœur du Pays nantais, s’est construite autour d’un bourg principal et de hameaux issus d’anciens fiefs et sieuries, dont les noms apparaissent sur les cartes de Cassini. La paroisse est rattachée à une tradition : on attribue à Saint-Félix, futur évêque de Nantes, la création de la paroisse de Héric vers 549. Plus tard, au XVIe siècle, une partie de la population, et notamment des notables, se sensibilise puis se convertit au calvinisme. Après les troubles, les châtellenies de Blain, Héric et Fresnay sont réunies en une seule juridiction en 1642, avant l’érection en marquisat en 1660. En 1795, Héric connaît la bataille de la Chouannerie le 10 octobre. Enfin, sur le plan des demeures, le Château de Beaulieu voit s’édifier son aspect actuel au milieu du XIXe siècle : construit entre 1856 et 1861, il est ensuite entouré de dépendances, avant des changements au tournant des années 1960.",
+  "chronologie": [
+   {
+    "date": "vers 549",
+    "texte": "La tradition attribue à Saint-Félix, futur évêque de Nantes, la création de la paroisse de Héric.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle (seconde partie)",
+    "texte": "À la suite des seigneurs Henri Ier de Rohan-Gié et René II de Rohan-Gié, une partie de la population de Héric se convertit au calvinisme.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1642",
+    "texte": "Les châtellenies de Blain, Héric et Fresnay sont réunies en une seule juridiction par Louis XIII.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1660",
+    "texte": "Le territoire est érigé en marquisat à la requête de Marguerite, duchesse de Rohan et princesse de Léon, mentionnée auprès de Louis XIV.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "10 octobre 1795",
+    "texte": "La bataille de Héric a lieu lors de la Chouannerie.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "le lendemain (1795)",
+    "texte": "Le lendemain, on se porte à Nozay sans trouver trace de l’armée de Châtillon.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1856",
+    "texte": "Le château actuel de Beaulieu commence à être construit.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1861",
+    "texte": "La construction du château actuel de Beaulieu s’achève entre 1856 et 1861.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "années 1960",
+    "texte": "En contrebas, un ponton en fer forgé donnait accès à une chapelle détruite dans les années 1960.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "fin des années 1960",
+    "texte": "Le château semble ensuite vendu vers la fin des années 1960.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Beaulieu (Héric)",
+   "histoire": "Maison de maître établie sur la commune d’Héric, le Château de Beaulieu remonte au milieu du XIXe siècle. Le château actuel est construit entre 1856 et 1861, avec en contrebas un ruisseau et un ponton en fer forgé autrefois utilisé pour accéder à une chapelle, ensuite détruite dans les années 1960. Le lieu est entouré de nombreuses dépendances : écuries, four à pain, pressoir, cellier, boulangerie et porcheries, certaines ayant aujourd’hui disparu.",
+   "anecdotes": [
+    {
+     "texte": "Un ponton en fer forgé, encore en place, servait autrefois à accéder à une chapelle détruite dans les années 1960.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Les dépendances du château comptaient aussi une boulangerie et un pressoir, avant que certaines ne disparaissent.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 47.425444444444,
+   "lon": -1.6164444444444,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beaulieu_%28H%C3%A9ric%29"
+  },
+  {
+   "nom": "Bataille de Héric",
+   "histoire": "La bataille de Héric se déroule le 10 octobre 1795 lors de la Chouannerie. Le lendemain, une poursuite est tentée vers Nozay, sans retrouver la trace de l’armée de Châtillon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 47.41333,
+   "lon": -1.65056,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_de_H%C3%A9ric"
+  }
+ ],
+ "sources": [
+  "Héric est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. Cette commune du Pays nantais fait partie de la Bretagne historique.",
+  "Héric est composé d'un bourg principal et de plusieurs hameaux qui correspondent en majeure partie aux anciens fiefs et sieuries qui existaient avant la révolution française et dont on retrouve les noms sur les cartes de Cassini C'est à Saint-Félix, futur évêque de Nantes, que la tradition attribue la création de la paroisse de Héric vers 549. L'église Saint-Nicolas a été reconstruite au XIXe siècle à l'emplacement […]",
+  "XVIe siècle : Dans la seconde partie du XVIe siècle, à la suite de leurs seigneurs Henri Ier de Rohan-Gié et René II de Rohan-Gié tous deux fils d'Isabeau d'Albret, une partie de la population de Héric et notamment une partie de ses notables, est sensibilisée voire se convertit au calvinisme.",
+  "1642 : En 1642, les trois anciennes châtellenies : Blain, Héric et Fresnay sont réunies en une seule juridiction par Louis XIII, puis érigée en marquisat par Louis XIV en 1660 à la requête de sa cousine Marguerite duchesse de Rohan et princesse de Léon.",
+  "XIXe siècle : L'église Saint-Nicolas a été reconstruite au XIXe siècle à l'emplacement de l'ancienne église détériorée pendant la Révolution.",
+  "Lieu « Château de Beaulieu (Héric) » : Le château de Beaulieu est une maison de maître datant du milieu du XIXe siècle située sur la commune d'Héric.",
+  "Lieu « Château de Beaulieu (Héric) », 1856 : Le château actuel fût construit entre 1856 et 1861.",
+  "Lieu « Château de Beaulieu (Héric) », 1960 : En contrebas de la bâtisse coule un ruisseau sur lequel un ponton en fer forgé encore en place permettait d'accéder à une chapelle qui fut détruite dans les années 1960.",
+  "Lieu « Château de Beaulieu (Héric) », 1960 : Le château semble ensuite être vendu vers la fin des années 1960.",
+  "Lieu « Château de Beaulieu (Héric) », aujourd'hui : Il est entouré de nombreuses dépendances telles que des écuries, un four à pain, un pressoir, un cellier, une boulangerie et des porcheries, dont certaines ont aujourd'hui disparu.",
+  "Lieu « Bataille de Héric » : La bataille de Héric a lieu le 10 octobre 1795 lors de la Chouannerie.",
+  "Lieu « Bataille de Héric », aujourd'hui : Le lendemain, il se porte à Nozay, sans trouver trace de l'armée de Châtillon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

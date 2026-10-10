@@ -1,0 +1,156 @@
+{
+ "commune": {
+  "titre": "Sainte-Luce-sur-Loire",
+  "code_insee": "44172",
+  "departement": "44",
+  "population": 16400,
+  "lat": 47.25027778,
+  "lon": -1.48555556,
+  "url": "https://fr.wikipedia.org/wiki/Sainte-Luce-sur-Loire"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:21:41",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1588,
+  "sortie": 1067
+ },
+ "cout_usd": 0.001651,
+ "accroche": "Le château de Chassay, manoir servant aujourd’hui de mairie, a été vendu comme bien national le 27 janvier 1791 à l’armateur nantais Dubois-Violette.",
+ "histoire": {
+  "recit": "À Sainte-Luce-sur-Loire, la Loire longe la commune et les notables nantais y font bâtir de nombreux manoirs aux XVIIIe et XIXe siècles. Le territoire s’inscrit dans le cadre féodal du comté et de la sénéchaussée de Nantes, avant de passer, en 851, sous contrôle breton, où « Chefsail » (puis Sainte-Luce) fait partie du royaume puis du duché de Bretagne.\n\nSur le site du château de Chassay, une première demeure remonte dès le VIe siècle, puis les évêques de Nantes y installent leur résidence de campagne. Le lieu devient ensuite une propriété vendue comme bien national le 27 janvier 1791.\n\nPlus tard, la vie agricole vacille : en 1878, une nouvelle église est construite, et en 1893 une épidémie de phylloxera détruit une grande partie du vignoble. Après la Seconde Guerre mondiale, la commune bénéficie aussi de l’arrivée de maraîchers installés sur des terres de Nantes, mais expulsés dans le cadre d’un plan mis en place en 1948.\n\nAujourd’hui, l’Île Clémentine, accessible par une passerelle construite en 1984, garde un nom dont l’origine semble obscure.",
+  "chronologie": [
+   {
+    "date": "851",
+    "texte": "La région passe sous contrôle breton, « Chefsail » (puis Sainte-Luce) intégrant successivement le royaume puis le duché de Bretagne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIe siècle",
+    "texte": "Une première demeure est construite sur le site du château de Chassay.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "27 janvier 1791",
+    "texte": "Le château de Chassay est vendu comme bien national à l’armateur nantais Dubois-Violette pour 109 000 livres.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "Une nouvelle église est construite.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1893",
+    "texte": "Une épidémie de phylloxera détruit une grande partie du vignoble.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1948",
+    "texte": "La commune accueille des maraîchers auparavant installés sur des terres de Nantes, avant qu’ils soient expulsés dans le cadre du plan de reconstruction et d’aménagement mis en place en 1948.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1984",
+    "texte": "Une passerelle relie l’Île Clémentine à la rive, pour les loisirs et la promenade.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Chassay",
+   "histoire": "Manoir faisant actuellement office de mairie, le château de Chassay est à l’origine la résidence de campagne des évêques de Nantes. Le site connaît une première demeure dès le VIe siècle. Vendu comme bien national le 27 janvier 1791, il devient ensuite un ensemble de bâtiments de ferme, rasés lors de la période où le domaine est propriété d’un centre d’insémination artificiel (XXe siècle). En 1956, il est vendu à une union de coopératives agricoles d’élevage et d’insémination animale.",
+   "anecdotes": [
+    {
+     "texte": "Vendu comme bien national le 27 janvier 1791 à l’armateur nantais Dubois-Violette pour 109 000 livres, le château de Chassay change de mains au cœur d’une période de rupture.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Les bâtiments délaissés deviennent des bâtiments de ferme, puis sont rasés pendant une période où le domaine appartient à un centre d’insémination artificiel.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Manoir faisant actuellement office de mairie de la commune de Sainte-Luce-sur-Loire.",
+   "sources": [
+    "S7",
+    "S11"
+   ],
+   "lat": 47.24778,
+   "lon": -1.48361,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chassay"
+  },
+  {
+   "nom": "Île Clémentine",
+   "histoire": "Île sur la Loire, près de la rive droite du fleuve, sur le territoire de Sainte-Luce-sur-Loire. Dédiée à des activités de loisirs et de promenade après des aménagements (jeux pour enfants, aires de pique-nique, parcours sportif), elle est reliée à la rive par une passerelle construite en 1984. Elle porte déjà le nom qu’on lui connaît aujourd’hui, dont l’origine semble obscure.",
+   "anecdotes": [
+    {
+     "texte": "Le nom d’Île Clémentine est déjà celui qu’on lui connaît aujourd’hui, mais son origine semble obscure.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 47.2445127,
+   "lon": -1.4591217,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Cl%C3%A9mentine"
+  }
+ ],
+ "sources": [
+  "Sainte-Luce-sur-Loire est une commune de l'Ouest de la France, située dans le département de la Loire-Atlantique, en région Pays de la Loire. La commune fait partie de la Bretagne historique, dans le pays historique du Pays nantais. Sainte-Luce-sur-Loire est longée par la Loire, et parsemée de nombreux manoirs construits par les notables nantais aux XVIIIe et XIXe siècles. Ancien lieu de résidence des évêques de […]",
+  "Dans le système féodal, le territoire fait partie jusqu'à la Révolution du comté et de la sénéchaussée de Nantes. En 851, la région passe sous contrôle breton, « Chefsail » (puis Sainte-Luce) fait partie du royaume puis du duché de Bretagne. Partie ancienne de l’hôtel de ville, le château de Chassay est à l’origine la résidence de campagne des évêques de Nantes. Une première demeure est construite semble-t-il sur le […]",
+  "VIe siècle : Une première demeure est construite semble-t-il sur le site dès le VIe siècle.",
+  "1878 : En 1878, une nouvelle église est construite.",
+  "1893 : En 1893, une épidémie de phylloxera détruit une grande partie du vignoble, jusque-là très présent dans la production agricole de la commune.",
+  "1948 : Après la Seconde Guerre mondiale, pendant laquelle Sainte-Luce se situait dans la zone occupée par l'armée allemande, la commune bénéficie de l'arrivée de 187 maraîchers auparavant installés sur des terres de la commune de Nantes, mais qui sont expulsés dans le cadre du plan de reconstruction et d'aménagement mis en place en 1948.",
+  "Lieu « Château de Chassay » : Le château du Chassay est un manoir faisant actuellement office de mairie de la commune de Sainte-Luce-sur-Loire (Loire-Atlantique).",
+  "Lieu « Château de Chassay », 1791 : Vendu comme bien national le 27 janvier 1791 à l'armateur nantais Dubois-Violette pour 109 000 livres.",
+  "Lieu « Château de Chassay », XXe siècle : Les bâtiments ainsi délaissées devinrent des bâtiments de ferme et furent rasés pendant la période ou le domaine était propriété du centre d'insémination artificiel (XXe siècle).",
+  "Lieu « Château de Chassay », 1956 : En 1956, appartenant à la famille de Fremond de La Merveillère, qui en a hérité de la comtesse de Bondy, il est vendu à une union de coopératives agricoles d'élevage et d'insémination animale.",
+  "Lieu « Château de Chassay », aujourd'hui : Le château du Chassay est un manoir faisant actuellement office de mairie de la commune de Sainte-Luce-sur-Loire (Loire-Atlantique).",
+  "Lieu « Île Clémentine » : L'île Clémentine est une île sur la Loire, en France, située près de la rive droite du fleuve, sur le territoire de la commune de Sainte-Luce-sur-Loire.",
+  "Lieu « Île Clémentine », 1984 : Dédiée à des activités de loisirs et de promenade à la suite de l'aménagement de jeux pour enfants, d'aires de pique-nique, et un parcours sportif, l'île est reliée à la rive par une passerelle construite en 1984.",
+  "Lieu « Île Clémentine », aujourd'hui : Elle porte déjà le nom qu'on lui connait aujourd'hui, et dont l'origine semble obscure."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}
