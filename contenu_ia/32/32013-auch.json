@@ -1,0 +1,271 @@
+{
+ "commune": {
+  "titre": "Auch",
+  "code_insee": "32013",
+  "departement": "32",
+  "population": 22428,
+  "lat": 43.6465,
+  "lon": 0.5855,
+  "url": "https://fr.wikipedia.org/wiki/Auch"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:03:51",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3474,
+  "sortie": 1659
+ },
+ "cout_usd": 0.002769,
+ "accroche": "En 1473, après la bataille de Lectoure, Auch est occupée par les troupes du roi de France, Louis XI.",
+ "histoire": {
+  "recit": "À Auch, le centre historique se tient sur un promontoire au bord du Gers, et pourtant l’ancien établissement préromain n’y cherchait pas refuge : la ville préromaine d’Elimberri se serait installée sur la rive opposée, à plat, du côté des Ausques. Plus tard, la cathédrale Sainte-Marie d’Auch traverse les siècles : une chapelle y serait liée à saint Sernin, puis un cloître est bâti au XIe siècle, et les travaux reprennent en 1429 avant qu’une cathédrale gothique ne remplace, au XVe siècle, l’édifice roman incendié.\nAu XXe siècle, les lieux d’instruction deviennent des hôpitaux en 1914. En 1940, après le désastre, Auch se trouve d’abord en zone libre, et le musée de la Résistance et de la Déportation retrace ensuite la séparation des zones.\nAujourd’hui, plusieurs témoins gardent la forme d’Auch : l’escalier monumental, la maison Henri IV à colombages, le prieuré de Saint-Orens, le musée des Amériques et l’hôtel de ville, librement visitable.",
+  "chronologie": [
+   {
+    "date": "1473",
+    "texte": "Après la bataille de Lectoure en 1473, Auch est occupée par les troupes du roi de France, Louis XI.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Durant la Première Guerre mondiale, plusieurs établissements d’enseignement à Auch sont transformés temporairement en hôpitaux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Après le désastre de 1940, Auch fait d’abord partie de la zone libre, non occupée par l’armée allemande.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "22 juin 1940",
+    "texte": "Le 22 juin 1940, la France signe l’Armistice et la ligne de démarcation sépare la zone libre de la zone occupée.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "27 mai 2023",
+    "texte": "Le 27 mai 2023, le musée de la Résistance et de la Déportation d’Auch est inauguré dans ses nouveaux locaux, place des Carmélites.",
+    "sources": [
+     "S15"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Sainte-Marie d'Auch",
+   "histoire": "Cathédrale catholique romaine située à Auch, elle rattache sa mémoire à des fondations anciennes et à des reconstructions successives.",
+   "anecdotes": [
+    {
+     "texte": "Vers la fin du Ier siècle, saint Sernin, se rendant à Eauze, se serait arrêté à Auch et y aurait fait bâtir une chapelle en l’honneur de saint Pierre.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S3"
+   ],
+   "lat": 43.646389,
+   "lon": 0.585833,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Marie_d%27Auch"
+  },
+  {
+   "nom": "Musée de la Résistance et de la Déportation d'Auch",
+   "histoire": "Musée consacré à l’histoire de la Résistance et de la Déportation dans le Gers, il a changé de lieux au fil du temps.",
+   "anecdotes": [
+    {
+     "texte": "Inauguré à l’emplacement initial en 1975, il a ensuite déménagé : le 27 mai 2023, il ouvre place des Carmélites.",
+     "statut": "etabli",
+     "sources": [
+      "S14",
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 43.6490018,
+   "lon": 0.58572159999994,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_R%C3%A9sistance_et_de_la_D%C3%A9portation_d%27Auch"
+  },
+  {
+   "nom": "Escalier monumental d'Auch",
+   "histoire": "Voie piétonne construite au XIXe siècle dans la commune d’Auch.",
+   "anecdotes": [
+    {
+     "texte": "Une partie de l’édifice s’est effondrée au-dessus de la rue Charras après les inondations de 1897 et de 1977.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ne subsistent de part et d’autre que le collège des Jésuites, futur Lycée d'Auch puis collège Salinis et la tour d’Armagnac.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 43.64554,
+   "lon": 0.587318,
+   "url": "https://fr.wikipedia.org/wiki/Escalier_monumental_d%27Auch"
+  },
+  {
+   "nom": "Maison Henri IV (Auch)",
+   "histoire": "Maison à colombages construite au XVIe siècle à Auch, dont il reste notamment un fragment près du seuil.",
+   "anecdotes": [
+    {
+     "texte": "Le 20 juillet 2019, un incendie se déclare dans l’escalier intérieur, dont une partie est détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Près du seuil, un fragment de fût d’une colonne de marbre blanc subsiste.",
+   "sources": [
+    "S26"
+   ],
+   "lat": 43.64536111,
+   "lon": 0.5845,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Henri_IV_%28Auch%29"
+  },
+  {
+   "nom": "Hôtel de préfecture du Gers",
+   "histoire": "Archevêché construit au XVIIIe siècle à Auch, poursuivant et reconstruisant un bâtiment plus ancien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S30",
+    "S31"
+   ],
+   "lat": 43.646592,
+   "lon": 0.586658,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_pr%C3%A9fecture_du_Gers"
+  },
+  {
+   "nom": "Prieuré de Saint-Orens d'Auch",
+   "histoire": "Ancien prieuré clunisien construit au Xe siècle, situé sur la rive gauche du Gers, entre le pont du Prieuré et le pont de la Treille.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seules subsistent trois travées voûtées sur croisée d’ogives de la chapelle prieurale et l’imposante tour carrée.",
+   "sources": [
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 43.648245,
+   "lon": 0.588734,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_Saint-Orens_d%27Auch"
+  },
+  {
+   "nom": "Musée des Amériques d'Auch",
+   "histoire": "Musée ethnographique installé à Auch, anciennement dénommé musée des Jacobins jusqu’en 2019.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 43.6472,
+   "lon": 0.5874,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Am%C3%A9riques_d%27Auch"
+  },
+  {
+   "nom": "Hôtel de ville d'Auch",
+   "histoire": "Hôtel de ville et théâtre à l’italienne construit au XVIIIe siècle à Auch.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est librement visitable et continue d’accueillir des représentations.",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44"
+   ],
+   "lat": 43.646893,
+   "lon": 0.583096,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_d%27Auch"
+  }
+ ],
+ "sources": [
+  "Auch (/ɔʃ/ ; en occitan gascon : Aush /awʃ/) est une commune française, préfecture du département du Gers, en région Occitanie. Sur le plan historique et culturel, la commune est dans le Pays d'Auch, un territoire céréalier et viticole qui s'est également constitué en « Pays » dans le sens de l'aménagement du territoire en 2003. Exposée à un climat océanique altéré, elle est drainée par le Gers, l'Auloue, le […]",
+  "Le promontoire rocheux, situé au bord du Gers où se trouve aujourd'hui le centre historique, notamment la cathédrale, ne correspond pas à un ancien oppidum, comme on pourrait s'y attendre. La ville préromaine est installée au bord du Gers, mais sur la rive opposée, qui est plate. Cette localité, nommée Elimberri, appartient au peuple des Ausques, dont le chef-lieu, au nom antique inconnu, semble avoir été situé à […]",
+  "XVe siècle : Au XVe siècle, la cathédrale romane incendiée et ruinée est remplacée par une cathédrale gothique, notamment pendant le mandat de l'archevêque François de Savoie), une des plus majestueuses[réf. nécessaire] du Sud-Ouest de la France.",
+  "1473 : Après la bataille de Lectoure en 1473 qui marque la fin de la dynastie des comtes d'Armagnac, la ville est occupée par les troupes du roi de France, Louis XI.",
+  "1914 : Durant la Première Guerre mondiale (1914-1918), plusieurs établissements d'enseignement sont transformés temporairement en hôpitaux, en plus de l'hospice de la rue Pasteur : les petit et grand séminaires, l'école normale d'instituteurs, le lycée de garçons, l'école libre de la rue Voltaire, ainsi que l'ancienne préfecture.",
+  "1940 : Durant la Seconde Guerre mondiale, après le désastre de 1940, Auch fait d'abord partie de la zone non occupée par l'armée allemande (dite « zone libre »).",
+  "Lieu « Cathédrale Sainte-Marie d'Auch » : La cathédrale Sainte-Marie d’Auch est une cathédrale catholique romaine située dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Cathédrale Sainte-Marie d'Auch », Ier siècle : Vers la fin du Ier siècle, saint Sernin, se rendant à Eauze pour y prêcher la foi, se serait arrêté à Auch où il aurait fait bâtir une chapelle en l'honneur de saint Pierre sur la rive orientale du Gers.",
+  "Lieu « Cathédrale Sainte-Marie d'Auch », XIe siècle : Au XIe siècle, l'archevêque Raymond Ier fait bâtir un cloître contigu à l'église Sainte-Marie où se retirent les chanoines, qui adoptent la règle de saint Augustin.",
+  "Lieu « Cathédrale Sainte-Marie d'Auch », 1429 : L'archevêque Philippe I de Lévis reprend les travaux en 1429, alors abandonnés depuis longtemps.",
+  "Lieu « Cathédrale Sainte-Marie d'Auch », aujourd'hui : Les reliques sont inhumées dans l'église Saint-Jean, tandis que l'autel est placé dans un oratoire qu'il fait bâtir, à l'emplacement de l'actuelle cathédrale.",
+  "Lieu « Musée de la Résistance et de la Déportation d'Auch » : Le Musée de la Résistance et de la Déportation du Gers est un musée qui existe depuis 1954.",
+  "Lieu « Musée de la Résistance et de la Déportation d'Auch », 1940 : Le 22 juin 1940, la France, qui se trouve anéantie, signe l'Armistice et va, par la suite, être coupée en deux zones délimitées par une ligne de démarcation qui va séparer la zone libre où va s'exercer l'autorité du gouvernement de Vichy, de la zone occupée par les Allemands.",
+  "Lieu « Musée de la Résistance et de la Déportation d'Auch », 1975 : Il avait été inauguré à son emplacement initial en 1975, rue Pagodéoutès à Auch en France.",
+  "Lieu « Musée de la Résistance et de la Déportation d'Auch », 2023 : Il a déménagé dans de nouveau locaux, place des Carmélites à Auch et a été inauguré à cet emplacement le 27 mai 2023 On y trouve de nombreuses pièces et de grandes collections d'objets de la Seconde Guerre mondiale.",
+  "Lieu « Musée de la Résistance et de la Déportation d'Auch », aujourd'hui : L'escadron motorisé, commandé par le Capitaine Bridoux, quitte Auch, pour occuper de nouveaux emplacements.",
+  "Lieu « Escalier monumental d'Auch » : L'escalier monumental d'Auch est une voie piétonne construite au XIXe siècle située dans la commune d'Auch (Gers).",
+  "Lieu « Escalier monumental d'Auch », 1816 : Dans le même temps, Léopold Gentil (1816-1891), architecte en chef du département et inspecteur des édifices diocésains traduit en plan les souhaits du préfet Féart et de l'archevêque Antoine de Salinis associés dans le même projet.",
+  "Lieu « Escalier monumental d'Auch », XIXe siècle : L'escalier monumental d'Auch est une voie piétonne construite au XIXe siècle située dans la commune d'Auch (Gers).",
+  "Lieu « Escalier monumental d'Auch », 1897 : L'ouvrage est cependant de constitution fragile du fait de matériaux de qualité friable, d'un emplacement instable, et encore fragilisé par les inondations de 1897 et celles de 1977 qui provoquèrent l'effondrement d'une partie de l'édifice au-dessus de la rue Charras.",
+  "Lieu « Escalier monumental d'Auch », aujourd'hui : Ne subsistent de part et d'autre que le collège des Jésuites, futur Lycée d'Auch puis collège Salinis et la tour d’Armagnac.",
+  "Lieu « Maison Henri IV (Auch) » : La maison Henri IV est une maison à colombages construite au XVIe siècle située dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Maison Henri IV (Auch) », XVIe siècle : La maison Henri IV est une maison à colombages construite au XVIe siècle située dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Maison Henri IV (Auch) », XVIe siècle : Construite entre le XVIe siècle et le XVIIe siècle, elle aurait été certainement bâtie à l'origine pour un négociant.",
+  "Lieu « Maison Henri IV (Auch) », 2019 : Le 20 juillet 2019, dans la nuit, un incendie se déclare dans l'escalier intérieur, dont une partie est détruite.",
+  "Lieu « Maison Henri IV (Auch) », aujourd'hui : Près du seuil, un fragment de fût d'une colonne de marbre blanc subsiste.",
+  "Lieu « Hôtel de préfecture du Gers » : L'hôtel de préfecture du Gers est un archevêché construit au XVIIIe siècle situé dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Hôtel de préfecture du Gers », 1602 : En 1602, Léonard de Trappes entreprend de « rebâtir et continuer le bâtiment de la maison archiépiscopale à l'endroit qui tire vers les prêcheurs » après en avoir prévenu la municipalité, qui a accepté.",
+  "Lieu « Hôtel de préfecture du Gers », XVIIIe siècle : L'hôtel de préfecture du Gers est un archevêché construit au XVIIIe siècle situé dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Hôtel de préfecture du Gers », 1750 : La reconstruction du palais, qui conserve des éléments du bâtiment médiéval, s'achève entre 1750 et 1770.",
+  "Lieu « Hôtel de préfecture du Gers », aujourd'hui : Il occupait l'emplacement du bâtiment existant, et celui des sacristies ainsi que de la prison locale, y compris la tour d'Armagnac.",
+  "Lieu « Prieuré de Saint-Orens d'Auch » : Le prieuré de Saint-Orens d'Auch est un ancien prieuré clunisien construit au Xe siècle situé à Auch (Gers).",
+  "Lieu « Prieuré de Saint-Orens d'Auch », Xe siècle : Le prieuré de Saint-Orens d'Auch est un ancien prieuré clunisien construit au Xe siècle situé à Auch (Gers).",
+  "Lieu « Prieuré de Saint-Orens d'Auch », XIXe siècle : Il est situé sur la rive gauche du Gers, entre le pont du Prieuré (anciennement passerelle du Prieuré) et le pont de la Treille (construit au XIXe siècle à l'emplacement du bac à traille primitif).",
+  "Lieu « Prieuré de Saint-Orens d'Auch », 1947 : Les bâtiments subsistants bénéficient d'une protection au titre des monuments historiques dont le périmètre, défini par l'arrêté d'inscription du 30 mai 1947, concerne les trois travées de la chapelle et la tour.",
+  "Lieu « Prieuré de Saint-Orens d'Auch », aujourd'hui : Seules subsistent trois travées voûtées sur croisée d'ogives de la chapelle prieurale et l'imposante tour carrée présentant des fenêtres à croisillons et une bretèche, remontant au XIVe siècle.",
+  "Lieu « Musée des Amériques d'Auch » : Le musée des Amériques - Auch, dénommé musée des Jacobins jusqu'en 2019, est un musée ethnographique situé dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Musée des Amériques d'Auch », 1386 : Le couvent est fondé en 1386 à l'emplacement d'une église sise hors des murs de la ville, et dont il ne reste rien.",
+  "Lieu « Musée des Amériques d'Auch », XVe siècle : La majorité des bâtiments datent d'après le XVe siècle ; de ce siècle ne subsistent que deux voûtes au nord et la chapelle consacrée à la Vierge au sud.",
+  "Lieu « Musée des Amériques d'Auch », 1780 : En 1780, le prieur Jean-Jacques de Pommaret commande la construction des bâtiments conventuels longeant les rues.",
+  "Lieu « Hôtel de ville d'Auch » : L'hôtel de ville d'Auch est un hôtel de ville et théâtre à l'italienne construit au XVIIIe siècle situé dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Hôtel de ville d'Auch », XVIIIe siècle : L'hôtel de ville d'Auch est un hôtel de ville et théâtre à l'italienne construit au XVIIIe siècle situé dans la commune d'Auch, dans le département français du Gers.",
+  "Lieu « Hôtel de ville d'Auch », 1947 : Le 30 mai 1947, le bâtiment est inscrit au titre des monuments historiques par le ministère de la Culture.",
+  "Lieu « Hôtel de ville d'Auch », aujourd'hui : Aujourd'hui, il est librement visitable et continue d'accueillir des représentations."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
