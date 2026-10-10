@@ -1,0 +1,85 @@
+{
+ "commune": {
+  "titre": "Roquefort-les-Pins",
+  "code_insee": "06105",
+  "departement": "06",
+  "population": 7292,
+  "lat": 43.66638889,
+  "lon": 7.05138889,
+  "url": "https://fr.wikipedia.org/wiki/Roquefort-les-Pins"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:30:48",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1127,
+  "sortie": 808
+ },
+ "cout_usd": 0.001235,
+ "accroche": "En 1241, l’abbé de Lérins, contraint par l’endettement, vend la seigneurie de Roquefort-les-Pins aux habitants de Saint-Paul-de-Vence pour 16 000 sols raimondi.",
+ "histoire": {
+  "recit": "Roquefort-les-Pins est une commune des Alpes-Maritimes, membre de la communauté d’agglomération Sophia Antipolis, où l’on appelle les habitants les Roquefortois. Au Moyen Âge, le destin du fief s’entrecroise : d’abord aux seigneurs d’Antibes, puis à l’Abbaye de Lérins. En 1241, l’abbaye, lourdement endettée, cède la seigneurie aux habitants de Saint-Paul-de-Vence, tout en gardant la propriété de la chapelle de San Peyre. Le château, lui, a laissé une autre histoire : perché au lieu-dit du Castellas, il a été détruit pendant la guerre de Cent ans, en 1341, sur ordre du comte de Provence. Aujourd’hui, il n’en reste que des vestiges : remparts, donjon et une abside d’église romane.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Le fief de Roquefort-les-Pins est détenu par les seigneurs d’Antibes, avant d’être vendu à l’Abbaye de Lérins.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1241",
+    "texte": "L’abbé de Lérins, face à un endettement important, vend la seigneurie de Roquefort-les-Pins aux habitants de Saint-Paul-de-Vence pour 16 000 sols raimondi ; l’abbaye conserve la chapelle de San Peyre.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1341",
+    "texte": "Le château de Roquefort-les-Pins est détruit pendant la guerre de Cent ans, sur ordre du comte de Provence.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Roquefort-les-Pins",
+   "histoire": "Les ruines du château de Roquefort se dressaient au sommet d’une colline, au lieu-dit du Castellas, dans la commune de Roquefort-les-Pins. Selon les historiens, le château a été détruit en 1341, durant la guerre de Cent ans, sur ordre du comte de Provence.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des vestiges subsistent : des remparts, un donjon et une abside d’église romane.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 43.68674,
+   "lon": 7.068799,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Roquefort-les-Pins"
+  }
+ ],
+ "sources": [
+  "Roquefort-les-Pins est une commune française située dans le département des Alpes-Maritimes en région Provence-Alpes-Côte d'Azur. Elle appartient à la communauté d'agglomération Sophia Antipolis. Ses habitants sont appelés les Roquefortois.",
+  "Au XIe siècle, le fief est possédé par les seigneurs d'Antibes qui le vendent à l'Abbaye de Lérins, mais en 1241, l'abbé de Lérins, du fait de l'endettement important que connait alors l'abbaye, est contraint de vendre la seigneurie de Roquefort-les-Pins aux habitants de Saint-Paul-de-Vence pour le prix de 16 000 sols raimondi, l'abbaye restant propriétaire de la chapelle de San Peyre. En 1547, à la suite des […]",
+  "Lieu « Château de Roquefort-les-Pins » : Les ruines du château de Roquefort se trouvent au sommet d'une colline au lieu-dit du Castellas dans la commune de Roquefort-les-Pins.",
+  "Lieu « Château de Roquefort-les-Pins », 1341 : Selon les historiens, le château a été détruit durant la guerre de Cent ans, en 1341, sur ordre du comte de Provence.",
+  "Lieu « Château de Roquefort-les-Pins », aujourd'hui : Le château est à l'état de ruines (vestiges de remparts, d'un donjon, d'une abside d'église romane…)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

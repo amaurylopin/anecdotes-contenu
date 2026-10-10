@@ -1,0 +1,161 @@
+{
+ "commune": {
+  "titre": "La Trinité (Alpes-Maritimes)",
+  "code_insee": "06149",
+  "departement": "06",
+  "population": 10602,
+  "lat": 43.74166667,
+  "lon": 7.31472222,
+  "url": "https://fr.wikipedia.org/wiki/La_Trinit%C3%A9_%28Alpes-Maritimes%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:52:38",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1635,
+  "sortie": 937
+ },
+ "cout_usd": 0.001498,
+ "accroche": "En 1818, La Trinité se détache d’Èze, avant de devenir simplement La Trinité en 1951.",
+ "histoire": {
+  "recit": "Autrefois hameau d’Èze, La Trinité s’en détache en 1818, puis se dote d’un nom dédié au roi de Sardaigne : La Trinité-Victor. La commune concentre ensuite son urbanisation dans la plaine bordant le Paillon de Nice, à l’ouest, où l’activité agricole tient une place essentielle. \n\nAu cœur du bourg, l’Église de la Très-Sainte-Trinité de La Trinité rappelle une ambition néo-classique : son projet original reprend pour modèle l’église turinoise de la « Gran Madre di Dio ». Mais ce bel édifice connaît des revers : en septembre 1841, la nouvelle couverture s’effondre ; puis en 1878, après un premier orage, la chapelle est détruite par un incendie.\n\nPlus loin, la Gare de La Trinité-Victor témoigne d’une liaison construite pour le quotidien : la station est mise en service le 31 octobre 1928 lors de l’ouverture à l’exploitation de la ligne Nice à Breil et à Coni.\n\nEnfin, sur la Grande Corniche, Astrorama accueille le public au fort de la Revère, aujourd’hui porté par la création d’un itinéraire touristique issu de l’idée de l’itinéraire Cassini.",
+  "chronologie": [
+   {
+    "date": "1818",
+    "texte": "La Trinité se détache d’Èze et est appelée d’abord La Trinité-Victor en l’honneur de Victor-Emmanuel Ier.",
+    "sources": [
+     "S2",
+     "S1"
+    ]
+   },
+   {
+    "date": "1951",
+    "texte": "Le nom officiel devient simplement La Trinité.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1827",
+    "texte": "Le projet original de l’église reprend pour modèle l’église turinoise de la « Gran Madre di Dio ».",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "septembre 1841",
+    "texte": "Pendant la pose de la nouvelle couverture, l’église s’effondre.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "La chapelle est détruite par un incendie après le premier orage.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "31 octobre 1928",
+    "texte": "Mise en service de la station de La Trinité-Victor lors de l’ouverture à l’exploitation de la ligne Nice à Breil et à Coni.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1997",
+    "texte": "Création par Jean-Louis Heudier d’un itinéraire touristique de vulgarisation, relié à l’itinéraire Cassini.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église de la Très-Sainte-Trinité de La Trinité",
+   "histoire": "Église catholique de La Trinité, elle reprend un modèle turinois pour son projet original et s’inscrit dans une architecture néo-classique.",
+   "anecdotes": [
+    {
+     "texte": "En septembre 1841, la pose de la nouvelle couverture tourne mal : elle s’effondre.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1878, après un premier orage, le toit en tuiles vernissées se révèle poreux et la chapelle est détruite par un incendie.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S2"
+   ],
+   "lat": 43.743502,
+   "lon": 7.314442,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_la_Tr%C3%A8s-Sainte-Trinit%C3%A9_de_La_Trinit%C3%A9"
+  },
+  {
+   "nom": "Gare de La Trinité-Victor",
+   "histoire": "Gare ferroviaire française située sur la ligne de Nice à Breil-sur-Roya, implantée sur le territoire de La Trinité.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 43.74323,
+   "lon": 7.312058,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Trinit%C3%A9-Victor"
+  },
+  {
+   "nom": "Astrorama",
+   "histoire": "Lieu ouvert au grand public, installé au fort de la Revère, sur la Grande Corniche, au col d’Èze, entre Nice et La Turbie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Créé par Jean-Louis Heudier en 1997, le site propose un itinéraire touristique de vulgarisation scientifique autour des Cassini.",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 43.74083333,
+   "lon": 7.3575,
+   "url": "https://fr.wikipedia.org/wiki/Astrorama"
+  }
+ ],
+ "sources": [
+  "La Trinité est une commune française située dans le département des Alpes-Maritimes en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Trinitaires. Elle fut également appelée La Trinité-Victor en l'honneur de Victor-Emmanuel Ier. (Albertville doit aussi son nom à la maison de Savoie.) Sous domination du royaume de Piémont-Sardaigne jusqu'en 1860, le nom officiel en italien était Trinità Vittorio. […]",
+  "Ancien hameau de la commune d'Èze dont il fut détaché en 1818, appelée d'abord La Trinité-Victor en l'honneur de Victor-Emmanuel Ier, roi de Sardaigne, avant de devenir simplement La Trinité en 1951. La commune concentra le développement de son urbanisation dans la plaine bordant le Paillon de Nice localisée à l'Ouest de la commune avec des activités agricoles. La Trinité possède une église de style néo-classique […]",
+  "XVIIe siècle : Le sanctuaire Notre-Dame de Laghet, qu'on atteint par une petite route qui serpente dans les oliviers, est un monastère qui fut construit au XVIIe siècle, à la suite de l'apparition de miracles en ce lieu.",
+  "Lieu « Église de la Très-Sainte-Trinité de La Trinité » : L’église de la Très-Sainte-Trinité, ou église de la Sainte-Trinité, est une église catholique située à La Trinité, en France.",
+  "Lieu « Église de la Très-Sainte-Trinité de La Trinité », 1827 : Comme le signale l'architecte, son projet original reprend pour modèle l'église turinoise de la « Gran Madre di Dio », construite entre 1827 et 1831 par Ferdinando Monsignore.",
+  "Lieu « Église de la Très-Sainte-Trinité de La Trinité », 1841 : Pendant la pose de la nouvelle couverture, en septembre 1841, elle s'effondre.",
+  "Lieu « Église de la Très-Sainte-Trinité de La Trinité », 1878 : Au premier orage, le toit en tuiles vernissées s'est révélé poreux et en 1878, la chapelle est détruite par un incendie.",
+  "Lieu « Gare de La Trinité-Victor » : La gare de La Trinité-Victor est une gare ferroviaire française de la ligne de Nice à Breil-sur-Roya, située sur le territoire de la commune de La Trinité, dans le département des Alpes-Maritimes, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de La Trinité-Victor », 1928 : La station de La Trinité-Victor est mise en service le 31 octobre 1928 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), lors de l'ouverture à l'exploitation de la ligne de Nice à Breil et à Coni.",
+  "Lieu « Astrorama » : L'Astrorama est un lieu ouvert au grand public situé au fort de la Revère à 650 m d'altitude, sur la commune de La Trinité, sur la Grande Corniche, au col d’Èze, entre Nice et La Turbie.",
+  "Lieu « Astrorama », aujourd'hui : Créé par Jean-Louis Heudier en 1997, l'itinéraire Cassini est un outil touristique de vulgarisation scientifique permettant à tous les publics de visiter la France et l'Italie sur les traces des cinq générations de Cassini à travers les préoccupations des astronomes et des géographes des XVIIe, XVIIIe et XIXe siècles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

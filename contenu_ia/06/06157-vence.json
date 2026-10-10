@@ -1,0 +1,227 @@
+{
+ "commune": {
+  "titre": "Vence",
+  "code_insee": "06157",
+  "departement": "06",
+  "population": 19917,
+  "lat": 43.72246544,
+  "lon": 7.11186228,
+  "url": "https://fr.wikipedia.org/wiki/Vence"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:11:51",
+ "lieux_ecartes_autre_commune": 9,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2040,
+  "sortie": 1435
+ },
+ "cout_usd": 0.002202,
+ "accroche": "À Vence, la cathédrale de la Nativité-de-Marie s’élève sur l’emplacement d’un temple de Mars puis d’une église mérovingienne.",
+ "histoire": {
+  "recit": "À Vence, les traces d’occupation remontent très loin : des grottes des baous auraient été fréquentées du Paléolithique au Néolithique, puis auraient servi d’abris de bergers à l’âge du bronze et à l’âge du fer. On y reviendrait encore à l’Antiquité, au Moyen Âge et à l’époque moderne. \n\nPlus tard, la ville se construit une trajectoire nette : fondée par les Ligures, citée romaine de Vintium, elle grandit avec le christianisme et devient une importante ville épiscopale à partir du IVe siècle. \n\nDans le centre historique, les Remparts de Vence dessinent encore leur contour : construits probablement au XIIIe siècle, ils entouraient le cœur de la ville, et certains éléments du XVIIe siècle sont venus s’y ajouter, avec une tour liée à un logis seigneurial avant la construction du château des Villeneuve. \n\nPlus près de nous, le viaduc du Malvan, pont en arc sur la commune, reste debout malgré les destructions de 1944, puis il est adapté pour assurer le tracé de la route départementale 6. Enfin, la Chapelle du Rosaire dite chapelle Matisse, érigée entre 1949 et 1951, et l’École Freinet, fondée en 1934-1935 puis rouverte en 1945, montrent une autre façon de faire vivre la commune.",
+  "chronologie": [
+   {
+    "date": "IVe siècle",
+    "texte": "Vence passe de cité romaine de Vintium à une ville épiscopale importante avec le christianisme.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Probablement XIIIe siècle",
+    "texte": "Les remparts de Vence sont construits et forment une enceinte autour du centre historique.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Les remparts s’enrichissent d’ouvrages au XVIIe siècle, possiblement liés à un logis médiéval et à la tour du Peyra.",
+    "sources": [
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Sur la ligne, plusieurs viaducs sont détruits ; celui du Malvan reste debout.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "Le viaduc est reconstruit et réaffecté pour assurer le tracé de la route départementale 6.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1974",
+    "texte": "Le tablier du pont est élargi avec une dalle en béton armé.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1949",
+    "texte": "La chapelle du Rosaire dite chapelle Matisse est érigée pour le couvent des Dominicains.",
+    "sources": [
+     "S14",
+     "S15"
+    ]
+   },
+   {
+    "date": "1951",
+    "texte": "La chapelle du Rosaire est achevée et Matisse est cité à propos des stations du chemin de croix.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1934-1935",
+    "texte": "L’École Freinet est fondée par Célestin Freinet au quartier du Pioulier.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1945",
+    "texte": "L’École Freinet rouvre après une fermeture pendant la Seconde Guerre mondiale.",
+    "sources": [
+     "S22"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Remparts de Vence",
+   "histoire": "Une enceinte entoure le centre historique de Vence : construits probablement au XIIIe siècle, les remparts conservent encore des crénelages visibles sur plusieurs façades. Au XVIIe siècle, des parties sont édifiées et une tour y joue un rôle avant la construction du château des Villeneuve.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les crénelages et des éléments constructifs des remparts sont encore visibles sur plusieurs façades.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S8",
+    "S7"
+   ],
+   "lat": 43.7227,
+   "lon": 7.11255,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Vence"
+  },
+  {
+   "nom": "Viaduc du Malvan (Chemins de fer de Provence)",
+   "histoire": "Pont en arc sur la commune de Vence, le viaduc du Malvan reste debout lors de destructions de 1944. Il est ensuite reconstruit et adapté pour le tracé de la route départementale 6, puis son tablier est élargi à la fin des adaptations.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, alors que plusieurs viaducs de la ligne sont détruits, celui du Malvan demeure debout.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il est intégré à la route départementale 6 qui mène à Saint-Paul de Vence.",
+   "sources": [
+    "S9",
+    "S11",
+    "S10",
+    "S13"
+   ],
+   "lat": 43.724281,
+   "lon": 7.090642,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_du_Malvan_%28Chemins_de_fer_de_Provence%29"
+  },
+  {
+   "nom": "Chapelle du Rosaire (Vence)",
+   "histoire": "La chapelle du Rosaire, dite aussi chapelle Matisse, est une chapelle érigée de 1949 à 1951 à Vence pour le couvent des Dominicains.",
+   "anecdotes": [
+    {
+     "texte": "Matisse raconte, via le journal du père Couturier du 9 août 1951, qu’il faut « savoir tellement par cœur qu'on puisse les dessiner les yeux fermés ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 43.7275055,
+   "lon": 7.1128722,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_du_Rosaire_%28Vence%29"
+  },
+  {
+   "nom": "Cathédrale de la Nativité-de-Marie de Vence",
+   "histoire": "Cathédrale catholique à Vence, elle est construite à partir du XIe siècle et a été le siège de l’ancien diocèse jusqu’à la Révolution. Elle surprend par son mélange architectural, sur l’emplacement d’un temple de Mars puis d’une église mérovingienne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Construite sur l’emplacement d’un temple de Mars puis d’une église mérovingienne, elle présente des styles roman, gothique et baroque.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 43.722778,
+   "lon": 7.113889,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_de_la_Nativit%C3%A9-de-Marie_de_Vence"
+  },
+  {
+   "nom": "École Freinet",
+   "histoire": "École publique située au 1133 chemin Célestin-Freinet à Vence, l’École Freinet est fondée par Célestin Freinet en 1934-1935 au quartier du Pioulier. Fermée pendant la Seconde Guerre mondiale, elle rouvre en 1945.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 43.7263,
+   "lon": 7.13385,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89cole_Freinet"
+  }
+ ],
+ "sources": [
+  "Vence est une commune française située dans le département des Alpes-Maritimes en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Vençois.",
+  "Le territoire de la commune de Vence a livré des indices d'occupation remontant aux époques les plus anciennes. Certaines grottes des baous semblent avoir été occupées au Paléolithique et au Néolithique. Certaines d'entre elles semblent avoir servi de bergerie ou d'abris de bergers durant l'âge du bronze et l'âge du fer. Elles sont aussi fréquentées durant l'Antiquité, le Moyen Âge et l'époque moderne. On note […]",
+  "IVe siècle : Fondée par les Ligures, puis cité romaine de Vintium, elle vit croître sa puissance avec le christianisme et devint une importante ville épiscopale à partir du IVe siècle.",
+  "Lieu « Remparts de Vence » : Les remparts de Vence, construits probablement au XIIIe siècle, constituent une enceinte entourant le centre historique de Vence dans les Alpes-Maritimes.",
+  "Lieu « Remparts de Vence », XIIIe siècle : Les remparts de Vence, construits probablement au XIIIe siècle, constituent une enceinte entourant le centre historique de Vence dans les Alpes-Maritimes.",
+  "Lieu « Remparts de Vence », XVIIe siècle : Il a été édifié au XVIIe siècle, sans doute sur un logis médiéval datant de la tour du Peyra érigée avec l'enceinte et accolée au château.",
+  "Lieu « Remparts de Vence », XVIIe siècle : La tour servit de logis seigneurial avant la construction du château des Villeneuve construit au XVIIe siècle.[réf. nécessaire]",
+  "Lieu « Remparts de Vence », aujourd'hui : Les crénelages et des éléments constructifs des remparts sont encore visibles sur plusieurs façades.",
+  "Lieu « Viaduc du Malvan (Chemins de fer de Provence) » : Le viaduc de Malvan est un pont en arc situé sur la commune de Vence dans les Alpes-Maritimes.",
+  "Lieu « Viaduc du Malvan (Chemins de fer de Provence) », 1944 : Plusieurs autres ouvrages d'art de la ligne ayant été détruits en 1944 à la suite de faits de guerre, il sera reconstruit réaffecté en 1966[réf. nécessaire], pour assurer le tracé de la route départementale 6.",
+  "Lieu « Viaduc du Malvan (Chemins de fer de Provence) », 1944 : 1944, plusieurs viaducs sont détruits sur la ligne ; celui des Chemins de fer de Provence à Malvan reste debout.",
+  "Lieu « Viaduc du Malvan (Chemins de fer de Provence) », 1974 : 1974 : élargissement du tablier du nouveau pont construit en 1966 par une dalle en béton armé.",
+  "Lieu « Viaduc du Malvan (Chemins de fer de Provence) », aujourd'hui : Actuellement, il est intégré à la route départementale 6 qui mène à Saint-Paul de Vence.",
+  "Lieu « Chapelle du Rosaire (Vence) » : La chapelle du Rosaire, dite aussi chapelle Matisse, est une chapelle érigée de 1949 à 1951 à Vence (Alpes-Maritimes) pour le couvent des Dominicains.",
+  "Lieu « Chapelle du Rosaire (Vence) », 1949 : La chapelle du Rosaire, dite aussi chapelle Matisse, est une chapelle érigée de 1949 à 1951 à Vence (Alpes-Maritimes) pour le couvent des Dominicains.",
+  "Lieu « Chapelle du Rosaire (Vence) », 1951 : « Parlant des stations du chemin de croix dont il a recommencé sans fin les études, Matisse me disait : « Ces choses-là il faut les savoir tellement par cœur qu'on puisse les dessiner les yeux fermés ». » — Journal du père Couturier le 9 août 1951",
+  "Lieu « Cathédrale de la Nativité-de-Marie de Vence » : La cathédrale de la Nativité-de-Marie de Vence est une cathédrale catholique située à Vence (Alpes-Maritimes, France).",
+  "Lieu « Cathédrale de la Nativité-de-Marie de Vence », XIe siècle : Construite à partir du XIe siècle, elle était le siège de l'ancien diocèse de Vence jusqu'à la Révolution.",
+  "Lieu « Cathédrale de la Nativité-de-Marie de Vence », aujourd'hui : Construite sur l'emplacement d'un temple de Mars puis d'une église mérovingienne, elle surprend par son caractère hétéroclite : roman, gothique, baroque.",
+  "Lieu « École Freinet » : L'École Freinet est une école publique située au 1133 chemin Célestin-Freinet, à Vence, dans le département français des Alpes-Maritimes.",
+  "Lieu « École Freinet », 1934 : L'École Freinet au quartier du Pioulier à Vence a été fondée par Célestin Freinet en 1934-1935.",
+  "Lieu « École Freinet », 1945 : L'École Freinet fut fermée pendant la Seconde Guerre mondiale, mais elle ouvrit à nouveau en 1945."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}

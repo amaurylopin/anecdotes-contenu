@@ -1,0 +1,244 @@
+{
+ "commune": {
+  "titre": "Vallauris",
+  "code_insee": "06155",
+  "departement": "06",
+  "population": 29259,
+  "lat": 43.58055556,
+  "lon": 7.05388889,
+  "url": "https://fr.wikipedia.org/wiki/Vallauris"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:52:09",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2313,
+  "sortie": 1661
+ },
+ "cout_usd": 0.002539,
+ "accroche": "À Vallauris, en 1932, le château de l’Horizon est construit sur les bords du golfe Juan pour Maxine Elliott, par l’architecte Barry Dierks.",
+ "histoire": {
+  "recit": "Vallauris est une commune des Alpes-Maritimes connue pour son histoire de l’art et pour ses traces très anciennes. Le territoire a été occupé dès la fin de l’âge du fer, et la période romaine fournit les traces les plus nombreuses. Plus tard, l’oppidum des Encourdoules passe d’un rempart à un village agricole, avec des bassins liés à la fabrication du vin ou de l’huile, avant d’être abandonné vers la fin du IIe siècle. Du côté du Mont-Pezou, un autre oppidum est détruit à la fin de l’empire romain, puis les indices du premier établissement restent difficiles à dater.\n\nAu XXe siècle, la renommée artistique prend un relief net : Picasso fait don à la ville de L’Homme au mouton en 1950, puis la fresque La Guerre et la Paix est installée dans une salle du château devenu musée national. Le musée Picasso conserve notamment La Guerre et La Paix dans la chapelle du château, place de la Libération, depuis 1959. Dans le même temps, d’autres repères marquent le paysage, du phare de Vallauris jusqu’au lieu-dit Super-Cannes né d’un projet touristique.",
+  "chronologie": [
+   {
+    "date": "fin de l’âge du fer",
+    "texte": "Les plus anciennes traces d’occupation reconnues à Vallauris remontent à la fin de l’âge du fer.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "époque romaine",
+    "texte": "Les traces les plus nombreuses appartiennent à la période romaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "milieu du Ier siècle av. J.-C.",
+    "texte": "Jusqu’au milieu du Ier siècle av. J.-C., il ne semble pas y avoir d’occupation au-delà.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "époque augustéenne",
+    "texte": "L’oppidum des Encourdoules, d’abord occupé aux IIe et Ier siècles av. J.-C., déborde le rempart initial à l’époque augustéenne.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "fin du IIe siècle",
+    "texte": "Le village des Encourdoules est « abandonné » vers la fin du IIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1932",
+    "texte": "Le château de l’Horizon est construit en 1932 par Barry Dierks pour Maxine Elliott, sur les bords du golfe Juan.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1950",
+    "texte": "Picasso fait don à la ville de L’Homme au mouton en 1950.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1959",
+    "texte": "La chapelle du château abrite La Guerre et La Paix dans le musée Picasso, depuis 1959.",
+    "sources": [
+     "S18",
+     "S20"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de l'Horizon",
+   "histoire": "Grande résidence moderniste construite en 1932 par l’architecte américain Barry Dierks pour sa compatriote, l’actrice Maxine Elliott, sur les bords du golfe Juan.",
+   "anecdotes": [
+    {
+     "texte": "Dès l’origine, la piscine forme un très long rectangle devant le corps principal et surplombe la mer, parallèlement au rivage.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château est aujourd’hui la résidence estivale privée du roi Salmane d’Arabie saoudite.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 43.554644,
+   "lon": 7.062222,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27Horizon"
+  },
+  {
+   "nom": "Oppidum des Encourdoules",
+   "histoire": "Oppidum ligure situé sur la commune de Vallauris, transformé en village agricole à partir de la période des remparts, avec des installations liées au pressage du vin ou de l’huile.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S4",
+    "S5",
+    "S14"
+   ],
+   "lat": 43.58739112,
+   "lon": 7.06131748,
+   "url": "https://fr.wikipedia.org/wiki/Oppidum_des_Encourdoules"
+  },
+  {
+   "nom": "Oppidum du Mont-Pezou",
+   "histoire": "Oppidum ligure à la limite du Cannet, détruit à la fin de l’empire romain ; la découverte de matériaux en 1964-1965 peut aider à reculer le premier établissement, mais la date de l’enceinte demeure inconnue.",
+   "anecdotes": [
+    {
+     "texte": "La date de construction de l’enceinte n’est pas actuellement connue, faute de fouilles récentes.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.57031923,
+   "lon": 7.03706837,
+   "url": "https://fr.wikipedia.org/wiki/Oppidum_du_Mont-Pezou"
+  },
+  {
+   "nom": "Musée Picasso (Vallauris)",
+   "histoire": "Le musée Picasso de Vallauris abrite deux œuvres de Picasso, La Guerre et La Paix, installées dans la chapelle du château, place de la Libération, à Vallauris.",
+   "anecdotes": [
+    {
+     "texte": "Avant l’installation « depuis 1959 », les deux œuvres sont placées en 1954 dans la chapelle romane du château.",
+     "statut": "etabli",
+     "sources": [
+      "S19",
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le musée Picasso présente La Guerre et La Paix dans la chapelle du château, place de la Libération.",
+   "sources": [
+    "S18",
+    "S20"
+   ],
+   "lat": 43.579702,
+   "lon": 7.052693,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Picasso_%28Vallauris%29"
+  },
+  {
+   "nom": "Phare de Vallauris",
+   "histoire": "Phare situé sur la commune de Vallauris.",
+   "anecdotes": [
+    {
+     "texte": "Le premier phare, haut de 17 mètres, est édifié en bord de mer à Golfe-Juan en 1900.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 43.5681,
+   "lon": 7.0616,
+   "url": "https://fr.wikipedia.org/wiki/Phare_de_Vallauris"
+  },
+  {
+   "nom": "Super-Cannes",
+   "histoire": "Lieu-dit situé sur les communes de Vallauris et de Cannes, dans les hauteurs du quartier Californie - Pezou.",
+   "anecdotes": [
+    {
+     "texte": "Le lieu-dit naît d’un projet de lotissement conçu en 1924 pour devenir résidentiel et touristique, avec un hôtel, une auberge et une tour d’observation accessibles par un funiculaire, dont ne subsistent que des vestiges délabrés et un château d’eau.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne subsiste du projet que des vestiges délabrés et un château d’eau.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 43.56083,
+   "lon": 7.04972,
+   "url": "https://fr.wikipedia.org/wiki/Super-Cannes"
+  }
+ ],
+ "sources": [
+  "Vallauris [valoʁis] est une commune française située dans le département des Alpes-Maritimes, en région Provence-Alpes-Côte d'Azur. Vallauris fait partie de la technopole de Sophia Antipolis et fait partie intégrante de la communauté d'agglomération de Sophia Antipolis. La ville de Vallauris est connue dans l'histoire de l'art pour avoir accueilli le peintre Pablo Picasso, qui a relancé l'artisanat de la céramique […]",
+  "Le territoire de Vallauris est habité depuis des temps reculés. Les traces d'occupation reconnues les plus anciennes remontent à la fin de l'âge du fer, mais les plus nombreuses appartiennent à la période romaine. Dans les années 1970, le curage d'un aven situé dans le quartier Saint-Bernard a permis la mise au jour de bracelets de bronze et d'armes en fer volontairement tordues associés à des ossements humains. Les […]",
+  "Ier siècle : Il ne semble pas avoir été occupé au-delà du milieu du Ier siècle av. J.-C.",
+  "Ier siècle : Occupé durant les IIe et Ier siècles av. J.-C., l'oppidum des Encourdoules se transforme en village agricole et déborde le rempart initial à l'époque augustéenne.",
+  "IIe siècle : Le village, qui abritait de nombreux bassins de pressage destinés à la fabrication du vin ou d'huile, est « abandonné » vers la fin du IIe siècle, au moment où de grandes exploitations viticoles ou oléicoles sont fondées dans la région, comme le Candéou à Peymeinade, au carrefour des Chappes à Biot.",
+  "1950 : Picasso fait don à la ville de l’Homme au mouton en 1950, et, en 1955, de la fresque La Guerre et la Paix installée dans une salle du château devenu musée national.",
+  "Lieu « Château de l'Horizon » : Le château de l'Horizon ou château de l'Aurore est une grande résidence moderniste construite en 1932 par l'architecte américain Barry Dierks pour sa compatriote, l'actrice Maxine Elliott, sur les bords du golfe Juan, à Vallauris (Alpes-Maritimes).",
+  "Lieu « Château de l'Horizon », 1932 : Le château de l'Horizon ou château de l'Aurore est une grande résidence moderniste construite en 1932 par l'architecte américain Barry Dierks pour sa compatriote, l'actrice Maxine Elliott, sur les bords du golfe Juan, à Vallauris (Alpes-Maritimes).",
+  "Lieu « Château de l'Horizon », 1932 : La piscine construite initialement, d'une taille inusitée en 1932, était un très long rectangle qui s'étendait devant tout le corps principal et surplombait la mer, parallèlement au rivage.",
+  "Lieu « Château de l'Horizon », aujourd'hui : Le château est aujourd'hui la résidence estivale privée du roi Salmane d'Arabie saoudite.",
+  "Lieu « Oppidum des Encourdoules » : L’oppidum des Encourdoules est un oppidum ligure situé sur la commune de Vallauris dans le département français des Alpes-Maritimes.",
+  "Lieu « Oppidum des Encourdoules », IIe siècle : Vers la fin du IIe siècle ou au début du IIIe siècle, ces installations agricoles sont abandonnées.",
+  "Lieu « Oppidum des Encourdoules », IIIe siècle : L'oppidum doit dater de la fin du IIIe siècle ou au début du IIe siècle av. J.-C. L'oppidum a été occupé jusqu'au IVe siècle apr. J.-C. L'oppidum était entouré d'une enceinte.",
+  "Lieu « Oppidum des Encourdoules », aujourd'hui : Les vestiges de mobilier se raréfient au bas-Empire montrant une occupation qui périclite.",
+  "Lieu « Oppidum du Mont-Pezou » : L’oppidum du Pezou est un oppidum ligure situé sur la commune de Vallauris dans le département français des Alpes-Maritimes, à la limite du Cannet.",
+  "Lieu « Oppidum du Mont-Pezou », IIIe siècle : L'oppidum a été détruit à la fin de l'empire romain, probablement à l'époque datée par les découvertes de monnaies de Tétricus, de fragments de poteries sigillées et de verreries romaines (IIIe siècle de notre ère).",
+  "Lieu « Oppidum du Mont-Pezou », aujourd'hui : Cette découverte en 1964-1965 de matériaux peut permettre de reculer à une date encore indéterminée le premier établissement sur le site mais la date de construction de l'enceinte n'est pas actuellement connue (âge du bronze, 2e âge du fer ?) en l'absence de fouilles récentes.",
+  "Lieu « Musée Picasso (Vallauris) » : Le musée Picasso de Vallauris abrite deux œuvres de Picasso La Guerre et La Paix, installées dans la chapelle du château, place de la Libération, à Vallauris, Alpes-Maritimes, depuis 1959.",
+  "Lieu « Musée Picasso (Vallauris) », 1954 : En 1954, les deux œuvres sont installées dans la chapelle romane du château de Vallauris.",
+  "Lieu « Musée Picasso (Vallauris) », 1959 : Le musée Picasso de Vallauris abrite deux œuvres de Picasso La Guerre et La Paix, installées dans la chapelle du château, place de la Libération, à Vallauris, Alpes-Maritimes, depuis 1959.",
+  "Lieu « Phare de Vallauris » : Le phare de Vallauris est situé sur la commune de Vallauris (Alpes-Maritimes).",
+  "Lieu « Phare de Vallauris », 1900 : Le premier phare d'une hauteur de 17 mètres est édifié en bord de mer, à Golfe-Juan, en 1900.",
+  "Lieu « Super-Cannes » : Super-Cannes est un lieu-dit situé sur les communes de Vallauris et de Cannes dans les hauteurs du quartier Californie - Pezou.",
+  "Lieu « Super-Cannes », aujourd'hui : Le projet de lotissement, conçu en 1924 pour être un site résidentiel et touristique avec un hôtel, une auberge et une tour d'observation accessibles par un funiculaire et dont ne subsistent que des vestiges délabrés et un château d'eau, est à l'origine du lieu-dit."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 5
+ }
+}

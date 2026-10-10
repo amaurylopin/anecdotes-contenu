@@ -1,0 +1,187 @@
+{
+ "commune": {
+  "titre": "Mougins",
+  "code_insee": "06085",
+  "departement": "06",
+  "population": 19782,
+  "lat": 43.6006,
+  "lon": 6.9942,
+  "url": "https://fr.wikipedia.org/wiki/Mougins"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:12:02",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1848,
+  "sortie": 1212
+ },
+ "cout_usd": 0.001885,
+ "accroche": "À Mougins, le musée Femmes artistes du musée de Mougins a été inauguré le 21 juin 2024 par le collectionneur Christian Levett.",
+ "histoire": {
+  "recit": "Mougins, commune des Alpes-Maritimes, porte une longue histoire d’occupation. Sur son territoire, les traces les plus anciennes évoquent le Néolithique final ou le Chalcolithique, avec une grotte sépulcrale ou aven des Bréguières, fouillé entre 1966 et 1967.\n\nL’époque romaine y laisse aussi des vestiges: au moins trois établissements ruraux sont attestés, dont le Guillet, village agricole orienté vers la viticulture ou l’oléiculture, occupé du Ier siècle au IVe siècle au plus tôt.\n\nPlus tard, le paysage de Mougins s’organise autour de lieux qui continuent d’attirer: dans le village médiéval, le musée privé des Femmes artistes du musée de Mougins ouvre ses portes en 2024, après une première inauguration du MACM en juin 2011.\n\nLa commune se raconte aussi par la table, avec Le Moulin de Mougins, restaurant qui obtient une première étoile au Guide Michelin en 1970, puis change de chef en 2009. Et pour les amateurs d’images contemporaines, le Centre de la photographie de Mougins, inauguré le 3 juillet 2021, propose des expositions dédiées à la photographie.",
+  "chronologie": [
+   {
+    "date": "1966-1967",
+    "texte": "L’aven des Bréguières est fouillé par Maurice Sechter, médecin et archéologue amateur; il a livré les restes de 61 individus.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle - IVe siècle (au plus tôt)",
+    "texte": "Le Guillet est occupé comme village agricole spécialisé dans la viticulture ou l’oléiculture, du Ier siècle au IVe siècle au plus tôt.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Ier siècle - IIIe siècle",
+    "texte": "La Borde ou Carimaï est occupée du Ier siècle jusqu’au IIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "juin 2011",
+    "texte": "Christian Levett inaugure le MACM dans le village médiéval de Mougins, perché au sommet d’une colline.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "3 juillet 2021",
+    "texte": "Le Centre de la photographie de Mougins est inauguré.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "21 juin 2024",
+    "texte": "Le musée Femmes artistes du musée de Mougins (FAMM), anciennement MACM, est inauguré par Christian Levett.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Le Moulin de Mougins gagne une première étoile au Guide Michelin l’année suivant son ouverture.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2009",
+    "texte": "Alain Llorca est remplacé par Sébastien Chambru au Moulin de Mougins.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Femmes artistes du musée de Mougins",
+   "histoire": "Le musée Femmes artistes du musée de Mougins (FAMM), anciennement Musée d'art classique de Mougins (MACM), est un musée d'art privé inauguré le 21 juin 2024 par le collectionneur Christian Levett. En juin 2011, Levett avait déjà inauguré le MACM dans le village médiéval de Mougins.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Musée d'art privé inauguré le 21 juin 2024 à Mougins.",
+   "sources": [
+    "S7",
+    "S6"
+   ],
+   "lat": 43.601316,
+   "lon": 6.99485,
+   "url": "https://fr.wikipedia.org/wiki/Femmes_artistes_du_mus%C3%A9e_de_Mougins"
+  },
+  {
+   "nom": "Le Moulin de Mougins",
+   "histoire": "Le Moulin de Mougins est un restaurant situé à Mougins. Il obtient une première étoile au Guide Michelin l’année suivant son ouverture, puis voit un changement de direction en 2009.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Restaurant à Mougins.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 43.5961194,
+   "lon": 7.00127222,
+   "url": "https://fr.wikipedia.org/wiki/Le_Moulin_de_Mougins"
+  },
+  {
+   "nom": "Centre de la photographie de Mougins",
+   "histoire": "Le Centre de la photographie de Mougins est un lieu d'exposition voué à l'image et à la photographie contemporaine, inauguré le 3 juillet 2021 à Mougins.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Lieu d’exposition consacré à la photographie contemporaine, inauguré le 3 juillet 2021.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.600453,
+   "lon": 6.9952366,
+   "url": "https://fr.wikipedia.org/wiki/Centre_de_la_photographie_de_Mougins"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-de-Vie de Mougins",
+   "histoire": "Chapelle Notre-Dame-de-Vie est une chapelle du XVIe siècle située à Mougins. Son jardin accueille un tombeau monumental pour la famille Guinness construit en 1931, où a été inhumée Bridget.",
+   "anecdotes": [
+    {
+     "texte": "Dans le jardin de la chapelle, un monumental tombeau pour la famille Guinness a été construit en 1931, avec l’inhumation de Bridget, épouse de Benjamin Seymour Guinness.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Chapelle du XVIe siècle située à Mougins, avec un jardin où se trouve un tombeau monumental de 1931.",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 43.5952,
+   "lon": 7.00558,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-de-Vie_de_Mougins"
+  },
+  {
+   "nom": "Remparts de Mougins",
+   "histoire": "Les remparts de Mougins sont les vestiges d’un ensemble fortifié de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Vestiges d’un ensemble fortifié de Mougins.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 43.6004,
+   "lon": 6.99552,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Mougins"
+  }
+ ],
+ "sources": [
+  "Mougins ([muʒɛ̃]) est une commune française du département des Alpes-Maritimes, en région Provence-Alpes-Côte d'Azur, célèbre internationalement comme étant le lieu de décès de l'artiste Pablo Picasso. La commune, historiquement paysanne spécialisée dans la cueillette de jasmin, est aujourd'hui massivement urbanisée par une abondance de villas de style néo-provençal et moderne, ainsi que d'immeubles. Le tourisme y […]",
+  "Les traces d'occupation les plus anciennes découvertes sur le territoire semblent remonter au Néolithique final ou Chalcolithique et proviennent d'une grotte sépulcrale ou aven des Bréguières. Cette dernière, fouillée entre 1966 et 1967 par Maurice Sechter, médecin et archéologue amateur de la région de Cannes, n'a, pour l'heure, jamais été étudiée complètement. Elle a livré les restes de 61 individus associés à du […]",
+  "Ier siècle : On compte au moins trois établissements ruraux occupés durant la période romaine : le Guillet est un village agricole spécialisé dans la viticulture ou l'oléiculture, occupé entre le Ier siècle et le IVe siècle au plus tôt.",
+  "IIIe siècle : Comme de nombreux sites de la région, l'occupation romaine est précédée d'une occupation de la fin de l'âge du fer, probablement postérieure au IIIe siècle av. J.-C. ; la Borde ou Carimaï a été occupée du Ier siècle jusqu'au IIIe siècle. bien que des traces remontant l'extrême fin de l'âge du fer aient été identifiées.",
+  "Lieu « Femmes artistes du musée de Mougins » : Le musée Femmes artistes du musée de Mougins (FAMM), anciennement Musée d'art classique de Mougins (MACM) est un musée d'art privé inauguré le 21 juin 2024 à Mougins, par le collectionneur Christian Levett.",
+  "Lieu « Femmes artistes du musée de Mougins », 2011 : En juin 2011, Levett a inauguré le MACM dans le village médiéval de Mougins, perché au sommet d’une colline dans le sud de la France.",
+  "Lieu « Femmes artistes du musée de Mougins », 2024 : Le musée Femmes artistes du musée de Mougins (FAMM), anciennement Musée d'art classique de Mougins (MACM) est un musée d'art privé inauguré le 21 juin 2024 à Mougins, par le collectionneur Christian Levett.",
+  "Lieu « Le Moulin de Mougins » : Le Moulin de Mougins est un restaurant situé à Mougins.",
+  "Lieu « Le Moulin de Mougins », 1970 : Le restaurant gagne une première étoile au Guide Michelin l'année suivant son ouverture, en 1970.",
+  "Lieu « Le Moulin de Mougins », aujourd'hui : En 2009, Alain Llorca est remplacé par Sébastien Chambru, meilleur ouvrier de France 2007.",
+  "Lieu « Centre de la photographie de Mougins » : Le Centre de la photographie de Mougins est un lieu d'exposition voué à l'image et à la photographie contemporaine, inauguré le 3 juillet 2021, situé à Mougins, dans le département des Alpes-Maritimes.",
+  "Lieu « Centre de la photographie de Mougins », 2021 : Le Centre de la photographie de Mougins est un lieu d'exposition voué à l'image et à la photographie contemporaine, inauguré le 3 juillet 2021, situé à Mougins, dans le département des Alpes-Maritimes.",
+  "Lieu « Chapelle Notre-Dame-de-Vie de Mougins » : La Chapelle Notre-Dame-de-Vie est une chapelle du XVIe siècle situé à Mougins dans le département français des Alpes-Maritimes.",
+  "Lieu « Chapelle Notre-Dame-de-Vie de Mougins », 1931 : Dans son jardin a été construit en 1931 un monumental tombeau pour la famille Guinness, dans lequel a été inhumée Bridget, épouse de Benjamin Seymour Guinness, décédée dans sa résidence voisine, le mas Notre-Dame-de-Vie.",
+  "Lieu « Remparts de Mougins » : Les remparts de Mougins sont les vestiges d'un ensemble fortifiée de la commune de Mougins, situé dans le département français des Alpes-Maritimes.",
+  "Lieu « Remparts de Mougins », aujourd'hui : Les remparts de Mougins sont les vestiges d'un ensemble fortifiée de la commune de Mougins, situé dans le département français des Alpes-Maritimes."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}
