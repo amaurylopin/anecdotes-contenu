@@ -1,0 +1,81 @@
+{
+ "commune": {
+  "titre": "Le Vauclin",
+  "code_insee": "97232",
+  "departement": "972",
+  "population": 8483,
+  "lat": 14.545556,
+  "lon": -60.838056,
+  "url": "https://fr.wikipedia.org/wiki/Le_Vauclin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:04",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 948,
+  "sortie": 581
+ },
+ "cout_usd": 0.000916,
+ "accroche": "Au Vauclin, une habitation du seigneur de Vauquelin est établie en 1720, et le quartier aurait donné son nom à la commune en 1837.",
+ "histoire": {
+  "recit": "Le Vauclin, au sud-est de la Martinique, rassemble des habitants appelés les Vauclinois et les Vauclinoises. Dans l’histoire du lieu, les grandes plantations jouent un rôle : c’est l’habitation du seigneur de Vauquelin, établie en 1720, dont les plantations de canne à sucre et de tabac sont mises en avant. Puis, en 1837, le quartier associé au nom de cette habitation est institué en commune.\n\nParmi les traces de ce passé, l’Habitation Mallevault a marqué le Vauclin comme une ancienne plantation coloniale. Ses vestiges anciens ont été reconnus au titre des Monuments historiques, ce qui permet encore de regarder, aujourd’hui, l’empreinte laissée par cette époque.",
+  "chronologie": [
+   {
+    "date": "1720",
+    "texte": "Une habitation du seigneur de Vauquelin est établie, nourrie par des plantations de canne à sucre et de tabac.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1837",
+    "texte": "Le quartier lié à cette habitation est institué en commune, et son nom serait issu de l’habitation.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "Les vestiges anciens de l’Habitation Mallevault sont inscrits aux Monuments historiques.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Habitation Mallevault",
+   "histoire": "L’Habitation Mallevault, ancienne plantation coloniale située au Vauclin, est connue sous plusieurs formes de nom : Mallevault, Malevault ou Malevaut.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges anciens sont inscrits aux Monuments historiques depuis 2004.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 14.510095,
+   "lon": -60.838071,
+   "url": "https://fr.wikipedia.org/wiki/Habitation_Mallevault"
+  }
+ ],
+ "sources": [
+  "Le Vauclin est une commune française, située dans le sud-est du département de la Martinique. Ses habitants sont appelés les Vauclinois et les Vauclinoises.",
+  "L'habitation du seigneur de Vauquelin, établie en 1720, enrichi par ses plantations de canne à sucre et de tabac, aurait laissé son nom au quartier institué en commune en 1837.",
+  "Lieu « Habitation Mallevault » : L'habitation Mallevault, Malevault ou Malevaut est une ancienne plantation coloniale située au Vauclin, dans le département de la Martinique, en France.",
+  "Lieu « Habitation Mallevault », aujourd'hui : Les vestiges anciens sont inscrits aux Monuments historiques depuis 2004."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

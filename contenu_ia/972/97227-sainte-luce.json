@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Sainte-Luce (Martinique)",
+  "code_insee": "97227",
+  "departement": "972",
+  "population": 9410,
+  "lat": 14.46666667,
+  "lon": -60.91666667,
+  "url": "https://fr.wikipedia.org/wiki/Sainte-Luce_%28Martinique%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:03:42",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1053,
+  "sortie": 527
+ },
+ "cout_usd": 0.000869,
+ "accroche": "À Sainte-Luce, le « Pont sur le Trou au Diable » s’étire sur 187 mètres et a été ouvert en 1984 pour passer par la RN 5 entre le Lamentin et le Marin.",
+ "histoire": {
+  "recit": "Sainte-Luce est une commune française de Martinique, habitée par des Lucéen(ne)s, au voisinage immédiat de Trois-Rivières, où se trouve la distillation du rhum Trois Rivières.\n\nDans le paysage local, le « Pont sur le Trou au Diable » donne une traversée remarquée : long de 187 mètres, il a été ouvert en 1984. On le suit sur la RN 5 pour contourner par le sud Rivière-Pilote et enjamber la baie du Trou au Diable.\n\nÀ quelques kilomètres, le hameau de « Trois Rivières (Martinique) » vit à son rythme : distant de 4 kilomètres de Sainte-Luce, il s’est structuré au point d’accueillir aujourd’hui des hôtels, des restaurants, des entreprises, et d’héberger le siège de résidences primaires et secondaires.",
+  "chronologie": [
+   {
+    "date": "1984",
+    "texte": "Le « Pont sur le Trou au Diable » est ouvert afin que la RN 5, entre le Lamentin et le Marin, contourne par le sud Rivière-Pilote et enjambe la baie du Trou au Diable.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont sur le Trou au Diable",
+   "histoire": "Pont français situé à Sainte-Luce, en Martinique, il mesure 187 mètres de longueur. Ouvert en 1984, il permet à la RN 5 d’enjamber la baie du Trou au Diable en reliant le Lamentin au Marin tout en contournant par le sud Rivière-Pilote.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S3"
+   ],
+   "lat": 14.469277,
+   "lon": -60.917387,
+   "url": "https://fr.wikipedia.org/wiki/Pont_sur_le_Trou_au_Diable"
+  },
+  {
+   "nom": "Trois Rivières (Martinique)",
+   "histoire": "Hameau de la commune de Sainte-Luce, distant de 4 kilomètres. Il se présente aujourd’hui comme un lieu animé par des activités et des hébergements, avec hôtels, restaurants, entreprises, et des résidences primaires et secondaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S1"
+   ],
+   "lat": 14.472206,
+   "lon": -60.962663,
+   "url": "https://fr.wikipedia.org/wiki/Trois_Rivi%C3%A8res_%28Martinique%29"
+  }
+ ],
+ "sources": [
+  "Sainte-Luce est une commune française, située dans le département de la Martinique en région du même nom. Le gentilé est Lucéen(ne). C'est à côté de Sainte-Luce, à Trois-Rivières qu'est distillé le célèbre rhum Trois Rivières.",
+  "Lieu « Pont sur le Trou au Diable » : Le pont sur le Trou au Diable est un pont français de 187 mètres de longueur situé à Sainte-Luce en Martinique.",
+  "Lieu « Pont sur le Trou au Diable », 1984 : Ouvert en 1984, le pont est emprunté par la RN 5 entre le Lamentin et le Marin pour permettre de contourner par le sud Rivière-Pilote et d'enjamber la baie du Trou au Diable.",
+  "Lieu « Trois Rivières (Martinique) » : Trois Rivières est un hameau français de la commune de Sainte-Luce en Martinique, dont il est distant de 4 kilomètres.",
+  "Lieu « Trois Rivières (Martinique) », aujourd'hui : Aujourd’hui, le hameau contient des hôtels, des restaurants, des entreprises et est le siège de résidences primaires et secondaires."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

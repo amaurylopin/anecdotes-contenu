@@ -1,0 +1,109 @@
+{
+ "commune": {
+  "titre": "Le Robert (Martinique)",
+  "code_insee": "97222",
+  "departement": "972",
+  "population": 21553,
+  "lat": 14.676944,
+  "lon": -60.940278,
+  "url": "https://fr.wikipedia.org/wiki/Le_Robert_%28Martinique%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:06:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1346,
+  "sortie": 758
+ },
+ "cout_usd": 0.001217,
+ "accroche": "En 1694, la paroisse du Robert est fondée par le Père Labat, alors nommée Cul-de-Sac.",
+ "histoire": {
+  "recit": "Le Robert s’étire entre la côte atlantique, avec ses îlets, et le hameau du Vert-Pré en hauteur, qui forme presque un bourg à lui seul. Son port naturel a connu des affrontements où les Anglais furent repoussés par des corsaires et des marins-pêcheurs habitués à la mangrove et aux rochers.",
+  "chronologie": [
+   {
+    "date": "1694",
+    "texte": "La paroisse est fondée par le Père Labat et s’appelle d’abord Cul-de-Sac.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1930",
+    "texte": "Au Vert-Pré, Monsieur Morinière, l’instituteur Constant Le Ray et Monsieur Maignan se mettent d’accord pour construire une église afin de remplacer la petite chapelle existante.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Le Vert-Pré",
+   "histoire": "Le Vert-Pré est un hameau du Robert distant du centre-ville de 4,6 kilomètres. À la fin des années 1930, le quartier se peuple et les routes s’améliorent, autour de l’église. En 1930, une église est décidée pour remplacer une chapelle plus petite, sur un site marqué par les ruines d’une distillerie au « terrain des ananas ».",
+   "anecdotes": [
+    {
+     "texte": "Les maisons commencent à se bâtir autour de l’église à la fin des années 1930 : le quartier change de rythme, et les routes suivent.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Le choix du site s’appuie sur le passé proche : les ruines de la distillerie de Monsieur Morinière sont encore visibles au « terrain des ananas ».",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’usine de la SNYL (Yoplait,…) est toujours présente au Vert-Pré.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 14.692331,
+   "lon": -60.97307,
+   "url": "https://fr.wikipedia.org/wiki/Le_Vert-Pr%C3%A9"
+  },
+  {
+   "nom": "Îlet Petit Vincent",
+   "histoire": "L’Îlet Petit Vincent est un îlet inhabité, l’un des îlets du Robert, rattaché administrativement à Le Robert.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En raison de la mangrove, l’îlet est aujourd’hui une presque-île et constitue un site protégé.",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 14.6883718,
+   "lon": -60.9212255,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Elet_Petit_Vincent"
+  }
+ ],
+ "sources": [
+  "Le Robert est une commune française de la Martinique, île des Petites Antilles. Le Robert est, par sa population, la troisième ville de la Martinique après Fort-de-France et Le Lamentin. Elle compte, en 2021, 21 305 habitants. Ses habitants sont appelés les Robertins. Comme pour de nombreuses communes de Martinique l'article « Le » est fréquemment omis sur les panneaux routiers. Le quartier du Vert-Pré, 6 000 […]",
+  "Le Robert se positionne entre la côte atlantique, dont la baie est parsemée d'une belle quantité d'îlets, et le hameau du Vert-Pré en hauteur qui forme un bourg à lui tout seul. Ce magnifique port naturel a connu des batailles où les Anglais furent repoussés par la population locale constituée de corsaires et de marins-pêcheurs aguerris par leur vie côtière parmi la mangrove, les rochers et l'océan. La paroisse a […]",
+  "1694 : La paroisse a été fondée par le Père Labat en 1694, et s'appelait Cul-de-Sac.",
+  "Lieu « Le Vert-Pré » : Le Vert-Pré est un hameau de la commune du Robert en Martinique, il en est distant du centre ville de 4.6 kilomètres.",
+  "Lieu « Le Vert-Pré », 1930 : À la fin des années 1930, des maisons commencent à se bâtir autour de l'église, le quartier se peuple et les routes s'améliorent.",
+  "Lieu « Le Vert-Pré », 1930 : En 1930, Monsieur Morinière, qui a construit une distillerie au Vert-Pré (ses ruines sont encore visibles dans le \"terrain des ananas\"), Constant Le Ray, l'instituteur, et Monsieur Maignan, propriétaire des terres où se dresse aujourd'hui l'église Sainte-Jeanne-d'Arc, décident de construire une église pour remplacer la petite chapelle existante.",
+  "Lieu « Le Vert-Pré », aujourd'hui : De nos jours est toujours présente au Vert-Pré l'usine de la SNYL (Yoplait,…).",
+  "Lieu « Îlet Petit Vincent » : L'Îlet Petit Vincent est un îlet inhabité de Martinique, un des îlets du Robert, appartenant administrativement à Le Robert.",
+  "Lieu « Îlet Petit Vincent », aujourd'hui : L'îlet, qui en raison d'une mangrove est aujourd'hui une presque-île, est un site protégé."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

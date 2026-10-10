@@ -1,0 +1,114 @@
+{
+ "commune": {
+  "titre": "Le Lorrain (Martinique)",
+  "code_insee": "97214",
+  "departement": "972",
+  "population": 6566,
+  "lat": 14.816667,
+  "lon": -61.066667,
+  "url": "https://fr.wikipedia.org/wiki/Le_Lorrain_%28Martinique%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:43:33",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1128,
+  "sortie": 676
+ },
+ "cout_usd": 0.001071,
+ "accroche": "Jusqu’en 1840, Le Lorrain se nommait Grande-Anse, avant d’être désigné ainsi par décret après 1840.",
+ "histoire": {
+  "recit": "Au cœur de la Martinique, la commune du Lorrain tient son nom d’un changement qui suit une longue histoire de peuplement. Très anciennement, le secteur fut occupé par les Arawaks, et il portait longtemps le nom de « Grande Anse », celui de la baie qui l’encadre. Le décret du 12 juin 1837 réunit Grande-Anse et Le Marigot en une seule commune, puis, après 1840, elle prend le vocable « Le Lorrain ». Plus tard, en 1889, Le Marigot est rétabli.\n\nDans le paysage, un repère domine : l’église Saint-Hyacinthe du Lorrain. Tombée en ruine, elle est reconstruite en 1743 sur un autre emplacement, et l’on dit qu’elle est alors considérée comme l’église la plus riche de l’île. Au fil du temps, la population y ajoute un clocher en 1835, puis des travaux de charpente suivent en 1851. Enfin, en 1857, l’abbé Collière fait étendre les façades, donnant au nouvel édifice une forme en croix latine.",
+  "chronologie": [
+   {
+    "date": "12 juin 1837",
+    "texte": "Le décret regroupe Grande-Anse et Le Marigot en une seule commune.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "après 1840",
+    "texte": "La commune devient « Le Lorrain » après 1840, au lieu du nom Grande-Anse.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "1743",
+    "texte": "Après une église tombée en ruine, un second édifice est bâti sur un autre emplacement en 1743.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1835",
+    "texte": "La population construit un clocher à l’église en 1835.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1851",
+    "texte": "Des travaux de charpente ont lieu en 1851.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "En 1857, l’abbé Collière fait procéder à une extension des façades, donnant une forme en croix latine à l’édifice.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "La commune du Marigot est rétablie en 1889.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Hyacinthe du Lorrain",
+   "histoire": "L’église Saint-Hyacinthe du Lorrain a été reconstruite en 1743 après être tombée en ruine. La population lui donne ensuite un clocher en 1835, avec des travaux de charpente en 1851. En 1857, l’abbé Collière fait étendre les façades pour obtenir une forme en croix latine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 14.8331052,
+   "lon": -61.0560921,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Hyacinthe_du_Lorrain"
+  }
+ ],
+ "sources": [
+  "Le Lorrain est une commune française, située dans le département de Martinique. Ses habitants sont appelés les Lorinois. Le Lorrain était nommé Grande-Anse jusqu'à 1840.",
+  "Un site très ancien, qui fut peuplé par les Arawaks et s'est longtemps appelé « Grande Anse », au nom de la baie qui l'encadre. Le décret du 12 juin 1837 regroupe Grande-Anse et Le Marigot en une seule commune qui sera désignée après 1840 sous le vocable « Le Lorrain ». En 1889, la commune du Marigot est rétablie.",
+  "Lieu « Église Saint-Hyacinthe du Lorrain » : L'église Saint-Hyacinthe du Lorrain est une église catholique située au Lorrain, en France.",
+  "Lieu « Église Saint-Hyacinthe du Lorrain », 1743 : Tombée en ruine, un second édifice est bâti sur un autre emplacement en 1743 et est alors considéré comme l'église la plus riche de l'île.",
+  "Lieu « Église Saint-Hyacinthe du Lorrain », 1835 : La population construit un clocher à l'église en 1835 et des travaux de charpente ont lieu en 1851.",
+  "Lieu « Église Saint-Hyacinthe du Lorrain », 1857 : L'abbé Collière fait procéder à une extension des façades de 6,50 mètres en 1857, donnant au nouvel édifice une forme en croix latine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

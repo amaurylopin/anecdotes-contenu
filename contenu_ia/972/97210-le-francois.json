@@ -1,0 +1,184 @@
+{
+ "commune": {
+  "titre": "Le François",
+  "code_insee": "97210",
+  "departement": "972",
+  "population": 15778,
+  "lat": 14.615556,
+  "lon": -60.904722,
+  "url": "https://fr.wikipedia.org/wiki/Le_Fran%C3%A7ois"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:24:08",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1435,
+  "sortie": 1184
+ },
+ "cout_usd": 0.001767,
+ "accroche": "Le 8 février 1900, une fusillade fait dix morts et douze blessés graves à Le François, lors d’une grève générale des ouvriers agricoles.",
+ "histoire": {
+  "recit": "À Le François, la vie est marquée par des épisodes qui restent dans les récits. Le 8 février 1900, pendant une grève générale d’ouvriers agricoles commencée le 5 février, la commune connaît une fusillade aux côtés des manifestants : les soldats auraient tiré sans sommation ni ordre du maire ou du commissaire, donnant lieu à ce que l’on appelle « Fourmies martiniquais».\n\nPlus tard, sur le domaine de l’Acajou, tout change de rythme. En 1917, Homère Clément y construit une distillerie. Le nom d’Habitation Clément s’impose ensuite en hommage à la famille fondatrice, et le site s’ouvre au tourisme culturel ; en 1988, la distillerie ferme. En 2003, la maison de maître et les dépendances sont restaurées, et l’ancienne distillerie devient un centre d’interprétation du rhum, pour raconter l’histoire et le patrimoine de l’habitation.\n\nEnfin, au cœur de la commune, l’hôtel de ville se reconstruit après sinistres : une reconstruction est conduite après un incendie en 1873, puis les bâtiments communaux sont détruits en 1891 à la suite d’un cyclone, avant l’inauguration de la mairie en 1902.",
+  "chronologie": [
+   {
+    "date": "8 février 1900",
+    "texte": "Une fusillade lors d’une grève générale d’ouvriers agricoles fait dix morts et douze blessés graves, connue sous le nom de « Fourmies martiniquais».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "5 février 1900",
+    "texte": "Début d’une grève générale d’ouvriers agricoles à Le François, à l’origine de l’événement du 8 février.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1917",
+    "texte": "Homère Clément construit une distillerie sur le domaine de l’Acajou.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "Le domaine prend le nom d’Habitation Clément et s’ouvre au tourisme culturel ; la distillerie ferme.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2003",
+    "texte": "La maison de maître et les dépendances sont restaurées ; l’ancienne distillerie devient un centre d’interprétation du rhum.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "Reconstruction de l’église du François, détruite par un incendie.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "Les bâtiments communaux sont détruits à la suite d’un cyclone.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1902",
+    "texte": "La mairie est inaugurée, malgré l’absence d’Homère Clément à Paris.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Habitation Clément",
+   "histoire": "Ancienne habitation sucrière coloniale appelée autrefois Habitation de l’Acajou, le domaine devient un lieu lié au rhum. En 1917, une distillerie est construite sur le domaine de l’Acajou ; en 1988, il s’ouvre au tourisme culturel. En 2003, la restauration de la maison de maître et des dépendances mène à la création d’un centre d’interprétation du rhum.",
+   "anecdotes": [
+    {
+     "texte": "En 1917, poussé par l’effort de guerre, Homère Clément construit une distillerie sur le domaine de l’Acajou.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "La distillerie ferme en 1988, mais l’histoire du rhum continue : en 2003, l’ancienne distillerie devient un centre d’interprétation.",
+     "statut": "etabli",
+     "sources": [
+      "S5",
+      "S6"
+     ]
+    },
+    {
+     "texte": "Le rhum Clément acquiert une réputation internationale, qu’il conserve aujourd’hui.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Maison de maître et dépendances restaurées, et ancienne distillerie transformée en centre d’interprétation du rhum.",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 14.602075,
+   "lon": -60.906899,
+   "url": "https://fr.wikipedia.org/wiki/Habitation_Cl%C3%A9ment"
+  },
+  {
+   "nom": "Hôtel de ville du François",
+   "histoire": "Situé dans le centre de la commune, l’hôtel de ville connaît reconstructions et destructions. Il est associé à la reconstruction de l’église du François après un incendie en 1873. Les bâtiments communaux sont ensuite détruits en 1891 à cause d’un cyclone, avant l’inauguration de la mairie en 1902.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 14.615396,
+   "lon": -60.9028,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_du_Fran%C3%A7ois"
+  },
+  {
+   "nom": "Îlet Lapins",
+   "histoire": "Îlet Lapins est une île inhabitée de Martinique, une des îlets du François, administrativement rattachée à Le François. Aujourd’hui, on y trouve sept maisons et des vestiges de chapelle.",
+   "anecdotes": [
+    {
+     "texte": "Bien que l’îlet soit décrit comme inhabité, il compte aujourd’hui sept maisons et les vestiges d’une chapelle.",
+     "statut": "etabli",
+     "sources": [
+      "S12",
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Sept maisons et vestiges d’une chapelle.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 14.63278,
+   "lon": -60.88417,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Elet_Lapins"
+  }
+ ],
+ "sources": [
+  "Le François est une commune française, située dans le département de la Martinique. Avec ses 53,93 km2, c'est la troisième plus grande commune de la Martinique en superficie après Le Lamentin et le Gros-Morne. Ses habitants sont appelés les Franciscains.",
+  "Le 8 février 1900, lors de la première grève générale d'ouvriers agricoles commencée le 5 février, Le François est le théâtre d'une fusillade qui fait dix morts et douze blessés graves. Les soldats auraient tiré sans sommation ni ordre du maire ou du commissaire qui parlementaient avec la foule de manifestants. Cette fusillade est connue sous le nom de « Fourmies martiniquais» .",
+  "Lieu « Habitation Clément » : L'Habitation Clément, appelée autrefois Habitation de l'Acajou, est une ancienne habitation sucrière coloniale située dans la commune du François, en Martinique.",
+  "Lieu « Habitation Clément », 1917 : En 1917, poussé par l’effort de guerre, Homère Clément construit une distillerie sur le domaine de l’Acajou.",
+  "Lieu « Habitation Clément », 1988 : Le domaine prend le nom d’Habitation Clément, en hommage à la famille fondatrice, et s’ouvre au tourisme culturel.En 1988, la distillerie est fermée.",
+  "Lieu « Habitation Clément », 2003 : En 2003, La maison de maître et les dépendances sont entièrement restaurées, et l'ancienne distillerie, fermée depuis 1988, devient un centre d'interprétation du rhum, permettant de découvrir son histoire et le patrimoine de l'habitation.",
+  "Lieu « Habitation Clément », aujourd'hui : Rapidement, le rhum Clément acquiert une réputation internationale qu'il conserve aujourd'hui.",
+  "Lieu « Hôtel de ville du François » : L'hôtel de ville du François, dans le département français de Martinique, se trouve dans le centre de la commune.",
+  "Lieu « Hôtel de ville du François », 1873 : Ce dernier a d'ailleurs conduit la reconstruction de l'église du François détruite par un incendie en 1873).",
+  "Lieu « Hôtel de ville du François », 1891 : Les bâtiments communaux sont détruits en 1891 à la suite d'un cyclone.",
+  "Lieu « Hôtel de ville du François », 1902 : La Mairie est finalement inaugurée en 1902, malgré l'absence d'Homère Clément, siégeant alors à Paris.",
+  "Lieu « Îlet Lapins » : L’îlet Lapins est une île inhabitée de Martinique, une des îlets du François, appartenant administrativement à Le François.",
+  "Lieu « Îlet Lapins », aujourd'hui : Il y a sept maisons sur l'îlet, ainsi que les vestiges d'une chapelle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 4
+ }
+}

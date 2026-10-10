@@ -1,0 +1,84 @@
+{
+ "commune": {
+  "titre": "Rivière-Salée",
+  "code_insee": "97221",
+  "departement": "972",
+  "population": 11829,
+  "lat": 14.531389,
+  "lon": -60.98,
+  "url": "https://fr.wikipedia.org/wiki/Rivi%C3%A8re-Sal%C3%A9e"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:43:33",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1105,
+  "sortie": 533
+ },
+ "cout_usd": 0.000887,
+ "accroche": "En 1716, la paroisse de Rivière-Salée est fondée parce que les habitants ne pouvaient pas suivre la messe qu’au Trois-Ilets ou au Trou-au-Chat.",
+ "histoire": {
+  "recit": "À Rivière-Salée, on raconte qu’autrefois le bourg manquait d’un lieu pour la messe : il fallait aller au Trois-Ilets ou au Trou-au-Chat. En 1716, la paroisse est fondée pour répondre à cette contrainte, et l’église est construite sur un terrain donné par Duval, la paroisse étant confiée aux capucins. Quelques années plus tard, le 12 juin 1737, la Martinique est partagée en communes, et Rivière-Salée en fait partie. Du même élan, la commune gagne en rôle administratif et économique : grâce à sa position géographique, elle devient le second pôle du sud de la Martinique après Le Marin. \n\nNon loin, dans la mer des Caraïbes, le Petit Îlet demeure un petit refuge inhabitée aujourd’hui, mais chargé de traces : on y trouve des vestiges liés à la présence des Indiens Caraïbes.",
+  "chronologie": [
+   {
+    "date": "1716",
+    "texte": "La paroisse de Rivière-Salée est fondée, car les habitants ne pouvaient suivre la messe qu’au Trois-Ilets ou au Trou-au-Chat, et l’église est construite sur un terrain donné par Duval ; la paroisse est confiée aux capucins.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "12 juin 1737",
+    "texte": "La Martinique est partagée en communes : Rivière-Salée appartient aux communes issues de ce découpage.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Petit Îlet",
+   "histoire": "Petit Îlet est une petite île inhabitée dans la mer des Caraïbes. Aujourd’hui, on y trouve des vestiges de la présence des Indiens Caraïbes.",
+   "anecdotes": [
+    {
+     "texte": "Sur le Petit Îlet, on signale des vestiges de la présence des Indiens Caraïbes, comme si l’îlet gardait des traces malgré l’absence de population.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il y a sur l’îlet des vestiges de la présence des Indiens Caraïbes.",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 14.5504807,
+   "lon": -61.0058946,
+   "url": "https://fr.wikipedia.org/wiki/Petit_%C3%8Elet"
+  }
+ ],
+ "sources": [
+  "Rivière-Salée est une commune française, située dans le département d'Outre-Mer de la Martinique. Ses habitants sont appelés les Saléens. Rivière-Salée était nommée Cul-de-Sac-à-Vaches jusqu'en 1716. Rivière-Salée est, du fait de sa position géographique stratégique, le second pôle administratif et économique du sud de la Martinique après Le Marin. Sur le territoire de la commune se trouvent des services […]",
+  "La paroisse de Rivière-Salée a été fondée en 1716, car les habitants ne pouvaient suivre la messe qu’au Trois-Ilets, ou au Trou-au-Chat (Ducos). À cette époque, plusieurs familles étaient réparties sur des habitations. L’église fut construite sur un terrain donné par un certain Duval et la paroisse fut confiée aux capucins. Le 12 juin 1737, la Martinique est partagée en communes. Rivière-Salée appartient aux trois […]",
+  "1716 : La paroisse de Rivière-Salée a été fondée en 1716, car les habitants ne pouvaient suivre la messe qu’au Trois-Ilets, ou au Trou-au-Chat (Ducos).",
+  "Lieu « Petit Îlet » : Petit Îlet est une petite île inhabitée située dans la mer des Caraïbes.",
+  "Lieu « Petit Îlet », aujourd'hui : Il y a sur l'îlet des vestiges de la présence des Indiens Caraïbes."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}
