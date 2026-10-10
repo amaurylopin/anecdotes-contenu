@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "La Pommeraye (Maine-et-Loire)",
+  "code_insee": "49244",
+  "departement": "49",
+  "population": 18695,
+  "lat": 47.35583333,
+  "lon": -0.85916667,
+  "url": "https://fr.wikipedia.org/wiki/La_Pommeraye_%28Maine-et-Loire%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:14:25",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 984,
+  "sortie": 378
+ },
+ "cout_usd": 0.000669,
+ "accroche": "Le 15 décembre 2015, La Pommeraye devient une commune déléguée au sein de la commune nouvelle de Mauges-sur-Loire.",
+ "histoire": {
+  "recit": "La Pommeraye, ancienne commune de Maine-et-Loire, a changé de statut quand la commune nouvelle de Mauges-sur-Loire a été créée. Cette commune nouvelle naît de la fusion de onze communes, dont la création est officialisée par arrêté préfectoral le 5 octobre 2015. Le 15 décembre 2015, La Pommeraye bascule alors au rang de commune déléguée.\n\nAu cœur du territoire, Mauges-sur-Loire accueille aussi une trace littéraire : Julien Gracq, écrivain né à Saint-Florent-le-Vieil, a légué sa maison pour en faire une résidence d’écrivains.",
+  "chronologie": [
+   {
+    "date": "5 octobre 2015",
+    "texte": "La création de la commune nouvelle de Mauges-sur-Loire est officialisée par arrêté préfectoral, issue de la fusion de onze communes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "15 décembre 2015",
+    "texte": "La Pommeraye devient une commune déléguée de la commune nouvelle de Mauges-sur-Loire.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Mauges-sur-Loire",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "Julien Gracq, dont la maison a été léguée pour devenir une résidence d’écrivains, est associé au territoire en tant qu’écrivain né à Saint-Florent-le-Vieil.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 47.3531,
+   "lon": -0.8583,
+   "url": "https://fr.wikipedia.org/wiki/Mauges-sur-Loire"
+  }
+ ],
+ "sources": [
+  "La Pommeraye est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2015 une commune déléguée de la commune nouvelle de Mauges-sur-Loire.",
+  "La commune nouvelle de Mauges-sur-Loire est née de la fusion des 11 communes de la communauté de communes, dont la création a été officialisée par arrêté préfectoral du 5 octobre 2015.",
+  "Lieu « Mauges-sur-Loire » : Mauges-sur-Loire est une commune nouvelle française située dans le département de Maine-et-Loire, en région Pays de la Loire.",
+  "Lieu « Mauges-sur-Loire », 1910 : Julien Gracq pseudonyme de Louis Poirier (1910-2007), écrivain, né à Saint-Florent-le-Vieil, ayant légué sa maison pour la transformer en résidence d'écrivains."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

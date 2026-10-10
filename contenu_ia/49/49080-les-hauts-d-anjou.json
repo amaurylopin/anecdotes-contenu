@@ -1,0 +1,96 @@
+{
+ "commune": {
+  "titre": "Châteauneuf-sur-Sarthe",
+  "code_insee": "49080",
+  "departement": "49",
+  "population": 8751,
+  "lat": 47.68166667,
+  "lon": -0.48722222,
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teauneuf-sur-Sarthe"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:09:32",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1095,
+  "sortie": 946
+ },
+ "cout_usd": 0.001401,
+ "accroche": "En 1204, le roi Philippe Auguste confie la terre de Châteauneuf à Guillaume des Roches, qui avait rallié le camp capétien. ",
+ "histoire": {
+  "recit": "Châteauneuf-sur-Sarthe, ancienne commune du Maine-et-Loire traversée par la Sarthe, a changé de statut le 1er janvier 2019, devenant une commune déléguée de la commune nouvelle des Hauts-d'Anjou.\n\nAutre temps, autre allégeance : en 1204, le sénéchal Guillaume des Roches, lié à Sablé par son mariage avec Marguerite, reçoit du roi Philippe Auguste la terre de Châteauneuf en récompense de son engagement aux côtés de la cause capétienne contre Jean sans Terre. L’histoire locale garde aussi un repère de pierre : l’église Notre-Dame de Châteauneuf-sur-Sarthe, attestée comme lieu de culte dans la commune des Hauts-d'Anjou, fait l’objet d’une protection au titre des monuments historiques depuis 1972.",
+  "chronologie": [
+   {
+    "date": "1199",
+    "texte": "Le sénéchal quitte le parti anglais pour rejoindre d’abord Arthur de Bretagne, puis le roi.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1204",
+    "texte": "Guillaume des Roches reçoit, du roi Philippe Auguste, la terre de Châteauneuf en récompense de son dévouement à la cause capétienne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1er janvier 2019",
+    "texte": "Châteauneuf-sur-Sarthe devient une commune déléguée de la commune nouvelle des Hauts-d'Anjou.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1972",
+    "texte": "L’édifice est inscrit au titre des monuments historiques.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame de Châteauneuf-sur-Sarthe",
+   "histoire": "L’église Notre-Dame, située à Châteauneuf-sur-Sarthe, est couramment dite « église Notre-Dame de Châteauneuf-sur-Sarthe ». L’édifice est inscrit au titre des monuments historiques depuis 1972.",
+   "anecdotes": [
+    {
+     "texte": "On l’appelle souvent « église Notre-Dame de Châteauneuf-sur-Sarthe », alors qu’elle est aussi rattachée au nom « Notre-Dame de Séronne ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Église inscrite au titre des monuments historiques (1972).",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 47.6812,
+   "lon": -0.484967,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Ch%C3%A2teauneuf-sur-Sarthe"
+  }
+ ],
+ "sources": [
+  "Châteauneuf-sur-Sarthe est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 1er janvier 2019 une commune déléguée de la commune nouvelle des Hauts-d'Anjou. Son territoire est traversé par la Sarthe.",
+  "Les seigneurs de Châteauneuf-sur-Sarthe :En 1204, le sénéchal Guillaume des Roches, sire de Sablé par son mariage avec Marguerite, reçoit du roi Philippe Auguste la terre de Châteauneuf en récompense de son dévouement à la cause capétienne contre Jean sans Terre (le sénéchal a quitté le parti anglais à partir de 1199, après la mort de Richard Cœur de Lion, pour rallier d'abord Arthur de Bretagne, puis le roi […]",
+  "Lieu « Église Notre-Dame de Châteauneuf-sur-Sarthe » : L'église Notre-Dame de Séronne, couramment dite église Notre-Dame de Châteauneuf-sur-Sarthe, est une église située à Châteauneuf-sur-Sarthe, dans la commune des Hauts d'Anjou, en France.",
+  "Lieu « Église Notre-Dame de Châteauneuf-sur-Sarthe », 1972 : L'édifice est inscrit au titre des monuments historiques en 1972."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

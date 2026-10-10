@@ -1,0 +1,166 @@
+{
+ "commune": {
+  "titre": "Orée d'Anjou",
+  "code_insee": "49126",
+  "departement": "49",
+  "population": 17162,
+  "lat": 47.2999547,
+  "lon": -1.2569046,
+  "url": "https://fr.wikipedia.org/wiki/Or%C3%A9e_d%27Anjou"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:19:22",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1730,
+  "sortie": 1180
+ },
+ "cout_usd": 0.001821,
+ "accroche": "Depuis le 15 décembre 2015, Orée d’Anjou est une commune nouvelle, née de la fusion de neuf anciennes communes du canton de Champtoceaux.",
+ "histoire": {
+  "recit": "Orée d’Anjou s’est constituée en commune nouvelle le 15 décembre 2015, unissant Bouzillé, Champtoceaux, Drain, Landemont, Liré, Saint-Christophe-la-Couperie, Saint-Laurent-des-Autels, Saint-Sauveur-de-Landemont et La Varenne. Cette création a suivi des délibérations favorables des conseils municipaux entre le 1er et le 8 juillet 2015, puis un arrêté.\n\nDans les villages délégués, l’histoire continue de se lire par touches. À Champtoceaux, le village de Châteauceaux a été reconstruit en 1431, tandis que des incendies ont marqué 1794. Plus tard, la mémoire locale retient les pertes de la Première Guerre mondiale, honorées par un monument aux morts au début des années 1920.\n\nÀ Saint-Sauveur-de-Landemont, un logis a été bâti au XVIIe siècle, puis le nord du château a pris feu en mars 1793 lors du soulèvement vendéen et de la Terreur. Et aujourd’hui encore, une voie romaine ne laisse que quelques petits ponts voûtés en pierre, au milieu de la Forêt du Parc.\n\nLandemont, lui, conserve une trace de l’ancienne vie ferroviaire : la gare du Pin, aujourd’hui habitation, au lieu-dit Le Pin.",
+  "chronologie": [
+   {
+    "date": "1er juillet 2015 — 8 juillet 2015",
+    "texte": "Des délibérations favorables des conseils municipaux ont préparé la fusion des neuf communes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "15 décembre 2015",
+    "texte": "La commune nouvelle d’Orée d’Anjou est créée par la fusion des neuf communes du canton de Champtoceaux.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "1431",
+    "texte": "Le village de Châteauceaux est reconstruit au Nouveau-Bourg, sur la circonvallation des assiégeants de 1420.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "Des colonnes infernales passent en 1794 à Champtoceaux : 193 personnes périssent, et l’église comme les habitations sont incendiées.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "En mars 1793, pendant le soulèvement vendéen et la Terreur, la partie nord du château à Saint-Sauveur-de-Landemont est incendiée.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1938",
+    "texte": "À Saint-Sauveur-de-Landemont, la grotte de Lourdes, appelée grotte de l’Ilette, est érigée en 1938.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Champtoceaux",
+   "histoire": "Champtoceaux est une ancienne commune devenue commune déléguée au sein d’Orée d’Anjou depuis le 15 décembre 2015. Le site garde aussi des traces de modifications du XVe siècle, et un prieuré y percevait des droits sur les moulins et des péages sur la Loire.",
+   "anecdotes": [
+    {
+     "texte": "Le village de Châteauceaux aurait été « déplacé » et reconstruit en 1431 au Nouveau-Bourg, sur la circonvallation des assiégeants de 1420.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 1794, trois passages des colonnes infernales à Champtoceaux se soldent par 193 morts et l’incendie de l’église et des habitations.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des ruines visibles sur le site, dont les modifications datent du XVe siècle, restent un témoin sur place.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 47.3377777778,
+   "lon": -1.26555555556,
+   "url": "https://fr.wikipedia.org/wiki/Champtoceaux"
+  },
+  {
+   "nom": "Saint-Sauveur-de-Landemont",
+   "histoire": "Saint-Sauveur-de-Landemont est une ancienne commune devenue commune déléguée au sein d’Orée d’Anjou depuis le 15 décembre 2015. Le lieu conserve des épisodes liés au château et des repères religieux et antiques décrits dans les sources.",
+   "anecdotes": [
+    {
+     "texte": "Au XVIIe siècle, un nouveau logis est construit, contrastant avec le vieux château médiéval à tours basses et rondes et avec ses remparts.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "En mars 1793, pendant le soulèvement vendéen et la Terreur, la partie nord du château est incendiée.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La grotte de Lourdes, appelée grotte de l’Ilette, érigée en 1938.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 47.285,
+   "lon": -1.25472222222,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Sauveur-de-Landemont"
+  },
+  {
+   "nom": "Landemont",
+   "histoire": "Landemont est une ancienne commune devenue commune déléguée au sein d’Orée d’Anjou depuis le 15 décembre 2015.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La gare du Pin, aujourd’hui habitation, située à 3 km du bourg au lieu-dit Le Pin.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 47.2658333333,
+   "lon": -1.24083333333,
+   "url": "https://fr.wikipedia.org/wiki/Landemont"
+  }
+ ],
+ "sources": [
+  "Orée d'Anjou est, depuis le 15 décembre 2015, une commune nouvelle française, située dans le département de Maine-et-Loire, en région Pays de la Loire. Elle est née de la fusion des anciennes communes de Bouzillé, Champtoceaux, Drain, Landemont, Liré, Saint-Christophe-la-Couperie, Saint-Laurent-des-Autels, Saint-Sauveur-de-Landemont et La Varenne, devenues des communes déléguées.",
+  "La commune nouvelle d'Orée d'Anjou naît le 15 décembre 2015 de la fusion des neuf communes de la communauté de communes du canton de Champtoceaux, à savoir Bouzillé, Champtoceaux, Drain, Landemont, Liré, Saint-Christophe-la-Couperie, Saint-Laurent-des-Autels, Saint-Sauveur-de-Landemont et La Varenne, après les délibérations favorables des conseils municipaux intervenues entre le 1er et le 8 juillet 2015, et l'arrêté […]",
+  "Lieu « Champtoceaux » : Champtoceaux est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2015 une commune déléguée au sein de la commune nouvelle d'Orée d'Anjou.",
+  "Lieu « Champtoceaux », 1431 : Le village de Châteauceaux est donc un « village déplacé », reconstruit en 1431 au Nouveau-Bourg sur la circonvallation des assiégeants de 1420.",
+  "Lieu « Champtoceaux », 1794 : En 1794, elle subit trois passages des colonnes infernales où 193 personnes périssent, l'église et les habitations sont incendiées.",
+  "Lieu « Champtoceaux », 1914 : Pendant la Première Guerre mondiale, 44 Castrocelsiens perdent la vie, principalement des soldats mobilisés à partir d'août 1914 (ils sont honorés par le monument aux morts construit au début des années 1920).",
+  "Lieu « Champtoceaux », aujourd'hui : Les ruines visibles sur le site datent des modifications effectuées au XVe siècle ; le prieuré percevait des droits sur les moulins et les péages sur la Loire.",
+  "Lieu « Saint-Sauveur-de-Landemont » : Saint-Sauveur-de-Landemont est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2015 une commune déléguée au sein de la commune nouvelle d'Orée d'Anjou.",
+  "Lieu « Saint-Sauveur-de-Landemont », XVIIe siècle : Au XVIIe siècle un nouveau logis fut construit, lequel contraste avec le vieux château médiéval avec ses tours basses et rondes et ses remparts.",
+  "Lieu « Saint-Sauveur-de-Landemont », 1793 : En mars 1793, pendant le soulèvement vendéen et la Terreur, la partie nord du château fut incendiée.",
+  "Lieu « Saint-Sauveur-de-Landemont », 1938 : Grotte de Lourdes, appelée grotte de l'Ilette, érigée en 1938 (photo en haut de page).",
+  "Lieu « Saint-Sauveur-de-Landemont », aujourd'hui : Une seule trace antique est signalée : la voie romaine de Champtoceaux à Montfaucon, qui traverse la Forêt du Parc, en limite de la commune de Drain ; et dont il ne reste que quelques petits ponts voûtés en pierre.",
+  "Lieu « Landemont » : Landemont est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2015 une commune déléguée au sein de la commune nouvelle d'Orée d'Anjou.",
+  "Lieu « Landemont », aujourd'hui : Gare du Pin : Cette gare, aujourd'hui devenue une habitation, est située à 3 km du bourg au lieu-dit Le Pin."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 4
+ }
+}

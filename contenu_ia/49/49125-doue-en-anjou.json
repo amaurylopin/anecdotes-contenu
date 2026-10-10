@@ -1,0 +1,217 @@
+{
+ "commune": {
+  "titre": "Doué-la-Fontaine",
+  "code_insee": "49125",
+  "departement": "49",
+  "population": 11029,
+  "lat": 47.19388889,
+  "lon": -0.27444444,
+  "url": "https://fr.wikipedia.org/wiki/Dou%C3%A9-la-Fontaine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:48:33",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2400,
+  "sortie": 1815
+ },
+ "cout_usd": 0.002749,
+ "accroche": "En 1180, l’église Saint-Denis de Doué-la-Fontaine est décrite comme une ancienne église collégiale, construite entre 1180 et 1200 environ.",
+ "histoire": {
+  "recit": "À Doué-la-Fontaine, le passé commence par des traces humaines anciennes : outils du Moustérien et occupations néolithiques signalées par des dolmens. Plus tard, le site du château, sur des bases carolingiennes, voit une aula s’installer vers 900, puis le bourg s’organise au rythme des fortifications et des assauts : le château est assiégé en 1109, de nouveau en 1123, et encore en 1147, année où il est détruit. En 1229, les bourgeois fondent un hôpital. En 1794, des prisonniers sont enfermés dans les Arènes ou l’église Saint-Pierre jusqu’au 22 janvier, avant que 184 d’entre eux ne meurent en prison en deux mois. Aujourd’hui, la commune s’est aussi tournée vers l’accueil du public : le Bioparc, installé sur son territoire, a connu une première grande étape d’accueil à l’hiver 2002 et l’arrivée de rhinocéros noirs en 2005, tandis que des travaux d’extension sont prévus à partir de 2026.",
+  "chronologie": [
+   {
+    "date": "IXe siècle, dernier quart",
+    "texte": "Une aula est construite au sud du bourg actuel.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "vers 900",
+    "texte": "Sur le site de la Chapelle, une aula carolingienne de 23 × 17 mètres est édifiée, avec des murs épais.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1109",
+    "texte": "Le château est assiégé.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1123",
+    "texte": "Le château est à nouveau assiégé.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1147",
+    "texte": "Le château est détruit lors d’un siège.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1229",
+    "texte": "Les bourgeois fondent un hôpital.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "22 janvier 1794",
+    "texte": "Jusqu’au 22 janvier 1794, 184 prisonniers meurent en prison en l’espace de deux mois.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "hiver 2002",
+    "texte": "Le bâtiment d’accueil du Bioparc est construit.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "Des rhinocéros noirs sont installés dans une vallée creusée dans la roche.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2026",
+    "texte": "Le lancement des travaux pour l’extension asiatique est annoncé.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Bioparc de Doué-la-Fontaine",
+   "histoire": "Parc zoologique implanté sur le territoire de la commune de Doué-la-Fontaine, il se situe sur la rive d’un projet qui s’est structuré par grandes étapes de chantiers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le second enclos, le plus grand, est occupé par la panthère du Sri Lanka.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S11"
+   ],
+   "lat": 47.19,
+   "lon": -0.3,
+   "url": "https://fr.wikipedia.org/wiki/Bioparc_de_Dou%C3%A9-la-Fontaine"
+  },
+  {
+   "nom": "Château de Doué-la-Fontaine",
+   "histoire": "Ancien château à motte, élevé sur les bases d’un édifice carolingien au début du Xe siècle, puis remanié plusieurs fois. Il s’organise aussi autour d’une aula carolingienne connue par ses dimensions et son épaisseur de murs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges du château se trouvent au sud, à l’angle du boulevard du docteur Lionet et de l’impasse de la Motte, à moins de 100 mètres de la route départementale 69.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S4",
+    "S3"
+   ],
+   "lat": 47.1879,
+   "lon": -0.280425,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Dou%C3%A9-la-Fontaine"
+  },
+  {
+   "nom": "Château de Soulanger",
+   "histoire": "Le château de Soulanger est un édifice dont la construction a duré quatre ans, jusqu’à son achèvement. Après une période de mise en valeur patrimoniale, il a connu une destruction pendant la Révolution.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il n’en reste aujourd’hui que le soubassement, les écuries (qui abritent le musée Aux Anciens Commerces) ainsi qu’un pavillon d’entrée.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.1963,
+   "lon": -0.300853,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Soulanger"
+  },
+  {
+   "nom": "Église Saint-Denis de Doué-la-Fontaine",
+   "histoire": "Église catholique liée à une ancienne église collégiale construite entre 1180 et 1200 environ. Quand la paroisse de la collégiale est supprimée en 1806, l’édifice abandonné sert alors de carrière de pierre, avant que la ville n’achète l’édifice ruiné pour éviter sa destruction complète.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 47.1951,
+   "lon": -0.278114,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Denis_de_Dou%C3%A9-la-Fontaine"
+  },
+  {
+   "nom": "Les Perrières (site troglodytique)",
+   "histoire": "Site troglodytique historiquement connu pour ses activités souterraines, notamment l’extraction du falun. À partir de 1960, des salles sont construites par les champignonnistes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site est en partie ouvert au public.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 47.189965,
+   "lon": -0.2633037,
+   "url": "https://fr.wikipedia.org/wiki/Les_Perri%C3%A8res_%28site_troglodytique%29"
+  }
+ ],
+ "sources": [
+  "Doué-la-Fontaine est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire. Depuis le 30 décembre 2016, la commune forme avec Brigné, Concourson-sur-Layon, Forges, Meigné, Montfort, Saint-Georges-sur-Layon et Les Verchers-sur-Layon, la commune nouvelle de Doué-en-Anjou. Déjà occupé sous l'Antiquité, le territoire de l'actuelle commune devient la résidence des […]",
+  "Les premières traces de passage humain se trouvent dans la découverte d'outils du Moustérien. La période néolithique a livré des haches en pierre polie, des os et des cornes travaillées. Six dolmens se répartissent sur l'actuel canton de Doué-la-Fontaine, témoignage d'une occupation humaine au néolithique. De l'âge du bronze ont été retrouvés plusieurs haches, des pointes et des flèches, des fers de lances et un […]",
+  "IXe siècle : Une aula est construite au sud du bourg actuel dans le dernier quart du IXe siècle.",
+  "1109 : Le château est assiégé en 1109 et en 1123 par Foulques le Réchin et en 1147 par Geoffroy Plantagenêt qui le détruit.",
+  "1229 : En 1229, un hôpital est fondé par les bourgeois de la ville.",
+  "1794 : Ils y seront emprisonnées dans les Arènes ou l'église Saint-Pierre jusqu'au 22 janvier 1794, où 184 d'entre eux meurent en prison en l'espace de deux mois.",
+  "Lieu « Bioparc de Doué-la-Fontaine » : Le Bioparc de Doué-la-Fontaine est un parc zoologique français situé en région Pays de la Loire dans le département de Maine-et-Loire sur le territoire de la commune rurale de Doué-la-Fontaine à une vingtaine de kilomètres de Saumur.",
+  "Lieu « Bioparc de Doué-la-Fontaine », 2002 : Le bâtiment d'accueil, construit à l'hiver 2002, est le tout premier des chantiers d'envergure qui, en termes d'infrastructures, marque aussi la décennie des grands projets.",
+  "Lieu « Bioparc de Doué-la-Fontaine », 2005 : En 2005, des rhinocéros noirs ont été installés dans une vallée de plus de deux hectares, creusée dans la roche, agrémentée de marigots et hérissée de pics de faluns couleur ocre.",
+  "Lieu « Bioparc de Doué-la-Fontaine », 2026 : En 2026, lancement des travaux pour l'extension asiatique (situé derrière la plaine des rhinocéros noir) pour une ouverture en 2028.",
+  "Lieu « Bioparc de Doué-la-Fontaine », aujourd'hui : Le second enclos, le plus grand, est occupé par la panthère du Sri Lanka.",
+  "Lieu « Château de Doué-la-Fontaine » : Le château de Doué-la-Fontaine est un ancien château à motte, élevé sur les bases d'un édifice carolingien au début du Xe siècle et plusieurs fois remanié, qui se dresse sur la commune déléguée de Doué-la-Fontaine au sein de la commune nouvelle de Do",
+  "Lieu « Château de Doué-la-Fontaine », 900 : C'est vers 900 qu'est édifiée sur le site de la Chapelle une aula carolingienne de 23 × 17 mètres et des murs épais de 1,7 à 1,8 mètre.",
+  "Lieu « Château de Doué-la-Fontaine », XIe siècle : Au début du XIe siècle, la partie basse du bâtiment est « emmottée », afin d'empêcher la sape, par des amas de terre rapportée qui masquent désormais les parois extérieures de son rez-de-chaussée.",
+  "Lieu « Château de Doué-la-Fontaine », XIe siècle : Il ne subsiste, aujourd'hui, de la tour qui a été détruite au XIe siècle, que la partie qui a été emmottée et qui, de fait, se trouve être l'aula carolingienne initiale.",
+  "Lieu « Château de Doué-la-Fontaine », aujourd'hui : Les vestiges du château de Doué-la-Fontaine sont situés dans le département français de Maine-et-Loire, sur la commune de Doué-la-Fontaine, au sud, à l'angle du boulevard du docteur Lionet et de l'impasse de la Motte, à moins de 100 mètres de la route départementale 69, d'Argenton aux Verchers-sur-Layon.",
+  "Lieu « Château de Soulanger » : Le château de Soulanger ou Château des Basses Minières est un château situé à Doué-la-Fontaine, en France.",
+  "Lieu « Château de Soulanger », 1778 : La construction qui dura quatre ans sera achevée en 1778.",
+  "Lieu « Château de Soulanger », 1986 : L'édifice est inscrit au titre des monuments historiques en 1986 et classé en 1990.",
+  "Lieu « Château de Soulanger », aujourd'hui : Pillé et détruit durant la Révolution, il n'en reste aujourd'hui que le soubassement, les écuries (qui abritent le musée Aux Anciens Commerces), ainsi qu'un pavillon d'entrée.",
+  "Lieu « Église Saint-Denis de Doué-la-Fontaine » : L'église Saint-Denis est une église catholique située à Doué-la-Fontaine, en France.",
+  "Lieu « Église Saint-Denis de Doué-la-Fontaine », 1180 : C'est une ancienne église collégiale construite entre 1180 et 1200 environ.",
+  "Lieu « Église Saint-Denis de Doué-la-Fontaine », 1806 : La paroisse de la collégiale est supprimée en 1806, et, abandonnée, sert alors de carrière de pierre pour les habitants.",
+  "Lieu « Église Saint-Denis de Doué-la-Fontaine », 1862 : Afin d'éviter sa destruction complète, la ville de Doué-la-Fontaine achète l'édifice ruiné, ce qui permet par la suite son classement au titre des monuments historiques en 1862.",
+  "Lieu « Les Perrières (site troglodytique) » : Le site des Perrières se situe dans la commune de Doué-en-Anjou (anciennement commune de Doué-la-Fontaine), Ce site est historiquement connu pour ses diverses activités souterraines, notamment l'extraction du falun.",
+  "Lieu « Les Perrières (site troglodytique) », 1960 : 500 salles environ seront construites par les champignonnistes à partir de 1960.",
+  "Lieu « Les Perrières (site troglodytique) », aujourd'hui : De nos jours, il est en partie ouvert au public."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 0
+ }
+}

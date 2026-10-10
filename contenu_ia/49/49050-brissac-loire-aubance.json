@@ -1,0 +1,202 @@
+{
+ "commune": {
+  "titre": "Brissac Loire Aubance",
+  "code_insee": "49050",
+  "departement": "49",
+  "population": 10878,
+  "lat": 47.35583333,
+  "lon": -0.44777778,
+  "url": "https://fr.wikipedia.org/wiki/Brissac_Loire_Aubance"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:50:14",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2543,
+  "sortie": 1434
+ },
+ "cout_usd": 0.002301,
+ "accroche": "Depuis le 15 décembre 2016, Brissac Loire Aubance est une commune nouvelle née de la fusion de dix communes en Maine-et-Loire.",
+ "histoire": {
+  "recit": "Brissac Loire Aubance est née le 15 décembre 2016, quand dix anciennes communes ont rejoint la même administration. Le chef-lieu est fixé à Brissac-Quincé, au cœur d’un territoire où les noms de lieux disent déjà l’ancienneté des terres.\n\nParmi les repères, le Château de Brissac s’élève comme un ancien château-fort du comté d’Anjou : construit au XIe siècle, devenu au XVIe siècle propriété de la famille de Cossé-Brissac, il demeure la résidence des ducs de Brissac. Son histoire est aussi faite de reprises et d’alliances : acquis en 1435, il est reconstruit en 1455 par Pierre de Brézé.\n\nDans l’ensemble, certaines traces se lisent encore dans la pierre et le paysage, comme à Saint-Saturnin-sur-Loire, où des sables se seraient transformés en grès, emprisonnant parfois des traces de végétation. D’autres lieux gardent des usages plus récents : à Vauchrétien, une ludothèque est ouverte en décembre 2009 dans le même bâtiment.",
+  "chronologie": [
+   {
+    "date": "7 septembre 2016",
+    "texte": "Un décret préfectoral fixe la fusion des dix communes à l’origine de la commune nouvelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "15 décembre 2016",
+    "texte": "La commune nouvelle Brissac Loire Aubance est créée par la fusion des dix communes, devenues communes déléguées, avec Brissac-Quincé comme chef-lieu.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Brissac",
+   "histoire": "Ancien château-fort du comté d’Anjou, construit au XIe siècle, le château devient au XVIe siècle propriété de la famille de Cossé-Brissac et reste la résidence des ducs de Brissac. Il est acquis en 1435 puis reconstruit en 1455 par Pierre de Brézé.",
+   "anecdotes": [
+    {
+     "texte": "Une légende raconte qu’une dame blanche apparaîtrait les nuits d’orage, après le drame survenu le 1er juin 1477.",
+     "statut": "legende",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château est toujours résidence des ducs de Brissac.",
+   "sources": [
+    "S3"
+   ],
+   "lat": 47.352793,
+   "lon": -0.449781,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Brissac"
+  },
+  {
+   "nom": "Saint-Saturnin-sur-Loire",
+   "histoire": "Ancienne commune devenue commune déléguée au sein de Brissac Loire Aubance. Le développement des villes et villages est évoqué dès 929, avec l’implantation de nouvelles terres cultivables par défrichement. Des traces de l’histoire religieuse et des périodes plus récentes sont aussi mentionnées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des grès de Saint-Saturnin conservent parfois des traces de végétation et des fossiles de feuille de palmier.",
+   "sources": [
+    "S8",
+    "S9",
+    "S12"
+   ],
+   "lat": 47.3955555556,
+   "lon": -0.434722222222,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Saturnin-sur-Loire"
+  },
+  {
+   "nom": "Prieuré de la Colombe",
+   "histoire": "Prieuré situé à Brissac-Quincé. Des fondations autour de Brissac sont associées à 1040, tandis que les biens sont vendus comme bien national en 1791. L’édifice est inscrit au titre des monuments historiques en 1969.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 47.3573,
+   "lon": -0.449592,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_la_Colombe"
+  },
+  {
+   "nom": "Vauchrétien",
+   "histoire": "Ancienne commune devenue commune déléguée au sein de Brissac Loire Aubance. La première trace des origines du nom est tirée d’un document daté approximativement de 1050. En décembre 2009, une ludothèque ouvre dans le même bâtiment.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une ludothèque est ouverte en décembre 2009 dans le bâtiment du lieu.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 47.3336111111,
+   "lon": -0.475277777778,
+   "url": "https://fr.wikipedia.org/wiki/Vauchr%C3%A9tien"
+  },
+  {
+   "nom": "Église Saint-Vincent de Brissac",
+   "histoire": "Église située à Brissac-Quincé. Elle est construite à partir de 1532 par René de Cossé, propriétaire du château. L’édifice est classé au titre des monuments historiques en 1978.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 47.3554,
+   "lon": -0.449115,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Vincent_de_Brissac"
+  },
+  {
+   "nom": "Les Alleuds (Maine-et-Loire)",
+   "histoire": "Ancienne commune devenue commune déléguée au sein de Brissac Loire Aubance. Le prieuré Saint-Aubin, du XVIe siècle, est inscrit aux Monuments historiques par arrêté de 1957. L’église Saint-Aubin est reconstruite en 1879-1881.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24"
+   ],
+   "lat": 47.320278,
+   "lon": -0.408333,
+   "url": "https://fr.wikipedia.org/wiki/Les_Alleuds_%28Maine-et-Loire%29"
+  },
+  {
+   "nom": "Mausolée des ducs de Brissac",
+   "histoire": "Mausolée situé à Brissac-Quincé, inscrit au titre des monuments historiques en 1991.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26"
+   ],
+   "lat": 47.349863,
+   "lon": -0.446893,
+   "url": "https://fr.wikipedia.org/wiki/Mausol%C3%A9e_des_ducs_de_Brissac"
+  },
+  {
+   "nom": "Église Saint-Alman de Quincé",
+   "histoire": "Église située à Brissac-Quincé. L’édifice est inscrit au titre des monuments historiques en 2001.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 47.3499,
+   "lon": -0.447029,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Alman_de_Quinc%C3%A9"
+  }
+ ],
+ "sources": [
+  "Brissac Loire Aubance est, depuis le 15 décembre 2016, une commune nouvelle française située dans le département de Maine-et-Loire, en région Pays de la Loire. Elle est née de la fusion des anciennes communes de Les Alleuds, Brissac-Quincé, Charcé-Saint-Ellier-sur-Aubance, Chemellier, Coutures, Luigné, Saint-Rémy-la-Varenne, Saint-Saturnin-sur-Loire, Saulgé-l'Hôpital et Vauchrétien, devenues communes déléguées.",
+  "La commune nouvelle de Brissac Loire Aubance naît par décret préfectoral du 7 septembre 2016 de la fusion le 15 décembre de la même année des dix communes de Les Alleuds, Brissac-Quincé, Charcé-Saint-Ellier-sur-Aubance, Chemellier, Coutures, Luigné, Saint-Rémy-la-Varenne, Saint-Saturnin-sur-Loire, Saulgé-l'Hôpital et Vauchrétien, qui sont devenues des communes déléguées. Son chef-lieu est fixé à Brissac-Quincé. Pour […]",
+  "Lieu « Château de Brissac » : Le château de Brissac est un ancien château-fort du comté d'Anjou, construit au XIe siècle, devenu au XVIe siècle propriété de la famille de Cossé-Brissac et toujours résidence des ducs de Brissac.",
+  "Lieu « Château de Brissac », XIe siècle : Le château de Brissac est un ancien château-fort du comté d'Anjou, construit au XIe siècle, devenu au XVIe siècle propriété de la famille de Cossé-Brissac et toujours résidence des ducs de Brissac.",
+  "Lieu « Château de Brissac », XIe siècle : C'est à l'origine un château-fort construit par Foulques Nerra, comte d'Anjou, au XIe siècle.",
+  "Lieu « Château de Brissac », 1435 : Le château est acquis en 1435 et reconstruit en 1455 par Pierre de Brézé, un fidèle de Charles VII.",
+  "Lieu « Château de Brissac », aujourd'hui : Lorsque Jacques découvre que sa femme a une liaison avec son ami Pierre de Lavergne, il les transperce avec son épée le 1er juin 1477 ; aujourd'hui une légende prétend qu'elle apparaît sous la forme d'une dame blanche les nuits d'orage.",
+  "Lieu « Saint-Saturnin-sur-Loire » : Saint-Saturnin-sur-Loire est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2016 une commune déléguée au sein de la commune nouvelle de Brissac Loire Aubance.",
+  "Lieu « Saint-Saturnin-sur-Loire », 929 : La situation s'améliore sous la première dynastie comtale d'Anjou, fondé en 929 par Foulque I. Les villes et villages se développent, et de nouvelles terres cultivables se créent en défrichant les forêts, ce qui fut certainement le cas à Saint-Saturnin.",
+  "Lieu « Saint-Saturnin-sur-Loire », 1663 : Mort en 1663, René Avril laisse à ses héritiers le fief, qui est vendu en 1665 à Pierre Foyer.",
+  "Lieu « Saint-Saturnin-sur-Loire », 1860 : C'est sans doute dans les deux siècles suivants que la première église de Saint-Saturnin fut construite (des traces du clocher de cette église étaient visibles sur l'ancienne église de la paroisse détruite en 1860).",
+  "Lieu « Saint-Saturnin-sur-Loire », aujourd'hui : Sur les côtes, sous un climat tropical, les sables se transforment en grès, emprisonnant parfois les traces d'une végétation luxuriante (ainsi se sont formés les grès de Saint-Saturnin, abritant parfois des fossiles de feuille de palmier).",
+  "Lieu « Prieuré de la Colombe » : Le prieuré de la Colombe est un prieuré situé à Brissac-Quincé, en France.",
+  "Lieu « Prieuré de la Colombe », 1040 : Louis Raimbault indique qu'en 1040 Geoffroy Martel et son épouse Agnès de Bourgogne ont fondé l'abbaye de la Trinité de Vendôme et lui ont donné quelques parties de ses domaines autour de Brissac.",
+  "Lieu « Prieuré de la Colombe », 1791 : Les biens du prieuré ont été vendus comme bien national à Vihiers, en 1791.",
+  "Lieu « Prieuré de la Colombe », 1969 : L'édifice est inscrit au titre des monuments historiques en 1969.",
+  "Lieu « Vauchrétien » : Vauchrétien est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2016 une commune déléguée au sein de la commune nouvelle de Brissac Loire Aubance.",
+  "Lieu « Vauchrétien », 2009 : Dans le même bâtiment est ouvert en décembre 2009 une ludothèque.",
+  "Lieu « Vauchrétien », aujourd'hui : D'après l'historien Célestin Port retraçant l'historique des communes de Maine-et-Loire, la première trace des origines du nom de Vauchrétien est tirée d'un document daté approximativement de 1050.",
+  "Lieu « Église Saint-Vincent de Brissac » : L'église Saint-Vincent est une église située à Brissac-Quincé, en France.",
+  "Lieu « Église Saint-Vincent de Brissac », 1532 : L'église a été construite à partir de 1532 par René de Cossé, propriétaire du château.",
+  "Lieu « Église Saint-Vincent de Brissac », 1978 : L'édifice est classé au titre des monuments historiques en 1978.",
+  "Lieu « Les Alleuds (Maine-et-Loire) » : Les Alleuds est une ancienne commune française située dans le département de Maine-et-Loire, en région Pays de la Loire, devenue le 15 décembre 2016 une commune déléguée au sein de la commune nouvelle de Brissac Loire Aubance.",
+  "Lieu « Les Alleuds (Maine-et-Loire) », 1957 : Le prieuré Saint-Aubin, du XVIe siècle, inscrit aux Monuments historiques par arrêté de 1957, comprenant une chapelle des XIe-XVIIIe siècles ; L'église Saint-Aubin, reconstruite en 1879-1881.",
+  "Lieu « Mausolée des ducs de Brissac » : Le mausolée des ducs de Brissac est un mausolée situé à Brissac-Quincé, en France.",
+  "Lieu « Mausolée des ducs de Brissac », 1991 : L'édifice est inscrit au titre des monuments historiques en 1991.",
+  "Lieu « Église Saint-Alman de Quincé » : L'église Saint-Alman est une église située à Brissac-Quincé, en France.",
+  "Lieu « Église Saint-Alman de Quincé », 2001 : L'édifice est inscrit au titre des monuments historiques en 2001."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "commune": {
+  "titre": "Saumur",
+  "code_insee": "49328",
+  "departement": "49",
+  "population": 26241,
+  "lat": 47.26,
+  "lon": -0.076944,
+  "url": "https://fr.wikipedia.org/wiki/Saumur"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:56:24",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3441,
+  "sortie": 2293
+ },
+ "cout_usd": 0.003554,
+ "accroche": "Du 13 au 25 décembre 1793, 29 prisonniers sont guillotinés à Saumur, tandis que 403 autres sont fusillés, lors de la Terreur Angevine.",
+ "histoire": {
+  "recit": "À Saumur, l’histoire commence bien avant les rues d’aujourd’hui : des monuments mégalithiques, comme le dolmen de Bagneux, signalent une présence humaine dès le Néolithique. Plus tard, la ville est frappée de plein fouet : en 845, elle subit le pillage du chef viking Hasting, puis, vers 960, Thibaut le Tricheur fait construire le château.\n\nLe destin de Saumur bascule encore à l’époque de la Révolution. Pendant la Terreur Angevine, du 13 au 25 décembre 1793, l’on y guillotine 29 prisonniers, et 403 sont fusillés.\n\nLa guerre du XXe siècle laisse aussi sa trace : les 1er juin 1944 et le lendemain, deux grands bombardements anglo-américains frappent la ville, mettant la gare hors d’usage et faisant s’effondrer les arches du pont des Sept-Voies.\n\nAprès ces chocs, certains lieux renaissent : en 2007, le rempart est restauré à l’identique et inauguré le 23 juin. Et la commune, dès le 1er février 1973, s’associe à Bagneux, Dampierre-sur-Loire, Saint-Hilaire-Saint-Florent et Saint-Lambert-des-Levées.",
+  "chronologie": [
+   {
+    "date": "1er février 1973",
+    "texte": "Saumur s’associe à Bagneux, Dampierre-sur-Loire, Saint-Hilaire-Saint-Florent et Saint-Lambert-des-Levées.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "845",
+    "texte": "Saumur est pillée par le chef viking Hasting.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Vers 960",
+    "texte": "Thibaut le Tricheur fait construire le château de Saumur.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "13 au 25 décembre 1793",
+    "texte": "Pendant la Terreur Angevine, 29 prisonniers sont guillotinés à Saumur, 403 sont fusillés et 19 sont acquittés.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1er juin 1944 et 2 juin 1944",
+    "texte": "Deux grands bombardements anglo-américains ont lieu : la gare est hors d’usage, les voies ferrées sont coupées et les arches du pont des Sept-Voies s’effondrent.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "23 juin 2007",
+    "texte": "Le rempart est restauré à l’identique et inauguré le 23 juin 2007 sous l’égide des Bâtiments de France.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Pierre-du-Marais de Saumur",
+   "histoire": "Église catholique à Saumur, reconstruite au XVIIe siècle dans le style de la Contre-Réforme. Son orgue actuel est installé en 1805, et l’édifice est classé au titre des monuments historiques en 1862.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des concerts d’orgue y sont régulièrement organisés.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 47.2587,
+   "lon": -0.0743,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-du-Marais_de_Saumur"
+  },
+  {
+   "nom": "Gare de Saumur",
+   "histoire": "Gare de la ligne de Tours à Saint-Nazaire, appelée aussi Saumur-Orléans et Saumur-Rive-Droite, située sur le territoire de Saumur. Elle est ouverte le 20 décembre 1848 par la Compagnie du chemin de fer de Tours à Nantes, puis rachetée quatre ans plus tard par la Compagnie du chemin de fer de Paris à Orléans. Des aménagements existent aussi sur la rive gauche par d’autres installations ferroviaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Reconstruite après-guerre au même emplacement, mais sans la halle métallique recouvrant les voies et les quais.",
+   "sources": [
+    "S11",
+    "S12",
+    "S15",
+    "S14"
+   ],
+   "lat": 47.268943,
+   "lon": -0.071293,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saumur"
+  },
+  {
+   "nom": "Abbaye Saint-Florent de Saumur",
+   "histoire": "Abbaye bénédictine d’Anjou fondée au XIe siècle à proximité de Saumur. La translation des reliques, par ordre du roi, est achevée en 1480. Après l’abandon à la Révolution, la plupart des bâtiments conventuels sont détruits au XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des vestiges subsistent, classés au titre des monuments historiques en 1964 et en 1973.",
+   "sources": [
+    "S16",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.266009,
+   "lon": -0.102962,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Florent_de_Saumur"
+  },
+  {
+   "nom": "Château de Saumur",
+   "histoire": "Château situé dans le val de Loire, au confluent de la Loire et du Thouet. Il est une enceinte bastionnée préfigurant des créations attribuées à Vauban, achevée en 1646 par le front nord. Le musée est ouvert au public après la concrétisation du projet en 1906 et en 1912. En 2001, la partie ouest du rempart nord s’effondre et endommage des habitations en contrebas.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une fortification est toujours visible aujourd’hui autour du château, côté ville.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.257,
+   "lon": -0.0724,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saumur"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-des-Ardilliers de Saumur",
+   "histoire": "Chapelle royale du sanctuaire marial Notre-Dame-des-Ardilliers, située sur les quais de la Loire, dans la paroisse de Saint Charles de Foucauld. Louis XIII accorde le statut de chapelle royale ; de 1628 à 1643, les Oratoriens construisent des bâtiments à proximité pour leur communauté, avec salles de cours et dortoirs. L’édifice est restauré à partir de 1849 par l’architecte Charles Joly-Leterme.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il reste peu de traces de la chapelle originelle : son plafond a été rehaussé lors de l’installation du retable de l’abbé Choyer, et elle a été restaurée au XIXe siècle.",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S30"
+   ],
+   "lat": 47.253133,
+   "lon": -0.063285,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-des-Ardilliers_de_Saumur"
+  },
+  {
+   "nom": "École de cavalerie de Saumur (caserne)",
+   "histoire": "Ensemble architectural abritant l’institution de l’École de cavalerie depuis 1768. Conçue par Louis Alexandre de Cessart en 1764-1765, elle est détruite dans les années 1860. Une première écurie est bâtie sur le site et achevée en août 1766, puis les troupes s’installent dans le bâtiment central de la caserne des carabiniers en 1770. L’ensemble est inscrit aux monuments historiques depuis 1971, 2000 et 2005.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 47.2609,
+   "lon": -0.08584,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89cole_de_cavalerie_de_Saumur_%28caserne%29"
+  },
+  {
+   "nom": "Gare de Saumur-Rive-Gauche",
+   "histoire": "Gare ferroviaire fermée dite Saumur-État, située sur la commune de Saumur. Une fondation liée au chemin de fer de Saumur à Poitiers est datée du 26 novembre 1869 ; un décret d’utilité publique paraît au Journal officiel le 1er mars 1872. Une ligne à voie métrique est ouverte en 1896 entre Cholet et Saumur. Un bâtiment-voyageur durable est construit en 1902 sous les directives de M. Fouan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment voyageur abrite aujourd’hui le siège de Saumur agglobus.",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 47.252106,
+   "lon": -0.081272,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saumur-Rive-Gauche"
+  },
+  {
+   "nom": "Église Notre-Dame de Nantilly",
+   "histoire": "Église catholique de Saumur. La nef, partie la plus ancienne, est construite après l’incendie de Saumur en 1067, provoqué par Guillaume VIII d’Aquitaine. L’archevêque de Tyr Gilles de Saumur est inhumé dans le chœur de l’église : son tombeau est retrouvé et ouvert le 2 décembre 1614, puis refermé et redécouvert en mai 1699. Les colonnes d’appui et les bases sont reprises à la fin du XIVe siècle ou au début du XVe siècle. L’église abrite aujourd’hui les fonts baptismaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle abrite aujourd’hui les fonts baptismaux.",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 47.2532,
+   "lon": -0.07631,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Nantilly"
+  }
+ ],
+ "sources": [
+  "Saumur est une commune française, sous-préfecture du département de Maine-et-Loire, en région Pays de la Loire. Elle est la troisième commune du département en nombre d'habitants. Le 1er février 1973, Saumur s'est associée à quatre communes limitrophes : Bagneux, Dampierre-sur-Loire, Saint-Hilaire-Saint-Florent et Saint-Lambert-des-Levées. Saumur est particulièrement connue pour son école de cavalerie, son château […]",
+  "La présence de monuments mégalithiques comme le dolmen de Bagneux montre l’existence d'une présence humaine dès le néolithique. En 845, Saumur est pillée par le chef viking Hasting. Vers 960, Thibaut le Tricheur fait construire le château de Saumur. À la fin du Xe siècle, Gelduin, seigneur de Saumur, est vassal des comtes de Blois, ce qui en fait un ennemi du puissant comte d'Anjou, Foulques III Nerra. Alors que […]",
+  "1793 : Lors de la Terreur Angevine, du 13 au 25 décembre 1793, 29 prisonniers sont guillotinés à Saumur, 403 sont fusillés, 19 acquittés.",
+  "1944 : Le jeudi 1er juin 1944 et le lendemain, deux grands bombardements anglo-américains ont lieu : la gare est hors d'usage, les voies ferrées sont coupées, les arches du pont des Sept-Voies se sont effondrées.",
+  "2007 : Sous l'égide des Bâtiments de France, le rempart est restauré à l'identique et inauguré le 23 juin 2007.",
+  "Lieu « Église Saint-Pierre-du-Marais de Saumur » : L'église Saint-Pierre-du-Marais est une église catholique située à Saumur, en France.",
+  "Lieu « Église Saint-Pierre-du-Marais de Saumur », XVIIe siècle : Elle est reconstruite au XVIIe siècle dans le style de la Contre Réforme.",
+  "Lieu « Église Saint-Pierre-du-Marais de Saumur », 1805 : L'orgue actuel est installé en 1805 ; il s'agit en réalité de celui qui était jusqu'alors en place à l'église des Cordeliers de Saumur.",
+  "Lieu « Église Saint-Pierre-du-Marais de Saumur », 1862 : L'édifice est classé au titre des monuments historiques en 1862.",
+  "Lieu « Église Saint-Pierre-du-Marais de Saumur », aujourd'hui : De nos jours, des concerts d’orgue y sont régulièrement organisés.",
+  "Lieu « Gare de Saumur » : La gare de Saumur, également appelée Saumur-Orléans et Saumur-Rive-Droite, est une gare ferroviaire française de la ligne de Tours à Saint-Nazaire, située sur le territoire de la commune de Saumur, dans le département de Maine-et-Loire, en région Pay",
+  "Lieu « Gare de Saumur », 1848 : La gare est ouverte le 20 décembre 1848 par la Compagnie du chemin de fer de Tours à Nantes, rachetée quatre ans plus tard par la Compagnie du chemin de fer de Paris à Orléans (PO).",
+  "Lieu « Gare de Saumur », 1874 : En 1874-1876, une gare provisoire, puis définitive est ouverte sur la rive gauche de la Loire par la Compagnie du chemin de fer de Poitiers à Saumur, absorbée en 1877 par l'administration des chemins de fer de l'État.",
+  "Lieu « Gare de Saumur », 2018 : La gare dispose d'un bâtiment voyageurs avec guichets ouverts tous les jours, même si depuis fin 2018 la SNCF souhaite ne laisser ouvert qu'un seul guichet en réduisant les horaires.",
+  "Lieu « Gare de Saumur », aujourd'hui : Elle est reconstruite après-guerre au même emplacement, mais sans la halle métallique recouvrant les voies et les quais.",
+  "Lieu « Abbaye Saint-Florent de Saumur » : Saint-Florent de Saumur, Saint-Florent lès Saumur ou encore Saint-Florent-le-Jeune est une abbaye bénédictine d'Anjou fondée au XIe siècle à proximité de Saumur.",
+  "Lieu « Abbaye Saint-Florent de Saumur », XIe siècle : Saint-Florent de Saumur, Saint-Florent lès Saumur ou encore Saint-Florent-le-Jeune est une abbaye bénédictine d'Anjou fondée au XIe siècle à proximité de Saumur.",
+  "Lieu « Abbaye Saint-Florent de Saumur », 1480 : Par ordre du roi, la translation des reliques a été achevée en 1480, de la collégiale de Roye à Saumur, alors qu'après sa mort, les chanoines de Roye ont pu en récupérer partiellement selon leur volonté.",
+  "Lieu « Abbaye Saint-Florent de Saumur », XIXe siècle : À la suite de son abandon à la Révolution, la plupart des bâtiments conventuels ont été détruits au XIXe siècle.",
+  "Lieu « Abbaye Saint-Florent de Saumur », aujourd'hui : Les vestiges subsistants ont été classés au titre des monuments historiques en 1964 et en 1973.",
+  "Lieu « Château de Saumur » : Le château de Saumur est un château situé dans le val de Loire dans la commune française de Saumur, dans le département de Maine-et-Loire, au confluent de la Loire et du Thouet.",
+  "Lieu « Château de Saumur », 1646 : Il s'agit d'une enceinte bastionnée qui préfigure les créations innovantes de Vauban et qui sera définitivement achevée en 1646 par le front nord.",
+  "Lieu « Château de Saumur », 1906 : Ce projet est concrétisé par la suite en 1906 et en 1912 par l'ouverture du musée au public.",
+  "Lieu « Château de Saumur », 2001 : Le 22 avril 2001, la partie ouest du rempart nord s'effondre et endommage une partie des habitations situées en contrebas.",
+  "Lieu « Château de Saumur », aujourd'hui : Il entreprend l'édification de la fortification toujours visible aujourd'hui autour du château, côté ville.",
+  "Lieu « Chapelle Notre-Dame-des-Ardilliers de Saumur » : La chapelle royale du sanctuaire marial Notre-Dame-des-Ardilliers se trouve à Saumur, sur les quais de la Loire, dans la paroisse de Saint Charles de Foucauld.",
+  "Lieu « Chapelle Notre-Dame-des-Ardilliers de Saumur », 1628 : Louis XIII accorde le statut de chapelle royale et les Oratoriens construisent, de 1628 à 1643, à l'est de la chapelle les bâtiments qui abriteront leur communauté, les salles de cours et les dortoirs des élèves.",
+  "Lieu « Chapelle Notre-Dame-des-Ardilliers de Saumur », 1849 : À partir de 1849, l'architecte Charles Joly-Leterme a commencé la restauration de l'édifice.",
+  "Lieu « Chapelle Notre-Dame-des-Ardilliers de Saumur », 1953 : La maison des Oratoriens a été transformée en établissement scolaire en 1953.",
+  "Lieu « Chapelle Notre-Dame-des-Ardilliers de Saumur », aujourd'hui : Il reste peu de traces de cette chapelle originelle, car son plafond a été rehaussé lors de l'installation du retable de l'abbé Choyer, et elle a été restaurée au XIXe siècle.",
+  "Lieu « École de cavalerie de Saumur (caserne) » : L’école de cavalerie de Saumur est un ensemble architectural abritant l’institution du même nom depuis 1768, inscrit aux monuments historiques depuis 1971, 2000 et 2005.",
+  "Lieu « École de cavalerie de Saumur (caserne) », 1764 : Construit par l'ingénieur Louis Alexandre de Cessart en 1764-1765 et détruit dans les années 1860, il était situé à l'emplacement de l'actuel manège des écuyers.",
+  "Lieu « École de cavalerie de Saumur (caserne) », 1766 : Première écurie bâtie sur le site par François Michel Lecreulx, elle est achevée en août 1766.",
+  "Lieu « École de cavalerie de Saumur (caserne) », 1770 : Les troupes s'installent dans le bâtiment central de la caserne des carabiniers en 1770.",
+  "Lieu « École de cavalerie de Saumur (caserne) », aujourd'hui : Jugé toujours trop ambitieux et incohérent, il est remplacé par un troisième projet lui-même soumis à des idées de dernières minutes.",
+  "Lieu « Gare de Saumur-Rive-Gauche » : La gare de Saumur-Rive-Gauche, ou Saumur-État, est une gare ferroviaire fermée située sur la commune de Saumur, dans le département de Maine-et-Loire, en région Pays de la Loire.",
+  "Lieu « Gare de Saumur-Rive-Gauche », 1869 : La Société anonyme du chemin de fer de Saumur à Poitiers est fondée le 26 novembre 1869 et le décret d'utilité publique est publié au Journal officiel le 1er mars 1872.",
+  "Lieu « Gare de Saumur-Rive-Gauche », 1896 : En 1896, une ligne à voie métrique est ouverte entre Cholet et Saumur au sein du réseau du Petit Anjou.",
+  "Lieu « Gare de Saumur-Rive-Gauche », 1902 : Un bâtiment-voyageur durable est construit en 1902 par l'administration de l'État sous les directives de M. Fouan, ingénieur en chef des voies et bâtiments.",
+  "Lieu « Gare de Saumur-Rive-Gauche », aujourd'hui : Le bâtiment voyageur de la gare abrite aujourd'hui le siège de Saumur agglobus.",
+  "Lieu « Église Notre-Dame de Nantilly » : L'église Notre-Dame-de-Nantilly est une église catholique située à Saumur, en France.",
+  "Lieu « Église Notre-Dame de Nantilly », 1067 : La nef, partie la plus ancienne de l'église, a été construite après l'incendie de Saumur, en 1067, provoqué par Guillaume VIII d'Aquitaine, comte de Poitiers, qui avait été baptisé Gui et aussi appelé Guy-Geoffroi, probablement en 1120.",
+  "Lieu « Église Notre-Dame de Nantilly », 1266 : L'archevêque de Tyr, Gilles de Saumur, mort à Dinant le 23 avril 1266, est inhumé dans le chœur de l'église de Nantilly et dont le tombeau a été retrouvé et ouvert le 2 décembre 1614 puis refermé et redécouvert en mai 1699.",
+  "Lieu « Église Notre-Dame de Nantilly », XIVe siècle : Les colonnes d'appui et les bases sont reprises à la fin du XIVe siècle ou au début du XVe siècle, peut-être à la suite de l'effondrement du clocher situé à la croisée.",
+  "Lieu « Église Notre-Dame de Nantilly », aujourd'hui : Il abrite aujourd'hui les fonts baptismaux."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

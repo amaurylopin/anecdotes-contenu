@@ -1,0 +1,220 @@
+{
+ "commune": {
+  "titre": "Chalonnes-sur-Loire",
+  "code_insee": "49063",
+  "departement": "49",
+  "population": 6659,
+  "lat": 47.35138889,
+  "lon": -0.7625,
+  "url": "https://fr.wikipedia.org/wiki/Chalonnes-sur-Loire"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:41:44",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1969,
+  "sortie": 2047
+ },
+ "cout_usd": 0.002953,
+ "accroche": "Le site paléolithique de Roc-en-Pail, à Chalonnes-sur-Loire, a livré des vestiges moustériens et des restes fossiles de l’Homme de Néandertal.",
+ "histoire": {
+  "recit": "Chalonnes-sur-Loire se tient au bord de la Loire, au cœur du Val de Loire classé au patrimoine mondial, et la commune garde des traces très anciennes d’occupation. À Roc-en-Pail et à Pierre-Cou, des fossiles montrent des animaux passés et un climat qui change : mammouths et rennes sont attestés vers -30000, puis la fin de la période glaciaire ouvre une autre époque. Plus près de nous, les guerres de religion frappent : l’église et les bâtiments du prieuré sont détruits, puis reconstruits en 1573, en réunissant le prieuré à la cure. \n\nLe paysage se remodèle aussi par les passages d’eau. En 1840, des ponts suspendus permettent de traverser au confluent de la Loire et du Layon, avant que le pont connu aujourd’hui n’entre dans l’histoire en 1948. Avant cela, il a fallu reconstruire : en juin 1940, le pont est détruit pour ralentir les armées, et la nouvelle construction, commencée sous l’occupation, est inaugurée le 25 juillet 1948. Sur l’île fluviale, des gestes et des lieux ont fleuri, jusqu’à la fermeture du Lenin café à la Basse-Île.",
+  "chronologie": [
+   {
+    "date": "vers -30000",
+    "texte": "À Roc-en-Pail, des fossiles attestent la présence de mammouths et de rennes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers -10000",
+    "texte": "La fin de la période glaciaire transforme la situation locale après les traces du Paléolithique ancien.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1573",
+    "texte": "L’église et les bâtiments du prieuré sont reconstruits, en réunissant le prieuré à la cure.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "Les ponts suspendus de Chalonnes, au confluent de la Loire et du Layon, sont construits.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1845",
+    "texte": "L’ouvrage du pont de Chalonnes-sur-Loire, conçu par Marc Seguin & Frères et réalisé par les Frères Seguin, permet la prolongation de la route départementale 155.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "20 juin 1940 à 00 h 15",
+    "texte": "Le pont de Chalonnes-sur-Loire est détruit pour ralentir les armées allemandes.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "25 juillet 1948",
+    "texte": "Le pont de Chalonnes-sur-Loire inauguré : il s’agit de la version en ciment armé soutenu par un système de câbles.",
+    "sources": [
+     "S7",
+     "S11"
+    ]
+   },
+   {
+    "date": "1865",
+    "texte": "La gare de Chalonnes est construite pour l’inauguration de la ligne de La Possonnière à Niort.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Chalonnes-sur-Loire",
+   "histoire": "Le pont relie Chalonnes-sur-Loire à l’île de Chalonnes, séparées par un bras de la Loire, juste avant l’embouchure du Layon.",
+   "anecdotes": [
+    {
+     "texte": "En juin 1940, le pont est détruit à 00 h 15, dans l’intention de ralentir les armées allemandes.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Le pont inauguré le 25 juillet 1948 est bâti en ciment armé, soutenu par un système de câbles.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le pont que l’on connaît aujourd’hui a été inauguré le 25 juillet 1948.",
+   "sources": [
+    "S8",
+    "S7",
+    "S11"
+   ],
+   "lat": 47.354444444,
+   "lon": -0.761666667,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Chalonnes-sur-Loire"
+  },
+  {
+   "nom": "Gare de Chalonnes",
+   "histoire": "La gare de Chalonnes se trouve à L’Onglée, sur le territoire de la commune, le long de la ligne de La Possonnière à Niort.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est aujourd’hui séparée de la ligne par les gares des Fourneaux et de La Jumellière, désormais fermées.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 47.342933,
+   "lon": -0.743689,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Chalonnes"
+  },
+  {
+   "nom": "Île de Chalonnes",
+   "histoire": "L’île de Chalonnes est une île fluviale située sur le cours de la Loire.",
+   "anecdotes": [
+    {
+     "texte": "Martine Thouet, conseillère municipale, a créé le Lenin café, musée guinguette à la Basse-Île, fermé en 2021.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 47.3717,
+   "lon": -0.7889,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_Chalonnes"
+  },
+  {
+   "nom": "Église Saint-Maurille de Chalonnes-sur-Loire",
+   "histoire": "Église catholique de la commune, Saint-Maurille est classée au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S3"
+   ],
+   "lat": 47.3521,
+   "lon": -0.757885,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maurille_de_Chalonnes-sur-Loire"
+  },
+  {
+   "nom": "Site paléolithique de Roc-en-Pail",
+   "histoire": "Site préhistorique de Chalonnes-sur-Loire, Roc-en-Pail a livré des vestiges et des restes fossiles.",
+   "anecdotes": [
+    {
+     "texte": "Le site a notamment livré des vestiges lithiques moustériens et des restes fossiles de l’Homme de Néandertal.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site a notamment livré, entre autres, des vestiges lithiques moustériens et des restes fossiles de l’Homme de Néandertal.",
+   "sources": [
+    "S19",
+    "S20",
+    "S2"
+   ],
+   "lat": 47.342291,
+   "lon": -0.76355,
+   "url": "https://fr.wikipedia.org/wiki/Site_pal%C3%A9olithique_de_Roc-en-Pail"
+  }
+ ],
+ "sources": [
+  "Chalonnes-sur-Loire est une commune française située dans le département de Maine-et-Loire, en région Pays de la Loire. Cette petite ville rurale se trouve au cœur de l'Anjou, au sud-ouest d'Angers. Son territoire est situé en bord de Loire, dans le Val de Loire classé au Patrimoine mondial de l'Unesco dont elle constitue la limite occidentale. La présence de nombreux fossiles indique une occupation très ancienne. […]",
+  "Des traces préhistoriques présentes dans la commune en font un des sites les plus anciennement habités de l'Anjou. On a trouvé de nombreux fossiles sur les sites de Roc-en-Pail et de Pierre-Cou. Sur le premier y furent notamment découverts des ossements d'animaux. On a ainsi pu savoir que vers -30000 s'y trouvaient des mammouths et des rennes, pour laisser la place à la fin période glaciaire (vers -10000) à des […]",
+  "1573 : L'église et les bâtiments du prieuré sont détruits durant les guerres de religion, puis reconstruits en 1573 en réunissant le prieuré à la cure.",
+  "1840 : Les ponts suspendus de Chalonnes, situés au confluent de la Loire et du Layon, sont construits en 1840 et mis en service l'année suivante.",
+  "XIXe siècle : Il faut attendre le milieu du XIXe siècle pour voir se développer les ponts sur la Loire ; période où sont construits celui de Chalonnes, mais aussi ceux d'Ingrandes, Montjean, Les Rosiers, Saint-Florent et Saint-Mathurin.",
+  "XIXe siècle : À la fin du XIXe siècle est construit un réseau secondaire de chemin de fer, le Petit Anjou.",
+  "1948 : Le pont que l'on connaît aujourd'hui a été inauguré le 25 juillet 1948 (pont en ciment armé soutenu par un système de câbles).",
+  "Lieu « Pont de Chalonnes-sur-Loire » : Le pont de Chalonnes-sur-Loire réunit la commune de Chalonnes-sur-Loire à l'île de Chalonnes, séparées par un bras de la Loire, et situé peu avant l'embouchure du Layon.",
+  "Lieu « Pont de Chalonnes-sur-Loire », 1845 : Il s'agissait d'un ouvrage conçu par Marc Seguin & Frères et réalisé par les Frères Seguin, qui prêtèrent la somme d'environ 44 000 francs de l'époque au département, selon le procès-verbal de la Chambre des Députés de 1845, pour que la prolongation de la route départementale 155 (actuellement D961) vers Saint-Georges-sur-Loire puisse être construite.",
+  "Lieu « Pont de Chalonnes-sur-Loire », 1940 : Ce pont fut détruit lors de la Seconde Guerre mondiale, le 20 juin 1940 à 00 h 15, dans l'intention de ralentir les armées allemandes.",
+  "Lieu « Pont de Chalonnes-sur-Loire », 1948 : Le pont que l'on connait aujourd'hui, commencé sous l'occupation, a été inauguré le 25 juillet 1948.",
+  "Lieu « Gare de Chalonnes » : La gare de Chalonnes est une gare ferroviaire française de la ligne de La Possonnière à Niort, située à L'Onglée sur le territoire de la commune de Chalonnes-sur-Loire, dans le département de Maine-et-Loire, en région Pays de la Loire.",
+  "Lieu « Gare de Chalonnes », 1865 : Elle fut construite en 1865 pour l'inauguration de la ligne de La Possonnière à Niort.",
+  "Lieu « Gare de Chalonnes », aujourd'hui : Elle est séparée de cette dernière par les gares aujourd'hui fermées des Fourneaux et de La Jumellière.",
+  "Lieu « Île de Chalonnes » : L’île de Chalonnes est une île fluviale située sur le cours de la Loire.",
+  "Lieu « Île de Chalonnes », 1953 : Martine Thouet (1953-2021), conseillère municipale et créatrice du Lenin café, musée guinguette à la Basse-Île fermé en 2021.",
+  "Lieu « Église Saint-Maurille de Chalonnes-sur-Loire » : L'église Saint-Maurille est une église catholique située à Chalonnes-sur-Loire, en France.",
+  "Lieu « Église Saint-Maurille de Chalonnes-sur-Loire », 1909 : L'édifice est classé au titre des monuments historiques en 1909.",
+  "Lieu « Site paléolithique de Roc-en-Pail » : Le site paléolithique de Roc-en-Pail est un site préhistorique situé à Chalonnes-sur-Loire, dans le département français de Maine-et-Loire.",
+  "Lieu « Site paléolithique de Roc-en-Pail », aujourd'hui : Le site a notamment livré des vestiges lithiques moustériens et des restes fossiles de l'Homme de Néandertal."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 4
+ }
+}
