@@ -1,0 +1,243 @@
+{
+ "commune": {
+  "titre": "Marmande",
+  "code_insee": "47157",
+  "departement": "47",
+  "population": 17328,
+  "lat": 44.509973,
+  "lon": 0.161705,
+  "url": "https://fr.wikipedia.org/wiki/Marmande"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:18:28",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1908,
+  "sortie": 1376
+ },
+ "cout_usd": 0.002102,
+ "accroche": "Le 21 août 1944, Marmande est libéré par la Résistance, après le départ des troupes allemandes sans combats.",
+ "histoire": {
+  "recit": "Marmande, sous-préfecture et chef-lieu de canton dans le Lot-et-Garonne, est traversée par la Garonne.\n\nLa ville entre dans l’histoire en 1182 grâce à une charte accordée par Richard Cœur de Lion. Plus tard, en 1219, l’armée du prince Louis rejoint celle du légat pontifical Arnaud Amaury devant Marmande : la ville est prise.\n\nAux XVIe et XVIe siècles, les tensions religieuses marquent la ville : le couvent des Cordeliers est incendié en septembre 1561, puis en 1577 elle est assiégée, sans succès, par les Huguenots.\n\nEnfin, le 21 août 1944, Marmande est libéré par la Résistance, sans combats.\n\nAujourd’hui, la ville joue aussi la carte des loisirs sur le fleuve : Marmande plage transforme la Garonne avec une plage de sable artificielle, installée puis déplacée au fil des ans.",
+  "chronologie": [
+   {
+    "date": "1182",
+    "texte": "Marmande entre dans l’histoire avec la charte accordée par Richard Cœur de Lion.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1219",
+    "texte": "L’armée du prince Louis rejoint celle du légat pontifical Arnaud Amaury devant Marmande ; la ville est prise.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "septembre 1561",
+    "texte": "Le couvent des Cordeliers est incendié par les protestants.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1577",
+    "texte": "Durant la sixième guerre de Religion, Marmande est assiégée par les Huguenots, sans succès.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "21 août 1944",
+    "texte": "Marmande est libéré par la Résistance après le départ des troupes allemandes sans combats.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Marmande plage",
+   "histoire": "Marmande plage est une plage de sable artificielle installée sur la Garonne.",
+   "anecdotes": [
+    {
+     "texte": "En 2019, elle quitte le parc de la Filhole pour s’installer dans l’ancienne gravière de Coussan, sur l’autre rive de la Garonne.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 2012, elle est ouverte du 23 juin au 16 septembre, avec une fréquentation qui double (en moyenne 16 000 promeneurs et baigneurs).",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, on se méfie davantage des cours d’eau et de ce qu’ils contiennent.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 44.491307,
+   "lon": 0.155323,
+   "url": "https://fr.wikipedia.org/wiki/Marmande_plage"
+  },
+  {
+   "nom": "Chapelle Saint-Benoît de Marmande",
+   "histoire": "La chapelle Saint-Benoît se trouve au 91 rue de la Libération, à Marmande.",
+   "anecdotes": [
+    {
+     "texte": "La chapelle était la chapelle du couvent des Dames de Saint-Benoît, fondé en 1645 par Dame Jeanne Antoinette d’Esparbès de Lussan.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "En 1646, la marquise de Grignols achète un terrain dans le quartier de Lestang pour construire le couvent clos de murs.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Vers 1760, Marsaudon réalise d’importants travaux sur les bâtiments conventuels.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 44.500531,
+   "lon": 0.160289,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Beno%C3%AEt_de_Marmande"
+  },
+  {
+   "nom": "Église Notre-Dame de Marmande",
+   "histoire": "L’église Notre-Dame est une église catholique située à Marmande.",
+   "anecdotes": [
+    {
+     "texte": "À l’origine construite au XIVe siècle, elle est ensuite agrandie et remaniée aux XVIe et XVIIe siècles.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "En 1859, l’orgue de l’église Notre-Dame est construit par Aristide Cavaillé-Coll.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 44.497565,
+   "lon": 0.163988,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Marmande"
+  },
+  {
+   "nom": "Gare de Marmande",
+   "histoire": "La gare de Marmande est une gare ferroviaire située à proximité du centre-ville.",
+   "anecdotes": [
+    {
+     "texte": "Elle devient une gare de bifurcation le 15 novembre 1886, lors de la mise en service de la section de Bergerac à Marmande.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 44.503172,
+   "lon": 0.168266,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Marmande"
+  },
+  {
+   "nom": "Garorock",
+   "histoire": "Garorock est un festival de musique pop, rap, electro et techno qui a lieu à Marmande.",
+   "anecdotes": [
+    {
+     "texte": "Le festival est fondé en mars 1997, dans les anciens abattoirs de Marmande.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 44.489755,
+   "lon": 0.163333,
+   "url": "https://fr.wikipedia.org/wiki/Garorock"
+  }
+ ],
+ "sources": [
+  "Marmande est une commune du Sud-Ouest de la France, sous-préfecture et chef-lieu de canton du département de Lot-et-Garonne, en région Nouvelle-Aquitaine. La ville est traversée par la Garonne.",
+  "Ancien castrum romain, Marmande entre dans l'histoire en 1182 avec la charte qui lui fut accordée par Richard Cœur de Lion, fils d'Aliénor d'Aquitaine. Lorsque le prince Louis, fils de Philippe Auguste, prend part à la croisade contre les Albigeois (1219), son armée rejoint celle du légat pontifical Arnaud Amaury devant Marmande. La ville est prise et, après un conseil au cours duquel les vainqueurs décident du sort […]",
+  "1561 : En septembre 1561, le couvent des Cordeliers est incendié par les protestants.",
+  "1577 : En 1577, durant la sixième guerre de Religion, la ville est assiégée, sans succès, par les Huguenots.",
+  "1944 : Le 21 août 1944, Marmande est libéré par la Résistance après le départ des troupes allemandes sans combats.",
+  "Lieu « Marmande plage » : Marmande Plage, sur le modèle de Paris Plage, est une plage de sable artificielle installée sur le fleuve de la Garonne, sur la commune de Marmande (Lot-et-Garonne).",
+  "Lieu « Marmande plage », 2012 : En 2012, elle a été ouverte du 23 juin au 16 septembre et sa fréquentation a doublé avec une moyenne de 16 000 promeneurs et baigneurs.",
+  "Lieu « Marmande plage », 2019 : En 2019, Marmande Plage quitte le parc de la Filhole, et est installée dans l'ancienne gravière de Coussan, située sur l'autre rive de la Garonne.",
+  "Lieu « Marmande plage », aujourd'hui : Les mœurs ont changé, on a davantage tendance aujourd'hui à se méfier des cours d'eau et de ce qui s'y trouve.",
+  "Lieu « Chapelle Saint-Benoît de Marmande » : La chapelle Saint-Benoît est située au no 91 rue de la Libération, à Marmande, dans le département de Lot-et-Garonne, en Nouvelle-Aquitaine.",
+  "Lieu « Chapelle Saint-Benoît de Marmande », 1645 : La chapelle Saint-Benoît était la chapelle du couvent des Dames de Saint-Benoît fondé en 1645 par « haute et puissante » Dame Jeanne Antoinette d’Esparbès de Lussan, marquise de Grignols avec la bénédiction de Mgr Barthélemy d'Elbène, évêque d’Agen.",
+  "Lieu « Chapelle Saint-Benoît de Marmande », 1646 : La marquise de Grignols a acheté un terrain dans le quartier de Lestang à Pierre Rougier en 1646 ainsi que d'autres bâtiments pour construire le couvent clos de murs.",
+  "Lieu « Chapelle Saint-Benoît de Marmande », 1760 : Des travaux importants sur les bâtiments conventuels sont réalisés par Marsaudon vers 1760.",
+  "Lieu « Église Notre-Dame de Marmande » : L'église Notre-Dame est une église catholique située dans la commune de Marmande, dans le département de Lot-et-Garonne, en France.",
+  "Lieu « Église Notre-Dame de Marmande », XIVe siècle : Construit à l'origine au XIVe siècle, agrandi et remanié aux XVIe et XVIIe siècles.",
+  "Lieu « Église Notre-Dame de Marmande », 1859 : L'orgue de l'église Notre-Dame a été construit par Aristide Cavaillé-Coll sur une tribune néogothique au-dessus de l'entrée, en 1859.",
+  "Lieu « Gare de Marmande » : La gare de Marmande est une gare ferroviaire française de la ligne de Bordeaux-Saint-Jean à Sète-Ville, située à proximité du centre-ville de Marmande, sous-préfecture du département de Lot-et-Garonne, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Marmande », 1886 : Elle devient une gare de bifurcation le 15 novembre 1886, lors de la mise en service de la section de Bergerac à Marmande, par la Compagnie du chemin de fer de Paris à Orléans (PO), de la ligne de Magnac - Touvre à Marmande, ouverte dans sa totalité en 1894.",
+  "Lieu « Garorock » : Garorock est un festival de musique pop, rap, electro et techno qui a lieu à Marmande (Lot-et-Garonne).",
+  "Lieu « Garorock », 1997 : Le festival est fondé en mars 1997, dans les anciens abattoirs de Marmande."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 10
+ }
+}

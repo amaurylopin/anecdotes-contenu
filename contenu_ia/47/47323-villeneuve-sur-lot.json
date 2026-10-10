@@ -1,0 +1,245 @@
+{
+ "commune": {
+  "titre": "Villeneuve-sur-Lot",
+  "code_insee": "47323",
+  "departement": "47",
+  "population": 22350,
+  "lat": 44.40805556,
+  "lon": 0.705,
+  "url": "https://fr.wikipedia.org/wiki/Villeneuve-sur-Lot"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:04:04",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3654,
+  "sortie": 1756
+ },
+ "cout_usd": 0.002926,
+ "accroche": "En 1264, la bastide de Villeneuve-sur-Lot est fondée par Alphonse de Poitiers, et la ville neuve prend forme en rive droite du Lot.",
+ "histoire": {
+  "recit": "Villeneuve-sur-Lot s’établit sur un site ancien, où les installations de transport et la voie d’eau Oldus témoignent d’une fréquentation précoce, avant que l’occupation romaine ne valorise Eysses, nommé Excisum.\n\nAu VIIe siècle, un monastère est fondé à Eysses. La tradition le dit florissant à l’époque de Charlemagne, tout en reliant le haut lieu médiéval à la grande station antique.\n\nPlus tard, les bâtiments du monastère d’Eysses deviennent une grande maison de détention : restaurés puis agrandis, ils peuvent accueillir 1200 condamnés issus de onze départements voisins.\n\nÀ partir du XIIIe siècle, des évolutions changent la trame urbaine : le village nommé « Gajac » est détruit au début du XIIIe siècle, puis, au siècle suivant, l’église Saint-Étienne s’élève progressivement.\n\nAu XIXe siècle, la forteresse se transforme : il ne reste plus qu’un château, deux tours, un grand mur et deux portes résiduelles, le reste devenant des boulevards.\n\nEnfin, l’histoire religieuse et bâtie continue : l’église Sainte-Catherine est reconstruite après l’effondrement de 1897, et l’ancien ensemble pénitentiaire, à Eysses, fonctionne aujourd’hui comme centre de détention.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "Fondation d’un monastère à Eysses, qui perpétue la station antique d’Excisum.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1200",
+    "texte": "Les bâtiments du monastère d’Eysses sont restaurés et agrandis, puis affectés à une grande maison de détention accueillant 1200 condamnés.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le village nommé « Gajac », devenu un important bourg, est détruit au début du XIIIe siècle lors des guerres aux confins du Périgord et de la Guyenne.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "L’église gothique Saint-Étienne domine le quartier rive gauche, avec la porte de Pujols ouverte au sud-ouest.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1898",
+    "texte": "La construction du nouvel édifice romano-byzantin commence en 1898.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "L’ancienne église Sainte-Catherine du XVIe siècle est détruite en 1914 après l’effondrement d’une voûte en 1897.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "Le chantier est achevé et l’église consacrée en 1937.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centre de détention d'Eysses",
+   "histoire": "Implanté dans une ancienne abbaye bénédictine, le site devient successivement une maison centrale, une colonie pénitentiaire, puis un centre de détention.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il s’agit d’un centre de détention.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 44.4186,
+   "lon": 0.721214,
+   "url": "https://fr.wikipedia.org/wiki/Centre_de_d%C3%A9tention_d%27Eysses"
+  },
+  {
+   "nom": "Chapelle des Pénitents blancs de Villeneuve-sur-Lot",
+   "histoire": "Chapelle catholique construite après la fondation de la confrérie, puis fermée pendant la Révolution avant de rouvrir après le concordat de 1801. Le bâtiment change ensuite d’usage au profit de la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment sert de lieu culturel avant de devenir un espace pour la ville.",
+   "sources": [
+    "S23",
+    "S20"
+   ],
+   "lat": 44.405216,
+   "lon": 0.703388,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_P%C3%A9nitents_blancs_de_Villeneuve-sur-Lot"
+  },
+  {
+   "nom": "Enceinte de Villeneuve-sur-Lot",
+   "histoire": "Une enceinte délimitait la ville, dont il subsiste des portes : Paris et Pujols.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il subsiste les portes de Paris et de Pujols.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 44.407985,
+   "lon": 0.706987,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_de_Villeneuve-sur-Lot"
+  },
+  {
+   "nom": "Église Sainte-Catherine (Villeneuve-sur-Lot)",
+   "histoire": "Une reconstruction est envisagée au milieu du XIXe siècle. Retardée par l’effondrement d’une voûte en 1897, elle progresse jusqu’à la démolition de l’ancienne église en 1914, laissant aujourd’hui des traces dans les vitraux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est répartie dans les parties supérieures de plusieurs vitraux.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 44.40666696,
+   "lon": 0.70667339,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Catherine_%28Villeneuve-sur-Lot%29"
+  },
+  {
+   "nom": "Site antique d'Eysses",
+   "histoire": "Le site antique d’Eysses (Excisum) se trouve à 1,5 km du centre. Occupé dès le IIe siècle av. J.-C. sur le territoire des Nitiobroges, il reste visible au voisinage de l’église Saint-Sernin, puis fait l’objet de fouilles de sauvetage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La zone de fouille la plus visible aujourd’hui se trouve à environ 100 mètres au nord de l’église Saint-Sernin, et des fouilles de sauvetage ont été organisées en 1971.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 44.419762,
+   "lon": 0.721219,
+   "url": "https://fr.wikipedia.org/wiki/Site_antique_d%27Eysses"
+  },
+  {
+   "nom": "Musée de Gajac",
+   "histoire": "Le musée de Gajac est ouvert depuis 1999. Il présente un art allant du XVIe au XXe siècle et s’appuie sur un moulin fondé en 1185 par l’abbaye bénédictine d’Eysses.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le musée est ouvert depuis 1999 et accueille des expositions temporaires.",
+   "sources": [
+    "S42",
+    "S39"
+   ],
+   "lat": 44.405167,
+   "lon": 0.707705,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Gajac"
+  },
+  {
+   "nom": "Église Saint-Pierre-ès-Liens de Collongues",
+   "histoire": "Église romane construite au XIIe siècle comme étape sur un chemin jacquaire, puis reconstruite au XVIe siècle. Un clocher à pignon, portant une seule cloche, surmonte l’édifice.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Quelques motifs végétaux de pierre sont visibles à l’intérieur.",
+   "sources": [
+    "S46"
+   ],
+   "lat": 44.38256,
+   "lon": 0.73145,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-%C3%A8s-Liens_de_Collongues"
+  },
+  {
+   "nom": "Église Saint-Sernin d'Eysses",
+   "histoire": "L’église Saint-Sernin est démolie en 1821 puis reconstruite en 1822. Lors de travaux, des éléments antiques (mosaïques polychromes et fragments de pavement) sont mis au jour.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S48",
+    "S49",
+    "S50"
+   ],
+   "lat": 44.418444,
+   "lon": 0.722952,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Sernin_d%27Eysses"
+  }
+ ],
+ "sources": [
+  "Villeneuve-sur-Lot (prononcé [vil.ˈnœv syʁ ˈlɔt̪]) est une commune située dans le département de Lot-et-Garonne en région Nouvelle-Aquitaine.",
+  "Insérée aujourd'hui entre les collines vertes et boisées qui dominent les premières terrasses et la basse vallée du Lot, le site de Villeneuve possède déjà une longue histoire à la fin de la période de La Tène, avec les installations de transport, entre chemins et la puissante voie d'eau Oldus, des Nitiobroges[pas clair]. L'occupation romaine valorise le site antique d'Eysses, nommé en latin Excisum, à environ un […]",
+  "VIIe siècle : Un monastère fondé au VIIe siècle, que la légende dit florissant à l'époque de Charlemagne, perpétue in situ la grande station antique d'Eysses, sous le nom d'Excisum.",
+  "IXe siècle : Il aurait été détruit et pillé, pendant la décadence carolingienne au IXe siècle, par les pirates normands remontant Garonne et Lot.",
+  "1200 : Les bâtiments du monastère d'Eysses, restaurés puis considérablement agrandis, ont été affectés à une grande maison de détention, qui peut accueillir 1200 condamnés recueillis dans onze départements voisins.",
+  "XIIIe siècle : Le village nommé « Gajac », devenu un important bourg, est détruit au début du XIIIe siècle, lors des guerres aux confins du Périgord et de la Guyenne.",
+  "XVIe siècle : L'église de style gothique Saint-Étienne, élevé progressivement du XiVe siècle au XVIe siècle, domine le petit quartier rive gauche, avec la porte de Pujols ouverte au sud-ouest.",
+  "XVIIe siècle : L'étude architecturale de l'ancienne abbaye ne permet pas de remonter au-delà du XVIIe siècle, par contre à proximité de l'établissement, un édifice cylindrique en petit appareil peut apparaître en cella d'un temple romain, à l'image de la tour de Vésone à Périgueux.",
+  "XIXe siècle : Des puissantes fortifications initiales, améliorées au siècle suivant, il ne reste plus au XIXe siècle qu'un château, deux tours, un grand mur et deux portes résiduelles, le reste ayant été converti en beaux boulevards.",
+  "1898 : La construction du nouvel édifice, de style romano-byzantin, commença en 1898 et dura 39 années.",
+  "1911 : Le projet est augmenté d'un clocher en 1911 et le porche construit à partir de 1912 pour être terminé en 1924 après une nouvelle interruption pendant la Première Guerre mondiale.",
+  "1914 : L'ancienne église Sainte-Catherine du XVIe siècle fut détruite en 1914, après qu'une voûte se soit effondrée en 1897 et que le constat de délabrement soit dressé.",
+  "1924 : Les sacristies commencent à être construites en 1924.",
+  "1937 : Le chantier sera achevé et l'église consacrée en 1937.",
+  "Lieu « Centre de détention d'Eysses » : Le centre de détention d’Eysses est un établissement pénitentiaire situé à Eysses, ancien village devenu quartier de Villeneuve-sur-Lot, en France.",
+  "Lieu « Centre de détention d'Eysses », 1808 : Par décret impérial du 16 juin 1808 est créée une maison centrale « de force et de réclusion », laquelle détiendra des hommes et des femmes condamnés à des peines d’emprisonnement de plus d'une année et venant des Hautes-Pyrénées, du Gers, des Landes, de la Haute-Garonne, du Lot, de la Gironde, de la Dordogne et de Lot-et-Garonne.",
+  "Lieu « Centre de détention d'Eysses », 1895 : Le 2 juin 1895 est inaugurée ce qui restera jusqu'en 1940 la « colonie correctionnelle ».",
+  "Lieu « Centre de détention d'Eysses », 2023 : Le 5 janvier 2023, Nadine Picquet, directrice interrégionale des services pénitentiaires de Bordeaux, et Anne Bisagni-Faure, rectrice de l'académie de Bordeaux, ont inauguré au sein de l'établissement le premier magasin pédagogique implanté dans une prison française.",
+  "Lieu « Centre de détention d'Eysses », aujourd'hui : Implanté dans une ancienne abbaye bénédictine, il est successivement une maison centrale, une colonie pénitentiaire et aujourd'hui un centre de détention.",
+  "Lieu « Chapelle des Pénitents blancs de Villeneuve-sur-Lot » : La chapelle des Pénitents blancs située à Villeneuve-sur-Lot, dans le département français de Lot-et-Garonne, dans la région de Nouvelle-Aquitaine, est une ancienne chapelle catholique qui n'est plus affectée au culte.",
+  "Lieu « Chapelle des Pénitents blancs de Villeneuve-sur-Lot », 1667 : Elle est construite quelques années après la fondation de la confrérie et bénie en 1667.",
+  "Lieu « Chapelle des Pénitents blancs de Villeneuve-sur-Lot », 1801 : Fermée pendant la Révolution, elle rouvre après le concordat de 1801.",
+  "Lieu « Chapelle des Pénitents blancs de Villeneuve-sur-Lot », 2002 : Le bâtiment sert ensuite de salle supplémentaire pour le diocèse avant de devenir, vers 2002 un lieu culturel pour la ville.",
+  "Lieu « Chapelle des Pénitents blancs de Villeneuve-sur-Lot », aujourd'hui : D'après le procès-verbal de la visite pastorale de 1668, on peut déduire que le mobilier en place à cette époque n'est pas celui qu'on peut voir actuellement.",
+  "Lieu « Enceinte de Villeneuve-sur-Lot » : L'enceinte de Villeneuve-sur-Lot était une enceinte située à Villeneuve-sur-Lot, en France dont il subsiste les portes de Paris et de Pujols.",
+  "Lieu « Enceinte de Villeneuve-sur-Lot », 1253 : Le 10 avril 1253, un traité est signé entre le comte de Toulouse et les religieux de l'abbaye d'Eysses pour déterminer le territoire de la ville neuve en rive droite du Lot.",
+  "Lieu « Enceinte de Villeneuve-sur-Lot », 1260 : En juin 1260, le comte a concédé une première charte aux habitants de la nouvelle ville qui vient d'être fondée.",
+  "Lieu « Enceinte de Villeneuve-sur-Lot », 1264 : La bastide de Villeneuve-sur-Lot est fondée par Alphonse de Poitiers en 1264.",
+  "Lieu « Enceinte de Villeneuve-sur-Lot », aujourd'hui : L'enceinte de Villeneuve-sur-Lot était une enceinte située à Villeneuve-sur-Lot, en France dont il subsiste les portes de Paris et de Pujols.",
+  "Lieu « Église Sainte-Catherine (Villeneuve-sur-Lot) » : L’église Sainte-Catherine est située à Villeneuve-sur-Lot, dans le département de Lot-et-Garonne, en Nouvelle-Aquitaine.",
+  "Lieu « Église Sainte-Catherine (Villeneuve-sur-Lot) », XIXe siècle : Dès le milieu du XIXe siècle, l'abbé Grenouilheau souhaite reconstruite l'église paroissiale Sainte-Catherine qui date des XIIIe – XVe siècles en l'agrandissant.",
+  "Lieu « Église Sainte-Catherine (Villeneuve-sur-Lot) », 1897 : La reconstruction est retardée jusqu'à l'effondrement d'une voûte d'un bas-côté en 1897.",
+  "Lieu « Église Sainte-Catherine (Villeneuve-sur-Lot) », 1914 : La reconstruction commence par le chœur au nord de l'ancienne église qui est conservée jusqu'à sa démolition, en 1914.",
+  "Lieu « Église Sainte-Catherine (Villeneuve-sur-Lot) », aujourd'hui : Il est aujourd'hui réparti dans les parties supérieures de plusieurs vitraux.",
+  "Lieu « Site antique d'Eysses » : Site antique d'Eysses, nommé Excisum à l'époque gallo-romaine, est un lieu situé à 1,5 km du centre-ville de Villeneuve-sur-Lot en Lot-et-Garonne.",
+  "Lieu « Site antique d'Eysses », IIe siècle : Le site a été occupé dès le IIe siècle av. J.-C. sur le territoire des Nitiobroges au croisement de routes protohistoriques.",
+  "Lieu « Site antique d'Eysses », IXe siècle : La zone de fouille la plus visible aujourd'hui est à 100 mètres au nord de l'église Saint-Sernin dont les anciens bâtiments contiguës étaient une abbaye bénédictine du IXe siècle, puis tour-à-tour école, puis prison.",
+  "Lieu « Site antique d'Eysses », aujourd'hui : Des fouilles de sauvetage ont été organisées en 1971 par Jean-François Garnier avec des bénévoles de la Société archéologique et historique de Villeneuve-sur-Lot à 200 mètres de la tour d'Eysses, à l'emplacement prévu pour l'implantation d'un hôpital.",
+  "Lieu « Musée de Gajac » : Le musée de Gajac, ouvert depuis 1999 à Villeneuve-sur-Lot, est un musée d'art (XVIe au XXe siècle) et un lieu d'expositions temporaires.",
+  "Lieu « Musée de Gajac », 1185 : Le moulin à proprement parler fut fondé en 1185 par la puissante abbaye bénédictine d'Eysses.",
+  "Lieu « Musée de Gajac », 1960 : À la fin des années 1960, sa digue fut détruite et l'édifice cessa alors toute activité.",
+  "Lieu « Musée de Gajac », 1999 : Le musée de Gajac, ouvert depuis 1999 à Villeneuve-sur-Lot, est un musée d'art (XVIe au XXe siècle) et un lieu d'expositions temporaires.",
+  "Lieu « Église Saint-Pierre-ès-Liens de Collongues » : L'église Saint-Pierre-ès-Liens de Collongues est une église catholique d'architecture romane située à Collongues, lieu-dit de la commune de Villeneuve-sur-Lot.",
+  "Lieu « Église Saint-Pierre-ès-Liens de Collongues », XIIe siècle : L'église Saint-Pierre-ès-Liens est construite au XIIe siècle, comme étape sur un chemin jacquaire, et reconstruite au XVIe siècle.",
+  "Lieu « Église Saint-Pierre-ès-Liens de Collongues », 1605 : L'édifice est surmonté d'un clocher à pignon avec une seule cloche baptisée sainte Cécile et datant de 1605.",
+  "Lieu « Église Saint-Pierre-ès-Liens de Collongues », aujourd'hui : Quelques motifs végétaux de pierre sont visibles à l'intérieur.",
+  "Lieu « Église Saint-Sernin d'Eysses » : L'église Saint-Sernin d'Eysses est une église catholique de Villeneuve-sur-Lot située à Eysses, près du site antique d'Eysses.",
+  "Lieu « Église Saint-Sernin d'Eysses », 1821 : Elle est démolie en 1821 et reconstruite une centaine de mètres à l'est pour laisser plus de place à la prison.",
+  "Lieu « Église Saint-Sernin d'Eysses », 1822 : La nouvelle église construite en 1822 est en style néo-roman, selon un plan en croix latine avec une nef prolongée d'une abside éclairée de trois vitraux ; l'église possède deux bas-côtés datant de 1867 et des chapelles latérales.",
+  "Lieu « Église Saint-Sernin d'Eysses », 1988 : On découvre pendant les travaux de démolition un morceau de mosaïques polychromes, puis d'autres fragments de ce pavement de l'antiquité tardive en 1988, ainsi que des sépultures de tegulae."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
