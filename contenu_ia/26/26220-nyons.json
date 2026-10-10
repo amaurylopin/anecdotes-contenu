@@ -1,0 +1,183 @@
+{
+ "commune": {
+  "titre": "Nyons",
+  "code_insee": "26220",
+  "departement": "26",
+  "population": 6816,
+  "lat": 44.36027778,
+  "lon": 5.13972222,
+  "url": "https://fr.wikipedia.org/wiki/Nyons"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:39:06",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2047,
+  "sortie": 1357
+ },
+ "cout_usd": 0.002106,
+ "accroche": "En 1585, une citadelle est construite sur la rive gauche de l’Eygues et domine la ville et le pont à Nyons.",
+ "histoire": {
+  "recit": "Sous le nom occitan de Niòns ou Nioun, Nyons est une commune française, sous-préfecture de la Drôme, dont les habitants sont appelés les Nyonsais. Ici, l’histoire se lit dans le relief et dans les lieux : une citadelle a longtemps tenu la rive gauche de l’Eygues, avant d’être progressivement effacée.\n\nLa chronologie suit la ville quand elle perd ses remparts. En juillet 1627, un édit ordonne le démantèlement des places fortes non frontières : Nyons devient alors une ville ouverte. Le chantier de démolition de la citadelle commence le 6 juillet 1633.\n\nQuand la forteresse recule, on réorganise aussi l’espace : au lieu de Tour Randonne, la prison est démantelée en 1633, dans l’ouverture de Nyons et la destruction des fortifications. Plus tard, la Tour Randonne change encore de destin : vendue par la commune, elle est rachetée par le curé Francou le 21 octobre 1862, puis l’édifice est inauguré le 3 mai 1863.\n\nLe pont et la ligne ferroviaire, eux, portent d’autres transformations. Le Pont de Nyons commence en 1341, s’achève sans doute avant 1405, et vers 1850 sa tour disparaît. La Gare de Nyons, enfin, est aujourd’hui réaffectée et abrite la sous-préfecture.",
+  "chronologie": [
+   {
+    "date": "1585",
+    "texte": "Une citadelle est construite sur la rive gauche de l’Eygues et domine la ville et le pont.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1627",
+    "texte": "Un édit de juillet ordonne le démantèlement des places fortes non frontières : Nyons devient une ville ouverte.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "6 juillet 1633",
+    "texte": "Début des travaux de démolition de la citadelle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1633",
+    "texte": "À Tour Randonne, la prison est démantelée lors de l’ouverture de Nyons et de la destruction des fortifications.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "21 octobre 1862",
+    "texte": "La tour Tour Randonne est rachetée par le curé Francou aux propriétaires, puis donnée à la Fabrique de Nyons.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "3 mai 1863",
+    "texte": "Après l’achèvement du piédestal, l’édifice est inauguré par l’évêque de Valence, en présence du R.P Gabriel et de nombreux participants.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "vers 1850",
+    "texte": "La tour qui surmonte le Pont de Nyons est détruite, puis ses accès sont modifiés pour les voitures.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1886",
+    "texte": "La ligne de Pierrelatte à Nyons demande huit ans d’études avant d’ouvrir au trafic.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Tour Randonne",
+   "histoire": "La Tour Randonne, aussi appelée chapelle Notre-Dame-de-Bon-Secours, a été profondément liée aux fortifications : en 1633, la prison associée est démantelée lors de l’ouverture de Nyons. Plus tard, la tour est vendue, rachetée par le curé Francou le 21 octobre 1862, puis l’édifice est inauguré le 3 mai 1863. Aujourd’hui, il n’en subsiste qu’une tour défensive, dont les murs font 2 m d’épaisseur.",
+   "anecdotes": [
+    {
+     "texte": "En 1633, la prison est démantelée à Tour Randonne, pendant l’ouverture de Nyons et la destruction des fortifications.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il n’en subsiste aujourd’hui qu’une tour défensive, dont les murs font 2 m d’épaisseur.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 44.36158,
+   "lon": 5.14116,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Randonne"
+  },
+  {
+   "nom": "Pont de Nyons",
+   "histoire": "Le Pont de Nyons est un pont routier en maçonnerie. Les travaux commencent en 1341 mais avancent lentement : seules les culées sont édifiées de part et d’autre de la rivière. Terminé sans doute avant 1405, il est inauguré en grande pompe en 1409 par l’évêque de Vaison. Vers 1850, la tour qui le surmonte est détruite et ses accès sont ensuite modifiés pour l’usage des voitures, qui ne peuvent toutefois pas se croiser.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 44.3602777778,
+   "lon": 5.13972222222,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Nyons"
+  },
+  {
+   "nom": "Gare de Nyons",
+   "histoire": "La gare de Nyons est une ancienne gare ferroviaire de la ligne de Pierrelatte à Nyons, située sur le territoire de Nyons. La ligne, longue de 41,028 kilomètres, a nécessité des études de 1886 à 1894 puis des travaux de 1894 à 1897 avant son ouverture au trafic. Aujourd’hui, elle est réaffectée et abrite la sous-préfecture de Nyons.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est réaffectée et abrite aujourd’hui la sous-préfecture de Nyons.",
+   "sources": [
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 44.360042121488,
+   "lon": 5.1308251293898,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Nyons"
+  },
+  {
+   "nom": "Distillerie Bleu Provence",
+   "histoire": "La Distillerie Bleu Provence est une distillerie familiale de lavandes et de plantes aromatiques. Reprise en 1994, elle perpétue depuis 1939 la distillation des lavandes et plantes aromatiques cultivées dans le massif des Baronnies, pour en extraire des huiles essentielles biologiques. La distillerie a aussi une boutique, avec un espace détente et un salon de thé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Boutique de la distillerie Espace détente, salon de thé (fermé depuis mai 2025).",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 44.35926716,
+   "lon": 5.14121532,
+   "url": "https://fr.wikipedia.org/wiki/Distillerie_Bleu_Provence"
+  }
+ ],
+ "sources": [
+  "Nyons [njɔ̃s] (en occitan Niòns ou Nioun) est une commune française, sous-préfecture du département de la Drôme en région Auvergne-Rhône-Alpes. Ses habitants sont dénommés les Nyonsais.",
+  "La région de Nyons relevait à l'époque celtique de l'aire de la tribu gauloise des Voconces[réf. nécessaire]. À l'époque gallo-romaine, la région est considérée comme faisant partie de la cité de Vaison. André Chastagnol considérait, à partir d'un texte de Ptolémée, que Nyons avait pu être la capitale des Tricastins (leur capitale est aujourd'hui localisée à Saint-Paul-Trois-Châteaux). Nyons est souvent identifiée […]",
+  "1585 : En 1585, une citadelle est construite sur la rive gauche de l'Eygues et domine la ville et le pont, alors que le château delphinal, construit au début du XIVe siècle, est démantelé[réf. nécessaire].",
+  "1627 : Un édit de juillet 1627 ayant ordonné le démantèlement de toutes les places fortes qui n'étaient pas frontières, Nyons devient une ville ouverte.",
+  "1633 : C'est le 6 juillet 1633 que commencèrent les travaux de démolition de sa citadelle.",
+  "1642 : En fait d'établissements ecclésiastiques, il y avait dans cette ville le prieuré de Saint-Césaire (voir Saint-Pierre), et un couvent de récollets, fondé en 1642 et dont les bâtiments servaient en 1891 d'hôpital.",
+  "Lieu « Tour Randonne » : La tour Randonne ou chapelle Notre-Dame-de-Bon-Secours, est un des monuments emblématiques de la ville de Nyons, située dans la Drôme, en région Rhône-Alpes (France).",
+  "Lieu « Tour Randonne », 1633 : En 1633, la prison fut démantelée, lors de l’ouverture de Nyons et la destruction de ses fortifications, conformément au souhait de Louis XIII de voir tomber les repaires protestants dans la région.",
+  "Lieu « Tour Randonne », 1862 : La tour ayant été vendue par la commune, le curé Francou la racheta à ses propriétaires le 21 octobre 1862 et en fit donation à la Fabrique de Nyons (conseil paroissial de l’époque).",
+  "Lieu « Tour Randonne », 1863 : La construction du piédestal achevée, l’édifice fut inauguré le 3 mai 1863 (soit six mois après son achat) par l’évêque de Valence, en présence du R.P Gabriel de l’abbaye Notre-Dame d'Aiguebelle, de quarante prêtres et de 15 000 fidèles.",
+  "Lieu « Tour Randonne », aujourd'hui : Il n’en subsiste aujourd’hui qu’une tour défensive, dont les murs font 2 m d’épaisseur.",
+  "Lieu « Pont de Nyons » : Le pont de Nyons est un pont routier en maçonnerie situé dans la ville de Nyons, dans le département de la Drôme en région Rhône-Alpes.",
+  "Lieu « Pont de Nyons », 1341 : Selon les historiens de Nyons, la construction a commencé en 1341 mais pendant un demi-siècle, les travaux n'ont guère avancé (en 1361, le Nyonsais Thibaud de Noyx ne réussit pas dans sa tentative), seules les culées de part et d'autre de la rivière ayant été édifiées.",
+  "Lieu « Pont de Nyons », 1405 : Terminé sans doute avant 1405, le pont est inauguré en grande pompe en 1409 par l'évêque de Vaison.",
+  "Lieu « Pont de Nyons », 1850 : Vers 1850, la tour qui le surmonte est détruite et quelques années plus tard, ses accès sont modifiés pour le rendre accessible aux voitures mais celles-ci ne peuvent pas s'y croiser.",
+  "Lieu « Gare de Nyons » : La gare de Nyons est une ancienne gare ferroviaire française de la ligne de Pierrelatte à Nyons, située sur le territoire de la commune de Nyons, dans le département de la Drôme en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Nyons », 1886 : Cette ligne, longue de 41,028 kilomètres, a nécessité huit ans d'études (de 1886 à 1894) et trois ans de travaux (de 1894 à 1897) avant son ouverture au trafic.",
+  "Lieu « Gare de Nyons », aujourd'hui : Il est réaffecté et abrite aujourd'hui la sous-préfecture de Nyons.",
+  "Lieu « Distillerie Bleu Provence » : La Distillerie Bleu Provence est une distillerie familiale de lavandes et de plantes aromatiques reprise en 1994.",
+  "Lieu « Distillerie Bleu Provence », 1939 : Installée au cœur des routes de la lavande et de la Drôme provençale, la distillerie Bleu Provence perpétue depuis 1939 la distillation des lavandes et des plantes aromatiques cultivées dans le massif des Baronnies (vallée de Mévouillon, vallée du Poët en Percip, plateau de Ferrassières) pour en extraire des huiles essentielles biologiques.",
+  "Lieu « Distillerie Bleu Provence », 2025 : Boutique de la distillerie Espace détente, salon de thé (Fermé depuis Mai 2025)"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}

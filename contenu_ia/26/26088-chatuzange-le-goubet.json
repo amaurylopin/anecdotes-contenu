@@ -1,0 +1,101 @@
+{
+ "commune": {
+  "titre": "Chatuzange-le-Goubet",
+  "code_insee": "26088",
+  "departement": "26",
+  "population": 6523,
+  "lat": 45.00777778,
+  "lon": 5.09138889,
+  "url": "https://fr.wikipedia.org/wiki/Chatuzange-le-Goubet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:44:47",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1224,
+  "sortie": 608
+ },
+ "cout_usd": 0.001005,
+ "accroche": "À Chatuzange-le-Goubet, l’église paroissiale dédiée à saint Apollinaire dépendait du chapitre de Romans avant 1790.",
+ "histoire": {
+  "recit": "Chatuzange-le-Goubet, dans la Drôme, compte les Goubétois et s’est longtemps inscrite dans le cadre de la terre de Pizançon.\nAvant 1790, la paroisse relevait du diocèse de Valence : l’église, dédiée à saint Apollinaire, dépendait du chapitre de Romans, qui y prenait la dîme et présentait à la cure.\nLe destin de la famille et des bâtiments se lit avec éclat au Château de Pizançon. En 1793, l’emplacement d’un ancien château féodal, pillé et brûlé, est ensuite repris : le château actuel est bâti par la famille de la Croix de Chevrières, après avoir été une propriété des Poitiers-Valentinois et des Croix de Chevrières. Reconstruit dans la première moitié du XIXe siècle dans son architecture actuelle, il devient aujourd’hui un lieu d’habitation, accueils plusieurs logements.",
+  "chronologie": [
+   {
+    "date": "Avant 1790",
+    "texte": "Chatuzange est une paroisse du diocèse de Valence ; l’église dédiée à saint Apollinaire dépend du chapitre de Romans qui y prend la dîme et présente à la cure.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "À l’emplacement d’un ancien château féodal, pillé et brûlé en 1793, le château de Pizançon est ensuite repris par la famille de la Croix de Chevrières.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Première moitié du XIXe siècle",
+    "texte": "Le château est reconstruit par le marquis de La Croix-Chevrières dans son architecture actuelle.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Le château est un château de plaisance et d’habitation, construit durant le XIXe siècle.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Pizançon",
+   "histoire": "Le château de Pizançon est un château de plaisance et d’habitation à Chatuzange-le-Goubet. Son histoire passe par un ancien château féodal, pillé et brûlé en 1793, avant que la famille de la Croix de Chevrières ne bâtisse le château actuel et le fasse reconstruire dans son architecture.",
+   "anecdotes": [
+    {
+     "texte": "En 1793, l’ancien château féodal de l’emplacement du site est pillé et brûlé.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "lat": 45.037744,
+   "lon": 5.074177,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pizan%C3%A7on"
+  }
+ ],
+ "sources": [
+  "Chatuzange-le-Goubet est une commune française située dans le département de la Drôme, en région Auvergne-Rhône-Alpes. Ses habitants sont dénommés les Goubétois.",
+  "Au point de vue féodal, Chatuzange fit toujours partie de la terre de Pizançon (voir ce nom). Avant 1790, Chatuzange était une paroisse du diocèse de Valence dont l'église, dédiée à saint Apollinaire, dépendait du chapitre de Romans qui y prenait la dîme et présentait à la cure. Cette paroisse, dont l'étendue était la même que celle de la paroisse [de 1891], faisait partie de la communauté de Pizançon, dite aussi […]",
+  "Lieu « Château de Pizançon » : Le château de Pizançon, est un château de plaisance et d'habitation, construit durant le XIXe siècle, à Chatuzange-le-Goubet, situé dans le département de la Drôme, en France.",
+  "Lieu « Château de Pizançon », 1793 : Ancienne propriété de la famille des Poitiers-Valentinois puis de la famille de la Croix de Chevrières, le château actuel a été bâti par cette dernière famille à l'emplacement d'un ancien château féodal, pillé et brûlé en 1793.",
+  "Lieu « Château de Pizançon », XIXe siècle : Le château de Pizançon, est un château de plaisance et d'habitation, construit durant le XIXe siècle, à Chatuzange-le-Goubet, situé dans le département de la Drôme, en France.",
+  "Lieu « Château de Pizançon », XIXe siècle : Il a été ensuite reconstruit durant la première moitié du XIXe siècle par le marquis de La Croix-Chevrières, dans son architecture actuelle.",
+  "Lieu « Château de Pizançon », aujourd'hui : Il a ensuite été réhabilité en lieu d’habitation et accueille aujourd’hui plusieurs logements."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

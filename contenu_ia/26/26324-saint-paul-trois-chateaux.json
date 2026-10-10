@@ -1,0 +1,223 @@
+{
+ "commune": {
+  "titre": "Saint-Paul-Trois-Châteaux",
+  "code_insee": "26324",
+  "departement": "26",
+  "population": 8981,
+  "lat": 44.34972222,
+  "lon": 4.769,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Paul-Trois-Ch%C3%A2teaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:07:25",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2157,
+  "sortie": 1753
+ },
+ "cout_usd": 0.002623,
+ "accroche": "Au 2 juillet 2011, une explosion et un incendie sont apparus sur un transformateur électrique du site nucléaire du Tricastin, l’incendie maîtrisé en une heure par les équipes locales.",
+ "histoire": {
+  "recit": "À Saint-Paul-Trois-Châteaux, les traces commencent bien avant la ville : un site des Moulins montre des habitats dès le Néolithique, avec une gravure pariétale à symbole solaire. Plus tard, le peuple des Tricastini fonde une capitale, Augusta tricastinorum, aux alentours du Ier siècle.\n\nAu Moyen Âge, l’empreinte religieuse est multiple : une ancienne commanderie de l’ordre du Temple, puis de l’ordre de Saint-Jean de Jérusalem, s’installe au XIVe siècle. Des établissements suivent encore : une commanderie de Saint-Jean de Jérusalem apparaît avant le XVIe siècle et un couvent de dominicains est fondé en 1664.\n\nLe temps bascule ensuite vers l’époque contemporaine : le site nucléaire du Tricastin s’organise sur le territoire à partir de 1974. La centrale, construite à partir de 1974, est mise en service entre 1980 et 1981. On retient aussi l’incident du 2 juillet 2011, survenu sur un transformateur électrique.\n\nAu cœur du bourg, la cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux, commencée au milieu du XIIe siècle et achevée vers 1220, conserve une tribune d’orgue installée en 1704.",
+  "chronologie": [
+   {
+    "date": "Néolithique",
+    "texte": "Le site des Moulins signale des habitats dès le Néolithique, avec une gravure pariétale à symbole solaire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle",
+    "texte": "Augusta tricastinorum devient la nouvelle capitale des Tricastini, fondée aux alentours du Ier siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Commanderie : l’ordre du Temple, puis l’ordre de Saint-Jean de Jérusalem.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1596",
+    "texte": "Une tentative de rapprochement entre catholicisme et protestantisme attire la suspicion et vaut une accusation de vente « à la cour ».",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1664",
+    "texte": "Un couvent de dominicains est fondé.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1220",
+    "texte": "La cathédrale Notre-Dame est achevée vers 1220.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1704",
+    "texte": "Un orgue commandé par l’évêque Louis d’Aube de Roquemartine est installé en 1704.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "1974",
+    "texte": "Le site nucléaire du Tricastin s’installe en cœur de vallée du Tricastin et la centrale commence sa construction.",
+    "sources": [
+     "S21",
+     "S9"
+    ]
+   },
+   {
+    "date": "1980",
+    "texte": "Mise en service de certaines unités : T1 et T2.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1981",
+    "texte": "Mise en service de T3 et T4.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2 juillet 2011",
+    "texte": "Explosion et incendie sur un transformateur électrique ; incendie maîtrisé en une heure par le personnel et les pompiers arrivés en renfort.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Site nucléaire du Tricastin",
+   "histoire": "Le site nucléaire du Tricastin regroupe des installations du cycle du combustible nucléaire et une centrale nucléaire. Il est installé dans le territoire du Tricastin à partir de 1974.",
+   "anecdotes": [
+    {
+     "texte": "Le 2 juillet 2011, une explosion et un incendie sont apparus sur un transformateur électrique : l’incendie a été maîtrisé au bout d’une heure, avec l’intervention du personnel et des pompiers.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site nucléaire du Tricastin est un complexe industriel toujours en activité sur la commune, regroupant installations du cycle du combustible et centrale.",
+   "sources": [
+    "S7",
+    "S12",
+    "S21"
+   ],
+   "lat": 44.3356977,
+   "lon": 4.7224903,
+   "url": "https://fr.wikipedia.org/wiki/Site_nucl%C3%A9aire_du_Tricastin"
+  },
+  {
+   "nom": "Centrale nucléaire du Tricastin",
+   "histoire": "La centrale nucléaire du Tricastin se situe sur le site nucléaire du Tricastin, sur la commune de Saint-Paul-Trois-Châteaux. Elle a été construite à partir de 1974 et mise en service entre 1980 et 1981.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S9"
+   ],
+   "lat": 44.33097,
+   "lon": 4.731477,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_du_Tricastin"
+  },
+  {
+   "nom": "Cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux",
+   "histoire": "Ancienne cathédrale romane, la cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux a connu un transfert de siège à son emplacement actuel à l’époque carolingienne, voire au XIe siècle. L’édifice, commencé au milieu du XIIe siècle à partir du chœur, a été achevé vers 1220 et a servi de cathédrale jusqu’à la Révolution.",
+   "anecdotes": [
+    {
+     "texte": "On raconte que le siège de l’évêque aurait été déplacé à l’emplacement de la cathédrale à l’époque carolingienne, ou bien au XIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "En 1704, l’orgue commandé par l’évêque Louis d’Aube de Roquemartine est installé, sa tribune prenant place sur le côté gauche du chœur.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 44.34911,
+   "lon": 4.76744,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Saint-Paul-Trois-Ch%C3%A2teaux"
+  },
+  {
+   "nom": "Tricastin",
+   "histoire": "Le Tricastin est une région naturelle et historique de la vallée du Rhône méridionale. Aujourd’hui, elle est connue notamment pour le site nucléaire du Tricastin, installé sur le cours du canal de Donzère-Mondragon, et pour ses vignobles d’appellation AOC Grignan-les-adhémar.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La région du Tricastin est aujourd’hui connue pour le site nucléaire du Tricastin et pour ses vignobles AOC Grignan-les-adhémar.",
+   "sources": [
+    "S20",
+    "S22"
+   ],
+   "lat": 44.348888888889,
+   "lon": 4.7686111111111,
+   "url": "https://fr.wikipedia.org/wiki/Tricastin"
+  }
+ ],
+ "sources": [
+  "Saint-Paul-Trois-Châteaux est une commune française située dans le département de la Drôme, en région Auvergne-Rhône-Alpes. Ses habitants sont dénommés les Tricastins.",
+  "Des traces d'habitats sont présentes dans la commune dès le Néolithique : site des Moulins (environ quatre hectares au sud-ouest de la ville actuelle)[source insuffisante]. De cette période date une gravure pariétale représentant un symbole solaire. Le peuple celto-ligure[réf. nécessaire] des Tricastini habitaient entre le Rhône et les Préalpes. Ils sont cités par Tite-Live à propos des invasions gauloises en Italie […]",
+  "Ier siècle : Augusta tricastinorum, nouvelle capitale du peuple gaulois des Tricastini, est fondée aux alentours du Ier siècle.",
+  "XIVe siècle : Ancienne commanderie de l'ordre du Temple (fondée au XIVe siècle) puis de l'ordre de Saint-Jean de Jérusalem.",
+  "1596 : Par la suite, Il s'efforcera, à partir de 1596, de rapprocher catholicisme et protestantisme mais deviendra suspect auprès de ses coreligionnaires et sera accusé de s’être vendu à la cour pour 10 000 écus[réf. nécessaire].",
+  "1664 : La ville possédait d'autres établissements religieux : fondée avant le XVIe siècle : une commanderie de l'ordre de Saint-Jean de Jérusalem (dépendante de celle de Richerenches) (voir Saint-Jean). fondé en 1664 : un couvent de dominicains.",
+  "Lieu « Site nucléaire du Tricastin » : Le site nucléaire du Tricastin est un site industriel qui regroupe des installations du cycle du combustible nucléaire et une centrale nucléaire.",
+  "Lieu « Site nucléaire du Tricastin », 1962 : L’usine historique Comurhex de Pierrelatte, construite en 1962 pour réaliser la conversion de l’uranium, a cessé définitivement sa production en décembre 2017 : elle laisse sa place à une nouvelle installation plus moderne, l’usine Comurhex II.",
+  "Lieu « Site nucléaire du Tricastin », 1974 : La centrale nucléaire du Tricastin a été construite à partir de 1974, puis mise en service en 1980 (T1 & T2) et 1981 (T3 & T4).",
+  "Lieu « Site nucléaire du Tricastin », 2011 : Le 2 juillet 2011, une explosion et un incendie sont apparus sur un transformateur électrique, l'incendie a été maîtrisé au bout d'une heure par le personnel et les pompiers arrivés en renfort.",
+  "Lieu « Site nucléaire du Tricastin », aujourd'hui : Le pays qu'ils habitèrent se nomme aujourd'hui Saint-Paul-Trois-Châteaux.",
+  "Lieu « Centrale nucléaire du Tricastin » : La centrale nucléaire du Tricastin se situe sur le site nucléaire du Tricastin sur la commune de Saint-Paul-Trois-Châteaux, à 10 km de Pierrelatte, 28 km au sud de Montélimar et 50 km au nord d'Avignon.",
+  "Lieu « Centrale nucléaire du Tricastin », 2022 : En février 2022, Emmanuel Macron indique une modification importante de cette loi sur la transition énergétique, puisque plus aucun réacteur en état de produire ne sera fermé à l'avenir, sauf pour des raisons de sûreté.",
+  "Lieu « Centrale nucléaire du Tricastin », 2022 : En juin 2022 une information judiciaire concernant la centrale est ouverte pour non-déclaration d’incident ou d’accident, ainsi que pour mise en danger d'autrui, faux et usage de faux.",
+  "Lieu « Centrale nucléaire du Tricastin », aujourd'hui : L'usine voisine d'enrichissement Eurodif, aujourd'hui en cours de démantèlement, consommait environ 15 TWh par an, soit environ les deux-tiers de la production de la centrale.",
+  "Lieu « Cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux » : La cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux est une ancienne cathédrale romane située dans le département français de la Drôme et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux », XIe siècle : Le siège de l'évêque aurait été déplacé à son emplacement actuel à l'époque carolingienne, voire au XIe siècle.",
+  "Lieu « Cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux », 1220 : Cet imposant édifice, commencé au milieu du XIIe siècle à partir du chœur et achevé vers 1220, a été la cathédrale de Saint-Paul-Trois-Châteaux jusqu'à la Révolution.",
+  "Lieu « Cathédrale Notre-Dame de Saint-Paul-Trois-Châteaux », 1704 : L'orgue avait été Louis d'Aube de Roquemartine Enfin, la cathédrale renferme un orgue commandé par l'évêque Louis d'Aube de Roquemartine et installé en 1704 : sa tribune est située sur le côté gauche du chœur.",
+  "Lieu « Tricastin » : Le Tricastin est une région naturelle et historique de la vallée du Rhône méridionale comprise entre le sud-ouest de la Drôme et le nord-ouest de Vaucluse.",
+  "Lieu « Tricastin », 1974 : Le site nucléaire du Tricastin, installé au cœur de la vallée du Tricastin depuis 1974, est l'un des plus importants complexes nucléaires français.",
+  "Lieu « Tricastin », aujourd'hui : La région du Tricastin est aujourd'hui connue pour le site nucléaire du Tricastin, situé sur le cours du canal de Donzère-Mondragon, un canal de dérivation du Rhône, pour ses vignobles d’appellation AOC Grignan-les-adhémar, et pour la qualité de son patrimoine naturel et architectural."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 3
+ }
+}

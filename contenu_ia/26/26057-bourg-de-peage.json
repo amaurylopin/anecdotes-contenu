@@ -1,0 +1,67 @@
+{
+ "commune": {
+  "titre": "Bourg-de-Péage",
+  "code_insee": "26057",
+  "departement": "26",
+  "population": 9921,
+  "lat": 45.03861111,
+  "lon": 5.05083333,
+  "url": "https://fr.wikipedia.org/wiki/Bourg-de-P%C3%A9age"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1031,
+  "sortie": 617
+ },
+ "cout_usd": 0.000977,
+ "accroche": "En 1033, les moines du chapitre de la collégiale Saint-Barnard de Romans-sur-Isère construisent un pont à Bourg-de-Péage, et c’est lui qui lance le développement de la ville.",
+ "histoire": {
+  "recit": "Bourg-de-Péage, dans la Drôme, est une commune où l’on dit les Péageois. Au point de vue féodal, son territoire relevait de la seigneurie de Pizançon. \n\nÀ l’origine, le déclic vient d’un ouvrage : en 1033, les moines du chapitre de la collégiale Saint-Barnard de Romans-sur-Isère construisent un pont pour traverser la rivière, et le développement de la ville s’appuie sur ce passage.\n\nPlus tard, la vie religieuse s’organise à son tour : la paroisse accueille un couvent de minimes fondé en 1621, puis, vers 1710, le prieuré de Saint-Jean-en-Royans y est uni.\n\nQuand vient le temps des épreuves, le pont marque encore les esprits. En 1814, sa seconde arche est détruite, puis elle l’est à nouveau à deux reprises : en 1940 et en 1944. Les traces restent visibles aujourd’hui.",
+  "chronologie": [
+   {
+    "date": "1033",
+    "texte": "Les moines du chapitre de la collégiale Saint-Barnard de Romans-sur-Isère construisent un pont permettant de traverser la rivière, ce qui favorise le développement de Bourg-de-Péage.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1621",
+    "texte": "Un couvent de minimes est fondé dans la paroisse.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "Le pont subit de nouvelles destructions : sa seconde arche est détruite en 1814 (et, à deux autres reprises, à nouveau en 1940 et en 1944).",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Bourg-de-Péage est une commune française située dans le département de la Drôme, en région Auvergne-Rhône-Alpes. Ses habitants sont dénommés les Péageois.",
+  "La seigneurie : au point de vue féodal, son territoire faisait partie de la seigneurie de Pizançon. (voir commune de Chatuzange-le-Goubet). Attesté en 1033 : les moines du chapitre de la collégiale Saint-Barnard de Romans-sur-Isère (située sur la rive droite, au nord de l'Isère) construisent un pont permettant de traverser la rivière. Le développement de la ville sera dû à ce pont. L'abbaye y perçoit un droit de […]",
+  "1621 : Il y avait, dans cette paroisse, un couvent de minimes fondé en 1621, et auquel fut uni vers 1710 le prieuré de Saint-Jean-en-Royans.",
+  "1814 : Le pont subit de nouvelles destructions car à trois reprises (en 1814, 1940 et 1944) sa seconde arche fut détruite ; les traces en sont encore visibles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}
