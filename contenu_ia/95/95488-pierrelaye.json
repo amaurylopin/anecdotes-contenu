@@ -1,0 +1,131 @@
+{
+ "commune": {
+  "titre": "Pierrelaye",
+  "code_insee": "95488",
+  "departement": "95",
+  "population": 10130,
+  "lat": 49.0225,
+  "lon": 2.15028,
+  "url": "https://fr.wikipedia.org/wiki/Pierrelaye"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:15",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1425,
+  "sortie": 884
+ },
+ "cout_usd": 0.00139,
+ "accroche": "En 1881, la gare de Pierrelaye s’ouvre et devient un passage pour les maraîchers qui envoient leurs récoltes vers Paris.",
+ "histoire": {
+  "recit": "Pierrelaye, commune du Val-d’Oise en Île-de-France, s’est installée près de la chaussée Jules César, une voie qui relie Lutèce à la Manche. Des fouilles ont mis au jour, jusqu’à la fin de la Tène, des éléments datables de très anciennes occupations. Les traces se lisent aussi le long de la route : des monnaies romaines ont été retrouvées en 1879 et de grandes bornes gravées, en forme d’obélisques, en 1882.\n\nAu XIIIe siècle, l’église paroissiale Saint-Jean-Baptiste est construite. Plus tard, l’ouverture de la route royale de Paris à Rouen favorise l’implantation au lieudit la Patte d’Oie d’Herblay.\n\nLe chemin de fer change l’allure de la commune : la ligne est achevée en 1846, mais la gare de Pierrelaye n’ouvre qu’en 1881. Certains habitants redoutent la concurrence et, pour éviter de perdre leur clientèle, arrachent de nuit les traverses posées la veille. La gare sert alors de relais : elle devient un passage pour les maraîchers et, aujourd’hui, un parking à vélos sécurisé se trouve sur la place du 8 Mai 1945.",
+  "chronologie": [
+   {
+    "date": "2002",
+    "texte": "Des fouilles mettent au jour des éléments datables de la fin de la Tène et l’installation du village sur la chaussée Jules César.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1879",
+    "texte": "Des monnaies romaines sont retrouvées le long de la chaussée Jules César.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "De grandes bornes gravées en forme d’obélisques sont découvertes le long de la chaussée Jules César.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Construction de l’église paroissiale Saint-Jean-Baptiste.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "La ligne ferroviaire est achevée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "La gare de Pierrelaye ouvre ; elle devient un passage pour les maraîchers vers Paris.",
+    "sources": [
+     "S10",
+     "S5"
+    ]
+   },
+   {
+    "date": "1901",
+    "texte": "Construction de l’hôtel-de-ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "Inauguration d’une partie du quartier du Bocquet : extension de la ville et création d’un groupe scolaire (Louise-Michel).",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Pierrelaye",
+   "histoire": "La gare de Pierrelaye appartient à la ligne de Saint-Denis à Dieppe, établie dans la plaine de Méry-Pierrelaye et proche de la chaussée Jules César.",
+   "anecdotes": [
+    {
+     "texte": "Avant l’ouverture, des habitants qui redoutent la concurrence du nouveau moyen de locomotion arrachent de nuit les traverses posées la veille.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un parking pour vélos à accès sécurisé se trouve sur la place du 8 Mai 1945, à côté du bâtiment voyageur, collé au quai direction Paris.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 49.019392,
+   "lon": 2.153672,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Pierrelaye"
+  }
+ ],
+ "sources": [
+  "Pierrelaye est une commune française située dans le département du Val-d'Oise, en région Île-de-France, faisant partie de la communauté d'agglomération Val Parisis.",
+  "En 2002, des fouilles mettent au jour des éléments datables de la fin de la Tène. Le village s'implante sur la voie romaine dite chaussée Jules César, qui relie Lutèce à la Manche. Le long de cette voie, on trouve des monnaies romaines en 1879 et de grandes bornes gravées en forme d'obélisques en 1882. En 1901, les travaux de creusement du drain de Liesse exhument les vestiges d'une nécropole gauloise de la culture […]",
+  "XIIIe siècle : L'église paroissiale Saint-Jean-Baptiste est construite au XIIIe siècle.",
+  "XVIIe siècle : Au XVIIe siècle, l'ouverture de la route royale de Paris à Rouen, future RN 14, entraîne la création d'une petite agglomération au lieudit la Patte d'Oie d'Herblay.",
+  "1846 : La ligne est achevée en 1846 mais la gare de Pierrelaye n'est ouverte qu’en 1881 : certains habitants assurant les transports redoutent la concurrence de ce nouveau moyen de locomotion et, pour éviter de perdre leur clientèle, arrachent de nuit les traverses posées la veille…",
+  "1901 : L'hôtel-de-ville est construit en 1901, le groupe scolaire Jean-Nicolas Leveau en 1934.",
+  "2018 : En 2018, est inauguré une partie du quartier du Bocquet, qui permet à nouveau une extension de la ville sur 6 000 m2 avec la création de 185 logements et d'un groupe scolaire (Louise-Michel).",
+  "Lieu « Gare de Pierrelaye » : La gare de Pierrelaye est une gare ferroviaire française de la ligne de Saint-Denis à Dieppe, établie dans la plaine de Méry-Pierrelaye, à proximité de la chaussée Jules César.",
+  "Lieu « Gare de Pierrelaye », 1859 : La gare de Pierrelaye est située au point kilométrique (PK) 23,810 de la ligne de Saint-Denis à Dieppe, ancien tronçon de la ligne de Paris-Nord à Lille avant l'ouverture du tronçon plus direct de Saint-Denis à Creil en 1859.",
+  "Lieu « Gare de Pierrelaye », 1881 : En 1881, marque l'ouverture de la gare qui offre de nombreux bénéfices dans la commune et devient un passage pour les maraîchers qui envoient leurs récoltes vers Paris.",
+  "Lieu « Gare de Pierrelaye », 1945 : La gare dispose actuellement d'un parking pour vélos, à accès sécurisé sur la place du 8 Mai 1945, à côté du bâtiment voyageur, collé au quai direction Paris."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "commune": {
+  "titre": "Saint-Gratien (Val-d'Oise)",
+  "code_insee": "95555",
+  "departement": "95",
+  "population": 21336,
+  "lat": 48.9667,
+  "lon": 2.2833,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Gratien_%28Val-d%27Oise%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:07:13",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1754,
+  "sortie": 1585
+ },
+ "cout_usd": 0.002332,
+ "accroche": "En 1908, la gare de Saint-Gratien ouvre, puis elle est aujourd’hui desservie par les trains de la ligne C du RER.",
+ "histoire": {
+  "recit": "Saint-Gratien, dans le Val-d’Oise, rassemble les Gratiennois autour d’un passé qui s’étire entre grands domaines et voies ferrées. En 1225, Guillaume de Cornillon possède une grande part du territoire. Plus tard, le maréchal Nicolas de Catinat hérite de Saint-Gratien et, après avoir été disgracié en 1701 à la suite d’une conspiration, se retire dans son château construit en 1610.\n\nLe château prend ensuite une autre allure quand le comte de Luçay acquiert Saint-Gratien en 1806 et y fait construire un château inauguré par Napoléon Ier. Au milieu du XIXe siècle, la princesse Mathilde Bonaparte fréquente d’abord le château Catinat, puis achète en 1853 le château du comte de Luçay, aujourd’hui appelé « château de la Princesse Mathilde ».\n\nLa ville se signale aussi par ses lieux de passage et de vie : la gare de Saint-Gratien, ouverte au début du XXe siècle, et le stade Michel-Hidalgo, mis en service à partir de 1985. Côté paroisse, l’église Saint-Gratien, consacrée en 1859, s’inscrit aujourd’hui dans un regroupement de paroisses.",
+  "chronologie": [
+   {
+    "date": "1225",
+    "texte": "Guillaume de Cornillon possède la plus grande partie du territoire de Saint-Gratien.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1610",
+    "texte": "Le château de Saint-Gratien est construit en 1610 par le grand-père du maréchal Nicolas de Catinat.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1701",
+    "texte": "Disgracié en 1701 à la suite d’une conspiration, le maréchal Nicolas de Catinat se retire dans son château à Saint-Gratien.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1806",
+    "texte": "En 1806, le comte de Luçay, Jean-Baptiste Legendre, acquiert Saint-Gratien et y fait construire un château inauguré par Napoléon Ier.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1853",
+    "texte": "En 1853, la princesse Mathilde Bonaparte achète le château construit par le comte de Luçay (aujourd’hui « château de la Princesse Mathilde »).",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1908",
+    "texte": "La gare de Saint-Gratien est ouverte en 1908 par la Compagnie des chemins de fer du Nord.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1909",
+    "texte": "La gare est ouverte en 1909, puis inaugurée deux ans plus tard.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "Le stade Michel-Hidalgo est ouvert et mis en service à partir de 1985.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2022",
+    "texte": "En 2022, l’Entente SSG reçoit un permis de démolition pour détruire des tribunes, réduisant la capacité du stade.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Saint-Gratien",
+   "histoire": "La gare de Saint-Gratien se trouve dans la commune de Saint-Gratien, sur la ligne d’Ermont - Eaubonne à Champ-de-Mars. Ouverte au début du XXe siècle, elle est aujourd’hui desservie par les trains de la ligne C du RER.",
+   "anecdotes": [
+    {
+     "texte": "Ouverte en 1909, elle est inaugurée seulement deux ans plus tard, en 1911.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, elle est desservie par les trains de la ligne C du RER.",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 48.963826,
+   "lon": 2.28514,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Gratien"
+  },
+  {
+   "nom": "Stade Michel-Hidalgo",
+   "histoire": "Le stade Michel-Hidalgo est une enceinte sportive à Saint-Gratien. Construit dans les années 1980, il est mis en service à partir de 1985 et accueille les matchs à domicile de l’Entente Sannois Saint-Gratien.",
+   "anecdotes": [
+    {
+     "texte": "En 2022, pour réduire les coûts d’entretien, l’Entente SSG obtient un permis de démolition concernant les tribunes des virages « Nord » et « Sud ».",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le stade accueille l’Entente Sannois Saint-Gratien et sa capacité a été réduite après les démolitions autorisées en 2022.",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 48.974795,
+   "lon": 2.275218,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Michel-Hidalgo"
+  },
+  {
+   "nom": "Église Saint-Gratien de Saint-Gratien (Val-d'Oise)",
+   "histoire": "L’église Saint-Gratien est l’église paroissiale de la ville, au nord-ouest de Paris. Elle a été bâtie selon les dessins de Léon Ohnet et consacrée le 23 mai 1859 en présence de la princesse.",
+   "anecdotes": [
+    {
+     "texte": "Le 23 mai 1859, l’église est consacrée, en présence de la princesse.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, l’église Saint-Gratien fait partie d’un regroupement de paroisses avec la chapelle Saint-Paul de la cité des Raguenets, celle de Saint-Ferdinand d’Argenteuil et celle de Saint-Joseph d’Enghien.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 48.96993,
+   "lon": 2.28687,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Gratien_de_Saint-Gratien_%28Val-d%27Oise%29"
+  }
+ ],
+ "sources": [
+  "Saint-Gratien (prononcé [sɛ̃ gʁa.ˈsjɛ̃]) est une commune française située dans le département du Val-d'Oise en région Île-de-France. Ses habitants sont appelés les Gratiennois.",
+  "En 1225, Guillaume de Cornillon possède la plus grande partie du territoire. Au XVIIe siècle, le maréchal Nicolas de Catinat hérite de sa mère le territoire de Saint-Gratien. Disgracié en 1701 à la suite d’une conspiration, il se retire dans son château à Saint-Gratien, construit en 1610 par son grand-père. Il y reçoit Bossuet, Fénelon, Vauban, madame de Sévigné, madame de Coulanges, le duc de La Rochefoucauld, et […]",
+  "1701 : Disgracié en 1701 à la suite d’une conspiration, il se retire dans son château à Saint-Gratien, construit en 1610 par son grand-père.",
+  "1806 : En 1806, le comte de Luçay, Jean-Baptiste Legendre, préfet impérial, acquiert Saint-Gratien et y fait construire un château inauguré par Napoléon Ier.",
+  "1853 : La princesse Mathilde Bonaparte, fille de Jérôme Bonaparte, passait ses étés tout d'abord au château Catinat en tant que locataire du marquis de Custine, puis acheta en 1853 le château construit par le comte de Luçay (aujourd'hui appelé « château de la Princesse Mathilde »).",
+  "Lieu « Gare de Saint-Gratien » : La gare de Saint-Gratien est une gare ferroviaire française de la ligne d'Ermont - Eaubonne à Champ-de-Mars (VMI), située dans la commune de Saint-Gratien (département du Val-d'Oise).",
+  "Lieu « Gare de Saint-Gratien », 1908 : Ouverte en 1908 par la Compagnie des chemins de fer du Nord, c'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains de la ligne C du RER.",
+  "Lieu « Gare de Saint-Gratien », 1909 : Même si elle est ouverte en 1909, elle sera inaugurée seulement deux ans plus tard, en 1911.",
+  "Lieu « Gare de Saint-Gratien », aujourd'hui : Aujourd'hui, cette situation n'existe plus.",
+  "Lieu « Stade Michel-Hidalgo » : Le stade Michel-Hidalgo est une enceinte sportive située à Saint-Gratien.",
+  "Lieu « Stade Michel-Hidalgo », 1980 : Le stade est construit dans les années 1980 et est mis en service à partir de 1985.",
+  "Lieu « Stade Michel-Hidalgo », 1985 : Ouvert en 1985, le stade reçoit les matchs à domicile de l'Entente Sannois Saint-Gratien.",
+  "Lieu « Stade Michel-Hidalgo », 2022 : Pour réduire les coûts d'entretien de son stade, l'Entente SSG reçoit en 2022 un permis de démolition pour détruire les six tribunes d'échafaudages des virages \"Nord\" et \"Sud\", réduisant de ce fait la capacité de l'enceinte.",
+  "Lieu « Église Saint-Gratien de Saint-Gratien (Val-d'Oise) » : L'église Saint-Gratien est l'église paroissiale de la ville de Saint-Gratien (Val-d'Oise) au nord-ouest de Paris.",
+  "Lieu « Église Saint-Gratien de Saint-Gratien (Val-d'Oise) », 1859 : Bâtie selon les dessins de Léon Ohnet, elle est consacrée le 23 mai 1859, en présence de la princesse.",
+  "Lieu « Église Saint-Gratien de Saint-Gratien (Val-d'Oise) », aujourd'hui : Aujourd'hui l'église Saint-Gratien fait partie d'un regroupement de paroisses avec la chapelle Saint-Paul de la cité des Raguenets, celle de Saint-Ferdinand d'Argenteuil, et celle de Saint-Joseph d'Enghien."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

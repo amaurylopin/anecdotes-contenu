@@ -1,0 +1,104 @@
+{
+ "commune": {
+  "titre": "Bouffémont",
+  "code_insee": "95091",
+  "departement": "95",
+  "population": 6593,
+  "lat": 49.04333333,
+  "lon": 2.29916667,
+  "url": "https://fr.wikipedia.org/wiki/Bouff%C3%A9mont"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:42:58",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1246,
+  "sortie": 628
+ },
+ "cout_usd": 0.001034,
+ "accroche": "En 1968, Bouffémont voit sa population augmenter nettement, grâce à un quartier construit par un organisme HLM entre le vieux village et la gare. ",
+ "histoire": {
+  "recit": "À Bouffémont, le village a longtemps vécu au rythme du prieuré de Bois Saint-Pierre, dépendant de l’abbaye Saint-Victor de Paris. Près du village, le château de la Chasse est rattaché aux barons de Montmorency, tandis que le château de Bouffémont a connu plusieurs propriétaires, dont la marquise de Preignes, puis le baron Édouard Louis Joseph Empain.\n\nAu XXe siècle, la vie locale continue de s’organiser autour de la gare. Le rail se met en place dès la fin du XIXe siècle : la ligne d’Épinay à Persan - Beaumont via Montsoult ouvre en 1877, suivie de l’embranchement de Montsoult à Luzarches en 1880. Et quand arrive 1968, un nouveau quartier s’implante entre le vieux village et la gare, déclenchant un accroissement de population.\n\nAujourd’hui, le cimetière communal de Bouffémont rappelle aussi l’histoire locale, notamment via le château de Bouffémont, construit sous le Second Empire et acquis par le grand-père au début du XXe siècle.",
+  "chronologie": [
+   {
+    "date": "1877",
+    "texte": "La ligne d’Épinay à Persan - Beaumont via Montsoult ouvre, permettant de relier la région par les chemins de fer du Nord.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1880",
+    "texte": "L’embranchement de Montsoult à Luzarches est ouvert.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "Un accroissement important de population suit la construction d’un nouveau quartier par un organisme HLM entre le vieux village et la gare.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Bouffémont - Moisselles",
+   "histoire": "La gare de Bouffémont - Moisselles appartient à la ligne d’Épinay - Villetaneuse au Tréport - Mers et se trouve sur les territoires de Bouffémont et de Domont, à proximité de Moisselles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4"
+   ],
+   "lat": 49.045276,
+   "lon": 2.322802,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bouff%C3%A9mont_-_Moisselles"
+  },
+  {
+   "nom": "Cimetière de Bouffémont",
+   "histoire": "Le cimetière de Bouffémont est un cimetière communal situé dans le Val-d’Oise.",
+   "anecdotes": [
+    {
+     "texte": "On y mentionne un lien avec le château de Bouffémont : il aurait été construit sous le Second Empire et acquis par le grand-père au début du XXe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 49.04165,
+   "lon": 2.29346,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_Bouff%C3%A9mont"
+  }
+ ],
+ "sources": [
+  "Bouffémont est une commune française située dans le département du Val-d'Oise en région Île-de-France, à l'orée de la forêt de Montmorency et à environ 25 km au nord de Paris. Ses habitants sont appelés les Bouffémontois.",
+  "Le village appartient au prieuré de Bois Saint-Pierre, dépendant de l'abbaye Saint-Victor de Paris. Le château de la Chasse, situé près de Bouffémont, appartint aux barons de Montmorency. Le château de Bouffémont, ancienne propriété de la marquise de Preignes puis du baron Édouard Louis Joseph Empain bâtisseur du métro parisien. Aux XVIIIe et XIXe siècles, les habitants vivent essentiellement du ramassage des […]",
+  "1968 : Le village a connu un accroissement important de sa population après 1968, un organisme HLM ayant construit un nouveau quartier entre le vieux village et la gare.",
+  "Lieu « Gare de Bouffémont - Moisselles » : La gare de Bouffémont - Moisselles est une gare ferroviaire française de la ligne d'Épinay - Villetaneuse au Tréport - Mers, située sur les territoires des communes de Bouffémont et de Domont, à proximité de Moisselles, dans le département du Val-d'O",
+  "Lieu « Gare de Bouffémont - Moisselles », 1877 : La ligne d'Épinay à Persan - Beaumont via Montsoult est ouverte par la Compagnie des chemins de fer du Nord en 1877 et l'embranchement de Montsoult à Luzarches en 1880.",
+  "Lieu « Cimetière de Bouffémont » : Le cimetière de Bouffémont est le cimetière communal de la ville de Bouffémont dans le Val-d'Oise.",
+  "Lieu « Cimetière de Bouffémont », XXe siècle : Il possédait le château de Bouffémont, construit sous le Second Empire et acquis par son grand-père au début du XXe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

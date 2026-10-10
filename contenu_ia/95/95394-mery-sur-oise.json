@@ -1,0 +1,185 @@
+{
+ "commune": {
+  "titre": "Méry-sur-Oise",
+  "code_insee": "95394",
+  "departement": "95",
+  "population": 9983,
+  "lat": 49.0617,
+  "lon": 2.1869,
+  "url": "https://fr.wikipedia.org/wiki/M%C3%A9ry-sur-Oise"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:23",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1892,
+  "sortie": 1145
+ },
+ "cout_usd": 0.00181,
+ "accroche": "En 1375, la seigneurie de Méry est vendue par Henry de Milly à Pierre d'Orgemont.",
+ "histoire": {
+  "recit": "Méry-sur-Oise, au Val-d’Oise, s’est construite entre pouvoirs seigneuriaux, eau de l’Oise et grandes reconstructions. Tout commence avec les moines de l’abbaye Saint-Denis, qui auraient fondé un prieuré et bâti une première église dès le VIe siècle, puis une première église en 862. Plus tard, l’Église Saint-Denis prend sa forme : presque entièrement reconstruite de la fin du XVe siècle au début du XVIe siècle, elle conserve toutefois le chevet du XIIIe siècle. On y repère la date de 1485 sur une clé de voûte, preuve que la reconstruction avait déjà commencé. \n\nDu côté du château, les moines jettent un pont en bois à travers l’Oise pour relier Méry à Auvers, reconstruit en 865 avant que des Vikings ne ravagent la contrée. La seigneurie change ensuite de mains : vendue en 1375, puis à nouveau en 1597. Enfin, un château fort s’élève à l’emplacement du prieuré et subit des attaques répétées. L’époque suivante apporte un autre rythme : la gare de Méry-sur-Oise s’inscrit dans la ligne ouverte en 1846 puis prolongée en 1876.",
+  "chronologie": [
+   {
+    "date": "VIe siècle",
+    "texte": "Les moines de l’abbaye Saint-Denis auraient fondé un prieuré à Méry.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "862",
+    "texte": "Ils auraient construit une première église à Méry.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "865",
+    "texte": "Le pont est reconstruit sous Charles II le Chauve.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1375",
+    "texte": "La seigneurie de Méry, propriété d’Henry de Milly, est vendue à Pierre d’Orgemont.",
+    "sources": [
+     "S3",
+     "S2"
+    ]
+   },
+   {
+    "date": "1375-1389",
+    "texte": "Un nouveau château est bâti par Pierre d’Orgemont, dont il subsiste une salle souterraine autour d’un pilier central.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1485",
+    "texte": "Une clé de voûte du collatéral porte la date de 1485, et la reconstruction a dû commencer avant cette année.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1597",
+    "texte": "La seigneurie est vendue en 1597 par Guillemette, descendante des Orgemont, et son mari François II Jouvenel des Ursins marquis de Traînel.",
+    "sources": [
+     "S4",
+     "S2"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "La ligne Paris - Lille est ouverte le 20 juin 1846 par la Compagnie des chemins de fer du Nord.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1876",
+    "texte": "La jonction Ermont - Valmondois via Saint-Leu-la-Forêt est ouverte, d’abord à voie unique.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Denis de Méry-sur-Oise",
+   "histoire": "Église catholique paroissiale de Méry-sur-Oise, elle serait liée à un prieuré fondé par les moines de l’abbaye Saint-Denis dès le VIe siècle, avec une première église en 862. L’édifice actuel a été presque entièrement reconstruit entre la fin du XVe siècle et le début du XVIe siècle, en style gothique flamboyant, tout en conservant le chevet du XIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Une clé de voûte du collatéral porte la date de 1485, si bien que la reconstruction a dû commencer bien avant cette date.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seule la façade méridionale est visible depuis la rue, précédée par le parvis en contrebas.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 49.065818,
+   "lon": 2.189936,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Denis_de_M%C3%A9ry-sur-Oise"
+  },
+  {
+   "nom": "Château de Méry-sur-Oise",
+   "histoire": "À l’emplacement du prieuré, les moines fondent d’abord un pont en bois reliant Méry à Auvers. Au fil des remaniements, un château fort est construit, fréquemment attaqué et détruit.",
+   "anecdotes": [
+    {
+     "texte": "Le pont en bois est reconstruit en 865 sous le roi Charles II le Chauve, mais vingt ans plus tard les Vikings remontent l’Oise et ravagent toute la contrée.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Vers 1375, un nouveau château est bâti entre 1375 et 1389, et il en subsiste une salle souterraine autour d’un pilier central.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15"
+   ],
+   "lat": 49.06611,
+   "lon": 2.18972,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_M%C3%A9ry-sur-Oise"
+  },
+  {
+   "nom": "Gare de Méry-sur-Oise",
+   "histoire": "La gare de Méry-sur-Oise est une gare ferroviaire française de la ligne d’Ermont - Eaubonne à Valmondois, située dans la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16"
+   ],
+   "lat": 49.057539,
+   "lon": 2.190827,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_M%C3%A9ry-sur-Oise"
+  }
+ ],
+ "sources": [
+  "Méry-sur-Oise est une commune française située dans le département du Val-d'Oise en région Île-de-France. Ses habitants sont appelés les Mérysiens.",
+  "La seigneurie de Méry, propriété d'Henry de Milly, est vendue en 1375 à Pierre d'Orgemont (v. 1315/1320-1389), conseiller de Charles V et chancelier de France, acquéreur de Chantilly en 1386. La seigneurie est ensuite vendue en 1597 par la descendante des Orgemont, Guillemette, et son mari François II Jouvenel des Ursins marquis de Traînel (v. 1569-1650), au beau-frère de ce dernier, Antoine du Pescher de […]",
+  "1375 : La seigneurie de Méry, propriété d'Henry de Milly, est vendue en 1375 à Pierre d'Orgemont (v.",
+  "1597 : La seigneurie est ensuite vendue en 1597 par la descendante des Orgemont, Guillemette, et son mari François II Jouvenel des Ursins marquis de Traînel (v.",
+  "1696 : En 1696, le comté de Méry est érigé en marquisat au profit de François II de Saint-Chamans-Méry (1658-1714), arrière-petit-neveu d'Antoine.",
+  "Lieu « Église Saint-Denis de Méry-sur-Oise » : L'église Saint-Denis est une église catholique paroissiale située à Méry-sur-Oise, en France.",
+  "Lieu « Église Saint-Denis de Méry-sur-Oise », 862 : Un prieuré aurait été fondée par les moines de l'abbaye Saint-Denis dès le VIe siècle, et ils auraient construit une première église en 862, ce qui explique son placement sous le vocable de Denis de Paris, évangélisateur de la région.",
+  "Lieu « Église Saint-Denis de Méry-sur-Oise », XVe siècle : Elle a été presque entièrement construite entre la fin du XVe siècle et le début du XVIe siècle, dans le style gothique flamboyant, en conservant toutefois le chevet du XIIIe siècle.",
+  "Lieu « Église Saint-Denis de Méry-sur-Oise », 1485 : L'une des clés de voûte du collatéral porte la date de 1485, et l'agence des Bâtiments de France (ABF) le date effectivement du XVe siècle : la reconstruction a donc dû commencer bien avant 1485.",
+  "Lieu « Église Saint-Denis de Méry-sur-Oise », aujourd'hui : Seule la façade méridionale est visible depuis la rue ; elle est précédée par le parvis de l'église, en contrebas de la rue.",
+  "Lieu « Château de Méry-sur-Oise » : Le château de Méry-sur-Oise se situe dans le Val-d'Oise, à 30 kilomètres au nord de Paris, et face à Auvers-sur-Oise, le village des peintres, sur la rive opposée de l'Oise.",
+  "Lieu « Château de Méry-sur-Oise », VIe siècle : Au VIe siècle, les moines de l'abbaye Saint-Denis bâtissent un prieuré à Méry, et jettent un pont en bois à travers l'Oise pour relier Méry à Auvers.",
+  "Lieu « Château de Méry-sur-Oise », 865 : Le pont est reconstruit en 865 sous le roi Charles II le Chauve, mais vingt ans plus tard, les Vikings remontent l'Oise et ravagent toute la contrée.",
+  "Lieu « Château de Méry-sur-Oise », 1375 : Sans perdre de temps, le nouveau sire fait bâtir un nouveau château entre 1375 et 1389, et il en subsiste une salle souterraine autour d'un pilier central.",
+  "Lieu « Château de Méry-sur-Oise », aujourd'hui : À l'emplacement du prieuré, ils construisent un château fort, qui est fréquemment attaqué et détruit.",
+  "Lieu « Gare de Méry-sur-Oise » : La gare de Méry-sur-Oise est une gare ferroviaire française de la ligne d'Ermont - Eaubonne à Valmondois, située dans la commune de Méry-sur-Oise (département du Val-d'Oise).",
+  "Lieu « Gare de Méry-sur-Oise », 1846 : La ligne Paris - Lille fut ouverte le 20 juin 1846 par la Compagnie des chemins de fer du Nord.",
+  "Lieu « Gare de Méry-sur-Oise », 1876 : La jonction Ermont - Valmondois via Saint-Leu-la-Forêt est ouverte en 1876, d'abord à voie unique, puis est doublée en 1889."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

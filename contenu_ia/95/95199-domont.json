@@ -1,0 +1,174 @@
+{
+ "commune": {
+  "titre": "Domont",
+  "code_insee": "95199",
+  "departement": "95",
+  "population": 16065,
+  "lat": 49.0333,
+  "lon": 2.3333,
+  "url": "https://fr.wikipedia.org/wiki/Domont"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:22:52",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1591,
+  "sortie": 1028
+ },
+ "cout_usd": 0.001603,
+ "accroche": "En 1877, l’ouverture du chemin de fer et l’inauguration de la gare de Domont projettent le village dans la modernité.",
+ "histoire": {
+  "recit": "Domont, dans le Val-d’Oise, a longtemps vécu comme un village de bûcherons et de paysans. L’attestation de la seigneurie apparaît dans un acte du début du XIIe siècle : Rudolphe le Bel donne l’abbaye bénédictine de Domont au prieuré Saint-Martin-des-Champs à Paris, donation ensuite confirmée par une bulle pontificale.\n\nPlus tard, la paroisse se structure avec l’église Sainte-Marie-Madeleine. Au XVIe siècle, on agrandit le bas-côté nord pour mieux voir l’autel. Mais le bâtiment s’abîme vite à partir du milieu du XVIIIe siècle : en 1785, l’église est fermée au culte et manque d’être démolie.\n\nPuis vient le temps des rails : en 1877, l’ouverture du chemin de fer et l’inauguration de la gare de Domont changent le rythme du village. Au XXe siècle, le golf de Domont-Montmorency s’installe aussi sur un site de forêt, apportant une nouvelle façon d’occuper l’espace local.",
+  "chronologie": [
+   {
+    "date": "1105 ou 1108",
+    "texte": "Un acte place Rudolphe le Bel, seigneur de Domont, dans la donation de l’abbaye bénédictine de Domont au prieuré Saint-Martin-des-Champs à Paris.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1142",
+    "texte": "La paroisse de Domont est fondée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1149",
+    "texte": "Une bulle du pape Calixte II confirme la donation.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Le bas-côté nord est élargi pour améliorer la visibilité vers l’autel.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1785",
+    "texte": "L’église est fermée au culte ; elle aurait pu être remplacée par un nouvel édifice.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1877",
+    "texte": "L’ouverture du chemin de fer et l’inauguration de la gare de Domont projettent le village dans la modernité.",
+    "sources": [
+     "S3",
+     "S13"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "Le club de golf est construit entre 1963 et 1965 sur un site de 70 ha dans la forêt de Montmorency.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "Le Golf de Domont-Montmorency est inauguré.",
+    "sources": [
+     "S9",
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Sainte-Marie-Madeleine de Domont",
+   "histoire": "Église catholique paroissiale, l’église Sainte-Marie-Madeleine est associée à la fondation de la paroisse en 1142. Elle est remaniée au XVIe siècle (élargissement du bas-côté nord) puis, à partir du milieu du XVIIIe siècle, subit un délabrement rapide qui mène à sa fermeture au culte en 1785. Sa visibilité depuis l’espace public reste limitée par l’élévation méridionale donnant sur des propriétés privées.",
+   "anecdotes": [
+    {
+     "texte": "Dans l’imaginaire local, l’élargissement du bas-côté nord répond à un problème de visibilité des paroissiens installés dans la nef vers l’autel.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "À propos des origines de la paroisse, un auteur jugerait son origine « très ancienne » en négligeant le repère de 1142.",
+     "statut": "conteste",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 49.0268,
+   "lon": 2.32631,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Marie-Madeleine_de_Domont"
+  },
+  {
+   "nom": "Golf de Domont-Montmorency",
+   "histoire": "Club de golf privé à Domont, inauguré en 1966. Sa création s’appuie sur un site de 70 ha situé dans la forêt de Montmorency, avec une pente marquée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 49.020493,
+   "lon": 2.311399,
+   "url": "https://fr.wikipedia.org/wiki/Golf_de_Domont-Montmorency"
+  },
+  {
+   "nom": "Gare de Domont",
+   "histoire": "Gare ferroviaire de la ligne d’Épinay - Villetaneuse au Tréport - Mers, située sur le territoire de la commune. La ligne d’Épinay à Persan - Beaumont via Montsoult est ouverte en 1877, dans le contexte de la modernité apportée au village.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 49.032738,
+   "lon": 2.337531,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Domont"
+  }
+ ],
+ "sources": [
+  "Domont est une commune française du Val-d'Oise située dans le pays de France, à environ 20 km au nord de Paris. Ses habitants sont appelés les Domontois.",
+  "Domont était un village de bûcherons et de paysans depuis le Haut Moyen Âge. Il est attesté en 1105, ou 1108, dans un acte où Rudolphe le Bel seigneur de Domont, donne l'abbaye bénédictine de Domont au prieuré Saint-Martin-des-Champs à Paris. En 1149 une bulle du pape Calixte II en confirme la donation. Il n'en reste plus de nos jours que la chapelle monastique devenue paroisse sous le patronage de sainte Madeleine. […]",
+  "1877 : L'ouverture du chemin de fer et l'inauguration de la gare de Domont en 1877 projettent le village dans la modernité.",
+  "Lieu « Église Sainte-Marie-Madeleine de Domont » : L'église Sainte-Marie-Madeleine est une église catholique paroissiale située à Domont, en France.",
+  "Lieu « Église Sainte-Marie-Madeleine de Domont », 1142 : Comme conséquence de cet essor, la paroisse de Domont est fondée en 1142, ce que Mathieu Lours semble ignorer quand il évoque son origine « très ancienne ».",
+  "Lieu « Église Sainte-Marie-Madeleine de Domont », XVIe siècle : L'on peut imaginer facilement que les paroissiens, installés dans la nef n'ont aucune visibilité vers leur autel : pour y remédier, le bas-côté nord est élargie au XVIe siècle.",
+  "Lieu « Église Sainte-Marie-Madeleine de Domont », 1785 : Après son achèvement, l'église de Domont n'a connu que des remaniements modérés, mais son délabrement rapide à partir du milieu du XVIIIe siècle conduit à sa fermeture au culte en 1785, et elle faillit être entièrement démolie pour être remplacée par un nouvel édifice.",
+  "Lieu « Église Sainte-Marie-Madeleine de Domont », aujourd'hui : L'élévation méridionale donne presque immédiatement sur des propriétés privées et est moins bien visible depuis le domaine public.",
+  "Lieu « Golf de Domont-Montmorency » : Le Golf de Domont-Montmorency, ou Golf de Domont, est un club de golf privé situé à Domont (Val-d'Oise) inauguré en 1966.",
+  "Lieu « Golf de Domont-Montmorency », 1963 : Le club a été construit entre 1963 et 1965 sur un site de 70 ha situé dans la forêt de Montmorency, qui se caractérise par une pente marquée.",
+  "Lieu « Golf de Domont-Montmorency », 1966 : Le Golf de Domont-Montmorency, ou Golf de Domont, est un club de golf privé situé à Domont (Val-d'Oise) inauguré en 1966.",
+  "Lieu « Gare de Domont » : La gare de Domont est une gare ferroviaire française de la ligne d'Épinay - Villetaneuse au Tréport - Mers, située sur le territoire de la commune de Domont (département du Val-d'Oise).",
+  "Lieu « Gare de Domont », 1877 : La ligne d'Épinay à Persan - Beaumont via Montsoult fut ouverte par la compagnie des chemins de fer du Nord en 1877, l'embranchement de Montsoult à Luzarches en 1880."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

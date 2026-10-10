@@ -1,0 +1,154 @@
+{
+ "commune": {
+  "titre": "Ézanville",
+  "code_insee": "95229",
+  "departement": "95",
+  "population": 9858,
+  "lat": 49.0333,
+  "lon": 2.3667,
+  "url": "https://fr.wikipedia.org/wiki/%C3%89zanville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:59:09",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1581,
+  "sortie": 1065
+ },
+ "cout_usd": 0.001647,
+ "accroche": "En 632, le roi Dagobert cède Iticiniscoam, territoire d’Ézanville, à l’abbaye de Saint-Denis.",
+ "histoire": {
+  "recit": "À Ézanville, tout commence comme un don lointain : en 632, le roi Dagobert remet Iticiniscoam à l’abbaye de Saint-Denis. Plus tard, vers 1030, Bouchard III de Montmorency transmet aussi le territoire d’Ézanville, cette fois à sa fille, avant qu’il ne rejoigne le couvent Notre-Dame de…\n\nLe village change alors de rythme. En 1876, l’ouverture du chemin de fer déclenche un développement rapide, surtout autour de la gare, avec des maisons de villégiatures installées notamment dans le hameau du Bois Bleu.\n\nParmi les repères, l’Église Notre-Dame-de-l’Assomption d’Ézanville connaît une histoire heurtée : l’ancienne nef est démolie en 1832, faute de moyens. Une nouvelle nef est ensuite édifiée entre 1964 et 1967 ; l’église est inaugurée en 1967, et fait aujourd’hui partie du groupement paroissial d’Écouen, Ezanville, Bouqueval, Le Plessis-Gassot.\n\nÀ l’est du quotidien, la gare d’Écouen - Ézanville marque le territoire, et, tout près, le Bassin des Bourguignons joue son rôle face aux crues—jusqu’aux orages des 31 mai et 1er juin 1992 qui causent de grands dégâts.",
+  "chronologie": [
+   {
+    "date": "632",
+    "texte": "Le roi Dagobert cède Iticiniscoam, territoire d’Ézanville, à l’abbaye de Saint-Denis.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1030",
+    "texte": "Bouchard III de Montmorency donne à sa fille le territoire d’Ézanville, qui finit par rejoindre le couvent Notre-Dame de…",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1876",
+    "texte": "L’ouverture du chemin de fer permet un développement rapide du village, surtout autour de la gare.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1832",
+    "texte": "L’ancienne nef de l’église est démolie, la commune ne pouvant faire face aux frais de restauration.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1964",
+    "texte": "La nouvelle nef est édifiée entre 1964 et 1967, avec un projet incomplet pour la première travée et le porche.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1967",
+    "texte": "La nef est moderne et l’église est inaugurée en 1967.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "L’église fait partie du groupement paroissial d’Écouen, Ezanville, Bouqueval, Le Plessis-Gassot.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption d'Ézanville",
+   "histoire": "Église catholique paroissiale à Ézanville. L’ancienne nef est démolie en 1832 faute de finances ; une nouvelle nef est ensuite construite entre 1964 et 1967, avec un plan partiellement non réalisé, puis inaugurée en 1967. Elle appartient aujourd’hui au groupement paroissial d’Écouen, Ezanville, Bouqueval, Le Plessis-Gassot.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 49.029142,
+   "lon": 2.361787,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_d%27%C3%89zanville"
+  },
+  {
+   "nom": "Gare d'Écouen - Ézanville",
+   "histoire": "Gare ferroviaire située sur le territoire de la commune d’Ézanville, à proximité d’Écouen, sur la ligne d’Épinay - Villetaneuse au Tréport - Mers. Son existence s’inscrit dans l’ouverture de la ligne par la compagnie des chemins de fer du Nord en 1877, avec un embranchement vers Luzarches en 1880.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 49.0227,
+   "lon": 2.36298,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27%C3%89couen_-_%C3%89zanville"
+  },
+  {
+   "nom": "Bassin des Bourguignons",
+   "histoire": "Ouvrage hydraulique du Val-d’Oise. En 1992, lors des violents orages du 31 mai et 1er juin, il apparaît que les deux bassins construits dans les années 1970 ne suffisaient pas pour retenir toute l’eau d’une crue dite centennale.",
+   "anecdotes": [
+    {
+     "texte": "Lors des orages des 31 mai et 1er juin 1992, il est démontré que les deux bassins ne suffisaient pas à retenir l’eau d’une crue « dite centennale ».",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 49.039669,
+   "lon": 2.352072,
+   "url": "https://fr.wikipedia.org/wiki/Bassin_des_Bourguignons"
+  }
+ ],
+ "sources": [
+  "Ézanville est une commune française située dans le département du Val-d'Oise en région Île-de-France. Ses habitants sont appelés les Ézanvillois.",
+  "En 632, le roi Dagobert cède Iticiniscoam, composé des territoires actuels d'Ézanville et d'Écouen à l'abbaye de Saint-Denis. Ézanville, qui n'est qu'un village, est alors une annexe à la cure d’Écouen qui, à partir de 1060, dépend du prieuré de Saint-Martin-des-Champs de Paris. Vers 1030, Bouchard III de Montmorency donne à sa fille, pour héritage, le territoire d’Ézanville, qui en fait don au couvent Notre-Dame de […]",
+  "1876 : L'ouverture du chemin de fer, à partir de 1876, permet le développement rapide du village en particulier autour de la gare, notamment au début du XXe siècle avec la construction de maisons de villégiatures, en premier lieu dans le hameau du Bois Bleu.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Ézanville » : L'église Notre-Dame-de-l'Assomption est une église catholique paroissiale située à Ézanville, en France.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Ézanville », 1832 : L'ancienne nef avait été démolie en 1832, quand la commune ne pouvait faire face aux frais de restauration.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Ézanville », 1964 : Cette nef est édifiée entre 1964 et 1967, mais la première des cinq travées et le porche flanqué d'un baptistère ne sont jamais réalisés.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Ézanville », 1967 : La nef est moderne et a été inaugurée en 1967 seulement.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Ézanville », aujourd'hui : L'église Notre-Dame-de-l'Assomption fait aujourd'hui partie du groupement paroissial d'Écouen, Ezanville, Bouqueval, Le Plessis-Gassot.",
+  "Lieu « Gare d'Écouen - Ézanville » : La gare d'Écouen - Ézanville est une gare ferroviaire française de la ligne d'Épinay - Villetaneuse au Tréport - Mers, située sur le territoire de la commune d'Ézanville, à proximité d'Écouen, dans le département du Val-d'Oise.",
+  "Lieu « Gare d'Écouen - Ézanville », 1877 : La ligne d'Épinay à Persan - Beaumont via Montsoult fut ouverte par la compagnie des chemins de fer du Nord en 1877, l'embranchement Montsoult à Luzarches en 1880.",
+  "Lieu « Bassin des Bourguignons » : Le bassin des Bourguignons est un ouvrage hydraulique situé dans le département du Val-d'Oise, en Île-de-France.",
+  "Lieu « Bassin des Bourguignons », 1992 : Malheureusement, lors des violents orages du 31 mai et 1er juin 1992 qui ont occasionné de très importantes inondations avec de gros dégâts, il a été démontré que les 2 bassins construits dans les années 1970 ne suffisaient pas pour retenir toute l'eau d'une crue « dite centennale »."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

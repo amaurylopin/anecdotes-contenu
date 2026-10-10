@@ -1,0 +1,147 @@
+{
+ "commune": {
+  "titre": "Jouy-le-Moutier",
+  "code_insee": "95323",
+  "departement": "95",
+  "population": 17854,
+  "lat": 49.0167,
+  "lon": 2.0333,
+  "url": "https://fr.wikipedia.org/wiki/Jouy-le-Moutier"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:16:47",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1489,
+  "sortie": 1213
+ },
+ "cout_usd": 0.001814,
+ "accroche": "Le menhir de la Grande Pierre de Jouy se dresse sur un coteau à 20 m d’altitude sur la rive droite de l’Oise, sans être visible depuis le fond de la vallée.",
+ "histoire": {
+  "recit": "Entre le massif de l’Hautil et l’Oise, Jouy-le-Moutier garde des traces très anciennes : le territoire est occupé dès le Néolithique, comme le montre le menhir de Jouy-la-Fontaine et des haches de pierre polie retrouvées çà et là. Le lieu est ensuite cité pour la première fois au XIe siècle, dans la vie de Hildeburge de Gallardon, fille d’Hervé Ier de Gallardon.\n\nAu fil du temps, le cœur du village se structure autour de l’église paroissiale. Entre 1220 et 1240, des chanoines de Paris font bâtir un nouveau chœur de deux travées, conçu pour rester étroit afin de contrebuter le clocher. Plus tard, en 1993 et 1994, des fouilles menées pendant l’installation du chauffage par le sol mettent au jour des traces d’édifices antérieurs au XIIe siècle.\n\nLa commune change aussi de visage au XXe siècle : depuis son intégration dans la ville nouvelle de Cergy-Pontoise, le 11 août 1972, sa physionomie est radicalement modifiée.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Le lieu est cité pour la première fois, dans la vie de Hildeburge de Gallardon, fille d’Hervé Ier de Gallardon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Entre 1220 et 1240",
+    "texte": "Les chanoines de Paris font bâtir un nouveau chœur de deux travées pour l’église, pensé pour contrebuter le clocher.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "vers 1250 environ",
+    "texte": "La paroisse de Jouy devient trop grande et la nouvelle paroisse de Lieux (aujourd’hui Vauréal) en est démembrée.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "11 août 1972",
+    "texte": "La commune est intégrée à la ville nouvelle de Cergy-Pontoise et en ressort radicalement transformée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1993 / 1994",
+    "texte": "Des fouilles archéologiques, lors des travaux d’installation du chauffage par le sol, révèlent des traces d’édifices antérieurs au XIIe siècle.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1995",
+    "texte": "L’église Sainte-Claire de Vauréal est inaugurée ; Jouy-le-Moutier compte alors quatre églises dans le groupement paroissial de l’Hautil.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Grande Pierre de Jouy",
+   "histoire": "C’est un menhir situé sur la commune de Jouy-le-Moutier, dans le Val-d’Oise. Dressé sur un coteau à 20 m d’altitude, sur la rive droite de l’Oise, il ne se laisse pas facilement voir depuis le fond de la vallée.",
+   "anecdotes": [
+    {
+     "texte": "Même dressée, la Grande Pierre n’était pas visible du fond de la vallée.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le menhir est encore signalé comme situé sur un coteau à 20 m d’altitude, sur la rive droite de l’Oise.",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 49.0213,
+   "lon": 2.035,
+   "url": "https://fr.wikipedia.org/wiki/Grande_Pierre_de_Jouy"
+  },
+  {
+   "nom": "Église de la Nativité-de-la-Sainte-Vierge de Jouy-le-Moutier",
+   "histoire": "Église catholique paroissiale à Jouy-le-Moutier, elle voit son chœur remanié entre 1220 et 1240 par des chanoines de Paris. En 1993 et 1994, des fouilles menées durant l’installation du chauffage au sol dégagent des traces d’édifices antérieurs au XIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Lors des travaux pour le chauffage par le sol, des fouilles ont permis de dégager des traces d’édifices antérieurs au XIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Vers 1250, la paroisse de Jouy se retrouve trop grande et cède une partie au profit de la paroisse de Lieux (aujourd’hui Vauréal).",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S8",
+    "S7"
+   ],
+   "lat": 49.01612,
+   "lon": 2.0468,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_la_Nativit%C3%A9-de-la-Sainte-Vierge_de_Jouy-le-Moutier"
+  }
+ ],
+ "sources": [
+  "Jouy-le-Moutier est une commune française située dans le département du Val-d'Oise, en région Île-de-France.",
+  "Situé entre le massif de l'Hautil et l’Oise, le territoire jocassien est occupé dès le Néolithique, comme en témoignent le menhir de Jouy-la-Fontaine et quelques haches de pierre polie retrouvées çà et là. Le lieu est cité pour la première fois au XIe siècle par l'écrivain de la vie de Hildeburge de Gallardon qui vivait sous le règne de Philippe Ier. Elle était fille d'Hervé 1er de Gallardon. Après avoir fondé un […]",
+  "1972 : En effet, la commune a été radicalement transformée depuis son intégration dans la ville nouvelle de Cergy-Pontoise, le 11 août 1972, qui a fortement modifié sa physionomie.",
+  "Lieu « Église de la Nativité-de-la-Sainte-Vierge de Jouy-le-Moutier » : L'église de la Nativité de la Sainte-Vierge et Saint-Leu est une église catholique paroissiale située à Jouy-le-Moutier, en France.",
+  "Lieu « Église de la Nativité-de-la-Sainte-Vierge de Jouy-le-Moutier », 1220 : Entre 1220 et 1240, les chanoines de Paris font bâtir un nouveau chœur de deux travées, qui doit rester étroit afin de contrebuter le clocher.",
+  "Lieu « Église de la Nativité-de-la-Sainte-Vierge de Jouy-le-Moutier », 1993 : En 1993 / 1994, lors des travaux pour l'installation du chauffage par le sol, des fouilles archéologiques ont été menées dans l'église, et permis de dégager les traces d'édifices antérieurs au XIIe siècle.",
+  "Lieu « Église de la Nativité-de-la-Sainte-Vierge de Jouy-le-Moutier », 1995 : L'église de Jouy-le-Moutier est la plus ancienne et la plus grande parmi les quatre églises que compte le groupement paroissial de l'Hautil, mais elle vit aujourd'hui dans l'ombre de l'église Sainte-Claire de Vauréal, inaugurée en 1995 et financée par des dons.",
+  "Lieu « Église de la Nativité-de-la-Sainte-Vierge de Jouy-le-Moutier », aujourd'hui : Vers 1250 environ, la paroisse de Jouy est à son tour devenue trop grande, et la nouvelle paroisse de Lieux (aujourd'hui Vauréal) en est démembrée.",
+  "Lieu « Grande Pierre de Jouy » : La Grande Pierre de Jouy, est un menhir situé sur la commune de Jouy-le-Moutier dans le département du Val-d'Oise.",
+  "Lieu « Grande Pierre de Jouy », aujourd'hui : Bien que situé sur un coteau à 20 m d'altitude sur la rive droite de l'Oise, le menhir, même dressé, n'était pas visible du fond de la vallée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}

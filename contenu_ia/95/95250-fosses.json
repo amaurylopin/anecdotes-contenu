@@ -1,0 +1,158 @@
+{
+ "commune": {
+  "titre": "Fosses",
+  "code_insee": "95250",
+  "departement": "95",
+  "population": 10570,
+  "lat": 49.1,
+  "lon": 2.4833,
+  "url": "https://fr.wikipedia.org/wiki/Fosses"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:52:57",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1506,
+  "sortie": 1270
+ },
+ "cout_usd": 0.001889,
+ "accroche": "À Fosses, l’église Saint-Étienne de Fosses est édifiée en deux campagnes de construction, la première entre 1170 et 1200, portant notamment sur le chœur et la nef.",
+ "histoire": {
+  "recit": "À Fosses, le territoire est occupé dès l’époque carolingienne, et le bourg s’organise autour de l’église Saint-Étienne. Construite au XIIe siècle, elle prend forme lors de deux campagnes : la première, entre 1170 et 1200, façonne le chœur et plusieurs parties de l’édifice, tandis que le reste complète l’ensemble.\n\nPlus tard, vers 1500, un visiteur du temps de l’abbé Lebeuf a encore pu contempler le contenu du grand reliquaire en pierre, installé dans l’église.\n\nLa vie quotidienne change aussi avec le rail : la gare de Survilliers - Fosses dessert Fosses et Survilliers à partir du 1er juin 1859, sur la ligne de Paris-Nord à Lille. À l’ouverture, Fosses reste éloigné de la station, et ce n’est qu’avec la construction de lotissements, à partir des années 1920, que la distance se réduit.\n\nEnfin, l’église a conservé des traces de peintures murales : assez pour en permettre une reconstitution, malgré leur disparition progressive.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "L’église Saint-Étienne est construite au XIIe siècle et des sépultures datent aussi des XIIe et XIIIe siècles.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "entre 1170 et 1200",
+    "texte": "Première campagne de construction de l’église Saint-Étienne : chœur, croisillon nord, absidiole nord, nef et deux bas-côtés.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "autour de 1500",
+    "texte": "L’abbé Lebeuf peut encore contempler le contenu du grand reliquaire en pierre, bâti dans l’église.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1er juin 1859",
+    "texte": "La gare de Survilliers - Fosses est ouverte sur son nouvel itinéraire direct entre Saint-Denis – Creil via Survilliers - Fosses.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "à partir des années 1920",
+    "texte": "La construction de lotissements rapproche progressivement Fosses de la station.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "Le nouveau diocèse de Pontoise est érigé en 1966 ; Fosses en fait partie.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2008",
+    "texte": "Le bâtiment voyageurs de la gare est profondément rénové ; l’espace accueil est réaménagé et agrandi.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Étienne de Fosses",
+   "histoire": "Église catholique paroissiale à Fosses, construite au XIIe siècle. Elle est édifiée en deux campagnes : la première, entre 1170 et 1200, concerne le chœur, le croisillon nord, l’absidiole nord, la nef et les deux bas-côtés. Vers 1500, un grand reliquaire en pierre est installé dans l’église. Des peintures murales subsistent seulement en vestiges, permettant une reconstitution.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1500, l’abbé Lebeuf a encore pu contempler le contenu du grand reliquaire en pierre, bâti dans l’église.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Les peintures murales, disparues en grande partie, laissent cependant assez de vestiges pour qu’on puisse en proposer une reconstitution.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des vestiges de peintures murales, assez pour permettre une reconstitution.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S8"
+   ],
+   "lat": 49.095452,
+   "lon": 2.488698,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Fosses"
+  },
+  {
+   "nom": "Gare de Survilliers - Fosses",
+   "histoire": "Gare ferroviaire de la ligne de Paris-Nord à Lille, située dans la commune de Fosses, à proximité de Survilliers. Les communes de Fosses et Survilliers sont desservies par cette gare ouverte le 1er juin 1859. À l’ouverture, le village de Fosses est loin de la station ; il s’en rapproche ensuite avec la construction de lotissements à partir des années 1920. Le bâtiment voyageurs est profondément rénové en 2008, avec un espace accueil réaménagé et agrandi.",
+   "anecdotes": [
+    {
+     "texte": "À l’ouverture, Fosses reste fort éloigné de la station : la gare ne se rapproche vraiment avec les lotissements lancés à partir des années 1920.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le bâtiment voyageurs rénové en 2008, avec un espace accueil réaménagé et agrandi.",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 49.09957,
+   "lon": 2.525889,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Survilliers_-_Fosses"
+  }
+ ],
+ "sources": [
+  "Fosses est une commune française située dans le département du Val-d'Oise, en région Île-de-France.",
+  "Le territoire de la commune est occupé dès l'époque carolingienne. L'église Saint Étienne est construite au XIIe siècle. Il existe des sépultures datant des XIIe et XIIIe siècles.",
+  "XIIe siècle : L'église Saint Étienne est construite au XIIe siècle.",
+  "Lieu « Église Saint-Étienne de Fosses » : L'église Saint-Étienne est une église catholique paroissiale située à Fosses, en France.",
+  "Lieu « Église Saint-Étienne de Fosses », 1170 : Elle a été édifiée pendant deux campagnes de construction, dont la première entre 1170 et 1200 porte sur le chœur, le croisillon nord, l'absidiole nord, la nef et les deux bas-côtés.",
+  "Lieu « Église Saint-Étienne de Fosses », 1500 : L'abbé Lebeuf a encore pu contempler le contenu du grand reliquaire en pierre, qui a été bâti dans l'église autour de 1500.",
+  "Lieu « Église Saint-Étienne de Fosses », 1966 : Dans le contexte de la refonte des départements d'Île-de-France, le nouveau diocèse de Pontoise est érigé en 1966, et Fosses en fait partie à l'instar de toutes les autres paroisses du département.",
+  "Lieu « Église Saint-Étienne de Fosses », aujourd'hui : La sobriété architecturale avait été compensée par des peintures murales, dont ne subsistent plus que des vestiges, assez éloquents pour permettre une reconstitution.",
+  "Lieu « Gare de Survilliers - Fosses » : La gare de Survilliers - Fosses est une gare ferroviaire française de la ligne de Paris-Nord à Lille, située dans la commune de Fosses, à proximité de Survilliers, dans le département du Val-d'Oise, en région Île-de-France.",
+  "Lieu « Gare de Survilliers - Fosses », 1859 : Les deux communes de Fosses et Survilliers sont desservies par la gare de Survilliers - Fosses située au km 29,655 de la ligne de Paris-Nord à Lille, ouverte le 1er juin 1859 sur son nouvel itinéraire direct entre Saint-Denis – Creil via Survilliers - Fosses.",
+  "Lieu « Gare de Survilliers - Fosses », 1920 : La gare est implantée sur la commune de Fosses, mais le nom de la commune de Survilliers est toutefois mentionné en premier lieu dans le nom de la gare, puisqu'à l'ouverture de la ligne, le village de Fosses fut fort éloigné de la station et ne s'en rapprocha qu'avec la construction de lotissements à partir des années 1920.",
+  "Lieu « Gare de Survilliers - Fosses », 2008 : Le bâtiment voyageurs a été profondément rénové en 2008 ; l'« espace accueil » a été réaménagé et agrandi à cette occasion, afin de permettre à tous les voyageurs d'attendre le train à l'intérieur du bâtiment."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "commune": {
+  "titre": "Persan (Val-d'Oise)",
+  "code_insee": "95487",
+  "departement": "95",
+  "population": 14359,
+  "lat": 49.15,
+  "lon": 2.2667,
+  "url": "https://fr.wikipedia.org/wiki/Persan_%28Val-d%27Oise%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:31:13",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1189,
+  "sortie": 943
+ },
+ "cout_usd": 0.001417,
+ "accroche": "Le 5 avril 1877, la ligne Épinay–Persan–Beaumont via Montsoult est ouverte par la compagnie des chemins de fer du Nord.",
+ "histoire": {
+  "recit": "Persan est une commune du Val-d’Oise, en Île-de-France. Aujourd’hui disparu, le château de Persan est évoqué dans un texte en ancien français, où il est décrit comme « fort noble et ancien », accompagné de « grands cors d’hostels », comme un écho des ambitions artistiques et intellectuelles du XVIIe siècle.\n\nAu même titre que le château, la gare a connu ses métamorphoses. À Gare de Persan - Beaumont, la ligne s’ouvre en 1877. Le bâtiment initial est ensuite détruit lors des bombardements d’août 1944, puis remplacé en 1955 par un édifice jugé inadapté. Avec l’électrification de la ligne Paris - Beauvais, la gare actuelle prend place. Enfin, après la fin de l’exploitation vapeur, les anciennes installations sont détruites le 12 mai 1970, et un parking les remplace.",
+  "chronologie": [
+   {
+    "date": "5 avril 1877",
+    "texte": "Ouverture de la ligne Épinay–Persan–Beaumont via Montsoult par la compagnie des chemins de fer du Nord.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "août 1944",
+    "texte": "Le premier bâtiment de la gare est détruit par les bombardements.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1955",
+    "texte": "Remplacement du bâtiment par un nouvel édifice, ensuite jugé inadapté.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "12 mai 1970",
+    "texte": "Fin de l’exploitation vapeur : destruction des anciennes installations, remplacées par un parking.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Persan - Beaumont",
+   "histoire": "La gare de Persan - Beaumont s’inscrit à l’intersection de la ligne d’Épinay - Villetaneuse au Tréport - Mers et de la ligne de Pierrelaye à Creil. La ligne Épinay–Persan–Beaumont via Montsoult est ouverte en 1877. Le bâtiment initial disparaît lors des bombardements d’août 1944. Un nouvel édifice est installé en 1955 avant d’être remplacé par la gare actuelle lors de l’électrification de la ligne Paris - Beauvais. Après la fin de l’exploitation vapeur, le 12 mai 1970, les installations vapeur sont détruites et un parking prend leur place.",
+   "anecdotes": [
+    {
+     "texte": "Les anciennes installations vapeur, une fois la vapeur terminée, ont laissé la place à un parking sur leur emplacement.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un parking se trouve à l’emplacement des anciennes installations vapeur.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 49.148291,
+   "lon": 2.279254,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Persan_-_Beaumont"
+  }
+ ],
+ "sources": [
+  "Persan est une commune française située dans le département du Val-d'Oise en région Île-de-France.",
+  "Aujourd’hui disparu, le château de Persan, comme beaucoup de châteaux du XVIIe siècle, témoignait de la révolution intellectuelle et artistique de l'époque, de la recherche de la beauté sous toutes ses formes. Dans un texte en ancien français, trouvé dans les Preuves pour l’Ordre de Malte[réf. non conforme], un château y est décrit de la façon suivante: « … fort noble et ancien, accompagné de grands cors d’hostels, […]",
+  "Lieu « Gare de Persan - Beaumont » : La gare de Persan - Beaumont est une gare ferroviaire française positionnée à l'intersection de la ligne d'Épinay - Villetaneuse au Tréport - Mers et de la ligne de Pierrelaye à Creil.",
+  "Lieu « Gare de Persan - Beaumont », 1877 : La ligne Épinay – Persan - Beaumont via Montsoult est ouverte par la compagnie des chemins de fer du Nord le 5 avril 1877 .",
+  "Lieu « Gare de Persan - Beaumont », 1944 : Le premier, datant de l'ouverture de la ligne, a été détruit par les bombardements d'août 1944.",
+  "Lieu « Gare de Persan - Beaumont », 1955 : Remplacé par un nouvel édifice en 1955, qui s'est révélé inadapté, il a été remplacé par l'actuel à l'occasion de l'électrification de la ligne Paris - Beauvais.",
+  "Lieu « Gare de Persan - Beaumont », aujourd'hui : Les anciennes installations vapeur ont été détruites après la fin de l'exploitation vapeur sur le réseau de Paris-Nord et en Île-de-France (12 mai 1970) ; à leur emplacement, se trouve un parking."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

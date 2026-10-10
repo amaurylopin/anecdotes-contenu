@@ -1,0 +1,184 @@
+{
+ "commune": {
+  "titre": "Écouen",
+  "code_insee": "95205",
+  "departement": "95",
+  "population": 7202,
+  "lat": 49.0167,
+  "lon": 2.3833,
+  "url": "https://fr.wikipedia.org/wiki/%C3%89couen"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:30",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1839,
+  "sortie": 1244
+ },
+ "cout_usd": 0.001923,
+ "accroche": "En 632, le bon roi Dagobert fait don de la terre et seigneurie d’Écouen à la basilique Saint-Denis, un village nommé Iticiniscoam.",
+ "histoire": {
+  "recit": "À Écouen, une butte-témoin domine la plaine de France, prolongeant la vallée de Montmorency. Très tôt, le lieu est attesté : dès le XIIe siècle, on y mentionne un castel des Montmorency, aujourd’hui disparu.\n\nLe château, lui, prend toute la lumière. Construit à partir de 1538 par le connétable Anne de Montmorency, il s’élève sur une butte offrant un panorama, et abrite ensuite le musée national de la Renaissance. Au même endroit, l’histoire se heurte : en 1787, l’aile orientale du château est détruite, et certaines œuvres d’art se retrouvent perdues dans la forêt ou dans la ville.\n\nLa vie locale suit aussi son cours : en 1844, Pierre-Joseph Charrin s’installe à Écouen et y meurt le 25 avril 1863. En 1940, la reddition de Paris est signée à Écouen. Plus tard, à partir de 1977, la commune se transforme avec l’ouverture du musée, puis, dès les années 1980, des rénovations et de nouveaux quartiers.",
+  "chronologie": [
+   {
+    "date": "632",
+    "texte": "Le bon roi Dagobert fait don de la terre et seigneurie d’Écouen à la basilique Saint-Denis ; le village est alors nommé Iticiniscoam.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Mention d’un castel appartenant aux Montmorency à Écouen, aujourd’hui disparu.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1538-1555",
+    "texte": "Le château d’Écouen, construit par Anne de Montmorency, s’inscrit entre 1538 et 1555 ; il abrite le musée national de la Renaissance.",
+    "sources": [
+     "S1",
+     "S10"
+    ]
+   },
+   {
+    "date": "1787",
+    "texte": "L’aile orientale du château d’Écouen est détruite en 1787, et plusieurs fresques et œuvres d’art disparaissent avant d’être retrouvées partiellement.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1844",
+    "texte": "Pierre-Joseph Charrin s’installe à Écouen dans une maison bâtie en 1784, et y demeure jusqu’à sa mort.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "25 avril 1863",
+    "texte": "Pierre-Joseph Charrin décède à Écouen.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "La reddition de Paris est signée à Écouen.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1977",
+    "texte": "Le musée national de la Renaissance ouvre ses portes ; la transformation urbaine s’accélère au mandat de Bernard Angels depuis 1977.",
+    "sources": [
+     "S12",
+     "S7"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "La forêt d’Écouen est amputée de trois hectares pour la construction du fort d’Écouen.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1831-1895",
+    "texte": "Le cimetière d’Écouen ouvre en 1831 après la fermeture du cimetière paroissial, puis est agrandi en 1895.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "depuis les années 1980",
+    "texte": "Des bâtiments à l’abandon sont rénovés et de nouveaux quartiers sont créés, avec notamment la rénovation de l’église et la création du quartier du Mail.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château d'Écouen",
+   "histoire": "Château du XVIe siècle situé à Écouen, il abrite depuis 1977 le musée national de la Renaissance.",
+   "anecdotes": [
+    {
+     "texte": "On dit qu’Anne de Montmorency aurait été enterré à Écouen : l’un des collèges de la ville porte encore son nom.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9"
+   ],
+   "lat": 49.0175,
+   "lon": 2.378333,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27%C3%89couen"
+  },
+  {
+   "nom": "Forêt d'Écouen",
+   "histoire": "Massif forestier de 105 hectares situé à Écouen, dans le Val-d’Oise, à 15 km au nord de Paris.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14"
+   ],
+   "lat": 49.01682,
+   "lon": 2.374163,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_d%27%C3%89couen"
+  },
+  {
+   "nom": "Cimetière d'Écouen",
+   "histoire": "Cimetière communal de la ville d’Écouen.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 49.0139,
+   "lon": 2.384,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_d%27%C3%89couen"
+  }
+ ],
+ "sources": [
+  "Écouen est une commune française située dans le département du Val-d'Oise, en région Île-de-France. Située à environ 19 km au nord de Paris et à 15 km de l'aéroport Roissy-Charles-de-Gaulle, elle compte environ 7 300 habitants. La ville est connue pour son château, qui abrite le musée national de la Renaissance, construit par le connétable Anne de Montmorency, entre 1538 et 1555 Ses habitants sont appelés les […]",
+  "La colline d'Écouen est une butte-témoin dominant la plaine de France. Placée entre le synclinal de Saint-Denis et l'anticlinal du pays de Bray, elle prolonge au sud-est la vallée de Montmorency dont elle est séparée par la vallée du Petit Rosne. En 632 : « Le bon roi Dagobert a fait présent de la terre et seigneurie d'Écouen à la basilique Saint-Denis. Ce village offert se nomme alors : Iticiniscoam. Il réunissait […]",
+  "XIIe siècle : Dès le XIIe siècle, il est fait mention d'un castel appartenant aux Montmorency à Écouen, mais il ne nous est pas parvenu de description de cet édifice aujourd'hui disparu.",
+  "XVIe siècle : L'église Saint-Acceul date également du XVIe siècle, elle est élevée, ainsi que plusieurs autres bâtiments (les écuries du château, la grange dîmière…) juste en contrebas du château, ce qui est aujourd'hui le centre-ville d'Écouen.",
+  "1844 : En 1844, Pierre-Joseph Charrin s'installe à Écouen dans une maison bâtie en 1784 pour Adeline, de la Comédie italienne, et y demeure jusqu'à sa mort survenue le 25 avril 1863.",
+  "1940 : En 1940 la reddition de Paris est signée à Écouen.",
+  "1977 : Plus largement, la ville s'est transformée pendant le mandat de Bernard Angels (maire de la commune depuis 1977).",
+  "1980 : De nombreux bâtiments à l'abandon ont été rénovés et de nouveaux quartiers ont été créés (depuis les années 1980 : plusieurs rénovations de l'église, création du quartier du Mail, rénovation du manoir des Tourelles, rénovation de la grange à dîmes puis des écuries, ouverture d'une bibliothèque, ouverture d'un centre socio-culturel, création d'une nouvelle école…).",
+  "Lieu « Château d'Écouen » : Le château d'Écouen est un château du XVIe siècle, situé dans le Val-d'Oise, qui abrite depuis 1977 le musée national de la Renaissance.",
+  "Lieu « Château d'Écouen », 1538 : Situé sur une butte offrant un panorama sur la plaine de France, le château d'Écouen fut construit à partir de 1538 par le connétable de France, Anne de Montmorency (au service de François Ier puis d'Henri II).",
+  "Lieu « Château d'Écouen », 1787 : L'aile orientale fut détruite en 1787 par les Condé, faisant disparaître de nombreuses fresques et œuvres d'art, dont une partie fut retrouvée dans la forêt ou dans la ville.",
+  "Lieu « Château d'Écouen », 1977 : Après d'importants travaux, le musée ouvre ses portes en 1977, inauguré par le président Valéry Giscard d'Estaing.",
+  "Lieu « Château d'Écouen », aujourd'hui : Il aurait été enterré à Écouen, et aujourd'hui l'un des 3 collèges de la ville porte encore son nom.",
+  "Lieu « Forêt d'Écouen » : La forêt d'Écouen est un massif forestier de 105 hectares situé à Écouen, dans le Val-d'Oise, à 15 km au nord de Paris.",
+  "Lieu « Forêt d'Écouen », 1875 : Le massif est amputé de trois hectares pour la construction du fort d'Écouen en 1875, ouvrage défensif construit à la suite de la défaite de 1870.",
+  "Lieu « Cimetière d'Écouen » : Le cimetière d'Écouen est le cimetière communal de la ville d'Écouen située dans le Val-d'Oise.",
+  "Lieu « Cimetière d'Écouen », 1831 : Le cimetière d'Écouen, ouvert en 1831 à l'écart du village après la fermeture du cimetière paroissial jugé insalubre et transformé en verger, a été agrandi en 1895."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

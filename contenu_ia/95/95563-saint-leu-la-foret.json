@@ -1,0 +1,206 @@
+{
+ "commune": {
+  "titre": "Saint-Leu-la-Forêt",
+  "code_insee": "95563",
+  "departement": "95",
+  "population": 16138,
+  "lat": 49.0173,
+  "lon": 2.2465,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Leu-la-For%C3%AAt"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:22:30",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1947,
+  "sortie": 1357
+ },
+ "cout_usd": 0.002086,
+ "accroche": "En 1645, deux châteaux existent déjà à Saint-Leu : le château du Haut est édifié, puis le château du Bas est construit en 1693. ",
+ "histoire": {
+  "recit": "Saint-Leu-la-Forêt, dans la vallée de Montmorency, vit au rythme de ses sentes anciennes, faites pour circuler entre jardins et, autrefois, pour relier les habitants à la maladrerie de La Chaumette. Longtemps, la cité n’est qu’une clairière de bûcheron, et l’on sait peu de son histoire au Moyen Âge.\n\nAu XVIIe siècle, la seigneurie se lit dans l’architecture : le château du Haut est édifié en 1645, puis le château du Bas voit le jour en 1693. Plus tard, Louis Bonaparte acquiert les deux domaines en 1804 et fait démolir le château du Haut pour s’installer au Bas, avec Hortense de Beauharnais.\n\nL’histoire du village bascule aussi avec la gare : la ligne Paris - Lille est ouverte en 1846, puis la jonction via Saint-Leu-la-Forêt ouvre en 1876. Enfin, l’église Saint-Leu-Saint-Gilles a connu plusieurs reconstructions, avec une église primitive démolie en 1686 et un nouvel édifice consacré en 1690, dont la reconstruction est ordonnée en 1851.",
+  "chronologie": [
+   {
+    "date": "1645",
+    "texte": "Édification du château du Haut à Saint-Leu, à l’emplacement du château seigneurial des Montmorency.",
+    "sources": [
+     "S3",
+     "S7"
+    ]
+   },
+   {
+    "date": "1693",
+    "texte": "Construction du château du Bas sur le fief d’Ort.",
+    "sources": [
+     "S3",
+     "S7"
+    ]
+   },
+   {
+    "date": "1804",
+    "texte": "Louis Bonaparte acquiert les deux châteaux et fait démolir le château du Haut ; il s’installe dans le domaine du Bas avec Hortense de Beauharnais.",
+    "sources": [
+     "S4",
+     "S7"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "Le château du Bas est rasé après la mort mystérieuse de Louis VI Henri de Bourbon-Condé.",
+    "sources": [
+     "S5",
+     "S8"
+    ]
+   },
+   {
+    "date": "1837",
+    "texte": "Le château est démoli en 1837 et le parc est loti.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "Ouverture de la ligne Paris - Lille.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1876",
+    "texte": "Ouverture de la jonction Ermont - Valmondois via Saint-Leu-la-Forêt.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "La ligne est doublée après avoir commencé à voie unique.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1851",
+    "texte": "Le président Louis-Napoléon Bonaparte ordonne la reconstruction de l’église, alors en ruine.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1686",
+    "texte": "L’emplacement de l’église est occupé par une église primitive jusqu’à sa démolition en 1686.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1690",
+    "texte": "Consécration de la nouvelle église Saint-Leu-Saint-Gilles, détruite au XIXe siècle pour laisser place à l’église actuelle.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Saint-Leu",
+   "histoire": "Avant la Révolution, Saint-Leu-la-Forêt compte deux châteaux : le château d’en haut, démoli et reconstruit au milieu du XVIIe siècle, puis le château d’en bas, construit en 1693. Le Haut est démoli en 1804, et le second est rasé en 1830 avant d’être ensuite démoli en 1837, avec lotissement du parc.",
+   "anecdotes": [
+    {
+     "texte": "Le 27 août 1830, le duc est retrouvé pendu à l’espagnolette de la fenêtre de sa chambre, au premier étage du château.",
+     "statut": "legende",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "La nature exacte de ce décès demeure un mystère de nos jours.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S3",
+    "S4",
+    "S5",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 49.019761,
+   "lon": 2.249153,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saint-Leu"
+  },
+  {
+   "nom": "Gare de Saint-Leu-la-Forêt",
+   "histoire": "La gare s’inscrit dans l’essor ferroviaire : la ligne Paris - Lille est ouverte en 1846, et la jonction Ermont - Valmondois via Saint-Leu-la-Forêt ouvre en 1876. Le bâtiment est ensuite remanié dans les années 1920, avec une salle des pas perdus et un toit coiffé d’une tour d’horloge.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 49.015565,
+   "lon": 2.242471,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Leu-la-For%C3%AAt"
+  },
+  {
+   "nom": "Église Saint-Leu-Saint-Gilles de Saint-Leu-la-Forêt",
+   "histoire": "L’emplacement accueille une église primitive à partir du XIIe siècle, démolie en 1686. Elle est remplacée par une autre église consacrée le 7 novembre 1690, puis détruite au XIXe siècle pour faire place à l’église actuelle. En 1851, le bâtiment tombe en ruine et une reconstruction est ordonnée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 49.018155555556,
+   "lon": 2.2453777777778,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Leu-Saint-Gilles_de_Saint-Leu-la-For%C3%AAt"
+  }
+ ],
+ "sources": [
+  "Saint-Leu-la-Forêt est une commune française du Val-d'Oise située en vallée de Montmorency à côté de Taverny et de Saint-Prix, à environ 20 km au nord de Paris. Ses habitants sont appelés les Saint-Loupiens, Saint-Loupiennes.",
+  "La ville comporte de nombreuses sentes, qui étaient destinées autrefois à la circulation des habitants entre les jardins (se référer au passé vinicole, fermier et maraîcher de la commune) ou aux lépreux. La cité n'a d'abord été qu'une clairière de bûcheron et l'on ne sait rien de son histoire au Moyen Âge, période à laquelle il existait une maladrerie au lieu-dit La Chaumette. Le village est une seigneurie des […]",
+  "1645 : Au XVIIe siècle, il y avait deux châteaux à Saint-Leu : en 1645 est édifié le château du Haut à l'emplacement du château seigneurial des Montmorency, puis en 1693 est construit le château du Bas sur le fief d'Ort.",
+  "1804 : Les deux sont acquis en 1804 par Louis Bonaparte, frère de Napoléon Ier, qui fait démolir le plus ancien, le château du Haut, et s'installe avec son épouse la Hortense de Beauharnais dans le domaine du Bas.",
+  "1830 : Le second château est rasé après la mort mystérieuse de Louis VI Henri de Bourbon-Condé, dernier des Condé, en 1830.",
+  "Lieu « Château de Saint-Leu » : Le château de Saint-Leu était situé à Saint-Leu-la-Forêt (Val-d'Oise, France).",
+  "Lieu « Château de Saint-Leu », 1645 : Avant la Révolution française, le village de Saint-Leu-la-Forêt comptait deux châteaux : le château d'en haut, démoli et reconstruit au milieu du XVIIe siècle (en 1645 par Charles Le Clerc de Lesseville, Conseiller au Grand Conseil, à l'emplacement du château seigneurial des Montmorency); le château d'en bas, construit en 1693 pour Lorieul de La Noue, secrétaire du roi.",
+  "Lieu « Château de Saint-Leu », 1830 : Le 27 août 1830, le duc fut retrouvé pendu (bien que les pieds touchaient le sol) à l'espagnolette de la fenêtre de sa chambre, au premier étage du château.",
+  "Lieu « Château de Saint-Leu », 1837 : Héritière du château, la baronne de Feuchères, en butte à l'hostilité locale après cet événement retentissant, ne tarda pas à le revendre, mais l'entretien du domaine s'avérant très coûteux, le château fut démoli en 1837 et le parc fut loti.",
+  "Lieu « Château de Saint-Leu », aujourd'hui : La nature exacte de ce décès demeure encore un mystère de nos jours.",
+  "Lieu « Gare de Saint-Leu-la-Forêt » : La gare de Saint-Leu-la-Forêt est une gare ferroviaire française de la ligne d'Ermont - Eaubonne à Valmondois, située dans la commune de Saint-Leu-la-Forêt (département du Val-d'Oise).",
+  "Lieu « Gare de Saint-Leu-la-Forêt », 1846 : La ligne Paris - Lille fut ouverte le 20 juin 1846 par la Compagnie des chemins de fer du Nord.",
+  "Lieu « Gare de Saint-Leu-la-Forêt », 1876 : La jonction Ermont - Valmondois via Saint-Leu-la-Forêt est ouverte en 1876, d'abord à voie unique, puis est doublée en 1889.",
+  "Lieu « Gare de Saint-Leu-la-Forêt », 1920 : Dans les années 1920, ce bâtiment est remanié, créant au centre de l'aile basse une grande salle des pas perdus au toit coiffé d'une tour d'horloge.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Saint-Leu-la-Forêt » : L'église Saint-Leu-Saint-Gilles est une église située à Saint-Leu-la-Forêt, en Val-d'Oise, France.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Saint-Leu-la-Forêt », 1686 : L'emplacement est occupé à partir du XIIe siècle par une église primitive, située sur les hauteurs en forêt de Montmorency et démolie en 1686.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Saint-Leu-la-Forêt », 1690 : Elle est remplacée par une autre église, consacrée le 7 novembre 1690 et détruite au XIXe siècle pour faire place à l'église actuelle.",
+  "Lieu « Église Saint-Leu-Saint-Gilles de Saint-Leu-la-Forêt », 1851 : Le bâtiment tombe alors en ruine : en 1851, le président Louis-Napoléon Bonaparte, futur Napoléon III, en ordonne la reconstruction."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

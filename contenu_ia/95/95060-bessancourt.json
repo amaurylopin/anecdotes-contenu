@@ -1,0 +1,214 @@
+{
+ "commune": {
+  "titre": "Bessancourt",
+  "code_insee": "95060",
+  "departement": "95",
+  "population": 8869,
+  "lat": 49.0333,
+  "lon": 2.2167,
+  "url": "https://fr.wikipedia.org/wiki/Bessancourt"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:08:40",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2151,
+  "sortie": 2010
+ },
+ "cout_usd": 0.002943,
+ "accroche": "Le clocher et la façade occidentale de l’Église Saint-Gervais-et-Saint-Protais de Bessancourt ont été achevés vers 1527, grâce à une inscription gravée.",
+ "histoire": {
+  "recit": "À Bessancourt, l’habitation commence très tôt : un pic en grès taillé remonte au Mésolithique, et le site passe pour faire partie des plus anciens lieux d’habitation du diocèse. Le village s’est d’abord développé au bord d’un ruisseau, au creux d’un vallon, au pied d’une colline boisée, avec des pentes ensoleillées qui favorisaient l’implantation.\n\nPlus tard, l’église tient le fil du temps : le village est érigé en paroisse en 1189, mais l’analyse architecturale n’autorise pas à remonter avant le milieu du XIIIe siècle pour les parties les plus anciennes. Vers 1527, le clocher et la façade occidentale sont achevés.\n\nAu tournant politique, le domaine de Maubuisson est vendu à la Révolution, et le premier conseil de la commune se tient le 7 février 1790. L’organisation communale change ensuite d’emplacement : en 1862, mairie et écoles s’installent près de la place et de l’ancien cimetière, puis les bâtiments sont démolis et reconstruits en 1878.\n\nEnfin, sur le territoire, la Plaine de Pierrelaye-Bessancourt et la Forêt de Maubuisson font l’actualité : depuis le début du XXIe siècle, la plaine est décrite comme fortement contaminée, et des affaires récentes concernent des déversements de terres et de déchets dans un bois.",
+  "chronologie": [
+   {
+    "date": "Mésolithique",
+    "texte": "Un pic en grès taillé constitue le plus ancien vestige archéologique connu sur le site.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1189",
+    "texte": "Le village est érigé en paroisse, même si les parties les plus anciennes de l’église ne remontent pas au-delà du milieu du XIIIe siècle d’après l’analyse architecturale.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1527",
+    "texte": "Le clocher et la façade occidentale de l’église sont achevés, une inscription gravée fournissant l’une des rares dates certaines.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Le domaine de Maubuisson est vendu ; le premier conseil de la commune se tient le 7 février 1790.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "Mairie et écoles s’installent dans des bâtiments près de la place et de l’ancien cimetière.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "Les bâtiments sont démolis et reconstruits : nouvelle mairie et nouvelle école.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2017",
+    "texte": "Le 23 mars 2017, le contrat d’intérêt national des Franges de la plaine de Pierrelaye est signé, avec des objectifs d’espace naturel et de projets d’aménagement.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2022",
+    "texte": "Le syndicat mixte d’aménagement décide de nommer la future forêt « forêt de Maubuisson ».",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "8 décembre 2024",
+    "texte": "Le journal Le Parisien rapporte que neuf personnes sont déférées pour avoir déversé des terres polluées et des déchets dans un bois depuis plusieurs années.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Gervais-et-Saint-Protais de Bessancourt",
+   "histoire": "Église catholique paroissiale, l’édifice s’inscrit dans une histoire de paroisse attestée en 1189. Toutefois, l’analyse de l’architecture ne permet pas de faire remonter la construction des parties les plus anciennes avant le milieu du XIIIe siècle. Le clocher et la façade occidentale sont achevés vers 1527, et, plus tard, le croisillon nord est rebâti dans un style de la Renaissance.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 49.03874,
+   "lon": 2.218135,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Gervais-et-Saint-Protais_de_Bessancourt"
+  },
+  {
+   "nom": "Plaine de Pierrelaye-Bessancourt",
+   "histoire": "Ancienne plaine agricole de maraîchage, la plaine est aussi un espace où se succèdent interdictions, implantations et projets d’aménagement. Depuis le début du XXIe siècle, elle est décrite comme l’un des problèmes sanitaires de l’Île-de-France en raison d’une forte contamination liée à des traces métalliques.",
+   "anecdotes": [
+    {
+     "texte": "Malgré les interdictions liées à la contamination en cours, une population de gens du voyage est présente sur le territoire depuis plus d’un siècle, avec une présence estimée entre 1300 et 1600 caravanes stationnées en permanence.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    },
+    {
+     "texte": "Le projet d’aménagement prévoit aussi des solutions de relogement des gens du voyage installés sur la zone, pendant la transformation de l’espace naturel.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Depuis le début du XXIe siècle, la plaine est décrite comme un des problèmes sanitaires de l’Île-de-France à cause d’une forte contamination en traces métalliques.",
+   "sources": [
+    "S15"
+   ],
+   "lat": 49.0313,
+   "lon": 2.178,
+   "url": "https://fr.wikipedia.org/wiki/Plaine_de_Pierrelaye-Bessancourt"
+  },
+  {
+   "nom": "Forêt de Maubuisson",
+   "histoire": "La forêt de Maubuisson, dite parfois forêt de Pierrelaye, est présentée comme un massif forestier artificiel. Elle s’inscrit dans une démarche de reboisement et d’aménagement liée à la plaine de Pierrelaye et au domaine de Maubuisson.",
+   "anecdotes": [
+    {
+     "texte": "La première trace d’un projet de reboisement apparaît en novembre 1990 dans un tract de la section socialiste de Pierrelaye, sous la plume de Jean-Claude Szaleniec.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "En décembre 2024, huit hommes et trois femmes, issus d’un clan de gens du voyage, sont déférés pour avoir déversé des terres polluées et des déchets du bâtiment et des travaux publics dans un bois depuis plusieurs années.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S14",
+    "S18",
+    "S17"
+   ],
+   "lat": 49.035152,
+   "lon": 2.174052,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_de_Maubuisson"
+  },
+  {
+   "nom": "Gare de Bessancourt",
+   "histoire": "La gare de Bessancourt se situe sur le territoire de la commune et dépend de la ligne d’Ermont - Eaubonne à Valmondois. Elle s’inscrit dans l’ouverture de lignes ferroviaires plus larges autour de Paris et de Lille, puis dans l’extension vers Ermont et Valmondois.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 49.03576,
+   "lon": 2.209752,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bessancourt"
+  }
+ ],
+ "sources": [
+  "Bessancourt est une commune française située dans le département du Val-d'Oise, en région Île-de-France.",
+  "Le plus ancien vestige archéologique de Bessancourt est un pic en grès taillé remontant au Mésolithique. Le site de Bessancourt passe pour un des plus anciens lieux d’habitation du diocèse. Sa situation particulière, au creux d’un vallon niché au pied d’une colline boisée, présentant des pentes ensoleillées, ne pouvait que favoriser l’implantation humaine. Le village s’est d’abord développé au bord d’un ruisseau, le […]",
+  "1790 : À la Révolution, le domaine de Maubuisson est vendu, et le premier conseil de la commune se tient le 7 février 1790.",
+  "1862 : En 1862, mairie et écoles s’installent dans des bâtiments situés près de la place et de l’ancien cimetière.",
+  "1878 : Ces bâtiments seront démolis et reconstruits en 1878, avec une nouvelle mairie et une nouvelle école.",
+  "Lieu « Église Saint-Gervais-et-Saint-Protais de Bessancourt » : L'église Saint-Gervais-et-Saint-Protais est une église catholique paroissiale située à Bessancourt, en France.",
+  "Lieu « Église Saint-Gervais-et-Saint-Protais de Bessancourt », 1189 : Bien que le village ait été érigé en paroisse en 1189, l'analyse de l'architecture de l'église ne permet pas de faire remonter la construction des parties les plus anciennes, le chœur et le transept, beaucoup avant le milieu du XIIIe siècle.",
+  "Lieu « Église Saint-Gervais-et-Saint-Protais de Bessancourt », 1527 : Le clocher et la façade occidentale ont été achevés vers 1527, l'une des rares dates connues avec certitude grâce à une inscription gravée.",
+  "Lieu « Église Saint-Gervais-et-Saint-Protais de Bessancourt », XVIe siècle : Ultérieurement, peu avant ou après le milieu du XVIe siècle, le croisillon nord est entièrement bâti à neuf dans le style de la Renaissance.",
+  "Lieu « Église Saint-Gervais-et-Saint-Protais de Bessancourt », aujourd'hui : Seule l'élévation nord de l'édifice est moins bien visible et donne en partie sur la maison paroissiale, près du croisillon nord.",
+  "Lieu « Plaine de Pierrelaye-Bessancourt » : La plaine de Pierrelaye-Bessancourt est une ancienne plaine agricole de maraichage de 2 000 hectares située dans le département du Val-d'Oise, au Nord-ouest de Paris.",
+  "Lieu « Plaine de Pierrelaye-Bessancourt », 1300 : Malgré les interdictions en cours liées à la contamination de la plaine, une population de gens du voyage est présente sur le territoire depuis plus d'un siècle, cependant illégalement installée, pour un nombre estimé entre 1300 et 1600 caravanes actuellement stationnées en permanence .",
+  "Lieu « Plaine de Pierrelaye-Bessancourt », 2017 : Ainsi, le 23 mars 2017, le contrat d'intérêt national (CIN) des Franges de la plaine de Pierrelaye a été signé avec pour objectifs de créer un espace naturel grâce à l'implantation d'une forêt mais aussi des projets d'aménagement via l’accueil d'habitations en lisière de forêt au nombre de 8000 à 10 000 logements entre 2015 et 2030.",
+  "Lieu « Plaine de Pierrelaye-Bessancourt », 2022 : Ce projet comprend aussi des solutions de relogement des gens du voyage installés sur la zone.[évasif] En 2022, le syndicat mixte d’aménagement de la plaine de Pierrelaye décide de nommer la future forêt « forêt de Maubuisson », en référence au domaine de Maubuisson.",
+  "Lieu « Plaine de Pierrelaye-Bessancourt », aujourd'hui : Elle représente depuis le début du XXIe siècle un des problèmes sanitaires de l'Île-de-France en raison de sa forte contamination en éléments et traces métalliques, issus de l'épandage des eaux usées des égouts parisiens.",
+  "Lieu « Forêt de Maubuisson » : La forêt de Maubuisson, dite parfois aussi forêt de Pierrelaye, est un massif forestier artificiel de 1 340 ha située à une quinzaine de kilomètres au nord-ouest de Paris.",
+  "Lieu « Forêt de Maubuisson », 2024 : Le 8 décembre 2024, le journal Le Parisien rapporte que huit hommes et trois femmes, âgés de 19 à 74 ans, et issu d’un clan de gens du voyage ont été déférés trois jours auparavant devant le parquet de Pontoise pour avoir déversé des terres polluées et des déchets du bâtiments et des travaux publics dans un bois depuis plusieurs années.",
+  "Lieu « Forêt de Maubuisson », aujourd'hui : La première trace d’un projet de reboisement apparaît en novembre 1990 dans un tract de la section socialiste de Pierrelaye, sous la plume de Jean-Claude Szaleniec.",
+  "Lieu « Gare de Bessancourt » : La gare de Bessancourt est une gare ferroviaire française de la ligne d'Ermont - Eaubonne à Valmondois, située sur le territoire de la commune de Bessancourt dans le département du Val-d'Oise.",
+  "Lieu « Gare de Bessancourt », 1846 : La ligne Paris - Lille fut ouverte le 20 juin 1846 par la Compagnie des chemins de fer du Nord.",
+  "Lieu « Gare de Bessancourt », 1876 : La jonction Ermont - Valmondois via Saint-Leu-la-Forêt est ouverte en 1876, d'abord à voie unique, puis est doublée en 1889."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}

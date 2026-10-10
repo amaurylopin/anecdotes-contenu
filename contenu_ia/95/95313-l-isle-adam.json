@@ -1,0 +1,337 @@
+{
+ "commune": {
+  "titre": "L'Isle-Adam",
+  "code_insee": "95313",
+  "departement": "95",
+  "population": 12493,
+  "lat": 49.1167,
+  "lon": 2.2333,
+  "url": "https://fr.wikipedia.org/wiki/L%27Isle-Adam"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:39:44",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3557,
+  "sortie": 2718
+ },
+ "cout_usd": 0.004109,
+ "accroche": "En 865, le premier fort est érigé sur l’île du prieuré, non loin de Nogent, dans un but défensif sur la rive gauche de l’Oise.",
+ "histoire": {
+  "recit": "À L’Isle-Adam, l’Oise n’a jamais été qu’un décor : la rive gauche porte la ville et ses débuts remontent loin. Le territoire est occupé depuis les temps préhistoriques, avec des silex taillés mis au jour près de la rivière. Plus tard, le prieuré de l’île devient une pièce maîtresse : en 865, un fort y est élevé ; en 1014, le prieuré sert d’église jusqu’au transfert du culte à l’église de Nogent. \n\nLes seigneurs font ensuite monter la ville en puissance : en 1228, Ansel III fonde la léproserie Saint-Lazare, plus tard transformée en ferme. Le château fort connaît les crises : occupé par les Anglais en 1358, puis endommagé au moment du passage des ligueurs de Pontoise en 1591. \n\nLe XVIIe siècle pèse sur les pierres : deux incendies ravagent l’église et le château, et une nuit du 30 juin au 1er juillet 1669 laisse le château gravement abîmé. Il faut alors restaurer, tandis qu’au XVIIIe siècle la vie seigneuriale prend des allures de grand domaine de villégiature.\n\nAujourd’hui, on visite encore l’église Saint-Martin, le château de Stors, et même les îles habitées comme celle de la Cohue.",
+  "chronologie": [
+   {
+    "date": "865",
+    "texte": "Dans un but défensif, le premier fort est érigé sur l’île du prieuré, non loin du village de Nogent.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1014",
+    "texte": "Le prieuré construit sur l’île sert d’église jusqu’au transfert du culte à l’église de Nogent.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1228",
+    "texte": "Ansel III fonde la léproserie Saint-Lazare, transformée en ferme en 1668, puis aujourd’hui disparue.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1358",
+    "texte": "Le château fort est occupé par les Anglais, puis délivré dans l’année par les seigneurs du Vexin.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1567",
+    "texte": "François de Montmorency, seigneur de L’Isle-Adam, emprisonne François de Béthune au château en 1569.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1591",
+    "texte": "L’Isle-Adam est occupée et pillée par les ligueurs de Pontoise ; le château est endommagé.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1669",
+    "texte": "Dans la nuit du 30 juin au 1er juillet, le château est gravement endommagé par un incendie.",
+    "sources": [
+     "S27"
+    ]
+   },
+   {
+    "date": "1671",
+    "texte": "Les travaux de restauration du château commencent rapidement et sont achevés en 1671.",
+    "sources": [
+     "S28"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Les richesses des seigneurs permettent l’agrandissement d’un domaine de villégiature cynégétique et de plaisirs.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de L'Isle-Adam",
+   "histoire": "Première église paroissiale construite comme telle à L’Isle-Adam, elle s’inscrit dans un bourg plus récent que l’ancien village de Nogent. Son édification comme église de style Renaissance s’étend avec interruptions, sous la direction d’au moins deux architectes, et l’influence gothique demeure visible sur le plan et certains éléments du portail et des voûtes.",
+   "anecdotes": [
+    {
+     "texte": "Avant d’être transféré, le culte pouvait être entendu à la collégiale du prieuré Notre-Dame-et-Saint-Godegrand, fondé le 30 mai 1014.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "Une période de construction en “style Renaissance d’une grande homogénéité” s’organise entre 1487 et 1567, mais avec des interruptions, sous au moins deux architectes différents.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On peut encore y voir une influence gothique, notamment sur le plan, le portail occidental et les nervures des voûtes.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 49.111966,
+   "lon": 2.217627,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_L%27Isle-Adam"
+  },
+  {
+   "nom": "Château de Stors",
+   "histoire": "Au hameau de Stors, un château fort est attesté dès le XIVe siècle et habité en 1435. L’édifice actuel est construit au début du XVIIIe siècle sur les fondations de l’ancien château. Il est ensuite embelli au XVIIIe siècle, et sa silhouette a souffert d’un bombardement durant la Seconde Guerre mondiale.",
+   "anecdotes": [
+    {
+     "texte": "L’habitation du château fort est attestée en 1435 par Jean de Saint-Benoit.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Le château actuel est édifié au début du XVIIIe siècle “peut-être vers 1718”, au moment du premier mariage de l’arrière-petit-fils d’Étienne Louis de L’Aubespine.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "Embelli par Pierre Contant d’Ivry pour le prince de Conti, l’ensemble est sévèrement endommagé par un bombardement.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S22",
+    "S23"
+   ],
+   "lat": 49.08972,
+   "lon": 2.20917,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Stors"
+  },
+  {
+   "nom": "Château de L'Isle-Adam",
+   "histoire": "Sur l’île du Prieuré, le château se rattache à l’histoire défensive du site. Il subit des coups répétés : occupé par les Anglais en 1358, endommagé lors du pillage de 1591, puis gravement atteint par un incendie dans la nuit du 30 juin au 1er juillet 1669. Les restaurations commencent vite et s’achèvent en 1671.",
+   "anecdotes": [
+    {
+     "texte": "Pour stopper l’invasion normande, des châteaux-forts ont été construits, et celui de l’emplacement actuel de la ville de L’Isle-Adam est mentionné comme proche d’un prieuré sur un acte de 1069.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S29"
+     ]
+    },
+    {
+     "texte": "Dans la nuit du 30 juin au 1er juillet 1669, le château est gravement endommagé par un incendie, avant une restauration menée en un temps court jusqu’en 1671.",
+     "statut": "etabli",
+     "sources": [
+      "S27",
+      "S28"
+     ]
+    },
+    {
+     "texte": "En 1358, le château fort est tenu par les Anglais, puis rendu dans l’année par les seigneurs du Vexin.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S6",
+    "S27",
+    "S28"
+   ],
+   "lat": 49.1143,
+   "lon": 2.2108,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_L%27Isle-Adam"
+  },
+  {
+   "nom": "Forêt de L'Isle-Adam",
+   "histoire": "Massif forestier de 1 548 hectares dans le Val-d’Oise, la forêt de L’Isle-Adam s’étend à environ 25 km au nord de Paris. Elle a porté différents ensembles et histoires : un château des Bonshommes y est signalé, construit à l’emplacement d’un prieuré du XIIe siècle puis rapidement abandonné. \n\nPlus près de nous, certaines espèces ont disparu, et loup excepté, l’équilibre reste surtout visible en périphérie.",
+   "anecdotes": [
+    {
+     "texte": "Parmi les “espèces disparues”, la source mentionne notamment tous les grands cervidés (cerf et daim) et des mustélidés comme le blaireau, disparu dans les années 1980 du fait de la chasse.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le loup est noté à l’exception du renard qui subsiste en périphérie, et plusieurs espèces disparues sont listées.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 49.09568,
+   "lon": 2.2502,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_de_L%27Isle-Adam"
+  },
+  {
+   "nom": "Musée d'Art et d'Histoire Louis-Senlecq",
+   "histoire": "Le musée d’art et d’histoire Louis-Senlecq est un musée municipal à L’Isle-Adam, bénéficiant de l’appellation “Musée de France”. Il conserve aussi un fonds d’art graphique et des ensembles liés aux manufactures locales de la fin du XIXe siècle jusqu’aux années 1950. Son activité a repris après la Seconde Guerre mondiale, et l’établissement est inauguré en 1951.",
+   "anecdotes": [
+    {
+     "texte": "Le musée détient des dessins de Jules-Romain Joyant, surnommé le “Canaletto français”, et près de 200 sujets en terre cuite issus des productions des manufactures installées à L’Isle-Adam.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    },
+    {
+     "texte": "L’activité de l’association est interrompue durant la Seconde Guerre mondiale, puis reprend et mène à une inauguration du musée en 1951.",
+     "statut": "etabli",
+     "sources": [
+      "S37"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est un musée municipal à L’Isle-Adam, bénéficiant de l’appellation “Musée de France”.",
+   "sources": [
+    "S35"
+   ],
+   "lat": 49.112548,
+   "lon": 2.215991,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_et_d%27Histoire_Louis-Senlecq"
+  },
+  {
+   "nom": "Cimetière de L'Isle-Adam",
+   "histoire": "Le cimetière de L’Isle-Adam est inauguré en 1842. Son ouverture plus ancienne est liée à des dons : la source mentionne une superficie de 38 ares obtenue grâce aux dons d’Alfred Ducamp et de Mme Kapeler. Par la suite, des donateurs financent un agrandissement et la clôture, avec une place prévue pour une sépulture familiale.",
+   "anecdotes": [
+    {
+     "texte": "La création du terrain est reliée à des dons : 38 ares grâce à Alfred Ducamp et Mme Kapeler, propriétaires respectifs d’une maison de maître dans l’île du Prieuré et du château de Stors.",
+     "statut": "etabli",
+     "sources": [
+      "S40"
+     ]
+    },
+    {
+     "texte": "Le financement ultérieur prévoit 5 000 francs pour l’agrandissement et la clôture, et réserve au centre un emplacement de 120 m² pour une sépulture familiale.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il fait l’objet d’agrandissements et la source mentionne un emplacement réservé au centre pour une sépulture familiale.",
+   "sources": [
+    "S42"
+   ],
+   "lat": 49.1161,
+   "lon": 2.2264,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_L%27Isle-Adam"
+  },
+  {
+   "nom": "Île de la Cohue",
+   "histoire": "L’île de la Cohue est une des trois îles de l’Oise appartenant au territoire de la commune de L’Isle-Adam. Elle reste construite et habitée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’île de la Cohue est toujours construite et habitée aujourd’hui.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 49.113333,
+   "lon": 2.212222,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_la_Cohue"
+  }
+ ],
+ "sources": [
+  "L'Isle-Adam est une ville francilienne du centre nord du Val-d'Oise située sur la rive gauche de l'Oise à vingt-cinq kilomètres à vol d'oiseau au nord-nord-ouest des portes de Paris, une dizaine au nord-est de Pontoise et trente-cinq au sud de Beauvais. Elle forme avec Parmain, commune voisine de la rive droite de l'Oise, une petite agglomération d'environ 16 000 habitants. Ses habitants sont appelés les Adamois. […]",
+  "Le territoire adamois est occupé depuis les temps préhistoriques. L'abbé Breuil (1867-1961), éminent préhistorien, découvre au début du vingtième siècle des silex taillés de la période paléolithique aux abords de l'Oise. Par ailleurs, des monuments de la période néolithique constellent la région autour de L'Isle-Adam, à Parmain, Presles, en forêt de Carnelle ou dans le bois de la Tour du Lay. Des sépultures de l'âge […]",
+  "865 : Dans un but défensif, le premier fort sur l'île du prieuré est érigé en 865, non loin du village de Nogent.",
+  "1014 : Le prieuré construit sur l'île en 1014 sert d'église jusqu'en 1300, date du transfert du culte à l'église de Nogent.",
+  "1228 : Ansel III, premier seigneur à utiliser le nom de L'Isle-Adam, fonde la léproserie Saint-Lazare en 1228, transformée en ferme en 1668 et aujourd'hui disparue (elle était située au niveau de l'actuel numéro 54 de la rue Saint-Lazare.",
+  "1358 : Le château fort est occupé par les Anglais en 1358, puis délivré dans l'année par les seigneurs du Vexin.",
+  "1510 : Une fois majeur, Charles de Villiers (seigneur de 1510 à 1527) profite du concordat signé entre François Ier et le pape Léon X pour être nommé abbé commendataire de l'abbaye du Val et évêque de Limoges.",
+  "1567 : À la suite de la bataille de Jarnac, François de Montmorency, fils du grand connétable et seigneur de L'Isle-Adam de 1567 à 1579, emprisonne François de Béthune, père de Sully, au château de L'Isle-Adam en 1569.",
+  "1591 : Une dernière fois, L'Isle-Adam est occupée et pillée par les ligueurs de Pontoise en 1591, le château est endommagé à cette occasion.",
+  "1632 : En révolte contre Richelieu et l'autorité royale, Henri II de Montmorency est exécuté à Toulouse en 1632.",
+  "1633 : Construite au XIIe siècle, reconstruite en 1633, la chapelle de Stors est consacrée à Sainte Madeleine, la sainte patronne de la ville.",
+  "1650 : Alors que ce dernier était seigneur de L'Isle-Adam, de 1650 à 1672, deux incendies ravagent l'église saint Martin en 1661 et le château en 1669.",
+  "1669 : Il fait démolir les restes du château fort ayant survécu aux travaux des Montmorency et à l'incendie de 1669 et remplace la vieille tour féodale par un pavillon de conciergerie.",
+  "XVIIIe siècle : Les richesses de ses seigneurs permettent au cours des XVIIe et XVIIIe siècles l'agrandissement et l'édification d'un domaine de villégiature cynégétique et de plaisirs qui rivalise avec Chantilly en faste et en élégance.",
+  "Lieu « Église Saint-Martin de L'Isle-Adam » : L'église Saint-Martin est une église catholique paroissiale située à L'Isle-Adam [95290], en France.",
+  "Lieu « Église Saint-Martin de L'Isle-Adam », 862 : L'église Saint-Martin est la première église paroissiale de L'Isle-Adam construite comme telle, le bourg étant d'origine plus récent que l'ancien village de Nogent mentionné dès 862 et possédant une église paroissiale depuis une époque fort reculée.",
+  "Lieu « Église Saint-Martin de L'Isle-Adam », 1014 : Les habitants de L'Isle-Adam pouvaient toutefois écouter la messe à la collégiale du prieuré Notre-Dame-et-Saint-Godegrand fondé le 30 mai 1014 par Adam Ier de L'Isle.",
+  "Lieu « Église Saint-Martin de L'Isle-Adam », 1487 : C'est une église de style Renaissance d'une grande homogénéité, édifiée entre 1487 et 1567 avec des interruptions, sous la direction d'au moins deux architectes différents.",
+  "Lieu « Église Saint-Martin de L'Isle-Adam », aujourd'hui : L'influence gothique demeure encore visible en ce qui concerne le plan, la structure du portail occidental et les nervures des voutes.",
+  "Lieu « Château de Stors » : Le château de Stors est un château français du XVIIIe siècle situé au hameau de Stors sur la commune de L'Isle-Adam dans le département du Val-d'Oise et la région d'Île-de-France, sur les coteaux de la vallée de l'Oise (rive gauche).",
+  "Lieu « Château de Stors », 1435 : Un château fort, construit sur le coteau, est attesté dès le XIVe siècle et il est habité en 1435 par Jean de Saint-Benoit.",
+  "Lieu « Château de Stors », 1718 : L'édifice actuel est construit au début du XVIIIe siècle sur les fondations de l'ancien château, peut-être vers 1718 à l'occasion du premier mariage de son arrière-petit-fils, Étienne Louis de L’Aubespine (1691-1768), marquis de Verderonne, avec Françoise de Grolée de Viriville (1691-1754).",
+  "Lieu « Château de Stors », XVIIIe siècle : Construit au début du XVIIIe siècle et embelli par Pierre Contant d'Ivry pour le prince de Conti, le château a été sévèrement endommagé par un bombardement durant la Seconde Guerre mondiale.",
+  "Lieu « Château de Stors », aujourd'hui : Au XIXe siècle, il s'étendait jusque sur l'autre rive de la rivière, le potager se trouvant sur le territoire de ce qui est aujourd'hui la commune de Butry-sur-Oise.",
+  "Lieu « Château de L'Isle-Adam » : Le château de L'Isle-Adam se trouvait à L'Isle-Adam (Val-d'Oise) sur l'île du Prieuré.",
+  "Lieu « Château de L'Isle-Adam », 1632 : En révolte contre l'autorité royale, Henri II de Montmorency est exécuté à Toulouse en 1632.",
+  "Lieu « Château de L'Isle-Adam », 1669 : Dans la nuit du 30 juin au 1er juillet 1669, le château est gravement endommagé par un incendie.",
+  "Lieu « Château de L'Isle-Adam », 1671 : Les travaux de restauration commencent rapidement et sont achevés en 1671.",
+  "Lieu « Château de L'Isle-Adam », aujourd'hui : Pour stopper l'invasion normande, le roi de France fit construire des châteaux-forts, tel celui qui fut construit en 825 sur la plus longue des deux îles de l'Oise à l'emplacement actuel de la ville de L'Isle-Adam, près du village de Nogent et qui est mentionné sur un acte de 1069 comme situé à proximité d'un prieuré.",
+  "Lieu « Forêt de L'Isle-Adam » : La forêt de L'Isle-Adam est un massif forestier de 1 548 hectares situé dans le Val-d'Oise, à 25 km au nord de Paris.",
+  "Lieu « Forêt de L'Isle-Adam », XIIe siècle : Le château des Bonshommes, construit à l'emplacement d'un prieuré du XIIe siècle, fut rapidement abandonné.",
+  "Lieu « Forêt de L'Isle-Adam », 1893 : Le château des Forgets : Il a été construit en 1893 pour Geoges Manchez, rédacteur au journal Le Temps.",
+  "Lieu « Forêt de L'Isle-Adam », 1944 : Elle fut déplacée provisoirement en 1944 pour la protéger des bombardements alliés (sur la RD 922 près du centre commercial).",
+  "Lieu « Forêt de L'Isle-Adam », aujourd'hui : Parmi les espèces disparues, on note tous les grands cervidés (cerf et daim), tous les mustélidés (blaireau, disparu dans les années 1980 du fait de la chasse et notamment du gazage, martre et belette), les canidés (loup) à l'exception du renard qui subsiste en périphérie de la forêt.",
+  "Lieu « Musée d'Art et d'Histoire Louis-Senlecq » : Le musée d'art et d'histoire Louis-Senlecq est un musée municipal français, bénéficiant de l'appellation \"Musée de France\", situé à L'Isle-Adam (Val-d'Oise).",
+  "Lieu « Musée d'Art et d'Histoire Louis-Senlecq », 1803 : Le musée possède également un fonds d'art graphique dont des dessins de Jules-Romain Joyant (1803-1854), surnommé le Canaletto français, et près de 200 sujets en terre cuite issus de la production des manufactures installées à L'Isle-Adam de la fin du XIXe siècle aux années 1950.",
+  "Lieu « Musée d'Art et d'Histoire Louis-Senlecq », 1951 : Interrompue durant la Seconde Guerre mondiale, l’activité de l’association reprend dans les années 50 et le musée est inauguré en 1951.",
+  "Lieu « Musée d'Art et d'Histoire Louis-Senlecq », 2016 : Paysages 2016 : Claude Viseux (1927-2008) - La réalité transformée 2017 : Olivier Verley.",
+  "Lieu « Cimetière de L'Isle-Adam » : Le cimetière de L'Isle-Adam est un cimetière situé dans la commune de L'Isle-Adam (France), inauguré en 1842.",
+  "Lieu « Cimetière de L'Isle-Adam », 1832 : Il est ouvert en 1832 sur une superficie de 38 ares grâce aux dons d’Alfred Ducamp, propriétaire d’une maison de maître dans l’île du Prieuré, et de Mme Kapeler, propriétaire du château de Stors.",
+  "Lieu « Cimetière de L'Isle-Adam », 1842 : Le cimetière de L'Isle-Adam est un cimetière situé dans la commune de L'Isle-Adam (France), inauguré en 1842.",
+  "Lieu « Cimetière de L'Isle-Adam », aujourd'hui : Elles donnent 5 000 francs pour l’agrandissement et la clôture du cimetière, et se réservent au centre de ce terrain un emplacement de 120 m2 pour y établir une sépulture familiale.",
+  "Lieu « Île de la Cohue » : L'île de la Cohue est une des trois îles de l'Oise faisant partie du territoire de la commune de L'Isle-Adam (Val-d'Oise).",
+  "Lieu « Île de la Cohue », aujourd'hui : L'île est toujours construite et habitée aujourd'hui."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 13
+ }
+}

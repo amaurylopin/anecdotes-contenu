@@ -1,0 +1,167 @@
+{
+ "commune": {
+  "titre": "Groslay",
+  "code_insee": "95288",
+  "departement": "95",
+  "population": 8453,
+  "lat": 48.9833,
+  "lon": 2.35,
+  "url": "https://fr.wikipedia.org/wiki/Groslay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:42",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1299,
+  "sortie": 1262
+ },
+ "cout_usd": 0.001837,
+ "accroche": "En 1520, l’ancienne nef de l’Église Saint-Martin de Groslay est reconstruite de la première à la quatrième travée.",
+ "histoire": {
+  "recit": "À Groslay, le destin commence avec un premier seigneur, Odon ou Éudes de Groslay, vers la fin du XIe siècle. Le village passe ensuite, au XIIIe siècle, dans le jeu des fiefs des Montmorency, puis des Condé au XVIIe siècle. Longtemps, l’économie s’appuie sur la vigne et le maraîchage, avant que la culture du poirier prenne son essor à partir de 1860 et que la commune change au début du XXe siècle. Au cœur du bourg, l’Église Saint-Martin garde les traces de plusieurs chantiers : l’édifice actuel est daté du XIIIe siècle, puis la nef est refaite en 1520, et un porche est ajouté vers 1750 pour répondre à un clocher jugé insuffisamment solide. Plus loin, la Gare de Groslay s’inscrit dans l’ouverture de la ligne en 1877, reliant Épinay et Persan-Beaumont, avec un embranchement vers Luzarches en 1880.",
+  "chronologie": [
+   {
+    "date": "fin du XIe siècle",
+    "texte": "Odon ou Éudes de Groslay apparaît comme le premier seigneur de Groslay.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le village devient un fief des Montmorency, et l’église Saint-Martin est attribuée au XIIIe siècle pour l’édifice actuel.",
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Groslay passe sous les fiefs des Condé.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "à partir de 1860",
+    "texte": "La culture du poirier se développe à Groslay.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début du XXe siècle",
+    "texte": "La commune connaît une évolution comparable à celle du village voisin de Montmorency.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "L’église Saint-Martin de Groslay est située, pour l’édifice actuel, au XIIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1520",
+    "texte": "L’ancienne nef est reconstruite de la première à la quatrième travée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "vers 1750",
+    "texte": "Devant le portail sud, un porche à deux arcades est bâti pour pallier un manque de solidité du clocher.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Des vestiges de l’église romane précédente pourraient subsister dans la base du clocher, correspondant à la quatrième travée du bas-côté sud.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1877",
+    "texte": "La ligne Épinay - Persan - Beaumont via Montsoult est ouverte par la compagnie des chemins de fer du Nord.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1880",
+    "texte": "L’embranchement Montsoult - Luzarches est ouvert.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Groslay",
+   "histoire": "L’église Saint-Martin est une église catholique paroissiale à Groslay. L’édifice actuel est daté du XIIIe siècle, et l’ancienne nef fait l’objet d’une reconstruction en 1520, de la première à la quatrième travée. Vers 1750, un porche à deux arcades est ajouté devant le portail sud, précisément pour répondre au manque de solidité du clocher. Une église romane a donc dû exister auparavant, et des vestiges pourraient se trouver dans la base du clocher, identifiée à la quatrième travée du bas-côté sud.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1750, le porche n’est pas seulement un embellissement : il est bâti parce que le clocher manque de solidité.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.987332,
+   "lon": 2.343767,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Groslay"
+  },
+  {
+   "nom": "Gare de Groslay",
+   "histoire": "La Gare de Groslay est une gare ferroviaire située dans la commune de Groslay, sur la ligne d’Épinay - Villetaneuse au Tréport - Mers. Son inscription dans la grande desserte vient de l’ouverture, en 1877, de la ligne Épinay - Persan - Beaumont via Montsoult, puis de l’embranchement Montsoult - Luzarches en 1880.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 48.984485,
+   "lon": 2.353718,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Groslay"
+  }
+ ],
+ "sources": [
+  "Groslay [ɡʁolɛ] est une commune française située dans le département du Val-d'Oise, en région Île-de-France. Ses habitants sont appelés Groslaysiens.",
+  "Le premier seigneur de Groslay est Odon ou Éudes de Groslay à la fin du XIe siècle. Au XIIIe siècle, le village devient un fief des Montmorency, puis des Condé au XVIIe siècle. La commune vit essentiellement de la vigne et du maraîchage jusqu'au début du XXe siècle (la culture du poirier s'y développe à partir de 1860). Groslay connaît une évolution comparable au village voisin de Montmorency : construction de […]",
+  "Lieu « Église Saint-Martin de Groslay » : L'église Saint-Martin est une église catholique paroissiale située à Groslay, en France.",
+  "Lieu « Église Saint-Martin de Groslay », XIIIe siècle : L'abbé Lebeuf ne cite cas pas cette date et situe la construction de l'édifice actuel au XIIIe siècle.",
+  "Lieu « Église Saint-Martin de Groslay », 1520 : En 1520, l'ancienne nef est reconstruite, de la première à la quatrième travée.",
+  "Lieu « Église Saint-Martin de Groslay », 1750 : En réponse au manque de solidité du clocher, un porche à deux arcades est bâti devant le portail sud vers 1750, allant du centre de la seconde travée jusqu'à la quatrième travée.",
+  "Lieu « Église Saint-Martin de Groslay », aujourd'hui : Une église romane a donc dû exister au préalable, et des vestiges devraient en subsister dans la base du clocher, qui correspond à la quatrième travée du bas-côté sud.",
+  "Lieu « Gare de Groslay » : La gare de Groslay est une gare ferroviaire française de la ligne d'Épinay - Villetaneuse au Tréport - Mers, située dans la commune de Groslay (département du Val-d'Oise).",
+  "Lieu « Gare de Groslay », 1877 : La ligne Épinay - Persan - Beaumont via Montsoult fut ouverte par la compagnie des chemins de fer du Nord en 1877, l'embranchement Montsoult - Luzarches en 1880."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

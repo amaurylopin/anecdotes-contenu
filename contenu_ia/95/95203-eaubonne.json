@@ -1,0 +1,158 @@
+{
+ "commune": {
+  "titre": "Eaubonne",
+  "code_insee": "95203",
+  "departement": "95",
+  "population": 26211,
+  "lat": 49,
+  "lon": 2.2833,
+  "url": "https://fr.wikipedia.org/wiki/Eaubonne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:57:23",
+ "lieux_ecartes_autre_commune": 8,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1526,
+  "sortie": 1311
+ },
+ "cout_usd": 0.001944,
+ "accroche": "En 54 av. J.-C., la conquête romaine installe des routes militaires, dont la chaussée Jules César, qui traverse le territoire d’Eaubonne.",
+ "histoire": {
+  "recit": "Eaubonne, en Val-d’Oise, s’est urbanisée rapidement au XXe siècle, d’abord avec les lotissements puis avec les grands ensembles, si bien que sa population a fortement augmenté et que la commune est devenue une ville de banlieue résidentielle mêlant quartiers populaires et quartiers pavillonnaires.\n\nAvant l’urbanisation, le territoire entre tôt dans l’histoire : dès la période celtique, puis avec la conquête romaine, quand plusieurs routes militaires sont construites. La chaussée Jules César, qui relie Lutèce à Juliobona, traverse le territoire de la commune.\n\nParmi les repères bâtis, le Petit château d’Eaubonne est construit en 1736 pour Joseph Florent Le Normand de Mézières selon les plans de Claude-Nicolas Ledoux. Plus tard, en 1889, il accueille l’Institution des Enfants Arriérés de Gentilly, et ses dix hectares sont lotis à partir de 1928. En 1942, il est inscrit, puis seule sa façade nord est classée au titre des monuments historiques. Le reste est démoli en 1969 pour établir un centre de paiement de la sécurité sociale.\n\nAujourd’hui, Athlética anime le sport à Eaubonne : le centre accueille des stages et des événements pour divers organismes.",
+  "chronologie": [
+   {
+    "date": "54 av. J.-C.",
+    "texte": "La conquête romaine du pays s’accompagne de routes militaires, dont la chaussée Jules César, qui traverse le territoire d’Eaubonne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1736",
+    "texte": "Le Petit château d’Eaubonne est construit pour Joseph Florent Le Normand de Mézières, selon les plans de l’architecte Claude-Nicolas Ledoux.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "Le Petit château abrite l’Institution des Enfants Arriérés de Gentilly, avec de nouveaux bâtiments dans le parc.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1928",
+    "texte": "Les 10 hectares du parc du Petit château sont lotis à partir de 1928.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "juillet 1942",
+    "texte": "Le Petit château d’Eaubonne est d’abord inscrit en juillet 1942.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "27 juin 1967",
+    "texte": "Seule la façade nord du Petit château, d’inspiration gréco-romaine, est classée monument historique par arrêté du 27 juin 1967.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1969",
+    "texte": "Le reste de l’édifice du Petit château est démoli en 1969 pour établir un centre de paiement de la sécurité sociale.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "L’église Sainte-Marie prend ce nom en 1970 lors de la construction de l’Église Notre-Dame de l’Assomption à Eaubonne.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Petit château d'Eaubonne",
+   "histoire": "Construit en 1736 pour Joseph Florent Le Normand de Mézières selon les plans de Claude-Nicolas Ledoux, le Petit château change ensuite d’usage et s’inscrit dans l’histoire patrimoniale d’Eaubonne.",
+   "anecdotes": [
+    {
+     "texte": "En 1969, alors que seule la façade nord avait été classée, le reste de l’édifice est démoli pour installer un centre de paiement de la sécurité sociale.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 48.99049,
+   "lon": 2.27351,
+   "url": "https://fr.wikipedia.org/wiki/Petit_ch%C3%A2teau_d%27Eaubonne"
+  },
+  {
+   "nom": "Église Sainte-Marie d'Eaubonne",
+   "histoire": "Édifice affecté au culte catholique, l’église prend le nom d’église Sainte-Marie en 1970 lors de la construction de l’Église Notre-Dame de l’Assomption à Eaubonne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 48.992919,
+   "lon": 2.2787,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Marie_d%27Eaubonne"
+  },
+  {
+   "nom": "Centre départemental de formation et d'animation sportives",
+   "histoire": "Complexe sportif avec hébergement situé à Eaubonne, en limite de Saint-Gratien, il est devenu Athlética.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Athlética accueille notamment des stages de comités départementaux du Val-d’Oise et des ligues d’Île-de-France, et reste ouverte à des demandes d’autres organismes.",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 48.977041,
+   "lon": 2.27683,
+   "url": "https://fr.wikipedia.org/wiki/Centre_d%C3%A9partemental_de_formation_et_d%27animation_sportives"
+  }
+ ],
+ "sources": [
+  "Eaubonne est une commune française située dans le département du Val-d'Oise, en région Île-de-France. Ses habitants sont appelés les Eaubonnais. Rapidement urbanisée au XXe siècle avec la vogue des lotissements puis des grands ensembles, sa population fut multipliée par dix en un siècle et transforma la commune en ville de banlieue résidentielle conjuguant quartiers populaires et quartiers pavillonnaires. Avec 25 […]",
+  "Occupé dès la période celtique, le lieu entre dans l'histoire avec la conquête romaine du pays en 54 av. J.-C. À cette période, plusieurs routes militaires sont construites, dont celle qu'on surnommera plus tard la chaussée Jules César qui relie Lutèce (Paris) à Juliobona (Lillebonne - près du Havre) et qui traverse le territoire de la commune. Le nom actuel de la ville apparaît pour la première fois dans l'histoire […]",
+  "Lieu « Petit château d'Eaubonne » : Le Petit Château est un château situé à Eaubonne, dans le département du Val-d'Oise (Île-de-France).",
+  "Lieu « Petit château d'Eaubonne », 1736 : Le château a été construit pour Joseph Florent Le Normand de Mézières selon les plans de l'architecte Claude-Nicolas Ledoux (1736-1806), qui le décrit dans son ouvrage de 1804 L'Architecture considérée sous le rapport de l'art, des mœurs et de la législation.",
+  "Lieu « Petit château d'Eaubonne », 1889 : En 1889, le château abrite l'Institution des Enfants Arriérés de Gentilly avec de nouveaux bâtiments construits dans le parc ; les 10 hectares seront également lotis à partir de 1928.",
+  "Lieu « Petit château d'Eaubonne », 1942 : Il a d'abord été inscrit en juillet 1942 puis seule sa façade nord d'inspiration gréco-romaine a été classée monument historique par arrêté du 27 juin 1967 dans la perspective de la démolition du reste de l'édifice, qui a eu lieu en 1969 pour établir un centre de paiement de la sécurité sociale.",
+  "Lieu « Église Sainte-Marie d'Eaubonne » : L'église Sainte-Marie d'Eaubonne dans le Val-d'Oise, est un édifice affecté au culte catholique.",
+  "Lieu « Église Sainte-Marie d'Eaubonne », 1970 : En 1970, elle prend le nom d’église Sainte-Marie quand on construit l'Église Notre-Dame de l'Assomption à Eaubonne.",
+  "Lieu « Centre départemental de formation et d'animation sportives » : Le Centre départemental de formation et d'animation sportives du Val-d'Oise, (devenu Athlética), est un complexe sportif avec hébergement situé à Eaubonne, dans le Val-d'Oise en limite de Saint-Gratien.",
+  "Lieu « Centre départemental de formation et d'animation sportives », aujourd'hui : Athlética accueille prioritairement les stages des comités départementaux du Val d'Oise et des ligues d'Île-de-France mais il reste ouvert aux demandes émanant des fédérations nationales, internationales et autres organismes ; il reçoit également des évènements à la demande d'organismes divers et d'entreprises."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}
