@@ -1,0 +1,291 @@
+{
+ "commune": {
+  "titre": "Sens (Yonne)",
+  "code_insee": "89387",
+  "departement": "89",
+  "population": 27106,
+  "lat": 48.1978,
+  "lon": 3.2826,
+  "url": "https://fr.wikipedia.org/wiki/Sens_%28Yonne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:55:05",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3478,
+  "sortie": 2155
+ },
+ "cout_usd": 0.003389,
+ "accroche": "Le 21 août 1944, Sens est traversée en début d’après-midi par des troupes de la IIIe armée du général Patton, avant un départ le lendemain à l’aube vers l’est.",
+ "histoire": {
+  "recit": "Sens, chef-lieu d’arrondissement dans l’Yonne, compte 27 106 habitants et ses habitants sont appelés les Sénonais. Avant même que la ville ne devienne un grand centre religieux, elle est associée aux Sénons : Brennus y est présenté comme leur chef, au IVe siècle avant notre ère, et un séjour est aussi attribué à Jules César au sud de la ville, au lieu-dit « le camp de César ». Plus tard, l’histoire bascule vers les institutions : au VIIe siècle, une abbaye consacrée est fondée à Saint-Denis-lès-Sens. Le XVIIe siècle installe des structures ecclésiastiques, puis le XXe siècle marque la ville par le passage des troupes en 1944.\n\nAu cœur de la ville, la cathédrale Saint-Étienne s’inscrit dans de longues reconstructions. Non loin, le Marché couvert organise la vie urbaine, tandis que l’hôpital Saint-Jean occupe l’ancienne abbaye de Saint-Jean-lès-Sens. Plus au nord, la basilique Saint-Savinien-le-Vieux, et, à l’écart du tumulte, le Carmel gardent une présence religieuse. Enfin, derrière la cathédrale, le palais archiépiscopal rassemble aujourd’hui le Musée de Sens et le Trésor de la Cathédrale.",
+  "chronologie": [
+   {
+    "date": "IVe siècle av. J.-C.",
+    "texte": "Brennus est présenté comme chef des Sénons et lié à une attaque contre Rome, tenue pendant plusieurs mois vers 387 av. J.-C.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 387 av. J.-C.",
+    "texte": "La ville de Rome est indiquée comme prise en partie et tenue pendant plusieurs mois, dans le récit attribué à Brennus.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "53 av. J.-C.",
+    "texte": "Lors de l’invasion de la Gaule, un hivernage de légions est attribué par la source à Jules César au lieu-dit « le camp de César », au sud de la ville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIIe siècle",
+    "texte": "À Saint-Denis-lès-Sens, une abbaye consacrée est fondée au VIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1622",
+    "texte": "Le diocèse de Paris est érigé en archidiocèse par démembrement de celui de Sens.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1651",
+    "texte": "Le grand séminaire de Sens est ouvert.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "21 août 1944",
+    "texte": "Sens est traversée en début d’après-midi par des troupes de la IIIe armée du général Patton.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Étienne de Sens",
+   "histoire": "Cathédrale de l’archidiocèse de Sens, elle est inscrite dans un long fil de reconstructions : l’effondrement de la tour sud en 1268 oblige à refaire une partie de la façade occidentale.",
+   "anecdotes": [
+    {
+     "texte": "Une plaque mentionne l’emplacement d’éléments aujourd’hui disparus, à l’angle de la rue de Brennus et de la place Drapés.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Plaque mentionnant l’emplacement à l’angle de la rue de Brennus et de la place Drapés.",
+   "sources": [
+    "S7",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.1979,
+   "lon": 3.2837,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-%C3%89tienne_de_Sens"
+  },
+  {
+   "nom": "Marché couvert de Sens",
+   "histoire": "Le Marché couvert de Sens, édifice public, abrite un marché plurihebdomadaire et des expositions au cœur du centre-ville ; son histoire passe par des usages répartis entre halle des viandes, halle du blé et halle au poisson.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seule la grande salle de l’édifice subsistait, détruite après la guerre franco-prussienne de 1870, ce qui mène au concours pour concevoir le marché couvert.",
+   "sources": [
+    "S12",
+    "S14",
+    "S16"
+   ],
+   "lat": 48.197894,
+   "lon": 3.281836,
+   "url": "https://fr.wikipedia.org/wiki/March%C3%A9_couvert_de_Sens"
+  },
+  {
+   "nom": "Abbaye de Saint-Jean-lès-Sens",
+   "histoire": "Ancienne abbaye devenue l’hôpital Saint-Jean. Fondée au début du VIe siècle par l’archevêque saint Héracle de Sens, elle a conservé des bâtiments en U aux façades et toitures datées du XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site est aujourd’hui occupé par l’hôpital Saint-Jean.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S21"
+   ],
+   "lat": 48.197935,
+   "lon": 3.292948,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Jean-l%C3%A8s-Sens"
+  },
+  {
+   "nom": "Basilique Saint-Savinien de Sens",
+   "histoire": "Église Saint-Savinien-le-Vieux, rue Alsace-Lorraine, honorant saint Savinien. La source indique une construction en 1068, avec une crypte plus ancienne en son centre ; elle a aussi subi des dégradations et des incendies.",
+   "anecdotes": [
+    {
+     "texte": "Malgré l’idée d’être épargnée, l’édifice est malgré tout pillé en 1793 par les habitants, selon la source.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "La fondation religieuse est rapprochée de la figure de saint Savinien, présenté comme le premier évêque de Sens.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La basilique Saint-Savinien est classée dans les Monuments Historiques depuis 1862 et appartient aujourd’hui à une association.",
+   "sources": [
+    "S22",
+    "S23",
+    "S26"
+   ],
+   "lat": 48.196617,
+   "lon": 3.300351,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Savinien_de_Sens"
+  },
+  {
+   "nom": "Carmel de Sens",
+   "histoire": "Le Carmel de Sens fait partie des premiers carmels fondés en France. Il est présenté comme fondé le 2 juillet 1625 par l’archevêque de Sens, Mgr de Bellegarde.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, onze religieuses vivent dans l’oraison et le travail.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S31"
+   ],
+   "lat": 48.197726,
+   "lon": 3.28784,
+   "url": "https://fr.wikipedia.org/wiki/Carmel_de_Sens"
+  },
+  {
+   "nom": "Palais archiépiscopal de Sens",
+   "histoire": "Ensemble de bâtiments à Sens, il fut le siège de l’ancien archevêché jusqu’à la Séparation de l’Église et de l’État ; situé derrière la Cathédrale Saint-Étienne, il abrite aujourd’hui le Musée de Sens et le Trésor de la Cathédrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le Musée de Sens et le Trésor de la Cathédrale y sont installés aujourd’hui.",
+   "sources": [
+    "S32",
+    "S35"
+   ],
+   "lat": 48.197501,
+   "lon": 3.284251,
+   "url": "https://fr.wikipedia.org/wiki/Palais_archi%C3%A9piscopal_de_Sens"
+  },
+  {
+   "nom": "Théâtre municipal de Sens",
+   "histoire": "Édifice public protégé des monuments historiques. La source rappelle aussi que l’emplacement du théâtre a connu un cimetière de l’Hôtel-Dieu, déplacé en 1758 lors du comblement des fossés entourant la cité.",
+   "anecdotes": [
+    {
+     "texte": "Le cimetière de l’Hôtel-Dieu, à l’emplacement du théâtre, est déplacé en 1758 quand on commence à combler les fossés autour de la cité.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S39"
+   ],
+   "lat": 48.200075,
+   "lon": 3.282047,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_municipal_de_Sens"
+  },
+  {
+   "nom": "Archidiocèse de Sens-Auxerre",
+   "histoire": "Église particulière de l’Église catholique en France, l’archidiocèse de Sens-Auxerre est présenté comme élevé au rang d’archidiocèse métropolitain dès le IIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Selon la légende, le diocèse de Sens serait fondé dès le Ier siècle et élevé en archidiocèse au IIIe siècle.",
+     "statut": "legende",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 48.1979,
+   "lon": 3.2837,
+   "url": "https://fr.wikipedia.org/wiki/Archidioc%C3%A8se_de_Sens-Auxerre"
+  }
+ ],
+ "sources": [
+  "Sens [sɑ̃s] est une commune française, chef-lieu d'arrondissement, située à 100 km au sud-est de Paris, dans le département de l'Yonne, en région Bourgogne-Franche-Comté. Sens est actuellement la deuxième commune du département de l'Yonne. Au dernier recensement de 2023, la commune comptait 27 106 habitants. Ses habitants sont appelés les Sénonais. En 2012, l'agglomération, au sens géographique et statistique, […]",
+  "Elle était le chef-lieu des Sénons, dont Brennus fut le chef au IVe siècle av. J.-C., connu pour avoir vaincu les Romains à la bataille de l'Allia, puis attaqué Rome et pris une grande partie de la ville, la tenant pendant plusieurs mois, vers 387 av. J.-C. En 53 av. J.-C., lors de l'invasion de la Gaule, César aurait fait hiverner six légions, au lieu-dit « le camp de César » au sud de la ville. En réalité, les […]",
+  "VIIe siècle : Une abbaye qui lui est consacrée a été fondée au VIIe siècle à Saint-Denis-lès-Sens.",
+  "1622 : Sous le règne de Louis XIII, en 1622, le diocèse de Paris est érigé en archidiocèse par démembrement de celui de Sens.",
+  "1651 : Le grand séminaire de Sens est ouvert en 1651.",
+  "1944 : En 1944, Sens, abandonnée par la plupart de ses occupants allemands, est traversée le lundi 21 août en début d'après-midi par des troupes de la IIIe armée du général Patton qui la quittent le lendemain à l'aube en direction de l'est.",
+  "Lieu « Cathédrale Saint-Étienne de Sens » : La cathédrale Saint-Étienne de Sens, de son titre complet cathédrale métropolitaine et primatiale Saint-Étienne de Sens, est la cathédrale catholique de l'archidiocèse de Sens, située dans la commune de Sens, dans la région naturelle du Sénonais et l",
+  "Lieu « Cathédrale Saint-Étienne de Sens », 1093 : Francis Salet indique que l'alternance de piles fortes et faibles se retrouve dans la cathédrale de Durham reconstruite à partir de 1093, mais déjà utilisée dans l'abbatiale de Jumièges.",
+  "Lieu « Cathédrale Saint-Étienne de Sens », 1174 : Lors de la reconstruction du chœur et du transept oriental de la cathédrale de Canterbury, à la suite de l'incendie de 1174, Guillaume de Sens dirige le chantier de 1175 à 1179.",
+  "Lieu « Cathédrale Saint-Étienne de Sens », 1268 : En 1268, l'effondrement de la tour sud détruit la plus grande partie de la façade occidentale, ce qui nécessite une reconstruction.",
+  "Lieu « Cathédrale Saint-Étienne de Sens », aujourd'hui : Aujourd'hui disparue, une plaque mentionne son emplacement à l'angle de la rue de Brennus et de la place Drapés.",
+  "Lieu « Marché couvert de Sens » : Le marché couvert de Sens ou halles de Sens est un édifice public destiné à abriter un marché plurihebdomadaire et un lieu d'exposition au cœur du centre-ville de Sens, dans le département de l'Yonne, en région Bourgogne-Franche-Comté.",
+  "Lieu « Marché couvert de Sens », XIIe siècle : L'Hôtel-Dieu de Sens, a été construit au XIIe siècle, grâce au terrain fourni par le clergé sénonais.",
+  "Lieu « Marché couvert de Sens », XIXe siècle : Au XIXe siècle, le bâtiment donnant sur la cathédrale Saint-Étienne est occupé de la façon suivante : la partie droite était occupé par la halle des viandes, la gauche la halle du blé et on trouvait dans la dernière partie la halle au poisson, le bureau du commissaire de police et l'école communale.",
+  "Lieu « Marché couvert de Sens », 1882 : Construit en 1882, son architecture industrielle de la fin du XIXe siècle en fait un des éléments-clés du patrimoine architectural urbain de la ville.",
+  "Lieu « Marché couvert de Sens », aujourd'hui : Seule la grande salle de l’édifice subsistait, détruite après la guerre franco-prussienne de 1870, ce qui permet de lancer le concours aux architectes pour concevoir le marché couvert.",
+  "Lieu « Abbaye de Saint-Jean-lès-Sens » : L'ancienne abbaye de Saint-Jean-lès-Sens, actuellement l'hôpital Saint-Jean, est située à Sens, au nord de la Bourgogne, dans l'actuel département de l'Yonne.",
+  "Lieu « Abbaye de Saint-Jean-lès-Sens », VIe siècle : L'abbaye avait été fondée au début du VIe siècle par l'archevêque saint Héracle de Sens, avec l'apparition de la dynastie mérovingienne.",
+  "Lieu « Abbaye de Saint-Jean-lès-Sens », XVIIIe siècle : Actuellement, le site de l’ancienne abbaye conserve les lieux réguliers, un bâtiment en U dont les façades et les toitures datent du XVIIIe siècle, et l’ancienne église abbatiale médiévale reconstruite partiellement au XVIIe siècle.",
+  "Lieu « Abbaye de Saint-Jean-lès-Sens », 1862 : L’église est classée comme monument historique depuis 1862, les façades et toitures des bâtiments ainsi que le sol des cours et jardins sont classés depuis le 24 octobre 1960.",
+  "Lieu « Abbaye de Saint-Jean-lès-Sens », aujourd'hui : L'ancienne abbaye de Saint-Jean-lès-Sens, actuellement l'hôpital Saint-Jean, est située à Sens, au nord de la Bourgogne, dans l'actuel département de l'Yonne.",
+  "Lieu « Basilique Saint-Savinien de Sens » : La basilique Saint-Savinien ou église Saint-Savinien-le-Vieux est un édifice religieux se situant rue Alsace-Lorraine à Sens, honorant saint Savinien, réputé pour être le premier évêque de Sens.",
+  "Lieu « Basilique Saint-Savinien de Sens », 1068 : Elle a été construite en l'an 1068, mais abrite une crypte beaucoup plus ancienne en son centre.",
+  "Lieu « Basilique Saint-Savinien de Sens », 1567 : L'édifice a également été dégradé à cause d'incendies, notamment pendant les Guerres de religion (1567).",
+  "Lieu « Basilique Saint-Savinien de Sens », 1793 : Malgré le fait qu'elle ait été épargnée, elle fut pillée en 1793 par les habitants.",
+  "Lieu « Basilique Saint-Savinien de Sens », aujourd'hui : La basilique Saint-Savinien est classée dans les Monuments Historiques depuis 1862; elle appartient aujourd'hui à une association.",
+  "Lieu « Carmel de Sens » : Le Carmel de Sens est l'un des premiers carmels à être fondé en France le 2 juillet 1625.",
+  "Lieu « Carmel de Sens », 1625 : Le Carmel de Sens est l'un des premiers carmels à être fondé en France le 2 juillet 1625.",
+  "Lieu « Carmel de Sens », 1625 : Le carmel est fondé en 1625 par l'archevêque de Sens, Mgr de Bellegarde.",
+  "Lieu « Carmel de Sens », 1995 : Le bâtiment a été inscrit partiellement en 1995 au titre des monuments historiques.",
+  "Lieu « Carmel de Sens », aujourd'hui : Aujourd'hui, onze religieuses vivent dans l'oraison et le travail.",
+  "Lieu « Palais archiépiscopal de Sens » : Le palais archiépiscopal de Sens est un ensemble de bâtiments situé à Sens, dans le département français de l'Yonne et qui fut le siège de l'ancien archevêché de Sens jusqu'à la Séparation de l'Église et de l'État en 1905.",
+  "Lieu « Palais archiépiscopal de Sens », XVIIIe siècle : Au sud de la cour se trouve un bâtiment datant du XVIIIe siècle, qui abritait les écuries autrefois.",
+  "Lieu « Palais archiépiscopal de Sens », 1905 : Le palais archiépiscopal de Sens est un ensemble de bâtiments situé à Sens, dans le département français de l'Yonne et qui fut le siège de l'ancien archevêché de Sens jusqu'à la Séparation de l'Église et de l'État en 1905.",
+  "Lieu « Palais archiépiscopal de Sens », 1905 : Situé derrière la Cathédrale Saint-Étienne, l'ensemble des bâtiments a formé jusqu'en 1905 le palais des Archevêques de Sens et abrite aujourd'hui le Musée de Sens et le Trésor de la Cathédrale.",
+  "Lieu « Palais archiépiscopal de Sens », aujourd'hui : On peut penser qu'il occupait déjà l'emplacement des jardins actuels du musée.",
+  "Lieu « Théâtre municipal de Sens » : Le théâtre municipal de Sens est un édifice public, protégé des monuments historiques situé à Sens, dans le département français de l'Yonne.",
+  "Lieu « Théâtre municipal de Sens », XVIIIe siècle : La salle mentionnée par Tarbé était située dans l'aile ouest de l'édifice construit à la fin du XVIIIe siècle avec les matériaux provenant de la démolition du château des archevêques à Noslon (l'aile Est abrite l'actuelle Brasserie du Théâtre).",
+  "Lieu « Théâtre municipal de Sens », 1758 : Comme dit au début de cette rubrique, il y avait jadis à l'emplacement du théâtre le cimetière de l'Hôtel-Dieu, déplacé en 1758 lorsqu'on commença à combler les fossés qui entouraient la cité.",
+  "Lieu « Théâtre municipal de Sens », 1793 : Initialement aménagé en 1793 et 1794 dans l'aile gauche d'un bâtiment appartenant à Jean-Louis Guyot ; il fut acquis par la ville en 1824, puis fut l'objet de travaux d'amélioration en 1832.",
+  "Lieu « Théâtre municipal de Sens », aujourd'hui : En 1838, Théodore Tarbé précise qu'il « était au couchant du terrain où est actuellement la salle de spectacle », mais cette salle n'est pas celle de notre actuel théâtre.",
+  "Lieu « Archidiocèse de Sens-Auxerre » : L'archidiocèse de Sens-Auxerre (en latin : archidioecesis Senonensis-Antissiodorensis) est une église particulière de l'Église catholique en France.",
+  "Lieu « Archidiocèse de Sens-Auxerre », Ier siècle : Érigé dès le Ier siècle, le diocèse de Sens est élevé au rang d'archidiocèse métropolitain au IIIe siècle.",
+  "Lieu « Archidiocèse de Sens-Auxerre », Ier siècle : Selon la légende, le diocèse de Sens a été fondé dès le Ier siècle et été érigé en archidiocèse au IIIe siècle.",
+  "Lieu « Archidiocèse de Sens-Auxerre », 1973 : En 1973, la résidence de l'archevêque est déplacée de Sens vers Auxerre, où est également installée la « Maison diocésaine »."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Jules"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
