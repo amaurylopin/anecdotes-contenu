@@ -1,0 +1,185 @@
+{
+ "commune": {
+  "titre": "Capesterre-Belle-Eau",
+  "code_insee": "97107",
+  "departement": "971",
+  "population": 17684,
+  "lat": 16.05,
+  "lon": -61.566667,
+  "url": "https://fr.wikipedia.org/wiki/Capesterre-Belle-Eau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:17:31",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1539,
+  "sortie": 1279
+ },
+ "cout_usd": 0.001907,
+ "accroche": "Le 4 novembre 1493, lors de son second voyage, Christophe Colomb accoste près de l’embouchure de la rivière du Grand Carbet à Capesterre-Belle-Eau.",
+ "histoire": {
+  "recit": "Capesterre-Belle-Eau, dont les habitants sont appelés les Capesterrien(ne)s, garde dans son paysage des traces de très anciens passages. Au 4 novembre 1493, Christophe Colomb accoste près de l’embouchure de la rivière du Grand Carbet : l’équipage veut s’approvisionner en eau, mais les villageois autochtones prennent la fuite, et plusieurs sont capturés.\n\nPlus près de nous, l’Allée Dumanoir déroule son alignement de palmiers royaux, longtemps conservé, avant d’être touché par un cyclone en 1928. La même allée voit ensuite l’implantation d’une usine sucrière en 1946, qui fermera définitivement ses portes en 1970, tandis qu’en 1966 un projet d’élargissement est lancé puis abandonné.\n\nNon loin, au lieu-dit de Carangaise, le viaduc ferroviaire de Sainte-Catherine est construit en 1897 puis n’en conserve aujourd’hui que deux imposants piliers.\n\nEnfin, à l’embouchure de la rivière du Pérou, les roches gravées portent des gravures rupestres précolombiennes, mais l’exploitation par des carriers au début du XXe siècle a masqué les traits, avant qu’on ne les redécouvre quand les blocs se sont effondrés l’un sur l’autre.",
+  "chronologie": [
+   {
+    "date": "4 novembre 1493",
+    "texte": "Lors de son second voyage, Christophe Colomb accoste près de l’embouchure de la rivière du Grand Carbet ; après un ravitaillement en eau, des Indiens caraïbes prennent la fuite et plusieurs sont capturés.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1928",
+    "texte": "Un cyclone détruit une partie des palmiers d’origine de l’allée Dumanoir.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1946",
+    "texte": "Une usine sucrière est construite à l’allée Dumanoir, après des changements de propriétaires liés à des difficultés économiques.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "L’usine sucrière construite en 1946 ferme définitivement ses portes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "Un projet d’élargissement de l’allée Dumanoir est lancé, avec l’ajout de quelques palmiers, puis il est abandonné.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1897",
+    "texte": "Le viaduc ferroviaire de Sainte-Catherine est construit en 1897 à l’initiative du Crédit foncier colonial.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "XXe siècle",
+    "texte": "Des carriers exploitent les roches à l’embouchure de la rivière du Pérou, masquant alors des gravures.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Allée Dumanoir",
+   "histoire": "L’allée Dumanoir, longue de 1 200 m et bordée de plus de 400 palmiers royaux, a connu plusieurs étapes. En 1928, un cyclone détruit une partie des palmiers d’origine. En 1946, une usine sucrière y est construite, puis elle ferme définitivement en 1970. En 1966, un projet d’élargissement de l’allée est lancé avec quelques palmiers ajoutés, avant d’être abandonné.",
+   "anecdotes": [
+    {
+     "texte": "En 1928, un cyclone abîme l’alignement de l’allée Dumanoir, qui comptait encore de nombreux palmiers d’origine.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "À l’allée Dumanoir, une usine sucrière s’installe en 1946 après des difficultés économiques et des changements de propriétaires, puis ferme définitivement ses portes en 1970.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1966, un projet d’élargissement de l’allée prévoit d’ajouter quelques palmiers, mais il est finalement abandonné.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 16.030194,
+   "lon": -61.5711,
+   "url": "https://fr.wikipedia.org/wiki/All%C3%A9e_Dumanoir"
+  },
+  {
+   "nom": "Viaduc ferroviaire de Sainte-Catherine",
+   "histoire": "Au lieu-dit de Carangaise, le viaduc ferroviaire de Sainte-Catherine est un ancien pont ferroviaire. Construit en 1897 à l’initiative du Crédit foncier colonial, il n’en reste aujourd’hui que deux imposants piliers.",
+   "anecdotes": [
+    {
+     "texte": "Après la disparition de l’essentiel de l’ouvrage, il ne subsiste aujourd’hui que deux imposants piliers qui portaient le viaduc.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Deux imposants piliers.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 16.08015,
+   "lon": -61.561252777778,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_ferroviaire_de_Sainte-Catherine"
+  },
+  {
+   "nom": "Roches gravées à l'embouchure de la rivière du Pérou",
+   "histoire": "À Capesterre-Belle-Eau, les roches gravées à l’embouchure de la rivière du Pérou sont des gravures rupestres précolombiennes. Certaines gravures ont été masquées après un effondrement dû, vraisemblablement, à l’exploitation par des carriers au début du XXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Les gravures étaient masquées : les roches se sont effondrées l’une sur l’autre, vraisemblablement après une exploitation par des carriers au début du XXe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 16.0516,
+   "lon": -61.5567,
+   "url": "https://fr.wikipedia.org/wiki/Roches_grav%C3%A9es_%C3%A0_l%27embouchure_de_la_rivi%C3%A8re_du_P%C3%A9rou"
+  }
+ ],
+ "sources": [
+  "Capesterre-Belle-Eau (prononcé [kapɛstɛʁ] ; anciennement Capesterre-de-Guadeloupe ; en créole guadeloupéen : Kapèstè) est une commune française, située dans le département de la Guadeloupe. Les habitants sont appelés les Capesterrien(ne)s.",
+  "Le 4 novembre 1493, lors de son second voyage, Christophe Colomb accoste aux environs de l'embouchure de la rivière du Grand Carbet où des Indiens caraïbes avaient installé un village. Lorsque l'équipage débarque pour s'approvisionner en eau après un si long voyage, les autochtones sont effrayés et prennent la fuite. Huit d'entre eux, dont six femmes, sont capturés ; et ce n'est qu'après leur avoir offert des […]",
+  "1493 : Le 4 novembre 1493, lors de son second voyage, Christophe Colomb accoste aux environs de l'embouchure de la rivière du Grand Carbet où des Indiens caraïbes avaient installé un village.",
+  "Lieu « Allée Dumanoir » : L'allée Dumanoir est une allée pittoresque d'une longueur de 1 200 m bordée de plus de 400 palmiers royaux, située dans la commune de Capesterre-Belle-Eau, en Guadeloupe.",
+  "Lieu « Allée Dumanoir », 1928 : Si de nombreux palmiers d’origine ont été conservés, un cyclone, en 1928, en détruit une partie.",
+  "Lieu « Allée Dumanoir », 1946 : Après plusieurs changements de propriétaires dus à des difficultés économiques, une usine sucrière est construite en 1946, qui fermera définitivement ses portes en 1970.",
+  "Lieu « Allée Dumanoir », 1966 : Un projet d’élargissement de l'allée voit le jour en 1966, quelques palmiers sont ajoutés, mais le projet sera abandonné.",
+  "Lieu « Viaduc ferroviaire de Sainte-Catherine » : Le viaduc ferroviaire de Sainte-Catherine est un ancien pont ferroviaire situé au lieu-dit de Carangaise, à Capesterre-Belle-Eau, en Guadeloupe.",
+  "Lieu « Viaduc ferroviaire de Sainte-Catherine », 1897 : Le viaduc est construit en 1897 à l'initiative du Crédit foncier colonial, en maçonnerie traditionnelle de moellons hourdés au mortier à chaux.",
+  "Lieu « Viaduc ferroviaire de Sainte-Catherine », aujourd'hui : Il ne reste du viaduc que les deux imposants piliers qui le portaient.",
+  "Lieu « Roches gravées à l'embouchure de la rivière du Pérou » : Les roches gravées à l'embouchure de la rivière du Pérou sont des gravures rupestres précolombiennes situées à Capesterre-Belle-Eau, en Guadeloupe (France).",
+  "Lieu « Roches gravées à l'embouchure de la rivière du Pérou », XXe siècle : Les roches effondrées l'une sur l'autre, vraisemblablement à cause d'une exploitation par des carriers au début du XXe siècle, ne montraient plus les gravures ainsi masquées."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 5
+ }
+}

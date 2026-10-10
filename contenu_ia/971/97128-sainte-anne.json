@@ -1,0 +1,107 @@
+{
+ "commune": {
+  "titre": "Sainte-Anne (Guadeloupe)",
+  "code_insee": "97128",
+  "departement": "971",
+  "population": 23973,
+  "lat": 16.233333,
+  "lon": -61.383333,
+  "url": "https://fr.wikipedia.org/wiki/Sainte-Anne_%28Guadeloupe%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:01:26",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1147,
+  "sortie": 652
+ },
+ "cout_usd": 0.001044,
+ "accroche": "À Sainte-Anne, la paroisse éponyme est établie en 1691, fondant la commune telle qu’on la connaît aujourd’hui.",
+ "histoire": {
+  "recit": "Sainte-Anne, appelée « Sentann’ » en créole guadeloupéen, est une commune française de Guadeloupe dont les habitants sont les Saintannais(es). La fondation de la commune date de l’établissement de sa paroisse éponyme en 1691. Plus tard, la ville est détruite durant la guerre de Sept Ans par les Anglais, et elle perd alors la fonction de chef-lieu de la Grande-Terre au profit de Pointe-à-Pitre.\n\nMalgré ces revers, la croissance économique liée à l’exportation du sucre et du rhum maintient l’importance du port. Au XVIIIe siècle, le port de Sainte-Anne devient le siège de l’Amirauté, et la commune poursuit son développement.",
+  "chronologie": [
+   {
+    "date": "1691",
+    "texte": "Établissement de la paroisse éponyme, à l’origine de la fondation de Sainte-Anne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Le port de Sainte-Anne devient le siège de l’Amirauté.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Monument aux morts de Sainte-Anne",
+   "histoire": "Cénotaphe situé au centre de la commune, sur la place Victor-Schœlcher.",
+   "anecdotes": [
+    {
+     "texte": "Érigé en 1949 pour les soldats morts lors des combats de la Seconde Guerre mondiale, il est inscrit aux monuments historiques en 2018.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Monument au centre de la commune, sur la place Victor-Schœlcher.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 16.2252693,
+   "lon": -61.3855157,
+   "url": "https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Sainte-Anne"
+  },
+  {
+   "nom": "Habitation-sucrerie Gissac",
+   "histoire": "Ancienne plantation sucrière coloniale située sur la commune de Sainte-Anne, rue Hippolyte-Lafages.",
+   "anecdotes": [
+    {
+     "texte": "Aujourd’hui, il ne reste plus que la tour du moulin à vent, laissée à l’abandon.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La tour du moulin à vent de l’ancienne habitation-sucrerie.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 16.241,
+   "lon": -61.3609,
+   "url": "https://fr.wikipedia.org/wiki/Habitation-sucrerie_Gissac"
+  }
+ ],
+ "sources": [
+  "Sainte-Anne (en créole guadeloupéen : Sentann’) est une commune française, située dans le département de la Guadeloupe. Ses habitants sont appelés les Saintannais(es).",
+  "La fondation de Sainte-Anne date de l'établissement de sa paroisse éponyme en 1691. La ville est détruite durant la guerre de Sept Ans par les Anglais, ce qui lui fait perdre la fonction de chef-lieu de la Grande-Terre au profit de Pointe-à-Pitre. Avec la croissance économique (exportation du sucre et du rhum), le port de Sainte-Anne devient tout de même le siège de l'Amirauté au XVIIIe siècle et la commune est […]",
+  "Lieu « Monument aux morts de Sainte-Anne » : Le monument aux morts de Sainte-Anne est un cénotaphe situé au centre de la commune de Sainte-Anne en Guadeloupe, sur la place Victor-Schœlcher.",
+  "Lieu « Monument aux morts de Sainte-Anne », 1949 : Il a été érigé en 1949 en mémoire des soldats morts lors des combats de la Seconde Guerre mondiale et est inscrit aux monuments historiques en 2018.",
+  "Lieu « Habitation-sucrerie Gissac » : L'Habitation-sucrerie Gissac est une ancienne plantation sucrière coloniale située sur la commune de Sainte-Anne en Guadeloupe, rue Hippolyte-Lafages.",
+  "Lieu « Habitation-sucrerie Gissac », aujourd'hui : Il ne reste de nos jours de l'habitation-sucrerie que la tour du moulin à vent, laissée à l'abandon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Victor-Sch"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

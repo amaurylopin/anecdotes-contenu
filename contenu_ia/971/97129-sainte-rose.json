@@ -1,0 +1,236 @@
+{
+ "commune": {
+  "titre": "Sainte-Rose (Guadeloupe)",
+  "code_insee": "97129",
+  "departement": "971",
+  "population": 17700,
+  "lat": 16.333333,
+  "lon": -61.7,
+  "url": "https://fr.wikipedia.org/wiki/Sainte-Rose_%28Guadeloupe%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:17:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1982,
+  "sortie": 1623
+ },
+ "cout_usd": 0.002425,
+ "accroche": "Le 28 juin 1635, des colons débarquent à la Pointe Allègre à Sainte-Rose, menés par Jean du Plessis d'Ossonville et Charles Liénard de l'Olive. ",
+ "histoire": {
+  "recit": "À Sainte-Rose, la Grande-Terre et la mer se répondent par des chemins, des sites sucriers et des traces anciennes. Les premiers arrivants débarquent à la Pointe Allègre en juin 1635, puis l’île se couvre d’installations de production. Sur les hauteurs et au bord des cours d’eau, on trouve aussi des marques très anciennes, comme les polissoirs et blocs gravés de la rivière de la Ramée. Plus tard, le rhum structure des récits domestiques et techniques, tandis que des sentiers comme la Trace des Contrebandiers rappellent d’autres circulations. Les grandes transformations restent aussi liées aux aléas : cyclones et reconstructions ont remodelé des domaines entiers, sans effacer les lieux de passage ni les traces identifiées aujourd’hui.",
+  "chronologie": [
+   {
+    "date": "28 juin 1635",
+    "texte": "Des premiers colons, 400 Français avec religieux de l’ordre de Saint Dominique, débarquent à la Pointe Allègre à Sainte-Rose.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début du XVIIIe siècle",
+    "texte": "L’habitation-sucrerie La Ramée est édifiée au début du XVIIIe siècle et fait alors partie de l’habitation Basoche.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "La Ramée est transformée en distillerie et ses activités s’arrêtent définitivement vers 1935, après les dégâts du cyclone de 1928.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "La maison de l’habitation-sucrerie La Ramée est détruite en 1989 par le cyclone Hugo.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1994",
+    "texte": "La maison de La Ramée est reconstruite à l’identique en 1994.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1843",
+    "texte": "L’église Sainte-Rose-de-Lima remplace en 1843 un précédent édifice détruit lors d’un tremblement de terre.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "La locomotive à vapeur de l’usine-sucrerie Comté de Lohéac est construite en 1939 et est encore visible en 2020.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "En 1976, l’usine-sucrerie Comté de Lohéac cesse ses productions et les bâtiments tombent à l’abandon.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1984",
+    "texte": "En 1984, un entrepreneur reprend le site pour y installer une usine de production de yaourts, mais le cyclone Hugo le détruit en 1989.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Habitation-sucrerie La Ramée",
+   "histoire": "Ancienne plantation coloniale à Sainte-Rose, La Ramée fait partie de l’habitation Basoche au début du XVIIIe siècle. Elle est ensuite transformée en distillerie, puis ses activités s’arrêtent définitivement vers 1935.",
+   "anecdotes": [
+    {
+     "texte": "Le cyclone Hugo détruit la maison en 1989, avant une reconstruction à l’identique en 1994.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Propriété du département de la Guadeloupe, utilisée aujourd’hui comme résidence d’artiste.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 16.333704,
+   "lon": -61.708689,
+   "url": "https://fr.wikipedia.org/wiki/Habitation-sucrerie_La_Ram%C3%A9e"
+  },
+  {
+   "nom": "Usine-sucrerie Comté de Lohéac",
+   "histoire": "Habitation-sucrerie située à Sainte-Rose, Comté de Lohéac voit ses productions cesser en 1976 et ses bâtiments tomber à l’abandon. Le site est repris en 1984, puis détruit par le cyclone Hugo en 1989.",
+   "anecdotes": [
+    {
+     "texte": "La locomotive à vapeur, construite en 1939, est encore visible en 2020, puis disparaît en 2022.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S10",
+    "S11"
+   ],
+   "lat": 16.340793,
+   "lon": -61.719871,
+   "url": "https://fr.wikipedia.org/wiki/Usine-sucrerie_Comt%C3%A9_de_Loh%C3%A9ac"
+  },
+  {
+   "nom": "Église Sainte-Rose-de-Lima de Sainte-Rose",
+   "histoire": "Église chrétienne de Sainte-Rose, elle remplace en 1843 un précédent édifice détruit lors d’un tremblement de terre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 16.333404,
+   "lon": -61.69719,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Rose-de-Lima_de_Sainte-Rose"
+  },
+  {
+   "nom": "Bloc gravé et polissoirs dans la rivière de la Ramée",
+   "histoire": "Ensemble de pétroglyphes datant de la période arawak (entre le Ier et le VIIe siècle), situés aux embouchures de la rivière de la Ramée et de la rivière Madame à Sainte-Rose.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges de la rivière Madame se trouvent au lieu-dit Dindé.",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 16.34945,
+   "lon": -61.72202,
+   "url": "https://fr.wikipedia.org/wiki/Bloc_grav%C3%A9_et_polissoirs_dans_la_rivi%C3%A8re_de_la_Ram%C3%A9e"
+  },
+  {
+   "nom": "Trace des Contrebandiers",
+   "histoire": "Sentier de randonnée de 6,5 km situé sur l’île de Basse-Terre, sur le territoire de la commune de Sainte-Rose.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Sentier de randonnée de 6,5 km sur le territoire de la commune de Sainte-Rose.",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 16.2979499,
+   "lon": -61.6943559,
+   "url": "https://fr.wikipedia.org/wiki/Trace_des_Contrebandiers"
+  },
+  {
+   "nom": "Musée du rhum de Sainte-Rose",
+   "histoire": "Le musée du rhum de Sainte-Rose explique la fabrication et les cycles du rhum.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Sur le domaine de la distillerie Reimonenq, il retrace trois siècles d’histoire et les étapes de fabrication, du broyage à la distillation.",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 16.315135,
+   "lon": -61.688726,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_rhum_de_Sainte-Rose"
+  },
+  {
+   "nom": "Plage de la Ramée",
+   "histoire": "Plage de sable noir située à l’ouest de Sainte-Rose.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y a identifié l’aménagement d’un appontement en pierre à coffrage continu et des vestiges d’un bâtiment.",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 16.336538888889,
+   "lon": -61.710694444444,
+   "url": "https://fr.wikipedia.org/wiki/Plage_de_la_Ram%C3%A9e"
+  }
+ ],
+ "sources": [
+  "Sainte-Rose (en créole guadeloupéen : Sentwòz) est une commune française, située dans le département de la Guadeloupe. Ses habitants sont appelés les Sainte-Rosien(ne)s.",
+  "Les premiers colons, 400 Français commandés par Jean du Plessis d'Ossonville et Charles Liénard de l'Olive avec quatre religieux de l'ordre de Saint Dominique dont Pierre Pélican et Raymond Breton, débarquent à la Pointe Allègre à Sainte-Rose le 28 juin 1635. L'historien guadeloupéen, Jules Ballet (1825-1904) indique la construction de deux forts : le fort Saint-Pierre sur les bords d'une rivière dénommée rivière du […]",
+  "Lieu « Habitation-sucrerie La Ramée » : L'habitation-sucrerie La Ramée est une ancienne plantation coloniale située à Sainte-Rose, en Guadeloupe.",
+  "Lieu « Habitation-sucrerie La Ramée », XVIIIe siècle : L'habitation est édifiée au début du XVIIIe siècle et fait alors partie de l'habitation Basoche.",
+  "Lieu « Habitation-sucrerie La Ramée », 1935 : Le domaine est transformé en distillerie et intégré aux terres de l'usine du Comté jusqu'à l'arrêt définitif de ses activités vers 1935, alors que le cyclone de 1928 l'avait sérieusement endommagé.",
+  "Lieu « Habitation-sucrerie La Ramée », 1989 : La maison est entièrement détruite en 1989 par le cyclone Hugo, et est reconstruite à l'identique en 1994.",
+  "Lieu « Habitation-sucrerie La Ramée », aujourd'hui : Propriété du département de la Guadeloupe, elle est de nos jours utilisée comme résidence d'artiste.",
+  "Lieu « Usine-sucrerie Comté de Lohéac » : L' Usine-sucrerie Comté de Lohéac est une habitation-sucrerie située à Sainte-Rose en Guadeloupe.",
+  "Lieu « Usine-sucrerie Comté de Lohéac », 1939 : La locomotive à vapeur, construite en 1939, encore visible en 2020, disparait en 2022.",
+  "Lieu « Usine-sucrerie Comté de Lohéac », 1976 : En 1976, l'usine cesse ses productions et les bâtiments tombent à l'abandon.",
+  "Lieu « Usine-sucrerie Comté de Lohéac », 1984 : Un entrepreneur reprend le site en 1984 pour y installer une usine de production de yaourts mais le cyclone Hugo en 1989 la détruit.",
+  "Lieu « Église Sainte-Rose-de-Lima de Sainte-Rose » : L'église Sainte-Rose de Lima est une église chrétienne située à Sainte-Rose en Guadeloupe.",
+  "Lieu « Église Sainte-Rose-de-Lima de Sainte-Rose », 1843 : L'église remplace en 1843 un précédent édifice détruit lors d'un tremblement de terre.",
+  "Lieu « Bloc gravé et polissoirs dans la rivière de la Ramée » : Le bloc gravé et les polissoirs dans la rivière de la Ramée sont un ensemble de pétroglyphes datant de la période arawak, entre le Ier et le VIIe siècle, situés aux embouchures de rivière de la Ramée et de la rivière Madame à Sainte-Rose en Guadeloup",
+  "Lieu « Bloc gravé et polissoirs dans la rivière de la Ramée », aujourd'hui : Les vestiges de la rivière Madame se trouve au lieu-dit Dindé.",
+  "Lieu « Trace des Contrebandiers » : La trace des Contrebandiers est un sentier de randonnée de 6,5 km situé en Guadeloupe sur l'île de Basse-Terre sur le territoire de la commune de Sainte-Rose.",
+  "Lieu « Trace des Contrebandiers », aujourd'hui : La trace des Contrebandiers est un sentier de randonnée de 6,5 km situé en Guadeloupe sur l'île de Basse-Terre sur le territoire de la commune de Sainte-Rose.",
+  "Lieu « Musée du rhum de Sainte-Rose » : Le musée du rhum de Sainte-Rose (Guadeloupe, France) explique la fabrication et les cycles du rhum.",
+  "Lieu « Musée du rhum de Sainte-Rose », aujourd'hui : Sur le domaine de la distillerie Reimonenq, le musée retrace trois siècles d'histoire sur les différentes étapes de fabrication du rhum : broyage (d'hier et d'aujourd'hui); fermentation ; distillation (de l'alambic traditionnel à la colonne à distiller).",
+  "Lieu « Plage de la Ramée » : La plage de la Ramée, est une plage de sable noir située à l'ouest de Sainte-Rose, en Guadeloupe.",
+  "Lieu « Plage de la Ramée », aujourd'hui : Y ont été identifiés l'aménagement d'un appontement en pierre à coffrage continu et des vestiges d'un bâtiment."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Grande-Terre"
+  ],
+  "nb_lieux": 7,
+  "nb_anecdotes": 2
+ }
+}

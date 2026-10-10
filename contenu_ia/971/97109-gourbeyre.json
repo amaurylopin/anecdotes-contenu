@@ -1,0 +1,106 @@
+{
+ "commune": {
+  "titre": "Gourbeyre",
+  "code_insee": "97109",
+  "departement": "971",
+  "population": 7307,
+  "lat": 15.98,
+  "lon": -61.68,
+  "url": "https://fr.wikipedia.org/wiki/Gourbeyre"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:30:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1303,
+  "sortie": 650
+ },
+ "cout_usd": 0.001073,
+ "accroche": "En 1837, Gourbeyre se détache de Basse-Terre pour devenir une commune à part entière.",
+ "histoire": {
+  "recit": "Autrefois, l’endroit que l’on nomme aujourd’hui Gourbeyre s’appelait « Dos d’Âne », un nom né d’un fort dénivelé lié au col entre les monts Caraïbes et le massif volcanique de la Soufrière, pour relier Basse-Terre et Pointe-à-Pitre.\n\nLa commune prend ensuite forme autrement : en 1837, elle est détachée de Basse-Terre et organisée comme une commune à part entière. Gourbeyre compte des habitants appelés les Gourbeyriens et les Gourbeyriennes, et sert de chef-lieu de canton.\n\nSur place, les traces d’un passé mouvementé se lisent notamment à l’Habitation Bisdary : des bâtiments marqués par l’incendie lors d’une attaque anglaise, puis par des destructions dues à un cyclone. Malgré ces ruptures, il ne reste aujourd’hui que cinq bâtiments de l’ensemble initial.\n\nEt tout près, les Bains de Dolé rappellent l’époque des cures : seuls vestiges de ce passé thermal, ils ont fonctionné de 1920 à 1960.",
+  "chronologie": [
+   {
+    "date": "1837",
+    "texte": "L’endroit est détaché de Basse-Terre et organisé comme une commune à part entière.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Habitation Bisdary",
+   "histoire": "Ancienne plantation coloniale située à Gourbeyre, elle a connu plusieurs destructions avant qu’il n’en reste, aujourd’hui, cinq bâtiments sur les éléments originels.",
+   "anecdotes": [
+    {
+     "texte": "En 1753, les bâtiments sont incendiés lors d’une attaque anglaise, et les Jésuites s’endettent pour les réparer.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 1825, un autre cyclone détruit les bâtiments.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, il ne subsiste que cinq bâtiments qui composaient originellement l’Habitation.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne subsiste aujourd’hui que cinq bâtiments : la maison du maître et son annexe, la maison du géreur, la case, la boniferie et le four.",
+   "sources": [
+    "S3",
+    "S6"
+   ],
+   "lat": 15.98798,
+   "lon": -61.70878,
+   "url": "https://fr.wikipedia.org/wiki/Habitation_Bisdary"
+  },
+  {
+   "nom": "Bains de Dolé",
+   "histoire": "Source thermale de Guadeloupe, les Bains de Dolé sont les seuls vestiges du passé thermal de Gourbeyre.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les Bains de Dolé sont en activité de 1920 à 1960 et constituent les seuls vestiges du passé thermal de la commune de Gourbeyre.",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 15.992026,
+   "lon": -61.666933,
+   "url": "https://fr.wikipedia.org/wiki/Bains_de_Dol%C3%A9"
+  }
+ ],
+ "sources": [
+  "Gourbeyre (en créole guadeloupéen : Goubè) est une commune française, située dans le département-région de la Guadeloupe. C'est l'une des villes-centres d'une agglomération de près de 50 000 habitants, l'unité urbaine de Basse-Terre. Elle est le chef-lieu du canton du même nom. Ses habitants sont appelés les Gourbeyriens et les Gourbeyriennes.",
+  "À l'origine, la commune se nommait « Dos d'Âne », ce qui s'explique par le fort dénivelé causé par les formations géologiques du col (entre les monts Caraïbes et le massif volcanique de la Soufrière) permettant de joindre Basse-Terre et Pointe-à-Pitre. Cependant, Dos d'Âne n'avait aucune existence communale. Ce n'est qu'en 1837 que l'endroit est détaché de Basse-Terre et organisé comme une commune à part entière. Le […]",
+  "Lieu « Habitation Bisdary » : L'habitation Bisdary est une ancienne plantation coloniale située à Gourbeyre sur Basse-Terre dans le département de la Guadeloupe en France.",
+  "Lieu « Habitation Bisdary », 1753 : En 1753, les bâtiments sont incendiés lors d'une attaque anglaise et les Jésuites s'endettent pour les réparer.",
+  "Lieu « Habitation Bisdary », 1825 : En 1825, un autre cyclone détruits les bâtiments.",
+  "Lieu « Habitation Bisdary », aujourd'hui : Il ne subsiste aujourd'hui que cinq bâtiments qui composaient originellement l'Habitation : la maison du maître et son annexe, la maison du géreur, la case, la boniferie et le four.",
+  "Lieu « Bains de Dolé » : Les Bains de Dolé sont une source thermale de Guadeloupe qui constituent les seuls vestiges du passé thermal de la commune de Gourbeyre en activité de 1920 à 1960.",
+  "Lieu « Bains de Dolé », aujourd'hui : Les Bains de Dolé sont une source thermale de Guadeloupe qui constituent les seuls vestiges du passé thermal de la commune de Gourbeyre en activité de 1920 à 1960."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}

@@ -1,0 +1,270 @@
+{
+ "commune": {
+  "titre": "Vieux-Habitants",
+  "code_insee": "97134",
+  "departement": "971",
+  "population": 7077,
+  "lat": 16.05,
+  "lon": -61.75,
+  "url": "https://fr.wikipedia.org/wiki/Vieux-Habitants"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:34:20",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2978,
+  "sortie": 2361
+ },
+ "cout_usd": 0.003547,
+ "accroche": "En 1636, Vieux-Habitants, fondée par le colon Nicolas Suyllart de la Ramée et le père Raymond Breton, est devenue la plus ancienne paroisse et commune de Guadeloupe.",
+ "histoire": {
+  "recit": "À Vieux-Habitants, les Habissois se disent nés d’une fondation très ancienne : en 1636, un colon et un père missionnaire posent les premières bases, et le nom d’« Habitants » finira par laisser place à « Vieux-Habitants ». Longtemps, la commune tourne vers l’agriculture, avec un café et une vanille portés par des habitations.\n\nAutour de ces terres, les lieux gardent des histoires plus abruptes : à l’anse à la Barque, une batterie est installée dès 1749-1750 pour protéger la baie, puis un seul canon de fer demeure après l’occupation anglaise. Plus tard, des travaux de signalisation et des projets liés à la mer se succèdent avant d’être détruits par le cyclone Hugo.\n\nPlus loin dans le bourg, l’architecture n’a pas toujours suivi les mêmes règles : en 1966, la mairie est construite par Gérard-Michel Corbin avec une technique en rupture avec le reste des constructions. Et dans le paysage, les habitations passent de l’exploitation coloniale à d’autres usages, comme à l’habitation Loyseau, convertie en maison d’hôtes, ou à la Grivelière, ouverte au public après un virage pédagogique.",
+  "chronologie": [
+   {
+    "date": "1636",
+    "texte": "Fondation de Vieux-Habitants par le colon Nicolas Suyllart de la Ramée et le père Raymond Breton ; l’ensemble est la plus ancienne paroisse et commune de Guadeloupe.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1749-1750",
+    "texte": "Sur la pointe de l’Épinard (actuelle pointe Dibuque), une batterie est installée pour protéger l’anse à la Barque.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1777",
+    "texte": "Après l’occupation anglaise, un port est créé à l’anse à la Barque, où ne reste qu’un seul canon de fer.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1966",
+    "texte": "La mairie est construite en 1966 par l’architecte Gérard-Michel Corbin, avec une technique en rupture totale avec le reste des constructions du bourg.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Habitation Loyseau",
+   "histoire": "Ancienne plantation coloniale à Vieux-Habitants, aussi orthographiée Loiseau ou appelée Habitation Guilliod, elle naît comme exploitation caféière au début du XIXe siècle et s’organise sur un domaine de 5 hectares sur la rive gauche de la Grande Rivière des Vieux-Habitants. De nos jours, deux bâtiments (maison principale et bonifierie) sont inscrits aux monuments historiques depuis 2016, et l’ensemble a été converti en maison d’hôtes.",
+   "anecdotes": [
+    {
+     "texte": "Fondée au début du XIXe siècle, l’habitation Loyseau était une exploitation caféière sur 5 hectares, avant de changer de vocation.",
+     "statut": "etabli",
+     "sources": [
+      "S7",
+      "S6",
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S7",
+    "S6",
+    "S8",
+    "S9"
+   ],
+   "lat": 16.0560935,
+   "lon": -61.7550583,
+   "url": "https://fr.wikipedia.org/wiki/Habitation_Loyseau"
+  },
+  {
+   "nom": "Anse à la Barque",
+   "histoire": "Baie de Guadeloupe située en Basse-Terre entre Bouillante et Vieux-Habitants. Dès 1749-1750, une batterie est installée sur la pointe de l’Épinard pour protéger la baie. Le lieu connaît ensuite des aménagements liés aux signaux maritimes : un projet de maison est construit en 1933 avec des matériaux venus des dédommagements versés par les Allemands à l’issue de la Première Guerre mondiale, mais le cyclone Hugo détruit les installations en 1989 et le projet est abandonné.",
+   "anecdotes": [
+    {
+     "texte": "Après l’occupation anglaise, il ne reste qu’un seul canon de fer à l’anse à la Barque, et le site devient assez stratégique pour qu’un port y soit créé dès 1777.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "La maison construite en 1933 utilise du bois du Nord et du sapin, provenant des dédommagements versés par les Allemands à l’issue de la Première Guerre mondiale.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 16.0893,
+   "lon": -61.7669,
+   "url": "https://fr.wikipedia.org/wiki/Anse_%C3%A0_la_Barque"
+  },
+  {
+   "nom": "Habitation La Grivelière",
+   "histoire": "Plantation à Vieux-Habitants sur Basse-Terre. Fondée par des moines Jacobins à la fin du XVIIe siècle sous le nom de Manufacture Saint-Joseph, elle s’étend par parcelles à partir de 1750 jusqu’à la fin du XVIIIe siècle. Classée aux monuments historiques depuis 1987, elle est acquise par le conseil général de la Guadeloupe en 1988, avec un virage pédagogique et une ouverture au public comme « Maison du café » ; la production de café atteint 1,5 tonne de café en parche en 2007.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 16.07165,
+   "lon": -61.72879,
+   "url": "https://fr.wikipedia.org/wiki/Habitation_La_Griveli%C3%A8re"
+  },
+  {
+   "nom": "Habitation-Caféière Getz",
+   "histoire": "Ancienne plantation coloniale à Vieux-Habitants sur l’île de Basse-Terre. Les bâtiments tombent en ruine et l’exploitation est vendue en 1847 à la barre du tribunal. Convertie ensuite en maison d’hôtes, elle est agrandie au milieu du XIXe siècle avec une cuisine et un magasin en maçonnerie ; il ne reste alors qu’un boucan couvert de paille.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 16.077948,
+   "lon": -61.749825,
+   "url": "https://fr.wikipedia.org/wiki/Habitation-Caf%C3%A9i%C3%A8re_Getz"
+  },
+  {
+   "nom": "Phare de l'anse à la Barque",
+   "histoire": "Phare situé dans l’anse du même nom, à la limite des communes de Vieux-Habitants et de Bouillante. En 1931, deux phares en béton hauts de six mètres remplacent deux feux jugés insuffisants. Le phare domine l’ensemble de l’anse, et un second fanion est apposé en 1950 pour indiquer de nuit l’entrée. Le feu fixe blanc est reconstruit en 1963.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 16.08944,
+   "lon": -61.76639,
+   "url": "https://fr.wikipedia.org/wiki/Phare_de_l%27anse_%C3%A0_la_Barque"
+  },
+  {
+   "nom": "Indigoterie de l'Anse à la Barque",
+   "histoire": "Ensemble de maçonneries à Vieux-Habitants, regroupant les ruines d’une indigoterie. Construite au milieu du XVIIe siècle, elle présente une structure classique avec une trempoire et une batterie, mais l’absence de reposoir a été relevée. Des études archéologiques en 2006 montrent que l’indigoterie a été abandonnée au XVIIIe siècle. Aujourd’hui, les vestiges incluent deux cuves en pierre maçonnées à la chaux.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la construction au milieu du XVIIe siècle, l’indigoterie présente une trempoire et une batterie, mais sans reposoir.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 16.0914,
+   "lon": -61.7646,
+   "url": "https://fr.wikipedia.org/wiki/Indigoterie_de_l%27Anse_%C3%A0_la_Barque"
+  },
+  {
+   "nom": "Église Saint-Joseph de Vieux-Habitants",
+   "histoire": "Église catholique de Vieux-Habitants. Déjà jugée trop étroite en 1688, elle est incendiée le 20 mars 1703 par les troupes anglaises. En 1951, Pierre Isnard allonge la nef, détruit le chœur d’origine et ajoute un transept reliant le clocher au reste de l’église. L’édifice est inscrit au titre des monuments historiques en 2006 et classé en 2007.",
+   "anecdotes": [
+    {
+     "texte": "En 1688, l’église est déjà jugée trop étroite, puis elle subit un incendie le 20 mars 1703 par les troupes anglaises.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 16.060389,
+   "lon": -61.765111,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Joseph_de_Vieux-Habitants"
+  },
+  {
+   "nom": "Habitation Darius",
+   "histoire": "Ancienne plantation coloniale à Vieux-Habitants, aussi dite La Coulisse ou « habitation Daüs ». Fondée à la fin du XVIIe siècle, elle est inscrite aux monuments historiques depuis 1990. Les bâtiments, les terrasses et certaines installations mécaniques, situés sur la rive droite de la rivière, sont classés aux monuments historiques le 20 avril 1990.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 16.069274,
+   "lon": -61.732703,
+   "url": "https://fr.wikipedia.org/wiki/Habitation_Darius"
+  }
+ ],
+ "sources": [
+  "Vieux-Habitants (en créole guadeloupéen : Zabitan) est une commune française en Guadeloupe. Elle constitue l'une des villes-centres de l'unité urbaine de Basse-Terre regroupant près de 50 000 habitants. Les habitants sont appelés Habissois(es).",
+  "Fondée en 1636 par le colon Nicolas Suyllart de la Ramée et par le père Raymond Breton, c'est la plus ancienne paroisse et commune de Guadeloupe et des Antilles françaises. Son nom historique était auparavant Habitants avant de devenir Vieux-Habitants. C’était initialement une commune tournée vers l'agriculture et réputée pour son café, sa vanille — produits dans des habitations agricoles (telle que La Grivelière, […]",
+  "1636 : Fondée en 1636 par le colon Nicolas Suyllart de la Ramée et par le père Raymond Breton, c'est la plus ancienne paroisse et commune de Guadeloupe et des Antilles françaises.",
+  "1966 : La mairie est construite en 1966 par l'architecte Gérard-Michel Corbin qui utilise une technique en rupture totale avec le reste des constructions du bourg.",
+  "Lieu « Habitation Loyseau » : L'habitation Loyseau, de nos jours habitation Loiseau (également orthographié L'Oiseau), ou parfois appelée Habitation Guilliod, est une ancienne plantation coloniale située à Vieux-Habitants, sur l'île de Basse-Terre, dans le département de la Guade",
+  "Lieu « Habitation Loyseau », XIXe siècle : Fondée au XIXe siècle, elle est désormais convertie en maison d'hôtes.",
+  "Lieu « Habitation Loyseau », XIXe siècle : À l'origine l'habitation est une exploitation caféière fondée au début du XIXe siècle par la famille Loyseau, sur un domaine de 5 hectares situé sur la rive gauche de la Grande Rivière des Vieux-Habitants.",
+  "Lieu « Habitation Loyseau », 2016 : Deux bâtiments, la maison principale et la bonifierie, sont inscrits aux monuments historiques depuis 2016.",
+  "Lieu « Habitation Loyseau », aujourd'hui : L'habitation Loyseau, de nos jours habitation Loiseau (également orthographié L'Oiseau), ou parfois appelée Habitation Guilliod, est une ancienne plantation coloniale située à Vieux-Habitants, sur l'île de Basse-Terre, dans le département de la Guadeloupe en France.",
+  "Lieu « Anse à la Barque » : Anse à la Barque est une baie de Guadeloupe située en Basse-Terre entre les communes de Bouillante et de Vieux-Habitants.",
+  "Lieu « Anse à la Barque », 1749 : Une batterie est installée dès 1749-1750 sur la pointe de l'Épinard (actuelle pointe Dibuque) pour protéger l'anse face à une autre batterie de construction plus ancienne sur la pointe de l'Anse (à l'époque pointe Duché).",
+  "Lieu « Anse à la Barque », 1933 : Construite en 1933, il s'agit d'une maison en rez-de-chaussée en ciment, bois du Nord et sapin, matériaux issus des dédommagements versés par les Allemands à l'issue de la Première Guerre mondiale.",
+  "Lieu « Anse à la Barque », 1989 : Mais, le cyclone Hugo, en 1989, détruit les installations et le projet est abandonné.",
+  "Lieu « Anse à la Barque », aujourd'hui : Après l'occupation anglaise il ne reste qu'un seul canon de fer à l'anse à la Barque et, comme le lieu est très fréquenté et de haut intérêt stratégique, un port y est créé dès 1777.",
+  "Lieu « Habitation La Grivelière » : L'habitation La Grivelière est une plantation située à Vieux-Habitants, sur Basse-Terre, dans le département de la Guadeloupe en France.",
+  "Lieu « Habitation La Grivelière », 1750 : L'habitation agricole est fondée par des moines Jacobins à la fin du XVIIe siècle sous le nom de Manufacture Saint-Joseph et est étendue par parcelles à partir de 1750 jusqu'à la fin du XVIIIe siècle.",
+  "Lieu « Habitation La Grivelière », 1987 : Fondée à la fin du XVIIe siècle par les moines jacobins, elle est classée aux monuments historiques depuis 1987.",
+  "Lieu « Habitation La Grivelière », 1988 : Elle est acquise par le conseil général de la Guadeloupe en 1988 qui amorce le virage pédagogique du site et son ouverture au public comme « Maison du café » après la replantation de pieds de café et de cacaoyers sur son site, conduisant à la production de 1,5 tonne de café en parche en 2007.",
+  "Lieu « Habitation-Caféière Getz » : L'Habitation-Caféière Getz est une ancienne plantation coloniale située à Vieux-Habitants, sur l'île de Basse-Terre, dans le département de la Guadeloupe en France.",
+  "Lieu « Habitation-Caféière Getz », 1847 : Les bâtiments tombent en ruine et elle est finalement vendue en 1847 à la barre du tribunal.",
+  "Lieu « Habitation-Caféière Getz », XIXe siècle : Fondée au XIXe siècle, elle est désormais convertie en maison d'hôtes.",
+  "Lieu « Habitation-Caféière Getz », aujourd'hui : Au milieu du XIXe siècle, la maison est agrandie par l'ajout d'une cuisine et d'un magasin en maçonnerie mais il ne reste alors qu'un seul boucan couvert de paille.",
+  "Lieu « Phare de l'anse à la Barque » : Le phare de l'anse à la Barque est situé dans l'anse du même nom, à la limite des communes de Vieux-Habitants et de Bouillante sur la Côte-sous-le-vent à l'ouest de Basse-Terre en Guadeloupe.",
+  "Lieu « Phare de l'anse à la Barque », 1931 : En 1931 deux phares en béton et hauts de six mètres sont construits pour remplacer les deux feux jugeaient insuffisants.",
+  "Lieu « Phare de l'anse à la Barque », 1950 : Le phare de l'Anse à la Barque domine l'ensemble de l'anse mais un second fanion, construit en 1950, est apposé sur la pointe de l'Anse pour indiquer de nuit l'entrée de celle-ci.",
+  "Lieu « Phare de l'anse à la Barque », 1963 : Le feu fixe blanc placé au fond de la baie est reconstruit en 1963.",
+  "Lieu « Indigoterie de l'Anse à la Barque » : L'indigoterie de l'Anse à la Barque est un ensemble de maçonneries regroupant les ruines d'une indigoterie situé à Vieux-Habitants en Guadeloupe.",
+  "Lieu « Indigoterie de l'Anse à la Barque », XVIIe siècle : Construite au milieu du XVIIe siècle, l'indigoterie présente une structure classique avec la présence d'une trempoire, d'une batterie mais l'absence de reposoir a été relevée.",
+  "Lieu « Indigoterie de l'Anse à la Barque », 2006 : Des études archéologiques en 2006 ont montré que l'indigoterie a été abandonnée au XVIIIe siècle.",
+  "Lieu « Indigoterie de l'Anse à la Barque », aujourd'hui : Les vestiges présentent aussi deux cuves en pierre maçonnées à la chaux.",
+  "Lieu « Église Saint-Joseph de Vieux-Habitants » : L'église Saint-Joseph de Vieux-Habitants est une église catholique située à Vieux-Habitants, en France.",
+  "Lieu « Église Saint-Joseph de Vieux-Habitants », 1688 : Déjà jugée trop étroite en 1688, elle est incendiée le 20 mars 1703 par les troupes anglaises.",
+  "Lieu « Église Saint-Joseph de Vieux-Habitants », 1951 : Pierre Isnard pour allonger la nef, détruit en 1951 le chœur d'origine et ajoute un transept reliant le clocher, jusqu'alors isolé, au reste de l'église.",
+  "Lieu « Église Saint-Joseph de Vieux-Habitants », 2006 : L'édifice est inscrit au titre des monuments historiques en 2006 et classé en 2007.",
+  "Lieu « Habitation Darius » : L'habitation Darius, dite La Coulisse ou « habitation Daüs », est une ancienne plantation coloniale située à Vieux-Habitants, sur l'île de Basse-Terre, dans le département de la Guadeloupe en France.",
+  "Lieu « Habitation Darius », 1990 : Fondée à la fin du XVIIe siècle, elle est inscrite aux monuments historiques depuis 1990.",
+  "Lieu « Habitation Darius », 1990 : Situés sur la rive droite de la rivière, les bâtiments, les terrasses, et certaines installations mécaniques sont classés aux Monuments historiques le 20 avril 1990."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "commune": {
+  "titre": "Le Gosier",
+  "code_insee": "97113",
+  "departement": "971",
+  "population": 27757,
+  "lat": 16.217967,
+  "lon": -61.503777,
+  "url": "https://fr.wikipedia.org/wiki/Le_Gosier"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:53:58",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1576,
+  "sortie": 1429
+ },
+ "cout_usd": 0.002101,
+ "accroche": "Au Gosier, le fort Louis (Grande-Terre) est complété entre 1743 et 1758, avec caserne, corps de garde, poudrière, puis d’autres bâtiments après la guerre de Sept Ans.",
+ "histoire": {
+  "recit": "Le Gosier, commune de Guadeloupe, compte 27 757 habitants en 2023 et ses habitants sont appelés les Gosiérien(ne). Ici, la défense de la baie et les repères religieux se répondent. Le fort Louis (Grande-Terre) voit ses aménagements s’étoffer au XVIIIe siècle, avant d’être récupéré puis partiellement démantelé. Plus tard, faute de moyens, des projets de rétablissement restent sans suite, et le fort est abandonné au profit du fort Fleur d’Épée, 4,5 km à l’est. Dans le même paysage, l’église Saint-Louis du Gosier, construite en 1658, sert même de réservoir de matériaux lors des luttes contre les Anglais. Au large, l’îlet du Gosier, avec son phare installé à la pointe sud depuis 1852, ne garde plus qu’un dernier habitant, descendant du dernier gardien de phare.",
+  "chronologie": [
+   {
+    "date": "1743-1758",
+    "texte": "Le fort Louis (Grande-Terre) est complété par une caserne, un corps de garde et une poudrière, puis, après la guerre de Sept Ans, par une nouvelle caserne, une citerne et une boulangerie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1763",
+    "texte": "La France récupère le fort après le traité de Paris, en partie démantelé.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XXe siècle",
+    "texte": "Des projets visent à rétablir le fort, mais ils sont abandonnés à cause des coûts.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Le fort est abandonné et remplacé par le fort Fleur d’Épée, dans la commune du Gosier, à 4,5 km à l’est.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1658",
+    "texte": "L’église Saint-Louis du Gosier est construite.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "Ses matériaux sont utilisés pour renforcer le fort Fleur d’épée lors des luttes contre les Anglais.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "18 janvier 2025",
+    "texte": "L’église est détruite le 18 janvier 2025.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "Depuis 1852, le phare du Gosier est implanté à la pointe sud de l’îlet.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Il ne reste qu’un dernier habitant sur l’îlet du Gosier, descendant du dernier gardien de phare.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fort Louis (Grande-Terre)",
+   "histoire": "Fortification de Grande-Terre en Guadeloupe, le fort Louis est complété au XVIIIe siècle, puis récupéré et partiellement démantelé après 1763. Au XXe siècle, des projets de rétablissement restent sans suite, et le site est finalement abandonné au profit du fort Fleur d’Épée.",
+   "anecdotes": [
+    {
+     "texte": "Après la guerre de Sept Ans, on ajoute au fort Louis une nouvelle caserne, une citerne et une boulangerie.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    },
+    {
+     "texte": "Au XXe siècle, malgré des projets de rétablissement, les travaux sont abandonnés en raison des coûts.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Fort abandonné, remplacé par le fort Fleur d’Épée à 4,5 km à l’est.",
+   "sources": [
+    "S6"
+   ],
+   "lat": 16.2163,
+   "lon": -61.5259,
+   "url": "https://fr.wikipedia.org/wiki/Fort_Louis_%28Grande-Terre%29"
+  },
+  {
+   "nom": "Église Saint-Louis du Gosier",
+   "histoire": "Construite en 1658 au Gosier, l’église Saint-Louis devient, pendant les luttes contre les Anglais, une source de matériaux pour renforcer le fort Fleur d’épée. Plus tard, elle est rénovée et illustrée d’une fresque dans les années 2010, avant d’être détruite le 18 janvier 2025.",
+   "anecdotes": [
+    {
+     "texte": "En 1794, les matériaux de l’église sont utilisés pour renforcer le fort Fleur d’épée pendant les luttes contre les Anglais.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "L’église est rénovée et illustrée d’une fresque dans les années 2010.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le clocher est un symbole de la ville, visible de loin.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 16.206697,
+   "lon": -61.494503,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Louis_du_Gosier"
+  },
+  {
+   "nom": "Stade Roger-Zami",
+   "histoire": "Stade de football guadeloupéen situé dans la commune du Gosier, dans l’arrondissement de Pointe-à-Pitre. Inauguré en 1985, il compte 3 000 places et accueille les équipes de l’Association sportive du Gosier et de l’Association sportive Dragon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 16.20926,
+   "lon": -61.50148,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Roger-Zami"
+  },
+  {
+   "nom": "Îlet du Gosier",
+   "histoire": "Îlet d’un kilomètre de long situé à quelques centaines de mètres au large de la ville du Gosier, sur l’île de Grande-Terre. On y remarque la présence du phare du Gosier implanté à la pointe sud depuis 1852.",
+   "anecdotes": [
+    {
+     "texte": "Il ne reste qu’un dernier habitant sur l’îlet, descendant du dernier gardien de phare.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le phare du Gosier est présent depuis 1852, et l’îlet ne compte plus qu’un dernier habitant.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 16.198889,
+   "lon": -61.491111,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Elet_du_Gosier"
+  }
+ ],
+ "sources": [
+  "Le Gosier (en créole guadeloupéen : Gozyé) est une commune française du département de la Guadeloupe. Avec 27 757 habitants en 2023, Le Gosier est la troisième ville la plus peuplée de l'île après Les Abymes et Baie-Mahault. Ses habitants sont appelés les Gosiérien(ne).",
+  "Lieu « Fort Louis (Grande-Terre) » : Le fort Louis, aussi appelé fort L'Union, est une fortification de Grande-Terre en Guadeloupe (Antilles françaises).",
+  "Lieu « Fort Louis (Grande-Terre) », 1743 : Le fort est complété, entre 1743 et 1758, par plusieurs bâtiments : une caserne, un corps de garde, une poudrière, auxquels s'ajoutent, après la guerre de Sept Ans, une nouvelle caserne, une citerne et une boulangerie.",
+  "Lieu « Fort Louis (Grande-Terre) », 1763 : La France le récupère après le traité de Paris en 1763, en partie démantelé.",
+  "Lieu « Fort Louis (Grande-Terre) », XXe siècle : Durant le XXe siècle des projets sont élaborés pour le rétablir mais sont tous, en raison des coûts, abandonnés.",
+  "Lieu « Fort Louis (Grande-Terre) », aujourd'hui : Le fort est par la suite abandonné, remplacé par le fort Fleur d'Épée, 4,5 km à l'est, dans la commune du Gosier, qui peut assurer une meilleure défense de la baie.",
+  "Lieu « Église Saint-Louis du Gosier » : L'église Saint-Louis est située au Gosier en Grande-Terre en Guadeloupe.",
+  "Lieu « Église Saint-Louis du Gosier », 1658 : Construite en 1658, ses matériaux sont utilisés en 1794 pour renforcer le fort Fleur d'épée lors des luttes contre les Anglais.",
+  "Lieu « Église Saint-Louis du Gosier », 2010 : Rénové et illustré d'une fresque dans les années 2010, il est détruit le 18 janvier 2025.",
+  "Lieu « Église Saint-Louis du Gosier », aujourd'hui : Le clocher est un des symboles de la ville par son aspect distinctif, visible de loin.",
+  "Lieu « Stade Roger-Zami » : Le Stade Roger-Zami, également connu sous le nom de Stade municipal du Gosier, est un stade de football guadeloupéen situé dans la commune du Gosier, dans l'arrondissement de Pointe-à-Pitre.",
+  "Lieu « Stade Roger-Zami », 1985 : Le stade, doté de 3 000 places et inauguré en 1985, sert d'enceinte à domicile pour les équipes de football de l'Association sportive du Gosier et de l'Association sportive Dragon.",
+  "Lieu « Îlet du Gosier » : L'îlet du Gosier est un îlet d'un kilomètre de long, situé à quelques centaines de mètres au large de la ville française du même nom : Le Gosier sur l'île de Grande-Terre en Guadeloupe.",
+  "Lieu « Îlet du Gosier », aujourd'hui : Il reste un dernier habitant sur l'îlet, descendant du dernier gardien de phare, il est le dernier domicilié sur l'îlet. l'îlet se fait remarquer par la présence, depuis 1852, du phare du Gosier implanté à la pointe sud."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIIe"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 5
+ }
+}

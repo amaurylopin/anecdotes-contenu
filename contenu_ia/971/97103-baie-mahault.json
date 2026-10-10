@@ -1,0 +1,293 @@
+{
+ "commune": {
+  "titre": "Baie-Mahault",
+  "code_insee": "97103",
+  "departement": "971",
+  "population": 30924,
+  "lat": 16.2602457,
+  "lon": -61.5902996,
+  "url": "https://fr.wikipedia.org/wiki/Baie-Mahault"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:49:32",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2586,
+  "sortie": 1581
+ },
+ "cout_usd": 0.002493,
+ "accroche": "En 1737, à Baie-Mahault, le premier bourg se construit au niveau de la Jaille et la paroisse est créée sous le vocable de Saint Jean-Baptiste.",
+ "histoire": {
+  "recit": "Baie-Mahault commence à se peupler entre la Rivière Salée et la grande Rivière à Goyaves avec Charles Houël, en 1707. Vient ensuite l’essor du bourg : en 1737, au niveau de la Jaille, la paroisse naît et prend le nom de Saint Jean-Baptiste.\n\nPlus tard, le paysage de la commune se forge aussi par ses ouvrages. Le pont de la Gabarre naît d’une nécessité après des naufrages : en 1806, un pont flottant est mis en place, puis le pont métallique de 1929 est conçu par Louis Douldat et réalisé par les ateliers Eiffel. Avec le temps, il devient trop étroit : il est remplacé, puis élargi pour absorber la circulation.\n\nL’industrie marque aussi l’histoire locale. Sur le hameau de La Retraite, la sucrerie de la Retraite se reconstruit à neuf en 1931 malgré une sécheresse, augmente fortement en 1932-1933, subit des grèves et voit sa production s’effondrer entre 1943 et 1945. Aujourd’hui, il n’en reste que de minimes vestiges.\n\nÀ côté, l’ancienne centrale électrique de Baie-Mahault fonctionne jusqu’en 1970 avant d’être abandonnée ; ses vestiges occupent désormais un vaste espace nommé « La Friche ».",
+  "chronologie": [
+   {
+    "date": "1707",
+    "texte": "Entre la Rivière Salée et la grande Rivière à Goyaves, un certain Charles Houël habite pour la première fois la zone.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1737",
+    "texte": "Le premier bourg se construit au niveau de la Jaille ; la paroisse est créée et placée sous le vocable de Saint Jean-Baptiste.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1806",
+    "texte": "Après des naufrages, un pont flottant est mis en place : le « pont de la Gabarre » ou « pont de l'Union ».",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "Construction du pont de la Gabarre, une structure métallique conçue par Louis Douldat et réalisée par les ateliers Eiffel.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1931",
+    "texte": "La sucrerie de la Retraite est reconstruite à neuf grâce aux indemnités versées par l’État, malgré la sécheresse.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1932-1933",
+    "texte": "La production de la sucrerie de la Retraite augmente très fortement.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1943-1945",
+    "texte": "La production de la sucrerie de la Retraite s’effondre entre 1943 et 1945.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "L’ancienne centrale électrique de Baie-Mahault cesse de fonctionner avant d’être abandonnée.",
+    "sources": [
+     "S15"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Sucrerie de la Retraite",
+   "histoire": "Ancienne sucrerie située sur le hameau de La Retraite à Baie-Mahault.",
+   "anecdotes": [
+    {
+     "texte": "En 1931, malgré une importante sécheresse, la sucrerie de la Retraite est reconstruite à neuf grâce aux indemnités versées par l’État.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Entre 1943 et 1945, la production s’effondre, laissant la sucrerie bien plus limitée qu’avant.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il n’en reste que de minimes vestiges, difficiles à distinguer.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 16.22926,
+   "lon": -61.618677,
+   "url": "https://fr.wikipedia.org/wiki/Sucrerie_de_la_Retraite"
+  },
+  {
+   "nom": "Pont de la Gabarre",
+   "histoire": "Pont routier de Guadeloupe reliant la commune, connu d’abord sous forme flottante après des naufrages.",
+   "anecdotes": [
+    {
+     "texte": "Après des naufrages ayant entraîné des morts, un pont flottant est mis en place en 1806 : « pont de la Gabarre » ou « pont de l'Union ».",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Le pont métallique de 1929 est conçu par Louis Douldat et réalisé par les ateliers Eiffel.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Doté d’une seule voie à l’origine, il a été remplacé par un pont double puis élargi à six voies pour faire face aux problèmes de circulation.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 16.2537,
+   "lon": -61.549,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_la_Gabarre"
+  },
+  {
+   "nom": "Ancienne centrale électrique de Baie-Mahault",
+   "histoire": "Usine désaffectée située à Baie-Mahault.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges sont toujours présents et occupent un vaste espace nommé « La Friche ».",
+   "sources": [
+    "S16"
+   ],
+   "lat": 16.267694444444,
+   "lon": -61.588588888889,
+   "url": "https://fr.wikipedia.org/wiki/Ancienne_centrale_%C3%A9lectrique_de_Baie-Mahault"
+  },
+  {
+   "nom": "Monument aux morts de Baie-Mahault",
+   "histoire": "Cénotaphe dans la commune, sur la place Childéric-Trinqueur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 16.2681902,
+   "lon": -61.5870323,
+   "url": "https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Baie-Mahault"
+  },
+  {
+   "nom": "Jarry (Guadeloupe)",
+   "histoire": "Zone industrielle de 1 000 hectares implantée sur la commune de Baie-Mahault.",
+   "anecdotes": [
+    {
+     "texte": "La zone industrielle et commerciale de Jarry-Moudong est considérée comme le poumon économique de la Guadeloupe.",
+     "statut": "etabli",
+     "sources": [
+      "S1"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S1"
+   ],
+   "lat": 16.238888888889,
+   "lon": -61.555555555556,
+   "url": "https://fr.wikipedia.org/wiki/Jarry_%28Guadeloupe%29"
+  },
+  {
+   "nom": "Destreland",
+   "histoire": "Centre commercial de la Guadeloupe situé sur la commune de Baie-Mahault, dans le quartier de Destrellan.",
+   "anecdotes": [
+    {
+     "texte": "En 1997, une vingtaine de boutiques supplémentaires ouvrent, dont un espace consacré au bricolage occupé par Mr Bricolage.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 16.253118,
+   "lon": -61.589978,
+   "url": "https://fr.wikipedia.org/wiki/Destreland"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste de Baie-Mahault",
+   "histoire": "Église catholique située rue du Maréchal-Foch à Baie-Mahault.",
+   "anecdotes": [
+    {
+     "texte": "Durant la période 1930-1931, l’architecte Ali Tur est mandaté, par adjudication de lots, pour construire l’église Saint-Jean-Baptiste et le presbytère.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 16.267317,
+   "lon": -61.586096,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Baie-Mahault"
+  },
+  {
+   "nom": "Pont mobile de l'Alliance",
+   "histoire": "Pont routier mobile en Guadeloupe.",
+   "anecdotes": [
+    {
+     "texte": "Depuis le 3 janvier 2021, la RN 11 et le pont sont fermés à la circulation automobile chaque dimanche matin pour laisser la place aux cyclistes.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 16.271451,
+   "lon": -61.54835,
+   "url": "https://fr.wikipedia.org/wiki/Pont_mobile_de_l%27Alliance"
+  }
+ ],
+ "sources": [
+  "Baie-Mahault (prononcé [bɛ ma.o] ; en créole guadeloupéen : Bémao) est une commune française, située dans le département de la Guadeloupe. Avec 30 909 habitants en 2021, Baie-Mahault est la deuxième ville la plus peuplée de la Guadeloupe après Les Abymes. La zone industrielle et commerciale de Jarry-Moudong située sur le territoire de Baie-Mahault est considérée comme le poumon économique de la Guadeloupe avec 3 500 […]",
+  "En 1707, la zone située entre la Rivière Salée et la grande Rivière à Goyaves est habitée pour la première fois, par un dénommé Charles Houël. C'est ensuite en 1737 que le premier bourg s'y construit, au niveau de la Jaille, et que la paroisse est créée et mise sous le vocable de Saint Jean-Baptiste. En 1794, lors de l'invasion de la Guadeloupe par les Britanniques, Baie-Mahault abrite des batteries qui servent à […]",
+  "1737 : C'est ensuite en 1737 que le premier bourg s'y construit, au niveau de la Jaille, et que la paroisse est créée et mise sous le vocable de Saint Jean-Baptiste.",
+  "Lieu « Sucrerie de la Retraite » : La sucrerie de la Retraite est une ancienne sucrerie située sur le hameau de La Retraite à Baie-Mahault en Guadeloupe.",
+  "Lieu « Sucrerie de la Retraite », 1931 : Grace aux indemnités versées par l'État, et malgré l'importante sécheresse de 1931, elle est reconstruite à neuf et sa production augmente très fortement en 1932-1933.",
+  "Lieu « Sucrerie de la Retraite », 1939 : Jusqu'en 1939, sa situation financière demeure rentable mais l'usine doit faire face à plusieurs mouvements de gréve de ses employés en 1930, 1934 et 1937 jusqu'à l'accord signé entre le gouverneur Félix Éboué et les usiniers.",
+  "Lieu « Sucrerie de la Retraite », 1943 : La production s'effondre entre 1943 et 1945.",
+  "Lieu « Sucrerie de la Retraite », aujourd'hui : De taille moindre en comparaison de celle de Darboussier, il n'en reste que de minimes vestiges, difficiles à distinguer.",
+  "Lieu « Pont de la Gabarre » : Le pont de la Gabarre est un pont routier situé en Guadeloupe.",
+  "Lieu « Pont de la Gabarre », 1806 : Des naufrages ayant entraîné des morts, un pont flottant est mis en place en 1806, appelé « pont de la Gabarre » ou « pont de l'Union ».",
+  "Lieu « Pont de la Gabarre », 1929 : En 1929 est construit le pont de la Gabarre proprement dit, structure métallique conçue par l'ingénieur guadeloupéen Louis Douldat et réalisée par les ateliers Eiffel.",
+  "Lieu « Pont de la Gabarre », aujourd'hui : Doté d'une seule voie, il s'avère rapidement insuffisant et, dans les années 1950, le pont est remplacé par un pont double situé à quelques mètres au nord, avant de passer à six voies pour faire face aux problèmes de circulation.",
+  "Lieu « Ancienne centrale électrique de Baie-Mahault » : L'Ancienne centrale électrique de Baie-Mahault est une usine désaffectée située à Baie-Mahault en Guadeloupe.",
+  "Lieu « Ancienne centrale électrique de Baie-Mahault », 1934 : L'usine est achevée le 31 décembre 1934.",
+  "Lieu « Ancienne centrale électrique de Baie-Mahault », 1970 : L'usine reste en fonctionnement jusqu'en 1970 avant d'être abandonnée.",
+  "Lieu « Ancienne centrale électrique de Baie-Mahault », aujourd'hui : Les vestiges sont toujours présents (2026) et occupent un vaste espace nommé « La Friche ».",
+  "Lieu « Monument aux morts de Baie-Mahault » : Le monument aux morts de Baie-Mahault est un cénotaphe situé dans la commune de Baie-Mahault en Guadeloupe, sur la place Childéric-Trinqueur.",
+  "Lieu « Monument aux morts de Baie-Mahault », 1935 : Il a été érigé en 1935 en mémoire des soldats morts lors des combats de la Première Guerre mondiale et est inscrit aux monuments historiques en 2018.",
+  "Lieu « Monument aux morts de Baie-Mahault », 1936 : Il est inauguré le 12 janvier 1936 près de la place de la Mairie.",
+  "Lieu « Jarry (Guadeloupe) » : Jarry (en créole Jari ) est une zone industrielle de 1 000 hectares implantée sur la commune de Baie-Mahault, en Guadeloupe.",
+  "Lieu « Jarry (Guadeloupe) », 1994 : Inauguré en 1994, le Complexe World Trade Center (CWTC) est le centre logistique de la « Zone de commerce international » de la Guadeloupe (ZCI).",
+  "Lieu « Jarry (Guadeloupe) », aujourd'hui : Aujourd'hui cet engorgement de cette zone baie-mahaultienne pose de nombreuses réflexions sur la discrimination spatiale, la centralisation économique, bien sûr la surenchère des agences immobilières[réf. nécessaire] et donc les risques inhérents à l'environnement sur ces populations îliennes.",
+  "Lieu « Destreland » : Destreland est un centre commercial de la Guadeloupe, situé sur la commune de Baie-Mahault, dans le quartier de Destrellan.",
+  "Lieu « Destreland », 1997 : En 1997, une vingtaine de boutiques supplémentaires ouvrent, et un espace consacré au bricolage est occupé par Mr Bricolage.",
+  "Lieu « Destreland », 2015 : À partir du 25 octobre 2015, l'hypermarché Carrefour est ouvert le dimanche de 8 h 30 à 12 h 30, de même que la station-service du centre commercial.",
+  "Lieu « Église Saint-Jean-Baptiste de Baie-Mahault » : L'église Saint-Jean-Baptiste de Baie-Mahault est une église catholique située rue du Maréchal-Foch à Baie-Mahault en Guadeloupe.",
+  "Lieu « Église Saint-Jean-Baptiste de Baie-Mahault », 1930 : Durant la période 1930-1931, l'architecte Ali Tur — particulièrement actif dans la reconstruction des bâtiments civils de l'île après le passage du dévastateur ouragan Okeechobee en 1928 — est mandaté, par adjudication de lots, pour construire l'église Saint-Jean-Baptiste et le presbytère pour une somme totale de 850 000 FRF (563 779,5 EUR2023).",
+  "Lieu « Pont mobile de l'Alliance » : Le pont mobile de l'Alliance ou pont de l'Alliance est un pont routier mobile situé en Guadeloupe.",
+  "Lieu « Pont mobile de l'Alliance », 2021 : Depuis le 3 janvier 2021, la RN 11 et le pont sont fermés à la circulation automobile dans les deux sens tous les dimanches matin entre 6 h 30 et 11 h pour les laisser aux cyclistes qui peuvent pratiquer leur sport sur une boucle située entre le giratoire de Fonds-Sarail et l'échangeur de l'aéroport Pôle Caraïbes avec le pont pour côte."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}
