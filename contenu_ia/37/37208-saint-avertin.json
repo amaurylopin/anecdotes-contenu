@@ -1,0 +1,212 @@
+{
+ "commune": {
+  "titre": "Saint-Avertin",
+  "code_insee": "37208",
+  "departement": "37",
+  "population": 14999,
+  "lat": 47.3675,
+  "lon": 0.72777778,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Avertin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:27:39",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1578,
+  "sortie": 1257
+ },
+ "cout_usd": 0.001887,
+ "accroche": "Le château de Cangé, édifié au XIIIe siècle, a été ravagé par un incendie dans la nuit du 20 au 21 juin 1978 à Saint-Avertin.",
+ "histoire": {
+  "recit": "À Saint-Avertin, l’histoire commence au nord, autour des carrières de l’Ecorcheveau : à l’époque gallo-romaine, un hameau y prospère et sa production sert au développement de Caesarodunum, puis plus tard à la cathédrale Saint-Gatien. Le territoire, lui, dépend ensuite de la collégiale Saint-Martin : un document daté du 7 janvier 941 le rattache à cette institution.\n\nAu XXe siècle, la ville se développe par quartiers. Au début des années 1960, la cité Château-Fraisier rassemble 154 appartements dans le nord. Puis, dans les années 1970, le quartier des Grands-Champs voit la construction de 164 logements sociaux, réhabilités en 2017.\n\nParmi les lieux, le château de Cangé, attribué à une famille tourangelle des d’Andigné, connaît une grande rupture en 1978, avant d’ouvrir à nouveau ses portes le 28 décembre 2012. Le manoir de la Singerie, dit la Cigogne, conserve encore des traces remarquables : façades, toitures, parc, et mur avec grille, inscrits au titre des monuments historiques dès 1950.",
+  "chronologie": [
+   {
+    "date": "époque gallo-romaine",
+    "texte": "Un hameau se développe au nord, autour des carrières de l’Ecorcheveau, fournissant de la pierre pour Caesarodunum puis, plus tard, pour la cathédrale Saint-Gatien.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "7 janvier 941",
+    "texte": "Un document rattache le territoire de Saint-Avertin à la collégiale Saint-Martin.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début des années 1960",
+    "texte": "La cité Château-Fraisier est construite : 154 appartements dans le nord de la ville.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "années 1970",
+    "texte": "Le quartier des Grands-Champs est créé avec 164 logements sociaux, réhabilités en 2017.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le château de Cangé est édifié pour une famille tourangelle, les d’Andigné.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "nuit du 20 au 21 juin 1978",
+    "texte": "Un incendie ravage le château de Cangé.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "28 décembre 2012",
+    "texte": "Le château de Cangé ouvre ses portes.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "Le manoir de la Singerie est lié à une vente comme bien national : Jean-Baptiste Cossard, prêtre à Blois, vend une métairie après son émigration.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "18 août 1950",
+    "texte": "Des éléments du manoir de la Singerie (logis, bâtiments de servitude, parc, mur et grille) sont inscrits au titre des monuments historiques.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Le domaine du manoir de Paradis s’appuie sur un château antérieur : le terrain porte celui du XVIe siècle.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le manoir de Paradis est construit au XVIIe siècle sur le terrain d’un château du XVIe siècle.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "Au manoir de la Sagerie, des tympans portent des armoiries aujourd’hui dégradées.",
+    "sources": [
+     "S15"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Cangé",
+   "histoire": "Le château de Cangé est situé entre Saint-Avertin et la commune voisine. Il a été édifié au XIIIe siècle pour une famille tourangelle, les d’Andigné.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 47.3678,
+   "lon": 0.7535,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cang%C3%A9"
+  },
+  {
+   "nom": "Manoir de la Singerie",
+   "histoire": "Le manoir de la Singerie, dit la Cigogne, est un manoir situé à Saint-Avertin. En 1793, il est au cœur d’une vente comme bien national liée à l’émigration de Jean-Baptiste Cossard. En 1950, plusieurs parties et éléments du site sont inscrits aux monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "En 1793, le prêtre Jean-Baptiste Cossard, à Blois, vend une métairie comme bien national après son émigration.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "En 1950, les façades et toitures, ainsi que le parc et le mur avec grille de jardin nord, sont inscrits au titre des monuments historiques.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 47.3619,
+   "lon": 0.7238,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_la_Singerie"
+  },
+  {
+   "nom": "Domaine du manoir de Paradis",
+   "histoire": "Le domaine du manoir de Paradis réunit un manoir, un parc et une ruine à Saint-Avertin. Le manoir est construit au XVIIe siècle sur le terrain d’un château du XVIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 47.3663,
+   "lon": 0.7283,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_du_manoir_de_Paradis"
+  },
+  {
+   "nom": "Manoir de la Sagerie",
+   "histoire": "Le manoir de la Sagerie est un manoir situé à Saint-Avertin. Les tympans y portent des armoiries aujourd’hui dégradées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 47.356,
+   "lon": 0.7089,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_la_Sagerie"
+  }
+ ],
+ "sources": [
+  "Saint-Avertin est une commune française située dans le département d'Indre-et-Loire en région Centre-Val de Loire. Intégrée au sein de la métropole de Tours, elle en est la cinquième commune plus peuplée avec près de 15 000 habitants en 2022. Exposée à un climat océanique altéré, elle est drainée par le Cher, le Filet, le Petit Cher et un autre petit cours d'eau. La commune possède une zone naturelle d'intérêt […]",
+  "Lors de l'époque gallo-romaine, un hameau se développe dans la partie nord de l'actuelle commune, autour des carrières de pierres de l'Ecorcheveau. Sa production sert au développement de Caesarodunum (actuelle Tours) et plus tard pour la cathédrale Saint-Gatien. Au IXe siècle, le territoire de l'actuelle commune de Saint-Avertin appartenait à la collégiale Saint-Martin, ainsi dans un document daté du 7 janvier 941, […]",
+  "1960 : La ville compte aussi quelques rares habitats collectifs, dont la cité Château-Fraisier, 154 appartements construits au début des années 1960 dans le nord de la ville.",
+  "1970 : Dans le centre, on trouve le quartier des Grands-Champs, soit 164 logements sociaux bâtis dans les années 1970 et réhabilités en 2017.",
+  "Lieu « Château de Cangé » : Le château de Cangé est un château situé entre la commune de Saint-Avertin, dans le département d'Indre-et-Loire.",
+  "Lieu « Château de Cangé », XIIIe siècle : Le château de Cangé a été édifié au XIIIe siècle pour une famille tourangelle, les d'Andigné.",
+  "Lieu « Château de Cangé », 1978 : Un incendie le ravagea dans la nuit du 20 au 21 juin 1978.",
+  "Lieu « Château de Cangé », 2012 : Elle a ouvert ses portes le 28 décembre 2012.",
+  "Lieu « Manoir de la Singerie » : Le manoir de la Singerie, dit la Cigogne est un manoir situé à Saint-Avertin (Indre-et-Loire).",
+  "Lieu « Manoir de la Singerie », 1793 : Jean-Baptiste Cossard, prêtre à Blois, est propriétaire d'une métairie qui est vendue comme bien national en 1793 à la suite de son émigration.",
+  "Lieu « Manoir de la Singerie », 1950 : Les façades et les toitures du logis d'habitation et des bâtiments de servitude, le parc ainsi que le mur et la grille de jardin nord font l'objet d'une inscription au titre des monuments historiques par arrêté du 18 août 1950.",
+  "Lieu « Domaine du manoir de Paradis » : Le domaine du manoir de Paradis est un ensemble comprenant un manoir et son parc ainsi qu'une ruine, situés à Saint-Avertin (Indre-et-Loire).",
+  "Lieu « Domaine du manoir de Paradis », XVIIe siècle : Le manoir est construit au XVIIe siècle sur le terrain d'un château du XVIe siècle.",
+  "Lieu « Manoir de la Sagerie » : Le manoir de la Sagerie est un manoir situé à Saint-Avertin (Indre-et-Loire).",
+  "Lieu « Manoir de la Sagerie », aujourd'hui : Les tympans portent des armoiries aujourd'hui dégradées."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 2
+ }
+}

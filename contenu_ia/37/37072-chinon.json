@@ -1,0 +1,304 @@
+{
+ "commune": {
+  "titre": "Chinon",
+  "code_insee": "37072",
+  "departement": "37",
+  "population": 8144,
+  "lat": 47.16777778,
+  "lon": 0.24361111,
+  "url": "https://fr.wikipedia.org/wiki/Chinon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:18:00",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3994,
+  "sortie": 2295
+ },
+ "cout_usd": 0.003668,
+ "accroche": "En mai 1370, Charles V réserve Chinon comme « siège et lieu royal » pour ses officiers, tandis que la Touraine devient un apanage pour Louis son frère.",
+ "histoire": {
+  "recit": "Chinon s’étire au-dessus de la Vienne, sur un éperon qui domine presque la rivière. Très tôt, ses hauteurs abritent des habitations troglodytiques, et l’archéologie signale une agglomération gallo-romaine protégée. Au Moyen Âge, l’hôpital existe déjà : des actes du XIIIe siècle attestent un Hôtel-Dieu pour malades, enfants abandonnés et vagabonds. Au XIVe siècle, les fortifications se transforment avec la Tour de l’Horloge et une enceinte longeant la Vienne. \n\nLa ville prend ensuite des airs d’orbite politique : en 1370, Chinon est retenue pour y établir les officiers du roi. Plus tard, en 1413, elle est occupée par des Bourguignons, puis reprise par les Armagnacs l’année suivante. \n\nOn y croise aussi les drames ordinaires du commerce : vers 1500, la communauté des marchands indemnise, en dix ans, 72 naufrages. Les siècles suivants portent l’ombre des incendies et des réorganisations : l’hôpital détruit en 1637 est reconstruit en 1641 au lieu actuel du parking de la Brèche.",
+  "chronologie": [
+   {
+    "date": "XIIIe siècle",
+    "texte": "Des actes attestent l’existence d’un Hôtel-Dieu accueillant malades, enfants abandonnés et vagabonds.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Vers le milieu du XIVe siècle",
+    "texte": "Édification de la Tour de l’Horloge et d’une enceinte longeant la Vienne, de la porte du Vieux Marché jusqu’aux Halles.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Mai 1370",
+    "texte": "Charles V donne la Touraine en apanage à Louis, tout en réservant Chinon comme « siège et lieu royal » pour ses officiers.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1413",
+    "texte": "Au cours des affrontements entre Bourguignons et Armagnacs, Chinon est occupée par les Bourguignons.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "L’année suivante",
+    "texte": "Chinon est délogée l’année suivante par les Armagnacs.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "Vers 1500",
+    "texte": "La communauté des marchands indemnise, en dix années, pas moins de 72 naufrages.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1626",
+    "texte": "Des religieuses des Filles du Calvaire d’Angers sont installées à l’hospice.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1637",
+    "texte": "Les bâtiments sont détruits par un incendie ; l’hôpital, devenu lieu de débauche, est totalement réorganisé.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1641",
+    "texte": "L’Hôtel-Dieu est reconstruit dans des bâtiments situés à l’emplacement actuel du parking de la Brèche.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Chapelle Sainte-Radegonde de Chinon",
+   "histoire": "Chapelle semi-troglodytique, ancienne oratoire transformé au flanc du coteau de Sainte-Radegonde, à l’est du centre-ville historique de Chinon. Le site paraît occupé dès le Hallstatt, d’après des vestiges et des tessons retrouvés sur le coteau.",
+   "anecdotes": [
+    {
+     "texte": "Sa voûte s’écroule partiellement côté sud, si bien que l’édifice n’est plus en mesure d’accueillir les fidèles et pèlerins.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Désaffectée à la Révolution française, la chapelle est vendue comme bien national en 1793 puis transformée, avec des cavités attenantes à l’ouest, en quatre habitations différentes.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site semble occupé dès le Hallstatt ; des vestiges d’habitats de surface et des tessons de poteries ont été retrouvés sur le coteau au-dessus de la chapelle.",
+   "sources": [
+    "S18",
+    "S14"
+   ],
+   "lat": 47.168459,
+   "lon": 0.253702,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Sainte-Radegonde_de_Chinon"
+  },
+  {
+   "nom": "Jeu de paume de Chinon",
+   "histoire": "Ancienne salle destinée au jeu de courte paume, construite vers la fin du XVIe siècle. Elle est signalée dans des textes de cette époque alors qu’elle est louée à un aubergiste voisin. Au XVIIe siècle, elle s’inscrit dans le faubourg Saint-Étienne, à l’est de la ville forte.",
+   "anecdotes": [
+    {
+     "texte": "Même très tôt, le destin du jeu semble hésitant : l’engouement pour ce sport ne tarde pas à faiblir en France.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    },
+    {
+     "texte": "Une partie de sa charpente est datée par dendrochronologie de la fin des années 1580 (1587-1590).",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Celle-ci est la seule préservée, et l’une des plus anciennes salles de jeu de paume conservées en élévation en France.",
+   "sources": [
+    "S23",
+    "S19"
+   ],
+   "lat": 47.1629,
+   "lon": 0.2422,
+   "url": "https://fr.wikipedia.org/wiki/Jeu_de_paume_de_Chinon"
+  },
+  {
+   "nom": "Couvent des Augustins de Chinon",
+   "histoire": "Ancien couvent des Augustins. Une bulle pontificale autorise la création d’un couvent à Chinon ; l’édification d’une église est permise. Au milieu du XIVe siècle, il est construit en reprenant des bâtiments déjà existants, puis agrandi au XVIIe siècle. Depuis la Révolution française, une grande partie des locaux accueille la sous-préfecture.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 47.1664117,
+   "lon": 0.2429978,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Augustins_de_Chinon"
+  },
+  {
+   "nom": "Fort Saint-Georges (Chinon)",
+   "histoire": "Un des trois éléments de la forteresse royale de Chinon. Construit par Henri II Plantagenêt pour protéger l’entrée du château principal, il perd ensuite un rôle défensif et les rois ne séjournent plus à Chinon. Des vestiges sont classés comme monuments historiques à plusieurs reprises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ses vestiges sont classés comme monuments historiques en 1926, 1927 et 1931.",
+   "sources": [
+    "S29",
+    "S30",
+    "S33"
+   ],
+   "lat": 47.1682,
+   "lon": 0.2387,
+   "url": "https://fr.wikipedia.org/wiki/Fort_Saint-Georges_%28Chinon%29"
+  },
+  {
+   "nom": "Couvent des Calvairiennes de Chinon",
+   "histoire": "Ancien établissement religieux de l’ordre des bénédictines de Notre-Dame du Calvaire. L’ordre est fondé vers la fin des années 1610 ; le couvent est construit peu après 1626. Après le départ des religieuses, il devient « hôpital Saint-Michel » en 1794, puis accueille une résidence de loisirs au début des années 2010. Les vantaux en bois du portail d’entrée sont préservés et exposés contre un mur non loin de leur emplacement d’origine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vantaux en bois du portail d’entrée sont préservés et exposés contre un mur non loin de leur emplacement d’origine.",
+   "sources": [
+    "S38"
+   ],
+   "lat": 47.168611111111,
+   "lon": 0.2325,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Calvairiennes_de_Chinon"
+  },
+  {
+   "nom": "Collégiale Saint-Mexme de Chinon",
+   "histoire": "Ancienne collégiale classée au titre des monuments historiques par la liste de 1840. L’église est reconstruite sur un plan basilical ; agrandie dès 1050 avec un narthex encadré de deux tours. Au XIIe siècle, la nef s’allonge et l’ensemble devient un vaste édifice de pèlerinage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les parties subsistantes, nef et massif occidental, sont transformés en école jusqu’en 1980.",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S43"
+   ],
+   "lat": 47.168035,
+   "lon": 0.24526,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Mexme_de_Chinon"
+  },
+  {
+   "nom": "Église Saint-Maurice de Chinon",
+   "histoire": "Église paroissiale affectée au culte catholique. Construite au XIIe siècle en remplacement d’un édifice du Xe siècle, elle évolue encore au XVe siècle avec l’édification de la flèche du clocher, puis par des ajouts au sud et à la nef. En 1944, des vitraux d’origine sont détruits lors de bombardements sur le pont sur la Vienne ; ils sont remplacés par des vitrages modernes dessinés par Théo Hanssen et réalisés par un atelier d’Orléans.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La nef conserve dans son mur septentrional quelques vestiges de l’église du Xe siècle et se compose de trois travées égales sur plan carré.",
+   "sources": [
+    "S44",
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+   ],
+   "lat": 47.166905,
+   "lon": 0.235981,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maurice_de_Chinon"
+  },
+  {
+   "nom": "Église Saint-Étienne de Chinon",
+   "histoire": "Église paroissiale affectée au culte catholique. Une église romane est construite au XIe siècle. L’édifice est inscrit comme monument historique le 18 juin 1962, puis la partie visible au XXIe siècle correspond à une reconstruction dont ne subsiste que la base du clocher. Depuis 2000, la paroisse sainte Jeanne d’Arc est confiée à la Communauté Saint-Martin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La paroisse sainte Jeanne d’Arc a été confiée à la Communauté Saint-Martin depuis 2000.",
+   "sources": [
+    "S49",
+    "S50",
+    "S51",
+    "S52",
+    "S53"
+   ],
+   "lat": 47.16737,
+   "lon": 0.24384,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Chinon"
+  }
+ ],
+ "sources": [
+  "Chinon (prononcé : /ʃi.nɔ̃/ ) est une commune française de la Touraine située dans le département d'Indre-et-Loire, en région Centre-Val de Loire. Elle est avec Loches, l'une des deux sous-préfectures d’Indre-et-Loire. Ses habitants s’appellent les Chinonais. Placée sur le cours de la Vienne, dans une position stratégique aux confins de la Touraine, de l'Anjou et du Poitou, dotée d'un éperon rocheux fortifié dès […]",
+  "Dominant la Vienne, le plateau de Chinon finit en éperon, presque à toucher la rivière. Les hauteurs de la face sud de ce saillant escarpé abritent des habitations troglodytiques extrêmement anciennes. Très tôt, son extrémité ouest est fortifiée, probablement par les Gaulois, et sans aucun doute par les Romains. L'archéologie locale indique la présence à Chinon d'une importante agglomération gallo-romaine protégée […]",
+  "XIIIe siècle : Des actes du XIIIe siècle attestent l’existence, dès cette époque, d'un Hôtel-Dieu accueillant malades, enfants abandonnés et vagabonds.",
+  "XIVe siècle : Vers le milieu du XIVe siècle, les fortifications évoluent avec l'édification de la Tour de l'Horloge et d'une enceinte longeant la Vienne, de la porte du Vieux Marché jusqu'aux Halles.",
+  "1370 : En mai 1370, le roi de France Charles V le Sage donne la Touraine en apanage à son jeune frère Louis, tout en se réservant Chinon comme « siège et lieu royal pour nos officiers que à ce établirons », à savoir un bailli des exemptions de Touraine, Anjou et Maine, installé peu de temps après à Chinon.",
+  "1413 : En 1413, lors des affrontements entre Bourguignons et Armagnacs, Chinon est occupée par les premiers, délogés l'année suivante par les seconds.",
+  "1500 : Vers 1500, la communauté des marchands indemnise, en dix années, pas moins de 72 naufrages.",
+  "1621 : Depuis 1621, il est propriétaire du domaine patrimonial de Richelieu, à quelques lieues de Chinon, où l'architecte Lemercier lui bâtit un palais.",
+  "1626 : Des religieuses de l'ordre des Filles du Calvaire d'Angers sont installées à l'hospice (1626).",
+  "1637 : Les bâtiments sont détruits par un incendie en 1637, et l'hôpital, devenu lieu de débauche, est totalement réorganisé.",
+  "1641 : L’Hôtel-Dieu n'est reconstruit qu’en 1641, dans des bâtiments situés à l’emplacement actuel du parking de la Brèche.",
+  "1871 : Alors que Tours est le siège du gouvernement de la République, aux termes de l'armistice signé à Versailles le 28 janvier 1871, les Allemands sont autorisés à avancer jusqu'aux approches de Bourgueil, de Chinon et de Descartes.",
+  "1944 : Alors que Paris a été libéré le vendredi 25 août 1944, les Américains arrivent deux jours plus tard à Port-Boulet, Chouzé-sur-Loire.",
+  "Lieu « Chapelle Sainte-Radegonde de Chinon » : La chapelle Sainte-Radegonde est un édifice semi-troglodytique, ancien oratoire transformé en chapelle au flanc du coteau de Sainte-Radegonde, à l'est du centre-ville historique de Chinon, dans le département français d'Indre-et-Loire en région Centr",
+  "Lieu « Chapelle Sainte-Radegonde de Chinon », XIIIe siècle : Peut-être à la fin du XIIe ou au début du XIIIe siècle, sa voûte s'écroule partiellement côté sud : l'édifice n'est plus alors en mesure d'accueillir les nombreux fidèles et pèlerins.",
+  "Lieu « Chapelle Sainte-Radegonde de Chinon », 1793 : L'édifice cultuel désaffecté à la Révolution française est vendu comme bien national en 1793 et transformé, ainsi que des cavités attenantes à l'ouest, en quatre habitations différentes.",
+  "Lieu « Chapelle Sainte-Radegonde de Chinon », 1879 : De cette époque datent le gisant de l'ermite Jean (achevé le 6 août 1879), le mobilier (autels et statues) et les peintures de l'abside représentant le Christ en gloire entouré du tétramorphe ainsi que la réfection d'autres peintures, dont celles du XVIIe siècle.",
+  "Lieu « Chapelle Sainte-Radegonde de Chinon », aujourd'hui : Le site chinonais de Sainte-Radegonde semble occupé dès le Hallstatt ; en témoignent des vestiges d'habitats « de surface » et des tessons de poteries retrouvés sur le coteau au-dessus de la chapelle.",
+  "Lieu « Jeu de paume de Chinon » : Le jeu de paume de Chinon est une ancienne salle destinée au jeu de courte paume dans la commune de Chinon, dans le département français d'Indre-et-Loire.",
+  "Lieu « Jeu de paume de Chinon », XVIe siècle : Elle est construite vers la fin du XVIe siècle mais l'engouement pour ce sport ne tarde pas à faiblir en France.",
+  "Lieu « Jeu de paume de Chinon », 1580 : La salle est construite dans la seconde moitié du XVIe siècle : une grande partie de sa charpente est datée par dendrochronologie de la fin des années 1580 (1587-1590) ; elle est mentionnée dans des textes de cette époque alors qu'elle est louée à un aubergiste voisin.",
+  "Lieu « Jeu de paume de Chinon », XVIIe siècle : La salle est implantée dans ce qui est, au XVIIe siècle, le faubourg Saint-Étienne à l'est de la ville forte de Chinon, dans un secteur où l'urbanisation encore assez lâche ménage de grands espaces non bâtis avec des jardins.",
+  "Lieu « Jeu de paume de Chinon », aujourd'hui : Celle-ci, la seule préservée, est en tout cas l'une des plus anciennes salles de jeu de paume conservées en élévation en France alors qu'il ne reste plus que trois bâtiments de ce type en service à Bordeaux, Fontainebleau et Paris.",
+  "Lieu « Couvent des Augustins de Chinon » : Le couvent des Augustins est un ancien couvent dans la commune de Chinon, dans le département français d'Indre-et-Loire.",
+  "Lieu « Couvent des Augustins de Chinon », 1243 : Moins d'un siècle après la fondation de l'ordre de Saint-Augustin en 1243, une bulle pontificale de Jean XXII autorise en 1334 la création d'un couvent de cet ordre à Chinon et l'archevêque de Tours Pierre de Fretaud permet l'édification d'une église.",
+  "Lieu « Couvent des Augustins de Chinon », XIVe siècle : Il est construit au milieu du XIVe siècle, en reprenant en grande partie des bâtiments déjà existants, agrandi au XVIIe siècle mais, depuis la Révolution française, une grande partie de ses locaux accueille la sous-préfecture de Chinon.",
+  "Lieu « Couvent des Augustins de Chinon », XXIe siècle : Au XXIe siècle, le reste des bâtiments est consacré au conservatoire de musique et de danse et à une école privée.",
+  "Lieu « Couvent des Augustins de Chinon », aujourd'hui : Les bâtiments épousent la forme d'un quadrilatère entourant le cloître dont une partie de l'arcature orientale est visible.",
+  "Lieu « Fort Saint-Georges (Chinon) » : Le fort Saint-Georges est l'un des trois éléments de la forteresse royale de Chinon, dans la commune du même nom, dans le département français d'Indre-et-Loire.",
+  "Lieu « Fort Saint-Georges (Chinon) », XVIe siècle : Le fort Saint-Georges est construit par Henri II Plantagenêt pour protéger l'entrée du château principal mais à partir du XVIe siècle il perd ce rôle défensif et les rois ne séjournent plus à Chinon.",
+  "Lieu « Fort Saint-Georges (Chinon) », 1907 : De nombreux bâtiments et deux tours y sont construites, dont l'une s'effondre en partie en 1907.",
+  "Lieu « Fort Saint-Georges (Chinon) », 2000 : Construit par Henri II Plantagenêt dans la seconde moitié du XIIe siècle, il est abandonné à partir du XVIe siècle. dans les années 2000, il fait l'objet de fouilles et de réhabilitation.",
+  "Lieu « Fort Saint-Georges (Chinon) », aujourd'hui : Ses vestiges sont classés comme monuments historiques en 1926, 1927 et 1931.",
+  "Lieu « Couvent des Calvairiennes de Chinon » : Le couvent des Calvairiennes de Chinon est un ancien établissement religieux de l'ordre des bénédictines de Notre-Dame du Calvaire dans la commune française de Chinon, dans le département d'Indre-et-Loire.",
+  "Lieu « Couvent des Calvairiennes de Chinon », 1610 : L'ordre des bénédictines de Notre-Dame du Calvaire est fondé vers la fin des années 1610.",
+  "Lieu « Couvent des Calvairiennes de Chinon », 1626 : Construit peu après 1626, il est utilisé comme hôpital après la Révolution française puis transformé en résidence de loisirs au début des années 2010.",
+  "Lieu « Couvent des Calvairiennes de Chinon », 1794 : Après le départ des religieuses à la Révolution française, le couvent est transformé en « hôpital Saint-Michel » en 1794.",
+  "Lieu « Couvent des Calvairiennes de Chinon », aujourd'hui : Les vantaux en bois du portail d'entrée sont préservés ; ils sont exposés contre un mur non loin de leur emplacement d'origine.",
+  "Lieu « Collégiale Saint-Mexme de Chinon » : La collégiale Saint-Mexme de Chinon est une ancienne collégiale située à Chinon dans le département d'Indre-et-Loire, en France classée au titre des monuments historiques par la liste de 1840.",
+  "Lieu « Collégiale Saint-Mexme de Chinon », 1050 : L'église est alors reconstruite sur un plan basilical, puis agrandie dès 1050 par l'adjonction d'un massif occidental comprenant un narthex encadré de deux tours.",
+  "Lieu « Collégiale Saint-Mexme de Chinon », XIIe siècle : Au XIIe siècle, la nef est prolongée vers l'ouest, un transept et un chœur à déambulatoire et chapelles rayonnantes achèvent de transformer la collégiale en vaste édifice de pèlerinage.",
+  "Lieu « Collégiale Saint-Mexme de Chinon », 1817 : Après la Révolution, des travaux sont nécessaires pour rendre l'édifice au culte, mais en 1817, l'effondrement du clocher de la croisée du transept entraîne la ruine des parties orientales.",
+  "Lieu « Collégiale Saint-Mexme de Chinon », aujourd'hui : Les parties subsistantes, nef et massif occidental, sont alors transformés en école jusqu'en 1980.",
+  "Lieu « Église Saint-Maurice de Chinon » : L'église Saint-Maurice de Chinon est une église paroissiale affectée au culte catholique dans la commune française de Chinon, dans le département d'Indre-et-Loire.",
+  "Lieu « Église Saint-Maurice de Chinon », XIIe siècle : l'église est construite au XIIe siècle en remplacement d'un édifice du Xe siècle.",
+  "Lieu « Église Saint-Maurice de Chinon », XVe siècle : Au XVe siècle la flèche du clocher est édifiée et c'est au sud qu'une chapelle est construite et enfin, un siècle plus tard, un bas-côté est ajouté le long du côté sud de la nef.",
+  "Lieu « Église Saint-Maurice de Chinon », 1944 : Les vitraux d'origine, détruits par des bombardements allemands sur le pont sur la Vienne le 29 août 1944, sont remplacés par des vitrages modernes dessinés par Théo Hanssen et réalisés par un atelier d'Orléans.",
+  "Lieu « Église Saint-Maurice de Chinon », aujourd'hui : La nef, qui conserve dans son mur septentrional quelques vestiges de l'église du Xe siècle, se compose de trois travées égales sur plan carré.",
+  "Lieu « Église Saint-Étienne de Chinon » : L'église Saint-Étienne de Chinon est une église paroissiale affectée au culte catholique dans la commune française de Chinon, dans le département d'Indre-et-Loire.",
+  "Lieu « Église Saint-Étienne de Chinon », XIe siècle : Une église romane est construite au XIe siècle.",
+  "Lieu « Église Saint-Étienne de Chinon », 1962 : L'édifice est inscrit comme monument historique le 18 juin 1962.",
+  "Lieu « Église Saint-Étienne de Chinon », XXIe siècle : L'église visible au XXIe siècle est une reconstruction de ce premier édifice dont ne subsiste que la base du clocher.",
+  "Lieu « Église Saint-Étienne de Chinon », aujourd'hui : Aujourd'hui, la paroisse sainte Jeanne d'Arc a été confiée à la Communauté Saint-Martin depuis 2000."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
