@@ -1,0 +1,73 @@
+{
+ "commune": {
+  "titre": "Golbey",
+  "code_insee": "88209",
+  "departement": "88",
+  "population": 8832,
+  "lat": 48.19666667,
+  "lon": 6.43805556,
+  "url": "https://fr.wikipedia.org/wiki/Golbey"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:08:56",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1044,
+  "sortie": 646
+ },
+ "cout_usd": 0.001016,
+ "accroche": "À Golbey, le pont-canal de Golbey traverse la Moselle et relie la branche d’Épinal au Canal des Vosges.",
+ "histoire": {
+  "recit": "Golbey est une commune des Vosges, en Lorraine, aujourd’hui rattachée à la région administrative Grand Est, dont les habitants sont appelés les Golbéens. Les traces retrouvées sur plusieurs sites montrent une occupation ancienne : des outils primitifs, grossièrement taillés, attestent une présence dès le Paléolithique sur les berges de la Moselle, près d’un gué, et sur les hauteurs voisines. D’autres vestiges complètent le tableau, avec des statuettes romaines et une meule à grains, qui évoquent des habitats établis sur place. Plus tard, l’histoire du lieu se lit aussi dans ses ouvrages : le pont-canal de Golbey franchit la Moselle et participe à la connexion des voies entre la branche d’Épinal et le Canal des Vosges.",
+  "chronologie": [
+   {
+    "date": "Paléolithique",
+    "texte": "Des outils primitifs découverts sur cinq sites indiquent une occupation humaine dès le Paléolithique, notamment près d’un gué sur les berges de la Moselle et sur les hauteurs avoisinantes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1882-1885",
+    "texte": "Le pont-canal de Golbey est construit entre les communes de Golbey et Dogneville, avec une gestion confiée à Voies navigables de France.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont-canal de Golbey",
+   "histoire": "Le pont-canal de Golbey, aussi appelé pont de Barbelouze, traverse la Moselle à Golbey et permet de connecter la branche d’Épinal au Canal des Vosges.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le pont-canal de Golbey traverse la Moselle à Golbey.",
+   "sources": [
+    "S3"
+   ],
+   "lat": 48.208111,
+   "lon": 6.442139,
+   "url": "https://fr.wikipedia.org/wiki/Pont-canal_de_Golbey"
+  }
+ ],
+ "sources": [
+  "Golbey est une commune française située dans le département des Vosges, en Lorraine. La commune fait aujourd'hui partie de la région administrative Grand Est. Ses habitants sont appelés les Golbéens.",
+  "La découverte d'outils primitifs sur cinq sites prouve une occupation humaine dès le Paléolithique. Grossièrement taillées, les pierres mises à jour indiquent que des chasseurs nomades, voire des tribus entières se sont établis sur les berges de la Moselle, près d’un gué et sur les hauteurs avoisinantes. De nombreux vestiges, dont des statuettes romaines et une meule à grains, attestent l'existence d'habitats […]",
+  "Lieu « Pont-canal de Golbey » : Le pont-canal de Golbey ou pont de Barbelouze est un pont-canal qui traverse la Moselle à Golbey dans la région Grand Est et permet de connecter la branche d'Épinal au Canal des Vosges.",
+  "Lieu « Pont-canal de Golbey », 1882 : Géré par Voies navigables de France, l’ouvrage a été construit entre les communes de Golbey et Dogneville de 1882 et 1885."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
