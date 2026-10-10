@@ -1,0 +1,269 @@
+{
+ "commune": {
+  "titre": "Rochefort (Charente-Maritime)",
+  "code_insee": "17299",
+  "departement": "17",
+  "population": 23460,
+  "lat": 45.9414217,
+  "lon": -0.9717751,
+  "url": "https://fr.wikipedia.org/wiki/Rochefort_%28Charente-Maritime%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:02:03",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3780,
+  "sortie": 2065
+ },
+ "cout_usd": 0.003337,
+ "accroche": "En 1666, sur ordre de Louis XIV, les restes de fortifications de Rochefort sont rasés, tandis que l’Hôtel de Cheusses reste le siège de la seigneurie.",
+ "histoire": {
+  "recit": "Rochefort, aussi appelée Rochefort-sur-Mer, est une commune du sud-ouest, établie dans un méandre de la Charente, sur la rive droite, en Aunis. Son nom apparaît tôt, lié à des seigneurs : une notice accompagnant une donation signale Hugo dominus Rocafortis dès la fin du XIe siècle. \n\nQuand les projets militaires s’accélèrent, la ville change de visage : en 1666, on rase les fortifications ; l’impulsion suivante vient ensuite des intendants de marine, qui font tracer des plans et construire des voies et des fortifications. Le rythme ne retombe pas : un bagne ouvre en 1767, et la fin du XVIIIe siècle est marquée par des tensions autour du grain, jusqu’aux boulangeries pillées le 28 avril 1789.\n\nAu XXe siècle, Rochefort poursuit sa transformation : en 1937, le cinéma L’Apollo est reconstruit. Puis, depuis la fin du XXe siècle, le viaduc de la Charente et de nouvelles infrastructures modifient la ville, avec une évolution du bassin en port de plaisance.",
+  "chronologie": [
+   {
+    "date": "1096",
+    "texte": "Le nom de Rochefort est associé à Hugo dominus Rocafortis, dans une notice accompagnant une charte de donation faite par Guillaume le Troubadour à l’abbaye de Saint-Jean-d’Angély.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1666",
+    "texte": "Sur ordre de Louis XIV, les restes de fortifications sont rasés ; l’Hôtel de Cheusses demeure le siège de la seigneurie, dans l’objectif de créer un arsenal militaire pour la flotte du Ponant.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1683",
+    "texte": "Des plans sont tracés et des voies et fortifications sont construits ; la ville se développe rapidement sous l’impulsion des intendants de marine Colbert de Terron, puis Pierre Arnoul, puis Michel Bégon.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1767",
+    "texte": "Un bagne est ouvert à Rochefort.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "28 avril 1789",
+    "texte": "À Rochefort, des émeutes liées à la soudure mènent au pillage des boulangeries.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "Le cinéma L’Apollo est reconstruit.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "Construction du viaduc de la Charente et réaménagements : le bassin devient port de plaisance, tandis que l’autoroute A 837, la rocade Ouest et la pénétrante Sud sont en service.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Rochefort-sur-Charente",
+   "histoire": "Le château de Rochefort-sur-Charente est un château féodal français en grande partie disparu, situé à Rochefort en Charente-Maritime. Un château de plaisance, dit l’hôtel de Cheusses, dont une partie de 1599 subsiste comme aile nord de l’édifice actuel, et une chapelle castrale reconstruite en 1686 sous le vocable de Saint-Charles, marquent le site. Après la sécularisation, le château est démoli ; seul le clocher, devenu sémaphore, semble subsister, et le site conserve plusieurs bâtiments, dont l’Hôtel de la Marine de Rochefort.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 45.936974,
+   "lon": -0.958072,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Rochefort-sur-Charente"
+  },
+  {
+   "nom": "Hôtel de Cheusses",
+   "histoire": "L’Hôtel de Cheusses est un hôtel particulier à Rochefort en Charente-Maritime. Le premier corps de bâtiment est érigé fin XVIe siècle-début XVIIe siècle par Gédéon de Lauzeré, puis un nouveau corps est fait ériger entre 1600 et 1620 par son fils. Plus ancien bâtiment civil de la ville, il ne doit pas être confondu avec l’hôtel de la Marine de Rochefort.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 45.9347,
+   "lon": -0.957828,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Cheusses"
+  },
+  {
+   "nom": "Centre hospitalier de Rochefort",
+   "histoire": "Le centre hospitalier de Rochefort est un hôpital situé à Rochefort sur Mer. Un hôpital de la Marine est construit pour la Marine royale en 1783 ; des travaux débutent le 12 avril 1853 avec une maternité. Plus tard, un nouveau centre hospitalier est construit de 2006 à 2011 et ouvre le 7 mars 2011 : c’est aujourd’hui le bâtiment le plus haut de la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 45.969965,
+   "lon": -0.961911,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_de_Rochefort"
+  },
+  {
+   "nom": "Corderie royale",
+   "histoire": "La Corderie royale est un vaste ensemble muséal au cœur de l’arsenal maritime de Rochefort. Son bâtiment, construit de 1666 à 1669, est classé au titre des monuments historiques depuis 1967. La partie ouverte aux visiteurs accueille depuis 1986 des expositions, dédiées au monde maritime et à l’histoire de l’arsenal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S29",
+    "S28",
+    "S30"
+   ],
+   "lat": 45.939033,
+   "lon": -0.955833,
+   "url": "https://fr.wikipedia.org/wiki/Corderie_royale"
+  },
+  {
+   "nom": "Maison de Pierre Loti à Rochefort",
+   "histoire": "La Maison de Pierre Loti à Rochefort est un musée municipal installé dans la maison où vécut l’écrivain dans le cœur historique de Rochefort. Le musée correspond à la maison d’enfance de Julien Viaud, connu sous le pseudonyme Pierre Loti ; la période d’ouverture au public a ensuite varié, notamment avec une fermeture de 2012 à 2025 pour des travaux de réhabilitation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S35",
+    "S34",
+    "S32"
+   ],
+   "lat": 45.934148,
+   "lon": -0.962503,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_Pierre_Loti_%C3%A0_Rochefort"
+  },
+  {
+   "nom": "Musée de la Vieille Paroisse",
+   "histoire": "Le Musée de la Vieille Paroisse est un musée historique et archéologique situé dans un ancien prieuré d’architecture romane, première église paroissiale avant l’établissement de l’arsenal royal. L’église romane remonte au XIIe siècle ; elle est en partie reconstruite, notamment son clocher, avec un don du roi de 1 080 livres en 1689. Elle est désaffectée en 1860, puis l’évolution du site conduit à la construction d’une église Saint-Louis dont il reste le clocher reconstruit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 45.935695,
+   "lon": -0.962602,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Vieille_Paroisse"
+  },
+  {
+   "nom": "Musée Hèbre de Saint-Clément",
+   "histoire": "Le musée Hèbre est un musée municipal situé dans l’hôtel Hèbre de Saint-Clément à Rochefort depuis 1860. De l’hôtel particulier bâti au XVIIIe siècle dans un esprit palladien, seules les façades extérieures, datées des environs de 1758, sont conservées. L’édifice a abrité une bibliothèque municipale de 1864 à 2002 ; le musée ferme pour restructuration d’octobre 2002 à la fin de l’année 2006, avant d’être visible depuis l’avenue Charles de Gaulle et la rue Pierre Loti.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 45.9357,
+   "lon": -0.962602,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_H%C3%A8bre_de_Saint-Cl%C3%A9ment"
+  },
+  {
+   "nom": "Thermes de Rochefort",
+   "histoire": "Les thermes de Rochefort sont un centre hydrothermal situé à Rochefort. Un forage est achevé le 20 juin 1868, avec une eau jaillissante à dix mètres au-dessus du sol et une température de 43° ; la source est fermée en 1892. Un module thermal expérimental est construit dès mars 1954 et inauguré officiellement en 1956. Rochefort est aujourd’hui une station thermale majeure du Centre-Ouest.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S46",
+    "S47",
+    "S48",
+    "S49",
+    "S50"
+   ],
+   "lat": 45.942222222222,
+   "lon": -0.9625,
+   "url": "https://fr.wikipedia.org/wiki/Thermes_de_Rochefort"
+  }
+ ],
+ "sources": [
+  "Rochefort, appelée aussi Rochefort-sur-Mer, est une commune du sud-ouest de la France située dans le département de la Charente-Maritime (région Nouvelle-Aquitaine). Ses habitants sont appelés les Rochefortais et les Rochefortaises. Rochefort est établie dans un méandre de la Charente, entièrement sur la rive droite du fleuve, ce qui la place dans l'ancienne province de l'Aunis. C'est une « ville nouvelle » créée en […]",
+  "Le nom de Rochefort est d'abord mentionné avec celui de ses seigneurs comme Hugo dominus Rocafortis (ou aussi S. Hugonis de Rocaforte) qui figure bien après sa mort sur une notice de 1096 accompagnant une charte de donation faite par Guillaume le Troubadour, duc d'Aquitaine, à l'abbaye de Saint-Jean-d'Angély. À partir du milieu du XIIIe siècle, les textes plus nombreux et écrits en français mentionnent simplement le […]",
+  "1666 : En 1666, sur ordre de Louis XIV, les restes de fortifications de Rochefort furent rasés, tout en conservant l'Hôtel de Cheusses qui restera le siège de la seigneurie, dans le but de créer un arsenal militaire pour abriter la flotte du Ponant.",
+  "1683 : Des plans sont tracés, des voies et des fortifications sont construites, la ville se développe alors rapidement sous l'impulsion des intendants de marine Colbert de Terron, Pierre Arnoul de 1683 à 1686, puis Michel Bégon de 1688 à 1710.",
+  "1767 : Un bagne est ouvert à Rochefort en 1767 par Ruis-Embito, il fera partie des trois grands bagnes du royaume avec Toulon et Brest.",
+  "1786 : La Cénis est armé en 1786, part au Sénégal, et fait naufrage en Gambie : les esclaves sont rassemblés à Goré et récupéré par l’Amitié, arrivant à Port au Prince en 1787.",
+  "1787 : Ces deux négociants arment aussi Le Naïf à La Rochelle (1787), connaissant un naufrage près de Dakar dont la cargaison est récupérée par l’Aimable Cécile venant de Bordeaux.",
+  "1788 : La mesures ministérielles de dérèglementaion du commerce du grain et une récolte plus faible 1788 conduisent à des spéculations, à des pénuries et à des émeutes au moment de la soudure : les boulangeries sont pillées à Rochefort le 28 avril 1789.",
+  "1937 : Le cinéma L'Apollo est reconstruit en 1937 par André Guillon.",
+  "2000 : Depuis la fin du XXe siècle : en 2000, le viaduc de la Charente est construit, le bassin no 2 est devenu port de plaisance, l'autoroute A 837, la rocade Ouest et la pénétrante Sud sont en service, la zone industrielle des Sœurs Ouest est saturée, la partie Est occupée à 80 %, le quartier de l'avant-garde est achevé.",
+  "Lieu « Château de Rochefort-sur-Charente » : Le château de Rochefort-sur-Charente est un château féodal français en grande partie disparu, situé à Rochefort en Charente-Maritime.",
+  "Lieu « Château de Rochefort-sur-Charente », 1599 : Un château de plaisance, dit l'hôtel de Cheusses, qui était situé à une centaine de mètres, dont une partie de 1599 est conservée comme aile nord de l'édifice actuel.",
+  "Lieu « Château de Rochefort-sur-Charente », 1686 : Une chapelle castrale sous le vocable de Saint-Charles, qui a été reconstruite par le roi et érigée en 1686 en nouvelle église paroissiale sous le vocable de Saint-Louis.",
+  "Lieu « Château de Rochefort-sur-Charente », 1791 : Démolie après sa sécularisation en 1791, son clocher construit très haut en 1724 pour servir d'amer et d'observatoire, a été conservé, mais sa flèche a été remplacée par une plate-forme pour servir de sémaphore.",
+  "Lieu « Château de Rochefort-sur-Charente », aujourd'hui : Son site en bordure de la Charente comporte plusieurs bâtiments : Un château fort, qui était situé sur une roche crayeuse dominant la Charente et qui est actuellement connu sous le nom d'Hôtel de la Marine de Rochefort.",
+  "Lieu « Hôtel de Cheusses » : L'hôtel de Cheusses est un hôtel particulier situé à Rochefort en Charente-Maritime.",
+  "Lieu « Hôtel de Cheusses », XVIe siècle : Le premier corps de bâtiment est érigé fin XVIe siècle-début XVIIe siècle par le seigneur de Rochefort, Gédéon de Lauzeré.",
+  "Lieu « Hôtel de Cheusses », 1600 : C’est son fils, Gédéon de Lauzeré qui fait ériger le premier corps du bâtiment entre 1600 et 1620.",
+  "Lieu « Hôtel de Cheusses », 1666 : L’hôtel de Cheusses est le plus ancien bâtiment civil de la ville de Rochefort, antérieur à la construction de la ville et de son arsenal en 1666.",
+  "Lieu « Hôtel de Cheusses », aujourd'hui : Il ne doit pas être confondu avec l'hôtel de la Marine de Rochefort, ancien siège de la seigneurie de Rochefort-sur-Charente puis Maison du roi et sièges des intendants de la Marine, puis préfets maritimes de Rochefort, aujourd'hui siège du commandement des écoles de la Gendarmerie nationale.",
+  "Lieu « Centre hospitalier de Rochefort » : Le centre hospitalier de Rochefort est un hôpital français situé à Rochefort sur Mer, dans le département de la Charente-Maritime.",
+  "Lieu « Centre hospitalier de Rochefort », 1783 : Un autre hôpital, comportant une école de médecine, de chirurgie, de pharmacie et d'infirmerie, appelé hôpital de la Marine, sera construit pour la Marine royale en 1783.",
+  "Lieu « Centre hospitalier de Rochefort », 1853 : Les travaux débutent le 12 avril 1853 et une maternité est également construite.",
+  "Lieu « Centre hospitalier de Rochefort », 2006 : Construit de 2006 à 2011, le nouveau centre hospitalier a ouvert ses portes le 7 mars 2011.",
+  "Lieu « Centre hospitalier de Rochefort », aujourd'hui : Cet hôpital est actuellement le bâtiment le plus haut de la ville.",
+  "Lieu « Corderie royale » : La Corderie royale – Centre international de la mer est un vaste ensemble muséal situé au cœur de l’arsenal maritime de Rochefort.",
+  "Lieu « Corderie royale », 1666 : Le bâtiment construit de 1666 à 1669 est classé au titre des monuments historiques depuis 1967.",
+  "Lieu « Corderie royale », XXe siècle : D’une longueur de 374 mètres pour 8 mètres de largeur, la Corderie royale de Rochefort est jusqu’au XXe siècle le plus long bâtiment industriel en Europe.",
+  "Lieu « Corderie royale », 1986 : La partie ouverte aux visiteurs accueille depuis 1986 des expositions permanentes et temporaires dédiées au monde maritime et à l'histoire de l'arsenal de Rochefort.",
+  "Lieu « Corderie royale », aujourd'hui : Il ne reste plus en effet en France que 20 navires, dont seulement 2 ou 3 sont aptes à prendre la mer.",
+  "Lieu « Maison de Pierre Loti à Rochefort » : La maison de Pierre Loti à Rochefort est un musée municipal installé dans la maison où vécut l'écrivain dans le cœur historique de Rochefort.",
+  "Lieu « Maison de Pierre Loti à Rochefort », 1877 : En fait, ce décor a été reconstruit selon l'imaginaire du romancier et non dans un réel souci d'authenticité.[source insuffisante] Le salon turc, première pièce élaborée par Loti en 1877 a été ornementé d'un sofa d'origine, de coussins, de tentures et d'un plafond en stuc.",
+  "Lieu « Maison de Pierre Loti à Rochefort », 1891 : De 1891 à 1923 (date de sa mort), l'écrivain a occupé par intermittence une autre maison, dite « la maison de Pierre Loti à Hendaye » (Pyrénées-Atlantiques), devenue monument historique en 2010.",
+  "Lieu « Maison de Pierre Loti à Rochefort », 2012 : Le musée est fermé au public de 2012 à 2025, car il nécessite de lourds travaux de réhabilitation.",
+  "Lieu « Maison de Pierre Loti à Rochefort », aujourd'hui : La Maison de Pierre Loti à Rochefort, aujourd'hui musée municipal, est en fait la maison d'enfance de l'écrivain Julien Viaud, plus connu sous le pseudonyme de Pierre Loti, auteur des romans à succès Aziyadé, Pêcheur d'Islande, Le Roman d'un enfant et Ramuntcho.",
+  "Lieu « Musée de la Vieille Paroisse » : Le Musée de la Vieille Paroisse est un musée historique et archéologique français situé à Rochefort dans un ancien prieuré d'architecture romane (XIIe siècle), première église paroissiale avant l'établissement de l'arsenal royal et jusqu'à l'époque d",
+  "Lieu « Musée de la Vieille Paroisse », XIIe siècle : Il s'agit d'une église romane qui est le plus ancien bâtiment de la ville et remonte au XIIe siècle au moins.",
+  "Lieu « Musée de la Vieille Paroisse », 1689 : Elle a ensuite été en partie reconstruite, notamment le clocher, avec un don du roi de 1 080 livres en 1689.",
+  "Lieu « Musée de la Vieille Paroisse », 1860 : L'ancienne église Notre-Dame-de-Rochefort a été désaffectée en 1860, lorsqu'une nouvelle Église Notre-Dame a été bâtie sur un nouvel emplacement dans le faubourg.",
+  "Lieu « Musée de la Vieille Paroisse », aujourd'hui : Elle était devenue la seule paroisse de Rochefort avant qu'en 1665 la seigneurie de Rochefort soit rachetée par le roi pour créer un arsenal avec une nouvelle ville, que l'ancienne chapelle castrale soit érigée en 1686 en nouvelle paroisse et que soit construite une église Saint-Louis dont il ne reste comme vestige que le clocher reconstruit en 1728 devenu la tour […]",
+  "Lieu « Musée Hèbre de Saint-Clément » : Le musée Hèbre est un musée municipal situé dans l’hôtel Hèbre de Saint-Clément à Rochefort depuis 1860.",
+  "Lieu « Musée Hèbre de Saint-Clément », 1758 : De l'hôtel particulier Hèbre de Saint-Clément, bâti au XVIIIe siècle dans un esprit palladien, n'ont été conservées que les façades extérieures, datées des environs de 1758.",
+  "Lieu « Musée Hèbre de Saint-Clément », 1864 : De 1864 à 2002, cet édifice qui avait été conservé dans son état d'origine a abrité, outre le musée, la bibliothèque municipale.",
+  "Lieu « Musée Hèbre de Saint-Clément », 2002 : Le musée a fermé pour restructuration d'octobre 2002 à la fin de l'année 2006.",
+  "Lieu « Musée Hèbre de Saint-Clément », aujourd'hui : Elles sont visibles depuis l'avenue Charles de Gaulle et la rue Pierre Loti.",
+  "Lieu « Thermes de Rochefort » : Les thermes de Rochefort sont un centre hydrothermal situé à Rochefort, troisième ville de la Charente-Maritime, arrosée par la Charente et située dans le centre-ouest du département.",
+  "Lieu « Thermes de Rochefort », 1868 : Le forage fut achevé le 20 juin 1868 avec une eau jaillissante à dix mètres au-dessus du sol et à une température de 43° avec une réaction alcaline.",
+  "Lieu « Thermes de Rochefort », 1892 : Pendant six années, de nombreux efforts furent entrepris pour déboucher le puits artésien mais ils ne purent aboutir et, en 1892, la source fut fermée.",
+  "Lieu « Thermes de Rochefort », 1954 : Dès mars 1954, la municipalité fait construire un module thermal expérimental qui fut inauguré officiellement en 1956.",
+  "Lieu « Thermes de Rochefort », aujourd'hui : Rochefort est aujourd'hui la 7e ville thermale de France et la plus importante station thermale du Centre-Ouest de la France, devançant nettement les stations thermales de Jonzac (11 000 curistes), La Roche-Posay et Saujon (3 000 curistes)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

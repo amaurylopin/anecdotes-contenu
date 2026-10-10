@@ -1,0 +1,281 @@
+{
+ "commune": {
+  "titre": "Royan",
+  "code_insee": "17306",
+  "departement": "17",
+  "population": 19425,
+  "lat": 45.62,
+  "lon": -1.03,
+  "url": "https://fr.wikipedia.org/wiki/Royan"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:12:57",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3592,
+  "sortie": 1830
+ },
+ "cout_usd": 0.003006,
+ "accroche": "À Royan, la ville fortifiée est rasée en 1631 sur ordre de Richelieu, la citadelle démantelée et les fossés comblés.",
+ "histoire": {
+  "recit": "Royan commence par deux noyaux urbains : Saint-Pierre, sur un plateau au-dessus de l’estuaire de la Gironde, et Roianum, sur celui de Foncillon, un cap stratégique. La ville se fortifie ensuite, avant que la grande rupture ne tombe en 1631, quand la forteresse est rasée sur ordre de Richelieu.\n\nPuis vient l’élan moderne : sous l’impulsion du maire Frédéric Garnier, la ville accueille le chemin de fer en 1875, lance son réseau de tramways en 1890 et édifie plusieurs casinos, dont le casino municipal, déclaré jusqu’à sa destruction le plus grand de France.\n\nLa guerre enfin frappe au cœur : le 5 janvier 1945, Royan est bombardée et réduite à des ruines, avec 427 habitants et 47 soldats allemands tués, et 200 blessés. Dans le quartier de Maisonfort, la nuit du 13 au 14 avril 1945 voit l’ensemble bombardé, prélude à l’opération « Vénérable ».\n\nAprès ces épreuves, la ville se relève : au Port de Royan, après les ruines, la reconstruction prend un style moderniste et s’accompagne, plus tard, d’un nouveau bassin bordé d’une promenade et d’une esplanade arborée.",
+  "chronologie": [
+   {
+    "date": "Ve siècle",
+    "texte": "Royan est fondée durant l’Antiquité tardive, sans doute vers le Ve siècle, avec deux noyaux urbains distincts : Saint-Pierre et Roianum.",
+    "sources": [
+     "S3",
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "À partir du XIe siècle, Royan est fortifiée.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1631",
+    "texte": "La ville fortifiée est rasée en 1631 sur ordre de Richelieu : citadelle démantelée et fossés comblés.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "Sous l’impulsion du maire Frédéric Garnier, Royan se modernise et accueille le chemin de fer.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1890",
+    "texte": "Royan inaugure son réseau de tramways.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1895",
+    "texte": "Le casino municipal est édifié.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "5 janvier 1945",
+    "texte": "Royan est sévèrement bombardée : ruines fumantes, 427 habitants et 47 soldats allemands tués, 200 blessés.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Maisonfort (quartier de Royan)",
+   "histoire": "Maisonfort est un quartier résidentiel au nord-est de Royan. Jusqu’au milieu du XXe siècle, il garde un aspect champêtre, puis l’urbanisation reprend après-guerre avec des équipements scolaires et des lotissements.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S9",
+    "S11"
+   ],
+   "lat": 45.6257,
+   "lon": -1.003,
+   "url": "https://fr.wikipedia.org/wiki/Maisonfort_%28quartier_de_Royan%29"
+  },
+  {
+   "nom": "Hôtel du Golf de Royan",
+   "histoire": "Édifié dès 1856, l’hôtel du Golf est la première construction du quartier de Pontaillac ; après la guerre, il est rénové et devient une résidence de standing Le Golf.",
+   "anecdotes": [
+    {
+     "texte": "Le 17 avril 1945, le contre-amiral Hans Michahelles, commandant d’une forteresse assiégée, y fait hisser le drapeau blanc, marquant symboliquement la reddition de la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Résidence de standing Le Golf.",
+   "sources": [
+    "S13",
+    "S16",
+    "S15"
+   ],
+   "lat": 45.624075,
+   "lon": -1.049961111,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_du_Golf_de_Royan"
+  },
+  {
+   "nom": "Villa Addis-Abeba",
+   "histoire": "Villa de vacances située sur Royan, construite dans les années 1920-1930 et signée par Adolphe Morisset et Otto-Louis Champion. Bombardée quasi entièrement à la fin de la guerre, la ville laisse ici l’une des rares maisons restantes des années 1920-1930 du quartier du Chay-Les Gardes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une villa présentée comme un chef-d’œuvre de l’architecture de la Belle Époque charentaise, selon de nombreux architectes.",
+   "sources": [
+    "S17",
+    "S20",
+    "S21"
+   ],
+   "lat": 45.625618443226,
+   "lon": -1.033232151648,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Addis-Abeba"
+  },
+  {
+   "nom": "Fort du Chay",
+   "histoire": "Le fort du Chay est un ouvrage défensif construit à la fin du XVIIIe siècle pour protéger l’embouchure de la Gironde. Il a ensuite une caserne en 1902, puis ne subsistent aujourd’hui que quelques blockhaus.",
+   "anecdotes": [
+    {
+     "texte": "En 1814, les militaires reçoivent l’ordre de se retirer : ils le font effectivement dans la nuit du 7 avril 1814.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Quelques blockhaus seulement, qui laissent difficilement imaginer la taille du fort originel.",
+   "sources": [
+    "S22",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 45.6182,
+   "lon": -1.04184,
+   "url": "https://fr.wikipedia.org/wiki/Fort_du_Chay"
+  },
+  {
+   "nom": "Musée de Royan",
+   "histoire": "L’actuel musée de Royan est installé dans l’ancien marché de Pontaillac, réhabilité depuis janvier 2004. Le musée a été détruit par le bombardement du 5 janvier 1945, puis reconstruit à sa nouvelle place.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Collections de fossiles, animaux naturalisés, vestiges archéologiques et une collection de papillons rassemblée par Fernand Braun.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S31"
+   ],
+   "lat": 45.6267,
+   "lon": -1.0484,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Royan"
+  },
+  {
+   "nom": "Église Notre-Dame de Royan",
+   "histoire": "L’église Notre-Dame de Royan est une église catholique construite en trois ans par Guillaume Gillet et Marc Hébrard, avec des ingénieurs mentionnés dans la chronologie. Après les bombardements du 5 janvier 1945 qui détruisent l’ancien sanctuaire néo-gothique, l’édifice est reconstruit et inauguré en 1958. Le clocher a ensuite été conçu pour former un signal visible depuis l’océan et l’entrée de la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un clocher conçu pour redresser la silhouette de la ville, visible comme un amer depuis l’océan et l’entrée de la ville.",
+   "sources": [
+    "S32",
+    "S33",
+    "S35",
+    "S36"
+   ],
+   "lat": 45.62351111,
+   "lon": -1.032658333,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Royan"
+  },
+  {
+   "nom": "Port de Royan",
+   "histoire": "Le port de Royan se situe à l’ouest de la ville, entre Foncillon et la plage de la Grande Conche. Une première digue tentée par des habitants en 1735 est emportée par une tempête. Plus tard, dans les années 1950-1960, le port est reconstruit dans un style moderniste, avec ensuite un déplacement du port de pêche en 1983. Les travaux aboutissent aujourd’hui à un nouveau bassin bordé d’une promenade et d’une esplanade arborée.",
+   "anecdotes": [
+    {
+     "texte": "En 1735, des habitants tentent de bâtir une petite digue, mais elle est emportée au cours d’une tempête.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un nouveau bassin bordé par une promenade et l’esplanade arborée de Kerimel de Kerveno, à l’emplacement de l’ancien casino.",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 45.62,
+   "lon": -1.03,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Royan"
+  },
+  {
+   "nom": "Hôtel de ville de Royan",
+   "histoire": "L’hôtel de ville est un édifice public dans le quartier de Pontaillac. Lors de l’érection de Royan en commune en 1790, la mairie s’installe d’abord dans une maison réquisitionnée, avant d’être transférée. Le bâtiment actuel, détruit en 1927 pendant la modernisation du centre-ville, abrite aujourd’hui notamment le musée de Royan dans l’ancien marché couvert de Pontaillac.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Entouré d’un parc ; l’ancien musée de Royan y a longtemps été accueilli, avant d’être établi dans l’ancien marché couvert de Pontaillac.",
+   "sources": [
+    "S42",
+    "S43",
+    "S45",
+    "S46"
+   ],
+   "lat": 45.62291389,
+   "lon": -1.043111111,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Royan"
+  }
+ ],
+ "sources": [
+  "Royan /ʁwa.jɑ̃/ est une commune du Sud-Ouest de la France, située dans le département de la Charente-Maritime (région Nouvelle-Aquitaine). Ses habitants sont appelés les Royannais et les Royannaises. Principale ville de la Côte de Beauté et du Royannais avec 19 425 habitants en 2023, au cœur d'une agglomération de 40 517 habitants et d'une aire d'attraction de 74 917 habitants la même année, Royan est avant tout une […]",
+  "Royan est fondée durant l'Antiquité tardive, sans doute vers le Ve siècle. Dès cette époque se développent deux noyaux urbains distincts : Saint-Pierre, village d'agriculteurs perché sur un plateau dominant l'estuaire de la Gironde, et le village de Roianum, campé sur le plateau de Foncillon, un cap stratégique bordé par les eaux de l'estuaire.[réf. nécessaire] À partir du XIe siècle, Royan est fortifiée par les […]",
+  "Ve siècle : Royan est fondée durant l'Antiquité tardive, sans doute vers le Ve siècle.",
+  "1631 : La ville fortifiée est rasée en 1631 sur ordre de Richelieu, la citadelle démantelée, les fossés comblés.",
+  "1875 : Sous l'impulsion du maire Frédéric Garnier, la ville se modernise, accueillant le chemin de fer (1875), inaugurant son réseau de tramways (1890) et édifiant plusieurs casinos : le casino municipal (1895) est ainsi jusqu'à sa destruction le plus grand de France.",
+  "1945 : De ce fait, elle est sévèrement bombardée le 5 janvier 1945 : en l'espace de quelques heures, Royan est réduite à des ruines fumantes : 427 habitants et 47 soldats allemands sont tués, 200 personnes sont blessées.",
+  "Lieu « Maisonfort (quartier de Royan) » : Maisonfort est un quartier résidentiel situé dans la partie nord-est de la ville de Royan.",
+  "Lieu « Maisonfort (quartier de Royan) », 1945 : L'ensemble est bombardé pendant la nuit du 13 au 14 avril 1945, prélude à l’opération « Vénérable » menée conjointement par les alliés et les FFI afin de libérer la ville.",
+  "Lieu « Maisonfort (quartier de Royan) », XXe siècle : Il garde un aspect champêtre jusqu’au milieu du XXe siècle, avec ses quelques maisons adossées à une colline, ses potagers et la proximité de la forêt de Belmont et des marais, inondés en hiver, mais verdoyants en été, où les troupeaux sont mis à paître.",
+  "Lieu « Maisonfort (quartier de Royan) », 1999 : Le 25 avril 1999, un incendie détruit le collège Henri Dunant, laissant une plaie béante au cœur du quartier.",
+  "Lieu « Maisonfort (quartier de Royan) », aujourd'hui : L’urbanisation du quartier se poursuit dans les années d’après-guerre, avec la construction du collège Henri Dunant, du lycée de La Triloterie (aujourd’hui Lycée Cordouan), de la cité HLM de Touvent et de nombreux lotissements.",
+  "Lieu « Hôtel du Golf de Royan » : L'hôtel du Golf est l'un des plus importants hôtels de luxe de la ville de Royan durant la période de l'entre-deux-guerres.",
+  "Lieu « Hôtel du Golf de Royan », 1856 : Édifié dès 1856, il fut le premier bâtiment construit dans le quartier de Pontaillac.",
+  "Lieu « Hôtel du Golf de Royan », 1856 : La villa d'origine, édifiée en 1856, est la première demeure à être bâtie dans un quartier qui se limite alors à un massif dunaire couvert de forêts et entouré de marais.",
+  "Lieu « Hôtel du Golf de Royan », 1945 : Le 17 avril 1945, le contre-amiral Hans Michahelles, commandant d'une forteresse de Gironde-Nord (poche de Royan) assiégée par les forces alliées, y fait hisser le drapeau blanc, marquant symboliquement la reddition de la ville.",
+  "Lieu « Hôtel du Golf de Royan », aujourd'hui : Rénové après-guerre, c'est aujourd'hui une résidence de standing Le Golf.",
+  "Lieu « Villa Addis-Abeba » : La Villa Addis-Abeba est une villa située sur la commune française de Royan, en Charente-Maritime, construite dans les années 1920-1930 et signée par les entrepreneurs Adolphe Morisset et Otto-Louis Champion.",
+  "Lieu « Villa Addis-Abeba », 1920 : La Villa Addis-Abeba est une villa située sur la commune française de Royan, en Charente-Maritime, construite dans les années 1920-1930 et signée par les entrepreneurs Adolphe Morisset et Otto-Louis Champion.",
+  "Lieu « Villa Addis-Abeba », 1920 : Villa de vacances construite à la demande d'un militaire d'origine royannaise, cette maison s'inscrit dans l'architecture de la Belle Époque des années 1920-1930 caractérisée par des techniques de décoration de l'architecture nouvelle.",
+  "Lieu « Villa Addis-Abeba », 1920 : Royan ayant été bombardé presque entièrement pendant la fin de la guerre par les Américains, la villa Addis-Abeba fait partie des rares maisons restantes des années 1920-1930 du quartier du Chay-Les Gardes.",
+  "Lieu « Villa Addis-Abeba », aujourd'hui : Selon de nombreux architectes, cette villa constitue un chef-d'œuvre de l'architecture de la Belle Époque charentaise par son style, son emplacement mais aussi son charme et cachet qui la caractérisent.",
+  "Lieu « Fort du Chay » : Le fort du Chay est un ancien ouvrage défensif érigé à la fin du XVIIIe siècle afin de protéger l'embouchure de la Gironde.",
+  "Lieu « Fort du Chay », XVIIIe siècle : Le fort du Chay est un ancien ouvrage défensif érigé à la fin du XVIIIe siècle afin de protéger l'embouchure de la Gironde.",
+  "Lieu « Fort du Chay », 1814 : Cependant, alors que la menace anglaise se précise et que l'Empire achève de s'effondrer, les militaires responsables du fort reçoivent l'ordre de se retirer, ce qu'ils font effectivement dans la nuit du 7 avril 1814.",
+  "Lieu « Fort du Chay », 1902 : En 1902, on édifie une caserne afin d'abriter les troupes du 14e bataillon de forteresse, chargées de la défense du fort : cette caserne porte le nom d'un éminent Saintongeais, fondateur de la Nouvelle-France : Samuel de Champlain.",
+  "Lieu « Fort du Chay », aujourd'hui : Seuls subsistent aujourd'hui quelques blockhaus, lesquels laissent difficilement imaginer la taille du fort originel.",
+  "Lieu « Musée de Royan » : L'actuel musée de Royan est installé dans l'ancien marché de Pontaillac, réhabilité depuis janvier 2004.",
+  "Lieu « Musée de Royan », 1945 : Le musée est totalement détruit par le bombardement du 5 janvier 1945.",
+  "Lieu « Musée de Royan », 2004 : L'actuel musée de Royan est installé dans l'ancien marché de Pontaillac, réhabilité depuis janvier 2004.",
+  "Lieu « Musée de Royan », 2004 : Celui-ci, après avoir été installé au premier étage du casino de Foncillon, est depuis 2004 aménagé dans les anciennes halles de Pontaillac.",
+  "Lieu « Musée de Royan », aujourd'hui : Il comprend des collections de fossiles, des animaux naturalisés, des vestiges archéologiques, ainsi qu'une collection de papillons rassemblée par Fernand Braun.",
+  "Lieu « Église Notre-Dame de Royan » : L'église Notre-Dame de Royan est une église catholique construite en trois ans par les architectes Guillaume Gillet et Marc Hébrard, en collaboration avec les ingénieurs Bernard Laffaille († 1955) puis René Sarger.",
+  "Lieu « Église Notre-Dame de Royan », 1945 : Après les bombardements du 5 janvier 1945 qui détruisent l'ancien sanctuaire néo-gothique qui datait de 1874 (localisé au niveau de l'actuelle place Charles-de-Gaulle), il est décidé de construire un édifice de plus grande taille, inspiré par l'esthétique des grandes cathédrales gothiques.",
+  "Lieu « Église Notre-Dame de Royan », 1955 : L'église Notre-Dame de Royan est une église catholique construite en trois ans par les architectes Guillaume Gillet et Marc Hébrard, en collaboration avec les ingénieurs Bernard Laffaille († 1955) puis René Sarger.",
+  "Lieu « Église Notre-Dame de Royan », 1958 : Le gros œuvre achevé, l'église est inaugurée le 10 juillet 1958 par Morilleau.",
+  "Lieu « Église Notre-Dame de Royan », aujourd'hui : Répondant au souhait de Max Brusset, maire de Royan, Guillaume Gillet a conçu le clocher pour qu'il redresse la silhouette de la ville en créant un signal vertical fort, un amer visible depuis l'océan comme depuis l'entrée de la ville.",
+  "Lieu « Port de Royan » : Le port de Royan est situé dans la partie occidentale de la ville de Royan (sud-ouest du département de la Charente-Maritime, en région Nouvelle-Aquitaine), entre le quartier de Foncillon et la plage de la Grande Conche, tout près du centre-ville.",
+  "Lieu « Port de Royan », 1735 : Des habitants essaient tant bien que mal, et par leurs propres moyens, de bâtir une petite digue : elle ne résiste cependant pas bien longtemps aux violents assauts de l'océan, et est emportée au cours d'une tempête en 1735.",
+  "Lieu « Port de Royan », 1950 : Au cours des années 1950-1960, la ville se relève peu à peu de ses ruines, et le port est reconstruit dans un style moderniste.",
+  "Lieu « Port de Royan », 1983 : Quelques années plus tard, le port de pêche est légèrement déplacé (1983), permettant d'accroître la surface dévolue aux bateaux de plaisance.",
+  "Lieu « Port de Royan », aujourd'hui : Les travaux débutent peu après, et un nouveau bassin est aménagé, bordé par une promenade et par une esplanade arborée (esplanade de Kerimel de Kerveno), à l'emplacement de l'ancien casino.",
+  "Lieu « Hôtel de ville de Royan » : L'hôtel de ville de Royan est un édifice public situé dans le quartier de Pontaillac, dans la partie occidentale de la ville de Royan.",
+  "Lieu « Hôtel de ville de Royan », 1790 : Lors de l'érection de Royan en commune, en 1790, la mairie est tout d'abord installée dans une maison particulière réquisitionnée pour la circonstance, avant d'être transférée ultérieurement dans une maison bourgeoise située un peu à l'écart du centre-ville.",
+  "Lieu « Hôtel de ville de Royan », 1836 : Celle-ci, édifiée par les entrepreneurs Jacques Gallet et René Janin pour un entrepreneur bordelais, est acquise par la municipalité en 1836.",
+  "Lieu « Hôtel de ville de Royan », 1927 : Ce bâtiment, situé à proximité de l'ancien couvent des Récollets (aujourd'hui disparu) se révèle vite inadapté, et est finalement détruit au cours des travaux de modernisation du centre-ville, initiés en 1927.",
+  "Lieu « Hôtel de ville de Royan », aujourd'hui : L'hôtel de ville, entouré d'un parc, à longtemps accueilli dans ses murs le musée de Royan, aujourd'hui établi dans l'ancien marché couvert de Pontaillac."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

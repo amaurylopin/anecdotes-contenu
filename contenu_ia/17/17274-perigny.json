@@ -1,0 +1,75 @@
+{
+ "commune": {
+  "titre": "Périgny (Charente-Maritime)",
+  "code_insee": "17274",
+  "departement": "17",
+  "population": 8877,
+  "lat": 46.1556,
+  "lon": -1.092,
+  "url": "https://fr.wikipedia.org/wiki/P%C3%A9rigny_%28Charente-Maritime%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:08:36",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1083,
+  "sortie": 525
+ },
+ "cout_usd": 0.000873,
+ "accroche": "La halte « Gare de Rompsay » est mise en service en 1897, puis fermée au service ferroviaire en 1980.",
+ "histoire": {
+  "recit": "Périgny, dans la banlieue est de La Rochelle, s’étend sur la Charente-Maritime et appartient à l’unité urbaine rochelaise en prolongement de l’agglomération vers l’est. Autrefois, le village formé par les bourgs de Périgny et Rompsay rassemblait quelques fermes : les terres s’y étendaient jusqu’à l’emplacement de la zone industrielle actuelle. Avec l’arrivée régulière de nouveaux habitants, la commune s’est progressivement transformée en ville nouvelle, et les équipements modernes ont suivi, au rythme du développement des quartiers pavillonnaires.",
+  "chronologie": [
+   {
+    "date": "1897",
+    "texte": "La halte « Gare de Rompsay » est mise en service.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1980",
+    "texte": "La halte « Gare de Rompsay » est fermée au service ferroviaire.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Rompsay",
+   "histoire": "« Gare de Rompsay » est une halte ferroviaire française, fermée, située sur la ligne de Nantes-Orléans à Saintes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3"
+   ],
+   "lat": 46.166827,
+   "lon": -1.108879,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Rompsay"
+  }
+ ],
+ "sources": [
+  "Périgny est une commune du Sud-Ouest de la France, située dans la banlieue est de La Rochelle, dans le département de la Charente-Maritime, en région Nouvelle-Aquitaine. Ses habitants sont appelés les Pérignaciens et les Pérignaciennes. Périgny fait entièrement partie de l'unité urbaine de La Rochelle dont elle constitue le prolongement de l'urbanisation de l'agglomération rochelaise à l'est en direction de […]",
+  "Un ancien village avec les bourgs de Périgny et Rompsay comportant quelques fermes, dont les terres s'étendaient à l'emplacement de la zone industrielle actuelle, s'est transformé au fil des années en ville nouvelle. La centaine annuelle de nouveaux habitants a permis un développement progressif des zones pavillonnaires. Avec cette augmentation de la population, les équipements modernes ont suivi. Cette […]",
+  "Lieu « Gare de Rompsay » : La gare de Rompsay est une halte ferroviaire française, fermée, de la ligne de Nantes-Orléans à Saintes.",
+  "Lieu « Gare de Rompsay », 1897 : Mise en service en 1897, la halte est fermée au service ferroviaire en 1980.",
+  "Lieu « Gare de Rompsay », 1980 : La gare est fermée au début des années 1980."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

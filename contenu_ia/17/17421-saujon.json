@@ -1,0 +1,185 @@
+{
+ "commune": {
+  "titre": "Saujon",
+  "code_insee": "17421",
+  "departement": "17",
+  "population": 7440,
+  "lat": 45.67138889,
+  "lon": -0.92777778,
+  "url": "https://fr.wikipedia.org/wiki/Saujon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:28:05",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2102,
+  "sortie": 1440
+ },
+ "cout_usd": 0.00222,
+ "accroche": "Le port de Ribérou a été inauguré le 18 août 2012, en présence du maire Pascal Ferchaud, avec concerts, jeux nautiques et joutes.",
+ "histoire": {
+  "recit": "À Saujon, l’occupation humaine est déjà très ancienne : sur le lieu-dit « La Graupe », une série de dolmens, dont un reste suffisamment conservé pour en reconnaître une partie de la structure, témoigne d’un passé lointain. Sur la rive droite de la Seudre, le prieuré dédié à saint Martin s’implante au Ve siècle et gagne en importance au courant du VIIe siècle, tandis qu’une légende affirme que saint Martin aurait séjourné à Saujon un siècle plus tôt.\n\nAu fil des siècles, la paroisse se transforme : en 1117, le cartulaire de l’abbaye Saint-Étienne de Vaux signale l’établissement d’un nouveau prieuré et d’une petite église, puis une commanderie hospitalière est dite « de bien ancienne et notable fondation » à la date de 1351. Plus tard, en juin 1682, le temple est détruit.\n\nAu XXe siècle, la ville se retrouve au cœur des derniers jours en septembre 1944, « fraîchement libérée », aux portes de la poche de Royan.\n\nAujourd’hui encore, le paysage garde des traces : le château de Saujon a appartenu au cardinal de Richelieu, et le port de Ribérou fait vivre l’estuaire de la Seudre.",
+  "chronologie": [
+   {
+    "date": "Ve siècle",
+    "texte": "Fondation d’un prieuré dédié à saint Martin sur la rive droite de la Seudre, qui prend de l’importance au courant du VIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1117",
+    "texte": "Le cartulaire de l’abbaye Saint-Étienne de Vaux mentionne un nouveau prieuré et une petite église sous le patronage de saint Martin.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1351",
+    "texte": "Une commanderie hospitalière, « de bien ancienne et notable fondation », est dite établie au Breuil-du-Pas.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "15 juin 1682",
+    "texte": "Le temple est détruit, comme dans les autres paroisses du pays d’Arvert.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle (fin)",
+    "texte": "Démolition de l’ancienne porte fortifiée route de Sainte et des restes du prieuré Saint-Martin.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "septembre 1944",
+    "texte": "Après la libération, la ville est aux portes de la poche de Royan.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Saujon",
+   "histoire": "Le château de Saujon, aussi appelé château de Richelieu, est une propriété du cardinal de Richelieu entre 1638 et 1642. Un premier château est évoqué sans certitude, avec une proposition de date de 1286. Un nouvel épisode marque aussi l’histoire du lieu : un engagement en faveur du parti protestant avant une conversion en 1624, puis un chantier confié en 1641 avec une fin prévue en décembre 1641. En 1836, d’après le cadastre, il ne reste plus que le pavillon sud et des traces réduites du grand-escalier, du corps de logis principal et de la galerie.",
+   "anecdotes": [
+    {
+     "texte": "La date du premier château reste inconnue, mais Pascal Ferchaud avance 1286 comme hypothèse d’édification.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Le seigneur s’engage en faveur du parti protestant avant de se convertir à l’occasion de son second mariage, en 1624.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 45.675667,
+   "lon": -0.926139,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saujon"
+  },
+  {
+   "nom": "Port de Ribérou",
+   "histoire": "Le port de Ribérou est un port de pêche et de plaisance au fond de l’estuaire de la Seudre. En 1577, pendant les Guerres de religion, la baronnie de Saujon (à majorité protestante) est occupée par l’armée royale venue mettre le siège devant Brouage. Le nouveau port est inauguré le 18 août 2012, avec des animations, et il est aujourd’hui un petit port de pêche et de plaisance.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, le port de Ribérou est un petit port de pêche et de plaisance.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 45.6713888889,
+   "lon": -0.927777777778,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Rib%C3%A9rou"
+  },
+  {
+   "nom": "Gare de Saujon",
+   "histoire": "La gare de Saujon se situe sur la ligne de Saintes à Royan. Son importance s’explique par l’ouverture de l’embranchement entre Saujon et La Tremblade, intervenue le 25 juin 1876.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 45.666565,
+   "lon": -0.930065,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saujon"
+  },
+  {
+   "nom": "Accident ferroviaire de Saujon",
+   "histoire": "Un accident ferroviaire a lieu le dimanche 14 août 1910, à l’entrée de la gare de Saujon, lorsqu’un train de voyageurs allant de Bordeaux à Royan prend en écha…",
+   "anecdotes": [
+    {
+     "texte": "Lors de l’accident, le mécanicien ne contesta pas avoir abandonné momentanément sa machine à cet emplacement.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 45.66373,
+   "lon": -0.926919,
+   "url": "https://fr.wikipedia.org/wiki/Accident_ferroviaire_de_Saujon"
+  }
+ ],
+ "sources": [
+  "Saujon (prononcé [so.ʒɔ̃]) est une commune du Sud-Ouest de la France, située dans le département de la Charente-Maritime (région Nouvelle-Aquitaine). Ses habitants sont appelés les Saujonnais et les Saujonnaises. Avec 7440 habitants (2021), ce chef-lieu de canton de la périphérie nord de Royan est aujourd'hui la neuvième ville du département et occupe le deuxième rang parmi les 33 communes de la communauté […]",
+  "L'occupation humaine du territoire communal est très ancienne, comme en témoigne un ensemble mégalithique constitué d'une série de dolmens au lieu-dit « La Graupe ». La plupart ont subi les outrages du temps (et des hommes), mais l'un d'eux reste suffisamment bien conservé pour qu'on puisse reconnaître en partie sa structure d'origine. Composé de cinq dalles formant une salle, il a probablement fait partie d'un […]",
+  "Ve siècle : Au Ve siècle, un prieuré dédié à saint Martin (dont la légende veut qu'il ait séjourné à Saujon un siècle plus tôt) est fondé sur la rive droite de la Seudre, et acquiert une certaine importance dans le courant du VIIe siècle.",
+  "1117 : Le cartulaire de l'abbaye Saint-Étienne de Vaux indique qu'un nouveau prieuré est établi en 1117, ainsi qu'une petite église, placée sous le patronage de saint Martin comme la première (aujourd'hui détruite, il en reste quatre chapiteaux dans l'église actuelle).",
+  "1351 : Une commanderie hospitalière est fondée à une date indéterminée — en 1351, elle est dite « de bien ancienne et notable fondation, jadis fondée pour et en l’honneur de Dieu et de Monsieur Saint Jehan de Jérusalem » — au Breuil-du-Pas, en aval de Ribérou.",
+  "1682 : Le 15 juin 1682, le temple est purement et simplement détruit (tout comme dans les autres paroisses du pays d'Arvert).",
+  "XVIIIe siècle : A la fin du XVIIIe siècle, l'ancienne porte fortifié située route de Sainte, ainsi que les restes du prieuré Saint-Martin sont démolis.",
+  "XIXe siècle : Bourgeois, notables et riches marchands se convertissent en masse, et le baron Denis de Campet (rebaptiser de façon impropre Pierre de Campet au XIXe siècle) lui-même embrasse la foi nouvelle, ce qui lui vaut d'être condamné pour hérésie par le parlement de Bordeaux.",
+  "1944 : Au mois de septembre 1944, la ville, fraîchement libérée, est aux portes de la poche de Royan.",
+  "Lieu « Château de Saujon » : Le château de Saujon parfois appelé château de Richelieu est un château situé sur la commune de Saujon en Charente-Maritime qui fut la propriété du cardinal de Richelieu entre 1638 et 1642.",
+  "Lieu « Château de Saujon », 1286 : Cependant l’on ne sait peut de chose sur ce premier château et sa date de construction demeure inconnu bien que Pascal Ferchaud propose la date de 1286 comme une possible date d’édification.",
+  "Lieu « Château de Saujon », 1624 : Le nouveau seigneur s’engage activement en faveurs du parti protestant avant de se convertir à l’occasion de son second mariage en 1624 au catholicisme.",
+  "Lieu « Château de Saujon », 1641 : Le chantier est confié au neveu de Pierre Lemaistre, André Boyer et le château doit être achevé en décembre 1641.",
+  "Lieu « Château de Saujon », aujourd'hui : En 1836, d’après le cadastre, il ne reste plus que le pavillon sud dans lequel se trouvait le grand-escalier du château qui desservait les autres pièces, les deux tiers du corps de logis principal ainsi que la galerie dont les arches ont été bouchées.",
+  "Lieu « Port de Ribérou » : Le port de Ribérou est un port de pêche et de plaisance situé au fond de l'estuaire de la Seudre, à Saujon.",
+  "Lieu « Port de Ribérou », 1577 : En 1577, pendant les Guerres de religion, la baronnie de Saujon (à majorité protestante) est occupée par l'armée royale, venue mettre le siège devant Brouage.",
+  "Lieu « Port de Ribérou », aujourd'hui : L'inauguration du nouveau port a lieu le 18 août 2012, en présence du maire, Pascal Ferchaud, et d'une foule nombreuse venue profiter des animations : concerts, jeux nautiques, joutes, etc. Aujourd'hui, le port de Ribérou est un petit port de pêche et de plaisance.",
+  "Lieu « Gare de Saujon » : La gare de Saujon est une gare ferroviaire française de la ligne de Saintes à Royan, située sur le territoire de la commune de Saujon dans le département de la Charente-Maritime, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Saujon », 1876 : L'importance du bâtiment de la gare tient compte de l'ouverture de l'embranchement entre Saujon et La Tremblade qui intervient moins d'un an plus tard, le 25 juin 1876.",
+  "Lieu « Accident ferroviaire de Saujon » : L’accident ferroviaire de Saujon a eu lieu le dimanche 14 août 1910 en France, sur le réseau de l'État, à l'entrée de la gare de cette ville du département de la Charente-Inférieure lorsqu'un train de voyageurs allant de Bordeaux à Royan prit en écha",
+  "Lieu « Accident ferroviaire de Saujon », aujourd'hui : Le mécanicien ne contesta d'ailleurs pas avoir abandonné momentanément sa machine à cet emplacement."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 3
+ }
+}

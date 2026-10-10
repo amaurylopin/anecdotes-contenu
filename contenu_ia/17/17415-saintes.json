@@ -1,0 +1,314 @@
+{
+ "commune": {
+  "titre": "Saintes",
+  "code_insee": "17415",
+  "departement": "17",
+  "population": 25363,
+  "lat": 45.7464,
+  "lon": -0.6333,
+  "url": "https://fr.wikipedia.org/wiki/Saintes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:59:24",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3377,
+  "sortie": 2195
+ },
+ "cout_usd": 0.003419,
+ "accroche": "Sous-préfecture de Charente-Maritime, Saintes rassemble les Saintais et les Saintaises autour de 25 363 habitants (2023).",
+ "histoire": {
+  "recit": "À Saintes, on marche entre plusieurs grands foyers de pierre et de mémoire. Aux origines, des traces de fossés et de céramiques attestent un peuplement ancien près du lieu-dit de Diconche, au terme du Néolithique.\n\nPlus tard, la ville se distingue par ses sanctuaires. L’abbaye aux Dames se structure au XIIe siècle autour de l’église Sainte-Marie, puis les bâtiments conventuels de style classique prennent forme au XVIIe siècle ; restaurés entre les années 1970 et 1980, ils deviennent un centre culturel au cœur de la « cité musicale ». La basilique Saint-Eutrope, fondée en 1081 et consacrée en 1096, s’impose aussi par son art roman saintongeais et sa flèche gothique flamboyante.\n\nSaintes protège aussi ses édifices civils et ses vestiges romains. L’amphithéâtre, connu localement comme les arènes, fait l’objet de restaurations récentes : l’entrée orientale, dite « porte des Vivants », est inaugurée le 14 août 2024, puis les voûtes et parements rouvrent après inauguration le 18 avril 2025.",
+  "chronologie": [
+   {
+    "date": "période finale du Néolithique (-2900 à -2500 avant l'ère chrétienne)",
+    "texte": "Près du lieu-dit de Diconche, des fossés et des vestiges de céramiques signalent une présence humaine ancienne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "L’abbaye aux Dames se structure autour de l’église Sainte-Marie.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Les bâtiments conventuels de l’abbaye aux Dames, de style classique, datent du XVIIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1081",
+    "texte": "La basilique Saint-Eutrope est fondée à l’instigation du duc d’Aquitaine et comte de Poitou Guillaume VIII d’Aquitaine.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1096",
+    "texte": "La basilique Saint-Eutrope est consacrée par le pape Urbain II.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "La basilique Saint-Eutrope reçoit une flèche gothique flamboyante.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Les bâtiments de l’abbaye aux Dames sont restaurés au cours des années 1970 et 1980 et convertis en centre culturel.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "14 août 2024",
+    "texte": "Après restauration, la « porte des Vivants » à l’entrée orientale des arènes de Saintes est inaugurée.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "18 avril 2025",
+    "texte": "Après restauration des voûtes et parements, l’amphithéâtre rouvre ; il est inauguré le 18 avril 2025.",
+    "sources": [
+     "S21"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye aux Dames de Saintes",
+   "histoire": "Ancienne abbaye bénédictine de Saintes, elle se structure au XIIe siècle autour de l’église Sainte-Marie. Les bâtiments conventuels prennent ensuite une forme de style classique au XVIIe siècle. Restaurés entre les années 1970 et 1980, ils sont convertis en centre culturel.",
+   "anecdotes": [
+    {
+     "texte": "Les bâtiments conventuels existent encore aujourd’hui : la décennie 1650-1660 voit l’édification de ce qui demeure.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 45.7447,
+   "lon": -0.6242,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_aux_Dames_de_Saintes"
+  },
+  {
+   "nom": "Basilique Saint-Eutrope de Saintes",
+   "histoire": "Principal sanctuaire catholique de la ville, la basilique Saint-Eutrope est reconstruite au début du XIe siècle dans un état jugé fort vétuste. Fondée en 1081, elle est consacrée en 1096 et honore saint Eutrope de Saintes. Son art roman saintongeais s’enrichit d’éléments comme la flèche du XVe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La construction de la flèche du XVe siècle aurait été rendue possible grâce à une donation attribuée au roi de France Louis XI.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Des restes auraient été authentifiés puis transportés dans l’église Saint-Étienne aujourd’hui disparue, avant la mise en place d’une première basilique funéraire.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 45.7434,
+   "lon": -0.6414,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Eutrope_de_Saintes"
+  },
+  {
+   "nom": "Cathédrale Saint-Pierre de Saintes",
+   "histoire": "Cocathédrale catholique de Saintes, elle est traditionnellement liée à Pierre de Confolens : l’ordonnance en 1117 d’un nouvel édifice suit l’épiscopat 1112-1127. Une nouvelle dédicace intervient entre 1183 et 1186. En 1568, des troupes protestantes saccagent l’église et provoquent l’effondrement d’une grande partie de la nef. Aujourd’hui, des vestiges du haut Moyen Âge sont mis au jour sous le sol, et le croisillon sud conserve des maçonneries romanes du XIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 45.744444,
+   "lon": -0.631944,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Pierre_de_Saintes"
+  },
+  {
+   "nom": "Amphithéâtre de Saintes",
+   "histoire": "Amphithéâtre romain appelé localement les arènes de Saintes, il se situe à Mediolanum Santonum, chef-lieu de la civitas Santonum. Identifié comme édifice de spectacles antiques au plus tard au XVIIIe siècle, il a ensuite fait l’objet de descriptions et de relevés. Les restaurations récentes reprennent l’entrée orientale, dite « porte des Vivants », puis les voûtes et parements, avant des réouvertures inaugurées.",
+   "anecdotes": [
+    {
+     "texte": "La restauration de l’entrée orientale est traditionnellement appelée « porte des Vivants ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 45.74581,
+   "lon": -0.64399,
+   "url": "https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_de_Saintes"
+  },
+  {
+   "nom": "Couvent des Jacobins de Saintes",
+   "histoire": "Ancien couvent de la ville de Saintes, le couvent des jacobins est fondé au début du XIIIe siècle et abrite une communauté de moines dominicains jusqu’à la Révolution. À la fin du XIXe siècle, les bâtiments sont la propriété de Maurice Martineau, négociant de Cognac et bibliophile, qui lègue une bibliothèque à la municipalité en 1928. Aujourd’hui, subsistent l’église des jacobins élevée en 1446 et la salle capitulaire attenante.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 45.7458,
+   "lon": -0.6342,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Jacobins_de_Saintes"
+  },
+  {
+   "nom": "Thermes de Saint-Saloine de Saintes",
+   "histoire": "Les thermes de Saint-Saloine désignent les vestiges d’un des deux anciens établissements de thermes romains identifiés à Mediolanum Santonum. Connus comme ruines antiques, ils ont perdu le souvenir de leur fonction première et ont parfois été assimilés à un temple. Ils sont détruits en plusieurs étapes, en 1729 puis au XIXe siècle. Quelques pierres signalent aussi un édifice religieux Saint-Saloine établi ultérieurement. Aujourd’hui, les thermes désignent ces vestiges romains identifiés.",
+   "anecdotes": [
+    {
+     "texte": "À une époque, le souvenir de leur fonction initiale s’est perdu : les vestiges ont été assimilés à un temple communément dédié à Minerve.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 45.7508,
+   "lon": -0.63667,
+   "url": "https://fr.wikipedia.org/wiki/Thermes_de_Saint-Saloine_de_Saintes"
+  },
+  {
+   "nom": "Musée de l'Échevinage de Saintes",
+   "histoire": "Le musée de l’Échevinage se trouve dans le centre historique de Saintes. Les origines du bâtiment remontent au XVe siècle, après la guerre de Cent Ans, et il est relié à la confirmation par Louis XI de la charte communale accordée en 1199 par la duchesse Aliénor d’Aquitaine. Le musée connaît ensuite une phase liée à un premier musée des Beaux-Arts fondé en 1864 à la suite d’un legs. Les collections sont aménagées dans l’ancienne maison de l’Échevinage en 1978.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34",
+    "S35",
+    "S37"
+   ],
+   "lat": 45.7459,
+   "lon": -0.6332,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27%C3%89chevinage_de_Saintes"
+  },
+  {
+   "nom": "Musée du Présidial de Saintes",
+   "histoire": "Le musée du Présidial est un musée de Saintes. Le bâtiment qui l’abrite est édifié vers 1605. Il est classé monument historique le 7 juin 1919. Depuis 2009, il est fermé au public, mais il abrite des réserves de beaux-arts des musées municipaux. Les collections sont transférées dans l’hôtel du Présidial en 1967.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 45.7465,
+   "lon": -0.6321,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Pr%C3%A9sidial_de_Saintes"
+  }
+ ],
+ "sources": [
+  "Saintes (/sɛ̃t/ ) est une commune du Sud-Ouest de la France, située dans le département de la Charente-Maritime dont elle est une sous-préfecture en région Nouvelle-Aquitaine. Ses habitants sont appelés les Saintais et les Saintaises. Deuxième centre urbain du département après La Rochelle, cette ville moyenne compte 25 363 habitants (2023) et est à la tête d'une unité urbaine de 29 871 habitants et de la deuxième […]",
+  "« Enfin délivrés des agréables liens qui nous retenaient, nous quittons les molles délices de Bordeaux et nous rapprochons de la ville des Santons, dans une campagne proche. » — Ausone, Épître au rhéteur Axius Paulus — IVe siècle Des traces de fossés et des vestiges de céramiques datant de la période finale du Néolithique (-2900 à -2500 avant l'ère chrétienne) localisés à proximité du lieu-dit de Diconche témoignent […]",
+  "Lieu « Abbaye aux Dames de Saintes » : L’abbaye aux Dames est une ancienne abbaye bénédictine située à Saintes, dans le département français de la Charente-Maritime en région Nouvelle-Aquitaine.",
+  "Lieu « Abbaye aux Dames de Saintes », XIIe siècle : L'abbaye aux Dames se structure autour de l'église Sainte-Marie, érigée au XIIe siècle.",
+  "Lieu « Abbaye aux Dames de Saintes », XVIIe siècle : Les bâtiments conventuels, de style classique, datent du XVIIe siècle.",
+  "Lieu « Abbaye aux Dames de Saintes », 1970 : Restaurés au cours des années 1970 et 1980, ils ont été convertis en centre culturel et sont désormais au cœur de la « cité musicale ».",
+  "Lieu « Abbaye aux Dames de Saintes », aujourd'hui : La décennie 1650-1660 voit l'édification des bâtiments qui existent toujours aujourd'hui.",
+  "Lieu « Basilique Saint-Eutrope de Saintes » : La basilique Saint-Eutrope de Saintes est un des principaux sanctuaires catholiques de la ville de Saintes, dans le département français de la Charente-Maritime et le diocèse de La Rochelle et Saintes.",
+  "Lieu « Basilique Saint-Eutrope de Saintes », XIe siècle : Reconstruite assez sommairement, elle apparaît comme fort vétuste au début du XIe siècle.",
+  "Lieu « Basilique Saint-Eutrope de Saintes », 1081 : Fondée en 1081, à l'instigation du duc d'Aquitaine et comte de Poitou Guillaume VIII d'Aquitaine, consacrée par le pape Urbain II en 1096, elle honore saint Eutrope de Saintes, martyr, premier évêque et évangélisateur de la région.",
+  "Lieu « Basilique Saint-Eutrope de Saintes », XVe siècle : Chef-d'œuvre de l'art roman saintongeais, l'église Saint-Eutrope incorpore également des éléments d'autres styles, tels la flèche (XVe siècle), pur produit du gothique flamboyant, construite grâce à une donation du roi de France Louis XI.",
+  "Lieu « Basilique Saint-Eutrope de Saintes », aujourd'hui : Les restes auraient alors été authentifiés par l'évêque Pallais de Saintes, qui les aurait fait transporter dans l'église Saint-Étienne aujourd'hui disparue, avant de faire élever une première basilique funéraire.",
+  "Lieu « Cathédrale Saint-Pierre de Saintes » : La cathédrale Saint-Pierre de Saintes est une cocathédrale catholique située à Saintes, dans le département de la Charente-Maritime, en Nouvelle-Aquitaine.",
+  "Lieu « Cathédrale Saint-Pierre de Saintes », 1112 : Elle est traditionnellement liée à l'épiscopat de Pierre de Confolens (1112-1127), qui ordonne en 1117 la construction d'un nouvel édifice.",
+  "Lieu « Cathédrale Saint-Pierre de Saintes », 1183 : Une nouvelle dédicace de l'édifice par l'archevêque de Bourges intervient entre 1183 et 1186.",
+  "Lieu « Cathédrale Saint-Pierre de Saintes », 1568 : Cette campagne ambitieuse est brutalement interrompue par les guerres de Religion : en 1568, les troupes protestantes saccagent l'église et provoquent l'effondrement d'une grande partie de la nef.",
+  "Lieu « Cathédrale Saint-Pierre de Saintes », aujourd'hui : Des vestiges du haut Moyen Âge ont été mis au jour sous son sol ; le croisillon sud conserve d'importantes maçonneries romanes du XIIe siècle ; enfin, une vaste reconstruction en style gothique flamboyant, entreprise au XVe siècle, a donné à l'extérieur une grande partie de son aspect actuel.",
+  "Lieu « Amphithéâtre de Saintes » : L'amphithéâtre de Saintes, appelé localement les arènes de Saintes, est un amphithéâtre romain situé à Mediolanum Santonum (actuelle ville de Saintes), chef-lieu de la civitas Santonum dans la province de Gaule aquitaine.",
+  "Lieu « Amphithéâtre de Saintes », XVIIIe siècle : L'amphithéâtre est identifié comme édifice de spectacles antique au plus tard au XVIIIe siècle, époque à laquelle ses vestiges font l'objet de descriptions et de relevés.",
+  "Lieu « Amphithéâtre de Saintes », 2024 : La restauration de l'entrée orientale, traditionnellement appelée « porte des Vivants », est engagée en premier ; elle est inaugurée après restauration le 14 août 2024.",
+  "Lieu « Amphithéâtre de Saintes », 2025 : La restauration de ses voûtes et parements, le traitement de la végétation et la sécurisation des accès permettent sa réouverture ; elle est inaugurée le 18 avril 2025.",
+  "Lieu « Amphithéâtre de Saintes », aujourd'hui : Les vestiges sont classés comme monument historique par la liste de 1840.",
+  "Lieu « Couvent des Jacobins de Saintes » : Le couvent des jacobins est un ancien couvent de la ville de Saintes.",
+  "Lieu « Couvent des Jacobins de Saintes », XIIIe siècle : Fondé au début du XIIIe siècle, le monastère abrite une communauté de moines dominicains jusqu'à la révolution.",
+  "Lieu « Couvent des Jacobins de Saintes », XIXe siècle : À la fin du XIXe siècle, les bâtiments sont la propriété de Maurice Martineau, négociant de Cognac, bibliophile et amateur d'art.",
+  "Lieu « Couvent des Jacobins de Saintes », 1928 : Ce dernier emploie une partie de son temps à se constituer une impressionnante bibliothèque qu'il lègue à la municipalité à sa mort, en 1928, ainsi que les bâtiments de l'ancien couvent.",
+  "Lieu « Couvent des Jacobins de Saintes », aujourd'hui : Ainsi est élevée l'église des jacobins (1446) et la salle capitulaire qui lui est attenante, seuls vestiges toujours visibles de l'ancien monastère.",
+  "Lieu « Thermes de Saint-Saloine de Saintes » : Les thermes de Saint-Saloine désignent les vestiges de l'un des deux anciens établissements de thermes romains identifiés dans la ville gallo-romaine de Mediolanum Santonum (Saintes) en Charente-Maritime.",
+  "Lieu « Thermes de Saint-Saloine de Saintes », 1729 : Ils restent connus comme ruines antiques, mais le souvenir de leur fonction initiale s'est perdu — ils sont assimilés à un temple, communément dédié à Minerve — et ils sont détruits en plusieurs étapes, en 1729 puis au XIXe siècle.",
+  "Lieu « Thermes de Saint-Saloine de Saintes », XVIIIe siècle : Quelques pierres témoignent de l'édifice religieux Saint-Saloine établi ultérieurement ; le sanctuaire paléochrétien, endommagé, disparaît au XVIIIe siècle.",
+  "Lieu « Thermes de Saint-Saloine de Saintes », 1896 : Un édifice, construit en opus mixtum et interprété plus tard comme des latrines, a été décrit en 1896 par Auguste-François Lièvre et un plan les représentant suggère qu'elles pouvaient accueillir trente-sept personnes à la fois.",
+  "Lieu « Thermes de Saint-Saloine de Saintes », aujourd'hui : Les thermes de Saint-Saloine désignent les vestiges de l'un des deux anciens établissements de thermes romains identifiés dans la ville gallo-romaine de Mediolanum Santonum (Saintes) en Charente-Maritime.",
+  "Lieu « Musée de l'Échevinage de Saintes » : Le musée de l'Échevinage est l'un des principaux musées de la ville de Saintes, dans le département de la Charente-Maritime, en France.",
+  "Lieu « Musée de l'Échevinage de Saintes », 1199 : Les origines de ce bâtiment ancré au cœur du centre historique de la ville remontent au XVe siècle, époque qui voit le retour à la paix civile après les ravages de la guerre de Cent Ans, ainsi que la confirmation par le roi Louis XI de la charte communale accordée en 1199 par la duchesse Aliénor d'Aquitaine.",
+  "Lieu « Musée de l'Échevinage de Saintes », 1864 : Tout comme le musée du Présidial, le musée de l'Échevinage est l'héritier d'un premier musée des Beaux-Arts fondé en 1864 à la suite d'un legs du comte Louis-Nicolas Lemercier.",
+  "Lieu « Musée de l'Échevinage de Saintes », 2009 : Il n'est plus ouvert au public depuis octobre 2009.",
+  "Lieu « Musée de l'Échevinage de Saintes », aujourd'hui : Les collections illustrant les courants picturaux du XIXe siècle sont aménagées dans l'ancienne maison de l'Échevinage en 1978, où elles demeurent encore exposées actuellement.",
+  "Lieu « Musée du Présidial de Saintes » : Le musée du Présidial est l'un des principaux musées de la ville de Saintes, dans le département de la Charente-Maritime, en France.",
+  "Lieu « Musée du Présidial de Saintes », 1605 : Le bâtiment abritant le musée est édifié vers 1605, dans le premier quart du XVIIe siècle.",
+  "Lieu « Musée du Présidial de Saintes », 1919 : Le bâtiment est classé monument historique le 7 juin 1919.",
+  "Lieu « Musée du Présidial de Saintes », 2009 : Il est fermé au public depuis 2009, mais abrite les réserves des beaux-arts des musées municipaux saintais.",
+  "Lieu « Musée du Présidial de Saintes », aujourd'hui : Les collections sont transférées dans l'hôtel du Présidial en 1967, où elles sont aujourd'hui conservées."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
