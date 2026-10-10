@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Isbergues",
+  "code_insee": "62473",
+  "departement": "62",
+  "population": 8650,
+  "lat": 50.62416667,
+  "lon": 2.4575,
+  "url": "https://fr.wikipedia.org/wiki/Isbergues"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:10:50",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1229,
+  "sortie": 652
+ },
+ "cout_usd": 0.001061,
+ "accroche": "En 1880, l’usine sidérurgique d’Isbergues est spécialisée dans la production de rails pour les chemins de fer.",
+ "histoire": {
+  "recit": "Isbergues, commune du Pas-de-Calais, se tient sur le territoire traversé au nord par le canal d’Aire à la Bassée. Son nom officiel est donné en 1801, et la commune est membre de la communauté d’agglomération de Béthune-Bruay, Artois-Lys Romane. Très tôt, ses activités s’attachent au travail industriel.\n\nOn raconte à Isbergues la légende de sainte Isbergue, fille de Pépin le Bref et sœur de Charlemagne : on lui prête la vertu de guérir les maladies de peau et des yeux.\n\nAu cœur de ce développement, une usine sidérurgique produit des rails dès 1880. Plus tard, l’entreprise organise des aides pour l’emploi local : une convention de revitalisation est signée en 2005, puis, du côté des voyageurs, des panneaux d’affichage sont installés à la gare en 2011.",
+  "chronologie": [
+   {
+    "date": "1880",
+    "texte": "L’usine sidérurgique d’Isbergues, construite dans les années 1880 par la Société des Aciéries de France, est spécialisée dans la production de rails pour les chemins de fer.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "L’entreprise s’engage à verser 2,5 millions d’euros sur trois ans dans le cadre d’une convention de revitalisation, confiée au prestataire SODIE, pour aider les employés à retrouver du travail localement.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2011",
+    "texte": "La SNCF installe des panneaux d’affichage pour l’information des voyageurs à la gare.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare d'Isbergues",
+   "histoire": "La gare d’Isbergues, anciennement appelée Berguette-Isbergues, est une gare ferroviaire des lignes d’Arras à Dunkerque-Locale et d’Armentières à Arques, située sur le territoire d’Isbergues.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 50.613982,
+   "lon": 2.462992,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Isbergues"
+  }
+ ],
+ "sources": [
+  "Isbergues est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Isberguois. La commune est membre de la communauté d'agglomération de Béthune-Bruay, Artois-Lys Romane. La commune d'Isbergues (nom officiel depuis 1801), traversée au nord par le canal d'Aire à la Bassée, est située dans l'est du département du Pas-de-Calais à 15 km, à vol […]",
+  "La commune a été marquée par la légende de sainte Isbergue, fille de Pépin le Bref et sœur de Charlemagne, qui avait pour vertu de guérir les maladies de peau et des yeux. Isbergues a connu un fort développement industriel à partir du XIXe siècle grâce à la proximité du bassin minier du Nord-Pas-de-Calais. Afin d'augmenter leurs ressources, le maire de Berguette Jacques Napieraj propose la fusion de Molinghem, […]",
+  "1880 : L’usine sidérurgique d’Isbergues, construite dans les années 1880 par la Société des Aciéries de France, est spécialisée dans la production de rails pour les chemins de fer.",
+  "2005 : L'entreprise s'est engagée à verser 2,5 millions d'euros sur trois ans dans le cadre d'une « convention de revitalisation » signée en 2005 et confiée au prestataire SODIE pour aider les employés à retrouver du travail localement.",
+  "Lieu « Gare d'Isbergues » : La gare d'Isbergues, anciennement appelée Berguette-Isbergues, est une gare ferroviaire française des lignes d'Arras à Dunkerque-Locale et d'Armentières à Arques, située sur le territoire de la commune d'Isbergues, dans le département du Pas-de-Calai",
+  "Lieu « Gare d'Isbergues », 2011 : En 2011, la SNCF a installé des panneaux d'affichage pour permettre l'information des voyageurs."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

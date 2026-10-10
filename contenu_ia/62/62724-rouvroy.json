@@ -1,0 +1,154 @@
+{
+ "commune": {
+  "titre": "Rouvroy (Pas-de-Calais)",
+  "code_insee": "62724",
+  "departement": "62",
+  "population": 8552,
+  "lat": 50.39416667,
+  "lon": 2.90444444,
+  "url": "https://fr.wikipedia.org/wiki/Rouvroy_%28Pas-de-Calais%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:12:12",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1836,
+  "sortie": 1466
+ },
+ "cout_usd": 0.0022,
+ "accroche": "En 1891, l’exploitation de la fosse n° 2 des mines de Drocourt, dite « Nouméa », a commencé à Rouvroy.",
+ "histoire": {
+  "recit": "À Rouvroy, le bassin minier a façonné la ville. La fosse no 2 des mines de Drocourt, dite Nouméa, ouvre l’histoire industrielle du quartier : elle assure ensuite un rôle dans la circulation de l’air pour d’autres fosses, avant que le puits ne soit remblayé. Quand la mine s’éteint, il ne reste qu’un vestige : le bâtiment des bains-douches.\n\nLa vie paroissiale suit ce rythme. Pour la cité Nouméa, une église est érigée au printemps 1928, grâce à l’intervention de Louis Dupont, banquier à Douai, et de Noël Beaugrand, directeur de Nœux. En mai 1931, la communauté est érigée en paroisse. À côté, l’église Saint-Géry rappelle une époque plus ancienne : sa base de pierres correspond au vestige de l’ancienne église médiévale.",
+  "chronologie": [
+   {
+    "date": "1789",
+    "texte": "Rouvroy faisait partie du bailliage de Lens et suivait la coutume d’Artois ; son église paroissiale était consacrée à saint Géry.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "La fosse no 2 des mines de Drocourt, dite fosse de Nouméa, commence son exploitation.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1928",
+    "texte": "Au printemps 1928, une église est érigée pour la cité Nouméa, grâce à l’intervention de Louis Dupont et de Noël Beaugrand.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1931",
+    "texte": "En mai 1931, Rouvroy-Nouméa (ou Rouvroy-Mines) est érigée en paroisse.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1979",
+    "texte": "En 1979, le puits est comblé ; le chevalement est détruit trois ans plus tard.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse no 2 des mines de Drocourt",
+   "histoire": "La fosse no 2, dite Nouméa, est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Rouvroy. Son exploitation débute en 1891. Par la suite, la fosse no 2 assure le retour d’air pour d’autres fosses jusqu’en 1979, date à laquelle son puits, profond de 984 mètres, est remblayé. Aujourd’hui, le seul vestige visible est le bâtiment des bains-douches, dans un état très dégradé.",
+   "anecdotes": [
+    {
+     "texte": "Jusqu’en 1979, la fosse no 2 sert aussi au retour d’air entre plusieurs fosses voisines, dont la fosse no 4 - 5 et la fosse no 3 - 15.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le seul vestige de la fosse est le bâtiment des bains-douches, dans un état très dégradé.",
+   "sources": [
+    "S4",
+    "S3",
+    "S7",
+    "S6",
+    "S8"
+   ],
+   "lat": 50.407117,
+   "lon": 2.911861,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_2_des_mines_de_Drocourt"
+  },
+  {
+   "nom": "Église Saint-Louis de Rouvroy",
+   "histoire": "L’église Saint-Louis est liée à la cité Nouméa. Au printemps 1928, une église est érigée pour la cité Nouméa de la fosse no 2 de la Compagnie des mines Vicoigne, Nœux et Drocourt. En mai 1931, Rouvroy-Nouméa est érigée en paroisse. Aujourd’hui, la cité Nouméa, qui la constitue, s’étend le long du boulevard reliant la cité La Parisienne de Drocourt à la cité du Maroc de Méricourt.",
+   "anecdotes": [
+    {
+     "texte": "L’érection de l’église en 1928 est menée grâce à l’intervention de Louis Dupont, banquier à Douai, et de Noël Beaugrand, directeur de Nœux.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S13"
+   ],
+   "lat": 50.4048,
+   "lon": 2.9126,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Louis_de_Rouvroy"
+  },
+  {
+   "nom": "Église Saint-Géry de Rouvroy",
+   "histoire": "L’église Saint-Géry fait partie des deux églises catholiques de Rouvroy. Sa base de pierres correspond à un vestige de l’ancienne église médiévale. Historiquement, l’église paroissiale était consacrée à saint Géry et relevait du diocèse d’Arras, selon le récit d’Auguste de Loisne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S2"
+   ],
+   "lat": 50.39171,
+   "lon": 2.90547,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-G%C3%A9ry_de_Rouvroy"
+  }
+ ],
+ "sources": [
+  "Rouvroy est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Rouvroysiens. La commune est membre de la communauté d'agglomération Hénin-Carvin. La commune de Rouvroy (nom officiel depuis 1801), située dans le sud-est du département du Pas-de-Calais, à 7 km, à vol d'oiseau, au sud-est de la commune de Lens, est une commune du bassin minier du […]",
+  "D'après l'historien français Auguste de Loisne : « Rouvroy, en 1789, faisait partie du bailliage de Lens et suivait la coutume d'Artois. Son église paroissiale, diocèse d'Arras, doyenné d'Hénin-Liétard, district de Méricourt, était consacrée à saint Géry ; le chapitre d’Arras présentait à la cure. » La cité de Nouméa a été fondée au XIXe siècle à proximité de la fosse no 2 des mines de Drocourt , dite fosse de […]",
+  "1891 : La cité de Nouméa a été fondée au XIXe siècle à proximité de la fosse no 2 des mines de Drocourt , dite fosse de Nouméa dont l'exploitation a commencé en 1891.",
+  "Lieu « Fosse no 2 des mines de Drocourt » : La fosse no 2 dite Nouméa de la Compagnie des mines de Drocourt est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Rouvroy.",
+  "Lieu « Fosse no 2 des mines de Drocourt », 1895 : 50° 24′ 20″ N, 2° 54′ 47″ E Les façades et les toitures de l'ancienne école comprenant deux bâtiments, le premier datant de 1895 et le second de 1930-1931, font l’objet d’une inscription au titre des monuments historiques depuis le 22 septembre 2010.",
+  "Lieu « Fosse no 2 des mines de Drocourt », 1979 : Le puits est comblé en 1979 et le chevalement détruit trois ans plus tard.",
+  "Lieu « Fosse no 2 des mines de Drocourt », 1979 : Les installations de surface sont partiellement détruites, mais la fosse no 2 assure le retour d'air de la fosse no 4 - 5 et de la fosse no 3 - 15 des mines de Courrières (sise à Méricourt, à 2 122 mètres au nord-ouest) jusqu'en 1979, date à laquelle son puits, profond de 984 mètres, est remblayé.",
+  "Lieu « Fosse no 2 des mines de Drocourt », aujourd'hui : Le seul vestige de la fosse est le bâtiment des bains-douches, dans un état très dégradé.",
+  "Lieu « Église Saint-Louis de Rouvroy » : L'église Saint-Louis est une église catholique située dans la commune de Rouvroy, dans le département du Pas-de-Calais, en France.",
+  "Lieu « Église Saint-Louis de Rouvroy », 1928 : Au printemps de l’année 1928, une église fut érigée pour la cité Nouméa de la fosse no 2 de la Compagnie des mines Vicoigne, Nœux et Drocourt, grâce à l’intervention de Louis Dupont, banquier à Douai et président du conseil d’administration de la Compagnie, et de Noël Beaugrand directeur de Nœux.",
+  "Lieu « Église Saint-Louis de Rouvroy », 1931 : En mai 1931, Rouvroy - Nouméa, ou Rouvroy - Mines, fut érigée en paroisse.",
+  "Lieu « Église Saint-Louis de Rouvroy », 1990 : Cette place a été inaugurée le samedi 23 juin 1990.",
+  "Lieu « Église Saint-Louis de Rouvroy », aujourd'hui : La cité Nouméa, qui la constitue, compte actuellement 10 000 habitants ; elle est située le long du boulevard qui unit la cité La Parisienne de Drocourt à la cité du Maroc de Méricourt.",
+  "Lieu « Église Saint-Géry de Rouvroy » : L'église Saint-Géry est l'une des deux églises catholiques de la ville de Rouvroy (Pas-de-Calais).",
+  "Lieu « Église Saint-Géry de Rouvroy », aujourd'hui : Sa base de pierres est un vestige de l'ancienne église médiévale."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

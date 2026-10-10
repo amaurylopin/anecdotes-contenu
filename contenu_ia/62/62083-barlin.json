@@ -1,0 +1,146 @@
+{
+ "commune": {
+  "titre": "Barlin",
+  "code_insee": "62083",
+  "departement": "62",
+  "population": 7331,
+  "lat": 50.45583333,
+  "lon": 2.61944444,
+  "url": "https://fr.wikipedia.org/wiki/Barlin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:30:06",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1499,
+  "sortie": 1306
+ },
+ "cout_usd": 0.001932,
+ "accroche": "Le 16 avril 1917, un coup de grisou à la fosse 9 de Barlin fait 42 morts, selon une source locale.",
+ "histoire": {
+  "recit": "À Barlin, le bassin minier a longtemps structuré le territoire. Au XIIe siècle, les seigneuries y dépendaient du château de Saint-Pol-sur-Ternoise, d’Arras ou de Béthune. Plus tard, le 7 septembre 1579, la ville d’Hénin-Liétard est érigée en comté, avec au bénéfice d’Oudard de Bournonville, baron de Barlin et Houllefort. \n\nLa commune connaît aussi des heures sombres liées aux mines et à la guerre : le 16 avril 1917, un coup de grisou à la fosse 9 fait 42 morts. En novembre 1917, Barlin est bombardé et l’hôpital militaire est déplacé à Ruitz.\n\nAujourd’hui, certains vestiges rappellent la vie des charbonnages. À la fosse no 7 - 7 bis des mines de Nœux, les bains-douches et les ateliers sont ce qui subsiste. L’ancien bâtiment des pendus et bains-douches, ainsi que les façades et toitures d’ateliers, ont été inscrits au titre des monuments historiques depuis le 24 mars 2010. À la fosse no 5 - 5 bis, il reste notamment le château d’eau, un atelier et la salle des machines d’extraction.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Le territoire de Barlin se divise en plusieurs seigneuries, dépendant notamment du château de Saint-Pol-sur-Ternoise, d’Arras ou de Béthune.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "7 septembre 1579",
+    "texte": "Hénin-Liétard est érigée en comté, avec adjonction de la baillie et fief de Gouy-Servain, au bénéfice d’Oudard de Bournonville, baron de Barlin et Houllefort.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "16 avril 1917",
+    "texte": "Un coup de grisou à la fosse 9 de Barlin fait 42 morts.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "novembre 1917",
+    "texte": "Barlin est bombardé et l’hôpital militaire est déplacé à Ruitz.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "24 mars 2010",
+    "texte": "L’ancien bâtiment des pendus et bains-douches, ainsi que des façades et toitures d’ateliers de la fosse no 7 - 7 bis, sont inscrits au titre des monuments historiques.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "vers 1970 (fin des années 1970)",
+    "texte": "La gare est démolie à la fin des années 1970.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse no 7 - 7 bis des mines de Nœux",
+   "histoire": "La fosse no 7 - 7 bis dite Bonnel ou du Maisnil est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Barlin.",
+   "anecdotes": [
+    {
+     "texte": "Les bains-douches et les ateliers sont les seuls vestiges mentionnés aujourd’hui pour cette fosse.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "L’ancien bâtiment des pendus et bains-douches, avec des façades et toitures d’ateliers, a fait l’objet d’une inscription au titre des monuments historiques depuis le 24 mars 2010.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les seuls vestiges signalés aujourd’hui sont les bains-douches et les ateliers.",
+   "sources": [
+    "S6"
+   ],
+   "lat": 50.451003,
+   "lon": 2.593731,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_7_-_7_bis_des_mines_de_N%C5%93ux"
+  },
+  {
+   "nom": "Barlin Communal Cemetery Extension",
+   "histoire": "Le Barlin Communal Cemetery Extension est un cimetière de la Première Guerre mondiale situé à Barlin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7"
+   ],
+   "lat": 50.46547,
+   "lon": 2.616761,
+   "url": "https://fr.wikipedia.org/wiki/Barlin_Communal_Cemetery_Extension"
+  },
+  {
+   "nom": "Fosse no 5 - 5 bis des mines de Nœux",
+   "histoire": "La fosse no 5 - 5 bis dite Louis Wallerand, ou fosse de Barlin, est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Barlin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il subsiste le château d’eau, un atelier, et la salle des machines d’extraction.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 50.454372,
+   "lon": 2.629808,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_5_-_5_bis_des_mines_de_N%C5%93ux"
+  }
+ ],
+ "sources": [
+  "Barlin est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Barlinois. La commune est membre de la communauté d'agglomération de Béthune-Bruay, Artois-Lys Romane. La commune de Barlin (nom officiel depuis 1801), située dans le sud-est du département du Pas-de-Calais, à 8 km, à vol d'oiseau, au sud de Béthune, est une commune du bassin minier […]",
+  "Au XIIe siècle, le territoire de Barlin se divisait en plusieurs seigneuries qui dépendaient du château de Saint-Pol-sur-Ternoise, d'Arras ou de Béthune. Le 7 septembre 1579, la ville d'Hénin-Liétard est érigée en comté, avec adjonction de la baillie et fief de Gouy-Servain, au bénéfice d'Oudard de Bournonville, chevalier, baron de Barlin et Houllefort, seigneur de Capres, Divion, Ranchicourt, Tournes, Bandas, du […]",
+  "1970 : La gare est démolie à la fin des années 1970 Le 16 avril 1917, un coup de grisou à la fosse 9 de Barlin fait 42 morts.",
+  "Lieu « Fosse no 7 - 7 bis des mines de Nœux » : La fosse no 7 - 7 bis dite Bonnel ou du Maisnil de la Compagnie des mines de Nœux est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Barlin.",
+  "Lieu « Fosse no 7 - 7 bis des mines de Nœux », 2010 : L'ancien bâtiment des pendus et bains-douches, en totalité, et les façades et toitures des anciens ateliers font l’objet d’une inscription au titre des monuments historiques depuis le 24 mars 2010.",
+  "Lieu « Fosse no 7 - 7 bis des mines de Nœux », aujourd'hui : Les seuls vestiges de la fosses sont les bains-douches et les ateliers.",
+  "Lieu « Barlin Communal Cemetery Extension » : Le cimetière Barlin Communal Cemetery Extension est un cimetière de la Première Guerre mondiale situé à Barlin, dans le département du Pas-de-Calais.",
+  "Lieu « Barlin Communal Cemetery Extension », 1917 : En novembre 1917, Barlin fut bombardé et l'hôpital militaire fut déplacé à Ruitz.",
+  "Lieu « Fosse no 5 - 5 bis des mines de Nœux » : La fosse no 5 - 5 bis dite Louis Wallerand ou fosse de Barlin de la Compagnie des mines de Nœux est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Barlin.",
+  "Lieu « Fosse no 5 - 5 bis des mines de Nœux », aujourd'hui : Il subsiste de la fosse le château d'eau, un atelier, et la salle des machines d'extraction."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

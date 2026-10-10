@@ -1,0 +1,112 @@
+{
+ "commune": {
+  "titre": "Houdain",
+  "code_insee": "62457",
+  "departement": "62",
+  "population": 6945,
+  "lat": 50.45277778,
+  "lon": 2.53805556,
+  "url": "https://fr.wikipedia.org/wiki/Houdain"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:36:43",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1209,
+  "sortie": 693
+ },
+ "cout_usd": 0.001108,
+ "accroche": "Le 14 avril 1127, Anselme de Houdain jure à Saint-Omer lors de la confirmation des lois et coutumes de la ville par Guillaume Cliton.",
+ "histoire": {
+  "recit": "Houdain, au sud-est du Pas-de-Calais, s’enracine dans un très ancien village celtique établi sur l’axe Arras–Thérouanne. En 2014, des fouilles archéologiques mettent au jour un espace funéraire gaulois : la terre, ici, a gardé des traces du passé. Plus tard, le 14 avril 1127, Anselme de Houdain est présent à Saint-Omer, au moment où Guillaume Cliton confirme les lois et coutumes de la ville.\n\nL’époque minière marque ensuite la vie locale. La fosse no 7 – 7 bis des mines de Bruay, à Houdain, fournit une richesse centrale : en 1954, son exploitation est abandonnée, vécu comme un drame pour la commune et ses habitants. Le chevalement, lui, disparaît en juin 1981. Aujourd’hui, il reste quelques bâtiments, dont le local du concierge, le local électrique, les ateliers et le magasin, ainsi qu’une partie des murs d’enceinte.",
+  "chronologie": [
+   {
+    "date": "Début (origines très anciennes)",
+    "texte": "Houdain naît comme un village celtique sur l’axe reliant la capitale des Atrébates à celle des Morins (Arras à Thérouanne).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2014",
+    "texte": "Des fouilles archéologiques mettent au jour un espace funéraire gaulois.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "14 avril 1127",
+    "texte": "Anselme de Houdain est présent à Saint-Omer : Guillaume Cliton confirme les lois et coutumes et lui fait jurer.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1954",
+    "texte": "L’exploitation de la fosse no 7 cesse : l’abandon est vécu comme un drame pour la commune, la fosse étant alors la seule richesse.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Juin 1981",
+    "texte": "Le chevalement de la fosse no 7 – 7 bis est détruit.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse no 7 - 7 bis des mines de Bruay",
+   "histoire": "À Houdain, la fosse no 7 – 7 bis de la Compagnie des mines de Bruay est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais.",
+   "anecdotes": [
+    {
+     "texte": "En 1954, l’abandon de l’exploitation est vécu comme un drame, car la fosse no 7 est alors la seule richesse de la commune.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    },
+    {
+     "texte": "En juin 1981, le chevalement est détruit, changeant brutalement le paysage du site.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Quelques bâtiments subsistent : le local du concierge, le local électrique, les ateliers et le magasin, ainsi qu’une partie des murs d’enceinte.",
+   "sources": [
+    "S4",
+    "S6"
+   ],
+   "lat": 50.46181,
+   "lon": 2.55095,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_7_-_7_bis_des_mines_de_Bruay"
+  }
+ ],
+ "sources": [
+  "Houdain est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Houdinois. La commune est membre de la communauté d'agglomération de Béthune-Bruay, Artois-Lys Romane. La commune de Houdain (nom officiel depuis 1801), située dans le sud-est du département du Pas-de-Calais, à 11 km, à vol d'oiseau, au sud-ouest de la commune de Lens, est une […]",
+  "Houdain a des origines très anciennes. Au début c’est un village celtique qui était située sur l'axe reliant la capitale des Atrébates à celle des Morins (Arras à Thérouanne). En 2014, des fouilles archéologiques ont mis au jour un espace funéraire gaulois. Le 14 avril 1127, Anselme de Houdain, présent à Saint-Omer lorsque le comte de Flandre Guillaume Cliton confirme les lois et coutumes de la ville, jure […]",
+  "1954 : C'est pourtant en 1954 que son exploitation est abandonnée, cela est vécu comme un drame pour la commune et ses habitants car la fosse no 7 est alors leur seule richesse.",
+  "Lieu « Fosse no 7 - 7 bis des mines de Bruay » : La fosse no 7 - 7 bis de la Compagnie des mines de Bruay est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Houdain.",
+  "Lieu « Fosse no 7 - 7 bis des mines de Bruay », 1981 : Son chevalement est détruit en juin 1981.",
+  "Lieu « Fosse no 7 - 7 bis des mines de Bruay », aujourd'hui : Quelques bâtiments subsistent, comme le local du concierge, le local électrique, les ateliers et le magasin, ainsi qu'une partie des murs d'enceinte."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

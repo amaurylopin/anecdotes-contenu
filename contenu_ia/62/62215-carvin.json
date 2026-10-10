@@ -1,0 +1,232 @@
+{
+ "commune": {
+  "titre": "Carvin",
+  "code_insee": "62215",
+  "departement": "62",
+  "population": 17909,
+  "lat": 50.49388889,
+  "lon": 2.95888889,
+  "url": "https://fr.wikipedia.org/wiki/Carvin"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:16:31",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2688,
+  "sortie": 2246
+ },
+ "cout_usd": 0.003345,
+ "accroche": "En 1914, d’octobre à octobre 1918, Carvin est en région occupée pendant la Première Guerre mondiale.",
+ "histoire": {
+  "recit": "À Carvin, les fouilles attestent un peuplement remontant au néolithique. Au XVIIIe siècle, des princes d’Epinoy lancent une urbanisation à marche forcée des quartiers nord et de l’espace entre Epinoy et le bourg, contre l’avis des habitants : la grand-place actuelle en naît. Le temps des grandes industries marque ensuite les paysages : la fosse no 1 (Sainte-Barbe) et la fosse no 6 de Meurchin connaissent ouverture, profondeurs et arrêts. Les guerres traversent aussi la commune : Carvin est occupée de 1914 à 1918, puis, en 1941, des mineurs arrêtés à la suite d’une grève patriotique deviennent des otages exécutés à Arras. La gare ouvre en 1864, puis la circulation ferroviaire s’arrête et les voies sont démantelées dans les années 1990. Aujourd’hui, il ne subsiste parfois que des éléments comme le puits de fosse ou quelques vestiges.",
+  "chronologie": [
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Contre l’avis des habitants, les princes d’Epinoy entreprennent une urbanisation à marche forcée des quartiers nord et créent la grand-place actuelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Pendant la Première Guerre mondiale, Carvin se trouve en région occupée d’octobre 1914 à octobre 1918.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1941",
+    "texte": "Après la grève patriotique des cent mille mineurs (mai-juin 1941), de nombreux mineurs sont arrêtés et une partie fournit un contingent d’otages exécutés à Arras.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1990",
+    "texte": "La circulation ferroviaire s’arrête et les voies ferrées sont démantelées dans les années 1990.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fosse no 1 des mines de Carvin",
+   "histoire": "La fosse no 1 dite Sainte-Barbe de la Compagnie des mines de Carvin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin. Commencée en 1859, elle atteint 1 500 hectolitres par jour dès 1860 et s’arrête pour aérer d’autres fosses : aujourd’hui, il ne subsiste que le puits sur le carreau de fosse.",
+   "anecdotes": [
+    {
+     "texte": "Dès 1860, l’exploitation des trois couches rencontrées fournit déjà 1 500 hectolitres par jour, avec des bénéfices de 146 760,83 francs pour 1859 et 1860.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne subsiste que le puits sur le carreau de fosse, utilisé pour aérer les autres fosses.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 50.505319,
+   "lon": 2.945903,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_1_des_mines_de_Carvin"
+  },
+  {
+   "nom": "Fosse no 6 des mines de Meurchin",
+   "histoire": "La fosse no 6 de la Compagnie des mines de Meurchin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin. La fosse est commencée en mars 1863 et abandonnée après son inondation en 1866, puis une fosse ouvrant à Carvin est signalée en 1904. Les derniers vestiges sont détruits au printemps 2010, avec la disparition de salles et d’installations.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il s’agissait des derniers vestiges de la fosse.",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 50.489492,
+   "lon": 2.913172,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_6_des_mines_de_Meurchin"
+  },
+  {
+   "nom": "Fosse no 4 des mines d'Ostricourt",
+   "histoire": "La fosse no 4 dite Maurice Tilloy de la Compagnie des mines d’Ostricourt est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin. Le 7 mars 1962, un incendie se déclare à 280 mètres de profondeur. Le puits no 4 est remblayé en 1975, et les installations détruites l’année suivante ; aujourd’hui, le carreau de fosse est en partie recomposé, avec un terril no 107A exploité puis remplacé par une zone industrielle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le terril no 107A a été exploité puis remplacé par une zone industrielle.",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 50.490231,
+   "lon": 2.980469,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_4_des_mines_d%27Ostricourt"
+  },
+  {
+   "nom": "Église Saint-Martin de Carvin",
+   "histoire": "L’église Saint-Martin est une église catholique située à Carvin, dans le quartier de Carvin Nord. Après plusieurs incendies, il ne reste en 1640 que les trois nefs recouvertes d’une toiture provisoire. Elle est achevée au début du XVIIIe siècle, en remplacement d’une église romane du XIIIe siècle brûlée par deux fois au XVIIe siècle. En 1917, un épisode met le feu à la tour, avec chute des cloches.",
+   "anecdotes": [
+    {
+     "texte": "Au début de 1917, une sentinelle au sommet de la tour fait tomber un brûlot « de façon semblerait-il malencontreuse », et l’incendie s’y déploie, faisant tomber les cloches.",
+     "statut": "legende",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 50.49806,
+   "lon": 2.96,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Carvin"
+  },
+  {
+   "nom": "Gare de Carvin",
+   "histoire": "La gare de Carvin, également appelée Carvin-Ville, est une gare ferroviaire française sur la ligne d’Hénin-Beaumont à Bauvin - Provin. Les travaux sont réalisés par la Compagnie des chemins de fer du Nord : la ligne est ouverte le 15 juin 1864, et la gare originelle est renommée Carvin-Libercourt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 50.49134,
+   "lon": 2.953412,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Carvin"
+  },
+  {
+   "nom": "Hôtel de ville de Carvin",
+   "histoire": "L’hôtel de ville de Carvin est un ancien château devenu l’hôtel de ville. En 1788, le pavillon central est surmonté d’un fronton triangulaire, tandis qu’un clocheton de l’ancienne maison échevinale est ajouté au-dessus.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 50.4914,
+   "lon": 2.9581,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Carvin"
+  },
+  {
+   "nom": "Cimetière militaire allemand de Carvin",
+   "histoire": "Le cimetière militaire allemand de Carvin, Deutscher Soldatenfriedhof Carvin, est un cimetière militaire de la Première Guerre mondiale situé dans la commune de Carvin, près de Lens. Il est entretenu aujourd’hui par la représentation française du Volksbund Deutsche Kriegs-gräberfürsorge (V.D.K) et par le service d’entretien des sépultures militaires allemandes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est entretenu par la représentation française du Volksbund Deutsche Kriegs-gräberfürsorge (V.D.K) et par le S.E.S.M.A.",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 50.49778,
+   "lon": 2.9528,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_militaire_allemand_de_Carvin"
+  },
+  {
+   "nom": "Fosse no 4 des mines de Carvin",
+   "histoire": "La fosse no 4 dite Louis Boudenoot de la Compagnie des mines de Carvin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin. Aujourd’hui, le carreau de fosse est occupé par plusieurs entreprises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le carreau de fosse est occupé par plusieurs entreprises.",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 50.486985,
+   "lon": 2.937855,
+   "url": "https://fr.wikipedia.org/wiki/Fosse_no_4_des_mines_de_Carvin"
+  }
+ ],
+ "sources": [
+  "Carvin est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Carvinois. La commune est membre de la communauté d'agglomération Hénin-Carvin et du schéma de cohérence territoriale (SCOT) de Lens-Liévin et d'Hénin-Carvin. La commune de Carvin, située dans l'est du département du Pas-de-Calais et limitrophe du département du Nord, à 7 km au […]",
+  "D'importantes fouilles ont révélé en 2008 l'ancienneté du peuplement local qui remonte au néolithique. Au XVIIIe siècle, contre l'avis des habitants, les princes d'Epinoy entreprirent une urbanisation à marche forcée des quartiers nord ainsi que de l'espace situé en rase campagne entre Epinoy et le bourg, qui vit ainsi la création de la grand-place actuelle. Les États d'Artois créant une nouvelle chaussée qui, […]",
+  "1914 : Pendant la Première Guerre mondiale, d'octobre 1914 à octobre 1918, Carvin se trouve en région occupée.",
+  "1941 : À la suite de la grève patriotique des cent mille mineurs du Nord-Pas-de-Calais en mai-juin 1941 qui se répandit dans tout le bassin minier du Nord-Pas-de-Calais, de nombreux mineurs communistes pour la plupart furent arrêtés et fournirent un contingent important d'otages exécutés à Arras.",
+  "1990 : La circulation ferroviaire s'est également arrêtée, les voies ferrées étant démantelées dans les années 1990.",
+  "Lieu « Fosse no 1 des mines de Carvin » : La fosse no 1 dite Sainte-Barbe de la Compagnie des mines de Carvin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin.",
+  "Lieu « Fosse no 1 des mines de Carvin », 1859 : Un accrochage est ouvert à 150 mètres, et, bien que les terrains soient assez accidentés, l'exploitation des trois belles couches rencontrées, commencée en 1859, fournit déjà en 1860, 1 500 hectolitres par jour, et réalise des bénéfices importants, 146 760,83 francs pour 1859 et 1860.",
+  "Lieu « Fosse no 1 des mines de Carvin », 1890 : Dans les années 1890, la fosse no 1 est profonde de 260,50 mètres, et le dernier accrochage est ouvert à 250 mètres.",
+  "Lieu « Fosse no 1 des mines de Carvin », 1956 : Elle cesse d'aérer en 1956 et le puits, profond de 256 mètres, est comblé.",
+  "Lieu « Fosse no 1 des mines de Carvin », aujourd'hui : Il ne subsiste que le puits sur le carreau de fosse, et il est utilisé pour aérer les autres fosses.",
+  "Lieu « Fosse no 6 des mines de Meurchin » : La fosse no 6 de la Compagnie des mines de Meurchin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin.",
+  "Lieu « Fosse no 6 des mines de Meurchin », 1863 : La fosse a été commencée en mars 1863, et abandonnée à la suite de son inondation en 1866.",
+  "Lieu « Fosse no 6 des mines de Meurchin », 1904 : La fosse no 6 est ouverte à Carvin en 1904, près des limites avec Meurchin et Estevelles.",
+  "Lieu « Fosse no 6 des mines de Meurchin », 2010 : La salle des machines, la salle des générateurs et le dépôt de benzine sont détruits en mars et avril 2010.",
+  "Lieu « Fosse no 6 des mines de Meurchin », aujourd'hui : Il s'agissait des derniers vestiges de la fosse.",
+  "Lieu « Fosse no 4 des mines d'Ostricourt » : La fosse no 4 dite Maurice Tilloy de la Compagnie des mines d'Ostricourt est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin, en France.",
+  "Lieu « Fosse no 4 des mines d'Ostricourt », 1962 : Le 7 mars 1962, un incendie se déclare à 280 mètres de profondeur.",
+  "Lieu « Fosse no 4 des mines d'Ostricourt », 1975 : Le puits no 4 est remblayé en 1975, et les installations détruites l'année suivante.",
+  "Lieu « Fosse no 4 des mines d'Ostricourt », aujourd'hui : Une partie des cités a été détruite, et le terril no 107A a été exploité, puis remplacé par une zone industrielle.",
+  "Lieu « Église Saint-Martin de Carvin » : L’église Saint-Martin est une église catholique située à Carvin dans le Pas-de-Calais dans le quartier de Carvin Nord.",
+  "Lieu « Église Saint-Martin de Carvin », 1640 : Après plusieurs incendies (1640 et 1656), il ne restait que les trois nefs recouvertes d’une toiture provisoire.",
+  "Lieu « Église Saint-Martin de Carvin », XVIIIe siècle : Elle fut achevée au début du XVIIIe siècle en remplacement de l’église romane datant du XIIIe siècle qui brûla par deux fois au XVIIe siècle, elle-même construite sur les fondations d’un oratoire élevé par saint Martin en 380.",
+  "Lieu « Église Saint-Martin de Carvin », 1917 : Au rude hiver de début 1917, la sentinelle en poste au sommet de la tour fait, de façon semblerait-il malencontreuse, tomber son brûlot et un incendie s'y déploie faisant tomber ainsi les cloches.",
+  "Lieu « Gare de Carvin » : La gare de Carvin, également appelée Carvin-Ville (à l'époque de cette dénomination il existe une gare de Carvin-Libercourt devenue la gare de Libercourt), est une gare ferroviaire française de la ligne d'Hénin-Beaumont à Bauvin - Provin, située sur",
+  "Lieu « Gare de Carvin », 1864 : Ces travaux sont réalisés par la Compagnie des chemins de fer du Nord, la ligne est ouverte le 15 juin 1864 et la gare de Carvin originelle est renommée Carvin-Libercourt.",
+  "Lieu « Hôtel de ville de Carvin » : L'hôtel de ville de Carvin est un ancien château devenu l'hôtel de ville de Carvin.",
+  "Lieu « Hôtel de ville de Carvin », 1788 : Le pavillon central est surmonté d'un fronton triangulaire au dessus duquel, un clocheton appartenant à l'ancienne maison échevinale érigée en 1788 a été ajouté.",
+  "Lieu « Cimetière militaire allemand de Carvin » : Le cimetière militaire allemand de Carvin (Deutscher Soldatenfriedhof Carvin) est un cimetière militaire de la Première Guerre mondiale situé dans la commune de Carvin, près de Lens, dans le département du Pas-de-Calais, en région Hauts-de-France.",
+  "Lieu « Cimetière militaire allemand de Carvin », aujourd'hui : Le cimetière militaire allemand de Carvin est, aujourd'hui, entretenu par la représentation française du Volksbund Deutsche Kriegs-gräberfürsorge (V.D.K) ; le Service d'Entretien des Sépultures Militaires Allemandes (S.E.S.M.A), situé à Pérenchies.",
+  "Lieu « Fosse no 4 des mines de Carvin » : La fosse no 4 dite Louis Boudenoot de la Compagnie des mines de Carvin est un ancien charbonnage du Bassin minier du Nord-Pas-de-Calais, situé à Carvin.",
+  "Lieu « Fosse no 4 des mines de Carvin », aujourd'hui : Le carreau de fosse est occupé par plusieurs entreprises."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

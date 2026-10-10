@@ -1,0 +1,245 @@
+{
+ "commune": {
+  "titre": "Le Portel",
+  "code_insee": "62667",
+  "departement": "62",
+  "population": 8768,
+  "lat": 50.7075,
+  "lon": 1.57444444,
+  "url": "https://fr.wikipedia.org/wiki/Le_Portel"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:09:17",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2749,
+  "sortie": 1423
+ },
+ "cout_usd": 0.002329,
+ "accroche": "En 1856, Le Portel devient une commune indépendante le 13 juin, par décret impérial de Napoléon III.",
+ "histoire": {
+  "recit": "Le Portel commence comme un hameau d’Outreau, avant de devenir, en juin 1856, une commune indépendante. Son nom, issu d’altérations successives, évoque un « petit port ».\n\nDès le XIXe siècle, au centre du village, au Pont Hamel, des silex taillés sont découverts dans le lit du Tihen : on y lit une occupation très ancienne.\n\nBien avant l’époque des grands équipements modernes, les marins du Portel participent, en 1415, à l’entretien du feu de la tour d’Odre, du temps de la Saint-Michel jusqu’à Pâques. Plus tard, en 1545, le maréchal du Biez installe son quartier général au Portel durant la tentative de François Ier de reprendre Boulogne.\n\nEn septembre 1944, la libération se fait au prix d’une ville rasée : la cité est traversée par les armées alliées, sans population, les habitants ayant été évacués et dispersés.\n\nAujourd’hui, le Portel s’organise aussi autour de ses grands ouvrages : le phare, le fort d’Alprech, et tout un réseau portuaire tourné vers les traversées avec le Royaume-Uni, avec un hub port et un hoverport sur son territoire.",
+  "chronologie": [
+   {
+    "date": "13 juin 1856",
+    "texte": "Le Portel devient une commune indépendante par décret impérial de Napoléon III.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Au Pont Hamel, dans le lit du Tihen, on découvre de nombreux silex taillés attestant d’une occupation ancienne du site.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1415",
+    "texte": "Les marins du Portel participent à l’entretien du feu de la tour d’Odre, de la Saint-Michel jusqu’à Pâques.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1545",
+    "texte": "Le maréchal du Biez établit son quartier général au Portel lors de la tentative de François Ier de reprendre Boulogne occupée par les Anglais.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "septembre 1944",
+    "texte": "Lors de la libération, les armées alliées passent à travers la cité rasée et sans population, les habitants évacués et dispersés.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "La gare de Boulogne-Aéroglisseurs est ouverte pour assurer la correspondance avec les aéroglisseurs.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1991",
+    "texte": "La gare de Boulogne-Aéroglisseurs est fermée, à la suite de la disparition de la relation maritime et donc de la liaison ferroviaire.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Boulogne-Aéroglisseurs",
+   "histoire": "Ancienne gare ferroviaire du raccordement d’Outreau-Poste 1 à l’hoverport, elle assure, dès 1970, la correspondance avec les aéroglisseurs, puis ferme en 1991 quand la relation maritime disparaît.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’ancien quai et surtout l’hoverport sont visibles dans la série Coincoin et les Z'inhumains (tournée en 2017), où le site est utilisé comme camp de migrants.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 50.714918,
+   "lon": 1.575544,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Boulogne-A%C3%A9roglisseurs"
+  },
+  {
+   "nom": "Parc éolien du Portel",
+   "histoire": "Parc éolien terrestre construit en 2002 sur la digue Carnot, il compte quatre éoliennes et est développé et exploité par InnoVent.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Fin 2023, une nouvelle éolienne est installée, haute de cent-soixante-sept mètres, avec des pales de soixante-trois mètres.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 50.722498,
+   "lon": 1.565095,
+   "url": "https://fr.wikipedia.org/wiki/Parc_%C3%A9olien_du_Portel"
+  },
+  {
+   "nom": "Phare du Portel",
+   "histoire": "Le phare du Portel, ou phare d’Alprech, a connu plusieurs versions : un premier feu fixe blanc au début du XIXe siècle, puis un second phare, avant la construction de 1962 sur le cap d’Alprech.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 50.69833,
+   "lon": 1.5625,
+   "url": "https://fr.wikipedia.org/wiki/Phare_du_Portel"
+  },
+  {
+   "nom": "Hub port de Boulogne-sur-Mer",
+   "histoire": "Terminal portuaire pour le transport de passagers entre la France et le Royaume-Uni, le hub port de Boulogne-sur-Mer est situé sur le territoire du Portel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 50.716647,
+   "lon": 1.574944,
+   "url": "https://fr.wikipedia.org/wiki/Hub_port_de_Boulogne-sur-Mer"
+  },
+  {
+   "nom": "Hoverport de Boulogne-sur-Mer",
+   "histoire": "Terminal destiné aux aéroglisseurs, appartenant au port de Boulogne-sur-Mer et situé sur la commune du Portel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 50.714626,
+   "lon": 1.574245,
+   "url": "https://fr.wikipedia.org/wiki/Hoverport_de_Boulogne-sur-Mer"
+  },
+  {
+   "nom": "Gare du Portel",
+   "histoire": "Ancienne gare ferroviaire de la ligne secondaire de Boulogne au Portel, mise en service en 1900, puis fermée en 1940 lors de la suppression de la ligne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 50.708208,
+   "lon": 1.578032,
+   "url": "https://fr.wikipedia.org/wiki/Gare_du_Portel"
+  },
+  {
+   "nom": "Batterie Flugplatz",
+   "histoire": "Batterie d’artillerie côtière implantée au Portel durant la Seconde Guerre mondiale, d’abord britannique puis allemande, avec des bunkers construits à partir de 1941.",
+   "anecdotes": [
+    {
+     "texte": "Dès l’attaque allemande sur la France en mai 1940, l’armée allemande récupère pour ses besoins du matériel abandonné par les Britanniques.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 50.700620655634,
+   "lon": 1.5678998055222,
+   "url": "https://fr.wikipedia.org/wiki/Batterie_Flugplatz"
+  },
+  {
+   "nom": "Fort d'Alprech",
+   "histoire": "Batterie côtière perchée sur le cap d’Alprech, au Portel, construite à la fin des années 1870 dans le cadre du système Séré de Rivières et conçue pour défendre le port de Boulogne contre une attaque venant de la mer.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 50.69885,
+   "lon": 1.56375,
+   "url": "https://fr.wikipedia.org/wiki/Fort_d%27Alprech"
+  }
+ ],
+ "sources": [
+  "Le Portel est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Portelois. La commune est membre de la communauté d'agglomération du Boulonnais. Elle s'inscrit dans les « paysages des falaises d'Opale » tels qu'ils sont définis dans l'atlas de paysages. La commune, érigée en 1856, est un grand centre urbain de 8 768 habitants, qui a connu un […]",
+  "Le Portel signifie par altérations successives le petit port. À l'origine, Le Portel est un hameau de la commune d'Outreau. Il devient une commune indépendante le 13 juin 1856 par décret impérial de Napoléon III. On a découvert au XIXe siècle, au centre du village (Pont Hamel) dans le lit du Tihen (petit ruisseau qui traverse la commune), de nombreux silex taillés qui attestent de l'occupation très ancienne du site […]",
+  "1415 : En 1415, on y précise que les marins du Portel contribuaient à l'entretien du feu de la tour d'Odre (phare romain construit sous Caligula) depuis la Saint-Michel jusqu'à Pâques.",
+  "1545 : En 1545, le maréchal du Biez y établit son quartier général dans la tentative de François Ier de reprendre Boulogne occupée par les Anglais.",
+  "1944 : Lors de la libération de la France, en septembre 1944, les armées alliées passèrent à travers la cité rasée et sans population, ses habitants avaient été évacués et dispersés.",
+  "Lieu « Gare de Boulogne-Aéroglisseurs » : La gare de Boulogne-Aéroglisseurs est une ancienne gare ferroviaire française du raccordement d'Outreau-Poste 1 à l'hoverport, située sur le territoire de la commune du Portel, à proximité de Boulogne-sur-Mer, dans le département du Pas-de-Calais, en",
+  "Lieu « Gare de Boulogne-Aéroglisseurs », 1970 : La gare de Boulogne-Aéroglisseurs est ouverte en 1970, afin d'assurer la correspondance avec les aéroglisseurs — de la compagnie Seaspeed jusqu'en 1981, puis Hoverspeed (en) à partir de cette date — qui partent de l'hoverport de Boulogne, installé à proximité (depuis 1968).",
+  "Lieu « Gare de Boulogne-Aéroglisseurs », 1970 : Elle est spécialement mise en service en 1970, par la Société nationale des chemins de fer français (SNCF), pour assurer la correspondance avec un service d'aéroglisseurs transmanches à l'hoverport voisin, avant d'être fermée en 1991 en raison de la disparition de cette relation maritime et donc de la liaison ferroviaire.",
+  "Lieu « Gare de Boulogne-Aéroglisseurs », aujourd'hui : Cet ancien quai et surtout l'hoverport sont visibles dans la série Coincoin et les Z'inhumains (réalisée par Bruno Dumont), tournée en 2017 : le site y est utilisé comme camp de migrants.",
+  "Lieu « Parc éolien du Portel » : Le parc éolien du Portel est un parc éolien terrestre construit en 2002 sur la digue Carnot, sur le finage de la commune du Portel, développé et exploité par InnoVent.",
+  "Lieu « Parc éolien du Portel », 2002 : Le parc éolien du Portel est un parc éolien terrestre construit en 2002 sur la digue Carnot, sur le finage de la commune du Portel, développé et exploité par InnoVent.",
+  "Lieu « Parc éolien du Portel », 2002 : Le parc de quatre éoliennes est construit en 2002.",
+  "Lieu « Parc éolien du Portel », 2023 : Fin 2023, la nouvelle éolienne est finalement installée, haute de cent-soixante-sept mètres et ses pales font soixante-trois mètres de longueur chacune.",
+  "Lieu « Phare du Portel » : Le phare du Portel ou phare d'Alprech, est situé dans la commune du Portel dans le département du Pas-de-Calais en région Hauts-de-France.",
+  "Lieu « Phare du Portel », 1830 : Un premier phare, construit en 1830, est équipé d'un feu fixe blanc fonctionnant à l'huile végétale.",
+  "Lieu « Phare du Portel », 1842 : Un second phare, de dix mètres de haut, est érigé en 1842 et dispose d'un feu fixe blanc avec des éclats rouges toutes les deux minutes, fonctionnant à l'huile minérale.",
+  "Lieu « Phare du Portel », 1962 : Construit en 1962, il est situé sur le cap d'Alprech à proximité du fort d'Alprech et fait l’objet d’une inscription au titre des monuments historiques depuis le 30 décembre 2010.",
+  "Lieu « Hub port de Boulogne-sur-Mer » : Le hub port de Boulogne-sur-Mer est un terminal portuaire, destiné au transport de passagers entre la France et le Royaume-Uni, appartenant au port de Boulogne-sur-Mer et situé sur la commune du Portel, dans le Pas-de-Calais.",
+  "Lieu « Hub port de Boulogne-sur-Mer », 2009 : Inauguré en 2009, le hub port est alors utilisé pour les liaisons vers le port anglais de Douvres.",
+  "Lieu « Hub port de Boulogne-sur-Mer », 2009 : Il est construit en 2009 pour remplacer la gare maritime de Boulogne.",
+  "Lieu « Hoverport de Boulogne-sur-Mer » : L'hoverport de Boulogne-sur-Mer est un terminal destiné aux aéroglisseurs, appartenant au port de Boulogne-sur-Mer et situé sur la commune du Portel, dans le Pas-de-Calais.",
+  "Lieu « Hoverport de Boulogne-sur-Mer », 2015 : La destruction des bâtiments était annoncée pour la fin de l'année 2015.",
+  "Lieu « Hoverport de Boulogne-sur-Mer », 2018 : Finalement, ce sont plusieurs entreprises de la zone industrielle du port de Boulogne qui déménagent dans les bâtiments de l'hoverport à l'automne 2018.",
+  "Lieu « Gare du Portel » : La gare du Portel est une ancienne gare ferroviaire française de la ligne de chemin de fer secondaire de Boulogne au Portel de la Société des chemins de fer économiques du Nord (CEN), située sur le territoire de la commune du Portel, dans le départem",
+  "Lieu « Gare du Portel », 1900 : La gare du Portel est mise en service en 1900 lors de l'ouverture de la ligne de chemin de fer secondaire à écartement métrique de Boulogne au Portel de la Société des chemins de fer économiques du Nord dont elle constitue le terminus.",
+  "Lieu « Gare du Portel », 1940 : Elle est fermée en 1940 lors de la suppression de la ligne.",
+  "Lieu « Batterie Flugplatz » : La batterie Flugplatz est une batterie d'artillerie côtière britannique puis allemande, implantée au Portel près de Boulogne-sur-Mer (Hauts-de-France) durant la Seconde Guerre mondiale.",
+  "Lieu « Batterie Flugplatz », 1940 : Lors de l'attaque allemande sur la France en mai 1940, les Britanniques ayant abandonné dans leur fuite bon nombre de matériel, l'armée allemande en récupère pour ses besoins.",
+  "Lieu « Batterie Flugplatz », 1941 : Dès 1941, des bunkers pour personnel ainsi qu'un bunker de direction de tir au centre de la position sont construits, alors que les canons se retrouvent dans des encuvements bétonnés.",
+  "Lieu « Fort d'Alprech » : Le fort d'Alprech est une batterie côtière perchée sur le cap d'Alprech, au Portel, ville située au sud de Boulogne-sur-Mer.",
+  "Lieu « Fort d'Alprech », 1870 : Issu du système Séré de Rivières et construit à la fin des années 1870, il forme, avec trois autres forts relativement similaires et de la même époque, une ligne défensive de 6 km chargée de défendre le port de Boulogne d'une attaque venant de la mer."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

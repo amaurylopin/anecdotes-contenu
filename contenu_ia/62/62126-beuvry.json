@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Beuvry",
+  "code_insee": "62126",
+  "departement": "62",
+  "population": 9189,
+  "lat": 50.52055556,
+  "lon": 2.68027778,
+  "url": "https://fr.wikipedia.org/wiki/Beuvry"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:05:58",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1301,
+  "sortie": 847
+ },
+ "cout_usd": 0.001319,
+ "accroche": "Beuvry, dans le Pas-de-Calais, est traversée par le canal d’Aire à la Bassée.",
+ "histoire": {
+  "recit": "À Beuvry, l’histoire commence bien avant les premières archives : d’anciennes sablières du Mont de Beuvry ont livré des silex taillés, et le secteur a aussi fourni des pointes et outils plus récents. Plus tard, le territoire change de mains dans des récits locaux : en 1266 et 1268, Jean de Nédonchel et Marie, dame de Beuvry, seraient liés à une vente ou à un fief dépendant de Robert II, comte d’Artois, avec manoir et forteresse. \n\nLa commune prend aussi des habitudes de commémoration : un monument en pierre a été érigé à Beuvry pour rappeler un événement du 19 septembre 1784, l’atterrissage des frères de La Caroline. Aujourd’hui, la gare de Beuvry conserve un rôle de point de départ : elle était auparavant l’origine de la ligne de Beuvry à Béthune-Rivage, aujourd’hui ouverte.",
+  "chronologie": [
+   {
+    "date": "1266",
+    "texte": "En 1266 et 1268, Jean de Nédonchel et Marie, dame de Beuvry, auraient vendu la terre ou un fief en dépendant à Robert II, comte d’Artois, avec manoir et forteresse.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1268",
+    "texte": "Même histoire de vente ou de fief, encore rattachée à 1268 et aux mêmes personnages, selon le club d’histoire de Beuvry.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "19 septembre 1784",
+    "texte": "À Beuvry, un monument en pierre est érigé pour commémorer le 200e anniversaire de l’atterrissage des frères de La Caroline.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Beuvry (Pas-de-Calais)",
+   "histoire": "La gare de Beuvry (Pas-de-Calais) est une gare ferroviaire française de la ligne de Fives à Abbeville, située sur le territoire de la commune de Beuvry.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 50.535775,
+   "lon": 2.691692,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Beuvry_%28Pas-de-Calais%29"
+  }
+ ],
+ "sources": [
+  "Beuvry est une commune française située dans le département du Pas-de-Calais en région Hauts-de-France. Ses habitants sont appelés les Beuvrygeois. La commune est membre de la communauté d'agglomération de Béthune-Bruay, Artois-Lys Romane. La commune de Beuvry (nom porté depuis 1801), traversée par le canal d'Aire à la Bassée, est située dans le sud-est du département du Pas-de-Calais et limitrophe de Béthune. C’est […]",
+  "L'homme de Néandertal occupe la région, à proximité d'Arras, il y a 200 000 ans. Des silex taillés en biface de type prondnik de l'époque Dernier Glaciaire ont été mis au jour dans d'anciennes sablières du Mont de Beuvry. Des pointes barbelées en os et bois de cervidé (datées autour de 10 000 av. J.-C.) ont été retrouvées à Béthune et Beuvry, ainsi que des outils plus récents dans le marais de Beuvry (-7000 à -5000 […]",
+  "1266 : En 1266 et 1268, sous Louis IX ou Saint Louis (1214-1270), selon le club d'histoire de Beuvry, Jean de Nédonchel et Marie, dame de Beuvry, auraient vendu cette terre ou peut être un fief en dépendant à Robert II, comte d'Artois, avec le manoir et la forteresse (dict arch et hist du P de C).",
+  "1784 : Dans la Ville de Beuvry, un monument en pierre a été érigé pour commémorer le 200e anniversaire de l'atterrissage des frères de La Caroline le 19 septembre 1784.",
+  "Lieu « Gare de Beuvry (Pas-de-Calais) » : La gare de Beuvry (Pas-de-Calais) est une gare ferroviaire française de la ligne de Fives à Abbeville, située sur le territoire de la commune de Beuvry, dans le département du Pas-de-Calais, en région Hauts-de-France.",
+  "Lieu « Gare de Beuvry (Pas-de-Calais) », aujourd'hui : Elle était auparavant le point de départ de la ligne de Beuvry à Béthune-Rivage, actuellement ouverte."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
