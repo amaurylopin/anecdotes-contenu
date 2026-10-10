@@ -1,0 +1,236 @@
+{
+ "commune": {
+  "titre": "Albertville",
+  "code_insee": "73011",
+  "departement": "73",
+  "population": 19978,
+  "lat": 45.676667,
+  "lon": 6.393334,
+  "url": "https://fr.wikipedia.org/wiki/Albertville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:11:26",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3323,
+  "sortie": 1572
+ },
+ "cout_usd": 0.00263,
+ "accroche": "Du 8 au 23 février 1992, Albertville accueille les Jeux olympiques d’hiver de 1992, des XVIes Jeux olympiques d’hiver en Savoie. ",
+ "histoire": {
+  "recit": "À la confluence de l’Isère et de l’Arly, Albertville doit son nom à Charles-Albert de Savoie-Carignan, fondateur de la ville dans la première moitié du XIXe siècle. Avant la ville « neuve », le bourg sur le roc a compté pour les Romains : ils y menaient la voie Milan-Vienne et baptisèrent la cité « ad confluentes », tandis que la plaine servait de poste frontière aux douaniers, « ad publicanos ». Plus tard, la Savoie suit ses maîtres successifs jusqu’à la réunion à la France en 1860.\n\nDans le territoire actuel d’Albertville, Conflans apporte un autre visage : une cité médiévale devenue quartier, avec un château-fort aujourd’hui en ruine et une église reconstruite après incendie. Et quand vient le XXe siècle, la gare d’Albertville structure les trajets : l’ouverture vers Bourg-Saint-Maurice en 1913, puis la fermeture partielle de la ligne d’Annecy à Albertville en 1938, suivie d’un usage réservé aux marchandises depuis 1953. ",
+  "chronologie": [
+   {
+    "date": "première moitié du XIXe siècle",
+    "texte": "Albertville tient son nom de Charles-Albert de Savoie-Carignan, présenté comme fondateur de la ville.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "époque romaine",
+    "texte": "Le bourg sur le roc est un point de la voie Milan-Vienne et la cité est dite « ad confluentes » à la confluence de l’Arly et de l’Isère.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "fin du XIIe siècle",
+    "texte": "Le récit historique de la Savoie mentionne la période suivant l’époque romaine, jusqu’à la fin du XIIe siècle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "La Savoie, parfois occupée par les armées françaises, se réunit à la France en 1860.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "8 au 23 février 1992",
+    "texte": "Albertville accueille les Jeux olympiques d’hiver de 1992.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "3 mai 1988",
+    "texte": "Jean Albert Corrand est nommé Directeur Général du COJO en remplacement de Claude Villain.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Jeux olympiques d'hiver de 1992",
+   "histoire": "Les Jeux olympiques d’hiver de 1992, officiellement les XVIes Jeux olympiques d’hiver, se tiennent à Albertville en Savoie du 8 au 23 février 1992.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4"
+   ],
+   "lat": 45.664446,
+   "lon": 6.372478,
+   "url": "https://fr.wikipedia.org/wiki/Jeux_olympiques_d%27hiver_de_1992"
+  },
+  {
+   "nom": "Conflans (Savoie)",
+   "histoire": "Conflans est une ancienne cité médiévale de la Tarentaise, désormais intégrée à la commune d’Albertville. Son patrimoine comprend notamment un château fort mentionné dès le XIe siècle, la Maison Rouge construite vers 1397, et des éléments de fortifications conservés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S13"
+   ],
+   "lat": 45.672033,
+   "lon": 6.3972753,
+   "url": "https://fr.wikipedia.org/wiki/Conflans_%28Savoie%29"
+  },
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption de Conflans (Albertville)",
+   "histoire": "L’édifice est détruit par un incendie en 1632. Il est ensuite reconstruit à même la roche entre 1701 et 1720, avec un changement d’orientation et un style baroque savoyard néo-classique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’église, avec son double clocher à bulbe atypique, est visible depuis le vallon d’Albertville.",
+   "sources": [
+    "S15",
+    "S16",
+    "S18"
+   ],
+   "lat": 45.671291,
+   "lon": 6.397758,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_de_Conflans_%28Albertville%29"
+  },
+  {
+   "nom": "Gare d'Albertville",
+   "histoire": "La gare d’Albertville dessert notamment la ligne de Saint-Pierre-d’Albigny à Bourg-Saint-Maurice (ligne de la Tarentaise) et la ligne d’Annecy à Albertville. Le prolongement vers Bourg-Saint-Maurice est ouvert le 20 novembre 1913, puis la ligne d’Annecy à Albertville est partiellement fermée en 1938. Depuis 1953, la section restante est utilisée pour des circulations de trains de marchandises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 45.673282,
+   "lon": 6.383208,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Albertville"
+  },
+  {
+   "nom": "Maison Rouge de Conflans",
+   "histoire": "La Maison Rouge est un palais de style gothique médiéval italien du XIVe siècle à Conflans, entièrement réalisé en brique rouge. Elle est construite sur la grande place centrale en 1397 pour Pierre Voisin, trésorier du comte Amédée VI de Savoie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 45.670622,
+   "lon": 6.397173,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Rouge_de_Conflans"
+  },
+  {
+   "nom": "Château fort de Conflans",
+   "histoire": "Le château-fort de Conflans, appelé le Châtel, est un castrum en ruine du XIe siècle. En 1319, le comte de Savoie organise une châtellenie autour de la ville neuve de L’Hôpital de Conflans. Les derniers vestiges disparaissent avec l’installation de batteries entre 1875 et 1876.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un Jardin de la tour sarrasine marque l’emplacement initial de l’ancien château fort.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 45.670459,
+   "lon": 6.396516,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_fort_de_Conflans"
+  },
+  {
+   "nom": "Clos des capucins (Albertville)",
+   "histoire": "Le Clos des capucins est un ancien couvent de capucins situé à Conflans. Le couvent est bâti en 1626 et consacré le 26 juillet 1626. Les religieux en sont expulsés en 1793, puis le couvent est transformé en caserne. En 1905, les bâtiments passent à la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 45.673126,
+   "lon": 6.39741,
+   "url": "https://fr.wikipedia.org/wiki/Clos_des_capucins_%28Albertville%29"
+  },
+  {
+   "nom": "Musée d'Art et d'Histoire de Conflans",
+   "histoire": "Le musée d’art et d’histoire de Conflans est un musée / écomusée fondé en 1936 à Conflans. Il est hébergé dans la Maison Rouge de Conflans, un palais en brique construit vers 1397 pour Pierre Voisin et classé Monument Historique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 45.670622,
+   "lon": 6.397173,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_et_d%27Histoire_de_Conflans"
+  }
+ ],
+ "sources": [
+  "Albertville est une commune française située dans le département de la Savoie en région Auvergne-Rhône-Alpes. La ville tient son nom de Charles-Albert de Savoie-Carignan, roi de Piémont-Sardaigne et fondateur de la ville dans la première moitié du XIXe siècle. Située au cœur des Alpes, la commune se trouve à la confluence de l'Isère et de son affluent l'Arly, marquant également la jonction des vallées de la […]",
+  "À l’époque romaine, le bourg sur le roc constituait un point important de la voie Milan-Vienne. Situé à la confluence de l’Arly et de l’Isère, les Romains baptisèrent la cité : « ad confluentes », d’où son nom. La plaine était quant à elle occupée par les douaniers et constituait le poste frontière de « ad publicanos » (du latin publicanus : le fermier d’impôt, ici, le douanier). À la fin du XIIe siècle, les […]",
+  "1860 : Au cours des siècles, la ville, suivant les faits historiques de la Savoie, a appartenu aux comtes et ducs de Savoie, qui deviennent rois de Sardaigne, et a été quelquefois occupée par les armées françaises, jusqu’à la réunion à la France en 1860.",
+  "Lieu « Jeux olympiques d'hiver de 1992 » : Les Jeux olympiques d'hiver de 1992, officiellement connus comme les XVIes Jeux olympiques d’hiver, ont lieu à Albertville, dans le département de la Savoie, en France, du 8 au 23 février 1992.",
+  "Lieu « Jeux olympiques d'hiver de 1992 », 1936 : L'effondrement de l'URSS amène quant à lui la première participation depuis 1936 des équipes des pays baltes d'Estonie et de Lettonie, alors qu'il s'agit de la première participation de l'équipe lituanienne depuis 1928.",
+  "Lieu « Jeux olympiques d'hiver de 1992 », 1987 : En novembre 1987, un protocole d'accord est signé entre le Comité d'organisation (COJO), l'État français et le département de la Savoie afin de financer l'organisation des Jeux d'hiver.",
+  "Lieu « Jeux olympiques d'hiver de 1992 », 1990 : Le contexte international, faisant suite aux bouleversements du début des années 1990 — effondrement du bloc soviétique, réunification de l'Allemagne, dislocation de la Yougoslavie — ont amené la création de nouveaux États qui participent pour certains à leurs tout premiers Jeux.",
+  "Lieu « Jeux olympiques d'hiver de 1992 », aujourd'hui : Le 3 mai 1988, Jean Albert Corrand fut nommé Directeur Général du COJO en remplacement de Claude Villain.",
+  "Lieu « Conflans (Savoie) » : Conflans (parfois Conflens) est une ancienne cité médiévale, de la Tarentaise, qui fait désormais partie de la commune d'Albertville, dans le département de la Savoie en région Auvergne-Rhône-Alpes.",
+  "Lieu « Conflans (Savoie) », XIe siècle : Le patrimoine est constitué notamment : le château fort de Conflans (mentionné dès le XIe siècle), dit le Châtel ou ancien château, comtal ou médiéval, ou encore Châtel-sur-Conflans, installé sur une élévation, au nord de la ville, à 300 mètres au-dessus de l'église.",
+  "Lieu « Conflans (Savoie) », 1397 : Édifice de la fin du XIVe siècle en briques, il fut la possession des familles de Belletruche, Garrivod, Granier, Apponex, Roger, Rey et Favier du Noyer ; la Maison Rouge, bâtie vers 1397, actuel musée d'art et d'histoire de Conflans.",
+  "Lieu « Conflans (Savoie) », XVIe siècle : Les deux portes sont reliées par la Grande-Rue. le château de Costaroche (fin du XVIe siècle), dit de Manuel de Locatel, manoir construit par le comte de Manuel de Locatel ; les Rues des XVIIe et XVIIIe siècles.",
+  "Lieu « Conflans (Savoie) », aujourd'hui : Il subsiste également une partie des remparts.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Conflans (Albertville) » : L'église Notre-Dame-de-l'Assomption ou église Saint-Grat est une église située en France à Conflans, dans la commune d'Albertville, dans le département de la Savoie en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Conflans (Albertville) », 1632 : En 1632 l'édifice est détruit par un incendie.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Conflans (Albertville) », 1701 : Réparée provisoirement, l'église est reconstruite à même la roche, en plus grande taille, entre 1701 et 1720, avec un changement d'orientation, en art baroque savoyard néo-classique.",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Conflans (Albertville) », 1801 : À la suite du concordat de 1801, le clocher est reconstruit à l’identique en 1804, et les retables sont reconstitués après 1815 (voir histoire de la Savoie de 1792 à 1815).",
+  "Lieu « Église Notre-Dame-de-l'Assomption de Conflans (Albertville) », aujourd'hui : Ce chef-d’œuvre d'art baroque savoyard et néo-classique, avec son double clocher à bulbe atypique, est visible depuis tout le vallon d’Albertville.",
+  "Lieu « Gare d'Albertville » : La gare d'Albertville est une gare ferroviaire française de la ligne de Saint-Pierre-d'Albigny à Bourg-Saint-Maurice (dite aussi ligne de la Tarentaise) et de la ligne d'Annecy à Albertville.",
+  "Lieu « Gare d'Albertville », 1913 : Le prolongement de la ligne principale jusqu'à Bourg-Saint-Maurice est ouvert le 20 novembre 1913.",
+  "Lieu « Gare d'Albertville », 1938 : En 1938, la ligne d'Annecy à Albertville est partiellement fermée, seule la section d'Ugine à Albertville reste ouverte pour le transport des salariés des aciéries.",
+  "Lieu « Gare d'Albertville », 1953 : Depuis 1953, cette section est utilisée uniquement pour des circulations de trains de marchandises, la section d'Annecy à Ugine, fermée et déposée, est devenue une piste cyclable.",
+  "Lieu « Maison Rouge de Conflans » : Le petit Palais ou maison Rouge ou palais Pisan est un palais de style gothique médiéval italien du XIVe siècle, de Conflans (actuel quartier des hauteurs d'Albertville) en Savoie.",
+  "Lieu « Maison Rouge de Conflans », 1299 : L'édifice est entièrement réalisé en brique rouge, moyen de construction traditionnel en Italie voisine, et rare en Savoie (voir Palazzo Vecchio de 1299 de Florence en Toscane de la Maison de Médicis...).",
+  "Lieu « Maison Rouge de Conflans », 1397 : En 1397 ce palais est construit sur la grande place centrale, sur une surface de 12 x 14 m, pour Pierre Voisin, trésorier du comte Amédée VI de Savoie (1334-1383).",
+  "Lieu « Maison Rouge de Conflans », XVe siècle : Au XVe siècle le château rouge de Conflans (ou maison forte du Noyer) est également construit en grande partie en brique dans la même bourgade.",
+  "Lieu « Château fort de Conflans » : Le château-fort de Conflans, dit le Châtel, est un castrum en ruine, du XIe siècle, situé à Conflans (actuel quartier des hauteurs d'Albertville) en Savoie.",
+  "Lieu « Château fort de Conflans », 1319 : Avec l'acquisition d'une partie des droits et des biens d'une branche cadette de la famille de Conflans en 1319, le comte de Savoie organise une châtellenie avec sa Ville Neuve de L'Hôpital de Conflans, où était installé son ancien châtelain, et « la partie de la ville haute [de Conflans] qui relevait [du comte] et le château cédé par son ancien métral ».",
+  "Lieu « Château fort de Conflans », 1875 : Les derniers vestiges du château disparaissent avec l'installation de batteries entre 1875 et 1876, suivant le système Séré de Rivières, ainsi que l'édification d'un château d'eau.",
+  "Lieu « Château fort de Conflans », aujourd'hui : Jardin de la tour sarrasine, à l'emplacement initial de l'ancien château fort d'origine.",
+  "Lieu « Clos des capucins (Albertville) » : Le clos des capucins est un ancien couvent de capucins, situé à Conflans dans la commune d'Albertville.",
+  "Lieu « Clos des capucins (Albertville) », 1626 : Le couvent est bâti à Conflans, à flanc de montagne, et consacré le 26 juillet 1626.",
+  "Lieu « Clos des capucins (Albertville) », 1793 : Les religieux en sont expulsés en 1793 sous la Terreur, puis le couvent est transformé en caserne.",
+  "Lieu « Clos des capucins (Albertville) », 1905 : Les bâtiments passent à la commune en 1905.",
+  "Lieu « Musée d'Art et d'Histoire de Conflans » : Le musée d'art et d'histoire de Conflans est un musée / écomusée fondé en 1936, à Conflans (actuel quartier des hauts d'Albertville) en Savoie.",
+  "Lieu « Musée d'Art et d'Histoire de Conflans », 1397 : Le musée est hébergé dans la Maison Rouge de Conflans, palais en brique, classée Monument Historique, construit vers 1397 sur la place principale, pour Pierre Voisin, secrétaire du comte Amédée VI de Savoie (à ne pas confondre avec le Château Rouge de Conflans de la même bourgade).",
+  "Lieu « Musée d'Art et d'Histoire de Conflans », 1936 : Le musée d'art et d'histoire de Conflans est un musée / écomusée fondé en 1936, à Conflans (actuel quartier des hauts d'Albertville) en Savoie."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

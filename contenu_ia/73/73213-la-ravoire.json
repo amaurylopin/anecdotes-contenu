@@ -1,0 +1,113 @@
+{
+ "commune": {
+  "titre": "La Ravoire",
+  "code_insee": "73213",
+  "departement": "73",
+  "population": 9332,
+  "lat": 45.56,
+  "lon": 5.96,
+  "url": "https://fr.wikipedia.org/wiki/La_Ravoire"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:04:17",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1542,
+  "sortie": 649
+ },
+ "cout_usd": 0.00112,
+ "accroche": "En 1907, La Ravoire voit la reprise du site par le Petit Séminaire, qui y installe le collège Notre Dame de la Villette.",
+ "histoire": {
+  "recit": "À La Ravoire, l’histoire s’écrit d’abord à hauteur de hameaux, devenus quartiers avec l’urbanisation. Sur la colline, le Chef-lieu regroupe l’église, la mairie jusqu’au XXe siècle et l’école de garçons, aujourd’hui la Maison de l’enfance. Plus loin, les fermes, les terrains cultivables et les domaines se succèdent, au rythme des achats et des nouveaux usages.\n\nLe château des Charmilles, lui, change de visage. Dans les années 1948/50, un centre ménager agricole privé s’y installe et prend le nom des « Charmilles », avant de devenir le Lycée des Charmilles, fermé en 2016. Le parcours du lieu commence au XIXe siècle, quand le comte Léon Costa de Beauregard construit le château en remplacement d’une demeure plus ancienne.\n\nEt quand l’enseignement s’ancre sur le territoire, les dates s’alignent : 1907 pour Notre Dame de la Villette, puis 1910 avec une vente d’une partie du domaine au grand séminaire de Chambéry, et 1957 avec l’installation du lycée du Nivolet.",
+  "chronologie": [
+   {
+    "date": "1907",
+    "texte": "Repris par le Petit Séminaire, le site devient le collège Notre Dame de la Villette.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "Une partie du domaine bâti par le Comte est vendue au grand séminaire de Chambéry.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "Le grand séminaire de Chambéry vend ensuite le domaine aux pères dominicains.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1948",
+    "texte": "Dans les années 1948/50, un centre ménager agricole privé s’installe dans le château et devient « Charmilles », puis Lycée des Charmilles.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "Le lycée du Nivolet s’y installe en 1957.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2016",
+    "texte": "Le lycée des Charmilles ferme en 2016 ; à la rentrée 2016, les cours sont transférés vers un nouveau bâtiment à Chambéry.",
+    "sources": [
+     "S5",
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château des Charmilles",
+   "histoire": "Château du XIXe siècle, il est construit par le comte Léon Costa de Beauregard, à l’emplacement d’une résidence plus ancienne. Par la suite, il accueille un centre ménager agricole privé dans les années 1948/50, avant de devenir le Lycée des Charmilles, fermé en 2016.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S5",
+    "S11"
+   ],
+   "lat": 45.56395,
+   "lon": 5.962339,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Charmilles"
+  }
+ ],
+ "sources": [
+  "La Ravoire est une commune française située dans le département de la Savoie, en région Auvergne-Rhône-Alpes. Elle est membre du Grand Chambéry. Village agricole jusqu'au milieu du XXe siècle, La Ravoire est aujourd'hui la troisième commune de l'agglomération chambérienne en nombre d'habitants.",
+  "La Ravoire se trouve sur un axe de communication important dans l'organisation de l'espace régional. L’histoire de La Ravoire s’est faite au fil de celle de ses hameaux, devenus avec l’urbanisation de la commune des quartiers : le Chef-lieu sur la colline, avec l'église, la mairie jusqu'au XXe siècle et l'école de garçons (le bâtiment est devenu la Maison de l'enfance). Autour se trouvaient des fermes avec leurs […]",
+  "1907 : Reprise par le Petit Séminaire elle est devenue le collège Notre Dame de la Villette depuis 1907 ; le Gallaz occupé par une ferme entouré de marécages.",
+  "1910 : En 1910, une partie du domaine sur lequel le Comte avait bâti une ferme importante, est vendue au grand séminaire de Chambéry qui vendra en 1935 aux pères dominicains.",
+  "1948 : Dans les années 1948/50 un Centre ménager agricole privé s'installe dans le château et prend le nom des \"Charmilles\", devenu Lycée des Charmilles, il est fermé en 2016 la Villette, ancienne maison de maître rachetée par Camille Costa de Beauregard, comme annexe de son orphelinat du Bocage.",
+  "XXe siècle : L’histoire de La Ravoire s’est faite au fil de celle de ses hameaux, devenus avec l’urbanisation de la commune des quartiers : le Chef-lieu sur la colline, avec l'église, la mairie jusqu'au XXe siècle et l'école de garçons (le bâtiment est devenu la Maison de l'enfance).",
+  "1957 : Le lycée du Nivolet s'y est installé en 1957. la colline de l’Echaud, où se trouvaient les fourches patibulaires, lieu de torture au Moyen Âge ; Il y avait des clos (vignes encloses) Boëge, avec un lavoir et un four à pain ; le Val fleuri, hameau agricole ; la Madeleine, constituée de terres cultivables, dont quelques-unes appartenaient au « château » Guillemin.",
+  "Lieu « Château des Charmilles » : Le château des Charmilles est un château du XIXe siècle situé en France sur la commune de La Ravoire, dans le département de la Savoie en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château des Charmilles », XIXe siècle : Le château a été construit au XIXe siècle par le comte Léon Costa de Beauregard en lieu et place d’une résidence ayant appartenu de Jean François Bertrand de La Pérouse, qui fut ambassadeur extraordinaire de Savoie en Angleterre au XIIIe siècle.",
+  "Lieu « Château des Charmilles », XIXe siècle : Le château, qui date du XIXe siècle, remplace une précédente demeure édifiée au XVIIIe siècle.",
+  "Lieu « Château des Charmilles », 2016 : Par conséquent, à partir de la rentrée 2016, les cours assurés sur le site sont transférés vers un nouveau bâtiment dans le centre-ville de Chambéry, à proximité du second site de la fondation."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

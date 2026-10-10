@@ -1,0 +1,100 @@
+{
+ "commune": {
+  "titre": "Saint-Alban-Leysse",
+  "code_insee": "73222",
+  "departement": "73",
+  "population": 6734,
+  "lat": 45.58111111,
+  "lon": 5.95861111,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Alban-Leysse"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:40:38",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1156,
+  "sortie": 627
+ },
+ "cout_usd": 0.001015,
+ "accroche": "À Saint-Alban-Leysse, une charte située entre 1014 et 1042 mentionne déjà un vignoble nommé Mont Erminod, futur Monterminod, donné à l’abbaye de Cluny.",
+ "histoire": {
+  "recit": "À Saint-Alban-Leysse, on trouve d’abord la trace d’hommes préhistoriques, notamment à Saint-Saturnin, où des outils, des armes et des poteries de l’époque néolithique ont été mis au jour.\n\nPlus tard, l’histoire s’organise autour des voies : à l’époque romaine, la route reliant Grenoble à Annecy est appelée via Saturnina. Et quand vient le Moyen Âge, l’église Ecclesia Sti Albani apparaît vers 1100 dans le Cartulaire de Grenoble.\n\nLe château de Monterminod marque ensuite les hauteurs. Son nom s’enracine dans une donation liée au vignoble Mont Erminod, mentionné dans une charte signée par Humbert aux Blanches Mains entre 1014 et 1042. Aujourd’hui, le château domine le hameau du Villaret et reste visible très loin grâce à son emplacement au sommet d’une colline.\n\nAu XXe siècle, des usines s’implantent pendant la période industrielle, puis ferment dans la deuxième moitié du XXe siècle.",
+  "chronologie": [
+   {
+    "date": "époque néolithique",
+    "texte": "À Saint-Saturnin, des outils, des armes et des poteries attestent la présence d’hommes préhistoriques.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "époque romaine",
+    "texte": "La route principale reliant Grenoble à Annecy est appelée via Saturnina.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1100",
+    "texte": "L’église Ecclesia Sti Albani est mentionnée dans le Cartulaire de Grenoble.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "entre 1014 et 1042",
+    "texte": "Une charte signée par Humbert aux Blanches Mains mentionne le vignoble Mont Erminod, qui deviendra Monterminod, donné à Saint-Odilon et lié à l’abbaye de Cluny.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XXe siècle, deuxième moitié du XXe siècle",
+    "texte": "Des usines s’implantent sur la commune puis ferment dans la deuxième moitié du XXe siècle.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Monterminod",
+   "histoire": "Château médiéval à Saint-Alban-Leysse, il domine le hameau du Villaret. Sa position au sommet d’une colline le rend très visible à des kilomètres de distance.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château domine le hameau du Villaret et reste très visible grâce à son emplacement au sommet d’une colline.",
+   "sources": [
+    "S4",
+    "S6",
+    "S5"
+   ],
+   "lat": 45.58291,
+   "lon": 5.9649,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Monterminod"
+  }
+ ],
+ "sources": [
+  "Saint-Alban-Leysse est une commune française située dans le département de la Savoie, en région Auvergne-Rhône-Alpes. Elle fait partie de l'agglomération chambérienne et du Grand Chambéry.",
+  "La présence des hommes préhistoriques est attestée sur la commune notamment à Saint-Saturnin où on a trouvé des outils, des armes et des poteries de l’époque néolithique. À l’époque romaine, la route principale qui reliait Grenoble à Annecy était appelée via Saturnina. L'église Ecclesia Sti Albani est mentionnée vers 1100, dans le Cartulaire de Grenoble. À cette période, le décanat de Savoie relève du diocèse de […]",
+  "XXe siècle : Durant la période industrielle, des usines se sont implantées sur la commune et ont fermées dans la deuxième moitié du XXe siècle.",
+  "Lieu « Château de Monterminod » : Le château de Monterminod est un château médiéval situé dans la ville de Saint-Alban-Leysse dans la région de la Savoie en France.",
+  "Lieu « Château de Monterminod », 1014 : Le tout premier document public mentionnant le vignoble est une charte signée par Humbert aux Blanches Mains entre 1014 et 1042 pour la donation par le chevalier Aymon de Pierre Forte du vignoble dénommé Mont Erminod (qui deviendra plus tard « Monterminod » ) à Saint-Odilon, de l'abbaye de Cluny.",
+  "Lieu « Château de Monterminod », aujourd'hui : Le château domine le hameau du Villaret et sa situation au sommet d'une colline le rend très visible à des kilomètres de distance."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

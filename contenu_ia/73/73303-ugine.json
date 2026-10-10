@@ -1,0 +1,178 @@
+{
+ "commune": {
+  "titre": "Ugine",
+  "code_insee": "73303",
+  "departement": "73",
+  "population": 7154,
+  "lat": 45.75333333,
+  "lon": 6.42055556,
+  "url": "https://fr.wikipedia.org/wiki/Ugine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:33:17",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1994,
+  "sortie": 1415
+ },
+ "cout_usd": 0.002168,
+ "accroche": "Le 5 juin 1944, à Ugine, 28 civils sont fusillés par la SS Polizei Regiment 19 en représailles de l’explosion d’une mine.",
+ "histoire": {
+  "recit": "À Ugine, la route des hommes passe aussi par celle des conflits et des industries. On parle d’un passage ancien de la voie romaine « Ad publicanos » (Conflans) à « Genava » (Genève), sans qu’aucun vicus n’ait été localisé à ce jour. Puis le lieu s’embrase : en 1307, le comte de Genève fait incendier Ugine et ravager la campagne, et en 1325 ce sont les gens du comte de Genève qui incendient Marlens.\n\nAu chef-lieu, l’église Saint-Laurent d’Ugine domine le récit religieux : un prieuré rural est fondé vers 1091 par des moines bénédictins, le chœur date du XIIe siècle, et la grande nef est reconstruite entre 1681 et 1685. Tout près, les vestiges du château d’Ugine, un ancien château à motte du début du XIIIe siècle, conservent la trace des sièges du conflit delphino-savoyard.\n\nPlus près de nous, Ugitech structure la ville : construit autour des aciéries, le site voit une cité d’entreprise marquée par le phalanstère, et ses effectifs montent jusqu’à 3 800 personnes en 1917. Et en 1944, au col des Saisies, le parachutage d’armes est décrit comme le plus important exécuté en France.",
+  "chronologie": [
+   {
+    "date": "1307",
+    "texte": "Le comte de Genève, ayant pris le parti du dauphin, fait incendier Ugine et ravager la campagne environnante.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1325",
+    "texte": "Les gens du comte de Genève incendient Marlens.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "19 février 1416",
+    "texte": "Le territoire est érigé en duché de Savoie, avec Chambéry pour capitale.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "5 juin 1944",
+    "texte": "En représailles d’une explosion de mine, 28 civils sont fusillés par la SS Polizei Regiment 19.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2 août 1944",
+    "texte": "Au col des Saisies, deux escadres larguent 899 containers de 145 kg lors d’un parachutage d’armes décrit comme le plus important exécuté en France.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ugitech",
+   "histoire": "Ugitech est une entreprise spécialisée dans les produits longs en aciers inoxydables et en alliages, filiale de Swiss Steel Group. Le site s’inscrit aussi dans une histoire de logements et d’organisation d’entreprise : en 1909-1910, au lieu-dit « les Charmettes », on construit 18 villas d’après les plans de Maurice Braillard, et le phalanstère d’Ugine, construit en 1910, en devient la pièce maîtresse. Pendant la guerre, les effectifs progressent fortement : 3 600 personnes au début, puis 3 800 en 1917. Aujourd’hui, conciergerie et bâtiment de direction à l’entrée des aciéries existent toujours.",
+   "anecdotes": [
+    {
+     "texte": "En 1909-1910, on élève au-dessus du bourg, au lieu-dit « les Charmettes », un ensemble de 18 villas individuelles selon des plans de Maurice Braillard.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "En 1910, le phalanstère d’Ugine sert de pièce maîtresse à la cité d’entreprise de Paul Girod, construite par Maurice Braillard.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Les effectifs d’Ugitech explosent durant la guerre : 3 600 personnes les premiers mois, puis 3 800 en 1917.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "À l’entrée des aciéries, conciergerie et bâtiment de direction ont été construits puis existent toujours aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Conciergerie et bâtiment de la direction à l’entrée des aciéries, qui existent toujours aujourd’hui.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 45.744456,
+   "lon": 6.427577,
+   "url": "https://fr.wikipedia.org/wiki/Ugitech"
+  },
+  {
+   "nom": "Église Saint-Laurent d'Ugine",
+   "histoire": "Église catholique située au chef-lieu d’Ugine. Un prieuré rural est fondé vers 1091 par des moines bénédictins de Saint-Michel-de-la-Cluse ; la seule construction restante de l’édifice primitif est le chœur du XIIe siècle. La grande nef est reconstruite au XVIIe siècle, entre 1681 et 1685, avec piliers massifs, voûtes et fenêtres arrondies. Elle se trouve actuellement entre la poste et la mairie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle se situe actuellement entre la poste et la mairie d’Ugine.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 45.7529105,
+   "lon": 6.4207886,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Laurent_d%27Ugine"
+  },
+  {
+   "nom": "Château d'Ugine",
+   "histoire": "Le château d’Ugine, aussi appelé château comtal, est un ancien château à motte du début du XIIIe siècle, aujourd’hui en ruine. Ses vestiges se dressent à Ugine. Lors du conflit delphino-savoyard, il est assiégé en 1285 par le Dauphin Humbert Ier de Viennois. En 1334 ou 1335, les Dauphinois de Hugues Dauphin incendient le château de Cornillon voisin, puis ravagent aussi le bourg et le château d’Ugine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges du château comtal se dressent à Ugine.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 45.754912,
+   "lon": 6.431306,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Ugine"
+  },
+  {
+   "nom": "Héry (Savoie)",
+   "histoire": "Héry, aussi appelé par l’ancien toponyme Héry-sur-Ugine, est un village de France situé en Savoie, dans la commune d’Ugine. Il se trouve sur la route départementale 109 et est relativement connu des automobilistes locaux : lorsque la route départementale 1212, dans le fond des gorges de l’Arly, est fermée à la circulation, il faut y transiter.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23"
+   ],
+   "lat": 45.7729,
+   "lon": 6.4727,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%A9ry_%28Savoie%29"
+  }
+ ],
+ "sources": [
+  "Ugine est une commune française située dans le département de la Savoie, en région Auvergne-Rhône-Alpes.",
+  "Sur cette période, les sources et traces sont rares. Aucun vicus n'a été localisé à ce jour. Toutefois, les historiens s'accordent pour y placer le passage du tracé de la voie romaine Ad publicanos (Conflans) à Genava (Genève). Deux petits bronzes auraient été trouvés sur le territoire de la commune, sans autre précision, ainsi que quelques tessons céramiques du Ier siècle. Ugine relève du comté de Savoie dès le XIe […]",
+  "1307 : Le comte de Genève ayant pris le parti du dauphin, provoqua l'incendie d'Ugine en 1307 et ravagea la campagne environnante.",
+  "1325 : Mais en 1325, les gens du comte de Genève incendièrent Marlens.",
+  "1416 : Ce territoire nouveau est érigé en duché de Savoie (capitale Chambéry) 15 ans plus tard, le 19 février 1416.",
+  "1944 : Le 5 juin 1944, 28 civils sont fusillés par la SS Polizei Regiment 19, en représailles de l'explosion d'une mine.",
+  "1944 : Enfin, le 2 août 1944, le parachutage d'armes le plus important exécuté en France a lieu au col des Saisies : deux escadres de soixante-dix-huit avions larguent 899 containers de 145 kg.",
+  "Lieu « Ugitech » : Ugitech est une entreprise spécialisée dans les produits longs en aciers inoxydables et en alliages, filiale de Swiss Steel Group.",
+  "Lieu « Ugitech », 1909 : Au lieu-dit « les Charmettes », au-dessus du bourg, on construit en 1909-1910 un ensemble de 18 villas individuelles d’après les plans de Maurice Braillard.",
+  "Lieu « Ugitech », 1910 : Le phalanstère d’Ugine est la pièce maîtresse de la cité d’entreprise de Paul Girod, construit en 1910 par Maurice Braillard.",
+  "Lieu « Ugitech », 1917 : De même, les effectifs explosent et passent à 3 600 personnes les premiers mois de la guerre et 3 800 en 1917.",
+  "Lieu « Ugitech », aujourd'hui : On construit la conciergerie et le bâtiment de la direction à l’entrée des aciéries, qui existent toujours aujourd’hui.",
+  "Lieu « Église Saint-Laurent d'Ugine » : L’église Saint-Laurent d'Ugine est une église catholique située dans le département de la Savoie, au chef-lieu de la commune d'Ugine.",
+  "Lieu « Église Saint-Laurent d'Ugine », 1091 : Le prieuré rural d'Ugine est fondé à la fin du XIe siècle, vers 1091, par les moines bénédictins de Saint-Michel-de-la-Cluse.",
+  "Lieu « Église Saint-Laurent d'Ugine », XIIe siècle : La seule construction restante de l'édifice primitif est le chœur du XIIe siècle.",
+  "Lieu « Église Saint-Laurent d'Ugine », 1681 : C'est au XVIIe siècle que la grande nef est reconstruite (1681 à 1685), elle est constituée de piliers massifs, de voûtes, et de fenêtres arrondies.",
+  "Lieu « Église Saint-Laurent d'Ugine », aujourd'hui : Elle a été construite au chef-lieu et se situe actuellement entre la poste et la mairie d'Ugine.",
+  "Lieu « Château d'Ugine » : Le château d'Ugine, ou château comtal, est un ancien château à motte du début du XIIIe siècle, aujourd'hui en ruine, dont les vestiges se dressent à Ugine en Savoie.",
+  "Lieu « Château d'Ugine », 1285 : Lors du conflit delphino-savoyard, il est assiégé par le Dauphin, Humbert Ier de Viennois en 1285.",
+  "Lieu « Château d'Ugine », 1334 : En 1334 ou 1335, le château de Cornillon voisin est incendié par les Dauphinois de Hugues Dauphin, fils du précédent, avant que le bourg et le château d'Ugine soient eux aussi pris pour cible et ravagés.",
+  "Lieu « Château d'Ugine », aujourd'hui : Le château d'Ugine, ou château comtal, est un ancien château à motte du début du XIIIe siècle, aujourd'hui en ruine, dont les vestiges se dressent à Ugine en Savoie.",
+  "Lieu « Héry (Savoie) » : Héry, aussi appelé par l'ancien toponyme Héry-sur-Ugine, est un village de France situé en Savoie, dans la commune d'Ugine.",
+  "Lieu « Héry (Savoie) », 1212 : Située sur la route départementale 109, Héry est relativement connue des automobilistes locaux et des touristes qui doivent y transiter lorsque la route départementale 1212 située dans le fond des gorges de l'Arly en contrebas est fermée à la circulation."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}
