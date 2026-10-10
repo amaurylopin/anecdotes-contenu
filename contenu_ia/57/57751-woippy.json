@@ -1,0 +1,191 @@
+{
+ "commune": {
+  "titre": "Woippy",
+  "code_insee": "57751",
+  "departement": "57",
+  "population": 14967,
+  "lat": 49.15194444,
+  "lon": 6.15222222,
+  "url": "https://fr.wikipedia.org/wiki/Woippy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:27:48",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1923,
+  "sortie": 1312
+ },
+ "cout_usd": 0.002025,
+ "accroche": "En novembre 1944, le château de Ladonchamps est incendié après un bombardement allié trop imprécis, gêné par la Flak allemande, à Woippy.",
+ "histoire": {
+  "recit": "Woippy, commune de la Moselle, est un lieu où les temps se superposent : des traces d’activités remontent au Néolithique et au Premier âge du fer, révélées lors de fouilles à la ZAC des Côteaux à l’automne 2007. Puis, au fil des crises, la commune porte les marques des sièges et des combats.\n\nEn 1552, des bâtiments proches de Metz survivent à la destruction sur ordre du duc François de Guise : deux existent encore de nos jours. Le paysage se durcit davantage avec la Seconde Guerre mondiale : en septembre 1943, un camp de répression est installé à proximité, avant d’être abandonné par les SS le 31 août 1944.\n\nÀ partir de 1944, les bombardements frappent lourdement un complexe industriel, ainsi que des dépôts de carburant liés à la base de Frescaty à Woippy-Sainte-Agathe. Dans la bataille de Metz, Woippy est libérée le 21 novembre 1944 par le 377e régiment de la 95e Infantry Division de l’armée Patton, mettant fin à de longues souffrances.\n\nAujourd’hui, l’église Saint-Étienne, dont un édifice menaçait de s’effondrer dès le XIVe siècle, a été reconstruite au centre de Woippy à l’initiative de Marie Rose Marcus, puis achevée au XIXe siècle ; le château de Woippy et la Haute Maison complètent ce relief d’histoires.",
+  "chronologie": [
+   {
+    "date": "Automne 2007",
+    "texte": "Des fouilles à la ZAC des Côteaux mettent au jour des traces d’activités humaines du Néolithique et du Premier âge du fer, avec des objets dont des outils en quartzite de la Moselle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1552",
+    "texte": "Deux bâtiments échappent à la destruction ordonnée par le duc François de Guise lors du siège de Metz ; ils existent encore aujourd’hui.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Septembre 1943",
+    "texte": "Un camp de répression est installé à proximité, point de départ de nombreuses déportations.",
+    "sources": [
+     "S4",
+     "S12"
+    ]
+   },
+   {
+    "date": "31 août 1944",
+    "texte": "Le camp de Woippy est abandonné par les SS qui en assuraient la garde.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Le complexe industriel et le dépôt des essences de la base de Frescaty à Woippy-Sainte-Agathe sont lourdement bombardés, avec d’importants dégâts collatéraux.",
+    "sources": [
+     "S5",
+     "S14"
+    ]
+   },
+   {
+    "date": "Novembre 1944",
+    "texte": "Le château de Ladonchamps est atteint et complètement incendié, après un bombardement allié trop haute altitude et insuffisamment précis.",
+    "sources": [
+     "S6",
+     "S18"
+    ]
+   },
+   {
+    "date": "21 novembre 1944",
+    "texte": "La commune de Woippy est libérée par le 377e régiment de la 95e Infantry Division de l’armée Patton, à la fin de la bataille de Metz.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Étienne de Woippy",
+   "histoire": "Une église située entre Woippy et Lorry-lès-Metz, existant depuis le XIVe siècle, menaçait de s’effondrer. En 1793, il est décidé de construire un nouvel édifice dans le centre de Woippy, à l’initiative de Marie Rose Marcus, sur un terrain lui appartenant. Les travaux commencent en 1848 et s’achèvent en 1850.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 49.1519444444,
+   "lon": 6.15222222222,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Woippy"
+  },
+  {
+   "nom": "Camp de Woippy",
+   "histoire": "Le camp de Woippy est un camp de répression nazi ouvert dans le département de la Moselle, sur un terrain situé entre Metz et Woippy. Il fonctionne jusqu’au 31 août 1944, date à laquelle il est abandonné par les SS. Le camp est associé, dans le même secteur, aux bombardements de 1944 visant des installations industrielles et des dépôts de carburant proches.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 49.1519444444,
+   "lon": 6.15222222222,
+   "url": "https://fr.wikipedia.org/wiki/Camp_de_Woippy"
+  },
+  {
+   "nom": "Château de Woippy",
+   "histoire": "Le château de Woippy est un château fort construit entre le VIIe siècle et le VIIIe siècle à Woippy, près de Metz.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 49.152,
+   "lon": 6.14569,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Woippy"
+  },
+  {
+   "nom": "Ladonchamps",
+   "histoire": "Ladonchamps est une ancienne commune rattachée à Woippy depuis 1810. Le château de Ladonchamps, avec une chapelle castrale construite en 1729, est attaqué au moment du siège de Metz en 1444, puis démantelé en 1552 sur ordres du duc de Guise. Après de nouvelles attaques, le château est transformé en demeure au XVIIIe siècle, incendié en 1944 lors de la bataille de Metz, et rasé peu après sauf la chapelle.",
+   "anecdotes": [
+    {
+     "texte": "En novembre 1944, le château de Ladonchamps prend feu : les bombardiers alliés, gênés par la Flak allemande, larguent leurs bombes trop haut et le bombardement manque de précision.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 49.154008,
+   "lon": 6.152363,
+   "url": "https://fr.wikipedia.org/wiki/Ladonchamps"
+  },
+  {
+   "nom": "Haute Maison de Woippy",
+   "histoire": "La Haute Maison est un monument situé à Woippy, à l’angle sud-ouest du village. Elle a été construite au XVe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 49.148633,
+   "lon": 6.147148,
+   "url": "https://fr.wikipedia.org/wiki/Haute_Maison_de_Woippy"
+  }
+ ],
+ "sources": [
+  "Woippy (prononcé [vwapi]) est une commune française située dans le département de la Moselle, en région Grand Est.",
+  "À l’automne 2007, le Pôle d’archéologie préventive de la communauté d'agglomération de Metz-Métropole met au jour des traces d’activités humaines datant du Néolithique et du Premier âge du fer au niveau de la ZAC des Côteaux. De nombreux objets sont retrouvés : trois outils taillés dans des galets de quartzite de la Moselle, dont un racloir, datés du Moustérien (– 50 000 ans), des outils agricoles de l’époque du […]",
+  "1552 : Les deux existent encore de nos jours ayant échappé à la destruction des bâtiments proches de Metz sur ordre du duc François de Guise lors du siège de Metz de 1552 par l'empereur Charles Quint.",
+  "1943 : En septembre 1943, un camp de répression est installé à proximité, point de départ de nombreuses déportations.",
+  "1944 : Ce complexe industriel, ainsi que le dépôt des essences de la base de Frescaty, furent lourdement bombardés en 1944 par l'aviation américaine, faisant d'énormes dégâts collatéraux.",
+  "1944 : Le château de Ladonchamps fut ainsi malencontreusement atteint et complètement incendié en novembre 1944 : gênés par les tirs de la Flak allemande, les bombardiers alliés avaient en effet largué leurs bombes à trop haute altitude et le bombardement ne fut pas suffisamment précis.",
+  "1944 : Malgré la pugnacité des derniers combattants de la 462e Volks-Grenadier-Division qui s'accrochent dans les quartiers nord, la commune de Woippy est libérée par le 377e régiment de la 95e Infantry Division de l'armée Patton le 21 novembre 1944, à la fin de la bataille de Metz, mettant ainsi fin à quatre années de souffrance.",
+  "Lieu « Église Saint-Étienne de Woippy » : L'église Saint-Étienne est une église catholique romaine située à Woippy, en France.",
+  "Lieu « Église Saint-Étienne de Woippy », XIVe siècle : Il existait depuis le XIVe siècle une église située entre Woippy et Lorry-lès-Metz qui menaçait de s'effondrer.",
+  "Lieu « Église Saint-Étienne de Woippy », 1793 : Il fut donc décidé de construire un nouvel édifice dans le centre de Woippy à l'initiative de Marie Rose Marcus (1793-1855), sur un terrain lui appartenant.",
+  "Lieu « Église Saint-Étienne de Woippy », 1848 : Les travaux commencèrent en 1848 et furent achevés en 1850.",
+  "Lieu « Camp de Woippy » : Le camp de Woippy est un camp de répression nazi, ouvert dans le département de la Moselle, durant la Seconde Guerre mondiale, sur un terrain situé entre Metz et Woippy.",
+  "Lieu « Camp de Woippy », 1944 : Il a fonctionné jusqu'au 31 août 1944, date à laquelle il fut abandonné par les SS qui en assuraient la garde.",
+  "Lieu « Camp de Woippy », 1944 : Ce complexe industriel, ainsi que le dépôt de carburant de la base de Frescaty à Woippy-Sainte-Agathe, furent lourdement bombardés par l'aviation américaine en 1944.",
+  "Lieu « Château de Woippy » : Le château de Woippy est un château fort construit entre le VIIe siècle et le VIIIe siècle à Woippy, près de Metz, dans l'actuel département de la Moselle.",
+  "Lieu « Château de Woippy », VIIe siècle : Le château de Woippy est un château fort construit entre le VIIe siècle et le VIIIe siècle à Woippy, près de Metz, dans l'actuel département de la Moselle.",
+  "Lieu « Ladonchamps » : Ladonchamps est une ancienne commune française du département de la Moselle, rattachée à Woippy depuis 1810.",
+  "Lieu « Ladonchamps », 1729 : Château de Ladonchamps, XIVe, avec chapelle castrale construite en 1729, restauré XIXe ; attaqué au moment du siège de Metz en 1444, démantelé en 1552 sur ordres du duc de Guise, à nouveau assailli quelques années plus tard et fort maltraité ; transformé en une élégante demeure au XVIIIe, incendié en 1944 lors de la bataille de Metz, il fut rasé peu après, sauf la chapelle.",
+  "Lieu « Haute Maison de Woippy » : La Haute Maison est un monument situé dans commune française de Woippy du département de la Moselle dans la région historique de la Lorraine.",
+  "Lieu « Haute Maison de Woippy », XVe siècle : Elle a été construite au XVe siècle à l'angle sud-ouest du village."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}

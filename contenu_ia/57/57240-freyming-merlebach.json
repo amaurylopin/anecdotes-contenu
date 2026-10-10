@@ -1,0 +1,164 @@
+{
+ "commune": {
+  "titre": "Freyming-Merlebach",
+  "code_insee": "57240",
+  "departement": "57",
+  "population": 13266,
+  "lat": 49.1425,
+  "lon": 6.79972222,
+  "url": "https://fr.wikipedia.org/wiki/Freyming-Merlebach"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:35:44",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1514,
+  "sortie": 1049
+ },
+ "cout_usd": 0.001614,
+ "accroche": "En décembre 1944, Freyming et Merlebach sont libérées et retrouvent leur autonomie administrative.",
+ "histoire": {
+  "recit": "Freyming-Merlebach, au cœur du Warndt, naît de la fusion de Freyming et Merlebach en 1971 : deux villages qui prennent racine dès le XVIIe siècle et vivent d’une économie de subsistance. À Merlebach, on relève la présence de verriers autour de 1590, tandis qu’à Freyming, le récit évoque une fondation liée à Pierre.\n\nLe temps se fait plus dense autour des mines : vers 1905, Freyming et Merlebach sont au cœur de l’activité minière, avec des arrivants installés dans des quartiers conçus pour cette industrie. Puis, en décembre 1944, les deux localités sont libérées et reprennent leur autonomie administrative.\n\nDans la commune, la gare de Merlebach-Freyming reste un repère ferroviaire : ouverte au service de la grande et de la petite vitesse après une décision ministérielle du 3 mars 1931, elle connaît ensuite des chantiers dès octobre 1931, puis des démolitions et des ventes de lots bien après. Quant à Merlebach, c’est un ancien village : fondé vers 1590 par des verriers sur les défrichements de la forêt de Genweiler, sa paroisse naît en 1629.",
+  "chronologie": [
+   {
+    "date": "1971",
+    "texte": "La commune de Freyming-Merlebach tire son origine de la fusion de Freyming et Merlebach.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Les deux villages naissent à l’aube du XVIIe siècle et participent à une économie de subsistance.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1590",
+    "texte": "On relève l’existence de verriers à Merlebach (Merlebourg) vers 1590.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1590",
+    "texte": "Merlebach est un village fondé par des verriers sur les défrichements de la forêt de Genweiler.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1629",
+    "texte": "La paroisse de Merlebach est fondée en 1629.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "vers 1905",
+    "texte": "Freyming et Merlebach sont au cœur de l’activité minière, avec de nouveaux arrivants dans des quartiers miniers.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "décembre 1944",
+    "texte": "Freyming et Merlebach sont libérées et retrouvent leur autonomie administrative.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Merlebach-Freyming",
+   "histoire": "Située place de la Gare sur le territoire de Freyming-Merlebach, la gare de Merlebach-Freyming est une gare ferroviaire française fermée, sur la ligne de Haguenau à Hargarten - Falck. Son changement de dénomination en gare est autorisé le 3 mars 1931, et le chantier s’ouvre en octobre 1931. En 2011, un ancien bâtiment du site encore présent est ensuite démoli ; plus tard, des lots sont adjugés et la halle aux marchandises doit être mise sur le marché rapidement.",
+   "anecdotes": [
+    {
+     "texte": "Le 3 mars 1931, le ministre des travaux publics autorise le changement de dénomination de halte « Merlebach » en gare « Merlebach-Freyming », avec ouverture au service de la grande et de la petite vitesse.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Le chantier, ouvert en octobre 1931, concerne notamment le bâtiment principal.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En avril 2011, un bâtiment ancien du site est encore présent avant d’être démoli depuis.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 49.145215,
+   "lon": 6.809783,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Merlebach-Freyming"
+  },
+  {
+   "nom": "Merlebach",
+   "histoire": "Merlebach est une ancienne commune du département de la Moselle. Le village est fondé vers 1590 par des verriers sur les défrichements de la forêt de Genweiler ; sa paroisse, fondée en 1629, dépend d’abord de l’archiprêtré de Saint-Avold puis de Freyming.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1590, ce sont des verriers qui fondent Merlebach en s’installant sur les défrichements de la forêt de Genweiler.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 49.1466306,
+   "lon": 6.815694,
+   "url": "https://fr.wikipedia.org/wiki/Merlebach"
+  }
+ ],
+ "sources": [
+  "Freyming-Merlebach [fʁɛmɛ̃ mɛʁləbak] est une commune française, située dans le département de la Moselle, en région Grand Est. Elle est localisée dans la région naturelle du Warndt et le bassin de vie de la Moselle-Est. Ses habitants sont appelés les Freymingeois ou les Merlebachois ou — plus rarement — les Freyming-Merlebachois.",
+  "La ville de Freyming-Merlebach tire son origine de la fusion intervenue en 1971 de deux communes limitrophes situées dans le Warndt : Freyming et Merlebach. Les deux villages, nés à l’aube du XVIIe siècle, ont participé de l’économie de subsistance propre. On relève l’existence de verriers à Merlebach (Merlebourg), seigneurie de Faulquemont, vers 1590 puis à Freyming (Freimengen au moment de sa fondation par Pierre […]",
+  "1905 : Vers 1905, Freyming et Merlebach sont au cœur même de l’activité minière, avec de nouveaux arrivants installés dans des quartiers miniers spécialement conçus pour cette industrie.",
+  "1944 : Libérées en décembre 1944, Freyming et Merlebach retrouvèrent leur autonomie administrative.",
+  "Lieu « Gare de Merlebach-Freyming » : La gare de Merlebach-Freyming est une gare ferroviaire française, fermée, de la ligne de Haguenau à Hargarten - Falck située, place de la Gare, sur le territoire de la commune de Freyming-Merlebach, dans le département de Moselle, en région Grand Est",
+  "Lieu « Gare de Merlebach-Freyming », 1931 : Il est également inclus que la nouvelle gare sera « ouverte au service de la grande et de la petite vitesse » Le Ministre des travaux publics décide le 3 mars 1931 « d'autoriser le changement de dénomination de halte de « Merlebach » en gare de « Merlebach-Freyming » ».",
+  "Lieu « Gare de Merlebach-Freyming », 1931 : Le chantier ouvert en octobre 1931 concerne notamment le bâtiment principal.",
+  "Lieu « Gare de Merlebach-Freyming », 2011 : Par contre, un autre ancien bâtiment du site de la gare, encore présent en avril 2011 a été démoli depuis.",
+  "Lieu « Gare de Merlebach-Freyming », aujourd'hui : Depuis, il a été adjugé un lot comprenant le bâtiment annexe et l'auvent des quais un et deux, et il reste encore le lot de la halle aux marchandises qui doit être mis sur le marché rapidement.",
+  "Lieu « Merlebach » : Merlebach est une ancienne commune française du département de la Moselle en région Grand Est.",
+  "Lieu « Merlebach », 1590 : Village fondé vers 1590 par des verriers sur les défrichements de la forêt de Genweiler.",
+  "Lieu « Merlebach », 1629 : Sa paroisse, fondée en 1629, a d'abord dépendu de l'archiprêtré de Saint-Avold, puis de Freyming."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 4
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "commune": {
+  "titre": "Marange-Silvange",
+  "code_insee": "57443",
+  "departement": "57",
+  "population": 6539,
+  "lat": 49.215833,
+  "lon": 6.116667,
+  "url": "https://fr.wikipedia.org/wiki/Marange-Silvange"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:44:11",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 963,
+  "sortie": 596
+ },
+ "cout_usd": 0.000938,
+ "accroche": "Le 29 septembre 1809, un décret signé à Schönbrunn fusionne Marange et Silvange pour former Marange-Silvange.",
+ "histoire": {
+  "recit": "Marange-Silvange est une commune française située dans le département de la Moselle, en Lorraine, dans la région administrative Grand Est. Les premiers écrits officiels qui la concernent datent de janvier 739 : Marange y apparaît comme une propriété personnelle de Pépin le Bref. Le même ensemble de mentions situe Marange et Silvange comme deux villages de l’ancien Pays messin, et indique aussi une ancienne possession de l’église de Verdun.\n\nPlus tard, Marange passe entre des mains différentes : la source évoque une propriété des comtes de Luxembourg avant 936, puis un rattachement à la France en 1659. Enfin, le 29 septembre 1809, Napoléon fusionne les deux villages : un décret signé à Schönbrunn crée la commune de Marange-Silvange.",
+  "chronologie": [
+   {
+    "date": "janvier 739",
+    "texte": "Les premiers écrits officiels mentionnant Marange le présentent comme une propriété personnelle de Pépin le Bref.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "avant 936",
+    "texte": "Marange serait une ancienne possession des comtes de Luxembourg.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1659",
+    "texte": "Marange devient propriété de la France, selon la source, à la suite du traité indiqué.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "29 septembre 1809",
+    "texte": "Napoléon fusionne les villages de Marange et de Silvange par un décret signé à Schönbrunn, formant Marange-Silvange.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Marange-Silvange est une commune française située dans le département de la Moselle, en Lorraine, dans la région administrative Grand Est.",
+  "Les premiers écrits officiels mentionnant Marange datent de janvier 739 et en font la propriété personnelle de Pépin le Bref. Marange et Silvange sont deux villages de l’ancien Pays messin. Ancienne possession de l’église de Verdun. Marange devint propriété des comtes de Luxembourg avant 936 [??? - le Luxembourg n'apparaît qu'en 963, et le comté 2-3 générations plus tard!], puis de la France en 1659 (traité des […]",
+  "1809 : Napoléon fusionne les villages de Marange et de Silvange par un décret signé à Schönbrunn le 29 septembre 1809 pour former Marange-Silvange."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}
