@@ -1,0 +1,254 @@
+{
+ "commune": {
+  "titre": "Issoudun",
+  "code_insee": "36088",
+  "departement": "36",
+  "population": 11159,
+  "lat": 46.960808,
+  "lon": 1.994362,
+  "url": "https://fr.wikipedia.org/wiki/Issoudun"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:48:09",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3157,
+  "sortie": 1590
+ },
+ "cout_usd": 0.002619,
+ "accroche": "En juin 1849, des membres de « La Solidarité républicaine » sont condamnés à la prison ferme à Issoudun, dont Lecherbonnier, futur maire.",
+ "histoire": {
+  "recit": "À Issoudun, la ville a connu l’ombre des incendies et le retour obstiné des reconstructions. Sous l’Antiquité, Uxeldunum est occupée sans discontinuité, au point que deux bornes milliaires romaines, retrouvées au XIXe siècle, ont été tronquées et recreusées pour devenir des sarcophages. Plus tard, la ville résiste encore : en 1356, le Prince Noir n’incendie que les faubourgs. Des ruelles aux bâtiments, l’époque moderne trace aussi sa ligne : le commissariat ferme définitivement en septembre 2003, et le palais de justice en 2008.\n\nIssoudun garde des repères dans ses monuments. Au Musée de l’Hospice Saint-Roch, les collections racontent à travers sarcophages, gisants et émaux peints. La Basilique Notre-Dame du Sacré-Cœur, construite entre 1857 et 1864, et l’Église Saint-Cyr d’Issoudun, dont seules six travées de nef subsistent, témoignent d’un passé religieux remanié par les événements.",
+  "chronologie": [
+   {
+    "date": "1356",
+    "texte": "Devant Issoudun, le Prince Noir ne brûle que les faubourgs : la ville résiste.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "En juin 1849, les principaux membres de « La Solidarité républicaine » sont condamnés à la prison ferme et privés de droits civiques pour deux ans, avant l’emprisonnement après l’appel.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1852",
+    "texte": "En janvier 1852, douze cabarets populaires et « suspects » sont fermés.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "Entre le 29 janvier et le 8 février 1939, plus de 2 000 réfugiés espagnols arrivent dans l’Indre.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2003",
+    "texte": "En septembre 2003, le commissariat de police d’Issoudun est définitivement fermé.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2008",
+    "texte": "En 2008, le palais de justice d’Issoudun ferme définitivement.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée de l'Hospice Saint-Roch",
+   "histoire": "Musée municipal labellisé « musée de France », il occupe l’ancien hospice Saint-Roch et un bâtiment moderne reliés par une passerelle.",
+   "anecdotes": [
+    {
+     "texte": "Deux plaques signées Léonard Limosin figurent parmi les émaux peints provenant de l’ancien hôtel-Dieu.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Des bornes milliaires ont été tronquées et recreusées pour être utilisées comme sarcophages à partir des découvertes romaines autour d’Issoudun.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le musée est aujourd’hui composé d’un ancien hospice Saint-Roch et d’un bâtiment moderne, reliés entre eux par une passerelle.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 46.945408,
+   "lon": 1.994379,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Hospice_Saint-Roch"
+  },
+  {
+   "nom": "Basilique Notre-Dame du Sacré-Cœur d'Issoudun",
+   "histoire": "Édifice religieux catholique du XIXe siècle, bâti à l’initiative de Jules Chevalier, dédié à Notre-Dame du Sacré-Cœur, et construit par l’architecte Tarlier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’orgue a été électrifié au début du XXe siècle par Duval&Pannier, sans date certaine pour ces travaux.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 46.95205,
+   "lon": 1.99419,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame_du_Sacr%C3%A9-C%C5%93ur_d%27Issoudun"
+  },
+  {
+   "nom": "Église Saint-Cyr d'Issoudun",
+   "histoire": "Église catholique dont il ne subsiste que six travées de nef : le reste a été détruit lors des incendies et des reprises ultérieures.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seules six travées de nef construites de 1354 à 1400 subsistent.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 46.948285,
+   "lon": 1.992301,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Cyr_d%27Issoudun"
+  },
+  {
+   "nom": "Château de Frapesle",
+   "histoire": "Ancien moulin sur la Tournemine transformé en château au XVIIIe siècle ; le grand bâtiment d’habitation a ensuite été amélioré entre 1869 et 1871.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château est aujourd’hui une propriété privée appartenant à la famille Luneau.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 46.9482,
+   "lon": 1.9743,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Frapesle"
+  },
+  {
+   "nom": "Porte de l'Horloge (Issoudun)",
+   "histoire": "Porte de ville du XVIe siècle, reconstruite à partir d’éléments plus anciens : une porte du XIIe siècle a été reconstruite au milieu du XVIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La façade qui réunit les deux tours aurait été détruite en 1568 puis rétablie en 1583.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 46.9486,
+   "lon": 1.9904,
+   "url": "https://fr.wikipedia.org/wiki/Porte_de_l%27Horloge_%28Issoudun%29"
+  },
+  {
+   "nom": "Gare d'Issoudun",
+   "histoire": "Gare ferroviaire située sur le territoire d’Issoudun, reconstruite après la Seconde Guerre mondiale, puis mise en valeur dans le cadre du concours des villes et villages fleuris.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est également le terminus de la ligne de Saint-Florent-sur-Cher à Issoudun, aujourd’hui fermée.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 46.948786,
+   "lon": 1.985781,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Issoudun"
+  },
+  {
+   "nom": "Tour blanche d'Issoudun",
+   "histoire": "Ancienne tour maîtresse du château, élevée à la fin du XIIe siècle sur une butte artificielle dans le centre-ville.",
+   "anecdotes": [
+    {
+     "texte": "La tour aurait été édifiée sur une zone occupée précédemment par une chapelle ou un oratoire du XIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36"
+   ],
+   "lat": 46.947892,
+   "lon": 1.989829,
+   "url": "https://fr.wikipedia.org/wiki/Tour_blanche_d%27Issoudun"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne d'Issoudun",
+   "histoire": "Bâtiment de la première moitié du XXe siècle à Issoudun.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38"
+   ],
+   "lat": 46.95006,
+   "lon": 1.99298,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_d%27Issoudun"
+  }
+ ],
+ "sources": [
+  "Issoudun est une commune française et une sous-préfecture située dans le département de l'Indre, en région Centre-Val de Loire. Exposée à un climat océanique altéré, elle est drainée par la Théols, la Tournemine, la Vignole, le Bénitier et divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable composé d'un site Natura 2000 et deux zones naturelles d'intérêt écologique, faunistique et […]",
+  "Située à mi-chemin de Bourges et de Châteauroux, la cité biturige d’Uxeldunum, détruite à l'approche de César et reconstruite par ce dernier est un site occupé depuis l’Antiquité sans discontinuité. Deux bornes milliaires romaines ont été retrouvées au XIXe siècle, tronquées et recreusées pour en faire des sarcophages. D'après les restes d'inscriptions déchiffrés, l'une date de Nerva et l'autre de Septime Sévère. Au […]",
+  "1356 : En 1356, le Prince Noir est devant la ville qui résiste ; seuls les faubourgs sont incendiés.",
+  "1849 : Les principaux membres de « La Solidarité républicaine » (120 membres) sont condamnés à la prison ferme et privés de droits civiques pour deux ans (dont Lecherbonnier, père du futur maire) en juin 1849, et finalement emprisonnés après l’appel en novembre.",
+  "1852 : Douze cabarets populaires et suspects sont fermés en janvier 1852.",
+  "1917 : Entre fin 1917 et juin 1919, le 3e centre d'instruction de ce qui deviendra en 1919 l’United States Army Air Service est installé sur une commune voisine (Lizeray), après l'entrée en guerre des États-Unis, en soutien du corps expéditionnaire américain.",
+  "1939 : Entre le 29 janvier et le 8 février 1939, plus de 2 000 réfugiés espagnols fuyant l'effondrement de la république espagnole devant les troupes de Franco, arrivent dans l’Indre.",
+  "2003 : En septembre 2003, dans le cadre du redéploiement des forces de l'ordre en France, le commissariat de police d'Issoudun est définitivement fermé.",
+  "2008 : En 2008 le palais de justice de la commune est fermé définitivement.",
+  "Lieu « Musée de l'Hospice Saint-Roch » : Le musée de l'Hospice Saint-Roch d'Issoudun est un musée municipal, labellisé musée de France, situé à Issoudun, dans l'Indre.",
+  "Lieu « Musée de l'Hospice Saint-Roch », 1515 : On y trouve aussi des sarcophages et des gisants, dont celui plus tardif de l'abbé de Notre-Dame, fin du XIIe siècle et des objets en ivoire de l'époque mérovingienne ainsi que des émaux peints provenant de l'ancien hôtel-Dieu, dont deux plaques signées Léonard Limosin (1515-1547).",
+  "Lieu « Musée de l'Hospice Saint-Roch », 1965 : L'ensemble architectural est composé des bâtiments de l'ancien hôtel-Dieu, classés monuments historiques en 1965, d'un jardin de plantes médicinales et d'une aile contemporaine.",
+  "Lieu « Musée de l'Hospice Saint-Roch », 2007 : Le musée est composé de deux bâtiments reliés entre eux par une passerelle : l'ancien hospice Saint-Roch, composé lui-même de deux ailes réunis par une chapelle, et un bâtiment moderne, agrandi en 2007, qui contient notamment les œuvres modernes, et l'accueil du public.",
+  "Lieu « Musée de l'Hospice Saint-Roch », aujourd'hui : Les plus anciennes traces d'activité humaine aux alentours d'Issoudun datent du Paléolithique Supérieur, mais la présence humaine est surtout remarquable à partir de l'âge du Fer (de 800 à 100 ans av. J.-C.).",
+  "Lieu « Basilique Notre-Dame du Sacré-Cœur d'Issoudun » : La basilique Notre-Dame du Sacré-Cœur d'Issoudun, est un édifice religieux catholique du XIXe siècle situé à Issoudun, bâti à l'initiative de Jules Chevalier fondateur des Missionnaires du Sacré-Cœur de Jésus, dédiée à Notre-Dame du Sacré-Cœur.",
+  "Lieu « Basilique Notre-Dame du Sacré-Cœur d'Issoudun », XIXe siècle : La basilique Notre-Dame du Sacré-Cœur d'Issoudun, est un édifice religieux catholique du XIXe siècle situé à Issoudun, bâti à l'initiative de Jules Chevalier fondateur des Missionnaires du Sacré-Cœur de Jésus, dédiée à Notre-Dame du Sacré-Cœur.",
+  "Lieu « Basilique Notre-Dame du Sacré-Cœur d'Issoudun », 1857 : Cet édifice a été construit entre 1857 et 1864 par l'architecte Tarlier, sous l'égide du Père Jules Chevalier, archiprêtre d'Issoudun et fondateur des Missionnaires du Sacré-Cœur de Jésus.",
+  "Lieu « Basilique Notre-Dame du Sacré-Cœur d'Issoudun », 1860 : Les vitraux les plus anciens avaient été installés dans le chœur primitif de l'édifice au début des années 1860.",
+  "Lieu « Basilique Notre-Dame du Sacré-Cœur d'Issoudun », aujourd'hui : L'orgue est électrifié au début du XXe siècle par Duval&Pannier mais aucune trace ne permet de définir une date concernant ces travaux.",
+  "Lieu « Église Saint-Cyr d'Issoudun » : L'église Saint-Cyr d'Issoudun est une église catholique française.",
+  "Lieu « Église Saint-Cyr d'Issoudun », XIIe siècle : Les quatre travées de la nef, couvertes en bois, restes de l'église du XIIe siècle, sont détruites.",
+  "Lieu « Église Saint-Cyr d'Issoudun », 1354 : En 1354, les Anglais commandés par le prince de Galles (le Prince Noir) incendient l'église dont six travées s'écroulent.",
+  "Lieu « Église Saint-Cyr d'Issoudun », 1446 : L'église, à la fois paroissiale et collégiale, est partiellement rebâtie : le chœur, réservé aux chanoines, est reconstruit au XVe siècle dans le style gothique monumental, entre 1446 et 1483, pendant la période où Jean Cœur, fils de Jacques Cœur est archevêque de Bourges.",
+  "Lieu « Église Saint-Cyr d'Issoudun », aujourd'hui : Seules six travées de nef construite de 1354 à 1400 subsistent.",
+  "Lieu « Château de Frapesle » : Le château de Frapesle est un édifice situé à Issoudun, en France.",
+  "Lieu « Château de Frapesle », XVIIIe siècle : Ancien moulin sur la Tournemine, cette locature est transformée en château au XVIIIe siècle.",
+  "Lieu « Château de Frapesle », 1804 : Le grand bâtiment de la maison d'habitation de 1804 a été amélioré de 1869 à 1871 (sous le Second Empire), par l'ajout d'un balcon de style colonial posé sur pieds avec une avancée de toit.",
+  "Lieu « Château de Frapesle », aujourd'hui : Le château est aujourd'hui une propriété privée appartenant à la famille Luneau.",
+  "Lieu « Porte de l'Horloge (Issoudun) » : La porte de l'Horloge est une porte de ville du XVIe siècle située à Issoudun, en France.",
+  "Lieu « Porte de l'Horloge (Issoudun) », XIIe siècle : C'est une porte du XIIe siècle reconstruite du milieu du XVIe siècle.",
+  "Lieu « Porte de l'Horloge (Issoudun) », 1568 : La façade qui réunit les deux tours aurait été détruite en 1568, puis rétablie en 1583.",
+  "Lieu « Gare d'Issoudun » : La gare d'Issoudun est une gare ferroviaire française, de la ligne des Aubrais - Orléans à Montauban-Ville-Bourbon, située sur le territoire de la commune d'Issoudun, dans le département de l'Indre, en région Centre-Val de Loire.",
+  "Lieu « Gare d'Issoudun », 2005 : Le bâtiment a été reconstruit après la Seconde Guerre mondiale, pendant laquelle il avait été détruit par un bombardement aérien.[réf. nécessaire] En 2005, la gare a reçu le 2e prix pour la catégorie « Prix des gares », du concours des villes et villages fleuris.",
+  "Lieu « Gare d'Issoudun », aujourd'hui : Elle est également le terminus de la ligne de Saint-Florent-sur-Cher à Issoudun aujourd'hui fermée.",
+  "Lieu « Tour blanche d'Issoudun » : La Tour blanche d'Issoudun est l'ancienne tour maîtresse du château, autrefois couronné de hourds, élevée à la fin du XIIe siècle par Richard Cœur de Lion, duc d'Aquitaine et roi d'Angleterre, sur une butte artificielle dans le centre-ville de la com",
+  "Lieu « Tour blanche d'Issoudun », XIe siècle : La tour aurait été édifiée sur une zone occupée précédemment par une chapelle ou un oratoire du XIe siècle.",
+  "Lieu « Hôtel de la Caisse d'épargne d'Issoudun » : L’hôtel de la Caisse d’épargne est un bâtiment de la première moitié du XXe siècle situé à Issoudun, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne d'Issoudun », XXe siècle : L’hôtel de la Caisse d’épargne est un bâtiment de la première moitié du XXe siècle situé à Issoudun, en France."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
