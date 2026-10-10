@@ -1,0 +1,169 @@
+{
+ "commune": {
+  "titre": "Ifs",
+  "code_insee": "14341",
+  "departement": "14",
+  "population": 11937,
+  "lat": 49.138333,
+  "lon": -0.353056,
+  "url": "https://fr.wikipedia.org/wiki/Ifs"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:43:09",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1473,
+  "sortie": 878
+ },
+ "cout_usd": 0.001392,
+ "accroche": "En 2019, une campagne de fouilles de l’INRAP sur le site de la future prison de Caen a mis en évidence des traces d’activité humaine d’âge du fer jusqu’au Moyen-âge, à Ifs.",
+ "histoire": {
+  "recit": "À Ifs, l’histoire se lit d’abord autour de l’église Saint-André : à partir du XIe siècle, l’agglomération commence à s’organiser autour d’elle. Plus au sud de Caen, des fouilles menées sur le site de la future prison de Caen révèlent des traces d’activité humaine allant de l’âge du fer jusqu’au Moyen-âge. Au fil des constructions, la ferme Saint-Bernard s’élève au XVIIe siècle. Bien plus tard, après l’incendie d’un baraquement servant de chapelle catholique en 1964, le diocèse décide de construire une église en dur à Notre-Dame de la Plaine. Puis la ferme Saint-Bernard change de rôle : en 1972, la commune l’achète grâce à une subvention du conseil général du Calvados, et en 1975, le conseil municipal décide d’en faire le nouvel hôtel de ville. La région, enfin, a dû relever ses ruines : en 1944, il faut reconstruire la ville voisine de Caen, en grande partie bombardée.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Un début d’agglomération s’organise autour de l’église Saint-André.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "La ferme Saint-Bernard est construite au XVIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "Il faut reconstruire la ville voisine de Caen, en grande partie bombardée en 1944.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "Le chœur de l’église Saint-André est reconstruit en style roman et restauré après les destructions de 1944.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1964",
+    "texte": "Après l’incendie d’un baraquement servant de chapelle catholique, le diocèse décide de construire une église en dur, Notre-Dame de la Plaine.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2019",
+    "texte": "Des fouilles de l’INRAP mettent en évidence des traces d’activité humaine sur le site de la future prison de Caen, de l’âge du fer jusqu’au Moyen-âge.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1972",
+    "texte": "La commune achète les bâtiments de la ferme Saint-Bernard grâce à une subvention de 100 000 francs du conseil général du Calvados.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1975",
+    "texte": "Le conseil municipal décide de faire de la ferme Saint-Bernard le nouvel hôtel de ville.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ferme Saint-Bernard",
+   "histoire": "Édifice situé à Ifs, la ferme Saint-Bernard est inscrite au titre des monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "La commune rachète les bâtiments en 1972 grâce à une subvention de 100 000 francs du conseil général du Calvados.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 1975, le conseil municipal décide d’en faire le nouvel hôtel de ville.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 49.137361,
+   "lon": -0.349444,
+   "url": "https://fr.wikipedia.org/wiki/Ferme_Saint-Bernard"
+  },
+  {
+   "nom": "Église Saint-André d'Ifs",
+   "histoire": "Église catholique située à Ifs. Le chœur a été reconstruit en style roman en 1878 et restauré après les destructions de 1944.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S12",
+    "S3"
+   ],
+   "lat": 49.1395,
+   "lon": -0.34813,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Andr%C3%A9_d%27Ifs"
+  },
+  {
+   "nom": "Bras (Calvados)",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 49.13534,
+   "lon": -0.32272,
+   "url": "https://fr.wikipedia.org/wiki/Bras_%28Calvados%29"
+  }
+ ],
+ "sources": [
+  "Ifs [if] est une commune française située dans le département du Calvados en région Normandie, peuplée de 11 937 habitants.",
+  "Plusieurs campagnes de fouilles archéologiques ont été menées sur le territoire de la commune. Le nombre de sites étudiés laisse entrevoir une installation humaine importante sur le secteur sud de Caen. Une campagne menée en 2019 par une équipe de l'INRAP ont mis en évidence des traces d'activité humaine sur le site de la future prison de Caen de l'âge du fer jusqu'au Moyen-âge. 60 tombes humaines ont été […]",
+  "XIe siècle : L'église saint-André, édifiée entre le XIe siècle et le XIIIe siècle, voit un début d'agglomération s'organiser autour d'elle.",
+  "XVIIe siècle : La ferme Saint-Bernard est construite au XVIIe siècle.",
+  "1944 : Il faut reconstruire la ville voisine de Caen, en grande partie bombardée en 1944.",
+  "1964 : Un baraquement sert de chapelle catholique, rue du Chemin-Vert, mais après son incendie, en 1964, face au besoin de nouveaux lieux de culte, le diocèse décide de construire une église en dur, Notre-Dame de la Plaine, dépendant de la paroisse de la Guérinière.",
+  "Lieu « Ferme Saint-Bernard » : La ferme Saint-Bernard est un édifice situé à Ifs, dans le département français du Calvados, en France et inscrite au titre des monuments historiques.",
+  "Lieu « Ferme Saint-Bernard », 1972 : Les bâtiments sont achetés par la commune en 1972 grâce à une subvention de 100 000 francs du conseil général du Calvados.",
+  "Lieu « Ferme Saint-Bernard », 1975 : Le conseil municipal décide en 1975 de faire de l'édifice le nouvel hôtel de ville[source insuffisante].",
+  "Lieu « Église Saint-André d'Ifs » : L'église Saint-André est une église catholique située à Ifs, en France.",
+  "Lieu « Église Saint-André d'Ifs », XVIe siècle : Le chœur a été construit en même temps que la partie supérieure de la tour, mais on y a percé depuis des fenêtres, qui ne semblent pas à M. de Caumont antérieures au XVe et au XVIe siècle.",
+  "Lieu « Église Saint-André d'Ifs », 1878 : Le chœur, probablement du XIIIe siècle, a été reconstruit en style roman en 1878 et restauré après les destructions de 1944.",
+  "Lieu « Bras (Calvados) » : Bras est une ancienne commune française[réf. nécessaire] du département du Calvados.",
+  "Lieu « Bras (Calvados) », aujourd'hui : Des villages de Cassini aux communes d'aujourd'hui, « Notice communale : Bras », sur ehess.fr, École des hautes études en sciences sociales."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

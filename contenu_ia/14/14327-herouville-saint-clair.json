@@ -1,0 +1,293 @@
+{
+ "commune": {
+  "titre": "Hérouville-Saint-Clair",
+  "code_insee": "14327",
+  "departement": "14",
+  "population": 23470,
+  "lat": 49.203611,
+  "lon": -0.326389,
+  "url": "https://fr.wikipedia.org/wiki/H%C3%A9rouville-Saint-Clair"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:01:58",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2771,
+  "sortie": 2058
+ },
+ "cout_usd": 0.003127,
+ "accroche": "En 1793, Hérouville-Saint-Clair naît de la fusion de trois paroisses : Saint-Clair-d'Érouville, Saint-Pierre-d'Érouville et Saint-Ursin d'Éperon.",
+ "histoire": {
+  "recit": "Hérouville-Saint-Clair, commune du Calvados en Normandie, se raconte d’abord comme un village : nommé Hérouville jusqu’en 1957, il change de visage avec l’essor de la ville nouvelle. La population s’envole dès les années 1960 : 1 784 habitants en 1962, puis 9 041 en 1968, jusqu’à 23 712 en 1975.\n\nAvant cette expansion, les traces restent parfois discrètes : la recherche archéologique y apparaît pauvre, et deux sites d’occupation gallo-romaine n’ont presque pas été étudiés. Quand les travaux prennent le relais, le passé affleure : en 1965, des traces de villa sont dégagées sur le site de La Grande Delle.\n\nEn 1987, le centre-ville prend forme avec l’inauguration de la « Citadelle Douce », où sont installés la mairie et quelques commerces. Et dans les lieux, la commune garde des visages très différents : un pont tournant sur lequel circule le passage des navires, une église médiévale, et le « Petit Lourdes » né d’une donation liée à une guérison miraculeuse racontée.",
+  "chronologie": [
+   {
+    "date": "1793",
+    "texte": "La commune naît de la fusion de trois paroisses : Saint-Clair-d'Érouville, Saint-Pierre-d'Érouville et Saint-Ursin d'Éperon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1835",
+    "texte": "À la villa de Lébisey, une découverte de bâtiment d’environ 800 m² est signalée comme vraisemblablement fortuite.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "La population atteint 1 784 habitants.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1965",
+    "texte": "Sur le site de La Grande Delle, des travaux dégagent une villa ; l’inventeur note aussi de nombreux fragments de briques et de tuiles à rebords.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "La population atteint 9 041 habitants.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "Mise en service du château d’eau métallique.",
+    "sources": [
+     "S27"
+    ]
+   },
+   {
+    "date": "1975",
+    "texte": "La population atteint 23 712 habitants.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "Inauguration de la « Citadelle Douce », centre-ville où sont installés la mairie et quelques commerces.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Colombelles",
+   "histoire": "Le pont de Colombelles est un pont tournant sur la commune d’Hérouville-Saint-Clair. Construit à partir de 1852, il possède un tablier mobile pour libérer le passage à un navire. Un pont actuel est construit en 1958, puis remplacé par un troisième pont tournant métallique mis en service en octobre 1959. Aujourd’hui, le remplacement est décidé en raison de la fiabilité et des pannes.",
+   "anecdotes": [
+    {
+     "texte": "Les ponts construits à partir de 1852 avaient la particularité d’un tablier mobile permettant de libérer le passage à un navire.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "À cause de l’état de vétusté, le pont construit en 1958 devait être remplacé, décision portée par les collectivités concernées.",
+     "statut": "etabli",
+     "sources": [
+      "S9",
+      "S11"
+     ]
+    },
+    {
+     "texte": "Mis en service en octobre 1959, le troisième pont tournant métallique est construit en aval du précédent en 1958.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 49.20667,
+   "lon": -0.31444,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Colombelles"
+  },
+  {
+   "nom": "Église Saint-Clair d'Hérouville-Saint-Clair",
+   "histoire": "L’église Saint-Clair d’Hérouville-Saint-Clair est une église catholique des XIe et XIIe siècles. Elle conserve un gisant de Nicolas d’Asseville, seigneur du lieu, mort en 1376, et des dégâts sont signalés pendant les Guerres de religion au XVIe siècle. Le chevet droit est remplacé par un chevet à pans coupés dans les années 1880.",
+   "anecdotes": [
+    {
+     "texte": "Un gisant de Nicolas d’Asseville, mort en 1376, est conservé dans l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "Lors des Guerres de religion du XVIe siècle, les armées huguenotes endommagent l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 49.20694,
+   "lon": -0.31778,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Clair_d%27H%C3%A9rouville-Saint-Clair"
+  },
+  {
+   "nom": "Petit Lourdes (Hérouville-Saint-Clair)",
+   "histoire": "Le « Petit Lourdes » est un sanctuaire marial construit à Hérouville-Saint-Clair de 1879 à 1885. Il naît en 1879 d’une donation faite par le négociant en vins Jules Dubosq, après une guérison miraculeuse attribuée au séjour de sa femme à Lourdes, avec la condition de bâtir une réplique de la chapelle. Le site ferme en 2014 pour des raisons de sécurité, puis rouvre depuis 2017, tous les jours de 14 h à 17 h sauf le jeudi.",
+   "anecdotes": [
+    {
+     "texte": "Jules Dubosq fait une donation en 1879 après la « guérison miraculeuse de sa femme », à condition de construire une réplique de la chapelle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    },
+    {
+     "texte": "Le site ferme en 2014 pour des raisons de sécurité, avant de rouvrir tous les jours de 14 h à 17 h (hors jeudi) depuis 2017.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 49.194793,
+   "lon": -0.323975,
+   "url": "https://fr.wikipedia.org/wiki/Petit_Lourdes_%28H%C3%A9rouville-Saint-Clair%29"
+  },
+  {
+   "nom": "Chapelle Saint-Vincent d'Hérouville-Saint-Clair",
+   "histoire": "La chapelle Saint-Vincent est une ancienne chapelle catholique en ruines à Hérouville-Saint-Clair. Des vestiges subsistent : la chapelle est bâtie au XIIIe siècle, partie d’un prieuré dépendance de l’abbaye d’Ardenne à partir de 1291. Le prieuré est vendu comme bien national en 1795 et transformé en exploitation agricole.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 49.213524,
+   "lon": -0.341889,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Vincent_d%27H%C3%A9rouville-Saint-Clair"
+  },
+  {
+   "nom": "Mosquée d'Hérouville-Saint-Clair",
+   "histoire": "La mosquée Annour est un édifice religieux musulman à Hérouville-Saint-Clair. Le projet naît avec l’association AICC, fondée au milieu des années 1980. Les travaux débutent en 2006 et le lieu est inauguré en juillet 2011.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 49.213084,
+   "lon": -0.331034,
+   "url": "https://fr.wikipedia.org/wiki/Mosqu%C3%A9e_d%27H%C3%A9rouville-Saint-Clair"
+  },
+  {
+   "nom": "Château d'eau d'Hérouville-Saint-Clair",
+   "histoire": "Le château d’eau d’Hérouville-Saint-Clair est un château d’eau métallique mis en service en 1968. Depuis 2003, l’édifice est illuminé par la société Citéval.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 49.2028,
+   "lon": -0.342317,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27eau_d%27H%C3%A9rouville-Saint-Clair"
+  },
+  {
+   "nom": "Domaine de Beauregard",
+   "histoire": "Le domaine de Beauregard, en périphérie d’Hérouville-Saint-Clair au bord du canal de Caen à la mer, s’étend sur 23 hectares de prairies et de surfaces boisées. Un château de style troubadour y est achevé en 1864 sous la direction de Martial Pelfresne.",
+   "anecdotes": [
+    {
+     "texte": "Le château de Beauregard est décrit comme de style troubadour, typique de l’architecture du XIXe siècle en Normandie, achevé en 1864.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 49.214,
+   "lon": -0.312083,
+   "url": "https://fr.wikipedia.org/wiki/Domaine_de_Beauregard"
+  }
+ ],
+ "sources": [
+  "Hérouville-Saint-Clair est une commune française située dans le département du Calvados en région Normandie, peuplée de 23 470 habitants (les Hérouvillais). Village en périphérie de Caen nommé Hérouville jusqu'en 1957, il accueille sur son territoire dans les années 1960 la construction d'une ville nouvelle, entraînant la multiplication par 13 en vingt ans de sa population, devenant à la fin du XXe siècle la seconde […]",
+  "Il faut souligner la pauvreté de la recherche archéologique sur le site de la commune à l'époque de son expansion, qui a entraîné l'absence quasi totale de recherches archéologiques sur deux sites d'occupation (au sens archéologique) gallo-romaine qui auraient pu s'avérer prometteurs : villa de Lébisey : une découverte vraisemblablement fortuite d'un bâtiment d'environ 800 m2 a eu lieu en 1835 par un membre de la […]",
+  "1793 : La commune est née en 1793 de la fusion de trois paroisses : Saint-Clair-d'Érouville ; Saint-Pierre-d'Érouville dont l'église est détruite vers 1794 ; Saint-Ursin d'Éperon.",
+  "1960 : Mais c'est à partir des années 1960 que la population explose véritablement : 1 784 habitants en 1962, 9 041 en 1968 et 23 712 en 1975.",
+  "1965 : L'inventeur découvrit sur le site \"beaucoup de fragments de briques et de tuiles à rebords\". villa de La Grande Delle : lors des travaux de construction des bâtiments d'habitation en 1965 a été dégagée une villa.",
+  "1987 : C'est pour les Hérouvillais, non seulement aimer leur ville, mais en être fiers. » En 1987 est inaugurée la « Citadelle Douce », le centre-ville, dans lequel il installe la mairie et quelques commerces.",
+  "Lieu « Pont de Colombelles » : Le pont de Colombelles est un pont tournant situé sur la commune d'Hérouville-Saint-Clair dans le département du Calvados et la région Normandie.",
+  "Lieu « Pont de Colombelles », 1852 : Ces quatre ponts, construits à partir de 1852, ont la caractéristique commune d'avoir un tablier mobile permettant de libérer le passage à un navire.",
+  "Lieu « Pont de Colombelles », 1958 : L'actuel pont a été construit en 1958 et, compte tenu de son état de vétusté, sera remplacé en 2027 par un nouveau pont, de même type, construit 40 mètres en aval de sa position actuelle.",
+  "Lieu « Pont de Colombelles », 1958 : Un nouveau pont tournant métallique, le troisième en date, est construit en aval du précédent : édifié en 1958, il est mis en service en octobre 1959.",
+  "Lieu « Pont de Colombelles », aujourd'hui : Sa fiabilité n'étant plus garantie, les pannes devenant chroniques, le remplacement de l'ouvrage a été décidé par les collectivités territoriales concernées.",
+  "Lieu « Église Saint-Clair d'Hérouville-Saint-Clair » : L'église Saint-Clair est une église catholique des XIe et XIIe siècles située à Hérouville-Saint-Clair, en France.",
+  "Lieu « Église Saint-Clair d'Hérouville-Saint-Clair », XIe siècle : Ce dernier motif est fréquent sur les édifices du XIe siècle et XIIe siècle selon Arcisse de Caumont.",
+  "Lieu « Église Saint-Clair d'Hérouville-Saint-Clair », 1376 : Un gisant de Nicolas d'Asseville, seigneur du lieu mort en 1376 est conservé dans l'édifice.",
+  "Lieu « Église Saint-Clair d'Hérouville-Saint-Clair », XVIe siècle : Les armées huguenotes endommagent l'édifice lors des Guerres de religion du XVIe siècle.",
+  "Lieu « Église Saint-Clair d'Hérouville-Saint-Clair », aujourd'hui : Le chevet droit est remplacé par un chevet à pans coupés dans les années 1880.",
+  "Lieu « Petit Lourdes (Hérouville-Saint-Clair) » : Le Petit Lourdes est un sanctuaire marial construit de 1879 à 1885 sur la commune d'Hérouville-Saint-Clair, dans le Calvados.",
+  "Lieu « Petit Lourdes (Hérouville-Saint-Clair) », 1879 : Le Petit Lourdes est un sanctuaire marial construit de 1879 à 1885 sur la commune d'Hérouville-Saint-Clair, dans le Calvados.",
+  "Lieu « Petit Lourdes (Hérouville-Saint-Clair) », 1879 : En 1879, un négociant en vins originaire de Rouen, Jules Dubosq, fait, à la suite de la « guérison miraculeuse de sa femme » lors de son séjour à Lourdes, une donation à condition que soit construite une réplique de la chapelle du lieu sacré.",
+  "Lieu « Petit Lourdes (Hérouville-Saint-Clair) », 2014 : Fermé en 2014 pour des raisons de sécurité, le site est depuis 2017 ouvert tous les jours de 14 h à 17 h, sauf le jeudi afin d'assurer l'entretien.",
+  "Lieu « Chapelle Saint-Vincent d'Hérouville-Saint-Clair » : La chapelle Saint-Vincent d'Hérouville-Saint-Clair est une ancienne chapelle catholique en ruines située à Hérouville-Saint-Clair dans le département français du Calvados en région Normandie.",
+  "Lieu « Chapelle Saint-Vincent d'Hérouville-Saint-Clair », 1291 : La chapelle dont les vestiges subsistent est bâtie au XIIIe siècle et est une partie d'un prieuré dépendance de l'abbaye d'Ardenne à partir de 1291, même si la dépendance est connue dès le XIIe siècle.",
+  "Lieu « Chapelle Saint-Vincent d'Hérouville-Saint-Clair », 1795 : Le prieuré est vendu comme bien national durant la Révolution française, en 1795, et transformé en exploitation agricole.",
+  "Lieu « Mosquée d'Hérouville-Saint-Clair » : La mosquée Annour est un édifice religieux musulman situé à Hérouville-Saint-Clair, en France.",
+  "Lieu « Mosquée d'Hérouville-Saint-Clair », 1980 : L'association AICC (Association islamique et culturelle du Calvados), à l'origine du projet de mosquée, est fondée au milieu des années 1980.",
+  "Lieu « Mosquée d'Hérouville-Saint-Clair », 2006 : Les travaux débutent en 2006 et le lieu est inauguré en juillet 2011.",
+  "Lieu « Château d'eau d'Hérouville-Saint-Clair » : Le château d'eau d'Hérouville-Saint-Clair est un château d'eau métallique mis en service en 1968 à Hérouville-Saint-Clair, dans le Calvados, en Normandie.",
+  "Lieu « Château d'eau d'Hérouville-Saint-Clair », 2003 : L'édifice est illuminé depuis 2003 par la société Citéval.",
+  "Lieu « Domaine de Beauregard » : Le domaine de Beauregard, situé en périphérie d'Hérouville-Saint-Clair au bord du canal de Caen à la mer, est composé de prairies et de surfaces boisées qui s'étendent sur 23 hectares.",
+  "Lieu « Domaine de Beauregard », 1864 : Le château de style troubadour (typique de l'architecture du XIXe siècle en Normandie) est achevé en 1864 sous la direction de Martial Pelfresne.",
+  "Lieu « Festival Beauregard » : Créé en 2009, le Festival Beauregard est un festival de musique se déroulant dans le parc du château de Beauregard en Normandie, à Hérouville-Saint-Clair dans l'agglomération caennaise.",
+  "Lieu « Festival Beauregard », aujourd'hui : Samedi 8 juillet 2017 : M.P.L. (Ma Pauvre Lucette), AeroBrasil, Yak, Grandaddy (remplacé par Vald, annonce faite le 16 mai), Editors, Airbourne, Iggy Pop, Ibrahim Maalouf, Phoenix, Echo and the Bunnymen, Synapson."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 8
+ }
+}

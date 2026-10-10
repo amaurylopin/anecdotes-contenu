@@ -1,0 +1,187 @@
+{
+ "commune": {
+  "titre": "Ouistreham",
+  "code_insee": "14488",
+  "departement": "14",
+  "population": 9212,
+  "lat": 49.279167,
+  "lon": -0.258333,
+  "url": "https://fr.wikipedia.org/wiki/Ouistreham"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:05:48",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2101,
+  "sortie": 1436
+ },
+ "cout_usd": 0.002215,
+ "accroche": "En juin 1944, la plage de Sword Beach englobait la commune de Ouistreham, aujourd’hui associée à Riva-Bella.",
+ "histoire": {
+  "recit": "À Ouistreham, la mer a d’abord attiré les villas, puis les défenses. Après la désarmement des redoutes en 1816, celle d’Ouistreham est vendue à un particulier qui la transforme en maison de maître. La station balnéaire s’organise ensuite : une première villa sort des dunes en 1866, et, en 1912-1913, la société balnéaire de la plage de Riva-Bella voit le jour. \n\nMais en 1942, la zone devient un no man’s land : 123 villas au bord de la mer sont rasées pour laisser place aux défenses du Mur de l’Atlantique, avec une série d’ouvrages en béton et un poste d’observation, le « grand bunker ». \n\nL’histoire religieuse et monumentale accompagne ce paysage : l’église Saint-Samson, à l’embouchure de l’Orne, a conservé un caractère roman dans sa nef du XIIe siècle, tandis que la grange aux dîmes rappelle l’ancienne dépendance de l’abbaye-aux-Dames. Aujourd’hui, le poste de direction de tir de Riva-Bella abrite un musée consacré au Mur de l’Atlantique.",
+  "chronologie": [
+   {
+    "date": "1816",
+    "texte": "Les redoutes sont désarmées ; celle d’Ouistreham est vendue à un particulier, qui la transforme en maison de maître.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Une première villa est construite dans les dunes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1912-1913",
+    "texte": "La société balnéaire de la plage de Riva-Bella est fondée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1942",
+    "texte": "La zone de la plage devient un no man’s land : 123 villas sont rasées ; des défenses du Mur de l’Atlantique sont édifiées, dont un poste d’observation nommé « le grand bunker ».",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Samson d'Ouistreham",
+   "histoire": "Située à Ouistreham, à l’embouchure de l’Orne, l’église Saint-Samson a connu de nombreuses restaurations : sa nef du XIIe siècle conserve un caractère roman, tandis que la tour-clocher et le chœur prennent un style de gothique de transition. Au XVIIIe siècle, des parements masquant des baies du XIIe siècle sont démantelés, et une lanterne sert de signal en 1828 avant l’arrivée du premier phare.",
+   "anecdotes": [
+    {
+     "texte": "En 1828, une grosse lanterne, accrochée au côté nord de la tour, sert de signal jusqu’à la mise en service du premier phare mentionné dans la documentation.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "V. Ruprich-Robert fait démolir le parement de pierres du XVIIIe siècle qui masquait des baies du XIIe siècle encadrées de colonnettes.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 49.27625,
+   "lon": -0.2583,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Samson_d%27Ouistreham"
+  },
+  {
+   "nom": "Grange aux dîmes de Ouistreham",
+   "histoire": "La grange aux dîmes de Ouistreham est un édifice inscrit au titre des monuments historiques. Sa première mention remonte au milieu du XIIIe siècle, comme dépendance de l’abbaye-aux-Dames. L’édifice actuel date de la période XIIIe-XIVe siècle ou de la fin du XVe-XVIe siècle, et il a été reconstruit après l’abandon lié à la guerre de Cent Ans, avec des éléments d’origine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 49.276488,
+   "lon": -0.257997,
+   "url": "https://fr.wikipedia.org/wiki/Grange_aux_d%C3%AEmes_de_Ouistreham"
+  },
+  {
+   "nom": "Phare de Ouistreham",
+   "histoire": "Phare à terre, cylindrique, haut de 38 mètres, fabriqué en granite et peint en rouge et blanc. Il a été accompagné, à la belle saison de 2005, d’un jeu de lumière lors d’un centenaire ; il a aussi été construit à côté d’une usine hydraulique, visible aujourd’hui.",
+   "anecdotes": [
+    {
+     "texte": "En été 2005, un jeu de lumière a été installé sur le phare à l’occasion du centenaire.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Construit à côté de l’usine hydraulique, il reste visible de nos jours.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 49.28,
+   "lon": -0.24778,
+   "url": "https://fr.wikipedia.org/wiki/Phare_de_Ouistreham"
+  },
+  {
+   "nom": "Pointe du Siège",
+   "histoire": "Espace naturel en bord de mer à Ouistreham.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20"
+   ],
+   "lat": 49.27599,
+   "lon": -0.23348,
+   "url": "https://fr.wikipedia.org/wiki/Pointe_du_Si%C3%A8ge"
+  },
+  {
+   "nom": "Poste de direction de tir de Riva-Bella",
+   "histoire": "Élément constitutif du mur de l’Atlantique, situé en arrière de la plage de Riva-Bella à Ouistreham. L’édifice abrite aujourd’hui un musée intitulé « Le Grand Bunker ».",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il abrite aujourd’hui le musée « Le Grand Bunker » sur le thème du mur de l’Atlantique.",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 49.2875,
+   "lon": -0.252316,
+   "url": "https://fr.wikipedia.org/wiki/Poste_de_direction_de_tir_de_Riva-Bella"
+  }
+ ],
+ "sources": [
+  "Ouistreham [wistʁeam] est une commune française située dans le département du Calvados en région Normandie, peuplée de 9 212 habitants. Depuis fin 2014, la municipalité communique désormais avec le nom de Ouistreham Riva-Bella (un changement de nom rejeté par le Conseil d'État). Sword Beach, une des plages du débarquement de juin 1944 englobait la commune de Ouistreham. Cette station balnéaire est au débouché du […]",
+  "Un « camp romain » (du Catillon ou du Castillon) était situé sur la rive gauche de l'Orne près de Bénouville. Il a été nivelé, il n'en reste qu'une petite partie du rempart nord-ouest. En réalité, l'archéologie moderne exclut l'hypothèse qu'il s'agisse d'un camp romain, en tout cas pas du Haut Empire, les archéologues n'ayant jamais mis au jour de camp romain datant de cette période dans le Nord de la Gaule, hormis […]",
+  "1816 : Ces redoutes furent désarmées en 1816, celle de Ouistreham fut vendue à un particulier qui la transforma en maison de maître.",
+  "1866 : En 1866, une première villa est construite dans les dunes.",
+  "1912 : En 1912-1913, est fondée la société balnéaire de la plage de Riva-Bella.",
+  "1930 : Alors que les autres lignes sont fermées les unes après les autres dans les années 1930, la ligne Luc - Ouistreham - Caen est conservée.",
+  "1942 : À partir de 1942 la zone de la plage devient un no man's land ; 123 villas en bordure de la mer sont rasées pour faire place aux défenses du Mur de l'Atlantique : 80 ouvrages en béton et un poste d'observation d'artillerie surplombant la plage « le grand bunker » sont édifiés.",
+  "Lieu « Église Saint-Samson d'Ouistreham » : L'église Saint-Samson est une église catholique située à Ouistreham dans le Calvados, à l'embouchure de l'Orne.",
+  "Lieu « Église Saint-Samson d'Ouistreham », XIIe siècle : Malgré les nombreuses restaurations à toutes les époques, la nef du XIIe siècle a gardé son caractère roman, tandis que la tour-clocher et le chœur construits au début du siècle suivant sont de style gothique de transition.",
+  "Lieu « Église Saint-Samson d'Ouistreham », XVIIIe siècle : V. Ruprich-Robert fait démolir le parement de pierres du XVIIIe siècle qui masquait les baies du XIIe siècle encadrées de colonnettes de la coursière.",
+  "Lieu « Église Saint-Samson d'Ouistreham », 1828 : En 1828, une grosse lanterne installée sur une petite plate-forme accrochée au côté nord de la tour sert de signal jusqu'à la mise en service du premier phare en 1886.",
+  "Lieu « Église Saint-Samson d'Ouistreham », aujourd'hui : L'église est édifiée sur l'emplacement d'une construction en bois, déjà sous la protection de Saint Samson, détruite au cours des incursions normandes.",
+  "Lieu « Grange aux dîmes de Ouistreham » : La grange aux dîmes de Ouistreham est un édifice situé à Ouistreham, dans le département du Calvados, en France et inscrite au titre des monuments historiques.",
+  "Lieu « Grange aux dîmes de Ouistreham », XIIIe siècle : L'édifice actuel est datée du XIIIe siècle-XIVe siècle ou de la fin du XVe siècle-XVIe siècle.",
+  "Lieu « Grange aux dîmes de Ouistreham », XIIIe siècle : La première mention de l'édifice est du milieu du XIIIe siècle comme dépendance de l'abbaye-aux-Dames.",
+  "Lieu « Grange aux dîmes de Ouistreham », XVIe siècle : Abandonné pendant la guerre de Cent Ans, l'édifice est reconstruit aux XVe et au XVIe siècle à l'aide d'éléments d'origine.",
+  "Lieu « Phare de Ouistreham » : Le phare de Ouistreham (ou encore d'Ouistreham) est un phare à terre, cylindrique, mesurant 38 m de haut, fabriqué en granite et peint en rouge et blanc.",
+  "Lieu « Phare de Ouistreham », 2005 : Au cours de l'été 2005, à l'occasion du centenaire, un jeu de lumière a été installé sur le phare.",
+  "Lieu « Phare de Ouistreham », aujourd'hui : Il a été construit à côté de l'usine hydraulique, fonctionnant à l'époque et toujours visible de nos jours.",
+  "Lieu « Pointe du Siège » : La pointe du Siège est un espace naturel situé en bord de mer, à Ouistreham, dans le Calvados.",
+  "Lieu « Pointe du Siège », 1857 : En 1857, le canal de Caen à la mer est inauguré.",
+  "Lieu « Poste de direction de tir de Riva-Bella » : Le poste de direction de tir de Riva-Bella est un élément constitutif du mur de l'Atlantique situé en arrière de la plage de Riva-Bella à Ouistreham, Calvados.",
+  "Lieu « Poste de direction de tir de Riva-Bella », aujourd'hui : Il abrite aujourd'hui un musée, « Le Grand Bunker », sur le thème du mur de l'Atlantique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 3
+ }
+}

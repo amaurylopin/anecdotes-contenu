@@ -1,0 +1,273 @@
+{
+ "commune": {
+  "titre": "Honfleur",
+  "code_insee": "14333",
+  "departement": "14",
+  "population": 6640,
+  "lat": 49.418889,
+  "lon": 0.233056,
+  "url": "https://fr.wikipedia.org/wiki/Honfleur"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:42:18",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2673,
+  "sortie": 2347
+ },
+ "cout_usd": 0.003468,
+ "accroche": "Honfleur a été libérée le 25 août 1944 par l’armée belge (brigade Piron).",
+ "histoire": {
+  "recit": "Sur la rive sud de l’estuaire de la Seine, Honfleur s’est installée comme ville portuaire face au Havre, proche du débouché du pont de Normandie. Son Vieux Bassin attire par ses maisons aux façades recouvertes d’ardoises.\n\nLongtemps, la ville s’organise autour des échanges : au milieu du XIIe siècle, elle sert de port de transit pour les marchandises, notamment entre Rouen et l’Angleterre. Puis viennent les temps de fortification et d’occupation.\n\nAu XXe siècle, Honfleur connaît encore une rupture : elle est libérée en 1944, et ses monuments continuent d’écrire des histoires de pierre, de sièges et de réemplois.\n\nSur le territoire communal, la Ferme Saint-Siméon, le Manoir du Désert, la Prison d’Honfleur ou encore la Lieutenance de Honfleur rappellent que l’histoire locale ne s’arrête pas : bâtiments classés, usages successifs, et traces qui demeurent même quand une gare a disparu.",
+  "chronologie": [
+   {
+    "date": "1027",
+    "texte": "La première mention écrite attestant l’existence de Honfleur émane de Richard III, duc de Normandie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "milieu du XIIe siècle",
+    "texte": "Honfleur représente un important port de transit des marchandises au départ de Rouen vers l’Angleterre.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1419-1450",
+    "texte": "La ville est occupée, et le restera de 1419 à 1450.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "23 janvier 1871",
+    "texte": "Après la guerre franco-allemande de 1870, Honfleur est occupée le 23 janvier 1871 au matin par des troupes prussiennes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "25 août 1944",
+    "texte": "Honfleur est libérée le 25 août 1944 par l’armée belge (brigade Piron).",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ferme Saint-Siméon",
+   "histoire": "La ferme Saint-Siméon, aussi appelée ferme Toutain, est un bâtiment du XVIIe siècle situé sur les hauteurs de Honfleur. En 1593, la terre de Saint-Siméon est occupée par Pierre Mazire et dans le fief de Pierre de la Brière.",
+   "anecdotes": [
+    {
+     "texte": "Au XVIIe siècle, la chapelle associée à la colline disparaît dans un éboulement de terrain ; une autre chapelle est ensuite reconstruite plus haut, la chapelle de Grâce, sur un terrain donné par la duchesse de Montpensier.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est aujourd’hui un hôtel restaurant cinq étoiles de la chaîne des Relais & Châteaux.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 49.424,
+   "lon": 0.2249,
+   "url": "https://fr.wikipedia.org/wiki/Ferme_Saint-Sim%C3%A9on"
+  },
+  {
+   "nom": "Manoir du Désert",
+   "histoire": "Le manoir du Désert est une demeure sur le territoire de Honfleur. Il est bâti après la guerre de Cent Ans, à la fin du XVe et au XVIe siècle, par les navigateurs Jean et Charles Le Danois. Il est classé aux monuments historiques depuis 1928, et en est aujourd’hui la propriété de la ville d’Honfleur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 49.4064,
+   "lon": 0.23667,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_du_D%C3%A9sert"
+  },
+  {
+   "nom": "Prison d'Honfleur",
+   "histoire": "La prison d’Honfleur est un monument construit au XVIe siècle. Elle est utilisée comme prison à partir du XVIIe siècle. À la fin du XIXe siècle, elle devient le musée ethnographique de la ville. Elle est classée aux monuments historiques par arrêté du 28 septembre 1932.",
+   "anecdotes": [
+    {
+     "texte": "À l’extrême fin du XIXe siècle, l’édifice change de rôle et devient le musée ethnographique de la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 49.4196,
+   "lon": 0.2337,
+   "url": "https://fr.wikipedia.org/wiki/Prison_d%27Honfleur"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Honfleur",
+   "histoire": "L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle à Honfleur. En été 1912, un concours pour sa construction est ouvert par la Ville de Honfleur jusqu’au 15 août. Les dessins du bâtiment sont exposés au printemps 1913 au Salon des artistes français.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 49.416725,
+   "lon": 0.230018,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Honfleur"
+  },
+  {
+   "nom": "Lieutenance de Honfleur",
+   "histoire": "La Lieutenance de Honfleur est un ancien bâtiment affecté au logement du lieutenant du roi. Il s’élève à l’emplacement de la Porte de Caen, reconstruite au XVIe siècle, flanquée de deux tours rondes. Le bâtiment est classé au titre des monuments historiques par arrêté du 14 juin 1909. Dernier vestige des fortifications, il conserve encore la trace de sa fonction de logement.",
+   "anecdotes": [
+    {
+     "texte": "Dernier vestige des fortifications, la Lieutenance était le logement du lieutenant du roi.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Dernier vestige des fortifications de Honfleur.",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 49.4211,
+   "lon": 0.23361,
+   "url": "https://fr.wikipedia.org/wiki/Lieutenance_de_Honfleur"
+  },
+  {
+   "nom": "Église Sainte-Catherine de Honfleur",
+   "histoire": "L’église Sainte-Catherine est une église catholique à Honfleur. La première nef, celle de gauche, date de la seconde moitié du XVe siècle, après la guerre de Cent Ans. L’édifice est classé au titre des monuments historiques en 1875. Au début du XXe siècle, un porche « néo-normand » est construit sur le modèle de ceux des églises rurales de Normandie, et il remplace un portail monumental en style néo-classique.",
+   "anecdotes": [
+    {
+     "texte": "Le portail néo-classique remplacé se voit sur certaines toiles de Jongkind ou de Boudin.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 49.4211,
+   "lon": 0.2325,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Catherine_de_Honfleur"
+  },
+  {
+   "nom": "Gare de Honfleur",
+   "histoire": "La gare de Honfleur est une gare ferroviaire française de la ligne de Pont-l’Évêque à Honfleur. Elle est fermée en 1971 et détruite en 1977. Même disparue, son emplacement est situé grâce à d’anciens documents.",
+   "anecdotes": [
+    {
+     "texte": "La gare n’existe plus, mais d’anciens documents permettent de situer exactement son emplacement.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 49.417362,
+   "lon": 0.241028,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Honfleur"
+  },
+  {
+   "nom": "Maisons Satie",
+   "histoire": "Les Maisons Satie sont les maisons natales d’Erik Satie à Honfleur. Inauguré pour la fête de la musique du 21 juin 1998, l’ensemble de trois maisons est transformé en musée Satie grâce aux dons et financement de mécènes. Aujourd’hui, le musée comprend trois maisons de style maison à colombages rouge normand du XVe siècle, labellisé Maisons des Illustres, dont les façades et les toitures sont inscrites aux monuments historiques depuis le 26 octobre 1992.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 49.423442,
+   "lon": 0.230268,
+   "url": "https://fr.wikipedia.org/wiki/Maisons_Satie"
+  }
+ ],
+ "sources": [
+  "Honfleur est une commune française située dans le département du Calvados, en région Normandie. Ville portuaire, elle est située sur la rive sud de l'estuaire de la Seine, en face du Havre, tout près du débouché du pont de Normandie. Elle est peuplée de 6 640 habitants. Honfleur est surtout connue pour son Vieux Bassin, caractérisé par ses maisons aux façades recouvertes d'ardoises, et pour avoir été maintes fois […]",
+  "Selon Guy Le Hallé, la ville portuaire fut une ancienne saline gallo-romaine.[Information douteuse]. La première mention écrite attestant l'existence de Honfleur émane de Richard III, duc de Normandie, en 1027. Il est également avéré qu'au milieu du XIIe siècle, la ville représentait un important port de transit des marchandises au départ de Rouen vers l'Angleterre. Place fortifiée sous Charles V, le noyau de la […]",
+  "1419 : La ville est occupée et le sera à nouveau de 1419 à 1450.",
+  "1870 : La ville jusqu'alors épargné lors de la guerre franco-allemande de 1870, moyennant rançon, est occupé par des troupes prussiennes le 23 janvier 1871 au matin.",
+  "1944 : Honfleur a été libérée le 25 août 1944 par l'armée belge (brigade Piron).",
+  "Lieu « Ferme Saint-Siméon » : La ferme Saint-Siméon ou ferme Toutain est un bâtiment du XVIIe siècle situé sur les hauteurs de Honfleur, en Normandie.",
+  "Lieu « Ferme Saint-Siméon », 1593 : La terre de Saint-Siméon était occupée en 1593 par Pierre Mazire, et dans le fief de Pierre de la Brière.",
+  "Lieu « Ferme Saint-Siméon », XVIIe siècle : La ferme Saint-Siméon ou ferme Toutain est un bâtiment du XVIIe siècle situé sur les hauteurs de Honfleur, en Normandie.",
+  "Lieu « Ferme Saint-Siméon », XVIIe siècle : La chapelle a disparu dans un éboulement de terrain, au XVIIe siècle ; une autre chapelle sera construite pour la remplacer, plus haut sur la colline : la chapelle de Grâce, sur un terrain donné par la duchesse de Montpensier.",
+  "Lieu « Ferme Saint-Siméon », aujourd'hui : C'est aujourd'hui un hôtel restaurant cinq étoiles de la chaîne des Relais & Châteaux.",
+  "Lieu « Manoir du Désert » : Le manoir du Désert est une demeure qui se dresse sur le territoire de la commune française de Honfleur dans le département du Calvados, en région Normandie.",
+  "Lieu « Manoir du Désert », XVIe siècle : Le manoir est bâti après la guerre de Cent Ans, à la fin du XVe et au XVIe siècle par les navigateurs Jean et Charles Le Danois.",
+  "Lieu « Manoir du Désert », 1928 : « Bâtiment représentatif de l'architecture noble du Pays d'Auge », le manoir est classé aux monuments historiques depuis 1928.",
+  "Lieu « Manoir du Désert », aujourd'hui : Le manoir est de nos jours la propriété de la ville d'Honfleur.",
+  "Lieu « Prison d'Honfleur » : La prison est un monument de Honfleur construit au XVIe siècle et utilisé comme telle à partir du XVIIe siècle.",
+  "Lieu « Prison d'Honfleur », XVIe siècle : La prison est un monument de Honfleur construit au XVIe siècle et utilisé comme telle à partir du XVIIe siècle.",
+  "Lieu « Prison d'Honfleur », XIXe siècle : À l'extrême fin du XIXe siècle, l'édifice devient le musée ethnographique de la ville.",
+  "Lieu « Prison d'Honfleur », 1932 : L'édifice est classé aux monuments historiques par un arrêté du 28 septembre 1932.",
+  "Lieu « Hôtel de la Caisse d'épargne de Honfleur » : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Honfleur, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Honfleur », 1912 : En été 1912, un concours pour la construction d'un hôtel de la Caisse d'épargne est ouvert par la Ville de Honfleur jusqu'au 15 août.",
+  "Lieu « Hôtel de la Caisse d'épargne de Honfleur », 1913 : Ses dessins du bâtiment sont, par ailleurs, exposés durant le printemps 1913 au Salon des artistes français.",
+  "Lieu « Hôtel de la Caisse d'épargne de Honfleur », XXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Honfleur, en France.",
+  "Lieu « Lieutenance de Honfleur » : La lieutenance de Honfleur est un ancien bâtiment, affecté au logement du lieutenant du roi, qui se dresse sur le territoire de la commune française de Honfleur, dans le département du Calvados, en région Normandie.",
+  "Lieu « Lieutenance de Honfleur », XVIe siècle : Il a été édifié à l'emplacement de la Porte de Caen, reconstruite au XVIe siècle, flanquée de deux tours rondes.",
+  "Lieu « Lieutenance de Honfleur », 1909 : Le bâtiment dit la Lieutenance est classé au titre des monuments historiques par arrêté du 14 juin 1909.",
+  "Lieu « Lieutenance de Honfleur », aujourd'hui : Dernier vestige des fortifications de Honfleur, le bâtiment était le logement du lieutenant du roi.",
+  "Lieu « Église Sainte-Catherine de Honfleur » : L'église Sainte-Catherine est une église catholique située à Honfleur, en France.",
+  "Lieu « Église Sainte-Catherine de Honfleur », XVe siècle : La première nef (celle de gauche) est la partie la plus ancienne de l'édifice, datant de la seconde moitié du XVe siècle, après la guerre de Cent Ans.",
+  "Lieu « Église Sainte-Catherine de Honfleur », 1875 : L'édifice est classé au titre des monuments historiques en 1875.",
+  "Lieu « Église Sainte-Catherine de Honfleur », XXe siècle : Le porche « néo-normand » a été construit sur le modèle de ceux des églises rurales de Normandie au début du XXe siècle et remplace un portail monumental en style néo-classique construit au siècle précédent et que l'on peut voir représenté sur certaines toiles de Jongkind ou de Boudin.",
+  "Lieu « Gare de Honfleur » : La gare de Honfleur est une gare ferroviaire française, fermée et disparue, de la ligne de Pont-l'Évêque à Honfleur.",
+  "Lieu « Gare de Honfleur », 1971 : Elle est fermée en 1971 et détruite en 1977.",
+  "Lieu « Gare de Honfleur », aujourd'hui : La gare n'existe plus mais d'anciens documents permettent de situer exactement son emplacement.",
+  "Lieu « Maisons Satie » : Les Maisons Satie sont les maisons natales de l'artiste et compositeur de musique classique Erik Satie (1866-1925) à Honfleur dans le Calvados en Normandie.",
+  "Lieu « Maisons Satie », 1998 : Inauguré pour la fête de la musique du 21 juin 1998, l'ensemble des trois maisons est transformé en musée Satie grâce aux dons et financement de mécènes.",
+  "Lieu « Maisons Satie », aujourd'hui : L'ensemble, aujourd'hui musée, est composé de trois maisons de style maison à colombages rouge normand du XVe siècle, labellisé Maisons des Illustres, dont les façades et les toitures sont inscrites aux monuments historiques depuis le 26 octobre 1992."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

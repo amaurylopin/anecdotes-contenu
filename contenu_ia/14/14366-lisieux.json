@@ -1,0 +1,294 @@
+{
+ "commune": {
+  "titre": "Lisieux",
+  "code_insee": "14366",
+  "departement": "14",
+  "population": 19645,
+  "lat": 49.145556,
+  "lon": 0.225556,
+  "url": "https://fr.wikipedia.org/wiki/Lisieux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:12:11",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3971,
+  "sortie": 2052
+ },
+ "cout_usd": 0.003359,
+ "accroche": "Le 2 août 1346, Lisieux est ravagée sur le passage des Anglais lors de la chevauchée d’Édouard III.",
+ "histoire": {
+  "recit": "Lisieux, capitale du pays d’Auge, s’est d’abord organisée autour d’un oppidum gaulois localisé au lieu-dit le Castellier, avant que la ville ne soit déplacée et rebâtie au IVe siècle après des destructions. Plus tard, l’abbaye Notre-Dame-du-Pré naît au faubourg Saint-Désir, puis la cathédrale romane est dédicacée, au point que l’on détruit une partie de l’enceinte romaine et que l’on développe des quartiers au-delà.\n\nLa ville ne connaît pas seulement des chantiers : elle traverse aussi les violences du temps. En 1346, elle subit le passage des Anglais ; en 1562, une émeute des protestants se termine par des exécutions. Malgré ces ruptures, Lisieux continue d’édifier : une Maison-Dieu est fondée, un séminaire voit le jour, et les activités économiques prennent de l’ampleur avec l’essor du textile.\n\nAu XXe siècle, la cité est durement touchée en 1944, puis se reconstruit après 1945. Aujourd’hui, plusieurs lieux rappellent ces strates : sur le site de l’hôpital, des vestiges gallo-romains ; dans la ville, une basilique visitée chaque année ; et, tout près des pas quotidiens, la gare et le centre hospitalier continuent d’écrire le présent.",
+  "chronologie": [
+   {
+    "date": "IVe siècle",
+    "texte": "La cité détruite par des pirates saxons est déplacée et rebâtie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1050",
+    "texte": "L’abbaye bénédictine Notre-Dame-du-Pré est fondée dans le faubourg Saint-Désir.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1055",
+    "texte": "Hugues d’Eu dédicace la cathédrale romane ; une partie de l’enceinte romaine est détruite pour construire et installer de nouveaux quartiers.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1160",
+    "texte": "La Maison-Dieu de Lisieux est fondée vers 1160 par un bourgeois, Roger Aini.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2 août 1346",
+    "texte": "La ville, sur le passage des Anglais lors de la chevauchée d’Édouard III, est ravagée.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "7-16 mai 1562",
+    "texte": "Une émeute des protestants éclate : sept émeutiers sont exécutés.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "3 juillet 1860",
+    "texte": "Orival inaugure son usine textile, par Jean-Lambert Fournet.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "6 et 7 juin 1944",
+    "texte": "Lisieux est bombardée et détruite à 80 %.",
+    "sources": [
+     "S37"
+    ]
+   },
+   {
+    "date": "3 mars 1945",
+    "texte": "La ville est déclarée sinistrée et entame une reconstruction, redonnant une identité.",
+    "sources": [
+     "S38"
+    ]
+   },
+   {
+    "date": "21 juin 2002",
+    "texte": "La Médiathèque André-Malraux est inaugurée.",
+    "sources": [
+     "S28"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Jardin archéologique de l'hôpital de Lisieux",
+   "histoire": "Le jardin archéologique conserve l’histoire d’un quartier où, dès le début du Ier siècle, un habitat tenu s’installe avant que les vestiges gallo-romains soient mis au jour lors de fouilles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 49.1461,
+   "lon": 0.23,
+   "url": "https://fr.wikipedia.org/wiki/Jardin_arch%C3%A9ologique_de_l%27h%C3%B4pital_de_Lisieux"
+  },
+  {
+   "nom": "Basilique Sainte-Thérèse de Lisieux",
+   "histoire": "Pensée dès 1926, avec une inspiration très forte puis une construction commencée en 1929, la basilique est consacrée en 1954 et accueille ensuite un grand public.",
+   "anecdotes": [
+    {
+     "texte": "Le 14 décembre 1927, Thérèse est proclamée Patronne des missions, « quinze jours avant la mort » de Thomas-Paul-Henri Lemonnier ; le projet est alors jugé trop ambitieux, au point de faire craindre un abandon.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, l’édifice accueille plus de 600 000 visiteurs par an.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 49.1396,
+   "lon": 0.2364,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Sainte-Th%C3%A9r%C3%A8se_de_Lisieux"
+  },
+  {
+   "nom": "Médiathèque André-Malraux de Lisieux",
+   "histoire": "La médiathèque est inaugurée le 21 juin 2002. Elle occupe, au centre-ville, une place située sur l’emplacement d’une ancienne voie gallo-romaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 49.14417,
+   "lon": 0.22611,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9diath%C3%A8que_Andr%C3%A9-Malraux_de_Lisieux"
+  },
+  {
+   "nom": "Tour Lambert",
+   "histoire": "La Tour Lambert est un édifice médiéval. La muraille a été partiellement détruite au XIe siècle puis reconstruite au siècle suivant, et un Fort L’Évêque est édifié dans la seconde moitié du XIVe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le vestige inscrit en 1927 est racheté par la ville au début des années 2020, avec des travaux en 2024, même si l’usage n’est pas encore totalement décidé.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il s’agit de l’une des deux tours médiévales qui subsistent dans la ville, le dernier vestige des fortifications étant aussi un fragment de l’enceinte du Bas-Empire romain conservé près de la cathédrale.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 49.1456,
+   "lon": 0.22139,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Lambert"
+  },
+  {
+   "nom": "Musée d'Art et d'Histoire de Lisieux",
+   "histoire": "Le musée d’art et d’histoire de Lisieux est fondé en 1833, dans le cadre d’un mouvement national d’éducation artistique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y voit notamment des tableaux de Gustave Courbet, Francis Picabia et Eugène Boudin.",
+   "sources": [
+    "S36",
+    "S39"
+   ],
+   "lat": 49.14444444,
+   "lon": 0.21944444,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_et_d%27Histoire_de_Lisieux"
+  },
+  {
+   "nom": "Noviomagus Lexoviorum",
+   "histoire": "Noviomagus Lexoviorum est le nom donné à la capitale du peuple des Lexoviens, à l’emplacement de la ville actuelle de Lisieux ; le site atteint son apogée au IIe siècle, avant des incendies au IIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Une première découverte liée au théâtre gallo-romain est réalisée en 1770, mais l’édifice n’est alors pas daté.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41",
+    "S42",
+    "S44"
+   ],
+   "lat": 49.145556,
+   "lon": 0.225556,
+   "url": "https://fr.wikipedia.org/wiki/Noviomagus_Lexoviorum"
+  },
+  {
+   "nom": "Gare de Lisieux",
+   "histoire": "La gare de Lisieux dessert les lignes reliant Mantes-la-Jolie à Cherbourg, ainsi que Lisieux à Trouville - Deauville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45"
+   ],
+   "lat": 49.13819,
+   "lon": 0.231259,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lisieux"
+  },
+  {
+   "nom": "Centre hospitalier de Lisieux",
+   "histoire": "Le centre hospitalier Robert-Bisson est un établissement public de santé à Lisieux ; il conserve, dans son environnement actuel, des traces d’un bâtiment destiné aux pauvres et d’une chapelle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "On y trouve un bâtiment pour les pauvres et une chapelle, délimités par les tronçons des rues Henry-Chéron, du Docteur Degrenne, Pierre Colombe et de la Poissonnerie.",
+   "sources": [
+    "S50",
+    "S54"
+   ],
+   "lat": 49.15,
+   "lon": 0.233333,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_de_Lisieux"
+  }
+ ],
+ "sources": [
+  "Lisieux est une commune française située dans le département du Calvados en région Normandie et peuplée de 19 645 habitants appelés Lexoviens et Lexoviennes. Lisieux est la capitale du pays d'Auge, région caractérisée par ses vallées et son bocage.",
+  "Lisieux est l'ancienne capitale du peuple gaulois, les Lexovii. César mentionne, dans son œuvre Commentaires sur la guerre des Gaules, un oppidum gaulois. Il a été localisé au lieu-dit le Castellier (commune de Saint-Désir), à 3 km au sud-ouest de la ville. Son enceinte fortifiée entourait un espace de 200 hectares, extension importante pour l'époque. À l'arrivée des Romains, ces derniers favorisent l'abandon du […]",
+  "IVe siècle : La cité détruite par les pirates saxons est déplacée et rebâtie au IVe siècle.",
+  "1050 : L'abbaye bénédictine Notre-Dame-du-Pré fut fondée en 1050 dans le faubourg Saint-Désir par la mère de l'évêque Hugues d'Eu, successeur d'Herbert, Lesceline.",
+  "1055 : Hugues d'Eu dédicaça la nouvelle cathédrale romane en 1055 ; une partie de l'enceinte romaine de la ville fut détruite pour permettre l'édification de cette grande cathédrale et de nouveaux quartiers d'habitations furent construits en dehors.",
+  "1160 : La Maison-Dieu de Lisieux fut fondée vers 1160 par un bourgeois, Roger Aini.",
+  "1346 : Le 2 août 1346, au début de la guerre de Cent Ans, la ville sur le passage des Anglais lors de la chevauchée d'Édouard III est ravagée.",
+  "XVe siècle : L'enceinte ne fut pas reconstruite avant le XVe siècle ce qui fut un handicap majeur pour la ville, désarmée face aux attaques.",
+  "1562 : Du 7 au 16 mai 1562 eut lieu une émeute des protestants dans la ville ; sept des émeutiers furent exécutés.",
+  "1653 : En 1653, est bâtie un séminaire Eudiste.",
+  "1798 : La principale église paroissiale, Saint-Germain, située devant le parvis de la cathédrale, est démolie en 1798 et remplacée par une place.",
+  "XIXe siècle : Dans la seconde moitié du XIXe siècle, Lisieux voit l'essor de l'industrie textile, avec la fabrication de draps, de toiles, de frocs fait à partir de laine ou de lin transformés en molleton ou en flanelle.",
+  "1860 : Plusieurs entreprises vont être fondées dans cette période, à l'instar de l'usine textile d'Orival, inaugurée le 3 juillet 1860 par Jean-Lambert Fournet, qui avait également construit une filature de lin en 1841 (connue aujourd'hui sous le nom d'usine Leroy).",
+  "1948 : La reconstruction fut lente au début en raison de manque de moyens humains et techniques, d'une faible sécurité des ouvriers, de la présence de restes d'engins explosifs dans les décombres et d'hivers rigoureux de 1948 à 1950 ; elle s'accéléra à partir de 1950-1952.",
+  "Lieu « Jardin archéologique de l'hôpital de Lisieux » : Le jardin archéologique de l'hôpital est un jardin public situé à proximité de l'hôpital Robert-Bisson, à Lisieux en France, dans le département du Calvados (Normandie).",
+  "Lieu « Jardin archéologique de l'hôpital de Lisieux », Ier siècle : Le site est tout d'abord occupé par un habitat ténu au début du Ier siècle.",
+  "Lieu « Jardin archéologique de l'hôpital de Lisieux », 1978 : Les vestiges gallo-romains exposés ont été dégagés lors des fouilles archéologiques dirigées par Claude Lemaître et effectuées de 1978 à 1985 et comprennent un édifice thermal et un édifice privé ; les archéologues ont pu retracer l'histoire de ce quartier du Ier siècle au IIIe siècle.",
+  "Lieu « Jardin archéologique de l'hôpital de Lisieux », 1978 : Des fouilles sont effectuées à proximité en 1978-1979 pour l'édifice privé et en 1978-1982 pour l'édifice thermal.",
+  "Lieu « Jardin archéologique de l'hôpital de Lisieux », aujourd'hui : Lors de la construction de la chaufferie du nouveau centre hospitalier Robert-Bisson, en février 1967, des vestiges importants de constructions romaines furent découverts de manière fortuite mais non conservés, sauf deux autels et des éléments sculptés dégagés à l'occasion de fouilles d'urgence et de relevés effectués en février-mars.",
+  "Lieu « Basilique Sainte-Thérèse de Lisieux » : La basilique Sainte-Thérèse-de-Lisieux est située à Lisieux, en Normandie.",
+  "Lieu « Basilique Sainte-Thérèse de Lisieux », 1926 : Un avant-projet est soumis dès 1926 par un architecte parisien, Jules Barbier : l'édifice prévu, de style néogothique, qu'on envisage de construire non loin du Carmel de Lisieux, s'inspire très fortement de la basilique de l'Immaculée-Conception de Lourdes.",
+  "Lieu « Basilique Sainte-Thérèse de Lisieux », 1927 : Sainte Thérèse est proclamée Patronne des missions le 14 décembre 1927, quinze jours avant la mort de Thomas-Paul-Henri Lemonnier, mort qui fait penser que le projet, jugé trop ambitieux, pourrait être abandonné.",
+  "Lieu « Basilique Sainte-Thérèse de Lisieux », 1929 : Imposant édifice de style néo-byzantin inspiré de la basilique du Sacré-Cœur de Montmartre, sa construction, sur une hauteur en limite de la ville, a débuté en 1929 et sa consécration a eu lieu en 1954.",
+  "Lieu « Basilique Sainte-Thérèse de Lisieux », aujourd'hui : Aujourd'hui, l'édifice accueille plus de 600 000 visiteurs par an.",
+  "Lieu « Médiathèque André-Malraux de Lisieux » : Inaugurée le 21 juin 2002, la Médiathèque André-Malraux est un établissement culturel situé à Lisieux dans le département du Calvados (Normandie, France).",
+  "Lieu « Médiathèque André-Malraux de Lisieux », 1790 : Cet ensemble hétéroclite reste encore aujourd'hui le seul témoignage consultable des riches collections des bibliothèques religieuses de l'ancien évêché regroupées en 1790, puis pillées, vendues et dispersées entre 1792 et 1808 (Lisieux comptait sept bibliothèques : évêché, chapitre, grand et petit séminaire, Mathurins, Dominicains, Capucins).",
+  "Lieu « Médiathèque André-Malraux de Lisieux », 1837 : La bibliothèque fut ouverte au début de l'année 1837.",
+  "Lieu « Médiathèque André-Malraux de Lisieux », 2002 : Inaugurée le 21 juin 2002, la Médiathèque André-Malraux est un établissement culturel situé à Lisieux dans le département du Calvados (Normandie, France).",
+  "Lieu « Médiathèque André-Malraux de Lisieux », aujourd'hui : Œuvre du cabinet d'architectes Du Besset-Lyon, déjà auteurs des bibliothèques d'Orléans, Rungis, Troyes et du projet de Clermont-Ferrand, ce bâtiment est situé dans le centre-ville, place de la République, sur l'emplacement d'un ancienne voie gallo-romaine.",
+  "Lieu « Tour Lambert » : La tour Lambert est un édifice médiéval situé à Lisieux, dans le département français du Calvados.",
+  "Lieu « Tour Lambert », XIe siècle : La muraille est détruite partiellement au XIe siècle mais reconstruite au siècle suivant.",
+  "Lieu « Tour Lambert », XIVe siècle : Un Fort L’Évêque est édifié dans la seconde moitié du XIVe siècle, « quartier exigu englobant la cathédrale ».",
+  "Lieu « Tour Lambert », 1927 : Le vestige, inscrit au titre des monuments historiques en 1927, est racheté par la ville au début des années 2020 et fait l'objet de travaux en 2024, même si l'utilisation de l'édifice ne semble pas encore totalement décidée.",
+  "Lieu « Tour Lambert », aujourd'hui : C'est une des deux tours médiévales qui subsistent dans la ville, le dernier vestige subsistant d'anciennes fortifications étant un fragment de l'enceinte du Bas-Empire romain conservé à proximité immédiate de la cathédrale.",
+  "Lieu « Musée d'Art et d'Histoire de Lisieux » : Le musée d'art et d'histoire de Lisieux est un musée situé à Lisieux.",
+  "Lieu « Musée d'Art et d'Histoire de Lisieux », 1833 : Fondé en 1833, le musée des beaux-arts de Lisieux correspondait à un mouvement national d'éducation artistique.",
+  "Lieu « Musée d'Art et d'Histoire de Lisieux », 1944 : Bombardée les 6 et 7 juin 1944, la cité lexovienne est détruite à 80 %.",
+  "Lieu « Musée d'Art et d'Histoire de Lisieux », 1945 : Déclarée sinistrée le 3 mars 1945, la ville se reconstruit et se redonne une identité.",
+  "Lieu « Musée d'Art et d'Histoire de Lisieux », aujourd'hui : Des tableaux de Gustave Courbet, Francis Picabia et Eugène Boudin y sont visibles.",
+  "Lieu « Noviomagus Lexoviorum » : Noviomagus Lexoviorum est le nom de la capitale du peuple des Lexoviens, à l'emplacement de la ville actuelle de Lisieux, dans le département français du Calvados.",
+  "Lieu « Noviomagus Lexoviorum », IIe siècle : Construit sur un plan orthogonal, il atteint son apogée au IIe siècle.",
+  "Lieu « Noviomagus Lexoviorum », IIIe siècle : Au IIIe siècle, de violents incendies touchent la localité, peut être en raison d'attaques menées par des pirates saxons.",
+  "Lieu « Noviomagus Lexoviorum », 1770 : La première découverte concernant le théâtre gallo-romain est réalisée en 1770, mais personne ne cherche à dater l'édifice.",
+  "Lieu « Noviomagus Lexoviorum », aujourd'hui : Noviomagus Lexoviorum est le nom de la capitale du peuple des Lexoviens, à l'emplacement de la ville actuelle de Lisieux, dans le département français du Calvados.",
+  "Lieu « Gare de Lisieux » : La gare de Lisieux est une gare ferroviaire française des lignes de Mantes-la-Jolie à Cherbourg et de Lisieux à Trouville - Deauville.",
+  "Lieu « Gare de Lisieux », 1854 : Le 30 décembre 1854, une Société au capital de 9 millions est fondée à Trouville-sur-Mer, pour porter le projet d'une ligne de Lisieux à Honfleur avec un embranchement sur Trouville ; cette ligne est autorisée par le gouvernement le 3 février 1855, et confiée à la Compagnie de Paris à Cherbourg.",
+  "Lieu « Gare de Lisieux », 1855 : Préalablement, elle avait été officiellement inaugurée le 22 mai 1855 lorsque la première locomotive à vapeur arriva de Paris après six heures de trajet, ornée de fleurs et de drapeaux.",
+  "Lieu « Gare de Lisieux », 1855 : Le 29 décembre 1855 la gare devient une gare de passage lors de l'ouverture de la deuxième section de Lisieux à Caen ; il faut attendre le 17 juillet 1858 pour qu'elle desserve Cherbourg.",
+  "Lieu « Gare de Lisieux », aujourd'hui : En août, M. de Planhol, ingénieur de la Compagnie du chemin de fer de Paris à Caen et Cherbourg, arrive à Lisieux pour étudier l'emplacement d'un embarcadère ; en novembre, le Conseil municipal insiste pour qu'il soit construit le plus près possible du centre-ville et que le raccordement des lignes Paris-Cherbourg et Lisieux-Honfleur soit facilité.",
+  "Lieu « Centre hospitalier de Lisieux » : Le centre hospitalier Robert-Bisson est un établissement public de santé situé à Lisieux.",
+  "Lieu « Centre hospitalier de Lisieux », 1160 : La Maison-Dieu de Lisieux fut fondée vers 1160 par un bourgeois, Roger Aini.",
+  "Lieu « Centre hospitalier de Lisieux », 1770 : Toutefois, celle-ci fut ravagée par un incendie en 1770, et en 1783, les malades furent transférés à l'hôpital général.",
+  "Lieu « Centre hospitalier de Lisieux », 1902 : La première pierre du nouvel hôpital pavillonnaire fut posée le 27 juillet 1902 par le ministre de l'Agriculture Léon Mougeot, et il fut inauguré en juillet 1904.",
+  "Lieu « Centre hospitalier de Lisieux », aujourd'hui : On édifia un bâtiment destiné aux pauvres et une chapelle, situés dans un espace délimité aujourd'hui par les tronçons des rues Henry-Chéron, du Docteur Degrenne, Pierre Colombe et de la Poissonnerie."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
