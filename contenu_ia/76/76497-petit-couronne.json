@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Petit-Couronne",
+  "code_insee": "76497",
+  "departement": "76",
+  "population": 8683,
+  "lat": 49.38638889,
+  "lon": 1.02833333,
+  "url": "https://fr.wikipedia.org/wiki/Petit-Couronne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:10:27",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 988,
+  "sortie": 437
+ },
+ "cout_usd": 0.000744,
+ "accroche": "Le samedi 7 novembre 2020, à 14 h, la plus haute cheminée de la Raffinerie de Petit-Couronne (170 m), construite en 1976, a été mise à bas par implosion.",
+ "histoire": {
+  "recit": "À Petit-Couronne, l’histoire se lit aussi dans l’industrie. La seigneurie a appartenu à la famille Haillet, qui prit le nom de Haillet de Couronne. Plus tard, la Raffinerie de Petit-Couronne marque le paysage : ouverte en 1929 sous le nom de Société Maritime des Pétroles et exploitée à l’origine par la compagnie Shell. Bien des décennies après, le site change de visage quand, le 7 novembre 2020 à 14 h, la plus haute cheminée est implosée, après sa construction en 1976.",
+  "chronologie": [
+   {
+    "date": "1929",
+    "texte": "La raffinerie ouvre sous le nom de Société Maritime des Pétroles, exploitée à l’origine par la compagnie Shell.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1976",
+    "texte": "La plus haute cheminée de la raffinerie est construite.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "7 novembre 2020 (14 h)",
+    "texte": "Implosion de la plus haute cheminée de la Raffinerie de Petit-Couronne, haute de 170 m.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Raffinerie de Petit-Couronne",
+   "histoire": "Ancienne raffinerie de pétrole à Petit-Couronne, la Raffinerie de Petit-Couronne ouvre en 1929 sous le nom de Société Maritime des Pétroles, exploitée à l’origine par Shell. Sa cheminée la plus haute, construite en 1976 et culminant à 170 m, est ensuite implosée le samedi 7 novembre 2020 à 14 h.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 49.376675,
+   "lon": 1.016415,
+   "url": "https://fr.wikipedia.org/wiki/Raffinerie_de_Petit-Couronne"
+  }
+ ],
+ "sources": [
+  "Petit-Couronne est une commune française située dans le département de la Seine-Maritime en région Normandie.",
+  "La seigneurie a appartenu à la famille Haillet qui prit le nom de Haillet de Couronne.",
+  "Lieu « Raffinerie de Petit-Couronne » : La raffinerie de Petit-Couronne est une ancienne raffinerie de pétrole située à Petit-Couronne, en Seine-Maritime (France).",
+  "Lieu « Raffinerie de Petit-Couronne », 1929 : Ouverte en 1929 sous le nom de Société Maritime des Pétroles, la raffinerie est à l'origine exploitée par la compagnie Shell.",
+  "Lieu « Raffinerie de Petit-Couronne », 2020 : Le samedi 7 novembre 2020 à 14 h est provoquée l'implosion de la plus haute cheminée de la raffinerie (170 m de hauteur), construite en 1976."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,268 @@
+{
+ "commune": {
+  "titre": "Montivilliers",
+  "code_insee": "76447",
+  "departement": "76",
+  "population": 15478,
+  "lat": 49.54694444,
+  "lon": 0.18888889,
+  "url": "https://fr.wikipedia.org/wiki/Montivilliers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:25:31",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3214,
+  "sortie": 2234
+ },
+ "cout_usd": 0.003435,
+ "accroche": "En 1415, une chaussée romaine allant d’Harfleur à Montivilliers est attestée, avant d’être détruite la même année par les Anglais.",
+ "histoire": {
+  "recit": "Montivilliers, prononcée [mɔ̃tivije] ou [mɔ̃tivilje], se situe en Seine-Maritime, et figure parmi les communes les plus peuplées de Le Havre Seine Métropole. Sous la surface, les découvertes archéologiques évoquent d’abord des traces très anciennes : des vies paléolithiques, puis des habitats néolithiques repérés sur le plateau du Grand Epaville. Plus tard, l’axe d’Harfleur à Montivilliers garde une part de son histoire avec une chaussée romaine détruite en 1415. \n\nLe cœur du récit bascule autour de l’abbaye de Montivilliers : fondée entre 682 et 684, elle sera détruite par les Vikings, puis reprise sous dépendance de l’abbaye de Fécamp. Abandonnée par les religieuses en 1792, elle connaît ensuite de multiples usages révolutionnaires. Vendant ses bâtiments en 1811, la commune les voit tourner aux activités industrielles au XIXe siècle. \n\nÀ côté de l’abbaye, l’Aître de Brisgaret, lui aussi lié à l’histoire religieuse du lieu, conserve un caractère médiéval rare. Enfin, la période moderne ajoute ses propres ruptures : destructions durant la Seconde Guerre mondiale, puis réaménagements qui font aujourd’hui cohabiter vestiges et nouveaux usages.",
+  "chronologie": [
+   {
+    "date": "682-684",
+    "texte": "L’abbaye de Montivilliers est fondée entre 682 et 684 par saint Philibert.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "Le monastère est complètement détruit par les Vikings au IXe siècle.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Le monastère est détruit par les Vikings et ne se relève qu’au début du XIe siècle, avec des hommes placés sous la dépendance de l’abbaye de Fécamp.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1415",
+    "texte": "Une chaussée romaine allant d’Harfleur à Montivilliers est attestée : elle est détruite par les Anglais en 1415.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1792",
+    "texte": "L’abbaye est abandonnée par les religieuses en 1792 ; pendant la période révolutionnaire, elle est occupée de diverses manières. Sous la Révolution, la commune porta le nom de Brutus-Villiers.",
+    "sources": [
+     "S6",
+     "S21"
+    ]
+   },
+   {
+    "date": "1811",
+    "texte": "Les bâtiments de l’abbaye sont vendus en 1811, puis utilisés tout au long du XIXe siècle à des fins industrielles.",
+    "sources": [
+     "S7",
+     "S22"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Des recherches archéologiques dans les années 1970 révèlent des traces de vie datant du Paléolithique et des indices pour l’époque néolithique.",
+    "sources": [
+     "S2",
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Aître de Brisgaret",
+   "histoire": "L’Aître de Brisgaret est présenté comme un exemple rare d’aître médiévale en France ayant conservé sa vocation d’origine. Autour du monastère fondé par saint Philibert en 684, une cité se développe à partir du XIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Une seule galerie complète est aujourd’hui visible, pour des raisons inconnues.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "L’aître de Brisgaret est donné comme un exemple rare d’aître médiévale conservant sa vocation d’origine.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une seule galerie complète est aujourd’hui visible.",
+   "sources": [
+    "S13",
+    "S9"
+   ],
+   "lat": 49.5488,
+   "lon": 0.1964,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%AEtre_de_Brisgaret"
+  },
+  {
+   "nom": "Château du Grand Colmoulins",
+   "histoire": "Le château du Grand Colmoulins date du XVIIIe siècle. Construit entre 1782 et 1786 par l’architecte Pierre-Adrien Pâris, il est endommagé pendant la Seconde Guerre mondiale, puis tombe en ruines avant d’être rasé en 1984.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une grange et les terrains du domaine sont actuellement entretenus par le Département de la Seine-Maritime afin de protéger la biodiversité des lieux.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 49.521666666667,
+   "lon": 0.20027777777778,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Grand_Colmoulins"
+  },
+  {
+   "nom": "Abbaye de Montivilliers",
+   "histoire": "Ancien monastère bénédictin de femmes, fondé entre 682 et 684 par saint Philibert, l’abbaye est citée dès 833. Les Vikings détruisent le monastère ; plus tard, elle est abandonnée par les religieuses en 1792 et subit alors des occupations diverses. Elle est ensuite vendue en 1811 et ses bâtiments servent à des usages industriels au XIXe siècle. Au fil des transformations, seule la tour nord subsiste.",
+   "anecdotes": [
+    {
+     "texte": "L’abbaye devait comporter initialement deux tours, mais seule celle du nord a subsisté.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une seule tour subsiste : celle du nord.",
+   "sources": [
+    "S23"
+   ],
+   "lat": 49.545,
+   "lon": 0.192778,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Montivilliers"
+  },
+  {
+   "nom": "Château des Ardennes",
+   "histoire": "Le château des Ardennes est un château normand de l’époque moderne, situé sur le plateau d’Eprémesnil près de Montivilliers. Il est détruit pendant la Seconde Guerre mondiale lors des bombardements du 10 septembre 1944, et son emplacement correspond aujourd’hui à l’arboretum du parc de Rouelles à Montivilliers.",
+   "anecdotes": [
+    {
+     "texte": "En 1868, le peintre Claude Monet fait le portrait de cette dame, possiblement dans cette bâtisse.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’emplacement actuel du château est l’arboretum du parc de Rouelles à Montivilliers.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 49.52903,
+   "lon": 0.17948,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Ardennes"
+  },
+  {
+   "nom": "Centre commercial La Lézarde",
+   "histoire": "Le centre commercial La Lézarde se trouve sur le territoire de Montivilliers. Lors de son ouverture, le 16 mai 1978, il comprend notamment un hypermarché Mammouth et un magasin de bricolage Leroy Merlin. Plus tard, une partie du toit de l’ancien Leroy Merlin s’effondre le 4 octobre 2016. Le site s’agrandit ensuite et ouvre de nouveaux commerces.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le 16 mai 2018, le centre commercial s’agrandit et s’ouvre avec 28 nouveaux commerces ; il compte aujourd’hui 80 boutiques et restaurants.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 49.526462,
+   "lon": 0.189943,
+   "url": "https://fr.wikipedia.org/wiki/Centre_commercial_La_L%C3%A9zarde"
+  },
+  {
+   "nom": "Gare de Montivilliers",
+   "histoire": "La gare de Montivilliers est une ancienne gare ferroviaire sur la ligne du Havre-Graville à Tourville-les-Ifs. Le bâtiment voyageurs mis en service en 1878 est remis en état en 2010 et réaffecté en point d’information tourisme. En 1896, elle devient une gare de passage avec l’ouverture de la ligne de Montivilliers aux Ifs.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment voyageurs est réaffecté en point d’information tourisme par la municipalité.",
+   "sources": [
+    "S33"
+   ],
+   "lat": 49.542987,
+   "lon": 0.189471,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Montivilliers"
+  },
+  {
+   "nom": "Château de la Payennière",
+   "histoire": "Le château de la Payennière est une ancienne demeure normande de l’époque moderne située entre Épouville et Montivilliers, sur les hauteurs de la rive gauche de la Lézarde. Tombe en ruines après la Seconde Guerre mondiale, il est rasé en 1978 : les derniers vestiges de la bâtisse sont détruits cette année-là.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 49.553333333333,
+   "lon": 0.21166666666667,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Payenni%C3%A8re"
+  },
+  {
+   "nom": "Maison de convalescence Kerdyk",
+   "histoire": "La maison de convalescence Kerdyk est une annexe des hospices civils du Havre, aménagée à Montivilliers à la fin du XIXe siècle et au début du XXe siècle, puis détruite pendant la Seconde Guerre mondiale. Après la guerre, le terrain change d’usage : il accueille une maison de retraite, remplacée ensuite par un hypermarché.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le terrain est occupé par un hypermarché encore présent actuellement, au 68 avenue du président Wilson.",
+   "sources": [
+    "S40"
+   ],
+   "lat": 49.53966,
+   "lon": 0.17835,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_convalescence_Kerdyk"
+  }
+ ],
+ "sources": [
+  "Montivilliers (prononcé [mɔ̃tivije] ou [mɔ̃tivilje]) est une commune française située dans le département de la Seine-Maritime en région Normandie. La commune est la deuxième de la communauté urbaine dénommée Le Havre Seine Métropole par le nombre d’habitants, après Le Havre.",
+  "Des recherches archéologiques ont été effectuées dans les années 1970 et ont révélé des traces de vie datant du Paléolithique avec l'existence de tribus qui se sont installées dans la région très probablement attirées par les nombreux ruisseaux et l'abondance de gibiers présents à cette époque. Des traces de vie Néolithique sont également à signaler avec la découverte d'habitats sur le plateau du Grand Epaville […]",
+  "XIe siècle : Ce monastère sera complètement détruit par les Vikings et ne se relèvera qu’au début du XIe siècle, cette fois avec des hommes, placés sous la dépendance de l’abbaye de Fécamp.",
+  "1415 : Une chaussée romaine allant d'Harfleur à Montivilliers a été attestée, elle fut détruite par les Anglais en 1415.",
+  "1679 : Un temple sera aménagé dans un bâtiment de la cour du manoir détruit en 1679 sur ordre du parlement de Paris.",
+  "1792 : L’abbaye est abandonnée par les religieuses en 1792 ; pendant la période révolutionnaire, elle est occupée de diverses manières : bureaux, prison, garnison, magasins, écuries, etc. Sous la Révolution, la commune porta le nom de Brutus-Villiers.",
+  "1811 : Les bâtiments de l’abbaye sont vendus en 1811, ils sont utilisés tout au long du XIXe siècle à des fins industrielles (filature de coton puis raffinerie de sucre et enfin brasserie en 1857) et convertis par la suite en entrepôts, garages et locaux d’habitation.",
+  "1970 : Des recherches archéologiques ont été effectuées dans les années 1970 et ont révélé des traces de vie datant du Paléolithique avec l'existence de tribus qui se sont installées dans la région très probablement attirées par les nombreux ruisseaux et l'abondance de gibiers présents à cette époque.",
+  "Lieu « Aître de Brisgaret » : L'aître de Brisgaret de Montivilliers est un exemple rare d'aître médiévale en France ayant conservé sa vocation d'origine.",
+  "Lieu « Aître de Brisgaret », 684 : Autour du monastère fondé par Saint Philibert en 684 va naître à partir du XIIe siècle une cité florissante.",
+  "Lieu « Aître de Brisgaret », 1526 : C’est également à cette époque que l’aître Saint-Maclou de Rouen est établi, ses quatre galeries étant édifiées pour former un cloître entre 1526 et 1651.",
+  "Lieu « Aître de Brisgaret », 1890 : En 1890 des travaux de restauration du mur de la galerie sont menés et conduisent à l’édification de contreforts afin d’assurer le maintien de la maçonnerie.",
+  "Lieu « Aître de Brisgaret », aujourd'hui : Pour des raisons inconnues une seule galerie complète est aujourd'hui visible.",
+  "Lieu « Château du Grand Colmoulins » : Le château du Grand Colmoulins date du XVIIIe siècle, il est situé entre les villes d'Harfleur et de Montivilliers, en Normandie, endommagé pendant la Seconde Guerre mondiale, et tombé en ruines puis rasé en 1984.",
+  "Lieu « Château du Grand Colmoulins », 1782 : Le château du Grand Colmoulins fut construit entre 1782 et 1786 par l'architecte Pierre-Adrien Pâris.",
+  "Lieu « Château du Grand Colmoulins », 1984 : Le château du Grand Colmoulins date du XVIIIe siècle, il est situé entre les villes d'Harfleur et de Montivilliers, en Normandie, endommagé pendant la Seconde Guerre mondiale, et tombé en ruines puis rasé en 1984.",
+  "Lieu « Château du Grand Colmoulins », 1984 : Réduit à l'état de ruines, le château fut démoli en 1984 avec d'autres bâtiments à l'abandon.",
+  "Lieu « Château du Grand Colmoulins », aujourd'hui : Une grange et les terrains du domaine sont actuellement entretenus par le Département de la Seine-Maritime afin de protéger la biodiversité des lieux.",
+  "Lieu « Abbaye de Montivilliers » : L'abbaye de Montivilliers est un ancien monastère bénédictin de femmes, fondé entre 682 et 684 par saint Philibert, qui se dresse sur le territoire de la commune française de Montivilliers dans le département de la Seine-Maritime, en Normandie.",
+  "Lieu « Abbaye de Montivilliers », 833 : Cité en 833, le monastère sera complètement détruit par les Vikings au IXe siècle.",
+  "Lieu « Abbaye de Montivilliers », 1792 : Abandonnée par les religieuses en 1792, l’abbaye subit pendant la période révolutionnaire une intense et multiforme occupation (bureaux, prison, garnison, magasins, écuries, etc.).",
+  "Lieu « Abbaye de Montivilliers », 1811 : Avant et après leur vente en 1811, les bâtiments ont été utilisés tout au long du XIXe siècle à des fins industrielles (filature de coton puis raffinerie de sucre et enfin brasserie en 1857) et convertis par la suite en entrepôts, garages et locaux d’habitation[réf. nécessaire].",
+  "Lieu « Abbaye de Montivilliers », aujourd'hui : Elle devait comporter initialement deux tours, comme les églises de Jumièges ou de Boscherville, mais seule celle du nord a subsisté.",
+  "Lieu « Château des Ardennes » : Le château des Ardennes, situé sur le plateau d'Eprémesnil près de Montivilliers, dans l'actuel arboretum du parc de Rouelles, est un château normand de l'époque moderne détruit pendant la Seconde Guerre mondiale.",
+  "Lieu « Château des Ardennes », 1868 : Le peintre Claude Monet fait le portrait de cette dame en 1868, peut-être dans cette bâtisse.",
+  "Lieu « Château des Ardennes », 1944 : Lors des bombardements du 10 septembre 1944, le château des Ardennes est complètement détruit.",
+  "Lieu « Château des Ardennes », aujourd'hui : L'emplacement actuel du château est l'arboretum du parc de Rouelles à Montivilliers.",
+  "Lieu « Centre commercial La Lézarde » : Le centre commercial régional Centre Commercial La Lézarde (anciennement Centre Commercial Grand Havre) est situé sur le territoire de la commune de Montivilliers (Seine-Maritime).",
+  "Lieu « Centre commercial La Lézarde », 1978 : Lors de son ouverture, le 16 mai 1978, il comprenait l'un des plus gros hypermarchés Mammouth et même un magasin de bricolage Leroy Merlin.",
+  "Lieu « Centre commercial La Lézarde », 2016 : Une surface de 300 m² de toiture de l'ancien Leroy Merlin s’est effondrée le 4 octobre 2016 à 10 h 30.",
+  "Lieu « Centre commercial La Lézarde », aujourd'hui : Le 16 mai 2018, le centre commercial s'agrandit et ouvre 28 nouveaux commerces et se compose aujourd'hui de 80 boutiques et restaurants avec un grand parking gratuit en remplaçant de l'ancien magasin Leroy Merlin.",
+  "Lieu « Gare de Montivilliers » : La gare de Montivilliers est une ancienne gare ferroviaire française de la ligne du Havre-Graville à Tourville-les-Ifs, située sur le territoire de la commune de Montivilliers, dans le département de la Seine-Maritime, en région Normandie.",
+  "Lieu « Gare de Montivilliers », 1878 : L'ancien bâtiment voyageurs, qui avait été mis en service en 1878, est remis en état en 2010 et réaffecté en « point d'information tourisme » par la municipalité.",
+  "Lieu « Gare de Montivilliers », 1896 : Elle devient une gare de passage en 1896, lors de l'ouverture de la ligne de Montivilliers aux Ifs, qui permet des relations avec les gares d'Étretat, de Fécamp et de Dieppe.",
+  "Lieu « Château de la Payennière » : Le château de la Payennière est une ancienne demeure normande de l'époque moderne située entre les communes d'Épouville et de Montivilliers, sur les hauteurs de la rive gauche de la Lézarde, tombée en ruines après la Seconde Guerre Mondiale et rasée",
+  "Lieu « Château de la Payennière », 1978 : Le château de la Payennière est une ancienne demeure normande de l'époque moderne située entre les communes d'Épouville et de Montivilliers, sur les hauteurs de la rive gauche de la Lézarde, tombée en ruines après la Seconde Guerre Mondiale et rasée en 1978.",
+  "Lieu « Château de la Payennière », 1978 : En 1978, les derniers vestiges de la bâtisse furent finalement détruits.",
+  "Lieu « Maison de convalescence Kerdyk » : La maison de convalescence Kerdyk est une annexe des hospices civils du Havre, aménagée à Montivilliers, en France, à la fin du XIXe siècle et au début du XXe siècle, puis détruite pendant la Seconde Guerre mondiale.",
+  "Lieu « Maison de convalescence Kerdyk », XIXe siècle : La maison de convalescence Kerdyk est une annexe des hospices civils du Havre, aménagée à Montivilliers, en France, à la fin du XIXe siècle et au début du XXe siècle, puis détruite pendant la Seconde Guerre mondiale.",
+  "Lieu « Maison de convalescence Kerdyk », aujourd'hui : Après guerre, le terrain est occupé par la maison de retraite Dr Chevallier, qui est remplacée par un hypermarché encore présent actuellement, au 68 avenue du président Wilson."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "commune": {
+  "titre": "Saint-Aubin-lès-Elbeuf",
+  "code_insee": "76561",
+  "departement": "76",
+  "population": 8443,
+  "lat": 49.30083333,
+  "lon": 1.01194444,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Aubin-l%C3%A8s-Elbeuf"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:47",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1123,
+  "sortie": 602
+ },
+ "cout_usd": 0.000977,
+ "accroche": "À la charnière des années 1860, la Compagnie des chemins de fer de l’Ouest décide d’installer la station sur la rive gauche, près de Saint-Aubin-lès-Elbeuf, pour passer par ou près Elbeuf.",
+ "histoire": {
+  "recit": "Saint-Aubin-lès-Elbeuf, commune de Seine-Maritime en Normandie, s’est trouvée prise dans des histoires de passages et de verrouillages.\n\nDans la seconde partie de la guerre de Cent Ans, l’île de la Bastille abrite une petite fortification anglaise. En septembre 1914, un commando allemand chargé de faire sauter le pont d’Oissel y est fait prisonnier.\n\nPlus près du quotidien, le pont Jean-Jaurès relie les rives. Au début des années 1860, le tracé du chemin de fer de Sequigny à Rouen doit passer par ou près Elbeuf : la Compagnie des chemins de fer de l’Ouest estime qu’il est plus raisonnable d’édifier la station sur la rive gauche plutôt qu’à proximité du centre-ville sur la rive droite. Pour faciliter les échanges entre Elbeuf et la gare établie sur la rive gauche, un premier pont métallique, dû à cette compagnie, est ouvert en 1864, puis détruit en 1940. L’ouvrage actuel est, lui, ouvert en 1964.",
+  "chronologie": [
+   {
+    "date": "septembre 1914",
+    "texte": "Un commando allemand chargé de faire sauter le pont d’Oissel est fait prisonnier sur l’île de la Bastille.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "début des années 1860",
+    "texte": "La Compagnie des chemins de fer de l’Ouest prévoit de placer la station sur la rive gauche de la Seine, près d’Elbeuf, plutôt que sur la rive droite.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1864",
+    "texte": "Ouverture du premier pont métallique entre Elbeuf et la gare sur la rive gauche.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "Le premier pont métallique est détruit.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1964",
+    "texte": "Ouverture du pont Jean-Jaurès actuel sur l’emplacement de l’ancien ouvrage.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont Jean-Jaurès",
+   "histoire": "Pont routier à poutres franchissant la Seine entre Elbeuf et Saint-Aubin-lès-Elbeuf. Le premier pont métallique lié aux échanges vers la gare de la rive gauche est ouvert en 1864 et détruit en 1940 ; l’actuel pont est ouvert en 1964.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "lat": 49.293675,
+   "lon": 1.010428,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Jean-Jaur%C3%A8s"
+  }
+ ],
+ "sources": [
+  "Saint-Aubin-lès-Elbeuf est une commune française située dans le département de la Seine-Maritime en région Normandie.",
+  "Pendant seconde partie de la guerre de Cent Ans, l’île de la Bastille abritait une petite fortification anglaise. En septembre 1914, un commando allemand chargé de faire sauter le pont d'Oissel, y fut fait prisonnier.",
+  "Lieu « Pont Jean-Jaurès » : Le pont Jean-Jaurès est un pont routier à poutres permettant le franchissement de la Seine entre Elbeuf et Saint-Aubin-lès-Elbeuf dans le département de la Seine-Maritime en Normandie.",
+  "Lieu « Pont Jean-Jaurès », 1860 : Au début des années 1860, le tracé de la ligne du chemin de fer de Sequigny à Rouen doit passer par ou près Elbeuf ; la Compagnie des chemins de fer de l'Ouest estime qu'il est plus raisonnable financièrement et techniquement d'édifier la station sur la rive gauche de la Seine plutôt qu'à proximité du centre-ville sur la rive droite.",
+  "Lieu « Pont Jean-Jaurès », 1864 : Un premier pont métallique, dû à la Compagnie des chemins de fer de l'Ouest pour faciliter les échanges entre Elbeuf et sa gare édifiée sur la rive gauche, est ouvert en 1864 et détruit en 1940.",
+  "Lieu « Pont Jean-Jaurès », 1964 : L'actuel pont, construit sur l'emplacement de l'ancien ouvrage, est ouvert en 1964."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

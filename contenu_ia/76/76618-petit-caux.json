@@ -1,0 +1,102 @@
+{
+ "commune": {
+  "titre": "Saint-Martin-en-Campagne",
+  "code_insee": "76618",
+  "departement": "76",
+  "population": 9513,
+  "lat": 49.95777778,
+  "lon": 1.2225,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Martin-en-Campagne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:02:36",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1069,
+  "sortie": 845
+ },
+ "cout_usd": 0.00127,
+ "accroche": "Le 1er janvier 2016, Saint-Martin-en-Campagne devient commune déléguée de la commune nouvelle du Petit-Caux, formée par la fusion de 18 communes.",
+ "histoire": {
+  "recit": "Autrefois, Saint-Martin-en-Campagne a rejoint un destin plus vaste. Vers 636, Dagobert Ier fait don du village à l’abbaye de Saint-Denis. Bien plus tard, le 24 juillet 1940, le Meknès, paquebot de rapatriement, est torpillé par une vedette allemande : sur 1 300 hommes à bord, 420 périssent, et certains sont inhumés localement. Le siècle suivant la guerre, un monument commémoratif est édifié en 1946, puis rénové en 2017, afin de rappeler cette bataille.\n\nAujourd’hui, la commune s’inscrit dans l’ensemble du Petit-Caux : depuis le 1er janvier 2016, Saint-Martin-en-Campagne fait partie des communes déléguées de la commune nouvelle du Petit-Caux.",
+  "chronologie": [
+   {
+    "date": "vers 636",
+    "texte": "Dagobert Ier fait don du village à l’abbaye de Saint-Denis.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "24 juillet 1940",
+    "texte": "Le Meknès est torpillé par une vedette allemande ; 420 hommes périssent, et certains sont inhumés localement.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1946",
+    "texte": "Un monument commémoratif est édifié pour rappeler la bataille.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2017",
+    "texte": "Le monument commémoratif est rénové.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "Saint-Martin-en-Campagne devient commune déléguée de la commune nouvelle du Petit-Caux, issue de la fusion de 18 communes.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Petit-Caux",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "Pour le naufrage du Meknès, certaines victimes auraient été inhumées localement.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le monument commémoratif, édifié en 1946 et rénové en 2017, rappelle la bataille.",
+   "sources": [
+    "S4"
+   ],
+   "lat": 49.9577777778,
+   "lon": 1.2225,
+   "url": "https://fr.wikipedia.org/wiki/Petit-Caux"
+  }
+ ],
+ "sources": [
+  "Saint-Martin-en-Campagne est une ancienne commune française, située dans le département de la Seine-Maritime en région Normandie. Dans le cadre de la fusion, au 1er janvier 2016, des 18 communes qui constituaient la communauté de communes du Petit Caux pour former la commune nouvelle du Petit-Caux, Saint-Martin-en-Campagne devient à cette date une de ses communes déléguées.",
+  "Vers 636, Dagobert Ier, roi de Neustrie fait don du village à l'abbaye de Saint-Denis. Le 24 juillet 1940, le Meknès, paquebot rapatriant des militaires français, est torpillé par une vedette allemande. Sur les 1 300 hommes à bord, 420 périssent. Certains sont inhumés localement. Le circuit de Dieppe sur lequel se sont courus quatre grands prix de l'Automobile Club de France (ACF) passait par […]",
+  "Lieu « Petit-Caux » : Petit-Caux est une nouvelle commune française située dans le département de la Seine-Maritime en région Normandie.",
+  "Lieu « Petit-Caux », 1946 : Un monument commémoratif édifié en 1946, grâce à une souscription lancée par les habitants de Penly et rénové en 2017 rappelle cette bataille."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

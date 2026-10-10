@@ -1,0 +1,66 @@
+{
+ "commune": {
+  "titre": "Grand-Couronne",
+  "code_insee": "76319",
+  "departement": "76",
+  "population": 9768,
+  "lat": 49.35833333,
+  "lon": 1.00805556,
+  "url": "https://fr.wikipedia.org/wiki/Grand-Couronne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:59:47",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 946,
+  "sortie": 379
+ },
+ "cout_usd": 0.000663,
+ "accroche": "Après la guerre, Grand-Couronne connaît une importante croissance démographique grâce à la construction de nouveaux quartiers, dont le parc Diderot, construit à la fin des années 1970.",
+ "histoire": {
+  "recit": "Avant d’être une ville en expansion, Grand-Couronne montre, dans le bois de Milthuit, des indices d’un très ancien peuplement : un menhir y est signalé, ainsi que de nombreuses découvertes de matériel lithique aux XIXe et XXe siècles, qui attestent une présence néolithique. On y mentionne aussi un fragment de gaine de hache en bois de cervidé, portant des lignes doubles de pointillés en croix, d’influence maglemosienne.\n\nPlus tard, le sous-sol livre encore d’autres témoins : des sarcophages mérovingiens ont été découverts.\n\nEnfin, après la guerre, la commune change de visage avec une croissance démographique importante, portée par la construction de nouveaux quartiers, dont le parc Diderot, construit à la fin des années 1970.",
+  "chronologie": [
+   {
+    "date": "XIXe et XXe siècles",
+    "texte": "Des découvertes de matériel lithique dans le bois de Milthuit attestent une présence néolithique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Après la guerre",
+    "texte": "Grand-Couronne connaît une importante croissance démographique grâce à la construction de nouveaux quartiers.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Fin des années 1970",
+    "texte": "Le parc Diderot est construit.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Grand-Couronne est une commune française située dans le département de la Seine-Maritime en région Normandie.",
+  "Un menhir dans le bois de Milthuit ainsi que de nombreuses découvertes de matériel lithique aux XIXe et XXe siècles attestent de la présence d'une population néolithique, en particulier la découverte d'un fragment de gaine de hache en bois de cervidé, présentant des lignes doubles de pointillés, en croix, d'influence maglemosienne (mésolithique nord européen). Des sarcophages mérovingiens ont été découverts sous la […]",
+  "1970 : Après la guerre, la ville connait une importante croissance démographique, grâce à la construction de nouveaux quartiers, dont le parc Diderot construit à la fin des années 1970."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

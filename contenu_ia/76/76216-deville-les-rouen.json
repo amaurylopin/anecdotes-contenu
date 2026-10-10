@@ -1,0 +1,118 @@
+{
+ "commune": {
+  "titre": "Déville-lès-Rouen",
+  "code_insee": "76216",
+  "departement": "76",
+  "population": 10802,
+  "lat": 49.47055556,
+  "lon": 1.05055556,
+  "url": "https://fr.wikipedia.org/wiki/D%C3%A9ville-l%C3%A8s-Rouen"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:50:48",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1095,
+  "sortie": 765
+ },
+ "cout_usd": 0.001175,
+ "accroche": "À Déville-lès-Rouen, les archevêques de Rouen avaient un manoir dès le VIIIe siècle, habité au XIIIe siècle par Eudes Rigaud.",
+ "histoire": {
+  "recit": "Déville-lès-Rouen, dite localement « Déville », est une commune de Seine-Maritime en Normandie. Son histoire a été écrite par l’historien rouennais Robert Eude, qui a aussi dessiné le blason ; une petite rue porte son nom aujourd’hui.\n\nLongtemps, le destin du lieu s’est joué autour d’un manoir tenu par les archevêques de Rouen dès le VIIIe siècle. Eudes Rigaud l’habite au XIIIe siècle, puis Georges d’Amboise l’embellit en 1500/1501. Le manoir est ensuite abandonné au profit du château de Gaillon.\n\nPlus tard, l’économie de Déville prend un autre tournant : une entreprise, devenue la société Laveissière en 1825, puis plusieurs acteurs successifs jusqu’à Vallourec dès 1968, s’étend progressivement jusqu’à occuper 13 hectares. Au plus fort de son activité, elle emploie jusqu’à 1 200 salariés ; elle ferme en 2021 et devient une friche industrielle.",
+  "chronologie": [
+   {
+    "date": "VIIIe siècle",
+    "texte": "Les archevêques de Rouen ont un manoir à Déville-lès-Rouen.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le manoir est habité par Eudes Rigaud.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1500/1501",
+    "texte": "Georges d’Amboise embelli le manoir.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "Peu après 1500/1501",
+    "texte": "Le manoir est abandonné au profit du château de Gaillon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1825",
+    "texte": "L’entreprise devient la société Laveissière.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "La Compagnie française des métaux apparaît dans la suite de l’entreprise.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "La Compagnie des tubes de Normandie prend le relais.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1961",
+    "texte": "Sidelor est mentionné dans la suite de l’entreprise.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "dès 1968",
+    "texte": "Vallourec s’installe dans la continuité de l’entreprise.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2021",
+    "texte": "La fermeture a lieu ; le site devient une friche industrielle.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Déville-lès-Rouen, dite localement Déville est une commune française située dans le département de la Seine-Maritime en région Normandie.",
+  "L'histoire de Déville-lès-Rouen a été écrite par l'historien rouennais Robert Eude qui a également dessiné son blason. Une petite rue porte son nom aujourd'hui. Dès le VIIIe siècle, les archevêques de Rouen ont un manoir à Déville. Il est habité par Eudes Rigaud au XIIIe siècle et embelli en 1500/1501 par Georges d'Amboise, mais abandonné peu après au profit du château de Gaillon. Au XIXe siècle, seujls des vestiges […]",
+  "1500 : Il est habité par Eudes Rigaud au XIIIe siècle et embelli en 1500/1501 par Georges d'Amboise, mais abandonné peu après au profit du château de Gaillon.",
+  "1825 : L'entreprise, devenue la société Laveissière en 1825, La Compagnie française des métaux en 1889, la Compagnie des tubes de Normandie en 1957, Sidelor en 1961 et Vallourec dès 1968, et qui s'est étendue progressivement jusqu'à occuper 13 ha de terrains, occupait, au plus fort de son activité, jusqu'à 1 200 salariés, a fermé en 2021, et est devenue une friche industrielle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

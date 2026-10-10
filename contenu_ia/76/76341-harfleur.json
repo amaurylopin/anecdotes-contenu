@@ -1,0 +1,171 @@
+{
+ "commune": {
+  "titre": "Harfleur",
+  "code_insee": "76341",
+  "departement": "76",
+  "population": 8289,
+  "lat": 49.5072,
+  "lon": 0.1989,
+  "url": "https://fr.wikipedia.org/wiki/Harfleur"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:16:12",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1635,
+  "sortie": 1031
+ },
+ "cout_usd": 0.001616,
+ "accroche": "En 1415, Harfleur est assiégée par les Anglais.",
+ "histoire": {
+  "recit": "À Harfleur, on passe des chemins romains aux jours de siège : le territoire correspond à Caracotinum, mentionné dans l’Itinéraire d’Antonin, et des voies romaines y sont établies. Un vicus y grandit à l’époque gallo-romaine, comme le montrent les découvertes archéologiques.\n\nAu fil des siècles, la ville subit les coups du temps : au Ve siècle, un fanum est détruit lors des invasions barbares, puis en 1415, Harfleur est assiégée par les Anglais. On attribue ensuite la construction de fortifications à Jacques Vaillant, pour le compte des Anglais, entre 1425 et 1429. La libération définitive n’intervient que le 1er janvier 1450, après un siège de vingt jours.\n\nPlus tard, les fortifications sont démantelées en 1621. Le port, lui, s’ensable déjà. Aujourd’hui, l’église Saint-Martin, classée en 1840, abrite encore des traces d’aménagements récents : de nouveaux vitraux sont installés entre 2009 et 2011. Sur le même territoire, le Château de Harfleur se dresse à l’emplacement des anciens remparts, et la Gare d’Harfleur, à Fleurville, est désormais désaffectée depuis la fin du XXe siècle.",
+  "chronologie": [
+   {
+    "date": "",
+    "texte": "Le territoire correspond au lieu Caracotinum de l’Itinéraire d’Antonin, sur celui des Calètes, avec des voies romaines établies et un vicus gallo-romain attesté par des découvertes archéologiques.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ve siècle",
+    "texte": "Un fanum est détruit lors des invasions barbares.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1415",
+    "texte": "Harfleur est assiégée par les Anglais.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1425-1429",
+    "texte": "Jacques Vaillant, maître des œuvres de maçonnerie, l’aurait construite pour le compte des Anglais.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1er janvier 1450",
+    "texte": "La ville est définitivement libérée par l’armée royale de Charles VII après un siège de vingt jours, tandis que le port s’ensable déjà.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1621",
+    "texte": "Les fortifications sont démantelées.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "L’église Saint-Martin est classée au titre des monuments historiques.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2009-2011",
+    "texte": "De nouveaux vitraux sont installés et inaugurés en janvier 2012.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "fin du XXe siècle",
+    "texte": "La gare perd son guichet et le bâtiment voyageurs est fermé et désaffecté.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin d'Harfleur",
+   "histoire": "Église catholique située à Harfleur. L’édifice, construit entre le XIVe siècle et le XVIe siècle, est classé au titre des monuments historiques en 1840. Des vitraux installés par le maître-verrier Drouin au milieu du XIXe siècle sont détruits en partie le 11 décembre 1915, puis pour le reste lors de leur dépose en 1942. De nouveaux vitraux sont installés entre 2009 et 2011 et inaugurés en janvier 2012.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 49.5069,
+   "lon": 0.199712,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_d%27Harfleur"
+  },
+  {
+   "nom": "Château de Harfleur",
+   "histoire": "Demeure du XVIIe siècle sur le territoire de la commune. Le château se trouve à l’emplacement des anciens remparts d’Harfleur.",
+   "anecdotes": [
+    {
+     "texte": "Pierre Costé, seigneur de Saint-Supplix, achète en 1636 un terrain au droit des anciens remparts et fossés, récemment démolis, au roi Louis XIII.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château est situé à l’emplacement des anciens remparts d’Harfleur.",
+   "sources": [
+    "S12",
+    "S14"
+   ],
+   "lat": 49.507769,
+   "lon": 0.200012,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Harfleur"
+  },
+  {
+   "nom": "Gare d'Harfleur",
+   "histoire": "Gare ferroviaire de la ligne de Paris-Saint-Lazare au Havre, située au lieu-dit Fleurville sur le territoire de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 49.513581,
+   "lon": 0.19896,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Harfleur"
+  }
+ ],
+ "sources": [
+  "Harfleur (prononciation dialectale : API [aʁ'fly], notation Rousselot-Gilliéron àrflu) est une commune française située dans le département de la Seine-Maritime en région Normandie.",
+  "La ville correspond au lieu Caracotinum de l'Itinéraire d'Antonin se trouvait sur le territoire des Calètes en Gaule belgique. Les fouilles effectuées par les archéologues ne soulignent pas une occupation importante à l'époque gauloise, contrairement à Caudebec-en-Caux. À l'époque gallo-romaine, un vicus se développe, comme en témoigne la richesse des découvertes archéologiques. Des voies romaines sont établies et […]",
+  "Ve siècle : Ce fanum a été détruit lors des invasions barbares du Ve siècle.",
+  "1415 : En 1415 la ville est assiégée par les Anglais.",
+  "1425 : C'est un certain Jacques Vaillant, maîtres des œuvres de maçonnerie, qui l'aurait construite, entre 1425 et 1429, pour le compte des Anglais.",
+  "1450 : Harfleur n’est définitivement libérée par l'armée royale de Charles VII, lors du recouvrement de la Normandie, le 1er janvier 1450, après un siège de vingt jours, mais le port s’ensable déjà.",
+  "1621 : Les fortifications seront démantelées en 1621.",
+  "Lieu « Église Saint-Martin d'Harfleur » : L'église Saint-Martin est une église catholique située à Harfleur, en France.",
+  "Lieu « Église Saint-Martin d'Harfleur », 1840 : Construit entre le XIVe siècle et le XVIe siècle, l'édifice est classé au titre des monuments historiques en 1840.",
+  "Lieu « Église Saint-Martin d'Harfleur », 1915 : Installés au milieu du XIXe siècle par le maitre-verrier Drouin, ils ont été détruits en partie le 11 décembre 1915 par l'explosion d'une usine de munitions au Havre et pour le reste au cours de leur dépose en 1942.",
+  "Lieu « Église Saint-Martin d'Harfleur », 2009 : Les nouveaux vitraux sont installés entre 2009 et 2011 et inaugurés en janvier 2012.",
+  "Lieu « Château de Harfleur » : Le château de Harfleur est une demeure du XVIIe siècle qui se dresse sur le territoire de la commune française d'Harfleur, dans le département de la Seine-Maritime, en région Normandie.",
+  "Lieu « Château de Harfleur », 1593 : Pierre Costé, seigneur de Saint-Supplix, fils d'un bourgeois havrais anobli en 1593 par Henri IV, devenu conseiller-maître en la Chambre des comptes de Normandie, achète en 1636 un terrain situé au droit des anciens remparts et fossés de la ville, récemment démolis, au roi Louis XIII.",
+  "Lieu « Château de Harfleur », aujourd'hui : Le château est situé à l'emplacement des anciens remparts d'Harfleur, dans le département français de la Seine-Maritime.",
+  "Lieu « Gare d'Harfleur » : La gare d'Harfleur est une gare ferroviaire française de la ligne de Paris-Saint-Lazare au Havre, située au lieu-dit Fleurville sur le territoire de la commune d'Harfleur, dans le département de la Seine-Maritime en région Normandie.",
+  "Lieu « Gare d'Harfleur », XXe siècle : À la fin du XXe siècle, la gare perd son guichet et le bâtiment voyageurs est fermé et désaffecté."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

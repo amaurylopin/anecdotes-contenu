@@ -1,0 +1,296 @@
+{
+ "commune": {
+  "titre": "Fécamp",
+  "code_insee": "76259",
+  "departement": "76",
+  "population": 17313,
+  "lat": 49.75833333,
+  "lon": 0.38,
+  "url": "https://fr.wikipedia.org/wiki/F%C3%A9camp"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:18:49",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3631,
+  "sortie": 1593
+ },
+ "cout_usd": 0.002717,
+ "accroche": "À Fécamp, un oppidum est établi au lieu-dit Côte du Canada, avec des fortifications datées du milieu du Ier siècle av. J.-C. selon les sources.",
+ "histoire": {
+  "recit": "À Fécamp, ancien port morutier du pays de Caux, tout semble partir du littoral. Sur la Côte du Canada, un oppidum domine l’horizon : on y lit les restes d’un rempart de type belge, aujourd’hui appelé « Type Fécamp ». \n\nPlus tard, le port fait battre le cœur de la ville : dès le XIe siècle, il engendre construction navale et pêche. L’élan s’accompagne de drames et de reconstructions. En 1168, après un terrible incendie, on reprend la reconstruction de l’abbatiale en style gothique. \n\nLa guerre secoue ensuite la ville : en 1410, les Anglais envahissent, incendient et occupent Fécamp ; en 1449, elle est libérée. \n\nLes siècles suivants gardent un goût d’industrie maritime. La Marine nationale utilise encore, en 1930, deux goélettes construites à Fécamp. \n\nAujourd’hui, le regard se partage entre ports et hauteurs : au cœur du port, le Musée des Pêcheries, et sur la côte, le Cap Fagnet où un sémaphore occupe le site.",
+  "chronologie": [
+   {
+    "date": "milieu du Ier siècle av. J.-C.",
+    "texte": "Des fortifications gauloises sont établies à Côte du Canada, dont un rempart de type belge, appelé « Type Fécamp ».",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Le port, fondé au XIe siècle, développe construction navale et pêche.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1168",
+    "texte": "Après l’incendie de 1168, la reconstruction de l’abbatiale s’engage en style gothique.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "début du XIIIe siècle",
+    "texte": "L’église est achevée sous l’abbatiat de Raoul d’Argences.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1410",
+    "texte": "Les Anglais envahissent, incendient la ville et y maintiennent une garnison.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1449",
+    "texte": "La ville est libérée de l’occupation anglaise, comme Rouen.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1930",
+    "texte": "Deux goélettes construites à Fécamp, l’Étoile et la Belle Poule, sont encore utilisées par la Marine nationale.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "La gare définitive est édifiée à l’emplacement actuel, avec prolongement de la ligne jusqu’au port de Fécamp.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2022",
+    "texte": "Les premiers travaux sur le site commencent en 2022, avec des premières éoliennes installées en juin 2023.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Fécamp",
+   "histoire": "La gare de Fécamp se trouve près du centre, sur la ligne de Bréauté - Beuzeville à Fécamp.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 49.759511,
+   "lon": 0.375503,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_F%C3%A9camp"
+  },
+  {
+   "nom": "Musée des Pêcheries",
+   "histoire": "Le Musée des Pêcheries regroupe des collections municipales, installé au cœur du port dans une ancienne sécherie de morue.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est ouvert et, dans l’entresol, on y visite les anciens vestiaires des filetières et le bureau de l’armateur avec un guide.",
+   "sources": [
+    "S16",
+    "S18",
+    "S19",
+    "S20",
+    "S42"
+   ],
+   "lat": 49.755521,
+   "lon": 0.380417,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_P%C3%AAcheries"
+  },
+  {
+   "nom": "Abbaye de la Trinité de Fécamp",
+   "histoire": "L’abbaye de la Trinité de Fécamp est une abbaye bénédictine construite dans l’enceinte du château des ducs de Normandie à Fécamp.",
+   "anecdotes": [
+    {
+     "texte": "Une tradition rapporte que Léger, évêque d’Autun, aurait été recueilli à Fécamp pendant deux ans après son martyre et avant d’être exécuté.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 49.75531,
+   "lon": 0.381724,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_la_Trinit%C3%A9_de_F%C3%A9camp"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-du-Salut de Fécamp",
+   "histoire": "La chapelle Notre-Dame-du-Salut est une église catholique perchée sur la Côte de la Vierge à Fécamp.",
+   "anecdotes": [
+    {
+     "texte": "Une autre tradition raconte qu’en 1035, Robert le Magnifique, en danger de naufrage, fit vœu de construire trois chapelles s’il était sauvé.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Notre-Dame de Salut reste un haut lieu de recueillement.",
+   "sources": [
+    "S30"
+   ],
+   "lat": 49.766998,
+   "lon": 0.371336,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-du-Salut_de_F%C3%A9camp"
+  },
+  {
+   "nom": "Palais Bénédictine",
+   "histoire": "Le Palais Bénédictine, mêlant néogothique et néo-Renaissance, est construit à la fin du XIXe siècle pour Alexandre-Prosper Le Grand.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 49.7589,
+   "lon": 0.367778,
+   "url": "https://fr.wikipedia.org/wiki/Palais_B%C3%A9n%C3%A9dictine"
+  },
+  {
+   "nom": "Château de Fécamp",
+   "histoire": "Le château de Fécamp est un ancien château fort construit sur motte, du Xe siècle, aujourd’hui en ruines.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 49.7549,
+   "lon": 0.3798,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_F%C3%A9camp"
+  },
+  {
+   "nom": "Musée des Terre-Neuvas et de la pêche",
+   "histoire": "Le musée des Terre-Neuvas et de la Pêche est un ancien espace muséal face à la mer, inauguré en 1988 et fermé en 2012 pour préparer son transfert.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 49.755521,
+   "lon": 0.380417,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Terre-Neuvas_et_de_la_p%C3%AAche"
+  },
+  {
+   "nom": "Cap Fagnet",
+   "histoire": "Le Cap Fagnet est le point le plus haut de la côte d’Albâtre.",
+   "anecdotes": [
+    {
+     "texte": "À travers les âges, le site aurait porté un oppidum gaulois dont le fossé reste visible, puis le fort Baudouin, détruit au XVIe siècle pendant les guerres de religion.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le Cap Fagnet est occupé par un sémaphore de la marine nationale.",
+   "sources": [
+    "S43",
+    "S45",
+    "S46"
+   ],
+   "lat": 49.7667,
+   "lon": 0.366667,
+   "url": "https://fr.wikipedia.org/wiki/Cap_Fagnet"
+  }
+ ],
+ "sources": [
+  "Fécamp est une commune française située dans le département de la Seine-Maritime en région Normandie. Ancien port morutier sur le littoral du pays de Caux, la commune est située à environ 40 km au nord du Havre.",
+  "Un oppidum (agglomération fortifiée gauloise) est établi au lieu-dit Côte du Canada, au sud-est de la ville actuelle. On peut y voir les restes des fortifications édifiées vers le milieu du Ier siècle av. J.-C., notamment ceux d'un rempart de type belge. Ce type de rempart est aujourd'hui appelé « Type Fécamp ». Durant l'époque gallo-romaine, une voie reliant Fécamp à Étretat passait à l’actuel lieu-dit du Fond […]",
+  "Ier siècle : On peut y voir les restes des fortifications édifiées vers le milieu du Ier siècle av. J.-C., notamment ceux d'un rempart de type belge.",
+  "XIe siècle : L'histoire de Fécamp repose, avec celle de l'abbaye, principalement sur celle de son port fondé vers le XIe siècle, qui va générer à la fois la construction navale et la pêche.",
+  "1168 : À la suite d'un terrible incendie en 1168, on entreprend la reconstruction de l'abbatiale en style gothique.",
+  "XIIIe siècle : Au début du XIIIe siècle, l'église est achevée sous l'abbatiat de Raoul d'Argences.",
+  "1410 : Avec la reprise des hostilités entre le royaume de France et d'Angleterre lors de la seconde phase de la guerre de Cent Ans, en 1410, les Anglais envahissent et incendient la ville, puis l'occupent, y maintenant une garnison.",
+  "1449 : En 1449, la ville est libérée de l'occupation anglaise, tout comme Rouen.",
+  "1930 : En outre, la Marine nationale utilise encore deux goélettes construites à Fécamp dans les années 1930 : l'Étoile et la Belle Poule. [réf. souhaitée]La charpente de la salle gothique du palais Bénédictine a été réalisée par les charpentiers de marine de la ville au XIXe siècle.",
+  "2022 : Les premiers travaux sur le site ont débuté dans le courant de l'année 2022 et les premières éoliennes ont été installées en juin 2023.",
+  "Lieu « Gare de Fécamp » : La gare de Fécamp est une gare ferroviaire française de la ligne de Bréauté - Beuzeville à Fécamp, située à proximité du centre de Fécamp, dans le département de la Seine-Maritime, en région Normandie.",
+  "Lieu « Gare de Fécamp », 1842 : La desserte par chemin de fer de Fécamp est décidée dès 1842 et concédée le 18 septembre 1845 à Messieurs le comte d'Alton-Shée, Blount, Osmont, le baron de Saint-Albin et Barbet, qui ont fondé, le 14 octobre 1845, la Compagnie des chemins de fer de Dieppe et de Fécamp.",
+  "Lieu « Gare de Fécamp », 1858 : La gare définitive est édifiée à l'emplacement actuel en 1858, avec le prolongement de la ligne jusqu'au port de Fécamp.",
+  "Lieu « Gare de Fécamp », 1944 : En 1944, le bâtiment de la gare est pratiquement détruit par des bombardements, ainsi que des dynamitages provoqués par l'armée Allemande en retraite.",
+  "Lieu « Gare de Fécamp », aujourd'hui : L'opération est réalisée en 1858, avec l'édification de la gare définitive sur son emplacement actuel, avec une fréquence de quatre trains quotidiens, dont deux avec des voitures directes en provenance de Paris, facilitant pendant la période estivale, la desserte de l'établissement de bains de mer ouvert par la municipalité en juillet 1859.",
+  "Lieu « Musée des Pêcheries » : Les Pêcheries, musée de Fécamp est un musée qui regroupe l'ensemble des collections municipales de la ville de Fécamp.",
+  "Lieu « Musée des Pêcheries », 1950 : Le bâtiment de La Morue Normande date de 1950 ; il a été conçu par l'architecte parisien André Hamayon et construit par l'entrepreneur Florentin Pollet.",
+  "Lieu « Musée des Pêcheries », 2017 : Ouvert depuis décembre 2017, il est situé au cœur du port de Fécamp, dans une ancienne sécherie de morue appartenant autrefois à l'armement morutier Les Pêcheries de Fécamp.",
+  "Lieu « Musée des Pêcheries », 2017 : Après plusieurs années de travaux, le musée a été inauguré le vendredi 8 décembre 2017.",
+  "Lieu « Musée des Pêcheries », aujourd'hui : Entresol : il est occupé par les anciens vestiaires des filetières et le bureau de l’armateur, tous deux se visitent avec un guide.",
+  "Lieu « Abbaye de la Trinité de Fécamp » : L'abbaye de la Trinité de Fécamp est une abbaye bénédictine construite dans l'enceinte du château des ducs de Normandie à Fécamp, dans le département de la Seine-Maritime, en région Normandie.",
+  "Lieu « Abbaye de la Trinité de Fécamp », 680 : La Patio Ia Leudegarii raconta qu'après le martyre de Léger, évêque d'Autun, il fut recueilli dans un établissement de moniales, identifié comme Fécamp, où il resta pendant deux ans avant d'être exécuté en 680.",
+  "Lieu « Abbaye de la Trinité de Fécamp », 990 : Richard Ier fait édifier une nouvelle église de la Trinité consacrée selon Dudon de Saint-Quentin en 990, par Robert le Danois, archevêque de Rouen, et desservie par douze chanoines réguliers à la place des moniales, transférées à Montivilliers.",
+  "Lieu « Abbaye de la Trinité de Fécamp », 1925 : Des fouilles en 1925 et 1927 ont identifié les amorces d'un mur incurvé, vestiges de l'abside de la collégiale, dans la 3e travée droite du chœur actuel et présentait la même largeur que le vaisseau central du bâtiment gothique.",
+  "Lieu « Abbaye de la Trinité de Fécamp », aujourd'hui : Des vestiges de la fin de La Tène et du début de la période gallo-romaine, des cimetières du Ier, IIe et IIIe siècles indiquent une vie dans le secteur.",
+  "Lieu « Chapelle Notre-Dame-du-Salut de Fécamp » : La chapelle Notre-Dame-du-Salut est une église catholique située à Fécamp, en France.",
+  "Lieu « Chapelle Notre-Dame-du-Salut de Fécamp », 1035 : Une autre tradition rapporte qu’en 1035, Robert le Magnifique, père de Guillaume le Conquérant, se trouvant en danger de naufrage, fit vœu de construire trois chapelles s’il était sauvé.",
+  "Lieu « Chapelle Notre-Dame-du-Salut de Fécamp », XIe siècle : La chapelle, perchée sur la Côte de la Vierge à Fécamp, aurait été fondée au XIe siècle.",
+  "Lieu « Chapelle Notre-Dame-du-Salut de Fécamp », XIIIe siècle : C’est ainsi que furent édifiées : À Fécamp : Notre-Dame de Salut À Honfleur : Notre-Dame de Grâce À Caen : Notre-Dame de la Délivrance Reconstruite au XIIIe siècle, elle ne porte pas encore le nom de Notre-Dame de Salut.",
+  "Lieu « Chapelle Notre-Dame-du-Salut de Fécamp », aujourd'hui : Aujourd'hui encore, Notre-Dame de Salut reste un haut lieu de recueillement.",
+  "Lieu « Palais Bénédictine » : Le palais Bénédictine est un édifice mêlant les styles néogothique et néo-Renaissance, construit à la fin du XIXe siècle à Fécamp pour Alexandre-Prosper Le Grand, négociant en spiritueux et qui a fait fortune en inventant et commercialisant la liqueu",
+  "Lieu « Palais Bénédictine », XIXe siècle : Le palais Bénédictine est un édifice mêlant les styles néogothique et néo-Renaissance, construit à la fin du XIXe siècle à Fécamp pour Alexandre-Prosper Le Grand, négociant en spiritueux et qui a fait fortune en inventant et commercialisant la liqueur Bénédictine.",
+  "Lieu « Palais Bénédictine », 1852 : L'édifice a été construit sur les plans de l'architecte Camille Albert (1852-1942) par le constructeur Ernest Baron avec des matériaux et des techniques locales.",
+  "Lieu « Palais Bénédictine », 1882 : Les travaux commencèrent en 1882, et il fut inauguré une première fois en 1888.",
+  "Lieu « Château de Fécamp » : Le château de Fécamp est un ancien château fort construit sur motte, du Xe siècle, aujourd'hui en ruines, dont les vestiges se dressent sur la commune de Fécamp dans le département de la Seine-Maritime, en région Normandie.",
+  "Lieu « Château de Fécamp », Xe siècle : Le château de Fécamp est un ancien château fort construit sur motte, du Xe siècle, aujourd'hui en ruines, dont les vestiges se dressent sur la commune de Fécamp dans le département de la Seine-Maritime, en région Normandie.",
+  "Lieu « Château de Fécamp », XIXe siècle : Le site du château a été très endommagé et ce encore au XIXe siècle avec l'ouverture d'une vaste tranchée destinée à la voie ferrée.",
+  "Lieu « Château de Fécamp », aujourd'hui : Au XIIe siècle, un donjon de plan carré, dont il ne reste plus de traces, consolida la construction.",
+  "Lieu « Musée des Terre-Neuvas et de la pêche » : Le musée des Terre-Neuvas et de la Pêche est un ancien espace muséal situé face à la mer à Fécamp (Seine-Maritime) inauguré en 1988 et fermé en 2012.",
+  "Lieu « Musée des Terre-Neuvas et de la pêche », 1986 : Institué par délibération du conseil municipal de Fécamp du 25 juillet 1986, il a été inauguré le 3 juillet 1988, dans un bâtiment neuf conçu par l’architecte Fernand Denis.",
+  "Lieu « Musée des Terre-Neuvas et de la pêche », 1988 : Le musée des Terre-Neuvas et de la Pêche est un ancien espace muséal situé face à la mer à Fécamp (Seine-Maritime) inauguré en 1988 et fermé en 2012.",
+  "Lieu « Musée des Terre-Neuvas et de la pêche », 2012 : Après 24 ans d’existence, et avoir reçu plus d’un million de visiteurs, le musée des Terre-Neuvas a fermé ses portes le 31 décembre 2012 pour préparer son transfert vers le musée des Pêcheries, situé quai Capitaine-Jean-Recher, au cœur du port, où plus de collections seront présentées.",
+  "Lieu « Cap Fagnet » : Le cap Fagnet est le point le plus haut de la côte d'Albâtre.",
+  "Lieu « Cap Fagnet », XVIe siècle : Ce fut notamment un site stratégique à travers les âges avec, d'une part, son oppidum gaulois, dont le fossé est encore visible et, d'autre part, le fort Baudouin, pendant les guerres de religion, qui fut détruit au XVIe siècle.",
+  "Lieu « Cap Fagnet », 2006 : La falaise se caractérise dans le paysage par le profil de la chapelle Notre-Dame du Salut construite par les marins, et depuis 2006, le parc éolien.",
+  "Lieu « Cap Fagnet », aujourd'hui : Il est actuellement occupé par un sémaphore de la marine nationale."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
