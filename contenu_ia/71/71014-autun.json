@@ -1,0 +1,273 @@
+{
+ "commune": {
+  "titre": "Autun",
+  "code_insee": "71014",
+  "departement": "71",
+  "population": 13172,
+  "lat": 46.95166667,
+  "lon": 4.29944444,
+  "url": "https://fr.wikipedia.org/wiki/Autun"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:36:25",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3933,
+  "sortie": 1866
+ },
+ "cout_usd": 0.003119,
+ "accroche": "En 1120, la cathédrale Saint-Lazare d’Autun commence, avec un tympan sculpté signé de Gislebert.",
+ "histoire": {
+  "recit": "Autun, sous-préfecture de Saône-et-Loire depuis 1790, a conservé de nombreuses traces antiques et médiévales. La cité, Augustodunum, est fondée sous Auguste, qui voulait une grande ville en Gaule montrant la puissance romaine.\n\nPlus tard, la ville subit de lourdes épreuves : au IIIe siècle, elle est assiégée sept mois, prise et détruite par l’usurpateur Victorinus en 270, avant d’être rebâtie au siècle suivant par Constantin.\n\nAu Moyen Âge, la cathédrale Saint-Lazare, église romane de type clunisien, attire par son tympan du jugement dernier, richement sculpté et signé de Gislebert. Dans la ville, d’autres ouvrages témoignent aussi du passé : le théâtre romain, avec son hémicycle et ses gradins, et le temple de Janus, dont on conserve aujourd’hui des pans de cella et les vestiges du péribole.\n\nAutun porte enfin les marques du temps plus récent : la ville est libérée le 9 septembre 1944. Ses découvertes archéologiques et restaurations continuent aussi, comme celles menées sur la pyramide de Couhard, percée suite à des fouilles anciennes.",
+  "chronologie": [
+   {
+    "date": "1790",
+    "texte": "Autun devient sous-préfecture de Saône-et-Loire.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "-27/14",
+    "texte": "Sous le règne d’Auguste, la cité d’Autun (Augustodunum) est fondée.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "270",
+    "texte": "Au IIIe siècle, Autun est prise et détruite par l’usurpateur Victorinus.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1120",
+    "texte": "Commencement de la cathédrale Saint-Lazare, église romane de type clunisien.",
+    "sources": [
+     "S4",
+     "S27"
+    ]
+   },
+   {
+    "date": "9 septembre 1944",
+    "texte": "Autun est libérée par les troupes françaises et des groupes armés FFI et FTP.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Temple de Janus (Autun)",
+   "histoire": "Édifice cultuel d’inspiration celto-romaine situé au nord-ouest de la cité antique d’Augustodunum, avec des constructions et remaniements sur une longue période.",
+   "anecdotes": [
+    {
+     "texte": "Les études menées en 2012 ont mis en évidence deux périboles successifs et concentriques, le plus ancien pouvant être rattaché au temple de Janus ou à un édifice cultuel antérieur.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Sont conservés deux pans de sa cella carrée, sur une hauteur de plus de 20 mètres, ainsi que des vestiges des fondations de son péribole et de ses constructions annexes.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 46.96122222,
+   "lon": 4.2885,
+   "url": "https://fr.wikipedia.org/wiki/Temple_de_Janus_%28Autun%29"
+  },
+  {
+   "nom": "Fontaine Saint-Lazare",
+   "histoire": "La fontaine Saint-Lazare est reconstruite au XVIe siècle et a connu ensuite des interventions plus récentes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Du monument d’origine subsiste essentiellement la coupole en calcaire pisolithique.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 46.9455,
+   "lon": 4.29911,
+   "url": "https://fr.wikipedia.org/wiki/Fontaine_Saint-Lazare"
+  },
+  {
+   "nom": "Théâtre romain d'Autun",
+   "histoire": "Monument de spectacles bâti dans la seconde moitié du Ier siècle dans Augustodunum, avec une scène aujourd’hui en grande partie disparue, et une cavea dont il ne subsiste qu’une partie.",
+   "anecdotes": [
+    {
+     "texte": "Abandonné au Moyen Âge, le théâtre est rendu à sa vocation : dès 1909, des spectacles y sont de nouveau organisés.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il conserve encore son dispositif de rideau, son orchestra en demi-cercle, et une partie de la cavea avec ses gradins, surmontée d’un portique.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 46.952765,
+   "lon": 4.309949,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_romain_d%27Autun"
+  },
+  {
+   "nom": "Cathédrale Saint-Lazare d'Autun",
+   "histoire": "Cathédrale catholique d’Autun, dont une première construction remonte au Ve siècle, puis une cathédrale romane commencée vers 1120 et achevée vers 1150.",
+   "anecdotes": [
+    {
+     "texte": "Le tympan de la cathédrale est sculpté avec beaucoup de détails représentant le jugement dernier et signé de l’artiste Gislebert.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les détails sont remarquables mais peu visibles, du fait de l’éloignement et de la relative pénombre.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 46.945,
+   "lon": 4.299167,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Lazare_d%27Autun"
+  },
+  {
+   "nom": "Église Notre-Dame-de-l'Assomption d'Autun",
+   "histoire": "Église du XVIIIe siècle à Autun, édifiée pour remplacer une chapelle et intégrée à l’histoire du collège jésuite puis du lycée Bonaparte.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le rez-de-chaussée et l’étage sont ornés de quatre colonnes correspondant à la nef et aux collatéraux.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 46.94898,
+   "lon": 4.29754,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-l%27Assomption_d%27Autun"
+  },
+  {
+   "nom": "Musée Rolin",
+   "histoire": "Musée d’Autun créé en 1878 à l’initiative de la Société éduenne des lettres, sciences et arts, rassemblant notamment des objets liés à la période gallo-romaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est situé à l’emplacement de l’ancien hôtel du chancelier Nicolas Rolin et de la maison Lacomme.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 46.945659,
+   "lon": 4.299194,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Rolin"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants",
+   "histoire": "Chapelle située place Saint-Barbe à Autun, fondée en 1873 dans l’ancien réfectoire du Chapitre, puis abandonnée au cours des années 1960.",
+   "anecdotes": [
+    {
+     "texte": "Abandonnée au cours des années 1960, elle abrite ensuite, depuis les années 2000, un espace culturel.",
+     "statut": "etabli",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Depuis les années 2000, la chapelle abrite un espace culturel.",
+   "sources": [
+    "S43"
+   ],
+   "lat": 46.944735475867,
+   "lon": 4.3001774856507,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-des-Bonnes-%C5%92uvres-et-des-Sept-Dormants"
+  },
+  {
+   "nom": "Pyramide de Couhard",
+   "histoire": "Monument antique près de l’ancienne nécropole du Champ des Urnes, classé monument historique et marqué par des interventions successives.",
+   "anecdotes": [
+    {
+     "texte": "Au début des années 1980, du mortier de ciment est apposé sur l’édifice : les pierres et la maçonnerie ne respirent alors pas correctement.",
+     "statut": "etabli",
+     "sources": [
+      "S48"
+     ]
+    },
+    {
+     "texte": "La pyramide apparaît aujourd’hui percée : l’orifice est dû aux fouilles effectuées en 1640 par l’abbé de Castille.",
+     "statut": "etabli",
+     "sources": [
+      "S49"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La pyramide apparaît percée d’un orifice, lié aux fouilles de 1640.",
+   "sources": [
+    "S49"
+   ],
+   "lat": 46.94333,
+   "lon": 4.31417,
+   "url": "https://fr.wikipedia.org/wiki/Pyramide_de_Couhard"
+  }
+ ],
+ "sources": [
+  "Autun est une commune française du département de Saône-et-Loire en région Bourgogne-Franche-Comté, située dans le parc naturel régional du Morvan. Sous-préfecture de Saône-et-Loire depuis 1790, la ville compte 13 172 habitants (Autunois et Autunoises) au recensement de 2023, au cœur d'une intercommunalité regroupant environ 40 000 habitants. Siège de la civitas gallo-romaine des Éduens (Civitas Haeduae) en […]",
+  "Autun a conservé de nombreuses traces antiques ou médiévales. La ville fut l'une des capitales chrétiennes du monde romain. C'est sous le règne de l'empereur romain Auguste (-27/14) qu'a été fondée la cité d'Autun : son nom antique, Augustodunum, signifie la forteresse d'Auguste. Auguste avait la volonté de créer une grande cité en Gaule qui montrerait la puissance romaine. Augustodunum fut donc doté de monuments […]",
+  "IIIe siècle : Au IIIe siècle, elle fut assiégée pendant sept mois, prise et détruite par l'usurpateur Victorinus en 270 ; puis rebâtie au siècle suivant par Constantin.",
+  "1120 : La cathédrale Saint-Lazare (1120), église romane de type clunisien, est célèbre notamment par son tympan, sculpté avec beaucoup de détails représentant le jugement dernier et signé de l'artiste Gislebert.",
+  "1772 : On peut y admirer les grilles en fer forgé érigées en 1772, les matières enseignées dans ce lieu y sont indiquées par divers représentations d'objets le long du haut de ces grilles.",
+  "1782 : L'ancien hôtel du marquis de Fussey situé rue de l'Arquebuse, construit en 1782, devient le siège de la sous-préfecture en 1820.",
+  "1936 : La ligne, fermée définitivement en 1936, fut démontée entièrement en 1939.",
+  "1944 : Au cours de la Seconde Guerre mondiale, Autun est libérée le 9 septembre 1944 par les troupes françaises débarquées en Provence (le 2e régiment de dragons du colonel Demetz), les groupes armés FFI (corps franc Pommiès) et FTP (régiment Valmy).",
+  "1977 : Les sondages de 1977 révèlent les murs courbes et rayonnants d'une cavea de forme semI-circulaire édifiée sur les murs d'un important bâtiment antérieur.",
+  "Lieu « Temple de Janus (Autun) » : Le temple dit « de Janus », est un édifice cultuel d'inspiration celto-romaine situé à Autun, dans le département de Saône-et-Loire, en France, au nord-ouest de la cité antique d'Augustodunum.",
+  "Lieu « Temple de Janus (Autun) », Ier siècle : Les principaux monuments du site, dont les thermes, le théâtre et le temple de Janus, semblent être construits dans la seconde moitié du Ier siècle ou au tout-début du IIe siècle, avec des remaniements et des aménagements postérieurs.",
+  "Lieu « Temple de Janus (Autun) », 1976 : Le théâtre du Haut-du-Verger, découvert dans le même secteur en 1976 et fouillé l'année suivante, a lui aussi succédé au même emplacement à un autre édifice.",
+  "Lieu « Temple de Janus (Autun) », 2012 : Les études entreprises en 2012 ont mis en évidence l'existence de deux périboles successifs et concentriques, le plus ancien, peut-être équipé d'un portique, pouvant être rattaché au temple de Janus ou à un édifice cultuel antérieur.",
+  "Lieu « Temple de Janus (Autun) », aujourd'hui : Sont conservés deux pans de sa cella carrée sur une hauteur de plus de 20 mètres ainsi que des vestiges des fondations de son péribole et de ses constructions annexes.",
+  "Lieu « Fontaine Saint-Lazare » : La fontaine Sainte-Lazare, est une fontaine construite par Jean Goujon en 1543 situé à Autun en France.",
+  "Lieu « Fontaine Saint-Lazare », 1540 : Elle remplacée par la fontaine Saint-Lazare, décidée en 1540 et achevée en 1543.",
+  "Lieu « Fontaine Saint-Lazare », 1543 : La fontaine Sainte-Lazare, est une fontaine construite par Jean Goujon en 1543 situé à Autun en France.",
+  "Lieu « Fontaine Saint-Lazare », 1890 : Elle est reconstruite entre 1890 et 1893 par l'entrepreneur autunois J.-B. Chevalier, sous la direction de l'inspecteur des monuments historiques de la ville Jean Roidot ; les sculptures sont confiées à l'artiste parisien Désiré Bloche.",
+  "Lieu « Fontaine Saint-Lazare », aujourd'hui : Du monument d'origine subsiste essentiellement la coupole, en calcaire pisolithique.",
+  "Lieu « Théâtre romain d'Autun » : Le théâtre romain d'Autun est un monument de spectacles construit dans la seconde moitié du Ier siècle dans Augustodunum, une ville fondée peu avant le début de notre ère et l'une des rares de Gaule septentrionale à posséder une enceinte dès le Haut-",
+  "Lieu « Théâtre romain d'Autun », Ier siècle : Le théâtre romain d'Autun est un monument de spectacles construit dans la seconde moitié du Ier siècle dans Augustodunum, une ville fondée peu avant le début de notre ère et l'une des rares de Gaule septentrionale à posséder une enceinte dès le Haut-Empire ; cette ville devient par la suite Autun.",
+  "Lieu « Théâtre romain d'Autun », Ier siècle : Augustodunum semble être une fondation de la fin du Ier siècle avant notre ère, vers - 15 peut-être, alors que Bibracte n'est pas encore abandonné.",
+  "Lieu « Théâtre romain d'Autun », 1909 : Abandonné au Moyen Âge, il est étudié aux XIXe et XXe siècles et, dès 1909, il est rendu à sa vocation première car des spectacles y sont organisés.",
+  "Lieu « Théâtre romain d'Autun », aujourd'hui : Construit sur le modèle des théâtres romains, celui d'Autun se composait d'une scène, aujourd'hui en grande partie disparue, mais qui conserve encore son dispositif de rideau, d'un espace en demi-cercle (l'orchestra) et d'un hémicycle avec 41 gradins (la cavea), dont il ne subsiste qu'une partie, surmonté d'un portique.",
+  "Lieu « Cathédrale Saint-Lazare d'Autun » : La cathédrale Saint-Lazare d'Autun est une cathédrale catholique située à Autun, dans le département français de Saône-et-Loire en région Bourgogne-Franche-Comté.",
+  "Lieu « Cathédrale Saint-Lazare d'Autun », Ve siècle : Une première cathédrale a été construite à Autun à partir du Ve siècle, consacrée plus tardivement à saint Nazaire (il en reste une chapelle du XIVe siècle).",
+  "Lieu « Cathédrale Saint-Lazare d'Autun », 1120 : Commencée vers 1120 par Étienne de Baugé, elle fut achevée vers 1150 (les reliques du saint y seront transférées en 1146 ou 1147), et le porche quelques années plus tard.",
+  "Lieu « Cathédrale Saint-Lazare d'Autun », 1150 : Au départ simple église de pèlerinage, achevée vers 1150, elle devient cocathédrale de la ville à la fin du XIIe siècle avec la cathédrale primitive dédiée à Saint-Nazaire, avant de devenir l'unique cathédrale d'Autun à la démolition de cette dernière.",
+  "Lieu « Cathédrale Saint-Lazare d'Autun », aujourd'hui : Bien que remarquables, ils sont assez peu visibles du fait de leur éloignement et de la relative pénombre.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Autun » : L'église Notre-Dame-de-l'Assomption est une église du XVIIIe siècle située à Autun, en Saône-et-Loire en France.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Autun », XVIIe siècle : Édifiée pour remplacer une chapelle du XVIIe siècle, elle est à l'origine la chapelle privée du collège jésuite, actuel lycée Bonaparte.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Autun », 1709 : Leur premier collège, situé plus au nord, rue Saint-Christophe, étant devenu trop étroit, ils font édifier, à partir de 1709, un important collège face à la place du Champ-de-Mars.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Autun », 1931 : Trois statues de son mobilier sont classées au titre d'objet aux monuments historiques en 1931 avant que l'édifice ne le soit entièrement en 1943.",
+  "Lieu « Église Notre-Dame-de-l'Assomption d'Autun », aujourd'hui : Le rez-de-chaussée, comme l'étage, est orné de quatre colonnes, qui correspondent à l'emplacement de la nef et aux collatéraux.",
+  "Lieu « Musée Rolin » : Le musée Rolin est un musée français de la ville d'Autun en Bourgogne, créé en 1878 à l'initiative de la Société éduenne des lettres, sciences et arts.",
+  "Lieu « Musée Rolin », Ier siècle : La plupart de ces œuvres et objets usuels témoignent de la période gallo-romaine de la ville d'Autun, fondée au Ier siècle par l'empereur Auguste.",
+  "Lieu « Musée Rolin », 1170 : Le Tombeau de saint Lazare (vers 1170), œuvre monumentale signée du moine Martin, est en partie reconstitué à l'aide des statues préservées : Saint André, Marthe et Marie-Madeleine.",
+  "Lieu « Musée Rolin », 1877 : À son initiative les bâtiments de la cour nord, liés aux vestiges de la porte des Bancs, sont classés Monument historique en 1877, acquis en janvier 1878 et restaurés.",
+  "Lieu « Musée Rolin », aujourd'hui : Il est situé à l'emplacement de l'ancien hôtel du chancelier Nicolas Rolin et de la maison Lacomme.",
+  "Lieu « Chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants » : La chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants est une chapelle décultualisée située place Saint-Barbe à Autun (Saône-et-Loire) en France.",
+  "Lieu « Chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants », XIIe siècle : Le réfectoire du Chapitre, adjacent au presbytère, semble avoir été édifié au XIIe siècle, mais aucun document à propos de sa construction et de ses transformations n'est connu.",
+  "Lieu « Chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants », 1873 : Elle est fondée en 1873 dans l'ancien réfectoire du Chapitre, daté du XIIe siècle.",
+  "Lieu « Chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants », 1960 : Abandonnée au cours des années 1960, elle abrite depuis les années 2000 un espace culturel.",
+  "Lieu « Chapelle Notre-Dame-des-Bonnes-Œuvres-et-des-Sept-Dormants », aujourd'hui : Ce n'est qu'en 1779, après plusieurs retards, qu'un nouvel édifice conçu spécifiquement pour des spectacles voit le jour — à l'emplacement de l'actuel théâtre, place du Champ-de-Mars.",
+  "Lieu « Pyramide de Couhard » : La pyramide de Couhard (également appelée pierre de Couhard, anciennement pierre de Couart) est un monument antique se dressant à proximité de l'ancienne nécropole du « Champ des Urnes » à Autun, commune française de Saône-et-Loire.",
+  "Lieu « Pyramide de Couhard », 1801 : Des sondages sont réalisés en 1801 et 1877, mais aussi lors de travaux visant à rénover la base de l'édifice, ceux effectués par MM. Desplaces et Martigny en 1840, pour étudier les fondations de la pyramide.",
+  "Lieu « Pyramide de Couhard », 1840 : Cette pyramide, qui surplombe la ville d'Autun, fut sans doute construite au Ier siècle apr. J.-C. La pyramide de Couhard a été classée monument historique par la liste de 1840.",
+  "Lieu « Pyramide de Couhard », 1980 : L'une d'entre elles, au début des années 1980, appose du mortier de ciment sur l'édifice, ce qui ne permet pas aux pierres et à la maçonnerie de respirer correctement.",
+  "Lieu « Pyramide de Couhard », aujourd'hui : La pyramide apparaît aujourd'hui percée d'un orifice, dû aux fouilles effectuées en 1640 par l'abbé de Castille."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}

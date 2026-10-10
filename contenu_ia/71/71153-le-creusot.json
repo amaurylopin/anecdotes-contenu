@@ -1,0 +1,305 @@
+{
+ "commune": {
+  "titre": "Le Creusot",
+  "code_insee": "71153",
+  "departement": "71",
+  "population": 20509,
+  "lat": 46.8014,
+  "lon": 4.4411,
+  "url": "https://fr.wikipedia.org/wiki/Le_Creusot"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:09:50",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3079,
+  "sortie": 1786
+ },
+ "cout_usd": 0.002848,
+ "accroche": "En 1790, Le Creuzot est érigé en commune de 485 hectares, largement rurale, avec quelques hameaux comme le Nom et la Couronne.",
+ "histoire": {
+  "recit": "Au Creusot, l’histoire s’accroche à l’industrie. La ville se façonne d’abord autour d’un domaine royal et industriel, puis change de visage lorsque les Eugène et Adolphe Schneider achètent, en 1837, les bâtiments d’une ancienne cristallerie royale pour en faire une résidence familiale.\n\nLa Seconde Guerre mondiale pèse sur les usines : la ville est occupée le 17 juin 1940 par la division Grossdeutschland, puis reconstruite après l’arrivée de Charles Schneider en 1942. Elle est ensuite libérée les 6 et 7 septembre 1944 par le 2e régiment de spahis algériens.\n\nPlus tard, le Creusot transforme ses traces industrielles en lieux de visite : depuis 1973, l’écomusée du Creusot-Montceau raconte le territoire, et une société savante, l’Académie François-Bourdon, veille aux archives. Dans cette même logique de renaissance, l’usine Snecma devient un symbole moderne, tandis que des anciennes halles de construction de locomotives deviennent une bibliothèque universitaire. Et, dressé près des ateliers, le marteau-pilon conserve le souvenir d’une puissance de travail rare.",
+  "chronologie": [
+   {
+    "date": "1790",
+    "texte": "Le Creuzot est érigé en commune de 485 hectares, largement rurale, avec des hameaux tels que le Nom, la Couronne et la Chaise.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1832",
+    "texte": "La commune est reprise et définitivement fermée au 1er novembre 1832.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1837",
+    "texte": "Eugène et Adolphe Schneider achètent les bâtiments industriels et le parc de l’ancienne cristallerie royale, qu’ils aménagent en résidence familiale, appelée aujourd’hui château de la Verrerie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "La ville est occupée le 17 juin 1940 par la division Grossdeutschland.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1942",
+    "texte": "Charles Schneider, arrivé dans la société en 1942 à la mort de son père Eugène II, reconstruit aussitôt la ville et les usines bombardées.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "La ville est libérée les 6 et 7 septembre 1944 par le 2e régiment de spahis algériens.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "Depuis 1973, la ville abrite un écomusée, l’écomusée du Creusot-Montceau, et dispose d’une société savante, l’Académie François-Bourdon, fondée en juin 1985.",
+    "sources": [
+     "S2",
+     "S9"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "L’usine Snecma, conçue par Albert Constantini, est inaugurée le 8 décembre 1987 ; l’avenue de l’Europe est aussi inaugurée en 1987.",
+    "sources": [
+     "S10",
+     "S11"
+    ]
+   },
+   {
+    "date": "1998",
+    "texte": "En 1998, les anciennes halles de construction de locomotives sont transformées en bibliothèque universitaire.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Marteau-pilon du Creusot",
+   "histoire": "Le marteau-pilon du Creusot est un marteau-pilon équipé d’un marteau de 100 tonnes, construit en 1875 et mis en service en 1877 par Schneider et Cie au Creusot.",
+   "anecdotes": [
+    {
+     "texte": "En 1877, le premier coup de pilon est donné le 23 septembre, et une réplique en bois, grandeur nature, a été érigée pour accueillir les visiteurs au Pavillon Schneider de l’Exposition universelle de 1878 à Paris.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Il a été le plus puissant du monde jusqu’en 1891, détrôné par un marteau de 125 tonnes de la Bethlehem Steel aux États-Unis, construit sous licence avec une conception presque identique.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    },
+    {
+     "texte": "Il reste aujourd’hui comme l’un des derniers marteau-pilon existants et est classé depuis 1981 Historic Mechanical Engineering Landmark par l’American Society of Mechanical Engineers.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 46.78664,
+   "lon": 4.432913,
+   "url": "https://fr.wikipedia.org/wiki/Marteau-pilon_du_Creusot"
+  },
+  {
+   "nom": "Cité ouvrière de la Combe des Mineurs",
+   "histoire": "La cité de la Combe des Mineurs, aussi appelée Combe des Anglais, est une cité ouvrière construite au Creusot à partir de 1826, à l’initiative des maîtres des forges anglais Manby et Wilson, pour loger la colonie anglaise recrutée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 46.8122,
+   "lon": 4.4252,
+   "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_ouvri%C3%A8re_de_la_Combe_des_Mineurs"
+  },
+  {
+   "nom": "Château de la Verrerie (Saône-et-Loire)",
+   "histoire": "Le château de la Verrerie est l’ancienne manufacture de cristaux de la Reine située dans la commune du Creusot.",
+   "anecdotes": [
+    {
+     "texte": "En 1832, des désaccords au sein de la famille Chagot précipitent son déclin : elle est vendue à la cristallerie de Baccarat et de Saint-Louis, qui la ferme aussitôt.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    },
+    {
+     "texte": "En 1837, le bâtiment inutilisé est vendu aux frères Adolphe et Eugène Schneider, qui entreprennent des transformations en 1847 pour en faire l’une des résidences de la famille Schneider durant plus d’un siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 46.8053,
+   "lon": 4.42333,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Verrerie_%28Sa%C3%B4ne-et-Loire%29"
+  },
+  {
+   "nom": "Écomusée du Creusot-Montceau",
+   "histoire": "L’écomusée du Creusot-Montceau est un musée du patrimoine industriel du territoire du Creusot et de Montceau-les-Mines, propriété de la Communauté urbaine Creusot Montceau.",
+   "anecdotes": [
+    {
+     "texte": "En 1971, la ville du Creusot signe une convention avec le CRACAP pour concevoir, créer et animer un futur musée.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "En 1975, par une convention signée avec Schneider (Creusot-Loire), plus de 4.500 livres, documents et objets sont remis à l’écomusée.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.80448,
+   "lon": 4.428059,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89comus%C3%A9e_du_Creusot-Montceau"
+  },
+  {
+   "nom": "Église Saint-Henri du Creusot",
+   "histoire": "L’église Saint-Henri est une église catholique de style néogothique située au Creusot.",
+   "anecdotes": [
+    {
+     "texte": "La construction débute en 1882 à la demande d’Henri Schneider et s’achève en 1883.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    },
+    {
+     "texte": "L’orgue est construit en 1902 par Charles Didier Van Caster, facteur d’orgues à Nancy.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32"
+   ],
+   "lat": 46.796722,
+   "lon": 4.421907,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Henri_du_Creusot"
+  },
+  {
+   "nom": "Festival des Giboulées",
+   "histoire": "Le Festival des Giboulées est un festival qui se déroule au printemps de chaque année au Creusot, de 2002 jusqu’en 2014, puis connaît un épisode particulier en 2006.",
+   "anecdotes": [
+    {
+     "texte": "En 2006, le Festival des Giboulées est exceptionnellement déplacé à Paris XIXe au Glazart.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34"
+   ],
+   "lat": 46.8014,
+   "lon": 4.4411,
+   "url": "https://fr.wikipedia.org/wiki/Festival_des_Giboul%C3%A9es"
+  }
+ ],
+ "sources": [
+  "Le Creusot est une commune française située dans le département de Saône-et-Loire en région Bourgogne-Franche-Comté. Elle est le siège de la communauté urbaine Creusot-Montceau. Chef-lieu de deux cantons (Le Creusot-1 et Le Creusot-2). En 2023 la commune compte 20 509 habitants, l'agglomération 34 272 habitants et l'aire urbaine 42 846 habitants. Elle est la troisième ville du département derrière Chalon-sur-Saône […]",
+  "L'histoire du Creusot, souvent qualifiée de « ville-usine », est étroitement liée à son développement industriel. Depuis 1973, la ville abrite un écomusée : l'écomusée du Creusot-Montceau et dispose par ailleurs d'une société savante, l'Académie François-Bourdon, fondée en juin 1985 par un groupe d’anciens salariés de Creusot-Loire désireux de sauvegarder les archives industrielles et la collection d’objets de […]",
+  "1790 : En 1790, Le Creuzot (officiellement orthographié « Le Creusot » en 1853) est érigé en commune de 485 hectares, largement rurale et constituée de quelques hameaux (le Nom, la Couronne, la Chaise) accolés au domaine royal et industriel, tous soustraits aux paroisses du Reuil et de Torcy.",
+  "1832 : Elle sera reprise et définitivement fermée au 1er novembre 1832.",
+  "1837 : En 1837, Eugène et Adolphe Schneider achètent les bâtiments industriels et le parc de l'ancienne cristallerie royale qu'ils aménagent en résidence familiale (appelée aujourd'hui château de la Verrerie).",
+  "1940 : Durant la Seconde Guerre mondiale, la ville, grand centre industriel doté de capacités de production d'armes, est occupée le 17 juin 1940 par la division Grossdeutschland.",
+  "1942 : Charles Schneider, arrivé dans la société en 1942 à la mort de son père Eugène II, reconstruit aussitôt la ville et les usines bombardées.",
+  "1944 : La ville est libérée les 6 et 7 septembre 1944 par le 2e régiment de spahis algériens.",
+  "1973 : Depuis 1973, la ville abrite un écomusée : l'écomusée du Creusot-Montceau et dispose par ailleurs d'une société savante, l'Académie François-Bourdon, fondée en juin 1985 par un groupe d’anciens salariés de Creusot-Loire désireux de sauvegarder les archives industrielles et la collection d’objets de Schneider et Cie et de Creusot-Loire.",
+  "1987 : L'usine Snecma est d'ailleurs un des symboles de la renaissance du Creusot, de par son architecture moderne (usine dessinée par Albert Constantini et inaugurée le 8 décembre 1987) et de par sa localisation.",
+  "1987 : Les vastes étendues des ateliers de la plaine des Riaux ont disparu pour laisser place notamment à l'IUT du Creusot (voir ci-dessous Enseignement) et à l'avenue de l'Europe est inaugurée en 1987 par le Président François Mitterrand et le maire Camille Dufour.",
+  "1998 : Les anciennes halles de construction de locomotives ont été transformées en bibliothèque universitaire, inaugurée en 1998.",
+  "Lieu « Marteau-pilon du Creusot » : Le marteau-pilon du Creusot est un marteau-pilon doté d'un marteau de 100 tonnes, construit en 1875 et mis en service en 1877 par Schneider et Cie au Creusot.",
+  "Lieu « Marteau-pilon du Creusot », 1875 : Le marteau-pilon du Creusot est un marteau-pilon doté d'un marteau de 100 tonnes, construit en 1875 et mis en service en 1877 par Schneider et Cie au Creusot.",
+  "Lieu « Marteau-pilon du Creusot », 1878 : Doté d'un marteau de 100 tonnes il bat ce record et pour célébrer cet événement, une réplique en bois, grandeur nature, fut érigée, accueillant les visiteurs au Pavillon Schneider de l’Exposition universelle de 1878 à Paris Le premier coup de pilon est donné le 23 septembre 1877.",
+  "Lieu « Marteau-pilon du Creusot », 1891 : Il a été le plus puissant du monde jusqu'en 1891, lorsque celui de la Bethlehem Steel aux États-Unis, construit sous licence et d'une conception presque identique, le détrône avec un marteau de 125 tonnes.",
+  "Lieu « Marteau-pilon du Creusot », aujourd'hui : Il reste de nos jours un des derniers marteau-pilon existants, et est classé depuis 1981 Historic Mechanical Engineering Landmark (en) par l’American Society of Mechanical Engineers.",
+  "Lieu « Cité ouvrière de la Combe des Mineurs » : La cité de la Combe des Mineurs (ou Combe des Anglais) est une cité ouvrière construite au Creusot, en Saône-et-Loire, à partir de 1826, à l'initiative des maîtres des forges anglais Manby et Wilson, pour y loger la colonie anglaise recrutée.",
+  "Lieu « Cité ouvrière de la Combe des Mineurs », 1826 : La cité de la Combe des Mineurs (ou Combe des Anglais) est une cité ouvrière construite au Creusot, en Saône-et-Loire, à partir de 1826, à l'initiative des maîtres des forges anglais Manby et Wilson, pour y loger la colonie anglaise recrutée.",
+  "Lieu « Cité ouvrière de la Combe des Mineurs », 1880 : À partir de 1880, l'intérieur de certains bâtiments est modifié afin de permettre l'agrandissement de logements et des annexes sont transformées.",
+  "Lieu « Cité ouvrière de la Combe des Mineurs », 1913 : Vers 1913, quelques logements sont détruits à l'extrémité de la cité pour permettre la modification du tracé de la rue.",
+  "Lieu « Château de la Verrerie (Saône-et-Loire) » : Le château de la Verrerie, anciennement la manufacture de cristaux de la Reine, se situe dans la commune du Creusot, en Saône-et-Loire.",
+  "Lieu « Château de la Verrerie (Saône-et-Loire) », 1832 : Des désaccords au sein de la famille Chagot précipitent son déclin et elle est vendue, en 1832, à la cristallerie de Baccarat et de Saint-Louis qui la ferme aussitôt.",
+  "Lieu « Château de la Verrerie (Saône-et-Loire) », 1837 : Le bâtiment inutilisé est vendu, en 1837, aux frères Adolphe et Eugène Schneider, cogérants de Schneider et Cie, qui entreprennent des transformations en 1847 pour en faire l'une des résidences de la famille Schneider durant plus d'un siècle.",
+  "Lieu « Château de la Verrerie (Saône-et-Loire) », XXe siècle : Au début du XXe siècle, ces lieux, qui reçoivent la visite de chefs d'État étrangers, sont transformés en château avec parc, désormais appelé « château de la Verrerie ».",
+  "Lieu « Écomusée du Creusot-Montceau » : L'écomusée du Creusot-Montceau est un musée du patrimoine industriel du territoire du Creusot et de Montceau-les-Mines, propriété de la Communauté urbaine Creusot Montceau.",
+  "Lieu « Écomusée du Creusot-Montceau », 1869 : Elle est constituée de deux parties : un corps de logis édifié en 1869, dit pavillon Perrusson auquel est adossée, en 1890-1900, une aile nord dite pavillon Desfontaines.",
+  "Lieu « Écomusée du Creusot-Montceau », 1971 : Le 6 juillet 1971 est signé entre la ville du Creusot et le Centre de Recherche, d’Animation et de Création pour les Arts Plastiques (CRACAP), association fondée en 1970, une convention ayant pour objet la conception, la création et l’animation d’un futur musée.",
+  "Lieu « Écomusée du Creusot-Montceau », 1975 : En 1975, par une convention signée d'une part par Schneider (Creusot-Loire) et d'autre part l'Écomusée, plus de 4.500 livres, documents et objets sont remis à l’Écomusée.",
+  "Lieu « Église Saint-Henri du Creusot » : L'église Saint-Henri est une église catholique de style néogothique située au Creusot, en Saône-et-Loire (France).",
+  "Lieu « Église Saint-Henri du Creusot », 1882 : La construction de l'église, à la demande d'Henri Schneider, a débuté en 1882 et a été achevée en 1883.",
+  "Lieu « Église Saint-Henri du Creusot », 1902 : L'orgue a été construit en 1902 par Charles Didier Van Caster, facteur d'orgues à Nancy.",
+  "Lieu « Festival des Giboulées » : Le festival des Giboulées est un festival qui s'est déroulé au printemps de chaque année, depuis 2002 jusqu'en 2014, au Creusot, en Saône-et-Loire.",
+  "Lieu « Festival des Giboulées », 2006 : En 2006, le Festival est exceptionnellement déplacé à Paris XIXe au Glazart."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 10
+ }
+}

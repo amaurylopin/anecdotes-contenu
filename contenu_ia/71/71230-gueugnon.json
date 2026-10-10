@@ -1,0 +1,180 @@
+{
+ "commune": {
+  "titre": "Gueugnon",
+  "code_insee": "71230",
+  "departement": "71",
+  "population": 6528,
+  "lat": 46.60194444,
+  "lon": 4.06166667,
+  "url": "https://fr.wikipedia.org/wiki/Gueugnon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:44:30",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2428,
+  "sortie": 1716
+ },
+ "cout_usd": 0.002631,
+ "accroche": "À Gueugnon, en 1724, le marquis Jean Hector de Faÿ de La Tour-Maubourg crée les premières forges et fonderies, les célèbres « Forges de Gueugnon », dans un méandre de l’Arroux.",
+ "histoire": {
+  "recit": "Gueugnon, chef-lieu de canton en Saône-et-Loire, s’est construit au rythme de l’eau et des ateliers. Dans un méandre de l’Arroux, le marquis Jean Hector de Faÿ de La Tour-Maubourg lance en 1724 les premières forges et fonderies de France, prélude aux « Forges de Gueugnon ». Plus loin dans le temps, le sol révèle aussi des gestes plus anciens : au lieu-dit les Gravoches, une fouille fait ressortir plus de 650 structures de l’âge du bronze, avec une petite nécropole à crémation. Et, plus à l’est, à Chazé, on lit l’abandon d’un bâtiment gallo-romain ; le nom vient du latin casa, « cabane » ou « maison ».\n\nL’atelier de poterie antique du Fresne porte ensuite l’image la plus nette de la production : aux IIe et IIIe siècles, la fabrication de céramiques sigillées atteint son apothéose, avec des vases moulés et des vases tournés et signés. Bien après, le Breuil garde encore sa silhouette de château, tandis que le stade Jean-Laville devient un repère sportif. Aujourd’hui encore, l’usine sidérurgique de Gueugnon fait tourner la vie industrielle de la ville.",
+  "chronologie": [
+   {
+    "date": "1724",
+    "texte": "Le marquis Jean Hector de Faÿ de La Tour-Maubourg crée à Gueugnon les premières forges et fonderies de France, dans un méandre de l’Arroux.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "Au lieu-dit les Gravoches, une fouille préventive met au jour plus de 650 structures et une petite nécropole de huit sépultures secondaires à crémation.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IIe et IIIe siècles",
+    "texte": "À Chazé, des vestiges de bâtiment gallo-romain sont abandonnés entre les IIe et IIIe siècles ; « Chazé » vient du latin casa.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "IIe et IIIe siècles",
+    "texte": "Aux IIe et IIIe siècles, l’apothéose de l’atelier se lit dans la production de céramiques sigillées, vases moulés à décors et vases tournés et signés.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "XIIIe à XVe ou XVIe siècle",
+    "texte": "Deux bâtiments médiévaux, détruits par incendie, jouxtaient les ateliers de potiers gallo-romains : datation entre les XIIIe et XVe siècles, ou peut-être le XVIe.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade Jean-Laville",
+   "histoire": "Stade de football à Gueugnon, le Stade Jean-Laville est le terrain du FC Gueugnon. Ouvert en 1939, il a connu un record lors d’une réception du RC Strasbourg en quart de finale de la coupe de France. Le site a aussi porté des installations liées au traitement de minerais et à la lixiviation d’uranium avant d’évoluer avec la construction puis la rénovation de tribunes.",
+   "anecdotes": [
+    {
+     "texte": "Le 9 mai 1979, 16 876 spectateurs payants assistent à la réception du RC Strasbourg en quart de finale de la coupe de France.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Le stade a été construit sur un emplacement où se trouvaient une usine de traitement de minerais et de préconcentrés d’uranium, ainsi que des installations de lixiviation en stalles.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le stade possède 14 753 places : 1 614 en tribune Sud, 3 308 en tribune Nord, 5 342 en tribune Est et 4 489 en tribune Ouest.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 46.595178,
+   "lon": 4.055883,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Jean-Laville"
+  },
+  {
+   "nom": "Atelier de poterie antique de Gueugnon",
+   "histoire": "Grand site de production de poterie à Gueugnon (en Saône-et-Loire), l’atelier est occupé du Ier au IVe siècle. Il atteint un sommet au IIe et IIIe siècles avec la production de céramiques sigillées : des vases moulés à décors et des vases tournés et signés. Des structures techniques sont aussi documentées, avec des fours et des zones d’extraction d’argile.",
+   "anecdotes": [
+    {
+     "texte": "Aux IIe et IIIe siècles, les céramiques sigillées sont produites en vases tournés et signés, en plus des vases moulés à décors.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "En 1997, les structures reconnues incluent 60 fours, deux fosses d’extraction d’argile et sept dépotoirs.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Malgré des fouilles archéologiques et des prospections magnétiques, l’emplacement des habitations des potiers du Fresne reste inconnu.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 46.597209,
+   "lon": 4.062419,
+   "url": "https://fr.wikipedia.org/wiki/Atelier_de_poterie_antique_de_Gueugnon"
+  },
+  {
+   "nom": "Château du Breuil (Gueugnon)",
+   "histoire": "Le château du Breuil domine la vallée de l’Arroux sur la commune de Gueugnon. Un premier château est construit au lieu-dit « Le Breuil » à la fin du XVe siècle, appartient à la famille Brisejonc, puis est acquis en 1530 par Nicolas de Chargères. Un incendie détruit le donjon en 1616 ; le château est ensuite reconstruit dans son état actuel. Plus tard, il est vendu au début du XIXe siècle, avant des reventes au fil des familles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’aspect originel comprenait un donjon entouré de 13 tours ; une seule subsiste aujourd’hui, en colombier.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 46.580556,
+   "lon": 4.037778,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Breuil_%28Gueugnon%29"
+  },
+  {
+   "nom": "Usine sidérurgique de Gueugnon",
+   "histoire": "Établissement sidérurgique de la société Aperam à Gueugnon, l’usine se signale par son outil industriel. Elle comprend notamment un laminoir Sendzimir no 6 mis en service en 1975, puis s’oriente vers des productions d’acier inoxydable destinées à des marchés précis.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’usine produit de l’acier inoxydable pour les marchés de l’aéronautique et de l’énergie, et fait partie des principaux employeurs privés du département.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 46.605069635255,
+   "lon": 4.0650551849708,
+   "url": "https://fr.wikipedia.org/wiki/Usine_sid%C3%A9rurgique_de_Gueugnon"
+  }
+ ],
+ "sources": [
+  "Gueugnon est une commune française, chef-lieu d'un canton regroupant vingt communes, située dans le département de Saône-et-Loire en région Bourgogne-Franche-Comté. À Gueugnon, dans un méandre de l'Arroux, le marquis Jean Hector de Faÿ de La Tour-Maubourg, futur maréchal de France (1757), crée en 1724 les premières forges et fonderies de France. Ces installations, les célèbres « Forges de Gueugnon », allaient faire […]",
+  "Les Gravoches de l'âge du bronze En 2010, une fouille préventive au lieu-dit les Gravoches a dévoilé plus de 650 structures en creux (trous de poteau, fossés, fosses, fosses–silos), incluant les vestiges d'un bâtiment datant de la transition entre bronze moyen (1600-1350 av. J.-C.) et bronze final (culture des champs d'urnes) ; une petite nécropole de huit sépultures secondaires à crémation datant du bronze final […]",
+  "IIIe siècle : Les IIe et IIIe siècles marquent l'apothéose de l'atelier.[réf. nécessaire] Les céramiques sigillées (de couleur rouge-orangée), imitées des productions italiques et de la Gaule du Sud, sont alors produites sous forme de vases moulés à décors et de vases tournés et signés.",
+  "IIIe siècle : Au lieu-dit Chazé (côté Est de l'Arroux), se trouvent les vestiges d'un bâtiment gallo-romain abandonné entre les IIe et IIIe siècles ; le nom « Chazé » vient du latin casa, casales qui signifie « cabane » ou « maison ».",
+  "XVe siècle : Jouxtant le site des ateliers de potiers gallo-romains se trouvaient deux bâtiments médiévaux, détruits par incendie, datés entre les XIIIe et XVe siècles ou peut-être même du XVIe siècle.",
+  "1789 : En effet deux forteresses (ou maisons-fortes) furent édifiées au XIVe ou XVe siècle : le Breuil (qui existe toujours) et les Essenleys (qui fut démantelé lors de la Révolution française de 1789).[réf. nécessaire]",
+  "Lieu « Stade Jean-Laville » : Le stade Jean Laville est un stade de football situé à Gueugnon dont le club résident est le FC Gueugnon.",
+  "Lieu « Stade Jean-Laville », 1939 : Ouvert en 1939, son record d'affluence date du 9 mai 1979, quand 16 876 spectateurs payants assistent à la réception du RC Strasbourg en quart de finale de la coupe de France de football.",
+  "Lieu « Stade Jean-Laville », 1955 : Le stade Jean-Laville est construit sur un site sur lequel étaient implantées une usine de traitement de minerais et de préconcentrés d’uranium (1955-1980) ainsi que des installations de lixiviation en stalles (exploitées entre 1961 et 1968).",
+  "Lieu « Stade Jean-Laville », 2007 : En 2007, l'ancienne tribune Nord est démolie pour être remplacée par une nouvelle tribune de 3 000 places comprenant les vestiaires et bureaux du club, les salons VIP, le restaurant, les espaces presse et TV, pour un coût total de 5 040 000 €.",
+  "Lieu « Stade Jean-Laville », aujourd'hui : Actuellement, le stade possède 14 753 places réparties de la manière suivante : 1614 places en tribune Sud 3308 places en tribune Nord 5342 places en tribune Est 4489 places en tribune Ouest",
+  "Lieu « Atelier de poterie antique de Gueugnon » : L'atelier de poterie antique de Gueugnon est un grand site de production de poterie à Gueugnon en Saône-et-Loire, Bourgogne (région Bourgogne-Franche-Comté), France.",
+  "Lieu « Atelier de poterie antique de Gueugnon », IIIe siècle : Les IIe et IIIe siècles marquent l'apothéose de l'atelier, notamment avec les céramiques sigillées (de couleur rouge-orangée) produites sous forme de vases moulés à décors et de vases tournés et signés.",
+  "Lieu « Atelier de poterie antique de Gueugnon », IVe siècle : Occupé du Ier au IVe siècle, cet atelier de Gaule du centre-est est réputé pour sa sigillée et ses céramiques fines des IIe et IIIe siècles.",
+  "Lieu « Atelier de poterie antique de Gueugnon », 1997 : En 1997 les structures reconnues incluent 60 fours, 2 fosses d'extraction d'argile, 7 dépotoirs et plusieurs bâtiments relatifs à l'activité de l'atelier.",
+  "Lieu « Atelier de poterie antique de Gueugnon », aujourd'hui : Malgré plusieurs fouilles archéologiques et des prospections magnétiques, l'emplacement des habitations des potiers du Fresne restent inconnus.",
+  "Lieu « Château du Breuil (Gueugnon) » : Le château du Breuil est situé sur la commune de Gueugnon en Saône-et-Loire et domine la vallée de l'Arroux.",
+  "Lieu « Château du Breuil (Gueugnon) », XVe siècle : Un premier château fut construit au lieu-dit « Le Breuil » à la fin du XVe siècle appartenant à la famille Brisejonc.",
+  "Lieu « Château du Breuil (Gueugnon) », 1530 : Il fut acquis en 1530 par Nicolas de Chargères, seigneur de la Sapinière, branche du Morvan, à la famille de Brosses qui habitait un château du même nom aux environs de Digoin En 1616, un incendie détruisit le donjon et le château fut reconstruit dans son état actuel.",
+  "Lieu « Château du Breuil (Gueugnon) », XIXe siècle : Vendu par autorité de justice au début du XIXe siècle à un marchand de biens, il fut racheté par la famille Perier qui le revendit peu après à la famille de Valence.",
+  "Lieu « Château du Breuil (Gueugnon) », aujourd'hui : L'aspect originel du château se composait d'un donjon entouré de 13 tours, dont une seule subsiste aujourd'hui en colombier.",
+  "Lieu « Usine sidérurgique de Gueugnon » : L'usine métallurgique de Gueugnon est un établissement sidérurgique de la société Aperam.",
+  "Lieu « Usine sidérurgique de Gueugnon », 1975 : 1975 : mise en service du laminoir Sendzimir no 6, le plus puissant et le plus moderne, jamais construit dans le monde à ce jour.",
+  "Lieu « Usine sidérurgique de Gueugnon », aujourd'hui : Située à Gueugnon (Saône-et-Loire), cette usine, aujourd'hui un des principaux employeur privé du département, est spécialisée dans la production d'acier inoxydable pour les marchés de l'aéronautique et de l'énergie notamment."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}

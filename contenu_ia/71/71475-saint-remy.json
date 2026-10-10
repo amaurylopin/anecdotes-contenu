@@ -1,0 +1,75 @@
+{
+ "commune": {
+  "titre": "Saint-Rémy (Saône-et-Loire)",
+  "code_insee": "71475",
+  "departement": "71",
+  "population": 6410,
+  "lat": 46.7691454,
+  "lon": 4.8295212,
+  "url": "https://fr.wikipedia.org/wiki/Saint-R%C3%A9my_%28Sa%C3%B4ne-et-Loire%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:47:23",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1020,
+  "sortie": 692
+ },
+ "cout_usd": 0.001069,
+ "accroche": "À Saint-Rémy, le Château de Taisey occupe une terrasse au sud du village, dominant la Saône, avec un château daté du XVIIe siècle.",
+ "histoire": {
+  "recit": "Saint-Rémy est une commune française du département de Saône-et-Loire, située en Bourgogne-Franche-Comté. Elle fait partie de la communauté d’agglomération du Grand Chalon et appartient à son aire urbaine.\n\nÀ la lisière sud du village, le Château de Taisey s’installe sur une terrasse dominant la Saône. Le château actuel correspond à une construction du XVIIe siècle : un corps principal de plan rectangulaire, étiré entre deux ailes en retour d’équerre. Sous cette mise en œuvre, un niveau de soubassement présente des baies en arc segmentaire, surmontées d’un cordon. \n\nL’ensemble conserve cependant une trace plus ancienne : de la maison forte primitive, il ne subsiste qu’une tour carrée. Percée au premier étage d’une porte en plein cintre, elle porte au-dessus les deux rainures d’un pont-levis.",
+  "chronologie": [
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le château du XVIIe siècle s’élève sur un soubassement percé de baies en arc segmentaire, avec un corps principal rectangulaire encadré par deux ailes en retour d’équerre.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Aujourd'hui",
+    "texte": "De la maison forte primitive, il ne subsiste qu’une tour carrée, avec une porte en plein cintre et les rainures d’un pont-levis.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Taisey",
+   "histoire": "Le Château de Taisey se trouve sur la commune de Saint-Rémy, à la lisière sud du village, sur une terrasse dominant la Saône. Le château daté du XVIIe siècle se compose d’un corps principal rectangulaire, flanqué de deux ailes en retour d’équerre, précédé d’un niveau de soubassement à baies en arc segmentaire. De l’état primitif, il ne demeure qu’une tour carrée, percée d’une porte en plein cintre et équipée de rainures correspondant à un pont-levis.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une tour carrée subsiste, percée d’une porte en plein cintre et marquée par les deux rainures d’un pont-levis.",
+   "sources": [
+    "S2",
+    "S3",
+    "S4"
+   ],
+   "lat": 46.770494,
+   "lon": 4.816885,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Taisey"
+  }
+ ],
+ "sources": [
+  "Saint-Rémy est une commune française située dans le département de Saône-et-Loire, en région Bourgogne-Franche-Comté. Elle appartient à la communauté d'agglomération du Grand Chalon et à sa aire urbaine.",
+  "Lieu « Château de Taisey » : Le château de Taisey est situé sur la commune de Saint-Rémy en Saône-et-Loire, à la lisière sud du village, sur une terrasse dominant la Saône.",
+  "Lieu « Château de Taisey », XVIIe siècle : Le château du XVIIe siècle, édifié sur un niveau de soubassement percé de baies en arc segmentaire au-dessus desquelles règne un cordon, comprend un corps principal de plan rectangulaire allongé entre deux ailes en retour d'équerre sur ses deux façades.",
+  "Lieu « Château de Taisey », aujourd'hui : De la maison forte primitive, il ne subsiste qu'une tour carrée, percée au premier étage d'une porte en plein cintre que surmontent les deux rainures d'un pont-levis."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
