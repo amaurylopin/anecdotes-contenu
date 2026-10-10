@@ -1,0 +1,105 @@
+{
+ "commune": {
+  "titre": "Reignier-Ésery",
+  "code_insee": "74220",
+  "departement": "74",
+  "population": 8464,
+  "lat": 46.13527778,
+  "lon": 6.26916667,
+  "url": "https://fr.wikipedia.org/wiki/Reignier-%C3%89sery"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:36",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1221,
+  "sortie": 909
+ },
+ "cout_usd": 0.00138,
+ "accroche": "Près du bourg de Reignier, le dolmen de la Pierre-aux-Fées atteste une origine très ancienne de Reignier, autrefois Regniacum ou Reginacum.",
+ "histoire": {
+  "recit": "Reignier-Ésery, commune de Haute-Savoie, appartient à l’agglomération transfrontalière du Grand Genève. Son histoire commence bien avant les cartes modernes : l’origine de Reignier remonte à des formes anciennes de noms et elle est notamment mise en évidence par un dolmen, la Pierre-aux-Fées, non loin du bourg. Autour de ce site, on évoque des pratiques cultuelles antérieures à l’occupation romaine et à l’évangélisation chrétienne, avec des sépultures de l’âge du bronze, puis des vestiges gallo-romains et burgondes.\n\nPlus tard, la nature continue aussi d’écrire le récit. À la Plaine des Rocailles, des blocs calcaires occupent la vallée de l’Arve : ils seraient issus d’un écroulement dont les débris auraient été transportés jusqu’à leur emplacement actuel par le glacier de l’Arve, associés à une moraine latérale.",
+  "chronologie": [
+   {
+    "date": "origine très ancienne",
+    "texte": "Le secteur de Reignier, anciennement nommé Regniacum/Reginacum puis Rignie et Rignier, est rattaché à des traces anciennes attestées par le dolmen de la Pierre-aux-Fées.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "période sans précision",
+    "texte": "Autour de la Pierre-aux-Fées, la source mentionne un culte druidique avant l’occupation romaine et l’évangélisation chrétienne, ainsi que des sépultures de l’âge du bronze et des vestiges gallo-romains et burgondes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2007",
+    "texte": "La Pierre-aux-Fées a fait l’objet d’un relevé lasergrammétrique.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pierre-aux-Fées (Reignier)",
+   "histoire": "La Pierre-aux-Fées, aussi appelée Pierre des morts, est un dolmen situé à Reignier, en Haute-Savoie.",
+   "anecdotes": [
+    {
+     "texte": "Le dolmen est présenté comme un repère attestant une origine ancienne de Reignier et, autour du site, la source évoque des pratiques cultuelles avant l’occupation romaine et l’évangélisation chrétienne, avec des traces de l’âge du bronze et des vestiges gallo-romains et burgondes.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Deux autres dalles allongées, de 3,10 m et de 2,80 cm de longueur, sont visibles à l’est de l’édifice.",
+   "sources": [
+    "S3",
+    "S5"
+   ],
+   "lat": 46.1296,
+   "lon": 6.2919,
+   "url": "https://fr.wikipedia.org/wiki/Pierre-aux-F%C3%A9es_%28Reignier%29"
+  },
+  {
+   "nom": "Plaine des Rocailles",
+   "histoire": "La Plaine des Rocailles est un site naturel de Haute-Savoie, dans la vallée de l’Arve, à Reignier-Ésery.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 46.123508,
+   "lon": 6.288493,
+   "url": "https://fr.wikipedia.org/wiki/Plaine_des_Rocailles"
+  }
+ ],
+ "sources": [
+  "Reignier-Ésery est une commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes. Elle fait partie de l'agglomération transfrontalière du Grand Genève.",
+  "L’origine très ancienne de Reignier (anciennement Regniacum, ou Reginacum, puis Rignie, Rignier, Regnier, etc.), est attestée par le dolmen de la Pierre aux Fées situé non loin du bourg. Le culte druidique ayant été pratiqué dans la région avant l’occupation romaine et l’évangélisation chrétienne, par des sépultures de l'âge du bronze, ainsi que des vestiges gallo-romains et burgondes. Au cours de la période […]",
+  "Lieu « Pierre-aux-Fées (Reignier) » : La Pierre-aux-Fées, aussi appelée Pierre des morts, est un dolmen situé à Reignier, dans le département français de la Haute-Savoie, en France.",
+  "Lieu « Pierre-aux-Fées (Reignier) », 2007 : En 2007, l'édifice a fait l'objet d'un relevé lasergrammétrique.",
+  "Lieu « Pierre-aux-Fées (Reignier) », aujourd'hui : Deux autres dalles allongées, d'une longueur respective de 3,10 m et 2,80 cm, sont visibles à l'est de l'édifice.",
+  "Lieu « Plaine des Rocailles » : La plaine des Rocailles est un site naturel de France situé en Haute-Savoie, à Reignier-Ésery, dans la vallée de l'Arve.",
+  "Lieu « Plaine des Rocailles », aujourd'hui : Ces blocs calcaires seraient issus d'un écroulement sur une montagne indéterminée dont les débris ont été charriés par le glacier de l'Arve jusqu'à leur emplacement actuel associé à une moraine latérale."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

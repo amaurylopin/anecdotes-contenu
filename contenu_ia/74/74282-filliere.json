@@ -1,0 +1,235 @@
+{
+ "commune": {
+  "titre": "Thorens-Glières",
+  "code_insee": "74282",
+  "departement": "74",
+  "population": 10075,
+  "lat": 45.99777778,
+  "lon": 6.24777778,
+  "url": "https://fr.wikipedia.org/wiki/Thorens-Gli%C3%A8res"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2234,
+  "sortie": 1796
+ },
+ "cout_usd": 0.002692,
+ "accroche": "Depuis le 1er janvier 2017, Thorens-Glières est regroupée avec Aviernoz, Évires, Les Ollières et Saint-Martin-Bellevue pour former Fillière.",
+ "histoire": {
+  "recit": "Thorens-Glières, ancienne commune de Haute-Savoie, a gardé une histoire tenue entre plateau et pierres de pouvoir. On évoque ici une villa gallo-romaine, tandis que Thorens reste une paroisse de l’ancien comté de Genève. Le château commande le plateau des Glières dès 1060 et la route ancienne passe par là.\n\nLongtemps, le lieu change de mains et de destins : Thorens est vendu en 1559 au seigneur François de Sales, père de saint François de Sales, et le château devient la demeure liée à cette figure. Le château de Sales, voisin proche, est détruit en 1630, lors de l’invasion de la Savoie par la France.\n\nPlus près de nous, la mémoire de la Résistance s’inscrit aussi : en 1973, un monument est construit à l’initiative des rescapés des Glières, comme symbole d’espoir. Aujourd’hui, la famille de Roussy de Sales habite toujours le château de Thorens, et celui-ci est ouvert au public depuis 1960.",
+  "chronologie": [
+   {
+    "date": "1060",
+    "texte": "Le château commande le plateau des Glières et l’ancienne voie romaine, bâtissant à partir d’un ancien fort élevé par ordre du comte Gérold de Genève.",
+    "sources": [
+     "S2",
+     "S5"
+    ]
+   },
+   {
+    "date": "1559",
+    "texte": "Thorens est vendu au seigneur François de Sales, père de saint François de Sales.",
+    "sources": [
+     "S6",
+     "S2"
+    ]
+   },
+   {
+    "date": "1630",
+    "texte": "Le château de Sales est détruit lors de l’invasion de la Savoie par la France.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1630",
+    "texte": "Le château de Thorens est parfois confondu avec le château de Sales, détruit sur ordre du roi de France Louis XIII en 1630.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1672",
+    "texte": "Une chapelle est édifiée sur les ruines du château de Sales à l’emplacement de la chambre natale de saint François de Sales.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "Un monument est construit à l’initiative des rescapés des Glières, œuvre d’art moderne symbolisant la Résistance et l’espoir.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "Le château de Thorens, habité par la famille de Roussy de Sales, est ouvert au public depuis 1960.",
+    "sources": [
+     "S12",
+     "S8"
+    ]
+   },
+   {
+    "date": "2017",
+    "texte": "Thorens-Glières est regroupée pour former la commune nouvelle de Fillière.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Thorens",
+   "histoire": "Situé à la sortie du village, sur la commune de Thorens-Glières, le château commande le plateau des Glières. Il est bâti sur l’ancien fort élevé en 1060, puis il demeure associé à la famille de Roussy de Sales.",
+   "anecdotes": [
+    {
+     "texte": "On dit que le château de Thorens est souvent confondu avec le château de Sales, pourtant voisin de quelques centaines de mètres.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La famille de Roussy de Sales habite toujours le château, et il est ouvert au public depuis 1960.",
+   "sources": [
+    "S4",
+    "S5",
+    "S8",
+    "S12",
+    "S2",
+    "S7"
+   ],
+   "lat": 45.993611,
+   "lon": 6.255556,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Thorens"
+  },
+  {
+   "nom": "Château de Sales (Thorens-Glières)",
+   "histoire": "Ancienne maison forte, le château de Sales n’a plus de vestiges sur place. Son histoire passe par une destruction en 1630, puis par l’édification d’une chapelle en 1672 sur les ruines.",
+   "anecdotes": [
+    {
+     "texte": "En 1672, une chapelle est bâtie à l’emplacement de la chambre natale de saint François de Sales, sur les ruines du château.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Le château de Sales a été détruit en 1630, lors de l’invasion de la Savoie par la France.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S7"
+   ],
+   "lat": 45.9944,
+   "lon": 6.2584,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Sales_%28Thorens-Gli%C3%A8res%29"
+  },
+  {
+   "nom": "Aviernoz",
+   "histoire": "Aviernoz est une ancienne commune de Haute-Savoie. Son église Saint-Maurice, édifiée en 1891, a été déplacée lors de la création du nouveau chef-lieu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 45.9788888889,
+   "lon": 6.22361111111,
+   "url": "https://fr.wikipedia.org/wiki/Aviernoz"
+  },
+  {
+   "nom": "Fillière (Haute-Savoie)",
+   "histoire": "Fillière est une commune nouvelle de Haute-Savoie créée le 1er janvier 2017, issue du regroupement incluant Thorens-Glières.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S1"
+   ],
+   "lat": 45.9977777778,
+   "lon": 6.24777777778,
+   "url": "https://fr.wikipedia.org/wiki/Filli%C3%A8re_%28Haute-Savoie%29"
+  },
+  {
+   "nom": "Évires",
+   "histoire": "Évires est une ancienne commune de Haute-Savoie. Le passage par le col d’Évires apparaît sur la première route nationale reliant Annecy et La Roche-sur-Foron.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 46.0383333333,
+   "lon": 6.225,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89vires"
+  },
+  {
+   "nom": "Église Saint-Maurice-et-Saint-François-de-Sales de Thorens-Glières",
+   "histoire": "Église catholique de Thorens-Glières, elle est reconstruite en 1898. Elle est consacrée le 15 mai 1901 sous le double patronage.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24"
+   ],
+   "lat": 45.9969,
+   "lon": 6.24711,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maurice-et-Saint-Fran%C3%A7ois-de-Sales_de_Thorens-Gli%C3%A8res"
+  }
+ ],
+ "sources": [
+  "Thorens-Glières [tɔʁɑ̃ ɡlijɛʁ] est une ancienne commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes. Le 1er janvier 2017, elle est regroupée avec Aviernoz, Évires, Les Ollières et Saint-Martin-Bellevue pour former la commune nouvelle de Fillière.",
+  "Il semble qu'il y ait eu ici une villa gallo-romaine, selon Charles Marteaux (1861-1956), Académie florimontane. Thorens est une paroisse de l'ancien comté de Genève. Depuis l'an 1060, le château commande le plateau des Glières et l’ancienne voie romaine. Habité par la famille de Sales depuis 1559, Thorens est la demeure de saint François de Sales et la villégiature du Premier Ministre piémontais Camille de Cavour […]",
+  "1973 : Un monument a été construit en 1973 à l’initiative des rescapés des Glières, cette œuvre d’art moderne symbolise la Résistance et l’espoir.",
+  "Lieu « Château de Thorens » : Le château de Thorens est situé sur la commune de Thorens-Glières en Haute-Savoie, à une vingtaine de kilomètres au nord-est d'Annecy, à la sortie du village, par la route montant au plateau des Glières.",
+  "Lieu « Château de Thorens », 1060 : Il est bâti sur l'ancien fort de 1060, élevé par ordre du comte Gérold de Genève.",
+  "Lieu « Château de Thorens », 1559 : Plus tard, en 1559, Thorens fut vendu par Sébastien de Luxembourg, duc de Penthièvre et vicomte de Martigues, au seigneur François de Sales, père de saint François de Sales.",
+  "Lieu « Château de Thorens », 1630 : Il est souvent confondu avec le château de Sales, son ancien voisin de quelques centaines de mètres : Sales fut détruit sur ordre du roi de France, Louis XIII, en 1630.",
+  "Lieu « Château de Thorens », aujourd'hui : Aujourd'hui, la famille de Roussy de Sales habite toujours le château en le préservant avec soins.",
+  "Lieu « Château de Sales (Thorens-Glières) » : Le château de Sales est une ancienne maison forte, dont il ne reste aucun vestige qui se dressait sur la commune de Thorens-Glières une commune française, dans le département de la Haute-Savoie et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Sales (Thorens-Glières) », 1630 : Le château de Sales est détruit en 1630 lors de l'invasion de la Savoie par la France (1630-1631).",
+  "Lieu « Château de Sales (Thorens-Glières) », 1672 : En 1672, trois neveux de Louis, dont Mgr Charles-Auguste de Sales, prince-évêque de Genève, font édifier une chapelle sur les ruines du château de Sales, précisément à l'emplacement de la chambre natale de saint François de Sales.",
+  "Lieu « Château de Sales (Thorens-Glières) », 1960 : La famille de Roussy de Sales, une branche cadette, réside actuellement dans le château de Thorens, ouvert au public depuis 1960.",
+  "Lieu « Château de Sales (Thorens-Glières) », aujourd'hui : Le château de Sales est une ancienne maison forte, dont il ne reste aucun vestige qui se dressait sur la commune de Thorens-Glières une commune française, dans le département de la Haute-Savoie et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Aviernoz » : Aviernoz (le -z ne se prononce pas) est une ancienne commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Aviernoz », 1891 : Église Saint-Maurice, édifiée dans un style savoyard en 1891.",
+  "Lieu « Aviernoz », 1896 : Lors de la création du nouveau chef-lieu, l'église est déplacée en 1896, puis en 1947 le cimetière est lui aussi transféré.",
+  "Lieu « Fillière (Haute-Savoie) » : Fillière [filjɛʁ] est, depuis le 1er janvier 2017, une commune nouvelle française située dans le département de la Haute-Savoie en région Auvergne-Rhône-Alpes.",
+  "Lieu « Fillière (Haute-Savoie) », 1775 : Verrerie d'Usillon : importante verrerie, fondée au XVIIIe siècle, par le général de cavalerie Paul-François de Sales, qui employait, en 1775, plus de trois cents ouvriers.",
+  "Lieu « Fillière (Haute-Savoie) », 2010 : La gare de Saint-Martin-Bellevue, fermée en 2010, est située sur le territoire communal, dans la commune déléguée de Saint-Martin-Bellevue.",
+  "Lieu « Évires » : Évires est une ancienne commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Évires », 1824 : La première route nationale est ouverte en 1824 pour relier Annecy et La Roche-sur-Foron et passe par le col d'Évires.",
+  "Lieu « Évires », 1883 : En 1883-1884, la ligne de chemin de fer entre Annecy et La Roche-sur-Foron est construite.",
+  "Lieu « Église Saint-Maurice-et-Saint-François-de-Sales de Thorens-Glières » : L'église Saint-Maurice-et-Saint-François-de-Sales de Thorens-Glières est une église catholique française, située dans le département de la Haute-Savoie, dans la commune de Thorens-Glières.",
+  "Lieu « Église Saint-Maurice-et-Saint-François-de-Sales de Thorens-Glières », 1898 : L'église actuelle a été reconstruite en 1898, puis consacrée le 15 mai 1901 sous le double patronage."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 3
+ }
+}

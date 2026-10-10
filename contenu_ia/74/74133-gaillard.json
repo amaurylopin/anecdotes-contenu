@@ -1,0 +1,108 @@
+{
+ "commune": {
+  "titre": "Gaillard (Haute-Savoie)",
+  "code_insee": "74133",
+  "departement": "74",
+  "population": 11423,
+  "lat": 46.18583333,
+  "lon": 6.20833333,
+  "url": "https://fr.wikipedia.org/wiki/Gaillard_%28Haute-Savoie%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:46:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1200,
+  "sortie": 601
+ },
+ "cout_usd": 0.000991,
+ "accroche": "À Gaillard, le château est démoli en 1589, et Chastel-Gaillard devient alors simplement Gaillard.",
+ "histoire": {
+  "recit": "Au Moyen Âge, Gaillard est le centre d’une châtellenie et se confond avec Chastel-Gaillard : le lieu commande des passages, entre terres et eaux, vers la cité voisine de Genève. Au XIIIe siècle, l’agglomération frontière actuelle garde l’héritage de Château-Gaillard, bourg fortifié fondé par les comtes de Genève. Puis, le destin du château change tout : en 1589, après sa démolition, Chastel-Gaillard devient simplement Gaillard. \n\nAujourd’hui, l’Église Saint-Pierre de Gaillard donne un autre repère à l’histoire du bourg. Construite en 1880 dans le style néogothique, elle reçoit dans son clocher, dès le dimanche 1er janvier 1882, une installation particulière. Plus tard, en 1979, un orgue réalisé par Pierre Saby vient compléter l’ensemble.",
+  "chronologie": [
+   {
+    "date": "XIIIe siècle",
+    "texte": "Château-Gaillard, bourg fortifié fondé par les comtes de Genève, commande des passages terrestres et fluviaux vers la cité voisine.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Moyen Âge",
+    "texte": "Gaillard est le centre d’une châtellenie : Chastel-Gaillard devient Gaillard après la démolition du château.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1589",
+    "texte": "Le château est démoli ; Chastel-Gaillard devient simplement Gaillard.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1880",
+    "texte": "L’Église Saint-Pierre de Gaillard est construite en 1880, dans le style néogothique.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "dimanche 1er janvier 1882",
+    "texte": "Une installation est mise en place dans le clocher de l’Église Saint-Pierre de Gaillard.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1979",
+    "texte": "Un orgue réalisé par Pierre Saby est installé dans l’Église Saint-Pierre de Gaillard.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Pierre de Gaillard",
+   "histoire": "Église catholique située à Gaillard, elle est construite en 1880 dans le style néogothique. Deux temps forts suivent : une installation dans le clocher le dimanche 1er janvier 1882, puis l’ajout d’un orgue en 1979.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’église possède un orgue installé en 1979.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 46.18491,
+   "lon": 6.20638,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Gaillard"
+  }
+ ],
+ "sources": [
+  "Gaillard est une commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Durant le Moyen Âge, Gaillard est le centre d'une châtellenie. Chastel-Gaillard et devint simplement Gaillard après la démolition du château en 1589. Gaillard, par sa position géographique particulière, a joué un rôle actif dans l’histoire de Genève et de la Savoie. En effet, même si l’urbanisation a souvent effacé les traces du passé, l’agglomération frontière actuelle est l’héritière de Château-Gaillard, bourg […]",
+  "XIIIe siècle : En effet, même si l’urbanisation a souvent effacé les traces du passé, l’agglomération frontière actuelle est l’héritière de Château-Gaillard, bourg fortifié fondé par les comtes de Genève au XIIIe siècle, qui commandait les passages terrestres et fluviaux vers la cité voisine.",
+  "1589 : Chastel-Gaillard et devint simplement Gaillard après la démolition du château en 1589.",
+  "Lieu « Église Saint-Pierre de Gaillard » : L'église Saint-Pierre de Gaillard est une église catholique française, située dans le département de la Haute-Savoie, dans la commune de Gaillard.",
+  "Lieu « Église Saint-Pierre de Gaillard », 1880 : L'église Saint-Pierre de Gaillard a été construite en 1880, dans le style néogothique.",
+  "Lieu « Église Saint-Pierre de Gaillard », 1882 : Elle a été installée dans le clocher le dimanche 1er janvier 1882.",
+  "Lieu « Église Saint-Pierre de Gaillard », 1979 : En 1979, un orgue, réalisé par Pierre Saby, facteur d’orgues à Saint-Uze, y a été installé."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

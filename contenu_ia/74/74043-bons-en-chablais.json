@@ -1,0 +1,172 @@
+{
+ "commune": {
+  "titre": "Bons-en-Chablais",
+  "code_insee": "74043",
+  "departement": "74",
+  "population": 6343,
+  "lat": 46.26527778,
+  "lon": 6.37083333,
+  "url": "https://fr.wikipedia.org/wiki/Bons-en-Chablais"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:48:40",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1808,
+  "sortie": 971
+ },
+ "cout_usd": 0.001575,
+ "accroche": "En 1535, l’église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais est saccagée puis détruite lors de l’invasion des troupes protestantes bernoises.",
+ "histoire": {
+  "recit": "À Bons-en-Chablais, le cœur du village s’est développé près d’une voie celtique reliant la basse vallée de l’Arve au Chablais, avec l’espoir d’y faire halte entre des stations. La commune a ensuite traversé les crises de la foi et des conflits : en 1535, l’église est mise à mal, puis la vie religieuse protestante ne s’éteint pas malgré le retour du Chablais sous la maison de Savoie dans les années 1660. Plus tard, entre 1863 et 1865, une nouvelle église sort de terre.\n\nSur le territoire, le Château de Langin garde la trace d’une puissance plus ancienne : une enceinte polygonale et une tour maîtresse circulaire, aujourd’hui restaurées, dominent encore le paysage. Et quand le rail arrive, la Gare de Bons-en-Chablais tient un autre rythme : inaugurée le 30 août 1880, elle ferme le bâtiment voyageurs le 1er novembre 2017.",
+  "chronologie": [
+   {
+    "date": "1535",
+    "texte": "Lors de l’invasion des troupes protestantes bernoises en 1535-1536, l’église est saccagée puis détruite.",
+    "sources": [
+     "S3",
+     "S12"
+    ]
+   },
+   {
+    "date": "1660",
+    "texte": "Malgré le retour du Chablais dans le giron de la maison de Savoie, la foi protestante n’est pas abandonnée.",
+    "sources": [
+     "S4",
+     "S13"
+    ]
+   },
+   {
+    "date": "1467",
+    "texte": "Une nouvelle chapelle, dédiée aux Onze Mille Vierges, est construite.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1863-1865",
+    "texte": "Une nouvelle église est construite entre 1863 et 1865.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "30 août 1880",
+    "texte": "La gare est inaugurée à l’occasion de l’ouverture de la section entre Collonges-sous-Salève et Thonon-les-Bains.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1er novembre 2017",
+    "texte": "Le bâtiment voyageurs est fermé depuis le 1er novembre 2017.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Langin",
+   "histoire": "Le Château de Langin conserve la tour de Langin, dernier vestige d’un ancien château fort du XIIIe siècle, avec une tour maîtresse circulaire restaurée et une enceinte polygonale.",
+   "anecdotes": [
+    {
+     "texte": "Le château est dit détruit en 1591, sur ordre du Conseil du Genevois, lors des conflits entre Genève et la Savoie.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "La tour de Langin est vraisemblablement érigée dans le deuxième quart du XIIIe siècle, puis restaurée.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7",
+      "S6",
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La tour de Langin, restaurée, est le dernier vestige d’un ancien château fort du XIIIe siècle.",
+   "sources": [
+    "S6",
+    "S9"
+   ],
+   "lat": 46.253528,
+   "lon": 6.343556,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Langin"
+  },
+  {
+   "nom": "Église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais",
+   "histoire": "L’église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais a vu sa chapelle dédiée aux Onze Mille Vierges naître en 1467, puis un saccage en 1535-1536 et, plus tard, la construction d’une nouvelle église entre 1863 et 1865.",
+   "anecdotes": [
+    {
+     "texte": "En 1535-1536, l’église est saccagée puis détruite lors de l’invasion des troupes protestantes bernoises.",
+     "statut": "etabli",
+     "sources": [
+      "S3",
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S5",
+    "S13"
+   ],
+   "lat": 46.26447,
+   "lon": 6.3707,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-et-Saint-Paul_de_Bons-en-Chablais"
+  },
+  {
+   "nom": "Gare de Bons-en-Chablais",
+   "histoire": "La Gare de Bons-en-Chablais se trouve à Saint-Didier, quartier de la commune, sur la ligne de Longeray-Léaz au Bouveret, et son bâtiment voyageurs ferme le 1er novembre 2017 après une inauguration le 30 août 1880.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 46.270117,
+   "lon": 6.366244,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bons-en-Chablais"
+  }
+ ],
+ "sources": [
+  "Bons-en-Chablais est une commune française située dans le département de la Haute-Savoie, dans la province du Chablais, en région Auvergne-Rhône-Alpes. La commune fait partie de Thonon Agglomération et de l'agglomération transfrontalière du Grand Genève. Elle est jumelée avec la ville italienne de Castione della Presolana depuis 2000. Bons-en-Chablais est constitué des villages de Marclay, de Langin, de […]",
+  "L'installation humaine sur le territoire de la commune ou ses environs est attestée par différents objets du néolithique et de la période suivante. Le chef-lieu de la commune s'est développé à proximité de la voie celtique reliant la basse vallée de l'Arve au Chablais. Le site a pu accueillir une relais entre les stations d'Annemasse et de Thonon. De nombreuses traces attestent une implantation durant la période […]",
+  "1535 : Lors de l'invasion des troupes protestantes bernoises en 1535-1536, tout comme dans une bonne partie du Chablais, l'église est saccagée puis détruite.",
+  "1660 : Malgré le retour du Chablais dans le giron de la maison de Savoie dans les années 1660, la foi protestante n'est pas abandonnée.",
+  "1863 : Entre 1863 et 1865, une nouvelle église est construite.",
+  "Lieu « Château de Langin » : La tour de Langin, restaurée, est le dernier vestige d'un ancien château fort, du XIIIe siècle, qui se dresse sur la commune de Bons-en-Chablais dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Langin », XIIIe siècle : Le château de Langin se présentait sous la forme d'une enceinte polygonale longue de 42 mètres enchemisant une tour maitresse circulaire isolée (restaurée) de 6,90 mètres de diamètre, voutée à son sommet, qui fut vraisemblablement érigée dans le deuxième quart du XIIIe siècle.",
+  "Lieu « Château de Langin », 1840 : La famille d'Allinges-Coudrée le conservera jusqu'en 1840 ; il est alors en ruine car détruit en 1591, sur ordre du Conseil du Genevois, lors des conflits entre Genève et la Savoie.",
+  "Lieu « Château de Langin », aujourd'hui : La tour de Langin, restaurée, est le dernier vestige d'un ancien château fort, du XIIIe siècle, qui se dresse sur la commune de Bons-en-Chablais dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais » : L’église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais est une église catholique française, située en Haute-Savoie, sur la commune de Bons-en-Chablais.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais », 1467 : En 1467, une nouvelle chapelle, dédiée aux Onze Mille Vierges, est construite.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais », 1535 : Lors de l'invasion des troupes protestantes bernoises en 1535-1536, tout comme dans une bonne partie du Chablais, l'église est saccagée puis détruite.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Bons-en-Chablais », 1660 : Malgré le retour du Chablais dans le giron de la maison de Savoie dans les années 1660, la foi protestante n'est pas abandonnée.",
+  "Lieu « Gare de Bons-en-Chablais » : La gare de Bons-en-Chablais est une gare ferroviaire française de la ligne de Longeray-Léaz au Bouveret, située à Saint-Didier, quartier de la commune de Bons-en-Chablais, dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Bons-en-Chablais », 1880 : L'inauguration de la gare a lieu le 30 août 1880, à l'occasion de l'ouverture de la section entre Collonges-sous-Salève et Thonon-les-Bains.",
+  "Lieu « Gare de Bons-en-Chablais », 2017 : Le bâtiment voyageurs est fermé depuis le 1er novembre 2017."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

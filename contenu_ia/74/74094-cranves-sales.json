@@ -1,0 +1,89 @@
+{
+ "commune": {
+  "titre": "Cranves-Sales",
+  "code_insee": "74094",
+  "departement": "74",
+  "population": 7762,
+  "lat": 46.1875,
+  "lon": 6.29194444,
+  "url": "https://fr.wikipedia.org/wiki/Cranves-Sales"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:23:35",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1047,
+  "sortie": 475
+ },
+ "cout_usd": 0.000803,
+ "accroche": "À Cranves-Sales, on a découvert un dolmen en 1864 lors de travaux dans des vignes, et un autre vestige aurait existé avant d’avoir disparu.",
+ "histoire": {
+  "recit": "Cranves-Sales, en Haute-Savoie, fait partie de l’agglomération du Grand Genève. L’ombre d’un âge très ancien plane sur la commune : un dolmen a été découvert en 1864, à l’occasion de travaux dans des vignes, au cours desquels l’ouvrage a été endommagé. Des fouilles ont alors livré un tas d’ossements et des fragments.\n\nPlus tard, la vie religieuse s’est structurée autour de l’église Saint-Jean-Baptiste. Son clocher ancien remonte au XIIIe siècle ; il a ensuite été décapité pendant la Révolution. Depuis, l’église demeure le repère majeur du village.",
+  "chronologie": [
+   {
+    "date": "1864",
+    "texte": "Découverte d’un dolmen pendant des travaux dans des vignes, l’ouvrage étant endommagé par un cultivateur ; des fouilles mettent au jour des ossements et des fragments.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le clocher ancien de l’église Saint-Jean-Baptiste de Cranves-Sales date du XIIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Révolution",
+    "texte": "Le clocher ancien de l’église Saint-Jean-Baptiste de Cranves-Sales est décapité pendant la Révolution.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Jean-Baptiste de Cranves-Sales",
+   "histoire": "L’église est dédiée à saint Jean-Baptiste et se trouve sur la commune de Cranves-Sales. Son ancien clocher remonte au XIIIe siècle et a été décapité durant la Révolution.",
+   "anecdotes": [
+    {
+     "texte": "Le clocher ancien, daté du XIIIe siècle, aurait été décapité durant la Révolution.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 46.18658,
+   "lon": 6.29138,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Cranves-Sales"
+  }
+ ],
+ "sources": [
+  "Cranves-Sales est une commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes. Elle fait partie de l'agglomération du Grand Genève.",
+  "Ancienne présence d'un dolmen, peut-être deux, de l'époque mégalithique, présent encore au XIXe siècle, mais depuis disparu, rapporté par l'historien Louis Revon (1833-1884), Conservateur du musée municipal d'Annecy. Le dolmen de Cranves a été découvert, en 1864, lors de travaux effectués dans des vignes par un cultivateur qui l'a endommagé. Des fouilles ont permis de mettre au jour un tas d'ossements, des fragments […]",
+  "Lieu « Église Saint-Jean-Baptiste de Cranves-Sales » : L'église de Cranves-Sales, dédiée à saint Jean-Baptiste, est une église catholique française, située en Haute-Savoie, sur la commune de Cranves-Sales.",
+  "Lieu « Église Saint-Jean-Baptiste de Cranves-Sales », XIIIe siècle : L'ancien clocher date du XIIIe siècle, et a été décapité durant la Révolution."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

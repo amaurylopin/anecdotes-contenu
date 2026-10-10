@@ -1,0 +1,200 @@
+{
+ "commune": {
+  "titre": "Ville-la-Grand",
+  "code_insee": "74305",
+  "departement": "74",
+  "population": 9514,
+  "lat": 46.20305556,
+  "lon": 6.2475,
+  "url": "https://fr.wikipedia.org/wiki/Ville-la-Grand"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:02:27",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1767,
+  "sortie": 1572
+ },
+ "cout_usd": 0.002318,
+ "accroche": "En 522, l’église située à l’emplacement de la villa gallo-romaine est consacrée par l’archevêque de Vienne, Avit, à Ville-la-Grand.",
+ "histoire": {
+  "recit": "À Ville-la-Grand, l’histoire commence loin devant la paroisse : une villa romaine et burgonde, tenue jusqu’à l’époque franque, s’est dressée sur un territoire allobroge occupé par les Romains, le long d’une voie secondaire menant d’Annemasse vers le Chablais. Trois pierres gravées, portant des inscriptions latines, en gardent la trace.\n\nPlus près du temps des clochers, un temple dédié au dieu Mars, rattaché à la zone d’Annemasse, est détruit vers le VIe siècle. L’emplacement change alors de fonction : en 522, l’église y est construite et consacrée par l’archevêque de Vienne, Avit.\n\nL’architecture suit ensuite des chocs et des reconstructions. Le clocher de la période moderne date de 1754, tandis que le reste du bâtiment est entièrement détruit en 1893 pour faire place à une construction plus moderne. Aujourd’hui, l’église actuelle serait établie sur l’emplacement même de l’ancienne villa gallo-romaine, qui possédait un temple voué à Mars.\n\nEn périphérie, un autre visage de la commune se lit à travers La Gradelle : le terrain est classé en zone à bâtir en 1961, et l’ensemble résidentiel prend forme à partir d’un plan masse entre 1963 et 1967.",
+  "chronologie": [
+   {
+    "date": "Ier siècle av. J.-C. au Ier siècle de notre ère",
+    "texte": "Une villa romaine et burgonde est édifiée en territoire allobroge occupé par les Romains ; la voie romaine secondaire relie Annemasse vers le Chablais.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "VIe siècle",
+    "texte": "Le temple dédié au culte du dieu Mars d’Annemasse est détruit.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "522",
+    "texte": "L’église est construite à l’emplacement de la villa et consacrée par l’archevêque de Vienne, Avit.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1754",
+    "texte": "Le clocher de l’église de la période moderne est construit.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1893",
+    "texte": "Le reste du bâtiment est entièrement détruit et remplacé par une construction plus moderne.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1961",
+    "texte": "À La Gradelle, le terrain est classé en zone à bâtir.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1963-1967",
+    "texte": "La Gradelle est conçue à partir d’un plan masse et construite sous la direction d’architectes.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Mammès de Ville-la-Grand",
+   "histoire": "Église catholique de Ville-la-Grand, installée à l’emplacement d’une ancienne villa gallo-romaine liée à un temple voué à Mars, avec des étapes marquées : clocher construit en 1754, puis bâtiment reconstruit après la destruction de 1893.",
+   "anecdotes": [
+    {
+     "texte": "Le site de l’église actuelle serait lié à une ancienne villa gallo-romaine qui possédait un temple dédié à Mars.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le clocher de 1754 subsiste de l’église de la période moderne.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 46.20272,
+   "lon": 6.24972,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Mamm%C3%A8s_de_Ville-la-Grand"
+  },
+  {
+   "nom": "La Gradelle",
+   "histoire": "Quartier résidentiel à la périphérie est de la ville de Genève, situé sur les communes de Chêne-Bougeries et de Cologny en Suisse, dont l’aménagement prend une forme nouvelle après le classement du terrain.",
+   "anecdotes": [
+    {
+     "texte": "Dans les années 1930, La Gradelle accueille une écurie et deux hippodromes, dont le plus grand occupe ensuite l’emplacement de l’ensemble résidentiel actuel.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Le plan masse de La Gradelle est conçu entre 1963 et 1967 par Roger Gaulis et Dominique Gampert.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le plus grand hippodrome des années 1930 occupe l’emplacement de l’ensemble résidentiel actuel.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 46.207028,
+   "lon": 6.184056,
+   "url": "https://fr.wikipedia.org/wiki/La_Gradelle"
+  },
+  {
+   "nom": "Église Notre-Dame du Foyer des Cornières",
+   "histoire": "Édifice religieux catholique situé en Haute-Savoie, à la limite entre Ambilly et Ville-la-Grand, abritant une statue du Christ du XVIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "L’édifice contient une statue du Christ du XVIIIe siècle, issue du presbytère de Ville-la-Grand.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 46.203142,
+   "lon": 6.23461,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_du_Foyer_des_Corni%C3%A8res"
+  },
+  {
+   "nom": "Chêne-Bougeries",
+   "histoire": "Commune suisse du canton de Genève, à la périphérie de la ville de Genève, qui englobe plusieurs quartiers dont ceux liés à La Gradelle.",
+   "anecdotes": [
+    {
+     "texte": "Alain Delon y a vécu, s’y installant en 1985 avec ses deux enfants, selon la source.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17"
+   ],
+   "lat": 46.197697,
+   "lon": 6.187834,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%AAne-Bougeries"
+  }
+ ],
+ "sources": [
+  "Ville-la-Grand est une commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "Une villa romaine et burgonde, qui semble s'être maintenue à l'époque franque a été édifiée en territoire Allobroges occupé par les Romains entre les Ier siècle av. J.-C. au Ier siècle de notre ère. Elle est placée sur une voie romaine secondaire, qui d'Annemasse permettait de remonter vers le Chablais. De cette époque subsistent trois pierres gravées d'inscriptions latines. La première mention écrite du lieu date […]",
+  "Ier siècle : Une villa romaine et burgonde, qui semble s'être maintenue à l'époque franque a été édifiée en territoire Allobroges occupé par les Romains entre les Ier siècle av. J.-C. au Ier siècle de notre ère.",
+  "522 : L'église est construite à son emplacement et consacrée par l'archevêque de Vienne, Avit, en 522.",
+  "VIe siècle : Vers le VIe siècle, le temple dédié au culte du dieu Mars d'Annemasse est détruit.",
+  "Lieu « Église Saint-Mammès de Ville-la-Grand » : L'église Saint-Mammès de Ville-la-Grand est une église catholique française, située dans le département de la Haute-Savoie, dans la commune de Ville-la-Grand.",
+  "Lieu « Église Saint-Mammès de Ville-la-Grand », 1754 : De l'église de la période moderne, il ne reste que le clocher construit en 1754.",
+  "Lieu « Église Saint-Mammès de Ville-la-Grand », 1893 : Le reste du bâtiment fut entièrement détruit en 1893 pour être remplacée par une construction plus moderne.",
+  "Lieu « Église Saint-Mammès de Ville-la-Grand », aujourd'hui : L'église actuelle serait construite sur l'emplacement d'une ancienne villa gallo-romaine qui possédait un temple dédiée à Mars.",
+  "Lieu « La Gradelle » : La Gradelle est un quartier résidentiel situé à la périphérie est de la ville de Genève, sur les communes de Chêne-Bougeries et de Cologny en Suisse.",
+  "Lieu « La Gradelle », 1961 : Le terrain est classé en zone à bâtir en 1961, ce qui ouvre la voie à un vaste projet résidentiel.",
+  "Lieu « La Gradelle », 1963 : Entre 1963 et 1967, l’ensemble est conçu à partir d’un plan masse de Roger Gaulis et Dominique Gampert et construit sous la direction des architectes Jean Hentsch et Jacques Zbinden.",
+  "Lieu « La Gradelle », aujourd'hui : Dans les années 1930, il accueille une écurie et deux hippodromes, dont le plus grand occupe l’emplacement de l’ensemble résidentiel actuel.",
+  "Lieu « Église Notre-Dame du Foyer des Cornières » : L'église Notre-Dame du Foyer des Cornières est un édifice religieux catholique, situé en Haute-Savoie, à la limite entre la commune d'Ambilly et de Ville-la-Grand.",
+  "Lieu « Église Notre-Dame du Foyer des Cornières », XVIIIe siècle : L’édifice contient une statue du Christ du XVIIIe siècle, issu du presbytère de Ville-la-Grand.",
+  "Lieu « Église Notre-Dame du Foyer des Cornières », 1893 : La paroisse de Ville-la-Grand possède une église construite en 1893, l'église Saint-Mammès.",
+  "Lieu « Chêne-Bougeries » : Chêne-Bougeries est une commune suisse du canton de Genève, elle englobe plusieurs quartiers à la périphérie de la ville de Genève.",
+  "Lieu « Chêne-Bougeries », 1758 : Ce bâtiment a été inauguré en 1758, sur les plans de Jean-Louis Calandrini.",
+  "Lieu « Chêne-Bougeries », 1935 : Alain Delon (1935-2024) a vécu à Chêne-Bougeries où il s'est installé en 1985 avec ses deux enfants Anoushka (née en 1990) et Alain Delon Jr."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 5
+ }
+}

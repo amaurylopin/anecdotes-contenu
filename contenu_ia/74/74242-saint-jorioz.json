@@ -1,0 +1,166 @@
+{
+ "commune": {
+  "titre": "Saint-Jorioz",
+  "code_insee": "74242",
+  "departement": "74",
+  "population": 6390,
+  "lat": 45.8331,
+  "lon": 6.1669,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Jorioz"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:47:44",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1572,
+  "sortie": 1421
+ },
+ "cout_usd": 0.002091,
+ "accroche": "En 1929, la plage de Saint-Jorioz est inaugurée, après le développement du tourisme dans les années 1920.",
+ "histoire": {
+  "recit": "À Saint-Jorioz, le passage ancien comptait déjà : sur la rive droite du lac, un axe romain reliait Genava et Darantasia, en passant par Boutae et Casuaria, avant de rejoindre la péninsule italienne par le col du Petit-Saint-Bernard ; le vicus de Macellum, aujourd’hui Saint-Jorioz, se trouvait à un gué, près de l’actuelle passerelle. (Les habitants ont aussi gardé des traces plus tardives.)\n\nAu fil du temps, le bord du lac devient un lieu de villégiature : le tourisme prend son essor dans les années 1920, et la plage est inaugurée en 1929.\n\nLe paysage religieux, lui, se lit dans les toponymes et les pierres : l’église Saint-Nicolas de Saint-Jorioz voit sa première pierre posée en 1885, puis elle est consacrée en 1897 ; en février 1935, une tornade endommage lourdement le clocher et sa flèche, reconstruits plus bas. Le même lieu est encore signalé par la “Vieille Église”, où subsiste une croix.\n\nEnfin, sur les rives, le Marais de l'Enfer et roselières de Saint-Jorioz forment des zones humides, avec un site palafittique préhistorique d’habitats lacustres.",
+  "chronologie": [
+   {
+    "date": "vers le IXe siècle",
+    "texte": "Le prieuré de Saint-Jorioz est fondé probablement vers le IXe siècle, avant de disparaître en 1763.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1763",
+    "texte": "Le prieuré de Saint-Jorioz disparaît en 1763.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "La première pierre de l’église Saint-Nicolas de Saint-Jorioz est posée en 1885, tandis que l’ancienne église est détruite ; une nouvelle église est édifiée au chef-lieu.",
+    "sources": [
+     "S5",
+     "S11"
+    ]
+   },
+   {
+    "date": "1897",
+    "texte": "L’église Saint-Nicolas de Saint-Jorioz est consacrée en 1897.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "23 février 1935",
+    "texte": "Une tornade cause de gros dommages au clocher et à sa flèche ; il est ensuite reconstruit plus bas.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "années 1920",
+    "texte": "Le tourisme se développe dans les années 1920, avec l’aménagement de la plage.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "La plage est inaugurée en 1929.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Nicolas de Saint-Jorioz",
+   "histoire": "L’église Saint-Nicolas de Saint-Jorioz se situe dans la commune de Saint-Jorioz. La première pierre est posée en 1885, après la destruction de l’ancienne église ; la construction suit à partir de 1885 et l’édifice est consacré en 1897.",
+   "anecdotes": [
+    {
+     "texte": "Le 23 février 1935, une tornade endommage lourdement le clocher et sa flèche ; ils sont ensuite reconstruits plus bas.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Le lieu est encore rappelé par le toponyme “Vieille Église”, où subsiste aujourd’hui une croix.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une croix subsiste au toponyme “Vieille Église”.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 45.83159,
+   "lon": 6.16134,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nicolas_de_Saint-Jorioz"
+  },
+  {
+   "nom": "Prieuré de Saint-Jorioz",
+   "histoire": "Le prieuré de Saint-Jorioz est un ancien prieuré bénédictin du diocèse de Genève, dans la commune de Saint-Jorioz. Fondé probablement vers le IXe siècle, il disparaît en 1763. En 1885, l’église ancienne est détruite et une nouvelle, dédiée à Saint-Nicolas, est édifiée au chef-lieu. Le site reste mentionné par le toponyme “Vieille église”, avec une croix.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le toponyme “Vieille église” conserve l’indication du lieu, avec une croix.",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 45.838118,
+   "lon": 6.173804,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_Saint-Jorioz"
+  },
+  {
+   "nom": "Marais de l'Enfer et roselières de Saint-Jorioz",
+   "histoire": "Le Marais de l'Enfer et les roselières de Saint-Jorioz sont un ensemble de zones humides, de littoral et de rivages lacustres sur les rives du lac d’Annecy, à Saint-Jorioz. Il abrite aussi un site palafittique préhistorique (vestiges d’habitat lacustre).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 45.842135,
+   "lon": 6.160069,
+   "url": "https://fr.wikipedia.org/wiki/Marais_de_l%27Enfer_et_roseli%C3%A8res_de_Saint-Jorioz"
+  }
+ ],
+ "sources": [
+  "Saint-Jorioz (le -z final ne se prononce pas) est une commune française située dans le département de la Haute-Savoie, en région Auvergne-Rhône-Alpes.",
+  "La rive droite du lac voit se développer un axe de communication secondaire pour les Romains, situé entre Genava (Genève) et Darantasia (Moûtiers), en passant par Boutae (Annecy) et Casuaria (Faverges), permettant de rejoindre la péninsule italienne par le col du Petit-Saint-Bernard. Le vicus de Macellum (aujourd'hui Saint-Jorioz) se trouve un gué, qui devait se situer à proximité de l'actuelle passerelle des […]",
+  "1920 : Le tourisme se développe dans les années 1920, avec l'aménagement de la plage, inaugurée en 1929.",
+  "Lieu « Église Saint-Nicolas de Saint-Jorioz » : L'église Saint-Nicolas de Saint-Jorioz est une église catholique française, située dans le département de la Haute-Savoie, dans la commune de Saint-Jorioz.",
+  "Lieu « Église Saint-Nicolas de Saint-Jorioz », 1885 : La première pierre est posée en 1885, alors que l'ancienne église est détruite.",
+  "Lieu « Église Saint-Nicolas de Saint-Jorioz », 1885 : Elle construite à partir de 1885, puis consacrée en 1897.",
+  "Lieu « Église Saint-Nicolas de Saint-Jorioz », 1935 : Puis le 23 février 1935, le clocher et sa flèche subirent de gros dommages occasionnés par une tornade, puis fut reconstruite en plus bas.",
+  "Lieu « Église Saint-Nicolas de Saint-Jorioz », aujourd'hui : Le lieu reste mentionné par le toponyme « Vieille Église », où subsiste aujourd'hui une croix.",
+  "Lieu « Prieuré de Saint-Jorioz » : Le prieuré de Saint-Jorioz (en latin Prior Sancti Jorii), parfois Saint-Georges de Duingt, est un ancien prieuré bénédictin du diocèse de Genève, dans la commune de Saint-Jorioz, dans le département français de la Haute-Savoie.",
+  "Lieu « Prieuré de Saint-Jorioz », 1763 : Fondé probablement vers le IXe siècle, il disparait en 1763.",
+  "Lieu « Prieuré de Saint-Jorioz », 1885 : L'église ancienne est détruite en 1885 et une nouvelle, dédiée à Saint-Nicolas, a été édifiée dans l'actuel chef-lieu.",
+  "Lieu « Prieuré de Saint-Jorioz », aujourd'hui : Le lieu reste mentionné par le toponyme « Vieille église », où subsiste une croix.",
+  "Lieu « Marais de l'Enfer et roselières de Saint-Jorioz » : Le marais de l'Enfer et les roselières de Saint-Jorioz sont un ensemble de zones humides, de littoral et de rivages lacustres situés à Saint-Jorioz, sur les rives du lac d'Annecy, en Haute-Savoie (France).",
+  "Lieu « Marais de l'Enfer et roselières de Saint-Jorioz », aujourd'hui : Il abrite par ailleurs un site palafittique préhistorique (vestiges d'habitat lacustre)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}
