@@ -1,0 +1,74 @@
+{
+ "commune": {
+  "titre": "Apatou",
+  "code_insee": "97360",
+  "departement": "973",
+  "population": 10306,
+  "lat": 5.153336,
+  "lon": -54.33596,
+  "url": "https://fr.wikipedia.org/wiki/Apatou"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:55:44",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 958,
+  "sortie": 408
+ },
+ "cout_usd": 0.000702,
+ "accroche": "Apatou est une commune de Guyane, créée en 1976 après la séparation d’avec l’ancienne commune de Grand-Santi-Papaïchton-Apatou.",
+ "histoire": {
+  "recit": "À Apatou, la vie de commune se lit aussi dans ses équipements de quartier. La commune a été créée en 1976, par séparation de l’ancienne commune de Grand-Santi-Papaïchton-Apatou. Depuis, Moutendé, dans Apatou, abrite le Stade de Moutendé, une enceinte de football pensée pour accueillir les matchs à domicile.\n\nInauguré en 2001, le stade dispose de 1 000 places et sert de terrain de rencontre pour l’Association sportive et culturelle Agouado. On y vient pour le ballon, mais aussi pour l’ambiance de quartier, ancrée dans la commune depuis la mise en service de ce stade.",
+  "chronologie": [
+   {
+    "date": "1976",
+    "texte": "Création d’Apatou par séparation de la commune d’Apatou de l’ancienne commune de Grand-Santi-Papaïchton-Apatou.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "Inauguration du Stade de Moutendé, à Moutendé, quartier d’Apatou, avec 1 000 places.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade de Moutendé",
+   "histoire": "Stade de football situé à Moutendé, quartier de la commune d’Apatou, dans l’arrondissement de Saint-Laurent-du-Maroni. Inauguré en 2001, il offre 1 000 places et accueille les matchs à domicile de l’Association sportive et culturelle Agouado.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 5.15042,
+   "lon": -54.33863,
+   "url": "https://fr.wikipedia.org/wiki/Stade_de_Moutend%C3%A9"
+  }
+ ],
+ "sources": [
+  "Apatou est une commune française, située dans le département de la Guyane. Elle fait partie de la communauté de communes de l'Ouest guyanais.",
+  "La commune a été créée en 1976 par la séparation de la commune d'Apatou de l'ancienne commune de Grand-Santi-Papaïchton-Apatou.",
+  "Lieu « Stade de Moutendé » : Le Stade de Moutendé est un stade de football guyanais situé à Moutendé, quartier de la commune d'Apatou, dans l'arrondissement de Saint-Laurent-du-Maroni.",
+  "Lieu « Stade de Moutendé », 2001 : Le stade, doté de 1 000 places et inauguré en 2001, sert d'enceinte à domicile pour l'Association sportive et culturelle Agouado."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
