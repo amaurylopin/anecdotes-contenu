@@ -1,0 +1,148 @@
+{
+ "commune": {
+  "titre": "Moirans",
+  "code_insee": "38239",
+  "departement": "38",
+  "population": 7818,
+  "lat": 45.32583333,
+  "lon": 5.56527778,
+  "url": "https://fr.wikipedia.org/wiki/Moirans"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:22:33",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1571,
+  "sortie": 1281
+ },
+ "cout_usd": 0.001915,
+ "accroche": "L’église Saint-Pierre de Moirans est classée au titre des monuments historiques le 21 décembre 1984.",
+ "histoire": {
+  "recit": "Moirans, commune de l’Isère, a longtemps servi de ville étape dans la région. Avant l’époque romaine, sa contrée appartient aux Allobroges, peuple gaulois du territoire situé entre l’Isère, le Rhône et les Alpes du Nord.\n\nPlus tard, la localité prend place dans l’organisation romaine : à partir de -121, l’Allobrogie est intégrée à la province du Viennois, avec Vienne pour capitale.\n\nÀ Moirans, un repère demeure autour du couvent des Cordeliers : après la suppression des ordres religieux, les moines sont expulsés et le couvent vendu au titre des biens nationaux. Bien plus tard, en 2004, des fresques murales du XIVe siècle sont mises au jour, puis un chantier de conservation et de restauration s’ouvre — aujourd’hui il n’en reste que quelques murs et une petite partie du cloître.\n\nLe quotidien passe aussi par la gare de Moirans-Galifette, équipée d’automates pour les titres TER depuis mi décembre 2017.\n\nEn 2015, des événements violents marquent la commune : des dégradations entraînent le blocage de la ligne de chemin de fer et de la gare SNCF, avec des voitures incendiées.",
+  "chronologie": [
+   {
+    "date": "-121",
+    "texte": "L’Allobrogie est intégrée à la province romaine du Viennois, avec la cité de Vienne comme capitale.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1792",
+    "texte": "Après la suppression des ordres religieux, les moines des Cordeliers sont expulsés et le couvent est vendu au titre des biens nationaux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1984",
+    "texte": "L’église Saint-Pierre est classée au titre des monuments historiques le 21 décembre 1984.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "Des fresques murales du XIVe siècle sont mises au jour au couvent des Cordeliers, suivies d’un chantier de conservation et de restauration.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "mi décembre 2017",
+    "texte": "La gare de Moirans-Galifette est équipée d’automates pour l’achat de titres TER.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2015",
+    "texte": "À la suite d’un refus d’autorisation de sortie, des membres de la communauté des gens du voyage commettent des dégradations : blocage de la ligne et de la gare SNCF, voitures incendiées.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Couvent des Cordeliers de Moirans",
+   "histoire": "Le couvent des Cordeliers se trouve à Moirans. En 1792, après la suppression des ordres religieux, les moines sont expulsés et le couvent vendu comme bien national. En 2004, des fresques murales du XIVe siècle sont mises au jour et la commune lance un chantier de conservation et de restauration. Aujourd’hui, il ne reste que quelques murs et une petite partie du cloître.",
+   "anecdotes": [
+    {
+     "texte": "En 2004, la découverte de fresques murales du XIVe siècle relance l’attention sur un site dont il ne reste presque rien.",
+     "statut": "etabli",
+     "sources": [
+      "S6",
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne reste pas grand chose du couvent des Cordeliers : quelques murs et une petite partie du cloître.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 45.3257,
+   "lon": 5.5637,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_des_Cordeliers_de_Moirans"
+  },
+  {
+   "nom": "Gare de Moirans-Galifette",
+   "histoire": "La gare de Moirans-Galifette est une halte ferroviaire située sur la commune. Depuis mi décembre 2017, elle est équipée d’automates pour l’achat de titres TER ; les quais sont ouverts toute la journée et accessibles aux personnes à mobilité réduite. La halte voyageur se trouvait auparavant de l’autre côté du passage à niveau : l’emplacement se devine grâce à l’abri à vélo conservé en contrebas de l’ancien quai.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’emplacement de l’ancienne halte voyageur se devine grâce à l’abri à vélo qui persiste en contrebas de l’ancien quai.",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 45.324106,
+   "lon": 5.564915,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Moirans-Galifette"
+  },
+  {
+   "nom": "Église Saint-Pierre de Moirans",
+   "histoire": "L’église Saint-Pierre est une église catholique située à Moirans. L’édifice est classé au titre des monuments historiques le 21 décembre 1984.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 45.32618,
+   "lon": 5.56617,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Moirans"
+  }
+ ],
+ "sources": [
+  "Moirans [mwaʁɑ̃] est une commune française située dans le département de l'Isère, en région Auvergne-Rhône-Alpes. La commune de Moirans appartient également à la communauté d'agglomération du Pays voironnais et au canton de Tullins, au débouché septentrional de la basse vallée de l'Isère, connue également sous la dénomination de Sud Grésivaudan. Importante ville étape durant toute l'histoire de la région, cette cité […]",
+  "Durant l'Antiquité, Moirans et sa région est peuplée par les Allobroges, un peuple gaulois dont le territoire était situé entre l'Isère, le Rhône et les Alpes du Nord. À partir de -121, ce territoire, nommé Allobrogie, est intégré dans la province romaine du Viennois avec pour capitale la cité de Vienne qui était aussi le siège de l’ancien diocèse romain de Vienne. La localité de Morginum (citée sous ce nom dans la […]",
+  "2015 : En 2015, à la suite du refus de l'administration pénitentiaire d'accorder une autorisation de sortie à un détenu pour se rendre aux obsèques de son frère, des membres de la communauté des gens du voyage commettent d'importantes dégradations sur le territoire communal, bloquant la ligne de chemin de fer et la gare SNCF, et incendiant des voitures notamment.",
+  "Lieu « Couvent des Cordeliers de Moirans » : Le couvent des Cordeliers est situé dans le département français de l'Isère, sur la commune de Moirans.",
+  "Lieu « Couvent des Cordeliers de Moirans », 1792 : En 1792, après la suppression des ordres religieux, les moines sont expulsés et le couvent est vendu au titre des biens nationaux.",
+  "Lieu « Couvent des Cordeliers de Moirans », 2004 : En 2004, des fresques murales du XIVe siècle ont été mises au jour et la commune a ouvert un chantier de conservation et de restauration.",
+  "Lieu « Couvent des Cordeliers de Moirans », aujourd'hui : Il ne reste pas grand chose du couvent des Cordeliers, quelques murs, une petite partie du cloître.",
+  "Lieu « Gare de Moirans-Galifette » : La gare de Moirans-Galifette est une halte ferroviaire française, située sur la commune française de Moirans (département de l'Isère en région Auvergne-Rhône-Alpes).",
+  "Lieu « Gare de Moirans-Galifette », 2017 : Depuis mi décembre 2017, elle est équipée d'un automates pour l'achat de titres de transport TER, situé près de l'accès au quai de la voie A. Les quais sont ouverts toute la journée et accessibles aux personnes à mobilité réduite.",
+  "Lieu « Gare de Moirans-Galifette », aujourd'hui : Elle était auparavant située de l'autre côté du passage à niveau, on devine l'emplacement de la halte voyageur grâce à l'abri à vélo qui persiste en contrebas de l'ancien quai.",
+  "Lieu « Église Saint-Pierre de Moirans » : L'église Saint-Pierre est une église catholique située à Moirans, en France.",
+  "Lieu « Église Saint-Pierre de Moirans », 1984 : L'édifice est classé au titre des monuments historiques le 21 décembre 1984."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

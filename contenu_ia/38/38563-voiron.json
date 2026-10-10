@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "Voiron",
+  "code_insee": "38563",
+  "departement": "38",
+  "population": 21847,
+  "lat": 45.364167,
+  "lon": 5.590557,
+  "url": "https://fr.wikipedia.org/wiki/Voiron"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:06:00",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2546,
+  "sortie": 1579
+ },
+ "cout_usd": 0.002483,
+ "accroche": "En 1881, l’orgue prévu pour l’église Saint-François de Sales à Lyon est finalement acheté par Voiron, puis construit en 1883 à l’Église Saint-Bruno de Voiron.",
+ "histoire": {
+  "recit": "À Voiron, la ville s’est bâtie en plusieurs temps : d’abord, les siècles de modifications et de reconstructions autour de ses lieux de culte ; puis l’élan industriel, quand la soie et le papier déclinent et que les Skis Rossignol s’imposent.\n\nLe monastère, lui, a connu l’épreuve : après plusieurs avalanches, des pillages et l’incendie de 1676, Dom Innocent Le Masson reconstruit le monastère avec un nouveau parti architectural.\n\nAu cœur de la ville, l’Église Saint-Bruno s’élève au XIXe siècle : on y retient aussi une histoire d’orgue, d’abord destiné à Lyon, finalement acquis par Voiron. Non loin, à Sermorens, l’Église Saint-Pierre de Voiron garde un passé médiéval, cité dans des cartulaires et agrandi au XVe siècle par l’ajout de cinq chapelles gothiques.\n\nEt quand il faut tourner le regard vers le travail, la gare et l’industrie cadrent le quotidien. Les rails conduisent la ville : la gare est mise en service en 1857, tandis que le XXe siècle voit naître, en 1907, les Skis Rossignol, entreprise phare de Voiron.",
+  "chronologie": [
+   {
+    "date": "1355",
+    "texte": "En 1355, le traité de Paris est signé par le roi de France Jean II, venu d’hériter du Dauphiné quelques années auparavant.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1676",
+    "texte": "Après avalanches, pillages et l’incendie de 1676, Dom Innocent Le Masson reconstruit le monastère selon un nouveau parti architectural.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "La gare de Voiron est mise en service le 10 juillet 1857 lors de l’ouverture à l’exploitation de la deuxième section de la ligne entre Rives et le pont de Piquepierre à Grenoble.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Les Skis Rossignol sont fondés en 1907 par Abel Rossignol, au cœur des révolutions industrielles du XXe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1920",
+    "texte": "Les bâtiments sont classés monument historique depuis 1920.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Bruno de Voiron",
+   "histoire": "Église catholique construite au XIXe siècle au cœur de Voiron, visible par de nombreux conducteurs grâce à sa position face à la descente de la route de Bourg-en-Bresse (ancienne RN 75 devenue RD1075) et au croisement avec la RD520.",
+   "anecdotes": [
+    {
+     "texte": "Prévu pour l’église Saint-François de Sales à Lyon, l’orgue est finalement acheté par Voiron en 1881 et construit en 1883 par les frères Callinet.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S11",
+    "S9",
+    "S10"
+   ],
+   "lat": 45.36722,
+   "lon": 5.59194,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Bruno_de_Voiron"
+  },
+  {
+   "nom": "Église Saint-Pierre de Voiron",
+   "histoire": "Édifice religieux à Sermorens (Voiron), cité dès le XVe siècle sous le nom d’« ecclesia de Salmorenco ». La tour Barral, vestige de l’ancien château médiéval, s’y rattache, et l’église a connu de profonds remaniements en 1826 puis entre 1921 et 1927, avec des travaux de rénovation en 1965.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 45.379172,
+   "lon": 5.582403,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Voiron"
+  },
+  {
+   "nom": "Gare de Voiron",
+   "histoire": "Gare ferroviaire située sur la commune de Voiron, sur la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble). Elle est mise en service le 10 juillet 1857. Des événements marquants jalonnent aussi son histoire, comme la destruction de l’ancienne halle de la Sernam en 2016.",
+   "anecdotes": [
+    {
+     "texte": "En 2015, la rame 70 « Melun » est détruite, mais la motrice 23140 sert jusqu’en 2015 de motrice de réserve pour les rames PSE bicourant.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Le vendredi 15 avril 2016, l’ancienne halle de la Sernam est détruite.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S20",
+    "S18",
+    "S19"
+   ],
+   "lat": 45.363895,
+   "lon": 5.594655,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Voiron"
+  },
+  {
+   "nom": "La Vouise",
+   "histoire": "Colline qui surplombe la ville de Voiron. En 1868, une tour supportant une statue de Notre-Dame-de-Vouise est installée au sommet du relief, et la statue est inaugurée et bénie le 4 octobre 1868 par Mgr Ginoulhiac.",
+   "anecdotes": [
+    {
+     "texte": "À l’origine de l’installation, Eugène Poncet, connu à Voiron sous le nom de « père des pauvres », fait poser la statue au sommet de La Vouise en 1868.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "La statue de Notre-Dame-de-Vouise est inaugurée et bénie le 4 octobre 1868 par Mgr Ginoulhiac, évêque de Grenoble.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    },
+    {
+     "texte": "Une reproduction est visible dans le livre écrit en 1940 par le chanoine Duplessis.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 45.37833,
+   "lon": 5.60444,
+   "url": "https://fr.wikipedia.org/wiki/La_Vouise"
+  },
+  {
+   "nom": "Chapelle Notre-Dame des Victoires de Voiron",
+   "histoire": "Chapelle religieuse construite en 1846 sur le site de l’ancien couvent des Bernardines. Elle fait partie d’un établissement scolaire privé créé en 1846, l’école Notre Dame des Victoires, fondée par le curé Albert et des Voironnaises, dont Adèle Nicolas et Victorine Costaz.",
+   "anecdotes": [
+    {
+     "texte": "Après une année de formation au couvent des Oiseaux de Paris, Adèle Nicolas et Victorine Costaz fondent l’archiconfrérie de Notre Dame des Victoires.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "La chapelle est construite en 1846 sur le site de l’ancien couvent des Bernardines.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 45.367091,
+   "lon": 5.59635,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame_des_Victoires_de_Voiron"
+  },
+  {
+   "nom": "Musée Mainssieux",
+   "histoire": "Musée de peinture situé à Voiron. Il est inauguré en 1989 par Philippe Vial, alors maire de Voiron.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 45.367,
+   "lon": 5.594,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Mainssieux"
+  }
+ ],
+ "sources": [
+  "Voiron est une commune française située dans la neuvième circonscription du département de l'Isère en région Auvergne-Rhône-Alpes et, autrefois, rattachée à l'ancienne province du Dauphiné. Voiron est la ville siège du Pays voironnais, regroupé en une communauté d'agglomération de trente-quatre communes et de plus de 90 000 habitants. La ville de Voiron seule compte environ 21 000 habitants. La cité ainsi que son […]",
+  "Sur le territoire de la commune voisine de La Buisse, située à 5 kilomètres au sud-est de la gare de Voiron, la fouille d'une carrière, en 1841, a permis de mettre au jour une cinquantaine de corps ainsi qu'un mobilier important (lames de silex, bois de cerf dont une pioche), datant de l'époque azilienne (épipaléolithique). Un autre site datant du Néolithique a été découvert sur la rive sud du lac de Paladru, à […]",
+  "1355 : En 1355, le traité de Paris est signé par le roi de France Jean II qui venait d'hériter du Dauphiné quelques années auparavant.",
+  "1676 : À la suite de plusieurs avalanches, quelques pillages et enfin, l'incendie de 1676, Dom Innocent Le Masson reconstruisit le monastère selon un nouveau parti architectural, celui qu’on lui connaît.",
+  "1907 : Puis vient le XXe siècle, ses révolutions industrielles, le déclin de la soie, du papier et l'avènement de l'entreprise phare de la commune : les Skis Rossignol fondés en 1907 par Abel Rossignol.",
+  "1920 : Les bâtiments sont classés monument historique depuis 1920.",
+  "Lieu « Église Saint-Bruno de Voiron » : L'église Saint-Bruno est un édifice religieux de rite catholique situé au cœur de la ville de Voiron en Isère et construit au XIXe siècle.",
+  "Lieu « Église Saint-Bruno de Voiron », XIXe siècle : L'église Saint-Bruno est un édifice religieux de rite catholique situé au cœur de la ville de Voiron en Isère et construit au XIXe siècle.",
+  "Lieu « Église Saint-Bruno de Voiron », 1881 : Au départ prévu pour l'église Saint-François de Sales à Lyon l’orgue fut finalement acheté en 1881 par Voiron et construit en 1883 par les frères Callinet.",
+  "Lieu « Église Saint-Bruno de Voiron », 1883 : Finalement inauguré en 1883, il fait aujourd'hui partie intégrante du patrimoine de la ville de Voiron et est classé monument historique depuis 1973.",
+  "Lieu « Église Saint-Bruno de Voiron », aujourd'hui : Positionnée face à la descente de la route de Bourg-en-Bresse, ancienne route nationale 75, devenue RD1075 et au croisement de cette dernière avec la RD520, l'église est visible de la plupart des conducteurs de véhicules traversant la ville.",
+  "Lieu « Église Saint-Pierre de Voiron » : L'église Saint-Pierre de Voiron ou église Saint-Pierre de Sermorens, est un édifice religieux situé à Voiron en Isère en région Auvergne-Rhône-Alpes.",
+  "Lieu « Église Saint-Pierre de Voiron », XVe siècle : L'édifice est cité dans les cartulaires de Saint Hugues sous le nom d'« ecclesia de Salmorenco » L'église médiévale et son clocher-porche a été agrandie durant le XVe siècle grâce à l'adjonction de cinq chapelles gothiques.",
+  "Lieu « Église Saint-Pierre de Voiron », 1826 : L'édifice a été profondément remanié en 1826, puis de nouveau entre 1921 et 1927.",
+  "Lieu « Église Saint-Pierre de Voiron », 1965 : D'importants travaux de rénovation ont été exécutés en 1965 avec l'adjonction de grands murs peints en 1965 sous la conduite de l’artiste voironnais Roger Lorin, rafraichi en 2021 mais sans modifier la sobriété de ce lieu de culte toujours en fonction au XXIe siècle.",
+  "Lieu « Église Saint-Pierre de Voiron », aujourd'hui : Positionnée au cœur du quartier ancien de Sermorens, cette église est l’un des plus vieux monuments de la ville de Voiron avec la tour Barral, dernier vestige de l'ancien château médiéval.",
+  "Lieu « Gare de Voiron » : La gare de Voiron est une gare ferroviaire française de la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble), située sur le territoire de la commune de Voiron, dans le département de l'Isère, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Voiron », 2015 : La rame 70, baptisée « Melun » fut détruite, à l’exception de la motrice 23140, qui a servi jusqu'en 2015 de motrice de réserve pour les rames PSE bicourant.",
+  "Lieu « Gare de Voiron », 2016 : L'ancienne halle de la Sernam est détruite le vendredi 15 avril 2016.",
+  "Lieu « Gare de Voiron », aujourd'hui : La gare de Voiron est mise en service le 10 juillet 1857 par la Compagnie du chemin de fer de Saint-Rambert à Grenoble, lorsqu'elle ouvre à l'exploitation la deuxième section de sa ligne, entre Rives et le pont de Piquepierre à Grenoble puisque l'emplacement de la gare définitive de cette ville fortifiée n'est pas encore choisi.",
+  "Lieu « La Vouise » : La Vouise (ou Vouisse), parfois nommée Le Replat, est une colline surplombant la ville de Voiron, dans le département français de l'Isère.",
+  "Lieu « La Vouise », 1868 : Une tour supportant une statue de Notre-Dame-de-Vouise a été installée en 1868 au sommet du relief à l'instigation d'Eugène Poncet connu à Voiron sous le nom de « père des pauvres ».",
+  "Lieu « La Vouise », 1868 : La statue fut inaugurée et bénie le 4 octobre 1868 par Mgr Ginoulhiac, évêque de Grenoble.",
+  "Lieu « La Vouise », aujourd'hui : Une reproduction est visible dans le livre écrit en 1940 par le chanoine Duplessis.",
+  "Lieu « Chapelle Notre-Dame des Victoires de Voiron » : La Chapelle Notre-Dame des Victoires de Voiron est un édifice religieux à Voiron en Isère.",
+  "Lieu « Chapelle Notre-Dame des Victoires de Voiron », 1846 : Construite sur le site de l'ancien couvent des Bernardines, la chapelle fait partie d'un établissement scolaire privé créé en 1846.",
+  "Lieu « Chapelle Notre-Dame des Victoires de Voiron », 1846 : L’école Notre Dame des Victoires a été fondée en 1846 par le curé Albert et quelques Voironnaises dont Adèle Nicolas et Victorine Costaz qui fondent l’archiconfrérie de Notre Dame des Victoires, après une année de formation au couvent des Oiseaux de Paris.",
+  "Lieu « Musée Mainssieux » : Le musée Mainssieux est un musée de peinture, situé à Voiron dans le département français de Isère, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Musée Mainssieux », 1989 : Il a été inauguré en 1989 par Philippe Vial, à l'époque maire de Voiron."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 8
+ }
+}

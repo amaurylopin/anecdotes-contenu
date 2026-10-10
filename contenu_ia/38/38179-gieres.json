@@ -1,0 +1,230 @@
+{
+ "commune": {
+  "titre": "Gières",
+  "code_insee": "38179",
+  "departement": "38",
+  "population": 7376,
+  "lat": 45.18277778,
+  "lon": 5.7925,
+  "url": "https://fr.wikipedia.org/wiki/Gi%C3%A8res"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:29:07",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1972,
+  "sortie": 1462
+ },
+ "cout_usd": 0.002222,
+ "accroche": "Le 24 août 1944, Gières est libérée, après la bataille d’août 1944 et l’existence d’un monument à Champrondet.",
+ "histoire": {
+  "recit": "À l’est de Grenoble, Gières vit au rythme de ses liaisons. La gare de Grenoble-Universités-Gières, sur la ligne Grenoble - Montmélian, est mise en service le 15 septembre 1864 sous le nom de « Gières-Uriage », construite par le PLM près de Saint-Martin-d’Hères. Plus tard, le bâtiment voyageurs est rénové et la gare devient un pôle multimodal, avec le tramway et un réseau de bus.\n\nMais Gières n’est pas seulement affaire de rails. Sur la colline du Mûrier se dressent les vestiges du château de Gières, appelé aussi château fort du Mûrier : un fort du XIIe siècle remanié, occupé puis brûlé à plusieurs reprises durant les guerres de Religion.\n\nPlus à l’écart, le fort du Mûrier, ou fort Randon, appartient à la place forte de Grenoble et a été construit entre avril 1875 et 1878 selon le système de fortification Séré de Rivières.\n\nEnfin, le campus s’enrichit par les plantations de l’arboretum Robert-Ruffier-Lanche, tandis que la Boucle de la Taillat a été transformée par l’homme au début des années 1980. Et au-dessus de tout cela, le viaduc de Gières témoigne d’un travail d’ingénierie en béton précontraint.",
+  "chronologie": [
+   {
+    "date": "15 septembre 1864",
+    "texte": "Mise en service de la ligne Grenoble - Montmélian et de la gare « Gières-Uriage », construite par le PLM au plus près de Saint-Martin-d’Hères.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "octobre 1988",
+    "texte": "Inauguration de la rénovation du bâtiment voyageurs de la gare.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "20 mars 2006",
+    "texte": "Inauguration du prolongement jusqu’à la gare de la ligne B du tramway de Grenoble.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "début des années 1980",
+    "texte": "La Boucle de la Taillat est transformée par l’homme au début des années 1980.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "août 1944",
+    "texte": "Bataille de Gières, avec un monument à Champrondet.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "24 août 1944",
+    "texte": "Libération de Gières.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Possibilité que le donjon du château de Gières soit déjà bâti au XIIe siècle.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Pendant les guerres de Religion, le château fort du Mûrier est occupé et brûlé à plusieurs reprises.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "avril 1875",
+    "texte": "Début de la construction du fort du Mûrier, selon le système de fortification Séré de Rivières.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "Fin de la construction du fort du Mûrier (d’avril 1875 à 1878).",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "dès 1966",
+    "texte": "Dès 1966, l’arboretum Robert Ruffier-Lanche commence à introduire toutes sortes d’arbres sur les parcelles non bâties du campus.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Grenoble-Universités-Gières",
+   "histoire": "Implantée à Gières, la gare se trouve sur le territoire de la commune et fait partie de la ligne de Grenoble à Montmélian. Elle a connu une mise en service en 1864, une rénovation du bâtiment voyageurs en 1988, puis l’intégration à un pôle multimodal avec tramway et bus.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S1",
+    "S7"
+   ],
+   "lat": 45.184987,
+   "lon": 5.78466,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Grenoble-Universit%C3%A9s-Gi%C3%A8res"
+  },
+  {
+   "nom": "Château de Gières",
+   "histoire": "Château fort du Mûrier, le château de Gières est un ouvrage du XIIe siècle remanié aux siècles suivants. Ses vestiges se trouvent sur la colline du Mûrier, à Gières. Durant les guerres de Religion, il est occupé et brûlé à plusieurs reprises.",
+   "anecdotes": [
+    {
+     "texte": "Durant les guerres de Religion, le château fort du Mûrier est occupé et brûlé à plusieurs reprises.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ses vestiges sont sur la colline du Mûrier, à Gières.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 45.1775,
+   "lon": 5.7875,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Gi%C3%A8res"
+  },
+  {
+   "nom": "Fort du Mûrier",
+   "histoire": "Le fort du Mûrier, ou fort Randon, est une fortification rattachée à la place forte de Grenoble, à l’est-sud-est de la commune, à 420 mètres d’altitude. Il a été construit entre avril 1875 et 1878 selon le système de fortification Séré de Rivières. Aujourd’hui, ses éléments sont situés sur la commune de Saint-Martin-d’Hères.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 45.173555,
+   "lon": 5.783261,
+   "url": "https://fr.wikipedia.org/wiki/Fort_du_M%C3%BBrier"
+  },
+  {
+   "nom": "Arboretum Robert-Ruffier-Lanche",
+   "histoire": "L’arboretum Robert Ruffier-Lanche est situé sur le domaine universitaire de Grenoble, à Gières. Dès 1966, il commence à introduire sur les parcelles non bâties du campus toutes sortes d’arbres.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 45.194167,
+   "lon": 5.777778,
+   "url": "https://fr.wikipedia.org/wiki/Arboretum_Robert-Ruffier-Lanche"
+  },
+  {
+   "nom": "Boucle de la Taillat",
+   "histoire": "La Boucle de la Taillat (ZNIEFF du Boisement du Mas de L’Ile et Boucle de la Taillat) se trouve sur le territoire des communes de Meylan, de Murianette et de Gières. Elle a ensuite été transformée par l’homme au début des années 1980.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 45.19872,
+   "lon": 5.80472,
+   "url": "https://fr.wikipedia.org/wiki/Boucle_de_la_Taillat"
+  },
+  {
+   "nom": "Viaduc de Gières",
+   "histoire": "Le viaduc de Gières est un pont en béton précontraint situé sur la commune. Son tablier a été soulevé par des vérins plats afin de permettre le remplacement successif des appareils d’appuis et la réalisation de bossages jusqu’alors inexistants.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 45.181111,
+   "lon": 5.786389,
+   "url": "https://fr.wikipedia.org/wiki/Viaduc_de_Gi%C3%A8res"
+  }
+ ],
+ "sources": [
+  "Gières est une commune française située dans le département de l'Isère, le Dauphiné en région Auvergne-Rhône-Alpes. La commune qui se situe à l'est de Grenoble fait partie de la métropole Grenoble-Alpes Métropole. Cette commune abrite la seconde gare ferroviaire de l'agglomération grenobloise, la gare de Grenoble-Universités-Gières. Ses habitants sont appelés les Giérois et les Giéroises.",
+  "Foire au beurre (jusqu'en 1860). Port de Gières avec navigation sur l'Isère et le bac pour Meylan (jusqu'en 1918). Bataille de Gières en août 1944 (monument à Champrondet). Libération de Gières le 24 août 1944.",
+  "Lieu « Gare de Grenoble-Universités-Gières » : La gare de Grenoble-Universités-Gières est une gare ferroviaire française de la ligne de Grenoble à Montmélian, située sur le territoire de la commune de Gières, dans la métropole grenobloise et dans le département de l'Isère, en région Auvergne-Rhôn",
+  "Lieu « Gare de Grenoble-Universités-Gières », 1864 : Le 15 septembre 1864, mise en service de la ligne Grenoble - Montmélian (50 km), et de la gare de « Gières-Uriage », construite par le PLM au plus près de Saint-Martin-d'Hères, à l'époque cette dernière commune ayant refusé l'implantation d'une gare sur son territoire.",
+  "Lieu « Gare de Grenoble-Universités-Gières », 1988 : La rénovation du bâtiment voyageurs est inaugurée en octobre 1988.",
+  "Lieu « Gare de Grenoble-Universités-Gières », 2006 : Cette gare est un pôle multimodal desservi par le réseau M Réso avec la ligne B du tramway de Grenoble (dont le prolongement jusqu'à la gare est inauguré le 20 mars 2006) et les lignes de bus 23, 24, 59, 69, 88, 90 et N93.",
+  "Lieu « Gare de Grenoble-Universités-Gières », aujourd'hui : Elle est séparée de cette dernière par la gare aujourd'hui fermée de Domène.",
+  "Lieu « Château de Gières » : Le château de Gières, ou château fort du Mûrier, est un château fort du XIIe siècle, remanié aux siècles suivants.",
+  "Lieu « Château de Gières », XIIe siècle : Cependant, le donjon pourrait déjà avoir été bâti au XIIe siècle.",
+  "Lieu « Château de Gières », XVIe siècle : Au XVIe siècle, durant les guerres de Religion, le château fort du Mûrier est occupé et brûlé à plusieurs reprises par Lesdiguières et Charles de Simiane, seigneur d'Albigny.",
+  "Lieu « Château de Gières », aujourd'hui : Ses vestiges se trouvent sur la colline du Mûrier, à Gières, dans le département de l'Isère en région Auvergne-Rhône-Alpes.",
+  "Lieu « Fort du Mûrier » : Le fort du Mûrier, ou fort Randon, est une fortification faisant partie de la place forte de Grenoble, situé à l'est-sud-est de la commune de Gières, se situant à 420 mètres d'altitude.",
+  "Lieu « Fort du Mûrier », 1875 : Le fort du Mûrier a été construit, d'avril 1875 à 1878, selon le système de fortification Séré de Rivières.",
+  "Lieu « Fort du Mûrier », aujourd'hui : Elles sont aujourd'hui situées sur la commune de Saint-Martin-d'Hères.",
+  "Lieu « Arboretum Robert-Ruffier-Lanche » : L'arboretum Robert Ruffier-Lanche est situé 2233 rue de la piscine, sur le domaine universitaire de Grenoble, à Gières, dans le département français de l'Isère, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Arboretum Robert-Ruffier-Lanche », 1966 : C'est lui qui, dès 1966, a commencé à introduire sur les parcelles non bâties du campus toutes sortes d’arbres.",
+  "Lieu « Boucle de la Taillat » : La Boucle de la Taillat (également dénommée ZNIEFF du Boisement du Mas de L'Ile et Boucle de la Taillat), localisée sur le territoire des communes de Meylan, de Murianette et de Gières dans le département de l'Isère, est constituée d’un vaste plan d’",
+  "Lieu « Boucle de la Taillat », 1980 : Il a été transformé par l’homme au début des années 1980.",
+  "Lieu « Viaduc de Gières » : Le viaduc de Gières est un pont en béton précontraint situé sur la commune de Gières en Isère.",
+  "Lieu « Viaduc de Gières », aujourd'hui : Le tablier a été soulevé par des vérins plats permettant le remplacement successif des appareils d'appuis ainsi que la réalisation des bossages jusqu'alors inexistants."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 1
+ }
+}

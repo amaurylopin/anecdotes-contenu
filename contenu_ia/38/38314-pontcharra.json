@@ -1,0 +1,163 @@
+{
+ "commune": {
+  "titre": "Pontcharra",
+  "code_insee": "38314",
+  "departement": "38",
+  "population": 7350,
+  "lat": 45.43267,
+  "lon": 6.0201,
+  "url": "https://fr.wikipedia.org/wiki/Pontcharra"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:29:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1591,
+  "sortie": 1059
+ },
+ "cout_usd": 0.001642,
+ "accroche": "À Pontcharra, le chevalier Bayard est né, et sa vie a porté la commune jusqu’aux guerres d’Italie au XVIe siècle.",
+ "histoire": {
+  "recit": "Pontcharra, commune de l’Isère, doit une grande part de son nom aux Charrapontains, ses habitants. On y rattache la naissance du chevalier Bayard, qui prit part aux guerres d’Italie au XVIe siècle. \n\nDans l’histoire plus lointaine, il est très probable que les armées du général Hannibal Barca aient traversé Pontcharra pour rejoindre l’Italie. Plus près des accords princiers, l’église de Villard-Benoît est citée comme lieu de signature d’un traité de paix, le 10 juin 1314, entre le comte de Savoie Amédée V et le dauphin de Viennois Jean II, sous les auspices de l’archevêque de Tarentaise Bertrand Ier.\n\nLa commune garde aussi un trait plus contemporain : la transformation de la section La Rochette-Pontcharra en voie normale, avec des circulations du Chemin de Fer Touristique du Bréda, jusqu’en 1988.",
+  "chronologie": [
+   {
+    "date": "10 juin 1314",
+    "texte": "L’église de Villard-Benoît est choisie pour la signature d’un traité de paix entre le comte de Savoie Amédée V et le dauphin de Viennois Jean II.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "218 av. J.-C.",
+    "texte": "Il est très probable que les armées du général Hannibal Barca soient passées par Pontcharra pour atteindre l’Italie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1563",
+    "texte": "La capitale est déplacée de Chambéry vers Turin.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "15 septembre 1864",
+    "texte": "La gare de Pontcharra-sur-Bréda - Allevard est ouverte à l’exploitation, lors de la mise en service de la ligne de Grenoble à Montmélian.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1795",
+    "texte": "À Château Bayard, les biens sont saisis puis vendus.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1865",
+    "texte": "Au Château Bayard, le curé de Grignon, Jean-Baptiste Bertrand, s’y aménage une demeure pour sa retraite en réparant la bâtisse.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2006",
+    "texte": "Au domaine viticole associé à Château Bayard, des vignes sont replantées.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "La section La Rochette-Pontcharra est transformée en voie normale et fonctionne jusqu’en 1988, avec notamment les circulations du Chemin de Fer Touristique du Bréda.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château Bayard",
+   "histoire": "Maison forte du XVe siècle, Château Bayard a ensuite été l’objet de saisies et de ventes en 1795. Au XIXe siècle, l’édifice est décrit comme protégé par quatre tours rondes. Plus tard, le curé de Grignon Jean-Baptiste Bertrand y prépare une retraite à partir de réparations. Aujourd’hui, le château est une propriété privée liée à un domaine viticole d’un hectare.",
+   "anecdotes": [
+    {
+     "texte": "En 1865, Jean-Baptiste Bertrand, curé de Grignon, s’aménage au Château Bayard une demeure de retraite en réparant la bâtisse avec l’aide du propriétaire légal.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Même présenté comme une maison forte, Château Bayard est figuré au XIXe siècle comme une demeure protégée par quatre tours rondes, sur trois niveaux percés de fenêtres à meneaux.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Les biens de Château Bayard sont saisis et vendus en 1795.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Propriété privée avec un domaine viticole d’un hectare, vignes replantées en 2006, production avoisinant 8 000 bouteilles par an.",
+   "sources": [
+    "S9",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 45.423611,
+   "lon": 6.018889,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Bayard"
+  },
+  {
+   "nom": "Gare de Pontcharra-sur-Bréda - Allevard",
+   "histoire": "La gare de Pontcharra-sur-Bréda - Allevard se trouve sur le territoire de la commune de Pontcharra. Elle est ouverte à l’exploitation le 15 septembre 1864 lors de la mise en service de la ligne de Grenoble à Montmélian. Aujourd’hui, elle est séparée des gares aujourd’hui fermées du Cheylas - La Buissière et de Sainte-Hélène-du-Lac.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 45.43423,
+   "lon": 6.007649,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Pontcharra-sur-Br%C3%A9da_-_Allevard"
+  }
+ ],
+ "sources": [
+  "Pontcharra est une commune française située dans le département de l'Isère, en région Auvergne-Rhône-Alpes. La ville est notamment connue pour être le lieu de naissance du chevalier Bayard qui participa aux guerres d'Italie au XVIe siècle. Ses habitants sont appelés les Charrapontains.",
+  "Il est très probable que les armées du général Hannibal Barca soient passées par Pontcharra pour atteindre l'Italie en 218 av. J.-C. , cela quel que soit le col emprunté[réf. nécessaire]. L'église de Villard-Benoît est choisie pour la signature d'un traité de paix, le 10 juin 1314, entre le comte de Savoie Amédée V, et le dauphin de Viennois Jean II, sous les auspices de l'archevêque de Tarentaise, Bertrand Ier de […]",
+  "1563 : En 1563, la capitale est déplacée de Chambéry vers Turin.",
+  "1988 : La section La Rochette-Pontcharra est alors transformée en voie normale et fonctionne jusqu'à 1988, avec notamment les circulations du CFTB (Chemin de Fer Touristique du Bréda).",
+  "Lieu « Château Bayard » : Le château Bayard est une ancienne maison forte, du XVe siècle, qui se dresse sur la commune de Pontcharra dans le département de l'Isère en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château Bayard », 1795 : Ses biens furent saisis et vendus en 1795.",
+  "Lieu « Château Bayard », XIXe siècle : Même s'il ne s'agissait que d'une maison forte, l'édifice qu'il fit élever était pourtant loin d'être négligeable : des illustrations du XIXe siècle montrent une demeure protégée par quatre tours rondes, élevées sur trois niveaux percés de fenêtres à meneaux.",
+  "Lieu « Château Bayard », 1865 : En 1865, le curé de Grignon, Jean-Baptiste Bertrand, s'y aménage une demeure pour sa retraite en réparant au mieux une partie de la bâtisse, avec l'aide du propriétaire légal.",
+  "Lieu « Château Bayard », aujourd'hui : Le château est actuellement une propriété privée à laquelle est associé un domaine viticole d'un hectare de vignes replantées en 2006 (1/3 en blanc cépage Malvoisie, 2/3 en rouge cépage Persan) dont la production avoisine les 8 000 bouteilles par an, le tout en culture raisonnée, avec rang engazonné et programmation informatique des traitements.",
+  "Lieu « Gare de Pontcharra-sur-Bréda - Allevard » : La gare de Pontcharra-sur-Bréda - Allevard est une gare ferroviaire française de la ligne de Grenoble à Montmélian, située sur le territoire de la commune de Pontcharra, dans le département de l'Isère, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Pontcharra-sur-Bréda - Allevard », 1864 : Cette gare a été ouverte à l'exploitation le 15 septembre 1864, lors de la mise en service de la ligne de Grenoble à Montmélian, par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM).",
+  "Lieu « Gare de Pontcharra-sur-Bréda - Allevard », aujourd'hui : Elle est séparée de ces deux gares respectivement par les gares aujourd'hui fermées du Cheylas - La Buissière et de Sainte-Hélène-du-Lac."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}

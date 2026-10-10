@@ -1,0 +1,198 @@
+{
+ "commune": {
+  "titre": "Villard-Bonnot",
+  "code_insee": "38547",
+  "departement": "38",
+  "population": 7509,
+  "lat": 45.238888,
+  "lon": 5.8891666,
+  "url": "https://fr.wikipedia.org/wiki/Villard-Bonnot"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:27:16",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1931,
+  "sortie": 1354
+ },
+ "cout_usd": 0.002079,
+ "accroche": "En 1922, Villard-Bonnot édifie un nouvel hôtel de ville à son emplacement actuel, la mairie étant installée jusque-là près de l’église.",
+ "histoire": {
+  "recit": "Entre la rive gauche de l’Isère et la chaîne de Belledonne, Villard-Bonnot accueille des Villardiens rattachés à la communauté de communes Le Grésivaudan. Les recherches archéologiques indiquent une mise en culture progressive des terroirs dès le IVe millénaire av. J.-C. Plus tard, la période antique voit s’installer les Allobroges, d’abord sur le site de l’actuelle Crolles. Au Moyen Âge, on relève la présence d’une tour sarrasine, transformée en château de Vors par les seigneurs de Commiers aux XIIIe et XIVe siècles.\n\nL’histoire plus récente se lit aussi à travers l’industrie. Dans les Papeteries de Lancey, les machines installées à partir de 1915 permettent de produire 6 000 obus par jour pendant la Première Guerre mondiale, avant la fermeture de l’usine en 2008. Autre fait marquant : en 1957, le château de Bergès, aussi nommé château Biclet, est déplacé de 70 m pour agrandir l’usine. \n\nVillard-Bonnot conserve également des repères ferroviaires, dont la gare de Brignoud, fermée au fret le 3 novembre 2009, et la gare de Lancey, fermée en 1996.\n\nEnfin, la Maison Bergès, bâtie par la famille Bergès à l’été 1897, a été acquise par le département de l’Isère en 2000, puis rouverte après un projet de réhabilitation.",
+  "chronologie": [
+   {
+    "date": "IVe millénaire av. J.-C.",
+    "texte": "Des paysans néolithiques mettent progressivement en culture les terroirs sur les flancs du Grésivaudan et de la Combe de Savoie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ve siècle",
+    "texte": "Les Allobroges s’installent dans la vallée de l’Isère (sur le site de l’actuelle ville de Crolles).",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIIe siècle et XIVe siècle",
+    "texte": "Une tour sarrasine est transformée en château de Vors par les seigneurs de Commiers.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1922",
+    "texte": "Un nouvel hôtel de ville est édifié à son emplacement actuel ; auparavant, la mairie était installée près de l’église.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "Le château de Bergès (château Biclet) est déplacé de 70 m pour permettre l’agrandissement de l’usine.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1915",
+    "texte": "Aux Papeteries de Lancey, des machines installées à partir de 1915 permettent une production de 6 000 obus par jour.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2008",
+    "texte": "Les papeteries de Lancey ferment.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "Le département de l’Isère acquiert la Maison Bergès, engagée dans un projet de réhabilitation.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Papeteries de Lancey",
+   "histoire": "Une usine de papeterie est créée à Villard-Bonnot dans la seconde moitié du XIXe siècle, puis fermée en 2008.",
+   "anecdotes": [
+    {
+     "texte": "Pendant la Première Guerre mondiale, grâce aux machines installées à partir de 1915, les usines produisent 6 000 obus par jour.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 1958, l’ouverture du marché européen entraîne un regroupement des papeteries françaises afin de rivaliser avec les Scandinaves.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S10"
+   ],
+   "lat": 45.2347,
+   "lon": 5.8856,
+   "url": "https://fr.wikipedia.org/wiki/Papeteries_de_Lancey"
+  },
+  {
+   "nom": "Maison Bergès",
+   "histoire": "La famille Bergès construit une vaste demeure bourgeoise à l’été 1897. Le hall d’honneur présente une Allégorie de la Houille blanche, sculptée par Auguste Davin vers 1910. Acquise par le département de l’Isère en 2000, la Maison Bergès rénovée rouvre en juin 2011.",
+   "anecdotes": [
+    {
+     "texte": "Dans le hall d’honneur, le visiteur est accueilli par une monumentale Allégorie de la Houille blanche, sculpture exécutée par Auguste Davin vers 1910.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S11"
+   ],
+   "lat": 45.233034,
+   "lon": 5.885825,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Berg%C3%A8s"
+  },
+  {
+   "nom": "Gare de Brignoud",
+   "histoire": "La gare de Brignoud est une gare ferroviaire de la ligne de Grenoble à Montmélian située sur le territoire de Villard-Bonnot. Elle est fermée au trafic du fret le 3 novembre 2009 et se trouve séparée de la gare de Tencin - Theys, aujourd’hui fermée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 45.262565,
+   "lon": 5.90132,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Brignoud"
+  },
+  {
+   "nom": "Gare de Lancey",
+   "histoire": "La gare de Lancey est une gare ferroviaire de la ligne de Grenoble à Montmélian située sur le territoire de Villard-Bonnot. Elle ferme en 1996 en raison de sa faible fréquentation, afin de diminuer le temps de parcours sur le trajet de Grenoble à Chambéry.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 45.234523,
+   "lon": 5.880887,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lancey"
+  }
+ ],
+ "sources": [
+  "Villard-Bonnot est une commune française située dans le département de l'Isère en région Auvergne-Rhône-Alpes. La commune est adhérente à la communauté de communes Le Grésivaudan, entre la rive gauche de l'Isère et la chaîne de Belledonne et ses habitants sont appelés les Villardiens.",
+  "À compter du IVe millénaire av. J.-C., la mise en culture progressive des terroirs sur les flancs du Grésivaudan et de la Combe de Savoie par des paysans néolithiques a pu être constatée par des recherches archéologiques Durant la période antique, dans la vallée de l'Isère et donc sur le site de l'actuelle ville de Crolles, les premiers résidents, historiquement connus, sont les Allobroges, qui s’y sont installés à […]",
+  "Ve siècle : Durant la période antique, dans la vallée de l'Isère et donc sur le site de l'actuelle ville de Crolles, les premiers résidents, historiquement connus, sont les Allobroges, qui s’y sont installés à partir du Ve siècle avant notre ère.",
+  "XIVe siècle : Au Moyen Âge, une tour sarrasine est présente, transformée en château de Vors par les seigneurs de Commiers aux XIIIe et XIVe siècles.",
+  "1922 : Un nouvel hôtel de ville est édifié en 1922, à son emplacement actuel ; jusqu'alors la mairie était installée près de l'église.",
+  "1957 : Par la suite, une prouesse technique fera la une de la presse internationale en 1957 : le château de Bergès, en face des papeteries, ou nommé également château Biclet, est déplacé de 70 m pour permettre l'agrandissement de l'usine.",
+  "Lieu « Papeteries de Lancey » : Les papeteries de Lancey sont une usine de papeterie créée dans la seconde moitié du XIXe siècle à Villard-Bonnot dans le département français de l'Isère, et fermée en 2008.",
+  "Lieu « Papeteries de Lancey », 1915 : Durant la première guerre mondiale, grâce aux machines installées aux papeteries à partir de 1915, les usines produisent 6 000 obus par jour.",
+  "Lieu « Papeteries de Lancey », 1958 : Avec l'ouverture du marché européen en 1958, les papeteries françaises ont tendance à se regrouper afin de pouvoir rivaliser avec les Scandinaves.",
+  "Lieu « Papeteries de Lancey », 2008 : Les papeteries de Lancey sont une usine de papeterie créée dans la seconde moitié du XIXe siècle à Villard-Bonnot dans le département français de l'Isère, et fermée en 2008.",
+  "Lieu « Maison Bergès » : La Maison Bergès - musée de la Houille blanche est un musée appartenant au réseau des musées du département de l'Isère.",
+  "Lieu « Maison Bergès », 1897 : Ce n'est qu'à l'été 1897, une fois le complexe industriel développé et stabilisé, que la famille Bergès entreprend d'y bâtir une vaste demeure bourgeoise.",
+  "Lieu « Maison Bergès », 1910 : L'éclectisme est particulièrement frappant dans le hall d'honneur, dans lequel le visiteur est accueilli par une monumentale Allégorie de la Houille blanche, sculpture exécutée par Auguste Davin vers 1910.",
+  "Lieu « Maison Bergès », 2000 : Acquis par le département de l'Isère en 2000, l'ensemble fait l'objet d'un vaste projet de réhabilitation qui aboutit à l'ouverture de la Maison Bergès rénovée, en juin 2011.",
+  "Lieu « Gare de Brignoud » : La gare de Brignoud est une gare ferroviaire française de la ligne de Grenoble à Montmélian, située sur le territoire de la commune de Villard-Bonnot, dans le département de l'Isère, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Brignoud », 2009 : Cette gare a été fermée au trafic du fret le 3 novembre 2009.",
+  "Lieu « Gare de Brignoud », aujourd'hui : Elle est séparée de cette dernière par la gare aujourd'hui fermée de Tencin - Theys.",
+  "Lieu « Gare de Lancey » : La gare de Lancey est une gare ferroviaire française de la ligne de Grenoble à Montmélian, située sur le territoire de la commune de Villard-Bonnot, dans le département de l'Isère, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare de Lancey », 1996 : En 1996, la gare est fermée en raison de sa faible fréquentation et afin de diminuer le temps de parcours sur le trajet de Grenoble à Chambéry.",
+  "Lieu « Gare de Lancey », aujourd'hui : Elle est séparée de Grenoble-Universités-Gières par la gare aujourd'hui fermée de Domène."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 3
+ }
+}

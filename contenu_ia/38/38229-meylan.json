@@ -1,0 +1,123 @@
+{
+ "commune": {
+  "titre": "Meylan",
+  "code_insee": "38229",
+  "departement": "38",
+  "population": 18770,
+  "lat": 45.20916667,
+  "lon": 5.78,
+  "url": "https://fr.wikipedia.org/wiki/Meylan"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:13:57",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1456,
+  "sortie": 744
+ },
+ "cout_usd": 0.001221,
+ "accroche": "À l’est de Grenoble, Meylan fait partie de la Métropole Grenoble-Alpes Métropole et abrite une partie du parc technologique Inovallée.",
+ "histoire": {
+  "recit": "Village rural médiéval du Grésivaudan, Meylan s’organise autour d’une église paroissiale qui regroupe quatre communautés : Saint-Mury, la Bâtie, le Bouquéron et Meylan. On y vit surtout d’agriculture, avec les céréales, les vignes et aussi le chanvre. \n\nPlus près de nous, un autre visage s’installe : Inovallée. Le parc technologique prend place sur les territoires de Meylan et de Montbonnot-Saint-Martin, tourné vers les technologies de l’information et de la communication. Dès 1973, la société Sames s’y installe, consacrée à la pulvérisation de peinture par effet électrostatique. L’ensemble marque aussi la culture populaire : en 1981, un timbre postal est émis pour l’architecture dite alvéolée d’Inovallée. \n\nEn 2013, Inovallée rassemble 340 entreprises et 10 200 emplois, avec des acteurs tels que Metrologic Group, et Rolls-Royce civil nuclear, qui inaugure ensuite un nouveau bâtiment. \n\nSur Meylan, le passé conserve aussi ses ruines : à Château de Château Corbeau, une ancienne maison forte du début du XIIIe siècle, appelée aussi la Bâtie d’en Haut, se dresse en reste.",
+  "chronologie": [
+   {
+    "date": "1973",
+    "texte": "À Inovallée, la première entreprise s’y installe : la Sames, fondée en décembre 1946 par le futur prix Nobel Louis Néel et le physicien Noël Felici, pour la pulvérisation de peinture par effet électrostatique.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "5 février 1981",
+    "texte": "À Inovallée, l’architecture alvéolée fait l’objet d’une émission de timbre postal.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2013",
+    "texte": "À Inovallée, le parc compte 340 entreprises et 10 200 emplois, surtout dans les nouvelles technologies.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Inovallée",
+   "histoire": "Parc technologique installé sur les territoires des communes de Meylan et de Montbonnot-Saint-Martin, Inovallée est axé sur les technologies de l’information et de la communication.",
+   "anecdotes": [
+    {
+     "texte": "En 1981, l’architecture alvéolée d’Inovallée est mise à l’honneur avec l’émission d’un timbre postal le 5 février 1981.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 45.2097,
+   "lon": 5.79,
+   "url": "https://fr.wikipedia.org/wiki/Inovall%C3%A9e"
+  },
+  {
+   "nom": "Château de Château Corbeau",
+   "histoire": "Ancienne maison forte, appelée aussi la Bâtie d’en Haut, dont les ruines se dressent sur la commune de Meylan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 45.231111,
+   "lon": 5.777778,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Ch%C3%A2teau_Corbeau"
+  },
+  {
+   "nom": "La Bâtie-Meylan",
+   "histoire": "Ancienne commune du département de l’Isère.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 45.229753,
+   "lon": 5.784442,
+   "url": "https://fr.wikipedia.org/wiki/La_B%C3%A2tie-Meylan"
+  }
+ ],
+ "sources": [
+  "Meylan est une commune française située dans le département de l'Isère en région Auvergne-Rhône-Alpes. La commune, qui se situe à l'est de Grenoble, fait partie de la métropole Grenoble-Alpes Métropole plus communément appelée « La Métro ». Meylan est connue pour abriter une partie du parc technologique Inovallée. Ses habitants sont appelés les Meylanais et les Meylanaises.",
+  "Village rural médiéval du Grésivaudan, Meylan fut le siège d’une église paroissiale qui regroupait quatre communautés d’environ trois cents âmes (Saint-Mury, la Bâtie, le Bouquéron et Meylan). Le mode de vie étant essentiellement agricole tourné autour de la culture des céréales des vignes mais également du chanvre.",
+  "Lieu « Inovallée » : Inovallée est un parc technologique installé sur les territoires des communes de Meylan et de Montbonnot-Saint-Martin près de Grenoble, et axé principalement dans le domaine des technologies de l'information et de la communication.",
+  "Lieu « Inovallée », 1973 : La première entreprise a s'y installer en 1973 est la Sames, une société fondée en décembre 1946 par le futur prix Nobel Louis Néel associé au physicien Noël Felici, et dont l'activité est la pulvérisation de peinture par effet électrostatique.",
+  "Lieu « Inovallée », 1981 : L'édifice à l'architecture alvéolée fait l'objet de l'émission d'un timbre postal le 5 février 1981.",
+  "Lieu « Inovallée », 2013 : Inovallée compte en 2013, 340 entreprises et 10 200 emplois, essentiellement dans le domaine des nouvelles technologies comme Metrologic Group ou Rolls-Royce civil nuclear qui inaugure un nouveau bâtiment le 9 janvier 2015 cumulant 15 000 m2 de locaux.",
+  "Lieu « Château de Château Corbeau » : Le château de Château Corbeau également appelé la Bâtie d'en Haut est une ancienne maison forte du début du XIIIe siècle dont les ruines se dressent sur la commune de Meylan dans le département de l'Isère en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Château Corbeau », XIIIe siècle : Le château de Château Corbeau également appelé la Bâtie d'en Haut est une ancienne maison forte du début du XIIIe siècle dont les ruines se dressent sur la commune de Meylan dans le département de l'Isère en région Auvergne-Rhône-Alpes.",
+  "Lieu « La Bâtie-Meylan » : La Bâtie-Meylan est une ancienne commune française du département de l'Isère.",
+  "Lieu « La Bâtie-Meylan », aujourd'hui : Des villages de Cassini aux communes d'aujourd'hui, « Notice communale : La Bâtie-Meylan », sur ehess.fr, École des hautes études en sciences sociales."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

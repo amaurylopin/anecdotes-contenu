@@ -1,0 +1,166 @@
+{
+ "commune": {
+  "titre": "Crolles",
+  "code_insee": "38140",
+  "departement": "38",
+  "population": 8609,
+  "lat": 45.28583333,
+  "lon": 5.88361111,
+  "url": "https://fr.wikipedia.org/wiki/Crolles"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:11:15",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1755,
+  "sortie": 1316
+ },
+ "cout_usd": 0.001996,
+ "accroche": "À partir du IVe millénaire av. J.-C., Crolles s’organise autour de mises en culture sur les flancs du Grésivaudan, selon des recherches archéologiques.",
+ "histoire": {
+  "recit": "Dans la vallée du Grésivaudan, Crolles se présente comme une commune où l’urbain domine, tout en gardant des zones rurales éparses. Les recherches archéologiques évoquent une mise en culture progressive des terroirs par des paysans néolithiques, dès le IVe millénaire avant notre ère.\n\nDurant l’Antiquité, les premiers résidents historiquement connus sont les Allobroges, installés à partir du Ve siècle avant notre ère sur le site de la ville actuelle. Plus tard, au Ve siècle, le pouvoir reste aux mains du clergé, malgré les grandes invasions et l’arrivée des Burgondes.\n\nAu tournant des transports modernes, la ligne de tramway de Grenoble à Chapareillan est ouverte graduellement entre 1899 et 1901, en suivant l’avancement des travaux.\n\nCrolles s’ancre aussi dans deux ensembles de pierre et de nature : le château de Crolles, maison forte bâtie en 1340, et, au nord, les ruines du château de Montfort, proches du marais où l’on distingue encore des fossés liés à une extraction ancienne.",
+  "chronologie": [
+   {
+    "date": "À partir du IVe millénaire av. J.-C.",
+    "texte": "Des paysans néolithiques mettent progressivement en culture les terroirs sur les flancs du Grésivaudan et de la Combe de Savoie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ve siècle av. J.-C.",
+    "texte": "Les Allobroges s’installent sur le site de l’actuelle ville de Crolles.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Ve siècle",
+    "texte": "Le pouvoir demeure aux mains du clergé malgré les invasions et l’arrivée des Burgondes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1899-1901",
+    "texte": "La ligne de tramway de Grenoble à Chapareillan (TGC) est ouverte graduellement, au rythme des travaux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1340",
+    "texte": "Le château de Crolles, aussi appelé château de Bernis, est construit comme une ancienne maison forte.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "15 août 1600",
+    "texte": "Le château de Crolles reçoit la visite d’Henri IV.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1639",
+    "texte": "Le château de Crolles reçoit la visite de Louis XIII, accompagné du Cardinal de Richelieu.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Crolles",
+   "histoire": "Près du centre de Crolles, le château de Crolles, localement aussi nommé château de Bernis, est une ancienne maison forte construite en 1340. Il a été remanié à plusieurs reprises avant que certaines parties, comme la grande galerie, soient aujourd’hui ornées de peintures et d’un plafond à la française.",
+   "anecdotes": [
+    {
+     "texte": "Le château de Crolles a été édifié en 1340 par Amblard de Beaumont, puis transformé du XVe au XVIIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Le château de Crolles reçoit deux souverains français : Henri IV, le 15 août 1600, puis Louis XIII en 1639, accompagné par le Cardinal de Richelieu.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La grande galerie du bâtiment principal est actuellement ornée de peintures, avec un plafond à la française, et un petit salon est orné de boiseries.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 45.285,
+   "lon": 5.8903755,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Crolles"
+  },
+  {
+   "nom": "Château de Montfort (Crolles)",
+   "histoire": "Au nord du territoire de la commune, le château de Montfort, aussi appelé localement château Robert, est un ancien château fort dont l’édification de la partie en pierre remonte au XIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne reste que des ruines de cet ancien château fort.",
+   "sources": [
+    "S13"
+   ],
+   "lat": 45.299807,
+   "lon": 5.894514,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Montfort_%28Crolles%29"
+  },
+  {
+   "nom": "Marais de Montfort",
+   "histoire": "À 25 km au nord-est de Grenoble, le marais de Montfort est un espace naturel sensible départemental. On y repère encore des traces liées à une extraction antérieure.",
+   "anecdotes": [
+    {
+     "texte": "Au centre du marais, des fossés parallèles rendent visibles les traces de l’extraction.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les traces de cette extraction sont bien visibles : au centre du marais, on observe facilement de nombreux fossés parallèles.",
+   "sources": [
+    "S15"
+   ],
+   "lat": 45.2886,
+   "lon": 5.899,
+   "url": "https://fr.wikipedia.org/wiki/Marais_de_Montfort"
+  }
+ ],
+ "sources": [
+  "Crolles (/kʁol/) est une commune française, géographiquement installée dans la vallée du Grésivaudan, administrativement située dans le département de l'Isère en région Auvergne-Rhône-Alpes et, autrefois, rattachée à l'ancienne province du Dauphiné. Cette petite ville, dont le territoire est essentiellement urbain, mais dont il reste d'importantes zones rurales éparses, est, aujourd'hui, rattachée à l'arrondissement […]",
+  "À compter du IVe millénaire av. J.-C., la mise en culture progressive des terroirs sur les flancs du Grésivaudan et de la Combe de Savoie par des paysans néolithiques a pu être constatée par des recherches archéologiques. Durant la période antique, dans la vallée de l'Isère et donc sur le site de l'actuelle ville de Crolles, les premiers résidents, historiquement connus, sont les Allobroges, qui s’y sont installés à […]",
+  "Ve siècle : Durant la période antique, dans la vallée de l'Isère et donc sur le site de l'actuelle ville de Crolles, les premiers résidents, historiquement connus, sont les Allobroges, qui s’y sont installés à partir du Ve siècle avant notre ère.",
+  "Ve siècle : À partir du Ve siècle, le pouvoir reste aux mains du clergé, malgré les grandes invasions et l'arrivée des Burgondes qui, profitant de l'effondrement de l'Empire romain d'Occident, fondent un royaume qu'ils étendent vers la Suisse romande actuelle et le quart Sud-Est de la Gaule.",
+  "1899 : La ligne tramway de Grenoble à Chapareillan (abrégé TGC) est ouverte graduellement sur une période de plus de deux ans entre 1899 et 1901, en suivant l'avancement des travaux.",
+  "Lieu « Château de Crolles » : Le château de Crolles, dénommé également, au niveau local, château de Bernis, est une ancienne maison forte construite en 1340 qui se dresse à proximité du centre de la commune de Crolles dans le département de l'Isère et la région Auvergne-Rhône-Alp",
+  "Lieu « Château de Crolles », 1340 : Le château de Crolles, dénommé également, au niveau local, château de Bernis, est une ancienne maison forte construite en 1340 qui se dresse à proximité du centre de la commune de Crolles dans le département de l'Isère et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Crolles », 1340 : Cette ancienne maison forte a été édifiée en 1340 par Amblard de Beaumont et a connu de nombreuses transformations durant les XVe siècle, XVIIe siècle et XVIIIe siècle.",
+  "Lieu « Château de Crolles », 1600 : L'édifice située sur la Grande route du Grésivaudan a reçu les visites de deux souverains français : Henri IV, le 15 août 1600, puis, en 1639, son fils, Louis XIII accompagné par le Cardinal de Richelieu.",
+  "Lieu « Château de Crolles », aujourd'hui : Celui-ci fit construire la grande galerie du bâtiment principal actuellement ornée de peintures avec son plafond à la française et un petit salon orné de boiseries.",
+  "Lieu « Château de Montfort (Crolles) » : Le château de Montfort, aussi dénommé localement château Robert, est situé au nord du territoire de la commune de Crolles, département de l'Isère, en France.",
+  "Lieu « Château de Montfort (Crolles) », XIIIe siècle : L'édification du château de pierre remonte au XIIIe siècle.",
+  "Lieu « Château de Montfort (Crolles) », aujourd'hui : Il ne reste que des ruines de cet ancien château fort.",
+  "Lieu « Marais de Montfort » : L’espace naturel sensible départemental du marais de Montfort se localise dans le département de l'Isère à 25 km au nord-est de Grenoble.",
+  "Lieu « Marais de Montfort », aujourd'hui : Les traces de cette extraction sont bien visibles au centre du marais, où s'observent facilement un nombre important de fossés parallèles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

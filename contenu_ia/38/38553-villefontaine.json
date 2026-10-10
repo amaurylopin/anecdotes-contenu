@@ -1,0 +1,165 @@
+{
+ "commune": {
+  "titre": "Villefontaine",
+  "code_insee": "38553",
+  "departement": "38",
+  "population": 19445,
+  "lat": 45.61416667,
+  "lon": 5.14944444,
+  "url": "https://fr.wikipedia.org/wiki/Villefontaine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:12:46",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1521,
+  "sortie": 1519
+ },
+ "cout_usd": 0.002203,
+ "accroche": "À Villefontaine, l’église Saint-Martin est édifiée entre 1753 et 1756, puis agrandie en 1845.",
+ "histoire": {
+  "recit": "Villefontaine, dans l’Isère, s’inscrit dans une histoire très ancienne : la région est d’abord peuplée par les Allobroges, avant son intégration dans la province romaine du Viennois, avec Vienne pour capitale. On y trouve aussi une trace liée à la voie romaine Alpis Graia, dont des vestiges attestent une présence de l’homme dès le début de notre ère.\n\nPlus près de nous, la ville nouvelle marque un tournant : une voie y est détruite en 1980, et le Pavillon des Quatre Vents, petite construction à quatre piliers couverte en lauze, dépendait du château de Monbaly. Depuis 1983, l’édifice se trouve sur le territoire de Villefontaine.\n\nEnfin, la vie collective continue de s’écrire : Jardinons ensemble est un jardin communal installé sur le site de l’Étang de Vaugelas depuis le printemps 2012.",
+  "chronologie": [
+   {
+    "date": "-121",
+    "texte": "Le territoire des Allobroges, nommé Allobrogie, est intégré à la province romaine du Viennois.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "45 av. J.-C.",
+    "texte": "La voie romaine Alpis Graia est construite à partir de 45 av. J.-C.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "milieu du Ier siècle apr. J.-C.",
+    "texte": "La voie romaine Alpis Graia est construite jusqu’au milieu du Ier siècle apr. J.-C., avec des vestiges attestant une présence de l’homme à cette période.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1753-1756",
+    "texte": "L’église Saint-Martin est édifiée entre 1753 et 1756, en remplacement d’un édifice plus ancien.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1845",
+    "texte": "L’église Saint-Martin est agrandie en 1845.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1980",
+    "texte": "Une dernière voie est détruite en 1980 lors de la construction de la ville nouvelle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Le Pavillon des Quatre Vents date probablement du XVIIIe siècle et dépendait du château de Monbaly.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1983",
+    "texte": "Depuis 1983, le Pavillon des Quatre Vents est situé sur le territoire de Villefontaine.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "printemps 2012",
+    "texte": "Depuis le printemps 2012, Jardinons ensemble est installé sur le site de l’Étang de Vaugelas.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pavillon des Quatre Vents",
+   "histoire": "Petite construction ouverte de plan carré avec quatre piliers, couverte en lauze, elle dépendait du château de Monbaly. L’édifice est situé sur le territoire de Villefontaine depuis 1983.",
+   "anecdotes": [
+    {
+     "texte": "On a l’idée qu’il pourrait avoir été une dépendance d’agrément, voire un pavillon de chasse, construit au XVIIIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le Pavillon des Quatre Vents est installé sur le territoire de Villefontaine depuis 1983.",
+   "sources": [
+    "S5",
+    "S7",
+    "S6"
+   ],
+   "lat": 45.607422,
+   "lon": 5.179706,
+   "url": "https://fr.wikipedia.org/wiki/Pavillon_des_Quatre_Vents"
+  },
+  {
+   "nom": "Jardinons ensemble",
+   "histoire": "Jardinons ensemble est un jardin collectif communal à Villefontaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Depuis le printemps 2012, Jardinons ensemble est installé sur le site de l’Étang de Vaugelas.",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 45.60338,
+   "lon": 5.1536,
+   "url": "https://fr.wikipedia.org/wiki/Jardinons_ensemble"
+  },
+  {
+   "nom": "Église Saint-Martin de Villefontaine",
+   "histoire": "Église catholique de Villefontaine, l’édifice est édifié entre 1753 et 1756, remplaçant un édifice plus ancien, puis agrandi en 1845.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 45.613233,
+   "lon": 5.148996,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Villefontaine"
+  }
+ ],
+ "sources": [
+  "Villefontaine (prononcé [vilfɔ̃.tɛn]) est une commune française située dans le département de l'Isère, en région Auvergne-Rhône-Alpes. Ville-centre d'une unité urbaine, elle fait elle-même partie de l'aire urbaine de Lyon. Seulement 24 km les séparent. Avec 19 445 habitants en 2023, c'est la plus peuplée des communes issues de la ville nouvelle de L'Isle-d'Abeau. Ses habitants sont les Villards.",
+  "Durant l'Antiquité, la région de Villefontaine est peuplée par les Allobroges, un peuple gaulois dont le territoire était situé entre l'Isère, le Rhône et les Alpes du Nord. À partir de -121, ce territoire, nommé Allobrogie, est intégré dans la province romaine du Viennois avec pour capitale la cité de Vienne jusqu'au Haut Moyen Âge. Le territoire de Villefontaine se situe en bordure de la voie romaine Alpis Graia […]",
+  "Ier siècle : Cette voie fut construite entre 45 av. J.-C. jusqu’au milieu du Ier siècle apr. J.-C. Des vestiges attestent d'une présence de l'homme à cette période.",
+  "1980 : Cette dernière, détruite en 1980 lors de la construction de la ville nouvelle a peut-être été édifiée à l'emplacement d’un prieuré carolingien.",
+  "Lieu « Pavillon des Quatre Vents » : Le Pavillon des Quatre Vents est une petite construction ouverte de plan carré avec quatre piliers, couverte en lauze et qui dépendait du château de Monbaly, datant probablement du XVIIIe siècle Depuis 1983, l'édifice est situé sur le territoire de l",
+  "Lieu « Pavillon des Quatre Vents », XVIIIe siècle : Il pourrait simplement avoir servi de dépendance d'agrément ou encore de pavillon de chasse, bâti au XVIIIe siècle.",
+  "Lieu « Pavillon des Quatre Vents », 1983 : Le Pavillon des Quatre Vents est une petite construction ouverte de plan carré avec quatre piliers, couverte en lauze et qui dépendait du château de Monbaly, datant probablement du XVIIIe siècle Depuis 1983, l'édifice est situé sur le territoire de la commune de Villefontaine, en Isère, alors qu'il était initialement situé sur celle de Roche, dans le même département.",
+  "Lieu « Jardinons ensemble » : Jardinons ensemble est un jardin collectif communal situé à Villefontaine, dans l'Isère, en France.",
+  "Lieu « Jardinons ensemble », 2012 : Depuis le printemps 2012, Jardinons Ensemble est installé sur le site de l’Étang de Vaugelas, sur un terrain de près d’un hectare.",
+  "Lieu « Église Saint-Martin de Villefontaine » : L'église Saint-Martin de Villefontaine, est un édifice religieux catholique, situé dans le département de l'Isère, sur la commune de Villefontaine.",
+  "Lieu « Église Saint-Martin de Villefontaine », 1753 : Édifiée entre 1753 et 1756, l'église remplace un édifice plus ancien, puis est agrandie en 1845."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

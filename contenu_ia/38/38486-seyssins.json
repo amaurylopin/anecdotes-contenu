@@ -1,0 +1,74 @@
+{
+ "commune": {
+  "titre": "Seyssins",
+  "code_insee": "38486",
+  "departement": "38",
+  "population": 8092,
+  "lat": 45.1627792,
+  "lon": 5.6857021,
+  "url": "https://fr.wikipedia.org/wiki/Seyssins"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:18:47",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1059,
+  "sortie": 585
+ },
+ "cout_usd": 0.000943,
+ "accroche": "À Seyssins, l’église Saint-Martin a été construite entre le XIe et le XIIe siècle, dans une inspiration romane.",
+ "histoire": {
+  "recit": "Seyssins est une commune de l’Isère, membre de la métropole Grenoble-Alpes Métropole, située dans l’aire urbaine de Grenoble, et dont les habitants sont appelés les Seyssinois(es). Jadis, le village était un petit ensemble adossé aux derniers contreforts du massif du Vercors, à l’abri des crues dévastatrices du Drac, un affluent de l’Isère. L’histoire change ensuite avec l’endiguement de ce torrent alpin, permettant l’agrandissement du village vers la plaine après la construction d’une digue au XVIIe siècle.",
+  "chronologie": [
+   {
+    "date": "XIe siècle - XIIe siècle",
+    "texte": "Construction de l’église Saint-Martin de Seyssins, d’inspiration romane.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Endiguement du Drac : le village peut s’agrandir vers la plaine grâce à la construction d’une digue.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Seyssins",
+   "histoire": "Église catholique située à Seyssins, en Isère. Elle est décrite comme une église d’inspiration romane, construite entre le XIe et le XIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Église catholique située à Seyssins.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 45.1578,
+   "lon": 5.6808,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Seyssins"
+  }
+ ],
+ "sources": [
+  "Seyssins est une commune française située dans le département de l'Isère, en région Auvergne-Rhône-Alpes. La commune, qui se situe dans l'aire urbaine de Grenoble, est membre de la métropole Grenoble-Alpes Métropole. Ses habitants sont appelés les Seyssinois(es).",
+  "Seyssins était jusqu'à une période récente un petit village adossé aux derniers contreforts du massif du Vercors à l'abri des crues dévastatrices du Drac, affluent de l'Isère. Le village n'a connu son agrandissement, au niveau de la plaine, qu'après l'endiguement de cet important torrent alpin (au XVIIe siècle) avec la construction d'une digue. En 1753, le village et la région de Grenoble connaissent le premier […]",
+  "Lieu « Église Saint-Martin de Seyssins » : L'église Saint-Martin de Seyssins est une église catholique, située dans la commune de Seyssins, en Isère, dans la région Auvergne-Rhône-Alpes, en France.",
+  "Lieu « Église Saint-Martin de Seyssins », XIe siècle : Cette église, d'inspiration romane, a été construite entre le XIe siècle et le XIIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "commune": {
+  "titre": "Saint-Maurice-l'Exil",
+  "code_insee": "38425",
+  "departement": "38",
+  "population": 6889,
+  "lat": 45.4,
+  "lon": 4.783333,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Maurice-l%27Exil"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:37:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1187,
+  "sortie": 564
+ },
+ "cout_usd": 0.000942,
+ "accroche": "Le 12 novembre 1981, le décret d’autorisation de création relatif à Saint-Alban est signé, sur des communes dont Saint-Maurice-l'Exil, selon la description de la centrale.",
+ "histoire": {
+  "recit": "Saint-Maurice-l'Exil, en Isère, est liée à la grande silhouette du Rhône et à la présence, toute proche, de la centrale nucléaire de Saint-Alban, située aussi sur sa commune. Le territoire garde des traces très anciennes : des objets trouvés autour du site correspondent à l’époque du Ier siècle avant et après notre ère, et une villa romaine, dite villa Severiaco, a laissé des noms qui ont glissé vers Sivert puis Givray.",
+  "chronologie": [
+   {
+    "date": "12 novembre 1981",
+    "texte": "Le décret d’autorisation de création (DAC) relatif à Saint-Alban est signé.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "13 novembre 1969",
+    "texte": "Une décision interministérielle abandonne la filière UNGG au profit des réacteurs à eau légère.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "11 mai 2005",
+    "texte": "L’Autorité de sûreté nucléaire adresse au directeur de la centrale un courrier signalant de nombreux écarts aux règles de prévention du risque incendie.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "",
+    "texte": "Le remplacement du combustible se fait environ tous les seize mois, selon le cycle du combustible.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centrale nucléaire de Saint-Alban",
+   "histoire": "Implantée en Isère, sur le bord du Rhône, la centrale de Saint-Alban se trouve à 50 km en aval de Lyon et concerne les communes de Saint-Alban-du-Rhône et de Saint-Maurice-l'Exil.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le remplacement du combustible est réalisé tous les seize mois environ.",
+   "sources": [
+    "S3",
+    "S7"
+   ],
+   "lat": 45.40444,
+   "lon": 4.75528,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Saint-Alban"
+  }
+ ],
+ "sources": [
+  "Saint-Maurice-l'Exil est une commune française située dans le département de l'Isère en région Auvergne-Rhône-Alpes. Les habitants sont les Samauritains",
+  "L'histoire de Saint-Maurice remonte aux premiers siècles de notre ère. Sur l'emplacement de la centrale nucléaire de Saint-Alban, des archéologues ont découvert des objets datant du Ier siècle av. J.-C. et d'autres objets datant du Ier siècle apr. J.-C. On a aussi retrouvé une villa romaine la villa Severiaco (villa de Sévère) qui donna son nom à Sivert qui devint ensuite Givray. Dès le Ve siècle, le territoire de […]",
+  "Lieu « Centrale nucléaire de Saint-Alban » : La centrale nucléaire de Saint-Alban est localisée en Isère sur le bord du Rhône à 50 km en aval de Lyon, sur les communes de Saint-Alban-du-Rhône et de Saint-Maurice-l'Exil.",
+  "Lieu « Centrale nucléaire de Saint-Alban », 1969 : Un temps préférée, la filière UNGG est abandonnée par décision interministérielle du 13 novembre 1969 au profit des réacteurs à eau légère.",
+  "Lieu « Centrale nucléaire de Saint-Alban », 1981 : Le décret d'autorisation de création (DAC) relatif à Saint-Alban est signé le 12 novembre 1981.",
+  "Lieu « Centrale nucléaire de Saint-Alban », 2005 : Le 11 mai 2005, l'Autorité de sûreté nucléaire avait adressé au Directeur de la centrale de Saint-Alban un courrier stipulant de nombreux écarts aux règles de prévention du risque incendie.",
+  "Lieu « Centrale nucléaire de Saint-Alban », aujourd'hui : L’opération de remplacement du combustible est réalisée tous les seize mois environ, durée du cycle du combustible)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

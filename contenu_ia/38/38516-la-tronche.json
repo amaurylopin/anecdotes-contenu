@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "La Tronche",
+  "code_insee": "38516",
+  "departement": "38",
+  "population": 6424,
+  "lat": 45.20722222,
+  "lon": 5.74111111,
+  "url": "https://fr.wikipedia.org/wiki/La_Tronche"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:47:00",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2581,
+  "sortie": 1985
+ },
+ "cout_usd": 0.002997,
+ "accroche": "En 1790, la paroisse de Saint-Ferjus, érigée en commune, prend le nom de La Tronche, et la ville s’organise ensuite autour de ses pôles d’hôpital et de passage.",
+ "histoire": {
+  "recit": "À La Tronche, tout commence par une voie ancienne : autour de la Grande Rue, partie d’une ancienne voie romaine, des hameaux se sont développés, de Saint-Laurent à Grenoble jusqu’à la Petite Tronche et au Péage. Longtemps, le lieu a aussi attiré les pèlerins : une chapelle y est édifiée, puis reconstruite au XIIe siècle.\n\nSous l’autorité du dernier dauphin, un atelier de fabrication des monnaies delphinales s’installe à la Grande Tronche en 1333. Puis, en 1790, la paroisse de Saint-Ferjus devient commune et change de nom pour s’appeler La Tronche.\n\nLe tournant suivant, c’est l’hôpital et la route : avec l’ouverture de l’hôpital civil en 1913 et la route nationale 90 reliant Grenoble au col du Petit-Saint-Bernard, la commune se développe. Plus récemment, l’essor de la recherche se voit avec la première pierre de Grenoble-Institut des neurosciences en 2005.\n\nAu fil des lieux, La Tronche garde aussi ses repères : un pont pour relier plus facilement Grenoble à la rive, et des musées qui racontent autant l’art que l’histoire hospitalière.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Des pèlerinages attirent des visiteurs ; une chapelle est édifiée, puis reconstruite au XIIe siècle comme église paroissiale.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1333",
+    "texte": "Sous le règne d’Humbert II, un atelier est installé à la Grande Tronche pour fabriquer des monnaies delphinales.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "La paroisse de Saint-Ferjus, érigée en commune, prend le nom de La Tronche.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "L’église paroissiale du XIIe siècle, au milieu du cimetière, est remplacée par l’église Saint-Ferjus, plus près des habitations.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Sur le site de l’ancienne église, une chapelle néo-romane est édifiée et surmontée d’une statue du saint évêque martyr par Paul Virieu.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "Avec l’ouverture de l’hôpital civil et la route nationale 90, le territoire se développe.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1934",
+    "texte": "Le musée Hébert est créé pour rendre hommage au peintre Ernest Hébert, mort dans cette demeure.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "Le pont du Sablon est construit en 1939, pour répondre aux exigences des militaires qui avaient cédé le terrain.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "La première pierre du bâtiment dédié à l’étude du cerveau et de ses pathologies est posée le 12 décembre 2005.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "2007",
+    "texte": "Le Grenoble-Institut des neurosciences ouvre sur le campus santé et se consacre à des thérapies innovantes.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centre hospitalier universitaire Grenoble-Alpes",
+   "histoire": "Sur la commune, le Centre hospitalier universitaire Grenoble-Alpes s’inscrit dans une histoire d’établissements hospitaliers : l’hôpital Saint-Jacques est érigé au XIVe siècle, puis l’hôpital Notre-Dame prend une place prédominante à partir du XVIe siècle après sa construction en 1422.",
+   "anecdotes": [
+    {
+     "texte": "Au sujet d’une maison de l’aumône liée à l’histoire locale, il est dit que personne ne sait vraiment à quelle époque elle fut construite ni quel rôle elle exerça, mais son emplacement est décrit d’après un cartulaire.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S13"
+   ],
+   "lat": 45.199518,
+   "lon": 5.745631,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_Grenoble-Alpes"
+  },
+  {
+   "nom": "Grenoble-Institut des neurosciences",
+   "histoire": "Installé sur la commune près du centre hospitalier universitaire Grenoble-Alpes, l’institut poursuit une mission de recherche visant des thérapies innovantes pour les maladies neurologiques, neuromusculaires et psychiatriques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ouvert en 2007 sur le campus santé de l’université, l’institut est destiné à élaborer des thérapies innovantes.",
+   "sources": [
+    "S14",
+    "S16",
+    "S17"
+   ],
+   "lat": 45.19855,
+   "lon": 5.74425,
+   "url": "https://fr.wikipedia.org/wiki/Grenoble-Institut_des_neurosciences"
+  },
+  {
+   "nom": "Musée Hébert (La Tronche)",
+   "histoire": "Le musée Hébert est un musée départemental dédié à Ernest Hébert, directeur à deux reprises de l’Académie de France à Rome, mort en 1908 dans cette demeure.",
+   "anecdotes": [
+    {
+     "texte": "En 2025, un projet de transfert des collections du musée Hébert de Paris, fermé définitivement depuis 2004, vers le musée Hébert de La Tronche est engagé.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Depuis 2012, un espace d’expositions temporaires sur deux niveaux consacré à l’art contemporain est ouvert dans une annexe du musée.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 45.2055,
+   "lon": 5.7496,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_H%C3%A9bert_%28La_Tronche%29"
+  },
+  {
+   "nom": "Pont du Sablon",
+   "histoire": "Le pont du Sablon relie Grenoble à La Tronche. Construit en 1939, il répondait aux besoins d’accès évoqués par les militaires et l’emplacement visait un accès plus facile au polygone du Génie.",
+   "anecdotes": [
+    {
+     "texte": "Les militaires exigeaient un accès plus facile au polygone du Génie : c’est ce besoin qui est donné pour expliquer la construction du pont.",
+     "statut": "etabli",
+     "sources": [
+      "S23",
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 45.191667,
+   "lon": 5.741944,
+   "url": "https://fr.wikipedia.org/wiki/Pont_du_Sablon"
+  },
+  {
+   "nom": "Musée grenoblois des sciences médicales",
+   "histoire": "Le musée grenoblois des sciences médicales présente ce qu’a été l’hôpital de Grenoble et ce qu’il est devenu, en lien avec sa situation hors du centre-ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le musée est aujourd’hui installé dans l’ancienne chapelle de l’Asile des Vieillards construite en 1894.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 45.2,
+   "lon": 5.7489,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_grenoblois_des_sciences_m%C3%A9dicales"
+  },
+  {
+   "nom": "Cimetière ancien de La Tronche",
+   "histoire": "Le cimetière ancien de La Tronche, aussi appelé cimetière Saint-Ferjus, est un cimetière municipal où l’histoire des sépultures est racontée comme très ancienne et liée à des lieux de culte successifs.",
+   "anecdotes": [
+    {
+     "texte": "Il est affirmé qu’il y a toujours eu un lieu de sépulture en cet endroit depuis l’époque gallo-romaine, et qu’on y a construit une église sur la tombe d’un apôtre de la région, l’évêque Ferolus devenu saint Ferjus.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est un cimetière municipal situé à La Tronche, dans l’agglomération grenobloise.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 45.20165,
+   "lon": 5.743221,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_ancien_de_La_Tronche"
+  }
+ ],
+ "sources": [
+  "La Tronche est une commune française, limitrophe de Grenoble, située dans le département de l'Isère et la région Auvergne-Rhône-Alpes. Au cours du XXe siècle, sous l'impulsion de la forte croissance urbaine de Grenoble, des hôpitaux, civil et militaire, furent installés le long de la route nationale 90, puis le CHU Grenoble-Alpes. L'urbanisation de la commune s'est poursuivie à un rythme soutenu depuis les années […]",
+  "C'est autour de la Grande Rue, partie d'une ancienne voie romaine, que se sont progressivement développés des hameaux, successivement, depuis le quartier de Saint-Laurent à Grenoble : la Petite Tronche, célèbre pour ses ateliers de faïence sous l'Ancien Régime, le Péage, à l'embranchement de la route de Chartreuse, où les Dominicaines de Montfleury percevaient une taxe, que leur avait donné le dernier Dauphin […]",
+  "XIIe siècle : Lieu de pèlerinages, une chapelle y fut édifiée, reconstruite au XIIe siècle comme église paroissiale.",
+  "1333 : Sous le règne d'Humbert II, dernier dauphin (1333-1349), un atelier fut installé à la Grande Tronche pour la fabrication des monnaies delphinales.",
+  "1790 : En 1790, la paroisse de Saint-Ferjus, érigée en commune, prend le nom de La Tronche.",
+  "1846 : L'ancienne église paroissiale du XIIe siècle, située au milieu du cimetière, est remplacée en 1846 par un édifice situé plus près des habitations, l'actuelle église Saint-Ferjus.",
+  "1866 : Sur le site de l'ancienne église est édifiée en 1866 une chapelle néo-romane, surmontée d'une statue du saint évêque martyr, par Paul Virieu.",
+  "1913 : Avec l’ouverture de l’hôpital civil en 1913 et de la route nationale 90 (de Grenoble au col du Petit-Saint-Bernard), la ville se développe.",
+  "Lieu « Centre hospitalier universitaire Grenoble-Alpes » : Le Centre hospitalier universitaire Grenoble Alpes (CHU Grenoble Alpes) est un centre hospitalier universitaire français situé dans le département de l’Isère en région Auvergne-Rhône-Alpes.",
+  "Lieu « Centre hospitalier universitaire Grenoble-Alpes », XIVe siècle : Puis l'hôpital Saint-Jacques fut érigé au XIVe siècle par un riche financier d'origine florentine nommé Jacques de Die surnommé Lappol.",
+  "Lieu « Centre hospitalier universitaire Grenoble-Alpes », 1422 : Cependant, parmi tous ces établissements qui furent construits, l'hôpital Notre-Dame, bâti en 1422 par l'évêque Aymon Ier de Chissé prend une place prédominante à partir du XVIe siècle et les trois établissements cités précédemment se réunirent à ce dernier.",
+  "Lieu « Centre hospitalier universitaire Grenoble-Alpes », XVe siècle : Au cours du XVe siècle fut fondé l'hôpital Saint-Sébastien et Saint-Roch (aussi appelé hôpital de l'Ile) par Grâce d'Archelles, un ancien serviteur de Louis XI.",
+  "Lieu « Centre hospitalier universitaire Grenoble-Alpes », aujourd'hui : Personne ne sait vraiment à quelle époque cette maison de l'aumône fut construite, ni quel rôle elle exerçait, mais son emplacement est bien décrit par Hugues de Grenoble (1053 - 1132) dans son « cartulaire de l'église de Grenoble », celle-ci était vraisemblablement située près de l'actuelle place Grenette en dehors de la « porte Traine ».",
+  "Lieu « Grenoble-Institut des neurosciences » : Grenoble-Institut des neurosciences est un centre de recherche de l'INSERM et de l'université Grenoble Alpes installé sur la commune de La Tronche près de Grenoble.",
+  "Lieu « Grenoble-Institut des neurosciences », 2005 : La première pierre du bâtiment consacré à l'étude du cerveau et de ses pathologies est posée le 12 décembre 2005.",
+  "Lieu « Grenoble-Institut des neurosciences », 2007 : Ouvert en 2007 sur le campus santé de l'université, sa mission est d'élaborer des thérapies innovantes pour les maladies neurologiques, neuromusculaires et psychiatriques.",
+  "Lieu « Grenoble-Institut des neurosciences », aujourd'hui : Son emplacement à proximité du centre hospitalier universitaire Grenoble-Alpes et de l'Institute for Advanced Biosciences a été choisi afin de favoriser les interactions avec les cliniciens de ces établissements.",
+  "Lieu « Musée Hébert (La Tronche) » : Le musée Hébert est un musée départemental créé en 1934 afin de rendre hommage au peintre français Ernest Hébert, directeur à deux reprises de l'Académie de France à Rome au XIXe siècle et mort dans cette demeure en 1908.",
+  "Lieu « Musée Hébert (La Tronche) », 1942 : Ce bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 9 août 1942.",
+  "Lieu « Musée Hébert (La Tronche) », 2012 : Depuis 2012, un espace d'expositions temporaires sur deux niveaux consacré à l'art contemporain est ouvert dans une annexe du musée, achetée à l'époque par le donateur.",
+  "Lieu « Musée Hébert (La Tronche) », 2025 : En 2025, un projet de transfert des collections du musée Hébert de Paris, fermé définitivement depuis 2004, vers le musée Hébert de La Tronche est engagé.",
+  "Lieu « Pont du Sablon » : Le pont du Sablon est un pont qui relie Grenoble à La Tronche.",
+  "Lieu « Pont du Sablon », 1939 : Il a été construit en 1939, trois années après la construction de l'ancien Stade Charles Berty, près du parc Paul-Mistral, afin de répondre aux exigences des militaires qui en avait cédé le terrain.",
+  "Lieu « Pont du Sablon », aujourd'hui : Ces derniers voulaient en effet pouvoir accéder plus facilement au polygone du Génie, situé sur la rive droite de l'Isère (actuellement la forêt alluviale située entre la voie rapide N90 et la boucle de l'Isère).",
+  "Lieu « Musée grenoblois des sciences médicales » : Le musée grenoblois des sciences médicales est le musée du centre hospitalier universitaire Grenoble-Alpes situé sur le campus santé à La Tronche.",
+  "Lieu « Musée grenoblois des sciences médicales », 1894 : Il est installé dans l'ancienne chapelle de l'Asile des Vieillards construite en 1894, du nom de l'ensemble pavillonnaire dans lequel elle se situe.",
+  "Lieu « Musée grenoblois des sciences médicales », aujourd'hui : Il s'agit, en somme de montrer ce qu'a été l'hôpital de Grenoble, ce qu'il est aujourd'hui, à la fois conforme à d'autres hôpitaux, mais spécifique en raison de son implantation hors de la ville centre.",
+  "Lieu « Cimetière ancien de La Tronche » : Le cimetière ancien de La Tronche, ou cimetière Saint-Ferjus, est un cimetière municipal situé à La Tronche dans l'agglomération grenobloise (Isère).",
+  "Lieu « Cimetière ancien de La Tronche », 1866 : Il y a toujours eu un lieu de sépulture en cet endroit sur fond de montagnes depuis l'époque gallo-romaine; on y a construit une église sur la tombe d'un apôtre de la région, l'évêque Ferolus (devenu saint Ferjus), martyrisé au VIIe siècle, puis une nouvelle église au XIIe siècle démolie au milieu du XIXe siècle pour la chapelle actuelle, terminée en 1866 en style […]"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 4
+ }
+}
