@@ -1,0 +1,192 @@
+{
+ "commune": {
+  "titre": "Wittelsheim",
+  "code_insee": "68375",
+  "departement": "68",
+  "population": 10645,
+  "lat": 47.80583333,
+  "lon": 7.23833333,
+  "url": "https://fr.wikipedia.org/wiki/Wittelsheim"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:52:01",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1755,
+  "sortie": 1259
+ },
+ "cout_usd": 0.001925,
+ "accroche": "Depuis le 1er janvier 2021, Wittelsheim fait partie du territoire de la Collectivité européenne d’Alsace, dans le Haut-Rhin.",
+ "histoire": {
+  "recit": "À Wittelsheim, les traces d’occupation remontent bien avant la commune moderne : des vestiges attestent une présence humaine dès le Bronze ancien, puis des découvertes plus tardives, dont des objets de type « Rixheim », et même une nécropole tumulaire liée aux périodes du Hallstatt et de La Tène. À l’époque romaine, un tronçon de voie relie Epomanduodurum au Mons Brisiacus, sur le territoire de la commune. Plus près de nous, le paysage se marque surtout avec l’activité minière : le puits Amélie connaît l’évolution de ses installations au cours du XXe siècle, avant que les bâtiments miniers soient rasés au début du XXIe siècle. La commune garde aussi des repères ferroviaires, avec une gare de Wittelsheim mise en service en 1841 et fermée en 2011, ainsi qu’une gare de Graffenwald sur la ligne de Lutterbach à Kruth. Enfin, la salle des fêtes Grassegert fait partie des édifices protégés au titre des monuments historiques.",
+  "chronologie": [
+   {
+    "date": "-2400 à -1600",
+    "texte": "Des vestiges témoignent d’une occupation humaine depuis le Bronze ancien, avec de nombreux sites répertoriés sur le territoire de Wittelsheim.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "-1300 à -1100",
+    "texte": "Des objets de type « Rixheim » sont signalés parmi les découvertes, pour le Bronze final I-IIa.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XXe siècle",
+    "texte": "Le puits Amélie est une ancienne mine de potasse exploitée au cours du XXe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1923",
+    "texte": "Au puits Amélie, un nouveau bâtiment de recette est construit.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1952",
+    "texte": "Le puits Amélie I reçoit un nouveau chevalement de 75 mètres, construit par la société Schneider-Heckel.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "Le puits Joseph-Else est inscrit à l’inventaire des monuments historiques.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2011",
+    "texte": "La gare de Wittelsheim est fermée.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "début du XXIe siècle",
+    "texte": "Les bâtiments miniers du puits Amélie sont rasés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2005-2021",
+    "texte": "Wittelsheim appartient à la Collectivité européenne d’Alsace depuis le 1er janvier 2021.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Puits Amélie",
+   "histoire": "Ancienne mine de potasse exploitée au XXe siècle, le puits Amélie fait l’objet de travaux et d’évolutions d’équipements avant la disparition des bâtiments miniers au début du XXIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 47.79307,
+   "lon": 7.248524,
+   "url": "https://fr.wikipedia.org/wiki/Puits_Am%C3%A9lie"
+  },
+  {
+   "nom": "Puits Joseph-Else",
+   "histoire": "Le puits Joseph-Else, rue Alfred Kastler, est un monument historique inscrit à l’inventaire des monuments historiques en 2005, avec des installations complétées au fil des années, dont un équipement lié à l’extraction en 1931.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 47.7803,
+   "lon": 7.2281,
+   "url": "https://fr.wikipedia.org/wiki/Puits_Joseph-Else"
+  },
+  {
+   "nom": "Gare de Wittelsheim",
+   "histoire": "La gare de Wittelsheim se trouve sur la commune. Mise en service en 1841 par la Compagnie du chemin de fer de Strasbourg à Bâle, elle est ensuite fermée en 2011.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 47.817306,
+   "lon": 7.264167,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Wittelsheim"
+  },
+  {
+   "nom": "Salle des fêtes Grassegert",
+   "histoire": "La salle des fêtes Grassegert est un monument historique à Wittelsheim, avec une inscription au titre des monuments historiques depuis 1998.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 47.7927,
+   "lon": 7.23014,
+   "url": "https://fr.wikipedia.org/wiki/Salle_des_f%C3%AAtes_Grassegert"
+  },
+  {
+   "nom": "Gare de Graffenwald",
+   "histoire": "La gare de Graffenwald fait partie de la ligne de Lutterbach à Kruth sur le territoire de Wittelsheim ; elle ne doit pas être confondue avec la gare de Wittelsheim aujourd’hui fermée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 47.780989,
+   "lon": 7.224512,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Graffenwald"
+  }
+ ],
+ "sources": [
+  "Wittelsheim (prononcé [vitəlsaim] ; en dialecte alsacien : Wittelsà) est une commune de la banlieue de Mulhouse située dans la circonscription administrative du Haut-Rhin et, depuis le 1er janvier 2021, dans le territoire de la Collectivité européenne d'Alsace, en région Grand Est (anciennement Région Alsace). Elle est membre de Mulhouse Alsace Agglomération et fait partie des 20 communes de l'agglomération […]",
+  "Les vestiges découverts à Wittelsheim témoignent d’une occupation humaine depuis l’Âge du Bronze ancien (de -2 400 à -1 600) avec 24 sites répertoriant des découvertes allant d'objets isolés, comme d'épées de type « Rixheim » (Bronze final I-IIa ; -1 300 à -1 100), à une nécropole tumulaire datant de la période du Hallstatt et de La Tène et un tronçon de la voie romaine d'Epomanduodurum au Mons Brisiacus La région […]",
+  "Lieu « Puits Amélie » : Le puits Amélie est une ancienne mine de potasse exploitée au cours du XXe siècle, située à Wittelsheim dans le Haut-Rhin et la région française du Grand Est.",
+  "Lieu « Puits Amélie », 1923 : En 1923, un nouveau bâtiment de recette est construit.",
+  "Lieu « Puits Amélie », 1952 : En 1952, le puits Amélie I reçoit un nouveau chevalement plus moderne de 75 mètres de haut construit par la société Schneider-Heckel.",
+  "Lieu « Puits Amélie », XXIe siècle : Les bâtiments miniers sont rasés au début du XXIe siècle.",
+  "Lieu « Puits Amélie », aujourd'hui : Un sondage est réalisé par la Gewerkschaft Amélie en 1906 à l’emplacement du futur carreau Amélie.",
+  "Lieu « Puits Joseph-Else » : Le puits Joseph Else est un monument historique situé rue Alfred Kastler à Wittelsheim, dans le département français du Haut-Rhin, il est inscrit à l'inventaire des monuments historiques en 2005.",
+  "Lieu « Puits Joseph-Else », 1931 : La même année, un second moteur et un nouveau groupe convertisseur sont installés sur la machine d'extraction au puits Joseph, et le puits Else reçoit un nouveau chevalement en béton armé puis une nouvelle machine électrique Vénot-Pélin équipée d'un tambour bicylindroconique en 1931.",
+  "Lieu « Puits Joseph-Else », 1990 : L'édifice faisait l'objet d'une inscription au titre des monuments historiques depuis 1990.",
+  "Lieu « Puits Joseph-Else », 1991 : L'édifice faisait l'objet d'une autre inscription au titre des monuments historiques depuis 1991.",
+  "Lieu « Gare de Wittelsheim » : La gare de Wittelsheim est une gare ferroviaire française fermée de la ligne de Strasbourg-Ville à Saint-Louis, située sur le territoire de la commune de Wittelsheim dans le département du Haut-Rhin en région Alsace.",
+  "Lieu « Gare de Wittelsheim », 1841 : Elle est mise en service en 1841 par la Compagnie du chemin de fer de Strasbourg à Bâle et fermée en 2011 par la Société nationale des chemins de fer français (SNCF).",
+  "Lieu « Salle des fêtes Grassegert » : La salle des fêtes Grassegert est un monument historique situé à Wittelsheim, dans le département français du Haut-Rhin.",
+  "Lieu « Salle des fêtes Grassegert », 1998 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1998.",
+  "Lieu « Gare de Graffenwald » : La gare de Graffenwald est une gare ferroviaire française de la ligne de Lutterbach à Kruth, située sur le territoire de la commune de Wittelsheim dans le département du Haut-Rhin, en région Grand Est.",
+  "Lieu « Gare de Graffenwald », aujourd'hui : Cette gare ne doit pas être confondue avec la gare de Wittelsheim aujourd'hui fermée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 0
+ }
+}

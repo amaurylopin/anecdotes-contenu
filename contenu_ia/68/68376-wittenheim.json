@@ -1,0 +1,171 @@
+{
+ "commune": {
+  "titre": "Wittenheim",
+  "code_insee": "68376",
+  "departement": "68",
+  "population": 15553,
+  "lat": 47.80805556,
+  "lon": 7.3375,
+  "url": "https://fr.wikipedia.org/wiki/Wittenheim"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:25:20",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1776,
+  "sortie": 1173
+ },
+ "cout_usd": 0.001821,
+ "accroche": "En 1632, le château de Wittenheim est détruit par les Suédois pendant la guerre de Trente Ans.",
+ "histoire": {
+  "recit": "Wittenheim, ancienne commune minière du bassin potassique d’Alsace, s’est transformée en ville tournée vers les activités tertiaires. Le site est occupé très tôt : en 1930, des découvertes au lieu-dit « Horoederenhubel » témoignent d’une présence depuis le Néolithique ancien. Plus tard, la vie locale suit les grands rythmes : une première banque apparaît en 1887, puis viennent les équipements modernes au début du XXe siècle et les grands travaux après la guerre. La mémoire matérielle reste visible : le puits Théodore, la cité minière et son église, ainsi que la motte féodale du Rebberg Grosstueck.",
+  "chronologie": [
+   {
+    "date": "1632",
+    "texte": "Le château de Wittenheim, résidence des nobles de Wittenheim puis des Von Hus von Wittenheim, est détruit par les Suédois.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1887",
+    "texte": "La première banque de la commune est créée sur le modèle mutualiste de Friedrich Wilhelm Raiffeisen.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1920",
+    "texte": "Inauguration du foyer catholique ; des chantiers suivent avec l’eau et l’assainissement, puis l’école des filles, le poste à incendie et les bains municipaux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "Électrification de la ligne de tramway.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1945-02-02",
+    "texte": "Le 2 février 1945, des obus incendiaires allemands mettent le feu à l’église Sainte-Marie.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1945-02-04",
+    "texte": "Le clocher s’effondre le 4 février 1945 à 9 h 30.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1959-06-27",
+    "texte": "Les 27 et 28 juin 1959, « Les Fêtes du renouveau » : le nouveau Wittenheim-centre est officiellement inauguré.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Puits Théodore",
+   "histoire": "Le puits Théodore est un monument historique à Wittenheim. En 1919, les MDPA récupèrent le puits, et l’année suivante une centrale électrique est construite. Dans l’élan du site minier, des ateliers spécialisés apparaissent au sud de la fosse entre 1925 et 1929, puis des vestiaires en 1930 et un atelier de réparation électrique six ans plus tard.",
+   "anecdotes": [
+    {
+     "texte": "En 1919, les MDPA récupèrent le puits Théodore, et une centrale électrique est construite dès l’année suivante.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Puits Théodore est un monument historique situé à Wittenheim.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 47.829342,
+   "lon": 7.327237,
+   "url": "https://fr.wikipedia.org/wiki/Puits_Th%C3%A9odore"
+  },
+  {
+   "nom": "Église Sainte-Barbe de Wittenheim",
+   "histoire": "L’église Sainte-Barbe de Wittenheim est une architecture classée monument historique. Elle se situe au cœur de la cité minière Théodore, édifiée sous l’impulsion de Pierre de Retz, premier Directeur Général des MDPA (1921-1936). L’édifice fait l’objet d’un classement au titre des monuments historiques depuis 1993.",
+   "anecdotes": [
+    {
+     "texte": "L’église Sainte-Marie subit, le 2 février 1945, des incendies provoqués par des obus incendiaires allemands.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Le 4 février 1945 à 9 h 30, le clocher s’effondre.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’église Sainte-Barbe de Wittenheim est une architecture classée monument historique.",
+   "sources": [
+    "S14",
+    "S16"
+   ],
+   "lat": 47.825373,
+   "lon": 7.335271,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Barbe_de_Wittenheim"
+  },
+  {
+   "nom": "Motte féodale du Rebberg Grosstueck",
+   "histoire": "La motte féodale du Rebberg Grosstueck est un monument historique situé à Wittenheim, dans le département du Haut-Rhin. L’édifice fait l’objet d’une inscription au titre des monuments historiques depuis 1989.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La motte féodale du Rebberg Grosstueck est un monument historique situé à Wittenheim.",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 47.8086,
+   "lon": 7.3422,
+   "url": "https://fr.wikipedia.org/wiki/Motte_f%C3%A9odale_du_Rebberg_Grosstueck"
+  }
+ ],
+ "sources": [
+  "Wittenheim (prononcé [vitənaɪm] ; en alsacien : Wettena [\"vetәna]) est une commune de la banlieue de Mulhouse faisant partie de la Collectivité européenne d'Alsace, en région Grand Est. C'est une ancienne commune minière du bassin potassique d'Alsace, aujourd'hui reconvertie dans les activités tertiaires et la quatrième plus peuplée du Haut-Rhin. Jusqu'à la révolution industrielle, la commune ne comptait que deux […]",
+  "Le site est occupé depuis le Néolithique comme l'attestent les découvertes archéologiques faites au début du XXe siècle. En creusant les fondations de la villa de l'entrepreneur Columbina, au lieu-dit « Horoederenhubel », un squelette accroupi ainsi que de la poterie rubanée datant du Néolithique ancien furent découverts en 1930. En 1968, la présence d'un peuplement datant de l'âge du bronze final fut découverte au […]",
+  "1632 : Ancien fief autrichien, le château de Wittenheim, résidence des nobles de Wittenheim puis des Von Hus von Wittenheim, a été détruit en 1632 par les Suédois lors de la guerre de Trente Ans.",
+  "1887 : La première banque de la commune est créée en 1887 sur le modèle mutualiste fondé par l'allemand Friedrich Wilhelm Raiffeisen (1818-1888).",
+  "1920 : Le progrès fit également son arrivée : inauguration du foyer catholique en 1920 ; mise en chantier d'un vaste réseau de distribution d'eau en 1922 ; mise en chantier du tout-à-l’égout, construction de l'école des filles, du poste à incendie et des bains municipaux en 1928 ; électrification de la ligne de tramway en 1929.",
+  "1945 : Le 2 février 1945, les derniers obus incendiaires allemands mirent le feu à l'église de style baroque Sainte-Marie.",
+  "1945 : Le clocher s'effondra le 4 février 1945 à 9 h 30.",
+  "XXe siècle : Le site est occupé depuis le Néolithique comme l'attestent les découvertes archéologiques faites au début du XXe siècle.",
+  "1959 : Les 27 et 28 juin 1959, lors des « Fêtes du renouveau », le nouveau Wittenheim-centre est officiellement inauguré : place de Thiers, rues de Saint-Cloud et de Fontenay-sous-Bois, bureau de poste, commissariat de police, commerces.",
+  "Lieu « Puits Théodore » : Le puits Théodore est un monument historique situé à Wittenheim, dans le département français du Haut-Rhin.",
+  "Lieu « Puits Théodore », 1919 : En 1919, les MDPA récupèrent le puits et l'année suivante une centrale électrique est construite.",
+  "Lieu « Puits Théodore », 1925 : Des ateliers spécialisés sont construits au sud de la fosse entre 1925 et 1929.",
+  "Lieu « Puits Théodore », 1930 : Des vestiaires sont construits en 1930 suivis, six ans plus tard d'un atelier de réparation électrique.",
+  "Lieu « Église Sainte-Barbe de Wittenheim » : L'église Sainte-Barbe est une architecture classée monument historique et située à Wittenheim, dans le département français du Haut-Rhin.",
+  "Lieu « Église Sainte-Barbe de Wittenheim », 1921 : L’église Sainte-Barbe se trouve au cœur de la cité minière Théodore à Wittenheim, édifiée sous l’impulsion de Pierre de Retz, premier Directeur Général des MDPA (1921-1936).",
+  "Lieu « Église Sainte-Barbe de Wittenheim », 1993 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis 1993.",
+  "Lieu « Motte féodale du Rebberg Grosstueck » : La motte féodale du Rebberg Grosstueck est un monument historique situé à Wittenheim, dans le département français du Haut-Rhin.",
+  "Lieu « Motte féodale du Rebberg Grosstueck », 1989 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1989."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

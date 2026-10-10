@@ -1,0 +1,163 @@
+{
+ "commune": {
+  "titre": "Riedisheim",
+  "code_insee": "68271",
+  "departement": "68",
+  "population": 12200,
+  "lat": 47.7489,
+  "lon": 7.3675,
+  "url": "https://fr.wikipedia.org/wiki/Riedisheim"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:41:35",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1486,
+  "sortie": 1103
+ },
+ "cout_usd": 0.001676,
+ "accroche": "Le 19 juin 1940, la ville de Riedisheim est occupée par les Allemands, selon la chronologie locale.",
+ "histoire": {
+  "recit": "Riedisheim, commune du Haut-Rhin, appartient depuis le 1er janvier 2021 au territoire de la Collectivité européenne d’Alsace et fait partie de Mulhouse Alsace Agglomération. Le ban attestait une présence humaine dès le Paléolithique inférieur : le Rhin, encore torrent sauvage, inondait régulièrement la zone. À travers les siècles, le destin du lieu se lit aussi dans les traces d’un village disparu : près de Mulhouse, Leibersheim n’est plus qu’emplacement.\n\nPendant la Seconde Guerre mondiale, Riedisheim subit l’occupation : le 19 juin 1940, les Allemands prennent la ville. Plus loin dans l’histoire du territoire, Leibersheim montre une suite de ruptures : un incendie au XVe siècle, puis des mentions qui s’éteignent, et enfin une destruction rapportée en 1467 durant une guerre. Plus tard, la commanderie teutonique de Rixheim détient le site avant d’être détruite en 1775, laissant place à une maison de vigne. Au XIXe siècle, la maison change de mains avant d’être rasée en 1860.\n\nÀ Riedisheim, un autre fil se poursuit : l’église Sainte-Afre. Remplacée par un nouvel édifice en 1759, elle est ensuite démolie en 1837. L’orgue est construit en 1853 par Joseph Stiehr, puis restauré et modifié à plusieurs reprises, notamment en 1928, 1952 et 1979.",
+  "chronologie": [
+   {
+    "date": "Paléolithique inférieur",
+    "texte": "Le ban de Riedisheim atteste d’une présence humaine très ancienne : le Rhin y provoquait encore des submersions régulières.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1467",
+    "texte": "À Leibersheim, l’enchaînement entre incendie au XVe siècle et disparition des mentions conduit à penser que le village a été détruit en 1467 durant la guerre des six Deniers.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1775",
+    "texte": "Le site de Leibersheim, alors propriété de la commanderie teutonique de Rixheim, est détruit et remplacé par une maison de vigne.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "La maison de Leibersheim, après des changements de main au XIXe siècle, est rasée en 1860 en raison de son mauvais état.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "19 juin 1940",
+    "texte": "Riedisheim est occupée par les Allemands.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1759",
+    "texte": "L’église Sainte-Afre de Riedisheim est remplacée par un nouvel édifice consacré en 1759.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1837",
+    "texte": "L’édifice de l’église Sainte-Afre de Riedisheim est ensuite démoli en 1837.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1853",
+    "texte": "L’orgue de l’église Sainte-Afre de Riedisheim est construit en 1853 par le facteur d’orgues Joseph Stiehr.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1928",
+    "texte": "L’orgue est restauré et modifié : en 1928 notamment, puis plus tard en 1952 et en 1979.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Leibersheim",
+   "histoire": "Leibersheim est un village disparu, autrefois situé près de Mulhouse. Son emplacement se trouve, aujourd’hui, dans la partie occidentale du ban de la commune de Riedisheim.",
+   "anecdotes": [
+    {
+     "texte": "À propos de Leibersheim, les fouilles évoquent un incendie au XVe siècle, et l’absence de mentions dans les textes conduit à penser à une destruction en 1467 pendant la guerre des six Deniers.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "La commanderie teutonique de Rixheim possédait Leibersheim avant d’être détruite en 1775, ce qui laisse place à une maison de vigne.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’emplacement du village se trouve en 2025 dans la partie occidentale du ban de la commune de Riedisheim.",
+   "sources": [
+    "S8",
+    "S4"
+   ],
+   "lat": 47.74166667,
+   "lon": 7.37666667,
+   "url": "https://fr.wikipedia.org/wiki/Leibersheim"
+  },
+  {
+   "nom": "Église Sainte-Afre de Riedisheim",
+   "histoire": "Église paroissiale catholique de Riedisheim, elle est remplacée par un nouvel édifice consacré en 1759, puis démolie en 1837. Un orgue est construit en 1853 par Joseph Stiehr, restauré et modifié à plusieurs reprises ensuite.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 47.74895,
+   "lon": 7.366811,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Afre_de_Riedisheim"
+  }
+ ],
+ "sources": [
+  "Riedisheim [ʁidisaɪm] est une commune de la banlieue de Mulhouse située dans la circonscription administrative du Haut-Rhin et, depuis le 1er janvier 2021, dans le territoire de la Collectivité européenne d'Alsace, en région Grand Est. Cette commune se trouve dans la région historique et culturelle d'Alsace et est membre de Mulhouse Alsace Agglomération (M2A) qui regroupe plusieurs communes de la région du Rhin […]",
+  "Le ban de Riedisheim est l'une des rares localités à attester d'une présence humaine dès le Paléolithique inférieur. Le Rhin qui n'était alors qu'un torrent sauvage, précipitait ses crues jusqu'aux premières collines du Jura. Riedisheim était ainsi régulièrement submergée. Au fil du temps, le grand fleuve sauvage creusa un lit plus profondément et tendit à se discipliner. Lorsque les Romains parvinrent en Alsace, […]",
+  "1940 : Le 19 juin 1940, la ville est occupée par les Allemands.",
+  "Lieu « Leibersheim » : Leibersheim est un village disparu et autrefois situé près de Mulhouse.",
+  "Lieu « Leibersheim », 1467 : D’après les fouilles archéologiques, un important incendie a eu lieu au XVe siècle, ce qui, associé à la disparition des mentions directes dans les textes, laisse à penser qu’il a été détruit en 1467 pendant la guerre des six Deniers.",
+  "Lieu « Leibersheim », 1775 : Propriété de la commanderie teutonique de Rixheim, celle-ci est détruite en 1775 et remplacée par une maison de vigne.",
+  "Lieu « Leibersheim », 1860 : La maison change de main à plusieurs reprises au XIXe siècle avant d’être rasée en 1860 en raison de son mauvais état.",
+  "Lieu « Leibersheim », aujourd'hui : L’emplacement du village se trouve en 2025 dans la partie occidentale du ban de la commune de Riedisheim, dans la Collectivité européenne d’Alsace, en France.",
+  "Lieu « Église Sainte-Afre de Riedisheim » : L'église Sainte-Afre de Riedisheim est une église paroissiale catholique située à Riedisheim, dans le département français du Haut-Rhin.",
+  "Lieu « Église Sainte-Afre de Riedisheim », 1759 : Elle est ensuite remplacée par un nouvel édifice consacré en 1759 puis démoli en 1837.",
+  "Lieu « Église Sainte-Afre de Riedisheim », 1853 : Il est construit en 1853 par le facteur d'orgues Joseph Stiehr.",
+  "Lieu « Église Sainte-Afre de Riedisheim », 1928 : Entretemps, il est restauré plusieurs fois, entre autres par Louis Mockers ; il est également modifié à plusieurs reprises : en 1928 notamment, puis en 1952 par la Manufacture d'orgues Muhleisen, puis en 1979 par Alfred Kern, qui construit un nouveau buffet."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Seconde"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

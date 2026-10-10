@@ -1,0 +1,235 @@
+{
+ "commune": {
+  "titre": "Ensisheim",
+  "code_insee": "68082",
+  "departement": "68",
+  "population": 7306,
+  "lat": 47.8664,
+  "lon": 7.3531,
+  "url": "https://fr.wikipedia.org/wiki/Ensisheim"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:30:43",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2358,
+  "sortie": 1214
+ },
+ "cout_usd": 0.001989,
+ "accroche": "Le 28 octobre 1444, la « paix d'Ensisheim » est signée à Ensisheim.",
+ "histoire": {
+  "recit": "Ensisheim a commencé bien avant les grandes affaires de son temps : en 1881, un tumulus de l’époque de Hallstatt y est mis au jour, avec de l’or ouvragé, dont un beau torque et des rubans fins.\nPlus tard, la commune devient un lieu d’enseignement : le 18 octobre 1615, un collège jésuite ouvre à Ensisheim.\nQuand l’époque change, les bâtiments suivent. Le « palais de la Régence », érigé à partir de 1535, perd son utilité première en 1648, puis devient hôtel de ville jusqu’en 1961.\nEnsisheim porte aussi ses drames : le 20 décembre 1869, Ferdinand Jean Altmeyer, condamné à mort, est guillotiné sur une place publique.\nEt même le ciel a son mot à dire : la météorite d’Ensisheim est tombée en 1492 à proximité du village.",
+  "chronologie": [
+   {
+    "date": "1444-10-28",
+    "texte": "La paix d'Ensisheim est signée le 28 octobre 1444.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1492",
+    "texte": "La météorite d’Ensisheim tombe en 1492 à proximité du village d’Ensisheim.",
+    "sources": [
+     "S15",
+     "S17"
+    ]
+   },
+   {
+    "date": "1535",
+    "texte": "Le « palais de la Régence » est érigé à partir de 1535.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1615-10-18",
+    "texte": "Ouverture d’un collège jésuite à Ensisheim.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1648",
+    "texte": "Le palais de la Régence perd son utilité première en 1648.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1869-12-20",
+    "texte": "Ferdinand Jean Altmeyer est guillotiné sur une place publique d’Ensisheim.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "Un tumulus de l’époque de Hallstatt est mis au jour à Ensisheim.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ancien Palais de la Régence d'Ensisheim",
+   "histoire": "Le bâtiment connu sous le nom de « palais de la Régence » (Regiments-Haus) est érigé à partir de 1535. En 1648, il perd son utilité première, puis il devient hôtel de ville jusqu’en 1961.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Cette salle donne sur le balcon visible depuis la rue de la 1ère Armée Française.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 47.8654,
+   "lon": 7.35204,
+   "url": "https://fr.wikipedia.org/wiki/Ancien_Palais_de_la_R%C3%A9gence_d%27Ensisheim"
+  },
+  {
+   "nom": "Maison centrale d'Ensisheim",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11"
+   ],
+   "lat": 47.865238888889,
+   "lon": 7.3523519444444,
+   "url": "https://fr.wikipedia.org/wiki/Maison_centrale_d%27Ensisheim"
+  },
+  {
+   "nom": "Météorite d'Ensisheim",
+   "histoire": "La météorite d’Ensisheim, tombée en 1492, est liée au village d’Ensisheim.",
+   "anecdotes": [
+    {
+     "texte": "Le 6 novembre 1854, l’église voit son clocher s’effondrer.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 47.852777777778,
+   "lon": 7.3761111111111,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9t%C3%A9orite_d%27Ensisheim"
+  },
+  {
+   "nom": "Hôtel particulier au 16, rue de la Première-Armée-Française à Ensisheim",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 47.8652,
+   "lon": 7.35389,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_particulier_au_16%2C_rue_de_la_Premi%C3%A8re-Arm%C3%A9e-Fran%C3%A7aise_%C3%A0_Ensisheim"
+  },
+  {
+   "nom": "Maison au 13, rue de la Première-Armée-Française à Ensisheim",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 47.8652153,
+   "lon": 7.3549423,
+   "url": "https://fr.wikipedia.org/wiki/Maison_au_13%2C_rue_de_la_Premi%C3%A8re-Arm%C3%A9e-Fran%C3%A7aise_%C3%A0_Ensisheim"
+  },
+  {
+   "nom": "Système fortifié urbain d'Ensisheim",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 47.8641,
+   "lon": 7.35643,
+   "url": "https://fr.wikipedia.org/wiki/Syst%C3%A8me_fortifi%C3%A9_urbain_d%27Ensisheim"
+  },
+  {
+   "nom": "Maison au 4, rue de l'Église à Ensisheim",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 47.865431,
+   "lon": 7.353255,
+   "url": "https://fr.wikipedia.org/wiki/Maison_au_4%2C_rue_de_l%27%C3%89glise_%C3%A0_Ensisheim"
+  },
+  {
+   "nom": "Hôtel de l'Intendant d'Alsace",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 47.8661,
+   "lon": 7.35213,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_l%27Intendant_d%27Alsace"
+  }
+ ],
+ "sources": [
+  "Ensisheim (prononcé [ɛnsisaim] ; en alsacien Ansa) est une commune de l'ancien bassin potassique, située au centre du département du Haut-Rhin et faisant partie de la Collectivité européenne d'Alsace (circonscription administrative du Haut-Rhin), en région Grand Est (France). Cette commune se trouve dans la région historique et culturelle d'Alsace.",
+  "Un tumulus de l'époque de Hallstatt, typique de la culture tumulaire de l'Europe médiane, est mis au jour en 1881, s'il ne comporte apparemment aucun vestige de char de parade, il a livré de l'or ouvragé, notamment un beau torque, un bracelet, un annelet et surtout du ruban fin, qui servaient probablement de placage d'or sur diverses surfaces métallique, textile, céramique ou bois. Ces objets sont aujourd'hui […]",
+  "1444 : La paix d'Ensisheim y est signée le 28 octobre 1444.",
+  "1615 : Le 18 octobre 1615, ouverture d'un collège jésuite à Ensisheim.",
+  "1869 : Le 20 décembre 1869, Ferdinand Jean Altmeyer, condamné à mort par la Cour d'Assises du Haut-Rhin pour avoir égorgé un codétenu de la maison centrale d'Ensisheim, est guillotiné sur une place publique d’Ensisheim.",
+  "Lieu « Ancien Palais de la Régence d'Ensisheim » : Le palais de la Régence d'Ensisheim est un monument historique situé à Ensisheim, place de l'Église, dans le département français du Haut-Rhin.",
+  "Lieu « Ancien Palais de la Régence d'Ensisheim », 1535 : Le bâtiment connu sous le nom de « palais de la Régence » (en allemand : « Regiments-Haus ») est ainsi érigé à partir de 1535.",
+  "Lieu « Ancien Palais de la Régence d'Ensisheim », 1648 : Alors que les territoires autrichiens en Haute-Alsace sont cédés à la France par les traités de Westphalie, en 1648, le bâtiment perd son utilité première.",
+  "Lieu « Ancien Palais de la Régence d'Ensisheim », 1961 : Le bâtiment devient dès lors hôtel de ville, fonction qu'il conserve jusqu'en 1961.",
+  "Lieu « Ancien Palais de la Régence d'Ensisheim », aujourd'hui : Cette salle donne sur le balcon visible depuis la rue de la 1ère Armée Française.",
+  "Lieu « Maison centrale d'Ensisheim » : La maison centrale d'Ensisheim est une maison centrale française située à Ensisheim, dans le département du Haut-Rhin, en région Grand Est.",
+  "Lieu « Maison centrale d'Ensisheim », 1583 : Lorsque les Jésuites s’implantent durablement en Alsace, ils reprennent à leur compte l’école que le curé d’Ensisheim, Jean Rasser, avait fondée en 1583.",
+  "Lieu « Maison centrale d'Ensisheim », 1614 : Ses bâtiments sont construits à partir de 1614 pour être un collège des Jésuites, qui fut fermé lorsque les Jésuites furent expulsés en 1764.",
+  "Lieu « Maison centrale d'Ensisheim », 1764 : Construit au XVIIe siècle, l'établissement est un collège des Jésuites qui devient, à partir de 1764, un dépôt de mendicité.",
+  "Lieu « Météorite d'Ensisheim » : La météorite d'Ensisheim, ou simplement Ensisheim, est une météorite tombée en 1492 à proximité du village d'Ensisheim (alors en Autriche antérieure ; aujourd'hui en France, dans le Haut-Rhin).",
+  "Lieu « Météorite d'Ensisheim », 1854 : Le 6 novembre 1854, l'église voit son clocher s'effondrer.",
+  "Lieu « Météorite d'Ensisheim », aujourd'hui : La météorite d'Ensisheim, ou simplement Ensisheim, est une météorite tombée en 1492 à proximité du village d'Ensisheim (alors en Autriche antérieure ; aujourd'hui en France, dans le Haut-Rhin).",
+  "Lieu « Hôtel particulier au 16, rue de la Première-Armée-Française à Ensisheim » : L'hôtel particulier au 16, rue de la Première-Armée-Française est un monument historique situé à Ensisheim, dans le département français du Haut-Rhin.",
+  "Lieu « Hôtel particulier au 16, rue de la Première-Armée-Française à Ensisheim », 1994 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1994.",
+  "Lieu « Maison au 13, rue de la Première-Armée-Française à Ensisheim » : La maison au 13, rue de la Première-Armée-Française est un monument historique situé à Ensisheim, dans le département français du Haut-Rhin.",
+  "Lieu « Maison au 13, rue de la Première-Armée-Française à Ensisheim », 1935 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1935.",
+  "Lieu « Système fortifié urbain d'Ensisheim » : Le système fortifié urbain d'Ensisheim est un monument historique situé à Ensisheim, dans le département français du Haut-Rhin.",
+  "Lieu « Système fortifié urbain d'Ensisheim », 1996 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1996.",
+  "Lieu « Maison au 4, rue de l'Église à Ensisheim » : La maison au 4, rue de l'Église est un monument historique de la ville d'Ensisheim, dans le département français du Haut-Rhin.",
+  "Lieu « Maison au 4, rue de l'Église à Ensisheim », 1935 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1935.",
+  "Lieu « Hôtel de l'Intendant d'Alsace » : L'hôtel de l'Intendant d'Alsace est un monument historique situé à Ensisheim, dans le département français du Haut-Rhin.",
+  "Lieu « Hôtel de l'Intendant d'Alsace », 1990 : L'édifice fait l'objet d'une inscription au titre des monuments historiques depuis 1990."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

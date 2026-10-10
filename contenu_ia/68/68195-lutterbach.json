@@ -1,0 +1,98 @@
+{
+ "commune": {
+  "titre": "Lutterbach",
+  "code_insee": "68195",
+  "departement": "68",
+  "population": 6851,
+  "lat": 47.76027778,
+  "lon": 7.28111111,
+  "url": "https://fr.wikipedia.org/wiki/Lutterbach"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:38:19",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1340,
+  "sortie": 606
+ },
+ "cout_usd": 0.001025,
+ "accroche": "À Lutterbach, l’église du village est détruite en 1622, pendant la guerre de Trente Ans, avant une occupation en 1636 et 1637. ",
+ "histoire": {
+  "recit": "Dans la banlieue de Mulhouse, Lutterbach s’est longtemps trouvé sur une route ancienne : une voie celte reliait Illzach à Reiningue, et l’actuelle rue Aristide-Briand en reprend le tracé. Des vestiges gallo-romains témoignent aussi d’une présence très ancienne, puis, à la fin du XIXe siècle, plusieurs tombes sont exhumées. \n\nPlus tard, la commune traverse les troubles : en 1622, l’église est détruite par la guerre de Trente Ans. En 1636 et 1637, le village est occupé, d’abord par l’armée impériale, puis par l’armée française, qui doit y être approvisionnée. \n\nAu XIXe siècle, le mouvement reprend : une ligne est finalement construite et opérée à partir de 1839 par les chemins de fer de Nancy. \n\nLe XXe siècle apporte une autre rupture : le 20 janvier 1945, le village est libéré, mais il est détruit à 96 %. \n\nLutterbach garde alors un repère religieux bien visible avec la Basilique du Sacré-Cœur de Lutterbach, reconstruite à plusieurs reprises et consacrée solennellement en 1908.",
+  "chronologie": [
+   {
+    "date": "1622",
+    "texte": "La guerre de Trente Ans appauvrit la localité : l’église du village est détruite en 1622.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1636-1637",
+    "texte": "Le village est occupé en 1636 puis en 1637 : d’abord par l’armée impériale, ensuite par l’armée française, qu’il faut approvisionner.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "Une ligne est construite et mise en service à partir de 1839 par les chemins de fer de Nancy.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "20 janvier 1945",
+    "texte": "Le village est libéré le 20 janvier 1945, mais il est détruit à 96 %.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Basilique du Sacré-Cœur de Lutterbach",
+   "histoire": "Église catholique construite au début du XXe siècle à Lutterbach, la basilique a été reconstruite à plusieurs reprises, la dernière fois en 1761 dans un style baroque. Elle est solennellement consacrée en 1908.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 47.760736,
+   "lon": 7.283517,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Lutterbach"
+  }
+ ],
+ "sources": [
+  "Lutterbach [lytəʁbak] est une commune de la banlieue de Mulhouse située dans la circonscription administrative du Haut-Rhin et, depuis le 1er janvier 2021, dans le territoire de la Collectivité européenne d'Alsace, en région Grand Est. Cette commune se trouve dans la région historique et culturelle d'Alsace. Elle est membre de Mulhouse Alsace Agglomération et fait partie des 20 communes de l'agglomération […]",
+  "À l'époque celte, une route joignait Illzach (Uruncis) à Reiningue ; l'actuelle rue Aristide-Briand emprunte son tracé. Les vestiges archéologiques les plus anciens découverts sur le ban communal datent de l'époque gallo-romaine. À la fin du XIXe siècle, plusieurs tombes sont exhumées. En 1968, les vestiges d'une riche villa sont mis au jour rue Clemenceau (toit couvert de tuiles, chauffage central et fresques). En […]",
+  "1622 : La guerre de Trente Ans appauvrit considérablement la localité : en 1622, l'église du village fut détruite.",
+  "1636 : En 1636 et 1637, le village fut occupé par l'armée impériale puis l'armée française qu'il était tenu d'approvisionner.",
+  "1839 : La ligne sera finalement construite et opérée à partir de 1839 par les chemins de fer de Nancy.",
+  "1945 : Le 20 janvier 1945, le village est libéré ; mais il est détruit à 96 %.",
+  "Lieu « Basilique du Sacré-Cœur de Lutterbach » : La basilique du Sacré-Cœur de Lutterbach est une église catholique construite au début du XXe siècle dans la commune de Lutterbach, Haut-Rhin.",
+  "Lieu « Basilique du Sacré-Cœur de Lutterbach », 1761 : Elle est reconstruite à plusieurs reprises, la dernière fois en 1761, dans le style baroque.",
+  "Lieu « Basilique du Sacré-Cœur de Lutterbach », 1908 : L'édifice est solennellement consacré en 1908.",
+  "Lieu « Basilique du Sacré-Cœur de Lutterbach », XXe siècle : La basilique du Sacré-Cœur de Lutterbach est une église catholique construite au début du XXe siècle dans la commune de Lutterbach, Haut-Rhin."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Sacré-C"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

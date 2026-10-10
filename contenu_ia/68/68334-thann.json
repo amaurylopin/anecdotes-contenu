@@ -1,0 +1,268 @@
+{
+ "commune": {
+  "titre": "Thann",
+  "code_insee": "68334",
+  "departement": "68",
+  "population": 7762,
+  "lat": 47.80722222,
+  "lon": 7.10527778,
+  "url": "https://fr.wikipedia.org/wiki/Thann"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:23:34",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2576,
+  "sortie": 2064
+ },
+ "cout_usd": 0.003095,
+ "accroche": "Le 1er septembre 1839, la gare de Thann est inaugurée, puis mise en service le 12 septembre 1839 pour une ligne d’abord tournée vers le transport de la houille.",
+ "histoire": {
+  "recit": "À Thann, l’histoire commence près de l’église Saint-Dominique de Vieux-Thann : vers 991, le lieu portait le nom de Dan et un hameau se tenait seul sur l’ancienne voie romaine de la vallée de la Thur. Plus tard, la collégiale gothique Saint-Thiébaut marque la ville : la tour est lancée en 1506 par Rémy Faesch et s’achève en 1516, avant que la tribune et le buffet d’orgue ne soient construits en 1885 par Théophile Klem. La gare, elle, ouvre très tôt l’ère ferroviaire : inaugurée en 1839, elle est aussi touchée pendant les combats du début de la Première Guerre mondiale, en 1915. En parallèle, la route reliant les vallées de la Doller et de la Thur, avec un embranchement vers le lieu-dit « Plan Diebold », est construite en 1915 pour permettre une jonction en évitant le secteur contrôlé par l’ennemi. Aujourd’hui, la collégiale fait l’objet de sauvegardes et restaurations en permanence, grâce à des financements croisés.",
+  "chronologie": [
+   {
+    "date": "vers 991",
+    "texte": "Thann est fondée près de l’emplacement de l’église Saint-Dominique de Vieux-Thann et le lieu s’appelait alors Dan.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1506",
+    "texte": "La construction de la tour de l’église de la collégiale Saint-Thiébaut commence, lancée par Rémy Faesch.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1516",
+    "texte": "La tour de la collégiale Saint-Thiébaut est achevée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "La gare de Thann est inaugurée le 1er septembre 1839.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "12 septembre 1839",
+    "texte": "La gare de Thann est mise en service le 12 septembre 1839 par la compagnie du chemin de fer Mulhouse à Thann.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "Tribune et buffet d’orgue de la collégiale sont construits à partir de 1885 par Théophile Klem de Colmar.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1915",
+    "texte": "La route reliant les vallées de la Doller et de la Thur est construite, avec un embranchement depuis « Plan Diebold » vers le centre de Thann.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1915",
+    "texte": "Durant les combats du début de la Première Guerre mondiale, la gare de Thann est bombardée.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "De nouvelles verrières pour le chœur de la collégiale sont inaugurées.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "27 novembre 2010",
+    "texte": "La halte Thann-Centre est inaugurée.",
+    "sources": [
+     "S29"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Collégiale Saint-Thiébaut de Thann",
+   "histoire": "Ancienne collégiale gothique à Thann ; la construction de la tour démarre en 1506 et s’achève en 1516, puis la tribune et le buffet d’orgue sont réalisés en 1885.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les travaux de sauvegarde et de restauration sont assurés en permanence grâce à des financements croisés.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 47.811072,
+   "lon": 7.101567,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Thi%C3%A9baut_de_Thann"
+  },
+  {
+   "nom": "Synagogue de Thann",
+   "histoire": "La communauté israélite achète des parcelles le 11 novembre 1843 ; une nouvelle synagogue est ensuite construite dans les années 1860 sur les parcelles D 421 à 424.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 47.8118,
+   "lon": 7.098245,
+   "url": "https://fr.wikipedia.org/wiki/Synagogue_de_Thann"
+  },
+  {
+   "nom": "Gare de Thann",
+   "histoire": "Gare ferroviaire de la ligne de Lutterbach à Kruth sur le territoire de la commune de Thann. La gare est inaugurée le 1er septembre 1839 et mise en service le 12 septembre 1839 ; le trafic marchandises ouvre le 1er juillet 1840.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 47.808889,
+   "lon": 7.106981,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Thann"
+  },
+  {
+   "nom": "Maison au 17, rue Curiale à Thann",
+   "histoire": "Maison monument historique dont un mur pignon postérieur est construit sur le mur de la première enceinte de la ville, datant de 1290 ; l’édifice a été remanié aux XVe et XVIe siècles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le jardin se trouve à l’emplacement de l’ancien fossé des fortifications.",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 47.81091,
+   "lon": 7.100145,
+   "url": "https://fr.wikipedia.org/wiki/Maison_au_17%2C_rue_Curiale_%C3%A0_Thann"
+  },
+  {
+   "nom": "Château d’Engelbourg",
+   "histoire": "Château d’Engelbourg, construit au XIIIe siècle par le comte de Ferrette pour surveiller la vallée de la Thur ; ses restes sont classés au titre des monuments historiques depuis 1898.",
+   "anecdotes": [
+    {
+     "texte": "Les locaux surnomment le château « l’Œil de la Sorcière ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 47.81483333,
+   "lon": 7.101,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Engelbourg"
+  },
+  {
+   "nom": "Enceinte de Thann",
+   "histoire": "Monument historique, dont l’édifice fait l’objet de classements successifs au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 47.8119,
+   "lon": 7.10373,
+   "url": "https://fr.wikipedia.org/wiki/Enceinte_de_Thann"
+  },
+  {
+   "nom": "Gare de Thann-Centre",
+   "histoire": "Halte ferroviaire de la ligne de Lutterbach à Kruth sur le territoire de la commune de Thann.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 47.809719,
+   "lon": 7.10178,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Thann-Centre"
+  },
+  {
+   "nom": "Rangen (grand cru)",
+   "histoire": "Vin produit sur le lieu-dit le Rangen, à la limite entre Thann et Vieux-Thann.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les bouteilles sont vendues depuis 2007.",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 47.8111,
+   "lon": 7.11194,
+   "url": "https://fr.wikipedia.org/wiki/Rangen_%28grand_cru%29"
+  }
+ ],
+ "sources": [
+  "Thann (prononcé [tan] ; en bas alémanique Dànn) est une commune française située dans l'aire d'attraction de Mulhouse et faisant partie de la Collectivité européenne d'Alsace (circonscription administrative du Haut-Rhin), en région Grand Est. Cette commune se trouve dans la région historique et culturelle d'Alsace.",
+  "Origines de Thann La naissance de Thann est commune avec celle de VieuxThann. Vers 991, Thann fut fondée près de l'emplacement de l'église Saint-Dominique actuelle de Vieux-Thann. Alors, Thann avait le nom de Dan. Le hameau de Dan était seul sur l'ancienne voie romaine de la vallée de la Thur. Aucune habitation n'a été attestée par les historiens sur l'emplacement de Thann actuelle. La création du château de […]",
+  "1915 : C'est pourquoi fut construite, en 1915 la route reliant les vallées de la Doller et de la Thur, permettant une jonction entre Bitschwiller-lès-Thann et Masevaux en évitant le secteur contrôlé par l'ennemi, avec un embranchement depuis le lieu-dit \"Plan Diebold\" vers le centre de Thann.",
+  "Lieu « Collégiale Saint-Thiébaut de Thann » : La collégiale Saint-Thiébaut de Thann est une ancienne collégiale gothique située à Thann, en Alsace.",
+  "Lieu « Collégiale Saint-Thiébaut de Thann », 1506 : La construction de la tour de l’église, commencée en 1506 par Rémy Faesch, ne fut achevée qu’en 1516.",
+  "Lieu « Collégiale Saint-Thiébaut de Thann », 1885 : La tribune et le buffet d'orgue ont été construits en 1885 par Théophile Klem de Colmar.",
+  "Lieu « Collégiale Saint-Thiébaut de Thann », 2010 : En effet, de nouvelles verrières pour le chœur ont été inaugurées en 2010.",
+  "Lieu « Collégiale Saint-Thiébaut de Thann », aujourd'hui : Les travaux de sauvegarde et de restauration de la collégiale sont assurés en permanence grâce à des financements croisés : État (direction régionale des affaires culturelles d'Alsace), Région Alsace (aujourd'hui intégrée dans le Grand Est), département du Haut-Rhin, Fondation pour la sauvegarde de la collégiale de Thann, Ville de Thann).",
+  "Lieu « Synagogue de Thann » : La synagogue est située sur la commune française, et fait partie de la Collectivité européenne d'Alsace (circonscription administrative du Haut-Rhin), en région Grand Est, en Alsace, France.",
+  "Lieu « Synagogue de Thann », 1843 : Le 11 novembre 1843, Messieurs Blum et Risser ont revendu les parcelles à la communauté israélite de Thann et sont inscrites au cadastre comme leur propriété.(cote: 6 E 77/94 acte no 9163) L'ancienne prison a été démolie.",
+  "Lieu « Synagogue de Thann », 1860 : Une nouvelle synagogue a été construite sur les parcelles D 421 à 424 dans les années 1860 (cote; 2o 1986).",
+  "Lieu « Synagogue de Thann », 1926 : En 1926, le cadastre (cote:AL 97538) mentionne qu'un bâtiment (maison des bains) a été détruit et note qu'une construction nouvelle sur la parcelle 81 de la section 10 a été construite.",
+  "Lieu « Synagogue de Thann », aujourd'hui : La parcelle qui porte aujourd'hui le no 150 de la rue de l'étang, section 10, portait le no 81 au moment de la rénovation du cadastre de Thann en 1899.",
+  "Lieu « Gare de Thann » : La gare de Thann est une gare ferroviaire française de la ligne de Lutterbach à Kruth, située sur le territoire de la commune de Thann, dans le département du Haut-Rhin) en région Grand Est.",
+  "Lieu « Gare de Thann », 1839 : La gare a été inaugurée le 1er septembre 1839 et mise en service le 12 septembre 1839 par la compagnie du chemin de fer Mulhouse à Thann, sur la ligne éponyme, qui fut l'une des premières ligne de chemin de fer pour voyageurs en France, et était principalement destinée au transport de la houille (notamment de de Ronchamp) aux entreprises de la vallée de la Thur.",
+  "Lieu « Gare de Thann », 1840 : Le trafic marchandise est ouvert sur la ligne le 1er juillet 1840.",
+  "Lieu « Gare de Thann », 1915 : Durant les combats du début de la Première Guerre mondiale la gare est bombardée (voir carte postale de 1915 en galerie).",
+  "Lieu « Maison au 17, rue Curiale à Thann » : La maison au 17, rue Curiale est un monument historique situé à Thann, dans le département français du Haut-Rhin.",
+  "Lieu « Maison au 17, rue Curiale à Thann », 1290 : Le mur pignon postérieur est construit sur le mur de la première enceinte de la ville, datant de 1290.",
+  "Lieu « Maison au 17, rue Curiale à Thann », XVIe siècle : Maison à trois niveaux et trois travées d'ouvertures, des XVe et XVIe siècles.",
+  "Lieu « Maison au 17, rue Curiale à Thann », aujourd'hui : Le jardin se trouve à l'emplacement de l'ancien fossé des fortifications.",
+  "Lieu « Château d'Engelbourg » : Le château d'Engelbourg (familièrement surnommé « l'Œil de la Sorcière » par les locaux) est un monument historique situé à Thann, dans le département français du Haut-Rhin.",
+  "Lieu « Château d'Engelbourg », XIIIe siècle : Ce château fut construit au XIIIe siècle par le comte de Ferrette pour surveiller la vallée de la Thur.",
+  "Lieu « Château d'Engelbourg », 1898 : Les restes de l'édifice sont classés au titre des monuments historiques depuis 1898.",
+  "Lieu « Enceinte de Thann » : L'enceinte de Thann est un monument historique situé à Thann, dans le département français du Haut-Rhin.",
+  "Lieu « Enceinte de Thann », 1920 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis 1920.",
+  "Lieu « Enceinte de Thann », 1963 : L'édifice fait l'objet d'un classement au titre des monuments historiques depuis 1963.",
+  "Lieu « Gare de Thann-Centre » : La gare de Thann-Centre est une halte ferroviaire française de la ligne de Lutterbach à Kruth située sur le territoire de la commune de Thann dans le département du Haut-Rhin, en région Grand Est.",
+  "Lieu « Gare de Thann-Centre », 2010 : Thann-Centre est inaugurée le 27 novembre 2010.",
+  "Lieu « Rangen (grand cru) » : Un alsace grand cru Rangen, ou plus simplement un rangen, est un vin français produit sur le lieu-dit le Rangen, à la limite entre les communes de Thann et de Vieux-Thann, dans le département du Haut-Rhin, dans la collectivité européenne d'Alsace, au",
+  "Lieu « Rangen (grand cru) », 2007 : Les bouteilles sont vendues depuis 2007."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
