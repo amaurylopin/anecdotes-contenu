@@ -1,0 +1,198 @@
+{
+ "commune": {
+  "titre": "Val-de-Reuil",
+  "code_insee": "27701",
+  "departement": "27",
+  "population": 13245,
+  "lat": 49.275,
+  "lon": 1.21111111,
+  "url": "https://fr.wikipedia.org/wiki/Val-de-Reuil"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:36:03",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1845,
+  "sortie": 1024
+ },
+ "cout_usd": 0.001649,
+ "accroche": "Val-de-Reuil est citée comme l’une des neuf villes nouvelles créées en France à la fin des années 1960, parfois présentée comme née ex nihilo en 1981. ",
+ "histoire": {
+  "recit": "Dans l’Eure, Val-de-Reuil est née avec l’idée de bâtir vite : une ville nouvelle, lancée à partir de 1965, créée par la loi du 10 juillet 1970, pour mieux répartir emplois et logements. La commune s’est ensuite développée autour de lieux bien à elle.\n\nAu bord de l’histoire militaire et technique, le centre DGA Techniques hydrodynamiques a servi, au fil des essais, de bassin d’épreuves pour l’hydrodynamique et l’hydroacoustique navales. Plus tard, les moyens d’essais du site parisien ont été fermés progressivement à partir des années 1990, avec un dernier bassin encore en activité jusqu’en 2009.\n\nCôté loisirs et nature, Biotropica est une serre zoologique ouverte le 7 septembre 2012.\n\nEt puis il y a l’autre visage de Val-de-Reuil : la prison des Vignettes, construite en 1989, ainsi que la gare, installée selon le plan d’ensemble de 1978.",
+  "chronologie": [
+   {
+    "date": "1965",
+    "texte": "Le territoire accueille une des villes nouvelles initiées à partir de 1965.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "10 juillet 1970",
+    "texte": "La ville nouvelle est créée par la loi du 10 juillet 1970.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "7 septembre 2012",
+    "texte": "Biotropica ouvre ses portes le 7 septembre 2012.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "années 1990",
+    "texte": "Les moyens d’essais du site parisien sont fermés progressivement.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2009",
+    "texte": "Le dernier bassin restant en activité jusqu’en 2009 est le bassin de giration.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "2010",
+    "texte": "Le site historique est livré aux pelleteuses tout au long de l’année 2010 pour permettre la construction des bâtiments de l’« Hexagone Balard ».",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "La prison des Vignettes est construite en 1989, avec deux divisions de 400 places chacune.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1978",
+    "texte": "L’emplacement de la gare, en campagne à l’extérieur des constructions existantes, est conforme à sa situation prévue sur le plan d’ensemble de 1978.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "DGA Techniques hydrodynamiques",
+   "histoire": "Centre d’essais et de recherche en hydrodynamique et hydroacoustique navale, il a servi à tester des maquettes de programmes navals et d’équipements de marines étrangères.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S5",
+    "S4",
+    "S6"
+   ],
+   "lat": 49.260215,
+   "lon": 1.18309,
+   "url": "https://fr.wikipedia.org/wiki/DGA_Techniques_hydrodynamiques"
+  },
+  {
+   "nom": "Biotropica",
+   "histoire": "Parc zoologique situé dans la base de loisir de Léry-Poses, proche de Val-de-Reuil, Biotropica est une serre zoologique ouverte en 2012.",
+   "anecdotes": [
+    {
+     "texte": "En octobre 2014, Biotropica ajoute des paresseux à deux doigts, avec plusieurs naissances rapportées par la suite.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 49.305156,
+   "lon": 1.216101,
+   "url": "https://fr.wikipedia.org/wiki/Biotropica"
+  },
+  {
+   "nom": "Centre de détention de Val-de-Reuil",
+   "histoire": "Le centre de détention de Val-de-Reuil, dit « Les Vignettes », est un centre de détention situé sur la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 49.284,
+   "lon": 1.22148,
+   "url": "https://fr.wikipedia.org/wiki/Centre_de_d%C3%A9tention_de_Val-de-Reuil"
+  },
+  {
+   "nom": "Gare de Val-de-Reuil",
+   "histoire": "Gare ferroviaire de la ligne de Paris-Saint-Lazare au Havre, elle dessert la ville nouvelle de Val-de-Reuil.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": 49.275514,
+   "lon": 1.224942,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Val-de-Reuil"
+  },
+  {
+   "nom": "Menhir de la Basse-Crémonville",
+   "histoire": "Menhir situé sur la commune de Val-de-Reuil, où l’on observe aussi une cassure associée au déplacement du mégalithe.",
+   "anecdotes": [
+    {
+     "texte": "Une cassure visible à 1 m du sol serait liée au transfert du mégalithe en 1866.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 49.2384,
+   "lon": 1.1908,
+   "url": "https://fr.wikipedia.org/wiki/Menhir_de_la_Basse-Cr%C3%A9monville"
+  }
+ ],
+ "sources": [
+  "Val-de-Reuil est une commune située dans le département de l'Eure, en région Normandie. Elle est l'une des neuf villes nouvelles créées en France à la fin des années 1960 et est parfois citée comme la plus récente commune française créée ex nihilo en 1981, car avant cette date, sa population était inexistante. Depuis, d'autres communes ont aussi été créées par détachement mais, contrairement à Val-de-Reuil, leur […]",
+  "Le territoire de la commune du Vaudreuil accueille l’une des neuf villes nouvelles initiées à partir de 1965 et créées par la loi du 10 juillet 1970. Leur objectif était, aux termes de la loi du 13 juillet 1983, « d'assurer un meilleur équilibre social, économique et humain dans des régions à forte concentration de population, en offrant des possibilités d'emploi et de logements, ainsi que des équipements publics et […]",
+  "Lieu « DGA Techniques hydrodynamiques » : Le centre DGA Techniques hydrodynamiques (anciennement bassin d'essais des carènes) est un centre d'essais et de recherche en hydrodynamique et hydroacoustique navale, dépendant de la direction générale de l'Armement (DGA) du ministère des Armées fra",
+  "Lieu « DGA Techniques hydrodynamiques », 1990 : Afin de préparer le transfert des activités vers les installations plus modernes de Val-de-Reuil, les moyens d'essais du site parisien sont fermés progressivement à partir des années 1990, le dernier restant en activité, jusqu'en 2009, étant le bassin de giration.",
+  "Lieu « DGA Techniques hydrodynamiques », 2010 : Dans ce centre d'essais sont testées les maquettes des grands programmes navals de la Marine nationale (bâtiment de surface ou sous-marin) et des équipements de marines étrangères tels, dans les années 2010, les appareils propulsifs des sous-marins de la Royal Navy.",
+  "Lieu « DGA Techniques hydrodynamiques », 2010 : Le site « historique » est livré aux pelleteuses tout au long de l'année 2010 afin de permettre la construction des bâtiments de l'« Hexagone Balard », opération immobilière destinée à regrouper à Paris le ministère de la Défense, certains de ses services et divers états-majors.",
+  "Lieu « Biotropica » : Les jardins animaliers Biotropica sont un parc zoologique français situé dans l'Eure, dans la base de loisir de Léry-Poses en Normandie, proche de la ville de Val-de-Reuil.",
+  "Lieu « Biotropica », 2012 : Créé par les propriétaires du zoo de Cerza, la serre zoologique Biotropica a ouvert ses portes le 7 septembre 2012.",
+  "Lieu « Biotropica », 2014 : Biotropica ajoute en octobre 2014 des paresseux à deux doigts (Choloepus didactylus), donnant une première naissance en 2015, puis novembre 2016 (abandonné par sa mère et biberonné par les soigneurs), février 2018, mars 2019 et mai 2020.",
+  "Lieu « Centre de détention de Val-de-Reuil » : Le centre de détention de Val-de-Reuil, dit « Les Vignettes », est un centre de détention français situé sur la commune de Val-de-Reuil dans le département de l'Eure, à quelques kilomètres de Rouen.",
+  "Lieu « Centre de détention de Val-de-Reuil », 1989 : La prison des Vignettes, construite en 1989, est composée de deux divisions de 400 places chacune.",
+  "Lieu « Gare de Val-de-Reuil » : La gare de Val-de-Reuil est une gare ferroviaire française de la ligne de Paris-Saint-Lazare au Havre, située sur le territoire de la commune de Val-de-Reuil dans le département de l'Eure, en région Normandie.",
+  "Lieu « Gare de Val-de-Reuil », aujourd'hui : Création du bureau d'étude de la SNCF, elle dessert la ville nouvelle de Val-de-Reuil ; son emplacement en campagne à l'extérieur des constructions existantes est conforme à sa situation prévue sur le plan d'ensemble de 1978.",
+  "Lieu « Menhir de la Basse-Crémonville » : Le menhir de la Basse-Crémonville est un menhir situé sur la commune de Val-de-Reuil dans le département de l’Eure en France.",
+  "Lieu « Menhir de la Basse-Crémonville », aujourd'hui : Une cassure est également visible à 1 m du sol, conséquence du transfert du mégalithe en 1866."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}
