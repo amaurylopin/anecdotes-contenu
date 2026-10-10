@@ -1,0 +1,70 @@
+{
+ "commune": {
+  "titre": "M'Tsangamouji",
+  "code_insee": "97613",
+  "departement": "976",
+  "population": 6432,
+  "lat": -12.76167,
+  "lon": 45.08665,
+  "url": "https://fr.wikipedia.org/wiki/M%27Tsangamouji"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:46:56",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1103,
+  "sortie": 360
+ },
+ "cout_usd": 0.000671,
+ "accroche": "En 1898, un cyclone détruit une partie de l’ancienne sucrerie de Soulou à M’Tsangamouji.",
+ "histoire": {
+  "recit": "À M’Tsangamouji, les habitants l’appellent Tchanga et disent y grandir dans une langue maternelle, le shibushi, qu’on retrouve aussi à M’liha. Autour de la commune, des anciens villages se signalent encore : Chirini garde des traces d’ustensiles, et à Soulou, on mentionne des murs qui existent encore, même si certains auraient été démolis.\n\nLe passé le plus tangible reste l’ancienne sucrerie de Soulou, une exploitation de canne à sucre au lieu-dit de Soulou. Elle subit un cyclone en 1898, qui en détruit une partie. Plus tard, le territoire s’organise et des aménagements récents sont évoqués : une mosquée se trouverait à Lavigie, à Lavigie 2, construite à la fin du XXe siècle.",
+  "chronologie": [
+   {
+    "date": "1898",
+    "texte": "Un cyclone détruit une partie de l’ancienne sucrerie de Soulou.",
+    "sources": [
+     "S3",
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ancienne sucrerie de Soulou",
+   "histoire": "Ancienne exploitation de canne à sucre située au lieu-dit de Soulou, dans la commune de M’Tsangamouji. En 1898, un cyclone en détruit une partie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": -12.76951,
+   "lon": 45.102827,
+   "url": "https://fr.wikipedia.org/wiki/Ancienne_sucrerie_de_Soulou"
+  }
+ ],
+ "sources": [
+  "M'Tsangamouji (prononcé [mtsɑ̃ɡamuʒi] ; parfois Mtsangamouji ou M'tsangamouji) est une commune française située dans le département et région d'outre-mer de Mayotte.",
+  "M'Tsangamouji est appelée par ses habitants Tchanga, il fait partie des villages dont la langue maternelle est le shibushi ainsi que le village de M'liha dans sa commune. Les anciens villages dans la région de M'Tsangamouji en partant de l'est, sont : Chirini : des traces d'ustensiles utilisés existent encore. Les habitants seraient d'expression africaine. Soulou : des murs existent encore. Certains ont été démolis […]",
+  "1898 : Le cyclone de 1898 détruit en partie l'exploitation et l'usine.",
+  "XXe siècle : Aménagé récemment, il possède une mosquée qui se trouve à Lavigie 2, construite à la fin du XXe siècle.",
+  "Lieu « Ancienne sucrerie de Soulou » : L'ancienne sucrerie de Soulou est une ancienne exploitation de canne à sucre, située au lieu-dit de Soulou, dans la commune de M'Tsangamouji, sur l'île de Mayotte.",
+  "Lieu « Ancienne sucrerie de Soulou », 1898 : Un cyclone détruit une partie du site, en 1898."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

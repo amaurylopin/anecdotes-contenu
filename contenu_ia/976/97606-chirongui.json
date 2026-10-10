@@ -1,0 +1,91 @@
+{
+ "commune": {
+  "titre": "Chirongui",
+  "code_insee": "97606",
+  "departement": "976",
+  "population": 8920,
+  "lat": -12.935,
+  "lon": 45.150833,
+  "url": "https://fr.wikipedia.org/wiki/Chirongui"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:08:04",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1058,
+  "sortie": 560
+ },
+ "cout_usd": 0.000912,
+ "accroche": "À Chirongui, la mosquée d’Antana-Bé, seul vestige encore debout de l’ancien village, est endommagée en décembre 2024 par le cyclone Chido.",
+ "histoire": {
+  "recit": "Chirongui, commune de Mayotte, vit au rythme de ses villages et de leurs souvenirs. À Poroani, dans la baie de Bouéni, la mosquée d’Antana-Bé se détache comme le dernier témoin en élévation d’un ancien village. On y raconte la fondation d’Antana-Bé en 1890 par les Mhami, venus de Madagascar, et l’installation d’une première mosquée, faite de matériaux végétaux. Puis le temps a gardé l’édifice, jusqu’au passage du cyclone Chido en décembre 2024, qui l’a ravagé. La suite s’écrit ensuite : une campagne de restauration est annoncée pour 2026, pour redonner forme à ce repère ancien.",
+  "chronologie": [
+   {
+    "date": "1890",
+    "texte": "Le village d’Antana-Bé est fondé par les Mhami, venus de Madagascar, et une première mosquée sommaire est construite avec des matériaux végétaux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "décembre 2024",
+    "texte": "La mosquée d’Antana-Bé est ravagée et endommagée par le cyclone Chido.",
+    "sources": [
+     "S5",
+     "S4"
+    ]
+   },
+   {
+    "date": "2026",
+    "texte": "Une campagne de restauration est prévue pour la mosquée, endommagée par le cyclone.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Mosquée d'Antana-Bé",
+   "histoire": "La mosquée de l’ancien village d’Antana-Bé est située à Poroani, dans la commune de Chirongui, au sein de la baie de Bouéni. Unique vestige encore en élévation, elle comporte aussi une citerne. Endommagée par le cyclone Chido en décembre 2024, elle fait l’objet d’une campagne de restauration annoncée pour 2026.",
+   "anecdotes": [
+    {
+     "texte": "Le village d’Antana-Bé aurait été fondé en 1890 par les Mhami, une famille venue de Madagascar, qui installent alors une première mosquée sommaire en matériaux végétaux.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Unique vestige encore en élévation de l’ancien village d’Antana-Bé, avec une citerne.",
+   "sources": [
+    "S2",
+    "S4"
+   ],
+   "lat": -12.8958,
+   "lon": 45.1406,
+   "url": "https://fr.wikipedia.org/wiki/Mosqu%C3%A9e_d%27Antana-B%C3%A9"
+  }
+ ],
+ "sources": [
+  "Chirongui [ʃiʁɔ̃ɡi] est une commune française située dans le département et région d'outre-mer de Mayotte, peuplée de 8 920 habitants en 2017.",
+  "Lieu « Mosquée d'Antana-Bé » : La mosquée de l'ancien village d'Antana Bé est une mosquée française située à Poroani dans la commune de Chirongui située dans la baie de Bouéni à Mayotte.",
+  "Lieu « Mosquée d'Antana-Bé », 1890 : Le village d'Antana Bé est fondé en 1890 par les Mhami, une famille venue de Madagascar ; une première mosquée sommaire est construite dans des matériaux végétaux.",
+  "Lieu « Mosquée d'Antana-Bé », 2024 : Unique vestige encore en élévation de l'ancien village d'Antana-Bé avec une citerne, l'édifice a été endommagé par le Cyclone Chido en décembre 2024 et fait l’objet en 2026 d'une campagne de restauration.",
+  "Lieu « Mosquée d'Antana-Bé », 2024 : En décembre 2024, l'édifice est ravagé par le Cyclone Chido."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

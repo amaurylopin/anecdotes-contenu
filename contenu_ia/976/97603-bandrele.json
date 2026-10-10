@@ -1,0 +1,74 @@
+{
+ "commune": {
+  "titre": "Bandrele",
+  "code_insee": "97603",
+  "departement": "976",
+  "population": 10282,
+  "lat": -12.908889,
+  "lon": 45.194444,
+  "url": "https://fr.wikipedia.org/wiki/Bandrele"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:56:07",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 937,
+  "sortie": 323
+ },
+ "cout_usd": 0.000591,
+ "accroche": "À Bandrele, au sud-est de l’île de Mayotte, le « Sel de Bandrélé » reste produit à partir du limon sur le seul site de l’île où cette pratique subsiste.",
+ "histoire": {
+  "recit": "À Bandrele, on vit face au sel, ressource naturelle de Mayotte. Sur le site de « Sel de Bandrélé », on l’exploite encore à partir du limon, une production qui, ailleurs, a presque disparu. Autrefois, ce sel était assez important pour nourrir tout le ravitaillement de l’île. Aujourd’hui, le rythme a changé : seuls quelques amateurs ou de petits commerçants continuent à en acheter, comme pour garder le geste vivant.",
+  "chronologie": [
+   {
+    "date": "autrefois",
+    "texte": "Le « Sel de Bandrélé » alimentait toute l’île.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "La production continue sur le seul site où elle est encore pratiquée, mais seuls quelques amateurs ou petits commerçants en achètent.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Sel de Bandrélé",
+   "histoire": "Le « Sel de Bandrélé » est une ressource naturelle de Mayotte exploitée sur le seul site de l’île où la production de sel à partir du limon est encore pratiquée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S3"
+   ],
+   "lat": -12.912305555556,
+   "lon": 45.196333333333,
+   "url": "https://fr.wikipedia.org/wiki/Sel_de_Bandr%C3%A9l%C3%A9"
+  }
+ ],
+ "sources": [
+  "Bandrele (prononcé [bɑ̃dʁele], également orthographié Bandrélé) est une commune française du département et région d'outre-mer de Mayotte peuplée de 10 282 habitants en 2017. La commune de Bandrele se situe au sud-est de l'île.",
+  "Lieu « Sel de Bandrélé » : Le sel de Bandrélé est une ressource naturelle de Mayotte, exploitée sur le seul site de l'île où cette production de sel à partir du limon est encore pratiquée.",
+  "Lieu « Sel de Bandrélé », aujourd'hui : Si autrefois cette production alimentait toute l'île, aujourd'hui seuls quelques amateurs ou petits commerçants continuent à en acheter."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

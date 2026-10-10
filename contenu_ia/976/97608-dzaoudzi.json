@@ -1,0 +1,206 @@
+{
+ "commune": {
+  "titre": "Dzaoudzi",
+  "code_insee": "97608",
+  "departement": "976",
+  "population": 17831,
+  "lat": -12.788333,
+  "lon": 45.2725,
+  "url": "https://fr.wikipedia.org/wiki/Dzaoudzi"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:17:03",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1901,
+  "sortie": 1356
+ },
+ "cout_usd": 0.002075,
+ "accroche": "Jusqu’au 27 août 2023, Dzaoudzi était le chef-lieu de jure de Mayotte, commune située sur la presqu’île de Dzaoudzi et comptant 17 831 habitants en 2017.",
+ "histoire": {
+  "recit": "À Dzaoudzi, la Petite-Terre se raconte avec des lieux tenaces : des habitants fixés sur les hauteurs dès le IXe siècle, puis l’arrivée de l’islam au XVIIIe siècle. Quand J. S. Leigh décrit le village de Dansoul en 1838, il décrit aussi une île minuscule, presque une île dans l’île. Plus tard, le rocher s’équipe : un hôpital construit par le génie de 1848 à 1851, puis une ancienne résidence transformée en Maison du gouverneur de Mayotte. Sur la même presqu’île, l’ancienne caserne de 1845 devient le Musée de Mayotte, inauguré en 2015 et distingué ensuite. Et, au large, la goélette Dwyn Wen traverse tout le XXe siècle avant de sombrer face à Dzaoudzi en 2014.",
+  "chronologie": [
+   {
+    "date": "IXe siècle",
+    "texte": "Sur le morne de Mirandole, dit « Pamandzi Keli », les premiers habitants de Petite Terre se fixent à partir du IXe siècle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Au XVIIIe siècle, des Perses implantent l’islam à Petite-Terre.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 1790-1807",
+    "texte": "Il faut attendre le règne de Salim pour que le rocher de Dzaoudzi abrite la vie insulaire (période donnée par la source).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1838",
+    "texte": "En 1838, J. S. Leigh décrit le village de Dansoul (Andriantsoly) et sa petite île allongée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1845",
+    "texte": "La résidence dite Maison du gouverneur de Mayotte est créée à l’emplacement de l’ancien palais du sultan Andriantsoly (pangahari) détruit en 1845.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1848-1851",
+    "texte": "L’hôpital de Dzaoudzi est construit par le génie entre 1848 et 1851.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1891-1892",
+    "texte": "Une première maison-modèle apparaît en 1891, puis un nouveau bâtiment est édifié entre 1891 et 1892 en « kit » depuis la métropole.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2014",
+    "texte": "La goélette Dwyn Wen sombre face à Dzaoudzi en 2014.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "27 août 2023",
+    "texte": "Dzaoudzi cesse d’être chef-lieu de jure de Mayotte à la date du 27 août 2023.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Maison du gouverneur de Mayotte",
+   "histoire": "Sur le rocher de Dzaoudzi, l’ancienne résidence des gouverneurs est l’ancien hôtel de préfecture. La résidence est créée en 1845 sur l’emplacement du palais du sultan Andriantsoly (pangahari), puis un bâtiment « importée en kit depuis la métropole » est édifié entre 1891 et 1892. À partir des années 1970, elle est occupée par les services de l’État.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": -12.7827,
+   "lon": 45.2558,
+   "url": "https://fr.wikipedia.org/wiki/Maison_du_gouverneur_de_Mayotte"
+  },
+  {
+   "nom": "Musée de Mayotte",
+   "histoire": "Le Musée de Mayotte (MuMA) est un musée du patrimoine historique, culturel et environnemental de Mayotte, situé dans l’océan Indien. Il est installé sur le rocher de Dzaoudzi, dans l’ancienne caserne édifiée en 1845. Inauguré en 2015, il reçoit le label Musée de France le 20 décembre 2018.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": -12.7827028,
+   "lon": 45.255861,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Mayotte"
+  },
+  {
+   "nom": "Dwyn Wen",
+   "histoire": "La Dwyn Wen est une goélette active pendant tout le XXe siècle, avant de sombrer face à Dzaoudzi en 2014. Construite en 1906 dans le chantier naval de James Burton à Dartmouth (Royaume-Uni) pour Philip & Son Ltd, elle est conçue par l’architecte Alex Richardson.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13"
+   ],
+   "lat": -12.779999,
+   "lon": 45.264306,
+   "url": "https://fr.wikipedia.org/wiki/Dwyn_Wen"
+  },
+  {
+   "nom": "Petite-Terre",
+   "histoire": "Petite-Terre, appelée Pamanzi en mahorais, est une île française de Mayotte. Elle porte un volcanisme explosif, expression subaérienne occidentale d’une chaîne volcanique longue de 60 km. En 2018-2020, la pointe orientale est le site d’une éruption sous-marine du nouveau volcan Fani Maoré.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": -12.783333333333,
+   "lon": 45.283333333333,
+   "url": "https://fr.wikipedia.org/wiki/Petite-Terre"
+  },
+  {
+   "nom": "Mosquée-Ziara de Polé",
+   "histoire": "La mosquée-ziara de Polé est une ancienne mosquée française située à Dzaoudzi sur la Petite-Terre de Mayotte. Aujourd’hui en ruines, elle est classée monument historique en 2017.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En ruines, et classée monument historique.",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": -12.7739,
+   "lon": 45.28,
+   "url": "https://fr.wikipedia.org/wiki/Mosqu%C3%A9e-Ziara_de_Pol%C3%A9"
+  },
+  {
+   "nom": "Dziani Dzaha",
+   "histoire": "Dziani Dzaha est un lac de cratère sur l’île de Petite-Terre, dans le sud-ouest de l’océan Indien. Son cratère est un maar formé il y a entre 4 000 et 7 000 ans, et la dernière explosion du volcan date de cette période : le volcan est désormais éteint, même s’il subsiste une chambre magmatique active sous l’île.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": -12.7708,
+   "lon": 45.2889,
+   "url": "https://fr.wikipedia.org/wiki/Dziani_Dzaha"
+  }
+ ],
+ "sources": [
+  "Dzaoudzi est une commune française du département et région d'outre-mer de Mayotte dont elle était le chef-lieu de jure jusqu'au 27 août 2023. La commune est constituée des deux villages de Dzaoudzi, situé sur la presqu'île du même nom, et Labattoir. En 2017, la commune comptait 17 831 habitants, ce qui en fait la troisième ville de Mayotte.",
+  "L'îlot fut habité avant le XIXe siècle. C'est davantage sur le morne de Mirandole ou « Pamandzi Keli », où se fixèrent à partir du IXe siècle les premiers habitants de Petite Terre (Africains, Indonésiens, Malgaches…). Au XVIIIe siècle, des Perses y implantent l'islam. Il faut attendre le règne de Salim (Saleh ibn Mohamed ibn Bechir el Monzari, régnant vers 1790-1807) pour que le rocher de Dzaoudzi abrite la […]",
+  "1838 : J.S Leigh, en donne une description précise en 1838 : « Nous nous sommes approchés du village où réside Dansoul (Andriantsoly), roi de Mayotte ; ce village est construit sur une petite île allongée qui n’a pas plus d’un mille de circonférence.",
+  "1848 : L'hôpital de Dzaoudzi est construit par le génie de 1848 à 1851.",
+  "Lieu « Maison du gouverneur de Mayotte » : L'ancienne résidence des Gouverneurs est également l'ancien hôtel de préfecture situé sur le rocher de Dzaoudzi, à Mayotte.",
+  "Lieu « Maison du gouverneur de Mayotte », 1845 : La résidence est créée à l'emplacement de l'ancien palais du sultan Andriantsoly (pangahari) détruit en 1845.",
+  "Lieu « Maison du gouverneur de Mayotte », 1891 : Une première maison-modèle voit le jour à cette date puis un nouveau bâtiment entièrement importée en kit depuis la métropole est édifié entre 1891 et 1892 : elle est construite par les ateliers Moisant, atelier spécialisé dans les constructions à ossature métallique et concurrent d'Eiffel.",
+  "Lieu « Maison du gouverneur de Mayotte », 1970 : Elle sera occupée par les services de l’État à partir des années 1970.",
+  "Lieu « Musée de Mayotte » : Le Musée de Mayotte (MuMA), est le musée du patrimoine historique, culturel et environnemental de Mayotte, département français d'outre-mer, situé dans l'océan Indien.",
+  "Lieu « Musée de Mayotte », 1845 : Il est installé sur le rocher de Dzaoudzi, dans l'ancienne caserne édifiée en 1845.",
+  "Lieu « Musée de Mayotte », 2015 : Inauguré en 2015, il a reçu le label Musée de France le 20 décembre 2018.",
+  "Lieu « Dwyn Wen » : La Dwyn Wen fut une goélette active pendant tout le XXe siècle, avant de sombrer face à Dzaoudzi (Mayotte) en 2014.",
+  "Lieu « Dwyn Wen », 1906 : Le bateau est construit en 1906 dans le chantier naval de James Burton à Dartmouth (Royaume-Uni) pour Philip & Son Ltd. : l'architecte en fut Alex Richardson.",
+  "Lieu « Petite-Terre » : Petite-Terre (en mahorais : Pamanzi) est une île française du département d'outre-mer de Mayotte.",
+  "Lieu « Petite-Terre », 2018 : Le volcanisme explosif de Petite-Terre est l'expression subaérienne la plus occidentale d'une chaîne volcanique longue de 60 km, dont la pointe orientale a été en 2018-2020 le site de l'éruption sous-marine du nouveau volcan Fani Maoré.",
+  "Lieu « Mosquée-Ziara de Polé » : La mosquée-ziara de Polé est une ancienne mosquée française située à Dzaoudzi sur la Petite-Terre de Mayotte.",
+  "Lieu « Mosquée-Ziara de Polé », aujourd'hui : Aujourd’hui en ruines, elle est classée monument historique en 2017.",
+  "Lieu « Dziani Dzaha » : Le Dziani Dzaha est un lac de cratère sur l'île de Petite-Terre (commune de Dzaoudzi, Mayotte, France), dans le sud-ouest de l'océan Indien.",
+  "Lieu « Dziani Dzaha », aujourd'hui : Le cratère de Dziani Dzaha est un maar formé il y a entre 4 000 et 7 000 ans, date de la dernière explosion du volcan, désormais éteint (même s'il subsiste une chambre magmatique active sous l'île)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 0
+ }
+}
