@@ -1,0 +1,264 @@
+{
+ "commune": {
+  "titre": "Sisteron",
+  "code_insee": "04209",
+  "departement": "04",
+  "population": 7850,
+  "lat": 44.19111111,
+  "lon": 5.94722222,
+  "url": "https://fr.wikipedia.org/wiki/Sisteron"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:21:50",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2655,
+  "sortie": 1966
+ },
+ "cout_usd": 0.002988,
+ "accroche": "En juin 1562, Sisteron est assiégée par les catholiques de Sommerive, lieutenant général du roi, après des saccages protestants à la cathédrale.",
+ "histoire": {
+  "recit": "Sisteron, capitale des Sogiontiques, s’est imposée très tôt comme point de passage stratégique sur la Durance, notamment avec la voie domitienne (Via Domitia) qui traverse la région. Les découvertes archéologiques couvrent tout le territoire, de la Préhistoire à l’Antiquité. Au Moyen Âge, la ville devient un siège de baillie dès le XIVe siècle, puis une viguerie en 1480.\n\nAu XVIe siècle, les guerres de religion marquent la ville : en 1562, des incidents conduisent les protestants à saccager la cathédrale avant que les catholiques de Sommerive assiègent Sisteron ; en 1567, les protestants reprennent à nouveau la ville. Plus tard, l’éducation s’organise : une école de filles ouvre en 1851, et en 1863 une école existe au chef-lieu.\n\nLe temps de la ville change aussi avec la Seconde Guerre mondiale : la citadelle est transformée en camp d’internement à partir de 1940. Aujourd’hui, certains grands ensembles ont disparu, mais la mémoire des lieux protégés et classés continue de se lire dans le paysage.",
+  "chronologie": [
+   {
+    "date": "1480",
+    "texte": "La ville devient siège d’une viguerie, après une baillie déjà présente dès le XIVe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1562",
+    "texte": "Après des saccages protestants (cathédrale, clocher, orgues, couvents), Sisteron est assiégée en juin 1562 par les catholiques de Sommerive.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1567",
+    "texte": "La ville est de nouveau assiégée et prise par les protestants.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1851",
+    "texte": "Une école de filles s’ouvre, comme l’y oblige la loi Falloux.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1863",
+    "texte": "Sisteron possède une seule école, installée au chef-lieu.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "Un hameau de forestage est construit pour héberger des réfugiés harkis employés par l’administration des Eaux et Forêts.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame-des-Pommiers de Sisteron",
+   "histoire": "Église catholique romaine placée sous la protection de la Vierge et de saint Thyrse, elle a été cédée en 1570 à la confrérie des pénitents blancs, puis entièrement rasée en 1860. En 1644, elle est enrichie d’un retable en bois doré, et son chœur conserve l’idée d’un maître autel installé en 1645.",
+   "anecdotes": [
+    {
+     "texte": "En 1570, après les guerres de religion, l’église est cédée à la confrérie des pénitents blancs, qui en fait sa chapelle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "En 1644, un retable en bois doré est exécuté par Étienne Lalozière, puis offert à la cathédrale par Toussaint de Glandevès.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 44.19556,
+   "lon": 5.94361,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-des-Pommiers_de_Sisteron"
+  },
+  {
+   "nom": "Citadelle de Sisteron",
+   "histoire": "Perchée à environ 500 m d’altitude, la citadelle surplombe Sisteron, dans un passage entre le Dauphiné et la Provence. Transformée en camp d’internement en 1940, elle subit des destructions pendant la guerre, puis la chapelle restaurée sert de cadre à des expositions.",
+   "anecdotes": [
+    {
+     "texte": "Jusqu’en mai 1940, on y trouve des détenus dits « gens sans aveux », puis arrivent des détenus politiques ; le 11 mars 1941, la citadelle compte 255 repris de justice, 63 indésirables étrangers et 51 issus des compagnies spéciales.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "En 1944, aux trois quarts détruite, la chapelle restaurée, parée de vitraux du maître verrier Claude Courageux, sert aujourd’hui de cadre à des expositions.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 44.198889,
+   "lon": 5.943056,
+   "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Sisteron"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Sisteron",
+   "histoire": "Bâtiment du début du XXe siècle à Sisteron. En mai 1913, un concours pour sa construction est ouvert à tous les architectes, ingénieurs et constructeurs français.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 44.195053,
+   "lon": 5.944648,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Sisteron"
+  },
+  {
+   "nom": "Gare de Sisteron",
+   "histoire": "Gare ferroviaire située au sud du centre-ville du chef-lieu, sur la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble). La section entre Volx et Sisteron est ouverte le 25 novembre 1872, puis celle entre Sisteron et Veynes - Dévoluy le 1er février 1875.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 44.190278,
+   "lon": 5.946667,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Sisteron"
+  },
+  {
+   "nom": "Cimetière de Sisteron",
+   "histoire": "Cimetière communal de Sisteron. Ouvert en 1860 au pied de la citadelle, il est ensuite partagé : une partie haute ouverte en 1984 et une partie basse, la plus ancienne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 44.19807,
+   "lon": 5.94055,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_Sisteron"
+  },
+  {
+   "nom": "Maison des missionnaires de la Croix",
+   "histoire": "Maison située à Sisteron. Le 1987, elle est inscrite au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 44.19555555556,
+   "lon": 5.944722222222,
+   "url": "https://fr.wikipedia.org/wiki/Maison_des_missionnaires_de_la_Croix"
+  },
+  {
+   "nom": "Église des Dominicains de la Baume",
+   "histoire": "Église située à Sisteron, classée au titre des monuments historiques en 1963.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 44.2026,
+   "lon": 5.94717,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_des_Dominicains_de_la_Baume"
+  },
+  {
+   "nom": "Couvent de la Visitation de Sisteron",
+   "histoire": "Couvent situé à Sisteron. L’édifice est inscrit au titre des monuments historiques en 1984.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 44.1957,
+   "lon": 5.94403,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_de_la_Visitation_de_Sisteron"
+  }
+ ],
+ "sources": [
+  "Sisteron, en provençal Sisteroun selon la norme mistralienne et Sisteron selon la norme classique, est une commune française située dans le département des Alpes-de-Haute-Provence en région Provence-Alpes-Côte d'Azur. Capitale des Sogiontiques (Sogiontii), l’antique Segustero est, à partir de l’époque romaine et de la construction du pont sur la Durance, un point de passage stratégique. Un pont a pu d'ailleurs […]",
+  "Sur tout le territoire de la commune ont été faites de nombreuses découvertes archéologiques datant de la Préhistoire et de l’Antiquité. La ville, appartenant probablement au peuple gaulois des Sogiontiques (Sogiontii), cliente des Voconces, tire depuis toujours son importance de la traversée de la Durance : les Romains font passer la voie domitienne (Via Domitia) qui relie l'Italie à l'Espagne par le col du […]",
+  "1480 : La ville est le siège d'une baillie (sénéchaussée) dès le XIVe siècle, érigée en viguerie précocement en 1480.",
+  "1562 : Après les premiers incidents qui voient les protestants saccager la cathédrale, briser son clocher et ses orgues, ainsi que les couvents des cordeliers et des dominicains, la ville est assiégée par les catholiques de Sommerive, lieutenant général du roi, en juin 1562.",
+  "1567 : En 1567, la ville est à nouveau assiégée et prise, par les protestants.",
+  "1851 : Comme la loi Falloux (1851) l’y oblige, une école de filles est aussi ouverte.",
+  "1863 : Comme de nombreuses communes du département, Sisteron se dote d’école bien avant les lois Jules Ferry : en 1863, elle en possède une seule, installée au chef-lieu.",
+  "1962 : En 1962, un hameau de forestage est construit pour héberger les réfugiés harkis qui sont employés par l’administration des Eaux et Forêts.",
+  "Lieu « Cathédrale Notre-Dame-des-Pommiers de Sisteron » : La cathédrale Notre-Dame-des-Pommiers (ou cathédrale Notre-Dame-et-Saint-Thyrse) est une église catholique romaine construite à Sisteron (Alpes-de-Haute-Provence), placée sous la protection de la Vierge et de saint Thyrse.",
+  "Lieu « Cathédrale Notre-Dame-des-Pommiers de Sisteron », 1570 : Cette église, en partie détruite lors des guerres de religion, fut cédée en 1570 à la confrérie des pénitents blancs qui en firent leur chapelle ; elle a été ensuite entièrement rasée en 1860.",
+  "Lieu « Cathédrale Notre-Dame-des-Pommiers de Sisteron », 1644 : Il fut enrichi d'un beau retable en bois doré exécuté en 1644 par Étienne Lalozière, sculpteur d'Aix-en-Provence et offert à la cathédrale par Toussaint de Glandevès.",
+  "Lieu « Cathédrale Notre-Dame-des-Pommiers de Sisteron », 1645 : Dans le chœur (repère F) se trouvait un maître autel installé au fond de l'abside en 1645.",
+  "Lieu « Cathédrale Notre-Dame-des-Pommiers de Sisteron », aujourd'hui : Cette cathédrale faisait partie d'un groupe épiscopal qui comprenait également un cloître situé au sud de celle-ci et une église Saint-Thyrse dont le souvenir s'est perpétué sous le double vocable de la cathédrale actuellement toujours placée sous la double protection de la Vierge Marie et de saint Thyrse.",
+  "Lieu « Citadelle de Sisteron » : À 500 m d'altitude, la citadelle de Sisteron surplombe la ville de Sisteron — située dans un passage entre le Dauphiné et la Provence — et la Durance.",
+  "Lieu « Citadelle de Sisteron », 1940 : 1940-1942 : la citadelle est transformée en camp d'internement par décret du 18 novembre 1939, puis un centre de séjour surveillé : jusqu'en mai 1940, on y trouve des détenus dits « gens sans aveux » (de droit commun) ; puis arrivée des détenus politiques (ainsi le 11 mars 1941 : « 255 repris de justice, 63 indésirables étrangers et 51 issus des compagnies spéciales »).",
+  "Lieu « Citadelle de Sisteron », 1944 : Aux trois quarts détruite en 1944, la chapelle restaurée, parée de vitraux du maître verrier Claude Courageux sert de cadre aujourd'hui à des expositions de prestige.",
+  "Lieu « Citadelle de Sisteron », aujourd'hui : Il ne reste rien de l'oppidum des Voconces, détruit lors de l'invasion romaine d'Auguste (27 av. J.-C.), ni du castrum romain qui lui succéda.",
+  "Lieu « Hôtel de la Caisse d'épargne de Sisteron » : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Sisteron, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Sisteron », 1913 : En mai 1913, un concours pour la construction d'un hôtel de la Caisse d'épargne est ouvert à tous les architectes, ingénieurs et constructeurs français, jusqu'au 1er août.",
+  "Lieu « Hôtel de la Caisse d'épargne de Sisteron », XXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Sisteron, en France.",
+  "Lieu « Gare de Sisteron » : La gare de Sisteron est une gare ferroviaire française de la ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble), située au sud du centre-ville du chef-lieu de la commune Sisteron dans le département des Alpes-de-Haute-Provence en région",
+  "Lieu « Gare de Sisteron », 1872 : Le 25 novembre 1872, ouverture de la section de ligne entre Volx et Sisteron.",
+  "Lieu « Gare de Sisteron », 1875 : Le 1er février 1875, ouverture de la section de ligne entre Sisteron et Veynes - Dévoluy.",
+  "Lieu « Cimetière de Sisteron » : Le cimetière de Sisteron est le cimetière communal de la ville de Sisteron dans les Alpes-de-Haute-Provence.",
+  "Lieu « Cimetière de Sisteron », 1860 : Ce cimetière a été ouvert en 1860 au pied de la citadelle de Sisteron.",
+  "Lieu « Cimetière de Sisteron », 1984 : Il est partagé en une partie haute (ouverte en 1984) et une partie basse (la plus ancienne).",
+  "Lieu « Maison des missionnaires de la Croix » : La maison des missionnaires de la Croix est une maison située à Sisteron, en France.",
+  "Lieu « Maison des missionnaires de la Croix », 1987 : L'édifice est inscrit au titre des monuments historiques en 1987.",
+  "Lieu « Église des Dominicains de la Baume » : L'église des Dominicains de la Baume est une église située à Sisteron, en France.",
+  "Lieu « Église des Dominicains de la Baume », 1963 : L'édifice est classé au titre des monuments historiques en 1963.",
+  "Lieu « Couvent de la Visitation de Sisteron » : Le couvent de la Visitation est un couvent situé à Sisteron, en France.",
+  "Lieu « Couvent de la Visitation de Sisteron », 1984 : L'édifice est inscrit au titre des monuments historiques en 1984."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Guerre",
+   "Moyen",
+   "Seconde",
+   "XVIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}
