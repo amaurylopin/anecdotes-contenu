@@ -1,0 +1,300 @@
+{
+ "commune": {
+  "titre": "Lons-le-Saunier",
+  "code_insee": "39300",
+  "departement": "39",
+  "population": 16618,
+  "lat": 46.67527778,
+  "lon": 5.55444444,
+  "url": "https://fr.wikipedia.org/wiki/Lons-le-Saunier"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:20:46",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3412,
+  "sortie": 2393
+ },
+ "cout_usd": 0.003674,
+ "accroche": "Lons-le-Saunier a été libérée le 2 septembre 1944 par les troupes débarquées en Provence.",
+ "histoire": {
+  "recit": "À Lons-le-Saunier, le sel a longtemps tenu le rôle d’un fil conducteur. Les ressources en sel étaient déjà exploitées dès l’époque préhistorique, et la fondation de la ville remonte au moins à l’horizon 100 av. J.-C., lorsque les Séquanes dominaient la région avant la conquête romaine. Le nom même de la ville vient de ses salines.\n\nLe pouvoir s’est ensuite organisé en fortifications : un castrum est mentionné en 1097, puis, en 1237, c’est le château de Jean de Chalon. À la fin du XIVe siècle, le château est probablement transformé ; un incendie l’endommage en 1510, et il est ensuite abandonné après 1530.\n\nQuand le temps des remparts s’est effacé, les fossés sont comblés entre 1674 et 1688, tandis que les fortifications sont démolies progressivement entre 1716 et 1758. Le XVIIIe siècle voit aussi l’essor de l’Hôtel-Dieu de Lons-le-Saunier. Plus tard, la ville reprend son souffle au rythme des grandes infrastructures, comme la gare ouverte en 1862. Et durant la guerre, Lons-le-Saunier est libérée le 2 septembre 1944.",
+  "chronologie": [
+   {
+    "date": "au moins à l’horizon 100 av. J.-C.",
+    "texte": "La fondation de la ville remonte au moins à l’horizon 100 av. J.-C., avec une exploitation déjà connue des ressources en sel.",
+    "sources": [
+     "S2",
+     "S1"
+    ]
+   },
+   {
+    "date": "1097",
+    "texte": "Mention d’un castrum à Lons-le-Saunier.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1237",
+    "texte": "Le château est celui de Jean de Chalon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1510",
+    "texte": "Le château est endommagé par un incendie.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1674",
+    "texte": "De 1674 à 1688, les fossés sont comblés, et les fortifications sont progressivement démolies entre 1716 et 1758.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2 septembre 1944",
+    "texte": "Lons-le-Saunier est libérée par les troupes débarquées en Provence.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Centre hospitalier de Lons-le-Saunier",
+   "histoire": "Le centre hospitalier est construit autour de l’Hôtel-Dieu de Lons-le-Saunier, dont l’histoire médicale remonte à l’époque de l’Hôtel-Dieu et à ses reconstructions. Après un incendie en 1637, il subsiste quelques traces dans une cour intérieure, puis un autre bâtiment est substitué en 1689 au cœur du faubourg Saint-Désiré.",
+   "anecdotes": [
+    {
+     "texte": "Après l’incendie de 1637, quelques traces de l’ancien hôpital subsistent dans une cour intérieure.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 1689, l’hôpital jugé insuffisant est remplacé par un nouveau bâtiment au cœur du faubourg Saint-Désiré.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 46.676899,
+   "lon": 5.552505,
+   "url": "https://fr.wikipedia.org/wiki/Centre_hospitalier_de_Lons-le-Saunier"
+  },
+  {
+   "nom": "Saline de Montaigu",
+   "histoire": "La saline de Montaigu a fonctionné comme une mine de sel active de 1892 à 1959, sur Montaigu et Perrigny, deux communes limitrophes de Lons-le-Saunier. Des puits de sondage sont établis sur la commune de Perrigny et les bâtiments d’exploitation sont construits entre 1891 et 1892, avant des réaménagements ultérieurs et la fin de l’activité. À l’époque moderne, le site a connu un nouvel usage et ne conserve plus qu’une partie des installations anciennes.",
+   "anecdotes": [
+    {
+     "texte": "Au début du XXIe siècle, le site de la saline est occupé par des terrains de tennis.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    },
+    {
+     "texte": "Il ne subsiste alors que la maison du gardien et les anciens puits de Perrigny.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ne subsistent que la maison du gardien et les anciens puits de Perrigny.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 46.667686,
+   "lon": 5.566628,
+   "url": "https://fr.wikipedia.org/wiki/Saline_de_Montaigu"
+  },
+  {
+   "nom": "Hôtel-Dieu de Lons-le-Saunier",
+   "histoire": "L’Hôtel-Dieu de Lons-le-Saunier est un ancien hôpital du XVIIIe siècle, de style classique. Il est construit entre 1735 et 1745 par l’architecte Jean-Pierre Galezot et doté d’une apothicairerie dont les ustensiles d’origine sont conservés. Le grand escalier est achevé en 1741. Plus tard, la cour d’honneur est fermée par une grille en fer forgé, puis les bâtiments du XVIIIe siècle sont classés aux monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "L’apothicairerie conserve, à ce jour, tous ses ustensiles d’origine.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Le grand escalier, classé Monument Historique, est achevé en 1741.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les bâtiments du XVIIIe siècle sont classés aux monuments historiques depuis le 11 mars 2003.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 46.6764,
+   "lon": 5.5517,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Lons-le-Saunier"
+  },
+  {
+   "nom": "Gare de Lons-le-Saunier",
+   "histoire": "La gare ferroviaire de Lons-le-Saunier est ouverte le 15 novembre 1862 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée, lors de la mise en service de la section de Mouchard à Lons-le-Saunier. La ligne de Lons-le-Saunier à Saint-Amour est ensuite ouverte le 1er août 1864. Plus récemment, la gare est remplacée par un TGV reliant Strasbourg à Marseille.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 46.668491,
+   "lon": 5.551335,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lons-le-Saunier"
+  },
+  {
+   "nom": "Tour de l'Horloge (Lons-le-Saunier)",
+   "histoire": "La Tour de l’Horloge, aussi appelée beffroi, est une tour horloge du XVIIIe siècle. En 1678, un beffroi de quatre étages avec son horloge et ses cadrans à chiffres romains est construit à la place de la tour de garde. En 1758, le beffroi en ruine est déplacé et reconstruit sur le côté de la rue, au 10 place Liberté, et la cloche de l’édifice est fondue en 1810.",
+   "anecdotes": [
+    {
+     "texte": "En 1678, le beffroi a des cadrans à chiffres romains, installés sur un ouvrage de quatre étages.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "La cloche de l’édifice est fondue en 1810 à Lons-le-Saunier.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 46.674098,
+   "lon": 5.552508,
+   "url": "https://fr.wikipedia.org/wiki/Tour_de_l%27Horloge_%28Lons-le-Saunier%29"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Lons-le-Saunier",
+   "histoire": "L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle situé à Lons-le-Saunier. En 1884, il devient l’architecte communal et travaille aussi dans la ville et le département. Un concours pour la construction d’un hôtel de la Caisse d’épargne est ouvert aux architectes locaux en 1900.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 46.672177,
+   "lon": 5.551688,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Lons-le-Saunier"
+  },
+  {
+   "nom": "Musée des Beaux-Arts de Lons-le-Saunier",
+   "histoire": "Le musée des Beaux-Arts de Lons-le-Saunier est un musée labellisé « Musée de France ». Il est fondé en 1817 dans une aile de l’hôtel de ville, place Philibert de Chalon, avec deux sections et un fonds comprenant 350 sculptures du XIXe siècle. La salle du rez-de-chaussée met notamment en avant Jean-Joseph Perraud, dont une partie des réalisations et la collection personnelle ont été léguées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 46.675922,
+   "lon": 5.5533245,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Lons-le-Saunier"
+  },
+  {
+   "nom": "Église des Cordeliers de Lons-le-Saunier",
+   "histoire": "L’église des Cordeliers est une église catholique à Lons-le-Saunier. Le couvent et l’église des Cordeliers sont fondés en 1250 par les franciscains, dotés par la famille de Vienne. Un incendie détruit l’ensemble en 1536 ; il est ensuite reconstruit entre 1540 et 1593 autour du chœur originel. En 1637, un autre incendie conduit à une seconde reconstruction, et l’édification de la façade actuelle a lieu en 1731.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 46.674062,
+   "lon": 5.555767,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_des_Cordeliers_de_Lons-le-Saunier"
+  }
+ ],
+ "sources": [
+  "Lons-le-Saunier (prononciation : [lɔ̃s.lə.so.nje] ) est le chef-lieu du département du Jura, dans la région culturelle et historique de Franche-Comté et la région administrative Bourgogne-Franche-Comté. La ville est située à une altitude de 255 mètres. Lons-le-Saunier doit son nom à ses salines, d'abord exploitées par les Romains, qui ont fait la fortune de familles de Bourgogne, de Vienne et de Chalon à partir du […]",
+  "Le site est connu dès la préhistoire, la fondation de la ville remonte au moins à l'horizon 100 av. J.-C. ; les Séquanes dominaient alors la région jusqu'à la conquête romaine. Les ressources en sel étaient déjà exploitées (cf. salines de Lons-le-Saunier et histoire du sel du Jura). Il est fait mention d'un castrum en 1097 ; en 1237, c'est le château de Jean de Chalon. Reconstruction de l'enceinte fortifiée […]",
+  "XIVe siècle : Le château est probablement transformé vers la fin du XIVe siècle.",
+  "1510 : Il est endommagé par un incendie en 1510 et abandonné après 1530.",
+  "1674 : De 1674 à 1688, les fossés sont comblés et les fortifications sont progressivement démolies entre 1716 à 1758.",
+  "1944 : Lons-le-Saunier est libérée le 2 septembre 1944 par les troupes débarquées en Provence.",
+  "Lieu « Centre hospitalier de Lons-le-Saunier » : Le Centre Hospitalier Jura Sud de Lons-le-Saunier est un centre hospitalier construit autour de l'Hôtel-Dieu de Lons-le-Saunier, dans le Jura, en Franche-Comté.",
+  "Lieu « Centre hospitalier de Lons-le-Saunier », 1637 : De cet hôpital, incendié en 1637, il subsiste quelques traces dans une cour intérieure.",
+  "Lieu « Centre hospitalier de Lons-le-Saunier », 1689 : Devenu insuffisant, on lui substitua, en 1689, un autre bâtiment au cœur du faubourg Saint-Désiré à l'emplacement de l'actuelle Banque Nationale de Paris.",
+  "Lieu « Centre hospitalier de Lons-le-Saunier », 1741 : Le grand escalier, lui aussi classé Monument Historique, a été achevé en 1741.",
+  "Lieu « Centre hospitalier de Lons-le-Saunier », aujourd'hui : C'est la raison pour laquelle, dès la fin du XVIIe s., on cherchait activement un emplacement susceptible d'accueillir ,'le nouvel Hôtel-Dieu\".",
+  "Lieu « Saline de Montaigu » : La saline de Montaigu est une mine de sel active de 1892 à 1959 à Montaigu et Perrigny, deux communes limitrophes de Lons-le-Saunier dans le Jura, à l'est de la France.",
+  "Lieu « Saline de Montaigu », 1891 : Les puits de sondage sont établis sur la commune de Perrigny et les bâtiments d'exploitation sont construits entre 1891 et 1892 sur la commune de Montaigu, territoire qui sera réuni vers 1963 à celui de Lons.",
+  "Lieu « Saline de Montaigu », 1963 : Les bâtiments sont rachetés vers 1963 par la société Grosjean qui les utilise comme caves d'affinage jusqu'en 1975 et le bâtiment d'évaporation est démoli.",
+  "Lieu « Saline de Montaigu », XXIe siècle : Au début du XXIe siècle, le site est occupé par des terrains de tennis.",
+  "Lieu « Saline de Montaigu », aujourd'hui : Ne subsistent alors que la maison du gardien et les anciens puits de Perrigny.",
+  "Lieu « Hôtel-Dieu de Lons-le-Saunier » : L'hôtel-Dieu de Lons-le-Saunier est un ancien hôpital du XVIIIe siècle de style classique de Lons-le-Saunier dans le Jura en Franche-Comté.",
+  "Lieu « Hôtel-Dieu de Lons-le-Saunier », 1735 : Cet hôtel-Dieu, doté d'une apothicairerie (qui a conservé à ce jour tous ses ustensiles d'origine) et d'un grand escalier remarquable est construit entre 1735 à 1745 par l’architecte Jean-Pierre Galezot.",
+  "Lieu « Hôtel-Dieu de Lons-le-Saunier », 1778 : Vers 1778 la cour d’honneur est fermée par une remarquable grille en fer forgé classée aux monuments historiques depuis le 26 août 1891.",
+  "Lieu « Hôtel-Dieu de Lons-le-Saunier », 2003 : Les bâtiments du XVIIIe siècle sont classés aux monuments historiques depuis le 11 mars 2003 alors les bâtiments d'aile du XIXe siècle sont inscrits depuis le 12 mai 1999.",
+  "Lieu « Hôtel-Dieu de Lons-le-Saunier », aujourd'hui : Depuis le XIXe siècle l'hôtel-Dieu est remplacé par le centre hospitalier de Lons-le-Saunier.",
+  "Lieu « Gare de Lons-le-Saunier » : La gare de Lons-le-Saunier est une gare ferroviaire française située sur le territoire de la commune de Lons-le-Saunier, préfecture du département du Jura, en région Bourgogne-Franche-Comté.",
+  "Lieu « Gare de Lons-le-Saunier », 1862 : Cette gare a été ouverte le 15 novembre 1862 par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), lors de la mise en service de la section de Mouchard à Lons-le-Saunier.",
+  "Lieu « Gare de Lons-le-Saunier », 1864 : La section de Lons-le-Saunier à Saint-Amour a été ouverte le 1er août 1864.",
+  "Lieu « Gare de Lons-le-Saunier », aujourd'hui : Depuis le 12 décembre 2004, il est à son tour remplacé par un TGV reliant Strasbourg à Marseille (qui, en outre, se substitue également au Corail Strasbourg – Lyon, depuis sa disparition en décembre 2011 lors de la mise en service de la LGV Rhin-Rhône).",
+  "Lieu « Tour de l'Horloge (Lons-le-Saunier) » : La Tour de l'Horloge de Lons-le-Saunier ou Beffroi de Lons-le-Saunier est un beffroi et tour horloge du XVIIIe siècle de Lons-le-Saunier dans le Jura en Franche-Comté.",
+  "Lieu « Tour de l'Horloge (Lons-le-Saunier) », 1678 : En 1678 un beffroi de quatre étages avec son horloge et ses cadrans à chiffres romains est construit à la place de la tour de garde après le rattachement de la Franche-Comté à la France (guerre de Hollande et traité de Nimègue).",
+  "Lieu « Tour de l'Horloge (Lons-le-Saunier) », 1758 : En 1758 le beffroi en ruine est déplacé et reconstruit sur le côté de la rue, 10 place Liberté.",
+  "Lieu « Tour de l'Horloge (Lons-le-Saunier) », 1810 : La cloche de l’édifice est fondue en 1810 à Lons-le-Saunier.",
+  "Lieu « Hôtel de la Caisse d'épargne de Lons-le-Saunier » : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Lons-le-Saunier, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Lons-le-Saunier », 1884 : Il devient architecte communal de Lons-le-Saunier en 1884 (au 10 avenue Gambetta) et construit également dans la ville et le département des écoles, des maisons particulières ainsi que des éléments d'édifices religieux.",
+  "Lieu « Hôtel de la Caisse d'épargne de Lons-le-Saunier », 1900 : En 1900, un concours pour la construction d'un hôtel de la Caisse d'épargne est ouvert aux architectes locaux.",
+  "Lieu « Hôtel de la Caisse d'épargne de Lons-le-Saunier », XXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Lons-le-Saunier, en France.",
+  "Lieu « Musée des Beaux-Arts de Lons-le-Saunier » : Le musée des Beaux-Arts de Lons-le-Saunier est un musée des beaux-arts labellisé « Musée de France », fondé en 1817 à Lons-le-Saunier dans le Jura en Franche-Comté.",
+  "Lieu « Musée des Beaux-Arts de Lons-le-Saunier », 1817 : Le musée des Beaux-Arts de Lons-le-Saunier est un musée des beaux-arts labellisé « Musée de France », fondé en 1817 à Lons-le-Saunier dans le Jura en Franche-Comté.",
+  "Lieu « Musée des Beaux-Arts de Lons-le-Saunier », 1817 : En 1817 le musée des Beaux-Arts de Lons-le-Saunier est fondé dans une aile de l'hôtel de ville, place Philibert de Chalon, avec deux sections et un fonds de 350 sculptures du XIXe siècle.",
+  "Lieu « Musée des Beaux-Arts de Lons-le-Saunier », 1819 : La salle du rez-de-chaussée est principalement consacrée au sculpteur académique jurassien Jean-Joseph Perraud (1819-1876) qui a légué au musée une partie de ses réalisations, ainsi que sa collection personnelle.",
+  "Lieu « Église des Cordeliers de Lons-le-Saunier » : L'église des Cordeliers est une église catholique située à Lons-le-Saunier, dans le département du Jura en France.",
+  "Lieu « Église des Cordeliers de Lons-le-Saunier », 1250 : Le couvent et l’église des Cordeliers sont fondés en 1250 par les franciscains, et dotés par la famille de Vienne.",
+  "Lieu « Église des Cordeliers de Lons-le-Saunier », 1536 : Un incendie détruit l’ensemble en 1536 ; il est reconstruit entre 1540 et 1593, autour du chœur originel.",
+  "Lieu « Église des Cordeliers de Lons-le-Saunier », 1637 : Un autre incendie, en 1637, conduit à une seconde reconstruction, en 1731, qui voit l’édification de la façade actuelle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}
