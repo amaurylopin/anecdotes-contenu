@@ -1,0 +1,259 @@
+{
+ "commune": {
+  "titre": "Hennebont",
+  "code_insee": "56083",
+  "departement": "56",
+  "population": 15910,
+  "lat": 47.8,
+  "lon": -3.28,
+  "url": "https://fr.wikipedia.org/wiki/Hennebont"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:23:31",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3147,
+  "sortie": 1930
+ },
+ "cout_usd": 0.003042,
+ "accroche": "Le 15 août 1858, le Haras national d'Hennebont est inauguré par Napoléon III. ",
+ "histoire": {
+  "recit": "À Hennebont, le Blavet a attiré les hommes bien avant les rues : sur le site de Polvern, des fouilles ont mis au jour des haches polies du Néolithique et une occupation vénète du IIe siècle avant notre ère au Ier siècle de notre ère. Plus tard, près du nord d'Hennebont, on exploite aussi le granite au bord du fleuve, comme l'atteste son emploi pour la basilique.\n\nAu cœur de la ville, les Tours Bro-Erec'h, longtemps liées à la guerre de Cent Ans, se racontent encore par une histoire de prison : la « brigande » Marion du Faouët y aurait été enfermée en 1746. Non loin, la basilique Notre-Dame-de-Paradis garde un autre épisode : le 6 août 1944, alors qu’une grande partie de la ville est détruite, l’église est dite miraculeusement épargnée.\n\nEt sur l’eau, le Pont du Bonhomme a plusieurs vies : après une destruction partielle en 1944, il est réparé en 1945 puis restauré en 1947, avant de voir sa fonction ajustée pour permettre aux bateaux à voile de continuer à desservir la commune.",
+  "chronologie": [
+   {
+    "date": "IIe siècle av. J.-C. - Ier siècle apr. J.-C.",
+    "texte": "À Polvern, le site est occupé en territoire vénète.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "5 octobre 1275",
+    "texte": "Fondation de l’abbaye Notre-Dame-de-Joye.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1642",
+    "texte": "Construction en 1642 de la chapelle du couvent des Carmes, à l’origine de l’ensemble de la basilique.",
+    "sources": [
+     "S36"
+    ]
+   },
+   {
+    "date": "15 août 1858",
+    "texte": "Inauguration du Haras national d'Hennebont par Napoléon III.",
+    "sources": [
+     "S8",
+     "S9"
+    ]
+   },
+   {
+    "date": "6 août 1944",
+    "texte": "La basilique Notre-Dame-de-Paradis est dite miraculeusement épargnée par les bombardements allemands.",
+    "sources": [
+     "S38"
+    ]
+   },
+   {
+    "date": "1944-1947",
+    "texte": "Le Pont du Bonhomme est partiellement détruit en 1944, réparé en 1945 et complètement restauré en 1947.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Haras national d'Hennebont",
+   "histoire": "Le Haras national d'Hennebont fait partie des cinq pôles équestres de la région Bretagne. Le texte de loi ratifiant l’échange est signé le 19 mai 1857, puis l’ouvrage est inauguré le 15 août 1858 par Napoléon III.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 47.81,
+   "lon": -3.27472,
+   "url": "https://fr.wikipedia.org/wiki/Haras_national_d%27Hennebont"
+  },
+  {
+   "nom": "Pont du Bonhomme",
+   "histoire": "Situé à l’entrée de la vallée, le Pont du Bonhomme ouvre à la circulation dès le 11 novembre 1904, après des épreuves concluantes du 7 au 11. En 1944, il est partiellement détruit, puis restauré en 1947.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Son emplacement à l'entrée de la vallée est choisi pour permettre aux bateaux à voile de continuer à desservir la commune d'Hennebont située en amont.",
+   "sources": [
+    "S12",
+    "S13",
+    "S15"
+   ],
+   "lat": 47.76483,
+   "lon": -3.30205,
+   "url": "https://fr.wikipedia.org/wiki/Pont_du_Bonhomme"
+  },
+  {
+   "nom": "Abbaye de la Joie",
+   "histoire": "L’abbaye Notre-Dame-de-Joye est une ancienne abbaye cistercienne sur le territoire d'Hennebont. Elle est fondée le 5 octobre 1275 par Blanche de Champagne, et, aujourd’hui, elle se trouve sur le site des haras nationaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Sur le site des haras nationaux.",
+   "sources": [
+    "S16",
+    "S17",
+    "S20"
+   ],
+   "lat": 47.814056,
+   "lon": -3.281667,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_la_Joie"
+  },
+  {
+   "nom": "Chapelle Saint-Gunthiern de Locoyarn",
+   "histoire": "La chapelle Saint-Gunthiern est au lieu-dit « Locoyarn ». Ses parties les plus anciennes datent des IXe et Xe siècles, tandis que l’édifice est fortement remanié au XVIIe siècle. Le toit a été refait en 1975 par les propriétaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le modeste édifice ne porte aujourd’hui pas de clocher.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.7861,
+   "lon": -3.28972,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Gunthiern_de_Locoyarn"
+  },
+  {
+   "nom": "Église Saint-Gilles d'Hennebont",
+   "histoire": "L’église Saint-Gilles est construite à la fin du XIe siècle ou au début du XIIe siècle. Elle est restaurée en 1961 sous la direction de l’architecte Millot, puis, depuis la destruction des collatéraux, les maçonneries murées sont visibles à l’extérieur dans le mur nord.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les collatéraux détruits laissent visibles à l’extérieur, dans le mur nord, les parties murées.",
+   "sources": [
+    "S27",
+    "S28",
+    "S30"
+   ],
+   "lat": 47.810028,
+   "lon": -3.242472,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Gilles_d%27Hennebont"
+  },
+  {
+   "nom": "Tours Bro-Erec'h",
+   "histoire": "Les Tours Bro-Erec'h, aussi appelées porte prison, se trouvent dans le centre-ville et constituent son cœur historique. Elles sont liées à la guerre de Cent Ans : des sièges sont mentionnés, dont celui de 1342, et leur usage de prison s’affaiblit avant une transformation en musée à partir de 1910.",
+   "anecdotes": [
+    {
+     "texte": "En 1746, on raconte que la « brigande » Marion du Faouët y aurait été enfermée, comme son amant Hanvigen, arrêté puis emprisonné en 1743.",
+     "statut": "legende",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S34"
+   ],
+   "lat": 47.8053,
+   "lon": -3.27861,
+   "url": "https://fr.wikipedia.org/wiki/Tours_Bro-Erec%27h"
+  },
+  {
+   "nom": "Basilique Notre-Dame-de-Paradis",
+   "histoire": "La basilique Notre-Dame-de-Paradis est une église catholique située à Hennebont. Construite en 1642 pour la chapelle du couvent des Carmes, elle reçoit ensuite des modifications à l’orgue en 1854 par Jules Heyer. Pendant la guerre, elle est dite miraculeusement épargnée le 6 août 1944 malgré de lourds dégâts dans la ville.",
+   "anecdotes": [
+    {
+     "texte": "Le 6 août 1944, alors qu’une grande partie de la ville est détruite, l’église est présentée comme miraculeusement épargnée par les bombardements allemands.",
+     "statut": "legende",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 47.805278,
+   "lon": -3.275278,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame-de-Paradis"
+  },
+  {
+   "nom": "Gare d'Hennebont",
+   "histoire": "La gare d'Hennebont est située sur la ligne de Savenay à Landerneau. En 1921, l’ouverture de la ligne à voie métrique Port-Louis à Baud est mentionnée, et le trafic voyageurs sur la ligne à voie étroite est fermé en 1934 puis en 1939 pour les marchandises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 47.799135,
+   "lon": -3.285764,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Hennebont"
+  }
+ ],
+ "sources": [
+  "Hennebont [ɛnbɔ̃] est une commune française de 15 831 habitants (Insee 2022). Elle est située en Bretagne dans l'ouest du département du Morbihan, en aval du fleuve côtier le Blavet. Ses habitants sont appelés les Hennebontais et Hennebontaises. La commune est chef-lieu du canton d'Hennebont. Elle fait partie de l'arrondissement de Lorient, du pays de Lorient, du syndicat mixte de la Vallée du Blavet et de Lorient […]",
+  "Le territoire de la commune est fréquenté depuis le néolithique. Sur le site de Polvern, un éperon rocheux dominant le Blavet, des fouilles archéologiques ont permis de mettre au jour des haches polies datées du Néolithique. D'autre part, ces mêmes fouilles ont mis en évidence l'occupation du site, situé en territoire vénète, du IIe siècle av. J.-C. au Ier siècle apr. J.-C.. À partir du Ve siècle, les Bretons […]",
+  "XVIe siècle : Plusieurs anciennes carrières de granite ouvertes en bordure du Blavet au nord d'Hennebont près de Polvern, sont exploitées depuis au moins le XVIe siècle, comme l'atteste l'emploi de cette roche pour la basilique d'Hennebont.",
+  "1942 : Claire Marcel Conedo, vingt-deux ans, et Marcel André, vingt ans, tous deux domiciliés à Hennebont, furent exécutés le 19 juin 1942 pour « coups à des militaires allemands » alors qu'ils se trouvaient en état d'ivresse.",
+  "1943 : La population évacuée à partir de 1943 n'allait réintégrer la commune que très progressivement en 1945 et 1946.",
+  "Lieu « Haras national d'Hennebont » : Le Haras national d'Hennebont est l'un des cinq pôles équestres de la région française Bretagne.",
+  "Lieu « Haras national d'Hennebont », 1857 : Le texte de loi ratifiant l'échange est signé par Napoléon III le 19 mai 1857.",
+  "Lieu « Haras national d'Hennebont », 1858 : Inauguré par Napoléon III le 15 août 1858, il est classé monument historique en 1995.",
+  "Lieu « Haras national d'Hennebont », 1858 : L'inauguration officielle a lieu un an après l'ouverture, en présence de Napoléon III et de l'Impératrice, le 15 août 1858, jour de la Saint-Napoléon.",
+  "Lieu « Haras national d'Hennebont », aujourd'hui : Sous le Consulat, en 1803, Chaptal recherche des emplacements pour établir un nouveau dépôt d'étalons dans le Morbihan : le château de Josselin, l'abbaye de Saint-Jean-des-Prés, le château de Crévy, le château de Truscat et l'enclos des Ursulines de Ploërmel sont envisagés, avant un choix arrêté à l'abbaye de Langonnet, en 1806.",
+  "Lieu « Pont du Bonhomme » : Le pont du Bonhomme est situé dans la région de Lorient, en France.",
+  "Lieu « Pont du Bonhomme », 1904 : Les épreuves de résistance, qui se déroulent du 7 au 11 novembre 1904, sont concluantes, ce qui permet l'ouverture du pont à la circulation dès cette date.",
+  "Lieu « Pont du Bonhomme », 1944 : Partiellement détruit en 1944, le pont est réparé en 1945 et complètement restauré en 1947.",
+  "Lieu « Pont du Bonhomme », 1974 : Après-guerre, la capacité de l'ouvrage atteint ses limites avec le développement du trafic routier et un second pont est ouvert en 1974.",
+  "Lieu « Pont du Bonhomme », aujourd'hui : Son emplacement à l'entrée de la vallée est choisi de façon à permettre aux bateaux à voile de continuer à desservir la commune d'Hennebont située en amont.",
+  "Lieu « Abbaye de la Joie » : L'abbaye Notre-Dame-de-Joye est une ancienne abbaye cistercienne sur le territoire d'Hennebont.",
+  "Lieu « Abbaye de la Joie », 1275 : L'abbaye Notre-Dame-de-Joye est fondée le 5 octobre 1275 par Blanche de Champagne, femme de Jean Ier le Roux (1217–† 1286), duc de Bretagne et mère de Jean II (1239 – 1305), duc de Bretagne.",
+  "Lieu « Abbaye de la Joie », XVIIe siècle : Des bâtiments du XVIIe siècle subsistent la porterie, le logis abbatial et un bâtiment d'exploitation.",
+  "Lieu « Abbaye de la Joie », 1953 : L'abbaye de la Joie Notre-Dame, fondée en 1953 à Campénéac, en reprend la tradition.",
+  "Lieu « Abbaye de la Joie », aujourd'hui : De nos jours, elle est sur le site des haras nationaux.",
+  "Lieu « Chapelle Saint-Gunthiern de Locoyarn » : La chapelle Saint-Gunthiern est située au lieu-dit \"Locoyarn\" sur la commune d'Hennebont dans le Morbihan.",
+  "Lieu « Chapelle Saint-Gunthiern de Locoyarn », Xe siècle : Daté des IXe et Xe siècles pour ses parties les plus anciennes, l'édifice est fortement remanié dans le courant du XVIIe siècle.",
+  "Lieu « Chapelle Saint-Gunthiern de Locoyarn », Xe siècle : Édifié aux IXe et Xe siècles, il présente une élévation typiquement romane : bas-côtés surplombés par les rangées de petites fenêtres de plein cintre de la nef, façade ouest en trois parties séparées par deux contreforts plats.",
+  "Lieu « Chapelle Saint-Gunthiern de Locoyarn », 1975 : Le toit a été refait en 1975 par les propriétaires, sauvant l’édifice qui mériterait une réfection plus approfondie.",
+  "Lieu « Chapelle Saint-Gunthiern de Locoyarn », aujourd'hui : Le modeste édifice ne porte aujourd’hui pas de clocher.",
+  "Lieu « Église Saint-Gilles d'Hennebont » : L'église de Saint-Gilles est une église d'Hennebont, dans le département du Morbihan, en France.",
+  "Lieu « Église Saint-Gilles d'Hennebont », XIe siècle : L'édifice est construit à la fin du XIe siècle ou au début du XIIe siècle.",
+  "Lieu « Église Saint-Gilles d'Hennebont », 1961 : L'édifice est de nouveau restauré en 1961 sous la direction de l'architecte Millot (enduits intérieurs et extérieurs, reprise des fermes de charpente).",
+  "Lieu « Église Saint-Gilles d'Hennebont », 1970 : La charpente qui couvre l'édifice est masquée par un lambris disgracieux datant des années 1970.",
+  "Lieu « Église Saint-Gilles d'Hennebont », aujourd'hui : Aujourd'hui murée, depuis la destruction des collatéraux, elles sont bien visibles à l'extérieur dans le mur nord.",
+  "Lieu « Tours Bro-Erec'h » : Les tours Bro-Erec'h également appelées porte prison se trouvent dans la ville d'Hennebont dans le centre-ville et constituent son cœur historique avec la basilique Notre-Dame-de-Paradis.",
+  "Lieu « Tours Bro-Erec'h », 1342 : Édifiées dans la seconde moitié du XIIIe siècle par le duc de Bretagne Jean Ier le Roux, les tours Broerec'h, ainsi que leurs remparts, subirent plusieurs sièges au début de la guerre de Cent Ans, notamment en 1342 durant la guerre de succession de Bretagne (épisode de Jeanne la Flamme).",
+  "Lieu « Tours Bro-Erec'h », 1746 : La « brigande » Marion du Faouët y aurait été enfermée au cours de l'année 1746, tout comme son amant, Hanvigen, arrêté puis emprisonné en 1743.",
+  "Lieu « Tours Bro-Erec'h », 1910 : L'usage de la prison devient de plus en plus faible et les tours Broerec'h sont transformées en musée à partir de 1910 et largement restaurées.",
+  "Lieu « Basilique Notre-Dame-de-Paradis » : La basilique Notre-Dame-de-Paradis est une église catholique située à Hennebont, en France.",
+  "Lieu « Basilique Notre-Dame-de-Paradis », 1642 : Il est construit en 1642 par le frère Nicolas de Sainte-Cécile pour la chapelle du couvent des Carmes[réf. nécessaire].",
+  "Lieu « Basilique Notre-Dame-de-Paradis », 1854 : En 1854, Jules Heyer, facteur d'orgues originaire de Silésie installé à Quimper depuis 1847, apporte plusieurs modifications dans la composition de l'orgue et ajoute notamment un jeu neuf.",
+  "Lieu « Basilique Notre-Dame-de-Paradis », 1944 : L'église est miraculeusement épargnée par les bombardements allemands le 6 août 1944 alors qu'une grande partie de la ville est détruite.",
+  "Lieu « Gare d'Hennebont » : La gare d'Hennebont, est une gare ferroviaire française de la ligne de Savenay à Landerneau, située sur le territoire de la commune d'Hennebont, dans le département du Morbihan, en région Bretagne.",
+  "Lieu « Gare d'Hennebont », 1921 : En 1921, a lieu l'ouverture de la ligne à voie métrique, de Port-Louis à Baud, des Chemins de fer du Morbihan.",
+  "Lieu « Gare d'Hennebont », 1934 : Sur la ligne à voie étroite, le trafic voyageurs est fermé en 1934 et en 1939 pour le service des marchandises."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

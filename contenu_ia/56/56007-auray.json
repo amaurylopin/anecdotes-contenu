@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "Auray",
+  "code_insee": "56007",
+  "departement": "56",
+  "population": 14207,
+  "lat": 47.668612,
+  "lon": -2.981389,
+  "url": "https://fr.wikipedia.org/wiki/Auray"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:31:41",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2829,
+  "sortie": 2009
+ },
+ "cout_usd": 0.003077,
+ "accroche": "Le nom d’Auray est mentionné pour la première fois en 1069, sous la forme Alrae, avant d’apparaître en 1168 comme Alrai.",
+ "histoire": {
+  "recit": "Auray est une commune du Morbihan, en Bretagne, comptant 14 207 habitants en 2023. Son nom, d’origine bretonne, apparaît dès 1069. Au cœur de la ville, le château d’Auray prend forme quand il est reconstruit à partir de 1201 pour Arthur Ier de Bretagne. Plus tard, le temps l’abîme : des décisions de démolition mènent à la vente des pierres en 1559, utilisées pour reconstruire le fort de Palais à Belle-Île. La vie religieuse s’installe aussi : un couvent de Capucins est fondé en 1626, tandis qu’un couvent de Clarisses est construit en 1632. Dans la prairie de Kerso, la chapelle expiatoire de Champ des martyrs est élevée en 1829 pour les 711 émigrés exécutés après la bataille de Quiberon en 1795. L’époque moderne voit la ville se transformer : la gare est inaugurée en 1862, et de nouveaux édifices prennent place, comme le petit théâtre, construit en plusieurs campagnes, avant une implantation en 1999.",
+  "chronologie": [
+   {
+    "date": "1069",
+    "texte": "Le nom d’Auray apparaît pour la première fois, sous la forme Alrae.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1201",
+    "texte": "Le château d’Auray est reconstruit à partir de 1201 pour Arthur Ier de Bretagne.",
+    "sources": [
+     "S3",
+     "S8"
+    ]
+   },
+   {
+    "date": "1559",
+    "texte": "La démolition du château est décidée : ses pierres sont vendues en 1559 pour reconstruire le fort de Palais à Belle-Île.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1626",
+    "texte": "Un couvent de Capucins est fondé à Auray.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1632",
+    "texte": "Un couvent de Clarisses est construit à Auray.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1829",
+    "texte": "Une chapelle expiatoire est construite près des marais de Kerso, à Champ des martyrs.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "La gare d’Auray est inaugurée et mise en service le 21 septembre 1862.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château d'Auray",
+   "histoire": "Château fort disparu, il est reconstruit à partir de 1201 pour Arthur Ier. À mesure que les ruines tombent, les décisions se succèdent : ventes de douves, puis démolition et réemploi des pierres.",
+   "anecdotes": [
+    {
+     "texte": "Après 1546, même si le mur doit être démoli, le côté de la rivière est exigé conservé : il existe encore.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S4",
+    "S10"
+   ],
+   "lat": 47.66625,
+   "lon": -2.980278,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Auray"
+  },
+  {
+   "nom": "Prieuré de Saint-Cado",
+   "histoire": "Le prieuré de Saint-Cado est un prieuré à Auray. Il dépend d’un prieuré de femmes lié à Notre-Dame du Mont (ou prieuré de Kerléano) fondé dans les années 1190.",
+   "anecdotes": [
+    {
+     "texte": "En 1945, le dossier ne concerne pas seulement les bâtiments : deux arbres du placître sont aussi inscrits.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S16",
+    "S14",
+    "S15"
+   ],
+   "lat": 47.66375,
+   "lon": -2.989861,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_Saint-Cado"
+  },
+  {
+   "nom": "Gare d'Auray",
+   "histoire": "La gare d’Auray, édifiée sur le territoire de la commune de Brech à environ 1 500 m du centre-ville, est inaugurée et mise en service le 21 septembre 1862.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 47.680215,
+   "lon": -2.999479,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Auray"
+  },
+  {
+   "nom": "Port Saint-Goustan",
+   "histoire": "Port de pêche et de commerce sur la rivière d’Auray (ou rivière du Loc’h), il devient un quartier d’Auray. Son grand aménagement s’achève en 1641 avec quai et cales.",
+   "anecdotes": [
+    {
+     "texte": "En 1936, après des alertes en 1935, un effondrement s’écroule sur environ 30 m.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 47.666111,
+   "lon": -2.978889,
+   "url": "https://fr.wikipedia.org/wiki/Port_Saint-Goustan"
+  },
+  {
+   "nom": "Petit théâtre (Auray)",
+   "histoire": "Le petit théâtre d’Auray est une salle de théâtre. Une campagne de construction est lancée après un concours d’architecte en 1903, et le théâtre s’installe ensuite dans le prolongement des halles reconstruites en 1999.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.666667,
+   "lon": -2.984167,
+   "url": "https://fr.wikipedia.org/wiki/Petit_th%C3%A9%C3%A2tre_%28Auray%29"
+  },
+  {
+   "nom": "Couvent du Père Éternel d'Auray",
+   "histoire": "Le couvent du Père Éternel est un ancien couvent des religieuses hospitalières du Tiers-Ordre franciscain. La chapelle est construite en 1644 en même temps que le couvent des Sœurs cordelières, en intégrant une école de filles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 47.665556,
+   "lon": -2.977083,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_du_P%C3%A8re_%C3%89ternel_d%27Auray"
+  },
+  {
+   "nom": "Monument de Cadoudal",
+   "histoire": "Le monument de Cadoudal est un mausolée à Auray, en mémoire de Georges Cadoudal. Il abrite les restes du général royaliste exécuté en 1804, et l’édifice a été exécuté en 1830 grâce à une souscription royaliste.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 47.6617,
+   "lon": -2.99361,
+   "url": "https://fr.wikipedia.org/wiki/Monument_de_Cadoudal"
+  }
+ ],
+ "sources": [
+  "Auray [oʁɛ] est une commune française située dans le département du Morbihan, en région Bretagne. En 2023, avec 14 207 habitants, elle est la 7e commune la plus peuplée du Morbihan et la 25e de la région Bretagne.",
+  "Auray a été classée par le Ministère de la Culture ville d'art et d'histoire jusqu'au printemps 2006. Auray est un nom de lieu, ayant pour origine un nom breton de personne, mentionné pour la première fois en 1069, Alrae, puis en 1168 Alrai, en breton Alré[source insuffisante]. La seigneurie d'Auray relevait de Guingamp avant de passer en 1034 dans la maison des ducs. En 1168, Auray est pris par le roi d'Angleterre […]",
+  "1201 : Après une motte castrale avec donjon attestés au XIe siècle, le château d'Auray est reconstruit à partir de 1201 pour Arthur Ier.",
+  "1559 : Tombant en ruine, sa démolition est décidée, ses pierres vendues en 1559 et transportées pour reconstruire le fort de Palais à Belle-Île.",
+  "1626 : En 1626 est fondé un couvent de Capucins, en 1632 un couvent de Clarisses est construit.",
+  "1829 : En 1829 une chapelle expiatoire est construite près des marais de Kerso dans la prairie, dénommée depuis Champ des martyrs, où 711 émigrés faits prisonniers lors de la bataille de Quiberon en 1795, furent exécutés.",
+  "Lieu « Château d'Auray » : Le château d'Auray est un château fort disparu qui était situé dans la ville d'Auray dans le Morbihan en Bretagne.",
+  "Lieu « Château d'Auray », 1201 : Ce dernier est reconstruit à partir de 1201 pour Arthur Ier de Bretagne.",
+  "Lieu « Château d'Auray », 1546 : Ses douves sont vendues aux enchères après 1546, à la suite de la décision du roi François Ier de céder toutes les terres innocupées du Domaine de Bretagne, et la démolition des ruines est décidée par le roi Henri II, mais le procureur du roi impose que le mur du côté de la rivière soit conservé, et il existe toujours.",
+  "Lieu « Château d'Auray », 1558 : Ses pierres ont été données en 1558 par le roi aux religieux de l'Abbaye Sainte-Croix de Quimperlé, possesseur de l'île de Belle-Île, pour construire le fort de Palais afin d'assurer sa protection contre les pirates anglais, le reste des matériaux est vendu aux enchères en 1559.",
+  "Lieu « Château d'Auray », aujourd'hui : Des religieuses cordelières (Franciscaines ou Clarisses) qui veulent s'établir à Auray se voient donner l'emplacement toujours inoccupé des douves sud, mais elles s'en plaignirent auprès du Parlement de Bretagne qui admit que la situation était trop éloignée du bourg, et ordonna à la Ville d'Auray de leur attribuer un meilleur emplacement.",
+  "Lieu « Prieuré de Saint-Cado » : Le prieuré de Saint-Cado est un prieuré de la ville d'Auray, dans le Morbihan.",
+  "Lieu « Prieuré de Saint-Cado », 1190 : Le prieuré de Notre-Dame-du-Mont (ou prieuré de Kerléano) est un prieuré de femmes fondé dans les années 1190 par la duchesse Constance, dépendant de l'abbaye Notre-Dame du Nid-au-Merle.",
+  "Lieu « Prieuré de Saint-Cado », XVIe siècle : La chapelle, dédiée à saint Cadou, est construite à la fin du XVIe siècle.",
+  "Lieu « Prieuré de Saint-Cado », 1945 : Les autres bâtiments, ainsi que les deux arbres du placître, sont inscrits par arrêté du 4 décembre 1945.",
+  "Lieu « Prieuré de Saint-Cado », aujourd'hui : Le bénéfice de la chapelle, la maison et des deux tenues subsiste après le départ des religieuses vers 1240, rappelées à leur maison-mère, jusqu'à la Révolution.",
+  "Lieu « Gare d'Auray » : La gare d'Auray est une gare ferroviaire française située dans le quartier de la Gare de la ville d'Auray dans le département du Morbihan, en région Bretagne.",
+  "Lieu « Gare d'Auray », 1862 : La gare, édifiée sur le territoire de la commune de Brech à environ 1 500 m du centre-ville d'Auray, est inaugurée et mise en service le 21 septembre 1862, en même temps que la section de Savenay à Lorient du PO et la ligne de Rennes à Redon de la Compagnie des chemins de fer de l'Ouest.",
+  "Lieu « Gare d'Auray », 1864 : Le 18 décembre 1864, la liaison ferroviaire vers Pontivy est inaugurée.",
+  "Lieu « Gare d'Auray », 1872 : L'ouverture du tronçon de Pontivy à Saint-Brieuc en 1872 permet d'achever cette liaison qui traverse la Bretagne du sud au nord Le 24 juillet 1882, la ligne d'Auray à Quiberon est inaugurée.",
+  "Lieu « Port Saint-Goustan » : Le port Saint-Goustan (ou « de Saint-Goustan ») est un ancien port de pêche et de commerce, situé en bordure de la rivière d'Auray (ou rivière du Loc'h), devenu l'un des quartiers d'Auray dans le département du Morbihan.",
+  "Lieu « Port Saint-Goustan », 1641 : L'aménagement du grand port d'Auray s'achève en 1641 par la construction d'un quai et de deux cales reliant le vieux quai et celui construit en 1615.",
+  "Lieu « Port Saint-Goustan », 1641 : L'ancien port d'Auray est achevé en 1641 par le prolongement du quai et la construction de deux rampes en grosses pierres de granit ocre pour l'épais mur de soutènement.",
+  "Lieu « Port Saint-Goustan », 1935 : En 1935, le maire alerte sur le fait que l'effondrement continue à menacer et, l'année suivante, en 1936, il s'écroule sur environ 30 m.",
+  "Lieu « Petit théâtre (Auray) » : Le petit théâtre d'Auray est une salle de théâtre de la ville d'Auray, dans le Morbihan.",
+  "Lieu « Petit théâtre (Auray) », 1903 : La ville d'Auray organise en 1903 un concours d'architecte pour la reconstruction des halles (rasées en 1905) et la construction d'un nouveau bâtiment devant abriter le tribunal d'instance et une salle des fêtes.",
+  "Lieu « Petit théâtre (Auray) », 1903 : Le bâtiment est construit entre 1903 et 1907.",
+  "Lieu « Petit théâtre (Auray) », 1999 : Le théâtre est construit dans le prolongement des nouvelles halles (détruites depuis et reconstruites en 1999), elles-mêmes établies dans le prolongement de l'hôtel de ville.",
+  "Lieu « Couvent du Père Éternel d'Auray » : Le couvent du Père Éternel est un ancien couvent des religieuses hospitalières du Tiers-Ordre franciscain, situé à Auray, dans le département français du Morbihan, en France.",
+  "Lieu « Couvent du Père Éternel d'Auray », 1644 : La chapelle est construite en même temps que le couvent des Sœurs cordelières en 1644 en intégrant une école de filles.",
+  "Lieu « Couvent du Père Éternel d'Auray », XVIIe siècle : Le couvent du Père Éternel est fondé au XVIIe siècle par Jeanne de Quélen.",
+  "Lieu « Monument de Cadoudal » : Le monument de Cadoudal est un mausolée érigé en mémoire de Georges Cadoudal et situé dans la commune d'Auray dans le département du Morbihan en région Bretagne.",
+  "Lieu « Monument de Cadoudal », 1804 : Ce mausolée abrite les restes du général royaliste Georges Cadoudal, exécuté en 1804 sur ordre de Napoléon Bonaparte qu'il avait voulu renverser pour rétablir les Bourbons.",
+  "Lieu « Monument de Cadoudal », 1830 : L'édifice a été exécuté par Pierre-Marie Lussault en 1830 grâce à une souscription royaliste."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 3
+ }
+}

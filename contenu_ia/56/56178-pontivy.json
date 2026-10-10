@@ -1,0 +1,258 @@
+{
+ "commune": {
+  "titre": "Pontivy",
+  "code_insee": "56178",
+  "departement": "56",
+  "population": 14640,
+  "lat": 48.07,
+  "lon": -2.98,
+  "url": "https://fr.wikipedia.org/wiki/Pontivy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:29:33",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3709,
+  "sortie": 2296
+ },
+ "cout_usd": 0.003612,
+ "accroche": "Le 18 décembre 1864, l’embranchement ferroviaire allant d’Auray à Napoléonville (Ligne d’Auray à Pontivy) est inauguré, reliant Pontivy à un réseau plus large.",
+ "histoire": {
+  "recit": "À Pontivy, l’histoire prend des formes très différentes : une forteresse qui change de mains, des bâtiments qui se transforment, et des liaisons qui rapprochent la ville du reste de la Bretagne.\n\nAu XIVe siècle, le “château des Salles” est pris et démantelé en 1342, puis le site accueille ensuite les Cordeliers. Plus tard, à la fin du XVe siècle, Jean II de Rohan fait construire le château actuel, et la ville poursuit sa marche : au XIXe siècle, les canaux et l’arrivée du rail ouvrent des voies nouvelles, tandis que la basilique Notre-Dame-de-la-Joie de Pontivy est remaniée et complétée pour répondre à la croissance des fidèles.\n\nMême les lieux d’aujourd’hui portent des traces : à la Gare de Pontivy, la réouverture des espaces voyageurs date de décembre 2022, et une inscription “Napoléonville” demeure sur le pignon d’origine. Le sol, lui aussi, a gardé une découverte : le tumulus de Nillizien est retrouvé en 1890, classé en 1892, puis déplacé vers sa position actuelle en 1906.",
+  "chronologie": [
+   {
+    "date": "1342",
+    "texte": "Le “château des Salles” est pris et démantelé en novembre 1342 par les troupes anglaises de Guillaume de Bohain.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1479-1485",
+    "texte": "Le château actuel est construit par Jean II de Rohan entre 1479 et 1485 à l’emplacement approximatif d’un ancien château attesté au XIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1811",
+    "texte": "Le quartier de cavalerie est fini en 1811, et la maison d’arrêt est réalisée en 1813.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1832-1838",
+    "texte": "La canalisation du Blavet s’ouvre en 1832 et celle de l’Oust se termine en 1838, contribuant au désenclavement de l’Argoat.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "18 décembre 1864",
+    "texte": "L’embranchement ferroviaire d’Auray à Napoléonville (Ligne d’Auray à Pontivy) est inauguré.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "27 décembre 2022",
+    "texte": "À la Gare de Pontivy, le guichet et la salle d’attente rouvrent grâce au rachat du bâtiment voyageurs, avec des toilettes publiques et des locaux dédiés.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Pontivy",
+   "histoire": "La Gare de Pontivy se trouve à l’est du centre-ville. Le service voyageurs est fermé et transféré sur route le 2 octobre 1949, tout en se poursuivant sur la ligne de Saint-Brieuc à Pontivy. Plus récemment, le guichet a rouvert le 27 décembre 2022, dans un bâtiment voyageurs racheté par un particulier : salle d’attente, toilettes publiques et locaux techniques ou pour le personnel. Dans l’ancienne consigne, une inscription “Napoléonville” demeure sur le pignon d’origine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Dans l’ancienne consigne, située dans l’aile vers Saint-Brieuc, il reste une inscription « Napoléonville » sur le pignon d'origine.",
+   "sources": [
+    "S15",
+    "S16",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.060863,
+   "lon": -2.966226,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Pontivy"
+  },
+  {
+   "nom": "Château de Pontivy",
+   "histoire": "Le château de Pontivy, appelé château des Rohan, s’élève aux XVe et XVIe siècles. Avant cela, le site est déjà fortifié : en novembre 1342, le “château des Salles” est assiégé par les troupes anglaises. En 1456, le site est donné aux Cordeliers, qui y édifient un monastère. Plus tard, Jean II de Rohan construit le château actuel entre 1479 et 1485. Aujourd’hui, dès 1621, l’angle sud est occupé par une construction en terrasse qui préfigure les réaménagements ultérieurs de la forteresse.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Dès 1621, l’angle sud est occupé par une construction en terrasse, préfigurant les réaménagements de la forteresse.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S4",
+    "S24"
+   ],
+   "lat": 48.0704,
+   "lon": -2.9635,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Pontivy"
+  },
+  {
+   "nom": "Basilique Notre-Dame-de-la-Joie de Pontivy",
+   "histoire": "La basilique Notre-Dame-de-la-Joie de Pontivy se trouve Place Bourdonnay-du-Clézio. Des transformations successives font perdre à l’édifice son plan primitif en croix latine : au XIXe siècle, le chœur reçoit des collatéraux prolongeant les bas-côtés, tout en conservant, dans les pignons de la façade méridionale, des traces de l’ancien croisillon. La flèche de pierre, achevée en 1886, succède à une charpente d’ardoises. Les éléments les plus remarquables adossés aux piliers proviennent vraisemblablement de l’ancien couvent des Récollets de Pontivy, aujourd’hui détruit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les statues et bas-reliefs remarquables adossés aux piliers proviennent vraisemblablement de l’ancien couvent des Récollets de Pontivy, aujourd’hui détruit.",
+   "sources": [
+    "S25",
+    "S26",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.0672,
+   "lon": -2.96611,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame-de-la-Joie_de_Pontivy"
+  },
+  {
+   "nom": "Caserne Clisson",
+   "histoire": "La caserne Clisson est une caserne de gendarmerie. Sa construction commence en 1805, avec notamment des pierres provenant du château de Coët-en-Fao, à Séglien. Elle est inaugurée en 1811 après six années de travaux et sert déjà de casernement pour l’armée. Pendant la Seconde Guerre mondiale, le bâtiment change d’affectation et devient un centre mobilisateur, puis retrouve sa fonction dès 1945 lorsque la gendarmerie départementale occupe le bâtiment sud. Aujourd’hui, il ne subsiste du bâtiment d’origine qu’une porte en façade.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Du bâtiment d’origine, ne subsiste qu’une porte en façade.",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34"
+   ],
+   "lat": 48.06575,
+   "lon": -2.969778,
+   "url": "https://fr.wikipedia.org/wiki/Caserne_Clisson"
+  },
+  {
+   "nom": "Tumulus de Nillizien",
+   "histoire": "Le tumulus de Nillizien est une sépulture circulaire de Pontivy. L’édifice est découvert en 1890 près du hameau de Nillizien, en Silfiac. Il est classé au titre des monuments historiques par arrêté du 8 janvier 1892. Par la suite, en 1906, il est déplacé vers sa position actuelle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il se trouve à sa position actuelle, atteinte après son déplacement de 1906.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.063056,
+   "lon": -2.968306,
+   "url": "https://fr.wikipedia.org/wiki/Tumulus_de_Nillizien"
+  },
+  {
+   "nom": "Église Saint-Mériadec-de-Stival de Pontivy",
+   "histoire": "L’église Saint-Mériadec-de-Stival, aussi appelée chapelle Saint-Mériadec, est une église catholique située à Pontivy. Sa nef date du XVe siècle, tandis que le transept et le chevet plat sont du XVIe siècle. Menacée de ruine, elle est désaffectée en 1914 et démolie en 1931. Plus tard, l’édifice est inscrit au titre des monuments historiques en 1933 et classé en 1985.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42",
+    "S42"
+   ],
+   "lat": 48.08508,
+   "lon": -2.99326,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-M%C3%A9riadec-de-Stival_de_Pontivy"
+  },
+  {
+   "nom": "Chapelle Notre-Dame de la Houssaye",
+   "histoire": "La chapelle Notre-Dame de la Houssaye se situe au lieu-dit la Houssaye, à Pontivy. Sa construction est polyphasée : le vicomte de Rohan, Alain IX, commence à édifier le chœur et le transept en 1435, puis ces travaux sont continués par son fils, Jean II. Par ailleurs, Jean II fait restaurer son château de Josselin et réside fréquemment à Pontivy, où il fait construire son dernier édifice militaire entre 1479 et 1485. La nef se poursuit ensuite au début du XVIe siècle par Anne de Rohan. Le clocher-porche est réalisé de 1730 à 1779, et une flèche est édifiée au début du XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S43",
+    "S44",
+    "S45",
+    "S46"
+   ],
+   "lat": 48.04667,
+   "lon": -2.94972,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame_de_la_Houssaye"
+  },
+  {
+   "nom": "Manoir de Kermarec",
+   "histoire": "Le manoir de Kermarec est situé à Pontivy. Il est construit au XVIIe siècle. Aujourd’hui, il n’en reste que des vestiges du XVIIe siècle, fortement remaniés, avec surtout le logis encore visible.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Vestiges du XVIIe siècle fort remaniés, le logis surtout.",
+   "sources": [
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 48.076389,
+   "lon": -2.995556,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Kermarec"
+  }
+ ],
+ "sources": [
+  "Pontivy (/pɔ̃.ti.vi/) est une commune française, chef-lieu d'arrondissement du département du Morbihan en région Bretagne. En 2023, avec 14 640 habitants, elle est la 6e commune la plus peuplée du Morbihan et la 19e de Bretagne.",
+  "Le Paléolithique n'a pas laissé de trace dans la région de Pontivy. Le Mésolithique également, cette période étant marquée par une faible pénétration humaine en Bretagne du fait de la prédominance des forêts et de l'absence de possibilités de déplacements. L'agriculture et l'élevage naissants au Néolithique favorisent une véritable implantation humaine dans la région, attestée par la présence de sites mégalithiques […]",
+  "1342 : Il est pris et démantelé en 1342 par le comte de Northampton Guillaume de Bohun lors de la guerre de Succession de Bretagne.",
+  "1479 : Le château actuel est construit par Jean II de Rohan entre 1479 et 1485 à l'emplacement approximatif d'un ancien château attesté au XIe siècle.",
+  "XVIe siècle : L'essor au XVIe siècle des fabricants et marchands de toiles de lin dans la région de Pontivy, Moncontour, Uzel, Quintin permet la construction de nombreuses églises paroissiales dans la région, mais peu sont restées, la plupart ayant été reconstruites au XVIIIe siècle.",
+  "1632 : Vers la fin du XVIIIe siècle Pontivy possède deux couvents : celui des Récollets, qui date de 1632 (construit à l'emplacement de l'ancien couvent des Cordeliers qui datait de 1456), mais il n'a plus que 7 religieux, et celui des Ursulines, établi en 1633, qui abrite une vingtaine de religieuses.",
+  "1794 : Ils échappent cependant à la guillotine et sont libérés en novembre 1794.",
+  "1796 : Julien Le Bècre, qui fut vicaire à Stival, puis à Pontivy, prêtre insermenté, fut guillotiné le 22 mars 1796 à Vannes.",
+  "1811 : Le quartier de cavalerie est fini en 1811, la maison d’arrêt en 1813, la mairie place du Martray sera terminée en 1834, la sous-préfecture en 1839, le palais de justice commencé en 1807 est achevé en 1846, comme le bâtiment halle-théâtre.",
+  "1832 : La canalisation du Blavet ouverte en 1832 et de celle de l'Oust terminée en 1838, complétée par l'exécution du canal de Nantes à Brest (ouvert pour Pontivy en 1842), permet en partie de désenclaver l'Argoat en l'ouvrant sur l'Armor.",
+  "1858 : En août 1858 lors de son voyage en Bretagne Napoléon III visite Napoléonville ; il octroie une somme de 400 000 francs-or à la ville, ce qui permit la construction de l'église Saint-Joseph, achevée en 1876.",
+  "1864 : L'embranchement ferroviaire allant d'Auray à Napoléonville (Ligne d'Auray à Pontivy) est inauguré le 18 décembre 1864 ; il est relié à la ligne de Savenay à Landerneau, qui permet les liaisons avec Rennes, Nantes ou Paris et géré par la Compagnie du chemin de fer de Paris à Orléans.",
+  "1894 : La colonne de la Fédération bretonne-angevine, œuvre des architectes Deperthes père & fils, est inaugurée le 21 octobre 1894 par le président Félix Faure.",
+  "1924 : L'ancienne église paroissiale Saint-Pierre, située dans le cimetière, jugée trop petite, est démolie en 1924 et remplacée par la chapelle Saint-Mériadec (dédiée à saint Mériadec), qui devint donc église paroissiale.",
+  "Lieu « Gare de Pontivy » : La gare de Pontivy est une gare ferroviaire française de la ligne d'Auray à Pontivy, située à l'est du centre-ville de Pontivy, dans le département du Morbihan, en région Bretagne.",
+  "Lieu « Gare de Pontivy », 1949 : Sur la ligne d'Auray à Pontivy, le service voyageurs est fermé et transféré sur route le 2 octobre 1949, mais il se poursuit sur la ligne de Saint-Brieuc à Pontivy.",
+  "Lieu « Gare de Pontivy », 2014 : Jusqu'au 4 novembre 2014, le guichet, était ouvert du lundi au samedi et fermé les dimanches et fêtes.",
+  "Lieu « Gare de Pontivy », 2022 : Grâce au rachat du bâtiment voyageurs par un particulier, le guichet SNCF et la salle d'attente ont rouvert le 27 décembre 2022, avec des toilettes publiques, un local pour le personnel et un local technique.",
+  "Lieu « Gare de Pontivy », aujourd'hui : Dans l'ancienne consigne, située dans l'aile vers Saint-Brieuc, ajoutée plus tard, il reste une inscription « Napoléonville » sur le pignon d'origine.",
+  "Lieu « Château de Pontivy » : Le château de Pontivy (Morbihan), appelé château des Rohan, a été bâti aux XVe et XVIe siècles par la famille de Rohan.",
+  "Lieu « Château de Pontivy », 1342 : Ce « château des Salles » est assiégé en novembre 1342 par les troupes anglaises de Guillaume de Bohain, lieutenant du roi Édouard III, pendant la guerre de Succession de Bretagne.",
+  "Lieu « Château de Pontivy », 1456 : En 1456, le site du château des Salles est donné aux Cordeliers qui y édifient leur monastère.",
+  "Lieu « Château de Pontivy », XVIe siècle : Le château de Pontivy (Morbihan), appelé château des Rohan, a été bâti aux XVe et XVIe siècles par la famille de Rohan.",
+  "Lieu « Château de Pontivy », aujourd'hui : Dès 1621, l'angle sud est occupé par une construction en terrasse, préfigurant les nombreux réaménagements dont fait l'objet la forteresse.",
+  "Lieu « Basilique Notre-Dame-de-la-Joie de Pontivy » : La basilique Notre-Dame-de-la-Joie de Pontivy est une basilique mineure de l'Église catholique située Place Bourdonnay-du-Clézio, à Pontivy, en France.",
+  "Lieu « Basilique Notre-Dame-de-la-Joie de Pontivy », XIXe siècle : Des additions successives ont fait perdre à l'édifice son plan primitif en croix latine (le chœur étant flanqué au XIXe siècle de collatéraux prolongeant les bas-côtés), mais parmi les pignons qui découpent la façade méridionale on reconnaît encore, à son élévation, l'ancien croisillon.",
+  "Lieu « Basilique Notre-Dame-de-la-Joie de Pontivy », 1886 : L'église est transformée à la fin du XVIIIe siècle, notamment grâce aux libéralités des ducs de Rohan, ainsi qu'à la fin du XIXe siècle (la flèche, les bas-côtés du chœur et les voûtes de la nef datent de 1886) afin de répondre à l'accroissement de la population des fidèles.",
+  "Lieu « Basilique Notre-Dame-de-la-Joie de Pontivy », 1886 : Sur cette base a été construit un tambour octogonal (clocher flanqué de clochetons) à partir duquel s'élève la flèche de pierre qui a succédé, en 1886, à une charpente d'ardoises.",
+  "Lieu « Basilique Notre-Dame-de-la-Joie de Pontivy », aujourd'hui : Les plus remarquables, adossées aux piliers (Notre-Dame-de-la-Joie taillée dans un tronc de chêne, Notre-Dame-de-la-Délivrance vénérée par les femmes enceintes, statues en bois polychrome de sainte Catherine d'Alexandrie et de sainte Barbe d'Héliopolis) proviennent vraisemblablement de l'ancien couvent des Récollets de Pontivy, aujourd'hui détruit.",
+  "Lieu « Caserne Clisson » : La caserne Clisson est une caserne de gendarmerie de Pontivy, dans le Morbihan, en France.",
+  "Lieu « Caserne Clisson », 1805 : La construction du bâtiment commence en 1805 avec, notamment, des pierres du château de Coët-en-Fao, à Séglien, que le marquis de Rosily avait acquis en 1803.",
+  "Lieu « Caserne Clisson », 1811 : Elle est inaugurée en 1811 après six années de travaux et sert déjà de casernement pour l'armée.",
+  "Lieu « Caserne Clisson », 1945 : Le bâtiment change d'affectation durant la Seconde Guerre mondiale, durant laquelle il devient centre mobilisateur, avant de retrouver sa fonction première dès 1945 lorsque la gendarmerie départementale en occupe le bâtiment sud.",
+  "Lieu « Caserne Clisson », aujourd'hui : Du bâtiment d'origine, ne subsiste toutefois qu'une porte en façade.",
+  "Lieu « Tumulus de Nillizien » : Le tumulus de Nillizien, ou sépulture circulaire de Pontivy, est un ancien tumulus, situé à Pontivy, dans le Morbihan, en France.",
+  "Lieu « Tumulus de Nillizien », 1890 : L'édifice est découvert en 1890 près du hameau de Nillizien, en Silfiac (Morbihan).",
+  "Lieu « Tumulus de Nillizien », 1892 : L'édifice est classé au titre des monuments historiques par arrêté du 8 janvier 1892.",
+  "Lieu « Tumulus de Nillizien », 1906 : Elle est de nouveau déplacée en 1906 vers sa position actuelle.",
+  "Lieu « Église Saint-Mériadec-de-Stival de Pontivy » : L’église Saint-Mériadec-de-Stival, dite aussi chapelle Saint-Mériadec, est une église catholique située à Pontivy (Morbihan).",
+  "Lieu « Église Saint-Mériadec-de-Stival de Pontivy », XVe siècle : La nef de l'édifice date du XVe siècle, tandis que le transept et le chevet plat sont du XVIe siècle.",
+  "Lieu « Église Saint-Mériadec-de-Stival de Pontivy », 1914 : Menaçant ruine, elle est désaffectée en 1914 et démolie en 1931.",
+  "Lieu « Église Saint-Mériadec-de-Stival de Pontivy », 1933 : L'édifice est inscrit au titre des monuments historiques en 1933 et classé en 1985.",
+  "Lieu « Chapelle Notre-Dame de la Houssaye » : La chapelle Notre-Dame de la Houssaye est située au lieu-dit la Houssaye', à Pontivy dans le Morbihan.",
+  "Lieu « Chapelle Notre-Dame de la Houssaye », 1435 : La chapelle est une construction typiquement polyphasée : le vicomte de Rohan, Alain IX commence à édifier, en 1435, le chœur et le transept de la chapelle qui est continuée par son fils, Jean II.",
+  "Lieu « Chapelle Notre-Dame de la Houssaye », 1480 : Alors que ce dernier fait restaurer son château de Josselin dans les années 1480, il réside fréquemment à Pontivy où il a fait construire son dernier édifice militaire entre 1479 et 1485.",
+  "Lieu « Chapelle Notre-Dame de la Houssaye », 1730 : La construction de la nef se poursuit par Anne de Rohan au début du XVIe siècle, celle du clocher-porche a lieu au XVIIIe siècle (clocher-porche réalisé de 1730 à 1779, édification d’une flèche au début du XIXe siècle).",
+  "Lieu « Manoir de Kermarec » : Le manoir de Kermarec est situé à Pontivy en France.",
+  "Lieu « Manoir de Kermarec », XVIIe siècle : Le manoir est construit au XVIIe siècle.",
+  "Lieu « Manoir de Kermarec », aujourd'hui : Vestiges du XVIIe siècle fort remaniés, le logis surtout."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIVe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

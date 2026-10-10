@@ -1,0 +1,237 @@
+{
+ "commune": {
+  "titre": "Theix",
+  "code_insee": "56251",
+  "departement": "56",
+  "population": 8500,
+  "lat": 47.62972222,
+  "lon": -2.65472222,
+  "url": "https://fr.wikipedia.org/wiki/Theix"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:13:51",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2508,
+  "sortie": 2016
+ },
+ "cout_usd": 0.003022,
+ "accroche": "Le 1er janvier 2016, Theix fusionne avec Noyalo pour former la commune nouvelle de Theix-Noyalo, au cœur du Morbihan. ",
+ "histoire": {
+  "recit": "Theix, ancienne paroisse d’un territoire qui comprenait aussi Treffléan et une partie de Saint-Nolff, accueille très tôt des missionnaires chrétiens venus de l’évêché de Tours au second siècle. Au Moyen Âge, une vingtaine de seigneuries y prennent place, avec des noms encore lisibles dans les manoirs : Plessis-Josso, Salarun, Bonervaud.\n\nDans le bourg et ses hameaux, l’histoire se lit en architectures : la chapelle Notre-Dame-la-Blanche, fondée en 1239 puis reconstruite en 1536, ou encore les édifices du Gorvello, dont l’église Saint-Jean-Baptiste naît à partir de 1523 pour remplacer la chapelle des Templiers. \n\nEt lorsque survient la catastrophe, la commune se mobilise : après le naufrage de l’Erika le 12 décembre 1999, un centre provisoire est installé pour nettoyer des oiseaux mazoutés. ",
+  "chronologie": [
+   {
+    "date": "XVIe siècle",
+    "texte": "Le territoire compte des seigneuries ; l’un des communs du manoir Saint-André conserve des vestiges du XVIe siècle (cheminée, fenêtre mur est).",
+    "sources": [
+     "S2",
+     "S8"
+    ]
+   },
+   {
+    "date": "1239",
+    "texte": "La chapelle Notre-Dame-la-Blanche de Theix est fondée.",
+    "sources": [
+     "S18",
+     "S19"
+    ]
+   },
+   {
+    "date": "1523",
+    "texte": "Au Gorvello, l’église Saint-Jean-Baptiste est construite pour remplacer la chapelle des Templiers.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "12 décembre 1999",
+    "texte": "Après le naufrage de l’Erika, Theix accueille un centre provisoire destiné au nettoyage des oiseaux mazoutés.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "22 avril 1981",
+    "texte": "Le Plessis-Josso fait l’objet d’un classement (façades, toitures, rempart crénelé et parties décrites).",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "Theix fusionne avec Noyalo pour former la commune nouvelle de Theix-Noyalo.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Manoir Saint-André",
+   "histoire": "Le manoir Saint-André connaît plusieurs états. Un logis très mal en point est signalé en 1795 ; il est en ruine sur le plan cadastral de 1810, puis détruit avant 1844. En 1906, un nouveau logis est construit, avec un blason en réemploi. Le manoir actuel remonte au XXe siècle, en moellons de granite, avec une disposition à un étage carré et comble à surcroît. Des communs présentent des vestiges du XVIe siècle : une cheminée et une fenêtre mur est.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les communs conservent des vestiges datés du XVIe siècle, notamment une cheminée et une fenêtre mur est.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 47.65536,
+   "lon": -2.647456,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_Saint-Andr%C3%A9"
+  },
+  {
+   "nom": "Château du Plessis-Josso",
+   "histoire": "Le Plessis-Josso est un manoir breton du Moyen Âge. Vers 1330, il est construit par Sylvestre Josso, écuyer ducal, dans une période agitée liée à la guerre de Succession de Bretagne. Par la suite, il passe par alliance à la famille Rosmadec et sert de résidence à des personnages importants. À la fin du XVIIIe siècle, il devient la propriété de la famille Le Mintier de Léhélec, qui l’habite encore. Les parties décrites (façades, toitures, rempart crénelé et pavillon) sont classées depuis le 22 avril 1981.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 47.629667,
+   "lon": -2.594444,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Plessis-Josso"
+  },
+  {
+   "nom": "Château de Salarün",
+   "histoire": "Le château de Salarün date des XVe et XVIe siècles, construit en moellons de granite. Vers 1734, un incendie (information orale) entraîne un remaniement : reprises d’ouvertures, reconstruction d’un appentis, et création d’un escalier central en bois. Plus tard, un changement de propriétaire en 1890 provoque un remaniement total de l’élévation : réemploi partiel d’un linteau de cheminée, adjonction de lucarnes néo-gothique, et construction d’une tour carrée au nord-est.",
+   "anecdotes": [
+    {
+     "texte": "Un incendie vers 1734 aurait apporté des remaniements aux ouvertures et reconstructions, selon une information transmise par la tradition orale.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 47.656775,
+   "lon": -2.675352,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Salar%C3%BCn"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-la-Blanche de Theix",
+   "histoire": "La chapelle Notre-Dame-la-Blanche se trouve rue Notre-Dame-la-Blanche, dans le bourg de Theix. Elle est fondée en 1239 par la famille Salarün, puis reconstruite en 1536, comme l’indique une inscription sur sablières. La fondation et la reconstruction sont donc documentées à travers ces indices matériels mentionnés.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 47.62861,
+   "lon": -2.65028,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-la-Blanche_de_Theix"
+  },
+  {
+   "nom": "Le Gorvello",
+   "histoire": "Le Gorvello est un hameau du Morbihan, à cheval sur les communes de Theix-Noyalo et de Sulniac. À partir de 1523, l’église Saint-Jean-Baptiste est construite pour remplacer la chapelle des Templiers. En 1604, la paroisse fait construire la chapelle Saint-Roch dans le cimetière, remarquée pour ses sablières et ses fresques, et le territoire mentionne aussi une fontaine dédiée à Saint-Jean-Baptiste.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 47.640833,
+   "lon": -2.599444,
+   "url": "https://fr.wikipedia.org/wiki/Le_Gorvello"
+  },
+  {
+   "nom": "Château de Since",
+   "histoire": "La maison du château de Since date du XVe siècle. Elle présente un corps principal à un étage carré, des travées, et une construction en moellons de granite. Le site inclut aussi une maison de chapelain, édifiée dans la deuxième moitié du XVe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 47.63409,
+   "lon": -2.691334,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Since"
+  },
+  {
+   "nom": "Manoir de Kerandrun",
+   "histoire": "Le manoir de Kerandrun comprend, en 1758, une chapelle qui est restaurée au XIXe siècle et rendue au culte en 1868. Le manoir lui-même suit une destinée plus brève : le logis est détruit entre 1960 et 1970, avec réemploi de quelques éléments anciens dans la nouvelle construction.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28"
+   ],
+   "lat": 47.641944,
+   "lon": -2.61675,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Kerandrun"
+  },
+  {
+   "nom": "Manoir de Kersapé",
+   "histoire": "Le manoir de Kersapé est un logis construit dans la seconde moitié du XVIe siècle. Le domaine se complète ensuite par des dépendances : fournil et remise au sud, construits entre 1810 et 1844.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 47.648833,
+   "lon": -2.624361,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Kersap%C3%A9"
+  }
+ ],
+ "sources": [
+  "Pour le hameau du Puy-de-Dôme en Auvergne, voir Saint-Genès-Champanelle. Theix [tɛks] est une ancienne commune française située dans le département du Morbihan, en région Bretagne, elle a fusionné le 1er janvier 2016 avec Noyalo pour former la commune nouvelle de Theix-Noyalo. Ses habitants se nomment les Theixois et les Theixoises. Ils étaient 6 799 au recensement de 2007.",
+  "Theix est issue d'une ancienne paroisse primitive qui comprenait aussi Treffléan et une partie de Saint-Nolff. C'est au second siècle que les premiers missionnaires chrétiens arrivèrent en provenance de l'évêché de Tours. Au Moyen Âge, une vingtaine de seigneuries occupent le territoire de Theix dont les plus importantes sont le Plessis-Josso, Salarun et Bonervaud. Theix fait partie du temporel de l’évêque de Vannes […]",
+  "1999 : À la suite du naufrage de l'Erika le 12 décembre 1999, la commune accueille un centre provisoire destiné au nettoyage des oiseaux mazoutés.",
+  "Lieu « Manoir Saint-André » : Le manoir Saint-André est un édifice situé à Theix-Noyalo en France.",
+  "Lieu « Manoir Saint-André », 1795 : Logis signalé en très mauvais état en 1795, en ruine sur le plan cadastral de 1810, détruit avant 1844.",
+  "Lieu « Manoir Saint-André », 1906 : Le nouveau logis est construit en 1906 (date portée) avec blason en réemploi Le Sénéchal.",
+  "Lieu « Manoir Saint-André », XXe siècle : Le manoir actuel date du XXe siècle, édifice à un étage carré, comble à surcroît, élévation à travées, construit en moellons de granite.",
+  "Lieu « Manoir Saint-André », aujourd'hui : Les communs est sont du XVIe siècle (vestiges : cheminée, fenêtre mur est).",
+  "Lieu « Château du Plessis-Josso » : Le Plessis-Josso est un manoir breton datant du Moyen Âge.",
+  "Lieu « Château du Plessis-Josso », 1330 : Construit vers 1330 par Sylvestre Josso, écuyer ducal, durant la période agitée de la guerre de Succession de Bretagne au XIVe siècle, il passa ensuite par alliance dans la puissante famille Rosmadec et servit de résidence à des personnages importants tels qu'un évêque, des sénéchaux et des gouverneurs de villes bretonnes.",
+  "Lieu « Château du Plessis-Josso », 1981 : Les façades et la toiture sur cour du château proprement dit, les façades et toitures du pavillon du XVIIe siècle, la façade sur cour du bâtiment sud-est des communs, ainsi que le rempart crénelé au sud-est et au sud-ouest font l’objet d’un classement depuis le 22 avril 1981.",
+  "Lieu « Château du Plessis-Josso », aujourd'hui : À la fin du XVIIIe siècle, il devint la propriété de la famille Le Mintier de Léhélec qui l'habite encore aujourd'hui.",
+  "Lieu « Château de Salarün » : Le château de Salarün est un édifice situé à Theix-Noyalo en France.",
+  "Lieu « Château de Salarün », XVIe siècle : Le château date des XVe et XVIe siècles, édifice construit en moellons de granite.",
+  "Lieu « Château de Salarün », 1734 : Corps principal en équerre du milieu du XVIe siècle : un incendie vers 1734 (information orale) apporta un remaniement des ouvertures, la reprise du pignon sud, la reconstruction d'un appentis au sud, la construction de l'escalier central en bois.",
+  "Lieu « Château de Salarün », aujourd'hui : Changement de propriétaire en 1890 d'où le remaniement total de l'élévation est avec réemploi partiel du linteau de la cheminée du rez-de-chaussée de l'aile sud comme linteau de la porte, adjonction de lucarnes néo-gothique, construction d'une tour carrée au nord-est remplaçant un corps en légère saillie (escalier ?) visible sur le cadastre de 1844.",
+  "Lieu « Chapelle Notre-Dame-la-Blanche de Theix » : La chapelle Notre-Dame-la-Blanche est située rue Notre-Dame-la-Blanche, dans le bourg de Theix (commune de Theix-Noyalo) dans le Morbihan.",
+  "Lieu « Chapelle Notre-Dame-la-Blanche de Theix », 1239 : La chapelle, fondée en 1239, a été reconstruite en 1536 (inscription sur sablières).",
+  "Lieu « Chapelle Notre-Dame-la-Blanche de Theix », 1239 : La chapelle Notre-Dame-la-Blanche est fondée par la famille Salarün en 1239.",
+  "Lieu « Le Gorvello » : Le Gorvello (ou parfois Gorvello, sans article) est un hameau du Morbihan, à cheval sur les communes de Theix-Noyalo et de Sulniac.",
+  "Lieu « Le Gorvello », 1523 : L'église Saint-Jean-Baptiste est construite à partir de 1523 pour remplacer la chapelle des Templiers.",
+  "Lieu « Le Gorvello », 1604 : Le Gorvello possède deux édifices inscrits à l'inventaire des Monuments historiques, tous deux situés sur le territoire de Sulniac : L'église Saint-Jean-Baptiste de Gorvello ; La fontaine Saint-Jean-Baptiste de Gorvello ; La chapelle Saint-Roch, construite en 1604 dans le cimetière de la paroisse, est également remarquable, notamment pour ses sablières et ses fresques.",
+  "Lieu « Château de Since » : Le château de Since est un édifice situé à Theix-Noyalo en France.",
+  "Lieu « Château de Since », XVe siècle : La maison date du XVe siècle, le corps principal est à un étage carré, élévation à travées, construiten moellons de granite.",
+  "Lieu « Château de Since », XVe siècle : Maison de chapelain construite dans la deuxième moitié du XVe siècle.",
+  "Lieu « Manoir de Kerandrun » : Le manoir de Kerandrun est situé à Theix-Noyalo en France.",
+  "Lieu « Manoir de Kerandrun », 1758 : Chapelle existant en 1758, restaurée au XIXe siècle et rendue au culte en 1868, détruite vers 1970.",
+  "Lieu « Manoir de Kerandrun », 1960 : Le logis est détruit entre 1960 et 1970, réemploi de quelques éléments anciens dans la nouvelle construction.",
+  "Lieu « Manoir de Kersapé » : Le manoir de Kersapé est situé à Theix-Noyalo en France.",
+  "Lieu « Manoir de Kersapé », XVIe siècle : Logis construit dans la seconde moitié du XVIe siècle.",
+  "Lieu « Manoir de Kersapé », 1810 : Fournil et remise au sud construits entre 1810 et 1844."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}
