@@ -1,0 +1,119 @@
+{
+ "commune": {
+  "titre": "Urrugne",
+  "code_insee": "64545",
+  "departement": "64",
+  "population": 10661,
+  "lat": 43.3631,
+  "lon": -1.6989,
+  "url": "https://fr.wikipedia.org/wiki/Urrugne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:51:55",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1191,
+  "sortie": 762
+ },
+ "cout_usd": 0.001191,
+ "accroche": "À Urrugne, la villa Mendichka a été construite en 1911, sur une position dominante, par l’architecte Henri Godbarge. ",
+ "histoire": {
+  "recit": "Urrugne, au Pays basque français, se présente comme une commune de l’intérieur du tissu paroissial entre Nivelle et Bidassoa, longtemps rattachée à la juridiction spirituelle et temporelle du seigneur d’Urtubie. Plus tard, Ciboure obtient son autonomie religieuse en 1555, puis Hendaye en 1598, tandis que la maison d’Urtubie devient une vicomté en 1654.\n\nAu cœur de la commune, la villa Mendichka donne un autre visage à l’histoire : un bâtiment de style néobasque élevé en 1911 pour la famille Roland-Gosselin, puis protégé au titre des monuments historiques depuis 29 novembre 1993.\n\nL’église Saint-Vincent d’Urrugne, église catholique de la commune, a elle aussi fait l’objet d’une inscription monuments historiques depuis le 19 mai 1925.",
+  "chronologie": [
+   {
+    "date": "1555",
+    "texte": "Ciboure obtient son autonomie religieuse et se détache de l’église matrice.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1598",
+    "texte": "Hendaye fait de même et se détache de l’église matrice.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1654",
+    "texte": "La maison d’Urtubie devient une vicomté.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1911",
+    "texte": "La villa Mendichka est construite, en position dominante, par l’architecte Henri Godbarge pour la famille Roland-Gosselin.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "19 mai 1925",
+    "texte": "L’église Saint-Vincent d’Urrugne est inscrite au titre des monuments historiques.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "29 novembre 1993",
+    "texte": "La villa Mendichka fait l’objet d’une inscription au titre des monuments historiques.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Villa Mendichka",
+   "histoire": "Villa de style néobasque située à Urrugne, au lieu-dit Goyeiex, construite en 1911 par l’architecte Henri Godbarge pour la famille Roland-Gosselin, et inscrite au titre des monuments historiques depuis le 29 novembre 1993.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Inscription au titre des monuments historiques depuis le 29 novembre 1993.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 43.3502,
+   "lon": -1.736,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Mendichka"
+  },
+  {
+   "nom": "Église Saint-Vincent d'Urrugne",
+   "histoire": "L’église Saint-Vincent est l’église catholique de la commune d’Urrugne, et elle a fait l’objet d’une inscription au titre des monuments historiques depuis le 19 mai 1925.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Inscription au titre des monuments historiques depuis le 19 mai 1925.",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 43.362587,
+   "lon": -1.699486,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Vincent_d%27Urrugne"
+  }
+ ],
+ "sources": [
+  "Urrugne [yʁyɲ] (en basque : Urruña) est une commune française du Pays basque français, dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Urrugne était la seule paroisse entre Nivelle et Bidassoa, et le seigneur d'Urtubie en avait la jurisdiction spirituelle et temporelle. Ciboure obtint son autonomie religieuse en 1555 et se détacha de l'église matrice. Hendaye fit de même en 1598. La maison d'Urtubie devint une vicomté en 1654. Ses possessions s'étendaient sur une partie des terres, moulins, métairies, maisons, vignes et bois des communes d'Urrugne, […]",
+  "Lieu « Villa Mendichka » : La villa Mendichka est une villa de style néobasque située à Urrugne, lieu-dit Goyeiex, dans le département des Pyrénées-Atlantiques.",
+  "Lieu « Villa Mendichka », 1911 : La villa est construite en 1911 en position dominante par l'architecte Henri Godbarge pour la famille Roland-Gosselin.",
+  "Lieu « Villa Mendichka », 1993 : Ce bâtiment fait l'objet d’une inscription au titre des monuments historiques depuis le 29 novembre 1993.",
+  "Lieu « Église Saint-Vincent d'Urrugne » : L'église Saint-Vincent est l'église catholique de la commune d’Urrugne, dans le département français des Pyrénées-Atlantiques.",
+  "Lieu « Église Saint-Vincent d'Urrugne », 1925 : L'édifice fait l’objet d’une inscription au titre des monuments historiques depuis le 19 mai 1925."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

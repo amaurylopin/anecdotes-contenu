@@ -1,0 +1,123 @@
+{
+ "commune": {
+  "titre": "Billère",
+  "code_insee": "64129",
+  "departement": "64",
+  "population": 14384,
+  "lat": 43.3031,
+  "lon": -0.39055556,
+  "url": "https://fr.wikipedia.org/wiki/Bill%C3%A8re"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:30:58",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1306,
+  "sortie": 845
+ },
+ "cout_usd": 0.001317,
+ "accroche": "En 1385, Billère comptait onze feux et dépendait du bailliage de Pau.",
+ "histoire": {
+  "recit": "Billère, prononcé [bijɛʁ] et dit Vilhèra ou Bilhère en béarnais, a d’abord été un petit ensemble de maisons, recensées en 1385 au nombre de onze, sous la dépendance du bailliage de Pau. Bien plus tard, le sport imprime sa marque : le Pau Golf Club s’y installe dès 1856, et son parcours devient un repère au bord du gave de Pau. Quand d’autres golfs ouvrent ailleurs, Billère garde sa singularité pendant plusieurs décennies. Enfin, la langue régionale trouve aussi un relais : l’Institut occitan Aquitaine est fondé en 1996 pour défendre et promouvoir le parler régional des Pyrénées-Atlantiques.",
+  "chronologie": [
+   {
+    "date": "1385",
+    "texte": "Billère compte onze feux et dépend du bailliage de Pau.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1856",
+    "texte": "Le Pau Golf Club est fondé sur la commune de Billère.",
+    "sources": [
+     "S4",
+     "S3"
+    ]
+   },
+   {
+    "date": "1887",
+    "texte": "Le Pau Golf Club cesse d’être le seul golf de France, après l’ouverture à Dinard.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1996",
+    "texte": "L’Institut occitan Aquitaine est fondé pour défendre et promouvoir la langue régionale dans le département.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pau Golf Club",
+   "histoire": "Installé sur la commune de Billère en limite de Pau, le Pau Golf Club est fondé en 1856.",
+   "anecdotes": [
+    {
+     "texte": "En 1856, il est présenté comme le plus ancien club d’Europe continentale et le premier parcours ouvert en dehors d’Écosse.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Pendant plus de trente ans, il reste le seul golf de France avant l’ouverture de Dinard en 1887, puis celle de Biarritz (Golf du Phare) en 1888.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le parcours est aujourd’hui un par 69 installé le long du gave de Pau.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S7"
+   ],
+   "lat": 43.296238,
+   "lon": -0.392874,
+   "url": "https://fr.wikipedia.org/wiki/Pau_Golf_Club"
+  },
+  {
+   "nom": "Institut occitan Aquitaine",
+   "histoire": "Organisme fondé en 1996 à l’initiative du Conseil général des Pyrénées-Atlantiques pour défendre et promouvoir la langue régionale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9"
+   ],
+   "lat": 43.305058,
+   "lon": -0.393236,
+   "url": "https://fr.wikipedia.org/wiki/Institut_occitan_Aquitaine"
+  }
+ ],
+ "sources": [
+  "Billère (prononcé [bijɛʁ] ; en béarnais Vilhèra ou Bilhère) est une commune française, située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine. Le gentilé est Billérois.",
+  "Paul Raymond note qu'en 1385, Billère comptait onze feux et dépendait du bailliage de Pau. Ces premiers feux ou \"ostaus\". Ces 11 premières maisons billéroises étaient celles de : de la Sale, domenger ; de Montaut de Dominjoo ; de Condor d'Endre ; de P. de Horgues ; d'Arnauto de Nergassie ; de Berdolet de Bori ; d'Arnaut de Centva ; de Sabent ; d'Arnault Guilem de Vinhau ; D'Arnault Guilhem de Claverie ; de Bertran […]",
+  "Lieu « Pau Golf Club » : Le Pau Golf Club est un club de golf situé sur la commune de Billère en limite de Pau.",
+  "Lieu « Pau Golf Club », 1856 : Fondé en 1856, il est le plus ancien club d'Europe continentale et le premier parcours ouvert en dehors d'Écosse.",
+  "Lieu « Pau Golf Club », 1887 : Le PGC restera le seul golf de France pendant plus de 30 ans, jusqu'à l'ouverture des golfs de Dinard en 1887 et de Biarritz (Golf du Phare) en 1888.",
+  "Lieu « Pau Golf Club », 1890 : Le golf d'Argelès-Gazost est fondé en 1890, mais n'existe plus de nos jours.",
+  "Lieu « Pau Golf Club », aujourd'hui : Le parcours est aujourd'hui un par 69 installé le long du gave de Pau.",
+  "Lieu « Institut occitan Aquitaine » : L'Institut occitan (officiellement Institut occitan (InOc) Aquitaine) est un organisme fondé en 1996 à l'initiative du Conseil général des Pyrénées-Atlantiques pour défendre et promouvoir la langue régionale dans le département.",
+  "Lieu « Institut occitan Aquitaine », 1996 : L'Institut occitan (officiellement Institut occitan (InOc) Aquitaine) est un organisme fondé en 1996 à l'initiative du Conseil général des Pyrénées-Atlantiques pour défendre et promouvoir la langue régionale dans le département."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

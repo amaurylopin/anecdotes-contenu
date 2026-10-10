@@ -1,0 +1,259 @@
+{
+ "commune": {
+  "titre": "Biarritz",
+  "code_insee": "64122",
+  "departement": "64",
+  "population": 26206,
+  "lat": 43.4817,
+  "lon": -1.55611111,
+  "url": "https://fr.wikipedia.org/wiki/Biarritz"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:57:33",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 2,
+ "tokens": {
+  "entree": 3517,
+  "sortie": 2141
+ },
+ "cout_usd": 0.006885,
+ "accroche": "Biarritz s’ouvre sur l’océan Atlantique avec une façade maritime de 4 kilomètres, dans le creux du golfe de Gascogne.",
+ "histoire": {
+  "recit": "Biarritz, au bord de l’Atlantique, a gardé des traces de fréquentations très anciennes : le vallon de Chabiague a révélé des passages au Paléolithique, tandis que d’autres secteurs portent aussi des traces plus anciennes encore.\n\nAu XXe siècle, la ville s’est trouvée entraînée dans des projets et des chocs successifs : en 1929, un laboratoire hydrodynamique est construit, mais la crise interrompt l’élan. Fin 1942, l’Organisation Todt s’installe à l’hôtel Régina et, avec le capitaine Ludwig, prépare un poste de commandement codé BA 39-40. Le 27 mars 1944, Biarritz subit un bombardement.\n\nAprès la libération, l’université américaine de Biarritz est accueillie pendant quelques mois, avant que l’ensemble ne ferme à partir de 1953.\n\nDans la ville, plusieurs lieux racontent ces métamorphoses : l’hôtel du Palais passe de villa impériale à hôtel-casino, le château de Françon change de fonctions, et la gare de Biarritz-Ville devient un centre d’art et de loisirs.",
+  "chronologie": [
+   {
+    "date": "1929",
+    "texte": "Construction du laboratoire hydrodynamique de Biarritz, interrompue par la crise de 1929.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Fin 1942",
+    "texte": "Conception du poste de commandement du plateau de l’Atalaye, codé BA 39-40, avec l’Organisation Todt installée à l’hôtel Régina.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "27 mars 1944",
+    "texte": "Bombardement de la ville par la deuxième vague de bombardiers de l’aviation alliée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "22 août 1945",
+    "texte": "Inauguration de l’université américaine de Biarritz, destinée à former les soldats après la victoire alliée en Europe.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "à partir de 1953",
+    "texte": "Fermeture des établissements accueillis après la libération.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1968",
+    "texte": "Rasement des établissements fermés à partir de 1953.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Françon",
+   "histoire": "Construit dans le dernier quart du XIXe siècle, le château de Françon (ou domaine de Françon) a été confié aux architectes Ralph Selden Wornum et Edward Salomo. Vendu en 1948, il devient centre d’accueil en 1985, puis plusieurs pièces sont classées au titre des monuments historiques à partir de 1999.",
+   "anecdotes": [
+    {
+     "texte": "Le parc d’autrefois, estimé à 50 hectares, avait accueilli de nombreuses essences végétales exotiques, dont certaines existent encore.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un parc d’autrefois, riche en essences exotiques, a laissé subsister quelques-unes des plantations.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.462,
+   "lon": -1.55988,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Fran%C3%A7on"
+  },
+  {
+   "nom": "Hôtel du Palais",
+   "histoire": "À l’origine, l’hôtel du Palais est la villa Eugénie, résidence impériale construite en 1854-1855. En 1881, elle devient un hôtel-casino sous le nom de Palais Biarritz, puis un incendie en février 1903 entraîne une reconstruction par Édouard-Jean Niermans.",
+   "anecdotes": [
+    {
+     "texte": "La reconstruction du Palais Biarritz a été attribuée à une difficulté de suivi de chantier, liée à l’incompétence de Durand.",
+     "statut": "conteste",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 43.486698,
+   "lon": -1.55639,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_du_Palais"
+  },
+  {
+   "nom": "Château Gramont (Biarritz)",
+   "histoire": "Le château Gramont date de 1866. L’édifice porte le nom de son propriétaire au XVIIIe siècle, puis il est reconstruit en 1866 par la volonté de Jules Labat. Aujourd’hui, la demeure a été restructurée dans les années 1980 et compte plusieurs appartements.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château a été restructuré dans les années 1980 et compte plusieurs appartements.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 43.47486528,
+   "lon": -1.55679972,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Gramont_%28Biarritz%29"
+  },
+  {
+   "nom": "Château Boulart",
+   "histoire": "Le château Boulart est une demeure privée située à Biarritz. Napoléon III y fait construire la Villa Eugénie à partir de 1854, avant sa destruction par un incendie en 1903. Les façades et la toiture sont inscrites à l’Inventaire supplémentaire en 1975. Le château conserve aussi ses caractéristiques architecturales d’origine.",
+   "anecdotes": [
+    {
+     "texte": "La Villa Eugénie, construite à partir de 1854, est détruite par un incendie en 1903.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Conçu dans un style éclectique du dernier quart du XIXe siècle, il conserve l’intégralité des caractéristiques architecturales et des éléments décoratifs majeurs de la construction d’origine.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 43.475,
+   "lon": -1.55899,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Boulart"
+  },
+  {
+   "nom": "Gare de Biarritz-Ville",
+   "histoire": "La gare de Biarritz-Ville, sur la commune de Biarritz, est mise en service en 1911 et fermée au service ferroviaire en 1980. L’ancien bâtiment voyageurs, dû à l’architecte Adolphe Dervaux, est transformé en centre d’art et de loisirs inauguré en 1990.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment voyageurs est devenu un centre d’art et de loisirs inauguré en 1990.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 43.4795166,
+   "lon": -1.5582401,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Biarritz-Ville"
+  },
+  {
+   "nom": "Église Sainte-Eugénie de Biarritz",
+   "histoire": "Une chapelle dédiée à sainte Eugénie est inaugurée en 1856. Le clocher commence en 1927 et les cloches sont installées en 1931. Aujourd’hui, l’église accueille des expositions d’art de la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle accueille des expositions d’art de la ville.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 43.482823,
+   "lon": -1.564674,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Eug%C3%A9nie_de_Biarritz"
+  },
+  {
+   "nom": "Sommet du G7 de 2019",
+   "histoire": "Le sommet du G7 de 2019 a lieu à Biarritz du 24 au 26 août 2019. Entre octobre 2018 et juin 2019, des chantiers de rénovation ont entraîné une fermeture temporaire. En 2019, l’Amazonie occupe une place importante dans les échanges entre dirigeants en lien avec les incendies mentionnés.",
+   "anecdotes": [
+    {
+     "texte": "En août 2019, les incendies ravageant l’Amazonie sont cités comme raison d’une attention particulière à ce sujet dans les échanges du G7.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 43.4806,
+   "lon": -1.5572,
+   "url": "https://fr.wikipedia.org/wiki/Sommet_du_G7_de_2019"
+  },
+  {
+   "nom": "Chambre d'Amour",
+   "histoire": "La chambre d’Amour est un segment de la Côte d’Argent qui s’achève à Anglet. En 1920, la ligne aérienne Biarritz - Bilbao ouvre, puis est abandonnée en 1922 avec l’ouverture de l’aérodrome de Biarritz Parme. En 1928, un grand établissement de bains est construit à la chambre d’Amour. En 1930, la villa Zippa est appelée à être démolie pour une question de sécurité.",
+   "anecdotes": [
+    {
+     "texte": "La villa Zippa, construite sur une mini presqu’île face à l’océan, est appelée à être démolie en 1930 pour une question de sécurité.",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 43.493997,
+   "lon": -1.547402,
+   "url": "https://fr.wikipedia.org/wiki/Chambre_d%27Amour"
+  }
+ ],
+ "sources": [
+  "Biarritz (prononcé [bja.ʁits] ; en occitan gascon Biàrritz, en basque Biarritz ou Miarritze) est une commune française située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine, dans le Sud-Ouest de la France. Bordée par l'océan Atlantique, la ville dispose d'une façade maritime longue de 4 kilomètres, dans le creux du golfe de Gascogne, à moins de 25 kilomètres de la frontière avec l'Espagne. […]",
+  "La présence d’ancêtres préhistoriques est attestée en plusieurs endroits de la localité. Le vallon de Chabiague a révélé la fréquentation du site au Paléolithique, durant le Moustérien, soit environ 300 000 à 30 000 avant le présent (BP) et l’Aurignacien (environ 39 000 à 28 000 BP). De même, sur les sites du Mouligna et du bois de Boulogne sont avérées des traces datant du Würmien moyen (50 000 à 30 000 BP) et du […]",
+  "1929 : Le laboratoire hydrodynamique de Biarritz fut alors construit, jusqu'à ce que la crise de 1929 interrompe le projet.",
+  "1942 : Fin 1942, le capitaine de corvette Ludwig, commandant le 286e groupe d'artillerie de marine, projette et conçoit avec l'Organisation Todt, installée à l'hôtel Régina, le poste de commandement du plateau de l'Atalaye codé BA 39-40.",
+  "1944 : Le 27 mars 1944, la ville est bombardée par la deuxième vague de bombardiers de l'aviation alliée, en route pour détruire l'aéroport de Parme, la DCA allemande ayant abattu un appareil lors du premier survol.",
+  "1945 : Après la libération, la ville accueille pendant quelques mois l'université américaine de Biarritz, inaugurée le 22 août 1945, qui vise à former les soldats après la victoire alliée en Europe.",
+  "1953 : Ces établissements furent fermés à partir de 1953 et rasés en 1968.",
+  "Lieu « Château de Françon » : Le château de Françon (ou « domaine de Françon ») est un édifice dont la construction, dans le dernier quart du XIXe siècle, fut confiée aux architectes Ralph Selden Wornum et Edward Salomo.",
+  "Lieu « Château de Françon », XIXe siècle : Le château de Françon (ou « domaine de Françon ») est un édifice dont la construction, dans le dernier quart du XIXe siècle, fut confiée aux architectes Ralph Selden Wornum et Edward Salomo.",
+  "Lieu « Château de Françon », 1948 : Le château de Françon a été vendu à la Caisse nationale des allocations familiales en 1948, et a été transformé en centre d'accueil en 1985.",
+  "Lieu « Château de Françon », 1999 : Certaines pièces du château sont classées par les monuments historiques depuis 1999 alors que tous les éléments bâtis sont inscrits par arrêté du 31 décembre 1993, modifié par arrêté du 20 juin 1994.",
+  "Lieu « Château de Françon », aujourd'hui : Le château était entouré d'un vaste parc d'autrefois 50 hectares soit 50 000 mètres carrés où ont été importées de nombreuses essences végétales exotiques et dont certaines existent encore de nos jours.",
+  "Lieu « Hôtel du Palais » : L'hôtel du Palais est un hôtel de luxe situé sur la commune de Biarritz, au Pays basque, dans le département français des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Hôtel du Palais », 1854 : À l'origine, l'édifice est, sous le nom de Villa Eugénie, une résidence impériale de Napoléon III et Eugénie de Montijo, construite en 1854-1855 dans le style Louis XIII en brique et pierre.",
+  "Lieu « Hôtel du Palais », 1881 : En 1881, l'impératrice déchue se sépare de ce palais de bord de mer, qui est transformé en hôtel-casino sous le nom de Palais Biarritz.",
+  "Lieu « Hôtel du Palais », 1903 : Incendié en février 1903, il est rebâti et augmenté sur les murs de l'ancienne villa par Édouard-Jean Niermans, qui en fait un hôtel de luxe.",
+  "Lieu « Hôtel du Palais », aujourd'hui : Ce remplacement est dû à l'incompétence de Durand qui peine à suivre le chantier.",
+  "Lieu « Château Gramont (Biarritz) » : Le château Gramont (ou « château de Gramont » ou encore « château de Grammont ») est un édifice datant de 1866 et situé à Biarritz, dans le département français des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Château Gramont (Biarritz) », XVIIIe siècle : L'édifice porte le nom de son propriétaire au XVIIIe siècle, Jacques Barthélémy Gramont de Castéra, ancien maire de Bordeaux.",
+  "Lieu « Château Gramont (Biarritz) », 1866 : Le château Gramont (ou « château de Gramont » ou encore « château de Grammont ») est un édifice datant de 1866 et situé à Biarritz, dans le département français des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Château Gramont (Biarritz) », 1866 : Héritage précieux de Biarritz, il est en réalité reconstruit en 1866 par la volonté de son propriétaire Jules Labat, qui fut maire de Bayonne.",
+  "Lieu « Château Gramont (Biarritz) », aujourd'hui : La demeure fut restructurée dans les années 1980 et compte aujourd'hui plusieurs appartements.",
+  "Lieu « Château Boulart » : Demeure privée, le château Boulart s'élève à une hauteur de soixante-trois mètres d’altitude à Biarritz, dans le département français des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Château Boulart », 1854 : Napoléon III y a fait construire la Villa Eugénie à partir de 1854 (elle sera détruite par un incendie en 1903).",
+  "Lieu « Château Boulart », 1871 : L’incendie que provoque la Commune de Paris en 1871 dévaste une grande partie du Palais de Justice dont la Cour de Cassation à peine achevée, et Duc en entreprend alors la reconstruction.",
+  "Lieu « Château Boulart », 1975 : Les façades et la toiture du bâtiment ont été inscrites à l’Inventaire supplémentaire des monuments historiques le 29 octobre 1975.",
+  "Lieu « Château Boulart », aujourd'hui : Conçu dans le style éclectique qui a cours dans le dernier quart du XIXe siècle par l’un des architectes du Palais de Justice à Paris, Joseph Louis Duc, il conserve aujourd’hui l’intégralité des caractéristiques architecturales et les éléments décoratifs majeurs de la construction d’origine.",
+  "Lieu « Gare de Biarritz-Ville » : La gare de Biarritz-Ville est une gare ferroviaire française fermée de la ligne de Biarritz-la-Négresse à Biarritz-Ville, située sur la commune de Biarritz dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Biarritz-Ville », 1911 : Mise en service en 1911 par la Compagnie des chemins de fer du Midi, elle est fermée au service ferroviaire en 1980.",
+  "Lieu « Gare de Biarritz-Ville », 1911 : Afin de mieux desservir le centre-ville de Biarritz, un embranchement de 3,5 kilomètres est ouvert le 28 février 1911 entre la gare de la Négresse (actuelle gare de Biarritz), située sur la ligne d'Espagne (ligne de Bordeaux-Saint-Jean à Irun), et cette nouvelle gare, baptisée Biarritz-Ville, située sur le plateau de Montloris.",
+  "Lieu « Gare de Biarritz-Ville », 1990 : L'ancien bâtiment voyageurs, dû à l'architecte Adolphe Dervaux, est transformé en un « centre d'art et de loisirs » inauguré en 1990.",
+  "Lieu « Gare de Biarritz-Ville », aujourd'hui : Le 10 août 1900 l'étude de la ligne est confiée aux ingénieurs de l'État du service des chemins de fer d'intérêt général du département qui procèdent au lever de plan nécessaires pour fixer l'emplacement de la future gare terminus de Biarritz-Ville.",
+  "Lieu « Église Sainte-Eugénie de Biarritz » : L'église Sainte-Eugénie est située à Biarritz, dans les Pyrénées-Atlantiques.",
+  "Lieu « Église Sainte-Eugénie de Biarritz », 1856 : Une chapelle dédiée à sainte Eugénie, patronne de l'Impératrice des Français, fut inaugurée en 1856.",
+  "Lieu « Église Sainte-Eugénie de Biarritz », 1927 : La construction du clocher a commencé en 1927 et les cloches y furent installées en 1931.",
+  "Lieu « Église Sainte-Eugénie de Biarritz », aujourd'hui : Aujourd'hui elle accueille des expositions d'art de la ville.",
+  "Lieu « Sommet du G7 de 2019 » : Le sommet du G7 2019 a lieu du 24 au 26 août 2019 à Biarritz, en France.",
+  "Lieu « Sommet du G7 de 2019 », 2018 : D'octobre 2018 à juin 2019, d'importants chantiers de rénovation du bâtiment, ayant entraîné sa fermeture temporaire, sont réalisés.",
+  "Lieu « Sommet du G7 de 2019 », 2019 : En raison de la gravité des incendies qui ravagent l’Amazonie en août 2019 et du fait que le Brésil et la France touchent cette forêt (via la Guyane), l'Amazonie a pris une place importante dans les échanges entre les dirigeants du G7.",
+  "Lieu « Sommet du G7 de 2019 », aujourd'hui : Sa porte-parole Natasha Bertaud a annoncé qu'il ne pourrait pas assister au G7 : « L'opération s'est bien passée et il est actuellement en convalescence à l'hôpital.",
+  "Lieu « Chambre d'Amour » : La chambre d’Amour (basque : Amodio ganbera) est l'ultime segment de la Côte d'Argent, qui s'achève à Anglet, dans le département français des Pyrénées-Atlantiques, au Pays basque.",
+  "Lieu « Chambre d'Amour », 1920 : La ligne aérienne Biarritz - Bilbao ouvre en 1920 avant d'être abandonnée en 1922 avec l'ouverture de l'aérodrome de Biarritz Parme.",
+  "Lieu « Chambre d'Amour », 1928 : En 1928, un grand établissement de bains est construit à la Chambre d'Amour.",
+  "Lieu « Chambre d'Amour », 1930 : En 1930, la villa Zippa du docteur Gentilhe construite au début du siècle sur une mini presqu'île face à l'océan doit être démolie pour une question de sécurité."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

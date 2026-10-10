@@ -1,0 +1,234 @@
+{
+ "commune": {
+  "titre": "Hendaye",
+  "code_insee": "64260",
+  "departement": "64",
+  "population": 18102,
+  "lat": 43.3594,
+  "lon": -1.77333333,
+  "url": "https://fr.wikipedia.org/wiki/Hendaye"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:15:56",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3252,
+  "sortie": 1261
+ },
+ "cout_usd": 0.002227,
+ "accroche": "En 1659, sur l’île des Faisans, le roi Louis XIV rencontre le roi d’Espagne et sont signés le traité des Pyrénées. ",
+ "histoire": {
+  "recit": "Hendaye, dernière ville côtière avant l’Espagne, vit au rythme de sa frontière : d’abord au spirituel, puis au fil des traités et des événements.\n\nEn 1598, les habitants obtiennent le droit de construire leur propre église, se détachant de celle d’Urrugne, permission accordée par l’évêque Bertrand d’Etchaux. Plus tard, l’île des Faisans, au milieu de la Bidassoa, devient un lieu décisif : en 1659, les rois de France et d’Espagne s’y rencontrent, avec la signature du traité des Pyrénées.\n\nLa ville connaît aussi des moments d’ombre : le 23 octobre 1940, l’entrevue entre Hitler et le général Franco a lieu à la gare d’Hendaye. Et, près de la côte, l’héritage du tourisme et des sciences se lit dans ses bâtiments : le château-observatoire Abbadia, la maison de Pierre Loti et l’ancien casino, aujourd’hui encore reconnaissables au détour de la baie de Txingudi.",
+  "chronologie": [
+   {
+    "date": "1598",
+    "texte": "Hendaye obtient le droit de construire sa propre église et se détache de celle d’Urrugne, avec l’autorisation de l’évêque Bertrand d’Etchaux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1659",
+    "texte": "Sur l’île des Faisans, au milieu de la rivière Bidassoa, Louis XIV rencontre le roi d’Espagne et le traité des Pyrénées est signé.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "23 octobre 1940",
+    "texte": "À la gare d’Hendaye, a lieu l’entrevue entre Hitler et le général Franco.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château d'Abbadia",
+   "histoire": "Le château-observatoire Abbadia, de style néogothique, est situé à Hendaye, en province du Labourd.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10"
+   ],
+   "lat": 43.3775,
+   "lon": -1.74917,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Abbadia"
+  },
+  {
+   "nom": "Ancien casino d'Hendaye",
+   "histoire": "L’ancien casino d’Hendaye, aussi appelé résidence Croisière, est un bâtiment en pierre de taille au style mauresque et orientaliste.",
+   "anecdotes": [
+    {
+     "texte": "Construite pour abriter un établissement de bains et un casino, la résidence Croisière devait servir au développement touristique d’Hendaye.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le bâtiment possède quatre tours aux quatre angles, moins visibles depuis la reconstruction de 1994.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 43.373444,
+   "lon": -1.77425,
+   "url": "https://fr.wikipedia.org/wiki/Ancien_casino_d%27Hendaye"
+  },
+  {
+   "nom": "Maison de Pierre Loti à Hendaye",
+   "histoire": "La maison de Pierre Loti, appelée Bakharetchea (« la maison solitaire »), est celle où l’écrivain réside lors de sa période basque.",
+   "anecdotes": [
+    {
+     "texte": "Avant de l’acquérir, Pierre Loti lui donne le nom de Bakharetchea, évoquant « la maison solitaire » parce que sa seule grande ouverture donne sur la baie de Txingudi.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est bien visible sur la demi-tour de droite, qui servait de belvédère à l’hôte.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 43.36006667,
+   "lon": -1.776925,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_Pierre_Loti_%C3%A0_Hendaye"
+  },
+  {
+   "nom": "Irun",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "En 1659, la Paix des Pyrénées entre la France et l’Espagne est signée dans l’Île des Faisans (Béhobie).",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26"
+   ],
+   "lat": 43.337814,
+   "lon": -1.788811,
+   "url": "https://fr.wikipedia.org/wiki/Irun"
+  },
+  {
+   "nom": "Gare d'Hendaye (Euskotren Trena)",
+   "histoire": "La gare d’Hendaye (Hendaia) est une gare ferroviaire située dans la commune française d’Hendaye.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30"
+   ],
+   "lat": 43.352473,
+   "lon": -1.782213,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Hendaye_%28Euskotren_Trena%29"
+  },
+  {
+   "nom": "Villa Mauresque (Hendaye)",
+   "histoire": "La villa Mauresque, inscrite monument historique depuis 2010, a été détruite par les armées espagnoles en 1793 puis transformée dans les années 1950 en villa d’été avec son aspect actuel.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 43.36,
+   "lon": -1.7771,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Mauresque_%28Hendaye%29"
+  },
+  {
+   "nom": "Fontarrabie",
+   "histoire": "Fontarrabie, sur la rive gauche de la Bidassoa, est une commune du Guipuscoa, à la frontière franco-espagnole.",
+   "anecdotes": [
+    {
+     "texte": "En 1639, la ville est à nouveau assiégée et cette fois prise, l’ingénieur Pierre de Conty d'Argencour participant du côté français.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Baignée au nord par la mer Cantabrique et à l’est par la baie de Txingudi, la ville est aujourd’hui une station touristique appréciée pour ses plages sur l’estuaire.",
+   "sources": [
+    "S39"
+   ],
+   "lat": 43.3624372,
+   "lon": -1.7914777,
+   "url": "https://fr.wikipedia.org/wiki/Fontarrabie"
+  },
+  {
+   "nom": "Aéroport de Saint-Sébastien",
+   "histoire": "L’aéroport de Saint-Sébastien est un aéroport espagnol situé sur la commune de Fontarra et distant de 22 km de Saint-Sébastien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Parmi les compagnies opérant actuellement, on trouve Iberia (via Air Nostrum), Binter Canarias, Volotea et Vueling.",
+   "sources": [
+    "S5",
+    "S9"
+   ],
+   "lat": 43.356561,
+   "lon": -1.790578,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Saint-S%C3%A9bastien"
+  }
+ ],
+ "sources": [
+  "Hendaye (/ɑ̃.daj/ ; en basque : Hendaia) est une commune du Pays basque français, dans le département des Pyrénées-Atlantiques, en région Nouvelle-Aquitaine. Elle est à la pointe sud-ouest de la France et la dernière ville côtière avant l'Espagne. Les habitants sont appelés les Hendayais (ou Hendaiar en basque).",
+  "En 1598, Hendaye obtint le droit de construire sa propre église, et se détacha de celle d'Urrugne. L'autorisation lui fut accordée par l'évêque Bertrand d'Etchaux : « Comme soit ainsi qu'en l'année mil cinq cens quatre-vingt dix huit, les habitants du lieu de Hendaye qui dépendoient tant au spirituel qu'au temporel de la paroisse d'Urrugne, eussent obtenu permission de construire une église à part pour la commodité […]",
+  "1659 : C'est sur l'île des Faisans au milieu de la rivière Bidassoa que le roi Louis XIV rencontra le roi d’Espagne et que furent signés le traité des Pyrénées en 1659 et plus tard le contrat de mariage entre Louis XIV et l'infante Marie-Thérèse.",
+  "1940 : C'est à la gare d'Hendaye qu'eut lieu, le 23 octobre 1940, l'entrevue entre Hitler et le général Franco, ce dernier respectant l'engagement pris lors des accords Bérard-Jordana signés le 25 février 1939 et réaffirmant le non-engagement de son pays dans la Seconde Guerre mondiale.",
+  "Lieu « Aéroport de Saint-Sébastien » : L'aéroport de Saint-Sébastien (Aeropuerto de San Sebastián en espagnol, Donostia-Hondarribiko aireportua en basque) (code IATA : EAS • code OACI : LESO) est un aéroport espagnol situé à 22 km de la ville de Saint-Sébastien, sur la commune de Fontarra",
+  "Lieu « Aéroport de Saint-Sébastien », 1955 : L'aéroport a été inauguré le 22 août 1955 et ouvert officiellement au trafic le 29 août 1955.",
+  "Lieu « Aéroport de Saint-Sébastien », 1964 : Entre 1964 et 1965, le parking pour avions a été agrandi, la tour de contrôle a été construite et l'aéroport prit officiellement son nom actuel.",
+  "Lieu « Aéroport de Saint-Sébastien », 1969 : En décembre 1969, l'aéroport a été fermé pour allonger la piste à sa longueur actuelle de 1 754 mètres.",
+  "Lieu « Aéroport de Saint-Sébastien », aujourd'hui : Iberia, par l’intermédiaire de sa filiale Air Nostrum, Binter Canarias, Volotea et Vueling sont les principales compagnies qui opèrent actuellement sur l'aéroport.",
+  "Lieu « Château d'Abbadia » : Le château-observatoire Abbadia est de style néogothique, situé sur la commune d'Hendaye (Pyrénées-Atlantiques), dans la province du Labourd (à 6 km de Saint-Jean-de-Luz et 1 km d'Hendaye).",
+  "Lieu « Château d'Abbadia », 1858 : En 1858, un premier observatoire astronomique circulaire est construit ; il sera détruit par la suite et remplacé par l’actuel bâtiment parallélépipédique.",
+  "Lieu « Château d'Abbadia », 1897 : En 1897, à la mort d'Antoine d'Abbadie, le château est légué à l'Académie des Sciences, toujours propriétaire.",
+  "Lieu « Château d'Abbadia », 1979 : Les premières parcelles sont acquises par le conservatoire en 1979, une convention de gestion est signée avec la commune d'Hendaye puis en 2000, le département est associé dans la gestion.",
+  "Lieu « Château d'Abbadia », aujourd'hui : Ils constituent une autre nuance du calcaire de Lasseube acheminé par bateau à travers la Bidassoa et débarquée à Ondarralzu (plage d'Hendaye aujourd’hui endiguée, Cf. la promenade de la baie de Chingoudy).",
+  "Lieu « Ancien casino d'Hendaye » : L'ancien casino d'Hendaye, également connu sous le nom de résidence Croisière, est un bâtiment construit par Alphonse Bertrand en 1884 en pierre de taille dans un style mauresque, orientaliste, typique de l'architecture des villes d'eau de l'époque c",
+  "Lieu « Ancien casino d'Hendaye », 1884 : L'ancien casino d'Hendaye, également connu sous le nom de résidence Croisière, est un bâtiment construit par Alphonse Bertrand en 1884 en pierre de taille dans un style mauresque, orientaliste, typique de l'architecture des villes d'eau de l'époque comme le casino Mauresque d'Arcachon.",
+  "Lieu « Ancien casino d'Hendaye », 1884 : Il a été construit en 1884 par Alphonse Bertrand, également auteur de la Villa Belza à Biarritz, afin d'y abriter un établissement de bains et un casino dans le cadre du développement touristique d'Hendaye.",
+  "Lieu « Ancien casino d'Hendaye », 1914 : En septembre 1914, le bâtiment est mis à la disposition de l'administration militaire et aménagé pour accueillir des blessés.",
+  "Lieu « Ancien casino d'Hendaye », aujourd'hui : Il possède quatre tours aux quatre angles, moins visibles depuis la reconstruction de 1994.",
+  "Lieu « Maison de Pierre Loti à Hendaye » : La maison de Pierre Loti à Hendaye (France), appelée Bakharetchea (« la maison solitaire ») par l'écrivain, est la maison où celui-ci a résidé lors de sa période basque de 1891 à 1923.",
+  "Lieu « Maison de Pierre Loti à Hendaye », 1863 : L'édifice a été construit de 1863 à 1867 pour le compte de Jeanne Marie Jauréguy, cultivatrice à Hendaye, sur les ruines d'un vieux fort réduit à un tronçon de rempart dit « rempart Camino ».",
+  "Lieu « Maison de Pierre Loti à Hendaye », 1903 : Il lui donne le nom de Bakharetchea (en pseudo basque « La maison solitaire » car sa seule grande ouverture est celle sur la baie de Txingudi), avant de l'acquérir le 12 août 1903.",
+  "Lieu « Maison de Pierre Loti à Hendaye », 2010 : Le bâtiment est inscrit au titre des monuments historiques par arrêté du 16 décembre 2010.",
+  "Lieu « Maison de Pierre Loti à Hendaye », aujourd'hui : Il est bien visible sur la demi-tour de droite, laquelle servait de belvédère à l'hôte de la maison.",
+  "Lieu « Irun » : Irun (en espagnol : Irún [i.ˈɾun]) est une commune du Guipuscoa dans la communauté autonome du Pays basque, située dans le Nord de l'Espagne.",
+  "Lieu « Irun », 1659 : En 1659 fut signée dans l'Île des Faisans (Béhobie) la Paix des Pyrénées entre la France et l'Espagne.",
+  "Lieu « Irun », XIXe siècle : Pendant le XIXe siècle, la ville a été détruite par les guerres carlistes.",
+  "Lieu « Irun », 1990 : L'entrée en vigueur du traité de Schengen, au début des années 1990, avec l'ouverture d'un espace européen pour le libre transit des personnes et marchandises dans l'Union Européenne, a été un coup dur pour l'économie irunaise.",
+  "Lieu « Irun », aujourd'hui : Bien que la manière Irún ait été celle qui a traditionnellement favorisée, actuellement la seule dénomination officielle de la municipalité est le basque : Irun.",
+  "Lieu « Gare d'Hendaye (Euskotren Trena) » : La gare d'Hendaye (ou Hendaia (eu)) est une gare ferroviaire située dans la commune française d'Hendaye.",
+  "Lieu « Gare d'Hendaye (Euskotren Trena) », 1912 : La section de Saint-Sébastien à Irun est inaugurée le 5 décembre 1912.",
+  "Lieu « Gare d'Hendaye (Euskotren Trena) », 2019 : Au cours des travaux, la gare a été fermée du 2 au 4 octobre 2019 puis rouverte le lendemain avec un quai provisoire métallique de 80 mètres de longueur.",
+  "Lieu « Gare d'Hendaye (Euskotren Trena) », 2020 : La nouvelle gare, inaugurée le 29 juin 2020, est située en contrebas du boulevard du Général de Gaulle et à environ une vingtaine de mètres au sud de la gare SNCF.",
+  "Lieu « Villa Mauresque (Hendaye) » : La villa Mauresque, inscrite monument historique depuis 2010, est située à Hendaye dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine.",
+  "Lieu « Villa Mauresque (Hendaye) », 1793 : Ce fort, ainsi que la ville d’Andaye furent entièrement détruits par les armées espagnoles en 1793, l’Espagne étant entrée en guerre contre la Révolution française.",
+  "Lieu « Villa Mauresque (Hendaye) », 1950 : Enfin, la fille du docteur Camino, mariée au riche armateur Louis Légasse, la transforme, dans les années 1950, en villa d’été en lui donnant son aspect actuel avec le patio à ciel ouvert.",
+  "Lieu « Fontarrabie » : Fontarrabie (en basque et officiellement: Hondarribia ; en espagnol : Fuenterrabía) est une commune de la province du Guipuscoa dans la communauté autonome du Pays basque en Espagne, située à la frontière franco-espagnole sur la rive gauche de la Bid",
+  "Lieu « Fontarrabie », 1639 : En 1639, la ville est à nouveau assiégée et cette fois prise, l’ingénieur Pierre de Conty d'Argencour participant au siège du côté français.",
+  "Lieu « Fontarrabie », aujourd'hui : Baignée au nord par la mer Cantabrique et à l'est par la baie de Txingudi, Fontarrabie, traditionnellement un port de pêche, est actuellement une station touristique appréciée pour ses plages sur l'estuaire et sa montagne plongeant dans la mer, le Jaizkibel."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}

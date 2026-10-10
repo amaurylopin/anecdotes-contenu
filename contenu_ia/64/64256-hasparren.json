@@ -1,0 +1,104 @@
+{
+ "commune": {
+  "titre": "Hasparren",
+  "code_insee": "64256",
+  "departement": "64",
+  "population": 7626,
+  "lat": 43.3856,
+  "lon": -1.30361111,
+  "url": "https://fr.wikipedia.org/wiki/Hasparren"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:25:26",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1326,
+  "sortie": 862
+ },
+ "cout_usd": 0.001343,
+ "accroche": "En 1660, le monument lié à l’église Saint-Jean-Baptiste d’Hasparren a été découvert dans les fondations du maître-autel, lors de travaux de réfection et d’agrandissement.",
+ "histoire": {
+  "recit": "Hasparren, au Pays basque français, s’ancre dans l’histoire par une inscription latine majeure et par l’église qui a connu découvertes et changements. Sur le relief de l’Ursuya, plusieurs forts protohistoriques ont été installés, et Hasparren apparaît ensuite dans le dossier des inscriptions antiques relatives à la construction de la province de Novempopulanie. Puis, l’ancienne paroisse continue de réserver des surprises : en 1660, un monument est retrouvé au pied même de l’église, sous le maître-autel. Plus tard, le clocher est abattu en 1816, avant une reconstruction à cette même date. L’édifice évolue encore : agrandi en 1661, remanié au XIXe siècle, puis modifié à la fin des années 1960 avec le remplacement du retable.",
+  "chronologie": [
+   {
+    "date": "1660",
+    "texte": "Le monument est découvert dans les fondations du maître-autel de l’ancienne église paroissiale Saint-Jean-Baptiste, pendant des travaux de réfection et d’agrandissement.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1816",
+    "texte": "En rétorsion, l’intendant M. de Néville fait abattre le clocher de l’église d’Hasparren ; il n’est reconstruit qu’en 1816.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Jean-Baptiste d'Hasparren",
+   "histoire": "Église du village d’Hasparren, elle est fondée au XVIe siècle, agrandie en 1661 pour répondre à l’augmentation de la population, puis remaniée au XIXe siècle. En 1835, le chœur et l’abside sont reconstruits et des chapelles sont ajoutées. Vers la fin des années 1960, le retable avec son autel de marbre blanc flanqué de tours est démantelé pour être remplacé par un cube de marbre noir.",
+   "anecdotes": [
+    {
+     "texte": "Lors de travaux sur l’église, le monument est découvert en 1660 dans les fondations du maître-autel de l’ancienne paroissiale.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    },
+    {
+     "texte": "Le clocher est abattu en 1816 en rétorsion, avant d’être reconstruit à cette même date.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "À la fin des années 1960, le retable et l’autel de marbre blanc sont démantelés pour laisser place à un cube de marbre noir.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des vitraux modernes de Jean Lesquinet sont visibles.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 43.384191,
+   "lon": -1.304857,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_d%27Hasparren"
+  }
+ ],
+ "sources": [
+  "Hasparren (prononcé [aspaʁɛ̃] ; Hazparne en basque) est une commune française, située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine. Le gentilé est Hazpandar.",
+  "Relief stratégique pour Hasparren et Macaye, l'Ursuya a hébergé plusieurs forts protohistoriques (gaztelu zahar). Hasparren entre dans l'histoire avec la fameuse inscription lapidaire latine de la « plaque commémorative antique relative à la construction de la province de Novempopulanie ». Elle est référencée dans le CIL (Corpus Inscriptionum Latinarum) sous le numéro XIII, 412 et dans les ILS (Inscriptiones Latinae […]",
+  "1660 : Découverte Le monument a été découvert en 1660 dans les fondations du maître-autel de l'ancienne église paroissiale Saint-Jean-Baptiste, à l'occasion de travaux de réfection et d'agrandissement de l'édifice.",
+  "1816 : En rétorsion, l'intendant, M. de Néville, fit abattre le clocher de l'église de Hasparren, qui ne fut reconstruit qu'en 1816.",
+  "Lieu « Église Saint-Jean-Baptiste d'Hasparren » : L'église Saint-Jean-Baptiste est l'église du village d'Hasparren dans le Pays basque français (Pyrénées-Atlantiques).",
+  "Lieu « Église Saint-Jean-Baptiste d'Hasparren », 1661 : L'église est fondée au XVIe siècle, agrandie en 1661 à cause de l'augmentation de la population et remaniée au XIXe siècle.",
+  "Lieu « Église Saint-Jean-Baptiste d'Hasparren », 1835 : En 1835, c'est le chœur et l'abside qui sont reconstruits, tandis qu'on ajoute des chapelles.",
+  "Lieu « Église Saint-Jean-Baptiste d'Hasparren », 1960 : Le retable avec son autel de marbre blanc flanqué de tours a été démantelé à la fin des années 1960 pour être remplacé par un cube de marbre noir.",
+  "Lieu « Église Saint-Jean-Baptiste d'Hasparren », aujourd'hui : Des vitraux modernes de Jean Lesquinet sont également visibles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 3
+ }
+}

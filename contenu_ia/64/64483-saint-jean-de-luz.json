@@ -1,0 +1,198 @@
+{
+ "commune": {
+  "titre": "Saint-Jean-de-Luz",
+  "code_insee": "64483",
+  "departement": "64",
+  "population": 14857,
+  "lat": 43.3911,
+  "lon": -1.65861111,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Jean-de-Luz"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:28:08",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2327,
+  "sortie": 1439
+ },
+ "cout_usd": 0.002264,
+ "accroche": "En 1558, Saint-Jean-de-Luz subit un incendie qui n’épargna qu’une seule maison, celle où résidait le chef du contingent ibérique ayant occupé la cité.",
+ "histoire": {
+  "recit": "Saint-Jean-de-Luz, prononcée /sɛ̃ ʒɑ̃ də lyz/ et appelée Donibane Lohizune en basque, est née sur des dunes, entre mer et marais, à l’entrée de l’estuaire de la Nivelle, face à la colline de Bordagain. Longtemps, la communauté reste sans enceinte et ne ressemble pas tout à fait à une ville avant l’époque moderne.\n\nAu fil des guerres et des intempéries, elle apprend à protéger son port. En 1749, une terrible tempête ravage le port : 200 maisons sont rasées et plus de la moitié de la population doit quitter la ville. Puis la commune s’équipe : après l’édification de trois digues, Socoa, l’Artha et Sainte-Barbe, les grandes eaux n’envahissent plus aussi systématiquement.\n\nQuand les digues sont abîmées, elles sont reconstruites au XIXe siècle pour assurer la sécurité du port et de la ville. Aujourd’hui, le port de Saint-Jean-de-Luz reste un port de pêche et de plaisance, mais le volume des prises et l’industrie de transformation ont nettement reculé.",
+  "chronologie": [
+   {
+    "date": "1558",
+    "texte": "Un incendie marque la ville : il n’épargne qu’une seule maison, où résidait le chef du contingent ibérique ayant occupé la cité.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1749",
+    "texte": "Une tempête ravage le port : 200 maisons sont rasées et plus de la moitié de la population quitte la ville.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Les digues, souvent détruites, sont reconstruites pour sécuriser définitivement le port et la ville.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Jean-Baptiste de Saint-Jean-de-Luz",
+   "histoire": "Une église romane rassemble déjà, au XIIe siècle, les maisons de la petite ville bâtie entre mer et marais. Ensuite, la ville subit plusieurs incendies et l’église en pâtit dès 1419. Le mur sud est allongé en juin 1660 jusqu’au nouveau chœur, construit en arrière de l’autel. De nos jours, on peut encore voir des vestiges de l’église gothique du XVe siècle : un pilier, plusieurs nervures de pierre et des fenêtres occultées.",
+   "anecdotes": [
+    {
+     "texte": "À l’église, les dommages sont répétés : elle est déjà touchée en 1419, puis encore en 1523, 1542 et 1558 au gré des incendies de la ville.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On peut encore découvrir des vestiges de l’église gothique du XVe siècle : un pilier, plusieurs nervures de pierre, des fenêtres occultées, aux murs ouest et sud.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 43.3883,
+   "lon": -1.662629,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Saint-Jean-de-Luz"
+  },
+  {
+   "nom": "Acotz",
+   "histoire": "Acotz est un quartier de Saint-Jean-de-Luz. En 1924, une liaison relie Bayonne à Hendaye par Guéthary, vers une gare construite par les Voies ferrées du Midi. Aujourd’hui, le quartier présente un paysage de marée où, autrefois, la zone était plus vaste et remplie de boue noire et épaisse à marée basse.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 43.41438,
+   "lon": -1.621125,
+   "url": "https://fr.wikipedia.org/wiki/Acotz"
+  },
+  {
+   "nom": "Cimetière ancien de Saint-Jean-de-Luz",
+   "histoire": "Le cimetière ancien, aussi appelé cimetière du Calvaire ou Aïcé Errota (en basque), est l’un des cimetières communaux. Il ouvre en 1857 sur une hauteur et donne une vue panoramique sur la Rhune au loin.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "lat": 43.3921,
+   "lon": -1.6573,
+   "url": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_ancien_de_Saint-Jean-de-Luz"
+  },
+  {
+   "nom": "Phare de Saint-Jean-de-Luz",
+   "histoire": "Le phare de Saint-Jean-de-Luz (feu aval) signale l’entrée du port. Il est construit en 1936 selon les plans de l’architecte André Pavlovsky, avec son jumeau le phare de Ciboure.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 43.387583,
+   "lon": -1.66889,
+   "url": "https://fr.wikipedia.org/wiki/Phare_de_Saint-Jean-de-Luz"
+  },
+  {
+   "nom": "Maison de l'Infante",
+   "histoire": "La maison de l’Infante, ou maison Joanoenia, est une demeure historique à Saint-Jean-de-Luz. Construite vers 1640 par l’armateur basque Joannot de Haraneder, elle donne sur le port. Elle se remarque par ses tours, ses façades en brique rose et en pierre, et ses deux galeries à l’italienne à cinq arcades sur la façade principale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 43.38773889,
+   "lon": -1.665375,
+   "url": "https://fr.wikipedia.org/wiki/Maison_de_l%27Infante"
+  },
+  {
+   "nom": "Maison Ezkerrenea",
+   "histoire": "La maison Ezkerrenea ou Esquerrénéa est une demeure classée par les monuments historiques depuis 1996. C’est une maison de trois étages entièrement en pierre, présentée comme la seule maison de la ville rescapée de l’incendie provoqué par le siège des Espagnols en 1558.",
+   "anecdotes": [
+    {
+     "texte": "La maison Ezkerrenea est dite la seule maison rescapée du grand incendie lié au siège des Espagnols en 1558.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 43.388607,
+   "lon": -1.664376,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Ezkerrenea"
+  },
+  {
+   "nom": "Port de Saint-Jean-de-Luz",
+   "histoire": "Le port de Saint-Jean-de-Luz est un port de pêche et de plaisance à l’embouchure de la Nivelle, sur les communes de Saint-Jean-de-Luz et Ciboure. Il accueille encore des chalutiers vers l’ouest de l’Afrique et vers les côtes atlantiques d’Amérique du Nord. Si la criée et les activités de mareyage restent importantes, le volume des prises a diminué et l’industrie de transformation et conservation des poissons, jadis prospère, a presque disparu.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 43.387778,
+   "lon": -1.669444,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Saint-Jean-de-Luz"
+  }
+ ],
+ "sources": [
+  "Saint-Jean-de-Luz (prononcé : /sɛ̃ ʒɑ̃ də lyz/ ; en basque : Donibane Lohizune) est une commune française située dans le département des Pyrénées-Atlantiques, en région Nouvelle-Aquitaine. Le gentilé est Luzien (ou Donibandar en basque).",
+  "Saint-Jean-de-Luz ne fut à l'origine qu'une modeste bourgade sur les dunes, entre mer et marais, à l'entrée de l'estuaire de la Nivelle, face à la colline de Bordagain. Jadis propriété des chanoines de la cathédrale de Bayonne, la communauté, bien que devenue autonome, ne posséda jamais d'enceinte ; elle ne fit par conséquent pas véritablement figure de ville avant l'époque moderne. Au XVe siècle, les pêcheurs […]",
+  "1558 : Elle subit notamment, en 1558, un incendie qui n'épargna qu'une seule maison - celle où résidait le chef du contingent ibérique ayant occupé la cité.",
+  "1749 : À la suite de l'édification de ses trois digues (Socoa, l'Artha, et Sainte-Barbe), Saint-Jean-de-Luz ne fut plus systématiquement envahie par les eaux lors des grandes tempêtes, comme cela avait été souvent le cas auparavant (en 1749, une terrible tempête ravagea le port, 200 maisons furent rasées et plus de la moitié de la population avait dû quitter la ville).",
+  "XIXe siècle : Au XIXe siècle, les digues, souvent détruites, furent reconstruites afin d'assurer définitivement la sécurité du port et de la ville.",
+  "Lieu « Église Saint-Jean-Baptiste de Saint-Jean-de-Luz » : L'église Saint-Jean-Baptiste se situe sur la commune de Saint-Jean-de-Luz, dans le département français des Pyrénées-Atlantiques.",
+  "Lieu « Église Saint-Jean-Baptiste de Saint-Jean-de-Luz », XIIe siècle : Au XIIe siècle déjà, une église romane rassemblait autour d'elle les maisons de la petite ville, bâtie entre mer et marais.",
+  "Lieu « Église Saint-Jean-Baptiste de Saint-Jean-de-Luz », 1419 : Au cours des siècles suivants, traversant la domination anglaise, la guerre de Cent Ans, les invasions espagnoles, la ville est plusieurs fois incendiée, et l'église en pâtit, déjà en 1419, puis, sous François Ier, en 1523, 1542, 1558.",
+  "Lieu « Église Saint-Jean-Baptiste de Saint-Jean-de-Luz », 1660 : En juin 1660 déjà, le mur sud a été allongé jusqu'aux murs du nouveau chœur, bâtis à plusieurs mètres en arrière de l'autel existant.",
+  "Lieu « Église Saint-Jean-Baptiste de Saint-Jean-de-Luz », aujourd'hui : On peut encore, de nos jours, découvrir des vestiges de l'église gothique du XVe siècle : un pilier, plusieurs nervures de pierre, des fenêtres occultées, aux murs ouest et sud.",
+  "Lieu « Acotz » : Acotz (en basque Akotz) est un quartier de commune de Saint-Jean-de-Luz dans le département des Pyrénées-Atlantiques.",
+  "Lieu « Acotz », 1924 : Ce dernier reliait en 1924 Bayonne à Hendaye par Guéthary, à la gare construite par les Voies ferrées du Midi.",
+  "Lieu « Acotz », aujourd'hui : Cette dernière était beaucoup plus vaste que de nos jours et remplie de boue noire et épaisse à marée basse.",
+  "Lieu « Cimetière ancien de Saint-Jean-de-Luz » : Le cimetière ancien, cimetière du Calvaire ou Aïcé Errota (en basque), est un des cimetières communaux de la ville de Saint-Jean-de-Luz dans les Pyrénées-Atlantiques.",
+  "Lieu « Cimetière ancien de Saint-Jean-de-Luz », 1857 : Le plus ancien de la ville, il a ouvert en 1857 sur une hauteur et offre une vue panoramique sur la Rhune au loin.",
+  "Lieu « Phare de Saint-Jean-de-Luz » : Le phare de Saint-Jean-de-Luz (feu aval) est un phare signalant l'entrée du port de Saint-Jean-de-Luz, dans le département des Pyrénées-Atlantiques.",
+  "Lieu « Phare de Saint-Jean-de-Luz », 1936 : Il a été construit en 1936 sur des plans de l'architecte André Pavlovsky, avec son jumeau le phare de Ciboure.",
+  "Lieu « Maison de l'Infante » : La maison de l'Infante, ou maison Joanoenia, est une demeure historique située à Saint-Jean-de-Luz dans les Pyrénées-Atlantiques.",
+  "Lieu « Maison de l'Infante », 1640 : Cette demeure patricienne, construite vers 1640 par l'armateur basque Joannot de Haraneder, donne sur le port de Saint-Jean-de-Luz ; elle se remarque par ses tours, ses façades en brique rose et en pierre et ses deux galeries à l'italienne à cinq arcades sur la façade principale.",
+  "Lieu « Maison Ezkerrenea » : La maison Ezkerrenea ou Esquerrénéa est une demeure de Saint-Jean-de-Luz, dans les Pyrénées-Atlantiques, classée par les monuments historiques depuis 1996.",
+  "Lieu « Maison Ezkerrenea », 1558 : Cette maison intégralement en pierre de trois étages est la seule maison de la ville rescapée de l'incendie provoqué par le siège des Espagnols en 1558.",
+  "Lieu « Port de Saint-Jean-de-Luz » : Le port de Saint-Jean-de-Luz est un port de pêche et de plaisance situé sur les communes de Saint-Jean-de-Luz et Ciboure, à l'embouchure de la Nivelle dans le département des Pyrénées-Atlantiques.",
+  "Lieu « Port de Saint-Jean-de-Luz », aujourd'hui : Le port accueille encore des chalutiers à destination de l'ouest de l'Afrique et des côtes atlantiques de l'Amérique du Nord mais, si la criée et les activités de mareyage restent importantes, le volume des prises a diminué et l'industrie de transformation et conservation des poissons, jadis prospère, a quasiment disparu de nos jours."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 2
+ }
+}

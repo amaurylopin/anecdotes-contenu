@@ -1,0 +1,313 @@
+{
+ "commune": {
+  "titre": "Orthez",
+  "code_insee": "64430",
+  "departement": "64",
+  "population": 10881,
+  "lat": 43.4892,
+  "lon": -0.76972222,
+  "url": "https://fr.wikipedia.org/wiki/Orthez"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:50:11",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2605,
+  "sortie": 2175
+ },
+ "cout_usd": 0.00324,
+ "accroche": "En 1566, Jeanne d’Albret y transfère l’académie protestante du Béarn, transformée en université en 1583 par Henri IV.",
+ "histoire": {
+  "recit": "Orthez, en béarnais Ortès, a longtemps vécu entre foi et routes. Les vestiges les plus anciens de la ville ne remontent pas au-delà du XIe siècle : deux églises romanes, l’une dans le bourg Vieux et l’autre encastrée dans l’église Saint-Pierre. \n\nAu temps des choix religieux, Jeanne d’Albret y fait venir l’académie protestante du Béarn, qui deviendra université. Plus tard, la ville se retrouve prise dans les mouvements de la guerre : de 1940 à 1942, la ligne de démarcation installe Orthez en zone occupée, car elle se situe sur un axe routier et ferroviaire. \n\nLa vie économique, elle, change d’échelle après 1957 : la découverte du gisement du gaz de Lacq fait “exploser” le nombre d’Orthéziens. Et dans les rues, les bâtiments continuent de raconter ces bascules, entre un ancien couvent issu de l’Hôtel de Lataste, les vestiges du Château de Moncade, ou la vie publique qui a pris place à La Moutète et aux Arènes d’Orthez.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Les vestiges les plus anciens d’Orthez ne remontent pas au-delà du XIe siècle : deux églises romanes, au bourg Vieux et dans l’église Saint-Pierre.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1566",
+    "texte": "Jeanne d’Albret y transfère l’académie protestante du Béarn.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1583",
+    "texte": "L’académie protestante du Béarn est transformée en université par Henri IV.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1940-1942",
+    "texte": "De 1940 à 1942, la ligne de démarcation place Orthez en zone occupée, du fait de son axe routier et ferroviaire.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "Depuis 1957, la découverte du gisement du gaz de Lacq fait fortement augmenter la population orthézienne.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Hôtel de Lataste",
+   "histoire": "Hôtel particulier datant du XVIIIe siècle, construit en 1780 à l’initiative de Bertrand de Lataste, riche marchand de canne à sucre. Transformé en couvent en 1920 par les sœurs de la Visitation, puis remanié lors de leur installation. Vendu à la famille Nairac en 1896, avant ces transformations. Aujourd’hui, le bâtiment est une copropriété privée.",
+   "anecdotes": [
+    {
+     "texte": "Après la famille Nairac, l’hôtel est remanié en 1920 : les sœurs de la Visitation le transforment en couvent.",
+     "statut": "etabli",
+     "sources": [
+      "S8",
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Copropriété privée.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 43.4869111,
+   "lon": -0.7697444,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Lataste"
+  },
+  {
+   "nom": "Château de Moncade",
+   "histoire": "Ancien château fort, dont les vestiges se dressent rue Moncade. La tour maîtresse (donjon) de forme pentagonale, bâtie vers 1250, compte quatre étages au point le plus élevé de la colline. Le château est vendu en 1796 à un habitant d’Orthez. En 1820, le dernier étage de la tour est détruit, mais il reste 33 m au-dessus du sol. Les vestiges subsistent aujourd’hui rue Moncade.",
+   "anecdotes": [
+    {
+     "texte": "En 1820, le dernier étage de la tour est détruit, sans faire disparaître la hauteur : il reste 33 m au-dessus du sol.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "La tour maîtresse est décrite comme une construction pentagonale et organisée en quatre étages.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Vestiges du château fort rue Moncade.",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 43.491987,
+   "lon": -0.769974,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Moncade"
+  },
+  {
+   "nom": "La Moutète",
+   "histoire": "Halle de marché à Orthez, et ancienne salle de basket-ball. Les arènes de La Moutète sont inaugurées le 10 juillet 1906 sous le mandat du maire Adrien Planté. Les arènes tombent ensuite en désuétude, et des arènes municipales sont construites en 1927 de l’autre côté du Pont-Neuf, en amont du Vieux Pont d’Orthez. Dans une salle construite dans les années 1930, l’Élan béarnais d’Orthez y tient une partie de ses exploits, avant son déménagement à Pau et au Palais des sports de Pau en 1991.",
+   "anecdotes": [
+    {
+     "texte": "Les arènes de La Moutète sont inaugurées le 10 juillet 1906, sous le mandat du maire Adrien Planté.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    },
+    {
+     "texte": "Les arènes de La Moutète tombent peu à peu en désuétude : en 1927, les actuelles Arènes d’Orthez sont construites à proximité du Pont-Neuf.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 43.48777778,
+   "lon": -0.77666667,
+   "url": "https://fr.wikipedia.org/wiki/La_Mout%C3%A8te"
+  },
+  {
+   "nom": "Temple protestant d'Orthez",
+   "histoire": "Édifice religieux protestant réformé situé 20 rue du Général Foy à Orthez. Construit en 1790 et classé monument historique. En 1793, pendant la Terreur, il est désaffecté et transformé en écurie pour la garnison des Hussards. En 1852, l’asile protestant d’Orthez est fondé, recueillant notamment des jeunes orphelines, des vieillards et des malades jusqu’en 1905. Le bâtiment existe encore à la même adresse.",
+   "anecdotes": [
+    {
+     "texte": "En 1793, le temple est désaffecté et transformé en écurie pour les Hussards.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "L’asile protestant d’Orthez accueille des jeunes orphelines, des vieillards et des malades jusqu’en 1905.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Adresse : 20 rue du Général Foy à Orthez.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 43.4909,
+   "lon": -0.7738,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_d%27Orthez"
+  },
+  {
+   "nom": "Église Saint-Pierre d'Orthez",
+   "histoire": "Église catholique de la commune d’Orthez, dans les Pyrénées-Atlantiques. Restaurée puis agrandie en 1865 avec une travée vers l’ouest, et dotée d’un clocher au-dessus du portail d’entrée par l’architecte de la ville Henri d’Arnaudat. En 1870, un orgue est construit : 2 claviers / pédalier et 12 jeux. Des traces de modifications montrent une histoire de construction de la nef plus complexe.",
+   "anecdotes": [
+    {
+     "texte": "En 1870, Aristide Cavaillé-Coll construit un orgue à 2 claviers / pédalier et 12 jeux.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "La nef garderait des traces de modifications, signe d’une histoire plus complexe que sa première forme.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 43.489444,
+   "lon": -0.775278,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_d%27Orthez"
+  },
+  {
+   "nom": "Arènes d'Orthez",
+   "histoire": "Arènes municipales de la commune d’Orthez. La première construction date de 1927 : ce sont des arènes fixes construites en béton, remaniées plusieurs fois depuis leur première inauguration. Elles se présentent aujourd’hui comme des arènes municipales.",
+   "anecdotes": [
+    {
+     "texte": "Construites en 1927, les arènes sont remaniées plusieurs fois depuis leur première inauguration.",
+     "statut": "etabli",
+     "sources": [
+      "S28",
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Arènes municipales.",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 43.4892,
+   "lon": -0.769722222222,
+   "url": "https://fr.wikipedia.org/wiki/Ar%C3%A8nes_d%27Orthez"
+  },
+  {
+   "nom": "Gare d'Orthez",
+   "histoire": "Gare ferroviaire française de la ligne de Toulouse à Bayonne, située sur le territoire de la commune d’Orthez. La gare a été construite au XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 43.484136,
+   "lon": -0.767612,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Orthez"
+  },
+  {
+   "nom": "Vieux Pont d'Orthez",
+   "histoire": "Le Pont Vieux est un pont fortifié du XIIIe siècle situé sur la commune d’Orthez. À l’origine, il était muni de deux tours. Il se distingue aujourd’hui par ses arches inégales et sa tour centrale fortifiée.",
+   "anecdotes": [
+    {
+     "texte": "À l’origine, le pont était muni de deux tours, et il est aujourd’hui reconnaissable à sa tour centrale fortifiée et ses arches inégales.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Arches inégales et tour centrale fortifiée.",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 43.48626784,
+   "lon": -0.7770179,
+   "url": "https://fr.wikipedia.org/wiki/Vieux_Pont_d%27Orthez"
+  }
+ ],
+ "sources": [
+  "Orthez (/ɔʁtɛs/ ; en béarnais : Ortès) est une commune française située dans le département des Pyrénées-Atlantiques, en région Nouvelle-Aquitaine. Le gentilé est Orthézien. Les habitants sont également appelés Suzannais sur la rive gauche aval (du nom de l'ancienne commune rattachée).",
+  "Il ne faut pas confondre la ville d’Orthez avec la vicomté d’Orthe qui recouvrait sous l’ancien régime le territoire de l’actuel canton de Peyrehorade. Les plus anciens vestiges de la ville d’Orthez ne remontent pas au-delà du XIe siècle. Ce sont deux églises romanes qui se trouvent, l’une dans le bourg Vieux (nommé aussi autrefois Bourg du Pont), et l’autre encastrée dans l’église Saint-Pierre. Autour de chacune de […]",
+  "1566 : En 1566, Jeanne d'Albret y a transféré l'académie protestante du Béarn transformée en université en 1583 par Henri IV.",
+  "1940 : Pendant la Seconde Guerre mondiale, de 1940 à 1942, la ligne de démarcation qui coupait le département des Basses-Pyrénées en deux parties intégra la ville en zone occupée par l'armée allemande, du fait de sa position d'axe routier et ferroviaire.",
+  "1957 : Ce n’est qu’à partir de 1957 et la découverte du gisement du gaz de Lacq que le nombre d'Orthéziens a explosé.",
+  "Lieu « Hôtel de Lataste » : L’hôtel de Lataste est un hôtel particulier datant du XVIIIe siècle situé dans la commune de Orthez dans les Pyrénées-Atlantiques.",
+  "Lieu « Hôtel de Lataste », 1780 : Construit en 1780, à l'initiative de Bertrand de Lataste, riche marchand de canne à sucre, il est transformé en couvent en 1920 par les sœurs de la Visitation.",
+  "Lieu « Hôtel de Lataste », 1896 : En 1896, l'hôtel est vendu à la famille Nairac, riches négociants bordelais.",
+  "Lieu « Hôtel de Lataste », 1920 : Le bâtiment fut largement remanié en 1920 par l'installation des sœurs de la Visitation qui le transforment en couvent.",
+  "Lieu « Hôtel de Lataste », aujourd'hui : Il est aujourd'hui une copropriété privée.",
+  "Lieu « Château de Moncade » : Le château de Moncade est un ancien château fort dont les vestiges se dressent rue Moncade, dans la commune française d'Orthez, dans le département des Pyrénées-Atlantiques.",
+  "Lieu « Château de Moncade », 1250 : La tour maîtresse ou donjon de forme pentagonale, bâtie vers 1250, au point le plus élevée de la colline, comporte quatre étages.",
+  "Lieu « Château de Moncade », 1796 : Le château est vendu en 1796 à un habitant d'Orthez.",
+  "Lieu « Château de Moncade », 1820 : Le dernier étage de la tour a été détruit en 1820, mais telle qu'elle subsiste, elle a encore une hauteur de 33 m au-dessus du sol.",
+  "Lieu « Château de Moncade », aujourd'hui : Le château de Moncade est un ancien château fort dont les vestiges se dressent rue Moncade, dans la commune française d'Orthez, dans le département des Pyrénées-Atlantiques.",
+  "Lieu « La Moutète » : La Moutète, est une halle de marché (et une ancienne salle de basket-ball) située dans la ville d'Orthez, en Béarn (France).",
+  "Lieu « La Moutète », 1906 : Les arènes de la Moutète sont inaugurées le 10 juillet 1906, sous le mandat du maire Adrien Planté.",
+  "Lieu « La Moutète », 1927 : Ce arènes tombent peu à peu en désuétude, et les actuelles Arènes d'Orthez sont construites en 1927, de l'autre coté du Pont-Neuf, en amont du Vieux Pont d'Orthez.",
+  "Lieu « La Moutète », 1930 : Construite dans les années 1930, cette salle a été le théatre des exploits de l'Élan béarnais d'Orthez, un des plus grands clubs du basket-ball français, avant son déménagement pour Pau et le Palais des sports de Pau en 1991.",
+  "Lieu « Temple protestant d'Orthez » : Le temple protestant d'Orthez est un édifice religieux protestant réformé situé 20 rue du Général Foy à Orthez, dans les Pyrénées-Atlantiques.",
+  "Lieu « Temple protestant d'Orthez », 1790 : Construit en 1790 et classé monument historique, c'est le plus vieux temple protestant de France parmi ceux reconstruits après l’Édit de tolérance de 1787, dans les territoires qui étaient jusque-là sous le régime de la Révocation de l’Édit de Nantes.",
+  "Lieu « Temple protestant d'Orthez », 1793 : Pendant la Terreur, à partir de 1793, le temple est désaffecté et transformé en écurie pour la garnison des Hussards.",
+  "Lieu « Temple protestant d'Orthez », 1852 : En 1852 est fondée l'« asile protestant » d'Orthez, qui recueille jusqu'en 1905 de jeunes orphelines, des vieillards et des malades.",
+  "Lieu « Église Saint-Pierre d'Orthez » : L'église Saint-Pierre est une église catholique de la commune d'Orthez, dans le département français des Pyrénées-Atlantiques.",
+  "Lieu « Église Saint-Pierre d'Orthez », 1865 : En 1865, l'église est restaurée puis agrandie d'une travée vers l'ouest, et un clocher est construit au-dessus du portail d'entrée par l'architecte de la ville Henri d'Arnaudat.",
+  "Lieu « Église Saint-Pierre d'Orthez », 1870 : En 1870, Aristide Cavaillé-Coll construit un orgue de 2 clavier / pédalier et 12 jeux.",
+  "Lieu « Église Saint-Pierre d'Orthez », aujourd'hui : Cependant, on note des traces de modifications montrant une histoire de la construction de la nef plus complexe.",
+  "Lieu « Arènes d'Orthez » : Les arènes d'Orthez, dont la première construction remonte à 1927, sont les arènes municipales de la commune d'Orthez située dans le département français des Pyrénées-Atlantiques, dans la région Nouvelle-Aquitaine.",
+  "Lieu « Arènes d'Orthez », 1927 : Ce sont des arènes municipales fixes, construites en béton, remaniées plusieurs fois depuis leur première inauguration en 1927.",
+  "Lieu « Gare d'Orthez » : La gare d'Orthez est une gare ferroviaire française de la ligne de Toulouse à Bayonne, située sur le territoire de la commune d'Orthez, dans le département des Pyrénées-Atlantiques, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare d'Orthez », XIXe siècle : La gare a été construite au XIXe siècle.",
+  "Lieu « Vieux Pont d'Orthez » : Le Pont Vieux, situé sur la commune d'Orthez, dans le département français des Pyrénées-Atlantiques, est un pont fortifié du XIIIe siècle.",
+  "Lieu « Vieux Pont d'Orthez », aujourd'hui : À l'origine, le pont était muni de deux tours, il est aujourd'hui remarquable par ses arches inégales et sa tour centrale fortifiée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 11
+ }
+}
