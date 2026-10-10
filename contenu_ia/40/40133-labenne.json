@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Labenne",
+  "code_insee": "40133",
+  "departement": "40",
+  "population": 7183,
+  "lat": 43.5939,
+  "lon": -1.42555556,
+  "url": "https://fr.wikipedia.org/wiki/Labenne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:52",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1047,
+  "sortie": 476
+ },
+ "cout_usd": 0.000804,
+ "accroche": "À Labenne, l’assèchement des marais, lancé au XIXe siècle, a porté le développement de la commune et, durant la Seconde Guerre mondiale, une station radar allemande s’est installée sur la dune.",
+ "histoire": {
+  "recit": "Labenne, en gascon La Vena, est une commune du littoral landais. Avant la Révolution, elle vit surtout d’un rythme pastoral et agricole : on y cultive le maïs, le seigle et le millet, avec un peu de vignobles. Au XIXe siècle, le paysage change de visage : l’assèchement des marais, lancé, puis l’exploitation des forêts de résineux donnent un nouvel élan à la commune. Plus tard, en pleine Seconde Guerre mondiale, une station radar allemande s’installe sur la dune, ajoutant une présence inattendue au bord de l’eau. Labenne garde aussi l’empreinte de ses liaisons locales : elle est la tête de ligne du chemin de fer de Labenne à Seignosse, fermé en 1957. Au centre, l’Église Saint-Nicolas rappelle les reconstructions du XIXe siècle, élevée sur le site d’une église plus ancienne.",
+  "chronologie": [
+   {
+    "date": "XIXe siècle",
+    "texte": "Le développement de Labenne s’accélère grâce à l’assèchement des marais, lancé, et à l’exploitation des forêts de résineux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Seconde Guerre mondiale",
+    "texte": "Une station radar allemande est installée sur la dune.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1957",
+    "texte": "Labenne est la tête de ligne de la ligne de chemin de fer locale de Labenne à Seignosse, fermée en 1957.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Nicolas de Labenne",
+   "histoire": "L’église Saint-Nicolas est un lieu de culte catholique sur la commune. Construite dans la deuxième moitié du XIXe siècle, elle s’élève sur le site d’une église plus ancienne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 43.595369,
+   "lon": -1.426536,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nicolas_de_Labenne"
+  }
+ ],
+ "sources": [
+  "Labenne, (en occitan gascon, La Vena), est une commune française située dans le département des Landes en région Nouvelle-Aquitaine. Le gentilé est Labennais.",
+  "Labenne, commune littorale de la côte landaise s’est développée au XIXe siècle grâce à l’assèchement des marais (lancé par Napoléon III) et à l’exploitation des forêts de résineux. Avant la Révolution, Labenne est un village pastoral et agricole : culture du maïs, du seigle, de millet et d’un peu de vignobles. Durant la Seconde Guerre mondiale, une station radar allemande est installée sur la dune. Elle était […]",
+  "1957 : Labenne était la tête de ligne de la ligne de chemin de fer locale de Labenne à Seignosse fermée en 1957.",
+  "Lieu « Église Saint-Nicolas de Labenne » : L'église Saint-Nicolas est un lieu de culte catholique situé sur la commune de Labenne, dans le département français des Landes.",
+  "Lieu « Église Saint-Nicolas de Labenne », XIXe siècle : Elle a été construite dans la deuxième moitié du XIXe siècle sur le site d'une église plus ancienne."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,291 @@
+{
+ "commune": {
+  "titre": "Capbreton",
+  "code_insee": "40065",
+  "departement": "40",
+  "population": 9184,
+  "lat": 43.64305,
+  "lon": -1.43111,
+  "url": "https://fr.wikipedia.org/wiki/Capbreton"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:06",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2575,
+  "sortie": 1748
+ },
+ "cout_usd": 0.0027,
+ "accroche": "Dans la deuxième moitié du XIIe siècle, le nom de Capbreton apparaît pour la première fois dans les archives de Bayonne.",
+ "histoire": {
+  "recit": "Capbreton, commune des Landes, vit au rythme de son port et de sa façade sur l’océan Atlantique, juste en face de Soorts-Hossegor : les rivières du Bouret et du Boudigau y rejoignent la mer. Son histoire d’échanges s’accroche à celle de Bayonne, longtemps portée par des luttes autour du monopole des échanges sur l’Adour et son débouché maritime.\n\nÀ terre, les traces du sacré se répondent. L’église Saint-Nicolas garde une porte gothique et une pietà polychrome, tandis qu’une tour carrée s’ajoute à l’édifice en 1540. Puis la silhouette bascule : touchée par la foudre entre le 19 et le 20 février 1824, la tour est remplacée en 1826 par une tour ronde, en forme de phare.\n\nSur le rivage, la chapelle Sainte-Thérèse se fixe pour le quartier de la plage : construite en 1907 par Louis Gomez pour Raymond de Laborde, elle devient ensuite nécessaire après qu’on a jugé l’église Saint-Nicolas trop éloignée.\n\nEt tout près du port, deux phares guident les approches : l’un installe un premier feu fixe rouge vers 1872, et une tour en pierre s’achève en 1948 avec sa lanterne peinte en vert.",
+  "chronologie": [
+   {
+    "date": "Deuxième moitié du XIIe siècle",
+    "texte": "Le nom de Capbreton apparaît pour la première fois dans les archives de Bayonne, dans un contexte de rivalités commerciales liées à l’Adour et à son débouché maritime.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1483",
+    "texte": "La cloche de Saint-Jean de Bouret est fondue en bronze, provenant de l’ancienne chapelle templière de Sainte-Marie-Madeleine-de-Bouret.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1540",
+    "texte": "Une tour carrée, bâtie avec des pierres de l’ancienne église, est ajoutée à l’édifice Saint-Nicolas.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "19 et 20 février 1824",
+    "texte": "La tour de l’église est touchée par la foudre.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1826",
+    "texte": "La tour est remplacée par une tour ronde, en forme de phare, qui fait l’originalité de l’église.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "La chapelle Sainte-Thérèse est construite en 1907 par Louis Gomez pour l’écrivain Raymond de Laborde.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "Fin avril 1921",
+    "texte": "Son supérieur sollicite l’autorisation de bâtir une chapelle, car l’église Saint-Nicolas est trop éloignée du quartier de la plage.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1939 (fin de la Seconde Guerre mondiale) / septembre 1943",
+    "texte": "Lors de la construction du mur de l’Atlantique, des secteurs de tir sont dégagés : la structure est en partie détruite à coups de canon en septembre 1943.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1948",
+    "texte": "Une tour en pierre est construite, et sa lanterne peinte en vert est terminée en 1950.",
+    "sources": [
+     "S18"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "Le port est édifié sous le Second Empire sur décision du 11 septembre 1858.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1872",
+    "texte": "Un premier feu fixe rouge est installé vers 1872 en haut d’un pylône jouxtant une cabane.",
+    "sources": [
+     "S16"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Nicolas de Capbreton",
+   "histoire": "Église catholique de Capbreton, l’église Saint-Nicolas conserve une porte gothique et une pietà polychrome. Une tour carrée a été ajoutée en 1540, puis la tour existante est remplacée après un épisode de foudre.",
+   "anecdotes": [
+    {
+     "texte": "La foudre touche la tour entre le 19 et le 20 février 1824 ; deux ans plus tard, une tour ronde en forme de phare prend place.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S3",
+    "S8",
+    "S10",
+    "S9"
+   ],
+   "lat": 43.639927,
+   "lon": -1.430609,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nicolas_de_Capbreton"
+  },
+  {
+   "nom": "Chapelle Sainte-Thérèse de Capbreton",
+   "histoire": "Chapelle catholique située à Capbreton, appelée aussi chapelle de la plage. Construite en 1907, elle répond ensuite au besoin de desservir plus près le quartier balnéaire.",
+   "anecdotes": [
+    {
+     "texte": "On choisit de bâtir une chapelle car l’église Saint-Nicolas était jugée trop éloignée pour le quartier de la plage.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 43.651098,
+   "lon": -1.442806,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Sainte-Th%C3%A9r%C3%A8se_de_Capbreton"
+  },
+  {
+   "nom": "Phares de Capbreton",
+   "histoire": "Ensemble de deux phares situés à l’extrémité de l’estacade du port de Capbreton. Un premier feu fixe rouge est installé vers 1872, et une tour en pierre est construite en 1948 avec une lanterne peinte en vert.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la construction du mur de l’Atlantique, les phares sont en partie détruits à coups de canon en septembre 1943 pour dégager des secteurs de tir.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 43.655451170002,
+   "lon": -1.447476286898,
+   "url": "https://fr.wikipedia.org/wiki/Phares_de_Capbreton"
+  },
+  {
+   "nom": "Préventorium Sainte-Eugénie",
+   "histoire": "Établissement de soins et de séjours pour des enfants souffrant de maladies pulmonaires, construit en 1888 sur le front de mer. Après destruction, il est reconstruit puis finalement démoli en 1991 pour laisser place au CERS et à un hôtel de luxe.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 43.64922,
+   "lon": -1.445386,
+   "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9ventorium_Sainte-Eug%C3%A9nie"
+  },
+  {
+   "nom": "Port de Capbreton",
+   "histoire": "Site fluvial côtier aménagé en port de pêche et port de plaisance. Le port est édifié sous le Second Empire, sur décision du 11 septembre 1858, et le port ainsi que le lac d’Hossegor conservent les vestiges de l’ancien estuaire de l’Adour.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 43.653396,
+   "lon": -1.436586,
+   "url": "https://fr.wikipedia.org/wiki/Port_de_Capbreton"
+  },
+  {
+   "nom": "Tour Corta (Capbreton)",
+   "histoire": "Habitation originale comprenant une tour d’observation construite sur la commune de Capbreton. Elle est construite en 1886 par le peintre Paul Joseph Corta et peut être visitée lors des Journées européennes du patrimoine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle peut être visitée lors des Journées européennes du patrimoine.",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 43.65036,
+   "lon": -1.443134,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Corta_%28Capbreton%29"
+  },
+  {
+   "nom": "Château d'Arbrun",
+   "histoire": "Maison à Capbreton, construite en 1906-1907 pour l’écrivain landais Raymond de Laborde d’Arbrun, maire d’Eugénie-les-Bains, par l’architecte Louis Gomez. Elle est transformée en hôtel dans les années 1950, puis en résidence de tourisme dans les années 2010.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 43.651355,
+   "lon": -1.442887,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Arbrun"
+  },
+  {
+   "nom": "Maison du Rey",
+   "histoire": "Maison située à Capbreton, bâtie au XVe siècle, à un moment où le port maritime de Capbreton reste encore actif.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 43.6404,
+   "lon": -1.43029,
+   "url": "https://fr.wikipedia.org/wiki/Maison_du_Rey"
+  }
+ ],
+ "sources": [
+  "Capbreton (/ka.bʁə.tɔ̃/) est une commune française située dans le département des Landes, en région Nouvelle-Aquitaine. Le gentilé est Capbretonnais. Port de plaisance et de pêche très actif (pouvant anciennement aller pêcher la morue jusqu'à Terre-Neuve), Capbreton est une station balnéaire réputée située juste en face de Soorts-Hossegor sur l'océan Atlantique où se terminent les rivières du Bouret et du Boudigau.",
+  "C’est dans la deuxième moitié du XIIe siècle que le nom de Capbreton apparaît pour la première fois dans les archives de Bayonne : l’histoire des deux villes est alors intimement liée, pour le meilleur et pour le pire (les Bayonnais, au prix de luttes et de procès incessants, voulaient s'assurer le monopole des échanges commerciaux sur l'Adour et son débouché maritime). Il existe au large de Terre-Neuve, l’île du […]",
+  "XVe siècle : L’église Saint-Nicolas a été reconstruite au milieu du xixe siècle mais conserve encore une porte gothique ainsi qu'une très belle pietà polychrome du XVe siècle.",
+  "1912 : La ligne, ouverte en 1912, fut construite essentiellement pour desservir des établissements industriels et ne connut qu'un trafic voyageurs de faible importance.",
+  "1991 : Reconstruit, il a été pourtant démoli vers 1991 pour laisser la place au Centre européen de rééducation du sportif (CERS) et à un hôtel de luxe.",
+  "Lieu « Église Saint-Nicolas de Capbreton » : L'église Saint-Nicolas est un lieu de culte catholique situé dans la commune de Capbreton, dans le département français des Landes.",
+  "Lieu « Église Saint-Nicolas de Capbreton », 1483 : La cloche de Saint-Jean de Bouret : la cloche, en bronze, fondue en 1483, provient de l'ancienne chapelle templière de Sainte-Marie-Madeleine-de-Bouret qui était construite au bord de la rivière du même nom.",
+  "Lieu « Église Saint-Nicolas de Capbreton », 1540 : Une tour carrée, construite avec les pierres de l’ancienne église, est ajoutée à l'édifice en 1540.",
+  "Lieu « Église Saint-Nicolas de Capbreton », XVIe siècle : L’église du XVIe siècle est probablement édifiée dans un style gothique, dont témoigne le portail intérieur situé dans le porche, seul vestige restant de l'édifice.",
+  "Lieu « Église Saint-Nicolas de Capbreton », aujourd'hui : La tour est touchée par la foudre entre le 19 et 20 février 1824 et remplacée en 1826 par la tour ronde, en forme de phare, qui fait aujourd’hui l’originalité de l’église.",
+  "Lieu « Chapelle Sainte-Thérèse de Capbreton » : La chapelle Sainte-Thérèse (ou chapelle de la plage) est un lieu de culte catholique situé sur la commune de Capbreton, dans le département français des Landes.",
+  "Lieu « Chapelle Sainte-Thérèse de Capbreton », 1907 : Celui-ci avait été construit en 1907 par Louis Gomez pour l'écrivain chalossais Raymond de Laborde.",
+  "Lieu « Chapelle Sainte-Thérèse de Capbreton », 1921 : Fin avril 1921, son supérieur sollicite de l'évêque d'Aire et de Dax l'autorisation de bâtir une chapelle car l'Église Saint-Nicolas de Capbreton était trop éloignée du quartier de la plage.",
+  "Lieu « Chapelle Sainte-Thérèse de Capbreton », 1933 : Pour finir, il fait recouvrir l'édifice en 1933 et le fait crépir en 1934.",
+  "Lieu « Phares de Capbreton » : Les phares de Capbreton sont un ensemble de deux phares, situés à l’extrémité de l'estacade du port de Capbreton dans le département des Landes.",
+  "Lieu « Phares de Capbreton », 1872 : Un premier feu fixe rouge est installé vers 1872 en haut d’un pylône jouxtant une cabane.",
+  "Lieu « Phares de Capbreton », 1939 : Vers la fin de la Seconde Guerre mondiale (1939-1945), lors de la construction du mur de l'Atlantique par les troupes d'occupation allemandes, elle est en partie détruite à coups de canon en septembre 1943, afin de dégager les secteurs de tir.",
+  "Lieu « Phares de Capbreton », 1948 : La tour en pierre est construite en 1948 et sa lanterne peinte en vert est terminée en 1950.",
+  "Lieu « Préventorium Sainte-Eugénie » : Le préventorium Sainte-Eugénie (ou préventorium de Capbreton) était un établissement de soins et de séjours pour des enfants souffrant de maladies pulmonaires.",
+  "Lieu « Préventorium Sainte-Eugénie », 1888 : Construit en 1888 sur le front de mer de Capbreton, il a été détruit en 1991.",
+  "Lieu « Préventorium Sainte-Eugénie », 1991 : Il a été totalement reconstruit, mais finalement démoli en 1991 pour être remplacé par le CERS (le Centre européen de rééducation du sportif) et un hôtel de luxe .",
+  "Lieu « Port de Capbreton » : Le port de Capbreton est un site fluvial côtier aménagé en un port de pêche et un port de plaisance, dans la commune de Capbreton, dans le département français des Landes.",
+  "Lieu « Port de Capbreton », 1858 : Elle est édifiée sous le Second Empire sur décision de Napoléon III du 11 septembre 1858.",
+  "Lieu « Port de Capbreton », aujourd'hui : Le port de Capbreton et le lac d'Hossegor sont les vestiges de l'ancien estuaire de l'Adour.",
+  "Lieu « Tour Corta (Capbreton) » : La tour Corta est une habitation originale comprenant une tour d'observation construite sur la commune de Capbreton, dans le département français des Landes.",
+  "Lieu « Tour Corta (Capbreton) », 1886 : Elle est construite en 1886 par le peintre Paul Joseph Corta (Dax, 1837-Tercis-les-Bains, 1900).",
+  "Lieu « Tour Corta (Capbreton) », aujourd'hui : De nos jours, elle peut être visitée lors des Journées européennes du patrimoine.",
+  "Lieu « Château d'Arbrun » : Le château d'Arbrun est une maison située sur la commune de Capbreton, dans le département français des Landes.",
+  "Lieu « Château d'Arbrun », 1906 : La maison est construite en 1906-1907 pour l'écrivain landais Raymond de Laborde d'Arbrun, maire d'Eugénie-les-Bains, par l'architecte Louis Gomez.",
+  "Lieu « Château d'Arbrun », 1950 : Dans les années 1950, le chateau d'Arbrun est transformé en hôtel, puis dans les années 2010, en résidence de tourisme.",
+  "Lieu « Maison du Rey » : La maison du Rey se situe sur la commune de Capbreton, dans le département français des Landes.",
+  "Lieu « Maison du Rey », XVe siècle : La maison du Rey est bâtie au XVe siècle, au cours duquel le port maritime de Capbreton est encore actif."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}
