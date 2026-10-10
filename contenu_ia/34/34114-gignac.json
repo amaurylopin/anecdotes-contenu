@@ -1,0 +1,248 @@
+{
+ "commune": {
+  "titre": "Gignac (Hérault)",
+  "code_insee": "34114",
+  "departement": "34",
+  "population": 6651,
+  "lat": 43.6531,
+  "lon": 3.5519,
+  "url": "https://fr.wikipedia.org/wiki/Gignac_%28H%C3%A9rault%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:41:57",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2062,
+  "sortie": 1778
+ },
+ "cout_usd": 0.002635,
+ "accroche": "En 1189, l’évêque de Lodève Raymond Guillaume donne des moulins à l’abbaye de Saint-Guilhem-le-Désert, une histoire longtemps brouillée par une mauvaise lecture d’archive.",
+ "histoire": {
+  "recit": "À Gignac, l’eau a longtemps guidé les hommes. La commune est drainée par l’Hérault et plusieurs ruisseaux, et cette présence se lit jusque dans les ouvrages jetés sur la rivière.\n\nLes moulins donnés en 1189 par l’évêque de Lodève Raymond Guillaume à l’abbaye de Saint-Guilhem-le-Désert ont pourtant suscité une confusion : une archive mal lue a fait croire à des moulins à papier, alors qu’il s’agissait de moulins bladiers.\n\nLe pont de Gignac, lui, a été repris et achevé par étapes, au XVIIIe siècle, avant que la circulation ne change encore avec le pont du Languedoc, plus à l’aval.\n\nSur les hauteurs, l’histoire religieuse de Gignac suit les mêmes ruptures. L’église Notre-Dame-de-Grâce a connu destructions et reconstructions, tandis que Saint-Martin de Carcarès, fondée vers la fin du XIe siècle, annonce un rythme plus régulier jusqu’à la Révolution.\n\nPlus bas, le barrage de la Meuse a donné de l’électricité à la commune, jusqu’à l’effondrement d’une partie du canal d’amenée d’eau en 1963.",
+  "chronologie": [
+   {
+    "date": "1189",
+    "texte": "Raymond Guillaume, évêque de Lodève, donne des moulins à l’abbaye de Saint-Guilhem-le-Désert, et une archive mal interprétée a longtemps entretenu une erreur sur leur nature.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1210",
+    "texte": "Le plus ancien édifice associé à l’église Notre-Dame-de-Grâce serait détruit en 1210 par les Cathares.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1620",
+    "texte": "Reconstruite, l’église Notre-Dame-de-Grâce est de nouveau détruite en 1620 par les Calvinistes.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1732",
+    "texte": "La construction du pont de Gignac se poursuit par Ducros.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1810",
+    "texte": "Le pont de Gignac est achevé en 1810 par l’ingénieur en chef Jean Emmanuel Fontenay.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "Au barrage de la Meuse, un système de pompage fondé sur une roue à aubes dite localement « Meuse » est installé.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "L’usine du barrage de la Meuse cesse de servir après l’effondrement de la digue et d’une partie du canal d’amenée d’eau.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "L’église Saint-Pierre-aux-Liens de Gignac est inscrite partiellement au titre des monuments historiques.",
+    "sources": [
+     "S19"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Gignac",
+   "histoire": "Pont du XVIIIe siècle permettant à la CD 619, ancienne RN 109, de franchir l’Hérault à Gignac.",
+   "anecdotes": [
+    {
+     "texte": "La construction du pont de Gignac a été continuée par Ducros en 1732, puis poursuivie par Antoine Billoin (ou Billouin) aîné, avant d’être achevée en 1810 par l’ingénieur en chef Jean Emmanuel Fontenay.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Une miniature du pont de Gignac a été construite entre 1776 et 1777, à six kilomètres du pont.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Le pont avait déjà trois arches d’à peu près égales ouvertures, comparées à un pont sur la Garonne entre 1765 et 1780.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il se situe à l’amont du pont du Languedoc permettant le franchissement de l’Hérault par l’autoroute A750.",
+   "sources": [
+    "S3",
+    "S7"
+   ],
+   "lat": 43.65365,
+   "lon": 3.5357,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Gignac"
+  },
+  {
+   "nom": "Église Notre-Dame-de-Grâce de Gignac",
+   "histoire": "Église catholique située à Gignac.",
+   "anecdotes": [
+    {
+     "texte": "Le plus ancien serait un ancien temple romain dédié à Vesta, construit par la 7e légion romaine, puis transformé en édifice chrétien, avant d’être détruit en 1210 par les Cathares.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Au XVIe siècle, l’édifice est détruit par les Huguenots qui occupent la citadelle de Gignac, puis une nouvelle destruction a lieu en 1620 par les Calvinistes.",
+     "statut": "etabli",
+     "sources": [
+      "S10",
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 43.6481,
+   "lon": 3.5551,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Gr%C3%A2ce_de_Gignac"
+  },
+  {
+   "nom": "Église Saint-Martin de Carcarès",
+   "histoire": "Édifice roman situé à Gignac.",
+   "anecdotes": [
+    {
+     "texte": "L’église vient remplacer une construction plus ancienne mentionnée en 972 dans le cartulaire d’Aniane sous le nom de villa carcarese.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Saint-Martin de Carcarès assure un service religieux quasi continu jusqu’à la Révolution, et fait partie des rares édifices du Languedoc à ne pas avoir subi de destructions provoquées par les conflits religieux au XVIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 43.6536,
+   "lon": 3.5519,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Carcar%C3%A8s"
+  },
+  {
+   "nom": "Barrage de la Meuse",
+   "histoire": "Barrage hydroélectrique sur le fleuve Hérault, géré par Gignac Energie, qui distribue l’électricité sur la commune de Gignac.",
+   "anecdotes": [
+    {
+     "texte": "Le système de pompage installé en 1857 s’appuie sur une roue à aubes appelée localement « Meuse ».",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.6638,
+   "lon": 3.5574666666667,
+   "url": "https://fr.wikipedia.org/wiki/Barrage_de_la_Meuse"
+  },
+  {
+   "nom": "Église Saint-Pierre-aux-Liens de Gignac",
+   "histoire": "Église catholique située à Gignac.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 43.6522,
+   "lon": 3.55233,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-aux-Liens_de_Gignac"
+  }
+ ],
+ "sources": [
+  "Gignac [ ʒi.ɲak] (en occitan Ginhac [ d͡ʒi.'ɲak]) est une commune française située dans le centre du département de l'Hérault, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par l'Hérault, le ruisseau de Gassac, le ruisseau de Lagamas, le ruisseau de l'Avenc, le ruisseau de l'Aurelle, le ruisseau de Valpudèse et par divers autres petits cours d'eau. La commune possède un patrimoine naturel […]",
+  "Des moulins sont donnés par l’évêque de Lodève Raymond Guillaume à l'abbaye de Saint-Guilhem-le-Désert en 1189 ; une mauvaise lecture d'une archive a fait croire qu'il s'agissait des premiers moulins à papier de France, alors qu’il s’agissait de moulins bladiers. Une loge maçonnique existait à Gignac à la fin du XVIIIe siècle. Lors de la Révolution française, les citoyens de la commune se réunissent au sein de la […]",
+  "Lieu « Pont de Gignac » : Le pont de Gignac est un pont du XVIIIe siècle permettant au CD 619, ancienne RN 109, de franchir l'Hérault à Gignac, dans le département de l'Hérault.",
+  "Lieu « Pont de Gignac », 1732 : La construction a été continuée par son neveu Ducros, poursuivie par Antoine Billoin (ou Billouin) aîné (1732-1806) et achevée en 1810 par l'ingénieur en chef Jean Emmanuel Fontenay (1761-1829).",
+  "Lieu « Pont de Gignac », 1765 : Il avait déjà trois arches mais d'à peu près égales ouvertures, semblable au pont de Carbonne sur la Garonne, au sud de Toulouse, entre 1765 et 1780.",
+  "Lieu « Pont de Gignac », 1776 : Cette miniature du pont de Gignac a été construite entre 1776 et 1777, à six kilomètres du pont de Gignac.",
+  "Lieu « Pont de Gignac », aujourd'hui : Il est aujourd'hui situé à l'amont du pont du Languedoc qui permet le franchissement de l'Hérault par l'autoroute A750.",
+  "Lieu « Église Notre-Dame-de-Grâce de Gignac » : L'église Notre-Dame-de-Grâce de Gignac est une église catholique située à Gignac, dans le département français de l'Hérault, en région Occitanie.",
+  "Lieu « Église Notre-Dame-de-Grâce de Gignac », 1210 : Le plus ancien serait un ancien temple romain dédié à Vesta, construit par la 7e légion romaine et transformé en édifice chrétien par le premier évêque de Lodève ; il est détruit en 1210 par les Cathares.",
+  "Lieu « Église Notre-Dame-de-Grâce de Gignac », XVIe siècle : L'édifice est détruit pendant les guerres de religion : au XVIe siècle, elle est détruite par les Huguenots qui occupent la citadelle de Gignac.",
+  "Lieu « Église Notre-Dame-de-Grâce de Gignac », 1620 : Reconstruite, elle est à nouveau détruite en 1620, par les Calvinistes.",
+  "Lieu « Église Saint-Martin de Carcarès » : L'église Saint-Martin de Carcarès ou église Saint-Martin-de-Carcarès de Mas de Mazet est un édifice datant de l'époque romane, située à Gignac dans le département français de l'Hérault en région Occitanie.",
+  "Lieu « Église Saint-Martin de Carcarès », 972 : L'édifice, construit vers la fin du XIe siècle, vient remplacer une construction plus ancienne, mentionnée en 972 dans le cartulaire d'Aniane sous le nom de villa carcarese.",
+  "Lieu « Église Saint-Martin de Carcarès », XVIe siècle : Saint-Martin de Carcarès assure un service religieux quasi continu jusqu'à la Révolution, et fait partie des rares édifices du Languedoc à ne pas avoir subi de destructions provoquées par les conflits religieux au XVIe siècle.",
+  "Lieu « Barrage de la Meuse » : Le barrage de la Meuse est un barrage hydroélectrique sur le fleuve Hérault, géré par Gignac Energie, entreprise locale de distribution (ELD) qui distribue aussi l'électricité sur la commune de Gignac.",
+  "Lieu « Barrage de la Meuse », 1857 : Un système de pompage reposant sur l'utilisation d'une roue à aubes appelée localement \"Meuse\" est installé en 1857.",
+  "Lieu « Barrage de la Meuse », 1963 : Cette usine sert les besoins de la commune jusqu'à ce que la digue et une partie du canal d'amenée d'eau s'effondre en 1963.",
+  "Lieu « Église Saint-Pierre-aux-Liens de Gignac » : L'église Saint-Pierre-aux-Liens de Gignac est une église catholique située à Gignac, en France.",
+  "Lieu « Église Saint-Pierre-aux-Liens de Gignac », 1963 : L'édifice est inscrit partiellement au titre des monuments historiques en 1963."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 8
+ }
+}

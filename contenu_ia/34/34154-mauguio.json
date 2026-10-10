@@ -1,0 +1,90 @@
+{
+ "commune": {
+  "titre": "Mauguio",
+  "code_insee": "34154",
+  "departement": "34",
+  "population": 16522,
+  "lat": 43.61681,
+  "lon": 4.009066,
+  "url": "https://fr.wikipedia.org/wiki/Mauguio"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:21:07",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1211,
+  "sortie": 968
+ },
+ "cout_usd": 0.001452,
+ "accroche": "En 1622, à Mauguio, le château féodal et les remparts sont détruits après la guerre de religion.",
+ "histoire": {
+  "recit": "Mauguio, en Hérault, s’étend entre plusieurs cours d’eau et canaux, dont le canal du Bas-Rhône Languedoc et le canal du Rhône à Sète. Sur son territoire, les fouilles menées notamment sur le site de Lallemand, à 2 km au nord, éclairent la vie des paysans du haut Moyen Âge : une grande zone d’ensilage y a révélé environ 550 silos pour stocker des céréales.\n\nPlus tard, la commune connaît un tournant violent : en 1622, le château féodal et les remparts sont détruits après 1622, durant les guerres de religion.\n\nÀ Mauguio, l’eau et l’activité se lisent aussi dans le paysage autour de l’étang de l’Or, une lagune située majoritairement sur le territoire de Mauguio. Aujourd’hui, les vestiges de cette industrie se résument à une appellation et à des traces précises liées à l’ancienne salaison, notamment un hangar où le sel était entreposé sous bonne garde.",
+  "chronologie": [
+   {
+    "date": "VIe–IXe siècle (haut Moyen Âge)",
+    "texte": "Sur le site de Lallemand, à 2 km au nord de Mauguio, des fouilles mettent au jour une zone d’ensilage comptant environ 550 silos pour stocker des céréales.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1622",
+    "texte": "Le château féodal et les remparts sont détruits après 1622, durant les guerres de religion.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Étang de l'Or",
+   "histoire": "L’étang de l’Or, aussi appelé étang de Mauguio, est une lagune située majoritairement sur le territoire de Mauguio, au sud-est du département de l’Hérault.",
+   "anecdotes": [
+    {
+     "texte": "Il ne subsiste des anciennes activités salinières que l’appellation de l’étang de l’Or à Pérols, avec le hangar où le sel était entreposé sous bonne garde.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Sur l’étang, les lourdes embarcations venaient accoster au Salin et au port pour charger le poisson destiné à la salaison, avant l’exportation.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le hangar (rue du hangar) lié à l’ancienne mise en réserve du sel.",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 43.58222,
+   "lon": 4.045,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tang_de_l%27Or"
+  }
+ ],
+ "sources": [
+  "Mauguio (prononcé : /mo.ɡjo/) est une commune française située dans le département de l'Hérault, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par le canal d'irrigation du Bas-Rhône Languedoc, le canal du Rhône à Sète, le Salaison, le canal de Lansargues, la Cadoule, le Bérange, le ruisseau d'Aigues-Vives, le ruisseau de la Balaurie, le ruisseau de la Jasse et par divers autres petits […]",
+  "Dans les années 2010, des fouilles archéologiques, notamment sur le site de Lallemand, à 2 km au nord de Mauguio, ont permis de mieux connaître la vie des paysans du haut Moyen Âge sur ce site (environ du VIe au IXe siècle de notre ère) ; a notamment été mise au jour une grande zone d'ensilage, comptant environ 550 silos permettant le stockage de céréales, notamment. Les terres agricoles servaient à la culture, […]",
+  "1622 : Le château féodal et les remparts furent détruits après 1622, durant les guerres de religion.",
+  "Lieu « Étang de l'Or » : L’étang de l’Or, appelé aussi étang de Mauguio, est une lagune située majoritairement sur le territoire de Mauguio, au sud-est du département français de l'Hérault, en région Occitanie.",
+  "Lieu « Étang de l'Or », aujourd'hui : Il ne subsiste comme vestiges de cette florissante industrie que l'appellation de l'étang de l'Or, à Pérols — l'étang du Salin et le port, où venaient accoster les lourdes embarcations chargées de poissons destinés à la salaison avant d'être exportés — et surtout le hangar (rue du hangar), où le sel était entreposé sous bonne garde."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

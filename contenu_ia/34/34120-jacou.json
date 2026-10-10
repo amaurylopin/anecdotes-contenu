@@ -1,0 +1,109 @@
+{
+ "commune": {
+  "titre": "Jacou",
+  "code_insee": "34120",
+  "departement": "34",
+  "population": 6924,
+  "lat": 43.660769,
+  "lon": 3.910327,
+  "url": "https://fr.wikipedia.org/wiki/Jacou"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:37:11",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1165,
+  "sortie": 607
+ },
+ "cout_usd": 0.000992,
+ "accroche": "À Jacou, le château de Bocaud voit sa structure édifiée en 1618 par Pierre de Bocaud.",
+ "histoire": {
+  "recit": "Jacou, commune urbaine de 3,43 km² au climat méditerranéen, a longtemps gardé l’allure d’un petit village, avant que la proximité de Montpellier ne transforme son destin. Jusqu’au XIXe siècle, le bourg reste très peu peuplé, moins de cent âmes : c’est là que la famille Bocaud s’impose, en édifiant le château éponyme et en structurant un domaine agricole.\n\nAu château de Bocaud, l’histoire prend des tours précis. En 1618, Pierre de Bocaud fait édifier l’édifice dont la structure subsiste aujourd’hui. Six ans plus tard, en 1624, il abjure et se convertit au catholicisme, deux ans après le siège de Montpellier et la soumission de la ville aux troupes royales. Plus tard, en 1842, les descendants des Bocaud vendent le château, qui change alors de mains à plusieurs reprises.\n\nLa famille, elle, ne commence pas au château : la première trace de son implantation à Jacou remonte à 1477, lorsque le magistrat Raulin Bocaud s’y installe.",
+  "chronologie": [
+   {
+    "date": "1618",
+    "texte": "Pierre de Bocaud édifie le château de Bocaud, dont nous voyons aujourd’hui la structure.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1624",
+    "texte": "Pierre de Bocaud abjure et se convertit au catholicisme.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1842",
+    "texte": "Les descendants des Bocaud vendent l’édifice familial, qui passe ensuite en de nombreuses mains.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1477",
+    "texte": "Première trace de la famille Bocaud à Jacou, lorsque le magistrat Raulin Bocaud s’y installe.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Bocaud",
+   "histoire": "Château d’architecture classique situé à Jacou. Sa structure actuelle est attribuée à une édification en 1618 par Pierre de Bocaud.",
+   "anecdotes": [
+    {
+     "texte": "En 1618, Pierre de Bocaud édifie le château dont on observe aujourd’hui la structure, après avoir « gagné une particule ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 1624, Pierre de Bocaud abjure et se convertit au catholicisme, deux ans après le siège de Montpellier et la soumission de la ville aux troupes royales.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 43.661161,
+   "lon": 3.912029,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Bocaud"
+  }
+ ],
+ "sources": [
+  "Jacou [ ʒa.ku] est une commune française située dans l'est du département de l'Hérault, en région Occitanie, en périphérie de Montpellier. Exposée à un climat méditerranéen, elle est drainée par divers petits cours d'eau. Jacou est une commune urbaine s'étendant sur 3,43 km2 et qui compte 6 924 habitants en 2023, après avoir connu une forte hausse de la population depuis 1962. Elle est dans l'agglomération de […]",
+  "Le village de Jacou reste jusqu'au XIXe siècle un petit village de moins de cent âmes. La proximité de Montpellier permet à la famille Bocaud d'édifier le château éponyme et de créer un domaine agricole.",
+  "Lieu « Château de Bocaud » : Le château de Bocaud est un château d'architecture classique situé à Jacou, dans l'Hérault, en France.",
+  "Lieu « Château de Bocaud », 1618 : En 1618, son descendant Pierre de Bocaud — on observe qu'il a gagné une particule — édifie le château dont nous voyons aujourd’hui la structure.",
+  "Lieu « Château de Bocaud », 1624 : Il abjure en 1624 et se convertit au catholicisme, deux ans après le siège de Montpellier et la soumission de la ville aux troupes royales.",
+  "Lieu « Château de Bocaud », 1842 : En 1842, les descendants des Bocaud vendent l’édifice familial qui passe ensuite en de nombreuses mains.",
+  "Lieu « Château de Bocaud », aujourd'hui : La première trace de la famille Bocaud dans le village de Jacou remonte à 1477, quand le magistrat Raulin Bocaud s’y installe."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "commune": {
+  "titre": "Mèze",
+  "code_insee": "34157",
+  "departement": "34",
+  "population": 12669,
+  "lat": 43.4278,
+  "lon": 3.6058,
+  "url": "https://fr.wikipedia.org/wiki/M%C3%A8ze"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:38:54",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1072,
+  "sortie": 450
+ },
+ "cout_usd": 0.000777,
+ "accroche": "À Mèze, au VIe siècle, un port est construit pour répondre à un important trafic.",
+ "histoire": {
+  "recit": "Mèze, au sud de l’Hérault, en Occitanie, tire une partie de son histoire de cette idée d’un territoire étroitement lié à l’eau. Le géographe romain Pomponius Mela aurait décrit une “environnée d’eau de tous côtés”, reliée à la terre par une “étroite chaussée”, et de là viendrait le nom ancien de Mèze, Mansa, “butte élevée surmontée de fumée”, expliqué par un foyer important.\n\nPlus tard, le rythme du lieu s’impose autrement : au VIe siècle, un port y est construit pour répondre à un important trafic. Puis vient une nouvelle rupture, racontée comme une occupation : en 736, la ville aurait été laissée dans un état désastreux par les Sarrasins, chassés de la région par les troupes de Charles Martel.\n\nAujourd’hui, les Mézois vivent dans une commune traversée par plusieurs ruisseaux, dont le ruisseau de Nègue Vaques et le ruisseau du Pallas.",
+  "chronologie": [
+   {
+    "date": "VIe siècle",
+    "texte": "Un port est construit pour répondre à un important trafic.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "736",
+    "texte": "La ville aurait été occupée et laissée dans un état désastreux par les Sarrasins, chassés par les troupes de Charles Martel.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Mèze [mɛ.zə] est une commune française située dans le sud du département de l'Hérault, en région Occitanie. Elle appartient à la communauté d'agglomération Sète Agglopôle Méditerranée. Ses habitants sont appelés les Mézois. Exposée à un climat méditerranéen, elle est drainée par le ruisseau de Nègue Vaques, le ruisseau du Pallas, le ruisseau de Font Frats, le ruisseau des Sacristains et par divers autres petits […]",
+  "L'histoire de la ville de Mèze est riche. Très différent de ce qu'il est aujourd'hui, le territoire de la ville aurait été décrit par le géographe romain Pomponius Mela comme « entourée d'eau de tous côtés » et uniquement « rattachée à la terre par une étroite chaussée ». De cette situation proviendrait le nom original de Mèze : Mansa, la « butte élevée surmontée de fumée ». En effet, un important foyer aurait servi […]",
+  "VIe siècle : Au VIe siècle, un port y fut construit pour répondre à un important trafic.",
+  "736 : La ville aurait été occupée et laissée dans un état désastreux par les Sarrasins qui furent chassés de la région par les troupes de Charles Martel en 736."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

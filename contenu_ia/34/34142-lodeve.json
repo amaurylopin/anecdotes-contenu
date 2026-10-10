@@ -1,0 +1,207 @@
+{
+ "commune": {
+  "titre": "Lodève",
+  "code_insee": "34142",
+  "departement": "34",
+  "population": 7251,
+  "lat": 43.732545,
+  "lon": 3.317308,
+  "url": "https://fr.wikipedia.org/wiki/Lod%C3%A8ve"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:31:51",
+ "lieux_ecartes_autre_commune": 8,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2356,
+  "sortie": 1396
+ },
+ "cout_usd": 0.002216,
+ "accroche": "À Lodève, la gare est mise en service le 14 août 1863 et fermée au trafic marchandises le 31 mai 1981.",
+ "histoire": {
+  "recit": "Lodève, au nord de l’Hérault, se tient au drainage de la Lergue et d’autres petits cours d’eau, entre deux zones naturelles d’intérêt écologique, faunistique et floristique. Autrefois, la ville fut la capitale des Lutevani, avant de devenir la cité romaine Luteva.\n\nAu cœur de la ville, la cathédrale Saint-Fulcran a connu plusieurs vies : d’abord dédiée au saint martyr Geniez au IIIe siècle, elle s’est ensuite construite par campagnes. Vers 1280, l’abside et deux travées du chœur auraient été édifiées, puis les bas-côtés furent terminés et voûtés vers 1345.\n\nPlus loin, la trajectoire du rail a laissé place à d’autres usages. La gare de Lodève ouvre en 1863, s’arrête aux voyageurs en 1939, puis ferme au trafic marchandises en 1981 ; l’ancien emplacement accueille ensuite un centre commercial Super U.\n\nEnfin, Lodève rassemble des lieux de savoir et de culture, dont le musée de Lodève installé depuis 1987 dans l’ancien hôtel particulier du Cardinal Hercule de Fleury, et des pierres plus anciennes encore, comme l’ancienne église Saint-Pierre dont l’emplacement a vu naître la halle Dardé.",
+  "chronologie": [
+   {
+    "date": "IIIe siècle",
+    "texte": "L’ancienne cathédrale est dédiée au saint martyr Geniez (Geniès, Genès), greffier de la ville d’Arles, victime de la Persécution de Dioclétien.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1280",
+    "texte": "Il est possible que l’abside et deux travées du chœur de la cathédrale gothique aient été construits autour de cette date.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1345",
+    "texte": "Les bas-côtés sont terminés et voûtés, et la moitié inférieure de la façade ouest est érigée.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "14 août 1863",
+    "texte": "La gare de Lodève est mise en service lors de l’ouverture de la section entre Clermont-l’Hérault et Lodève.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "31 mai 1981",
+    "texte": "La gare ferme au trafic marchandises lors de la fermeture du tronçon entre Cartels et Lodève.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2025",
+    "texte": "Un centre commercial Super U s’installe sur l’ancien emplacement de la gare de Lodève.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Fulcran de Lodève",
+   "histoire": "Église au pied des montagnes, la cathédrale Saint-Fulcran de Lodève fut primitivement dédiée au saint martyr Geniez au IIIe siècle. Par la suite, des parties du chœur et des bas-côtés se construisent en plusieurs étapes, avant d’être aujourd’hui une église paroissiale.",
+   "anecdotes": [
+    {
+     "texte": "Le martyre de Geniez est représenté sur la clef de voûte de l’abside.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 43.731944,
+   "lon": 3.317222,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Fulcran_de_Lod%C3%A8ve"
+  },
+  {
+   "nom": "Gare de Lodève",
+   "histoire": "Ancienne gare de la ligne de Vias à Lodève, elle est mise en service en 1863 et ferme au trafic voyageurs en 1939 puis au trafic marchandises en 1981. Sur l’emplacement, un centre commercial Super U est installé en 2025.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Un centre commercial Super U se situe sur l’ancien emplacement de la gare.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.725331,
+   "lon": 3.323284,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lod%C3%A8ve"
+  },
+  {
+   "nom": "Palais épiscopal de Lodève",
+   "histoire": "Le palais épiscopal de Lodève, aujourd’hui l’hôtel de ville, s’appuie sur des chantiers antérieurs. Le château de Montbrun, construit vers le Xe siècle, domine le confluent de la Lergue et de la Soulondres en face de Lodève. Des décisions de démolition touchent ensuite plusieurs bâtiments, dont la grande tour du château épiscopal de Saint-André en 1582.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.7325,
+   "lon": 3.3173,
+   "url": "https://fr.wikipedia.org/wiki/Palais_%C3%A9piscopal_de_Lod%C3%A8ve"
+  },
+  {
+   "nom": "Musée de Lodève",
+   "histoire": "Le musée de Lodève, anciennement appelé musée Fleury, accueille des collections d’art moderne, d’archéologie, de paléontologie et de sciences naturelles. Installé depuis 1987 dans l’ancien hôtel particulier du Cardinal Hercule de Fleury, il a aussi occupé la chapelle des Carmes et a connu des inaugurations à des dates déterminées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 43.7315339,
+   "lon": 3.31986244,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Lod%C3%A8ve"
+  },
+  {
+   "nom": "Tunnel de la Vierge",
+   "histoire": "Le tunnel de la Vierge est un tunnel autoroutier double tube sur l’autoroute A75. Le premier tube ouvre en 1983, sur la RN9, et le second tube est mis en circulation en janvier 2005.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 43.727423,
+   "lon": 3.326576,
+   "url": "https://fr.wikipedia.org/wiki/Tunnel_de_la_Vierge"
+  },
+  {
+   "nom": "Halle Dardé (Lodève)",
+   "histoire": "La halle Dardé est un édifice construit en 1819 à l’emplacement de l’ancienne église Saint-Pierre. Elle est inscrite au titre des monuments historiques depuis le 1er avril 1994.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 43.7305,
+   "lon": 3.3212,
+   "url": "https://fr.wikipedia.org/wiki/Halle_Dard%C3%A9_%28Lod%C3%A8ve%29"
+  }
+ ],
+ "sources": [
+  "Lodève est une commune française située dans le nord du département de l'Hérault, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par la Lergue, la Soulondres, le Laurounet, le ruisseau du Mas de Mérou et par divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable composé de deux zones naturelles d'intérêt écologique, faunistique et floristique. Lodève est une […]",
+  "Lodève était la capitale des Lutevani, subdivision des Volque, puis devint la cité romaine Luteva. L'oppidum de Luteva constitue un des centres de peuplement de la Celtique méditerranéenne. La cité est élevée au rang de colonie latine[réf. souhaitée]. Comme tous les chefs-lieux des cités gauloises, elle devient le siège d'un diocèse avec des évêques qui se succèdent depuis saint Flour au IIIe siècle jusqu'à la […]",
+  "Lieu « Cathédrale Saint-Fulcran de Lodève » : La cathédrale Saint-Fulcran de Lodève se trouve dans l'Hérault, région Occitanie, au pied des montagnes à environ 54 km au nord-ouest de Montpellier, un peu à l’écart de la côte méditerranéenne.",
+  "Lieu « Cathédrale Saint-Fulcran de Lodève », IIIe siècle : Primitivement la cathédrale était dédiée au saint martyr Geniez (Geniès, Genès), greffier de la ville d’Arles au IIIe siècle, victime de la Persécution de Dioclétien, décapité en 303 (son martyre est représenté sur la clef de voûte de l’abside).",
+  "Lieu « Cathédrale Saint-Fulcran de Lodève », 1280 : Comme l'écrit Raymond Rey, il est possible que l'abside et deux travées du chœur de la cathédrale gothique sans déambulatoire aient été construits autour de 1280.",
+  "Lieu « Cathédrale Saint-Fulcran de Lodève », 1345 : Seulement vers 1345 les bas-côtés furent terminés et voûtés et la moitié inférieure de la façade ouest fut érigé.",
+  "Lieu « Cathédrale Saint-Fulcran de Lodève », aujourd'hui : C'est aujourd'hui une église paroissiale.",
+  "Lieu « Gare de Lodève » : La gare de Lodève est une ancienne gare ferroviaire française de la ligne de Vias à Lodève, située sur le territoire de la commune de Lodève, dans le département de l'Hérault, en région Occitanie.",
+  "Lieu « Gare de Lodève », 1863 : Elle est mise en service en 1863 par la Compagnie des chemins de fer du Midi et du Canal latéral à la Garonne et fermée au trafic voyageurs en 1939 et marchandises en 1981 par la Société nationale des chemins de fer français (SNCF).",
+  "Lieu « Gare de Lodève », 1863 : Cette gare est mise en service à l'ouverture de la section entre Clermont-l'Hérault et Lodève de la ligne de Vias à Lodève par la Compagnie des chemins de fer du Midi et du Canal latéral à la Garonne, soit le 14 août 1863.",
+  "Lieu « Gare de Lodève », 1981 : La gare est fermée au trafic marchandises le 31 mai 1981 lors de la fermeture du tronçon entre Cartels et Lodève, cette même section est déposée la même année et déclassée le 23 juin 1982.",
+  "Lieu « Gare de Lodève », aujourd'hui : En 2025, un centre commercial Super U se situe sur l'ancien emplacement de la gare.",
+  "Lieu « Palais épiscopal de Lodève » : Le palais épiscopal de Lodève, aujourd'hui hôtel de ville de Lodève, est un bâtiment situé dans le département de l'Hérault.",
+  "Lieu « Palais épiscopal de Lodève », Xe siècle : Le château de Montbrun a été construit vers le Xe siècle sur un puech qui domine le confluent de la Lergue et la Soulondres, face à Lodève.",
+  "Lieu « Palais épiscopal de Lodève », 1581 : Les États de Languedoc décident en 1581 de détruire trois châteaux, dont celui de Saint-André, mais ce commandement n'est pas exécuté.",
+  "Lieu « Palais épiscopal de Lodève », 1582 : Le 8 mai 1582, le duc Henri Ier de Montmorency ordonne de démolir la grande tour du château épiscopal de Saint-André.",
+  "Lieu « Palais épiscopal de Lodève », aujourd'hui : Le palais épiscopal de Lodève, aujourd'hui hôtel de ville de Lodève, est un bâtiment situé dans le département de l'Hérault.",
+  "Lieu « Musée de Lodève » : Le musée de Lodève (anciennement appelé musée Fleury) est un musée d'art moderne, d'archéologie, de paléontologie et de sciences naturelles situé depuis 1987 dans l'ancien hôtel particulier du Cardinal Hercule de Fleury à Lodève, dans le département",
+  "Lieu « Musée de Lodève », XVIIIe siècle : Le musée est installé dans un hôtel particulier construit au XVIIe et remanié au XVIIIe siècle, qui vit naître le Cardinal de Fleury, précepteur et premier ministre de Louis XV.",
+  "Lieu « Musée de Lodève », 1962 : Installé dans la chapelle des Carmes, le musée est inauguré le 26 mai 1962 sous le nom de son principal donateur, Jacques Audibert.",
+  "Lieu « Musée de Lodève », aujourd'hui : Expositions récentes : 2025 Rendre visible.",
+  "Lieu « Tunnel de la Vierge » : Le tunnel de la Vierge est un tunnel autoroutier double tube sur l’autoroute A75.",
+  "Lieu « Tunnel de la Vierge », 1983 : Le premier tube, ouvert en 1983 à la circulation, se situait sur la RN9.",
+  "Lieu « Tunnel de la Vierge », 2005 : Le second tube fut ouvert à la circulation en janvier 2005.",
+  "Lieu « Halle Dardé (Lodève) » : La halle Dardé sont un édifice situé à Lodève, dans le département de l'Hérault, en France.",
+  "Lieu « Halle Dardé (Lodève) », 1819 : La halle a été construite en 1819 à l'emplacement de l'ancienne église Saint-Pierre.",
+  "Lieu « Halle Dardé (Lodève) », 1994 : L'édifice est inscrit au titre des monuments historiques depuis le 1er avril 1994."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 1
+ }
+}
