@@ -1,0 +1,283 @@
+{
+ "commune": {
+  "titre": "Mayenne (commune)",
+  "code_insee": "53147",
+  "departement": "53",
+  "population": 12883,
+  "lat": 48.303056,
+  "lon": -0.613611,
+  "url": "https://fr.wikipedia.org/wiki/Mayenne_%28commune%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:59",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3318,
+  "sortie": 2087
+ },
+ "cout_usd": 0.003272,
+ "accroche": "À Mayenne, une voie romaine passe au nord de la commune, au lieu-dit de Brives, où un gué permettait de traverser la Mayenne.",
+ "histoire": {
+  "recit": "À Mayenne, la rivière a toujours compté. Dès l’Antiquité, une voie romaine reliant Jublains à Vieux passe au nord de la commune, au lieu-dit de Brives, et un gué y facilitait la traversée de la Mayenne. Plus tard, le château s’installe : mentionné pour la première fois vers 778, il est donné par Charlemagne à l’évêque du Mans. Le lieu se défend et se relève au fil des crises : incendies, remaniements et adaptations aux techniques militaires.\n\nLa ville continue ensuite de se transformer. Au XVIIe siècle, l’église des Capucins et la barre ducale prennent place. Puis les grandes liaisons changent le rythme : la voie ferrée Laval-Caen s’ouvre en 1866, et la ligne Mayenne–Landivy suit en 1901, avant l’ouverture d’une section en 1903.\n\nAujourd’hui, plusieurs témoins racontent encore ces mouvements : le château domine la Mayenne, la chapelle des Calvairiennes a gardé ses particularités, et le pont Mac Racken demeure lié à un épisode de la Libération.",
+  "chronologie": [
+   {
+    "date": "vers 778",
+    "texte": "Le château est mentionné pour la première fois : Charlemagne le donne à l’évêque du Mans.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "869",
+    "texte": "Le château aurait été détruit pendant un raid viking en 869.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "vers 900",
+    "texte": "L’édifice est reconstruit en pierre vers 900.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "Le château n’est pas antérieur au XIe siècle, et son rattachement à un prieuré au Moyen Âge est mentionné.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1063",
+    "texte": "Le château est incendié par Guillaume en 1063.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1448",
+    "texte": "Le château est réaménagé pour résister aux techniques militaires nouvelles (terrasse d’artillerie, tour du boulevard, mâchicoulis et canonnières).",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1574",
+    "texte": "Le château est assiégé une première fois par les Ligueurs en 1574, sans réussite.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1606",
+    "texte": "L’église des Capucins est construite en 1606.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1660",
+    "texte": "La place du Palais accueille la barre ducale, construite de 1660 à 1668, puis une fontaine installée en 1683.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "La voie ferrée Laval-Caen est ouverte en 1866.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "22 août 1901",
+    "texte": "La ligne de Mayenne à Landivy est ouverte sur la section comprise entre Landivy et Mayenne-Saint-Baudelle.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1er avril 1903",
+    "texte": "La section entre Mayenne-Saint-Baudelle et Mayenne-Échange s’ouvre après la construction du viaduc.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Mayenne",
+   "histoire": "Probable avec un édifice de bois au VIIIe siècle pour protéger un gué sur la Mayenne, puis château carolingien : mentionné autour de 778, reconstruit en pierre vers 900 et remanié à plusieurs reprises, il devient une forteresse de garnison à partir du XIVe siècle avant d’être transformé en prison au XVIIIe siècle. Il occupe aujourd’hui une position élevée sur un affleurement granitique, dominant la Mayenne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il domine la Mayenne sur sa façade sud-est, et le ruisseau Danube qui longeait l’éperon alimenteait les douves avant d’être aujourd’hui souterrain et canalisé.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 48.3028,
+   "lon": -0.6181,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Mayenne"
+  },
+  {
+   "nom": "Chapelle des Calvairiennes (Mayenne)",
+   "histoire": "Chapelle située sur la rive droite de la Mayenne. Elle fait partie d’un couvent appartenant aux Filles du Calvaire, avec une fondation en 1617 à Poitiers. Construite au XVIIe siècle, elle est fortement remaniée dans un style néogothique en 1866, puis transformée en préau en 1906.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le groupe sculpté central en terre cuite représentant une Descente de croix est aujourd’hui placé dans l’Église Saint-Pierre de Parné-sur-Roc après son acquisition au XIXe.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 48.3055,
+   "lon": -0.6231,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_des_Calvairiennes_%28Mayenne%29"
+  },
+  {
+   "nom": "Palais de justice de Mayenne",
+   "histoire": "Le palais de justice de Mayenne sert de tribunal jusqu’en 1992. Après la construction d’un nouveau tribunal, le bâtiment désaffecté est ensuite réemployé : ses sous-sols deviennent un bar de nuit.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Entre-temps, les sous-sols de l’ancien palais de justice ont été aménagés en bar de nuit, Le Justice, ouvert le 1er mai 2010.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 48.3054,
+   "lon": -0.6188,
+   "url": "https://fr.wikipedia.org/wiki/Palais_de_justice_de_Mayenne"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Mayenne",
+   "histoire": "Bâtiment de la fin du XIXe siècle. L’inscription sur la façade indique qu’il a été fondé en 1884.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Devant l’hôtel, le pont prend aujourd’hui le nom de pont de la Caisse-d’Épargne.",
+   "sources": [
+    "S32"
+   ],
+   "lat": 48.30486,
+   "lon": -0.615713,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Mayenne"
+  },
+  {
+   "nom": "Basilique Notre-Dame-des-Miracles de Mayenne",
+   "histoire": "Basilique catholique, édifice composite des XIIe, XVIe et XIXe siècles. L’édifice d’origine est construit en 1110, en remplacement d’un petit oratoire dédié à sainte Anne. Au milieu du XIe siècle, un incendie aurait détruit l’église lors de la prise du château de Mayenne par Guillaume le Conquérant.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S35",
+    "S34"
+   ],
+   "lat": 48.304173,
+   "lon": -0.617644,
+   "url": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame-des-Miracles_de_Mayenne"
+  },
+  {
+   "nom": "Église Saint-Martin de Mayenne",
+   "histoire": "Église catholique à Mayenne. Une église précédente est détruite sans doute par les Normands en 869 : elle n’est plus mentionnée ensuite. L’édifice est remanié au fil du temps : collatéral nord au XVIIIe siècle et collatéral sud au XIXe. Pendant la Révolution, l’église est fermée en janvier 1794 puis convertie en grange à foin jusqu’en 1800.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.3018,
+   "lon": -0.6151,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Mayenne"
+  },
+  {
+   "nom": "Pont Mac Racken",
+   "histoire": "Pont en maçonnerie franchissant la Mayenne dans la commune de Mayenne. Construit au XIXe siècle, il est célèbre pour avoir été sauvé de la destruction lors de la Libération de la France le 5 août 1944 grâce à l’action du soldat américain James Dougal McRacken.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la Libération du 5 août 1944, le pont est sauvé de la destruction grâce à l’action du soldat américain James Dougal McRacken.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42"
+   ],
+   "lat": 48.3046167,
+   "lon": -0.6151,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Mac_Racken"
+  },
+  {
+   "nom": "Couvent de la Visitation de Mayenne",
+   "histoire": "Monastère des Visitandines de Mayenne fondé par l’ordre de la Visitation à Mayenne au début du XIXe siècle. Le site garde la trace de changements successifs : seules des ruines de l’ancien couvent des Capucins subsistaient, et les bâtiments sont détruits.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seules subsistaient des ruines de l’ancien couvent des Capucins, et les bâtiments sont détruits.",
+   "sources": [
+    "S46"
+   ],
+   "lat": 48.306976,
+   "lon": -0.616874,
+   "url": "https://fr.wikipedia.org/wiki/Couvent_de_la_Visitation_de_Mayenne"
+  }
+ ],
+ "sources": [
+  "Mayenne (prononcé : /ma.jɛn/ ) est une commune de l'Ouest de la France, située au Nord-Ouest de la région des Pays de la Loire. Il s'agit d'une des deux sous-préfectures du département de la Mayenne. Troisième commune la plus peuplée du département, elle comptait 12 883 habitants en 2023. Mayenne est apparue au Moyen Âge, près d'une voie romaine. Elle se trouvait à proximité des duchés de Bretagne et de Normandie. […]",
+  "La ville de Mayenne n'est apparue qu'au Moyen Âge, mais une voie romaine reliant Jublains à Vieux, près de Caen, passait dans le nord de la commune, au lieu-dit de Brives. À cet endroit, un gué permettait de traverser la Mayenne. Par ailleurs, à l'époque gauloise, le peuple des Aulerques Diablintes avait sa capitale à Moulay, au sud de la ville, où se trouvent les restes d'un grand oppidum. Moulay a été abandonné […]",
+  "778 : Le château est fondé au VIIIe siècle, et il est mentionné pour la première fois vers 778, lorsque Charlemagne le donne à l’évêque du Mans.",
+  "869 : Il aurait été détruit pendant un raid viking en 869.",
+  "900 : L'édifice est reconstruit en pierre vers 900, puis Charles le Chauve pour contrôler les Marches de Bretagne donne probablement le château aux premiers comtes du Maine.",
+  "XIe siècle : Cette dernière était bel et bien rattachée à un prieuré au Moyen Âge, mais elle n'a pas été construite avant le XIe siècle.",
+  "1063 : Le château est d'ailleurs incendié par Guillaume en 1063.",
+  "1448 : Après 1448, il est réaménagé pour résister aux nouvelles techniques militaires : une terrasse d'artillerie et la tour du boulevard sont construites, et des mâchicoulis et des canonnières sont ajoutés à plusieurs endroits.",
+  "1574 : Elle fut assiégée une première fois par les Ligueurs en 1574, qui échouèrent à la prendre.",
+  "1606 : En 1606, l'église des Capucins est construite.",
+  "1660 : La place du Palais accueillit la Barre ducale, construite de 1660 à 1668, ainsi qu'une fontaine, installée en 1683.",
+  "1866 : La voie ferrée Laval-Caen est ouverte en 1866, soit dix ans après la ligne Paris-Laval.",
+  "1901 : La ligne de Mayenne à Landivy est ouverte sur la section comprise entre Landivy et Mayenne-Saint-Baudelle le 22 août 1901.",
+  "1903 : La section entre Mayenne-Saint-Baudelle et Mayenne-Échange n'est ouverte que le 1er avril 1903, après la construction du viaduc.",
+  "Lieu « Château de Mayenne » : Le château de Mayenne est une ancienne résidence carolingienne du Xe siècle, bâtie sous le règne de Charles le Simple, et remaniée à plusieurs reprises, qui se dresse sur la commune française de Mayenne dans le département de la Mayenne, en région Pa",
+  "Lieu « Château de Mayenne », VIIIe siècle : Au VIIIe siècle, il est probable qu'un édifice de bois ait été construit sur cet éperon, notamment pour protéger un gué construit sur la Mayenne.",
+  "Lieu « Château de Mayenne », Xe siècle : Le château de Mayenne est une ancienne résidence carolingienne du Xe siècle, bâtie sous le règne de Charles le Simple, et remaniée à plusieurs reprises, qui se dresse sur la commune française de Mayenne dans le département de la Mayenne, en région Pays de la Loire.",
+  "Lieu « Château de Mayenne », XIVe siècle : Palais carolingien à l'origine, il est réaménagé plusieurs fois au cours du Moyen Âge; perdant son rôle de résidence féodale il devient un château de garnison à partir du XIVe siècle avant d'être transformé en prison au XVIIIe siècle.",
+  "Lieu « Château de Mayenne », aujourd'hui : Il occupe une position élevée au sommet d'un affleurement granitique situé en bas de la colline, et domine la Mayenne sur sa façade sud-est, l'éperon étant longé au nord par le ruisseau Danube qui alimentait les douves et qui est de nos jours souterrain et canalisé.",
+  "Lieu « Chapelle des Calvairiennes (Mayenne) » : La chapelle des Calvairiennes est une chapelle de la commune française de Mayenne, en Mayenne.",
+  "Lieu « Chapelle des Calvairiennes (Mayenne) », 1617 : La chapelle faisait partie d'un couvent appartenant aux Filles du Calvaire, un ordre fondé en 1617 à Poitiers.",
+  "Lieu « Chapelle des Calvairiennes (Mayenne) », XVIIe siècle : Elle est située sur la rive droite de la Mayenne, et a été construite au XVIIe siècle",
+  "Lieu « Chapelle des Calvairiennes (Mayenne) », 1866 : La chapelle fut fortement remaniée dans un style néogothique en 1866, puis elle fut transformée en préau en 1906.",
+  "Lieu « Chapelle des Calvairiennes (Mayenne) », aujourd'hui : Le groupe sculpté central en terre cuite représentant une Descente de croix également de Biardeau est aujourd'hui placé dans l'Église Saint-Pierre de Parné-sur-Roc après son acquisition au XIXe.",
+  "Lieu « Palais de justice de Mayenne » : Le palais de justice de Mayenne est un monument de la ville de Mayenne utilisé comme tribunal jusqu'en 1992.",
+  "Lieu « Palais de justice de Mayenne », 1992 : Le bâtiment occupera cette fonction jusqu'en 1992, lorsqu'un nouveau tribunal est construit à Mayenne, à la suite de plusieurs rapports pointant les inconvénients du bâtiment et le cout élevé des adaptations nécessaires à la prolongation de son utilisation comme palais de justice.",
+  "Lieu « Palais de justice de Mayenne », 1994 : Le 24 février 1994, la façade et les toitures du palais de justice alors désaffecté sont inscrites au titre des monuments historiques écartant le spectre d'une démolition.",
+  "Lieu « Palais de justice de Mayenne », 2010 : Entre-temps les sous-sols de l'ancien palais de justice ont été aménagés en un bar de nuit, Le Justice, qui a ouvert le 1er mai 2010.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mayenne » : L'hôtel de la Caisse d'épargne est un bâtiment de la fin du XIXe siècle à Mayenne, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mayenne », XIXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment de la fin du XIXe siècle à Mayenne, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mayenne », 1884 : Comme l'indique l'inscription sur la façade, l'hôtel a été fondé 1884.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mayenne », aujourd'hui : Le pont situé devant — de nos jours, pont Mac-Racken — prend par ailleurs le nom de pont de la Caisse-d'Épargne.",
+  "Lieu « Basilique Notre-Dame-des-Miracles de Mayenne » : La basilique Notre-Dame-des-Miracles de Mayenne est une basilique catholique située à Mayenne est un édifice composite des XIIe, XVIe et XIXe siècles.",
+  "Lieu « Basilique Notre-Dame-des-Miracles de Mayenne », XIe siècle : Un incendie semble avoir détruit l'église au milieu du XIe siècle, lors de la prise du château de Mayenne par Guillaume le Conquérant.",
+  "Lieu « Basilique Notre-Dame-des-Miracles de Mayenne », 1110 : L'édifice d'origine est construit en 1110 en remplacement d'un petit oratoire dédié à sainte Anne.",
+  "Lieu « Basilique Notre-Dame-des-Miracles de Mayenne », XIXe siècle : La basilique Notre-Dame-des-Miracles de Mayenne est une basilique catholique située à Mayenne est un édifice composite des XIIe, XVIe et XIXe siècles.",
+  "Lieu « Église Saint-Martin de Mayenne » : L'église Saint-Martin est une église catholique située à Mayenne, en France.",
+  "Lieu « Église Saint-Martin de Mayenne », 869 : Depuis lors, détruit sans doute par les Normands en 869, on ne le trouve plus mentionné ».",
+  "Lieu « Église Saint-Martin de Mayenne », XVIIIe siècle : L'église a été remaniée à plusieurs reprises au fil du temps : le collatéral nord est construit au XVIIIe siècle et le sud au XIXe siècle.",
+  "Lieu « Église Saint-Martin de Mayenne », 1794 : Pendant la Révolution, l'église est fermée en janvier 1794 puis convertie en grange à foin jusqu'en 1800, année de sa réouverture.",
+  "Lieu « Pont Mac Racken » : Le pont Mac Racken est un pont en maçonnerie franchissant la Mayenne dans la commune de Mayenne, située dans le département de la Mayenne en région Pays de la Loire.",
+  "Lieu « Pont Mac Racken », 1944 : Construit au XIXe siècle, l'ouvrage est célèbre pour avoir été sauvé de la destruction lors de la Libération de la France le 5 août 1944 grâce à l'action héroïque du soldat américain James Dougal McRacken.",
+  "Lieu « Pont Mac Racken », 2006 : Le pont et sa prise lors de la Libération ont inspiré le quatrième niveau (intitulé Le pont de Mayenne) du jeu vidéo Call of Duty 3 : En marche vers Paris sorti en 2006, dans lequel le joueur doit protéger un soldat américain désamorçant les pelles d'explosifs sur l'ouvrage, dans le jeu le soldat Mac Racken est remplacé par le sergent McCullin.",
+  "Lieu « Couvent de la Visitation de Mayenne » : Le monastère des Visitandines de Mayenne est un monastère fondé par l'ordre de la Visitation à Mayenne au début du XIXe siècle.",
+  "Lieu « Couvent de la Visitation de Mayenne », XIXe siècle : Le monastère des Visitandines de Mayenne est un monastère fondé par l'ordre de la Visitation à Mayenne au début du XIXe siècle.",
+  "Lieu « Couvent de la Visitation de Mayenne », aujourd'hui : Seules subsistaient des ruines de l'ancien couvent des Capucins, et les bâtiments sont détruits."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

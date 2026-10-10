@@ -1,0 +1,96 @@
+{
+ "commune": {
+  "titre": "Saint-Berthevin (Mayenne)",
+  "code_insee": "53201",
+  "departement": "53",
+  "population": 7479,
+  "lat": 48.068333,
+  "lon": -0.825833,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Berthevin_%28Mayenne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:27:35",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1167,
+  "sortie": 635
+ },
+ "cout_usd": 0.001027,
+ "accroche": "À Saint-Berthevin, l’« Ensemble chaufournier des Brosses » a été inscrit comme monument historique le 20 décembre 1989.",
+ "histoire": {
+  "recit": "Saint-Berthevin, commune de la Mayenne, appartient à l’unité urbaine de Laval et se situe dans le Bas-Maine. Premier chef-lieu de canton à la création des cantons, la commune perd ce statut lors du redécoupage de l’an IX, puis le retrouve en 1984. Son paysage garde aussi la trace des activités anciennes : à l’« Ensemble chaufournier des Brosses », une ancienne usine de chaux a livré des bâtiments dont façades et toitures ont reçu une protection au titre des monuments historiques. Plus à l’écart, la « Forêt de Concise » couvre une partie du territoire communal et se prolonge jusqu’à une voie ferrée désaffectée, aujourd’hui transformée en chemin piétonnier.",
+  "chronologie": [
+   {
+    "date": "an IX (1801)",
+    "texte": "Le canton de Saint-Berthevin, supprimé lors du redécoupage cantonal, cesse d’être chef-lieu.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1984",
+    "texte": "Saint-Berthevin est de nouveau désignée chef-lieu de canton.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "20 décembre 1989",
+    "texte": "Les façades et les toitures des bâtiments d’accompagnement de l’ensemble chaufournier des Brosses (maison de maître, écuries et dépendances) sont inscrites au titre des monuments historiques.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Ensemble chaufournier des Brosses",
+   "histoire": "Ancienne usine de chaux, l’ensemble chaufournier des Brosses conserve des bâtiments d’accompagnement dont façades et toitures sont inscrits au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.0725,
+   "lon": -0.83861,
+   "url": "https://fr.wikipedia.org/wiki/Ensemble_chaufournier_des_Brosses"
+  },
+  {
+   "nom": "Forêt de Concise",
+   "histoire": "Forêt privée s’étendant sur le territoire de Saint-Berthevin et d’Ahuillé. Elle est aujourd’hui bordée à l’est par une voie de chemin de fer désaffectée, devenue un chemin piétonnier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 48.061612,
+   "lon": -0.823762,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_de_Concise"
+  }
+ ],
+ "sources": [
+  "Saint-Berthevin est une commune française de l'unité urbaine de Laval, située dans le département de la Mayenne en région Pays de la Loire, peuplée de 7 479 habitants. La commune fait partie de la province historique du Maine, et se situe dans le Bas-Maine.",
+  "À la création des cantons, Saint-Berthevin est chef-lieu de canton. Ce canton est supprimé lors du redécoupage cantonal de l'an IX (1801). La commune est de nouveau désignée chef-lieu de canton en 1984.",
+  "Lieu « Ensemble chaufournier des Brosses » : L'ensemble chaufournier des Brosses est une ancienne usine de chaux située à Saint-Berthevin, en France.",
+  "Lieu « Ensemble chaufournier des Brosses », 1989 : Neuf fours, les façades et les toitures des bâtiments d'accompagnement — maison de maître, écuries et dépendances — sont inscrits au titre des monuments historiques depuis le 20 décembre 1989.",
+  "Lieu « Forêt de Concise » : La forêt de Concise, dans le département français de la Mayenne, est une forêt privée de 650 hectares (6,5 km2) qui s'étend sur le territoire des communes de Saint-Berthevin (500 ha) et d'Ahuillé (150 ha), situées à l'ouest de Laval, toutes deux memb",
+  "Lieu « Forêt de Concise », aujourd'hui : La forêt est bordée à l'est par une voie de chemin de fer désaffectée, qui reliait Saint-Berthevin à Craon, aujourd'hui devenue un chemin piétonnier."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

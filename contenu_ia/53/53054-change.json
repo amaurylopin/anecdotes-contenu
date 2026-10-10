@@ -1,0 +1,96 @@
+{
+ "commune": {
+  "titre": "Changé (Mayenne)",
+  "code_insee": "53054",
+  "departement": "53",
+  "population": 6502,
+  "lat": 48.1,
+  "lon": -0.790833,
+  "url": "https://fr.wikipedia.org/wiki/Chang%C3%A9_%28Mayenne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:45:21",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1037,
+  "sortie": 755
+ },
+ "cout_usd": 0.001151,
+ "accroche": "À Changé, le siège de l’hebdomadaire indépendant « L’Avenir agricole » a été accueilli de 1944 à l’arrêt de sa diffusion en 2020.",
+ "histoire": {
+  "recit": "Changé, parfois appelée Changé-lès-Laval, est une commune de l’unité urbaine de Laval, en Mayenne, dans le Bas-Maine, peuplée de 6 502 habitants, appelés Changéens. Son histoire administrative s’écrit par des voisinages qui se modifient : entre 1806 et 1820, la commune de Changé absorbe Changé-Oriental, puis en 1863 elle partage partiellement, avec Laval, la commune de Grenoux. \n\nAu cœur de la vie locale, la presse compte : Changé accueille le siège de l’hebdomadaire indépendant « L’Avenir agricole » de 1944 jusqu’à l’arrêt de sa diffusion en 2020. \n\nCôté horizons, un ouvrage relie deux communes : le Pont de Pritz, sur la limite entre Laval et Changé. Remis à neuf dans le cadre de travaux routiers de rocade, le pont a été entrepris en 1995 et achevé en 1997, sous la conduite de l’architecte Alain Spielmann.",
+  "chronologie": [
+   {
+    "date": "1806-1820",
+    "texte": "Changé absorbe la commune de Changé-Oriental.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1863",
+    "texte": "Changé partage partiellement, avec Laval, la commune de Grenoux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1944-2020",
+    "texte": "Changé accueille le siège de « L’Avenir agricole », de 1944 jusqu’à l’arrêt de sa diffusion en 2020.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1995-1997",
+    "texte": "Le Pont de Pritz est entrepris lors des travaux de rocade en 1995 et achevé en 1997, œuvre de l’architecte Alain Spielmann.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Pritz",
+   "histoire": "Le Pont de Pritz, aussi nommé Pont de Saint-Pritz, est situé sur la limite entre Laval et Changé, dans le département de la Mayenne.",
+   "anecdotes": [
+    {
+     "texte": "En 1995, la construction du Pont de Pritz est lancée dans le cadre des travaux routiers de la rocade, puis achevée en 1997, selon l’œuvre de l’architecte Alain Spielmann.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.089586,
+   "lon": -0.7770971,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Pritz"
+  }
+ ],
+ "sources": [
+  "Changé, parfois appelée Changé-lès-Laval, est une commune française de l'unité urbaine de Laval, située dans le département de la Mayenne en région Pays de la Loire, peuplée de 6 502 habitants. Les habitants sont appelés Changéens. La commune fait partie de la province historique du Maine, et se situe dans le Bas-Maine.",
+  "Changé absorbe la commune Changé-Oriental entre 1806 et 1820, et partiellement (avec Laval) la commune de Grenoux en 1863. Changé accueille le siège de l'hebdomadaire indépendant L'Avenir agricole de 1944 jusqu'à l'arrêt de sa diffusion en 2020.",
+  "Lieu « Pont de Pritz » : Le Pont de Pritz ou Pont de Saint-Pritz est un pont situé sur la limite entre les communes de Laval et Changé, dans le département de la Mayenne.",
+  "Lieu « Pont de Pritz », 1995 : Œuvre de l'architecte Alain Spielmann, il a été entrepris lors de travaux routiers (rocade) en 1995 dans l'agglomération de Laval et achevé en 1997."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}
