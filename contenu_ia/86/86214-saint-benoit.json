@@ -1,0 +1,122 @@
+{
+ "commune": {
+  "titre": "Saint-Benoît (Vienne)",
+  "code_insee": "86214",
+  "departement": "86",
+  "population": 7375,
+  "lat": 46.55055556,
+  "lon": 0.3425,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Beno%C3%AEt_%28Vienne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:29:11",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1310,
+  "sortie": 754
+ },
+ "cout_usd": 0.001205,
+ "accroche": "À Saint-Benoît, l’abbaye Saint-Benoît de Quinçay aurait des origines au VIIe siècle et le siège de Poitiers de 1569 y laisse un cloître en piteux état.",
+ "histoire": {
+  "recit": "Dans le Centre-Ouest, en banlieue sud de Poitiers, Saint-Benoît, peuplée de Sancto-Bénédictins, a changé de nom au rythme des événements. Avant la Révolution, la commune portait Saint-Benoît-de-Quincay. Pendant la Révolution, elle suit un décret de la Convention et devient Quinçay-les-Plaisirs.\n\nL’abbaye Saint-Benoît de Quinçay donne au paysage son fil conducteur : on y retrouve la trace des origines sous le nom de Quinciacus Monasterium. En 1569, pendant le siège de Poitiers, Gaspard II de Coligny y installe son quartier général ; le cloître en sort malmené, et la salle capitulaire est transformée en écurie. Plus tard, les bâtiments sont acquis par la commune en 1993 afin d’être restaurés.\n\nÀ côté, la Gare de Saint-Benoît tient sa part d’histoire ferroviaire : elle se trouvait à la bifurcation des lignes et assurait aussi une correspondance avec la ligne de Poitiers à Saint-Martin-d'Ars des Tramways de la Vienne, aujourd’hui fermée.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "Les origines de l’abbaye de Saint-Benoît sont rattachées au VIIe siècle, avec la trace du nom Quinciacus Monasterium.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "Avant la Révolution française",
+    "texte": "La commune s’appelait Saint-Benoît-de-Quincay.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "an II",
+    "texte": "Pendant la Révolution, la commune change de nom pour Quinçay-les-Plaisirs en application d’un décret de la Convention.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1569",
+    "texte": "Lors du siège de Poitiers, Gaspard II de Coligny installe son quartier général à l’abbaye : cloître abîmé et salle capitulaire transformée en écurie.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1993",
+    "texte": "Les bâtiments de l’abbaye sont acquis par la commune pour être restaurés.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Saint-Benoît de Quinçay",
+   "histoire": "Abbaye fondée au VIIe siècle, située dans la commune de Saint-Benoît, elle est reliée à des traces anciennes sous le nom de Quinciacus Monasterium.",
+   "anecdotes": [
+    {
+     "texte": "En 1569, au siège de Poitiers, Gaspard II de Coligny y installe son quartier général : cloître laissé en piteux état et salle capitulaire changée en écurie.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S7"
+   ],
+   "lat": 46.549259,
+   "lon": 0.341095,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Beno%C3%AEt_de_Quin%C3%A7ay"
+  },
+  {
+   "nom": "Gare de Saint-Benoît",
+   "histoire": "Ancienne gare située sur le territoire de Saint-Benoît, à la bifurcation des lignes de Paris-Austerlitz à Bordeaux-Saint-Jean et de Saint-Benoît à La Rochelle-Ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 46.5461635,
+   "lon": 0.3355809,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Beno%C3%AEt"
+  }
+ ],
+ "sources": [
+  "Saint-Benoît est une commune du Centre-Ouest de la France, située dans la banlieue sud de Poitiers, dans le département de la Vienne (région Nouvelle-Aquitaine). Ses habitants sont appelés les Sancto-Bénédictins.",
+  "Avant la Révolution française, la commune s’appelait Saint-Benoît-de-Quincay. Pendant la Révolution, pour suivre un décret de la Convention (an II), la commune change de nom pour Quinçay-les-Plaisirs.",
+  "Lieu « Abbaye Saint-Benoît de Quinçay » : L'abbaye Saint-Benoît de Quinçay est une abbaye fondée au VIIe siècle située dans la commune de Saint-Benoît dans le département de la Vienne en France.",
+  "Lieu « Abbaye Saint-Benoît de Quinçay », VIIe siècle : L'abbaye Saint-Benoît de Quinçay est une abbaye fondée au VIIe siècle située dans la commune de Saint-Benoît dans le département de la Vienne en France.",
+  "Lieu « Abbaye Saint-Benoît de Quinçay », 1569 : En 1569, lors du siège de Poitiers, Gaspard II de Coligny y installa son quartier général, laissant le cloître en piteux état et la salle capitulaire transformée en écurie.",
+  "Lieu « Abbaye Saint-Benoît de Quinçay », 1993 : Les bâtiments ont été acquis par la commune en 1993 pour être restaurés.",
+  "Lieu « Abbaye Saint-Benoît de Quinçay », aujourd'hui : On trouve la trace des origines de l'abbaye de Saint-Benoît au VIIe siècle sous le nom de Quinciacus Monasterium.",
+  "Lieu « Gare de Saint-Benoît » : La gare de Saint-Benoît est une ancienne gare ferroviaire française, située à la bifurcation de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean et de la ligne de Saint-Benoît à La Rochelle-Ville, sur le territoire de la commune de Saint-Benoît, da",
+  "Lieu « Gare de Saint-Benoît », aujourd'hui : Elle était en outre en correspondance avec la ligne de Poitiers à Saint-Martin-d'Ars des Tramways de la Vienne (aujourd'hui fermée)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}
