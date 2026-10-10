@@ -1,0 +1,325 @@
+{
+ "commune": {
+  "titre": "Pont-à-Mousson",
+  "code_insee": "54431",
+  "departement": "54",
+  "population": 14190,
+  "lat": 48.90527778,
+  "lon": 6.05472222,
+  "url": "https://fr.wikipedia.org/wiki/Pont-%C3%A0-Mousson"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:31:42",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3626,
+  "sortie": 1964
+ },
+ "cout_usd": 0.00318,
+ "accroche": "Vers 1217, une maison-Dieu confiée aux Antonistes s’installe sur la rive droite sous le nom de « la ville du pont Saint-Antoine » à Pont-à-Mousson.",
+ "histoire": {
+  "recit": "À Pont-à-Mousson, la Moselle a longtemps servi de passage avant même la ville : on y a retrouvé des objets qui témoignent d’occupations des rives, bien avant la fondation. Plus tard, le bourg se réorganise et se renforce : une maison-Dieu des Antonistes est installée au début du XIIIe siècle, puis la population réfugiée du village disparu de Thirey est absorbée au siècle suivant.\n\nLa frontière et les guerres marquent les lieux. Pendant les combats du Bois-le-Prêtre, un homme s’offre pour réparer sa tranchée sous le feu, jusqu’à la mort. Plus au calme, les grands ensembles religieux et urbains continuent de donner une figure à la ville : l’abbaye des Prémontrés de Pont-à-Mousson, connue aussi sous le nom de Sainte-Marie-Majeure, a connu incendie puis renaissances.\n\nAu fil des activités, la ville développe aussi son industrie et ses marqueurs culturels : une imagerie locale naît en 1848, et la construction de la synagogue en 1830 rappelle la diversité des temps plus récents.",
+  "chronologie": [
+   {
+    "date": "1217",
+    "texte": "Une maison-Dieu confiée aux Antonistes est installée sur la rive droite, sous le nom de « la ville du pont Saint-Antoine ».",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1263",
+    "texte": "Le bourg absorbe la population réfugiée du village disparu de Thirey, dont la disparition reste inexpliquée malgré les fouilles.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1626",
+    "texte": "Sous l’égide de la comtesse-douairière de Haraucourt, est fondé le premier couvent de l’ordre de la Visitation.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "La synagogue de Pont-à-Mousson est construite en 1830.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1848",
+    "texte": "Pont-à-Mousson bénéficie d’une imagerie fondée en 1848 par Élie Haguenthal.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1949",
+    "texte": "Le pont de la ville est reconstruit en 1949 par l’architecte Paul Gélot.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Combats du Bois-le-Prêtre",
+   "histoire": "Dans le secteur du saillant de Saint-Mihiel, les combats du Bois-le-Prêtre constituent une série d’engagements majeurs, désignés par les Allemands sous le nom de Priesterwald.",
+   "anecdotes": [
+    {
+     "texte": "Le 10 avril 1915, un volontaire se propose de réparer, sous le feu, sa tranchée bouleversée par l’explosion souterraine d’un fourneau de mines allemandes ; il est tué d’une balle en plein front au moment de sa mission.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Le 14 novembre 1915, au cœur des combats du Bois-le-Prêtre, un journal de tranchée baptisé Le Mouchoir est fondé.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 48.905278,
+   "lon": 6.054722,
+   "url": "https://fr.wikipedia.org/wiki/Combats_du_Bois-le-Pr%C3%AAtre"
+  },
+  {
+   "nom": "Abbaye des Prémontrés de Pont-à-Mousson",
+   "histoire": "Connu aussi sous le nom de Sainte-Marie-Majeure, l’édifice est un vaste bâtiment du XVIIIe siècle situé dans le quartier Saint-Martin, en bordure de la Moselle.",
+   "anecdotes": [
+    {
+     "texte": "L’abbaye est partiellement détruite par un incendie en 1771.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Anciennement occupée par l’ordre des Prémontrés, l’abbaye est aujourd’hui un centre culturel de la région Lorraine.",
+   "sources": [
+    "S17",
+    "S19",
+    "S21",
+    "S20"
+   ],
+   "lat": 48.908,
+   "lon": 6.055,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_des_Pr%C3%A9montr%C3%A9s_de_Pont-%C3%A0-Mousson"
+  },
+  {
+   "nom": "Usine sidérurgique de Pont-à-Mousson",
+   "histoire": "Les hauts-fourneaux de Pont-à-Mousson sont une usine sidérurgique en Lorraine, fondée en 1856.",
+   "anecdotes": [
+    {
+     "texte": "Un haut-fourneau ferme en 2009 quand la demande annuelle passe sous la barre des 400 000 tonnes.",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "Un an plus tard, un quatrième haut-fourneau est construit, et l’entreprise se spécialise avec succès dans les tuyaux pour canalisations, ce qui demeure jusqu’à aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.89389,
+   "lon": 6.05306,
+   "url": "https://fr.wikipedia.org/wiki/Usine_sid%C3%A9rurgique_de_Pont-%C3%A0-Mousson"
+  },
+  {
+   "nom": "Église Saint-Martin de Pont-à-Mousson",
+   "histoire": "Ancienne collégiale, l’église Saint-Martin est liée à l’ordre des Antonins : une première construction conventuelle sous le vocable de Saint-Antoine complète une maladrerie déjà présente dans la ville.",
+   "anecdotes": [
+    {
+     "texte": "Le jubé est réutilisé au XVIIe siècle comme tribune d’orgue à l’emplacement d’un transept visible en élévation.",
+     "statut": "etabli",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On trouve un transept non-saillant, nettement visible en élévation, et c’est à cet emplacement que se trouvait le jubé, réutilisé au XVIIe siècle comme tribune d’orgue.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S31"
+   ],
+   "lat": 48.9054,
+   "lon": 6.0586,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Pont-%C3%A0-Mousson"
+  },
+  {
+   "nom": "Synagogue de Pont-à-Mousson",
+   "histoire": "La synagogue se situe à Pont-à-Mousson. Une communauté juive s’installe dans la ville dès 1791, puis la synagogue est construite en 1830 ; elle est remaniée entre 1892 et 1894.",
+   "anecdotes": [
+    {
+     "texte": "Construite en moellons enduits, la synagogue est remaniée entre 1892 et 1894 sur les plans de l’architecte de la ville Callay.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    },
+    {
+     "texte": "Conservée depuis le début des années 2000, elle est peu à peu abandonnée.",
+     "statut": "etabli",
+     "sources": [
+      "S35"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une fontaine rituelle en pierre à décor de coquille loge dans le vestibule, tandis que la salle de prière est couverte d’un simple plafond en plâtre.",
+   "sources": [
+    "S36",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 48.9005,
+   "lon": 6.0565,
+   "url": "https://fr.wikipedia.org/wiki/Synagogue_de_Pont-%C3%A0-Mousson"
+  },
+  {
+   "nom": "Place Duroc (Pont-à-Mousson)",
+   "histoire": "La place Duroc est une place de Pont-à-Mousson, avec des édifices d’architecture allant du XVIe siècle jusqu’au XXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Au XIXe siècle, elle abrite un kiosque à musique, détruit pendant les bombardements de la Grande Guerre.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    },
+    {
+     "texte": "En 1931, une fontaine est édifiée au centre pour commémorer le dévouement des ambulanciers volontaires américains dans l’Est de la France, de 1915 à 1917.",
+     "statut": "etabli",
+     "sources": [
+      "S40"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.902647,
+   "lon": 6.055141,
+   "url": "https://fr.wikipedia.org/wiki/Place_Duroc_%28Pont-%C3%A0-Mousson%29"
+  },
+  {
+   "nom": "Église Saint-Laurent de Pont-à-Mousson",
+   "histoire": "L’église Saint-Laurent est fondée en 1230, puis reconstruite à partir de 1822 par le chanoine Huraux, curé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.90375,
+   "lon": 6.054167,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Laurent_de_Pont-%C3%A0-Mousson"
+  },
+  {
+   "nom": "Hôtel de ville de Pont-à-Mousson",
+   "histoire": "L’hôtel de ville est un édifice construit à la fin du XVIIIe siècle sur les plans de Claude Mique et de François-Michel Lecreulx pour servir d’hôtel de ville à Pont-à-Mousson.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S44",
+    "S45"
+   ],
+   "lat": 48.903105,
+   "lon": 6.054963,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Pont-%C3%A0-Mousson"
+  }
+ ],
+ "sources": [
+  "Pont-à-Mousson [pɔ̃tamusɔ̃] est une commune du Nord-Est de la France, en Meurthe-et-Moselle, dans la région Grand Est. Ses habitants sont appelés les Mussipontains. Tour à tour place forte, ville avancée ou pays frontière, Pont-à-Mousson a souvent eu à souffrir des rigueurs de la guerre.",
+  "On a retrouvé, dans les dragages réguliers de la Moselle, des objets témoignant d'une occupation des rives du site, bien avant la fondation de la ville proprement dite : poignards, lances, débris de colliers à pendentif, de facture typique de la culture de Hallstatt. Dans l'Antiquité gallo-romaine, la région est à la frontière entre les tribus des Leuques au Sud et des Médiomatrices au Nord. La principale voie […]",
+  "1217 : Vers 1217, une maison-Dieu, confiée à l'ordre des Antonistes, est installée sur la rive droite sous le nom de « la ville du pont Saint-Antoine ».",
+  "1263 : Quelques années plus tard, en 1263, le bourg absorbe la population réfugiée du village disparu de Thirey, occupé depuis l'Antiquité et dont la disparition reste à ce jour[C'est-à-dire ?] inexpliquée malgré les fouilles.",
+  "1626 : En 1626, sous l'égide de la comtesse-douairière de Haraucourt est fondé sans difficultés particulières le premier couvent de l'ordre de la Visitation des duchés.",
+  "1814 : Le général Fabvier est lui aussi né à Pont-à-Mousson et deviendra un héros des guerres d'indépendance de la Grèce.[réf. souhaitée] La ville est occupée par les coalisés en 1814 et 1815.",
+  "1830 : La synagogue de Pont-à-Mousson est construite en 1830.",
+  "1848 : Pont-à-Mousson bénéficie de sa propre imagerie, fondée en 1848 par Élie Haguenthal.[réf. souhaitée] L'arrivée du chemin de fer en 1850 et la découverte du minerai de fer en 1856 favorisent l'expansion de la ville.",
+  "1930 : Il est au fur et à mesure transformé et des maisons de plain-pied, en bandes parallèles, sont construites jusque dans les années 1930[réf. souhaitée].",
+  "1949 : Le pont de la ville est reconstruit en 1949 par l'architecte Paul Gélot, qui lui laisse son nom.",
+  "1986 : Ce long viaduc est inauguré le 31 janvier 1986.",
+  "Lieu « Combats du Bois-le-Prêtre » : Les combats du Bois-le-Prêtre, désignés par les Allemands sous le nom de Priesterwald, constituent une série d'engagements majeurs survenus dans le secteur du saillant de Saint-Mihiel, en France.",
+  "Lieu « Combats du Bois-le-Prêtre », 1915 : Le 10 avril 1915, il s'est offert comme volontaire pour réparer, sous le feu, sa tranchée qui venait d'être bouleversée par l'explosion souterraine d'un fourneau de mines allemandes. a été tué d'une balle en plein front au moment où il accomplissait sa mission.",
+  "Lieu « Combats du Bois-le-Prêtre », 1915 : Le Mouchoir est un journal de tranchée fondé le 14 novembre 1915 au cœur des combats du Bois-le-Prêtre.",
+  "Lieu « Combats du Bois-le-Prêtre », 1918 : En guise d'épilogue, le 13 septembre 1918, tout le secteur du Bois-le-Prêtre est libéré sans combat par la 90e division d'infanterie américaine, au cours de la réduction du saillant de Saint-Mihiel.",
+  "Lieu « Combats du Bois-le-Prêtre », aujourd'hui : Le 9 juin 1915 au matin, la croix est retirée de son emplacement initial par les Français.",
+  "Lieu « Abbaye des Prémontrés de Pont-à-Mousson » : L'abbaye des Prémontrés de Pont-à-Mousson, connue aussi sous le nom de Sainte-Marie-Majeure, est un vaste bâtiment du XVIIIe siècle situé dans le quartier Saint-Martin, en bordure de la Moselle à Pont-à-Mousson, dans le département de Meurthe-et-Mose",
+  "Lieu « Abbaye des Prémontrés de Pont-à-Mousson », XVIIe siècle : À la suite de la décision de l'abbé de Sainte-Marie-au-Bois, Servais de Lairuelz, de transférer son abbaye à Pont-à-Mousson, une première abbaye fut construite au début du XVIIe siècle sur l'emplacement actuel, à proximité de l'Université de Pont-à-Mousson fondée par les jésuites.",
+  "Lieu « Abbaye des Prémontrés de Pont-à-Mousson », XVIIIe siècle : L'abbaye des Prémontrés de Pont-à-Mousson, connue aussi sous le nom de Sainte-Marie-Majeure, est un vaste bâtiment du XVIIIe siècle situé dans le quartier Saint-Martin, en bordure de la Moselle à Pont-à-Mousson, dans le département de Meurthe-et-Moselle (France).",
+  "Lieu « Abbaye des Prémontrés de Pont-à-Mousson », 1771 : L'abbaye fut partiellement détruite en 1771 par un incendie.",
+  "Lieu « Abbaye des Prémontrés de Pont-à-Mousson », aujourd'hui : Anciennement occupée par l'ordre des Prémontrés, l'abbaye est aujourd'hui un centre culturel de la région Lorraine.",
+  "Lieu « Usine sidérurgique de Pont-à-Mousson » : L'usine sidérurgique de Pont-à-Mousson (ou hauts-fourneaux de Pont-à-Mousson) est une usine sidérurgique de l'est de la France, en Lorraine, à Pont-à-Mousson, fondée en 1856.",
+  "Lieu « Usine sidérurgique de Pont-à-Mousson », 1856 : L'usine sidérurgique de Pont-à-Mousson (ou hauts-fourneaux de Pont-à-Mousson) est une usine sidérurgique de l'est de la France, en Lorraine, à Pont-à-Mousson, fondée en 1856.",
+  "Lieu « Usine sidérurgique de Pont-à-Mousson », 1856 : Pour effectuer les recherches, la « Société civile de la mine de Marbache » est fondée en 1856.",
+  "Lieu « Usine sidérurgique de Pont-à-Mousson », 2009 : Un premier haut-fourneau a été fermé en 2009 lorsque la demande annuelle était passée sous la barre des 400 000 tonnes.",
+  "Lieu « Usine sidérurgique de Pont-à-Mousson », aujourd'hui : Un an plus tard, un quatrième haut-fourneau est construit, et Rogé décide avec succès de spécialiser l'entreprise dans les tuyaux pour canalisations, ce qui demeure jusqu'à aujourd'hui.",
+  "Lieu « Église Saint-Martin de Pont-à-Mousson » : L’église Saint-Martin de Pont-à-Mousson est une ancienne collégiale située sur la commune française de Pont-à-Mousson dans le département de Meurthe-et-Moselle et la région Lorraine.",
+  "Lieu « Église Saint-Martin de Pont-à-Mousson », XIIIe siècle : Cette église conventuelle de l'ordre des Antonins est édifiée à la fin du XIIIe siècle sous le vocable de Saint-Antoine en complément d'une maladrerie qui existait déjà dans la ville.",
+  "Lieu « Église Saint-Martin de Pont-à-Mousson », XIVe siècle : Dès la fin du XIVe siècle ce premier édifice est remplacé par l'actuel, achevé au début du siècle suivant.",
+  "Lieu « Église Saint-Martin de Pont-à-Mousson », 1840 : Elle a été construite du XIIIe au XVe siècle et a été classée Monument historique par la liste de 1840.",
+  "Lieu « Église Saint-Martin de Pont-à-Mousson », aujourd'hui : On trouve un transept non-saillant, mais nettement visible en élévation, comme souvent dans la tradition Lorraine, c'est à cet emplacement que se trouvait le jubé, réutilisé au XVIIe siècle comme tribune d'orgue.",
+  "Lieu « Synagogue de Pont-à-Mousson » : La synagogue de Pont-à-Mousson se situe dans la ville française de Pont-à-Mousson au sein du département de Meurthe-et-Moselle dans la région historique et culturelle de Lorraine.",
+  "Lieu « Synagogue de Pont-à-Mousson », 1791 : Une communauté Juive s'installe dans la ville dès 1791 lors de l'Émancipation, un premier lieu de culte ouvre en 1795 rue de la Visitation vendu en 1831 est converti en pensionnat de jeunes-filles.",
+  "Lieu « Synagogue de Pont-à-Mousson », 1830 : La synagogue est construite en 1830 en moellons enduits et fut remaniée entre 1892 et 1894 sur les plans de l'architecte de la ville Callay.",
+  "Lieu « Synagogue de Pont-à-Mousson », 2000 : Conservée depuis le début des années 2000, elle est peu à peu abandonnée.",
+  "Lieu « Synagogue de Pont-à-Mousson », aujourd'hui : Une fontaine rituelle en pierre à décor de coquille loge dans le vestibule, le reste de l'intérieur est occupé par la salle de prière qui est couverte d'un simple plafond en plâtre.",
+  "Lieu « Place Duroc (Pont-à-Mousson) » : La place Duroc est une place de Pont-à-Mousson en Meurthe-et-Moselle.",
+  "Lieu « Place Duroc (Pont-à-Mousson) », XVIe siècle : Elle compte de nombreux édifices d’architecture allant du XVIe siècle jusqu'au XXe siècle.",
+  "Lieu « Place Duroc (Pont-à-Mousson) », XIXe siècle : Au XIXe siècle, elle abritait un kiosque à musique, qui sera détruit pendant les bombardements de la Grande Guerre.",
+  "Lieu « Place Duroc (Pont-à-Mousson) », 1931 : Une fontaine est édifiée au centre en 1931 et commémore le dévouement des ambulanciers volontaires américains dans l'Est de la France, de 1915 à 1917.",
+  "Lieu « Église Saint-Laurent de Pont-à-Mousson » : L’église Saint-Laurent est située sur la commune française de Pont-à-Mousson dans le département de Meurthe-et-Moselle et la région Lorraine.",
+  "Lieu « Église Saint-Laurent de Pont-à-Mousson », 1230 : L’église Saint-Laurent fut fondée en 1230, mais il ne reste rien de la nef primitive, très basse et construite dans le style gothique le plus simple.",
+  "Lieu « Église Saint-Laurent de Pont-à-Mousson », 1822 : C’est dans ce style que furent reconstruits à partir de 1822, par le chanoine Huraux, curé, la nef et les bas-côtés actuels.",
+  "Lieu « Hôtel de ville de Pont-à-Mousson » : L'hôtel de ville de Pont-à-Mousson est un édifice construit à la fin du XVIIIe siècle sur les plans de l'architecte Claude Mique et de l'ingénieur François-Michel Lecreulx pour servir d'hôtel de ville à Pont-à-Mousson, en Lorraine.",
+  "Lieu « Hôtel de ville de Pont-à-Mousson », XVIIIe siècle : L'hôtel de ville de Pont-à-Mousson est un édifice construit à la fin du XVIIIe siècle sur les plans de l'architecte Claude Mique et de l'ingénieur François-Michel Lecreulx pour servir d'hôtel de ville à Pont-à-Mousson, en Lorraine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}

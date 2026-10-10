@@ -1,0 +1,146 @@
+{
+ "commune": {
+  "titre": "Laneuveville-devant-Nancy",
+  "code_insee": "54300",
+  "departement": "54",
+  "population": 6630,
+  "lat": 48.6558,
+  "lon": 6.2322,
+  "url": "https://fr.wikipedia.org/wiki/Laneuveville-devant-Nancy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:42:34",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1468,
+  "sortie": 977
+ },
+ "cout_usd": 0.001515,
+ "accroche": "À Château de Montaigu (Meurthe-et-Moselle), un ermitage fondé en 1608 a précédé la chapelle, devenue ensuite un lieu durement touché en 1793.",
+ "histoire": {
+  "recit": "Laneuveville-devant-Nancy, commune de Meurthe-et-Moselle, porte des traces de temps lointains : une « viae vicinale » y est rattachée à l’artère principale du pagus « le Chaumontois », décrite comme antérieure à la conquête romaine, et des fouilles à « La Madeleine » ont livré des éléments archéologiques.\n\nPlus près de nous, le paysage est marqué par le Château de Montaigu (Meurthe-et-Moselle). Le lieu commence par un ermitage fondé en 1608 ; l’oratoire y donne naissance à la chapelle. Sous la Terreur, en 1793, la statue de Notre-Dame de Montaigu et le chœur sont détruits, tandis que la chapelle est pillée et dévastée. Plus tard, en 1931, la chapelle est déplacée vers son emplacement actuel, tandis que les premières traces de « Montaigu » apparaissent dès le XVIIe siècle aux alentours de Nancy.\n\nLa commune compte aussi la Gare de Laneuveville-devant-Nancy, sur la ligne de Noisy-le-Sec à Strasbourg-Ville : son bâtiment voyageurs a été démoli en 2014.\n\nEnfin, le Château de l’abbé de Bouzey, construit entre 1750 et 1760 pour l’abbé de Bouzey, complète le portrait de Laneuveville-devant-Nancy.",
+  "chronologie": [
+   {
+    "date": "avant la conquête romaine",
+    "texte": "Une « viae vicinale » associée au pagus « le Chaumontois » serait un axe existant avant la conquête romaine, reliant Romont (près de Rambervillers) à Laneuveville-devant-Nancy puis à Toul.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1608",
+    "texte": "À Château de Montaigu (Meurthe-et-Moselle), un ermitage est fondé par Raphaël Hanzelin dans un oratoire appelé à devenir la future chapelle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "Sous la Terreur, la statue de Notre-Dame de Montaigu et le chœur sont détruits ; la chapelle est pillée et dévastée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1931",
+    "texte": "La chapelle de Montaigu est déplacée pour son emplacement actuel.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2014",
+    "texte": "Le bâtiment voyageurs de la Gare de Laneuveville-devant-Nancy est démoli.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Montaigu (Meurthe-et-Moselle)",
+   "histoire": "Sur le territoire de Laneuveville-devant-Nancy, près de Nancy, le parc de Montaigu s’étend aussi sur Jarville-la-Malgrange et se trouve à proximité du musée de l’Histoire du fer.",
+   "anecdotes": [
+    {
+     "texte": "En 1793, la statue de Notre-Dame de Montaigu et le chœur sont détruits, et la chapelle est pillée et dévastée.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "L’oratoire fondé en 1608 par Raphaël Hanzelin est présenté comme l’origine de la future chapelle.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.6634,
+   "lon": 6.2158,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Montaigu_%28Meurthe-et-Moselle%29"
+  },
+  {
+   "nom": "Gare de Laneuveville-devant-Nancy",
+   "histoire": "La gare de Laneuveville-devant-Nancy se trouve sur le territoire de la commune, sur la ligne de Noisy-le-Sec à Strasbourg-Ville (aussi appelée ligne de Paris-Est à Strasbourg-Ville).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 48.655502,
+   "lon": 6.228032,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Laneuveville-devant-Nancy"
+  },
+  {
+   "nom": "Château de l'abbé de Bouzey",
+   "histoire": "Le château de l’abbé de Bouzey est situé à Laneuveville-devant-Nancy. L’édifice est construit entre 1750 et 1760 pour l’abbé de Bouzey.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "lat": 48.656975,
+   "lon": 6.232945,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27abb%C3%A9_de_Bouzey"
+  }
+ ],
+ "sources": [
+  "Laneuveville-devant-Nancy est une commune française située dans le département de Meurthe-et-Moselle, en région Grand Est.",
+  "Occupation romaine importante. Dans son étude des voies antiques en Lorraine, Jean Godfrin mentionne une «viae vicinale» qui serait l'artère principale du pagus « le Chaumontois ». Elle aurait existé avant la conquête romaine. Selon le même auteur, partant de Romont, près de Rambervillers, elle rejoindrait Laneuveville-devant-Nancy puis Toul. À la Madeleine, des fouilles archéologiques ont mis au jour « Arentariae […]",
+  "Lieu « Château de Montaigu (Meurthe-et-Moselle) » : Le château de Montaigu est situé sur la commune française de Laneuveville-devant-Nancy près de Nancy, dans le parc de Montaigu (qui s'étend aussi sur Jarville-la-Malgrange), à proximité du musée de l'Histoire du fer.",
+  "Lieu « Château de Montaigu (Meurthe-et-Moselle) », 1608 : Ce nom désigne alors un ermitage fondé par Raphaël Hanzelin en 1608 dans un oratoire qui deviendra la future chapelle.",
+  "Lieu « Château de Montaigu (Meurthe-et-Moselle) », 1793 : En 1793, sous la Terreur, la statue de Notre-Dame de Montaigu et le chœur sont détruits, la chapelle est pillée et dévastée.",
+  "Lieu « Château de Montaigu (Meurthe-et-Moselle) », 1931 : En 1931, la chapelle de Montaigu a été déplacée pour son emplacement actuel.",
+  "Lieu « Château de Montaigu (Meurthe-et-Moselle) », aujourd'hui : Au XVIIe siècle apparaissent les premières traces d'un lieu nommé Montaigu aux alentours de Nancy, entre Jarville-la-Malgrange et Laneuveville-devant-Nancy.",
+  "Lieu « Gare de Laneuveville-devant-Nancy » : La gare de Laneuveville-devant-Nancy est une gare ferroviaire française de la ligne de Noisy-le-Sec à Strasbourg-Ville (également appelée ligne de Paris-Est à Strasbourg-Ville), située sur le territoire de la commune de Laneuveville-devant-Nancy, ban",
+  "Lieu « Gare de Laneuveville-devant-Nancy », 2014 : Le bâtiment voyageurs a été démoli en 2014.",
+  "Lieu « Château de l'abbé de Bouzey » : Le château de l'abbé de Bouzey est un château situé à Laneuveville-devant-Nancy, dans le département de Meurthe-et-Moselle.",
+  "Lieu « Château de l'abbé de Bouzey », 1750 : L'édifice a été construit entre 1750 et 1760 pour l'abbé de Bouzey."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

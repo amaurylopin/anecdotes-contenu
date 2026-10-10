@@ -1,0 +1,178 @@
+{
+ "commune": {
+  "titre": "Tomblaine",
+  "code_insee": "54526",
+  "departement": "54",
+  "population": 9117,
+  "lat": 48.6833,
+  "lon": 6.2167,
+  "url": "https://fr.wikipedia.org/wiki/Tomblaine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:32",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1522,
+  "sortie": 1397
+ },
+ "cout_usd": 0.002051,
+ "accroche": "En 1780, le château de Tomblaine appartient au seigneur Cerf Beer.",
+ "histoire": {
+  "recit": "Tomblaine, commune de Meurthe-et-Moselle, est connue pour son ancienneté et ses liaisons avec Nancy. Le site remonte au moins à 500 ans avant Jésus-Christ et connaît une présence gallo-romaine. Au XVIIe siècle, guerres et famines frappent la région, puis, dès 1540 environ, un bac assure la traversée de Tomblaine à Nancy.\n\nLe passage se renforce ensuite avec l’ouverture du pont en octobre 1896, d’abord à péage, avant son rachat par la ville de Nancy. La commune subit un coup terrible en 1944 : elle est détruite par les Allemands.\n\nAujourd’hui, à Tomblaine, le football se pratique au Stade Marcel-Picot, dont l’équipement a été modernisé : l’ancien éclairage a été démantelé et remplacé par quatre mâts. Non loin, l’Aéroport de Nancy-Essey a aussi connu l’histoire récente, avec une occupation et des bombardements pendant la Seconde Guerre mondiale, avant l’évolution de ses lignes à partir des rachat et fermetures de la période TAT.",
+  "chronologie": [
+   {
+    "date": "1540 environ",
+    "texte": "Un bac assure la traversée de Tomblaine à Nancy.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1780",
+    "texte": "Le château de Tomblaine appartient au seigneur Cerf Beer.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "octobre 1896",
+    "texte": "Le pont est ouvert en octobre ; il est à péage jusqu’en 1896, puis racheté par la ville de Nancy.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "La ville a été détruite en 1944 par les Allemands.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "11 octobre 1913",
+    "texte": "Un rapport sur l’idée d’édification d’un parc des sports est soumis à la mairie de Nancy.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "8 août 1926",
+    "texte": "Le complexe est inauguré et officiellement ouvert ; il est aussi appelé « Parc des sports du pont d’Essey » et « Stade de l’université ».",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "L’ancien éclairage du Stade Marcel-Picot est démantelé et remplacé par quatre mâts d’éclairage.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1940",
+    "texte": "L’aéroport de Nancy-Essey est occupé par la Luftwaffe entre 1940 et 1944 et bombardé à plusieurs reprises.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "fin des années 1970",
+    "texte": "La plupart des lignes sont fermées à la fin des années 1970.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "fin des années 1980",
+    "texte": "Des destinations sont ouvertes par TAT à la fin des années 1980 pour défricher les futures lignes de l’aéroport régional.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Stade Marcel-Picot",
+   "histoire": "Stade de football à Tomblaine, il s’inscrit dans un projet évoqué dès 1913. L’ensemble est officiellement ouvert le 8 août 1926, sous l’appellation « Parc des sports du pont d’Essey » ; il est aussi appelé « Stade de l’université ». La propriété est attribuée à la Métropole du Grand Nancy, et l’AS Nancy-Lorraine y installe son équipe dans l’enceinte depuis 1967.",
+   "anecdotes": [
+    {
+     "texte": "À sa création, le complexe ne s’appelle pas seulement « Stade Marcel-Picot » : il est aussi officiellement présenté comme « Parc des sports du pont d’Essey » et « Stade de l’université ».",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8",
+      "S7"
+     ]
+    },
+    {
+     "texte": "L’éclairage ancien a disparu : il a été démantelé pour laisser place à quatre mâts.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Éclairage remplacé par quatre mâts.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 48.695278,
+   "lon": 6.210556,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Marcel-Picot"
+  },
+  {
+   "nom": "Aéroport de Nancy-Essey",
+   "histoire": "L’Aéroport de Nancy-Essey se trouve en Meurthe-et-Moselle. Il est occupé par la Luftwaffe entre 1940 et 1944 et bombardé à plusieurs reprises. Plus tard, la période TAT voit des lignes fermer progressivement à la fin des années 1970, puis d’autres destinations sont ouvertes à la fin des années 1980. Il ne subsiste alors que des liaisons vers Paris et Lyon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.69266,
+   "lon": 6.225729,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Nancy-Essey"
+  }
+ ],
+ "sources": [
+  "Tomblaine est une commune française située dans le département de Meurthe-et-Moselle en région Grand Est. Ses habitants sont appelés les Tomblainois.",
+  "L'histoire du site de Tomblaine remonte au moins à 500 ans avant Jésus-Christ. Présence gallo-romaine. Au XVIIe siècle, guerres et famines semblent avoir été le lot de Tomblaine. En 1780, le château de Tomblaine appartient au seigneur Cerf Beer. La ville a été détruite en 1944 par les Allemands. Depuis 1540 environ, un bac assurait la traversée de Tomblaine à Nancy. Au début du XIXe siècle, celui-ci franchissait la […]",
+  "1896 : Le pont est ouvert en octobre de la même année et sera à péage jusqu'en 1896, date à laquelle il est racheté par la ville de Nancy.",
+  "1944 : La ville a été détruite en 1944 par les Allemands.",
+  "Lieu « Stade Marcel-Picot » : Le stade Marcel-Picot est un stade de football situé à Tomblaine, dans la proche banlieue de Nancy.",
+  "Lieu « Stade Marcel-Picot », 1913 : Le 11 octobre 1913, un rapport sur l'idée d'édification d'un parc des sports, rédigé par le secrétaire des étudiants nancéiens, est soumis à la mairie de Nancy.",
+  "Lieu « Stade Marcel-Picot », 1926 : Inauguré le 8 août 1926 et propriété de la Métropole du Grand Nancy, son principal club résident est l’AS Nancy-Lorraine, équipe de football professionnelle représentant la ville et installée dans l'enceinte depuis 1967.",
+  "Lieu « Stade Marcel-Picot », 1926 : Le complexe est officiellement ouvert le 8 août 1926 sous l’appellation de « Parc des sports du pont d’Essey » ; il est également appelé « Stade de l’université ».",
+  "Lieu « Stade Marcel-Picot », aujourd'hui : L'ancien éclairage est également démantelé et remplacé par quatre mâts d'éclairage.",
+  "Lieu « Aéroport de Nancy-Essey » : L'aéroport de Nancy-Essey est un aéroport du département français de Meurthe-et-Moselle.",
+  "Lieu « Aéroport de Nancy-Essey », 1940 : Il a été occupé par la Luftwaffe entre 1940 et 1944, et a été bombardé à plusieurs reprises.",
+  "Lieu « Aéroport de Nancy-Essey », 1970 : Avec le rachat par TAT de différentes compagnies de troisième niveau, dont Air Alpes, Air Alsace ou Rousseau Aviation, et surtout l'augmentation des prix du carburant, la plupart des lignes ont été fermées à la fin des années 1970.",
+  "Lieu « Aéroport de Nancy-Essey », 1980 : Afin de défricher les futures lignes de l'aéroport régional, un certain nombre de destinations ont été ouvertes par TAT à la fin des années 1980, comme Nantes et Toulouse en Beechcraft 200 puis en Beechcraft 1900, voire Embraer 120 Brasilia ou ATR 42.",
+  "Lieu « Aéroport de Nancy-Essey », aujourd'hui : Seules subsistaient celles de Paris et de Lyon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Guerre",
+   "Seconde"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

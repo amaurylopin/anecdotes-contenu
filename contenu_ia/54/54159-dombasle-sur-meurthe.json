@@ -1,0 +1,107 @@
+{
+ "commune": {
+  "titre": "Dombasle-sur-Meurthe",
+  "code_insee": "54159",
+  "departement": "54",
+  "population": 9424,
+  "lat": 48.6256,
+  "lon": 6.3506,
+  "url": "https://fr.wikipedia.org/wiki/Dombasle-sur-Meurthe"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:03:17",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1540,
+  "sortie": 737
+ },
+ "cout_usd": 0.001229,
+ "accroche": "Dombasle-sur-Meurthe, commune du Meurthe-et-Moselle, a porté le nom Dombasle jusqu’en 1961.",
+ "histoire": {
+  "recit": "Autrefois, le fief de Dombasle relevait du bailliage et de la châtellenie de Nancy, et la communauté se trouvait divisée en deux bans : le ban de Lamont et le ban de Laval. À Laval, certains habitants étaient surnommés les Gergonnets.\n\nPlus près de nous, les carrières ont compté : le calcaire venu des alentours a d’abord été acheminé par bateaux, avant qu’un système de transport par câble aérien ne soit mis en place en 1927. Ce transporteur aérien, surnommé TP Max, a fonctionné jusqu’en 1984, puis a été abandonné et démonté.\n\nLa silhouette du passé a aussi bougé : en 1963, la commune a démoli les vestiges du château de Dombasle, édifié sur une motte féodale.\n\nCôté voies ferrées, la gare de Dombasle-sur-Meurthe a accueilli un bâtiment existant toujours, mis en conformité avec le style de la Compagnie de l’Est après 1903. En 2015, une fresque de 250 m2 y a été réalisée et inaugurée par la mairie et la SNCF.",
+  "chronologie": [
+   {
+    "date": "jusqu’en 1961",
+    "texte": "La commune porte le nom Dombasle jusqu’en 1961, puis devient Dombasle-sur-Meurthe.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1927",
+    "texte": "Le calcaire des carrières est d’abord acheminé par bateaux, puis en 1927 par un transport par câble aérien, exploité par le transporteur aérien Maxéville-Dombasle surnommé TP Max.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1963",
+    "texte": "En 1963, la commune démolit les vestiges du château de Dombasle, édifié sur une motte féodale.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Dombasle-sur-Meurthe",
+   "histoire": "Le nouveau bâtiment de la gare existe toujours : il est conforme au style de la Compagnie de l’Est après 1903 et aurait été construit avant 1914. En 2015, une fresque de 250 m2 a été réalisée et inaugurée par la mairie et la SNCF.",
+   "anecdotes": [
+    {
+     "texte": "En 2015, une fresque de 250 m2 a été réalisée et inaugurée par la mairie et la SNCF à la gare et dans son passage souterrain.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le nouveau bâtiment de la gare existe toujours.",
+   "sources": [
+    "S6"
+   ],
+   "lat": 48.623268,
+   "lon": 6.343459,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Dombasle-sur-Meurthe"
+  },
+  {
+   "nom": "Gare de Rosières-aux-Salines",
+   "histoire": "La gare de Rosières-aux-Salines se trouve sur le territoire de Dombasle-sur-Meurthe, à proximité de Rosières-aux-Salines. En 1852, la Compagnie du chemin de fer de Paris à Strasbourg construit un bâtiment voyageurs de type 5.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 48.605431,
+   "lon": 6.350607,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Rosi%C3%A8res-aux-Salines"
+  }
+ ],
+ "sources": [
+  "Dombasle-sur-Meurthe [dɔ̃bal syʁ mœʁt] est une commune française située dans le département de Meurthe-et-Moselle, en région Grand Est. Ville-centre de l'unité urbaine qui porte son nom, elle appartient à l'aire urbaine de Nancy. La commune porte le nom Dombasle jusqu’en 1961. Ses habitants sont les Dombasloises et les Dombaslois.",
+  "Sous l'ancien régime, le fief de Dombasle relevait du bailliage et de la châtellenie de Nancy. La communauté était divisée en deux bans, donc deux seigneuries distinctes : le ban de Lamont (l'Amont) ou ban des seigneurs contenant le château de la Motte (actuelle rue de La Motte) et le ban de Laval (l'Aval) ou ban de La Vaux ou encore ban Saint-Gergonne. Les habitants de ce dernier étaient appelés les Gergonnets. […]",
+  "1927 : Le calcaire, provenant des carrières alentour était initialement acheminé par bateaux, puis à partir de 1927 par un système de transport par câble aérien, le transporteur aérien Maxéville-Dombasle, surnommé TP Max, utilisé jusqu'en 1984 puis abandonné et démonté.",
+  "1963 : Les vestiges du château de Dombasle, édifié sur une motte féodale, ont été démolis par la commune en 1963.",
+  "Lieu « Gare de Dombasle-sur-Meurthe » : La gare de Dombasle-sur-Meurthe est une gare ferroviaire française de la ligne de Noisy-le-Sec à Strasbourg-Ville (Paris - Strasbourg), située sur le territoire de la commune de Dombasle-sur-Meurthe, dans le département de Meurthe-et-Moselle, en régi",
+  "Lieu « Gare de Dombasle-sur-Meurthe », 1903 : Le nouveau bâtiment, qui existe toujours, est conforme au nouveau style de la Compagnie de l'Est après 1903 et a probablement été construit avant 1914, les bâtiments d'après-guerre ayant des ouvertures plus petites et des décorations moins sophistiquées.",
+  "Lieu « Gare de Dombasle-sur-Meurthe », 2015 : En 2015, une fresque de 250 m2 décorant la gare et son passage souterrain a été réalisée et inaugurée par la mairie et la SNCF.",
+  "Lieu « Gare de Dombasle-sur-Meurthe », aujourd'hui : Ce bâtiment, mal situé et trop exigu fut remplacé par un nouveau bâtiment[Quand ?].",
+  "Lieu « Gare de Rosières-aux-Salines » : La gare de Rosières-aux-Salines est une gare ferroviaire française de la ligne de Noisy-le-Sec à Strasbourg-Ville (Paris – Strasbourg), située sur le territoire de la commune de Dombasle-sur-Meurthe, à proximité de Rosières-aux-Salines, dans le dépar",
+  "Lieu « Gare de Rosières-aux-Salines », 1852 : En 1852, la Compagnie du chemin de fer de Paris à Strasbourg construisit un bâtiment voyageurs de type 5 à Rosières-aux-Salines."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

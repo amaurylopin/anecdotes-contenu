@@ -1,0 +1,94 @@
+{
+ "commune": {
+  "titre": "Laxou",
+  "code_insee": "54304",
+  "departement": "54",
+  "population": 14771,
+  "lat": 48.686389,
+  "lon": 6.152778,
+  "url": "https://fr.wikipedia.org/wiki/Laxou"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:28:28",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1129,
+  "sortie": 619
+ },
+ "cout_usd": 0.001,
+ "accroche": "En 1130, Laxou est citée pour la première fois sous le nom de Larzuls.",
+ "histoire": {
+  "recit": "Avant la grande agglomération, Laxou se trouvait à environ quatre kilomètres de Nancy. Le village relevait de la généralité et du bailliage de Nancy et vivait selon la coutume de Lorraine. Déjà occupée à l’époque mérovingienne, la commune apparaît ensuite dans les textes au XIe siècle, sous le nom de Larzuls.\n\nEn 1140, la commanderie est édifiée en pleine campagne, près du faubourg Saint-Jean. Plus tard, lors du siège de Nancy par Louis XIII en 1633, des abattis ou remparts sont installés pour bloquer l’accès aux troupes du duc de la Force.\n\nLa route évolue au XIXe siècle : un usage est signalé jusqu’en 1841, date de construction de la route actuelle de Nancy à Toul. En 1881, un chemin de fer est construit pour limiter la destruction des routes par les chariots. Enfin, une mine est fermée en 1891 : l’ennoiement des galeries pose encore des problèmes d’affaissements de terrain.",
+  "chronologie": [
+   {
+    "date": "1130",
+    "texte": "Laxou est citée pour la première fois sous le nom de Larzuls.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1140",
+    "texte": "La commanderie est édifiée en 1140, en pleine campagne à proximité du faubourg Saint-Jean.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1633",
+    "texte": "Pendant le siège de Nancy par Louis XIII, des abattis ou remparts sont installés pour bloquer l’accès aux troupes du duc de la Force.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1841",
+    "texte": "L’usage mentionné se poursuit jusqu’en 1841, date où la route actuelle de Nancy à Toul est construite.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "Un chemin de fer est construit en 1881 pour parer à la destruction des routes par les chariots.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "La mine est fermée en 1891 ; l’ennoiement des galeries pose encore des problèmes d’affaissements de terrain.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Laxou est une commune française située dans le département de Meurthe-et-Moselle, en région Grand Est.",
+  "Avant le développement de l’agglomération, le village de Laxou était situé à environ quatre kilomètres de Nancy. Il dépendait de la généralité et du bailliage de cette ville, et était régi par la coutume de Lorraine. Déjà occupée à l’époque mérovingienne, Laxou est citée pour la première fois en 1130 sous le nom de Larzuls. L'abbaye de Clairlieu, sur la commune voisine de Villers-lès-Nancy, possédait également […]",
+  "1130 : Déjà occupée à l’époque mérovingienne, Laxou est citée pour la première fois en 1130 sous le nom de Larzuls.",
+  "1140 : La commanderie est édifiée en 1140, en pleine campagne à proximité du faubourg Saint-Jean.",
+  "1633 : Lors du siège de Nancy par Louis XIII en 1633, des abattis ou remparts ont été installés pour bloquer l'accès aux troupes du duc de la Force.",
+  "1841 : Elle sera utilisée jusqu'en 1841, date où la route actuelle de Nancy à Toul sera construite.",
+  "1881 : Un chemin de fer est construit en 1881 pour parer à la destruction des routes par les chariots.",
+  "1891 : Cette mine est fermée en 1891 ; aujourd'hui, l'ennoiement des galeries pose encore des problèmes d'affaissements de terrain."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "commune": {
+  "titre": "Frouard",
+  "code_insee": "54215",
+  "departement": "54",
+  "population": 6444,
+  "lat": 48.76,
+  "lon": 6.1319,
+  "url": "https://fr.wikipedia.org/wiki/Frouard"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:46:50",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1286,
+  "sortie": 864
+ },
+ "cout_usd": 0.001337,
+ "accroche": "En 1271, le duc Ferry III de Lorraine fait édifier en haut de la côte de Pimont un ouvrage dépendant de l’abbaye de Lay-Saint-Christophe contre une redevance annuelle de soixante sols.",
+ "histoire": {
+  "recit": "À Frouard, sur les rives de la Moselle, l’histoire a longtemps tenu à des pouvoirs et à des hommes de passage. La commune devient d’abord le chef-lieu d’une châtellenie, tenue sous l’hommage des comtes de Champagne puis, par suite, des rois de France, jusqu’à ce que la date de 1465 la fasse basculer. Au XVe siècle, elle prend un rôle d’encadrement avec une prévôté. Plus tard encore, un marquisat vient structurer le territoire : en 1713, l’élévation est actée.\n\nEt puis il y a l’économie du quotidien : en 1271, l’édification en haut de la côte de Pimont se fait sur un fond lié à l’abbaye de Lay-Saint-Christophe, moyennant une redevance annuelle venant du four banal.\n\nAujourd’hui, les rives s’animent aussi par le port. Enfin, la scène continue de vivre au théâtre Gérard-Philipe, où même les modèles en faïence, dans une tendance Art déco, attirent les collectionneurs.",
+  "chronologie": [
+   {
+    "date": "1220",
+    "texte": "La châtellenie de Frouard passe sous l’hommage des comtes de Champagne, puis des rois de France.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1420",
+    "texte": "Frouard devient le siège d’une prévôté (prévostei de Froward).",
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   {
+    "date": "1465",
+    "texte": "La châtellenie cesse d’être tenue sous l’hommage des rois de France.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1713",
+    "texte": "Un marquisat est érigé à Frouard.",
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Nancyport",
+   "histoire": "Nancyport est la société d’exploitation du port fluvial de Frouard, à 8 km au nord de Nancy, en Meurthe-et-Moselle.",
+   "anecdotes": [
+    {
+     "texte": "En octobre 2015, la plate-forme conteneurs du port de Frouard a été inaugurée le 9 octobre.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Plate-forme conteneurs du port de Frouard, inaugurée le 9 octobre 2015.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 48.754171,
+   "lon": 6.148035,
+   "url": "https://fr.wikipedia.org/wiki/Nancyport"
+  },
+  {
+   "nom": "Théâtre Gérard-Philipe (Frouard)",
+   "histoire": "Le théâtre Gérard-Philipe de Frouard est une salle de spectacle.",
+   "anecdotes": [
+    {
+     "texte": "Les modèles en faïence (vases, figurines, bestiaire et vaisselle), dans une tendance Art déco, sont recherchés par les collectionneurs.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Modèles en faïence Art déco recherchés par les collectionneurs.",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 48.7603,
+   "lon": 6.1294,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_G%C3%A9rard-Philipe_%28Frouard%29"
+  }
+ ],
+ "sources": [
+  "Frouard est une commune française située sur les rives de la Moselle au nord de l'agglomération de Nancy, dans le département de Meurthe-et-Moselle, ville de Lorraine en région Grand Est. Ses habitants, au nombre de 6 563 en 2017, sont appelés les Frouardais.",
+  "Frouard fut le chef-lieu d'une châtellenie, qui passa en 1220 sous l'hommage des comtes de Champagne et, par suite, des rois de France, où elle resta jusqu'en 1465. La commune fut par ailleurs le siège d'une prévôté (prévostei de Froward) en 1420, et enfin d'un marquisat érigé en 1713. Édifié en haut de la côte de Pimont par le duc Ferry III de Lorraine en 1271 sur un fond dépendant de l'abbaye de […]",
+  "1271 : Édifié en haut de la côte de Pimont par le duc Ferry III de Lorraine en 1271 sur un fond dépendant de l'abbaye de Lay-Saint-Christophe contre la redevance annuelle de soixante sols provenant du four banal.",
+  "1420 : La commune fut par ailleurs le siège d'une prévôté (prévostei de Froward) en 1420, et enfin d'un marquisat érigé en 1713.",
+  "Lieu « Nancyport » : Nancyport est la société d'exploitation du port fluvial de Frouard, à 8 km au nord de Nancy, dans le département de Meurthe-et-Moselle, en Lorraine.",
+  "Lieu « Nancyport », 2015 : La plate-forme conteneurs du port de Frouard est inaugurée le 9 octobre 2015.",
+  "Lieu « Théâtre Gérard-Philipe (Frouard) » : Le théâtre Gérard-Philipe de Frouard (Meurthe-et-Moselle) est une salle de spectacle française.",
+  "Lieu « Théâtre Gérard-Philipe (Frouard) », aujourd'hui : Ses modèles en faïence (vases, figurines, bestiaire et vaisselle), dans la tendance Art déco, sont aujourd’hui recherchés par les collectionneurs."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

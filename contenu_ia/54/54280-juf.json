@@ -1,0 +1,162 @@
+{
+ "commune": {
+  "titre": "Jœuf",
+  "code_insee": "54280",
+  "departement": "54",
+  "population": 6392,
+  "lat": 49.2306,
+  "lon": 6.0097,
+  "url": "https://fr.wikipedia.org/wiki/J%C5%93uf"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:47:28",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1439,
+  "sortie": 1001
+ },
+ "cout_usd": 0.001539,
+ "accroche": "En 1681, Jœuf est un fief mouvant du roi, lié au chapitre de la cathédrale de Metz.",
+ "histoire": {
+  "recit": "Jœuf, commune de Meurthe-et-Moselle en région Grand Est, s’organise autour d’une histoire d’outillage et de pouvoir. En 1681, elle est un fief mouvant du roi relevant du chapitre de la cathédrale de Metz, et elle relève ensuite du bailliage de Briey entre 1751 et 1790. Dans la même mémoire locale, le lieu-dit Franchepré dépend de l’abbaye du Justemont, et un ermitage s’y établit au XVIe siècle.\n\nLe grand tournant se lit aussi dans ses formes de production. Dans la vallée de l’Orne, l’usine sidérurgique de Jœuf marque le paysage : la famille de Wendel lance l’ouvrage en 1871, avec la participation des Schneider. Les installations s’étoffent ensuite avec la mise à feu du haut fourneau 8 en juillet 1912 et le démarrage de l’aciérie dès 1881, pour la première charge le 9 décembre 1882. Puis viennent les fermetures : en 1969, l’aciérie et la plupart des trains sont arrêtés, et il ne reste aujourd’hui que quelques unités, intégrées aux outils modernes de la vallée de l’Orne.\n\nLe même élan industriel touche les voies. La gare de Jœuf se trouve sur la ligne de Saint-Hilaire-au-Temple à Hagondange, et en 1892-1893, l’usine reconstruit une route à ses frais à cause du trafic.",
+  "chronologie": [
+   {
+    "date": "1681",
+    "texte": "Jœuf est un fief mouvant du roi, appartenant au chapitre de la cathédrale de Metz.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "À Franchepré, un ermitage s’établit.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1751-1790",
+    "texte": "Jœuf fait partie du bailliage de Briey.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "La famille de Wendel décide de l’usine sidérurgique de Jœuf, avec la participation des Schneider.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1881",
+    "texte": "La construction de l’aciérie démarre.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "9 décembre 1882",
+    "texte": "Première charge soufflée au convertisseur Thomas.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "juillet 1912",
+    "texte": "Mise à feu du haut fourneau 8.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1969",
+    "texte": "Fermeture de l’aciérie et de la plupart des trains.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Quelques unités subsistent, dont le Train Continu à Fil et la nouvelle division des hauts fourneaux, combinés avec les outils modernes survivants.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1892-1893",
+    "texte": "L’usine reconstruit une route à ses frais, rapidement ruinée par le trafic.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Usine sidérurgique de Jœuf",
+   "histoire": "Ancien complexe sidérurgique installé dans la vallée de l’Orne, sur le ban des communes de Jœuf et de Moyeuvre-Grande.",
+   "anecdotes": [
+    {
+     "texte": "En 1871, la famille de Wendel lance l’usine car ses établissements se retrouvent coupés du marché français, du fait de l’intégration de la Moselle annexée.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 1892-1893 (sur le territoire desservi par la gare et les routes de l’usine), la chaussée se dégrade vite : certains jours, le trafic atteint 1 500 tonnes.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne reste plus que quelques unités, dont la nouvelle division des hauts fourneaux et le Train Continu à Fil, combinés avec les autres outils modernes survivants dans la vallée de l’Orne.",
+   "sources": [
+    "S3",
+    "S7"
+   ],
+   "lat": 49.23,
+   "lon": 6.028,
+   "url": "https://fr.wikipedia.org/wiki/Usine_sid%C3%A9rurgique_de_J%C5%93uf"
+  },
+  {
+   "nom": "Gare de Jœuf",
+   "histoire": "Gare ferroviaire française située sur le territoire de la commune de Jœuf, sur la ligne de Saint-Hilaire-au-Temple à Hagondange.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8"
+   ],
+   "lat": 49.22502,
+   "lon": 6.017707,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_J%C5%93uf"
+  }
+ ],
+ "sources": [
+  "Jœuf est une commune française située dans le département de Meurthe-et-Moselle, en région Grand Est. C'est l'une des trois villes-centres de l'unité urbaine de Jœuf.",
+  "En 1681, Jœuf est un fief mouvant du roi qui appartient au chapitre de la cathédrale de Metz. Entre 1751 et 1790, cette ville fait partie du bailliage de Briey. Le lieu-dit Franchepré relevait de l'abbaye du Justemont (prémontrés) ; un ermitage s'y établit au XVIe siècle. En août 1809, sur décision de Napoléon Ier, les communes de Jœuf et d'Homécourt fusionnent et Charles Louis, premier édile depuis 1803, est […]",
+  "Lieu « Usine sidérurgique de Jœuf » : L’usine sidérurgique de Jœuf est un ancien complexe sidérurgique dans la vallée de l'Orne, en Moselle, situé sur le ban des communes de Jœuf et de Moyeuvre-Grande.",
+  "Lieu « Usine sidérurgique de Jœuf », 1871 : Décidée en 1871 par la famille de Wendel, qui voit toutes ses usines coupées du marché français par leur intégration dans la Moselle annexée, l'usine est fondée avec la participation des Schneider.",
+  "Lieu « Usine sidérurgique de Jœuf », 1912 : La batterie de 8 hauts fourneaux sera achevée 10 ans après, avec la mise à feu du haut fourneau 8 en juillet 1912 ; la construction de l’aciérie démarre en 1881 et la première charge est soufflée au convertisseur Thomas le 9 décembre 1882.",
+  "Lieu « Usine sidérurgique de Jœuf », 1969 : Les premières restructurations de la sidérurgie lorraine condamnent les unités obsolètes : l'aciérie et la plupart des trains sont ainsi fermés en 1969.",
+  "Lieu « Usine sidérurgique de Jœuf », aujourd'hui : Il ne reste plus que quelques unités, dont la nouvelle division des hauts fourneaux et le Train Continu à Fil, qui sont combinés avec les autres outils modernes survivants dans la vallée de l'Orne.",
+  "Lieu « Gare de Jœuf » : La gare de Jœuf est une gare ferroviaire française de la ligne de Saint-Hilaire-au-Temple à Hagondange, située sur le territoire de la commune de Jœuf, dans le département de Meurthe-et-Moselle en région Grand Est.",
+  "Lieu « Gare de Jœuf », 1892 : En 1892-1893, l'usine reconstruit cette route à ses frais, car la chaussée est rapidement ruinée par l'intense trafic (1 500 tonnes transportées certains jours !)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

@@ -1,0 +1,278 @@
+{
+ "commune": {
+  "titre": "Malzéville",
+  "code_insee": "54339",
+  "departement": "54",
+  "population": 7820,
+  "lat": 48.7111,
+  "lon": 6.1872,
+  "url": "https://fr.wikipedia.org/wiki/Malz%C3%A9ville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:22:19",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2381,
+  "sortie": 2021
+ },
+ "cout_usd": 0.003002,
+ "accroche": "Le 19 avril 2015, un incendie de forêt ravagea entre 6 et 10 hectares sur le Plateau de Malzéville, avec une incursion jusque dans une pinède.",
+ "histoire": {
+  "recit": "Malzéville, commune de la métropole du Grand Nancy, s’étend sur un plateau anciennement occupé : tumulus, un reste de mur cyclopéen au lieu-dit La Trinité, et des vestiges de fonderie de fer à la butte Sainte-Geneviève témoignent d’occupations répétées avant le village. Le secteur a aussi accueilli, au fil du temps, des ouvrages et des domaines marquants.\n\nAprès la guerre de 1871, la commune reçoit de nombreuses personnes déplacées de la zone annexée : sa population passe à 2 200 habitants. Plus tard, à Pixerécourt, un château construit en 1860 selon des plans dits « style XVIIIe siècle » remplace un château du XVIIe siècle, puis le domaine est vendu au département au début des années 1950 pour y installer un lycée agricole.\n\nDans le paysage, le lien avec Nancy se lit aussi par le Pont de Malzéville : un premier pont est construit vers 1498 ou 1499, rétabli en 1633 avant une destruction partielle en 1764. Enfin, la commune montre son visage naturel et technique : une butte-témoin subsiste sur le plateau, et l’Émetteur de Malzéville est mis en service en 1965.",
+  "chronologie": [
+   {
+    "date": "1860",
+    "texte": "À Pixerécourt, le château est construit, en remplaçant un château plus ancien du XVIIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "Après l’annexion de l’Alsace-Moselle, Malzéville reçoit des personnes déplacées et sa population atteint 2 200 habitants.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1498 ou 1499",
+    "texte": "Un premier pont de Malzéville est construit sous le règne du duc René II de Lorraine, par l’architecte Jacob Wauthier.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1633",
+    "texte": "Le pont de Malzéville est rétabli.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1764",
+    "texte": "Le pont de Malzéville est partiellement détruit.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1950 (début des années 1950)",
+    "texte": "Le domaine de Pixerécourt est vendu au département, qui y installe le lycée agricole.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1965",
+    "texte": "L’Émetteur de Malzéville est mis en service, en remplacement du premier émetteur installé à Vandœuvre-lès-Nancy en 1963.",
+    "sources": [
+     "S22"
+    ]
+   },
+   {
+    "date": "19 avril 2015",
+    "texte": "Un incendie de forêt ravage entre 6 et 10 hectares sur le Plateau de Malzéville.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pixerécourt (Meurthe-et-Moselle)",
+   "histoire": "Un ancien fief devenu ancienne commune, Pixerécourt conserve l’essentiel de son histoire dans le château et ses aménagements : le domaine passe au département au début des années 1950 pour le lycée agricole, tandis que la chapelle Saint-Pierre a pris place à l’emplacement de l’ancienne église communale.",
+   "anecdotes": [
+    {
+     "texte": "Le château de Pixerécourt a aussi porté, par le passé, le nom de « Château O'Gorman ».",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "La chapelle Saint-Pierre, de style néo-roman, a été construite par le comte O'Gorman à l’emplacement de l’ancienne église communale.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Chapelle Saint-Pierre, de style néo-roman, construite par le comte O'Gorman à l’emplacement de l’ancienne église communale.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 48.73041,
+   "lon": 6.180401,
+   "url": "https://fr.wikipedia.org/wiki/Pixer%C3%A9court_%28Meurthe-et-Moselle%29"
+  },
+  {
+   "nom": "Plateau de Malzéville",
+   "histoire": "Le plateau domine Malzéville et a livré des traces de protohistoire. Aujourd’hui, il forme un relief repérable au nord-est de Nancy, avec une butte-témoin encore visible.",
+   "anecdotes": [
+    {
+     "texte": "En 2015, le feu a ravagé entre 6 et 10 hectares, mais a quand même fait une incursion dans la forêt de pinède.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une butte-témoin subsiste au sud-est du plateau : la butte Sainte-Geneviève (361 mètres).",
+   "sources": [
+    "S11",
+    "S9"
+   ],
+   "lat": 48.72556,
+   "lon": 6.20361,
+   "url": "https://fr.wikipedia.org/wiki/Plateau_de_Malz%C3%A9ville"
+  },
+  {
+   "nom": "Les Balcons de Velchée",
+   "histoire": "Les Balcons de Velchée est un ensemble résidentiel conçu en 1982. Son parcours passe ensuite par une labellisation au moment où l’architecte disparaît.",
+   "anecdotes": [
+    {
+     "texte": "Après la disparition de l’architecte en 2016, l’ensemble devient un label « Architecture contemporaine remarquable » (ACR).",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Encore aujourd’hui, son état de conservation est bon et l’œuvre d’André n’a pas été dénaturée.",
+   "sources": [
+    "S14",
+    "S12",
+    "S13"
+   ],
+   "lat": 48.717306,
+   "lon": 6.185889,
+   "url": "https://fr.wikipedia.org/wiki/Les_Balcons_de_Velch%C3%A9e"
+  },
+  {
+   "nom": "Pont de Malzéville",
+   "histoire": "Le Pont de Malzéville franchit la Meurthe et relie Malzéville à Nancy. Son histoire est faite de reconstructions et de destructions partielles : un premier pont est construit vers 1498 ou 1499, puis rétabli en 1633 avant une destruction partielle en 1764.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.705459,
+   "lon": 6.18387,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Malz%C3%A9ville"
+  },
+  {
+   "nom": "Arboretum de l'Abiétinée",
+   "histoire": "L’arboretum de l’Abiétinée se trouve sur la commune de Malzéville, au nord-est de Nancy. Il a connu un tournant au moment où l’entretien a cessé.",
+   "anecdotes": [
+    {
+     "texte": "Dans les années 1960, la partie de l’arboretum a été vendue à une société immobilière qui a cessé tout entretien.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On retrouve encore aujourd’hui dans le parc des associations végétales qui inspiraient les artistes autrefois.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 48.708531,
+   "lon": 6.195071,
+   "url": "https://fr.wikipedia.org/wiki/Arboretum_de_l%27Abi%C3%A9tin%C3%A9e"
+  },
+  {
+   "nom": "Émetteur de Malzéville",
+   "histoire": "L’Émetteur de Malzéville (ou de Nancy-Malzéville) est un émetteur de télévision et de radio FM implanté à Malzéville, sur un plateau culminant à 384 m d’altitude.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 48.71917,
+   "lon": 6.20472,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89metteur_de_Malz%C3%A9ville"
+  },
+  {
+   "nom": "Aérodrome de Nancy - Malzéville",
+   "histoire": "L’aérodrome de Nancy - Malzéville est un aérodrome agréé à usage restreint, situé sur la commune de Malzéville. L’aéroclub y est mentionné comme ayant été fondé en 1909.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24"
+   ],
+   "lat": 48.72361,
+   "lon": 6.20639,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Nancy_-_Malz%C3%A9ville"
+  },
+  {
+   "nom": "Cure d'air Trianon",
+   "histoire": "La cure d’air Trianon était une ancienne guinguette située à Malzéville : elle fonctionnait de mai à septembre, sur une période donnée.",
+   "anecdotes": [
+    {
+     "texte": "La Cure d’Air était annoncée comme ouverte de mai à septembre, en activité de 1902 à 1907 environ.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26"
+   ],
+   "lat": 48.7098,
+   "lon": 6.1965,
+   "url": "https://fr.wikipedia.org/wiki/Cure_d%27air_Trianon"
+  }
+ ],
+ "sources": [
+  "Malzéville est une commune française située dans le département de Meurthe-et-Moselle, en région Grand Est, en Lorraine. C'est l'une des vingt communes de la métropole du Grand Nancy.",
+  "Le plateau qui domine Malzéville a été occupé à différentes époques de la protohistoire. Des fouilles du XIXe siècle ont révélé plusieurs ensembles de tumulus, un reste de mur cyclopéen au lieu-dit La Trinité, des vestiges de fonderie de fer à la butte Sainte-Geneviève, ainsi que des poteries noires et des haches de pierre polie. Village de l'ancien duché de Lorraine, Malzéville est mentionné pour la première fois […]",
+  "1871 : Après l'annexion de l'Alsace-Moselle par l'Empire allemand en 1871, Malzéville reçoit de nombreuses personnes déplacées de la zone annexée et sa population passe à 2 200 habitants.",
+  "Lieu « Pixerécourt (Meurthe-et-Moselle) » : Pixerécourt est un ancien fief et une ancienne commune du département de Meurthe-et-Moselle.",
+  "Lieu « Pixerécourt (Meurthe-et-Moselle) », 1860 : Château de Pixerécourt qui fut aussi appelé par le passé Château O'Gorman, château construit en 1860 d'après les plans de Corrard des Essarts de style XVIIIe siècle, remplaçant un château plus ancien du XVIIe siècle.",
+  "Lieu « Pixerécourt (Meurthe-et-Moselle) », 1950 : Au tout début des années 1950, le domaine (le château, l'église, la ferme et les 155 hectares de terre) est vendu au département de Meurthe-et-Moselle qui y installe le lycée agricole.",
+  "Lieu « Pixerécourt (Meurthe-et-Moselle) », 2000 : Ces questions font suite à la rénovation au début des années 2000 du Lycée Mathieu-De-Dombasle (Pixerécourt) et du départ de son administration du château pour des bâtiments neufs.",
+  "Lieu « Pixerécourt (Meurthe-et-Moselle) », aujourd'hui : Chapelle Saint-Pierre, de style néo-roman, construite par le comte O'Gorman à l'emplacement de l'ancienne église communale.",
+  "Lieu « Plateau de Malzéville » : Le plateau de Malzéville est un relief situé principalement au sein de la commune de Malzéville, dans le département de Meurthe-et-Moselle, au nord-est de l'agglomération de Nancy.",
+  "Lieu « Plateau de Malzéville », 2015 : Le 19 avril 2015, un incendie de forêt ravage entre 6 et 10 hectares, majoritairement de chablis et de broussailles, mais le feu a quand même fait une incursion dans la forêt de pinède.",
+  "Lieu « Plateau de Malzéville », aujourd'hui : Une butte-témoin subsiste au sud-est du plateau : la butte Sainte-Geneviève (361 mètres).",
+  "Lieu « Les Balcons de Velchée » : L’ensemble résidentiel Les Balcons de Velchée est un projet architectural conçu par l’architecte Jean-Luc André en collaboration avec les architectes Claude Prouvé et André Faye en 1982.",
+  "Lieu « Les Balcons de Velchée », 2016 : Avec la disparition de ce dernier en 2016, il devient alors label « Architecture contemporaine remarquable » (ACR) et rejoint la collection des édifices labellisés de la région du Grand Est.",
+  "Lieu « Les Balcons de Velchée », aujourd'hui : Encore aujourd'hui, son état de conservation est bon et l’œuvre d'André n'a pas été dénaturée.",
+  "Lieu « Pont de Malzéville » : Le Pont de Malzéville est un pont en pierre maçonné de quinze travées franchissant la Meurthe et reliant la commune de Malzéville à Nancy, dans le département de Meurthe-et-Moselle et la région Grand Est.",
+  "Lieu « Pont de Malzéville », 1498 : Un premier pont de Malzéville a été construit sous le règne du duc René II de Lorraine par l'architecte Jacob Wauthier vers 1498 ou 1499, d'après les archives de Nancy.",
+  "Lieu « Pont de Malzéville », 1633 : Il a été rétabli en 1633, mais a été partiellement détruit en 1764.",
+  "Lieu « Arboretum de l'Abiétinée » : L’arboretum de l'Abiétinée est un arboretum, qui se situe sur le territoire de la commune de Malzéville, au Nord-Est de Nancy.",
+  "Lieu « Arboretum de l'Abiétinée », 1960 : Dans les années 1960, cette partie a été vendue à une société immobilière qui a cessé tout entretien.",
+  "Lieu « Arboretum de l'Abiétinée », aujourd'hui : On retrouve encore aujourd’hui dans le parc des associations végétales qui inspiraient les artistes autrefois[réf. souhaitée].",
+  "Lieu « Émetteur de Malzéville » : L'émetteur de Malzéville ou de Nancy-Malzéville est un émetteur de télévision et de radio FM implanté à Malzéville, à l'est de Nancy, sur un plateau culminant à 384 m d'altitude.",
+  "Lieu « Émetteur de Malzéville », 1965 : Sa mise en service date de 1965, en remplacement du premier émetteur de télévision installé à Vandœuvre-lès-Nancy en 1963.",
+  "Lieu « Aérodrome de Nancy - Malzéville » : L’aérodrome de Nancy - Malzéville (code OACI : LFEZ) est un aérodrome agréé à usage restreint, situé sur la commune de Malzéville à 4 km au nord-nord-est de Nancy en Meurthe-et-Moselle (région Lorraine, France).",
+  "Lieu « Aérodrome de Nancy - Malzéville », 1909 : L’aéroclub a été fondé en 1909, il est depuis lors basé à Essey-lès-Nancy pour la section vol moteur sur l’aéroport de Nancy-Essey.",
+  "Lieu « Cure d'air Trianon » : La cure d'air Trianon est une ancienne guinguette située à Malzéville.",
+  "Lieu « Cure d'air Trianon », 1902 : La Cure d'Air ouverte de mai à septembre, sera en activité de 1902 à 1907 environ."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Vand"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}
