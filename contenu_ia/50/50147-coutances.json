@@ -1,0 +1,259 @@
+{
+ "commune": {
+  "titre": "Coutances",
+  "code_insee": "50147",
+  "departement": "50",
+  "population": 8321,
+  "lat": 49.045278,
+  "lon": -1.445278,
+  "url": "https://fr.wikipedia.org/wiki/Coutances"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:16:05",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3393,
+  "sortie": 1770
+ },
+ "cout_usd": 0.002891,
+ "accroche": "À Coutances, en juin 1944, plusieurs bombardements font plus de 300 morts, tout en épargnant la cathédrale.",
+ "histoire": {
+  "recit": "À Coutances, on parle d’une ville façonnée par les routes anciennes et par les chocs du temps. D’abord, des fouilles au lieu-dit Le Petit Vaudôme signalent une occupation gauloise, puis la ville prend au IIIe siècle le nom de Constantia et reçoit, selon le récit, ses premières fortifications. La cathédrale, elle, revient sans cesse dans les histoires : première basilique abîmée, puis achèvement au XIe siècle, et enfin une grande forme gothique au XIIIe siècle.\n\nQuand les guerres de Religion éclatent, la ville est envahie le 10 août 1562 et la cathédrale est pillée. Au XXe siècle, l’occupation allemande dure de 1940 à 1944, suivie, en juin 1944, de bombardements meurtriers.\n\nAu quotidien, des bâtiments gardent le fil de la vie collective : la gare, ouverte en décembre 1878, le parc médiéval de l’Évêque, créé au XIe siècle, et la halle aux poissons, reconstruite après les destructions et encore concernée par des travaux.",
+  "chronologie": [
+   {
+    "date": "IIIe siècle",
+    "texte": "Constantia s’impose comme nom de la ville ; les premières fortifications sont attribuées au règne de Constance Chlore.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "890",
+    "texte": "Lors d’une incursion viking, la ville est pillée : ses habitants et l’évêque de Coutances, Lista, sont massacrés avant qu’ils n’avancent sur Saint-Lô.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "10 août 1562",
+    "texte": "La ville est envahie pendant les guerres de Religion : la cathédrale est pillée par une troupe de Huguenots venus de Saint-Lô, menée par François de Bricqueville de Colombières.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1056",
+    "texte": "La cathédrale est inaugurée ; le parc médiéval de l’Évêque se situe dans le même élan du XIe siècle.",
+    "sources": [
+     "S38"
+    ]
+   },
+   {
+    "date": "1049",
+    "texte": "L’édifice de la cathédrale est achevé sous Geoffroy de Montbray.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1853",
+    "texte": "Inauguration du premier lycée d’État.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1940-1944",
+    "texte": "Coutances est occupée par les Allemands de 1940 à 1944.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "juin 1944",
+    "texte": "Plusieurs bombardements détruisent la ville : plus de 300 morts, la cathédrale est épargnée.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame de Coutances",
+   "histoire": "Édifice catholique romain de style gothique normand, siège du diocèse de Coutances et Avranches, la cathédrale a connu des destructions et des reprises jusqu’à sa forme actuelle.",
+   "anecdotes": [
+    {
+     "texte": "Selon une tradition rapportée par Toustain de Billy, la première basilique aurait été « détruite par les Normands infidèles » vers 866.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Une légende raconte qu’on peut la voir depuis la mer jusqu’à La Hougue Bie à Jersey, malgré plus de 40 kilomètres.",
+     "statut": "legende",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est visible depuis la mer, et la légende la relie à La Hougue Bie à Jersey.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 49.0475,
+   "lon": -1.4442,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Coutances"
+  },
+  {
+   "nom": "Diocèse de Coutances et Avranches",
+   "histoire": "Le diocèse organise la vie religieuse autour du siège épiscopal de Coutances et Avranches.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S16",
+    "S17"
+   ],
+   "lat": 49.0475,
+   "lon": -1.4442,
+   "url": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Coutances_et_Avranches"
+  },
+  {
+   "nom": "Église Saint-Pierre de Coutances",
+   "histoire": "L’église Saint-Pierre combine des styles gothique flamboyant et Renaissance, et conserve des traces d’états plus anciens malgré reconstructions et ruines.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Après sa reconstruction au XVe siècle, l’église est très dépouillée d’ornementation et conserve des éléments comme des chapiteaux à crochets et des arcatures en tiers-point.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 49.04597,
+   "lon": -1.44488,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Coutances"
+  },
+  {
+   "nom": "Hôtel-Dieu de Coutances",
+   "histoire": "Ensemble de bâtiments, l’Hôtel-Dieu a évolué au fil des reconstructions, notamment avec une chapelle datée de 1682.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui occupé par l’hôpital de Coutances, l’Hôtel-Dieu est partiellement classé aux monuments historiques.",
+   "sources": [
+    "S27"
+   ],
+   "lat": 49.04119,
+   "lon": -1.4449,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Coutances"
+  },
+  {
+   "nom": "Aqueduc de Coutances",
+   "histoire": "Ancien ouvrage destiné à alimenter en eau la ville, l’aqueduc a été restauré et remanié à plusieurs reprises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’aqueduc subsiste comme ancien ouvrage destiné à l’alimentation en eau de la ville.",
+   "sources": [
+    "S32"
+   ],
+   "lat": 49.051539,
+   "lon": -1.451663,
+   "url": "https://fr.wikipedia.org/wiki/Aqueduc_de_Coutances"
+  },
+  {
+   "nom": "Gare de Coutances",
+   "histoire": "La gare fait partie du réseau ferroviaire de la ligne de Lison à Lamballe ; elle a connu des changements d’usage pour certains bâtiments.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S35",
+    "S36"
+   ],
+   "lat": 49.042724,
+   "lon": -1.441481,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Coutances"
+  },
+  {
+   "nom": "Parc médiéval de l'Évêque",
+   "histoire": "Créé au XIe siècle à Coutances, rue de la Verjusière, le parc est marqué par le travail autour du Bulsard et par la présence d’une réserve naturelle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le cœur du parc est aujourd’hui une réserve naturelle, reconstituée par les propriétaires actuels.",
+   "sources": [
+    "S40"
+   ],
+   "lat": 49.04911,
+   "lon": -1.43226,
+   "url": "https://fr.wikipedia.org/wiki/Parc_m%C3%A9di%C3%A9val_de_l%27%C3%89v%C3%AAque"
+  },
+  {
+   "nom": "Halle aux poissons de Coutances",
+   "histoire": "Poissonnerie de marché, la halle a été reconstruite après les destructions de la Libération et a ensuite été engagée dans un cycle de reconnaissance et de rénovation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment est labelisé « Patrimoine du XXe siècle » ; après des travaux en 2016, une rénovation est envisagée.",
+   "sources": [
+    "S43",
+    "S44"
+   ],
+   "lat": 49.04652,
+   "lon": -1.4444,
+   "url": "https://fr.wikipedia.org/wiki/Halle_aux_poissons_de_Coutances"
+  }
+ ],
+ "sources": [
+  "Coutances est une commune française, située dans le département de la Manche en Normandie, peuplée de 8 321 habitants. Elle est notamment connue pour sa cathédrale, son festival Jazz sous les pommiers. Coutances est sous-préfecture, le siège de la Cour d'assises de la Manche et celui de l'évêché de Coutances et Avranches.",
+  "Des fouilles réalisées au lieu-dit Le Petit Vaudôme ont mis au jour une occupation gauloise. Chef-lieu du peuple celte des Unelles, la ville de Cosedia prend au IIIe siècle le nom de Constantia sous le règne de l'empereur Constance Chlore auquel on attribue les premières fortifications, en 296, dans le cadre du Litus Saxonicum. En tant que tétrarque entre 292 et 306., Constance Chlore a été chargé du gouvernement […]",
+  "890 : En 889, lors d'une nouvelle incursion viking, la ville est à nouveau pillée, et avant que ceux-ci n'avancent sur Saint-Lô, vers 890, ils massacrent ses habitants et l'évêque de Coutances, Lista.",
+  "1562 : Pendant les guerres de Religion, le 10 août 1562, la ville est envahie et la cathédrale est pillée par une forte troupe de Huguenots venus de Saint-Lô, avec à leur tête François de Bricqueville de Colombières, où ils font de nombreux morts et un pillage méthodique du bourg.",
+  "1853 : En 1853, est inauguré le premier lycée d'État.",
+  "1940 : La ville est occupée par les Allemands de 1940 à 1944.",
+  "1944 : En juin 1944, elle est détruite par plusieurs bombardements qui font plus de 300 morts, mais épargnent la cathédrale.",
+  "Lieu « Cathédrale Notre-Dame de Coutances » : La cathédrale Notre-Dame de Coutances est un édifice catholique romain du XIIIe siècle de style gothique normand, siège du diocèse de Coutances et Avranches, qui se dresse sur le territoire de la commune française de Coutances, dans le département de",
+  "Lieu « Cathédrale Notre-Dame de Coutances », 866 : Cette première basilique aurait été « détruite par les Normands infidèles » vers 866, selon Toustain de Billy.",
+  "Lieu « Cathédrale Notre-Dame de Coutances », 1049 : Elle sera achevée par son successeur Geoffroy de Montbray (1049-1093).",
+  "Lieu « Cathédrale Notre-Dame de Coutances », XIIIe siècle : La cathédrale Notre-Dame de Coutances est un édifice catholique romain du XIIIe siècle de style gothique normand, siège du diocèse de Coutances et Avranches, qui se dresse sur le territoire de la commune française de Coutances, dans le département de la Manche, en région Normandie.",
+  "Lieu « Cathédrale Notre-Dame de Coutances », aujourd'hui : Elle est visible depuis la mer et même, selon la légende, de La Hougue Bie à Jersey, située pourtant à plus de 40 kilomètres[réf. nécessaire].",
+  "Lieu « Diocèse de Coutances et Avranches » : Le diocèse de Coutances (en latin : Dioecesis Constantiensis) est un diocèse de l'Église catholique en France.",
+  "Lieu « Diocèse de Coutances et Avranches », 1810 : La cathédrale d'Avranches, ruinée pendant la Révolution, a été démolie en 1810.",
+  "Lieu « Diocèse de Coutances et Avranches », 1854 : Le 12 juin 1854, est érigé le diocèse de Coutances et Avranches : par décret apostolique, le titre d'évêque d'Avranches (supprimé en 1801 à la suite du Concordat) a été restauré par Pie IX et conféré à tous les évêques de Coutances.",
+  "Lieu « Diocèse de Coutances et Avranches », 2023 : Le siège épiscopal est occupé depuis le 5 août 2023, par Grégoire Cador.",
+  "Lieu « Diocèse de Coutances et Avranches », aujourd'hui : Chaque nouveau doyenné regroupe des nouvelles paroisses, qui ont aujourd'hui la taille d'un canton.",
+  "Lieu « Église Saint-Pierre de Coutances » : L'église Saint-Pierre de Coutances est un édifice catholique, de styles gothique flamboyant et Renaissance, qui se dresse sur le territoire de la commune française de Coutances dans le département la Manche, en région Normandie.",
+  "Lieu « Église Saint-Pierre de Coutances », 1221 : En 1221, Hugues de Morville donne le patronage de l'église à l'Hôtel-Dieu de Coutances, qu'il avait fondé en Juillet 1209.",
+  "Lieu « Église Saint-Pierre de Coutances », XIIIe siècle : L'édifice est reconstruit au XIIIe siècle et ruiné pendant la guerre de Cent Ans.",
+  "Lieu « Église Saint-Pierre de Coutances », 1494 : Reconstruction de l'église (1494) « L'an 1494 le jour saint Georges fut réédifiée cette présente église après la ruine et démolition d'icelle, moyennant l'aide et singulière affection de révérend père en Dieu Monseigneur Geoffroy ».",
+  "Lieu « Église Saint-Pierre de Coutances », aujourd'hui : L'église, extrêmement dépouillée d'ornementation, a conservé lors de sa reconstruction au XVe siècle des parties de l'église précédente : chapiteaux à crochets du XIIIe, arcatures en tiers-point, corniches à crochets visibles à la base du clocher occidental, au sommet des murs de la nef, des bas-côtés, des croisillons et du chœur.",
+  "Lieu « Hôtel-Dieu de Coutances » : L'hôtel-Dieu est un ensemble de bâtiments qui se dresse sur le territoire de la commune française de Coutances, dans le département la Manche, en région Normandie.",
+  "Lieu « Hôtel-Dieu de Coutances », XVe siècle : La tour de la chapelle construite, à la fin du XVe siècle, au temps de Geoffroy Herbert, a réutilisé pour décor les feuilles et les crochets, décor vieux de plus de deux siècles.",
+  "Lieu « Hôtel-Dieu de Coutances », 1682 : La tour à flèche de pierre date du XVe siècle, et la chapelle construite pour les religieuses augustines en 1682.",
+  "Lieu « Hôtel-Dieu de Coutances », 1682 : La chapelle datée de 1682, bâtie sur le modèle de la chapelle Mazarine, comprend une rotonde et une nef de trois travées.",
+  "Lieu « Hôtel-Dieu de Coutances », aujourd'hui : L'hôtel-Dieu, aujourd'hui occupé par l'hôpital de Coutances, est partiellement classé aux monuments historiques.",
+  "Lieu « Aqueduc de Coutances » : L'aqueduc de Coutances est un ancien ouvrage destiné à alimenter en eau la ville de Coutances, aujourd'hui dans le département de la Manche, en région Normandie.",
+  "Lieu « Aqueduc de Coutances », 1313 : Il est restauré en 1313, et en 1566, après l'incendie du couvent par les huguenots.",
+  "Lieu « Aqueduc de Coutances », XIXe siècle : Selon les recherches historiques de Louis-François de Fontenu et Charles de Gerville, au XVIIIe et XIXe siècles, un premier aqueduc aurait été construit à l'époque gallo-romaine à l'initiative de Constance Chlore, et détruit par les Normands.",
+  "Lieu « Aqueduc de Coutances », 1867 : Adolphe Joanne mentionne en 1867 que onze des seize arches sont détruites et qu'une pierre de la seconde arcade, vers la ville porte la date de 1595.",
+  "Lieu « Aqueduc de Coutances », aujourd'hui : L'aqueduc de Coutances est un ancien ouvrage destiné à alimenter en eau la ville de Coutances, aujourd'hui dans le département de la Manche, en région Normandie.",
+  "Lieu « Gare de Coutances » : La gare de Coutances est une gare ferroviaire française de la ligne de Lison à Lamballe, située sur le territoire de la commune de Coutances, dans le département de la Manche, en région Normandie.",
+  "Lieu « Gare de Coutances », 1878 : La gare de Coutances est mise en service le 30 décembre 1878 par la Compagnie des chemins de fer de l'Ouest lors de l’ouverture des sections Saint-Lô - Coutances et Avranches - Dol-de-Bretagne de la ligne de Lison à Lamballe Le bâtiment d'origine, édifié par les Chemins de fer de l'Ouest, était d'un type similaire à celui de la gare d'Avranches.",
+  "Lieu « Gare de Coutances », 1909 : L'ancienne gare ferroviaire des chemins de fer départementaux qui permettait de relier Coutances à Agon-Coutainville et Lessay, exploitée par la société des Chemins de fer de la Manche, inaugurée le 1er janvier 1909, a ensuite été utilisé comme gare routière.",
+  "Lieu « Gare de Coutances », 1990 : Il existe ou existait d'autres bâtiments dans l'enceinte de la gare : Dépôt de locomotives (détruit dans les années 1990), foyer des roulants et halle à marchandises.",
+  "Lieu « Parc médiéval de l'Évêque » : Le Parc l'Évêque est un parc créé au XIe siècle à Coutances, rue de la Verjusière.",
+  "Lieu « Parc médiéval de l'Évêque », 1050 : Le parc a été créé entre 1050 et 1057 par l'évêque Geoffroy de Montbray, alors que la cathédrale de Coutances fut inaugurée en 1056.",
+  "Lieu « Parc médiéval de l'Évêque », 1999 : Le travail accompli a permis l'ouverture de la boucle du Bulsard en 1999.",
+  "Lieu « Parc médiéval de l'Évêque », aujourd'hui : Le cœur du parc est aujourd'hui une réserve naturelle, reconstituée par les propriétaires actuels.",
+  "Lieu « Halle aux poissons de Coutances » : La halle aux poissons est une poissonnerie de marché situé à Coutances, dans le département de la Manche.",
+  "Lieu « Halle aux poissons de Coutances », 1896 : La poissonnerie de Coutances construite en 1896 est largement détruite par les bombes incendiaires lors de la Libération.",
+  "Lieu « Halle aux poissons de Coutances », XXe siècle : Crée lors de la période de la Reconstruction, le bâtiment est labelisé « Patrimoine du XXe siècle »",
+  "Lieu « Halle aux poissons de Coutances », 2016 : Après des travaux sur la place engagée en 2016, une rénovation du bâtiment est envisagée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}
