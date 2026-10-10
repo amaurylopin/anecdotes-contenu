@@ -1,0 +1,269 @@
+{
+ "commune": {
+  "titre": "Bussy-Saint-Georges",
+  "code_insee": "77058",
+  "departement": "77",
+  "population": 27498,
+  "lat": 48.8422,
+  "lon": 2.6983,
+  "url": "https://fr.wikipedia.org/wiki/Bussy-Saint-Georges"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:54:42",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1812,
+  "sortie": 1567
+ },
+ "cout_usd": 0.002321,
+ "accroche": "En 855, le territoire de Bussy-Saint-Georges formait une grande paroisse dont le patron était saint Georges.",
+ "histoire": {
+  "recit": "Bussy-Saint-Georges, commune de Seine-et-Marne, a grandi autour d’anciennes paroisses et d’histoires de domaines. Longtemps, le nom n’apparaît qu’au XIIIe siècle, tandis que le patronage de saint Georges remonte bien plus loin. Au Moyen Âge, Bussy-Saint-Martin et Bussy-Saint-Georges partagent une même seigneurie.\n\nPlus tard, certains lieux donnent la mesure des fortunes changeantes : au Château du Genitoy, le parc a connu un grand parterre et une demi-lune, avant que les bâtiments ne tombent en ruines. À Rentilly, le château passe par des achats et reconstructions, puis par des chantiers interrompus. Plus près de nous, la ville nouvelle accueille aussi le Mandir, et l’on peut encore compter sur le Moulin Russon, un moulin à eau du XIIème toujours en activité.",
+  "chronologie": [
+   {
+    "date": "855",
+    "texte": "Le territoire formait une grande paroisse dont le patron était saint Georges.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "La désignation de Bussy-Saint-Georges n’apparaît qu’au XIIIe siècle, après des mentions plus anciennes liées à la paroisse.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "mi-XVIIe siècle",
+    "texte": "Au Château du Genitoy, un grand parterre est aménagé et une demi-lune est édifiée, certainement au milieu du XVIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "février 1688",
+    "texte": "La terre de Livry du Château du Genitoy est érigée en marquisat en février 1688.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "2020",
+    "texte": "Au Château du Genitoy, les bâtiments sont désaffectés et en ruines, comme le montrent des photographies prises en 2020.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1599",
+    "texte": "Le Château et parc culturel de Rentilly est acheté par Jean de Ligny et Anne Duguet en 1599, avec une reconstruction entière ordonnée.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "30 janvier 1846",
+    "texte": "Le bien de Rentilly est vendu par ses fils à Ernest André le 30 janvier 1846, qui fait exécuter de nombreux travaux.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1993",
+    "texte": "À Rentilly, le permis de construire est annulé en 1993 et les bâtiments déjà construits sont détruits en 2006.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2016",
+    "texte": "Un second bâtiment (module d’extension) du Centre technique du livre de l’enseignement supérieur est mis en service en 2016.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "La construction du Mandir de Bussy-Saint-Georges est décidée en 2018, avec une fin de chantier annoncée pour 2022.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "2024-2026",
+    "texte": "Le Mandir est construit de 2024 à 2026, sur les plans de l’agence Arte Charpentier.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château du Genitoy",
+   "histoire": "Le château du Genitoy, ou château du Genitois, est un château disparu pour partie, situé sur l’actuelle commune de Bussy-Saint-Georges.",
+   "anecdotes": [
+    {
+     "texte": "On y aménage un grand parterre, puis une demi-lune édifiée certainement au milieu du XVIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En février 1688, la terre de Livry est érigée en marquisat.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Dans les années récentes, les bâtiments restent désaffectés et en ruines, visibles sur des photographies prises en 2020.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.8363,
+   "lon": 2.7301,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Genitoy"
+  },
+  {
+   "nom": "Château et parc culturel de Rentilly",
+   "histoire": "Le château de Rentilly date du XVIe siècle et se trouve en Seine-et-Marne sur deux communes : Bussy-Saint-Martin et Bussy-Saint-Georges.",
+   "anecdotes": [
+    {
+     "texte": "En 1599, Jean de Ligny et Anne Duguet achètent le lieu et ordonnent une reconstruction entière du bâtiment.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Le projet bascule ensuite : en 1993, le permis de construire est annulé, et les bâtiments déjà construits sont détruits en 2006.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.8456,
+   "lon": 2.6695,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_et_parc_culturel_de_Rentilly"
+  },
+  {
+   "nom": "Mandir de Bussy-Saint-Georges",
+   "histoire": "Le Mandir de Bussy-Saint-Georges (BAPS Mandir Swaminarayan Hindou de Paris) est un temple hindouiste situé sur l’Esplanade des Religions à Bussy-Saint-Georges, dans la ville nouvelle de Marne-la-Vallée.",
+   "anecdotes": [
+    {
+     "texte": "La construction est décidée en 2018, avec une date annoncée pour la fin des travaux en 2022.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Le mandir est construit de 2024 à 2026, et annoncé comme financé entièrement par des dons de la BAPS.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.838528,
+   "lon": 2.73001,
+   "url": "https://fr.wikipedia.org/wiki/Mandir_de_Bussy-Saint-Georges"
+  },
+  {
+   "nom": "Centre technique du livre de l'enseignement supérieur",
+   "histoire": "Le Centre technique du livre de l’enseignement supérieur (CTLes) est un établissement public national à caractère administratif situé à Bussy-Saint-Georges.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 48.832633318144,
+   "lon": 2.7379450546549,
+   "url": "https://fr.wikipedia.org/wiki/Centre_technique_du_livre_de_l%27enseignement_sup%C3%A9rieur"
+  },
+  {
+   "nom": "Moulin Russon",
+   "histoire": "Le Moulin Russon est un moulin à eau du XIIème toujours en activité.",
+   "anecdotes": [
+    {
+     "texte": "Même si la roue et les meules disparaissent, les engrenages subsistent.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 48.842982,
+   "lon": 2.691417,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_Russon"
+  }
+ ],
+ "sources": [
+  "Bussy-Saint-Georges est une commune française située dans le département de Seine-et-Marne en région Île-de-France. Avec 27 498 habitants au recensement de 2023, Bussy-Saint-Georges est la commune la plus peuplée de la communauté d'agglomération de Marne et Gondoire.",
+  "En 855, le territoire formait une grande paroisse dont le patron était saint Georges. Cependant, la désignation de Bussy-Saint-Georges n'apparaît qu'au XIIIe siècle. Le nom de Bussy vient de Buscus à cause du voisinage de la forêt et de nombreux bosquets qui entouraient le village. Au Moyen Âge, Bussy-Saint-Martin et Bussy-Saint-Georges ne forment qu'une seule et même seigneurie dirigée par les seigneurs de Bucy. La […]",
+  "Lieu « Château du Genitoy » : Le château du Genitoy, ou château du Genitois, aussi appelé de nos jours le domaine du Genitoy, est un château disparu pour partie, situé sur l'actuelle commune de Bussy-Saint-Georges, en Seine-et-Marne.",
+  "Lieu « Château du Genitoy », XVIIe siècle : Un grand parterre était aménagé à sa suite, jusqu'à une demi-lune édifiée certainement au milieu du XVIIe siècle.",
+  "Lieu « Château du Genitoy », 1688 : Sa terre de Livry est érigée en marquisat en février 1688.",
+  "Lieu « Château du Genitoy », 2020 : Les bâtiments étaient désaffectés et en ruines, tel que le montrent des photographies prises en 2020 par Timothy Hannem.",
+  "Lieu « Château du Genitoy », aujourd'hui : Le château du Genitoy, ou château du Genitois, aussi appelé de nos jours le domaine du Genitoy, est un château disparu pour partie, situé sur l'actuelle commune de Bussy-Saint-Georges, en Seine-et-Marne.",
+  "Lieu « Château et parc culturel de Rentilly » : Le château de Rentilly, datant du XVIe siècle, se situe en Seine-et-Marne sur deux communes — Bussy-Saint-Martin et Bussy-Saint-Georges — dans la grande banlieue est de Paris.",
+  "Lieu « Château et parc culturel de Rentilly », 1599 : Il fut acheté par Jean de Ligny, secrétaire du roi Henri IV et sa femme Anne Duguet, en 1599 qui ordonne une reconstruction entière du bâtiment.",
+  "Lieu « Château et parc culturel de Rentilly », 1846 : Isaac Thuret fait faillite et son bien est vendu par ses fils, le 30 janvier 1846 à Ernest André, banquier qui fait exécuter de nombreux travaux.",
+  "Lieu « Château et parc culturel de Rentilly », 1993 : Le permis de construire est annulé en 1993 et les bâtiments déjà construits sont détruits en 2006.",
+  "Lieu « Mandir de Bussy-Saint-Georges » : Le mandir de Bussy-Saint-Georges, de son nom officiel BAPS Mandir Swaminarayan Hindou de Paris, est un temple hindouiste situé sur l'Esplanade des Religions à Bussy-Saint-Georges, dans la ville nouvelle de Marne-la-Vallée, en banlieue est de Paris.",
+  "Lieu « Mandir de Bussy-Saint-Georges », 2018 : La construction est décidée en 2018, le bâtiment devant à l'époque être terminé pour 2022.",
+  "Lieu « Mandir de Bussy-Saint-Georges », 2024 : Construit de 2024 à 2026 sur les plans de l'agence Arte Charpentier, ce mandir est financé entièrement par les dons du Bochasanwasi Akshar Purushottam Swaminarayan Sanstha ou BAPS, association internationale de promotion du culte hindou.",
+  "Lieu « Centre technique du livre de l'enseignement supérieur » : Le Centre technique du livre de l'enseignement supérieur (CTLes) est un établissement public national à caractère administratif situé à Bussy-Saint-Georges (Seine-et-Marne).",
+  "Lieu « Centre technique du livre de l'enseignement supérieur », 2016 : Un second bâtiment (ou module d'extension) a été mis en service en 2016.",
+  "Lieu « Moulin Russon » : Le Moulin Russon est un moulin à eau du XIIème toujours en activité.",
+  "Lieu « Moulin Russon », aujourd'hui : Des éléments du moulin, comme la roue et les meules disparaissent, mais les engrenages subsistent."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 8
+ }
+}

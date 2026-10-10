@@ -1,0 +1,277 @@
+{
+ "commune": {
+  "titre": "Provins",
+  "code_insee": "77379",
+  "departement": "77",
+  "population": 11632,
+  "lat": 48.5603634,
+  "lon": 3.2989883,
+  "url": "https://fr.wikipedia.org/wiki/Provins"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:44:52",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2998,
+  "sortie": 1481
+ },
+ "cout_usd": 0.002451,
+ "accroche": "À Provins, en octobre 1307, les Templiers qui demeuraient à Provins furent arrêtés et emprisonnés au château de Melun.",
+ "histoire": {
+  "recit": "Provins, sous-préfecture de Seine-et-Marne et chef-lieu d’arrondissement et de canton, fut l’ancienne capitale des comtes de Champagne et figure au patrimoine mondial de l’UNESCO depuis le 13 décembre 2001.\n\nSur le site, des traces d’occupation attestent d’une présence humaine dès le paléolithique. À l’époque gallo-romaine, la ville se rattache à deux grands axes : la route de Soissons à Troyes vers le nord, et la route vers Sens vers le sud-ouest. La ville haute aurait ensuite été transformée en place forte (castrum) sous l’occupation romaine.\n\nPlus tard, l’enceinte détruite est étendue au XIe siècle, et la place des changes accueille alors les foires. Les conflits ne cessent pas : en octobre 1307, les Templiers de Provins sont arrêtés, puis en 1870 la ville est occupée par les Allemands.\n\nÀ l’époque moderne et contemporaine, Provins continue de se transformer : entre 1964 et 1974, le quartier de Champbenoist est bâti dans les faubourgs sud.\n\nAujourd’hui, plusieurs lieux gardent la trace de ces époques. La Tour César domine la ville haute, les remparts portent des marques d’époques successives, et l’Hôtel-Dieu a accueilli malades, infirmes, orphelins et pèlerins.",
+  "chronologie": [
+   {
+    "date": "13 décembre 2001",
+    "texte": "Provins est inscrite sur la liste du patrimoine mondial de l’UNESCO.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "dès le paléolithique",
+    "texte": "Des traces d’occupation témoignent d’une présence humaine sur le site dès le paléolithique.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "époque gallo-romaine",
+    "texte": "Provins est associé à la route de Soissons à Troyes vers le nord et à la route vers Sens vers le sud-ouest, et la ville haute aurait été transformée en place forte (castrum).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’enceinte est détruite puis étendue : elle inclut la place des changes où ont lieu les foires.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "octobre 1307",
+    "texte": "Les Templiers qui demeuraient à Provins furent arrêtés et emprisonnés au château de Melun.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Pendant la guerre franco-allemande de 1870, la ville est occupée par les Allemands et subit de nombreuses réquisitions.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1964-1974",
+    "texte": "Le quartier de Champbenoist est bâti dans les faubourgs sud de la ville.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Provins",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Accès vers Paris au début du XXe siècle ; il ne reste plus que cet accès.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 48.555594,
+   "lon": 3.302978,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Provins"
+  },
+  {
+   "nom": "Tour César (Provins)",
+   "histoire": "Tour de la ville haute, la Tour César est un donjon installé sur l’éperon rocheux de Provins.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S14",
+    "S16"
+   ],
+   "lat": 48.561389,
+   "lon": 3.29,
+   "url": "https://fr.wikipedia.org/wiki/Tour_C%C3%A9sar_%28Provins%29"
+  },
+  {
+   "nom": "Monastère de Champbenoist",
+   "histoire": "Ancien monastère féminin bénédictin de Provins, fondé durant la deuxième moitié du XIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le monastère de Champbenoist aurait été fondé en 1158 par Henri le Libéral.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le prieuré subsiste jusqu’au XVIIe siècle, puis le monastère est transformé en ferme.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.5472959,
+   "lon": 3.29492463,
+   "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_de_Champbenoist"
+  },
+  {
+   "nom": "Remparts de Provins",
+   "histoire": "Fortifications de Provins édifiées entre le XIe siècle et le XIIIe siècle, avec des portes conservées issues du XIVe siècle.",
+   "anecdotes": [
+    {
+     "texte": "En 1983, une partie des remparts s’effondre faute d’entretien au niveau du lieu-dit du « Cours aux Bêtes ».",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Ils sont détruits en plusieurs endroits, particulièrement dans la ville basse, et les allées d’Aligre correspondent en partie à leur emplacement.",
+   "sources": [
+    "S26"
+   ],
+   "lat": 48.5641,
+   "lon": 3.28137,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Provins"
+  },
+  {
+   "nom": "Palais des comtes de Champagne",
+   "histoire": "Édifice construit aux XIIe et XIIIe siècles par Henri Ier le Libéral pour les comtes de Champagne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il abrite une partie du lycée Thibaut-de-Champagne.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 48.5612,
+   "lon": 3.29235,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_comtes_de_Champagne"
+  },
+  {
+   "nom": "Hôtel-Dieu de Provins",
+   "histoire": "Hôpital fondé par les comtes de Brie et de Champagne au XIIe siècle, et déplacé vers 1159 sur ordre du comte Henri Ier le Libéral.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S33",
+    "S34"
+   ],
+   "lat": 48.5611,
+   "lon": 3.29516,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Provins"
+  },
+  {
+   "nom": "Collégiale Saint-Quiriace de Provins",
+   "histoire": "Église du XIIe siècle à Provins, liée à une première basilique fondée au début du XIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Jeanne d’Arc et le Roi Charles VII ont entendu la Messe le 3 août 1429, commémoré par une plaque installée en 1929.",
+     "statut": "etabli",
+     "sources": [
+      "S38"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38"
+   ],
+   "lat": 48.56083,
+   "lon": 3.2917,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Quiriace_de_Provins"
+  },
+  {
+   "nom": "Hôtel de Vauluisant",
+   "histoire": "Hôtel de Provins mis à disposition de l’orchestre municipal comme salle de répétition, puis classé au titre des monuments historiques.",
+   "anecdotes": [
+    {
+     "texte": "De 1880 à 2007, la ville de Provins met l’édifice à disposition de l’orchestre municipal en guise de salle de répétition.",
+     "statut": "etabli",
+     "sources": [
+      "S42"
+     ]
+    },
+    {
+     "texte": "En 1858, Amédée Aufauvre décrit les ouvertures de l’hôtel : porte ogivale, jour carré sous un arc de décharge et porte surmontée d’une imposte.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S41",
+    "S42",
+    "S43"
+   ],
+   "lat": 48.5596,
+   "lon": 3.29502,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Vauluisant"
+  }
+ ],
+ "sources": [
+  "Provins (prononcé /pʁɔ.vɛ̃/) est une commune française situé à 77 km au sud-est de Paris, sous-préfecture du département de Seine-et-Marne dans la région Île-de-France. Elle est le chef-lieu de l'arrondissement et du canton. Ancienne capitale des comtes de Champagne, Provins est inscrite depuis le 13 décembre 2001 sur la liste du patrimoine mondial de l'UNESCO.",
+  "Des traces d'occupation témoignent d'une présence humaine sur le site dès le paléolithique. Durant l'époque gallo-romaine, Provins est associé à deux importants axes régionaux : la route de Soissons à Troyes vers le nord, et la route vers Sens en direction du sud-ouest. La partie correspondant à l'actuelle \"ville haute\" aurait été transformée en place forte (castrum) sous l’occupation romaine. En l'an 485 et après […]",
+  "XIe siècle : Cette enceinte est détruite est étendue au XIe siècle, elle inclut alors la place des changes sur laquelle les foires ont lieu.",
+  "1307 : En octobre 1307, les Templiers qui demeuraient à Provins furent arrêtés et emprisonnés au château de Melun.",
+  "1870 : Lors de la guerre franco-allemande de 1870, la ville est occupée par les Allemands et souffre de nombreuses réquisitions.",
+  "1964 : Entre 1964 et 1974, le quartier de Champbenoist est bâti dans les faubourgs sud de la ville.",
+  "Lieu « Gare de Provins » : La gare de Provins est une gare ferroviaire française de la ligne de Longueville à Esternay, située sur le territoire de la commune de Provins, à proximité du centre-ville, dans le département de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Gare de Provins », 1852 : La ligne, prévue à traction animale, est concédée par le décret du 28 juillet 1852, mais elle est abandonnée lors de l'approbation du tracé de la ligne de Paris à Mulhouse.",
+  "Lieu « Gare de Provins », 1855 : Finalement, la ligne Paris – Mulhouse est concédée le 18 janvier 1855 et achevée en avril 1858 avec un embranchement vers Provins, long de sept kilomètres, ouvert le 11 décembre 1858.",
+  "Lieu « Gare de Provins », 1856 : Elle était prévue pour être réalisée en 1856 mais elle ne fut jamais construite.",
+  "Lieu « Gare de Provins », aujourd'hui : Au début du XXe siècle, elle bénéficiait d'une desserte importante dont il ne reste plus que l'accès vers Paris.",
+  "Lieu « Tour César (Provins) » : La tour César est un donjon du XIIe siècle, situé à Provins en Seine-et-Marne, au sommet de la colline où s'est installée la ville haute.",
+  "Lieu « Tour César (Provins) », XIIe siècle : La tour César est un donjon du XIIe siècle, situé à Provins en Seine-et-Marne, au sommet de la colline où s'est installée la ville haute.",
+  "Lieu « Tour César (Provins) », 1150 : La tour actuelle fut bâtie sur un éperon rocheux qui se trouve sur la ville haute, appelée autrefois « tour du Roi », « Grosse Tour », « tour aux prisonniers », elle a probablement été construite sous le règne de Henri le Libéral, après 1150 selon André Châtelain.",
+  "Lieu « Tour César (Provins) », 1432 : La base de l'édifice est couverte par une lourde muraille en maçonnerie, ajoutée par les Anglais après le siège de 1432.",
+  "Lieu « Tour César (Provins) », aujourd'hui : Le site est occupé par un castrum (ou oppidum) dès le IXe siècle.",
+  "Lieu « Monastère de Champbenoist » : Le monastère de Champbenoist est un ancien monastère féminin bénédictin.",
+  "Lieu « Monastère de Champbenoist », XIIe siècle : Fondé durant la deuxième moitié du XIIe siècle, le monastère est situé dans la commune de Provins, dans le département de Seine-et-Marne.",
+  "Lieu « Monastère de Champbenoist », 1158 : Le monastère de Champbenoist aurait été fondé en 1158, par Henri le Libéral.",
+  "Lieu « Monastère de Champbenoist », 2019 : En 2019, une opération de fouille archéologique menée par une équipe de l'Inrap met au jour plusieurs vestiges de plusieurs bâtiments conventuels de la période médiévale dont l'église et deux ailes claustrales (occidentales et orientales).",
+  "Lieu « Monastère de Champbenoist », aujourd'hui : Le prieuré subsiste néanmoins jusqu’au XVIIe siècle, période à laquelle le monastère est transformé en ferme.",
+  "Lieu « Remparts de Provins » : Les remparts de Provins sont des fortifications situées à Provins, en France.",
+  "Lieu « Remparts de Provins », XIe siècle : Les remparts de Provins sont édifiés entre le XIe siècle et le XIIIe siècle, principalement sous Thibaut IV.",
+  "Lieu « Remparts de Provins », XIVe siècle : Les deux portes actuellement restantes, la porte de Jouy et la porte Saint-Jean, sont édifiées au XIVe siècle.",
+  "Lieu « Remparts de Provins », 1983 : En 1983, une partie des remparts s'effondre faute d'entretien au niveau du lieu-dit du \"Cours aux Bêtes\".",
+  "Lieu « Remparts de Provins », aujourd'hui : Elle est détruite en plusieurs endroits, particulièrement dans la ville basse : les allées d'Aligre correspondent en partie à leur emplacement.",
+  "Lieu « Palais des comtes de Champagne » : Le palais des comtes de Champagne est un édifice situé à Provins, en France.",
+  "Lieu « Palais des comtes de Champagne », XIIIe siècle : Le palais est construit aux XIIe et XIIIe siècles par Henri Ier le Libéral pour les comtes de Champagne.",
+  "Lieu « Palais des comtes de Champagne », 1670 : En 1670, l'édifice est confié aux oratoriens pour en faire un collège.",
+  "Lieu « Palais des comtes de Champagne », 1931 : L'édifice est inscrit au titre des monuments historiques en 1931.",
+  "Lieu « Palais des comtes de Champagne », aujourd'hui : Actuellement, il abrite une partie du lycée Thibaut-de-Champagne.",
+  "Lieu « Hôtel-Dieu de Provins » : L'hôtel-Dieu est un hôpital situé à Provins, en France.",
+  "Lieu « Hôtel-Dieu de Provins », XIIe siècle : Fondé par les comtes de Brie et de Champagne au XIIe siècle, il accueille les malades, les infirmes, les orphelins ainsi que les pèlerins de passage.",
+  "Lieu « Hôtel-Dieu de Provins », 1159 : D'abord situé sur l'emplacement de l'abbaye de Saint-Jacques, il est déplacé vers 1159 à son emplacement actuel sur ordre du comte Henri Ier le Libéral, voulant laisser la place aux chanoines réguliers.",
+  "Lieu « Hôtel-Dieu de Provins », XIIIe siècle : Deux maisons appartenant à l'hôtel-Dieu sont offertes aux frères mineurs de Provins pour pouvoir édifier leur couvent au XIIIe siècle.",
+  "Lieu « Collégiale Saint-Quiriace de Provins » : La collégiale Saint-Quiriace de Provins est une église du XIIe siècle faisant partie du patrimoine historique de la ville de Provins (France).",
+  "Lieu « Collégiale Saint-Quiriace de Provins », 1022 : Une première basilique avait été fondée par le Comte Eudes II de Blois entre les années 1022 et 1032.",
+  "Lieu « Collégiale Saint-Quiriace de Provins », 1429 : Jeanne d'Arc et le Roi Charles VII ont entendu la Messe le 3 Aout 1429 ; une plaque qui commémore cette évènement a été installé en 1929.",
+  "Lieu « Collégiale Saint-Quiriace de Provins », XVIe siècle : Au XVIe siècle, on se résout à clore définitivement la nef par une façade percée de deux ouvertures.",
+  "Lieu « Hôtel de Vauluisant » : L'hôtel de Vauluisant est un édifice de Provins, en France.",
+  "Lieu « Hôtel de Vauluisant », 1858 : En 1858, Amédée Aufauvre décrit l'hôtel ainsi : \"Au centre, une porte ogivale légèrement déprimée ; à gauche, un jour carré sous un arc de décharge en ogive remplace l'ancienne ouverture ; à droite, une porte surmontée d'une imposte traversée par un linteau droit sur coussinets.",
+  "Lieu « Hôtel de Vauluisant », 1880 : De 1880 à 2007, la ville de Provins met l'édifice à disposition de l'orchestre municipal en guise de salle de répétition.",
+  "Lieu « Hôtel de Vauluisant », 1918 : L'édifice est classé au titre des monuments historiques en 1918."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "commune": {
+  "titre": "Montévrain",
+  "code_insee": "77307",
+  "departement": "77",
+  "population": 15687,
+  "lat": 48.875,
+  "lon": 2.7456,
+  "url": "https://fr.wikipedia.org/wiki/Mont%C3%A9vrain"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:24:47",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1119,
+  "sortie": 968
+ },
+ "cout_usd": 0.001434,
+ "accroche": "À Montévrain, l’église Saint-Rémy est construite aux XIIe et XIIIe siècles et classée au titre des monuments historiques en 1928.",
+ "histoire": {
+  "recit": "Montévrain, commune de Seine-et-Marne en Île-de-France, garde des traces anciennes : pour le Néolithique, on y a recueilli quelques outils et éclats de silex le long de la route de Provins. Les travaux de l’INRAP ont aussi permis de fixer dans le temps des bassins de population, notamment le long de la route de Provins et de l’antique voie romaine no 100.\n\nPlus tard, la paroisse se signale par des épisodes marquants. En 1477, un noble homme Jean d’Argny et son épouse, Maurice de Sasseville, auraient fondé un hôtel-Dieu sur la paroisse, mais l’affaire n’aurait pas duré longtemps, faute de moyens. Et en 1544, un seigneur de Montévrain, assistant avec le comte de Lorges à la prise de Lagny, aurait été décapité pour avoir pillé des reliques.",
+  "chronologie": [
+   {
+    "date": "1477",
+    "texte": "Jean d’Argny et son épouse, Maurice de Sasseville, auraient fondé un hôtel-Dieu sur la paroisse de Montévrain, qui n’aurait pas duré.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1544",
+    "texte": "Un seigneur de Montévrain, assistant avec le comte de Lorges à la prise de Lagny, aurait été décapité pour avoir pillé des reliques.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Rémy de Montévrain",
+   "histoire": "L’église Saint-Rémy de Montévrain est une église catholique. L’édifice, construit aux XIIe et XIIIe siècles, est classé au titre des monuments historiques en 1928.",
+   "anecdotes": [
+    {
+     "texte": "En 1477, un hôtel-Dieu aurait été fondé sur la paroisse, mais, faute de moyens, l’institution n’aurait pas duré.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S3"
+     ]
+    },
+    {
+     "texte": "En 1544, un seigneur de Montévrain aurait été décapité pour avoir pillé des reliques après avoir assisté, avec le comte de Lorges, à la prise de Lagny.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Église classée au titre des monuments historiques en 1928.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 48.876,
+   "lon": 2.74515,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-R%C3%A9my_de_Mont%C3%A9vrain"
+  }
+ ],
+ "sources": [
+  "Montévrain est une commune située dans le département de Seine-et-Marne en région Île-de-France.",
+  "La préhistoire, pour le Néolithique, est marquée par la présence de quelques outils et éclats de silex recueillis le long de la route de Provins. Les travaux réalisés par l'INRAP sur chaque secteur de Montévrain, ont permis de fixer dans le temps des bassins de population, notamment le long de la route de Provins ainsi que le long de l'antique voie romaine no 100. Montévrain, en latin Mons Evrini, vient du nom d'un […]",
+  "1477 : En 1477, noble homme Jean d'Argny et son épouse, Maurice de Sasseville, auraient fondé un hôtel-Dieu sur la paroisse, mais, compte tenu des faibles moyens dont ils disposaient, cette institution ne dura pas longtemps.",
+  "1544 : En 1544, un des seigneurs de Montévrain, assistant, avec le comte de Lorges, à la prise de Lagny, fut décapité pour avoir pillé des reliques.",
+  "Lieu « Église Saint-Rémy de Montévrain » : L'église Saint-Rémy est une église catholique située à Montévrain, en France.",
+  "Lieu « Église Saint-Rémy de Montévrain », 1928 : L'édifice, construit aux 12e et 13e siècles, est classé au titre des monuments historiques en 1928."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIIe",
+   "XIIe"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "commune": {
+  "titre": "Champs-sur-Marne",
+  "code_insee": "77083",
+  "departement": "77",
+  "population": 27451,
+  "lat": 48.852884,
+  "lon": 2.60273,
+  "url": "https://fr.wikipedia.org/wiki/Champs-sur-Marne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:54:44",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2173,
+  "sortie": 1506
+ },
+ "cout_usd": 0.002317,
+ "accroche": "Champs-sur-Marne, dans la province historique de la Brie, est mentionnée entre 1079 et 1096 dans une charte de franchise signée par Adam de Champs.",
+ "histoire": {
+  "recit": "Dans la Brie, les habitants de Champs-sur-Marne s’inscrivent d’abord dans des temps anciens liés aux pays parisii, puis l’histoire du lieu se fixe autour d’institutions religieuses et d’une seigneurie attestée par une charte. Au XIe siècle, Champs devient une dépendance religieuse de la paroisse de Malnoue. Plus tard, le château change d’échelle : au début du XVIIIe siècle, il est construit près d’une boucle de la Marne, et, à la fin du XIXe siècle, il est acquis et restauré. L’Église Saint-Loup, datée du milieu du XVIIe siècle, a connu aussi les effets d’un bombardement en 1944. Aujourd’hui, le château est un domaine national géré par le Centre des monuments nationaux, au sein duquel se trouvent des activités de recherche.",
+  "chronologie": [
+   {
+    "date": "Ier siècle av. J.-C.",
+    "texte": "La région est en pays parisii, avec des hommes envoyés combattre les Romains à Alésia.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIIe siècle",
+    "texte": "Une église est fondée par Saint Babolein et Saint Fursy dans un endroit appelé Campus.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "La paroisse de Champs est créée, et Champs devient une dépendance religieuse de la paroisse de Malnoue.",
+    "sources": [
+     "S2",
+     "S8"
+    ]
+   },
+   {
+    "date": "1079-1096",
+    "texte": "Champs est mentionné dans une charte de franchise signée par Adam de Champs.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1655-1660",
+    "texte": "L’église Saint-Loup de Champs-sur-Marne date du milieu du XVIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1703-1707",
+    "texte": "Le château est construit près d’une boucle de la Marne.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "29 mars 1944",
+    "texte": "Les vitraux du chœur et de la façade nord sont détruits par le souffle d’un bombardement de la gare de triage de Vaires.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1892",
+    "texte": "Le comte Louis Cahen d’Anvers acquiert le château et le fait restaurer.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Loup de Champs-sur-Marne",
+   "histoire": "L’église date du milieu du XVIIe siècle, avec une orientation est-ouest et un chevet à l’est.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, les vitraux du chœur et de la façade nord sont détruits par le souffle d’un bombardement anglo-américain de la gare de triage de Vaires.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S7"
+   ],
+   "lat": 48.85257,
+   "lon": 2.60286,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Loup_de_Champs-sur-Marne"
+  },
+  {
+   "nom": "Château de Champs-sur-Marne",
+   "histoire": "Mentionné entre 1079 et 1096, il est reconstruit près d’une boucle de la Marne entre 1703 et 1707, puis restauré après l’acquisition de 1892.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Champs est aujourd’hui un domaine national géré par le Centre des monuments nationaux.",
+   "sources": [
+    "S10",
+    "S11",
+    "S3",
+    "S13"
+   ],
+   "lat": 48.85388889,
+   "lon": 2.60416667,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Champs-sur-Marne"
+  },
+  {
+   "nom": "Institut français d'urbanisme",
+   "histoire": "Fondé autour de 1968-1969, l’Institut français d’urbanisme s’installe ensuite dans le Campus Descartes, puis ses structures sont regroupées dans le bâtiment Bienvenüe à partir de la rentrée 2014.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.8375306,
+   "lon": 2.5871889,
+   "url": "https://fr.wikipedia.org/wiki/Institut_fran%C3%A7ais_d%27urbanisme"
+  },
+  {
+   "nom": "École d'architecture de la ville & des territoires Paris-Est",
+   "histoire": "L’établissement est une composante de l’université, et son site évolue entre Paris et Marne-la-Vallée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 48.8411528,
+   "lon": 2.591875,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89cole_d%27architecture_de_la_ville_%26_des_territoires_Paris-Est"
+  }
+ ],
+ "sources": [
+  "Champs-sur-Marne (prononcé [ˈʃɑ̃ syʁ ˈmaʁn]) est une commune française de la province historique de la Brie, située dans le département de Seine-et-Marne en région Île-de-France. Elle se trouve à l'ouest du département de Seine-et-Marne et est contiguë à celui de Seine-Saint-Denis (petite couronne), à une vingtaine de kilomètres à l'est de Paris. Elle fait partie de l'agglomération parisienne (aire urbaine de […]",
+  "Ier siècle av. J.-C. : la région est située en pays parisii. Ce peuple envoya des hommes à Vercingétorix combattre les Romains à Alésia. 260-274 : la région fait partie de l'Empire des Gaules. VIIe siècle : fondation d'une église par Saint Babolein et Saint Fursy dans un endroit appelé Campus. XIe siècle au XIIe siècle : migration des paroissiens du village de Malnoue, création de la paroisse de Champs. XIVe siècle […]",
+  "1892 : 1892 : Le comte Louis Cahen d'Anvers acquiert le château de Champs-sur-Marne, qu'il fait restaurer par Walter-André Destailleur pour les bâtiments et par Achille Duchêne pour le parc.",
+  "Lieu « Église Saint-Loup de Champs-sur-Marne » : L’église Saint-Loup date du milieu du XVIIe siècle (1655-1660).",
+  "Lieu « Église Saint-Loup de Champs-sur-Marne », XIe siècle : L'axe de l'édifice est orienté classiquement est-ouest avec le chevet à l'est comme cela est le cas pour la majorité des églises depuis le Haut Moyen Âge où l’orientation du chevet vers l’orient (ou levant : là ou le soleil se lève) se généralise au XIe siècle et XIIe siècle.",
+  "Lieu « Église Saint-Loup de Champs-sur-Marne », 1770 : Cette peinture, interprétation d’une œuvre de Nicolas Poussin, a sans doute été exécutée vers 1770-1780.",
+  "Lieu « Église Saint-Loup de Champs-sur-Marne », 1944 : Les vitraux du chœur et de la façade nord ont été détruits par le souffle provoqué lors du bombardement anglo-américain de la gare de triage de Vaires le 29 mars 1944.",
+  "Lieu « Église Saint-Loup de Champs-sur-Marne », aujourd'hui : Au XIe siècle, Champs est ainsi une dépendance religieuse de la paroisse de Malnoue (aujourd’hui quartier d’Émerainville).",
+  "Lieu « Château de Champs-sur-Marne » : Le château de Champs-sur-Marne est situé en France dans la commune de Champs-sur-Marne, dans le département de Seine-et-Marne en région Île-de-France.",
+  "Lieu « Château de Champs-sur-Marne », 1079 : Champs est mentionné entre 1079 et 1096 dans une charte de franchise signée par Adam de Champs.",
+  "Lieu « Château de Champs-sur-Marne », 1703 : Construit près d'une boucle de la Marne entre 1703 et 1707 par les architectes Pierre Bullet et son fils Jean-Baptiste Bullet de Chamblain pour deux financiers de Louis XIV : Charles Renouard de La Touanne puis Paul Poisson de Bourvallais.",
+  "Lieu « Château de Champs-sur-Marne », 1703 : Les documents d'archives mentionnent de nombreux ouvriers entre 1703 et 1707 travaillant sous les ordres d'un entrepreneur nommé Jean Charpentier et d'un second architecte appelé Buiret, « contrôleur des bâtiments de M. de Bouvalais ».",
+  "Lieu « Château de Champs-sur-Marne », aujourd'hui : Champs est aujourd'hui un domaine national géré par le Centre des monuments nationaux qui abrite dans ses communs sud-ouest le Laboratoire de recherche des monuments historiques.",
+  "Lieu « Institut français d'urbanisme » : L'Institut français d'urbanisme (IFU) est un ancien institut français de recherche scientifique et de formation universitaire de deuxième et troisième cycles dans les domaines de l'urbanisme et de l'aménagement de l'espace.",
+  "Lieu « Institut français d'urbanisme », 1968 : Celui-ci a été fondé au milieu de l’année 1968-1969 par Pierre Merlin - auquel se sont joints Michel Coquery (octobre 1969) et Françoise Choay (1971), à la suite de la revendication de 431 étudiants inscrits en urbanisme à Vincennes par suite d'une erreur administrative.",
+  "Lieu « Institut français d'urbanisme », 1991 : Avec l’aide de l’Établissement public de la ville nouvelle de Marne-la-Vallée, l'IFU s'installe dans ses locaux du Campus Descartes achevés en 1991.",
+  "Lieu « Institut français d'urbanisme », 2014 : Les deux instituts seront regroupés dans le bâtiment Bienvenüe de la Cité Descartes à partir de la rentrée 2014, tout en continuant de présenter deux offres pédagogiques différentes qui fusionnent à la rentrée 2015.",
+  "Lieu « École d'architecture de la ville & des territoires Paris-Est » : L’Ensa Paris-Est, l’école d'architecture de la ville et des territoires, anciennement École d'architecture de la ville et des territoires à Marne-la-Vallée et Unité pédagogique d'architecture numéro 7, est un établissement-composante de l'université",
+  "Lieu « École d'architecture de la ville & des territoires Paris-Est », 1998 : Le site de l'école à Paris est fermé et, à la rentrée universitaire 1998-1999, l'école d'architecture de Marne-la-Vallée ouvre provisoirement dans le bâtiment Descartes II à Noisy-le-Grand, en attendant l'achèvement en 1999 du bâtiment neuf conçu par l'architecte Bernard Tschumi(auteur notamment du parc de la Villette) qui fut désigné sur […]"
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe",
+   "XVIIIe"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}

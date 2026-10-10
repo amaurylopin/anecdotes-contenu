@@ -1,0 +1,103 @@
+{
+ "commune": {
+  "titre": "Nandy",
+  "code_insee": "77326",
+  "departement": "77",
+  "population": 6350,
+  "lat": 48.581149,
+  "lon": 2.5642776,
+  "url": "https://fr.wikipedia.org/wiki/Nandy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:48:36",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1150,
+  "sortie": 542
+ },
+ "cout_usd": 0.000907,
+ "accroche": "En octobre 1544, la première cloche de l’église Saint-Léger de Nandy est installée, et elle est toujours en place aujourd’hui.",
+ "histoire": {
+  "recit": "Nandy, commune de Seine-et-Marne en Île-de-France, garde un fil d’histoire lisible dans ses lieux de culte. L’église Saint-Léger, d’abord attestée comme existante avant 1250, a connu des étapes marquantes : une cloche posée en octobre 1544, puis une rupture pendant la période révolutionnaire. Le 8 novembre 1794, l’église est fermée et le culte interrompu, dans le cadre de la vente des biens du clergé. Aujourd’hui, de cette période, il ne reste que le chœur et la chapelle de la Vierge.",
+  "chronologie": [
+   {
+    "date": "avant 1250",
+    "texte": "L’église Saint-Léger de Nandy est érigée avant 1250.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "octobre 1544",
+    "texte": "En octobre 1544, la première cloche est installée et reste en place.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "8 novembre 1794",
+    "texte": "Le 8 novembre 1794, l’église est fermée et la célébration du culte est interrompue.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Léger de Nandy",
+   "histoire": "Église catholique située sur le territoire de Nandy, elle est érigée avant 1250. En octobre 1544, la première cloche est installée. Plus tard, tous les biens du clergé sont vendus : le 8 novembre 1794, l’église est fermée et le culte interrompu. Aujourd’hui, il ne reste que le chœur et la chapelle de la Vierge.",
+   "anecdotes": [
+    {
+     "texte": "La première cloche installée en octobre 1544 serait toujours en place aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "La fermeture de l’église en 1794 interrompt durablement le culte, et seuls le chœur et la chapelle de la Vierge subsistent.",
+     "statut": "etabli",
+     "sources": [
+      "S6",
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le chœur et la chapelle de la Vierge.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 48.5804,
+   "lon": 2.5666,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-L%C3%A9ger_de_Nandy"
+  }
+ ],
+ "sources": [
+  "Nandy est une commune française située dans le département de Seine-et-Marne, en région Île-de-France.",
+  "En 1522, l'abbaye du Pont-aux-Dames répond aux questionnaires des officiers royaux et déclare percevoir pour : « les héritaiges, terres, prez, bois, cens, et rentes assis à Nandy et environs, baillés à année pour huict livres tournois de rente au jour de saint Martin pour chascun an, montant desdits héritaiges, à cinquante-sept arpents, trois quartiers, quinze perches et quinze arpents de bois, taillis, avec les […]",
+  "Lieu « Église Saint-Léger de Nandy » : L'église Saint-Léger de Nandy est une église catholique française, située dans le département de la Seine-et-Marne, sur le territoire de la commune de Nandy.",
+  "Lieu « Église Saint-Léger de Nandy », 1250 : L’église Saint-Léger est érigée avant 1250.",
+  "Lieu « Église Saint-Léger de Nandy », 1544 : En octobre 1544, la première cloche, toujours en place à ce jour, est installée.",
+  "Lieu « Église Saint-Léger de Nandy », 1794 : Par la suite, tous les biens du clergé sont vendus et le 8 novembre 1794, l'église est fermée et la célébration du culte interrompue.",
+  "Lieu « Église Saint-Léger de Nandy », aujourd'hui : Il ne reste de cette époque que le chœur et la chapelle de la Vierge."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

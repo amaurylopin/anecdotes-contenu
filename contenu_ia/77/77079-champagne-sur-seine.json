@@ -1,0 +1,163 @@
+{
+ "commune": {
+  "titre": "Champagne-sur-Seine",
+  "code_insee": "77079",
+  "departement": "77",
+  "population": 6497,
+  "lat": 48.3956,
+  "lon": 2.7958,
+  "url": "https://fr.wikipedia.org/wiki/Champagne-sur-Seine"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:45:36",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1637,
+  "sortie": 1161
+ },
+ "cout_usd": 0.001779,
+ "accroche": "En 1902, la compagnie Schneider décide d’implanter à proximité de Paris des ateliers de construction électrique, et Champagne-sur-Seine change de visage.",
+ "histoire": {
+  "recit": "Longtemps, Champagne-sur-Seine reste un village rural, tenu surtout par des maraîchers et des vignerons. Mais au début du XXe siècle, l’implantation industrielle fait basculer le quotidien.\n\nEn 1902, des ateliers de construction électrique sont décidés par la compagnie Schneider : dès lors, la commune construit des logements en nombre, puis complète avec des écoles et une formation professionnelle. Les familles déplacées suivent, et de nouveaux quartiers voient le jour quand les premiers immeubles ne suffisent plus.\n\nAprès cette poussée ouvrière, certains lieux racontent encore d’autres histoires. L’Église Notre-Dame-de-Toutes-les-Protections de Champagne-sur-Seine, ancien édifice religieux orthodoxe russe, a été transformée en musée municipal. Plus loin, la Passerelle de l’aqueduc de la Voulzie garde le souvenir d’un passage de résistance le 25 août 1944, lorsque des résistants traversent la Seine pour défendre l’aqueduc menacé par les Allemands.",
+  "chronologie": [
+   {
+    "date": "1902",
+    "texte": "La compagnie Schneider décide d’implanter des ateliers de construction électrique, non loin de Paris, ce qui entraîne un changement majeur pour la commune.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1902-1903",
+    "texte": "Seize immeubles de trois étages sont construits et abritent 269 logements.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1904-1905",
+    "texte": "Trois écoles sont construites en 1904, et un cours spécial professionnel est mis en place en 1905 pour former les futurs ouvriers de l’usine.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1906",
+    "texte": "256 familles sont déplacées, soit 649 Creusotins recensés en 1906.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1920-1921",
+    "texte": "Des logements supplémentaires sont construits : dans le quartier des Alouettes (rue du Pas-Rond, actuelle rue de la Libération), puis 96 dans le quartier de l’Aubépine, au sud de l’usine, entre 1920 et 1921.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-de-Toutes-les-Protections de Champagne-sur-Seine",
+   "histoire": "Autrefois un édifice religieux orthodoxe russe, l’église est devenue un musée municipal à Champagne-sur-Seine.",
+   "anecdotes": [
+    {
+     "texte": "En 1914, la ville prévoit de transformer l’édifice en musée pour perpétuer le souvenir des combattants des armées russes contre l’Allemagne et l’Autriche-Hongrie.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "L’église est bâtie en 1938 grâce au seul appui financier de la communauté russe locale.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Le 24 juin 1982, l’église est léguée à la commune par donation de l’association « Colonie russe », via Vladimir Alboull.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Musée municipal.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 48.392194,
+   "lon": 2.805499,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Toutes-les-Protections_de_Champagne-sur-Seine"
+  },
+  {
+   "nom": "Église Saint-François-d'Assise de Champagne-sur-Seine",
+   "histoire": "Église catholique du XXe siècle située à Champagne-sur-Seine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 48.39102,
+   "lon": 2.80299,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Fran%C3%A7ois-d%27Assise_de_Champagne-sur-Seine"
+  },
+  {
+   "nom": "Passerelle de l'aqueduc de la Voulzie",
+   "histoire": "Passerelle franchissant la Seine entre les communes de Veneux-les-Sablons (Moret-Loing-et-Orvanne) et de Champagne-sur-Seine.",
+   "anecdotes": [
+    {
+     "texte": "Le 25 août 1944, des résistants ayant participé à la libération de Thomery traversent la Seine en barque pour défendre l’aqueduc, menacé d’être détruit par les Allemands.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 48.3912843,
+   "lon": 2.7896087,
+   "url": "https://fr.wikipedia.org/wiki/Passerelle_de_l%27aqueduc_de_la_Voulzie"
+  }
+ ],
+ "sources": [
+  "Champagne-sur-Seine est une commune française située dans le département de Seine-et-Marne en région Île-de-France.",
+  "Pendant longtemps, la commune de Champagne-sur-Seine est un village rural sans histoire, occupé, pour l'essentiel, par des maraichers et des vignerons, à l'instar de la commune voisine de Thomery. Cependant, un changement fondamental intervient au début du XXe siècle. En 1902, la compagnie Schneider décide d’implanter, non loin de Paris, des ateliers de construction électrique pour alimenter les équipements du […]",
+  "1902 : Seize immeubles de 3 étages sont construits entre 1902 et 1903, abritant 269 logements.",
+  "1904 : Trois écoles sont construites en 1904 ainsi qu’un cours spécial professionnel en 1905, pour former les futurs ouvriers de l’usine.",
+  "1906 : 256 familles sont ainsi déplacées soit 649 Creusotins recensés en 1906.",
+  "1920 : Ces logements se révélant insuffisants, d’autres – individuels, en bandes – sont construits, dans le quartier des Alouettes, rue du Pas-Rond (actuelle rue de la Libération), puis 96 dans le quartier de l’Aubépine, au sud de l’usine, entre 1920 et 1921.",
+  "Lieu « Église Notre-Dame-de-Toutes-les-Protections de Champagne-sur-Seine » : L'église Notre-Dame-de-Toutes-les-Protections est un ancien édifice religieux orthodoxe russe, devenu un musée municipal, situé à Champagne-sur-Seine, en France.",
+  "Lieu « Église Notre-Dame-de-Toutes-les-Protections de Champagne-sur-Seine », 1914 : La ville prévoit de transformer l'édifice en musée qui perpétuerait « le souvenir des combattants des armées russes pendant la guerre de 1914 -1918 contre l’Allemagne et l’Autriche-Hongrie ».",
+  "Lieu « Église Notre-Dame-de-Toutes-les-Protections de Champagne-sur-Seine », 1938 : L'église est bâtie en 1938 par le seul appui financier de la communauté russe locale.",
+  "Lieu « Église Notre-Dame-de-Toutes-les-Protections de Champagne-sur-Seine », 1982 : Le 24 juin 1982, l'église, propriété de l'association « Colonie russe », est léguée à la commune de Champagne-sur-Seine par acte de donation par Vladimir Alboull, président de l'association.",
+  "Lieu « Église Saint-François-d'Assise de Champagne-sur-Seine » : L’église Saint-François-d’Assise est un édifice religieux catholique du XXe siècle situé à Champagne-sur-Seine, en France.",
+  "Lieu « Église Saint-François-d'Assise de Champagne-sur-Seine », XXe siècle : L’église Saint-François-d’Assise est un édifice religieux catholique du XXe siècle situé à Champagne-sur-Seine, en France.",
+  "Lieu « Passerelle de l'aqueduc de la Voulzie » : La passerelle de l'aqueduc de la Voulzie est une passerelle franchissant la Seine entre les communes de Veneux-les-Sablons (Moret-Loing-et-Orvanne) et de Champagne-sur-Seine.",
+  "Lieu « Passerelle de l'aqueduc de la Voulzie », 1944 : Le 25 août 1944, les résistants qui avaient participé à la libération de Thomery traversent la Seine dans une barque pour défendre l'aqueduc qui menace d'être détruit par les Allemands."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 4
+ }
+}

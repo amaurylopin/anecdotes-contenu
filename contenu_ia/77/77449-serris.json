@@ -1,0 +1,185 @@
+{
+ "commune": {
+  "titre": "Serris",
+  "code_insee": "77449",
+  "departement": "77",
+  "population": 10326,
+  "lat": 48.8456,
+  "lon": 2.7878,
+  "url": "https://fr.wikipedia.org/wiki/Serris"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:55:20",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2100,
+  "sortie": 1147
+ },
+ "cout_usd": 0.001854,
+ "accroche": "En 2000, Val d’Europe (centre commercial) ouvre le 25 octobre à Serris, avec 190 boutiques et 31 restaurants.",
+ "histoire": {
+  "recit": "Serris, commune de Seine-et-Marne rattachée au secteur IV de la ville nouvelle de Marne-la-Vallée (Val d’Europe), s’est d’abord organisée autour d’un petit village installé sur le plateau de la Marne. Aux Ruelles, des fouilles ont mis au jour des vestiges mérovingiens : un village, une ferme seigneuriale, un cimetière et une chapelle. On y cultivait des champs de blé et de betteraves, et l’on produisait aussi du charbon de bois, notamment à l’ouest de la commune actuelle.\n\nLe village n’a cependant pas résisté aux troubles : au début du XVe siècle, il est totalement abandonné, à la suite des mouvements de guerre et très probablement de la Peste noire de 1348 et de ses récurrences.\n\nPlus tard, la commune se transforme : en 1856, une propriété est revendue à un particulier, puis remplacée en 1865 par un édifice neuf qui accueille l’école et la salle des réunions municipales, bâtiment intégré à l’ensemble actuel en 1994.\n\nEnfin, l’essor récent marque Serris : le centre commercial Val d’Europe ouvre en octobre 2000, l’espace Euro Disney suit dès le 5 décembre 1990 avant de fermer en avril 1992, et la gare du Val d’Europe est ouverte le 14 avril 2001, inaugurée le 8 juin 2001.",
+  "chronologie": [
+   {
+    "date": "1348",
+    "texte": "Le village est abandonné au début du XVe siècle, vraisemblablement après la Peste noire de 1348 et ses récurrences, au milieu des mouvements de guerre.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1856",
+    "texte": "Une propriété est revendue à un particulier en 1856.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1865",
+    "texte": "En 1865, un édifice neuf est construit avec l’école au rez-de-chaussée et au 1er étage, ainsi que la salle des réunions municipales.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1994",
+    "texte": "Le bâtiment est intégré en 1994 dans le bâtiment actuel.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1990",
+    "texte": "Ouvert le 5 décembre 1990, l’espace Euro Disney ferme en avril 1992 à l’ouverture du complexe.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1992",
+    "texte": "Après la fermeture d’avril 1992, la dalle en forme de tête de Mickey et le chapeau de magicien sont enlevés ; le bâtiment est repeint de manière monochrome et discrète.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "2000",
+    "texte": "Le centre commercial Val d’Europe ouvre le 25 octobre 2000 et compte 190 boutiques et 31 restaurants.",
+    "sources": [
+     "S6",
+     "S9"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "La gare du Val d’Europe est ouverte le 14 avril 2001 et inaugurée le 8 juin 2001.",
+    "sources": [
+     "S18",
+     "S22"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Val d'Europe (centre commercial)",
+   "histoire": "Centre commercial situé dans l’est de l’Île-de-France, dans la commune de Serris, il est inscrit dans la convention signée en 1987 entre la Walt Disney Company et les pouvoirs publics, puis ouvre le 25 octobre 2000.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S6",
+    "S9"
+   ],
+   "lat": 48.853648,
+   "lon": 2.780681,
+   "url": "https://fr.wikipedia.org/wiki/Val_d%27Europe_%28centre_commercial%29"
+  },
+  {
+   "nom": "Espace Euro Disney",
+   "histoire": "Centre d’information destiné à présenter au grand public le futur complexe de loisirs Euro Disney Resort, il se trouvait au sud du territoire mis à disposition d’Euro Disney SCA.",
+   "anecdotes": [
+    {
+     "texte": "Après sa fermeture d’avril 1992, la dalle en forme de tête de Mickey et le chapeau de magicien sont retirés, avant un repeint monochrome et discret.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site n’était plus entretenu depuis de nombreuses années et le bâtiment était à peine visible depuis la route, caché par la végétation.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 48.8393,
+   "lon": 2.78695,
+   "url": "https://fr.wikipedia.org/wiki/Espace_Euro_Disney"
+  },
+  {
+   "nom": "Centre urbain du Val d'Europe",
+   "histoire": "Quartier central du Val d’Europe, sur les communes de Serris et Chessy, il concentre la plupart des activités du secteur.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.8569688,
+   "lon": 2.782004,
+   "url": "https://fr.wikipedia.org/wiki/Centre_urbain_du_Val_d%27Europe"
+  },
+  {
+   "nom": "Gare du Val d'Europe",
+   "histoire": "Gare de la ligne A du RER d’Île-de-France, située en limite des communes de Serris, de Chessy et de Montévrain, elle est achevée fin 2000 et ouverte le 14 avril 2001, puis inaugurée le 8 juin 2001.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La ligne vise à relier le bassin de vie de Meaux au secteur du Val d’Europe, en remplacement d’un projet abandonné de prolonger le RER A jusqu’à Esbly et/ou Meaux.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.855385,
+   "lon": 2.773383,
+   "url": "https://fr.wikipedia.org/wiki/Gare_du_Val_d%27Europe"
+  }
+ ],
+ "sources": [
+  "Serris [sɛʁis] est une commune française située dans le département de Seine-et-Marne, en région Île-de-France. Serris fait partie du secteur IV de la ville nouvelle de Marne-la-Vallée, appelé Val d'Europe, et de l'intercommunalité Val d'Europe Agglomération.",
+  "Des fouilles archéologiques au site des Ruelles ont permis de mettre au jour des vestiges mérovingiens, avec un village, la ferme seigneuriale, le cimetière et la chapelle. Au fil des temps, le petit village s'est développé autour de champs de blé et de betteraves sur le plateau de la Marne. On y produisait également du charbon de bois, notamment à l'ouest de la commune actuelle. Serris a gardé quelques traces de […]",
+  "1348 : Au début du XVe siècle le village est totalement abandonné, à la suite des mouvements de guerre dans la région, et très certainement aussi à la suite des effets de la Peste noire de 1348 et de ses récurrences.",
+  "1856 : Revendue à un particulier en 1856, elle est remplacée en 1865 par un édifice neuf comprenant l'école au rez-de-chaussée et au 1er étage, la salle des réunions municipales.",
+  "1994 : Ce bâtiment a été intégré en 1994 dans le bâtiment actuel.",
+  "2000 : Le centre commercial ouvre en octobre 2000, tout comme l'aquarium, et la gare RER du Val d'Europe est inaugurée en 2001.",
+  "Lieu « Val d'Europe (centre commercial) » : Val d'Europe est un centre commercial situé dans l'Est de l'Île-de-France, dans la commune de Serris en Seine-et-Marne.",
+  "Lieu « Val d'Europe (centre commercial) », 1987 : Le centre commercial est inscrit dans la convention signée en 1987 entre la Walt Disney Company et les pouvoirs publics.",
+  "Lieu « Val d'Europe (centre commercial) », 2000 : Ouvert le 25 octobre 2000, il se compose de 190 boutiques et 31 restaurants, répartis sur 100 000 m2 de surface commerciale.",
+  "Lieu « Val d'Europe (centre commercial) », 2017 : Son parking se verra également agrandi de 1 000 places supplémentaires avec une ouverture prévue fin 2017.",
+  "Lieu « Val d'Europe (centre commercial) », aujourd'hui : Des voutes en coffres descendaient en cascade vers l'intérieur et étaient visibles depuis la grande façade vitrée.",
+  "Lieu « Espace Euro Disney » : L'espace Euro Disney était un centre d'information destiné à présenter au grand public le futur complexe de loisirs, Euro Disney Resort.",
+  "Lieu « Espace Euro Disney », 1990 : Ouvert le 5 décembre 1990 et fermé en avril 1992 à l'ouverture du complexe, l'espace Euro Disney se trouvait au sud du territoire mis à la disposition d'Euro Disney SCA, à environ un kilomètre du centre de Serris, au carrefour des routes départementales 406 et 231, tout près de la sortie no 13 de l'autoroute A4 (la sortie no 14 desservant le parc n'étant pas encore ouverte).",
+  "Lieu « Espace Euro Disney », 1992 : Après sa fermeture en avril 1992, la dalle en forme de tête de Mickey et le chapeau de magicien ont été enlevés, le bâtiment a été repeint de manière monochrome et discrète.",
+  "Lieu « Espace Euro Disney », 2000 : Comme il se situait à l'extrême ouest des terres réservées au parc d'entreprises Arlington Business Park Paris Val d'Europe, en plein développement, une demande de permis de démolition a été déposée à la fin des années 2000.",
+  "Lieu « Espace Euro Disney », aujourd'hui : Le site n'était plus du tout entretenu depuis de nombreuses années et le bâtiment était à peine visible depuis la route, caché par une végétation qui avait repris ses droits.",
+  "Lieu « Centre urbain du Val d'Europe » : Le centre urbain du Val d’Europe, aussi appelé ville centre du Val d’Europe ou centre-ville du Val d'Europe est le quartier central où se concentre la plupart des activités du Val d'Europe, situé sur les communes de Serris et Chessy.",
+  "Lieu « Centre urbain du Val d'Europe », 2000 : Elle est achevée dès la fin de l'année 2000, mais est finalement ouverte le 14 avril 2001 et inaugurée le 8 juin 2001.",
+  "Lieu « Centre urbain du Val d'Europe », 2011 : Entre son ouverture et 2011, la gare du Val d'Europe atteint une fréquentation de trois millions de voyageurs.",
+  "Lieu « Centre urbain du Val d'Europe », aujourd'hui : Cette ligne vise à relier le bassin de vie de Meaux au secteur du Val d'Europe, en remplacement du projet abandonné de prolonger le RER A jusqu’à Esbly et/ou Meaux.",
+  "Lieu « Gare du Val d'Europe » : La gare du Val d'Europe est une gare ferroviaire française de la ligne A du RER d'Île-de-France en limite des communes de Serris, de Chessy et de Montévrain, dans le département de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Gare du Val d'Europe », 2000 : Achevée dès la fin de l'année 2000, la gare du Val d'Europe est finalement ouverte le 14 avril 2001 et inaugurée le 8 juin 2001.",
+  "Lieu « Gare du Val d'Europe », aujourd'hui : Cette ligne vise à relier le bassin de vie de Meaux au secteur du Val d'Europe, en remplacement du projet abandonné de prolonger le RER A jusqu’à Esbly et/ou Meaux."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}

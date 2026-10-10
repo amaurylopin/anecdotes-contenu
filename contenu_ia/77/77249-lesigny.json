@@ -1,0 +1,93 @@
+{
+ "commune": {
+  "titre": "Lésigny (Seine-et-Marne)",
+  "code_insee": "77249",
+  "departement": "77",
+  "population": 6923,
+  "lat": 48.745,
+  "lon": 2.6167,
+  "url": "https://fr.wikipedia.org/wiki/L%C3%A9signy_%28Seine-et-Marne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:37:18",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1206,
+  "sortie": 558
+ },
+ "cout_usd": 0.000939,
+ "accroche": "À Lésigny, l’abbaye Notre-Dame d’Hyverneaux est fondée en 1229, selon les sources, par saint Louis. ",
+ "histoire": {
+  "recit": "À Lésigny, une villa gallo-romaine a laissé croire que le nom du lieu viendrait du propriétaire romain Licinus, installé dans une zone dite « la Grande Romaine ». Plus tard, l’abbaye Notre-Dame d’Hyverneaux s’installe à Lésigny : ses chanoines réguliers de Saint-Augustin, liés à la congrégation de Saint-Victor, sont fondés en 1229 par saint Louis.\n\nLe territoire connaît aussi des temps de changement. La trame locale évoque une abbaye de Monthéty qui se partage un temps le territoire communal avec l’abbaye Notre-Dame d’Hyverneaux, avant d’en arrêter ensuite ses activités. \n\nDans l’époque plus récente, la vie pratique se réorganise : une agence postale est inaugurée en 1924, juste avant l’arrivée de l’électricité en 1926. Puis, entre 1969 et 1973, plusieurs écoles primaires et un collège sont inaugurés, avant qu’en 1989, une nouvelle école remplace celle de Grande Romaine lors de la construction des nouveaux quartiers entre le village et Romaine.",
+  "chronologie": [
+   {
+    "date": "1229",
+    "texte": "Fondation de l’abbaye Notre-Dame d’Hyverneaux à Lésigny, liée à des chanoines réguliers de Saint-Augustin, par saint Louis.",
+    "sources": [
+     "S8",
+     "S7"
+    ]
+   },
+   {
+    "date": "1924",
+    "texte": "Inauguration d’une agence postale à Lésigny, peu avant l’arrivée de l’électricité en 1926.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1969-1973",
+    "texte": "Inaugurations scolaires : quatre écoles primaires, puis un collège, entre 1969 et 1973.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "Construction d’une nouvelle école en 1989, en remplacement de celle de Grande Romaine, avec les nouveaux quartiers entre le village et Romaine.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Notre-Dame d'Hyverneaux",
+   "histoire": "Ancienne abbaye de chanoines réguliers de Saint-Augustin de la congrégation de Saint-Victor, située à Lésigny, fondée en 1229 par saint Louis.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 48.731704,
+   "lon": 2.610581,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_d%27Hyverneaux"
+  }
+ ],
+ "sources": [
+  "Lésigny est une commune française située dans le département de Seine-et-Marne en région Île-de-France.",
+  "La présence d'une villa gallo-romaine dans la zone dite « la Grande Romaine » laisse supposer que l'étymologie de Lésigny est due au nom du propriétaire romain Licinus qui y possédait un domaine. L'abbaye Notre-Dame d'Hyverneaux et l'abbaye de Monthéty (1167) se partagent un temps le territoire communal, avant que l'abbaye de Monthéty, quelques décennies plus tard, ne cesse ses activités. Vers 1170, la foire […]",
+  "1794 : Restauré en partie, il perd ses tours en 1794 avant d'être vendu comme bien national en 1798.",
+  "1924 : Une agence postale est inaugurée en 1924 peu avant l'arrivée de l'électricité en 1926.",
+  "1969 : Quatre écoles primaires (trois après fermeture de l'école de l'Orée) et un collège sont inaugurés entre 1969 et 1973.",
+  "1989 : Avec la construction des nouveaux quartiers entre le village et Romaine, une nouvelle école est construite en 1989 en remplacement de celle de Grande Romaine.",
+  "Lieu « Abbaye Notre-Dame d'Hyverneaux » : L'abbaye Notre-Dame d'Hiverneaux est une ancienne abbaye de chanoines réguliers de Saint-Augustin de la congrégation de Saint-Victor fondée en 1229 par saint Louis, située à Lésigny.",
+  "Lieu « Abbaye Notre-Dame d'Hyverneaux », 1229 : L'abbaye Notre-Dame d'Hiverneaux est une ancienne abbaye de chanoines réguliers de Saint-Augustin de la congrégation de Saint-Victor fondée en 1229 par saint Louis, située à Lésigny."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

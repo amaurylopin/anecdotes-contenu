@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Bailly-Romainvilliers",
+  "code_insee": "77018",
+  "departement": "77",
+  "population": 6980,
+  "lat": 48.8403,
+  "lon": 2.8114,
+  "url": "https://fr.wikipedia.org/wiki/Bailly-Romainvilliers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:36:16",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1042,
+  "sortie": 493
+ },
+ "cout_usd": 0.000825,
+ "accroche": "Au XIVe siècle, Bailly conserve des vestiges d’un ancien château construit au XIVe siècle, chef-lieu d’une seigneurie allant jusqu’à Serris.",
+ "histoire": {
+  "recit": "Bailly-Romainvilliers naît d’un ancien prieuré : au milieu du XIIe siècle, un établissement nommé Bosco, « bois », donne son impulsion au village de Bailly. Plus tard, au XIIIe siècle, le siège d’une paroisse de Romainvilliers est transféré à Bailly ; le prieuré du Bois prend alors le nom de « Baila », une appellation liée au sens de soin, garde, protection. C’est d’abord Bailly qui se développe.\n\nLe paysage garde aussi la trace du pouvoir d’autrefois : au XIVe siècle, Bailly offre et conserve des vestiges d’un château du même siècle, au cœur d’une seigneurie importante s’étendant jusqu’à Serris. À la fin du XVe siècle, l’édifice est appelé Notre-Dame de la Condre.\n\nBien plus tard, au début du XXe siècle, une route est construite pour relier Coulommiers à Paris, en passant par Romainvilliers, ouvrant la commune sur de nouveaux flux.",
+  "chronologie": [
+   {
+    "date": "milieu du XIIe siècle",
+    "texte": "Un prieuré nommé Bosco (« bois ») s’élève : on le rattache à l’origine du village de Bailly.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le siège de l’ancienne paroisse de Romainvilliers est transféré à Bailly, et le prieuré du Bois prend le nom de « Baila ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Bailly conserve des vestiges d’un ancien château construit au XIVe siècle, chef-lieu d’une seigneurie allant jusqu’à Serris.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "fin du XVe siècle",
+    "texte": "L’édifice est appelé Notre-Dame de la Condre.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "début du XXe siècle",
+    "texte": "Une route est construite reliant Coulommiers à Paris en passant par Romainvilliers.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Bailly-Romainvilliers est une commune française située dans le département de Seine-et-Marne en région Île-de-France. La commune fait partie du secteur IV de la ville nouvelle de Marne-la-Vallée, appelé Val d'Europe.",
+  "Au milieu du XIIe siècle, s'élevait un prieuré sous le nom de Bosco (bois), origine du village de Bailly. L'ancienne paroisse de Romainvilliers au XIIIe siècle venait de transférer son siège à Bailly et le prieuré du Bois avait pris le nom de « Baila » du bas latin et du provençal signifiant soin, garde protection. C'est d'abord « Bailly » qui s'est développé. Aucun document ne permet de préciser la date de […]",
+  "XIVe siècle : Bailly offre et conserve également les vestiges d'un ancien château construit au XIVe siècle, chef-lieu d'une seigneurie assez importante qui s'étendait jusqu'à Serris.",
+  "XVe siècle : À la fin du XVe siècle, cet édifice est appelé Notre-Dame de la Condre.",
+  "XXe siècle : Au début du XXe siècle une route est construite reliant Coulommiers à Paris passant par Romainvilliers."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

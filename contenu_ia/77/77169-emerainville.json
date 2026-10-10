@@ -1,0 +1,169 @@
+{
+ "commune": {
+  "titre": "Émerainville",
+  "code_insee": "77169",
+  "departement": "77",
+  "population": 7690,
+  "lat": 48.81083333,
+  "lon": 2.62361111,
+  "url": "https://fr.wikipedia.org/wiki/%C3%89merainville"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:24:21",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1541,
+  "sortie": 1249
+ },
+ "cout_usd": 0.001869,
+ "accroche": "En 1896, l’église actuelle d’Émerainville est édifiée et conserve à l’intérieur un fauteuil ayant appartenu à la sœur de Louis XVI.",
+ "histoire": {
+  "recit": "À Émerainville, tout commence par un monastère de bénédictines. Au XIIe siècle, une abbaye de moniales est fondée, puis elle est citée pour la première fois en 1129, quand des moniales d’Argenteuil rejoignent le monastère. Sous le vocable de Notre-Dame, elle porte d’abord le nom de Notre-Dame du Footel, dit le Bois-aux-Dames, avant de devenir abbaye de la Malnoue à partir de 1460. Plus tard, l’établissement est uni en 1772 aux Ursulines de Versailles, puis disparaît à la Révolution.\n\nLe paysage d’Émerainville se transforme ensuite. La station ouvre en 1857, sur la ligne de Paris-Est à Mulhouse-Ville, avant de voir la ligne abandonnée en 2005, faute de financement de son entretien.\n\nEnfin, deux églises marquent la commune à la fin du XIXe siècle : Notre-Dame de Malnoue, mentionnée en 1129 sur le site de l’ancienne abbaye, est portée par une construction tardive, et l’église Saint-Éloi est édifiée en 1896 grâce à des dons privés, dont ceux d’Henri Bourdon, maire.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Fondation d’une abbaye bénédictine de moniales à Émerainville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1129",
+    "texte": "Première citation de l’abbaye : des moniales d’Argenteuil arrivent au monastère.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1460",
+    "texte": "L’abbaye prend le nom d’abbaye de la Malnoue.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1772",
+    "texte": "L’abbaye est unie aux Ursulines de Versailles.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Révolution",
+    "texte": "L’abbaye disparaît à la Révolution.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "La station d’Émerainville est mise en service lors de l’ouverture au service commercial du tronçon Nogent - Le Perreux à Nangis, le 9 février 1857.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1896",
+    "texte": "Église actuelle : elle est édifiée en 1896.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1896",
+    "texte": "Église Saint-Éloi d’Émerainville : édifiée en 1896 grâce à Henri Bourdon, maire, et à des dons privés.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "La ligne est abandonnée en 2005, la maintenance n’étant plus financée par Guermatex.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare d'Émerainville - Pontault-Combault",
+   "histoire": "La gare d’Émerainville - Pontault-Combault se trouve sur la ligne de Paris-Est à Mulhouse-Ville, sur le territoire de la commune. La station est mise en service le 9 février 1857, lors de l’ouverture commerciale entre Nogent - Le Perreux et Nangis. La ligne est ensuite abandonnée en 2005.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S8"
+   ],
+   "lat": 48.806194,
+   "lon": 2.618125,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27%C3%89merainville_-_Pontault-Combault"
+  },
+  {
+   "nom": "Église Notre-Dame de Malnoue",
+   "histoire": "Église Notre-Dame de Malnoue, rue de l’Ancien-Monastère à Émerainville : elle est bâtie sur le site d’une abbaye de bénédictines fondée au XIIe siècle, et elle est mentionnée en 1129. Elle correspond à l’ancienne abbaye de la Malnoue évoquée dans l’histoire de la commune.",
+   "anecdotes": [
+    {
+     "texte": "À l’intérieur de l’église actuelle d’Émerainville, un fauteuil aurait appartenu à la sœur de Louis XVI.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S4"
+   ],
+   "lat": 48.828273,
+   "lon": 2.597849,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Malnoue"
+  },
+  {
+   "nom": "Église Saint-Éloi d'Émerainville",
+   "histoire": "Église Saint-Éloi d’Émerainville : édifice religieux catholique, édifié en 1896 grâce à des dons privés et à l’action d’Henri Bourdon, maire de la ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 48.811851,
+   "lon": 2.621857,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89loi_d%27%C3%89merainville"
+  }
+ ],
+ "sources": [
+  "Émerainville est une commune française située dans le département de Seine-et-Marne en région Île-de-France.",
+  "Une abbaye bénédictine de moniales y est fondée au XIIe siècle, citée pour la première fois en 1129 lorsque des moniales d'Argenteuil arrivent au monastère. Sous le vocable de Notre-Dame, elle s'appela d'abord Notre-Dame du Footel dit le Bois-aux-Dames, puis abbaye de la Malnoue à partir de 1460. Unie en 1772 aux Ursulines de Versailles, elle disparaît à la Révolution[réf. nécessaire]. Aujourd’hui, cette ancienne […]",
+  "1129 : Une abbaye bénédictine de moniales y est fondée au XIIe siècle, citée pour la première fois en 1129 lorsque des moniales d'Argenteuil arrivent au monastère.",
+  "1896 : L’église actuelle d’Émerainville n’a été édifiée qu’en 1896, mais elle renferme à l’intérieur un fauteuil ayant appartenu à la sœur de Louis XVI.",
+  "Lieu « Gare d'Émerainville - Pontault-Combault » : La gare d'Émerainville - Pontault-Combault est une gare ferroviaire française de la ligne de Paris-Est à Mulhouse-Ville située sur le territoire de la commune d'Émerainville, dans le département de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Gare d'Émerainville - Pontault-Combault », 1857 : La compagnie des chemins de fer de l'Est met en service la station d'Émerainville lors de l'ouverture au service commercial, le 9 février 1857, de la section de Nogent - Le Perreux à Nangis.",
+  "Lieu « Gare d'Émerainville - Pontault-Combault », 1857 : Cette section est ouverte avec une seule voie, la deuxième n'étant mise en service que le 23 avril, deux jours avant celle de la section suivante de Nangis à Flamboin le 25 avril 1857.",
+  "Lieu « Gare d'Émerainville - Pontault-Combault », 2005 : La ligne est abandonnée en 2005 alors que les deux industriels déplacent leurs centres d'activité et que Guermatex, filiale de la SNCF gérant la ligne, refuse de continuer à financer son entretien.",
+  "Lieu « Église Notre-Dame de Malnoue » : L'église Notre-Dame est un édifice religieux catholique situé rue de l'Ancien-Monastère à Émerainville (Seine-et-Marne), en France.",
+  "Lieu « Église Notre-Dame de Malnoue », 1129 : Bâtie sur le site d'une abbaye de Bénédictines fondée au XIIe siècle, elle est mentionnée en 1129.",
+  "Lieu « Église Saint-Éloi d'Émerainville » : L'église Saint-Éloi est un édifice religieux catholique à Émerainville (Seine-et-Marne), en France.",
+  "Lieu « Église Saint-Éloi d'Émerainville », 1896 : Elle a été édifiée en 1896 avec des dons privés, grâce à Henri Bourdon, maire de la ville."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

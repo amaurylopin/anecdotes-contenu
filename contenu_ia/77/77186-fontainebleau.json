@@ -1,0 +1,285 @@
+{
+ "commune": {
+  "titre": "Fontainebleau",
+  "code_insee": "77186",
+  "departement": "77",
+  "population": 15583,
+  "lat": 48.40972222,
+  "lon": 2.7025,
+  "url": "https://fr.wikipedia.org/wiki/Fontainebleau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:25:06",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3506,
+  "sortie": 2464
+ },
+ "cout_usd": 0.003781,
+ "accroche": "En 1845, Fontainebleau bâtit en ville une prison, qui ferme en janvier 1990, selon les indications du musée national des prisons.",
+ "histoire": {
+  "recit": "À Fontainebleau, le passé commence bien avant les façades. Lors de l’entretien d’une des places du château, en 2012, un village gaulois — dont la datation remonte « d’entre trente et deux-cent-cinquante ans avant notre ère » — est mis au jour, avec une occupation qui se poursuit au moins jusqu’après l’époque carolingienne.\n\nLe château, lui, est d’abord mentionné en 1137 comme un château fort servant de rendez-vous de chasse en forêt de « Bieria ». Ensuite, du XVIe au XVIIIe siècle, les rois y mènent des travaux successifs — démolition, reconstruction, agrandissement, embellissement — ce qui donne une architecture à la fois variée et harmonieuse.\n\nLa ville suit aussi le rythme des activités modernes : en 1845, une prison est construite, puis, du 29 juin au 1er juillet 1895, se tient un grand concours national de manœuvres de pompes à incendie. Et, plus au nord des gestes quotidiens, la forêt façonne encore les promenades et les repères : le pourtour a été délimité par des bornes encore visibles.",
+  "chronologie": [
+   {
+    "date": "Entre trente et deux et cent cinquante ans avant notre ère (datation supposée)",
+    "texte": "Lors de l’entretien d’une place du château, un village gaulois est mis au jour, avec une occupation poursuivie au moins jusqu’après l’époque carolingienne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2012",
+    "texte": "Le chantier d’entretien d’une place du château de Fontainebleau révèle un village gaulois.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1137",
+    "texte": "Première mention du château de Fontainebleau, décrit comme un château fort servant de rendez-vous de chasse en forêt de « Bieria ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle - XVIIIe siècle",
+    "texte": "Des rois y effectuent des travaux importants : démolition, reconstruction, agrandissement et embellissement, donnant une architecture hétérogène mais harmonieuse.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1845",
+    "texte": "Construction d’une prison à Fontainebleau, qui ferme en janvier 1990.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "29 juin - 1er juillet 1895",
+    "texte": "Organisation à Fontainebleau d’un concours national de manœuvres de pompes à incendie avec manœuvres d’ambulances et de secours aux blessés.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Fontainebleau",
+   "histoire": "Château royal aux styles principalement Renaissance et classique, il se situe près du centre-ville de Fontainebleau. Les premières traces d’un château à Fontainebleau remontent au XIIe siècle, même si la date exacte de fondation reste inconnue. Pour la décoration, Rosso Fiorentino est associé à des œuvres comme la galerie François Ier, dont la période est donnée de 1534 à 1540. Un autre nom, Sebastiano Serlio, apparaît dans des éléments plus hypothétiques et liés à des assurances financières en 1541.",
+   "anecdotes": [
+    {
+     "texte": "Lors de l’entretien d’une place du château, en 2012, un village gaulois est mis au jour ; la source précise une datation « d’entre trente et deux et cent cinquante ans avant notre ère » et une occupation qui se poursuit au moins jusqu’après l’époque carolingienne.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    },
+    {
+     "texte": "La première mention du château date de 1137 : il est alors utilisé comme rendez-vous de chasse en forêt de « Bieria ».",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S10",
+    "S8",
+    "S9",
+    "S2"
+   ],
+   "lat": 48.401944,
+   "lon": 2.698056,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Fontainebleau"
+  },
+  {
+   "nom": "Forêt de Fontainebleau",
+   "histoire": "La forêt de Fontainebleau, anciennement forêt de Bière, est un massif boisé du Sud de la Seine-et-Marne. La tour Denecourt est construite en 1851 sur le sommet Est de la chaîne du Cassepot, puis s’effondre en 1878. Dans l’organisation des repères, la source indique qu’un aménagement a été relancé : le pourtour de 90 km est délimité par 1 050 bornes encore visibles de nos jours.",
+   "anecdotes": [
+    {
+     "texte": "Sur le pourtour, 1 050 bornes serviraient de délimitation : certaines seraient encore visibles aujourd’hui selon la source.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les 1 050 bornes de délimitation du pourtour de 90 km restent visibles.",
+   "sources": [
+    "S15"
+   ],
+   "lat": 48.401957,
+   "lon": 2.662717,
+   "url": "https://fr.wikipedia.org/wiki/For%C3%AAt_de_Fontainebleau"
+  },
+  {
+   "nom": "Hôtel de Madame Élisabeth",
+   "histoire": "Cette ancienne demeure du XVIIIe siècle, ensuite appelée hôtel Guérin, est détruite à la fin du XIXe siècle. En 1788, le docteur Dassy fait construire les corps de bâtiment et ses dépendances. Vers la fin de l’année 1893, l’hôtel est presque entièrement rasé : il ne reste que quelques mètres de murs. Aujourd’hui, ces terrains ont évolué en un quartier résidentiel pittoresque, parfois appelé « quartier des Présidents-de-la-République » en référence à ses odonymes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les terrains ont évolué en quartier résidentiel, parfois nommé « quartier des Présidents-de-la-République ».",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 48.407059,
+   "lon": 2.694805,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Madame_%C3%89lisabeth"
+  },
+  {
+   "nom": "Ermitage de Pompadour",
+   "histoire": "L’Ermitage de Pompadour, aussi appelé hôtel de Pompadour, est un hôtel particulier situé au no 3, boulevard Magenta à Fontainebleau. Le bâtiment est commandé dès janvier 1749 et est terminé et habitable en à peine neuf mois. Plus tard, les lieux sont occupés par Louis-Victor-Hippolyte, comte de Montmorin, jusqu’à la Révolution, puis il devient premier maire de Fontainebleau en 1790 avant d’être tué lors des massacres de Septembre en 1792. En 1795, aliéné comme bien national, le domaine est vendu à la municipalité de Melun puis revendu à un marchand.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Propriété privée, ne se visitant pas, appartenant aujourd’hui au couple Carlo et Polissena Perrone.",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 48.3983278,
+   "lon": 2.692675,
+   "url": "https://fr.wikipedia.org/wiki/Ermitage_de_Pompadour"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-de-Bon-Secours de Fontainebleau",
+   "histoire": "La chapelle Notre-Dame-de-Bon-Secours, dite aussi de la Bonne-Dame, est un édifice religieux catholique du XIXe siècle à Fontainebleau. La source rappelle qu’en 1690 un oratoire est construit à l’initiative du curé Maurice Faure et financé grâce aux subventions du sieur Grenet. Cet oratoire est détruit en 1793 pendant la Révolution. Par tradition locale et religieuse, l’emplacement constitue notamment un lieu de pèlerinage.",
+   "anecdotes": [
+    {
+     "texte": "Par tradition locale et religieuse, l’emplacement de la chapelle constituerait un lieu de pèlerinage.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’emplacement est, par tradition, un lieu de pèlerinage.",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S30"
+   ],
+   "lat": 48.418418,
+   "lon": 2.707583,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-de-Bon-Secours_de_Fontainebleau"
+  },
+  {
+   "nom": "Musée national des prisons",
+   "histoire": "Le musée national des prisons est installé à Fontainebleau dans les bâtiments de l’ancienne maison d’arrêt. Le bâtiment de 1845 est construit sur un modèle pennsylvanien. La source précise aussi l’ouverture au public entre 1995 et 2010, et une nomination : en 1991, Catherine Prade est nommée conservatrice.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32",
+    "S34",
+    "S33",
+    "S35"
+   ],
+   "lat": 48.409811111111,
+   "lon": 2.7033861111111,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_national_des_prisons"
+  },
+  {
+   "nom": "Hôtel de Ferrare et quartier Boufflers",
+   "histoire": "L’hôtel de Ferrare et le quartier Boufflers forment un ensemble d’édifices et de vestiges à Fontainebleau. L’hôtel de Ferrare, fondé au XVIe siècle, posséderait un portail dont l’œuvre est attribuée à l’italien Sebastiano Serlio. Au XIXe siècle, le portail serait encastré dans le mur du quartier de la cavalerie, sa baie se retrouvant murée sous prétexte qu’elle menaçait de s’effondrer. En 2001, une partie du mur de l’enceinte du parc de stationnement est rasée avec l’autorisation du ministère de la Culture.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+   ],
+   "lat": 48.402992,
+   "lon": 2.696698,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Ferrare_et_quartier_Boufflers"
+  },
+  {
+   "nom": "Bâtiment de la Mission",
+   "histoire": "Le bâtiment de la Mission est un bâtiment situé à Fontainebleau, partagé entre la municipalité et la cure. En 1830, un arrêté préfectoral impose la séparation entre la municipalité et la cure. Les façades et les toitures font l’objet d’une inscription au titre des monuments historiques en 1949. Plus tard, en 2017, il est déplacé dans l’ancienne salle des élections, au rez-de-chaussée, avec un accès depuis la place de la République. Aujourd’hui, le bâtiment est adjacent à l’église Saint-Louis, avec une cour intérieure.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le bâtiment est aujourd’hui divisé entre la municipalité et la cure, adjacent à l’église Saint-Louis.",
+   "sources": [
+    "S41",
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 48.405808333333,
+   "lon": 2.7010555555556,
+   "url": "https://fr.wikipedia.org/wiki/B%C3%A2timent_de_la_Mission"
+  }
+ ],
+ "sources": [
+  "Fontainebleau (prononcé [fɔ̃.tɛn.blo]) est une commune française située dans le département de Seine-et-Marne en région Île-de-France, à 57 kilomètres au sud-est de Paris. En 2023, elle compte 15 583 habitants. Elle est dotée d'un château célèbre et de sites d'escalade dans la forêt de Fontainebleau.",
+  "En 2012, un village gaulois qui daterait d'entre trente et deux-cent-cinquante ans avant notre ère est mis au jour lors de l'entretien d'une des places du château de Fontainebleau, l'occupation du site se poursuivant au moins jusqu'après l'époque carolingienne, mais la première mention du château lui-même date de 1137 : il s'agit alors d'un château fort utilisé comme rendez-vous de chasse en forêt de « Bieria » […]",
+  "XVIIIe siècle : Du XVIe au XVIIIe siècle, tous les rois, de François Ier à Louis XV, y ont effectué des travaux importants (démolition – reconstruction – agrandissement – embellissement) d'où le caractère un peu « hétérogène », mais néanmoins harmonieux, de l'architecture du château.",
+  "1845 : En 1845 est bâtie en ville une prison, qui fermera en janvier 1990.",
+  "1895 : Du 29 juin au 1er juillet 1895 fut organisé à Fontainebleau un grand concours national de manœuvres de pompes à incendie avec manœuvres d'ambulances et de secours aux blessés.",
+  "Lieu « Château de Fontainebleau » : Le château de Fontainebleau est un château royal de styles principalement Renaissance et classique, près du centre-ville de Fontainebleau, à une soixantaine de kilomètres au sud-est de Paris, en France.",
+  "Lieu « Château de Fontainebleau », 1068 : La date exacte de la fondation du château reste inconnue, mais le premier édifice a probablement été construit sous le règne du père de Louis VII, Louis VI le Gros, voire sous celui de son grand-père, Philippe Ier, lorsqu'il réunit le Gâtinais au domaine royal français en 1068.",
+  "Lieu « Château de Fontainebleau », 1534 : Pour la décoration du château, il commet Rosso Fiorentino qui dessine le pavillon de Pomone, le pavillon des Poesles, la galerie Basse (tous détruits) et surtout la galerie François Ier (1534-1540).",
+  "Lieu « Château de Fontainebleau », 1541 : Les noms des architectes du château sont, quant à eux, plus hypothétiques : Sebastiano Serlio, pour sa part, se voyait offrir le 27 décembre 1541 l'assurance de 400 livres par an pour « son état de peintre et d'architecteur au fait de ses édifices et bastiments au dit lieu de Fontainebleau ».",
+  "Lieu « Château de Fontainebleau », aujourd'hui : Les premières traces d'un château à Fontainebleau remontent au XIIe siècle.",
+  "Lieu « Forêt de Fontainebleau » : Le massif forestier de Fontainebleau, ou plus simplement et moins précisément la forêt de Fontainebleau, et anciennement la forêt de Bière (dérivé de bruyère), est un important massif boisé situé dans le Sud de la Seine-et-Marne et une partie de l'Es",
+  "Lieu « Forêt de Fontainebleau », 1851 : La tour Denecourt, construite par Claude-François Denecourt en 1851 sur le sommet Est de la chaine du Cassepot, inaugurée le 23 novembre 1853 par Napoléon III et l'impératrice Eugénie, elle s'est effondrée en 1878.",
+  "Lieu « Forêt de Fontainebleau », 1862 : En 1862, Claude-François Denecourt publie une pétition à destination de l'empereur Napoléon III pour la conservation du côté artistique et pittoresque de la forêt de Fontainebleau, signée entre autres par Rosa Bonheur.",
+  "Lieu « Forêt de Fontainebleau », 1880 : La tour de Samois, ancienne tour d'observation construite en 1880 sur le rocher de Samois.",
+  "Lieu « Forêt de Fontainebleau », aujourd'hui : En 1750, un nouvel aménagement est relancé et le pourtour de 90 km de la forêt est délimité par 1 050 bornes encore visibles de nos jours.",
+  "Lieu « Hôtel de Madame Élisabeth » : L'hôtel de Madame Élisabeth, ultérieurement appelé hôtel Guérin, est une ancienne demeure du XVIIIe siècle, détruite à la fin du XIXe, située à Fontainebleau, en France.",
+  "Lieu « Hôtel de Madame Élisabeth », XVIIIe siècle : L'hôtel de Madame Élisabeth, ultérieurement appelé hôtel Guérin, est une ancienne demeure du XVIIIe siècle, détruite à la fin du XIXe, située à Fontainebleau, en France.",
+  "Lieu « Hôtel de Madame Élisabeth », 1788 : En 1788, le docteur Dassy fait construire les corps de bâtiment qui composent l’hôtel et ses dépendances.",
+  "Lieu « Hôtel de Madame Élisabeth », 1893 : À la fin de l'année 1893, l'hôtel est presque entièrement rasé : ne restent alors que quelques mètres de murs.",
+  "Lieu « Hôtel de Madame Élisabeth », aujourd'hui : De nos jours, ces terrains ont évolué en un quartier résidentiel pittoresque, parfois dénommé « quartier des Présidents-de-la-République » en référence à ses odonymes.",
+  "Lieu « Ermitage de Pompadour » : L’Ermitage de Pompadour ou hôtel de Pompadour est un hôtel particulier, situé au no 3, boulevard Magenta, à Fontainebleau dans le département français de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Ermitage de Pompadour », 1749 : Le bâtiment, commandé dès janvier 1749, est terminé et habitable en à peine neuf mois.",
+  "Lieu « Ermitage de Pompadour », 1790 : Les lieux sont ensuite occupés par Louis-Victor-Hippolyte, comte de Montmorin, fils cadet du précédent et repreneur de la charge de gouverneur, qu’il conserve jusqu’à la Révolution, puis devient le premier maire de Fontainebleau en 1790, avant d’être tué lors des massacres de Septembre en 1792.",
+  "Lieu « Ermitage de Pompadour », 1795 : Aliéné comme bien national, le domaine est vendu à la municipalité de Melun, qui le revend le 28 mai 1795, à un marchand, Louis-François Guilleminet dit Le Jeune, pour la somme de 202 200 livres en assignats.",
+  "Lieu « Ermitage de Pompadour », aujourd'hui : Propriété privée ne se visitant pas, il appartient aujourd'hui au couple Carlo et Polissena Perrone.",
+  "Lieu « Chapelle Notre-Dame-de-Bon-Secours de Fontainebleau » : La chapelle Notre-Dame-de-Bon-Secours, dite aussi de la Bonne-Dame, est un édifice religieux catholique du XIXe siècle situé à Fontainebleau, en France.",
+  "Lieu « Chapelle Notre-Dame-de-Bon-Secours de Fontainebleau », 1690 : En 1690, un oratoire est construit à l'initiative du curé Maurice Faure et bâti grâce aux subventions de sieur Grenet, prêtre de l'église de Fontainebleau.",
+  "Lieu « Chapelle Notre-Dame-de-Bon-Secours de Fontainebleau », 1793 : La Révolution passe par Fontainebleau et cet oratoire est détruit en 1793.",
+  "Lieu « Chapelle Notre-Dame-de-Bon-Secours de Fontainebleau », XIXe siècle : La chapelle Notre-Dame-de-Bon-Secours, dite aussi de la Bonne-Dame, est un édifice religieux catholique du XIXe siècle situé à Fontainebleau, en France.",
+  "Lieu « Chapelle Notre-Dame-de-Bon-Secours de Fontainebleau », aujourd'hui : Par tradition locale et religieuse, son emplacement constitue notamment un lieu de pèlerinage.",
+  "Lieu « Musée national des prisons » : Le musée national des prisons est un ancien musée français situé à Fontainebleau (Seine-et-Marne).",
+  "Lieu « Musée national des prisons », 1845 : Le bätiment, construit en 1845 sur un modèle pennsylvanien par l'architecte du conseil général de la Seine-et-Marne (le même qui a dessiné les prisons de Meaux et de Coulommiers), est représentatif des prisons érigées sous la Troisième République.",
+  "Lieu « Musée national des prisons », 1991 : En 1991, l'archiviste-paléographe Catherine Prade, précédemment directrice du musée de la serrure (fermé en 2003), est nommée conservateur du musée national des prisons.",
+  "Lieu « Musée national des prisons », 1995 : Installé dans les bâtiments de l'ancienne maison d'arrêt de Fontainebleau, il est ouvert au public entre 1995 et 2010.",
+  "Lieu « Musée national des prisons », aujourd'hui : Au début des années 1990, la maison d'arrêt de Fontainebleau est choisie pour devenir l'emplacement du futur musée.",
+  "Lieu « Hôtel de Ferrare et quartier Boufflers » : L'hôtel de Ferrare et le quartier Boufflers forment un ensemble d'édifices et de vestiges situé à Fontainebleau, en France.",
+  "Lieu « Hôtel de Ferrare et quartier Boufflers », XVIe siècle : L'hôtel de Ferrare, ou hôtel du Grand Ferrare, est fondé au XVIe siècle et le portail est l'œuvre de l'italien Sebastiano Serlio.",
+  "Lieu « Hôtel de Ferrare et quartier Boufflers », XIXe siècle : Au XIXe siècle, le portail de l'ancien hôtel de Ferrare est encastrée dans le mur du quartier de la cavalerie et sa baie se retrouve murée, sous prétexte qu'il menaçait de s'effondrer.",
+  "Lieu « Hôtel de Ferrare et quartier Boufflers », 2001 : Le 4 janvier 2001, une partie du mur qui constitue l'enceinte du parc de stationnement est rasé, avec l'autorisation du ministère de la Culture.",
+  "Lieu « Hôtel de Ferrare et quartier Boufflers », aujourd'hui : L'hôtel de Ferrare et le quartier Boufflers forment un ensemble d'édifices et de vestiges situé à Fontainebleau, en France.",
+  "Lieu « Bâtiment de la Mission » : Le bâtiment, hôtel ou maison de la Mission, parfois simplement la Mission ou bien Maison communale, est un bâtiment situé à Fontainebleau, en France.",
+  "Lieu « Bâtiment de la Mission », 1830 : En 1830, un arrêté préfectoral, toujours en vigueur, impose la séparation de l'édifice entre la municipalité et la cure.",
+  "Lieu « Bâtiment de la Mission », 1949 : Les façades et les toitures du bâtiment font l'objet d'une inscription au titre des monuments historiques par arrêté du 14 septembre 1949, en tant que propriété de la commune.",
+  "Lieu « Bâtiment de la Mission », 2017 : Il est déplacé le 12 juillet 2017, dans l’ancienne salle des élections, au rez-de-chaussée du bâtiment de la Mission, avec un accès depuis la place de la République.",
+  "Lieu « Bâtiment de la Mission », aujourd'hui : Ancien établissement conventuel, aujourd'hui divisé entre la municipalité et la cure, il est adjacent à l'église Saint-Louis, dialoguant par une cour intérieure."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 4
+ }
+}

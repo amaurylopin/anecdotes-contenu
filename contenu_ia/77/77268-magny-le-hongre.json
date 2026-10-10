@@ -1,0 +1,103 @@
+{
+ "commune": {
+  "titre": "Magny-le-Hongre",
+  "code_insee": "77268",
+  "departement": "77",
+  "population": 9060,
+  "lat": 48.8631,
+  "lon": 2.8133,
+  "url": "https://fr.wikipedia.org/wiki/Magny-le-Hongre"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:53",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1208,
+  "sortie": 969
+ },
+ "cout_usd": 0.001453,
+ "accroche": "En 1589, lors de la rédaction de la coutume de Paris, Thomas le Pilleur est seigneur et châtelain de Magny le Hongre. ",
+ "histoire": {
+  "recit": "À Magny-le-Hongre, la vie locale s’est longtemps tenue près des grandes liaisons : la commune se trouve en Seine-et-Marne, au voisinage de l’autoroute A4 et du complexe de loisirs Disneyland Paris, et elle fait partie de Val d’Europe Agglomération.\n\nEn 1589, la coutume de Paris mentionne Thomas le Pilleur : à cette date, il est seigneur et châtelain de Magny le Hongre, avec un petit château construit sur son fief. Le nom des Pilleurs, d’abord lié à ce château, sera conservé ensuite sous des formes altérées.\n\nPlus tard, le paysage s’oriente aussi vers les loisirs : le golf Paris Val d’Europe, propriété d’Euro Disney sur Magny-le-Hongre, ouvre en octobre 1992 avec 18 trous, puis s’agrandit en août 1993.\n\nSur place, l’église Sainte-Geneviève structure toujours le centre : le chœur et le clocher sont reconstruits en 1891, et il ne reste rien du premier bâtiment.",
+  "chronologie": [
+   {
+    "date": "1589",
+    "texte": "La coutume de Paris cite Thomas le Pilleur, seigneur et châtelain de Magny le Hongre ; un petit château est alors construit sur son fief, associé au nom des Pilleurs.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1891",
+    "texte": "Chœur et clocher de l’église Sainte-Geneviève reconstruits ; aucun élément du premier bâtiment ne subsiste.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "octobre 1992",
+    "texte": "Ouverture du golf avec 18 trous.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "août 1993",
+    "texte": "Agrandissement du golf avec 9 trous supplémentaires.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Golf Paris Val d'Europe",
+   "histoire": "Le Golf Paris Val d'Europe est un parcours de golf situé à Magny-le-Hongre, sur la propriété de la société Euro Disney. À l’ouverture, en octobre 1992, il compte 18 trous, puis il est agrandi en août 1993 avec 9 trous supplémentaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Parcours de golf situé sur la commune, propriété d’Euro Disney.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 48.857826,
+   "lon": 2.807994,
+   "url": "https://fr.wikipedia.org/wiki/Golf_Paris_Val_d%27Europe"
+  },
+  {
+   "nom": "Église Sainte-Geneviève de Magny-le-Hongre",
+   "histoire": "L’église Sainte-Geneviève se trouve à Magny-le-Hongre. En 1891, son chœur et son clocher sont entièrement reconstruits ; il ne reste rien du premier bâtiment.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 48.86435,
+   "lon": 2.81399,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Genevi%C3%A8ve_de_Magny-le-Hongre"
+  }
+ ],
+ "sources": [
+  "Magny-le-Hongre est une commune française située dans le département de Seine-et-Marne, en région Île-de-France. Elle est membre de Val d'Europe Agglomération. Elle est située à proximité de l'autoroute A4 joignant Paris à l'ouest à Strasbourg à l'est, et du complexe de loisirs Disneyland Paris.",
+  "En 1589, lors de la rédaction de la coutume de Paris, Thomas le Pilleur, conseiller notaire et secrétaire du roi, contrôleur de l'audience de Paris, est seigneur et châtelain de Bailly, Serris, Chatou, Magny le Hongre et Vères en partie. Il y avait alors le petit château construit sur son fief qui prit le nom des Pilleurs, nom conservé par la suite avec des altérations. Ainsi, on retrouve plus tard au XVIIIe siècle, […]",
+  "Lieu « Golf Paris Val d'Europe » : Le golf Paris Val d'Europe, anciennement le golf Disneyland jusqu'en 2021, est un parcours de golf français, propriété de la société Euro Disney, sur les communes de Magny-le-Hongre et Bailly-Romainvilliers, dans le département de Seine-et-Marne en r",
+  "Lieu « Golf Paris Val d'Europe », 1992 : Le golf comptait 18 trous à son ouverture en octobre 1992 et fut agrandi en août 1993 avec 9 trous supplémentaires.",
+  "Lieu « Église Sainte-Geneviève de Magny-le-Hongre » : L’église Sainte-Geneviève est située à Magny-le-Hongre, dans le département français de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Église Sainte-Geneviève de Magny-le-Hongre », 1891 : Le chœur et le clocher de l'église ont été entièrement reconstruits en 1891, et il ne reste rien du premier bâtiment."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

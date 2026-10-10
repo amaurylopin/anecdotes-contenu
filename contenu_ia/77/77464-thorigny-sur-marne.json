@@ -1,0 +1,111 @@
+{
+ "commune": {
+  "titre": "Thorigny-sur-Marne",
+  "code_insee": "77464",
+  "departement": "77",
+  "population": 10440,
+  "lat": 48.88444444,
+  "lon": 2.71416667,
+  "url": "https://fr.wikipedia.org/wiki/Thorigny-sur-Marne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:54:33",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1225,
+  "sortie": 1008
+ },
+ "cout_usd": 0.001505,
+ "accroche": "Le premier pont de Thorigny-sur-Marne est attribué à Albéric, seigneur de Montjay, au XIIe siècle.",
+ "histoire": {
+  "recit": "À l’origine, Thorigny-sur-Marne s’inscrit dans une histoire ancienne : la commune commence à l’Époque gallo-romaine, quand la cité s’appelait Tauriniacum. Plus tard, la Marne sert de frontière entre pays de France et comté de Champagne, et l’on franchit la rivière soit à gué, soit en bateau.\n\nLe passage change de visage avec le premier pont, construit par Albéric, seigneur de Montjay au XIIe siècle. Bien plus tard, la commune connaît un moment très officiel : le 19 août 1849, elle est inaugurée par le président Louis-Napoléon Bonaparte.\n\nLe chemin de fer, lui, laisse aussi des traces. Le bâtiment voyageurs d’origine de la gare de Lagny - Thorigny est démoli en 1934, lors de travaux liés au passage de 2 à 4 voies après l’accident de Noël 1933. Puis, en 1962, le bâtiment voyageurs actuel apparaît avec l’électrification de la ligne. Aujourd’hui, la gare de Lagny - Thorigny est desservie par les trains Transilien Paris-Est (ligne P).",
+  "chronologie": [
+   {
+    "date": "Époque gallo-romaine",
+    "texte": "La commune commence alors ; la cité se nommait Tauriniacum.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Albéric, seigneur de Montjay, fait construire le premier pont.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "19 août 1849",
+    "texte": "La commune est inaugurée par le président Louis-Napoléon Bonaparte.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1934",
+    "texte": "Le bâtiment voyageurs d’origine de la gare est démoli lors du passage de 2 à 4 voies après l’accident de Noël 1933.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "Le bâtiment voyageurs actuel date de l’électrification de la ligne.",
+    "sources": [
+     "S8",
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Lagny - Thorigny",
+   "histoire": "La gare de Lagny - Thorigny appartient à la ligne de Noisy-le-Sec à Strasbourg-Ville, sur le territoire des communes de Pomponne et de Thorigny-sur-Marne, en Seine-et-Marne.",
+   "anecdotes": [
+    {
+     "texte": "En 1934, le bâtiment voyageurs d’origine est démoli après l’accident de Noël 1933, dans le cadre du passage de 2 à 4 voies.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Aujourd’hui, la gare est desservie par les trains du réseau Transilien Paris-Est (ligne P).",
+   "sources": [
+    "S6",
+    "S9",
+    "S7",
+    "S8"
+   ],
+   "lat": 48.8821,
+   "lon": 2.704251,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lagny_-_Thorigny"
+  }
+ ],
+ "sources": [
+  "Thorigny-sur-Marne est une commune française située dans le département de Seine-et-Marne, en région Île-de-France.",
+  "L’histoire de la commune, sans doute occupée par les Meldes, commence à l’Époque gallo-romaine ; la cité s’appelait alors Tauriniacum. Jusqu’à l’unification du Royaume, Thorigny était situé entre le pays de France et le comté de Champagne , la Marne constituant cette frontière. Le franchissement de la rivière se faisait à gué ou en bateau. Le premier pont fut construit par Albéric, seigneur de Montjay au XIIe […]",
+  "XIIe siècle : Le premier pont fut construit par Albéric, seigneur de Montjay au XIIe siècle.",
+  "1849 : Elle fut inaugurée le 19 août 1849 par le président Louis-Napoléon Bonaparte.",
+  "1962 : La gare fut détruite et remplacée par le bâtiment actuel en 1962.",
+  "Lieu « Gare de Lagny - Thorigny » : La gare de Lagny - Thorigny est une gare ferroviaire française de la ligne de Noisy-le-Sec à Strasbourg-Ville, située sur le territoire des communes de Pomponne, à l'ouest, et de Thorigny-sur-Marne, à l'est, dans le département de Seine-et-Marne en r",
+  "Lieu « Gare de Lagny - Thorigny », 1934 : Le bâtiment voyageurs d'origine — démoli en 1934 lors du passage de 2 à 4 voies après l'accident de Noël 1933 — fut sans doute édifié dans les années 1850.",
+  "Lieu « Gare de Lagny - Thorigny », 1962 : Le bâtiment voyageurs actuel date de l'électrification de la ligne en 1962.",
+  "Lieu « Gare de Lagny - Thorigny », aujourd'hui : C'est aujourd'hui une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains du réseau Transilien Paris-Est (ligne P)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

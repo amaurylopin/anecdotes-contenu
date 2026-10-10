@@ -1,0 +1,172 @@
+{
+ "commune": {
+  "titre": "Vaires-sur-Marne",
+  "code_insee": "77479",
+  "departement": "77",
+  "population": 13931,
+  "lat": 48.8667,
+  "lon": 2.65,
+  "url": "https://fr.wikipedia.org/wiki/Vaires-sur-Marne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:33:12",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1986,
+  "sortie": 1303
+ },
+ "cout_usd": 0.002026,
+ "accroche": "En mai 1430, Jeanne d’Arc, venant de Lagny-sur-Marne, livre combat aux Bourguignons au lieu-dit la ou les Plaines, sur le territoire de Vaires-sur-Marne.",
+ "histoire": {
+  "recit": "Vaires-sur-Marne se raconte en lignes de passage et en récits de bataille. La mémoire locale accroche d’abord une date de mai 1430 : Jeanne d’Arc, venant de Lagny-sur-Marne, affronte les Bourguignons commandés par le capitaine Franquet d’Arras, fait prisonnier puis décapité à Lagny, au lieu-dit la ou les Plaines.\n\nPlus tard, le mouvement vient des trains. Le conseil municipal réclame l’ouverture d’une gare à la Compagnie des chemins de fer de l’Est ; puis l’on approuve une halte, parce qu’il y a plus de neuf kilomètres entre les gares de Chelles et de Lagny - Thorigny. Vers 1904, la halte reste « spartiate », avec un petit bâtiment atteint par des chemins en terre.\n\nAujourd’hui, l’Île de loisirs de Vaires-Torcy transforme la commune : un réaménagement majeur s’achève en 2019 pour accueillir les épreuves d’aviron et de canoë-kayak des Jeux olympiques de Paris 2024, ainsi que celles de paracanoë des Jeux paralympiques. Et sur l’autre rive du temps, la centrale de Vaires-sur-Marne, déconstruite, laisse trois Turbines à combustion visibles sur le site.",
+  "chronologie": [
+   {
+    "date": "710",
+    "texte": "Première mention du nom de Vaires, attribué à un domaine rural dépendant alors de Lagny-sur-Marne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "mai 1430",
+    "texte": "Jeanne d’Arc, venant de Lagny-sur-Marne, livre combat aux Bourguignons commandés par le capitaine Franquet d’Arras au lieu-dit la ou les Plaines.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "28 août 1944",
+    "texte": "La commune est libérée de l’occupation allemande.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Vaires - Torcy",
+   "histoire": "Sur le territoire de Vaires-sur-Marne, la gare de Vaires - Torcy se situe sur la ligne de Paris-Est à Strasbourg-Ville, proche de Torcy.",
+   "anecdotes": [
+    {
+     "texte": "En 1859, le conseil municipal réclame l’ouverture d’une gare sur son territoire auprès de la Compagnie des chemins de fer de l’Est.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1897, l’ouverture d’une halte est approuvée notamment parce qu’il y a plus de neuf kilomètres entre les gares de Chelles et de Lagny - Thorigny.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Vers 1904, l’aménagement de la halte reste très simple : un petit bâtiment éloigné des quais, rejoint par des chemins en terre.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’emplacement de la halte est prévu à environ quatre kilomètres après Chelles et cinq kilomètres avant Lagny.",
+   "sources": [
+    "S5",
+    "S9"
+   ],
+   "lat": 48.875289,
+   "lon": 2.639791,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Vaires_-_Torcy"
+  },
+  {
+   "nom": "Église Sainte-Jeanne d'Arc de Vaires-sur-Marne",
+   "histoire": "Édifice religieux catholique, l’église Sainte-Jeanne d’Arc s’inscrit à Vaires-sur-Marne.",
+   "anecdotes": [
+    {
+     "texte": "L’église est bâtie sur l’emplacement supposé de la dernière bataille victorieuse de Jeanne d’Arc en mai 1430, contre Franquet d’Arras.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S12"
+   ],
+   "lat": 48.87456,
+   "lon": 2.63653,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Jeanne_d%27Arc_de_Vaires-sur-Marne"
+  },
+  {
+   "nom": "Île de loisirs de Vaires-Torcy",
+   "histoire": "Base de plein air et de loisirs sur les communes de Vaires-sur-Marne, Chelles et Torcy, l’Île accueille aussi des compétitions nautiques.",
+   "anecdotes": [
+    {
+     "texte": "Après 4 ans de travaux achevés en 2019, le site est réaménagé pour les épreuves d’aviron et de canoë-kayak des Jeux olympiques de 2024, ainsi que celles de paracanoë des Jeux paralympiques.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S16"
+   ],
+   "lat": 48.864799,
+   "lon": 2.642499,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_loisirs_de_Vaires-Torcy"
+  },
+  {
+   "nom": "Centrale électrique de Vaires-sur-Marne",
+   "histoire": "La centrale électrique de Vaires-sur-Marne est une centrale thermique à fioul léger implantée sur la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’ancienne centrale a été déconstruite : le site comporte trois Turbines à combustion (TAC) d’une puissance unitaire de 185 MW.",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 48.873692,
+   "lon": 2.655475,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_%C3%A9lectrique_de_Vaires-sur-Marne"
+  }
+ ],
+ "sources": [
+  "Vaires-sur-Marne (prononcé [vɛʁ syʁ maʁn]) est une commune française située dans le département de Seine-et-Marne en région Île-de-France. Vaires-sur-Marne a accueilli les épreuves d'aviron et de canoë-kayak (en ligne et slalom) des Jeux olympiques et paralympiques d'été de Paris 2024.",
+  "Selon le site web de la ville, l'histoire de Vaires « commence, il y a 500 000 ans : des outils en pierre datant de cette époque ont été trouvés sur le territoire de la commune ». On trouve en 710 la première mention du nom de Vaires, donné à un domaine rural dépendant alors de Lagny-sur-Marne. En mai 1430, Jeanne d'Arc, venant de Lagny-sur-Marne, livre combat aux Bourguignons, commandés par le capitaine Franquet […]",
+  "1430 : En mai 1430, Jeanne d'Arc, venant de Lagny-sur-Marne, livre combat aux Bourguignons, commandés par le capitaine Franquet d'Arras (fait prisonnier, Franquet d'Arras sera décapité à Lagny), au lieu-dit la ou les Plaines.",
+  "1944 : Vaires-sur-Marne est libéré de l'occupation allemande le 28 août 1944.",
+  "Lieu « Gare de Vaires - Torcy » : La gare de Vaires - Torcy est une gare ferroviaire française de la ligne de Paris-Est à Strasbourg-Ville, située sur le territoire de la commune de Vaires-sur-Marne, proche de Torcy, dans le département de Seine-et-Marne en région Île-de-France.",
+  "Lieu « Gare de Vaires - Torcy », 1859 : Presque dix ans après les premiers passages de trains sur la commune, le conseil municipal lors de son assemblée du 6 mars 1859 réclame l'ouverture d'une gare sur son territoire à la Compagnie des chemins de fer de l'Est qui a repris la ligne.",
+  "Lieu « Gare de Vaires - Torcy », 1897 : Le 28 janvier 1897, son conseil d'administration approuve l'ouverture d'une halte, d'autant qu'il y a plus de neuf kilomètres entre les gares de Chelles et de Lagny - Thorigny.",
+  "Lieu « Gare de Vaires - Torcy », 1904 : Comme on le voit sur la photo de la halte vers 1904, l'aménagement est spartiate et les voyageurs n'ont à leur disposition que ce petit bâtiment éloigné des quais auquel on accède par des chemins en terre.",
+  "Lieu « Gare de Vaires - Torcy », aujourd'hui : L'emplacement de la halte est prévu à environ quatre kilomètres après Chelles et cinq kilomètres avant Lagny.",
+  "Lieu « Église Sainte-Jeanne d'Arc de Vaires-sur-Marne » : L'église Sainte-Jeanne-d'Arc située à Vaires-sur-Marne, dans le département français de Seine-et-Marne, est un édifice religieux catholique.",
+  "Lieu « Église Sainte-Jeanne d'Arc de Vaires-sur-Marne », XIIIe siècle : Une première église dédiée à sainte Agathe est attestée dans ce village au XIIIe siècle, mais est progressivement desaffectée au XIXe siècle, puis détruite.",
+  "Lieu « Église Sainte-Jeanne d'Arc de Vaires-sur-Marne », 1430 : Cette église est bâtie sur l'emplacement supposé de la dernière bataille victorieuse de Jeanne d'Arc en mai 1430, contre Franquet d'Arras.",
+  "Lieu « Église Sainte-Jeanne d'Arc de Vaires-sur-Marne », 1922 : La nouvelle église est construite entre 1922 et 1934.",
+  "Lieu « Île de loisirs de Vaires-Torcy » : L'Île de loisirs de Vaires-Torcy est une base de plein air et de loisirs située sur les communes de Vaires-sur-Marne, Chelles et Torcy, dans le département de Seine-et-Marne.",
+  "Lieu « Île de loisirs de Vaires-Torcy », 1980 : Celle situé à Torcy a ouvert au public en 1980 et celle de Vaires en 1990.",
+  "Lieu « Île de loisirs de Vaires-Torcy », 2019 : Le site a fait l'objet d'un réaménagement important, après 4 ans de travaux qui se sont achevés en 2019, pour accueillir les épreuves d'aviron et de canoë-kayak des Jeux olympiques 2024, ainsi que celles de paracanoë des Jeux paralympiques 2024.",
+  "Lieu « Centrale électrique de Vaires-sur-Marne » : La centrale électrique de Vaires-sur-Marne est une centrale thermique à fioul léger située sur le territoire de la commune de Vaires-sur-Marne en Seine-et-Marne.",
+  "Lieu « Centrale électrique de Vaires-sur-Marne », aujourd'hui : Aujourd'hui, l'ancienne centrale a été déconstruite et le site comporte trois Turbines à combustion (TAC) d'une puissance unitaire de 185 MW soit 555 MW correspondant à la consommation d'une ville de 500 000 habitants."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 5
+ }
+}

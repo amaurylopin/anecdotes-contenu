@@ -1,0 +1,183 @@
+{
+ "commune": {
+  "titre": "Torcy (Seine-et-Marne)",
+  "code_insee": "77468",
+  "departement": "77",
+  "population": 22810,
+  "lat": 48.8502,
+  "lon": 2.6508,
+  "url": "https://fr.wikipedia.org/wiki/Torcy_%28Seine-et-Marne%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:03:00",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1414,
+  "sortie": 1198
+ },
+ "cout_usd": 0.00178,
+ "accroche": "Le 7 novembre 1897, Henri Boucher inaugure le premier pont de Vaires, reliant Torcy à Vaires-sur-Marne.",
+ "histoire": {
+  "recit": "À Torcy, une rue change de nom au rythme de l’urbanisation : la « route de Paris en Brie » devient, dans sa traversée, « rue de Paris » après la construction de la nouvelle église et de bâtiments publics. Plus loin, la gare de Torcy structure les trajets : en février 2019, le bâtiment voyageurs côté Sud est rénové et agrandi, avec l’installation d’un commerce et d’aménagements pour la ligne A et les conducteurs de bus. À la même échelle de la vie locale, Torcy s’appuie sur ses passages : le pont de Vaires permet de relier la commune à Vaires-sur-Marne, et il a eu son premier pont inauguré en 1897. Enfin, au bord de la Marne, le moulin de Douvres n’est plus qu’un vestige : il ne reste qu’un mur, une arche de soutènement et la maison du meunier.",
+  "chronologie": [
+   {
+    "date": "7 novembre 1897",
+    "texte": "Inauguration du premier pont reliant Torcy à Vaires-sur-Marne, par Henri Boucher, ministre du Commerce.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "seconde moitié du XIXe siècle",
+    "texte": "La « route de Paris en Brie » est dénommée « rue de Paris » dans sa partie qui traverse la commune, avec la construction de la nouvelle église et de bâtiments publics.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "au XIXe siècle",
+    "texte": "La route devient ensuite le chemin départemental 17 bis, puis actuellement la D217.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "4 août 2010 (nuit)",
+    "texte": "Un incendie d’origine accidentelle ravage le garage Renault au 11 rue de Paris à Torcy.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "15 août 2011",
+    "texte": "Incendie criminel du terminal de cuisson de la boulangerie et pâtisserie Hum, rue de Paris.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "février 2019",
+    "texte": "Rénovation et agrandissement du bâtiment voyageurs côté Sud de la gare de Torcy, avec création d’un commerce et intégrations pour la ligne A.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Rue de Paris (Torcy)",
+   "histoire": "Axe de Torcy, la rue de Paris correspond, dans sa traversée, à une portion qui a porté « route de Paris en Brie » avant d’être renommée « rue de Paris » à partir de la seconde moitié du XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Dans la nuit du 4 au 5 août 2010, un incendie d’origine accidentelle ravage le garage Renault situé au 11 rue de Paris.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Le 15 août 2011, un incendie criminel atteint le terminal de cuisson de pain et viennoiseries de la boulangerie et pâtisserie Hum, rue de Paris.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 48.850661,
+   "lon": 2.650098,
+   "url": "https://fr.wikipedia.org/wiki/Rue_de_Paris_%28Torcy%29"
+  },
+  {
+   "nom": "Gare de Torcy",
+   "histoire": "Gare de la ligne A du RER d’Île-de-France, située sur le territoire de Torcy.",
+   "anecdotes": [
+    {
+     "texte": "En février 2019, le bâtiment voyageurs côté Sud est rénové et agrandi, avec l’implantation d’un commerce et l’intégration d’une salle de repos des conducteurs de bus.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 48.839444444444,
+   "lon": 2.6547222222222,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Torcy"
+  },
+  {
+   "nom": "Pont de Vaires",
+   "histoire": "Pont routier reliant Torcy à Vaires-sur-Marne.",
+   "anecdotes": [
+    {
+     "texte": "Le 7 novembre 1897, Henri Boucher, ministre du Commerce, inaugure un premier pont.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 48.86217,
+   "lon": 2.64434,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Vaires"
+  },
+  {
+   "nom": "Moulin de Douvres",
+   "histoire": "Moulin à eau en ruine, en bord de Marne sur la commune de Torcy.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 48.857463,
+   "lon": 2.638881,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_Douvres"
+  }
+ ],
+ "sources": [
+  "Torcy (prononcé [tɔʁ.ˈsi]) est une commune française située dans le département de Seine-et-Marne en région Île-de-France qui cumule les statuts de chef-lieu d'arrondissement et de canton.",
+  "Lieu « Rue de Paris (Torcy) » : La rue de Paris est un axe de Torcy.",
+  "Lieu « Rue de Paris (Torcy) », XIXe siècle : Dans la seconde moitié du XIXe siècle, avec la construction de la nouvelle église et des autres bâtiments publics la longeant que la « route de Paris en Brie » a été dénommée « rue de Paris » dans sa partie qui traverse la commune.",
+  "Lieu « Rue de Paris (Torcy) », 2010 : Dans la nuit de mercredi 4 août au jeudi 5 août 2010 vers 1h30, un incendie d'origine accidentelle a ravagé le garage Renault situé au 11 rue de Paris à Torcy, géré par Dominique Poirier.",
+  "Lieu « Rue de Paris (Torcy) », 2011 : Le 15 aout 2011 vers 6 heures, incendie criminel du terminal de cuisson de pain et viennoiseries de la boulangerie et pâtisserie Hum situé rue de Paris.",
+  "Lieu « Rue de Paris (Torcy) », aujourd'hui : Au XIXe siècle, cette fameuse route devient le chemin départemental 17 bis, puis actuellement la D217.",
+  "Lieu « Gare de Torcy » : La gare de Torcy est une gare ferroviaire française de la ligne A du RER d'Île-de-France, située sur le territoire de la commune de Torcy, dans le département de Seine-et-Marne, en région Île-de-France.",
+  "Lieu « Gare de Torcy », 2019 : À partir de février 2019, le bâtiment voyageurs côté Sud est rénové et agrandi, permettant l'implantation d'un commerce, l'agrandissement des locaux de gestion de la ligne A, ainsi que l'intégration de la salle de repos des conducteurs de bus.",
+  "Lieu « Pont de Vaires » : Le pont de Vaires est un pont routier qui permet de relier Torcy à Vaires-sur-Marne.",
+  "Lieu « Pont de Vaires », 1897 : Un premier pont a été inauguré le 7 novembre 1897 par Henri Boucher, ministre du Commerce.",
+  "Lieu « Moulin de Douvres » : Le moulin de Douvres (ou de Douves) est un moulin à eau en ruine situé en bord de Marne sur la commune de Torcy.",
+  "Lieu « Moulin de Douvres », aujourd'hui : Il ne reste qu'un mur avec une arche de soutènement et la maison du meunier."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "commune": {
+  "titre": "Dammartin-en-Goële",
+  "code_insee": "77153",
+  "departement": "77",
+  "population": 11907,
+  "lat": 49.0538453,
+  "lon": 2.681694,
+  "url": "https://fr.wikipedia.org/wiki/Dammartin-en-Go%C3%ABle"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:43:20",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1743,
+  "sortie": 1694
+ },
+ "cout_usd": 0.002466,
+ "accroche": "En 1236, un incendie détruisit presque toute la ville de Dammartin-en-Goële.",
+ "histoire": {
+  "recit": "À Dammartin-en-Goële, l’histoire se lit dans les lieux de culte et les événements qui ont bousculé la ville. Les comtes de Dammartin apparaissent dès 1021, et la ville compte alors un prieuré-cure et une maladrerie. Le feu revient dans les mémoires : en 1236, un incendie détruit presque tout. Plus tard, l’Église Notre-Dame traverse les reconstructions, de la remise en état du XVe siècle aux travaux liés aux mesures, quand un clocher sert d’appui pour des relevés géodésiques. De l’autre côté, l’Église Saint-Jean-Baptiste retient l’attention par son portail, inscrit aux monuments historiques. Enfin, l’époque contemporaine marque la commune avec l’assaut de 2015 et, en 2016, des accusations publiques sur les dégâts d’une opération.",
+  "chronologie": [
+   {
+    "date": "1021",
+    "texte": "Les comtes de Dammartin apparaissent, avec Manassès, issu de la maison de Montdidier.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "La ville possède un prieuré-cure et une maladrerie.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1236",
+    "texte": "Un incendie détruit presque toute la ville.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1480",
+    "texte": "La collégiale Notre-Dame est reconstruite à partir des ruines, avec Antoine de Chabannes.",
+    "sources": [
+     "S5",
+     "S8"
+    ]
+   },
+   {
+    "date": "1792",
+    "texte": "Jean Baptiste Delambre utilise le nouveau clocher pour des travaux géodésiques liés à la définition du mètre.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2015",
+    "texte": "L’assaut de Dammartin-en-Goële a lieu le 9 janvier.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "12 octobre 2016",
+    "texte": "Le Canard enchaîné affirme que le bâtiment de l’imprimerie a été endommagé inutilement par des charges explosives.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame de Dammartin-en-Goële",
+   "histoire": "Ancienne collégiale de Dammartin-en-Goële, l’édifice a connu une reconstruction au XVe siècle et des aménagements ultérieurs. Le décor intérieur est remanié au XVIIIe siècle, et le clocher devient un repère pour des travaux géodésiques à la fin du XVIIIe siècle. Aujourd’hui, le clocher visible a été remplacé après une démolition antérieure.",
+   "anecdotes": [
+    {
+     "texte": "En 1480, Antoine de Chabannes aurait décidé de racheter les ruines pour reconstruire l’église, présenté comme compagnon de sainte Jeanne d’Arc.",
+     "statut": "etabli",
+     "sources": [
+      "S5",
+      "S8"
+     ]
+    },
+    {
+     "texte": "En 1792, Jean Baptiste Delambre emploie le clocher pour des travaux géodésiques : il devait notamment servir à déterminer la longueur du mètre.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le clocher-porche a été démoli en 1813, puis remplacé en 1863 par le clocher visible de nos jours.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 49.0545,
+   "lon": 2.6812,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Dammartin-en-Go%C3%ABle"
+  },
+  {
+   "nom": "Assaut de Dammartin-en-Goële",
+   "histoire": "La commune est marquée par un assaut survenu le 9 janvier 2015, dans un contexte d’attentats en France au même moment.",
+   "anecdotes": [
+    {
+     "texte": "En 2016, le Canard enchaîné affirme que le bâtiment de l’imprimerie a été inutilement endommagé par les charges explosives placées par le GIGN, jugeant leur mise à feu injustifiée.",
+     "statut": "conteste",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 49.063213,
+   "lon": 2.69423,
+   "url": "https://fr.wikipedia.org/wiki/Assaut_de_Dammartin-en-Go%C3%ABle"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste de Dammartin-en-Goële",
+   "histoire": "L’église Saint-Jean-Baptiste se situe à Dammartin-en-Goële. L’édifice est protégé au titre des monuments historiques pour son portail.",
+   "anecdotes": [
+    {
+     "texte": "L’édifice est inscrit aux monuments historiques depuis 1926, pour son portail.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 49.0541,
+   "lon": 2.6773,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Dammartin-en-Go%C3%ABle"
+  },
+  {
+   "nom": "Château de Dammartin-en-Goële",
+   "histoire": "Le château de Dammartin-en-Goële est présenté comme un ancien château fort du XIe siècle, sans vestiges conservés en élévation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 49.054781,
+   "lon": 2.683539,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Dammartin-en-Go%C3%ABle"
+  }
+ ],
+ "sources": [
+  "Dammartin-en-Goële est une commune française située dans le département de Seine-et-Marne en région Île-de-France.",
+  "Les comtes de Dammartin apparaissent à partir de 1021. Le premier d'entre eux est Manassès, issu de la maison de Montdidier et vassal d'Eudes II de Blois. La constitution de ce comté à l'ouest de l'ancien comté de Meaux est contemporaine de la crise de succession en Champagne entre le comte de Blois et le roi Robert II le Pieux. Au XIIe siècle, la ville avait un prieuré cure et une maladrerie. La présentation du […]",
+  "1236 : Mais en 1236, un incendie détruisit presque toute la ville.",
+  "Lieu « Église Notre-Dame de Dammartin-en-Goële » : La collégiale Notre-Dame de Dammartin-en-Goële est une ancienne collégiale située à Dammartin-en-Goële en Seine-et-Marne.",
+  "Lieu « Église Notre-Dame de Dammartin-en-Goële », 1480 : Ancienne chapelle du XIIIe siècle, elle a été reconstruite en 1480 par Antoine de Chabannes.",
+  "Lieu « Église Notre-Dame de Dammartin-en-Goële », XVIIIe siècle : Le précédent édifice, à deux nefs, fut réaménagé au cours du XVIIIe siècle avec un décor intérieur de qualité exceptionnelle.",
+  "Lieu « Église Notre-Dame de Dammartin-en-Goële », 1792 : En 1792, Jean Baptiste Delambre utilise le nouveau clocher de la collégiale Notre-Dame reconstruit en 1863 afin d'effectuer des travaux géodésiques ; celui-ci devait mesurer un arc de méridien et déterminer la longueur du mètre.",
+  "Lieu « Église Notre-Dame de Dammartin-en-Goële », aujourd'hui : Le clocher-porche, haut d'une cinquantaine de mètres, fut démoli en 1813 et par la suite fut remplacé en 1863 par le clocher que l'on peut admirer de nos jours Donc en 1480, Antoinne de Chabannes qui est à l'époque le compagnon de sainte Jeanne d'Arc, décide de racheter les ruines de l'église pour ensuite la faire reconstruire.",
+  "Lieu « Assaut de Dammartin-en-Goële » : L’assaut de Dammartin-en-Goële (Seine-et-Marne) a lieu le 9 janvier 2015 après les attentats de janvier 2015 en France.",
+  "Lieu « Assaut de Dammartin-en-Goële », 2016 : Le Canard enchaîné affirme dans son édition du 12 octobre 2016 que le bâtiment de l'imprimerie a été inutilement endommagé par les charges explosives que le GIGN avait placées alors que plus rien n'aurait justifié leur mise à feu.",
+  "Lieu « Église Saint-Jean-Baptiste de Dammartin-en-Goële » : L'église Saint-Jean-Baptiste est située à Dammartin-en-Goële, en Seine-et-Marne.",
+  "Lieu « Église Saint-Jean-Baptiste de Dammartin-en-Goële », 1926 : L'édifice est inscrit aux monuments historiques depuis 1926, pour son portail.",
+  "Lieu « Château de Dammartin-en-Goële » : Le château de Dammartin-en-Goële est un ancien château fort, du XIe siècle, dont il ne subsiste de nos jours aucun vestige en élévation, qui se dressait sur la commune française de Dammartin-en-Goële dans le département de Seine-et-Marne, en région Î",
+  "Lieu « Château de Dammartin-en-Goële », aujourd'hui : Le château de Dammartin-en-Goële est un ancien château fort, du XIe siècle, dont il ne subsiste de nos jours aucun vestige en élévation, qui se dressait sur la commune française de Dammartin-en-Goële dans le département de Seine-et-Marne, en région Île-de-France."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 4
+ }
+}

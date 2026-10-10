@@ -1,0 +1,241 @@
+{
+ "commune": {
+  "titre": "Nemours",
+  "code_insee": "77333",
+  "departement": "77",
+  "population": 12889,
+  "lat": 48.2674265,
+  "lon": 2.6969719,
+  "url": "https://fr.wikipedia.org/wiki/Nemours"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:59",
+ "lieux_ecartes_autre_commune": 6,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3124,
+  "sortie": 1361
+ },
+ "cout_usd": 0.002326,
+ "accroche": "En 1358, Nemours est incendiée durant la guerre de Cent Ans, un choc qui laissera sa ville et son église à reconstruire ensuite.",
+ "histoire": {
+  "recit": "Nemours, au sud-est de la Seine-et-Marne, doit une part de son caractère à ses grands chocs et à ses grands aménagements.\n\nAu centre-ville, le château et l’église Saint-Jean-Baptiste sont construits vers 1170 à la demande de Gauthier de Villebéon. Puis la guerre de Cent Ans passe par là : en 1358, la ville est incendiée, et l’église est détruite dans cet incendie avant d’être reconstruite à partir de 1445, pour s’achever en 1555.\n\nL’histoire continue à transformer le statut de la ville : en 1404, Nemours est érigée en duché-pairie par Charles VI.\n\nPlus près de nous, le quartier du Mont Saint-Martin se bâtit en grand ensemble entre 1965 et 1979, pendant que la population connaît une forte croissance. Et sur la mémoire des temps plus anciens, le site de Beauregard ou bois des Beauregards a été fouillé à plusieurs reprises entre avant 1929 et janvier 1932, avant que la collection de Beauregard ne soit détruite dans l’incendie d’Orléans en 1940.",
+  "chronologie": [
+   {
+    "date": "1170",
+    "texte": "Château et église Saint-Jean-Baptiste en centre-ville sont construits vers 1170 à la demande de Gauthier de Villebéon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1358",
+    "texte": "Nemours est incendiée en 1358 durant la guerre de Cent Ans.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1404",
+    "texte": "Nemours est érigée en duché-pairie par Charles VI lors d’un échange de terres avec Charles III le Noble, roi de Navarre.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1445",
+    "texte": "L’église est détruite dans l’incendie, puis reconstruite à partir de 1445.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1555",
+    "texte": "La reconstruction de l’église s’achève en 1555.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "Le site de Beauregard ou bois des Beauregards est fouillé par M. Soudan depuis avant 1929 jusqu’en janvier 1932.",
+    "sources": [
+     "S2",
+     "S7"
+    ]
+   },
+   {
+    "date": "1965",
+    "texte": "Le quartier du Mont Saint-Martin est bâti entre 1965 et 1979.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Nemours",
+   "histoire": "Ancien château-fort, il devient le Château-Musée de Nemours depuis 1903, à Nemours, dans le Gatinais.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10"
+   ],
+   "lat": 48.26556,
+   "lon": 2.69694,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Nemours"
+  },
+  {
+   "nom": "Château-Musée de Nemours",
+   "histoire": "Installé au sein du vieux château de Nemours, c’est aujourd’hui un musée qui loge aussi des espaces ouverts au fil des ouvertures.",
+   "anecdotes": [
+    {
+     "texte": "Dans une tourelle restée inaccessible depuis l’ouverture du Château-Musée en 1903, un cabinet présente un ensemble d’objets parfois curieux ou insolites.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "De nouveaux espaces ont été ouverts au public, dont la tourelle dite du « bureau Marché ».",
+   "sources": [
+    "S17"
+   ],
+   "lat": 48.265538,
+   "lon": 2.697095,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau-Mus%C3%A9e_de_Nemours"
+  },
+  {
+   "nom": "Musée départemental de Préhistoire d'Île-de-France",
+   "histoire": "Musée départemental à vocation régionale situé à Nemours, il présente la Préhistoire du Bassin parisien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le musée présente la Préhistoire du Bassin parisien, des premiers vestiges attestant de la présence de l’Homme, il y a plus de 500 000 ans, à la fin de la période gauloise, dans le dernier quart du Ier siècle av. J.-C.",
+   "sources": [
+    "S20",
+    "S24"
+   ],
+   "lat": 48.2603,
+   "lon": 2.71391,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_de_Pr%C3%A9histoire_d%27%C3%8Ele-de-France"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste de Nemours",
+   "histoire": "Église paroissiale de Nemours : construite à partir de 1170, elle a souffert durant la Guerre de Cent Ans et a été reconstruite après l’incendie de 1358, pour s’achever en 1555.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "À partir de 1170, la tour-clocher et un porche ouvrant sur sa base par une large arcature, dont les archivoltes semblent romanes, subsistent comme partie la plus ancienne.",
+   "sources": [
+    "S29",
+    "S25"
+   ],
+   "lat": 48.267372,
+   "lon": 2.697943,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_Nemours"
+  },
+  {
+   "nom": "Grand-Pont de Nemours",
+   "histoire": "Pont routier en arc à Nemours, dont la réalisation suit des plans dressés avant la construction et aboutit au moment du passage du pape Pie VII.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La construction du pont est achevée au moment du passage du pape Pie VII, le 21 novembre 1804.",
+   "sources": [
+    "S33"
+   ],
+   "lat": 48.267417,
+   "lon": 2.697944,
+   "url": "https://fr.wikipedia.org/wiki/Grand-Pont_de_Nemours"
+  },
+  {
+   "nom": "Halle aux veaux de Nemours",
+   "histoire": "Structure commerciale détruite du XIXe siècle, située à Nemours à l’emplacement du square Pasteur, entre l’avenue Gambetta et la rue de Paris.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La halle aux veaux se trouvait à l’emplacement de l’actuel square Pasteur, à l’extrémité sud de l’avenue Gambetta et le long de la rue de Paris.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 48.26725,
+   "lon": 2.69267,
+   "url": "https://fr.wikipedia.org/wiki/Halle_aux_veaux_de_Nemours"
+  },
+  {
+   "nom": "Hôtel de ville de Nemours",
+   "histoire": "Ancien hospice de Nemours devenu hôtel de ville, avec une protection au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38"
+   ],
+   "lat": 48.2665,
+   "lon": 2.6935,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Nemours"
+  },
+  {
+   "nom": "Maison des Receveurs du Canal",
+   "histoire": "Bâtiment à Nemours, devenu un repère protégé au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39",
+    "S40"
+   ],
+   "lat": 48.27151667,
+   "lon": 2.69383087,
+   "url": "https://fr.wikipedia.org/wiki/Maison_des_Receveurs_du_Canal"
+  }
+ ],
+ "sources": [
+  "Nemours ([nəmuʁ] ) est une commune française située dans le département de Seine-et-Marne en région Île-de-France. La ville est connue pour son Château-Musée ainsi que pour le musée départemental de Préhistoire d'Île-de-France.",
+  "Le site de Beauregard ou bois des Beauregards a été fouillé par M. Soudan depuis avant 1929 jusqu'en janvier 1932 ; et par l'abbé André Nouel (1901-1971) probablement vers la même période, mais la collection Nouel de Beauregard a été détruite dans l'incendie d'Orléans en 1940. La couche C, la plus ancienne, est attribuée au « Magdalénien I » par A Nouel et par Raoul Daniel qui a lui aussi étudié l'industrie lithique […]",
+  "1170 : Le château ainsi que l'église Saint-Jean-Baptiste en centre-ville, sont construits vers 1170 à la demande de Gauthier de Villebéon, grand chambellan des rois Louis VII et Philippe Auguste.",
+  "1358 : La ville est incendiée en 1358 durant la guerre de Cent Ans.",
+  "1404 : En 1404, elle est érigée en duché-pairie par Charles VI lors d'un échange de terres avec Charles III le Noble, roi de Navarre.",
+  "1445 : L’église est détruite dans cet incendie, puis reconstruite à partir de 1445 pour s’achever en 1555.",
+  "1929 : Le site de Beauregard ou bois des Beauregards a été fouillé par M. Soudan depuis avant 1929 jusqu'en janvier 1932 ; et par l'abbé André Nouel (1901-1971) probablement vers la même période, mais la collection Nouel de Beauregard a été détruite dans l'incendie d'Orléans en 1940.",
+  "1965 : Les autres sites occupés se trouvent sur les crêtes et les platières ; ce sont, présentés par période d'occupation en ordre chronologique (les chiffres indiqués pour les quantités de pièces récoltées sont ceux des fouilles Vignard & Vacher 1965, sauf autrement mentionné :",
+  "1965 : Tandis que la ville connait une très forte croissance démographique, le quartier du Mont Saint-Martin est bâti entre 1965 et 1979 sous la forme d'un grand ensemble.",
+  "Lieu « Château de Nemours » : Le château de Nemours est un ancien château-fort, devenu le Château-Musée de Nemours depuis 1903, situé dans la commune de Nemours dans la région naturelle du Gatinais et à l'extrême sud-est du département de Seine-et-Marne en région Île-de-France.",
+  "Lieu « Château de Nemours », 1068 : Au XIe siècle, la ville de Nemours appartient au comté de Gâtinais dont le seigneur, le vicomte du Gâtinais, installé à Château-Landon, fait allégeance au roi de France en devenant son vassal en 1068.",
+  "Lieu « Château de Nemours », 1160 : Le chantier se déroule alors entre les années 1160 et 1190 et comprend également l'édification de l'église Saint-Jean-Baptiste de Nemours.",
+  "Lieu « Château de Nemours », 1404 : En 1404, Nemours est transformé en duché-pairie par Charles VI, qui offre ces terres à Charles III de Navarre, en échanges de terres appartenant à ce dernier.",
+  "Lieu « Château de Nemours », aujourd'hui : Ses anciennes dépendances et sa cité médiévale sont également particulièrement bien conservées et lisibles aujourd'hui.",
+  "Lieu « Château-Musée de Nemours » : Le Château-Musée de Nemours est un musée installé au sein du vieux château de Nemours, à Nemours (Seine-et-Marne).",
+  "Lieu « Château-Musée de Nemours », 1903 : Niché dans une tourelle restée inaccessible depuis l’ouverture du Château-Musée en 1903, ce cabinet présente, dans un cadre exceptionnel, un ensemble d’objets parfois curieux ou insolites.",
+  "Lieu « Château-Musée de Nemours », 2022 : En 2022, de nouveaux espaces sont ouverts au public, comme la tourelle dite du « bureau Marché ».",
+  "Lieu « Château-Musée de Nemours », 2025 : D'autres ouvertures ont eu lieu, notamment un cabinet de curiosités dans l'ancienne bibliothèque du Château-Musée en 2025.",
+  "Lieu « Château-Musée de Nemours », aujourd'hui : Précédemment occupé par les chargés d'accueil, ce bureau était occupé historiquement par le conservateur du musée, Ernest Marché, qui y a créé un décor en fausse pierre de parement.",
+  "Lieu « Musée départemental de Préhistoire d'Île-de-France » : Le musée départemental de Préhistoire d’Ile-de-France, situé à Nemours, en Seine-et-Marne, est un musée départemental à vocation régionale.",
+  "Lieu « Musée départemental de Préhistoire d'Île-de-France », 1980 : Achevé en 1980, le bâtiment en béton brut de décoffrage et verre est l’œuvre de l’architecte et urbaniste Roland Simounet.",
+  "Lieu « Musée départemental de Préhistoire d'Île-de-France », 2002 : Le bâtiment est inscrit à l’Inventaire supplémentaire des monuments historiques (ISMH) depuis octobre 2002, et le ministère de la Culture et de la Communication lui a décerné le label « Patrimoine du XXe siècle ».",
+  "Lieu « Musée départemental de Préhistoire d'Île-de-France », 2018 : Le bâtiment a fait l'objet d'une importante campagne de rénovation ayant occasionné plus de huit mois de fermeture au public en 2018.",
+  "Lieu « Musée départemental de Préhistoire d'Île-de-France », aujourd'hui : Il présente la Préhistoire du Bassin parisien, des premiers vestiges attestant de la présence de l’Homme, il y a plus de 500 000 ans, à la fin de la période gauloise, dans le dernier quart du Ier siècle av. J.-C.",
+  "Lieu « Église Saint-Jean-Baptiste de Nemours » : L'église Saint-Jean-Baptiste de Nemours est l'église paroissiale de Nemours en Seine et Marne (Île-de-France).",
+  "Lieu « Église Saint-Jean-Baptiste de Nemours », XVe siècle : Comme la ville, l’église a souffert au cours de divers événements de la Guerre de Cent Ans, si bien qu’au XVe siècle, à la suite d'un incendie, il a été décidé de la reconstruire.",
+  "Lieu « Église Saint-Jean-Baptiste de Nemours », 1510 : Entre 1510 et 1550, le chevet, le chœur, les chapelles sont construits, ainsi que l'amorce du transept.",
+  "Lieu « Église Saint-Jean-Baptiste de Nemours », XVIIe siècle : (repère 1 sur le plan ci-dessous) ; la nef, rehaussée au XVIIe siècle, dépourvue de transept, couverte d'ardoises (2) ; le chevet (4), du XVIe siècle, entouré de trois chapelles rayonnantes pourvues de clochetons polygonaux, couvertes d'ardoises comme le reste de l'édifice.",
+  "Lieu « Église Saint-Jean-Baptiste de Nemours », aujourd'hui : À partir de 1170, ils font construire, au Nord de leur monastère, une église, dont subsiste la partie la plus ancienne, une tour-clocher dont le porche s'ouvre sur sa base par une large arcature dont les archivoltes du porche semblent romanes.",
+  "Lieu « Grand-Pont de Nemours » : Le Grand-Pont de Nemours est un pont routier en arc situé à Nemours, dans le département français de Seine-et-Marne.",
+  "Lieu « Grand-Pont de Nemours », 1771 : Jean-Rodolphe Perronet dresse les plans pour un nouveau pont dès 1771, mais faute d'argent il n'est pas construit.",
+  "Lieu « Grand-Pont de Nemours », 1795 : Le pont est construit en reprenant les plans de Perronet un peu modifiés à partir de 1795 par l'ingénieur des ponts et chaussées Louis-Charles Boistard (1762-1823) sous la direction de Jean-Baptiste Dherbelot, ingénieur en chef.",
+  "Lieu « Grand-Pont de Nemours », 1804 : La construction du pont est achevée au moment du passage du pape Pie VII, le 21 novembre 1804.",
+  "Lieu « Halle aux veaux de Nemours » : La halle aux veaux est une structure commerciale détruite du XIXe siècle située à Nemours, en France.",
+  "Lieu « Halle aux veaux de Nemours », XIXe siècle : La halle aux veaux est une structure commerciale détruite du XIXe siècle située à Nemours, en France.",
+  "Lieu « Halle aux veaux de Nemours », aujourd'hui : La structure était située à l'emplacement de l'actuel square Pasteur, à l'extrémité sud de l'avenue Gambetta et le long de la rue de Paris, à l'est du centre-ville de Nemours.",
+  "Lieu « Hôtel de ville de Nemours » : L’hôtel de ville de Nemours, anciennement hospice de Nemours, est un bâtiment situé à Nemours, en France.",
+  "Lieu « Hôtel de ville de Nemours », 1926 : L’édifice fait l’objet d’une inscription au titre des monuments historiques depuis 1926.",
+  "Lieu « Maison des Receveurs du Canal » : La maison des Receveurs du Canal est un bâtiment situé à Nemours, en France.",
+  "Lieu « Maison des Receveurs du Canal », 1926 : L’édifice fait l’objet d’une inscription au titre des monuments historiques depuis 1926."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

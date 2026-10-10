@@ -1,0 +1,80 @@
+{
+ "commune": {
+  "titre": "Othis",
+  "code_insee": "77349",
+  "departement": "77",
+  "population": 6717,
+  "lat": 49.0740908,
+  "lon": 2.6749992,
+  "url": "https://fr.wikipedia.org/wiki/Othis"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:40:55",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1204,
+  "sortie": 509
+ },
+ "cout_usd": 0.000877,
+ "accroche": "À Othis, l’église Notre-Dame-de-la-Nativité présente des parties remontant au XIVe siècle et une façade probablement achevée en 1573.",
+ "histoire": {
+  "recit": "Othis, commune de Seine-et-Marne en Île-de-France, doit une part de son ancienneté à son attache religieuse : le village relève à l’origine de l’évêque de Senlis, qui en dote son chapitre. Le terroir a ensuite compté de nombreux fiefs et possessions religieuses : un ancien monastère et, parmi eux, le fief de Guincourt, qui appartient en 1185 à Albéric de Guincourt. Plus tard, en 1205, les moines de Saint-Vincent de Senlis cèdent en échange le prieuré de Saint-Laurent à Guillaume Cluingnet, chevalier, seigneur de la « grande maison » d’Othis.",
+  "chronologie": [
+   {
+    "date": "1185",
+    "texte": "Le fief de Guincourt appartient à Albéric de Guincourt.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1205",
+    "texte": "Les moines de Saint-Vincent de Senlis cèdent, en échange, le prieuré de Saint-Laurent à Guillaume Cluingnet, seigneur de la « grande maison » d’Othis.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame d'Othis",
+   "histoire": "L’église Notre-Dame-de-la-Nativité est une église catholique paroissiale à Othis. Elle intégrerait des éléments du XIVe siècle, tandis que l’édifice actuel a été bâti entre la fin du XVe et la première moitié du XVIe siècle dans le style gothique flamboyant, en réutilisant une partie des maçonneries antérieures. La façade, probablement achevée en 1573, figure parmi les plus remarquables de son époque dans tout le département.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est affiliée au secteur paroissial Ouest-Goële (siège à Dammartin-en-Goële) et les messes dominicales y sont célébrées irrégulièrement, environ un samedi soir par mois, à 18 h 30.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 49.074025,
+   "lon": 2.675475,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_d%27Othis"
+  }
+ ],
+ "sources": [
+  "Othis [ɔtis] est une commune française située dans le département de Seine-et-Marne en région Île-de-France.",
+  "Le village relève à l’origine de l’évêque de Senlis qui en dote son chapitre. Le terroir a comporté de nombreux fiefs et possessions religieuses. Ancien monastère, le fief de Guincourt appartient en 1185 à Albéric de Guincourt. En 1205, les moines de Saint-Vincent de Senlis cèdent en échange le prieuré de Saint-Laurent à Guillaume Cluingnet, chevalier, seigneur de la « grande maison » fief d’Othis. Cette famille […]",
+  "Lieu « Église Notre-Dame d'Othis » : L'église Notre-Dame-de-la-Nativité est une église catholique paroissiale située à Othis, en Seine-et-Marne, en France.",
+  "Lieu « Église Notre-Dame d'Othis », XIVe siècle : Elle comporterait des éléments du XIVe siècle, et l'église actuelle aurait donc été construite en intégrant des maçonneries plus anciennes.",
+  "Lieu « Église Notre-Dame d'Othis », XVIe siècle : Elle a été bâtie entre la fin du XVe et la première moitié du XVIe siècle dans le style gothique flamboyant, en réutilisant en partie les maçonneries d'un édifice antérieur du XIVe siècle.",
+  "Lieu « Église Notre-Dame d'Othis », 1573 : La façade, probablement achevée en 1573, compte parmi les plus remarquables de son époque dans tout le département.",
+  "Lieu « Église Notre-Dame d'Othis », aujourd'hui : Elle est aujourd'hui affiliée au secteur paroissial Ouest-Goële, avec siège à Dammartin-en-Goële, et les messes dominicales y sont célébrées irrégulièrement, environ un samedi soir par mois, à 18 h 30."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
