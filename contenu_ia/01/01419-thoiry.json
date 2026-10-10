@@ -1,0 +1,116 @@
+{
+ "commune": {
+  "titre": "Thoiry (Ain)",
+  "code_insee": "01419",
+  "departement": "01",
+  "population": 6569,
+  "lat": 46.2372,
+  "lon": 5.9805,
+  "url": "https://fr.wikipedia.org/wiki/Thoiry_%28Ain%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:43:32",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1216,
+  "sortie": 703
+ },
+ "cout_usd": 0.001122,
+ "accroche": "Le 7 août 1892, la croix du Reculet est érigée au mont Reculet, dans le Jura, à 1 717 mètres d’altitude.",
+ "histoire": {
+  "recit": "À Thoiry, le nom et les usages portent loin. On trouve Allamognia en 1373 et, plus tard, Thoiry est expliqué par un nom d’homme latin, Taurius, prolongé d’un suffixe possessif.\n\nPlusieurs repères marquent la vie du village. L’église Saint-Maurice de Thoiry est construite au VIIe siècle. Au XIXe siècle, l’école de Fenières, l’école de Thoiry et la mairie voient le jour dans la seconde moitié du siècle.\n\nLe relief guide aussi les pas vers Le Reculet. En août 1892, la croix du Reculet y est dressée. Et bien avant, des bergers édifient sur place un groupe de fenils qui prend l’allure d’un petit village d’altitude, utilisé jusqu’au XVIe siècle.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle",
+    "texte": "Construction de l’église Saint-Maurice de Thoiry.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1373",
+    "texte": "Allamognia apparaît comme forme ancienne du nom de Thoiry.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "seconde moitié du XIXe siècle",
+    "texte": "Construction des écoles de Fenières et de Thoiry ainsi que de la mairie de Thoiry.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1892",
+    "texte": "La croix du Reculet est érigée le 7 août au mont Reculet, dans le Jura.",
+    "sources": [
+     "S6",
+     "S7"
+    ]
+   },
+   {
+    "date": "XVIe siècle (jusqu’à)",
+    "texte": "Les fenils édifiés par des bergers sur Le Reculet sont utilisés jusqu’au XVIe siècle.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Le Reculet",
+   "histoire": "Le Reculet est un sommet majeur du Jura, situé dans l’Ain.",
+   "anecdotes": [
+    {
+     "texte": "Au mont Reculet, la croix est érigée le 7 août 1892.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Des bergers y construisent un groupe de fenils qui devient un petit village d’altitude, utilisé jusqu’au XVIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 46.25694,
+   "lon": 5.93,
+   "url": "https://fr.wikipedia.org/wiki/Le_Reculet"
+  }
+ ],
+ "sources": [
+  "Thoiry est une commune française située dans la communauté de communes du Pays de Gex, dans le département de l'Ain, en région Auvergne-Rhône-Alpes.",
+  "Allemogne : Allamognia en 1373. D'un nom de personne germanique Adalmund + suffixe roman -ia. Thoiry : du nom d'homme latin Taurius, issu du mot latin taurus (« taureau »), avec le suffixe possessif –acum. En 3500 av. J.-C., Thoiry et le pays de Gex ont connu une implantation de la civilisation « lémanique ». Par la suite, en 50 apr. J.-C., les Romains s'installèrent dans le pays de Gex. L'église Saint-Maurice de […]",
+  "VIIe siècle : L'église Saint-Maurice de Thoiry fut construite au VIIe siècle.",
+  "1744 : Françoise de Conzié (1744-1813) transmit le château à son mari, Pierre de Buttet de Tresserve (x 1764), membre du Sénat de Savoie, lequel, devenu veuf, le \"vendit à une bande noire ; il fut détruit par un incendie le 12 avril 1829\".",
+  "XIXe siècle : Les écoles de Fenières et de Thoiry ainsi que la mairie de Thoiry sont construites dans la seconde moitié du XIXe siècle.",
+  "1892 : En 1892, la croix du Reculet est érigée le 7 août au mont Reculet sur le Jura à 1 717 mètres d'altitude.",
+  "Lieu « Le Reculet » : Le Reculet est le second plus haut sommet du Jura, dans l'Ain, en France.",
+  "Lieu « Le Reculet », XVIe siècle : Les bergers édifient sur place un groupe de fenils qui devient un vrai petit village d'altitude qui sera utilisé jusqu'au XVIe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

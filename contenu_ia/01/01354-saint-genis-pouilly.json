@@ -1,0 +1,67 @@
+{
+ "commune": {
+  "titre": "Saint-Genis-Pouilly",
+  "code_insee": "01354",
+  "departement": "01",
+  "population": 14432,
+  "lat": 46.2437,
+  "lon": 6.025,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Genis-Pouilly"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:30:28",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1088,
+  "sortie": 505
+ },
+ "cout_usd": 0.000849,
+ "accroche": "À Saint-Genis-Pouilly, la fontaine de la place de Saint-Genis est construite entre 1824 et 1826, au cœur du bourg.",
+ "histoire": {
+  "recit": "Dans le pays de Gex, au bord de la frontière suisse, Saint-Genis-Pouilly a des racines anciennes : son territoire s’inscrit dans une étendue associée à la colonie romaine Colonia Iulia Equestris, fondée par Jules César entre 50 et 45 av. J.-C., et qui allait jusqu’à Thoiry.\n\nAutour de l’actuelle église de Pouilly, une grande villa se déploie dès le Ier siècle. On y trouve les traces d’une vie aisée : bijoux, bagues et bracelets ont été retrouvés, témoignant de la richesse des habitants.\n\nPlus tard, le centre du village se façonne encore : la fontaine de la place de Saint-Genis est construite entre 1824 et 1826, marquant durablement l’espace public.",
+  "chronologie": [
+   {
+    "date": "entre 50 et 45 av. J.-C.",
+    "texte": "Le territoire de Saint-Genis-Pouilly s’inscrit dans l’extension de la colonie romaine Colonia Iulia Equestris, fondée par Jules César.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle",
+    "texte": "Autour de l’actuelle église de Pouilly, la grande villa de Pouilly accueille une famille riche ; des bijoux, bagues et bracelets y sont retrouvés.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "entre 1824 et 1826",
+    "texte": "La fontaine de la place de Saint-Genis est construite.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Saint-Genis-Pouilly est une commune française, située dans le département de l'Ain en région Auvergne-Rhône-Alpes. Elle se trouve dans le pays de Gex. Bordant la frontière suisse, elle fait partie de l'agglomération transfrontalière de Genève. De par sa population de plus de 12 000 habitants, c'est l'une des dix villes les plus importantes du département de l'Ain. Saint-Genis-Pouilly accueille sur son territoire une […]",
+  "Les origines de Saint-Genis-Pouilly remontent à l'époque gallo-romaine. La colonie romaine Colonia Iulia Equestris fondée par Jules César entre 50 et 45 av. J.-C. s'étendait jusqu'à Thoiry et englobait donc le territoire qui devait devenir Saint-Genis-Pouilly. La grande villa de Pouilly, construite au Ier siècle et située aux alentours de l'actuelle église de Pouilly, était habitée par une famille riche, comme en […]",
+  "Ier siècle : La grande villa de Pouilly, construite au Ier siècle et située aux alentours de l'actuelle église de Pouilly, était habitée par une famille riche, comme en témoignent les bijoux, bagues et bracelets qui y ont été retrouvés.",
+  "1824 : La fontaine de la place de Saint-Genis est construite entre 1824 et 1826."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

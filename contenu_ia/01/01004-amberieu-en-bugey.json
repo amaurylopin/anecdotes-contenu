@@ -1,0 +1,306 @@
+{
+ "commune": {
+  "titre": "Ambérieu-en-Bugey",
+  "code_insee": "01004",
+  "departement": "01",
+  "population": 15934,
+  "lat": 45.963084,
+  "lon": 5.354118,
+  "url": "https://fr.wikipedia.org/wiki/Amb%C3%A9rieu-en-Bugey"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:23:14",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2948,
+  "sortie": 1965
+ },
+ "cout_usd": 0.003046,
+ "accroche": "Le 3 septembre 1944, Ambérieu-en-Bugey est libérée par les troupes débarquées en Provence.",
+ "histoire": {
+  "recit": "Ambérieu-en-Bugey s’étend dans le Bugey et s’impose aussi par sa vitalité : c’est la ville la plus peuplée de l’arrondissement de Belley. Avant le bourg neuf, le secteur de Saint-Germain a connu des présences très anciennes, avec des traces de stations gauloises et des découvertes attestant la présence romaine. Plus tard, la ville se réorganise : tout est transféré dans le bourg neuf en 1325, aujourd’hui appelé le vieux Saint-Germain.\n\nLe relief du passé se lit aussi dans ses lieux. Aux Allymes, un château fort se construit au XIVe siècle dans le contexte d’une guerre delphino-savoyarde, puis change de mains en 1335. À Saint-Germain, des hommes sont envoyés pour guetter puis incendier le château et le bourg vers 1310, avant que le comte de Savoie ne renforce les défenses et fasse construire un nouveau bourg.\n\nEt puis vient l’époque des avions et du rail : à la base aérienne 278, le premier meeting aérien a lieu en 1910, les écoles de pilotage rouvrent en 1915, et la gare s’inscrit dans l’ouverture vers Genève au XIXe siècle. Enfin, après les combats, la libération intervient le 3 septembre 1944.",
+  "chronologie": [
+   {
+    "date": "1325",
+    "texte": "Tout fut transféré dans le bourg neuf, fondé en 1325, que nous appelons maintenant le vieux Saint-Germain.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1312-1318",
+    "texte": "Le château des Allymes (Allymes II) est construit entre 1312 et 1318, dans le contexte de la guerre delphino-savoyarde.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1335",
+    "texte": "Le 23 novembre 1335, le château des Allymes est remis au comte de Savoie par le dernier châtelain dauphinois.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "Le premier meeting aérien de l’histoire d’Ambérieu-en-Bugey est organisé le 29 mai 1910.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1915",
+    "texte": "En juin 1915, les écoles de pilotage sont de nouveau ouvertes à cause du potentiel militaire de l’aéronautique.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "Le 7 mai 1857, les 65 km entre Ambérieu et Seyssel sont ouverts.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1944",
+    "texte": "La ville est libérée le 3 septembre 1944 par les troupes débarquées en Provence.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Base aérienne 278 Ambérieu-en-Bugey",
+   "histoire": "Base aérienne de l’Armée de l’air et de l’espace, située à 3 kilomètres au nord-nord-ouest d’Ambérieu-en-Bugey.",
+   "anecdotes": [
+    {
+     "texte": "Le 29 mai 1910, le premier meeting aérien d’Ambérieu-en-Bugey a lieu, peu après la fondation de la Société sportive d’Ambérieu-Aviation.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1928, l’entreprise Forclum installe des ateliers en bordure du terrain, dont un bâtiment en béton de 262 mètres.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "À l’origine, le communal de Bellièvre—où se trouve aujourd’hui la base—était une grande plaine d’environ 300 hectares ouverte aux paysans locaux pour y faire paître leurs bêtes.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La base aérienne 278 se trouve aujourd’hui sur le communal de Bellièvre.",
+   "sources": [
+    "S5",
+    "S9"
+   ],
+   "lat": 45.973344573508,
+   "lon": 5.3423166275024,
+   "url": "https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_278_Amb%C3%A9rieu-en-Bugey"
+  },
+  {
+   "nom": "Château des Allymes",
+   "histoire": "Une ancienne bâtie devenue château fort au XIVe siècle, restaurée au XVIe puis au XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le château des Allymes est construit comme réponse à la pétrification de la bâtie de Luisandre, dans le contexte de la guerre delphino-savoyarde.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    },
+    {
+     "texte": "Le 23 novembre 1335, il est remis au comte de Savoie par Guy de Lutrin.",
+     "statut": "etabli",
+     "sources": [
+      "S12"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S13",
+    "S11",
+    "S12"
+   ],
+   "lat": 45.9735583,
+   "lon": 5.4101861,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Allymes"
+  },
+  {
+   "nom": "Château de Saint-Germain (Ain)",
+   "histoire": "Ruines d’un ancien château fort fondé au XIIe siècle, dont le site est occupé dès la fin de l’Empire romain et fréquenté jusqu’à des chapelles mérovingiennes.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1310, le châtelain de Cornillon envoie des hommes pour guetter puis incendier le château et le bourg de Saint-Germain.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Entre 1321 et 1328, le comte de Savoie répare et renforce les défenses et fait construire un nouveau bourg, devenu le quartier du vieux Saint-Germain.",
+     "statut": "etabli",
+     "sources": [
+      "S19"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les ruines du château se dressent sur la commune d’Ambérieu-en-Bugey.",
+   "sources": [
+    "S15",
+    "S17"
+   ],
+   "lat": 45.9486639,
+   "lon": 5.3767389,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saint-Germain_%28Ain%29"
+  },
+  {
+   "nom": "Gare d'Ambérieu-en-Bugey",
+   "histoire": "Gare ferroviaire de la ligne de Lyon-Perrache à Genève (frontière) située sur le territoire d’Ambérieu-en-Bugey.",
+   "anecdotes": [
+    {
+     "texte": "En 1879, un bâtiment pour le « corps de garde » est ajouté sur les quais de la gare voyageurs, avec des dortoirs et un abri métallique.",
+     "statut": "etabli",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S23"
+   ],
+   "lat": 45.954075,
+   "lon": 5.342375,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Amb%C3%A9rieu-en-Bugey"
+  },
+  {
+   "nom": "L'Aigle des Balmettes",
+   "histoire": "Monument commémoratif du combat des Balmettes en 1814, sculpté par Alphonse Muscat et inauguré à Ambérieu-en-Bugey.",
+   "anecdotes": [
+    {
+     "texte": "Le monument est édifié à l’initiative d’Alexandre Bérard, qui l’inaugure le 12 juillet 1914.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 45.933926,
+   "lon": 5.382408,
+   "url": "https://fr.wikipedia.org/wiki/L%27Aigle_des_Balmettes"
+  },
+  {
+   "nom": "Génération, Hommage à Saint-Exupéry",
+   "histoire": "Sculpture contemporaine de Maxime Descombin représentant deux éclairs en métal, installée à Ambérieu-en-Bugey.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 45.961,
+   "lon": 5.3559,
+   "url": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration%2C_Hommage_%C3%A0_Saint-Exup%C3%A9ry"
+  },
+  {
+   "nom": "Musée du cheminot d'Ambérieu-en-Bugey",
+   "histoire": "Musée présentant sur 950 m² une rétrospective des conditions de vie et de travail des cheminots.",
+   "anecdotes": [
+    {
+     "texte": "Le musée est créé en 1987 à la suite de la rencontre de plusieurs passionnés d’histoire locale, puis installé depuis 1988 dans un bâtiment municipal.",
+     "statut": "etabli",
+     "sources": [
+      "S30"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 45.9584,
+   "lon": 5.353,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_cheminot_d%27Amb%C3%A9rieu-en-Bugey"
+  },
+  {
+   "nom": "Les Allymes",
+   "histoire": "Hameau d’Ambérieu-en-Bugey.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31"
+   ],
+   "lat": 45.9739,
+   "lon": 5.4098,
+   "url": "https://fr.wikipedia.org/wiki/Les_Allymes"
+  }
+ ],
+ "sources": [
+  "Ambérieu-en-Bugey (prononcé [ɑ̃.be.ʁjø ɑ̃ by.ʒɛ]) est une commune française, située dans le département de l'Ain en région Auvergne-Rhône-Alpes. Elle appartient à l'aire urbaine de Lyon ainsi qu'à la région naturelle et historique du Bugey. C'est la ville la plus peuplée de l'arrondissement de Belley. Elle est peuplée de 15 554 habitants en 2022. Elle est également le bureau centralisateur du canton […]",
+  "On a trouvé au hameau de Saint-Germain des traces de stations gauloises et la présence des Romains y est attestée par la découverte de nombreuses poteries et médailles. Un certain nombre de découvertes archéologiques relatives à l'Antiquité ont été réalisées à Ambérieu-en-Bugey : en 1839 ou 1840, est trouvé sur le territoire de la commune, un sarcophage d'enfant ; un document datant de 1856 rapporte la découverte de […]",
+  "1325 : Tout fut transféré dans le bourg neuf, fondé en 1325, que nous appelons maintenant le vieux Saint-Germain.",
+  "1944 : La ville est libérée le 3 septembre 1944 par les troupes débarquées en Provence.",
+  "Lieu « Base aérienne 278 Ambérieu-en-Bugey » : La base aérienne 278 Ambérieu-en-Bugey « Colonel Albert Chambonnet » est une base aérienne de l'Armée de l'air et de l'espace, située à 3 kilomètres au nord-nord-ouest d'Ambérieu-en-Bugey, dans le département de l'Ain, dans l'est de la France.",
+  "Lieu « Base aérienne 278 Ambérieu-en-Bugey », 1910 : Ainsi est organisé le 29 mai 1910 le premier meeting aérien de l'histoire d'Ambérieu-en-Bugey, peu après qu’ait été fondée la Société sportive d'Ambérieu-Aviation, dont fait alors partie Louis Mouthier.",
+  "Lieu « Base aérienne 278 Ambérieu-en-Bugey », 1915 : La guerre s’enlisant, et du fait du potentiel militaire indubitable de l’aéronautique, les écoles de pilotage sont de nouveau ouvertes au mois de juin 1915.",
+  "Lieu « Base aérienne 278 Ambérieu-en-Bugey », 1928 : Le terrain d’Ambérieu-Aviation sort de sa torpeur en 1928, quand l’entreprise Forclum installe des ateliers en bordure de ce même terrain, notamment un bâtiment en béton long de 262 mètres.",
+  "Lieu « Base aérienne 278 Ambérieu-en-Bugey », aujourd'hui : Le communal de Bellièvre est le site où se trouve aujourd'hui la base aérienne 278, il s'agit à l'origine d'une grande plaine d'environ 300 hectares ouverte aux paysans locaux pour y faire paitre les bêtes.",
+  "Lieu « Château des Allymes » : Le château des Allymes est une ancienne bâtie devenue château fort au XIVe siècle, restauré au XVIe siècle puis au XIXe siècle.",
+  "Lieu « Château des Allymes », 1312 : Le château des Allymes (Allymes II) fut construit entre 1312 et 1318 par Jean II, dauphin de Viennois, en réponse à la pétrification concomitante de la bâtie de Luisandre (Luisandre II) par le comte Amédée V de Savoie, dans le contexte de la guerre delphino-savoyarde.",
+  "Lieu « Château des Allymes », 1335 : Le 23 novembre 1335, en application du traité de Chapareillan signé l'année précédente entre le dauphin de Viennois et le comte de Savoie, le château des Allymes est remis à ce dernier par le dernier châtelain dauphinois des Allymes, Guy de Lutrin.",
+  "Lieu « Château des Allymes », XIVe siècle : Le château des Allymes est une ancienne bâtie devenue château fort au XIVe siècle, restauré au XVIe siècle puis au XIXe siècle.",
+  "Lieu « Château des Allymes », aujourd'hui : René de Lucinge, fin lettré et historien, a laissé de nombreux écrits.",
+  "Lieu « Château de Saint-Germain (Ain) » : Le château de Saint-Germain est un ancien château fort, fondé au XIIe siècle, dont les ruines se dressent sur la commune d'Ambérieu-en-Bugey dans le département de l'Ain, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Saint-Germain (Ain) », VIIe siècle : Le site fut occupé dès la fin de l'Empire romain et la continuité de sa fréquentation est attestée par une chapelle des temps mérovingiens des VIe et VIIe siècles.",
+  "Lieu « Château de Saint-Germain (Ain) », XIIe siècle : Le château de Saint-Germain est un ancien château fort, fondé au XIIe siècle, dont les ruines se dressent sur la commune d'Ambérieu-en-Bugey dans le département de l'Ain, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Saint-Germain (Ain) », 1310 : Vers 1310, le châtelain du château de Cornillon envoie des hommes guetter puis incendier le château et le bourg de Saint-Germain.",
+  "Lieu « Château de Saint-Germain (Ain) », aujourd'hui : Entre 1321 et 1328, le comte de Savoie répare et renforce les défenses du château et fait construire un nouveau bourg en remplacement de celui d’Ambérieu ; actuel quartier du vieux Saint-Germain.",
+  "Lieu « Gare d'Ambérieu-en-Bugey » : La gare d'Ambérieu-en-Bugey est une gare ferroviaire française de la ligne de Lyon-Perrache à Genève (frontière), située sur le territoire de la commune d'Ambérieu-en-Bugey, dans le département de l'Ain en région Auvergne-Rhône-Alpes.",
+  "Lieu « Gare d'Ambérieu-en-Bugey », 1857 : La ligne poursuit sa progression vers Genève avec l'ouverture le 7 mai 1857 des 65 km entre Ambérieu et Seyssel.",
+  "Lieu « Gare d'Ambérieu-en-Bugey », 1858 : L'ouverture de la section de ligne entre Seyssel et Genève a lieu le 18 mars 1858 et enfin le 1er juin 1859 est mise en service la section entre Lyon Saint-Clair et Lyon-Brotteaux.",
+  "Lieu « Gare d'Ambérieu-en-Bugey », 1879 : En 1879, on ajoute un bâtiment pour le « corps de garde » équipé de dortoirs et sur les quais de la gare voyageurs, on érige un abri métallique.",
+  "Lieu « L'Aigle des Balmettes » : L'Aigle des Balmettes est un monument commémoratif du combat des Balmettes en 1814, sculpté par Alphonse Muscat et inauguré le 12 juillet 1914 à Ambérieu-en-Bugey.",
+  "Lieu « L'Aigle des Balmettes », 1814 : L'Aigle des Balmettes est un monument commémoratif du combat des Balmettes en 1814, sculpté par Alphonse Muscat et inauguré le 12 juillet 1914 à Ambérieu-en-Bugey.",
+  "Lieu « L'Aigle des Balmettes », 1914 : Il est édifié à l'initiative d'Alexandre Bérard qui l'inaugure le 12 juillet 1914.",
+  "Lieu « Génération, Hommage à Saint-Exupéry » : Génération, Hommage à Saint-Exupéry est une sculpture contemporaine de Maxime Descombin représentant deux éclairs en métal, installée en 1969 à Ambérieu-en-Bugey dans l'Ain.",
+  "Lieu « Génération, Hommage à Saint-Exupéry », 1969 : Génération, Hommage à Saint-Exupéry est une sculpture contemporaine de Maxime Descombin représentant deux éclairs en métal, installée en 1969 à Ambérieu-en-Bugey dans l'Ain.",
+  "Lieu « Musée du cheminot d'Ambérieu-en-Bugey » : Le musée du cheminot à Ambérieu-en-Bugey présente sur 950 m2 une rétrospective des conditions de vie et de travail des cheminots dans une ville dont le développement est lié à l'histoire du chemin de fer.",
+  "Lieu « Musée du cheminot d'Ambérieu-en-Bugey », 1987 : Créé en 1987 à la suite de la rencontre de plusieurs passionnés de l'histoire locale, il est installé depuis 1988 dans un bâtiment municipal.",
+  "Lieu « Les Allymes » : Les Allymes est un hameau d'Ambérieu-en-Bugey dans l'Ain.",
+  "Lieu « Les Allymes », 1794 : C'est également une ancienne commune française du département de l'Ain ; commune éphémère érigée à la Révolution française, elle est supprimée avant 1794 et rattachée à Ambérieu."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}
