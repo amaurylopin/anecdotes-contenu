@@ -1,0 +1,210 @@
+{
+ "commune": {
+  "titre": "Canet-en-Roussillon",
+  "code_insee": "66037",
+  "departement": "66",
+  "population": 13227,
+  "lat": 42.70666667,
+  "lon": 3.00777778,
+  "url": "https://fr.wikipedia.org/wiki/Canet-en-Roussillon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:36:11",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2306,
+  "sortie": 1814
+ },
+ "cout_usd": 0.002729,
+ "accroche": "En 1343, l’église Saint-Jacques de Canet-en-Roussillon fut rasée par ordre du roi d’Aragon, trop proche des fortifications.",
+ "histoire": {
+  "recit": "Canet-en-Roussillon, commune des Pyrénées-Orientales en région Occitanie, compte les Canétois et s’adosse à un passé très ancien. Le site a livré deux nécropoles de la civilisation des champs d’urnes, à Bellevue et aux Hospices, tandis qu’à l’époque romaine, le port de Ruscino semble avoir trouvé ici un débouché maritime : des marchandises devaient transiter par la plage, et des traces d’occupation ont été découvertes au Puig.\n\nLa ville a aussi connu les coups du temps. En 1642, des bombardements français détruisent de nombreuses maisons avant que la ville ne soit livrée. Plus tard, la forteresse est définitivement abandonnée par l’armée au début du XVIIIe siècle : elle sert alors de carrière de pierre à la population. \n\nAu tournant du XXe siècle, la station se relie à Perpignan par un tramway à voie métrique, ce qui fait grandir le long de la plage des constructions « en dur ». Aujourd’hui, plusieurs lieux racontent cette histoire : l’église Saint-Jacques, restaurée, le domaine viticole du château de l’Esparrou, et même les vestiges remis au jour à Saint-Michel de Fourques.",
+  "chronologie": [
+   {
+    "date": "1642",
+    "texte": "La ville est mise à mal par des bombardements français : de nombreuses maisons sont détruites, et la ville est finalement livrée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "début du XVIIIe siècle",
+    "texte": "La forteresse est définitivement abandonnée par l’armée et sert ensuite de carrière de pierre à la population du village.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1900",
+    "texte": "La station est reliée à Perpignan par un tramway à voie métrique ; des constructions « en dur » s’établissent le long de la plage.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Jacques de Canet-en-Roussillon",
+   "histoire": "Ayant supplanté la chapelle Saint-Martin du Château au XIIIe siècle, l’église est reconstruite au XIVe siècle à son emplacement actuel.",
+   "anecdotes": [
+    {
+     "texte": "En 1343, l’église est rasée sur ordre du roi d’Aragon, car elle se trouvait trop proche des fortifications.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’édifice actuel, majoritairement en brique et de style gothique, a fait l’objet d’une campagne de restauration dans les années 1990-2000.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 42.705755,
+   "lon": 3.008392,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jacques_de_Canet-en-Roussillon"
+  },
+  {
+   "nom": "Église Notre-Dame-des-Flots de Canet-en-Roussillon",
+   "histoire": "Construite près du front de mer en 1961, elle remplace plusieurs chapelles de la fin du XIXe siècle, érigées à la mémoire des marins et pêcheurs disparus en mer.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17"
+   ],
+   "lat": 42.6947,
+   "lon": 3.0341,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-des-Flots_de_Canet-en-Roussillon"
+  },
+  {
+   "nom": "Château de l'Esparrou",
+   "histoire": "Le château de l’Esparrou est un château du XIXe siècle construit par Viggo Dorph-Petersen à Canet-en-Roussillon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, le château est toujours un domaine viticole.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 42.6888,
+   "lon": 3.02621,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27Esparrou"
+  },
+  {
+   "nom": "Château de Canet-en-Roussillon",
+   "histoire": "Ancien château vicomtal, mentionné dès le XIe siècle et maintes fois remanié, il se dresse sur une colline au nord du vieux village.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les travaux de restauration ont permis une reprise totale du parement des murs subsistant, avec une reconstruction progressive des murs sud et ouest.",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 42.7068,
+   "lon": 3.0086,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Canet-en-Roussillon"
+  },
+  {
+   "nom": "Chapelle Saint-Martin du château",
+   "histoire": "Chapelle romane située dans la partie orientale des vestiges du château vicomtal, elle appartient au secteur village de Canet-en-Roussillon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 42.7069,
+   "lon": 3.00892,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Martin_du_ch%C3%A2teau"
+  },
+  {
+   "nom": "Saint-Michel de Fourques",
+   "histoire": "Saint-Michel de Fourques, en catalan Sant Miquel de Forques, était un village de Catalogne du Nord sur le territoire de l’actuelle commune de Canet-en-Roussillon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des fouilles récentes ont mis au jour des vestiges.",
+   "sources": [
+    "S13",
+    "S15"
+   ],
+   "lat": 42.7114444444,
+   "lon": 2.98644444444,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Michel_de_Fourques"
+  },
+  {
+   "nom": "Bibliothèque de Canet-en-Roussillon",
+   "histoire": "La Médiathèque Albert Camus est la bibliothèque municipale de Canet-en-Roussillon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle se trouve dans un bâtiment construit en 1899, autrefois l’école des filles, avenue de Perpignan.",
+   "sources": [
+    "S18",
+    "S19"
+   ],
+   "lat": 42.705449,
+   "lon": 3.006654,
+   "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_de_Canet-en-Roussillon"
+  },
+  {
+   "nom": "Arboretum du Mas Roussillon",
+   "histoire": "L’arboretum du Mas Roussillon est un arboretum de 14 hectares à la périphérie de Canet-en-Roussillon.",
+   "anecdotes": [
+    {
+     "texte": "Une plaque inaugurée le 12 novembre 2025 indique l’appartenance de l’arboretum au projet européen Aromas itinerarium salutis, réunissant des pharmacies historiques et des jardins médicinaux à travers l’Europe.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une plaque inaugurée le 12 novembre 2025 signale le lien avec le projet européen Aromas itinerarium salutis.",
+   "sources": [
+    "S20",
+    "S21"
+   ],
+   "lat": 42.708388888889,
+   "lon": 2.9839722222222,
+   "url": "https://fr.wikipedia.org/wiki/Arboretum_du_Mas_Roussillon"
+  }
+ ],
+ "sources": [
+  "Canet-en-Roussillon est une commune française située dans le nord-est du département des Pyrénées-Orientales, en région Occitanie. Ses habitants sont appelés les Canétois. C'est la deuxième plus grande ville des Pyrénées-Orientales avec une population de 13 227 habitants (2023). Sur le plan historique et culturel, Canet-en-Roussillon fait partie de l'ancienne province du royaume de France, le Roussillon, qui a […]",
+  "L'occupation du site de Canet est très ancienne, ainsi qu'en attestent deux nécropoles de la civilisation des champs d'urnes découvertes sur les sites de Bellevue et des Hospices. Pendant la période romaine, Canet servit sans doute de débouché maritime pour la ville de Ruscino. Un nombre important de marchandises devait transiter par la plage. Des traces d'occupation romaine ont d'ailleurs été découvertes au Puig […]",
+  "1642 : En 1642, la ville fut mise à mal par les bombardements français : de nombreuses maisons furent détruites, et la ville finalement livrée.",
+  "XVIIIe siècle : Au début du XVIIIe siècle la forteresse est définitivement abandonnée par l'armée : elle servira alors de carrière de pierre à la population du village.",
+  "1900 : En 1900, la station est reliée à Perpignan par un tramway à voie métrique (démantelé dans les années 1950 au profit du recalibrage de la route nationale) : on voit alors l'établissement de nombreuses constructions « en dur » le long de la plage.",
+  "Lieu « Église Saint-Jacques de Canet-en-Roussillon » : L'église Saint-Jacques de Canet-en-Roussillon est une des églises paroissiales de la ville de Canet-en-Roussillon, dans le département des Pyrénées-Orientales, en région Languedoc-Roussillon.",
+  "Lieu « Église Saint-Jacques de Canet-en-Roussillon », XIIIe siècle : Ayant supplanté la chapelle Saint-Martin du Château au XIIIe siècle, elle fut reconstruite au XIVe siècle à son emplacement actuel.",
+  "Lieu « Église Saint-Jacques de Canet-en-Roussillon », 1343 : Il fut rasé en 1343 par ordre du roi d'Aragon, car trop proche des fortifications.",
+  "Lieu « Église Saint-Jacques de Canet-en-Roussillon », 1990 : L'édifice d'aujourd'hui, majoritairement en brique, est de style gothique, et a fait l'objet d'une campagne de restauration dans les années 1990-2000.",
+  "Lieu « Château de l'Esparrou » : Le château de l'Esparrou est un château du XIXe siècle construit par Viggo Dorph-Petersen à Canet-en-Roussillon.",
+  "Lieu « Château de l'Esparrou », XIXe siècle : Le château de l'Esparrou est un château du XIXe siècle construit par Viggo Dorph-Petersen à Canet-en-Roussillon.",
+  "Lieu « Château de l'Esparrou », aujourd'hui : Aujourd'hui, le château est toujours un domaine viticole.",
+  "Lieu « Saint-Michel de Fourques » : Saint-Michel de Fourques (en catalan : Sant Miquel de Forques) était un village de Catalogne du Nord, sur le territoire de l'actuelle commune de Canet-en-Roussillon dans les Pyrénées-Orientales.",
+  "Lieu « Saint-Michel de Fourques », XVIIe siècle : Toujours mentionné comme ermitage au XVIIe siècle, l'édifice est détruit au XIXe siècle.",
+  "Lieu « Saint-Michel de Fourques », aujourd'hui : Des fouilles récentes[Quand ?] en ont mis au jour les vestiges.",
+  "Lieu « Église Notre-Dame-des-Flots de Canet-en-Roussillon » : L'église Notre-Dame-des-Flots de Canet-en-Roussillon est une église de la ville de Canet-en-Roussillon, dans les Pyrénées-Orientales].",
+  "Lieu « Église Notre-Dame-des-Flots de Canet-en-Roussillon », 1961 : L'église Notre-Dame-des-Flots a été construite près du front de mer en 1961, remplaçant plusieurs chapelles existantes de la fin du XIXe siècle, érigées à la mémoire des marins et pêcheurs disparus en la mer.",
+  "Lieu « Bibliothèque de Canet-en-Roussillon » : La Médiathèque Albert Camus est la bibliothèque municipale de Canet-en-Roussillon.",
+  "Lieu « Bibliothèque de Canet-en-Roussillon », 1899 : Elle se trouve dans le bâtiment, construit en 1899 et situé avenue de Perpignan, qui était autrefois l'école des filles.",
+  "Lieu « Arboretum du Mas Roussillon » : L'arboretum du Mas Roussillon (en catalan, Arborètum de Mas Rosselló) est un arboretum de 14 hectares situé à la périphérie de Canet-en-Roussillon, dans le département des Pyrénées-Orientales, en France.",
+  "Lieu « Arboretum du Mas Roussillon », 2025 : Une plaque inaugurée le 12 novembre 2025 indique l'appartenance de l'arboretum au projet européen Aromas itinerarium salutis, qui regroupe des pharmacies historiques et des jardins médicinaux à travers l'Europe.",
+  "Lieu « Château de Canet-en-Roussillon » : Le château de Canet-en-Roussillon , ancien château vicomtal mentionné dès le XIe siècle et maintes fois remanié par la suite, se dresse sur une colline au nord du vieux village de Canet-en-Roussillon, dans le département des Pyrénées-Orientales.",
+  "Lieu « Château de Canet-en-Roussillon », aujourd'hui : Les travaux de restauration ont permis une reprise totale du parement des murs subsistant, et la reconstruction progressive des murs sud et ouest.",
+  "Lieu « Chapelle Saint-Martin du château » : La chapelle Saint-Martin du château est une église romane située à Canet-en-Roussillon, dans le département français des Pyrénées-Orientales.",
+  "Lieu « Chapelle Saint-Martin du château », aujourd'hui : La chapelle Saint-Martin est située dans la partie orientale des vestiges du château vicomtal, au sein du secteur village de Canet-en-Roussillon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

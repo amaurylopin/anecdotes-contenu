@@ -1,0 +1,108 @@
+{
+ "commune": {
+  "titre": "Saint-Estève",
+  "code_insee": "66172",
+  "departement": "66",
+  "population": 11630,
+  "lat": 42.7142,
+  "lon": 2.8428,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Est%C3%A8ve"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:45:02",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1326,
+  "sortie": 669
+ },
+ "cout_usd": 0.001101,
+ "accroche": "À Saint-Estève, l’ancienne abbaye Saint-Étienne de Saint-Estève est mentionnée pour la première fois en 843.",
+ "histoire": {
+  "recit": "Dans le nord-est des Pyrénées-Orientales, Saint-Estève appartient au Roussillon, province du royaume de France qui a existé de 1659 jusqu’en 1790. Au IXe siècle, un monastère est fondé : de cette naissance, il ne reste aujourd’hui que l’ancienne abbatiale romane, devenue l’église paroissiale du village. Plus tard, l’abbatiale dédiée à saint Étienne prend forme comme un édifice roman robuste, avec l’essentiel de ses éléments remontant au XIe siècle.\n\nPlus près de nous, le Stade municipal (Saint-Estève) devient un repère de la vie locale. Construit en 1965 pour servir le nouveau club de rugby à XIII, l’AS Saint-Estève, il accueille ensuite Saint-Estève XIII Catalan, qui l’occupe aujourd’hui.",
+  "chronologie": [
+   {
+    "date": "843",
+    "texte": "L’abbaye Saint-Étienne de Saint-Estève apparaît pour la première fois dans un procès portant sur un alleu de Baho, tandis que des textes antérieurs à l’an mil citent le monastère nouvellement fondé.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "Fondation de l’abbaye : il ne reste plus aujourd’hui que l’ancienne abbatiale romane, devenue église paroissiale du village.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’abbatiale, dédiée à saint Étienne, constitue le dernier vestige du monastère : un édifice roman dont l’essentiel remonte au XIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1965",
+    "texte": "Construction du Stade municipal (Saint-Estève) pour le nouveau club de rugby à XIII, l’AS Saint-Estève.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Saint-Étienne de Saint-Estève",
+   "histoire": "Mentionnée dès 843, l’ancienne abbaye naît au IXe siècle et ne conserve aujourd’hui que l’ancienne abbatiale romane, devenue l’église paroissiale du village. L’abbatiale dédiée à saint Étienne correspond à un édifice roman dont l’essentiel remonte au XIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 42.708092,
+   "lon": 2.845298,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-%C3%89tienne_de_Saint-Est%C3%A8ve"
+  },
+  {
+   "nom": "Stade municipal (Saint-Estève)",
+   "histoire": "Le stade municipal de Saint-Estève est le Stade municipal (Saint-Estève). Construit en 1965 pour le club de rugby à XIII AS Saint-Estève, il est occupé aujourd’hui par Saint-Estève XIII Catalan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le stade est occupé par Saint-Estève XIII Catalan.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 42.7056,
+   "lon": 2.8431,
+   "url": "https://fr.wikipedia.org/wiki/Stade_municipal_%28Saint-Est%C3%A8ve%29"
+  }
+ ],
+ "sources": [
+  "Saint-Estève [sɛ̃.t‿ɛstɛv] est une commune française située dans le nord-est du département des Pyrénées-Orientales, en région Occitanie. Sur le plan historique et culturel, la commune est dans le Roussillon, une ancienne province du royaume de France, qui a existé de 1659 jusqu'en 1790 et qui recouvrait les trois vigueries du Roussillon, du Conflent et de Cerdagne. Exposée à un climat méditerranéen, elle est […]",
+  "Lieu « Abbaye Saint-Étienne de Saint-Estève » : L'ancienne abbaye Saint-Étienne de Saint-Estève est située en France sur la commune de Saint-Estève dans le département des Pyrénées-Orientales en région Occitanie.",
+  "Lieu « Abbaye Saint-Étienne de Saint-Estève », 843 : Mentionnée pour la première fois en 843 (procès ayant pour litige un alleu de Baho), plusieurs textes antérieurs à l'an mil citent le monastère nouvellement fondé, et par là même le nom de quelques abbés de la période : Héléseu (843), Adalbert (869), Frodald (955), Riculf (991)…",
+  "Lieu « Abbaye Saint-Étienne de Saint-Estève », IXe siècle : Fondée au IXe siècle, il ne reste plus aujourd'hui que l'ancienne abbatiale romane, aujourd'hui église paroissiale du village.",
+  "Lieu « Abbaye Saint-Étienne de Saint-Estève », XIe siècle : Dernier vestige du monastère, l'abbatiale, dédiée à saint Étienne, est un robuste édifice roman remontant pour l'essentiel au XIe siècle.",
+  "Lieu « Stade municipal (Saint-Estève) » : Le Stade municipal de Saint-Estève est le stade municipal de la ville de Saint-Estève.",
+  "Lieu « Stade municipal (Saint-Estève) », 1965 : Construit en 1965 pour qu'il soit utilisé par le nouveau club de rugby à XIII créé en ville l'AS Saint-Estève, le stade dispose de deux tribunes latérales avec des extrémités ouvertes.",
+  "Lieu « Stade municipal (Saint-Estève) », aujourd'hui : Le stade est occupé par Saint-Estève XIII Catalan, club de rugby à XIII."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 0
+ }
+}

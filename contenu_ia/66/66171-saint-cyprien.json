@@ -1,0 +1,97 @@
+{
+ "commune": {
+  "titre": "Saint-Cyprien (Pyrénées-Orientales)",
+  "code_insee": "66171",
+  "departement": "66",
+  "population": 12068,
+  "lat": 42.61888889,
+  "lon": 3.00694444,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Cyprien_%28Pyr%C3%A9n%C3%A9es-Orientales%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:42:22",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1214,
+  "sortie": 570
+ },
+ "cout_usd": 0.000955,
+ "accroche": "En 118 av. J.-C., les premiers vestiges de Saint-Cyprien apparaissent sur le site de la « villa Salix ».",
+ "histoire": {
+  "recit": "À Saint-Cyprien, l’histoire commence dans les marécages : vers 118 av. J.-C., des vestiges prennent place sur le site de la « villa Salix », au milieu des saulaies, près de la zone où Saint-Cyprien tient lieu de port annexe à l’antique Illiberis, devenue ensuite Helena puis Elne. Une voie de liaison romaine témoigne d’échanges entre ces deux villages.\n\nPlus tard, la ville change d’échelle : en 1385, Saint-Cyprien s’agrandit et une église est construite au XIIIe siècle, avec une population estimée à 350 habitants vers 1385.\n\nAu XXe siècle, la commune se rassemble surtout autour du vieux village : en 1926, on compte 1 154 habitants. Sur la côte, deux petits villages, « Las Routas » et « l’Aygual », ont été détruits pendant la Seconde Guerre mondiale.\n\nAujourd’hui, un seul vestige reste de Vilarasa : l’église Saint-Étienne de Vilarasa, d’architecture romane, demeure comme témoin du domaine disparu.",
+  "chronologie": [
+   {
+    "date": "118 av. J.-C.",
+    "texte": "Les premiers vestiges de Saint-Cyprien apparaissent sur le site de la « villa Salix ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Une église est construite à Saint-Cyprien.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1385",
+    "texte": "La ville de Saint-Cyprien s’agrandit ; la population est estimée à 350 habitants vers 1385.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1926",
+    "texte": "La population est de 1 154 habitants, essentiellement regroupés autour du vieux village.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "Seconde Guerre mondiale",
+    "texte": "Les deux petits villages de « Las Routas » et « l’Aygual », sur la côte, sont détruits.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Étienne de Vilarasa",
+   "histoire": "L’église Saint-Étienne de Vilarasa est une église romane située à Saint-Cyprien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’église est le seul vestige actuel de ce domaine disparu.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 42.6299,
+   "lon": 2.99557,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Vilarasa"
+  }
+ ],
+ "sources": [
+  "Saint-Cyprien est une commune française, située dans l'est du département des Pyrénées-Orientales en région Occitanie. Sur le plan historique et culturel, la commune est dans le Roussillon, une ancienne province du royaume de France, qui a existé de 1659 jusqu'en 1790 et qui recouvrait les trois vigueries du Roussillon, du Conflent et de Cerdagne. Exposée à un climat méditerranéen, elle est drainée par l'Agouille de […]",
+  "En 118 av. J.-C., apparaissent les premiers vestiges de Saint-Cyprien sur le site de la « villa Salix », au milieu des marécages et des saulaies, non loin de Saint-Cyprien qui tient lieu de port annexe à l'antique Illiberis (devenue Helena au IVe siècle sous l'empereur Constantin, puis Elne). Une voie de liaison romaine confirme bien les échanges commerciaux entre ces deux villages. Elne devient au VIe siècle le […]",
+  "1385 : La ville de Saint-Cyprien s'agrandit, une église est construite au XIIIe siècle et sa population est estimée à 350 habitants vers 1385.",
+  "1926 : En 1926, la population est de 1 154 habitants, essentiellement regroupés autour du vieux village, alors qu'il existait sur la côte deux petits villages aux lieux-dits « Las Routas » et « l'Aygual », détruits pendant la Seconde Guerre mondiale.",
+  "Lieu « Église Saint-Étienne de Vilarasa » : L'église Saint-Étienne de Vilarasa est une église romane située à Saint-Cyprien, dans le département français des Pyrénées-Orientales.",
+  "Lieu « Église Saint-Étienne de Vilarasa », aujourd'hui : L'église est le seul vestige actuel de ce domaine disparu."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

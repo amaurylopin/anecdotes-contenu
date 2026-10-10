@@ -1,0 +1,92 @@
+{
+ "commune": {
+  "titre": "Le Soler",
+  "code_insee": "66195",
+  "departement": "66",
+  "population": 7942,
+  "lat": 42.6828,
+  "lon": 2.7939,
+  "url": "https://fr.wikipedia.org/wiki/Le_Soler"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:20:27",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1174,
+  "sortie": 661
+ },
+ "cout_usd": 0.001061,
+ "accroche": "En 1213, Guillaume Jorda de Soler devient archidiacre d’Elne, tandis qu’une chapelle dédiée à un saint est construite dans l’église de Sainte-Eugénie.",
+ "histoire": {
+  "recit": "Le Soler, en Roussillon, ancienne province du royaume de France qui existe de 1659 à 1790, a gardé sur son territoire les traces d’installations antiques. Plusieurs villas et lieux y ont été découverts, parmi lesquels Pallagianum, Taurinianum et mansio Eugeniae, et la cadastration romaine laisse encore voir des chemins.\n\nPlus tard, la vie religieuse marque les lieux. En 1213, Guillaume Jorda de Soler devient archidiacre d’Elne, et une chapelle dédiée à un saint est construite dans l’église de Sainte-Eugénie.\n\nLe passé proche n’épargne pas la commune : le 26 novembre 2013, un important incendie détruit totalement les ateliers techniques municipaux et les archives municipales.",
+  "chronologie": [
+   {
+    "date": "1659-1790",
+    "texte": "La commune se situe dans le Roussillon, ancienne province du royaume de France, qui existe de 1659 à 1790.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1213",
+    "texte": "Guillaume Jorda de Soler devient archidiacre d’Elne, et une chapelle dédiée à un saint est construite dans l’église de Sainte-Eugénie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "26 novembre 2013",
+    "texte": "Un important incendie détruit totalement les ateliers techniques municipaux ainsi que les archives municipales.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Sainte-Marie de l'Eula",
+   "histoire": "L’ensemble « Église Sainte-Marie de l'Eula » est une église romane au Soler. La chapelle Sainte-Marie de l'Eula a ensuite été transformée en mas, qui subsiste encore aujourd’hui.",
+   "anecdotes": [
+    {
+     "texte": "La chapelle Sainte-Marie de l'Eula, d’abord romane, a été transformée en mas et subsiste ainsi jusqu’à nos jours.",
+     "statut": "etabli",
+     "sources": [
+      "S5",
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’ensemble transformé en mas subsiste toujours.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 42.6631,
+   "lon": 2.79093,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Marie_de_l%27Eula"
+  }
+ ],
+ "sources": [
+  "Le Soler[lə sɔle] est une commune française située dans le nord-est du département des Pyrénées-Orientales, en région Occitanie. Sur le plan historique et culturel, la commune est dans le Roussillon, une ancienne province du royaume de France, qui a existé de 1659 jusqu'en 1790 et qui recouvrait les trois vigueries du Roussillon, du Conflent et de Cerdagne. Exposée à un climat méditerranéen, elle est drainée par la […]",
+  "Plusieurs villas et lieux antiques ont été découverts sur le territoire du Soler : le Soler ferréol, Pallagianum, Taurinianum, Campillano, palatio Monniano, mansio Eugeniae, la Chasa Sancti Petri et de la parrochia Sancti Mauricii de Solerio inferiori, Campellanes et Monyas. Ces lieux disparaissant dès le Xe siècle. Le territoire communal du Soler garde la trace de la cadastration romaine : plusieurs chemins, […]",
+  "1213 : En son honneur, une chapelle dédiée à ce saint, à la fin du XIIIe siècle, fut construite dans l'église de Sainte-Eugénie 1213 : Guillaume Jorda de Soler devient archidiacre d'Elne.",
+  "2013 : Le 26 novembre 2013, un important incendie détruit totalement les ateliers techniques municipaux ainsi que les archives municipales de la ville.",
+  "Lieu « Église Sainte-Marie de l'Eula » : La chapelle Sainte-Marie de l'Eula est une église romane située au Soler, dans le département français des Pyrénées-Orientales.",
+  "Lieu « Église Sainte-Marie de l'Eula », aujourd'hui : L'ensemble fut transformé en un mas qui subsiste toujours."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

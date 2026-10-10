@@ -1,0 +1,92 @@
+{
+ "commune": {
+  "titre": "Toulouges",
+  "code_insee": "66213",
+  "departement": "66",
+  "population": 7450,
+  "lat": 42.6717,
+  "lon": 2.8328,
+  "url": "https://fr.wikipedia.org/wiki/Toulouges"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:27:52",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1296,
+  "sortie": 868
+ },
+ "cout_usd": 0.001344,
+ "accroche": "En 908, un précepte de Charles III le Simple confirme à l’abbaye de Lagrasse la possession de Toulouges, premier témoignage écrit de l’église locale.",
+ "histoire": {
+  "recit": "Toulouges s’inscrit dans le Roussillon, une ancienne province du royaume de France qui a existé de 1659 jusqu’en 1790, et qui recouvrait les vigueries du Roussillon, du Conflent et de Cerdagne. Ici, la plaine a aussi accueilli des conciles de paix, désignés comme « conciles d’Elne / Toulouges », car ils dépendaient de l’évêché d’Elne. Le premier de ces conciles est réuni en 1027 par l’archevêque de Narbonne Guifred de Cerdagne.\n\nAu cœur du village, l’Église de l’Assomption-de-la-Vierge de Toulouges présente une base romane : une nef unique, rythmée par des arcs latéraux jouant le rôle d’arcs de décharge. À partir du XVIIIe siècle, des extensions permettent l’ouverture de chapelles latérales et la création d’une sacristie. Aujourd’hui, la trace écrite la plus ancienne mentionnée pour l’église remonte à 908, dans un précepte confirmant la possession de Toulouges à l’abbaye de Lagrasse.",
+  "chronologie": [
+   {
+    "date": "908",
+    "texte": "Première trace écrite mentionnée : un précepte de Charles III le Simple confirme à l’abbaye de Lagrasse la possession de Toulouges.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIe siècle",
+    "texte": "L’église romane est décrite avec une nef unique et des arcs latéraux servant d’arcs de décharge.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1027",
+    "texte": "Premier concile de paix réuni par l’archevêque de Narbonne Guifred de Cerdagne, dans le cadre des « conciles d’Elne / Toulouges ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIIIe siècle",
+    "texte": "Des extensions ouvrent des chapelles latérales et conduisent à la création d’une sacristie.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église de l'Assomption-de-la-Vierge de Toulouges",
+   "histoire": "Église romane située à Toulouges : sa nef unique est portée par des arcs latéraux à fonction d’arcs de décharge. À partir du XVIIIe siècle, elle s’enrichit d’extensions, notamment des chapelles latérales et une sacristie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La première trace écrite mentionnée de l’église date de 908, dans un précepte de Charles III le Simple.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 42.671377,
+   "lon": 2.830589,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_de_l%27Assomption-de-la-Vierge_de_Toulouges"
+  }
+ ],
+ "sources": [
+  "Toulouges est une commune française située dans l'est du département des Pyrénées-Orientales, en région Occitanie. Sur le plan historique et culturel, la commune est dans le Roussillon, une ancienne province du royaume de France , qui a existé de 1659 jusqu'en 1790 et qui recouvrait les trois vigueries du Roussillon, du Conflent et de Cerdagne. Exposée à un climat méditerranéen, elle est drainée par la Basse et […]",
+  "La plaine de Toulouges a été le lieu d'une série de conciles, dits « conciles de paix », car ils prenaient place dans le mouvement de la Paix de Dieu. Ces conciles sont également désignés comme « conciles d'Elne / Toulouges » ou tout simplement « conciles d'Elne », car ils dépendaient de l'évêché d'Elne. Le premier de ces conciles a été réuni par l'archevêque de Narbonne Guifred de Cerdagne en 1027 et c'est le […]",
+  "Lieu « Église de l'Assomption-de-la-Vierge de Toulouges » : L'église de l'Assomption-de-la-Vierge est une église romane située à Toulouges, dans le département français des Pyrénées-Orientales en région Occitanie.",
+  "Lieu « Église de l'Assomption-de-la-Vierge de Toulouges », XIe siècle : L'église du XIe siècle se compose d'une nef unique avec des arcs latéraux qui ont une fonction d'arcs de décharge et qui animent les murs nord et sud de l'édifice.",
+  "Lieu « Église de l'Assomption-de-la-Vierge de Toulouges », XVIIIe siècle : De multiples extensions à partir du XVIIIe siècleont permis l'ouverture de chapelles latérales et la création d'une sacristie.",
+  "Lieu « Église de l'Assomption-de-la-Vierge de Toulouges », aujourd'hui : La première trace écrite que nous trouvons de l'église de Toulouges date de 908 dans un précepte de Charles III le Simple, qui confirmait à l'abbaye de Lagrasse (dans le département actuel de l'Aude) la possession de Toulouges."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
