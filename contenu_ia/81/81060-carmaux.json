@@ -1,0 +1,202 @@
+{
+ "commune": {
+  "titre": "Carmaux",
+  "code_insee": "81060",
+  "departement": "81",
+  "population": 9872,
+  "lat": 44.05,
+  "lon": 2.15888889,
+  "url": "https://fr.wikipedia.org/wiki/Carmaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:59:08",
+ "lieux_ecartes_autre_commune": 7,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1773,
+  "sortie": 1585
+ },
+ "cout_usd": 0.002336,
+ "accroche": "Le 2 mai 1754, la première verrerie de Carmaux est inaugurée par Gabriel de Solages, dans son domaine de Blaye.",
+ "histoire": {
+  "recit": "À Carmaux, ville du Ségala, le relief schisteux et les vallées drainées par le Cérou et le Céret donnent un cadre de travail à la commune (Carmaux, Caramons, Caramancio…). Le nom a traversé les siècles, passant par Carmoulx, puis Cramaux, avant de revenir à Carmaux.\n\nL’élan industriel se lit surtout autour des mines. En 1754, Gabriel de Solages inaugure la première verrerie dans son domaine de Blaye. Plus tard, la gare de Carmaux naît pour répondre aux difficultés de transport du charbon, avec une première construction dans les années 1850. Un incendie détruit ensuite la gare, avant une reconstruction entre 1902 et 1905.\n\nL’énergie vient aussi du charbon : trois centrales successives sont bâties à Carmaux. Une centrale basse pression est établie à partir de 1913 dans la zone du Pré-grand, et en 1926 un incendie lié à l’huile de graissage d’un turbo-alternateur ravage la toiture du bâtiment des machines. Pour soigner les mineurs, la Clinique Sainte-Barbe, commandée par la Société des mines, est construite entre 1882 et 1891, puis réutilisée depuis 1992 comme centre culturel.",
+  "chronologie": [
+   {
+    "date": "1125",
+    "texte": "Le nom de la localité est attesté sous la forme Caramons.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1260",
+    "texte": "La localité apparaît sous la forme Caramancio.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIIIe siècle",
+    "texte": "Le toponyme est aussi attesté sous la forme Carmoulx.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Le nom prend temporairement la forme Cramaux jusqu’au XIXe siècle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "2 mai 1754",
+    "texte": "Inauguration de la première verrerie de Carmaux par Gabriel de Solages, dans son domaine de Blaye.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "années 1850",
+    "texte": "Une première gare est construite à l’initiative de la famille de Solages pour régler les problèmes de transport du charbon.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1902",
+    "texte": "La gare de Carmaux est détruite par un incendie.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1902-1905",
+    "texte": "La gare est reconstruite et le bâtiment actuel date de cette période.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "3 septembre 1953",
+    "texte": "La ligne de Carmaux à Vindrac est fermée et déclassée.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1958",
+    "texte": "Le centre autorails de Carmaux est fermé ; les autorails sont transférés à Toulouse.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1882-1891",
+    "texte": "La clinique Sainte-Barbe est construite selon les plans de l’architecte Valatx pour accueillir les blessés et malades des mines.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "depuis 1992",
+    "texte": "Le bâtiment est utilisé comme centre culturel et appelé centre culturel Jean-Baptiste-Calvignac.",
+    "sources": [
+     "S15"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Carmaux",
+   "histoire": "Implantée sur la commune de Carmaux, la gare se trouve sur la ligne de Castelnaudary à Rodez. Une première gare est construite dans les années 1850 pour résoudre les problèmes de transport du charbon ; elle est ensuite détruite par un incendie et reconstruite entre 1902 et 1905. La gare servait aussi de gare de bifurcation, à l’origine de la ligne de Carmaux à Vindrac, fermée et déclassée depuis le 3 septembre 1953.",
+   "anecdotes": [
+    {
+     "texte": "Après un incendie, la gare est détruite avant d’être reconstruite pour aboutir au bâtiment actuel.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 44.048676,
+   "lon": 2.152075,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Carmaux"
+  },
+  {
+   "nom": "Centrale électrique de la mine de charbon de Carmaux",
+   "histoire": "À Carmaux, trois centrales successives utilisent le charbon. Une centrale basse pression est bâtie à 600 m de la première, dans la zone du Pré-grand, de 1913 à 1919. En novembre 1926, un incendie causé par l’inflammation de l’huile de graissage d’un turbo-alternateur détruit la toiture du bâtiment des machines. La centrale est aussi décrite avec sa transformation du 5 000 V vers d’autres tensions pour la traction et la distribution.",
+   "anecdotes": [
+    {
+     "texte": "Le 13 novembre 1926, l’inflammation de l’huile de graissage d’un turbo-alternateur provoque un incendie qui détruit la toiture du bâtiment des machines.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 44.05222,
+   "lon": 2.14528,
+   "url": "https://fr.wikipedia.org/wiki/Centrale_%C3%A9lectrique_de_la_mine_de_charbon_de_Carmaux"
+  },
+  {
+   "nom": "Clinique Sainte-Barbe",
+   "histoire": "La clinique Sainte-Barbe, aussi appelée hôpital des mines, est un ancien hôpital de la Société des mines de Carmaux destiné aux mineurs. Construite entre 1882 et 1891 selon les plans de l’architecte Valatx, elle est commandée pour accueillir les blessés et les malades travaillant dans les mines de la compagnie. Depuis 1992, le bâtiment est utilisé comme centre culturel et appelé centre culturel Jean-Baptiste-Calvignac.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 44.05306,
+   "lon": 2.15583,
+   "url": "https://fr.wikipedia.org/wiki/Clinique_Sainte-Barbe"
+  }
+ ],
+ "sources": [
+  "Carmaux (Carmauç en occitan languedocien) est une commune française située dans le département du Tarn, en région Occitanie. Sur le plan historique et culturel, la ville de Carmaux est dans le Ségala, un territoire s'étendant sur les départements du Tarn et de l'Aveyron, constitué de longs plateaux schisteux, morcelés d'étroites vallées. Exposée à un climat océanique altéré, elle est drainée par le Cérou, le Céret, […]",
+  "Le nom de la localité est attesté sous les formes Caramons en 1125, Caramancio en 1260, Carmoulx au XIIIe siècle, puis temporairement Cramaux au XVIe siècle jusqu'au XIXe siècle, qui ne vient pas de cremar (brûler), mais qui est une transcription déformée de Caramaux prononcé en langue d'oc en roulant les r. Le toponyme Carmaux provient, sans certitude prouvée, du nom gaulois Carmantius ou Caramantius. La seigneurie […]",
+  "1754 : La première verrerie de Carmaux fut inaugurée le 2 mai 1754 par Gabriel de Solages, dans son domaine de Blaye.",
+  "1958 : Le centre autorails de Carmaux est fermé en 1958 et ses autorails sont alors transférés à Toulouse.",
+  "Lieu « Gare de Carmaux » : La gare de Carmaux est une gare ferroviaire française de la ligne de Castelnaudary à Rodez, située sur le territoire de la commune de Carmaux, dans le département du Tarn, en région Occitanie.",
+  "Lieu « Gare de Carmaux », 1850 : Une première gare fut construite dans les années 1850, à l'initiative de la famille de Solages (alors propriétaires des mines de Carmaux), afin de résoudre les problèmes liés au transport du charbon.",
+  "Lieu « Gare de Carmaux », 1902 : La gare de Carmaux fut détruite par un incendie, puis reconstruite entre 1902 et 1905 (bâtiment actuel).",
+  "Lieu « Gare de Carmaux », 1953 : Ancienne gare de bifurcation, elle était également l'origine de la ligne de Carmaux à Vindrac fermée et déclassée depuis le 3 septembre 1953.",
+  "Lieu « Centrale électrique de la mine de charbon de Carmaux » : Trois centrales de production d'électricité successives utilisant le charbon ont été construites à Carmaux dans le Tarn, en région Occitanie: les deux premières par la Société des Mines de Carmaux, la troisième par les Houillères du Bassin d'Aquitain",
+  "Lieu « Centrale électrique de la mine de charbon de Carmaux », 1913 : Une nouvelle centrale de production d'électricité à basse pression de 24 000 kW de puissance est bâtie à 600 m de la première de 1913 à 1919 dans la zone du Pré-grand sur la commune de Carmaux.",
+  "Lieu « Centrale électrique de la mine de charbon de Carmaux », 1926 : Le 13 novembre 1926, un incendie causé par l'inflammation de l’huile de graissage d’un turbo-alternateur s’échappant par un joint qui avait cédé a détruit la toiture du bâtiment des machines de la centrale électrique.",
+  "Lieu « Centrale électrique de la mine de charbon de Carmaux », 1929 : La deuxième centrale distribue aux sièges le courant à 5 000 V; là il est transformé en continu 500 V pour la traction au fond et au jour, ou en alternatif 240 V. Un poste de transformation 5 000 V-60 000 V est achevé en 1929.",
+  "Lieu « Clinique Sainte-Barbe » : La clinique Saint-Barbe, aussi appelé hôpital des mines, est un ancien hôpital de la Société des mines de Carmaux destiné aux mineurs Carmausins.",
+  "Lieu « Clinique Sainte-Barbe », 1882 : Construite entre 1882 et 1891 selon les plans de l'architecte Valatx, elle est commandée par la Société des mines de Carmaux pour pouvoir accueillir les blessés et malades travaillant dans le mines de la compagnie.",
+  "Lieu « Clinique Sainte-Barbe », 1992 : Depuis 1992, le bâtiment est utilisé comme centre culturel et appelé centre culturel Jean-Baptiste-Calvignac."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

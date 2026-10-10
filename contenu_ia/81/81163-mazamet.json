@@ -1,0 +1,283 @@
+{
+ "commune": {
+  "titre": "Mazamet",
+  "code_insee": "81163",
+  "departement": "81",
+  "population": 10085,
+  "lat": 43.49277778,
+  "lon": 2.37416667,
+  "url": "https://fr.wikipedia.org/wiki/Mazamet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:41",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2703,
+  "sortie": 2149
+ },
+ "cout_usd": 0.003227,
+ "accroche": "En 2018, la passerelle de Mazamet s’étend sur 140 mètres de long.",
+ "histoire": {
+  "recit": "Mazamet, au pied de la Montagne Noire, doit une partie de son caractère à ses industries et à ses reliefs, mais aussi à des lieux qui ont changé de fonction au fil du temps.\n\nAu milieu du XIXe siècle, la ville lance une activité originale, le délainage, qui crée des liens commerciaux lointains, tandis que la vallée de l’Arnette s’oriente aujourd’hui vers la nature et le tourisme vert.\n\nQuand on quitte la route pour suivre l’histoire bâtie, Hautpoul raconte des bascules brutales : au temps de la croisade, le château est pris, démantelé et brûlé, puis d’autres destructions viennent encore marquer le site. Plus près des promenades, la passerelle est à la fois un ouvrage d’art récent et un lieu qui a aussi connu des accidents, suivis ensuite par des dispositifs de comptage.\n\nSur le plan du culte, la trace du protestantisme passe par une destruction en 1685 puis une fondation au siècle suivant, jusqu’à un établissement actuel pour personnes âgées. Et, autour de Mazamet, le patrimoine se lit aussi dans l’église Saint-Sauveur et dans le Menhir des Prats.",
+  "chronologie": [
+   {
+    "date": "milieu du XIXe siècle",
+    "texte": "Mazamet développe le délainage, une activité qui ouvre des liens commerciaux jusqu’en Argentine, en Australie, en Afrique du Sud, en Nouvelle-Zélande et en Uruguay, avec des arrivages via Marseille, Sète et Bordeaux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1084",
+    "texte": "Le château féodal d’Hautpoul est sans doute construit ou reconstruit au XIe siècle, notamment par Pierre-Raymond à partir de 1084.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1212",
+    "texte": "Simon de Montfort s’empare du château d’Hautpoul par la force après un siège de quatre jours, puis le fait démanteler et brûler.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1685",
+    "texte": "Le temple protestant Saint-Jacques de Mazamet est détruit en 1685, après la révocation de l’édit de Nantes.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "En 1849, une chapelle méthodiste — Église libre, indépendante de l’État durant le Concordat — est fondée boulevard Soult.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1850",
+    "texte": "En janvier 1850, un hospice pour personnes âgées est fondé, la clinique du Refuge protestant, par des notables industriels et Pierre-Élie Houlès, maire de Mazamet.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "La passerelle de Mazamet est construite et s’étend sur 140 mètres de long.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2020",
+    "texte": "Depuis l’ouverture de la passerelle, un homme de Mazamet âgé de 36 ans se jette du haut de la passerelle, le 21 juin 2020 vers 10 h.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "mai 2022",
+    "texte": "Un nouveau système de comptage quotidien est installé en mai 2022 pour suivre la fréquentation de la passerelle.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "2022",
+    "texte": "L’église Saint-Sauveur de Mazamet est inscrite au titre des monuments historiques en 2022.",
+    "sources": [
+     "S31"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Châteaux d'Hautpoul",
+   "histoire": "Le site d’Hautpoul, appartenant à Mazamet, comprend deux châteaux : le château-bas, ruiné, et le château-haut sur les hauteurs. La tour seigneuriale primitive serait construite au XIe siècle par la famille d’Hautpoul, avant des destructions liées aux croisades et aux guerres de Religion.",
+   "anecdotes": [
+    {
+     "texte": "En 1212, Simon de Montfort s’empare du château après un siège de quatre jours, puis le fait démanteler et brûler.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château-bas est ruiné et accessible au sortir de la passerelle de Mazamet.",
+   "sources": [
+    "S3"
+   ],
+   "lat": 43.476636,
+   "lon": 2.378746,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teaux_d%27Hautpoul"
+  },
+  {
+   "nom": "Passerelle de Mazamet",
+   "histoire": "La passerelle de Mazamet, aussi appelée passerelle de Mazamet ou d’Hautpoul, est un ouvrage d’art piéton. Construite en 2018, elle mesure 140 mètres de long.",
+   "anecdotes": [
+    {
+     "texte": "Deux accidents mortels se sont produits depuis l’ouverture ; le 21 juin 2020, un homme de Mazamet âgé de 36 ans se jette du haut de la passerelle.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "En mai 2022, un système de comptage quotidien est installé pour suivre la fréquentation.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La vallée de l’Arnette se tourne vers la nature et le tourisme vert après 150 ans d’industrie.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.477777777778,
+   "lon": 2.3777777777778,
+   "url": "https://fr.wikipedia.org/wiki/Passerelle_de_Mazamet"
+  },
+  {
+   "nom": "Temple protestant Saint-Jacques de Mazamet",
+   "histoire": "Le temple protestant Saint-Jacques de Mazamet se trouvait rue Saint-Jacques. Il est détruit en 1685, puis une chapelle méthodiste est fondée en 1849 boulevard Soult. Par la suite, un hospice pour personnes âgées est créé en 1850, et le lieu correspond aujourd’hui à un EHPAD conventionné.",
+   "anecdotes": [
+    {
+     "texte": "Le temple est détruit en 1685 par l’édit de Fontainebleau révoquant l’édit de Nantes.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "C’est aujourd’hui un établissement d’hébergement pour personnes âgées dépendantes (EHPAD) conventionné.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 43.490097,
+   "lon": 2.377502,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_Saint-Jacques_de_Mazamet"
+  },
+  {
+   "nom": "Hautpoul (Mazamet)",
+   "histoire": "Hautpoul est un village appartenant à la commune de Mazamet. En 1212, durant la croisade contre les Albigeois, Simon de Montfort assiège une citadelle convertie au catharisme. Le site a ensuite été détruit en 1574 par les huguenots à l’aide d’une couleuvrine.",
+   "anecdotes": [
+    {
+     "texte": "En 1574, Hautpoul est détruit par les huguenots à l’aide d’une couleuvrine.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Au XXe siècle, le village se vide peu à peu, puis retrouve une nouvelle jeunesse : des artisans y installent des ateliers de jeux et jouets en bois.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 43.47578,
+   "lon": 2.37858,
+   "url": "https://fr.wikipedia.org/wiki/Hautpoul_%28Mazamet%29"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne de Mazamet",
+   "histoire": "L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle à Mazamet. Fin 1902, un concours pour sa construction est ouvert aux architectes de l’arrondissement de Castres jusqu’au 31 janvier.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25"
+   ],
+   "lat": 43.489338,
+   "lon": 2.371973,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_de_Mazamet"
+  },
+  {
+   "nom": "Lac des Montagnès",
+   "histoire": "Le lac des Montagnès est un lac artificiel de 25 ha et d’une capacité de 1185 milliers de m³, situé sur la commune de Mazamet. C’est un projet des années 1930 destiné à alimenter en eau potable Mazamet et Aussillon, inauguré le 29 juillet 1934.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le barrage alimente en eau potable Labrespy et la base de loisir des Montagnès.",
+   "sources": [
+    "S28"
+   ],
+   "lat": 43.46222,
+   "lon": 2.34056,
+   "url": "https://fr.wikipedia.org/wiki/Lac_des_Montagn%C3%A8s"
+  },
+  {
+   "nom": "Église Saint-Sauveur de Mazamet",
+   "histoire": "L’église Saint-Sauveur est une église catholique à Mazamet. Des malfaçons obligent à édifier huit contreforts en 1755, alors que les travaux s’achèvent en 1767.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En 2022, l’édifice est inscrit au titre des monuments historiques.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 43.489194,
+   "lon": 2.375579,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Sauveur_de_Mazamet"
+  },
+  {
+   "nom": "Menhir des Prats",
+   "histoire": "Le menhir des Prats, aussi appelé menhir des Alberts ou Peyroficado, est un menhir situé à Mazamet.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aucune trace de martelage n’est visible, mais la surface de la pierre est entièrement desquamée.",
+   "sources": [
+    "S33"
+   ],
+   "lat": 43.4934159,
+   "lon": 2.4212958,
+   "url": "https://fr.wikipedia.org/wiki/Menhir_des_Prats"
+  }
+ ],
+ "sources": [
+  "Mazamet (prononcé [mazamet]) est une commune française, située dans le département du Tarn, en région Occitanie. Sur le plan historique et culturel, la ville de Mazamet se situe au pied de la Montagne Noire (un massif montagneux constituant le rebord méridional du Massif central). Mazamet est une commune urbaine qui compte 10 085 habitants en 2023. Elle est la ville principale de l'aire d'attraction de Mazamet qui […]",
+  "Au milieu du XIXe siècle, la petite ville de Mazamet créa une activité originale, le délainage, qui lui permit d'établir des liens commerciaux avec l'Argentine, l'Australie, l'Afrique du Sud, la Nouvelle-Zélande et l'Uruguay. Les arrivages se font principalement par le port de Marseille, ainsi que les ports de Sète et de Bordeaux. La production s'accroît sensiblement : elle est multipliée par quatre entre 1890 et […]",
+  "Lieu « Châteaux d'Hautpoul » : Le village d'Hautpoul (commune de Mazamet, département du Tarn) comprend deux châteaux : le château-bas, ruiné et accessible au sortir de la passerelle de Mazamet ; et le château-haut, situé sur les hauteurs du bourg.",
+  "Lieu « Châteaux d'Hautpoul », XIe siècle : La tour seigneuriale primitive est sûrement construite au XIe siècle par la famille d'Hautpoul, et les édifices successifs subissent la croisade des albigeois puis les guerres de Religion.",
+  "Lieu « Châteaux d'Hautpoul », 1084 : En réalité, le château féodal d'Hautpoul fut sans doute construit ou reconstruit au XIe siècle par la puissante famille d'Hautpoul dont les membres s'intitulaient anciennement seigneurs des montagnes du Hautpoullois, notamment par Pierre-Raymond à partir de 1084.",
+  "Lieu « Châteaux d'Hautpoul », 1212 : C'est pourquoi le chef croisé Simon de Montfort s'empare du château par la force en 1212, après un siège de quatre jours, avant de le faire démanteler et brûler.",
+  "Lieu « Châteaux d'Hautpoul », aujourd'hui : Ce château primitif, une simple tour seigneuriale, aurait été situé à un emplacement différent des deux châteaux actuels.",
+  "Lieu « Passerelle de Mazamet » : La passerelle de Mazamet ou d'Hautpoul est un ouvrage d'art piéton situé à Mazamet, en France.",
+  "Lieu « Passerelle de Mazamet », 2018 : Elle est construite en 2018 et s'étend sur 140 mètres de long.",
+  "Lieu « Passerelle de Mazamet », 2020 : Depuis l'ouverture de la passerelle, deux accidents mortels se sont produits depuis celle-ci : le 21 juin 2020, vers 10 h, un homme de Mazamet âgé de 36 ans se jette du haut de la passerelle.",
+  "Lieu « Passerelle de Mazamet », 2022 : Un nouveau système de comptage quotidien a été installé en mai 2022 pour suivre la fréquentation de la passerelle.",
+  "Lieu « Passerelle de Mazamet », aujourd'hui : Après 150 ans d’industrie, la vallée de l’Arnette se tourne aujourd’hui vers la nature et le tourisme vert.",
+  "Lieu « Temple protestant Saint-Jacques de Mazamet » : Le temple protestant Saint-Jacques de Mazamet est un lieu de culte situé rue Saint-Jacques dans la commune de Mazamet, dans le département du Tarn.",
+  "Lieu « Temple protestant Saint-Jacques de Mazamet », 1685 : Le temple est détruit en 1685, par l'édit de Fontainebleau révoquant l'édit de Nantes.",
+  "Lieu « Temple protestant Saint-Jacques de Mazamet », 1849 : En 1849, une chapelle méthodiste - Église libre, c'est-à-dire indépendante de l’État durant le Concordat - est fondée boulevard Soult.",
+  "Lieu « Temple protestant Saint-Jacques de Mazamet », 1850 : En janvier 1850 est fondé un hospice pour personnes âgées, la clinique du Refuge protestant, par des notables industriels de la ville et Pierre-Élie Houlès, maire de Mazamet.",
+  "Lieu « Temple protestant Saint-Jacques de Mazamet », aujourd'hui : C'est aujourd'hui un Établissement d'hébergement pour personnes âgées dépendantes (EHPAD) conventionné.",
+  "Lieu « Hautpoul (Mazamet) » : Hautpoul est un village appartenant à la commune de Mazamet.",
+  "Lieu « Hautpoul (Mazamet) », 1212 : En 1212, durant la croisade contre les Albigeois, Simon de Montfort assiège la citadelle convertie au catharisme.",
+  "Lieu « Hautpoul (Mazamet) », 1212 : Ancien château de la famille d'Hautpoul, détruit une première fois en 1212, reconstruit et abandonné à la fin du Moyen Âge.",
+  "Lieu « Hautpoul (Mazamet) », 1574 : Elle a été détruite en 1574 par les huguenots lors des guerres de Religion à l'aide d'une couleuvrine.",
+  "Lieu « Hautpoul (Mazamet) », aujourd'hui : Au XXe siècle, Hautpoul se vide peu à peu de ses habitants au profit de la vallée de Mazamet mais aujourd'hui, le village connaît une nouvelle jeunesse : les vieilles maisons accueillent des artisans et leurs ateliers de jeux et jouets en bois, les ruelles et les placettes s'animent.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mazamet » : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Mazamet, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mazamet », 1902 : À la fin de 1902, un concours pour la construction d'un hôtel de la Caisse d'épargne est ouvert jusqu'au 31 janvier à tous les architectes de l'arrondissement de Castres.",
+  "Lieu « Hôtel de la Caisse d'épargne de Mazamet », XXe siècle : L'hôtel de la Caisse d'épargne est un bâtiment du début du XXe siècle situé à Mazamet, en France.",
+  "Lieu « Lac des Montagnès » : Le lac des Montagnès est un lac artificiel de 25 ha et d'une capacité de 1185 milliers de m³, situé sur la commune de Mazamet dans le département du Tarn dans la région Occitanie.",
+  "Lieu « Lac des Montagnès », 1930 : Le lac est un projet des années 1930 qui avait pour but d'alimenter en eau potable Mazamet et Aussillon, inauguré le 29 juillet 1934 en présence du maire de chacune de ses communes ainsi que du préfet du tarn et du ministre de l'intérieur du gouvernement Doumergue, Albert Sarraut.",
+  "Lieu « Lac des Montagnès », aujourd'hui : Actuellement, le barrage alimente en eau potable Labrespy et la base de loisir des Montagnès.",
+  "Lieu « Église Saint-Sauveur de Mazamet » : L'église Saint-Sauveur est une église catholique située à Mazamet, en France.",
+  "Lieu « Église Saint-Sauveur de Mazamet », 1767 : Si les travaux s'achèvent en 1767, des malfaçons obligent à édifier huit contreforts pour soutenir les murs latéraux en 1755.",
+  "Lieu « Église Saint-Sauveur de Mazamet », 2022 : L'édifice est inscrit au titre des monuments historiques en 2022.",
+  "Lieu « Menhir des Prats » : Le menhir des Prats, appelé aussi menhir des Alberts ou Peyroficado, est un menhir situé à Mazamet, dans le département du Tarn, en France.",
+  "Lieu « Menhir des Prats », aujourd'hui : Aucune trace de martelage n'est visible mais la surface de la pierre est entièrement desquamée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

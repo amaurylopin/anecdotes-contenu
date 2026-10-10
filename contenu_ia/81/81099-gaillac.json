@@ -1,0 +1,300 @@
+{
+ "commune": {
+  "titre": "Gaillac",
+  "code_insee": "81099",
+  "departement": "81",
+  "population": 16162,
+  "lat": 43.90138889,
+  "lon": 1.89916667,
+  "url": "https://fr.wikipedia.org/wiki/Gaillac"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:22:27",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3410,
+  "sortie": 2287
+ },
+ "cout_usd": 0.003541,
+ "accroche": "En 972, l’abbaye Saint-Michel de Gaillac est fondée après un don de Frotaire, évêque d’Albi, pour y établir des Bénédictins.",
+ "histoire": {
+  "recit": "Gaillac, au cœur du Gaillacois, a connu très tôt une vie sur les rives du Tarn : des traces d’habitat gallo-romain ont été confirmées par des fouilles liées au site de l’abbaye Saint-Michel, où l’on a aussi exhumé des ateliers de potiers.\n\nPlus tard, la ville veille jalousement à ses institutions. En 1381, les consuls font démolir l’hôpital Saint-André par crainte d’une reprise anglaise, et ils se retrouvent excommuniés pour s’être passés de l’autorisation du pape.\n\nAu XIXe siècle, Gaillac se relie autrement : en 1839, un pont suspendu remplace le bac entre Gaillac et Brens, et en 1864 la gare est inaugurée le 24 octobre. La même dynamique gagne le centre-ville avec la halle à arcades de brique construite en 1842.\n\nL’urbanité se lit aussi dans ses grands lieux : l’abbaye Saint-Michel a été fondée en 972, reconstruite après les guerres de Religion, puis transformée lors de la Révolution avant d’être aujourd’hui utilisée comme musée. Et, de château en église, Gaillac garde le goût des bâtiments qui changent de rôle, de propriétaires, et parfois… de sort.",
+  "chronologie": [
+   {
+    "date": "972",
+    "texte": "L’abbaye Saint-Michel de Gaillac est fondée lorsque l’évêque d’Albi, Frotaire, confie un domaine aux Bénédictins pour y fonder une abbaye.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "972",
+    "texte": "L’abbaye Saint-Michel est reliée à l’histoire de l’église Saint-Michel, élevée au Xe siècle en tant qu’église abbatiale après le don de Frotaire.",
+    "sources": [
+     "S39"
+    ]
+   },
+   {
+    "date": "VIIe siècle",
+    "texte": "Un texte rapporte le legs de Gaillac après la période gallo-romaine, avant que la ville locale ne se trouve sur l’autre rive du Tarn, dans l’oppidum de Montans.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1381",
+    "texte": "Craignant une reprise anglaise, les consuls font démolir l’hôpital Saint-André ; l’affaire se termine par une excommunication.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "Un pont suspendu est bâti pour remplacer le bac entre Gaillac et Brens.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1842",
+    "texte": "En centre-ville, une halle à arcades de brique est construite sur la place du Griffoul.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1864",
+    "texte": "La gare est inaugurée le 24 octobre 1864.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "Gaillac connaît une forte hausse de sa population depuis 1962.",
+    "sources": [
+     "S1"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Saint-Michel de Gaillac",
+   "histoire": "Ancienne abbaye bénédictine fondée en 972, reconstruite et redécorée entre 1570 et 1620 après les guerres de Religion, puis vendue comme bien national à la Révolution. Aujourd’hui, elle est utilisée comme musée, tandis que l’église Saint-Michel reste un lieu de culte.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est utilisée comme musée de l’abbaye et de la vigne et du vin, et l’église Saint-Michel sert toujours de lieu de culte.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 43.897235,
+   "lon": 1.895746,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Michel_de_Gaillac"
+  },
+  {
+   "nom": "Église Saint-Pierre de Gaillac",
+   "histoire": "Dédiée à saint Pierre, l’église date du Xe siècle et a été remaniée à de multiples reprises. Elle est largement reconstruite en 1271 dans un style gothique, puis restaurée après un effondrement de voûte en 1701.",
+   "anecdotes": [
+    {
+     "texte": "En 1701, une voûte s’écroule : la restauration suit, et l’édifice se voit doté d’un chœur d’architecture néo-romane.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 43.899407,
+   "lon": 1.897666,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Gaillac"
+  },
+  {
+   "nom": "Église Saint-Michel de Gaillac",
+   "histoire": "Église catholique liée à l’abbaye Saint-Michel, elle s’organise au Xe siècle avec une nef à bas-côtés et un chœur à trois chapelles circulaires. Une tour protestante, sur des bases datant du XIIIe siècle, sert aujourd’hui de clocher.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La massive tour rectangulaire sert aujourd’hui de clocher, avec une empreinte laissée par les protestants.",
+   "sources": [
+    "S37",
+    "S38",
+    "S40",
+    "S41"
+   ],
+   "lat": 43.897374,
+   "lon": 1.896086,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Michel_de_Gaillac"
+  },
+  {
+   "nom": "Château de Foucaud",
+   "histoire": "Le château de Foucaud, aussi appelé château d’Huteau, est un château d’époque classique établi sur la commune. Il est construit au XVIIe siècle à l’instigation de Jacques de Foucaud et passe ensuite, par mariage, dans la famille d’Huteau.",
+   "anecdotes": [
+    {
+     "texte": "Inutilisé, le château s’abîme : une partie des communs devient des bains-douches, tandis que le reste est détruit en 1925.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Le château reste dans la famille de Chastenet de Puységur avant d’être vendu à la mairie de Gaillac par leur fils, Arnaud de Puységur.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 43.894934126562,
+   "lon": 1.8981414395589,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Foucaud"
+  },
+  {
+   "nom": "Château de Durand-Delga",
+   "histoire": "Château du XIXe siècle, édifié à partir de 1880 par Adrien Durand et achevé vers 1895. Reconstruit, il est vendu à l’Union Vinicole Coopérative de Gaillac en 1948, puis revendu à la quincaillerie Bru.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il est présenté comme le seul neveu et héritier des trois frères Delga, des militaires dont le nom de rue subsiste à Gaillac.",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 43.903629,
+   "lon": 1.897836,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Durand-Delga"
+  },
+  {
+   "nom": "Église Sainte-Cécile d'Avès",
+   "histoire": "Église paroissiale du hameau d’Avès, construite sûrement au Xe siècle. Mentionnée pour la première fois vers 920 dans un testament, elle est finalement détruite en 1894 pour agrandir le cimetière voisin, puis fermée et réouverte plus tard.",
+   "anecdotes": [
+    {
+     "texte": "L’ancienne église d’Avès, en mauvais état, est détruite par décision du conseil municipal du 9 septembre 1894 afin d’agrandir le cimetière voisin.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le site du hameau a conservé de nombreuses traces d’habitats de cette période.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 43.905757458305,
+   "lon": 1.8545301071673,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-C%C3%A9cile_d%27Av%C3%A8s"
+  },
+  {
+   "nom": "Château de Sainte-Cécile d'Avès",
+   "histoire": "Sur le site du hameau, le château de Sainte-Cécile d’Avès s’inscrit dans un domaine dont la prospérité s’accroît avec le succès du vin à la fin du XIXe siècle. Il est ensuite vendu à la famille Ordioni avant d’appartenir à la famille Avery, qui le rénové et le loue pour des séjours et des réceptions.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Après rénovation en 2007, il est loué pour des séjours et des réceptions.",
+   "sources": [
+    "S36"
+   ],
+   "lat": 43.907331574547,
+   "lon": 1.8555527647373,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Sainte-C%C3%A9cile_d%27Av%C3%A8s"
+  },
+  {
+   "nom": "Tour de Palmata",
+   "histoire": "Bâtiment du XIIIe siècle situé dans le centre historique, la tour est aussi appelée tour Palmata ou hôtel de la famille Gaillac. Une peinture y rattache une origine à la première moitié du XIIIe siècle en montrant Bertrand de Gaillac, mort en 1249.",
+   "anecdotes": [
+    {
+     "texte": "Une peinture montre Bertrand de Gaillac, mort en 1249, et sert à signaler une origine du bâtiment liée à la première moitié du XIIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S43"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 43.89806,
+   "lon": 1.89944,
+   "url": "https://fr.wikipedia.org/wiki/Tour_de_Palmata"
+  }
+ ],
+ "sources": [
+  "Gaillac (en occitan Galhac) est une commune française, située dans le département du Tarn, en région Occitanie. En 2022, Gaillac compte 16 162 habitants (3e ville du département du Tarn, après Albi et Castres). Elle a connu une forte hausse de sa population depuis 1962. L'unité urbaine de Gaillac (ou agglomération) compte 19 708 habitants (en 2023). La ville de Gaillac est au cœur du Gaillacois, un pays qui doit sa […]",
+  "Des traces d'un habitat gallo-romain existent dans les textes. Des fouilles faites sur le site de l'abbaye Saint-Michel confirment ces dires. À l'époque, il ne s'agit probablement que d'une villa, la ville locale de l'époque se trouvant sur l'autre rive du Tarn, dans l'oppidum de Montans. Sur ce site, des ateliers de potiers ont été exhumés. Plus tard, au VIIe siècle, un texte relate le legs de Gaillac à la […]",
+  "1381 : En 1381, craignant que l'hôpital Saint-André ne soit repris par les Anglais, les consuls le font démolir et seront excommuniés pour s'être passés de l'autorisation du pape.",
+  "1839 : Un pont suspendu est bâti en 1839 pour remplacer le bac entre Gaillac et Brens.",
+  "1842 : En centre-ville, donnant sur la place du Griffoul une halle à arcades de brique est construite en 1842.",
+  "1864 : La gare est inaugurée le 24 octobre 1864.",
+  "Lieu « Château de Foucaud » : Le château de Foucaud ou château d'Huteau, est un château d'époque classique établi sur la commune de Gaillac dans le Tarn (France).",
+  "Lieu « Château de Foucaud », 1658 : Le château de Foucaud est construit au XVIIe siècle, à l'instigation de Jacques de Foucaud, qui associe à son projet son frère Arnaud à partir de 1658.",
+  "Lieu « Château de Foucaud », 1722 : En 1722, l'édifice entre dans la famille d'Huteau par mariage, famille qui lui donne aussi son nom.",
+  "Lieu « Château de Foucaud », 1925 : À l'origine inutilisé, le château souffre de cet abandon, et tandis qu'une partie des anciens communs deviennent des bains-douches, le reste est détruit en 1925.",
+  "Lieu « Château de Foucaud », aujourd'hui : C'est ainsi qu'il reste quelque temps dans la famille de Chastenet de Puységur, jusqu'à ce que leur fils, Arnaud de Puységur, ne le vende à la mairie de Gaillac en 1903.",
+  "Lieu « Abbaye Saint-Michel de Gaillac » : L'abbaye Saint-Michel de Gaillac est une ancienne abbaye bénédictine, située dans le département français du Tarn.",
+  "Lieu « Abbaye Saint-Michel de Gaillac », 972 : L'abbaye Saint-Michel est fondée en 972, lorsque l'évêque d'Albi, Frotaire, confie un domaine à l'ordre des Bénédictins avec pour ordre d'y fonder une abbaye.",
+  "Lieu « Abbaye Saint-Michel de Gaillac », 1570 : Après la sombre période des guerres de Religion, ainsi que les destructions attribuables aux huguenots, l'abbaye est reconstruite et redécorée entre 1570 et 1620.",
+  "Lieu « Abbaye Saint-Michel de Gaillac », 1789 : Lors de la Révolution française, l'abbaye Saint-Michel et son domaine sont vendus comme bien nationaux par les révolutionnaires à la suite du décret des biens du clergé mis à la disposition de la Nation à partir de 1789.",
+  "Lieu « Abbaye Saint-Michel de Gaillac », aujourd'hui : Aujourd'hui, elle est utilisée comme musée de l'abbaye et de la vigne et du vin, tandis que l'église Saint-Michel de Gaillac sert toujours de lieu de culte.",
+  "Lieu « Église Saint-Pierre de Gaillac » : L'église Saint-Pierre de Gaillac est une église catholique située à Gaillac, dans le département du Tarn, en France.",
+  "Lieu « Église Saint-Pierre de Gaillac », Xe siècle : Dédiée à saint Pierre, c'est un édifice en brique, datant du Xe siècle mais remanié à de multiples reprises que l'on peut aujourd'hui apercevoir au centre-ville de la cité.",
+  "Lieu « Église Saint-Pierre de Gaillac », 1271 : L'église Saint-Pierre est en grande partie reconstruite en 1271, dans un style gothique, tout en conservant quelques éléments romans.",
+  "Lieu « Église Saint-Pierre de Gaillac », 1701 : Une voûte s'écroule en 1701, possible preuve d'un manque d'entretien de l'édifice, qui est alors restauré, et se voit doté d'un chœur d'architecture néo-romane.",
+  "Lieu « Église Saint-Pierre de Gaillac », aujourd'hui : En 1185, l'évêque Guillaume V de Pierre fait don au commandeur de l'hôpital, un certain Hugues de Candastre, les églises de Senouillac, de Boissel et de Candastre, ces deux derniers lieux étant des hameaux dépendant aujourd'hui de Gaillac.",
+  "Lieu « Château de Durand-Delga » : Le château de Durand-Delga ou château de la Madeleine est un château du XIXe siècle, situé à Gaillac, dans le Tarn (France).",
+  "Lieu « Château de Durand-Delga », 1880 : Le château de Durand-Delga est édifié à partir de 1880, par Adrien Durand (1841-1899), un bourgeois de Gaillac.",
+  "Lieu « Château de Durand-Delga », 1895 : La construction de l'édifice est terminé vers 1895.",
+  "Lieu « Château de Durand-Delga », 1948 : Reconstruit, il est vendu à l'Union Vinicole Coopérative de Gaillac par les héritiers des Durand-Delga en 1948, puis revendu quelque temps plus tard à la quincaillerie Bru.",
+  "Lieu « Château de Durand-Delga », aujourd'hui : Il est le seul neveu et héritier des trois frères Delga, des militaires reconnus ayant servi sous Napoléon, et qui possédaient un hôtel particulier à Gaillac, dans la rue qui porte aujourd'hui leur nom.",
+  "Lieu « Église Sainte-Cécile d'Avès » : L'église Sainte-Cécile d'Avès est un édifice religieux paroissial situé dans le hameau éponyme à Gaillac, dans le Tarn, en région Occitanie (France).",
+  "Lieu « Église Sainte-Cécile d'Avès », 920 : L'église d'Avès est sûrement construite au Xe siècle, avant d'être mentionné pour la première fois vers 920 dans le testament de l'archidiacre Bénébert , qui en fait don au chapitre de la cathédrale Sainte-Cécile d'Albi.",
+  "Lieu « Église Sainte-Cécile d'Avès », 1894 : Finalement, l'ancienne église, en mauvais état, est détruite par décision du conseil municipal de Gaillac du 9 septembre 1894, afin d'agrandir le cimetière voisin.",
+  "Lieu « Église Sainte-Cécile d'Avès », 1972 : Peu utilisée, elle est fermée le 3 novembre 1972, mais ré-ouverte le 31 décembre 1987.",
+  "Lieu « Église Sainte-Cécile d'Avès », aujourd'hui : Et ainsi, on a retrouvé de nombreuses traces d'habitats de cette période sur le site du hameau.",
+  "Lieu « Château de Sainte-Cécile d'Avès » : Le château de Sainte-Cécile d'Avès est un château situé au hameau éponyme, à Gaillac, dans le Tarn (France).",
+  "Lieu « Château de Sainte-Cécile d'Avès », 1828 : Sur le cadastre de 1828, on observe désormais la présence de batiments agricoles répartis autour de l'édifice.",
+  "Lieu « Château de Sainte-Cécile d'Avès », 1880 : Riche du succès de son vin, Auguste Baljalade fait prospérer son domaine et en 1880, trois grands nouveaux bâtiments vinicole sont achevés autour de la cour d'honneur du château.",
+  "Lieu « Château de Sainte-Cécile d'Avès », XXe siècle : Son fils, Jean-Joseph Baljalade, après avoir continué les activités familiales, vend l'édifice à la famille Ordioni, venue de Toulouse, vers le milieu du XXe siècle.",
+  "Lieu « Château de Sainte-Cécile d'Avès », aujourd'hui : Le château appartient aujourd'hui à la famille Avery, qui après l'avoir rénové en 2007, le loue pour des séjours et des réceptions.",
+  "Lieu « Église Saint-Michel de Gaillac » : L'église Saint-Michel de Gaillac ou abbatiale Saint-Michel, est une église catholique située à Gaillac, dans le Tarn, en région Occitanie (France).",
+  "Lieu « Église Saint-Michel de Gaillac », Xe siècle : L'église Saint-Michel originelle, bâtie au Xe siècle, se compose d'une nef à bas-côtés, fermée par un chœur possédant trois chapelles circulaires.",
+  "Lieu « Église Saint-Michel de Gaillac », 972 : L'église Saint-Michel est élevée au Xe siècle, tout d'abord en tant qu'église abbatiale de l'abbaye Saint-Michel de Gaillac, qui est elle-même fondée en 972, après un don de Frotaire, évêque d'Albi.",
+  "Lieu « Église Saint-Michel de Gaillac », XIIIe siècle : La tour construite par les protestants (sur des bases datant du XIIIe siècle) est utilisée en tant que clocher.",
+  "Lieu « Église Saint-Michel de Gaillac », aujourd'hui : Les protestants laissent tout de même leur empreinte sur le bâtiment, au travers de la construction de la massive tour rectangulaire, servant aujourd'hui de clocher.",
+  "Lieu « Tour de Palmata » : La tour de Palmata, ou tour Palmata, ou hôtel de la famille Gaillac est un bâtiment du XIIIe siècle situé dans le centre historique de la ville de Gaillac.",
+  "Lieu « Tour de Palmata », 1249 : Une peinture montre Bertrand de Gaillac, mort en 1249, signalant une origine du bâtiment contemporaine de la première moitié du XIIIe siècle.",
+  "Lieu « Tour de Palmata », XIIIe siècle : La tour de Palmata, ou tour Palmata, ou hôtel de la famille Gaillac est un bâtiment du XIIIe siècle situé dans le centre historique de la ville de Gaillac.",
+  "Lieu « Tour de Palmata », XVIe siècle : Les textes ne signalent la tour qu'au XVIe siècle : elle appartient alors à un certain Paul Matha, probablement à l'origine du nom de l'édifice."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}
