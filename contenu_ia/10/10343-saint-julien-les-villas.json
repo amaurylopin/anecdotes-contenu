@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Saint-Julien-les-Villas",
+  "code_insee": "10343",
+  "departement": "10",
+  "population": 6760,
+  "lat": 48.27222222,
+  "lon": 4.09833333,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Julien-les-Villas"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:40:05",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1085,
+  "sortie": 473
+ },
+ "cout_usd": 0.000808,
+ "accroche": "En 1157, la seigneurie de Sancey est donnée par le comte de Champagne au chapitre Saint-Etienne de Troyes.",
+ "histoire": {
+  "recit": "À Saint-Julien-les-Villas, l’histoire passe par la seigneurie de Sancey. À l’origine, le comte de Champagne la confie, lors de sa création, au chapitre Saint-Etienne de Troyes, en 1157. Les templiers, eux, disposent d’une maison seigneuriale près de l’église, mais de l’autre rive de la Seine : une cour close, un pigeonnier établi sur 34 arpents de terre, et des moulins.\n\nPlus tard, ces moulins connaissent une rupture : en 1680, les moulins ruinés ne trouvant pas de locataires sont vendus pour leurs matériaux. Ils ne réapparaissent que brièvement, de 1690 à 1706, grâce à André Fariat.\n\nAujourd’hui, un repère demeure au cœur du village : l’église Saint-Julien-de-Brioude de Saint-Julien-les-Villas, reconnue comme monument historique en 1981.",
+  "chronologie": [
+   {
+    "date": "1157",
+    "texte": "Le comte de Champagne donne la seigneurie de Sancey lors de sa création au chapitre Saint-Etienne de Troyes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1680",
+    "texte": "Le 12 novembre 1680, des moulins ruinés sans locataires sont vendus pour leurs matériaux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1690 à 1706",
+    "texte": "Les moulins ne sont relevés que pour la période de 1690 à 1706 par André Fariat.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Julien-de-Brioude de Saint-Julien-les-Villas",
+   "histoire": "Église située à Saint-Julien-les-Villas, l’édifice est inscrit au titre des monuments historiques en 1981.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Édifice inscrit au titre des monuments historiques (1981).",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 48.2731,
+   "lon": 4.09942,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Julien-de-Brioude_de_Saint-Julien-les-Villas"
+  }
+ ],
+ "sources": [
+  "Saint-Julien-les-Villas est une commune française, située dans le département de l'Aube en région Grand Est dans l'agglomération troyenne.",
+  "La seigneurie de Sancey était au comte de Champagne qui l'a donné lors de sa création au chapitre Saint-Etienne de Troyes en 1157. Les templiers de la commanderie de Troyes avaient une maison seigneuriale qui se situait à côté de l'église mais sur l'autre rive de la Seine et qui correspondait à cette seigneurie. Elle avait une cour fermée, un pigeonnier sur 34 arpents de terre. Il y avait aussi des moulins qui […]",
+  "1680 : Le 12 novembre 1680, les moulins ruinés ne trouvant pas de locataires, ils sont vendus pour leurs matériaux ; ils ne seront plus relevés que pour la période de 1690 à 1706 par André Fariat.",
+  "Lieu « Église Saint-Julien-de-Brioude de Saint-Julien-les-Villas » : L'église Saint-Julien-de-Brioude est une église située à Saint-Julien-les-Villas, en France.",
+  "Lieu « Église Saint-Julien-de-Brioude de Saint-Julien-les-Villas », 1981 : L'édifice est inscrit au titre des monuments historiques en 1981."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
