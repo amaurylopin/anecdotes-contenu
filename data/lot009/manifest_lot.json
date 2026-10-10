@@ -1,0 +1,490 @@
+{
+  "lot": "009",
+  "nom": "Arras & alentours",
+  "departement": "Pas-de-Calais",
+  "dept": "62",
+  "date_audit": "2026-10-10",
+  "pilote": "Arras",
+  "insee_pilot": "62041",
+  "objectif_communes": 50,
+  "communes_auditees": 50,
+  "source_codes": "https://www.insee.fr/fr/information/8740222",
+  "source_centres_demandes": "https://geo.api.gouv.fr/departements/62/communes?fields=nom,code,centre&format=json",
+  "source_centres_repli": "https://github.com/amaurylopin/anecdotes-contenu/tree/main/communes",
+  "controle_geographique_secondaire": "https://github.com/gregoiredavid/france-geojson/blob/master/departements/62-pas-de-calais/communes-62-pas-de-calais.geojson",
+  "methode": "50 communes gelées selon les coordonnées du dépôt et distance haversine; contrôle géographique secondaire sur IGN/INSEE 2018. Centroïdes officiels 2026 impossibles à exporter dans cet environnement : classement non certifié aux rangs limites.",
+  "validation_officielle_centroides": false,
+  "completude_editoriale": "propositions_documentees_a_controler",
+  "contenu_image": "liens_uniquement",
+  "telechargement_images": false,
+  "fichiers_json_originaux": "lus_localement_avec_git_sha_verifie_pour_fusion",
+  "json_finaux_embarques": 0,
+  "json_finaux_generes_apres_validation_du_clone": 50,
+  "articles_existants_audit": 56,
+  "articles_ajoutes": 61,
+  "articles_apres_integration": 117,
+  "articles_corriges": 0,
+  "medias_url_verifies": 5,
+  "medias_binaires": 0,
+  "publication_autorisee_sous_conditions": true,
+  "reserves": [
+    "Classement sur centres exacts COG 2026 non certifié à proximité de la limite des 50 communes.",
+    "Certaines petites communes n’atteignent que deux histoires, faute de récits davantage étayés.",
+    "La disponibilité du CDN Wikimedia peut changer ; URL Special:FilePath et page de provenance incluses.",
+    "Application iOS : prise en charge des couvertures et galeries distantes non vérifiée.",
+    "La vérification individuelle de toutes les données politiques 2026 requiert une relecture humaine ; articles politiques existants conservés sans modification.",
+    "Le ZIP contient les 61 ajouts et 50 empreintes d’audit ; les 50 JSON finaux sont reconstruits depuis le clone local audité."
+  ],
+  "communes": [
+    {
+      "code_insee": "62041",
+      "nom": "Arras",
+      "latitude_depot": 50.291,
+      "longitude_depot": 2.7775,
+      "distance_km_repli": 0.0,
+      "articles_existants_audit": 5,
+      "git_blob_sha_audit": "4f574f5cafdfeb22f433a4e8ad3ea0f17e14ee71"
+    },
+    {
+      "code_insee": "62764",
+      "nom": "Saint-Nicolas",
+      "latitude_depot": 50.3097,
+      "longitude_depot": 2.7852,
+      "distance_km_repli": 2.150067,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "8809922c07724a2b4ac18f5a7d2d227efe2a462a"
+    },
+    {
+      "code_insee": "62004",
+      "nom": "Achicourt",
+      "latitude_depot": 50.2723,
+      "longitude_depot": 2.7572,
+      "distance_km_repli": 2.530662,
+      "articles_existants_audit": 2,
+      "git_blob_sha_audit": "cc592fc46755096b718ab736f262da667ca5de65"
+    },
+    {
+      "code_insee": "62753",
+      "nom": "Saint-Laurent-Blangy",
+      "latitude_depot": 50.3098,
+      "longitude_depot": 2.8079,
+      "distance_km_repli": 3.005378,
+      "articles_existants_audit": 2,
+      "git_blob_sha_audit": "5aa03d2a2334aea7da7a185116a7a26ac0115db9"
+    },
+    {
+      "code_insee": "62744",
+      "nom": "Sainte-Catherine",
+      "latitude_depot": 50.3163,
+      "longitude_depot": 2.7625,
+      "distance_km_repli": 3.00819,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "e2dddd1bce7b15ad3dbc3869cb53fc9fd01c7a6c"
+    },
+    {
+      "code_insee": "62099",
+      "nom": "Beaurains",
+      "latitude_depot": 50.2595,
+      "longitude_depot": 2.7907,
+      "distance_km_repli": 3.626077,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "91a4fc419101628a70f17ca0cfcf7274ba214948"
+    },
+    {
+      "code_insee": "62817",
+      "nom": "Tilloy-lès-Mofflaines",
+      "latitude_depot": 50.2768,
+      "longitude_depot": 2.8247,
+      "distance_km_repli": 3.70676,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "a3db4d4dac6b780f2780dbb7c6fce5ba71e15577"
+    },
+    {
+      "code_insee": "62037",
+      "nom": "Anzin-Saint-Aubin",
+      "latitude_depot": 50.3206,
+      "longitude_depot": 2.7384,
+      "distance_km_repli": 4.306273,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "c3a892d96425e4680150125fc5f499bb81946f95"
+    },
+    {
+      "code_insee": "62013",
+      "nom": "Agny",
+      "latitude_depot": 50.2519,
+      "longitude_depot": 2.76,
+      "distance_km_repli": 4.522118,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "db34f2441d44aeaf542fb1098459bab2584d1f01"
+    },
+    {
+      "code_insee": "62290",
+      "nom": "Écurie",
+      "latitude_depot": 50.3321,
+      "longitude_depot": 2.7676,
+      "distance_km_repli": 4.623866,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "362c1e7e56926d1b48032f871157a06aa0e5b290"
+    },
+    {
+      "code_insee": "62714",
+      "nom": "Roclincourt",
+      "latitude_depot": 50.3319,
+      "longitude_depot": 2.7937,
+      "distance_km_repli": 4.691109,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "356133cf09f6f3ea182634fd737bb1b6fc2369bc"
+    },
+    {
+      "code_insee": "62263",
+      "nom": "Dainville",
+      "latitude_depot": 50.2765,
+      "longitude_depot": 2.7129,
+      "distance_km_repli": 4.864907,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "8fa4fa5f805afc778f3b10b2638c92d8d1228441"
+    },
+    {
+      "code_insee": "62042",
+      "nom": "Athies",
+      "latitude_depot": 50.3093,
+      "longitude_depot": 2.8416,
+      "distance_km_repli": 4.986908,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "fcb47225dd15e819dcaf2cb2af194c2ed215c824"
+    },
+    {
+      "code_insee": "62331",
+      "nom": "Feuchy",
+      "latitude_depot": 50.2842,
+      "longitude_depot": 2.8478,
+      "distance_km_repli": 5.051462,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "08e474ab1062e78866f0a78a9e0f31428b16d329"
+    },
+    {
+      "code_insee": "62611",
+      "nom": "Neuville-Vitasse",
+      "latitude_depot": 50.2481,
+      "longitude_depot": 2.8204,
+      "distance_km_repli": 5.661453,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "b0d6a6ebd1d95052c2508c29f1258fe0b597dd6f"
+    },
+    {
+      "code_insee": "62279",
+      "nom": "Duisans",
+      "latitude_depot": 50.3008,
+      "longitude_depot": 2.6981,
+      "distance_km_repli": 5.744394,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "bb467eca0f9bd34f562feaab54297f57511e85d5"
+    },
+    {
+      "code_insee": "62568",
+      "nom": "Mercatel",
+      "latitude_depot": 50.2363,
+      "longitude_depot": 2.788,
+      "distance_km_repli": 6.127984,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "253f79954bec227623d64d1e7cd9e06a44777faa"
+    },
+    {
+      "code_insee": "62869",
+      "nom": "Wailly",
+      "latitude_depot": 50.248,
+      "longitude_depot": 2.7197,
+      "distance_km_repli": 6.303773,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "df90ee036a3907f149e1ea7c6beaf9185d6390e8"
+    },
+    {
+      "code_insee": "62323",
+      "nom": "Fampoux",
+      "latitude_depot": 50.2983,
+      "longitude_depot": 2.8715,
+      "distance_km_repli": 6.726515,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "e735f03fc05bce5919afca50e0c5dd911ff427f8"
+    },
+    {
+      "code_insee": "62810",
+      "nom": "Thélus",
+      "latitude_depot": 50.3499,
+      "longitude_depot": 2.8003,
+      "distance_km_repli": 6.746458,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "f6201a59890f4d64d79be2ee22e0407241c9485a"
+    },
+    {
+      "code_insee": "62873",
+      "nom": "Wancourt",
+      "latitude_depot": 50.2556,
+      "longitude_depot": 2.8555,
+      "distance_km_repli": 6.7987,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "c7a1dfdd28c1cd68196e976f47e4a6e01db024f0"
+    },
+    {
+      "code_insee": "62073",
+      "nom": "Bailleul-Sir-Berthoult",
+      "latitude_depot": 50.3357,
+      "longitude_depot": 2.8436,
+      "distance_km_repli": 6.836302,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "19adf0bebd8ae114f52268129546f040ecfb87f0"
+    },
+    {
+      "code_insee": "62557",
+      "nom": "Marœuil",
+      "latitude_depot": 50.3321,
+      "longitude_depot": 2.7034,
+      "distance_km_repli": 6.969452,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "067cec4ef9169de1dbca8a47e3c0cd43dbf01894"
+    },
+    {
+      "code_insee": "62320",
+      "nom": "Étrun",
+      "latitude_depot": 50.3181,
+      "longitude_depot": 2.6857,
+      "distance_km_repli": 7.182427,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "84899e673b974759f622e948394f896faf4a8311"
+    },
+    {
+      "code_insee": "62609",
+      "nom": "Neuville-Saint-Vaast",
+      "latitude_depot": 50.3566,
+      "longitude_depot": 2.754,
+      "distance_km_repli": 7.482738,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "71dee7861c1fa99689af8a3537e42f4c390cce05"
+    },
+    {
+      "code_insee": "62332",
+      "nom": "Ficheux",
+      "latitude_depot": 50.225,
+      "longitude_depot": 2.7459,
+      "distance_km_repli": 7.674993,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "4c508cd3504b3d3f41a5d4f02f730c36618c0c00"
+    },
+    {
+      "code_insee": "62878",
+      "nom": "Warlus",
+      "latitude_depot": 50.2774,
+      "longitude_depot": 2.6658,
+      "distance_km_repli": 8.079224,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "abd2c380e58fa74fe0c65965be9e0439ecc190ab"
+    },
+    {
+      "code_insee": "62115",
+      "nom": "Berneville",
+      "latitude_depot": 50.2632,
+      "longitude_depot": 2.6723,
+      "distance_km_repli": 8.089619,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "75260788215800cb3cfa23b54045748b5703feca"
+    },
+    {
+      "code_insee": "62324",
+      "nom": "Farbus",
+      "latitude_depot": 50.3601,
+      "longitude_depot": 2.8245,
+      "distance_km_repli": 8.376726,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "55f5e20ad090b0317774190b82c9b813f0b35d2d"
+    },
+    {
+      "code_insee": "62369",
+      "nom": "Gavrelle",
+      "latitude_depot": 50.3267,
+      "longitude_depot": 2.8822,
+      "distance_km_repli": 8.428563,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "c1f2e7546895ac4ff3836401895cf88b40192fcd"
+    },
+    {
+      "code_insee": "62582",
+      "nom": "Monchy-le-Preux",
+      "latitude_depot": 50.2669,
+      "longitude_depot": 2.8928,
+      "distance_km_repli": 8.62024,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "4c41bae72e7d05525a502cd64b410df44c6c3462"
+    },
+    {
+      "code_insee": "62761",
+      "nom": "Saint-Martin-sur-Cojeul",
+      "latitude_depot": 50.2289,
+      "longitude_depot": 2.8531,
+      "distance_km_repli": 8.750088,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "d9c49eeecb92c5473c3e4e995b52e100e7a8a29a"
+    },
+    {
+      "code_insee": "62152",
+      "nom": "Boisleux-Saint-Marc",
+      "latitude_depot": 50.213,
+      "longitude_depot": 2.7952,
+      "distance_km_repli": 8.764028,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "09a8e4cbb7e41f7d2009abd15c48b72d36c277ed"
+    },
+    {
+      "code_insee": "62151",
+      "nom": "Boisleux-au-Mont",
+      "latitude_depot": 50.2112,
+      "longitude_depot": 2.7771,
+      "distance_km_repli": 8.873401,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "4e675930c6f5b6af0f8fe0899d9e72ad116ea352"
+    },
+    {
+      "code_insee": "62718",
+      "nom": "Rœux",
+      "latitude_depot": 50.302,
+      "longitude_depot": 2.9016,
+      "distance_km_repli": 8.899644,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "bc75d5f8145df266ac0eeab7e9b4ffb60537f36e"
+    },
+    {
+      "code_insee": "62589",
+      "nom": "Mont-Saint-Éloi",
+      "latitude_depot": 50.3491,
+      "longitude_depot": 2.6912,
+      "distance_km_repli": 8.90385,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "16939ec497ce1eceb47c3565eba814b337de69cc"
+    },
+    {
+      "code_insee": "62135",
+      "nom": "Blairville",
+      "latitude_depot": 50.2192,
+      "longitude_depot": 2.7143,
+      "distance_km_repli": 9.161317,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "7e2751458a204ce8037f0025997dd1ee281b8dfb"
+    },
+    {
+      "code_insee": "62712",
+      "nom": "Rivière",
+      "latitude_depot": 50.232,
+      "longitude_depot": 2.6866,
+      "distance_km_repli": 9.208312,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "e2d21eb04fb64730ea35080cc727a3c61b4e9c87"
+    },
+    {
+      "code_insee": "62144",
+      "nom": "Boiry-Becquerelle",
+      "latitude_depot": 50.2133,
+      "longitude_depot": 2.8229,
+      "distance_km_repli": 9.223138,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "cd0d4a57aef72a9d0a769cf313ca6f50274fda6d"
+    },
+    {
+      "code_insee": "62428",
+      "nom": "Hénin-sur-Cojeul",
+      "latitude_depot": 50.2171,
+      "longitude_depot": 2.8379,
+      "distance_km_repli": 9.271699,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "0da01e9a2a87120b3bf4d1fb69fd298f59f0156e"
+    },
+    {
+      "code_insee": "62426",
+      "nom": "Héninel",
+      "latitude_depot": 50.2316,
+      "longitude_depot": 2.8692,
+      "distance_km_repli": 9.27993,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "a7f0337b74d82ad13eb837cfb224390c9742b7ad"
+    },
+    {
+      "code_insee": "62392",
+      "nom": "Guémappe",
+      "latitude_depot": 50.2514,
+      "longitude_depot": 2.8949,
+      "distance_km_repli": 9.43433,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "5002d533a28896b0b3168349fe4f15a3b994477b"
+    },
+    {
+      "code_insee": "62892",
+      "nom": "Willerval",
+      "latitude_depot": 50.3628,
+      "longitude_depot": 2.8486,
+      "distance_km_repli": 9.445388,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "bc4fc7112f07f83f2ed7579f0b59de40b4e51a22"
+    },
+    {
+      "code_insee": "62378",
+      "nom": "Gouves",
+      "latitude_depot": 50.2965,
+      "longitude_depot": 2.6446,
+      "distance_km_repli": 9.460614,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "b8494b638ab4851d38148937080f4d7f62e559c6"
+    },
+    {
+      "code_insee": "62011",
+      "nom": "Agnez-lès-Duisans",
+      "latitude_depot": 50.307,
+      "longitude_depot": 2.6461,
+      "distance_km_repli": 9.501296,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "87f28b7ba9219ba9899ea7eeb5867618182de5eb"
+    },
+    {
+      "code_insee": "62097",
+      "nom": "Beaumetz-lès-Loges",
+      "latitude_depot": 50.2463,
+      "longitude_depot": 2.6608,
+      "distance_km_repli": 9.669645,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "4f28f531d7a7d7a56e7df975ea9d057432428dd6"
+    },
+    {
+      "code_insee": "62425",
+      "nom": "Hendecourt-lès-Ransart",
+      "latitude_depot": 50.2092,
+      "longitude_depot": 2.7277,
+      "distance_km_repli": 9.760659,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "266895003b57d8be13e1a9f02612c0162f4f3a38"
+    },
+    {
+      "code_insee": "62650",
+      "nom": "Pelves",
+      "latitude_depot": 50.2878,
+      "longitude_depot": 2.9174,
+      "distance_km_repli": 9.945361,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "35559a4ad8c347fc341c5ea8397311a8ece2cbbb"
+    },
+    {
+      "code_insee": "62660",
+      "nom": "Plouvain",
+      "latitude_depot": 50.306,
+      "longitude_depot": 2.9159,
+      "distance_km_repli": 9.97104,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "631ffab7763eceba881932d4225937c4c7e876a4"
+    },
+    {
+      "code_insee": "62861",
+      "nom": "Vimy",
+      "latitude_depot": 50.3781,
+      "longitude_depot": 2.8125,
+      "distance_km_repli": 9.99859,
+      "articles_existants_audit": 1,
+      "git_blob_sha_audit": "2306bcb40802050d3a1d4c009107e0c8563921f4"
+    }
+  ]
+}
