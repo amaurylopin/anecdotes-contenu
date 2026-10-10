@@ -1,0 +1,242 @@
+{
+ "commune": {
+  "titre": "Rethel",
+  "code_insee": "08362",
+  "departement": "08",
+  "population": 7444,
+  "lat": 49.5106,
+  "lon": 4.3667,
+  "url": "https://fr.wikipedia.org/wiki/Rethel"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:28:02",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2058,
+  "sortie": 1397
+ },
+ "cout_usd": 0.002158,
+ "accroche": "Le 31 août 1914, des soldats allemands exécutent quinze civils à Rethel et détruisent de nombreux bâtiments.",
+ "histoire": {
+  "recit": "À Rethel, l’Aisne traverse la ville en son centre et devient, à plusieurs reprises, une raison de combats. Sous l’Ancien Régime, la commune relève de la province de Champagne et, au fil des statuts de pouvoir, elle change de visage : en 1405, la ville siège d’un comté érigé en pairie ; plus tard, elle passe en duché. \n\nRethel connaît ensuite des ruptures brutales. En 1914, la ville est incendiée et détruite à plus de 80 %, avant d’être décorée de la Croix de guerre 1914-1918 en 1920. En 1940, elle est de nouveau détruite lors de la bataille de Rethel.\n\nMais la ville ne se contente pas de traverser les guerres : elle a aussi ses lieux pour raconter autrement. L’Église Saint-Nicolas de Rethel, bâtie sur des ruines du VIIe siècle, conserve une histoire longue, depuis un prieuré bénédictin fondé en 1108 jusqu’à l’ouvrage du portail latéral commencé en 1512. La gare, quant à elle, rappelle les liaisons anciennes, dont une ligne fermée en 1987. Et le trésor de Rethel, orfèvrerie gallo-romaine découverte fortuitement, rejoint aujourd’hui les collections d’un musée à Saint-Germain-en-Laye.",
+  "chronologie": [
+   {
+    "date": "1405",
+    "texte": "La ville devient le siège d’un comté érigé en pairie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1581",
+    "texte": "Le comté devient duché.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1663",
+    "texte": "Le duché devient le duché de Mazarin et la ville prend le nom de « Mazarin ».",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "31 août 1914",
+    "texte": "L’armée impériale allemande exécute quinze civils et détruit de nombreux bâtiments.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "Rethel subit des combats violents : la ville est incendiée et détruite à plus de 80 %.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "31 juillet 1920",
+    "texte": "Rethel est décorée de la Croix de guerre 1914-1918.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "Début de la Seconde Guerre mondiale",
+    "texte": "La ville est à nouveau détruite lors de la bataille de Rethel de 1940.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "VIIe siècle",
+    "texte": "Le site de l’Église Saint-Nicolas de Rethel repose sur des ruines du VIIe siècle.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1108",
+    "texte": "Le prieuré bénédictin de Rethel est fondé ; son église est bâtie en 1279.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1512",
+    "texte": "Jean Bailly de Biermes œuvre à l’édification d’un portail latéral gothique flamboyant terminé en 1531.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1925",
+    "texte": "L’hôtel de ville est reconstruit entre 1925 et 1931 selon les plans de l’architecte Boulanger.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "Une ancienne ligne reliant Rethel à Guignicourt est fermée.",
+    "sources": [
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Nicolas de Rethel",
+   "histoire": "Édifice religieux catholique aux styles gothique et baroque, construit sur des ruines du VIIe siècle. L’édifice actuel date des XIIIe et XIVe siècles ; il s’appuie aussi sur l’histoire d’un prieuré bénédictin fondé en 1108, dont l’église est bâtie en 1279. Un portail latéral gothique flamboyant est entrepris en 1512 et terminé en 1531.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 49.5115,
+   "lon": 4.3666,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Nicolas_de_Rethel"
+  },
+  {
+   "nom": "Gare de Rethel",
+   "histoire": "Gare ferroviaire française de la ligne de Soissons à Givet, située sur le territoire de la commune, à proximité du centre bourg. Elle rappelle aussi une liaison ancienne avec Guignicourt, via Asfeld et Évergnicourt, dont la voie métrique Rethel–Évergnicourt et la voie normale Évergnicourt–Guignicourt sont fermées en 1987.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 49.504343,
+   "lon": 4.369763,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Rethel"
+  },
+  {
+   "nom": "Hôtel de ville de Rethel",
+   "histoire": "L’hôtel de ville de Rethel abrite une partie des services municipaux. Il est reconstruit entre 1925 et 1931 selon les plans de l’architecte Boulanger.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 49.508853,
+   "lon": 4.365464,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Rethel"
+  },
+  {
+   "nom": "Pargny (Ardennes)",
+   "histoire": "Pargny est une localité de Rethel et une ancienne commune française, située dans le département des Ardennes. Elle est érigée en commune indépendante en 1790.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16"
+   ],
+   "lat": 49.499754,
+   "lon": 4.400165,
+   "url": "https://fr.wikipedia.org/wiki/Pargny_%28Ardennes%29"
+  },
+  {
+   "nom": "Resson (Ardennes)",
+   "histoire": "Resson est une localité de Rethel et une ancienne commune française, située dans le département des Ardennes. Elle est érigée en commune indépendante en 1790.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18"
+   ],
+   "lat": 49.503956,
+   "lon": 4.412443,
+   "url": "https://fr.wikipedia.org/wiki/Resson_%28Ardennes%29"
+  },
+  {
+   "nom": "Fontaine de l'ancien hôtel de la trésorerie générale de Mézières",
+   "histoire": "Fontaine située à Rethel. L’édifice est inscrit au titre des monuments historiques en 1927.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 49.510321,
+   "lon": 4.364112,
+   "url": "https://fr.wikipedia.org/wiki/Fontaine_de_l%27ancien_h%C3%B4tel_de_la_tr%C3%A9sorerie_g%C3%A9n%C3%A9rale_de_M%C3%A9zi%C3%A8res"
+  },
+  {
+   "nom": "Trésor de Rethel",
+   "histoire": "Ensemble d’orfèvrerie gallo-romaine découvert fortuitement à Rethel. Il est conservé aujourd’hui au musée d’Archéologie nationale de Saint-Germain-en-Laye.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 49.5106,
+   "lon": 4.3667,
+   "url": "https://fr.wikipedia.org/wiki/Tr%C3%A9sor_de_Rethel"
+  }
+ ],
+ "sources": [
+  "Rethel est une commune française, sous-préfecture du département des Ardennes, en région Grand Est. Elle est, sous l'Ancien Régime, dans la province de Champagne. Arrosée par l'Aisne, elle est, avec ses 7 778 habitants en 2022, la troisième ville du département derrière Charleville-Mézières et Sedan. Située au sud-ouest du département, à la limite nord de la Champagne et à 37 km de Reims, elle bénéficie d'une gare […]",
+  "« Rethel se répand gracieusement du haut d'une colline jusque sur la rivière d'Aisne... » Victor Hugo (Le Rhin, 1836). Cette rivière d'Aisne, qui traverse la ville en son centre, est la cause de nombreux combats (siège de Rethel (1411), 1423, 1543, 1590, 1617, 1650, 1652, 1653, 1814, 1870, 1914, 1940). Selon une légende, sa fondation serait due à Jules César qui y aurait établi son camp. Mais c’est avant tout un […]",
+  "1405 : La ville est le siège d'un comté érigé en pairie (1405), en duché (1581) et qui devient en 1663 le duché de Mazarin et la ville prend alors le nom de « Mazarin ».",
+  "1914 : Le 31 août 1914, l'armée impériale allemande exécute quinze civils et détruit de nombreux bâtiments lors des atrocités allemandes commises au début de l'invasion.",
+  "1914 : La ville de Rethel est le théâtre de violents combats, incendiée et détruite à plus de 80 % en 1914 et a été décoré de la Croix de guerre 1914-1918, le 31 juillet 1920.",
+  "1940 : Au début de la Seconde Guerre mondiale, la ville est à nouveau détruite lors de la bataille de Rethel de 1940.",
+  "Lieu « Église Saint-Nicolas de Rethel » : L'église Saint-Nicolas de Rethel est un édifice religieux catholique de styles gothique et baroque situé à Rethel, dans le département français des Ardennes.",
+  "Lieu « Église Saint-Nicolas de Rethel », VIIe siècle : L'édifice actuel, construit sur des ruines du VIIe siècle, date des XIIIe et XIVe siècles.",
+  "Lieu « Église Saint-Nicolas de Rethel », 1108 : Le prieuré bénédictin fondé en 1108 dépendait de Saint-Remi de Reims et son église fut bâtie en 1279.",
+  "Lieu « Église Saint-Nicolas de Rethel », 1512 : En 1512, Jean Bailly de Biermes œuvrait pour l'édification d'un grand portail latéral de style gothique flamboyant qui ouvrait sur la place et fut terminé en 1531.",
+  "Lieu « Gare de Rethel » : La gare de Rethel est une gare ferroviaire française de la ligne de Soissons à Givet, située sur le territoire de la commune de Rethel, à proximité du centre bourg, dans le département des Ardennes en région Grand Est.",
+  "Lieu « Gare de Rethel », 1987 : Rethel était autrefois reliée à Guignicourt, à 35km, via Asfeld et Évergnicourt, par une ligne des Chemins de fer de la Banlieue de Reims (voie métrique Rethel - Évergnicourt, voie normale Évergnicourt - Guignicourt fermée en 1987).",
+  "Lieu « Hôtel de ville de Rethel » : L'hôtel de ville de Rethel abrite une partie des services municipaux de la ville de Rethel.",
+  "Lieu « Hôtel de ville de Rethel », 1925 : Il est reconstruit entre 1925 et 1931 selon les plans de l'architecte Boulanger.",
+  "Lieu « Pargny (Ardennes) » : Pargny est une localité de Rethel et une ancienne commune française, située dans le département des Ardennes en région Grand Est.",
+  "Lieu « Pargny (Ardennes) », 1790 : Ce dernier fut érigé en commune indépendante en 1790.",
+  "Lieu « Resson (Ardennes) » : Resson est une localité de Rethel et une ancienne commune française, située dans le département des Ardennes en région Grand Est.",
+  "Lieu « Resson (Ardennes) », 1790 : Il fut érigé en commune indépendante en 1790.",
+  "Lieu « Fontaine de l'ancien hôtel de la trésorerie générale de Mézières » : La fontaine de l'ancien hôtel de la trésorerie générale de Mézières est une fontaine située à Rethel, en France.",
+  "Lieu « Fontaine de l'ancien hôtel de la trésorerie générale de Mézières », 1927 : L'édifice est inscrit au titre des monuments historiques en 1927.",
+  "Lieu « Trésor de Rethel » : Le trésor de Rethel est un ensemble d'orfèvrerie gallo-romaine, découvert fortuitement à Rethel (Ardennes).",
+  "Lieu « Trésor de Rethel », aujourd'hui : Il est de nos jours conservé au musée d'Archéologie nationale de Saint-Germain-en-Laye."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 0
+ }
+}
