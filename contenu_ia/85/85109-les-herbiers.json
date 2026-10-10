@@ -1,0 +1,256 @@
+{
+ "commune": {
+  "titre": "Les Herbiers",
+  "code_insee": "85109",
+  "departement": "85",
+  "population": 16521,
+  "lat": 46.87,
+  "lon": -1.01,
+  "url": "https://fr.wikipedia.org/wiki/Les_Herbiers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:21:12",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2597,
+  "sortie": 1672
+ },
+ "cout_usd": 0.002609,
+ "accroche": "Sur le mont des Alouettes, la chapelle est finalement inaugurée le 28 avril 1968 après un long inachèvement.",
+ "histoire": {
+  "recit": "Aux premiers temps, les lieux des Herbiers portent le nom d’« Herbauges », à cause d’une végétation si riche qu’elle marque les esprits. Puis, après la conquête de la Gaule par Jules César, une légion est envoyée sur la colline du « blé en herbe » : la mont devient le mont des Alouettes.\n\nAu XIIe et surtout au XIIIe siècle naît un centre actif : en 1130, la capitale agricole et commerciale s’installe à l’abbaye de la Grainetière. La colline continue de compter, car elle accueille au fil des siècles moulins à vent puis, plus tard, une chapelle destinée à commémorer.\n\nAu XIXe siècle, la duchesse d’Angoulême fait édifier une chapelle expiatoire sur le mont des Alouettes ; les plans sont associés à une réalisation sur la base de l’architecte diocésain Maurice Ferré. Longtemps laissée inachevée, la chapelle est inaugurée le 28 avril 1968.\n\nAilleurs, le château d’Ardelay conserve le dernier vestige d’un ensemble fortifié du Moyen Âge, et le château de Boistissandeau garde encore des traces de balles. Enfin, la vie de la commune a aussi vibré avec ses gares : certaines fermées depuis, d’autres transformées, comme le bâtiment voyageurs de la gare des Epesses occupé par un restaurant.",
+  "chronologie": [
+   {
+    "date": "1130",
+    "texte": "La capitale agricole et commerciale s’établit à l’abbaye de la Grainetière.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "La duchesse d’Angoulême fait édifier une chapelle expiatoire sur le mont des Alouettes, achevée plus tard.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIXe siècle (plans et réalisation)",
+    "texte": "La chapelle du haut du mont, sur les plans de Maurice Ferré, est engagée à l’instigation de la duchesse d’Angoulême, avec des soutiens venus la rencontrer.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "28 avril 1968",
+    "texte": "Après un long inachèvement, la chapelle du mont des Alouettes est inaugurée.",
+    "sources": [
+     "S8",
+     "S26"
+    ]
+   },
+   {
+    "date": "Xe siècle",
+    "texte": "Sur le site du château d’Ardelay, un château en bois est construit sur une motte castrale, avec palissade et fossé.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "XVIe siècle",
+    "texte": "Huit moulins à vent sont construits sur le mont des Alouettes.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1962",
+    "texte": "Une souscription est ouverte par le Souvenir vendéen pour achever la chapelle, prévue par Louis Philippe d’être démolie.",
+    "sources": [
+     "S26"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Mont des Alouettes",
+   "histoire": "Colline située en Vendée, culminant à 232 mètres d’altitude, non loin du Puy du Fou. Au fil du temps, elle accueille huit moulins à vent (au XVIe siècle, puis disparus au XXe siècle) et, plus tard, une chapelle portée par la duchesse d’Angoulême. Longtemps inachevée, la chapelle est finalement inaugurée le 28 avril 1968.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 46.89472,
+   "lon": -1.01028,
+   "url": "https://fr.wikipedia.org/wiki/Mont_des_Alouettes"
+  },
+  {
+   "nom": "Château d'Ardelay",
+   "histoire": "Dernier vestige existant d’un ensemble plus vaste de fortifications datant du Moyen Âge, situé sur l’ancienne commune d’Ardelay aujourd’hui fusionnée avec Les Herbiers. Le site connaît d’abord un château en bois vers le Xe siècle, puis une cour intérieure fermée par un corps de logis à la Renaissance et des communs réalisés au XVIIIe siècle. Un programme de réhabilitation a lieu de 1985 à 1988.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 46.85314,
+   "lon": -1.005319,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Ardelay"
+  },
+  {
+   "nom": "Château de Boistissandeau",
+   "histoire": "Château situé aux Herbiers, au sud d’Ardelay en Vendée. Il est ensuite habité par les Frères de Saint Gabriel, transformé en noviciat en 1942, puis en maison de retraite en 1970. Une grande partie du château a été rénovée, mais des travaux restent en particulier dans l’aile gauche.",
+   "anecdotes": [
+    {
+     "texte": "En 1942, le château garde toujours les traces de balles aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 46.83,
+   "lon": -0.9941,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Boistissandeau"
+  },
+  {
+   "nom": "Gare des Epesses",
+   "histoire": "Gare ferroviaire sur la ligne de Vouvant - Cezais à Saint-Christophe-du-Bois, située sur le territoire de la commune des Herbiers. Elle est fermée au cours du XXe siècle et le bâtiment voyageurs est désormais occupé par un restaurant.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 46.87333,
+   "lon": -0.9593,
+   "url": "https://fr.wikipedia.org/wiki/Gare_des_Epesses"
+  },
+  {
+   "nom": "Château de l'Étenduère",
+   "histoire": "Château datant de l’Ancien régime ; ses vestiges sont visibles au Sud-Ouest de la ville, près de la zone de la Buzinière. Incendié pendant les guerres de Vendée, il ne reste que quelques pans très fragilisés, avec un projet de restauration en 2016 porté par une association bénévole.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 46.863798,
+   "lon": -1.025459,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_l%27%C3%89tendu%C3%A8re"
+  },
+  {
+   "nom": "Chapelle du Mont-des-Alouettes",
+   "histoire": "Chapelle située aux Herbiers, dans le département de la Vendée. D’architecture néo-gothique, elle est édifiée de 1825 à 1830 sur les plans d’Anatole Maquet. Prévue par Louis Philippe d’être démolie et restée longtemps inachevée, une souscription est ouverte en 1962 par le Souvenir vendéen ; l’édifice est finalement inauguré le 28 avril 1968.",
+   "anecdotes": [
+    {
+     "texte": "Prévue par Louis Philippe d’être démolie, la chapelle reste longtemps inachevée avant qu’une souscription ouverte en 1962 par le Souvenir vendéen ne mène à l’inauguration du 28 avril 1968.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 46.893916,
+   "lon": -1.007202,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_du_Mont-des-Alouettes"
+  },
+  {
+   "nom": "Gare des Herbiers",
+   "histoire": "Gare ferroviaire sur la ligne de Vouvant - Cezais à Saint-Christophe-du-Bois, située sur le territoire de la commune des Herbiers. Fermée aux voyageurs en 1939 puis au trafic de marchandises en 1992.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 46.863687,
+   "lon": -1.009745,
+   "url": "https://fr.wikipedia.org/wiki/Gare_des_Herbiers"
+  },
+  {
+   "nom": "Gare de Saint-Paul-en-Pareds",
+   "histoire": "Gare ferroviaire française sur la ligne de Vouvant-Cezais à Saint-Christophe-du-Bois, située sur le territoire de la commune des Herbiers. Elle est fermée au cours du XXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 46.828005,
+   "lon": -1.031334,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Paul-en-Pareds"
+  }
+ ],
+ "sources": [
+  "Les Herbiers est une commune française située dans le département de la Vendée en région Pays de la Loire. Elle est située dans une position stratégique en Vendée, tant sur le plan touristique qu'économique, et constitue une ville centre à l'échelle de son aire d'influence. Elle est en effet la commune-centre de l'aire d'attraction des Herbiers, de son unité urbaine et de son bassin de vie. La ville fait partie du […]",
+  "Aux premiers temps, les lieux étaient désignés sous le nom d'“Herbauges” en raison de leur végétation luxuriante. Après la conquête de la Gaule par Jules César, la légion des Alouettes fut envoyée pour s'établir sur la colline du “blé en herbe”, qui devint par la suite connue sous le nom de mont des Alouettes. En 1130, la capitale agricole et commerciale s'établit à l'abbaye de la Grainetière, fondée par des moines […]",
+  "1130 : En 1130, la capitale agricole et commerciale s'établit à l'abbaye de la Grainetière, fondée par des moines bénédictins originaires de Saintonge.",
+  "XIXe siècle : Pour commémorer ces événements tragiques et exprimer la gratitude envers les Vendéens, au XIXe siècle, la duchesse d'Angoulême fait édifier une chapelle expiatoire sur le mont des Alouettes, achevée un siècle plus tard.",
+  "Lieu « Mont des Alouettes » : Le mont des Alouettes est une colline de Vendée culminant à 232 mètres d'altitude, non loin du Puy du Fou, sur la commune des Herbiers.",
+  "Lieu « Mont des Alouettes », XVIe siècle : Au XVIe siècle, huit moulins à vent y sont construits et disparaissent au cours du XXe siècle.",
+  "Lieu « Mont des Alouettes », 1828 : On trouve également, en haut du mont, une chapelle, construite au XIXe siècle, sur les plans de l'architecte diocésain Maurice Ferré, à l'instigation de la duchesse d'Angoulême, honorée (et non terminée en 1828) par le passage de la duchesse de Berry et soutenue par de très nombreux vendéens venus la rencontrer sur ce mont.",
+  "Lieu « Mont des Alouettes », 1968 : Longtemps laissée inachevée, cette chapelle est finalement inaugurée le 28 avril 1968.",
+  "Lieu « Mont des Alouettes », aujourd'hui : Deux d'entre eux subsistent, dont un fonctionne encore et propose des visites pendant les périodes d'activité.",
+  "Lieu « Château d'Ardelay » : Le château d'Ardelay, situé sur l'ancienne commune d'Ardelay, fusionnée aujourd'hui avec la commune des Herbiers en Vendée, est le dernier vestige existant d'un ensemble plus vaste de fortifications datant du Moyen Âge.",
+  "Lieu « Château d'Ardelay », Xe siècle : Vers le Xe siècle, sur le même site fut construit un château en bois, élevé sur une motte castrale entourée d'une palissade de bois et d'un fossé.",
+  "Lieu « Château d'Ardelay », XVIIIe siècle : La petite cour intérieure est fermée par un corps de logis datant de la Renaissance et des communs réalisés au XVIIIe siècle.",
+  "Lieu « Château d'Ardelay », 1985 : De 1985 à 1988, sous la direction de M. Boissière, architecte des bâtiments de France, un important programme de travaux (4 778 290 francs) a été entrepris, permettant la réhabilitation du château.",
+  "Lieu « Château d'Ardelay », aujourd'hui : Le château d'Ardelay, situé sur l'ancienne commune d'Ardelay, fusionnée aujourd'hui avec la commune des Herbiers en Vendée, est le dernier vestige existant d'un ensemble plus vaste de fortifications datant du Moyen Âge.",
+  "Lieu « Château de Boistissandeau » : Le château de Boistissandeau est un château situé aux Herbiers, au sud d’Ardelay en Vendée.",
+  "Lieu « Château de Boistissandeau », 1942 : Cette dernière garde toujours les traces de balles aujourd’hui.[réf. souhaitée] Le château sera ensuite habité par les Frères de Saint Gabriel, puis transformé en Noviciat en 1942 et enfin en maison de retraite en 1970.",
+  "Lieu « Château de Boistissandeau », aujourd'hui : Une grande partie du château a été rénovée, mais il reste encore de nombreux travaux, en particulier dans l’aile gauche.",
+  "Lieu « Gare des Epesses » : La gare des Epesses est une gare ferroviaire française de la ligne de Vouvant - Cezais à Saint-Christophe-du-Bois, située sur le territoire de la commune des Herbiers, dans le département de Vendée en région Pays de la Loire.",
+  "Lieu « Gare des Epesses », XXe siècle : La gare est fermée au cours du XXe siècle.",
+  "Lieu « Gare des Epesses », aujourd'hui : Le bâtiment voyageurs est désormais occupé par un restaurant.",
+  "Lieu « Château de l'Étenduère » : Le château de l'Étenduère est un château datant de l'Ancien régime situé sur la commune des Herbiers en Vendée (France), dont les vestiges sont visibles au Sud-Ouest de la ville à proximité de la zone de la Buzinière .",
+  "Lieu « Château de l'Étenduère », 2016 : Incendié pendant les guerres de Vendée, il ne reste que quelques pans très fragilisés qui fait l'objet d'un projet de restauration en 2016 par une association bénévole Passion Patrimoine.",
+  "Lieu « Château de l'Étenduère », aujourd'hui : Le château de l'Étenduère est un château datant de l'Ancien régime situé sur la commune des Herbiers en Vendée (France), dont les vestiges sont visibles au Sud-Ouest de la ville à proximité de la zone de la Buzinière .",
+  "Lieu « Chapelle du Mont-des-Alouettes » : La chapelle du Mont-des-Alouettes ou chapelle des Herbiers est une chapelle située aux Herbiers dans le département de la Vendée.",
+  "Lieu « Chapelle du Mont-des-Alouettes », 1825 : Il s'agit d'une architecture néo-gothique édifiée de 1825 à 1830 qui se fonde sur les plans de l'architecte Anatole Maquet.",
+  "Lieu « Chapelle du Mont-des-Alouettes », 1962 : Prévu par Louis Philippe d'être démoli, cet édifice étant resté longtemps inachevé, une souscription fut ouverte en 1962 par le Souvenir vendéen : cette chapelle fut finalement inaugurée le 28 avril 1968.",
+  "Lieu « Gare des Herbiers » : La gare des Herbiers est une gare ferroviaire française de la ligne de Vouvant - Cezais à Saint-Christophe-du-Bois, située sur le territoire de la commune des Herbiers, dans le département de Vendée, en région Pays de la Loire.",
+  "Lieu « Gare des Herbiers », 1939 : La gare est fermée en 1939 aux voyageurs et 1992 pour le trafic de marchandises.",
+  "Lieu « Gare de Saint-Paul-en-Pareds » : La gare de Saint-Paul-en-Pareds est une gare ferroviaire française de la ligne de Vouvant-Cezais à Saint-Christophe-du-Bois, située sur le territoire de la commune des Herbiers, dans le département de Vendée en région Pays de la Loire.",
+  "Lieu « Gare de Saint-Paul-en-Pareds », XXe siècle : La gare est fermée au cours du XXe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIIe",
+   "XIIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

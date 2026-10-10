@@ -1,0 +1,67 @@
+{
+ "commune": {
+  "titre": "Le Poiré-sur-Vie",
+  "code_insee": "85178",
+  "departement": "85",
+  "population": 8649,
+  "lat": 46.7682,
+  "lon": -1.5098,
+  "url": "https://fr.wikipedia.org/wiki/Le_Poir%C3%A9-sur-Vie"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:10:57",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 955,
+  "sortie": 331
+ },
+ "cout_usd": 0.000605,
+ "accroche": "En 1641, Le Poiré-sur-Vie se dénommait Poiré-sous-la-Roche, avant de devenir Le Poiré-sur-Vie dans la Vendée.",
+ "histoire": {
+  "recit": "Au Poiré-sur-Vie, les habitants se nomment les Genôts. La commune, dans la Vendée et en Pays de la Loire, a porté un autre nom : en 1641, elle se dénommait Poiré-sous-la-Roche.\n\nAujourd’hui, un lieu attire les pas : la Pierre des Farfadets, aussi appelée pierre de la Merlière. C’est une pierre à cupules située au Poiré-sur-Vie, et, autour d’elle, plusieurs affleurements de la même roche sont encore visibles.",
+  "chronologie": [
+   {
+    "date": "1641",
+    "texte": "La commune se dénommait Poiré-sous-la-Roche.",
+    "sources": [
+     "S2"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pierre des Farfadets (Le Poiré-sur-Vie)",
+   "histoire": "La pierre des Farfadets, aussi appelée pierre de la Merlière, est une pierre à cupules située au Poiré-sur-Vie, dans le département de la Vendée. Plusieurs affleurements de la même roche sont visibles aux alentours.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Plusieurs affleurements de la même roche sont visibles aux alentours.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 46.7812,
+   "lon": -1.5634,
+   "url": "https://fr.wikipedia.org/wiki/Pierre_des_Farfadets_%28Le_Poir%C3%A9-sur-Vie%29"
+  }
+ ],
+ "sources": [
+  "Le Poiré-sur-Vie est une commune française située dans le département de la Vendée, en région Pays de la Loire. Ses habitants sont appelés les Genôts.",
+  "En 1641, la commune se dénommait Poiré-sous-la-Roche.",
+  "Lieu « Pierre des Farfadets (Le Poiré-sur-Vie) » : La pierre des Farfadets, appelée aussi pierre de la Merlière, est une pierre à cupules située au Poiré-sur-Vie, dans le département français de la Vendée, dans les Pays de la Loire.",
+  "Lieu « Pierre des Farfadets (Le Poiré-sur-Vie) », aujourd'hui : Plusieurs affleurements de cette même roche sont visibles aux alentours."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

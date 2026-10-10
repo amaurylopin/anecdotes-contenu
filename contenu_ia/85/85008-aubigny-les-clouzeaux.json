@@ -1,0 +1,114 @@
+{
+ "commune": {
+  "titre": "Aubigny-Les Clouzeaux",
+  "code_insee": "85008",
+  "departement": "85",
+  "population": 7191,
+  "lat": 46.5972,
+  "lon": -1.4525,
+  "url": "https://fr.wikipedia.org/wiki/Aubigny-Les_Clouzeaux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1107,
+  "sortie": 973
+ },
+ "cout_usd": 0.001438,
+ "accroche": "Aubigny-Les Clouzeaux devient commune nouvelle le 1er janvier 2016, issue de la fusion d’Aubigny et des Clouzeaux décidée par arrêté préfectoral du 3 décembre 2015.",
+ "histoire": {
+  "recit": "Ici, l’histoire commence par un acte administratif : en Vendée, Aubigny et Les Clouzeaux se rapprochent jusqu’à former une commune nouvelle. Mais, à Aubigny, les souvenirs d’autrefois affleurent aussi dans les événements rapportés et jusque dans l’église.\n\nLe 1er janvier 2016, la commune nouvelle d’Aubigny-Les Clouzeaux prend forme. Et bien avant cette date, Aubigny garde une mémoire plus sombre : en 1815, le curé Chabot meurt, au moment même où le régent Francis Roy a été mis à mort comme royaliste aux Sables-d’Olonne, puis exécuté sur la plage le 6 janvier 1794.\n\nPlus paisible, l’église Saint-Laurent domine le village : construite au XIIe siècle, elle est inscrite aux monuments historiques par arrêté du 28 septembre 1926, sauf la nef moderne.",
+  "chronologie": [
+   {
+    "date": "octobre 2015",
+    "texte": "Les conseils municipaux d’Aubigny et des Clouzeaux demandent la fusion en commune nouvelle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "3 décembre 2015",
+    "texte": "Un arrêté préfectoral décide la fusion entre Aubigny et Les Clouzeaux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1er janvier 2016",
+    "texte": "La commune nouvelle d’Aubigny-Les Clouzeaux est constituée par la fusion des communes d’Aubigny et des Clouzeaux.",
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   {
+    "date": "6 janvier 1794",
+    "texte": "Le régent d’Aubigny, Francis Roy, est exécuté sur la plage aux Sables-d’Olonne après avoir été mis à mort comme royaliste.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1815",
+    "texte": "Le curé Chabot meurt en 1815, à l’âge de 78 ans.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "28 septembre 1926",
+    "texte": "L’église Saint-Laurent est inscrite aux monuments historiques, sauf la nef moderne, par arrêté du 28 septembre 1926.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Aubigny (Vendée)",
+   "histoire": "Aubigny (Aubegnàe ou Le Begnàe en poitevin) est une ancienne commune française située dans le département de la Vendée, en région Pays-de-la-Loire.",
+   "anecdotes": [
+    {
+     "texte": "En 1815, le curé Chabot meurt ; on se souvient alors que le régent Francis Roy avait été mis à mort comme royaliste, avant d’être exécuté sur la plage aux Sables-d’Olonne le 6 janvier 1794.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Église Saint-Laurent : construite au XIIe siècle et inscrite aux monuments historiques (sauf la nef moderne), par arrêté du 28 septembre 1926.",
+   "sources": [
+    "S3",
+    "S5"
+   ],
+   "lat": 46.5975,
+   "lon": -1.4525,
+   "url": "https://fr.wikipedia.org/wiki/Aubigny_%28Vend%C3%A9e%29"
+  }
+ ],
+ "sources": [
+  "Aubigny-Les Clouzeaux est une commune française, située dans le département de la Vendée, en région Pays de la Loire. Constituée le 1er janvier 2016 par la fusion des communes d’Aubigny et des Clouzeaux, elle est dotée du statut de commune nouvelle.",
+  "La commune nouvelle d’Aubigny-Les Clouzeaux naît de la fusion de deux communes, Aubigny et Les Clouzeaux demandée en octobre 2015 par leurs conseils municipaux et décidée par l'arrêté préfectoral du 3 décembre 2015 qui a pris effet le 1er janvier 2016.",
+  "Lieu « Aubigny (Vendée) » : Aubigny (Aubegnàe ou Le Begnàe en poitevin) est une ancienne commune française située dans le département de la Vendée en région Pays-de-la-Loire.",
+  "Lieu « Aubigny (Vendée) », 1815 : Le curé Chabot mourut en 1815, à l'âge de 78 ans, alors que le « régent » d'Aubigny, Francis Roy, fut mis à mort comme royaliste aux Sables-d'Olonne et exécuté sur la plage le 6 janvier 1794.",
+  "Lieu « Aubigny (Vendée) », 1926 : Église Saint-Laurent, construite au 12e siècle et inscrite aux monuments historiques sauf la nef moderne, par arrêté du 28 septembre 1926."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIIe"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}
