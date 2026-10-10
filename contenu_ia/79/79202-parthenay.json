@@ -1,0 +1,267 @@
+{
+ "commune": {
+  "titre": "Parthenay",
+  "code_insee": "79202",
+  "departement": "79",
+  "population": 10140,
+  "lat": 46.64861,
+  "lon": -0.247694,
+  "url": "https://fr.wikipedia.org/wiki/Parthenay"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:13",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2609,
+  "sortie": 1759
+ },
+ "cout_usd": 0.002721,
+ "accroche": "En 1214, l’armée anglaise se rassemble à Parthenay avant d’entrer en campagne, et c’est encore à Parthenay que la trêve est signée après Bouvines.",
+ "histoire": {
+  "recit": "Parthenay, l’une des deux sous-préfectures des Deux-Sèvres, s’installe très tôt dans l’histoire : le nom apparaît au début du XIe siècle, et il est probable que la commune soit née avec son château, un peu avant 1012. Bientôt, la ville devient un point stratégique. En 1214, l’armée anglaise s’y rassemble, puis la trêve se signe là après la bataille de Bouvines.\n\nLes fortifications, elles, subissent de violents coups. Les remparts sont démantelés en 1465, puis la ville est prise en 1486 et ses fortifications démantelées à nouveau. Plus tard, pendant les guerres de Religion, la ville est assiégée et incendiée.\n\nAu XIXe siècle, l’aspect change : on aménage la place principale dite du Drapeau, on démolit et on terrasse, tandis que quelques éléments du château et des remparts demeurent. Parmi les héritages visibles, l’église Notre-Dame-de-la-Couldre, ancienne église romane du XIIe siècle, conserve des vestiges aujourd’hui inclus dans le collège privé Notre-Dame-de-la-Couldre. D’autres églises et le château complètent ce paysage d’histoire accumulée.",
+  "chronologie": [
+   {
+    "date": "début du XIe siècle",
+    "texte": "Le nom de Partenay apparaît et pourrait désigner le village de Parthenay-le-Vieux ; l’histoire fait aussi l’hypothèse d’une naissance de Parthenay avec son château, avant 1012.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "un peu avant 1012",
+    "texte": "Hypothèse : Parthenay serait née en même temps que son château, autour de ce moment.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1214",
+    "texte": "L’armée anglaise se rassemble à Parthenay avant d’entrer en campagne ; après Bouvines, la trêve est signée à Parthenay entre Anglais et Français.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1465",
+    "texte": "Les fortifications de la ville sont démantelées en 1465.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "30 mars 1486",
+    "texte": "La ville est prise par l’armée royale ; ses fortifications sont démantelées.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1487",
+    "texte": "Les fortifications sont démantelées dès 1487, puis reconstruites à partir de 1492 jusqu’au premier tiers du XVIe siècle.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1562",
+    "texte": "Pendant les guerres de Religion, la ville est assiégée et incendiée en 1562.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1568",
+    "texte": "La ville est encore touchée : elle est incendiée en 1568.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Modifications urbanistiques : terrassements sur ce qui reste du château, démolitions de portes fortifiées et d’une partie des remparts, aménagement de la place principale dite du Drapeau.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Notre-Dame-de-la-Couldre",
+   "histoire": "Ancienne église paroissiale de style roman, datée du XIIe siècle. Vendue comme bien national en 1789, puis acquise par les ursulines en 1847 pour y établir une école. Elle figure sur la liste des Monuments historiques classés en 1862, et ses vestiges sont toujours inclus dans le collège privé Notre-Dame-de-la-Couldre.",
+   "anecdotes": [
+    {
+     "texte": "En 1789, l’église est vendue comme bien national à Pierre-Jean Andrieux, prêtre défroqué et futur député de Parthenay.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les vestiges sont toujours inclus dans le collège privé Notre-Dame-de-la-Couldre.",
+   "sources": [
+    "S12",
+    "S8"
+   ],
+   "lat": 46.650841,
+   "lon": -0.251516,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-la-Couldre"
+  },
+  {
+   "nom": "Remparts de Parthenay",
+   "histoire": "Ensemble de fortifications urbaines datées du Moyen Âge, érigées entre le XIIe et le XIIIe siècles. La ville, sous domination, connaît ensuite des démantellements puis des reconstructions : démantelées à partir de 1487, reconstruites à partir de 1492 jusqu’au premier tiers du XVIe siècle. Au XIXe siècle, une partie est détruite surtout au sud et à l’est, tandis qu’au nord et à l’ouest l’enceinte reste intacte sur un plateau rocheux. Aujourd’hui, de nombreuses parties sont classées ou inscrites au titre des monuments historiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "De nombreuses parties des remparts, ainsi que les portes de ville subsistantes, sont classées ou inscrites au titre des monuments historiques.",
+   "sources": [
+    "S17",
+    "S16",
+    "S13"
+   ],
+   "lat": 46.652145,
+   "lon": -0.249437,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Parthenay"
+  },
+  {
+   "nom": "Église Sainte-Croix de Parthenay",
+   "histoire": "Église catholique reconstruite au XIIe siècle, englobée dans l’enceinte fortifiée. La façade est reconstruite en 1781 après sa démolition pour élargir la rue. Classée au titre des monuments historiques en 1994.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 46.6492,
+   "lon": -0.251656,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Croix_de_Parthenay"
+  },
+  {
+   "nom": "Gare de Parthenay",
+   "histoire": "Gare ferroviaire desservant les lignes de Chartres à Bordeaux-Saint-Jean et de Neuville-de-Poitou à Bressuire. Parthenay est mise en service en 1882 par l’Administration des chemins de fer de l’État, puis fermée aux dessertes voyageurs en 1980. La compagnie est absorbée par l’État avant l’ouverture, le 5 juin 1887, de la deuxième section de Partenay à Bressuire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 46.648327,
+   "lon": -0.240323,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Parthenay"
+  },
+  {
+   "nom": "Église Saint-Laurent de Parthenay",
+   "histoire": "Église catholique classée au titre des monuments historiques en 1862. Un incendie s’y déclare le 17 décembre 2014, détruisant le retable du XVIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "Le 17 décembre 2014, un incendie détruit le retable du XVIIe siècle à l’église Saint-Laurent.",
+     "statut": "etabli",
+     "sources": [
+      "S27"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S27"
+   ],
+   "lat": 46.6464,
+   "lon": -0.250031,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Laurent_de_Parthenay"
+  },
+  {
+   "nom": "Église Saint-Paul de Parthenay",
+   "histoire": "Église catholique dont le chevet s’est effondré en 1747, ne laissant aujourd’hui que la façade. Classée au titre des monuments historiques en 1923.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne reste aujourd’hui que la façade, après l’effondrement du chevet en 1747.",
+   "sources": [
+    "S29",
+    "S30",
+    "S28"
+   ],
+   "lat": 46.6483,
+   "lon": -0.254847,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_de_Parthenay"
+  },
+  {
+   "nom": "Église Saint-Pierre de Parthenay-le-Vieux",
+   "histoire": "Église de culte catholique située dans la commune de Parthenay : l’église priorale Saint-Pierre de Parthenay-le-Vieux. Elle est construite au milieu du XIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S31",
+    "S32"
+   ],
+   "lat": 46.635642,
+   "lon": -0.266021,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Parthenay-le-Vieux"
+  },
+  {
+   "nom": "Château de Parthenay",
+   "histoire": "Ancien château fort dont les vestiges se dressent sur la commune de Parthenay. Au XIXe siècle, des terrassements sont réalisés à l’emplacement de ce qui reste du château, même si deux tours restent en place.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges du château de Parthenay se dressent sur la commune.",
+   "sources": [
+    "S34",
+    "S33",
+    "S7"
+   ],
+   "lat": 46.652222,
+   "lon": -0.251944,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Parthenay"
+  }
+ ],
+ "sources": [
+  "Parthenay est une commune française située dans le département des Deux-Sèvres, dont elle est l'une des deux sous-préfectures avec Bressuire, en région Nouvelle-Aquitaine. Les habitants s'appellent les Parthenaisiens.",
+  "Le nom de Partenay apparaît au début du XIe siècle et désigne alors peut-être l'actuel village de Parthenay-le-Vieux[réf. nécessaire]. Il n'y a pas trace d'importantes occupations humaines antérieures au Moyen Âge et il est probable que Parthenay soit née en même temps que son château, un peu avant 1012. La première dynastie de seigneurs locaux est dite des « Parthenay L'archevêque », car elle s'enorgueillissait […]",
+  "1214 : En 1214, l’armée anglaise se rassemble à Parthenay avant d’entrer en campagne contre le roi de France ; et après la défaite de Jean sans Terre à la bataille de Bouvines, c’est encore à Parthenay que la trêve est signée entre l’Anglais et le Français.",
+  "1465 : Les fortifications de la ville sont démantelées par les bosons du roi de France en 1465.",
+  "1486 : Le 30 mars 1486[réf. nécessaire], la ville est prise par l’armée royale et ses fortifications de la ville démantelées.",
+  "1562 : Pendant les guerres de Religion, la ville est assiégée et incendiée en 1562 et 1568.",
+  "XIXe siècle : Au XIXe siècle, des modifications urbanistiques importantes commencent : terrassements à l’emplacement de ce qui resta du château même si deux tours restent en place, démolitions de portes fortifiées et d’une partie des remparts, aménagement de la place principale dite du Drapeau.",
+  "Lieu « Église Notre-Dame-de-la-Couldre » : L’église Notre-Dame-de-la-Couldre est une ancienne église paroissiale de style roman, datée du XIIe siècle et située à Parthenay (Deux-Sèvres).",
+  "Lieu « Église Notre-Dame-de-la-Couldre », 1789 : En 1789, elle est vendue comme bien national à Pierre-Jean Andrieux, prêtre défroqué et futur député de Parthenay.",
+  "Lieu « Église Notre-Dame-de-la-Couldre », 1847 : En 1847, les ursulines acquièrent de nouveau les bâtiments pour y établir une école.",
+  "Lieu « Église Notre-Dame-de-la-Couldre », 1862 : L’édifice apparaît sur la liste des Monuments historiques classés de 1862, et a été visité par Prosper Mérimée dès 1840.",
+  "Lieu « Église Notre-Dame-de-la-Couldre », aujourd'hui : Les vestiges sont toujours inclus dans le collège privé Notre-Dame-de-la-Couldre.",
+  "Lieu « Remparts de Parthenay » : Les remparts de Parthenay sont un ensemble de fortifications urbaines datées du Moyen Âge situées dans la ville de Parthenay, dans le département français des Deux-Sèvres.",
+  "Lieu « Remparts de Parthenay », XIIIe siècle : L'ensemble des fortifications médiévales sont érigées entre le XIIe et XIIIe siècles, sous l'impulsion du roi d'Angleterre, dont la ville était sous la domination.",
+  "Lieu « Remparts de Parthenay », 1487 : Les fortifications sont démantelées dès 1487 mais reconstruites à partir de 1492 et jusqu'au premier tiers du XVIe siècle.",
+  "Lieu « Remparts de Parthenay », XIXe siècle : Au nord et à l'ouest, l'enceinte est restée intacte car se trouvant en bordure d'un plateau rocheux, alors qu'au sud et à l'est, les remparts ont été détruits, principalement au XIXe siècle à cause du développement urbain.",
+  "Lieu « Remparts de Parthenay », aujourd'hui : De nombreuses parties des remparts, ainsi que les portes de ville subsistantes sont classées ou inscrites au titre des monuments historiques : classements en 1885, 1920, 1951, 1992, 2000 et 2003 ; inscription en 1995 (cf. infra).",
+  "Lieu « Église Sainte-Croix de Parthenay » : L'église Sainte-Croix est une église catholique située à Parthenay, en France.",
+  "Lieu « Église Sainte-Croix de Parthenay », XIIe siècle : Reconstruite au XIIe siècle, Sainte-Croix se trouva englobée dans l’enceinte fortifiée.",
+  "Lieu « Église Sainte-Croix de Parthenay », 1781 : La façade est reconstruite en 1781 à la suite de sa démolition pour l’élargissement de la rue.",
+  "Lieu « Église Sainte-Croix de Parthenay », 1994 : L'édifice est classé au titre des monuments historiques en 1994.",
+  "Lieu « Gare de Parthenay » : La gare de Parthenay est une gare ferroviaire française, des lignes de Chartres à Bordeaux-Saint-Jean et de Neuville-de-Poitou à Bressuire.",
+  "Lieu « Gare de Parthenay », 1882 : Parthenay est mise en service en 1882 par l'Administration des chemins de fer de l'État (État) et fermée aux dessertes voyageurs par la Société nationale des chemins de fer français (SNCF) en 1980.",
+  "Lieu « Gare de Parthenay », 1887 : Cette compagnie est absorbée par l'État avant l'ouverture, le 5 juin 1887, de la deuxième section de Partenay à Bressuire.",
+  "Lieu « Église Saint-Laurent de Parthenay » : L'église Saint-Laurent est une église catholique située à Parthenay, en France.",
+  "Lieu « Église Saint-Laurent de Parthenay », 1862 : L'édifice est classé au titre des monuments historiques en 1862.",
+  "Lieu « Église Saint-Laurent de Parthenay », 2014 : Un incendie s'y déclare le 17 décembre 2014, détruisant le retable du XVIIe siècle",
+  "Lieu « Église Saint-Paul de Parthenay » : L'église Saint-Paul est une église catholique située à Parthenay, en France.",
+  "Lieu « Église Saint-Paul de Parthenay », 1747 : Le chevet s'est effondré en 1747, ce qui fait qu'il ne reste plus, aujourd'hui, que la façade.",
+  "Lieu « Église Saint-Paul de Parthenay », 1923 : L'édifice est classé au titre des monuments historiques en 1923.",
+  "Lieu « Église Saint-Pierre de Parthenay-le-Vieux » : L'église Saint-Pierre de Parthenay-le-Vieux (aussi connue comme l'ancienne église priorale Saint-Pierre de Parthenay-le-Vieux) est une église de culte catholique située dans la commune de Parthenay, dans le département des Deux-Sèvres, en France.",
+  "Lieu « Église Saint-Pierre de Parthenay-le-Vieux », XIe siècle : L'église est construite au milieu XIe siècle.",
+  "Lieu « Château de Parthenay » : Le château de Parthenay est un ancien château fort dont les vestiges se dressent sur la commune française de Parthenay dans le département des Deux-Sèvres.",
+  "Lieu « Château de Parthenay », aujourd'hui : Le château de Parthenay est un ancien château fort dont les vestiges se dressent sur la commune française de Parthenay dans le département des Deux-Sèvres."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

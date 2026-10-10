@@ -1,0 +1,190 @@
+{
+ "commune": {
+  "titre": "Saint-Maixent-l'École",
+  "code_insee": "79270",
+  "departement": "79",
+  "population": 7595,
+  "lat": 46.41361111,
+  "lon": -0.20694444,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Maixent-l%27%C3%89cole"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:25:43",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1434,
+  "sortie": 1191
+ },
+ "cout_usd": 0.001776,
+ "accroche": "À Saint-Maixent-l'École, le nom de la ville fait référence à l’école militaire présente depuis 1881, et ses habitants sont appelés les Saint-Maixentais.",
+ "histoire": {
+  "recit": "Saint-Maixent-l'École s’est bâtie autour d’un monastère : fondé en 459 par Agapit, puis rejoint en 480 par Adjutor, qui prend alors le nom de Maixent. La ville porte d’abord le nom de Saint-Saturnin et prospère aux VIe et VIIe siècles. Plus tard, en septembre 1346, le comte de Derby échoue dans son assaut, avant que Louis XI n’autorise une création par lettres patentes en février 1469.\n\nL’abbatiale résume ces remous. Un monastère s’y édifie et devient une abbaye vers 500, où le lieu reçoit Clovis. L’église, construite en 940 sur l’emplacement lié à la cellule de Maixent, abrite des reliques avant d’être détruite par un tremblement de terre en 1059. Des incendies ravagent ensuite abbaye et ville en 1075, 1082, 1085 et 1116. Malgré ces chocs, la crypte du VIIe siècle où étaient déposées les reliques reste visible.",
+  "chronologie": [
+   {
+    "date": "459",
+    "texte": "Le monastère est fondé par le moine oratorien Agapit.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "480",
+    "texte": "Adjutor rejoint le monastère et prend alors le nom de Maixent.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIe-VIIe siècles",
+    "texte": "La ville prospère sous le nom de Saint-Saturnin.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "septembre 1346",
+    "texte": "Le comte de Derby échoue dans son assaut pour prendre la ville.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "février 1469",
+    "texte": "Louis XI autorise, par lettres patentes, une création à Saint-Maixent.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "vers 500",
+    "texte": "Un monastère est édifié et devient une abbaye.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "940",
+    "texte": "L’église est construite sur l’emplacement lié à la cellule de Maixent et abrite des reliques.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1059",
+    "texte": "L’église est détruite par un tremblement de terre.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1075",
+    "texte": "Incendies ravagent l’abbaye et la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1082",
+    "texte": "Nouveaux incendies ravagent l’abbaye et la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1085",
+    "texte": "De nouveaux incendies ravagent l’abbaye et la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1116",
+    "texte": "Les incendies frappent encore l’abbaye et la ville.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "VIIe siècle",
+    "texte": "La crypte conserve l’emplacement où étaient déposées des reliques.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1879",
+    "texte": "L’église Saint-Léger est classée au titre des monuments historiques.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbatiale Saint-Maixent de Saint-Maixent-l'École",
+   "histoire": "L’abbatiale est l’église de l’ancienne abbaye de Saint-Maixent, dans la commune de Saint-Maixent-l'École.",
+   "anecdotes": [
+    {
+     "texte": "Vers 500, le monastère devenu abbaye « reçoit Clovis ».",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "En 1059, l’église est détruite par un tremblement de terre.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La crypte du VIIe siècle, où étaient déposées les reliques, est toujours visible.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 46.41053414,
+   "lon": -0.2044936,
+   "url": "https://fr.wikipedia.org/wiki/Abbatiale_Saint-Maixent_de_Saint-Maixent-l%27%C3%89cole"
+  },
+  {
+   "nom": "Église Saint-Léger de Saint-Maixent-l'École",
+   "histoire": "L’église Saint-Léger est une ancienne église catholique située à Saint-Maixent-l'École.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "lat": 46.4109,
+   "lon": -0.203942,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-L%C3%A9ger_de_Saint-Maixent-l%27%C3%89cole"
+  }
+ ],
+ "sources": [
+  "Saint-Maixent-l'École est une commune du Centre-Ouest de la France située dans le département des Deux-Sèvres dans la région Nouvelle-Aquitaine. Son nom fait référence à l’école militaire présente dans la ville, sous diverses formes, depuis 1881. Ses habitants sont appelés les Saint-Maixentais et les Saint-Maixentaises.",
+  "La ville se développe autour du monastère fondé en 459 par le moine oratorien Agapit, rejoint en 480 par Adjutor qui prit alors le nom de Maixent. La ville porta d'abord le nom de Saint-Saturnin et prospéra aux VIe et VIIe siècles. En septembre 1346, le comte de Derby échoue dans son assaut pour prendre la ville (guerre de Cent Ans). En février 1469, par ses lettres patentes, le roi Louis XI autorisa une création […]",
+  "Lieu « Abbatiale Saint-Maixent de Saint-Maixent-l'École » : L’abbatiale de Saint-Maixent-l'École est l’église de l’ancienne abbaye de Saint-Maixent, dans la commune de Saint-Maixent-l'École (département français des Deux-Sèvres).",
+  "Lieu « Abbatiale Saint-Maixent de Saint-Maixent-l'École », 500 : Un monastère est édifié qui va devenir une abbaye vers 500, où il reçoit Clovis.",
+  "Lieu « Abbatiale Saint-Maixent de Saint-Maixent-l'École », 1059 : L'église est construite en 940 sur l'emplacement de la cellule de Maixent, elle abrite les reliques de saint Maixent et saint Léger d'Autun et fut détruite par un tremblement de terre en 1059.",
+  "Lieu « Abbatiale Saint-Maixent de Saint-Maixent-l'École », 1075 : Plusieurs incendies ont ravagé l'abbaye et la ville en 1075, 1082, 1085 et 1116.",
+  "Lieu « Abbatiale Saint-Maixent de Saint-Maixent-l'École », aujourd'hui : Son corps est ramené à l'abbaye de Saint-Maixent où il est enterré, la crypte du VIIe siècle où étaient déposées ses reliques est toujours visibles.",
+  "Lieu « Église Saint-Léger de Saint-Maixent-l'École » : L'église Saint-Léger est une ancienne église catholique située à Saint-Maixent-l'École, en France.",
+  "Lieu « Église Saint-Léger de Saint-Maixent-l'École », 1879 : L'édifice est classé au titre des monuments historiques en 1879."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

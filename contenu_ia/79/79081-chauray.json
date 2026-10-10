@@ -1,0 +1,82 @@
+{
+ "commune": {
+  "titre": "Chauray",
+  "code_insee": "79081",
+  "departement": "79",
+  "population": 7221,
+  "lat": 46.3614,
+  "lon": -0.37611111,
+  "url": "https://fr.wikipedia.org/wiki/Chauray"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:09",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1040,
+  "sortie": 460
+ },
+ "cout_usd": 0.000783,
+ "accroche": "En octobre 1854, le temple de Chauray était achevé.",
+ "histoire": {
+  "recit": "Chauray est une commune du Centre-Ouest, en banlieue est de Niort, dans les Deux-Sèvres. On y trouve, aujourd’hui, des sièges d’entreprises et de nombreuses enseignes commerciales. Avant ces activités, le terrain portait déjà des traces : plusieurs sites préhistoriques ont été repérés, dont un éperon à la Chauvinière, barré par un fossé au Néolithique récent ou final. Plus tard, la vie religieuse se structure avec l’église Saint-Pierre de Chauray, dont les travaux étaient achevés en octobre 1854. L’édifice a ensuite été inscrit au titre des monuments historiques en 1991.",
+  "chronologie": [
+   {
+    "date": "Néolithique récent ou final",
+    "texte": "À la Chauvinière, un éperon a été barré par un fossé creusé à la période du Néolithique récent ou final.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "octobre 1854",
+    "texte": "Le temple était achevé en octobre 1854.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1991",
+    "texte": "L’église Saint-Pierre de Chauray a été inscrite au titre des monuments historiques en 1991.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Pierre de Chauray",
+   "histoire": "Église catholique située à Chauray, elle fait l’objet d’une inscription au titre des monuments historiques en 1991.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 46.361,
+   "lon": -0.375254,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Chauray"
+  }
+ ],
+ "sources": [
+  "Chauray est une commune du Centre-Ouest de la France située dans la banlieue est de Niort, dans le département des Deux-Sèvres, en région Nouvelle-Aquitaine. Plusieurs sociétes y siègent (assurances) et de nombreuses enseignes commerciales sont implantées sur la commune.",
+  "Plusieurs sites préhistoriques ont été repérés par des prospecteurs archéologiques. À la Chauvinière, un éperon formé par la confluence de la Sèvre Niortaise et d'une vallée sèche a été barré par un fossé creusé au Néolithique récent ou final. Ce site a été découvert par les prospections aériennes réalisées par Maurice Marsac (1990 Inventaire archéologique par photographie aérienne des abords du Golfe des Pictons, […]",
+  "1854 : En octobre 1854, le temple était achevé.",
+  "Lieu « Église Saint-Pierre de Chauray » : L'église Saint-Pierre est une église catholique située à Chauray, en France.",
+  "Lieu « Église Saint-Pierre de Chauray », 1991 : L'édifice est inscrit au titre des monuments historiques en 1991."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
