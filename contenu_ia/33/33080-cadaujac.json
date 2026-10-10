@@ -1,0 +1,225 @@
+{
+ "commune": {
+  "titre": "Cadaujac",
+  "code_insee": "33080",
+  "departement": "33",
+  "population": 6909,
+  "lat": 44.755739,
+  "lon": -0.529644,
+  "url": "https://fr.wikipedia.org/wiki/Cadaujac"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:37:23",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2132,
+  "sortie": 1738
+ },
+ "cout_usd": 0.002599,
+ "accroche": "À Cadaujac, un cimetière à incinération du IIe siècle a été découvert en 1884 au lieu-dit « Paté », révélant une occupation gallo-romaine. ",
+ "histoire": {
+  "recit": "Cadaujac, au sud-ouest de la Gironde, tient son nom d’un ancien mode d’occupation, celui qu’évoque le toponyme en -ac. Au lieu-dit « Paté », la vie semble s’être concentrée : on y a mis au jour des vestiges et, surtout, un cimetière à incinération du IIe siècle, découvert en 1884, avec des urnes funéraires.\n\nPlus tard, la commune s’ancre dans le temps du christianisme : une première église est bâtie au Xe siècle, sur l’emplacement de l’actuelle église Saint-Pierre. À partir de l’époque moderne, les châteaux dessinent la carte locale : celui de La Grâce est élevé à la fin du XVIIe siècle, puis la Pontrique est édifiée en 1768.\n\nAu XIXe siècle, l’élan continue avec la construction du Château Bardins et de nouveaux bâtiments publics, avant que le château Malleret, édifié en 1860, ne reçoive des visites répétées de Napoléon III. Enfin, les ensembles religieux et les grands domaines continuent d’écrire le paysage de Cadaujac, jusqu’aux châteaux aujourd’hui reconnus comme monuments ou domaines viticoles.",
+  "chronologie": [
+   {
+    "date": "IIe siècle",
+    "texte": "Découverte d’un cimetière à incinération, avec urnes funéraires, au lieu-dit « Paté », témoignant d’une occupation gallo-romaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1884",
+    "texte": "Mise au jour du cimetière à incinération du IIe siècle au lieu-dit « Paté ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIIIe ou IXe siècle",
+    "texte": "Cadaujac serait probablement évangélisée.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Xe siècle",
+    "texte": "Construction d’une première église sur l’emplacement de l’église Saint-Pierre.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "fin du XVIIe siècle",
+    "texte": "Construction du Château de La Grâce.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1768",
+    "texte": "Édification du Château de la Pontrique en 1768.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1691",
+    "texte": "Inauguration de l’église Saint-Pierre par l’archevêque de Bordeaux.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "M. de Saige est guillotiné à Bordeaux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1850",
+    "texte": "Construction du Château Bardins (Bardey).",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "Construction de la nouvelle mairie et des écoles.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "Construction du château Malleret, qui reçoit ensuite des visites répétées de Napoléon III.",
+    "sources": [
+     "S8",
+     "S13"
+    ]
+   },
+   {
+    "date": "1933",
+    "texte": "Construction du Château Plombard, qui devient le château Millefleurs en 1933.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château Malleret (Cadaujac)",
+   "histoire": "De style néoclassique, le château Malleret est construit dans la deuxième moitié du XIXe siècle sur la commune de Cadaujac. En 1860, le bâtiment originel est agrandi et le parc est tracé avec ses aménagements.",
+   "anecdotes": [
+    {
+     "texte": "Le château Malleret, construit en 1860, reçoit la visite de Napoléon III à plusieurs reprises.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "L’allée d’entrée conserve les traces d’un grand portail ancien, avant de s’ouvrir sur le parc qui entoure la demeure.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "On peut y voir aujourd’hui l’allée d’entrée, avec des traces d’un grand portail ancien, ouvrant sur un parc entourant la demeure.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 44.762655,
+   "lon": -0.514004,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Malleret_%28Cadaujac%29"
+  },
+  {
+   "nom": "Église Saint-Pierre de Cadaujac",
+   "histoire": "Église catholique de Cadaujac, l’église Saint-Pierre daterait plus sûrement du XIIe siècle. Elle est inaugurée en 1691 par l’archevêque de Bordeaux. La sacristie est construite derrière l’église en 1874.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’édifice est prolongé d’une travée, les chapiteaux sont restaurés, une tour clocher surmontée d’une flèche de 33 mètres a été érigée, et les vitraux ont été posés.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 44.755739,
+   "lon": -0.529644,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Cadaujac"
+  },
+  {
+   "nom": "Château de Saige",
+   "histoire": "Le château de Saige se trouve au 45 Avenue de Saint-Médard d'Eyrans à Cadaujac. Monument historique, il est propriété communale et entouré d’un parc de 11 hectares. Le château est construit par François-Armand de Saige, avocat général au Parlement de Bordeaux, maire de la ville en 1791.",
+   "anecdotes": [
+    {
+     "texte": "François-Armand de Saige, maire en 1791 et guillotiné en 1793, fait construire le château sur une petite croupe graveleuse dominant les palus de la Garonne.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le château de Saige est un monument historique, propriété communale, entouré d’un parc de 11 hectares.",
+   "sources": [
+    "S20"
+   ],
+   "lat": 44.752707,
+   "lon": -0.529825,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saige"
+  },
+  {
+   "nom": "Château d'Eck",
+   "histoire": "Le château d'Eck est un domaine viticole en AOC Pessac-léognan, situé à Cadaujac en Gironde, en bordure de l’autoroute A62. Les fondations de la bâtisse datent du XIe siècle et le château originel possédait un système de défense.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château d'Eck est aujourd’hui identifié comme domaine viticole en AOC Pessac-léognan, à Cadaujac, en bordure de l’autoroute A62.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 44.7442,
+   "lon": -0.5391,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Eck"
+  }
+ ],
+ "sources": [
+  "Cadaujac est une commune du Sud-Ouest de la France, située dans le département de la Gironde en région Nouvelle-Aquitaine. Ses habitants sont appelés les Cadaujacais et Cadaujacaises.",
+  "La mise au jour de divers vestiges, cimetière, vases et voie romaine, démontre une occupation bien établie à l'époque gallo-romaine, comme le laisse présumer le toponyme en -ac. La vie de Cadaujac semble avoir été concentrée aux environs de l'actuel lieu-dit « Paté » (pastum, pâture). Un cimetière à incinération du IIe siècle, composé d'urnes funéraires, y a été découvert en 1884. Lors du transfert du cimetière de […]",
+  "IXe siècle : Cadaujac a été probablement évangélisée vers le VIIIe ou IXe siècle et une première église fut bâtie au Xe siècle sur l'emplacement de l'actuelle église Saint-Pierre.",
+  "1768 : Le Château de la Pontrique est édifié en 1768 puis le Château de La Grâce à la fin du XVIIe.",
+  "1793 : 1793 : M. de Saige est guillotiné à Bordeaux.",
+  "1850 : 1850 : Le Château Bardins (Bardey) est construit.",
+  "1858 : 1858 : la nouvelle mairie et les écoles sont construites.",
+  "1860 : Le château Malleret, construit en 1860, reçoit la visite de Napoléon III à plusieurs reprises.",
+  "1933 : À cette même époque, le Château Plombard (qui devient château Millefleurs en 1933) est construit avec les pierres de la maison de M. Roulle, à Callot, par l'architecte Granet.",
+  "Lieu « Château Malleret (Cadaujac) » : Le château Malleret, de style néoclassique, a été construit dans la deuxième moitié du XIXe siècle sur la commune de Cadaujac dans le département de la Gironde.",
+  "Lieu « Château Malleret (Cadaujac) », XVIIIe siècle : Le style des parties toujours existantes de ce bâtiment est celui du milieu du XVIIIe siècle.",
+  "Lieu « Château Malleret (Cadaujac) », XIXe siècle : Le château Malleret, de style néoclassique, a été construit dans la deuxième moitié du XIXe siècle sur la commune de Cadaujac dans le département de la Gironde.",
+  "Lieu « Château Malleret (Cadaujac) », 1860 : En 1860, il fait agrandir le bâtiment originel et trace le parc avec ses aménagements.",
+  "Lieu « Château Malleret (Cadaujac) », aujourd'hui : L'allée d'entrée, dans laquelle on voit les traces d'un grand portail ancien et, plus loin, des grilles, ouvre sur un parc qui entoure la demeure.",
+  "Lieu « Église Saint-Pierre de Cadaujac » : L'église Saint-Pierre est une église catholique située dans la commune de Cadaujac, dans le département de la Gironde en France.",
+  "Lieu « Église Saint-Pierre de Cadaujac », XIIe siècle : Il daterait plus certainement du XIIe siècle vu son emplacement au départ de la voûte en cul-de-four construite au XIIe siècle.",
+  "Lieu « Église Saint-Pierre de Cadaujac », 1691 : Elle est inaugurée par l'archevêque de Bordeaux en 1691.",
+  "Lieu « Église Saint-Pierre de Cadaujac », 1874 : La sacristie est construite derrière l'église en 1874.",
+  "Lieu « Église Saint-Pierre de Cadaujac », aujourd'hui : L'édifice est prolongé d'une travée, les chapiteaux sont restaurés, on érige la tour clocher dont la flèche s'élève à 33 mètres, le bénitier en pierre est remplacé par un bénitier en marbre, de nouvelles ouvertures sont pratiquées entre les contreforts et les vitraux sont posés.",
+  "Lieu « Château de Saige » : Le château de Saige, situé 45 Avenue de Saint-Médard d'Eyrans à Cadaujac, est un monument historique, propriété communale, entouré d'un parc d'une superficie de 11 hectares.",
+  "Lieu « Château de Saige », 1791 : François-Armand de Saige, avocat général au Parlement de Bordeaux, maire de la ville en 1791, guillotiné en 1793, fait construire ce château sur une petite croupe graveleuse dominant les palus de la Garonne, probablement sur les plans de l'architecte Victor Louis, au moment où celui-ci construit l’hôtel particulier de Saige, cours du Chapeau Rouge à Bordeaux.",
+  "Lieu « Château de Saige », 1850 : Une aquarelle de Gustave Labat révèle qu’avant 1850 un passage existait entre le corps principal et un reste de bâtisse de forme rectangulaire côté est qui est ensuite démolie pour laisser la place à une rotonde.",
+  "Lieu « Château de Saige », 2000 : Environ 2000 jeunes filles y viennent en villégiature jusqu'en 1966, date à laquelle l'édifice doit être abandonné à cause de sa vétusté.",
+  "Lieu « Château d'Eck » : Le château d'Eck est un domaine viticole, en AOC Pessac-léognan, situé à Cadaujac en Gironde en bordure de l'autoroute A62.",
+  "Lieu « Château d'Eck », XIe siècle : Les fondations de la bâtisse datent du XIe siècle et le château originel possédait un système de défense.",
+  "Lieu « Château d'Eck », 1935 : Le cadastre de 1935 révèle la démolition de bâtiments au Sud, ce qui semble confirmer une période d’années sombres."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 4,
+  "nb_anecdotes": 3
+ }
+}

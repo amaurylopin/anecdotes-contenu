@@ -1,0 +1,179 @@
+{
+ "commune": {
+  "titre": "Gujan-Mestras",
+  "code_insee": "33199",
+  "departement": "33",
+  "population": 22153,
+  "lat": 44.6364,
+  "lon": -1.06666667,
+  "url": "https://fr.wikipedia.org/wiki/Gujan-Mestras"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:04:53",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1574,
+  "sortie": 1042
+ },
+ "cout_usd": 0.001617,
+ "accroche": "À Gujan-Mestras, le canal des Landes relie le lac de Cazaux et le lac de Parentis au bassin d’Arcachon sur 20 km.",
+ "histoire": {
+  "recit": "À Gujan-Mestras, le lien entre l’eau et le travail a longtemps dicté le rythme. À la Révolution, la paroisse Saint-Maurice (ou Saint-Exupère) forme la commune de Gujan. Puis, en 1803, une étude demandée aux municipalités détaille la topographie, l’agriculture, l’industrie et l’état des habitants.\n\nPlus tard, le canal des Landes devient un outil de circulation : en 1840, il sert au transport de marchandises, surtout du fer, pour alimenter des usines et des forges dont l’essor suit l’ouverture à la navigation. À partir de 1857, les communes ensemencent leur territoire en pins, la forêt gagne du terrain et le canal de Cazaux est abandonné.\n\nLe paysage garde pourtant des traces plus inattendues : pendant la Seconde Guerre mondiale, des barrages de palplanches remplacent les écluses pour inonder des terrains et retarder l’avance des troupes.\n\nAujourd’hui, le casino de Gujan-Mestras, au bord du lac de la Magdeleine, ouvre en 2005 après une construction achevée en 2004 mais bloquée par un avis défavorable. Non loin, La Coccinelle prend place comme parc d’attractions et animalier.",
+  "chronologie": [
+   {
+    "date": "Révolution",
+    "texte": "La paroisse Saint-Maurice (ou Saint-Exupère) de Gujan forme la commune de Gujan.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1803",
+    "texte": "Une étude demandée aux municipalités porte sur la topographie, l’agriculture, l’industrie et l’état des habitants.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1840",
+    "texte": "Le canal des Landes permet le transport de marchandises, surtout du fer, pour desservir des usines et des forges.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1857",
+    "texte": "Les communes ensemencent leur territoire en pins ; la forêt se développe et le canal de Cazaux est abandonné.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "Seconde Guerre mondiale",
+    "texte": "Des barrages de palplanches remplacent les écluses afin d’inonder des terrains et retarder l’avancée des troupes ennemies.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "La construction du casino est achevée, mais il ne peut ouvrir car la région compte déjà trop de casinos selon les autorités.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "Le casino ouvre le 23 décembre 2005 après un accord donné fin 2005.",
+    "sources": [
+     "S9",
+     "S10"
+    ]
+   },
+   {
+    "date": "2005",
+    "texte": "Le casino est situé au bord du lac de la Magdeleine.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1985",
+    "texte": "La Coccinelle est créée par Lionel Fricaud-Chagnaud en 1985 sur l’ancien site du parc zoologique de la Hume, fermé en 1978.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "2009",
+    "texte": "La Coccinelle inaugure sa première attraction importante : le Train de la mine.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Canal des Landes",
+   "histoire": "Cours d’eau artificiel de 20 km, il relie le lac de Cazaux et le lac de Parentis au bassin d’Arcachon.",
+   "anecdotes": [
+    {
+     "texte": "Pendant la Seconde Guerre mondiale, les écluses sont remplacées par des barrages de palplanches pour inonder les terrains et ralentir l’avancée des troupes ennemies ; on peut encore les voir aujourd’hui.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S6",
+    "S4",
+    "S5"
+   ],
+   "lat": 44.6471,
+   "lon": -1.1167,
+   "url": "https://fr.wikipedia.org/wiki/Canal_des_Landes"
+  },
+  {
+   "nom": "Casino de Gujan-Mestras",
+   "histoire": "Situé au bord du lac de la Magdeleine, le casino de Gujan-Mestras ouvre en 2005, après un blocage en 2004 lié au nombre de casinos dans la région.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 44.615645,
+   "lon": -1.093815,
+   "url": "https://fr.wikipedia.org/wiki/Casino_de_Gujan-Mestras"
+  },
+  {
+   "nom": "La Coccinelle (Gironde)",
+   "histoire": "Parc d’attractions et animalier à Gujan-Mestras, créé en 1985 sur l’ancien site du parc zoologique de la Hume ; une attraction importante ouvre en 2009 avec le Train de la mine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 44.621193,
+   "lon": -1.105016,
+   "url": "https://fr.wikipedia.org/wiki/La_Coccinelle_%28Gironde%29"
+  }
+ ],
+ "sources": [
+  "Gujan-Mestras [ɡyʒɑ̃ mɛstʁas] est une commune du Sud-Ouest de la France, dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Pour l'état de la commune au XVIIIe siècle, voir l'ouvrage de Jacques Baurein. À la Révolution, la paroisse Saint-Maurice (ou Saint-Exupère) de Gujan forme la commune de Gujan. En 1803, les autres municipalités du département durent envoyer à la préfecture une étude sur la topographie, l’agriculture, l’industrie de sa commune, ainsi que sur l’état des habitants. À ce moment-là, cette étude regroupa deux quartiers […]",
+  "Lieu « Canal des Landes » : Le canal des Landes ou canal de Cazaux ou canal transaquitain est un cours d'eau artificiel de 20 km de longueur, qui relie le lac de Cazaux et le lac de Parentis au bassin d'Arcachon.",
+  "Lieu « Canal des Landes », 1840 : Le canal permit en 1840 le transport de marchandises, essentiellement du fer, pour desservir les usines et les forges, qui prirent leur essor avec cette ouverture à la navigation.",
+  "Lieu « Canal des Landes », 1857 : Les communes ensemencèrent leur territoire en pins à partir de 1857 ; la forêt se développa à la fin du XIXe siècle et le canal de Cazaux fut abandonné.",
+  "Lieu « Canal des Landes », aujourd'hui : Pendant la Seconde Guerre mondiale, les Allemands, qui craignaient une invasion anglaise, remplacèrent les écluses par des barrages de palplanches, visibles encore de nos jours, pour inonder tous les terrains de Gujan, La Teste et Cazaux et ainsi retarder l’avancée des troupes ennemies.",
+  "Lieu « Casino de Gujan-Mestras » : Le casino de Gujan-Mestras, situé au bord du lac de la Magdeleine, à quelques minutes de la forêt et du golf, a ouvert en 2005.",
+  "Lieu « Casino de Gujan-Mestras », 2004 : Si la construction est achevée en 2004, le casino ne peut ouvrir car le ministère de l'Intérieur et de l'Aménagement du territoire ainsi que la commission supérieure des jeux jugeaient qu'il existait déjà trop de casinos dans la région.",
+  "Lieu « Casino de Gujan-Mestras », 2005 : Le casino de Gujan-Mestras, situé au bord du lac de la Magdeleine, à quelques minutes de la forêt et du golf, a ouvert en 2005.",
+  "Lieu « Casino de Gujan-Mestras », 2005 : L'accord donné fin 2005 permet son ouverture le 23 décembre 2005.",
+  "Lieu « La Coccinelle (Gironde) » : Le parc de La Coccinelle est un parc d'attractions et animalier français situé à Gujan-Mestras, en Gironde.",
+  "Lieu « La Coccinelle (Gironde) », 1985 : Le parc est créé par Lionel Fricaud-Chagnaud en 1985, sur l'ancien site du parc zoologique de la Hume, fermé en 1978.",
+  "Lieu « La Coccinelle (Gironde) », 2009 : Le parc inaugure sa première attraction importante en 2009, avec l'ouverture du Train de la mine du constructeur français Soquet."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "commune": {
+  "titre": "Léognan",
+  "code_insee": "33238",
+  "departement": "33",
+  "population": 10670,
+  "lat": 44.7277,
+  "lon": -0.5971,
+  "url": "https://fr.wikipedia.org/wiki/L%C3%A9ognan"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:51:48",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1490,
+  "sortie": 1167
+ },
+ "cout_usd": 0.001757,
+ "accroche": "À Léognan, la chapelle Saint-Martin devient temple en 1789, avec ses dépendances transformées en prison.",
+ "histoire": {
+  "recit": "À Léognan, le temps se mesure autant aux prières qu’aux projets. Au cœur de la commune, l’Église Saint-Martin porte une histoire longue : une première chapelle s’y lève à la fin du XIe siècle, avant de devenir église paroissiale. En 1789, le lieu change de visage : la chapelle est transformée en Temple de la Raison, et ses dépendances servent de prison.\n\nBien plus tard, l’église attire le regard par sa musique : en 1877, un orgue est construit par le facteur Auguste Commaille. Et l’on raconte encore le passage des pèlerins, accueillis jadis par les Hospitaliers de l’ordre de Saint-Jean de Jérusalem, avec un hôpital aujourd’hui disparu.\n\nLéognan a aussi sa cadence aérienne, avec l’Aérodrome de Bordeaux - Léognan - Saucats, ouvert à la circulation aérienne publique par arrêté en 1962.\n\nEnfin, côté domaines, le Château La Louvière, lié à Pessac-Léognan, a connu les Chartreux au XVIIe siècle puis une vente comme bien national à la Révolution ; entre 1791 et 1799, il est reconstruit en style néoclassique par François Lhote.",
+  "chronologie": [
+   {
+    "date": "fin du XIe siècle",
+    "texte": "Une première chapelle est construite à l’emplacement de l’Église Saint-Martin de Léognan.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1789",
+    "texte": "La chapelle devient Temple de la Raison ; ses dépendances sont transformées en prison.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1877",
+    "texte": "Un orgue est construit pour l’église par le facteur d’orgue Auguste Commaille.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le Château La Louvière est la propriété des Chartreux de Bordeaux.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "Révolution",
+    "texte": "Le château La Louvière est vendu comme bien national à la Révolution.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1791-1799",
+    "texte": "Entre 1791 et 1799, l’édifice est reconstruit par l’architecte François Lhote, dans un style néoclassique.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1951",
+    "texte": "La piste de 700 m de l’Aérodrome de Bordeaux - Léognan - Saucats est ouverte à titre privé.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "23 novembre 1962",
+    "texte": "L’aérodrome est ouvert à la circulation aérienne publique par arrêté.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "La création d’une seconde piste, appelée piste blanche, est évoquée à l’emplacement de l’actuelle zone de modèles réduits.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Martin de Léognan",
+   "histoire": "Église catholique située à Léognan, elle s’élève sur une première chapelle construite à la fin du XIe siècle. D’église paroissiale, elle est transformée en Temple de la Raison en 1789, avant d’accueillir un orgue construit par Auguste Commaille en 1877. On y évoque aussi l’accueil des pèlerins par les Hospitaliers de l’ordre de Saint-Jean de Jérusalem, ainsi qu’un hôpital aujourd’hui disparu.",
+   "anecdotes": [
+    {
+     "texte": "En 1789, la chapelle est transformée en Temple de la Raison, et ses dépendances deviennent une prison.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "Les Hospitaliers de l’ordre de Saint-Jean de Jérusalem y accueillaient des pèlerins, dans l’église et un hôpital aujourd’hui disparu.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 44.7282,
+   "lon": -0.600538,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_L%C3%A9ognan"
+  },
+  {
+   "nom": "Aérodrome de Bordeaux - Léognan - Saucats",
+   "histoire": "Aérodrome civil ouvert à la circulation aérienne publique, situé sur les communes de Léognan, Martillac et Saucats, à 15 km au sud de Bordeaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S10",
+    "S11",
+    "S9"
+   ],
+   "lat": 44.69917,
+   "lon": -0.5972,
+   "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Bordeaux_-_L%C3%A9ognan_-_Saucats"
+  },
+  {
+   "nom": "Château La Louvière",
+   "histoire": "Château et domaine viticole de l’appellation Pessac-Léognan situé sur la commune de Léognan. Au XVIIe siècle, il appartient aux Chartreux de Bordeaux, puis il est vendu comme bien national à la Révolution. Entre 1791 et 1799, François Lhote le fait reconstruire dans un style néoclassique.",
+   "anecdotes": [
+    {
+     "texte": "Vendu comme bien national à la Révolution, le château est ensuite reconstruit entre 1791 et 1799 dans un style néoclassique.",
+     "statut": "etabli",
+     "sources": [
+      "S13",
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 44.7375,
+   "lon": -0.57916667,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_La_Louvi%C3%A8re"
+  }
+ ],
+ "sources": [
+  "Léognan est une commune du Sud-Ouest de la France située dans le département de la Gironde, en région Nouvelle-Aquitaine. Ses habitants sont appelés les Léognanais.",
+  "À la Révolution, la paroisse Saint-Martin de Léognan forme la commune de Léognan.",
+  "Lieu « Église Saint-Martin de Léognan » : L'église Saint-Martin est une église catholique située à Léognan, en France.",
+  "Lieu « Église Saint-Martin de Léognan », XIe siècle : Une première chapelle a été construite à la fin du XIe siècle.",
+  "Lieu « Église Saint-Martin de Léognan », 1789 : La chapelle est devenu église paroissiale jusqu'en 1789, quand elle fut transformée en Temple de la Raison, et ses dépendances en prison.",
+  "Lieu « Église Saint-Martin de Léognan », 1877 : L'église possède un orgue construit par le facteur d'orgue Auguste Commaille en 1877.",
+  "Lieu « Église Saint-Martin de Léognan », aujourd'hui : Les Hospitaliers de l'ordre de Saint-Jean de Jérusalem accueillaient les pèlerins dans l'église et dans un hôpital, aujourd'hui disparu.",
+  "Lieu « Aérodrome de Bordeaux - Léognan - Saucats » : L’aérodrome de Bordeaux - Léognan - Saucats (code OACI : LFCS) est un aérodrome civil, ouvert à la circulation aérienne publique (CAP), situé sur les communes de Léognan (95%), Martillac et Saucats à 15 km au sud de Bordeaux, en Gironde (région Nouve",
+  "Lieu « Aérodrome de Bordeaux - Léognan - Saucats », 1951 : En 1951, la piste de 700 m, aplanie et compactée, est ouverte à titre privé.",
+  "Lieu « Aérodrome de Bordeaux - Léognan - Saucats », 1962 : L’aérodrome est ouvert à la circulation aérienne publique par arrêté du 23 novembre 1962.",
+  "Lieu « Aérodrome de Bordeaux - Léognan - Saucats », aujourd'hui : On entreprend alors la création d'une seconde piste baptisée piste blanche aujourd'hui à l'emplacement de l'actuelle piste de modèles réduits.",
+  "Lieu « Château La Louvière » : Le château La Louvière est un château et un domaine viticole de l'appellation Pessac-Léognan, situé sur la commune de Léognan, en Gironde.",
+  "Lieu « Château La Louvière », XVIIe siècle : Après avoir été la propriété des Chartreux de Bordeaux au XVIIe siècle, l'édifice est vendu comme bien national à la Révolution.",
+  "Lieu « Château La Louvière », 1791 : Entre 1791 et 1799, il fait reconstruire l'édifice par l'architecte François Lhote dans un style néoclassique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

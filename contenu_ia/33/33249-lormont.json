@@ -1,0 +1,245 @@
+{
+ "commune": {
+  "titre": "Lormont",
+  "code_insee": "33249",
+  "departement": "33",
+  "population": 25769,
+  "lat": 44.87916667,
+  "lon": -0.52166667,
+  "url": "https://fr.wikipedia.org/wiki/Lormont"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:58:44",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2812,
+  "sortie": 1891
+ },
+ "cout_usd": 0.002926,
+ "accroche": "En août 1818, les chantiers Chaigneau construisent le premier bateau à vapeur commercial français, la « Garonne », à Lormont.",
+ "histoire": {
+  "recit": "Lormont, proche de Bordeaux, a longtemps tenu du carrefour : port de pêche et lieu de transit de personnes et de marchandises. Avant même que le quartier prenne son visage moderne, on y situe l’histoire de ses lieux les plus marquants.\n\nOn raconte qu’en 778, Charlemagne et Roland auraient fondé l’église Saint-Martin. Vers l’an 1000, les ducs d’Aquitaine font bâtir le premier château de Lormont, et Aliénor d’Aquitaine aurait pu y séjourner. Plus tard, l’église connaît une reconstruction et une consécration en 1451.\n\nQuand vient l’ère des grands ouvrages, le pont d’Aquitaine résume les allers-retours des travaux : interrompus en 1914, puis relancés et remplacés par une solution trouvée en 1939, avant la question de son emplacement après 1949.\n\nLormont change encore de rythme dans les années 1960, avec de nouvelles cités et l’ouverture d’infrastructures, tandis que, sur ses hauteurs ou au bord des berges, l’Ermitage Sainte-Catherine et le Château des Lauriers continuent d’écrire le paysage.",
+  "chronologie": [
+   {
+    "date": "778",
+    "texte": "On situe la fondation de l’église Saint-Martin par Charlemagne et Roland.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1000",
+    "texte": "Vers l’an 1000, les ducs d’Aquitaine construisent le premier château de Lormont, où Aliénor d’Aquitaine aurait séjourné.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1451",
+    "texte": "La nef est reconstruite puis consacrée en 1451 par l’archevêque de Bordeaux, Pey Berland.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1818",
+    "texte": "En août 1818, le premier bateau à vapeur commercial français, la « Garonne », est construit par les chantiers Chaigneau.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "En 1914, seuls des pylônes sont construits pour le pont : la guerre interrompt les travaux.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1939",
+    "texte": "En 1939, une solution est trouvée : démolir le pont de pierre et le remplacer par un ouvrage plus large.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "Dans les années 1960, Lormont connaît une grande mutation : cités Carriet et Génicart, et ouverture d’infrastructures scolaires, sportives, culturelles et associatives.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont d'Aquitaine",
+   "histoire": "Le pont d’Aquitaine est un pont suspendu situé sur la rocade de Bordeaux, en Gironde et en Nouvelle-Aquitaine. Les travaux suivent plusieurs étapes : en 1914, la guerre interrompt la construction, puis en 1939 une solution est retenue pour remplacer le pont de pierre. Par la suite, en 1949, l’État et les collectivités discutent d’un nouveau pont, mais l’emplacement reste une difficulté.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 44.879836,
+   "lon": -0.536638,
+   "url": "https://fr.wikipedia.org/wiki/Pont_d%27Aquitaine"
+  },
+  {
+   "nom": "Église Saint-Martin de Lormont",
+   "histoire": "L’église Saint-Martin est une église catholique inscrite aux Monuments historiques en 1925. Le site montre une occupation antique avec des tuiles gallo-romaines ; l’édifice paraît de fondation romane, peut-être au XIIe siècle. La nef actuelle a des éléments retrouvés et le chœur a été façonné dans la reconstruction culminant avec une consécration en 1451.",
+   "anecdotes": [
+    {
+     "texte": "On dit qu’en 778, Charlemagne et Roland auraient fondé l’église Saint-Martin.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    },
+    {
+     "texte": "Dans le cimetière, un sarcophage d’enfant est attribué au XIIe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 44.877519,
+   "lon": -0.531485,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Martin_de_Lormont"
+  },
+  {
+   "nom": "Château des Lauriers",
+   "histoire": "Le château des Lauriers a d’abord reçu, en 1839, une maison de maître avec jardin, dépendances, terres agricoles, prairies et vignobles. Un bâtiment annexe est mis en service dès 1962. À partir de 1978, l’accueil des convalescents se fait dans de nouveaux bâtiments. Aujourd’hui, la propriété de la CPAM abrite le Musée national de l’Assurance maladie.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 44.881843,
+   "lon": -0.520703,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Lauriers"
+  },
+  {
+   "nom": "Ermitage Sainte-Catherine de Lormont",
+   "histoire": "L’ermitage Sainte-Catherine, inscrit aux monuments historiques, est dédié à Sainte Catherine d’Alexandrie, patronne des mariniers et des navigateurs. La première mention dans les archives remonte à 1386. Il jouxte un habitat troglodyte plus ancien : un boyau occupé par des ermites depuis le IXe siècle. Au XVe siècle, la chapelle a été voûtée, puis des restaurations sont attestées en 1670-71. Aujourd’hui, la chapelle est un petit oratoire troglodyte en ruines, à peine visible depuis les berges de la Garonne.",
+   "anecdotes": [
+    {
+     "texte": "Le site est dit voisin d’un boyau occupé par des ermites depuis le IXe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À peine visible depuis les berges de la Garonne, adossée à la « Roque » de Lormont, face à la Garonne.",
+   "sources": [
+    "S25"
+   ],
+   "lat": 44.875552,
+   "lon": -0.535138,
+   "url": "https://fr.wikipedia.org/wiki/Ermitage_Sainte-Catherine_de_Lormont"
+  },
+  {
+   "nom": "Château de Lormont",
+   "histoire": "Le château de Lormont, aussi appelé château des Archevêques ou château du Prince Noir, se trouve à Lormont près de l’autoroute A10 et du pont d’Aquitaine. Un premier château aurait été édifié sur le site vers 1060. Le château est détruit puis reconstruit, notamment en 1626, puis devient propriété nationale en 1789. En 2017, une partie du château est louée à l’école de théâtre française des Cours Florent.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 44.8784,
+   "lon": -0.5297,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Lormont"
+  },
+  {
+   "nom": "Tunnel de la Ramade",
+   "histoire": "Le tunnel de la Ramade est un tunnel ferroviaire de la ligne de Chartres à Bordeaux situé à Lormont en Gironde.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30"
+   ],
+   "lat": 44.86558,
+   "lon": -0.52694,
+   "url": "https://fr.wikipedia.org/wiki/Tunnel_de_la_Ramade"
+  },
+  {
+   "nom": "Gare de Lormont",
+   "histoire": "La gare de Lormont est une ancienne gare ferroviaire de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située dans le vieux Lormont. Le bâtiment voyageurs a été détruit, tandis que les quais subsistent.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 44.877217,
+   "lon": -0.53357,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Lormont"
+  }
+ ],
+ "sources": [
+  "Lormont est une commune du Sud-Ouest de la France, située dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Proche de Bordeaux, Lormont a toujours été un lieu stratégique et une bourgade prospère, port de pêche, lieu de transit de personnes et de marchandises. En 778, Charlemagne et Roland auraient fondé l’église Saint-Martin. Vers l’an 1000, les ducs d’Aquitaine ont construit le premier château de Lormont où Aliénor d'Aquitaine aurait séjourné. La moitié nord de Lormont devint en 1152 une sauveté (zone de refuge autour […]",
+  "1000 : Vers l’an 1000, les ducs d’Aquitaine ont construit le premier château de Lormont où Aliénor d'Aquitaine aurait séjourné.",
+  "1818 : Le premier bateau à vapeur commercial français nommé la « Garonne » est construit en août 1818 par les chantiers Chaigneau.",
+  "1960 : Dans les années 1960, Lormont connaît une grande mutation avec la construction des cités Carriet et Génicart, l’inauguration du pont d'Aquitaine, l’ouverture d’infrastructures scolaires, sportives, culturelles et associatives.",
+  "Lieu « Pont d'Aquitaine » : Le pont d'Aquitaine est un pont suspendu situé sur la rocade de Bordeaux, dans le département de la Gironde et la région Nouvelle-Aquitaine.",
+  "Lieu « Pont d'Aquitaine », 1822 : Le premier pont de la ville de Bordeaux — le pont de pierre —, construit sur ordre de Napoléon, ne fut achevé qu’en 1822.",
+  "Lieu « Pont d'Aquitaine », 1914 : En 1914, seuls les pylônes étaient construits, la guerre interrompit les travaux qui ne furent pas repris ; ce type d’ouvrage était désormais obsolète.",
+  "Lieu « Pont d'Aquitaine », 1939 : On reprit alors les études et, en 1939, la solution fut enfin trouvée : il suffisait de démolir le pont de pierre et de lui substituer un nouveau pont suffisamment large.",
+  "Lieu « Pont d'Aquitaine », aujourd'hui : En 1949, l'État, la ville de Bordeaux, les collectivités intéressées reconnurent qu'il était plus sage de faire un nouveau pont, mais le choix de son emplacement posait une difficulté majeure.",
+  "Lieu « Église Saint-Martin de Lormont » : L'église Saint-Martin, inscrite aux Monuments historiques en 1925, est une église catholique située dans le département français de la Gironde, sur la commune de Lormont.",
+  "Lieu « Église Saint-Martin de Lormont », XIIe siècle : La découverte de tuiles gallo-romaines sur le site de l'église prouve une occupation antique, mais l'édifice semble de fondation romane, peut-être du XIIe siècle.",
+  "Lieu « Église Saint-Martin de Lormont », XIIe siècle : Une partie des fondations de la nef de ce bâtiment ont été retrouvées à l'intérieur (50 cm en retrait) de la nef actuelle et dans le cimetière se trouve un sarcophage d'enfant qui date du XIIe siècle.",
+  "Lieu « Église Saint-Martin de Lormont », 1451 : La nef est reconstruite puis consacrée en 1451 (année particulière pour les Bordelais) par l'archevêque de Bordeaux, Pey Berland, mais l'ensemble du décor architectural de la nef et du chœur incite à dater l'achèvement de la construction à la fin du XVe siècle.",
+  "Lieu « Église Saint-Martin de Lormont », aujourd'hui : Au-dessus de ce portail se trouvait un grand oculus, visible sur le dessin de Piganeau, sur la photographie de Jean-Auguste Brutails et, à l'intérieur de l'église sur le mur occidental de la tribune.",
+  "Lieu « Château des Lauriers » : Le château des Lauriers est un château situé sur la commune de Lormont, dans le département de la Gironde.",
+  "Lieu « Château des Lauriers », 1839 : Ainsi, en 1839, celui-ci hérite une maison de maître avec jardin, dépendances et autres bâtiments et surtout de terres agricoles, prairies et vignobles.",
+  "Lieu « Château des Lauriers », 1962 : Un nouveau bâtiment annexe est construit sur le domaine et mis en service dès 1962.",
+  "Lieu « Château des Lauriers », 1978 : L'accueil des convalescents se fera désormais dans les nouveaux bâtiments de la maison de convalescence des Lauriers, réalisés par un architecte spécialisé dans la construction hospitalière, et ouverts dès 1978.",
+  "Lieu « Château des Lauriers », aujourd'hui : Propriété de la CPAM, il héberge aujourd'hui le Musée national de l'Assurance maladie, unique musée de France consacré à l'histoire de la solidarité et du mutualisme.",
+  "Lieu « Ermitage Sainte-Catherine de Lormont » : L'ermitage Sainte-Catherine, inscrit aux monuments historiques, est situé sur la commune de Lormont, dans le département de la Gironde, en France.",
+  "Lieu « Ermitage Sainte-Catherine de Lormont », 1386 : Dédié à Sainte Catherine d’Alexandrie, patronne des mariniers et des navigateurs, la première mention de cet ermitage dans les archives remonte à 1386, mais il jouxte un habitat troglodyte encore plus ancien, un boyau occupé par des ermites depuis le IXe siècle.",
+  "Lieu « Ermitage Sainte-Catherine de Lormont », XVe siècle : Il était réaménagé au XVe siècle par la construction de la voûte de la chapelle et celle d'autres bâtiments actuellement détruits dont quelques pans de murs demeurent, accrochés au rocher.",
+  "Lieu « Ermitage Sainte-Catherine de Lormont », 1670 : Après un certain délais, la restauration était faite en 1670-71, selon les plans de l'architecte bordelais Dupuy : La maison des ermites était jointe à la chapelle et ne faisait avec elle qu’un seul bâtiment…",
+  "Lieu « Ermitage Sainte-Catherine de Lormont », aujourd'hui : À peine visible depuis les berges de la Garonne, adossée à la \"Roque\" de Lormont, face à la Garonne, la chapelle de l'ermitage Sainte-Catherine est un petit oratoire troglodyte en ruines.",
+  "Lieu « Château de Lormont » : Le château de Lormont ou château des Archevêques dit château du Prince Noir est situé à Lormont, dans le département français de la Gironde, en limite de l'autoroute A10 et du pont d'Aquitaine.",
+  "Lieu « Château de Lormont », 1027 : Guillaume VIII (1027-1086), comte de Poitiers et duc d'Aquitaine de 1058 à 1086 édifia sur le site un premier château vers 1060.",
+  "Lieu « Château de Lormont », 1626 : Après avoir été successivement détruit puis reconstruit, notamment en 1626 par l'architecte Henri Roche (surintendant des œuvres publiques de la ville de Bordeaux) pour le cardinal François d'Escoubleau de Sourdis puis pour son frère Henri d'Escoubleau de Sourdis, ce château devint propriété nationale en 1789.",
+  "Lieu « Château de Lormont », 2017 : En 2017, à la suite du déménagement des bureaux de Norbert Fradin propriétaire des lieux, 600 m2 du château sont loués à l'école de théâtre française des Cours Florent, qui ouvre une antenne sur la région de Bordeaux, sous la direction de Christophe Lorcat, à son ouverture, puis de Julien Delbès depuis 2022.",
+  "Lieu « Tunnel de la Ramade » : Le tunnel de la Ramade est un tunnel ferroviaire de la Ligne de Chartres à Bordeaux situé à Lormont en Gironde.",
+  "Lieu « Tunnel de la Ramade », 1896 : L'actuelle gare Saint-Jean était en effet le terme de la ligne, la gare de l'État n'ayant été construite qu'en 1896.",
+  "Lieu « Gare de Lormont » : La gare de Lormont est une ancienne gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située dans le vieux Lormont, sur le territoire de la commune de Lormont, dans le département de la Gironde, en région Nouvelle-Aqui",
+  "Lieu « Gare de Lormont », aujourd'hui : Le bâtiment voyageurs a été détruit, tandis que les quais subsistent."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 7,
+  "nb_anecdotes": 3
+ }
+}

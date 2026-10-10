@@ -1,0 +1,112 @@
+{
+ "commune": {
+  "titre": "Bruges (Gironde)",
+  "code_insee": "33075",
+  "departement": "33",
+  "population": 20020,
+  "lat": 44.88361111,
+  "lon": -0.61138889,
+  "url": "https://fr.wikipedia.org/wiki/Bruges_%28Gironde%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:11:21",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1145,
+  "sortie": 566
+ },
+ "cout_usd": 0.000937,
+ "accroche": "À Bruges, la demande d’évolution vers une station à la gare aboutit à un nouveau vœu lors du Conseil général du 30 août 1878.",
+ "histoire": {
+  "recit": "Bruges, commune du Sud-Ouest de la France, s’étend en Gironde, en région Nouvelle-Aquitaine, et s’organise autour de deux repères : la Gare de Bruges (Gironde) et l’église Saint-Pierre. Autour, les marais gardent une vie discrète : la Réserve naturelle nationale des marais de Bruges protège des vestiges de bras de rivières ancestrales et des plans d’eau où prospèrent plusieurs plantes aquatiques.",
+  "chronologie": [
+   {
+    "date": "30 août 1878",
+    "texte": "Lors de la séance du Conseil général, il est rappelé que la demande d’évolution vers une station n’a pas encore reçu de réponse, et un nouveau vœu est émis pour l’ouverture d’une station.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Bruges (Gironde)",
+   "histoire": "La gare de Bruges est une gare ferroviaire de la ligne de Ravezies à Pointe-de-Grave (ligne du Médoc), située sur le territoire de la commune de Bruges, en Gironde, en Nouvelle-Aquitaine.",
+   "anecdotes": [
+    {
+     "texte": "En 1878, au Conseil général, on reparle d’une demande d’évolution vers une station restée sans réponse, et l’on émet un nouveau vœu pour l’ouverture.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S3"
+   ],
+   "lat": 44.886616,
+   "lon": -0.609242,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bruges_%28Gironde%29"
+  },
+  {
+   "nom": "Église Saint-Pierre de Bruges",
+   "histoire": "L’église Saint-Pierre est une église catholique située à Bruges.",
+   "anecdotes": [
+    {
+     "texte": "On dit que l’église aurait été construite au XIIIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 44.8838,
+   "lon": -0.611917,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Bruges"
+  },
+  {
+   "nom": "Réserve naturelle nationale des marais de Bruges",
+   "histoire": "La Réserve naturelle nationale des marais de Bruges (RNN64) est une réserve naturelle nationale en Gironde.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Dans la réserve, on trouve des vestiges anciens de bras de rivières et des plans d’eau où prospèrent la Jussie, la Myriophylle du Brésil, le Potamot et les Lentilles d’eau.",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 44.90252937,
+   "lon": -0.59489868,
+   "url": "https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_nationale_des_marais_de_Bruges"
+  }
+ ],
+ "sources": [
+  "Bruges est une commune du Sud-Ouest de la France, située dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Bruges (Gironde) » : La gare de Bruges est une gare ferroviaire française de la ligne de Ravezies à Pointe-de-Grave (dite aussi ligne du Médoc), située sur le territoire de la commune de Bruges, dans le département de la Gironde en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Bruges (Gironde) », 1878 : Dans la séance du Conseil général le 30 août 1878, il est rappelé que la demande d'évolution vers une station n'a toujours pas de réponse, un nouveau vœu est émis pour l'ouverture d'une station.",
+  "Lieu « Église Saint-Pierre de Bruges » : L'église Saint-Pierre est une église catholique située à Bruges, en France.",
+  "Lieu « Église Saint-Pierre de Bruges », XIIIe siècle : L'église aurait été construite au XIIIe siècle.",
+  "Lieu « Réserve naturelle nationale des marais de Bruges » : La réserve naturelle nationale des marais de Bruges (RNN64), est une réserve naturelle nationale de Gironde.",
+  "Lieu « Réserve naturelle nationale des marais de Bruges », aujourd'hui : Ce sont les vestiges anciens des bras de rivières ancestrales et les plans d'eau dans lesquels prospèrent la Jussie, la Myriophylle du Brésil, le Potamot et les Lentilles d'eau."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

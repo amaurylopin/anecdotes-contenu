@@ -1,0 +1,75 @@
+{
+ "commune": {
+  "titre": "Saint-Aubin-de-Médoc",
+  "code_insee": "33376",
+  "departement": "33",
+  "population": 7769,
+  "lat": 44.91305556,
+  "lon": -0.72416667,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Aubin-de-M%C3%A9doc"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:23:16",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 992,
+  "sortie": 461
+ },
+ "cout_usd": 0.000775,
+ "accroche": "En 1860, la commune fait construire la mairie, puis le cimetière est transféré jusqu’en 1861.",
+ "histoire": {
+  "recit": "Saint-Aubin-de-Médoc, en Gironde, a longtemps vécu au rythme d’un paysage de lande pastorale, avant l’essor des vignes. Avant la Révolution, des coteaux étaient exploités par le seigneur du château la Salle (devenu Villepreux), par des serfs liés au domaine de Cujac, propriété du chapitre de Saint-André de Bordeaux, et aussi par des religieuses du château Hautegrave, avant que d’autres acteurs, dont des armateurs bordelais, ne prennent la suite.\n\nAu XIXe siècle, les habitants lancent des travaux structurants : la mairie sort de terre en 1860. Le cimetière, qui entourait l’église, est déplacé jusqu’en 1861. L’école à deux classes est construite en 1878. Enfin, l’église, affaiblie depuis la Révolution, est restaurée : le clocher est reconstruit en 1889.",
+  "chronologie": [
+   {
+    "date": "1860",
+    "texte": "Construction de la mairie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "jusqu’en 1861",
+    "texte": "Transfert du cimetière qui entourait l’église.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "Construction de l’école à deux classes.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1889",
+    "texte": "Reconstruction du clocher et restauration de l’église dégradée depuis la Révolution.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Saint-Aubin-de-Médoc est une commune du Sud-Ouest de la France, située dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Avant la Révolution, Saint-Aubin en Jales était une vaste lande à vocation pastorale, parsemée de quelques bouquets d’arbres. Des vignobles étaient exploités par le seigneur du château la Salle devenu Villepreux, par les serfs questaux du domaine de Cujac, propriété du chapitre de Saint-André de Bordeaux, par des religieuses du château Hautegrave, auxquelles ont succédé des armateurs Bordelais, et par des […]",
+  "1860 : Les bâtisseurs du siècle dernier ont construit la mairie en 1860, transféré le cimetière qui entourait l’église jusqu’en 1861, construit l’école à deux classes en 1878, restauré l’église qui s'était dégradée depuis la Révolution, avec la reconstruction du clocher en 1889."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "commune": {
+  "titre": "Saint-Loubès",
+  "code_insee": "33433",
+  "departement": "33",
+  "population": 10027,
+  "lat": 44.9181,
+  "lon": -0.42694444,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Loub%C3%A8s"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:58:07",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1259,
+  "sortie": 766
+ },
+ "cout_usd": 0.001209,
+ "accroche": "À Saint-Loubès, la chapelle Saint-Loup, aujourd’hui visible, est une chapelle romane datée du XIIe siècle sur la commune de la Gironde.",
+ "histoire": {
+  "recit": "Saint-Loubès, commune du Sud-Ouest de la France, se tient dans la Gironde, en région Nouvelle-Aquitaine. Parmi ses repères, la chapelle Saint-Loup évoque un lieu de prieuré lié aux moines de La Sauve-Majeure : la chapelle du prieuré est le seul témoin d’un établissement bénédictin fondé à la fin du XIe siècle. On lit aussi, dans le mode de construction de la chapelle, l’idée que des éléments pourraient provenir d’un édifice plus ancien, antérieur à 1097.\n\nLe temps a ensuite remodelé le bâtiment : la chapelle actuelle est édifiée vers le milieu du XIIIe siècle, sous l’autorité de Bertrand de Saint-Loubès, abbé de La Sauve-Majeure. Encore aujourd’hui, l’église du prieuré reste le plus ancien bâtiment de la commune et l’un des deux derniers vestiges de prieurés debout dans la région.\n\nPlus au quotidien, la Gare de Saint-Loubès s’inscrit sur la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, sur le territoire de la commune.",
+  "chronologie": [
+   {
+    "date": "fin du XIe siècle",
+    "texte": "La chapelle du prieuré de Saint-Loubès devient le seul témoin d’un établissement bénédictin fondé par les moines de l’Abbaye de La Sauve-Majeure.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1097",
+    "texte": "Le système de construction en petits moellons cubiques laisse penser à une datation antérieure, peut-être carolingienne, au regard de 1097.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "milieu du XIIIe siècle",
+    "texte": "La chapelle actuelle est édifiée sous l’autorité de Bertrand de Saint-Loubès, abbé de La Sauve-Majeure.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "aujourd'hui",
+    "texte": "L’église du prieuré demeure le plus ancien bâtiment de la commune et figure parmi les derniers vestiges de prieurés encore debout dans la région.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Chapelle Saint-Loup de Saint-Loubès",
+   "histoire": "Chapelle romane du XIIe siècle située sur la commune de Saint-Loubès, elle correspond à l’église du prieuré et reste le plus ancien bâtiment de la commune.",
+   "anecdotes": [
+    {
+     "texte": "Le chantier aurait réutilisé des éléments d’un édifice plus ancien : la construction en petits moellons cubiques, probablement de récupération, conduit à envisager une datation antérieure à 1097, voire carolingienne.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Église du prieuré, aujourd’hui visible, considéré comme le plus ancien bâtiment de la commune.",
+   "sources": [
+    "S2",
+    "S6"
+   ],
+   "lat": 44.917754,
+   "lon": -0.427869,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Loup_de_Saint-Loub%C3%A8s"
+  },
+  {
+   "nom": "Gare de Saint-Loubès",
+   "histoire": "Gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de Saint-Loubès.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est séparée de la gare aujourd’hui fermée de La Grave-d'Ambarès (Gare supérieure).",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 44.922396,
+   "lon": -0.433028,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Loub%C3%A8s"
+  }
+ ],
+ "sources": [
+  "Saint-Loubès [sɛ̃ lubɛs] est une commune du Sud-Ouest de la France située dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Lieu « Chapelle Saint-Loup de Saint-Loubès » : La chapelle Saint-Loup est une chapelle romane du XIIe siècle située sur la commune de Saint-Loubès, dans le département de la Gironde, en France.",
+  "Lieu « Chapelle Saint-Loup de Saint-Loubès », XIe siècle : La chapelle du prieuré de Saint-Loubès est le seul témoin d'un établissement bénédictin fondé par les moines de l'Abbaye de La Sauve-Majeure à la fin du XIe siècle.",
+  "Lieu « Chapelle Saint-Loup de Saint-Loubès », 1097 : Le système de construction, en petits moellons cubiques, probablement de récupération d'un édifice précédent, permet d'envisager une datation antérieure à 1097, peut-être carolingienne.",
+  "Lieu « Chapelle Saint-Loup de Saint-Loubès », XIIIe siècle : La chapelle actuelle était édifiée vers le milieu du XIIIe siècle, sous l’autorité de Bertrand de Saint-Loubès, abbé de La Sauve-Majeure.",
+  "Lieu « Chapelle Saint-Loup de Saint-Loubès », aujourd'hui : L'église du prieuré est le plus ancien bâtiment de la commune et l'un des deux derniers vestiges de prieurés qui restent encore debout dans la région, sur les 76 que créa l'abbaye de la Sauve.",
+  "Lieu « Gare de Saint-Loubès » : La gare de Saint-Loubès est une gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Saint-Loubès, dans le département de la Gironde), en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Saint-Loubès », aujourd'hui : Elle est séparée de cette dernière par la gare aujourd'hui fermée de La Grave-d'Ambarès (Gare supérieure)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "commune": {
+  "titre": "Bassens (Gironde)",
+  "code_insee": "33032",
+  "departement": "33",
+  "population": 8435,
+  "lat": 44.9015,
+  "lon": -0.5163,
+  "url": "https://fr.wikipedia.org/wiki/Bassens_%28Gironde%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:14:53",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1450,
+  "sortie": 944
+ },
+ "cout_usd": 0.00147,
+ "accroche": "À Bassens, le terminal de Bassens constitue l’une des composantes du port de Bordeaux, au bord de la Garonne.",
+ "histoire": {
+  "recit": "À Bassens, on trouve très tôt des traces de vie, rassemblées autour de l’église et le long de la Garonne. On y situe aussi l’ancienne voie romaine vers Blaye, le « chemin de la Vie », qui traversait les marais.\n\nPlus tard, au temps du port, la commune prend une autre allure : entre 1925 et 1930, des quais en maçonnerie sont édifiés pour accueillir des entrepôts de produits pétroliers et des hangars destinés aux bois coloniaux.\n\nEn avançant vers les demeures, on rencontre le Château de Beauval, dont l’histoire passe par plusieurs reconstructions. Non loin, le Château Morin garde la trace d’un incendie survenu en 2001. Enfin, le Château Pomerol a vu naître un château plus récent au XIXe siècle, sur l’emplacement d’un ancien domaine.\n\nEt pour relier Bassens au reste du territoire, la Gare de Bassens occupe une place claire sur la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, séparée de Cenon par la gare de Lormont aujourd’hui fermée.",
+  "chronologie": [
+   {
+    "date": "1925-1930",
+    "texte": "Des quais en maçonnerie sont édifiés, avec des entrepôts pour les produits pétroliers et des hangars pour les bois coloniaux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Le Château de Beauval aurait été construit au XVe siècle par le fils de Jean de Beauval.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1725",
+    "texte": "Le Château de Beauval passe à la famille de Conilhy, qui le reconstruit à partir de 1725.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "Le Château Morin est partiellement détruit par un incendie ; la chapelle y est décrite avec une abside semi-circulaire.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "2001",
+    "texte": "Le domaine du Château des Griffons est restauré : il abrite alors le pôle associatif de Bassens.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Le Château Pomerol : le château actuel est construit au XIXe siècle par le négociant bordelais Jean Maurel, à l’emplacement d’un domaine datant du XVIe siècle.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de Beauval",
+   "histoire": "",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 44.911805577417,
+   "lon": -0.50532766233233,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beauval"
+  },
+  {
+   "nom": "Château Morin",
+   "histoire": "Le Château Morin est un château situé sur la commune de Bassens. En 2001, il est partiellement détruit par un incendie.",
+   "anecdotes": [
+    {
+     "texte": "Le château est marqué par un incendie qui, en 2001, le laisse partiellement détruit.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 44.917607,
+   "lon": -0.516135,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Morin"
+  },
+  {
+   "nom": "Château Pomerol",
+   "histoire": "Le Château Pomerol est un château sur la commune de Bassens. Le château actuel date du XIXe siècle et s’élève à l’emplacement d’un ancien domaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 44.891368296047,
+   "lon": -0.51763964717327,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Pomerol"
+  },
+  {
+   "nom": "Gare de Bassens",
+   "histoire": "La Gare de Bassens est une gare ferroviaire de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Bassens.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 44.901281,
+   "lon": -0.52246,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Bassens"
+  },
+  {
+   "nom": "Château des Griffons",
+   "histoire": "La maison de maître dite Château des Griffons se trouve à Bassens. En 2001, le domaine est restauré et accueille un pôle associatif.",
+   "anecdotes": [
+    {
+     "texte": "Après sa restauration en 2001, le domaine abrite le pôle associatif de Bassens.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "lat": 44.890452720628,
+   "lon": -0.51800232326242,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Griffons"
+  }
+ ],
+ "sources": [
+  "Bassens (prononcé [basɛ̃s]) est une commune du Sud-Ouest de la France, située dans le département de la Gironde en région Nouvelle-Aquitaine. On y trouve l'une des composantes du port de Bordeaux, le terminal de Bassens.",
+  "Les premiers habitats, préhistoriques et gallo-romains, se concentrent autour de l'église et le long de la Garonne. L'ancienne voie romaine vers Blaye, le \"chemin de la Vie\" traversait les marais, d'après l'érudit F. Jouannet. Léo Drouyn en a donné des coupes et des plans. Une nécropole mérovingienne a été redécouverte sur le site de l'église Saint-Pierre. Bassens subit l'influence économique de la ville de Bordeaux […]",
+  "1925 : Des quais en maçonnerie sont édifiés entre 1925 et 1930 : des entrepôts pour les produits pétroliers et des hangars pour les bois coloniaux y sont construits.",
+  "Lieu « Château de Beauval » : Le château de Beauval est un château situé sur la commune de Bassens, en Gironde.",
+  "Lieu « Château de Beauval », XVe siècle : Le château de Beauval aurait été construit au XVe siècle par le fils de Jean de Beauval.",
+  "Lieu « Château de Beauval », 1725 : Il passa à la famille de Conilhy, qui le reconstruit à partir de 1725.",
+  "Lieu « Château Morin » : Le château Morin est un château situé sur la commune de Bassens, dans le département de la Gironde.",
+  "Lieu « Château Morin », 2001 : Il est partiellement détruit par un incendie en 2001 ; chapelle à abside semi-circulaire.",
+  "Lieu « Château Pomerol » : Le château Pomerol est un château situé sur la commune de Bassens, en Gironde.",
+  "Lieu « Château Pomerol », XIXe siècle : Le château actuel fut construit au XIXe siècle par le négociant bordelais Jean Maurel à l'emplacement d'un ancien domaine datant du XVIe siècle.",
+  "Lieu « Gare de Bassens » : La gare de Bassens est une gare ferroviaire française de la ligne de Paris-Austerlitz à Bordeaux-Saint-Jean, située sur le territoire de la commune de Bassens, dans le département de la Gironde, en région Nouvelle-Aquitaine.",
+  "Lieu « Gare de Bassens », aujourd'hui : Elle est séparée de Cenon par la gare aujourd'hui fermée de Lormont.",
+  "Lieu « Château des Griffons » : La maison de maître dite château des Griffons est située sur la commune de Bassens, en Gironde.",
+  "Lieu « Château des Griffons », aujourd'hui : Le domaine est restauré en 2001 : il abrite actuellement le pôle associatif de Bassens."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}

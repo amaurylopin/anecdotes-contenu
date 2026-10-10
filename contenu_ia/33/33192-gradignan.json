@@ -1,0 +1,201 @@
+{
+ "commune": {
+  "titre": "Gradignan",
+  "code_insee": "33192",
+  "departement": "33",
+  "population": 26952,
+  "lat": 44.7725,
+  "lon": -0.61555556,
+  "url": "https://fr.wikipedia.org/wiki/Gradignan"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:55:22",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1912,
+  "sortie": 1238
+ },
+ "cout_usd": 0.00193,
+ "accroche": "En 1152, le château d’Ornon, dit Le Castéra, situé sur la paroisse de Gradignan, semble avoir servi de chef-lieu à la comtau d’Ornon. ",
+ "histoire": {
+  "recit": "À Gradignan, la notoriété médiévale se lit encore dans des traces matérielles : le prieuré de Cayac, les vestiges du Castéra et la motte Saint-Albe rappellent qu’ici, des territoires s’organisaient autour de lieux forts.\n\nLe château d’Ornon, dit Le Castéra, est ravagé en 1405 par le comte d’Armagnac. Plus tard, l’histoire continue à se réécrire autrement : au sein de la commune, une prison prend place en 1967, la maison d’arrêt ouvrant avec une capacité d’environ 400 détenus.\n\nEnfin, plusieurs sites structurent la vie et la mémoire des lieux : au prieuré de Cayac, l’hôpital primitif devient prieuré au début du XIVe siècle, puis des constructions chartreuses s’y installent au XVIIe ; au château de Laurenzane, l’édifice est restauré après un incendie et accueille aujourd’hui les services de la mairie ; et le jardin de Pierral propose un parcours inspiré du Moyen Âge. ",
+  "chronologie": [
+   {
+    "date": "1152",
+    "texte": "Par le mariage, le roi d’Angleterre devient duc d’Aquitaine ; le château d’Ornon, dit Le Castéra, situé sur la paroisse de Gradignan, est présenté comme chef-lieu de la comtau d’Ornon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1405",
+    "texte": "Le château d’Ornon est ravagé en 1405 par le comte d’Armagnac, vassal du roi de France.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1304",
+    "texte": "Le site d’origine hospitalier du prieuré de Cayac est transformé en prieuré en 1304.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1229",
+    "texte": "L’hôpital primitif de Cayac est daté de 1229 avant sa transformation en prieuré en 1304.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Le prieuré de Cayac est reconstruit par les Chartreux au XVIIe siècle sur l’emplacement de l’hôpital primitif.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1967",
+    "texte": "Une maison d’arrêt pouvant accueillir environ 400 détenus est construite sur le territoire communal.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1967",
+    "texte": "Le centre pénitentiaire de Bordeaux-Gradignan (maison d’arrêt de Gradignan) est ouvert en 1967 avec une conception de maison d’arrêt pour hommes, femmes et mineurs, et une capacité de 407 places.",
+    "sources": [
+     "S16",
+     "S17"
+    ]
+   },
+   {
+    "date": "1967",
+    "texte": "Le centre pénitentiaire de Bordeaux-Gradignan est construit sur un terrain de six hectares.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Prieuré de Cayac",
+   "histoire": "Sur le site de Cayac, un hôpital fondé en 1229 est transformé en prieuré en 1304 ; avec le temps et de nombreux dons, il prend l’allure d’une propriété foncière travaillée par des serfs. Au XVIIe siècle, les Chartreux construisent sur l’emplacement du premier hôpital, et des restes sont inscrits aux monuments historiques en 1937.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 44.765,
+   "lon": -0.619444,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_Cayac"
+  },
+  {
+   "nom": "Château de Laurenzane",
+   "histoire": "Construit au XVIIIe siècle, le château de Laurenzane est acquis en 1752 par M. de Pourcin. Après une division du domaine en 1979, l’ensemble est voué à la démolition ; ravagé par un incendie en 1986, il est ensuite restauré et abrite aujourd’hui les services de la mairie. Une serre y propose des expositions temporaires.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La serre propose des expositions temporaires.",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 44.7724547,
+   "lon": -0.6083188,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Laurenzane"
+  },
+  {
+   "nom": "Centre pénitentiaire de Bordeaux-Gradignan",
+   "histoire": "Également appelé maison d’arrêt de Gradignan, l’établissement est ouvert en 1967 : il comprend une maison d’arrêt pour hommes, femmes et mineurs, ainsi qu’une structure d’accompagnement vers la sortie. Construit en 1967 sur un terrain de six hectares, il est conçu pour une capacité de 407 places.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 44.782969264395,
+   "lon": -0.59716134602595,
+   "url": "https://fr.wikipedia.org/wiki/Centre_p%C3%A9nitentiaire_de_Bordeaux-Gradignan"
+  },
+  {
+   "nom": "Jardin de Pierral",
+   "histoire": "Le jardin médiéval de Pierral est un jardin d’inspiration médiévale situé à Gradignan. En 2011, un parcours arboré ouvre, avec la découverte de la cabane de la fée.",
+   "anecdotes": [
+    {
+     "texte": "Le parcours arboré ouvert en 2011 invite à découvrir la cabane de la fée.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un parcours arboré avec découverte de la cabane de la fée.",
+   "sources": [
+    "S19",
+    "S20"
+   ],
+   "lat": 44.78566,
+   "lon": -0.609449,
+   "url": "https://fr.wikipedia.org/wiki/Jardin_de_Pierral"
+  },
+  {
+   "nom": "Château de Tauzia",
+   "histoire": "Entre 1940 et 1944, Tauzia est occupé par les armées allemandes et italiennes. En 1944, les F.F.I. investissent le château.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 44.761339,
+   "lon": -0.616838,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Tauzia"
+  }
+ ],
+ "sources": [
+  "Gradignan, Gradinhan en gascon (prononcé [ɡʁadiɲɑ̃] ), est une commune du Sud-Ouest de la France, située dans le département de la Gironde en région Nouvelle-Aquitaine.",
+  "Au Moyen Âge, la cité a connu une certaine notoriété, dont témoignent encore le prieuré de Cayac, les vestiges du Castéra et de la motte Saint-Albe. En 1152, quand le roi d'Angleterre devint, par son mariage, duc d'Aquitaine, le château d'Ornon, dit Le Castéra, situé sur la paroisse de Gradignan, était, semble-t-il, le chef-lieu de la comtau d'Ornon, vaste territoire situé au sud de la Garonne. La comtau d'Ornon […]",
+  "1405 : Le château d'Ornon fut ravagé en 1405 par le comte d'Armagnac, vassal du roi de France.",
+  "1967 : En 1967, est construite, sur le territoire communal, une maison d'arrêt pouvant accueillir environ 400 détenus.",
+  "Lieu « Prieuré de Cayac » : L'hôpital-prieuré Notre-Dame de Cayac se situe dans la commune de Gradignan, dans le département français de la Gironde.",
+  "Lieu « Prieuré de Cayac », 1304 : En 1304, l'hôpital construit en 1229 est « transformé » en prieuré qui, au fil du temps et des nombreux dons, prend l'allure d'une importante propriété foncière travaillée par des serfs.",
+  "Lieu « Prieuré de Cayac », XVIIe siècle : Il est construit par les Chartreux au XVIIe siècle sur l'emplacement de l'hôpital primitif.",
+  "Lieu « Prieuré de Cayac », 1937 : Les restes du prieuré sont inscrits aux monuments historiques le 17 septembre 1937, l'ensemble formé par l'église prieurale et le bâtiment accolé au bas-côté sud sont inscrits le 22 décembre 1987.",
+  "Lieu « Prieuré de Cayac », aujourd'hui : En 1785, l'abbé Baurein décrit les vestiges encore visibles dans l'article XII du tome IV des Variétés bordeloises.",
+  "Lieu « Château de Laurenzane » : Le château de Laurenzane est un château situé sur la commune de Gradignan, dans le département de la Gironde.",
+  "Lieu « Château de Laurenzane », 1752 : Construit au XVIIIe siècle, M. de Pourcin l'acquiert du marquis de Sallegourde en 1752.",
+  "Lieu « Château de Laurenzane », 1979 : À la suite de la division du domaine en 1979, elle est vouée à la démolition.",
+  "Lieu « Château de Laurenzane », 1986 : Ravagé par un incendie en 1986, le château de Laurenzane a été restauré et abrite aujourd'hui les services de la mairie.",
+  "Lieu « Château de Laurenzane », aujourd'hui : La serre propose aujourd'hui des expositions temporaires.",
+  "Lieu « Centre pénitentiaire de Bordeaux-Gradignan » : Le centre pénitentiaire de Bordeaux-Gradignan, encore appelé la maison d'arrêt de Gradignan, est un établissement pénitentiaire français situé à Gradignan, en banlieue de Bordeaux (Gironde).",
+  "Lieu « Centre pénitentiaire de Bordeaux-Gradignan », 1967 : Ouvert en 1967, il comprend une maison d'arrêt pour hommes, femmes et mineurs, ainsi qu'une structure d'accompagnement vers la sortie.",
+  "Lieu « Centre pénitentiaire de Bordeaux-Gradignan », 1967 : Construit en 1967 sur un terrain de six hectares, l'établissement de Bordeaux-Gradignan est conçu comme une maison d'arrêt d'une capacité de 407 places.",
+  "Lieu « Centre pénitentiaire de Bordeaux-Gradignan », 2000 : L'établissement connaît depuis le début des années 2000 une surpopulation importante qui, conjuguée à l'état de vétusté avancé des bâtiments, a conduit le ministère de la Justice à envisager sa reconstruction.",
+  "Lieu « Jardin de Pierral » : Le jardin médiéval de Pierral, est un jardin d'inspiration médiévale, situé à Gradignan en Gironde.",
+  "Lieu « Jardin de Pierral », 2011 : En 2011, ouverture d'un parcours arboré comprenant la découverte de la cabane de la fée.",
+  "Lieu « Château de Tauzia » : Le château de Tauzia est situé sur la commune de Gradignan, dans le département de la Gironde en France.",
+  "Lieu « Château de Tauzia », 1940 : Entre 1940 et 1944, Tauzia fut occupé par les armées allemandes et italiennes, puis les F.F.I. investissent le château en 1944."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIVe"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}
