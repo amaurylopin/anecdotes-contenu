@@ -1,0 +1,156 @@
+{
+ "commune": {
+  "titre": "Romagnat",
+  "code_insee": "63307",
+  "departement": "63",
+  "population": 7894,
+  "lat": 45.7306,
+  "lon": 3.1014,
+  "url": "https://fr.wikipedia.org/wiki/Romagnat"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:21:12",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1395,
+  "sortie": 1172
+ },
+ "cout_usd": 0.001744,
+ "accroche": "À Opme, un château pris par les Anglais en 1381 a été libéré en 1393 par les maréchaux de Boucicaut et Sancerre.",
+ "histoire": {
+  "recit": "À Romagnat, le nom donne envie de remonter plus loin que les actes: une hypothèse le rapproche d’une phrase latine, « Romanii hac Obiere et Perignum », pensée pour évoquer « les Romains périrent ici ». Le lieu-dit Opme, lui, se lit presque comme une carte: sur un col où passait une voie romaine reliant Augustonemetum à Anicium. C’est aussi là que s’élève le Château d’Opme, construit vers la fin du XIe siècle, bâti autour d’une cour intérieure et flanqué de tours. Aujourd’hui, le site a gardé sa présence avec des vestiges antiques sur les pentes du Puy Giroux, voisin, où subsistent des vestiges gallo-romains comparables à ceux du plateau de Gergovie. Et dans la cour du château, un musée rappelle une autre histoire: en 1993, un musée consacré à Jean de Lattre de Tassigny y a ouvert, après son séjour entre 1940 et 1941, pour créer l’école des cadres militaires d’Opme.",
+  "chronologie": [
+   {
+    "date": "XIe siècle (fin)",
+    "texte": "Le Château d’Opme est construit vers la fin du XIe siècle, autour d’une cour intérieure et flanqué de cinq tours dont trois subsistent désormais.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1381",
+    "texte": "À Opme, le château est pris par les Anglais.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1393",
+    "texte": "Le château est libéré en 1393 par les maréchaux de Boucicaut et Sancerre.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1940-1941",
+    "texte": "Jean de Lattre de Tassigny séjourne à Opme entre 1940 et 1941 pour créer l’école des cadres militaires d’Opme.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1993",
+    "texte": "Le château ouvre en 1993, dans sa cour intérieure, un musée consacré à Jean de Lattre de Tassigny.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "Antiquité (pentes du Puy Giroux)",
+    "texte": "Sur le Puy Giroux, des vestiges gallo-romains subsistent sur les pentes nord et nord-ouest.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Opme",
+   "histoire": "Opme est un lieu-dit de Romagnat, installé sur un col où passait une voie romaine reliant Augustonemetum (Clermont-Ferrand) à Anicium (Le Puy-en-Velay).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S5"
+   ],
+   "lat": 45.706917,
+   "lon": 3.093797,
+   "url": "https://fr.wikipedia.org/wiki/Opme"
+  },
+  {
+   "nom": "Château d'Opme",
+   "histoire": "Le château d’Opme se dresse au lieu-dit Opme, sur une cour intérieure et des tours dont trois subsistent aujourd’hui. Construit vers la fin du XIe siècle, il a connu une période troublée: pris par les Anglais en 1381, puis libéré en 1393. En 1993, la cour intérieure accueille un musée consacré à Jean de Lattre de Tassigny, qui y a séjourné entre 1940 et 1941 pour créer l’école des cadres militaires d’Opme.",
+   "anecdotes": [
+    {
+     "texte": "En 1381, le château d’Opme est pris par les Anglais, avant d’être libéré en 1393 par les maréchaux de Boucicaut et Sancerre.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    },
+    {
+     "texte": "Le musée consacré à Jean de Lattre de Tassigny s’installe en 1993 dans la cour intérieure du château.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Trois tours subsistent, et le musée consacré à Jean de Lattre de Tassigny est ouvert depuis 1993 dans la cour intérieure.",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 45.7074,
+   "lon": 3.09,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Opme"
+  },
+  {
+   "nom": "Puy Giroux",
+   "histoire": "Le puy Giroux est un volcan du Massif central, culminant à 838 mètres d’altitude dans la commune de Romagnat, près d’Opme. Son histoire laisse encore des traces: sur ses pentes nord et nord-ouest subsistent des vestiges gallo-romains.",
+   "anecdotes": [
+    {
+     "texte": "Les vestiges gallo-romains du puy Giroux sont décrits comme comparables à ceux du plateau de Gergovie.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des vestiges gallo-romains subsistent sur les pentes nord et nord-ouest du puy Giroux.",
+   "sources": [
+    "S10"
+   ],
+   "lat": 45.70389,
+   "lon": 3.07639,
+   "url": "https://fr.wikipedia.org/wiki/Puy_Giroux"
+  }
+ ],
+ "sources": [
+  "Romagnat (/ʁɔ.ma.ɲa/ ) est une commune française, située dans le département du Puy-de-Dôme en région Auvergne-Rhône-Alpes. Elle fait partie de l'aire d'attraction de Clermont-Ferrand.",
+  "Le nom de cette localité incite à lui trouver une origine liée à l'époque gallo-romaine. Une des hypothèses les plus souvent avancées est celle selon laquelle il faudrait la voir dans la phrase latine Romanii hac Obiere et Perignum, que l'on peut traduire approximativement par « les Romains périrent ici » (cf. la victoire des Gaulois au siège de Gergovie, car ce célèbre lieu qui consacra la victoire, en juin 52 av. […]",
+  "Lieu « Opme » : Opme (/ɔm/) est un lieu-dit situé dans la commune de Romagnat, dans le département du Puy-de-Dôme, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Opme », 1381 : Pris par les Anglais en 1381, le château est libéré en 1393 par les maréchaux de Boucicaut et Sancerre.",
+  "Lieu « Opme », aujourd'hui : Opme est situé sur l'emplacement stratégique d'un col où passait la voie romaine qui reliait Augustonemetum (Clermont-Ferrand) à Anicium (Le Puy-en-Velay).",
+  "Lieu « Château d'Opme » : Le château d'Opme est situé dans le département du Puy-de-Dôme en région Auvergne-Rhône-Alpes, au lieu-dit d'Opme situé sur la commune de Romagnat.",
+  "Lieu « Château d'Opme », XIe siècle : Le château, construit vers la fin du XIe siècle, est bâti autour d'une cour intérieure et le logis est flanqué de cinq tours dont trois subsistent désormais.",
+  "Lieu « Château d'Opme », 1993 : Le château a ouvert en 1993, dans la cour intérieure, un musée consacré à Jean de Lattre de Tassigny, maréchal de France, qui y a séjourné entre 1940 et 1941 pour créer l'école des cadres militaires d'Opme.",
+  "Lieu « Puy Giroux » : Le puy Giroux est un volcan du Massif central culminant à 838 mètres d'altitude dans la commune de Romagnat près d'Opme, âgé de 16 millions d'années environ.",
+  "Lieu « Puy Giroux », aujourd'hui : Il subsiste des vestiges gallo-romains datant de l'Antiquité sur ses pentes nord et nord-ouest comparables à ceux du plateau de Gergovie."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 3
+ }
+}

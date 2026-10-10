@@ -1,0 +1,142 @@
+{
+ "commune": {
+  "titre": "Ceyrat",
+  "code_insee": "63070",
+  "departement": "63",
+  "population": 6592,
+  "lat": 45.73361111,
+  "lon": 3.06388889,
+  "url": "https://fr.wikipedia.org/wiki/Ceyrat"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:43:02",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1484,
+  "sortie": 1029
+ },
+ "cout_usd": 0.001583,
+ "accroche": "À Ceyrat, le théâtre romain de Montaudou a été construit à la fin du Ier siècle et a connu un second état vers la seconde moitié du IIe siècle.",
+ "histoire": {
+  "recit": "Ceyrat, commune du Puy-de-Dôme, vit au sud de Clermont-Ferrand : au recensement de 2023, elle compte 6 592 habitants, les Ceyratois et les Ceyratoises. Dans ses limites, deux lieux gardent une présence nette.\n\nAu Théâtre romain de Montaudou, l’édifice naît à la fin du Ier siècle, puis se transforme au fil du temps : son diamètre passe de 51 m à 81 m vers la seconde moitié du IIe siècle. Plus tard, le bâtiment est fortement remanié et prend alors un plan de temple à plan centré. Des investigations reprennent en 1991, sous la direction de Sophie Liégard et d’Anne-Marie Jouquand, tandis que les vestiges sont décrits depuis le début du XIXe siècle grâce à un long mur d’environ cinquante mètres, connu sous le nom de Mur des Sarrasins.\n\nLe Château de Montrognon, lui, remonte au XIIe siècle avant de tomber en ruines. Il est démantelé et partiellement rasé en 1633, dans le cadre d’une politique menée par Richelieu contre la noblesse. Par la suite, une tour s’effondre en 1828, puis le vent de février 1840 abat un pan de murailles et une partie du donjon. Au début du XXe siècle, son sommet était encore découvert.",
+  "chronologie": [
+   {
+    "date": "fin du Ier siècle",
+    "texte": "Construction du théâtre romain de Montaudou, dans la cité des Arvernes, sur la commune de Ceyrat.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "seconde moitié du IIe siècle",
+    "texte": "Second état du théâtre : le diamètre passe à 81 m, puis le bâtiment est fortement remanié et présente un plan de temple à plan centré.",
+    "sources": [
+     "S3",
+     "S4"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Construction du Château de Montrognon, aujourd’hui en ruines, sur la commune de Ceyrat, au 54 avenue de Fontimbert.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1633",
+    "texte": "Le Château de Montrognon est démantelé et partiellement rasé.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1828",
+    "texte": "Une tour du Château de Montrognon s’effondre.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "février 1840",
+    "texte": "Le vent abat un pan de murailles et une partie du donjon du Château de Montrognon.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "début du XIXe siècle",
+    "texte": "Les vestiges du Théâtre romain de Montaudou sont décrits grâce au Mur des Sarrasins, long d’une cinquantaine de mètres.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1991",
+    "texte": "Ouverture d’un autre sondage au Théâtre romain de Montaudou, sous la direction de Sophie Liégard et d’Anne-Marie Jouquand.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Théâtre romain de Montaudou",
+   "histoire": "Édifice de spectacle construit en Gaule, dans la cité des Arvernes, sur la commune de Ceyrat. Construit à la fin du Ier siècle, il connaît un second état vers la seconde moitié du IIe siècle, avant d’être fortement remanié et de présenter un plan de temple à plan centré. Des vestiges sont décrits depuis le début du XIXe siècle grâce au Mur des Sarrasins.",
+   "anecdotes": [
+    {
+     "texte": "Les vestiges sont décrits depuis le début du XIXe siècle grâce à un long mur d’une cinquantaine de mètres, connu localement sous le nom de Mur des Sarrasins.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S6"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Vestiges décrits grâce au long mur d’environ cinquante mètres, connu localement sous le nom de Mur des Sarrasins.",
+   "sources": [
+    "S6"
+   ],
+   "lat": 45.760665,
+   "lon": 3.072063,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_romain_de_Montaudou"
+  },
+  {
+   "nom": "Château de Montrognon",
+   "histoire": "Château du XIIe siècle, aujourd’hui en ruines, situé sur la commune de Ceyrat, 54 avenue de Fontimbert. Il est démantelé et partiellement rasé en 1633. Par la suite, une tour s’effondre en 1828, puis un pan de murailles et une partie du donjon sont abattus par le vent de février 1840.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [],
+   "lat": 45.730888,
+   "lon": 3.079387,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Montrognon"
+  }
+ ],
+ "sources": [
+  "Ceyrat (/sɛ.ʁa/) est une commune française, située dans le département du Puy-de-Dôme en région Auvergne-Rhône-Alpes. Intégrée dans l'unité urbaine et l'aire d'attraction de Clermont-Ferrand, au sud de la capitale auvergnate, elle est peuplée de 6 592 habitants au recensement de 2023, appelés les Ceyratois et les Ceyratoises.",
+  "Lieu « Théâtre romain de Montaudou » : Le théâtre romain de Montaudou est un édifice de spectacle construit en Gaule, dans la cité des Arvernes, sur l'actuelle commune de Ceyrat dans le département du Puy-de-Dôme.",
+  "Lieu « Théâtre romain de Montaudou », Ier siècle : Construit à la fin du Ier siècle avec un diamètre de 51 m, le théâtre connait un second état vers la seconde moitié du IIe siècle, avec un diamètre porté à 81 m.",
+  "Lieu « Théâtre romain de Montaudou », IIe siècle : Le bâtiment est ensuite fortement remanié au cours de la seconde moitié du IIe siècle et présente le plan d'un temple à plan centré.",
+  "Lieu « Théâtre romain de Montaudou », 1991 : Un autre sondage est ouvert en 1991 sous la direction de Sophie Liégard et Anne-Marie Jouquand.",
+  "Lieu « Théâtre romain de Montaudou », aujourd'hui : Ses vestiges sont décrits depuis le début du XIXe siècle grâce à la présence d'un long mur d'une cinquantaine de mètres, connu localement sous l'appellation de Mur des Sarrasins.",
+  "Lieu « Château de Montrognon » : Le château de Montrognon (Mont-Ronhous en auvergnat, latinisé au Moyen Âge en Mons Rugosus) est un édifice du XIIe siècle aujourd'hui en ruines situé sur la commune de Ceyrat, 54 avenue de Fontimbert, dans le département du Puy-de-Dôme et la région A",
+  "Lieu « Château de Montrognon », XIIe siècle : Le château de Montrognon (Mont-Ronhous en auvergnat, latinisé au Moyen Âge en Mons Rugosus) est un édifice du XIIe siècle aujourd'hui en ruines situé sur la commune de Ceyrat, 54 avenue de Fontimbert, dans le département du Puy-de-Dôme et la région Auvergne-Rhône-Alpes.",
+  "Lieu « Château de Montrognon », 1633 : Quant au château, il est démantelé et partiellement rasé en 1633 dans le cadre de la politique entreprise par Richelieu contre la noblesse.",
+  "Lieu « Château de Montrognon », 1828 : Une tour s'effondra en 1828, tandis que le vent en février 1840 abattait un pan de murailles et une partie du donjon.",
+  "Lieu « Château de Montrognon », aujourd'hui : Le sommet, actuellement boisé (résineux), était encore découvert au début du XXe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,280 @@
+{
+ "commune": {
+  "titre": "Thiers",
+  "code_insee": "63430",
+  "departement": "63",
+  "population": 11637,
+  "lat": 45.85722222,
+  "lon": 3.54833333,
+  "url": "https://fr.wikipedia.org/wiki/Thiers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:44:35",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3654,
+  "sortie": 2082
+ },
+ "cout_usd": 0.003333,
+ "accroche": "Le 25 août 1944, Thiers est libérée par les armes, et c’est une des rares villes, la seule du Puy-de-Dôme, à le devenir ainsi.",
+ "histoire": {
+  "recit": "À Thiers, les hauteurs ont d’abord servi de refuge : des recherches universitaires concluent à une forteresse de hauteur bâtie vers le début du Ve siècle, exploitée au moins jusqu’au VIIe siècle. Plus tard, le quartier du Moûtier prend son essor avec l’installation d’une abbaye et l’édification d’une église accueillant les reliques de saint Symphorien d’Autun.\n\nAu Moyen Âge, les chemins se tracent autrement : une route traverse les Margerides au XIVe siècle pour relier Thiers à Lyon, sans emprunter l’ancienne voie romaine plus haut. La ville se fortifie aussi : les remparts sont érigés entre le XIe et le XVIe siècle.\n\nQuand la révolution industrielle bat son plein, les échanges s’accélèrent dès l’ouverture de la Gare de Thiers en 1872. Plus tard, dans la vallée des Usines et de la Durolle, l’ancienne activité coutelière se transforme : à Forges Mondière, le bâtiment passe par plusieurs usages avant de connaître, fin 2018, un effondrement partiel de toiture, puis une sécurisation municipale en décembre 2020.\n\nEnfin, le XXe siècle donne une seconde vie aux lieux : à Creux de l’enfer, un centre d’art contemporain s’insère dans une ancienne usine de coutellerie fermée définitivement en 1956, avant l’ouverture en 1988.",
+  "chronologie": [
+   {
+    "date": "Ve siècle (début du Ve, voire fin du IVe)",
+    "texte": "Une forteresse de hauteur est bâtie et exploitée au moins jusqu’au VIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "X-XIe siècle",
+    "texte": "L’installation de l’abbaye et l’édification d’une église font prendre essor au quartier du Moûtier, avec des reliques de saint Symphorien d’Autun.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Une route est construite à travers les Margerides pour rejoindre Thiers et Lyon sans passer par la voie romaine traversant Vollore.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "Le château du Pirou est construit au XVe siècle par le duc de Bourbon, avec un toit pointu et de petites tuiles plates.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1872",
+    "texte": "Les échanges avec Saint-Étienne s’amplifient dès l’ouverture de la Gare de Thiers.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "25 août 1944",
+    "texte": "Thiers est libérée par les armes, le 25 août 1944.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "Fin d’année 2018",
+    "texte": "Une partie du toit de l’annexe à l’usine de Forges Mondière s’effondre.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "Décembre 2020",
+    "texte": "La municipalité fait sécuriser la structure des forges Mondière pour sauver la bâtisse en péril.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "1956",
+    "texte": "Creux de l’enfer s’insère dans une ancienne usine de coutellerie fermée définitivement en 1956.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1988",
+    "texte": "Creux de l’enfer est ouvert en 1988.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Forges Mondière",
+   "histoire": "Dans la vallée des Usines, à Thiers, les forges Mondière sont une ancienne usine spécialisée dans le forgeage par estampage des lames de couteaux. Le bâtiment a accueilli, au XVe siècle, un rouet puis une papeterie et une scierie, avant une société de coutellerie et des ateliers annexes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La municipalité a sécurisé la structure en décembre 2020 afin de sauver le bâtiment alors en péril imminent.",
+   "sources": [
+    "S9",
+    "S10",
+    "S12"
+   ],
+   "lat": 45.8505247,
+   "lon": 3.5498433,
+   "url": "https://fr.wikipedia.org/wiki/Forges_Mondi%C3%A8re"
+  },
+  {
+   "nom": "Creux de l’enfer",
+   "histoire": "Le Creux de l’enfer est un centre d’art contemporain situé dans la vallée des Usines à Thiers. Il s’insère dans une ancienne usine de coutellerie fermée définitivement en 1956 et s’ouvre en 1988.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S16",
+    "S17"
+   ],
+   "lat": 45.85017,
+   "lon": 3.54914,
+   "url": "https://fr.wikipedia.org/wiki/Creux_de_l%27enfer"
+  },
+  {
+   "nom": "Musée de la coutellerie de Thiers",
+   "histoire": "Le musée de la coutellerie est un musée municipal situé à Thiers. Il accueille en partie les collections de l’ancien musée Barante (ouvert au public en 1924) et, depuis 1987, une partie est installée dans la maison de l’Homme des bois tandis que la deuxième l’est dans la maison des Consuls.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "De nombreuses friches industrielles jonchent les abords du secteur présenté par le musée.",
+   "sources": [
+    "S19",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 45.8537,
+   "lon": 3.5476,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_coutellerie_de_Thiers"
+  },
+  {
+   "nom": "Vallée des Rouets",
+   "histoire": "La vallée des Rouets est une partie de la vallée de la Durolle, principalement située sur le territoire de Thiers. Au début du XXe siècle, la plupart des rouets disparaissent au profit de l’industrie coutelière installée en aval dans la vallée des Usines.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Plusieurs traces restent visibles : des murs de soutènement servant à retenir les terres pour cultiver la vigne sont toujours en place.",
+   "sources": [
+    "S24",
+    "S25",
+    "S28"
+   ],
+   "lat": 45.8630171,
+   "lon": 3.5805035,
+   "url": "https://fr.wikipedia.org/wiki/Vall%C3%A9e_des_Rouets"
+  },
+  {
+   "nom": "Château du Pirou",
+   "histoire": "Le château du Pirou, aussi appelé hôtel du Charriol, est un hôtel particulier seigneurial à Thiers. Construit en 1410 par Louis II de Bourbon, il est devenu au rez-de-chaussée un bureau d’informations touristiques après l’achat par la ville au début des années 1980 et la rénovation du bâtiment.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le château du Pirou est construit à proximité directe du château fort du seigneur de Thiers, sur l’emplacement aujourd’hui nommé place Saint-Genès.",
+   "sources": [
+    "S29",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 45.8542,
+   "lon": 3.5477,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Pirou"
+  },
+  {
+   "nom": "Remparts de Thiers",
+   "histoire": "Les remparts de Thiers sont les fortifications érigées entre le XIe et le XVIe siècle pour protéger la ville. Une première fortification englobe, au XIe siècle, le château féodal et l’église Saint-Genès. À la fin du XVIIIe siècle, des parties moins bien entretenues sont démolies, puis plusieurs segments de muraille nord sont affectés par les aménagements urbains du XIXe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une porte, aujourd’hui remblayée et murée, est encore visible au-dessus de la place du Pirou.",
+   "sources": [
+    "S34",
+    "S35",
+    "S37",
+    "S38"
+   ],
+   "lat": 45.8540844,
+   "lon": 3.5492172,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Thiers"
+  },
+  {
+   "nom": "Église du Moûtier de Thiers",
+   "histoire": "L’église du Moûtier est une église chrétienne en grande partie de style roman, située en ville basse. Elle est dédiée à Symphorien d’Autun et se retrouve aussi sous le vocable d’église Saint-Symphorien de Thiers. Le bâtiment a fait l’objet de modifications, dont une significative à la fin du XIXe siècle, puis une restauration et un classement Monument historique en 2006.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est restaurée et classée Monument historique en 2006.",
+   "sources": [
+    "S39",
+    "S40",
+    "S41",
+    "S42"
+   ],
+   "lat": 45.8506136,
+   "lon": 3.544707,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_du_Mo%C3%BBtier_de_Thiers"
+  },
+  {
+   "nom": "Église Saint-Jean de Thiers",
+   "histoire": "L’église Saint-Jean de Thiers (ou église Saint-Jean du Passet) se situe dans la partie basse de l’éperon rocheux du centre-ville. Les premières traces remontent au XIe siècle et l’édifice se trouve au centre du deuxième noyau urbain de la ville-haute.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le haut de l’église ainsi que son clocher sont visibles depuis tout le bas de la ville et la plaine de la Limagne.",
+   "sources": [
+    "S44",
+    "S45",
+    "S46",
+    "S48"
+   ],
+   "lat": 45.851111,
+   "lon": 3.549444,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean_de_Thiers"
+  }
+ ],
+ "sources": [
+  "Thiers (/tjɛʁ/) est une commune française, située dans le département du Puy-de-Dôme en région Auvergne-Rhône-Alpes adhérente du parc naturel régional Livradois-Forez. Elle est l'une des quatre sous-préfectures du département avec Ambert, Issoire et Riom. Les habitants sont appelés les Thiernois, voire également les « Bitords ». Le secteur thiernois est habité aux époques gauloise, gallo-romaine et mérovingienne […]",
+  "Aucun travail de recherche ou de fouille archéologique n’a mis en évidence une occupation humaine de la région thiernoise durant la préhistoire. Néanmoins, 17 objets préhistoriques sont présents dans les collections du Musée de la Coutellerie de Thiers. La collection comporte 3 pierres taillées de type nucléus (silex) et 14 pierres polies. Certaines pierres ont une provenance et une date de découverte connues […]",
+  "Ve siècle : Les premiers résultats de ces recherches universitaires ont mis en évidence que cette forteresse de hauteur a été bâtie vers le début du Ve siècle, voire la fin du IVe siècle (Bas-Empire), et a été exploitée au moins jusqu’au VIIe siècle.",
+  "XIe siècle : C’est vraisemblablement à partir de l’installation de l’abbaye (ou monastère) ainsi que de l’édification d’une église (X-XIe siècle) accueillant les reliques de saint Symphorien d’Autun que le quartier du Moûtier prend son essor.",
+  "XIVe siècle : Une route traversant les Margerides — la vallée de la Durolle n'étant pas adaptée pour construire une route de grande circulation à l'époque — est construite au XIVe siècle pour rejoindre Thiers et Lyon sans passer par l'ancienne voie romaine qui traverse le village de Vollore encore plus haut en altitude.",
+  "XVe siècle : Le château du Pirou, construit au XVe siècle par le duc de Bourbon, utilise de petites tuiles plates et possède un toit pointu ce qui laisse penser que le maître d'œuvre, d'origine bourbonnaise, ait influencé son origine.",
+  "1872 : Les échanges avec Saint-Étienne s'amplifient dès l'ouverture de la Gare de Thiers en 1872.",
+  "1944 : Thiers sera une des rares villes, la seule du Puy-de-Dôme, à être libérée par les armes le 25 août 1944.",
+  "Lieu « Forges Mondière » : Les forges Mondière sont une ancienne usine spécialisée dans le forgeage par estampage des lames de couteaux, située dans la vallée des Usines à Thiers, dans le département français du Puy-de-Dôme en région Auvergne-Rhône-Alpes.",
+  "Lieu « Forges Mondière », XVe siècle : Après avoir été au XVe siècle un rouet puis une papeterie et une scierie, le bâtiment accueille une société de coutellerie prenant place également dans l'usine du May toute proche et dans des ateliers annexes.",
+  "Lieu « Forges Mondière », 2018 : En fin d'année 2018, une partie du toit de l'annexe à l'usine qui abritait les bureaux et le logement du directeur s'effondre.",
+  "Lieu « Forges Mondière », 2020 : En attendant des interventions futures, la municipalité fait sécuriser la structure du bâtiment des forges Mondière afin de sauver la bâtisse alors en situation de péril imminent en décembre 2020.",
+  "Lieu « Forges Mondière », aujourd'hui : Ce rouet, qui devient plus tard l'usine du May est accompagné par la construction d'un autre rouet sur l'emplacement de l'actuelle usine des forges Mondière.",
+  "Lieu « Creux de l'enfer » : Le Creux de l'enfer est un centre d'art contemporain situé dans la vallée des Usines, à Thiers, dans le département du Puy-de-Dôme, en région Auvergne-Rhône-Alpes.",
+  "Lieu « Creux de l'enfer », XIXe siècle : Vers le milieu du XIXe siècle, des forgerons et des artisans intègrent les usines installées le long de la vallée de la Durolle.",
+  "Lieu « Creux de l'enfer », 1956 : Établi dans une ancienne usine de coutellerie fermée définitivement en 1956, il s'insère dans le cadre de la politique de décentralisation culturelle engagée sous l'impulsion de Jack Lang en 1985.",
+  "Lieu « Creux de l'enfer », 1988 : Il est ouvert en 1988, trois ans après le symposium national de sculpture monumentale métallique organisé par la ville de Thiers.",
+  "Lieu « Creux de l'enfer », aujourd'hui : En 1899, seule subsiste l'activité d'aiguisage.",
+  "Lieu « Musée de la coutellerie de Thiers » : Le musée de la coutellerie (également appelé musée de la coutellerie Jean-Claude Potte depuis 2020) est un musée municipal situé à Thiers dans le département français du Puy-de-Dôme en région Auvergne-Rhône-Alpes.",
+  "Lieu « Musée de la coutellerie de Thiers », 1980 : Le musée est alors ouvert toute l'année, neuf heures par semaine en moyenne et reçoit 3 102 visiteurs pour son avant-dernière année d'ouverture en 1980.",
+  "Lieu « Musée de la coutellerie de Thiers », 1982 : Fondé en 1982, il accueille en partie les collections de l'ancien musée Barante ouvert au public en 1924 qui ferme ses portes définitivement en décembre 1981.",
+  "Lieu « Musée de la coutellerie de Thiers », 1987 : La première partie est installée dans la maison de l'Homme des bois classée en 1987 et la deuxième dans la maison des Consuls inscrite en 1983.",
+  "Lieu « Musée de la coutellerie de Thiers », aujourd'hui : Aujourd'hui, de nombreuses friches industrielles jonchent cette dernière.",
+  "Lieu « Vallée des Rouets » : La vallée des Rouets est une partie de la vallée de la Durolle, principalement située sur le territoire de la commune de Thiers, dans le département du Puy-de-Dôme et dans la région Auvergne-Rhône-Alpes, en France.",
+  "Lieu « Vallée des Rouets », XXe siècle : Au début du XXe siècle, la plupart des rouets de la vallée disparaissent au profit de l'industrie coutelière, majoritairement installée dans la vallée des Usines en aval.",
+  "Lieu « Vallée des Rouets », 1976 : Le dernier rouet de la vallée qui a fermé en 1976 est préservé dès lors.",
+  "Lieu « Vallée des Rouets », 1980 : Au début des années 1980, l'association « Le Pays thiernois » se mobilise afin de protéger le patrimoine bâti de la vallée des Rouets.",
+  "Lieu « Vallée des Rouets », aujourd'hui : Plusieurs traces de cette culture sont encore présentes ; les murs de soutènement qui servaient à retenir les terres afin de cultiver de la vigne sont toujours en place.",
+  "Lieu « Château du Pirou » : Le château du Pirou (également appelé hôtel du Charriol) est un hôtel particulier seigneurial situé dans la commune de Thiers, dans le département du Puy-de-Dôme en région Auvergne-Rhône-Alpes.",
+  "Lieu « Château du Pirou », 1410 : L'édifice est construit en 1410 par Louis II de Bourbon, duc de Bourbon et comte de Forez, pour devenir une de ses résidences locales.",
+  "Lieu « Château du Pirou », 1410 : Le château du Pirou est construit en 1410 à la demande de Louis II de Bourbon, duc de Bourbon mais aussi comte de Forez, pour servir de résidence à ses châtelains de la ville.",
+  "Lieu « Château du Pirou », 1980 : Dès le début des années 1980, le bâtiment est acheté par la ville de Thiers puis entièrement rénové dans une optique de développement touristique et devient un lieu d'expositions culturelles accueillant au rez-de-chaussée le bureau d'informations touristiques de Thiers.",
+  "Lieu « Château du Pirou », aujourd'hui : Historiquement, il est construit à proximité directe avec le château fort du seigneur de Thiers, situé sur la place du Palais, aujourd'hui nommée place Saint-Genès.",
+  "Lieu « Remparts de Thiers » : Les remparts de Thiers sont les fortifications érigées entre les XIe et XVIe siècles pour protéger la ville de Thiers dans le département du Puy-de-Dôme, en France.",
+  "Lieu « Remparts de Thiers », XIe siècle : Au XIe siècle, une première fortification est construite, englobant le château féodal et l'église Saint-Genès.",
+  "Lieu « Remparts de Thiers », XVIe siècle : Les remparts de Thiers sont les fortifications érigées entre les XIe et XVIe siècles pour protéger la ville de Thiers dans le département du Puy-de-Dôme, en France.",
+  "Lieu « Remparts de Thiers », XVIIIe siècle : Les parties les moins bien entretenues des différentes enceintes sont démolies à la fin du XVIIIe siècle mais ce sont surtout les aménagements urbains du XIXe siècle qui entraînent la démolition de plusieurs segments de la muraille nord et la réaffectation de la muraille est.",
+  "Lieu « Remparts de Thiers », aujourd'hui : Cette porte — aujourd'hui remblayée et murée — est encore visible au-dessus de la place du Pirou.",
+  "Lieu « Église du Moûtier de Thiers » : L’église du Moûtier est une église chrétienne, en grande partie de style roman, située dans la ville basse de Thiers dans le département du Puy-de-Dôme.",
+  "Lieu « Église du Moûtier de Thiers », IIe siècle : L’église du Moûtier est dédiée à Symphorien d'Autun, martyr chrétien romain exécuté à la fin du IIe siècle, c’est pourquoi on la retrouve aussi sous le vocable d’église Saint-Symphorien de Thiers.",
+  "Lieu « Église du Moûtier de Thiers », XIXe siècle : De style roman, l’édifice a subi de nombreuses modifications et réparations au cours du temps dont l’une des plus significatives s’est déroulée à la fin du XIXe siècle ce qui l’a amputée de son ancien chœur primitif.",
+  "Lieu « Église du Moûtier de Thiers », 2006 : Aujourd’hui entièrement restaurée et classée Monument historique en 2006, elle est le dernier édifice de la ville à obtenir ce titre.",
+  "Lieu « Église du Moûtier de Thiers », aujourd'hui : Aujourd’hui ceci est fortement remis en cause, voire infirmé, suite à la découverte archéologique du castrum primitif de Thiers en hauteur, dans les Margerides, secteur escarpé à l'est de la ville de Thiers.",
+  "Lieu « Église Saint-Jean de Thiers » : L’église Saint-Jean de Thiers (ou église Saint-Jean du Passet) est une église catholique située dans la partie basse de l'éperon rocheux du centre-ville de Thiers dans le Puy-de-Dôme en France.",
+  "Lieu « Église Saint-Jean de Thiers », XIe siècle : Sa date de construction étant inconnue, les premières traces de l'édifice remontent au XIe siècle.",
+  "Lieu « Église Saint-Jean de Thiers », XIe siècle : L'église est au centre du deuxième noyau urbain de la ville-haute bâti dès le XIe siècle, le premier étant celui du château fort et de l'église Saint-Genès de Thiers.",
+  "Lieu « Église Saint-Jean de Thiers », 1622 : Au XVIIe siècle, après l'établissement de pénitents blancs « du très auguste Saint-Sacrement de l'Autel » en 1622, la partie occidentale de l'église est transformée spécialement pour les besoins de la confrérie avec la création d'une sacristie, d'une salle de délibérations et d'une tribune.",
+  "Lieu « Église Saint-Jean de Thiers », aujourd'hui : Le haut de l'église ainsi que son clocher sont visibles depuis tout le bas de la ville et la plaine de la Limagne."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

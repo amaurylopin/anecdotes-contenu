@@ -1,0 +1,80 @@
+{
+ "commune": {
+  "titre": "Lempdes",
+  "code_insee": "63193",
+  "departement": "63",
+  "population": 8709,
+  "lat": 45.7719,
+  "lon": 3.1944,
+  "url": "https://fr.wikipedia.org/wiki/Lempdes"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:09:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 977,
+  "sortie": 589
+ },
+ "cout_usd": 0.000932,
+ "accroche": "En 1916, Michelin fait construire une piste d’aviation en dur à Lempdes, « en raison de l’humidité du terrain ».",
+ "histoire": {
+  "recit": "Lempdes, commune du Puy-de-Dôme à la périphérie est de Clermont-Ferrand, s’organise d’abord autour d’une église implantée au XIIe siècle. Au XIVe siècle, des fortifications se mettent en place : il en subsiste aujourd’hui un tracé circulaire.\n\nLa ville prend ensuite le rythme du travail des champs : entre les XVIe et XIXe siècles, Lempdes est une ville agricole. Vers la fin du XIXe siècle, la production viticole devient très active. On y produit et on y vend, pour Paris, des céréales, du chanvre, de la noix et du vin.\n\nPendant le XXe siècle, un autre usage du sol apparaît : en 1916, une piste d’aviation est construite par Michelin, en dur, pour répondre au problème d’humidité du terrain.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "Une église est implantée à Lempdes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Des fortifications apparaissent à Lempdes ; il en subsiste un tracé circulaire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVIe siècle - XIXe siècle",
+    "texte": "Lempdes vit au rythme d’une production agricole.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "fin du XIXe siècle",
+    "texte": "La production viticole est très active ; céréales, chanvre, noix et vin sont produits et vendus à destination de Paris.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1916",
+    "texte": "Michelin construit une piste d’aviation en dur, « en raison de l’humidité du terrain ».",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Lempdes (/lɑ̃d/) est une commune française située dans le département du Puy-de-Dôme, en région Auvergne-Rhône-Alpes, à la périphérie est de Clermont-Ferrand. Elle fait partie de l'aire d'attraction de Clermont-Ferrand.",
+  "Une église fut implantée au XIIe siècle, et les fortifications, dont subsiste actuellement un tracé circulaire, apparaissent au XIVe siècle. Lempdes fut une ville agricole entre les XVIe et XIXe siècles. La production viticole fut très active à la fin du XIXe siècle : la population produisait et vendait des céréales, du chanvre, de la noix ou encore du vin à destination de Paris. Une piste d'aviation fut construite […]",
+  "1916 : Une piste d'aviation fut construite en 1916 par Michelin, en dur, « en raison de l'humidité du terrain »."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}
