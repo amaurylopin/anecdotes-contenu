@@ -1,0 +1,127 @@
+{
+ "commune": {
+  "titre": "La Valette-du-Var",
+  "code_insee": "83144",
+  "departement": "83",
+  "population": 23719,
+  "lat": 43.13833333,
+  "lon": 5.98305556,
+  "url": "https://fr.wikipedia.org/wiki/La_Valette-du-Var"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:01:46",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1196,
+  "sortie": 1094
+ },
+ "cout_usd": 0.001607,
+ "accroche": "En avril 1978, le bâtiment principal de Grand Var ouvre, sur La Valette-du-Var et La Garde, puis le site s’agrandit à plusieurs reprises.",
+ "histoire": {
+  "recit": "La Valette-du-Var, appelée La Valeto en provençal, porte le nom de ses habitants : les Valettois. Longtemps avant les villes, les grottes des monts sont occupées dès le chalcolithique, puis à l’âge du bronze. Avant les invasions romaines, une tribu ligure y construit des oppida : de petits villages fortifiés, avec des cases et des troupeaux, installés en surplomb de la plaine.\n\nPlus tard, la tradition locale veut que les Romains aient fondé la localité de Vallis Laeta, « Vallée heureuse » ; mais le récit laisse aussi planer le doute. Aujourd’hui, le relief continue de compter : le mont Coudon, un des principaux sommets des Monts toulonnais, est devenu une base de surveillance militaire, dans le système Séré de Rivières.\n\nAu bas de la ville, Grand Var a aussi marqué le paysage : le centre commercial ouvre en avril 1978, puis s’agrandit, avant d’évoluer encore, jusqu’à des commerces réduits et une brasserie encore présente sur le site.",
+  "chronologie": [
+   {
+    "date": "chalcolithique puis âge du bronze",
+    "texte": "Les grottes des monts sont occupées, puis une tribu ligure construit des oppida avant les invasions romaines.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "avant les invasions romaines",
+    "texte": "Des villages fortifiés abritent des cases et des troupeaux, au-dessus de la plaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "",
+    "texte": "Selon une tradition locale, les Romains auraient fondé Vallis Laeta (« Vallée heureuse »), mais ce point reste incertain.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "avril 1978",
+    "texte": "Le bâtiment principal de Grand Var ouvre, et le centre commercial s’agrandit ensuite à plusieurs reprises.",
+    "sources": [
+     "S4",
+     "S3"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "À Grand Var Est, après la fermeture définitive du McDonalds, une brasserie reste au 1er étage.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "aujourd’hui",
+    "texte": "Le mont Coudon, ancien système Séré de Rivières, est une base de surveillance militaire très importante pour la région militaire de défense « Méditerranée ».",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Grand Var",
+   "histoire": "Grand Var est une zone commerciale située sur les communes de La Garde et de La Valette-du-Var. Le bâtiment principal ouvre en avril 1978 et le site s’agrandit à plusieurs reprises.",
+   "anecdotes": [
+    {
+     "texte": "À Grand Var Est, le rez-de-chaussée « bas » paraît bien vide, et au 1er étage, après la fermeture définitive du McDonalds, il ne reste plus que la brasserie Grimbergen.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "À Grand Var Est, au RDC « bas », seuls deux commerces restent : Sifas et Tai Pei ; au 1er étage, la brasserie Grimbergen est encore là après la fermeture définitive du McDonalds.",
+   "sources": [
+    "S5",
+    "S3"
+   ],
+   "lat": 43.137130555556,
+   "lon": 6.0072038888889,
+   "url": "https://fr.wikipedia.org/wiki/Grand_Var"
+  },
+  {
+   "nom": "Mont Coudon",
+   "histoire": "Le mont Coudon est un des principaux sommets des Monts toulonnais. Ayant appartenu au système Séré de Rivières, il sert aujourd’hui de base de surveillance militaire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le mont Coudon est une base de surveillance militaire très importante pour la région militaire de défense « Méditerranée ».",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "lat": 43.16028,
+   "lon": 6.0083,
+   "url": "https://fr.wikipedia.org/wiki/Mont_Coudon"
+  }
+ ],
+ "sources": [
+  "La Valette-du-Var est une commune française située dans le département du Var en région Provence-Alpes-Côte d'Azur. En provençal, son nom est La Valeto. Ses habitants sont appelés les Valettois en français, lei Valeten (valentenco au féminin) en occitan provençal.",
+  "Déjà, au chalcolithique puis à l'âge du bronze, les grottes des monts sont occupées. Puis, une tribu ligure y construisit des oppida, avant les invasions romaines. Ces petits villages fortifiés abritent des cases et des troupeaux. Ils surplombent la plaine. Les Romains, selon la tradition des érudits locaux, auraient fondé la localité de Vallis Laeta (Vallée heureuse) ; mais peut-être n'était-ce qu'un ensemble de […]",
+  "Lieu « Grand Var » : Le Centre Commercial Grand Var est une zone commerciale située sur les communes de La Garde et de La Valette-du-Var.",
+  "Lieu « Grand Var », 1978 : Le centre commercial a ouvert son bâtiment principal en avril 1978, et s'est agrandi à plusieurs reprises.",
+  "Lieu « Grand Var », aujourd'hui : À Grand Var Est, le rez-de-chaussée \"bas\" et le 1er étage paraissent bien vide, au RDC \"bas\", seul deux commerces sont restés, Sifas et Tai Pei, au 1er étage, après la fermeture définitive du McDonalds, il ne reste plus que la brasserie Grimbergen",
+  "Lieu « Mont Coudon » : Le mont Coudon est un des principaux sommets des Monts toulonnais.",
+  "Lieu « Mont Coudon », aujourd'hui : Ayant appartenu au système Séré de Rivières, c'est aujourd'hui une base de surveillance militaire très importante pour la région militaire de défense « Méditerranée »."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 1
+ }
+}

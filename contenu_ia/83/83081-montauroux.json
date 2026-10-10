@@ -1,0 +1,146 @@
+{
+ "commune": {
+  "titre": "Montauroux",
+  "code_insee": "83081",
+  "departement": "83",
+  "population": 7183,
+  "lat": 43.6192,
+  "lon": 6.7658,
+  "url": "https://fr.wikipedia.org/wiki/Montauroux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:53",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1526,
+  "sortie": 1110
+ },
+ "cout_usd": 0.001693,
+ "accroche": "En 1044, Montauroux prend corps avec l’installation de Pierre d’Aurosa sur un piton calcaire, avant le grand agrandissement fortifié de 1365.",
+ "histoire": {
+  "recit": "Montauroux, commune du Var, se forme progressivement : des traces de vies très anciennes ont été relevées, mais c’est en 1044 que le lieu “émerge vraiment”, avec l’installation de Pierre d’Aurosa sur le piton calcaire. La bourgade se dote ensuite d’une défense plus visible : en 1365, la forteresse s’agrandit, autour d’une tour carrée déjà entourée d’un mur d’enceinte, puis des murs englobent la bourgade.\n\nÀ l’extrémité du Pays de Fayence, le Château de La Colle Noire garde une histoire marquée par des acteurs religieux et par les aléas de la propriété : construit en 1634 par les Pénitents Blancs, il conserve encore aujourd’hui un décor peint sur bois. Plus tard, à partir de 1839, Henri-Emmanuel Poulle y installe un relais des Postes.\n\nPlus au sud, le Lac de Saint-Cassien façonne le paysage : la retenue noie sur sept kilomètres l’aqueduc romain de Mons à Fréjus, et le barrage est mis en service en 1966. Aujourd’hui, le site attire les visiteurs au creux des collines du Midi.",
+  "chronologie": [
+   {
+    "date": "1044",
+    "texte": "Montauroux émerge véritablement avec l’installation de Pierre d’Aurosa sur le piton calcaire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1365",
+    "texte": "La forteresse s’agrandit ; elle s’appuyait déjà sur une grosse tour carrée entourée d’un mur d’enceinte, puis des murs englobent la bourgade.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1634",
+    "texte": "Le Château de La Colle Noire est construit par les Pénitents Blancs.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1839",
+    "texte": "Henri-Emmanuel Poulle crée sur le domaine un relais des Postes, dont le bâtiment sert vraisemblablement de base au futur château.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "La perte du titre de propriété empêche la vente comme bien national ; le château est soustrait au vandalisme de 1870 en intégrant le patrimoine d’Henri-Emmanuel Poulle.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1894",
+    "texte": "La retenue du futur lac noie l’aqueduc romain de Mons à Fréjus ; une conduite moderne en ciment y est installée en 1894.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1959",
+    "texte": "Le barrage de Saint-Cassien est construit après la rupture tragique du 2 décembre 1959 ; il est mis en service en 1966.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Château de La Colle Noire",
+   "histoire": "À l’entrée du Pays de Fayence, à la limite des Alpes-Maritimes et du Var, le château est construit en 1634 par les Pénitents Blancs. On y voit encore aujourd’hui un décor peint sur bois, sur les murs et sous la voûte. À partir de 1839, Henri-Emmanuel Poulle crée un relais des Postes, dont le bâtiment servira vraisemblablement de base au futur château. En 1870, la perte du titre de propriété l’empêche d’être vendu comme bien national : il est alors soustrait au vandalisme en intégrant le patrimoine d’Henri-Emmanuel Poulle.",
+   "anecdotes": [
+    {
+     "texte": "En 1870, le château échappe au vandalisme : ne pouvant pas être vendu comme bien national, il est préservé en intégrant le patrimoine d’Henri-Emmanuel Poulle.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "Construit en 1634 par les Pénitents Blancs, le lieu conserve encore un décor peint sur bois, entièrement orné sur les murs et la voûte.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La chapelle Sainte-Anne est toujours consacrée de nos jours.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 43.5975,
+   "lon": 6.788056,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_La_Colle_Noire"
+  },
+  {
+   "nom": "Lac de Saint-Cassien",
+   "histoire": "Le Lac de Saint-Cassien est un lac de barrage dans le Var, au sein de la communauté de communes du Pays de Fayence. Nommé d’après Saint Cassien, il noie une partie du territoire : sur sept kilomètres, il submerge l’aqueduc romain de Mons à Fréjus, où une conduite moderne en ciment est installée en 1894. Le barrage, construit après la rupture tragique du 2 décembre 1959, est mis en service en 1966. Aujourd’hui, le lac est devenu un lieu touristique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 43.583333333333,
+   "lon": 6.8,
+   "url": "https://fr.wikipedia.org/wiki/Lac_de_Saint-Cassien"
+  }
+ ],
+ "sources": [
+  "Montauroux (en provençal Montauron (graphie classique) / Mountauroun (graphie mistralienne) prononcé [mũntɔwˈrũŋ]) est une commune française située dans le département du Var, en région Provence-Alpes-Côte d'Azur. Ses habitants se nomment les Montaurousiens.",
+  "L'abbé de Mayeul (Cluny) eut parmi ses terres un domaine qui est en gros celui de l'actuelle communauté de communes du Pays de Fayence. Même si l’on retrouve des traces de vie datant de la Préhistoire (celto-ligures) et de l’époque romaine (aqueduc romain de Fréjus à Mons), Montauroux émerge véritablement en 1044, lors de l’installation de Pierre d’Aurosa sur ce piton calcaire. La situation géographique de ce lieu […]",
+  "1365 : Montauroux ayant déjà un embryon avec sa grosse tour carrée entourée d’un mur d’enceinte, la forteresse s’agrandit en 1365, puis furent construits des murs englobant la bourgade.",
+  "Lieu « Château de La Colle Noire » : Le château de La Colle Noire est une demeure située à l’entrée du Pays de Fayence, à la limite des Alpes-Maritimes et du Var.",
+  "Lieu « Château de La Colle Noire », 1634 : Construite en 1634 par les Pénitents Blancs, elle présente encore de nos jours un décor peint sur bois dont sont entièrement ornés les murs ainsi que la voûte.",
+  "Lieu « Château de La Colle Noire », 1839 : À partir de 1839, Henri-Emmanuel Poulle crée sur le domaine un relais des Postes, dont le bâtiment servira vraisemblablement de base au futur château.",
+  "Lieu « Château de La Colle Noire », 1870 : En raison de la perte de son titre de propriété, elle ne put être vendue comme bien national sous la Révolution française et fut ainsi soustraite au vandalisme pendant la révolution de 1870 en intégrant le patrimoine d'H-E. Poulle.",
+  "Lieu « Château de La Colle Noire », aujourd'hui : La chapelle Sainte-Anne est toujours consacrée de nos jours.",
+  "Lieu « Lac de Saint-Cassien » : Le lac de Saint-Cassien est un lac de barrage français situé en Provence, dans le sud-est du département du Var, dans la communauté de communes du Pays de Fayence, nommé d'après Saint Cassien.",
+  "Lieu « Lac de Saint-Cassien », 1894 : Comme la retenue de Malpasset auparavant, le plan d'eau noie sur sept kilomètres l'aqueduc romain de Mons à Fréjus dans lequel fut installée en 1894 une conduite moderne en ciment.",
+  "Lieu « Lac de Saint-Cassien », 1959 : Situé plus au nord que le barrage de Malpasset, et construit après sa rupture tragique le 2 décembre 1959 à 21 h 13, entre 1962 et 1965, le barrage de Saint-Cassien fut mis en service en 1966.",
+  "Lieu « Lac de Saint-Cassien », aujourd'hui : C'est aujourd'hui un lieu touristique au creux des collines abruptes du Midi."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 2
+ }
+}

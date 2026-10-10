@@ -1,0 +1,101 @@
+{
+ "commune": {
+  "titre": "Trans-en-Provence",
+  "code_insee": "83141",
+  "departement": "83",
+  "population": 6905,
+  "lat": 43.504167,
+  "lon": 6.486667,
+  "url": "https://fr.wikipedia.org/wiki/Trans-en-Provence"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:37:24",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1260,
+  "sortie": 665
+ },
+ "cout_usd": 0.001083,
+ "accroche": "À Trans-en-Provence, le 8 janvier 1981, Renato Niccolaï, maçon retraité, construit un abri en ciment pour la pompe à eau de son jardin à l’« Affaire de Trans-en-Provence ».",
+ "histoire": {
+  "recit": "Trans-en-Provence est une commune du Var, née de plusieurs villages installés le long de la rivière Nartuby, là où ses chutes et sa déclivité offrent une force hydraulique. Cette énergie alimente des barrages, des moulins et des aménagements : on y voit apparaître des foyers, puis des églises à vocation paroissiale, au point de structurer progressivement les quartiers.\n\nAu XIVe siècle, la demeure du seigneur devient château fort. Plus tard, au XVIIe siècle, la culture de l’olivier continue de s’étendre : un deuxième moulin à huile est construit et un troisième est envisagé, pour améliorer le quotidien.\n\nLe bourg se renforce encore avec l’église Saint-Roch, agrandie et reconstruite en 1680, faisant de Saint-Roch un bourg autonome par rapport à celui de Trans.\n\nEt puis il y a cette histoire d’atterrissage supposé d’« objet en forme de soucoupe volante », déclenchée par un geste banal : le 8 janvier 1981, l’« Affaire de Trans-en-Provence » commence par un abri en ciment et se prolonge par des traces et un récit qui attire l’attention de la gendarmerie.",
+  "chronologie": [
+   {
+    "date": "XIVe siècle",
+    "texte": "La demeure du seigneur est transformée en château fort.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "La culture de l’olivier se développe ; un deuxième moulin à huile est construit et un troisième est en projet.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1680",
+    "texte": "L’église Saint-Roch (aujourd’hui chapelle) est agrandie et reconstruite, et renforce le bourg de Saint-Roch, autonome par rapport à Trans.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "8 janvier 1981",
+    "texte": "Renato Niccolaï, maçon retraité, construit un abri en ciment pour la pompe à eau de son jardin vers 17 h.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Affaire de Trans-en-Provence",
+   "histoire": "L’« Affaire de Trans-en-Provence » désigne le prétendu atterrissage d’un « objet en forme de soucoupe volante » et les investigations qui ont suivi, après qu’un habitant a observé l’événement dans la foulée d’un travail ordinaire au jardin.",
+   "anecdotes": [
+    {
+     "texte": "Le lendemain, des traces au sol sont montrées à son épouse ; elle en parle à une voisine, passionnée par les ovnis, qui avertit la gendarmerie.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "lat": 43.49695,
+   "lon": 6.50696,
+   "url": "https://fr.wikipedia.org/wiki/Affaire_de_Trans-en-Provence"
+  }
+ ],
+ "sources": [
+  "Trans-en-Provence [tʁɑ̃s ɑ̃ pʁɔvɑ̃s] est une commune française située dans le département du Var, en région française Provence-Alpes-Côte d'Azur.",
+  "Il s'agit, à l’origine, de plusieurs villages répartis le long de la rivière Nartuby. En effet, à cet endroit, la rivière connait plusieurs chutes dues à une forte déclivité. La force hydraulique récupérée grâce à plusieurs barrages, moulins et aménagements hydrauliques à différents endroits a permis différents foyers primitifs. Plusieurs églises à vocation paroissiale ont été construites. Outre l'église principale, […]",
+  "XIVe siècle : Au XIVe siècle, la demeure du seigneur est transformée en château fort.",
+  "XVIIe siècle : Au XVIIe siècle, la culture de l’olivier se développe encore ; un deuxième moulin à huile est construit et un troisième en projet ce qui permet d’améliorer le sort de ses habitants.",
+  "1680 : Par exemple, l'église Saint-Roch (aujourd'hui chapelle) sera agrandie et reconstruite en 1680 ce qui renforcera le bourg de Saint-Roch, de fait autonome, par rapport au nouveau bourg de Trans.",
+  "Lieu « Affaire de Trans-en-Provence » : L'affaire de Trans-en-Provence désigne le prétendu atterrissage d'un « objet en forme de soucoupe volante » auquel aurait assisté un maçon de Trans-en-Provence (Var), Renato Niccolaï, le 8 janvier 1981, ainsi que les investigations qui ont suivi (rap",
+  "Lieu « Affaire de Trans-en-Provence », 1981 : Le 8 janvier 1981, vers 17 h, un habitant de Trans-en-Provence, Renato Niccolaï, maçon retraité, construit un abri en ciment pour la pompe à eau de son jardin.",
+  "Lieu « Affaire de Trans-en-Provence », aujourd'hui : L'engin a laissé des traces au sol que le témoin montre le lendemain à son épouse, qui en parle à sa voisine, laquelle, passionnée par les ovnis, avertit la gendarmerie."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

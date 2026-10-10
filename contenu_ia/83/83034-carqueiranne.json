@@ -1,0 +1,104 @@
+{
+ "commune": {
+  "titre": "Carqueiranne",
+  "code_insee": "83034",
+  "departement": "83",
+  "population": 9408,
+  "lat": 43.09583333,
+  "lon": 6.07416667,
+  "url": "https://fr.wikipedia.org/wiki/Carqueiranne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:03:46",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1066,
+  "sortie": 970
+ },
+ "cout_usd": 0.001426,
+ "accroche": "En 1896, le fort de La Bayarde est construit et s’inscrit dans la ligne de défense de la grande rade de Toulon.",
+ "histoire": {
+  "recit": "À Carqueiranne, l’histoire commence bien avant les seigneurs : des vestiges néolithiques attestent d’une présence ancienne. Plus tard, du XIe au XIIIe siècle, la terre appartient à la seigneurie de Fos, puis au XVe siècle, elle est donnée par le bon Roi René à Jean-Baptiste de Morance. Le seigneur ne se contente pas d’administrer : il cosigne, en qualité de témoin, l’acte du premier codicille de Charles III, léguant la Provence à Louis XI.\n\nAutre époque, autre rôle : sur le littoral, la défense se renforce avec les batteries de côte du programme de la rade de Toulon à partir de 1878. Puis, en 1896, le fort de La Bayarde est construit, devenant un élément de cette ligne de défense de la grande rade de Toulon.",
+  "chronologie": [
+   {
+    "date": "2100-1800 av. J.-C.",
+    "texte": "Des traces de vestiges néolithiques sont retrouvées à Carqueiranne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIe siècle - XIIIe siècle",
+    "texte": "La terre de Carqueiranne appartient à la seigneurie de Fos.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XVe siècle",
+    "texte": "La terre est donnée par le bon Roi René à Jean-Baptiste de Morance.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "à la suite de l’acte du premier codicille",
+    "texte": "Jean-Baptiste de Morance cosigne, en témoin, l’acte du premier codicille de Charles III léguant la Provence à Louis XI.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "à partir de 1878",
+    "texte": "La Bayarde fait partie des batteries de côte construites dans le cadre du programme de défense de la rade de Toulon.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1896",
+    "texte": "Le fort de La Bayarde est construit et fait partie de la ligne de défense de la grande rade de Toulon.",
+    "sources": [
+     "S3",
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Fort de la Bayarde",
+   "histoire": "Construit en 1896, le fort de La Bayarde s’insère dans la ligne de défense de la grande rade de Toulon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le fort de La Bayarde, construit en 1896, fait partie intégrante de la ligne de défense de la grande rade de Toulon.",
+   "sources": [
+    "S3",
+    "S5"
+   ],
+   "lat": 43.0907,
+   "lon": 6.0559,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_la_Bayarde"
+  }
+ ],
+ "sources": [
+  "Carqueiranne ([kaʁkeʁan]) est une commune française située dans le département du Var, en région Provence-Alpes-Côte d'Azur.",
+  "Il a été trouvé des traces de vestiges néolithiques datant de 2100-1800 av. J.-C.. Du XIe siècle au XIIIe siècle, la terre de Carqueiranne appartint à la seigneurie de Fos et au XVe siècle, elle fut donnée par le bon Roi René à Jean-Baptiste de Morance. C'est ce seigneur qui cosigna en qualité de témoin l'acte du premier codicille de Charles III, léguant la Provence à Louis XI, roi de France. Une partie de la […]",
+  "Lieu « Fort de la Bayarde » : Le fort de La Bayarde, construit en 1896, fait partie intégrante de la ligne de défense de la grande rade de Toulon.",
+  "Lieu « Fort de la Bayarde », 1878 : La Bayarde est une des batteries de côte construites dans le cadre du programme de défense de la rade de Toulon à partir de 1878.",
+  "Lieu « Fort de la Bayarde », 1896 : Le fort de La Bayarde, construit en 1896, fait partie intégrante de la ligne de défense de la grande rade de Toulon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

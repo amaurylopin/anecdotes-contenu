@@ -1,0 +1,96 @@
+{
+ "commune": {
+  "titre": "Cuers",
+  "code_insee": "83049",
+  "departement": "83",
+  "population": 13271,
+  "lat": 43.2383,
+  "lon": 6.0717,
+  "url": "https://fr.wikipedia.org/wiki/Cuers"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:35:42",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1012,
+  "sortie": 776
+ },
+ "cout_usd": 0.001172,
+ "accroche": "En 1867, lors de fouilles, le docteur Jaubert a entièrement vidé la chambre du dolmen des Antiquailles à Cuers, puis l’édifice a été pillé à plusieurs reprises.",
+ "histoire": {
+  "recit": "À Cuers, les traces d’occupation humaine sont anciennes : les plus vieilles remontent à 2500 av. J.-C. Avant même l’époque romaine, des Ligures se sont installés dans la région, puis les Romains y ont laissé trois camps et un oppidum au sommet de la Barre de Cuers. Plus tard, les invasions sarrasines, dites fréquentes dans la région au VIIIe siècle, ont contraint les habitants à chercher une protection.",
+  "chronologie": [
+   {
+    "date": "2500 av. J.-C.",
+    "texte": "Les traces d’occupation humaine les plus anciennes sur le territoire communal remontent à 2500 av. J.-C.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "époques suivantes (Ligures, Romains)",
+    "texte": "Des Ligures puis des Romains s’installent dans la région de Cuers : on y relève notamment trois camps romains et un oppidum au haut de la Barre de Cuers.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "VIIIe siècle",
+    "texte": "Les invasions sarrasines, fréquentes dans la région, poussent les habitants à chercher à échapper à ces dangers.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1867",
+    "texte": "Le docteur Jaubert vide entièrement la chambre du dolmen des Antiquailles lors de ses fouilles ; l’édifice est ensuite pillé à de nombreuses reprises.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Dolmen des Antiquailles",
+   "histoire": "Le dolmen des Antiquailles est un dolmen situé à Cuers, dans le Var. Lors de fouilles menées en 1867, la chambre a été entièrement vidée par le docteur Jaubert, puis l’édifice a été pillé à de nombreuses reprises, ce qui explique son état de ruine.",
+   "anecdotes": [
+    {
+     "texte": "En 1867, le docteur Jaubert vide entièrement la chambre du dolmen ; malgré les fouilles, l’édifice subit ensuite de nombreux pillages, jusqu’à laisser place à la ruine.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un dolmen aujourd’hui en état de ruine.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 43.22472,
+   "lon": 6.09833,
+   "url": "https://fr.wikipedia.org/wiki/Dolmen_des_Antiquailles"
+  }
+ ],
+ "sources": [
+  "Cuers [kɥɛʁs] est une commune française située dans le département du Var en région Provence-Alpes-Côte d'Azur.",
+  "De nombreuses traces d'occupation humaine ont été retrouvées sur le territoire communal, les plus anciennes remontant à 2500 av. J.-C.. Les Ligures, puis les Romains, s'installèrent ensuite dans la région de Cuers, laissant notamment les traces de trois camps romains, et d'un oppidum en haut de la Barre de Cuers. Afin d'échapper aux invasions sarrasines, fréquentes dans la région au VIIIe siècle, les habitants du […]",
+  "Lieu « Dolmen des Antiquailles » : Le dolmen des Antiquailles est un dolmen situé à Cuers, dans le département du Var en France.",
+  "Lieu « Dolmen des Antiquailles », 1867 : La chambre a été entièrement vidée en 1867 par le docteur Jaubert lors de ses fouilles et l'édifice a été pillé depuis à de nombreuses reprises, ce qui explique son état de ruine."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

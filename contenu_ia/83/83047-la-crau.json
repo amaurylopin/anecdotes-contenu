@@ -1,0 +1,99 @@
+{
+ "commune": {
+  "titre": "La Crau",
+  "code_insee": "83047",
+  "departement": "83",
+  "population": 19556,
+  "lat": 43.15055556,
+  "lon": 6.07472222,
+  "url": "https://fr.wikipedia.org/wiki/La_Crau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:12:24",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1322,
+  "sortie": 668
+ },
+ "cout_usd": 0.001099,
+ "accroche": "En 1632, le canal en pierre et mortier de La Crau est totalement achevé, sous le règne de Louis XIII.",
+ "histoire": {
+  "recit": "La Crau, commune du Var, s’étend en arrière des stations balnéaires d’Hyères et de Carqueiranne, dans la partie orientale de l’agglomération toulonnaise.\n\nTrès tôt, sa plaine attire des chasseurs néolithiques qui parcourent un milieu humide traversé par le Gapeau, avec des abris sous roche au massif du Fenouillet et vers les contreforts des Maurettes et des Maures. Plus tard, les Romains aménagent la plaine et y installent une voie importante : ils franchissent le Gapeau sur un pont aujourd’hui disparu, près de Notre-Dame.\n\nAu fil des aménagements, l’eau structure le paysage : le canal, construit en pierre et mortier, est achevé en 1632. Au XIXe siècle, de gros domaines agricoles se développent autour de la route entre La Garde et Pierrefeu, puis un village se forme aux XVIIIe et XIXe siècles, avec le gros hameau de La Moutonne au sud.\n\nVers 1960, un grand lavoir est édifié sur les rives du canal, encore utilisé jusque dans les années 1960.\n\nAu cœur de cette histoire, la chapelle Notre-Dame-du-Fenouillet subit destruction, profanation et incendie, avant d’être restaurée et inaugurée le 12 avril 2004.",
+  "chronologie": [
+   {
+    "date": "1632",
+    "texte": "Le canal en pierre et mortier est totalement achevé en 1632, sous le règne de Louis XIII.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1960",
+    "texte": "Un grand lavoir est édifié sur les rives du canal, utilisé jusqu’aux années 1960.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Chapelle Notre-Dame-du-Fenouillet",
+   "histoire": "La chapelle Notre-Dame-du-Fenouillet, appelée officiellement Notre-Dame-de-Bon-Secours dans la paroisse, est détruite pendant la Révolution de 1789. Plus tard, elle est profanée plusieurs fois et incendiée, puis rendue au culte en 1880. Restaurée, elle est inaugurée le 12 avril 2004.",
+   "anecdotes": [
+    {
+     "texte": "D’abord détruite à la Révolution, la chapelle est ensuite profanée à plusieurs reprises et incendiée avant de revenir au culte en 1880.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S7",
+      "S8"
+     ]
+    },
+    {
+     "texte": "Le 12 avril 2004, la chapelle restaurée est inaugurée en présence des autorités locales et du chanoine Jean Yves Molinas, vicaire général du diocèse de Fréjus-Toulon.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 43.13579306,
+   "lon": 6.09631583,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-du-Fenouillet"
+  }
+ ],
+ "sources": [
+  "La Crau est une commune française située dans le département du Var en région Provence-Alpes-Côte d'Azur. Elle s'inscrit dans la partie orientale de l'agglomération toulonnaise, en arrière des stations balnéaires d'Hyères et de Carqueiranne.",
+  "Très tôt, la plaine de La Crau a été fréquentée par des chasseurs néolithiques, qui traquaient le gibier dans un milieu humide traversé par le Gapeau. Ils occupaient les abris sous roche du massif du Fenouillet et des contreforts des Maurettes et des Maures. Les Romains aménagèrent la plaine, traversée par une voie romaine importante qui franchissait le Gapeau sur un pont aujourd'hui disparu près de Notre-Dame. Les […]",
+  "1632 : Le canal en pierre et mortier encore visible fut totalement achevé en 1632, sous le règne du roi Louis XIII.",
+  "XIXe siècle : Quelques gros domaines agricoles furent édifiés autour de la route entre La Garde et Pierrefeu, puis un village aux XVIIIe et XIXe siècles, doublé du gros hameau de La Moutonne, plus au sud.",
+  "1960 : Un grand lavoir fut édifié sur les rives du canal, utilisé jusque dans les années 1960.",
+  "Lieu « Chapelle Notre-Dame-du-Fenouillet » : La chapelle Notre-Dame-du-Fenouillet, appelée officiellement dans la paroisse chapelle Notre-Dame-de-Bon-Secours, est une chapelle française située dans le département du Var et la commune de La Crau",
+  "Lieu « Chapelle Notre-Dame-du-Fenouillet », 1789 : À la Révolution de 1789, la chapelle est détruite.",
+  "Lieu « Chapelle Notre-Dame-du-Fenouillet », 1880 : Par la suite, la chapelle est profanée plusieurs fois et incendiée, elle est rendue au culte en 1880 .",
+  "Lieu « Chapelle Notre-Dame-du-Fenouillet », 2004 : Le 12 avril 2004 , la chapelle restaurée est inaugurée en présence des autorités locales, du chanoine Jean Yves Molinas, vicaire général du diocèse de Fréjus-Toulon et de nombreux prêtres du secteur.",
+  "Lieu « Chapelle Notre-Dame-du-Fenouillet », aujourd'hui : Il ne reste plus alors que la chapelle consacrée à Notre-Dame."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

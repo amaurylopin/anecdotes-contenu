@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Sainte-Maxime",
+  "code_insee": "83115",
+  "departement": "83",
+  "population": 14118,
+  "lat": 43.307012,
+  "lon": 6.641551,
+  "url": "https://fr.wikipedia.org/wiki/Sainte-Maxime"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:32:04",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1082,
+  "sortie": 542
+ },
+ "cout_usd": 0.000894,
+ "accroche": "En 1762, Sainte-Maxime fait ériger une nouvelle église paroissiale, signe d’une vitalité et d’une population en hausse.",
+ "histoire": {
+  "recit": "À Sainte-Maxime, le littoral a d’abord été un lieu fréquenté avant l’urbanisation antique. Sur des sites côtiers comme celui du Meunier, au-dessus de la pointe des Sardinaux, des traces d’occupation protohistoriques témoignent d’une présence ancienne sur la frange du golfe de Saint-Tropez.\n\nPlus tard, au cœur de la vie locale, la paroisse se transforme : en 1762, une nouvelle église est érigée, puis agrandie au siècle suivant.\n\nSainte-Maxime connaît aussi des découvertes inattendues : le dolmen de Haute Suane, en limite de Sainte-Maxime et de Grimaud, a été retrouvé par G. Chabaud en 1971, après un incendie. La commune affirme ainsi, à travers ses traces, un passé qui se révèle parfois de façon brutale, mais toujours concrète.",
+  "chronologie": [
+   {
+    "date": "1762",
+    "texte": "Une nouvelle église paroissiale est érigée à Sainte-Maxime, puis agrandie au siècle suivant.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1971",
+    "texte": "Le dolmen de Haute Suane est découvert par G. Chabaud après un incendie.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Dolmen de Haute Suane",
+   "histoire": "Le dolmen de Haute Suane est un dolmen situé en limite des communes de Grimaud et Sainte-Maxime, dans le Var.",
+   "anecdotes": [
+    {
+     "texte": "En 1971, G. Chabaud le découvre après un incendie.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5"
+   ],
+   "lat": 43.3093,
+   "lon": 6.5914,
+   "url": "https://fr.wikipedia.org/wiki/Dolmen_de_Haute_Suane"
+  }
+ ],
+ "sources": [
+  "Sainte-Maxime est une commune française située dans le département du Var, en région Provence-Alpes-Côte d'Azur. Avec 14 394 habitants en 2022, il s'agit de la ville la plus importante du golfe de Saint-Tropez. Ses habitants sont appelés les Maximois et les Maximoises.",
+  "Le territoire de Sainte-Maxime n'a pas livré de gisements préhistoriques majeurs ou d'artefacts paléolithiques notables répertoriés. Mais des traces d'occupation protohistoriques ont notamment été identifiées sur des sites côtiers comme celui du Meunier, au-dessus de la pointe des Sardinaux. Ils témoignent d'une fréquentation de cette frange littorale du golfe de Saint-Tropez avant l'urbanisation antique. Les […]",
+  "1762 : Symbole de cette vitalité retrouvée et de l'augmentation de la population, une nouvelle église paroissiale est érigée en 1762 puis agrandie au siècle suivant.",
+  "Lieu « Dolmen de Haute Suane » : Le dolmen de Haute-Suane est un dolmen situé en limite des communes de Grimaud et Sainte-Maxime, dans le département du Var en France.",
+  "Lieu « Dolmen de Haute Suane », 1971 : L'édifice a été découvert par G. Chabaud en 1971 après un incendie."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}

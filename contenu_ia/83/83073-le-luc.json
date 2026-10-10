@@ -1,0 +1,66 @@
+{
+ "commune": {
+  "titre": "Le Luc",
+  "code_insee": "83073",
+  "departement": "83",
+  "population": 11310,
+  "lat": 43.395556,
+  "lon": 6.313333,
+  "url": "https://fr.wikipedia.org/wiki/Le_Luc"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:47:30",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1009,
+  "sortie": 545
+ },
+ "cout_usd": 0.000883,
+ "accroche": "Au XIe siècle, des paysans du Luc, dits alleutiers, donnent leur église à l’église Saint-Pierre de Rome pour préserver leurs libertés.",
+ "histoire": {
+  "recit": "Au Luc, on ne parle pas seulement de seigneurs : on raconte aussi des hommes qui tiennent à leurs propres règles. À la fin du Haut Moyen Âge, certains paysans jouissent de libertés et portent le nom d’alleutiers ; ils disposent d’une église distincte de celle du castrum. Quand la structure féodale menace ces libertés, ils choisissent une voie radicale : au XIe siècle, ils donnent leur église à l’église Saint-Pierre de Rome, puis à l’abbaye de Montmajour, pour éviter une dépendance qui les ferait perdre ce qu’ils tiennent de la terre.\n\nPlus tard, le destin du Luc se lit aussi dans les titres. En 1577, la seigneurie des Castellane passe aux Vintimille, par des mariages ; et, en novembre 1688, elle est érigée en marquisat pour François-Charles de Vintimille, capitaine de galère.",
+  "chronologie": [
+   {
+    "date": "XIe siècle",
+    "texte": "Pour éviter de tomber sous la dépendance féodale, des alleutiers donnent leur église à l’église Saint-Pierre de Rome, puis à l’abbaye de Montmajour.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1577",
+    "texte": "La seigneurie des Castellane devient celle des Vintimille, par des mariages.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "novembre 1688",
+    "texte": "Le territoire est érigé en marquisat pour François-Charles de Vintimille, capitaine de galère.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Le Luc est une commune française située dans le département du Var, en région Provence-Alpes-Côte d'Azur. Elle est le chef-lieu de son propre canton, le canton du Luc. Les habitants du Luc sont appelés les Lucois.",
+  "À la fin du Haut Moyen Âge, un certain nombre de paysans jouissaient de libertés, et étaient appelés pour cette raison alleutiers. Ils possédaient leur propre église, distincte de celle du castrum. La mise en place de la structure féodale menace leurs libertés, ce qui les conduit au XIe siècle à donner leur église à l’église Saint-Pierre de Rome, puis à l’abbaye de Montmajour pour éviter de tomber sous la dépendance […]",
+  "1577 : Seigneurie des Castellane, puis des Vintimille en 1577 (par des mariages), érigée en marquisat par lettres patentes de novembre 1688, pour François-Charles de Vintimille (Charles-François de Vintimille du Luc), capitaine de galère."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

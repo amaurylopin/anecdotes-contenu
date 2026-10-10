@@ -1,0 +1,77 @@
+{
+ "commune": {
+  "titre": "Le Pradet",
+  "code_insee": "83098",
+  "departement": "83",
+  "population": 10933,
+  "lat": 43.10638888,
+  "lon": 6.02388888,
+  "url": "https://fr.wikipedia.org/wiki/Le_Pradet"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:50:01",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1171,
+  "sortie": 500
+ },
+ "cout_usd": 0.000859,
+ "accroche": "Au lieu-dit San Peyre, une villa gallo-romaine a livré des murs de soutènement et une citerne voutée sur le territoire du Pradet.",
+ "histoire": {
+  "recit": "Le Pradet, commune urbaine à l’est de l’agglomération toulonnaise, s’ouvre sur la rade de Toulon grâce à sa façade maritime. Ses villae gallo-romaines prennent racine le long d’une route de crête reliant Massalia à Niccaïa, en passant par Telo-Martius et Olbia. Parmi elles, une villa s’est installée au lieu-dit San Peyre, avec une citerne voutée et un goût supposé pour l’ornementation mosaïquée.\n\nAu XXe siècle, un autre récit commence : la villa l’Artaude, aussi appelée « villa Mandrot ». Construite en 1930 par Le Corbusier, au chemin de l’Artaude au Pradet, elle a été édifiée pour Hélène de Mandrot. Aujourd’hui, la villa l’Artaude reste une propriété privée, gardant son allure discrète au milieu du paysage local.",
+  "chronologie": [
+   {
+    "date": "(période gallo-romaine)",
+    "texte": "Sur le territoire du Pradet, des villae gallo-romaines s’installent le long d’une route de crête reliant Massalia à Niccaïa, via Telo-Martius et Olbia, dont une villa au lieu-dit San Peyre.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1930",
+    "texte": "La villa l’Artaude, dite « villa Mandrot », est construite par Le Corbusier au chemin de l’Artaude au Pradet pour Hélène de Mandrot.",
+    "sources": [
+     "S3",
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Villa l'Artaude",
+   "histoire": "La villa l’Artaude, aussi appelée « villa Mandrot », est une maison aux murs de pierre brute construite par Le Corbusier en 1930, au chemin de l’Artaude au Pradet, pour Hélène de Mandrot. Aujourd’hui, c’est une propriété privée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Propriété privée.",
+   "sources": [
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "lat": 43.1015,
+   "lon": 6.03035,
+   "url": "https://fr.wikipedia.org/wiki/Villa_l%27Artaude"
+  }
+ ],
+ "sources": [
+  "Le Pradet est une commune française située dans le département du Var, en région Provence-Alpes-Côte d'Azur. Commune urbaine de l'est de l'agglomération toulonnaise, elle a une façade maritime qui donne sur la rade de Toulon. En 2020, la commune comptait un peu plus de 10 000 habitants, appelés les Pradétans et les Pradétannes.",
+  "Une route de crête reliant Massalia (Marseille) à Niccaïa (Nice), en passant par Telo-Martius (Toulon) et Olbia (Hyères), des villae gallo-romaines se sont installées sur ce qui est aujourd'hui Le Pradet. Au lieu-dit San Peyre, une villa est localisée. Construite sur une colline (présence de murs de soutènement) elle possédait une citerne voutée et devait être ornée de mosaïques. En revanche, rien ne prouve que […]",
+  "Lieu « Villa l'Artaude » : La villa l'Artaude, appelée aussi « villa Mandrot », est une maison simple aux murs de pierre brute construite par Le Corbusier en 1930, au chemin de l'Artaude au Pradet (à l'est de Toulon, dans le département du Var), pour Hélène de Mandrot.",
+  "Lieu « Villa l'Artaude », 1930 : La villa l'Artaude, appelée aussi « villa Mandrot », est une maison simple aux murs de pierre brute construite par Le Corbusier en 1930, au chemin de l'Artaude au Pradet (à l'est de Toulon, dans le département du Var), pour Hélène de Mandrot.",
+  "Lieu « Villa l'Artaude », aujourd'hui : Aujourd'hui la villa est une propriété privée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

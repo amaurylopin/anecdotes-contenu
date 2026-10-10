@@ -1,0 +1,92 @@
+{
+ "commune": {
+  "titre": "Saint-Cyr-sur-Mer",
+  "code_insee": "83112",
+  "departement": "83",
+  "population": 11658,
+  "lat": 43.1820233,
+  "lon": 5.7089424,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Cyr-sur-Mer"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:44:16",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1245,
+  "sortie": 590
+ },
+ "cout_usd": 0.000986,
+ "accroche": "À Saint-Cyr-sur-Mer, le musée gallo-romain de Tauroentum se dresse sur les vestiges d’une villa Maritima du Ier siècle ap.",
+ "histoire": {
+  "recit": "À la limite ouest du Var, Saint-Cyr-sur-Mer compte les Saint-Cyriens et fait partie de l’intercommunalité Sud Sainte-Baume. Ici, les collines au sud de la vallée sont peuplées dès la préhistoire : des silex ont été découverts sur le site du musée de Tauroentum, et la colline de la Gache a livré des espaces occupés au néolithique. \n\nL’activité se poursuit fortement à l’époque romaine : les vestiges d’une villa Maritima donnent naissance, plus tard, au musée gallo-romain de Tauroentum. On y montre trois mosaïques en noir et blanc du Ier siècle et un “tombeau à étage maison”, autant de signes de la richesse de la demeure antique.\n\nPlus près de nous, la commune connaît aussi des épisodes marquants. Le 26 mai 1985, l’effondrement d’une restanque au camping des Baumelles provoque la mort de 11 personnes. Et, bien avant cela, une inauguration à Saint-Cyr-sur-Mer intervient en 1913 : l’installation est offerte par Anatole Ducros, grand propriétaire local.",
+  "chronologie": [
+   {
+    "date": "Ier siècle",
+    "texte": "La villa Maritima fonde le site : elle est associée à des mosaïques en noir et blanc et à un tombeau à étage maison.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XVIIe siècle",
+    "texte": "Des fouilles sont menées dès le XVIIe siècle sur le site, révélant l’intense activité romaine.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "Une inauguration a lieu à Saint-Cyr-sur-Mer : l’installation est offerte par Anatole Ducros, grand propriétaire de la commune.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "26 mai 1985",
+    "texte": "Au camping des Baumelles, l’effondrement d’une restanque provoque la mort de 11 personnes.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée gallo-romain de Tauroentum",
+   "histoire": "Le musée gallo-romain de Tauroentum est construit sur les vestiges de la villa Maritima, datant de l’époque gallo-romaine au Ier siècle ap. Il accueille notamment trois mosaïques en noir et blanc du Ier siècle, et un “tombeau à étage maison”.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S3"
+   ],
+   "lat": 43.17119,
+   "lon": 5.69551,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_gallo-romain_de_Tauroentum"
+  }
+ ],
+ "sources": [
+  "Saint-Cyr-sur-Mer est une commune française située à la limite ouest du département du Var, dans la région Provence-Alpes-Côte d'Azur. Elle fait partie de la communauté d'agglomération Sud Sainte-Baume. Ses habitants sont appelés les Saint-Cyriens.",
+  "Les collines au sud de la vallée de Saint-Cyr-sur-Mer ont été peuplées dès la préhistoire, comme en témoignent les silex en pierre découverts sur le site du musée de Tauroentum et les espaces occupés au néolithique sur la colline de la Gache. Les fouilles révèlent une intense activité à l'époque romaine. Ces fouilles furent menées dès le XVIIe siècle. Témoin du passé et gardien du patrimoine, le musée de Tauroentum […]",
+  "Ier siècle : Construit sur les vestiges d'une villa Maritima, il abrite trois mosaïques en noir et blanc du Ier siècle, ainsi qu'un Tombeau à étage maison qui attestent la richesse de cette antique demeure romaine.",
+  "1913 : Inaugurée à Saint-Cyr-sur-Mer en 1913, elle est offerte par Anatole Ducros, un grand propriétaire de Saint-Cyr-sur-Mer.",
+  "1985 : Le 26 mai 1985, l'effondrement d'une restanque au camping des Baumelles provoqua la mort de 11 personnes.",
+  "Lieu « Musée gallo-romain de Tauroentum » : Le musée gallo-romain de Tauroentum ou musée de Tauroentum est un musée situé à Saint-Cyr-sur-Mer, et construit sur les vestiges de la villa Maritima, datant de l'époque gallo-romaine, au Ier siècle ap.",
+  "Lieu « Musée gallo-romain de Tauroentum », Ier siècle : Le musée gallo-romain de Tauroentum ou musée de Tauroentum est un musée situé à Saint-Cyr-sur-Mer, et construit sur les vestiges de la villa Maritima, datant de l'époque gallo-romaine, au Ier siècle ap."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "commune": {
+  "titre": "Le Muy",
+  "code_insee": "83086",
+  "departement": "83",
+  "population": 10118,
+  "lat": 43.4736,
+  "lon": 6.5667,
+  "url": "https://fr.wikipedia.org/wiki/Le_Muy"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:20",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 992,
+  "sortie": 464
+ },
+ "cout_usd": 0.000778,
+ "accroche": "En 1592, Le Muy est assiégée, canonnée et prise pour le compte du roi Henry IV par le duc de Lesdiguières.",
+ "histoire": {
+  "recit": "Le Muy, commune du Var, compte des Muyois. Les traces les plus anciennes signalent une présence humaine durable : des sites paléolithiques ont été identifiés et fouillés, en plaine et dans le massif du Rouet, tandis que de nombreux oppidums de l’âge du fer parsèment le Rocher de Roquebrune et le massif du Rouet, témoignant de tribus ligures sur le futur territoire. L’époque gallo-romaine marque aussi la zone par des vestiges prospectés ou fouillés, notamment liés à une grande villa.\n\nPlus tard, le destin de la commune se tend. En 1592, Le Muy est assiégée, canonnée et prise pour le compte du roi Henry IV, par le duc de Lesdiguières. Puis, en 1793, le château seigneurial est partiellement incendié par des volontaires et des habitants du Muy.",
+  "chronologie": [
+   {
+    "date": "1592",
+    "texte": "Le Muy est assiégée, canonnée et prise pour le compte du roi Henry IV, par le duc de Lesdiguières.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1793",
+    "texte": "Le château seigneurial est partiellement incendié par des volontaires et des habitants du Muy.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Le Muy est une commune française située dans le département du Var, en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Muyois. Le maire actuel est Romain Vacquier.",
+  "Plusieurs sites du paléolithique ont été identifiés et fouillés sur la commune, en plaine et dans le massif du Rouet. De nombreux oppidums de l'âge du fer parsèment le Rocher de Roquebrune et le massif du Rouet et témoignent de la présence de tribus ligures sur le futur territoire de la commune. L'époque gallo-romaine marque également le territoire par les nombreux vestiges prospectés ou fouillés, de la grande villa […]",
+  "1592 : En 1592, Le Muy est assiégée, canonnée et prise, pour le compte du roi Henry IV, par le duc de Lesdiguières.",
+  "1793 : En 1793, le château seigneurial est partiellement incendié par des volontaires et des habitants du Muy."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

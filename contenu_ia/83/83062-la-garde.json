@@ -1,0 +1,98 @@
+{
+ "commune": {
+  "titre": "La Garde (Var)",
+  "code_insee": "83062",
+  "departement": "83",
+  "population": 26476,
+  "lat": 43.12555556,
+  "lon": 6.01083333,
+  "url": "https://fr.wikipedia.org/wiki/La_Garde_%28Var%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 14:56:11",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1150,
+  "sortie": 816
+ },
+ "cout_usd": 0.00125,
+ "accroche": "À La Garde, la légende de saint Maur raconte qu’en 542 il entra dans le village, affamé, et fut sauvé par une vieille femme qui lui donna du pain et des oignons.",
+ "histoire": {
+  "recit": "La Garde, dans le Var, s’appuie sur des traces très anciennes : des vestiges de l’Antiquité et de la période romaine, dont un pressoir à huile proche du campus de l’Université. Dans les récits locaux, saint Maur donne au village son visage : la légende le fait passer en 542, puis recevoir du pain et des oignons, avant d’accorder une bénédiction qui expliquerait le destin des oignons de La Garde.\n\nPlus tard, la commune change de rythme avec le chemin de fer. La gare de La Pauline-Hyères prend son nom et son rôle de carrefour en 1875, quand l’embranchement vers Hyères s’ouvre et transforme le lieu en gare de bifurcation.\n\nLe XXe siècle marque aussi la commune. En novembre 1942, une petite garnison italienne s’installe à la gendarmerie, avant de se retirer en octobre 1943 ; La Garde est alors occupée par les forces allemandes.",
+  "chronologie": [
+   {
+    "date": "542",
+    "texte": "Selon la légende locale, saint Maur passe par La Garde et reçoit du pain et des oignons, avant de bénir la suite de l’histoire des oignons du village.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "La gare de La Pauline-Hyères reçoit son nom en 1875, lors de l’ouverture de l’embranchement jusqu’à la ville de Hyères.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "6 décembre 1875",
+    "texte": "La gare devient une gare de bifurcation avec l’ouverture de l’exploitation entre La Pauline-Hyères et Hyères.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "novembre 1942",
+    "texte": "Pendant la Seconde Guerre mondiale, La Garde reçoit une petite garnison italienne à la gendarmerie.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "octobre 1943",
+    "texte": "La garnison italienne se retire ; la commune est alors occupée par les forces allemandes.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de La Pauline-Hyères",
+   "histoire": "La gare de La Pauline-Hyères fait partie d’un réseau qui relie Marseille-Saint-Charles à Vintimille (frontière), et La Pauline-Hyères aux Salins-d’Hyères. En 1875, le site est renommé La Pauline-Hyères avec l’ouverture de l’embranchement vers Hyères. Quelques temps plus tard, l’ouverture de l’exploitation sur la section de La Pauline-Hyères à Hyères le 6 décembre 1875 fait évoluer la gare en lieu de bifurcation.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "lat": 43.136287,
+   "lon": 6.034987,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_La_Pauline-Hy%C3%A8res"
+  }
+ ],
+ "sources": [
+  "La Garde est une commune française située dans le département du Var en région Provence-Alpes-Côte d'Azur.",
+  "La Garde possède des vestiges de l'Antiquité et de la période romaine, notamment un pressoir à huile proche du campus de l'Université. Le saint patron de la commune, saint Maur, est, selon la légende locale, un dénommé Maur qui passa par là en 542. Affamé lorsqu'il entra dans le village, une vieille femme lui donna du pain et des oignons. Maur les bénit et décida qu'à partir de ce jour, les oignons de La Garde […]",
+  "1942 : Pendant la Seconde Guerre mondiale, La Garde a reçu en novembre 1942 une petite garnison italienne à la gendarmerie : elle s'en retira en octobre 1943 et la commune fut occupée par les forces allemandes.",
+  "Lieu « Gare de La Pauline-Hyères » : La gare de La Pauline-Hyères est une gare ferroviaire française des lignes, de Marseille-Saint-Charles à Vintimille (frontière) et de La Pauline-Hyères aux Salins-d'Hyères.",
+  "Lieu « Gare de La Pauline-Hyères », 1875 : Elle est renommée La Pauline-Hyères, en 1875, lors de l'ouverture de l'embranchement jusqu'à la ville de Hyères.",
+  "Lieu « Gare de La Pauline-Hyères », 1875 : La gare est renommée La Pauline-Hyères, lorsqu'elle devient une gare de bifurcation avec l'ouverture de l'exploitation sur la section de La Pauline-Hyères à Hyères le 6 décembre 1875."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

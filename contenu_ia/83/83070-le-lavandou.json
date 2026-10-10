@@ -1,0 +1,87 @@
+{
+ "commune": {
+  "titre": "Le Lavandou",
+  "code_insee": "83070",
+  "departement": "83",
+  "population": 6646,
+  "lat": 43.138611,
+  "lon": 6.368333,
+  "url": "https://fr.wikipedia.org/wiki/Le_Lavandou"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:42:13",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1380,
+  "sortie": 606
+ },
+ "cout_usd": 0.001033,
+ "accroche": "Née en 1913 de la scission de Bormes-les-Mimosas, la commune du Lavandou se trouve sur les bords de la Méditerranée, face aux Îles d'Or.",
+ "histoire": {
+  "recit": "Le Lavandou, commune du Var, s’est formé en 1913 quand il s’est détaché de Bormes-les-Mimosas, à l’ouest. Au bord de la Méditerranée, face aux Îles d’Or, son territoire s’ouvre aussi sur des lieux marqués par des découvertes anciennes.\n\nÀ Font-Freye, un habitat du Néolithique final a été découvert le 10 septembre 2006, très endommagé par les labours : on y a relevé plusieurs foyers et un ensemble de mobilier (galets chauffés, meules dormantes, broyons, haches polies, outillages lithiques et céramique à décors). La même année, un tumulus a aussi été repéré lors d’un défrichement après un incendie, puis identifié le 10 septembre 2006 à la suite d’une prospection.\n\nSur le secteur de Cavalière (Var), la commune indépendante a inclus ce hameau dès son érection. Plus tard, une colonie de vacances a occupé les lieux sous le chemin de l’Hubac du Bleu entre 1947 et 1991.",
+  "chronologie": [
+   {
+    "date": "1913",
+    "texte": "Le Lavandou naît en 1913, issu de la scission de la commune de Bormes-les-Mimosas, et s’érige en commune indépendante incluant le hameau de Cavalière.",
+    "sources": [
+     "S1",
+     "S6"
+    ]
+   },
+   {
+    "date": "10 septembre 2006",
+    "texte": "À Font-Freye, découverte et identification d’un habitat du Néolithique final, avec foyers, traces charbonneuses et mobilier (galets chauffés, meules dormantes, broyons, haches polies, outillages lithiques et céramique).",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "1947",
+    "texte": "À Cavalière (Var), une colonie de vacances de l’Office Départemental d’Éducation et de Loisirs de la Drôme (ODEL) s’installe sous le chemin de l’Hubac du Bleu pour accueillir des enfants entre 1947 et 1991.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cavalière (Var)",
+   "histoire": "Cavalière est un village de la commune du Lavandou. Dès 1913, le hameau fait partie de la commune indépendante.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 43.151877,
+   "lon": 6.426067,
+   "url": "https://fr.wikipedia.org/wiki/Cavali%C3%A8re_%28Var%29"
+  }
+ ],
+ "sources": [
+  "Le Lavandou [lə lavɑ̃du] (en provençal : Lou Lavandou ou Lo Lavandor) est une commune du département du Var, dans la région Provence-Alpes-Côte d'Azur, sur les bords de la Méditerranée face aux Îles d'Or (île du Levant, Port-Cros et île de Bagaud) et au pied du massif des Maures. Elle est née en 1913 de la scission de la commune de Bormes-les-Mimosas qui la jouxte à l'ouest. Hyères est à 22 km à l'ouest, Cavalaire à […]",
+  "À Font-Freye, le 10 septembre 2006 a été découvert par X. Dupont un habitat du Néolithique final, très endommagé par les labours. Cinq foyers découverts en partie est : avec zones très charbonneuses avec terres rubéfiées et galets chauffés. Mobilier découvert (galets chauffés, meules dormantes, broyons, haches polies, outillages lithiques : pointes, lames, lamelles. Céramique Moelé : décors de cordons en relief, […]",
+  "2006 : Le tumulus a été découvert par M. Ollivier lors d'un défrichement après un incendie, et identifié le 10 septembre 2006 par X. Dupont lors d'une prospection, par le moyen d'une information écrite.",
+  "2006 : Dans la commune du Lavandou, au lieu-dit Font-Freye, a été découvert en 2006 après un incendie : Un bourg castral, château fort ?",
+  "Lieu « Cavalière (Var) » : Cavalière est un village de la commune du Lavandou dans le département du Var.",
+  "Lieu « Cavalière (Var) », 1913 : En 1913, Le Lavandou qui dépendait aussi de Bormes-les-Mimosas est érigé en commune indépendante, incluant le hameau de Cavalière.",
+  "Lieu « Cavalière (Var) », 1947 : Une colonie de vacances de l'Office Départemental d’Éducation et de Loisirs de la Drôme (ODEL) était installée sous le chemin de l'Hubac du Bleu ; elle a hébergé des enfants drômois ou varois, entre 1947 et 1991.",
+  "Lieu « Cavalière (Var) », aujourd'hui : Dans l'Antiquité, les Grecs ont établi à l'emplacement de l'actuel Cavalière la station d'Alconis, qui devint sous la paix romaine la douce Alcône, villégiature prisée des Latins."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}
