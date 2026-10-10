@@ -1,0 +1,260 @@
+{
+ "commune": {
+  "titre": "Bar-le-Duc",
+  "code_insee": "55029",
+  "departement": "55",
+  "population": 14607,
+  "lat": 48.771944,
+  "lon": 5.160278,
+  "url": "https://fr.wikipedia.org/wiki/Bar-le-Duc"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:29:42",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3402,
+  "sortie": 2307
+ },
+ "cout_usd": 0.003564,
+ "accroche": "En 1652, Bar-le-Duc subit un siège de l’armée royale menée par le cardinal Mazarin, pendant la Fronde.",
+ "histoire": {
+  "recit": "Bar-le-Duc se tient sur une voie naturelle empruntée dès la préhistoire, sur la vallée de l’Ornain, où des groupes de chasseurs-cueilleurs ont laissé des traces.\n\nLa ville n’est pas seulement un passage : elle s’organise très tôt. On y trouve notamment, à Vassincourt, un campement paléolithique de 300 000 ans, avec des traces de foyer.\n\nPlus tard, l’enseignement s’installe : un collège est construit à partir de 1573 pour éduquer les jeunes de la ville, puis le bâtiment ouvre ses portes après la mort de son fondateur.\n\nLes périodes difficiles la marquent aussi : la ville change de maître à plusieurs reprises pendant la Fronde, puis elle est assiégée en décembre 1652. Elle connaît encore des occupations, notamment par des troupes prussiennes en 1814, puis par des troupes russes jusque 1818.\n\nÀ l’échelle des pierres, les lieux font le récit : la collégiale Saint-Étienne a été façonnée entre 1315 et 1630, et le Pont Notre-Dame a été reconstruit après avoir été détruit en 1944.",
+  "chronologie": [
+   {
+    "date": "1573",
+    "texte": "Le collège Gilles de Trèves est construit à partir de 1573 pour éduquer les jeunes de la ville.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1661",
+    "texte": "L’agglomération reste occupée jusqu’en 1661, après des changements de maître pendant la Fronde et un siège de l’armée royale en décembre 1652.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1814",
+    "texte": "De janvier à avril 1814, Bar-le-Duc est occupée par les troupes prussiennes, puis après les Cent-Jours par les troupes russes jusqu’en 1818.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "Après la défaite française de 1870, la ville est à nouveau occupée jusqu’au 23 juillet 1873.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Collégiale Saint-Étienne de Bar-le-Duc",
+   "histoire": "La collégiale Saint-Pierre est construite de 1315 à 1630 dans un style gothique flamboyant avec quelques éléments de la Renaissance. Les travaux avancent rapidement et l’édifice est presque achevé à la fin du XIVe siècle. À la fin du XVIIIe siècle, elle fusionne avec l’autre collégiale de la ville, Saint-Maxe du château des ducs de Bar, détruite. Aujourd’hui, on y voit encore des éléments du Moyen Âge, comme des arcatures et des grylles dissimulés dans la décoration.",
+   "anecdotes": [
+    {
+     "texte": "Dans les pampres et les feuilles sculptées, des grylles sont dissimulés : un jeu de visage cachés que le regard retrouve encore.",
+     "statut": "etabli",
+     "sources": [
+      "S11"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Des éléments du Moyen Âge sont visibles, notamment des arcatures et des grylles cachés dans les pampres.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 48.76806,
+   "lon": 5.15944,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-%C3%89tienne_de_Bar-le-Duc"
+  },
+  {
+   "nom": "Collège Gilles de Trèves",
+   "histoire": "Fondé en 1573 par Gilles de Trèves, doyen de la collégiale Saint-Maxe, le collège a pour but d’instruire les jeunes du Barrois. Le bâtiment est achevé en 1574 (ou 1576 selon d’autres sources), mais ouvre ses portes aux enfants en 1582 après la mort du fondateur. Le lieu devient successivement collège jésuite, collège communal puis école pour filles, et ferme définitivement en 2002. Aujourd’hui, on y voit un cadran solaire depuis les remparts du château.",
+   "anecdotes": [
+    {
+     "texte": "Depuis les remparts, on peut encore apercevoir un cadran solaire posé sur une façade du collège.",
+     "statut": "etabli",
+     "sources": [
+      "S41"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Un cadran solaire sur une façade est visible depuis les remparts du château.",
+   "sources": [
+    "S41"
+   ],
+   "lat": 48.77278,
+   "lon": 5.15583,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_Gilles_de_Tr%C3%A8ves"
+  },
+  {
+   "nom": "Tour de l'Horloge (Bar-le-Duc)",
+   "histoire": "Érigée au Moyen Âge, la tour de l’Horloge est l’un des rares vestiges des fortifications de la Ville Haute. Sa partie supérieure a été modifiée plusieurs fois à la suite des incendies de 1500 et 1639, et un troisième cadran y est installé en 1752. Aujourd’hui, construite en pierre, elle est semi-circulaire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La tour est aujourd’hui semi-circulaire et construite en pierre.",
+   "sources": [
+    "S46"
+   ],
+   "lat": 48.77108,
+   "lon": 5.1583,
+   "url": "https://fr.wikipedia.org/wiki/Tour_de_l%27Horloge_%28Bar-le-Duc%29"
+  },
+  {
+   "nom": "Pont Notre-Dame (Bar-le-Duc)",
+   "histoire": "Le Pont Notre-Dame est un pont en maçonnerie à cinq voûtes franchissant l’Ornain. Une première chapelle aurait été construite au XVe siècle sur l’une des piles centrales. À partir du XVIIIe siècle, les chapelles sont détruites pour un souci d’hygiène, et les dernières disparaissent au XXe siècle. En 1944, les Allemands détruisent le pont le 30 août ; il est reconstruit à l’identique. Aujourd’hui, le pont en bois primitif a été remplacé par un pont en maçonnerie, et des maisons se sont construites dessus en encorbellement.",
+   "anecdotes": [
+    {
+     "texte": "Au lieu de survivre aux générations, les chapelles du pont sont détruites pour “un souci d’hygiène”, puis les dernières disparaissent au XXe siècle.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le pont en bois primitif a été remplacé par un pont en maçonnerie, et des maisons viennent se construire dessus en encorbellement.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 48.775417,
+   "lon": 5.160694,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Notre-Dame_%28Bar-le-Duc%29"
+  },
+  {
+   "nom": "Église Notre-Dame de Bar-le-Duc",
+   "histoire": "L’église Notre-Dame, construite du XIe au XIIe siècle dans le style roman, suit le plan de l’abbatiale Saint-Michel de l’abbaye de Saint-Mihiel. Elle est aussi un ensemble de plusieurs styles architecturaux remanié entre les XIe et XVIIIe siècles. Elle reste jusqu’en 1787 la seule église paroissiale de la ville. Le prieuré bénédictin Notre-Dame est fondé en 1088 par la comtesse de Bar Sophie à l’emplacement d’un sanctuaire dédié à la Vierge.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S36"
+   ],
+   "lat": 48.77639,
+   "lon": 5.16222,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame_de_Bar-le-Duc"
+  },
+  {
+   "nom": "Château de Marbeaumont",
+   "histoire": "Après la Révolution française de 1789, le terrain du château de Marbeaumont est déclaré bien national puis vendu. Construit de 1903 à 1905 par la famille de banquier Varin-Bernier, le château se caractérise par l’historicisme et l’éclectisme. À partir de 1948, le bâtiment est loué à la Direction départementale de l’Agriculture et de la Forêt, et de 1956 à 1958, des classes de l’école de filles du quartier de Marbot y sont installées. Aujourd’hui, seule la première partie subsiste : c’est un parc à l’anglaise ; la deuxième partie conserve un vaste étang, des potagers et des vergers.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La première partie subsistante est un parc à l’anglaise, et la deuxième partie comporte un vaste étang, potagers et vergers.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 48.77389,
+   "lon": 5.17167,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Marbeaumont"
+  },
+  {
+   "nom": "Château des ducs de Bar",
+   "histoire": "Le château des ducs de Bar se dégrade quand les ducs de Bar et de Lorraine délaissent Bar-le-Duc au XVIIe siècle. En 1670, il est démantelé par ordre du roi de France Louis XIV : il ne reste alors que le Neuf-Castel du XVIe siècle et quelques vestiges des fortifications. À partir de 1832, un couvent des sœurs dominicaines est construit à l’emplacement de l’ancienne habitation ducale. Une trace de jardin à l’italienne est aussi mentionnée près du château, à l’emplacement de la première ligne de défense.",
+   "anecdotes": [
+    {
+     "texte": "Près du château, Philippe de Gueldre trace un jardin à l’italienne à l’endroit même de la première ligne de défense.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21"
+   ],
+   "lat": 48.77167,
+   "lon": 5.15611,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_ducs_de_Bar"
+  },
+  {
+   "nom": "Théâtre des Bleus de Bar",
+   "histoire": "Le théâtre des Bleus de Bar a été inauguré en 1902 sous le nom de Nouveau Théâtre et accueille pendant quatre ans plusieurs troupes. À l’initiative de Claude-Marcel Mayeur, négociant en vin à Bar-le-Duc, le théâtre est construit en 1900 par Louis Morel. Les Bleus de Bar gèrent ensuite le lieu, créent leurs propres troupes et, de 1920 à 1939, dirigent une troupe mixte. Plus tard, le théâtre est occupé par les Allemands et prend le nom de Theater Soldaten. Aujourd’hui, il a été reconverti puis définitivement fermé en 2002.",
+   "anecdotes": [
+    {
+     "texte": "Pendant quatre années après l’inauguration, le théâtre reçoit des tournées liées à des figures du théâtre parisien, dont des tournées d’Achard et Chataignié.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    },
+    {
+     "texte": "En période d’occupation, il change de nom : il devient Theater Soldaten, avec une scène surmontée d’un aigle à croix gammée.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Le théâtre a été reconverti en salle de gymnastique puis fermé définitivement en 2002.",
+   "sources": [
+    "S22"
+   ],
+   "lat": 48.770584,
+   "lon": 5.16012,
+   "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Bleus_de_Bar"
+  }
+ ],
+ "sources": [
+  "Bar-le-Duc (/baʁ.lə.dyk/) est une commune française située dans le département de la Meuse, en région Grand Est. Elle se trouve dans la région historique et culturelle de Lorraine. L'existence de l'agglomération remonte à l'Antiquité où elle est un relais le long de la voie romaine reliant Reims à Toul. Capitale du comté puis du duché de Bar, Bar-le-Duc devient l'une des principales citadelles lorraines, se […]",
+  "Bar-le-Duc se situe sur une voie de communication naturelle empruntée dès la préhistoire. La vallée de l’Ornain est parcourue par des groupes de chasseurs cueilleurs durant la Préhistoire. C’est à quelques kilomètres en aval de Bar-le-Duc, à Vassincourt, qu’a été découvert le plus ancien site archéologique du département : un campement datant de 300 000 ans (Paléolithique inférieur et moyen) avec traces de foyer et […]",
+  "1573 : Le collège Gilles de Trèves est construit à partir de 1573 pour éduquer les jeunes de la ville.",
+  "1661 : L'agglomération restera occupée jusqu'en 1661, changeant quatre fois de maître pendant la Fronde (1648-1653) et subissant un siège de l'armée royale menée par le cardinal Mazarin en décembre 1652.",
+  "1814 : De janvier à avril 1814, elle est occupée par les troupes prussiennes ; puis, après les Cent-Jours (1815), par les troupes russes jusque 1818.",
+  "1870 : Après la défaite française dans la guerre franco-allemande de 1870, la ville est de nouveau occupée jusqu'au 23 juillet 1873.",
+  "Lieu « Collégiale Saint-Étienne de Bar-le-Duc » : La collégiale Saint-Étienne de Bar-le-Duc est une ancienne collégiale située à Bar-le-Duc dans le département de la Meuse en région Lorraine.",
+  "Lieu « Collégiale Saint-Étienne de Bar-le-Duc », 1315 : La collégiale Saint-Pierre est construite de 1315 à 1630 dans un style gothique flamboyant avec quelques éléments caractéristiques de la Renaissance.",
+  "Lieu « Collégiale Saint-Étienne de Bar-le-Duc », XIVe siècle : Les travaux avancent rapidement et à la fin du XIVe siècle l'édifice est presque achevé.",
+  "Lieu « Collégiale Saint-Étienne de Bar-le-Duc », XVIIIe siècle : À la fin du XVIIIe siècle, elle fusionne avec l'autre collégiale de la ville, Saint-Maxe du château des ducs de Bar, détruite.",
+  "Lieu « Collégiale Saint-Étienne de Bar-le-Duc », aujourd'hui : Des éléments du Moyen Âge sont également visibles : les arcatures qui abritaient des statues aujourd'hui disparues, et les grylles cachés dans les pampres, les feuilles de choux frisés et les glands de la voussure.",
+  "Lieu « Château de Marbeaumont » : Le château de Marbeaumont est situé à Bar-le-Duc dans le département de la Meuse en région Grand Est.",
+  "Lieu « Château de Marbeaumont », 1789 : Après la Révolution française de 1789 et le processus de laïcisation, le terrain est déclaré bien national et vendu.",
+  "Lieu « Château de Marbeaumont », 1903 : Construit de 1903 à 1905 par la famille de banquier Varin-Bernier, le château est caractéristique de l'historicisme et de l'éclectisme en vogue à cette époque.",
+  "Lieu « Château de Marbeaumont », 1948 : À partir de 1948, le bâtiment est loué à la Direction départementale de l'Agriculture et de la Forêt (DDAF), et parallèlement, de 1956 à 1958, les pièces du rez-de-chaussée accueillent deux classes de l’école de filles du quartier de Marbot.",
+  "Lieu « Château de Marbeaumont », aujourd'hui : La première partie, seule restante aujourd'hui, est un parc à l'anglaise, tandis que la deuxième partie, contient un vaste étang, des potagers et des vergers.",
+  "Lieu « Château des ducs de Bar » : Le château des ducs de Bar est un ancien château situé à Bar-le-Duc dans le département de la Meuse en région Grand Est.",
+  "Lieu « Château des ducs de Bar », XVIIe siècle : Au XVIIe siècle, les ducs de Bar et de Lorraine délaissent Bar-le-Duc et le château, abandonné, se dégrade.",
+  "Lieu « Château des ducs de Bar », 1670 : Démantelé en 1670 par ordre du roi de France Louis XIV, il ne reste aujourd'hui plus que le Neuf-Castel du XVIe siècle et quelques vestiges des fortifications.",
+  "Lieu « Château des ducs de Bar », 1832 : À partir de 1832, le couvent des sœurs dominicaines est construit à l'emplacement de l'ancienne habitation ducale.",
+  "Lieu « Château des ducs de Bar », aujourd'hui : La femme de René II, Philippe de Gueldre, trace un jardin à l'italienne près du château, à l'emplacement de la première ligne de défense.",
+  "Lieu « Théâtre des Bleus de Bar » : Le théâtre des Bleus de Bar est un ancien théâtre de Bar-le-Duc, inauguré en 1902, reconverti en salle de gymnastique en 1970et définitivement fermé en 2002 Le théâtre a aussi porté à sa création les noms de Théâtre nouveau puis de Théâtre Jeanne d'A",
+  "Lieu « Théâtre des Bleus de Bar », 1900 : C'est par l'initiative de Claude-Marcel Mayeur, négociant en vin à Bar-Le-Duc, que le théâtre est construit en 1900 par Louis Morel, entrepreneur en travaux publics.",
+  "Lieu « Théâtre des Bleus de Bar », 1902 : Il est inauguré en 1902 sous le nom de « Nouveau Théâtre » où, pendant quatre années, plusieurs troupes importantes viennent s'y produire, notamment les célèbres tournées Frédéric Achard et Chataignié, qui faisaient les beaux jours des théâtres parisiens.",
+  "Lieu « Théâtre des Bleus de Bar », 1920 : Les Bleus de Bar étant les nouveaux propriétaires du théâtre, ils en assurent la gestion et vont créer leurs propres troupes fondées par l'abbé Michel, aumônier et directeur des Bleus : « La troupe du Théâtre Jeanne d'Arc » puis « La troupe du Cercle Jeanne d'Arc », troupe mixte, de 1920 à 1939.",
+  "Lieu « Théâtre des Bleus de Bar », aujourd'hui : Le théâtre est également occupé par les Allemands et prend le nom de « Theater Soldaten », et la scène est surmontée d'un immense aigle à croix gammée.",
+  "Lieu « Pont Notre-Dame (Bar-le-Duc) » : Le pont Notre-Dame est un pont en maçonnerie à cinq voûtes franchissant l'Ornain à Bar-le-Duc, dans le département de la Meuse et la région Lorraine.",
+  "Lieu « Pont Notre-Dame (Bar-le-Duc) », XVe siècle : La première chapelle construite sur l'une des piles centrales du pont daterait du XVe siècle.",
+  "Lieu « Pont Notre-Dame (Bar-le-Duc) », XVIIIe siècle : Elles seront détruites par souci d'hygiène à partir du XVIIIe siècle, et les dernières disparaitront au XXe siècle.",
+  "Lieu « Pont Notre-Dame (Bar-le-Duc) », 1944 : Les Allemands le détruisent le 30 août 1944 lors de la Seconde Guerre mondiale, mais il est reconstruit à l'identique.",
+  "Lieu « Pont Notre-Dame (Bar-le-Duc) », aujourd'hui : Le pont en bois primitif est remplacé par un pont en maçonnerie en 1311, et des maisons viennent se construire dessus en encorbellement.",
+  "Lieu « Église Notre-Dame de Bar-le-Duc » : L'église Notre-Dame est une église située à Bar-le-Duc dans le département de la Meuse en région Lorraine.",
+  "Lieu « Église Notre-Dame de Bar-le-Duc », XIIe siècle : L'église est construite du XIe au XIIe siècle dans le style roman, et suit le plan de l'abbatiale Saint-Michel de l'abbaye de Saint-Mihiel.",
+  "Lieu « Église Notre-Dame de Bar-le-Duc », XVIIIe siècle : Construite et remaniée sur plusieurs siècles, entre les XIe et XVIIIe siècles, l'église est un ensemble de plusieurs styles architecturaux.",
+  "Lieu « Église Notre-Dame de Bar-le-Duc », 1787 : Plus ancien édifice religieux de la ville, il fut également jusqu'en 1787 sa seule église paroissiale.",
+  "Lieu « Église Notre-Dame de Bar-le-Duc », aujourd'hui : En 1088, la comtesse de Bar Sophie fonde le prieuré bénédictin Notre-Dame à l'emplacement d'un premier sanctuaire dédié à la Vierge.",
+  "Lieu « Collège Gilles de Trèves » : Le collège Gilles de Trèves est un édifice situé à Bar-le-Duc dans le département de la Meuse en région Lorraine.",
+  "Lieu « Collège Gilles de Trèves », 1573 : Fondé en 1573 par Gilles de Trèves, doyen de la collégiale Saint-Maxe, il avait pour but d'instruire les jeunes du Barrois.",
+  "Lieu « Collège Gilles de Trèves », 1574 : Le bâtiment est achevé en 1574 — 1576 selon d'autres sources — mais n'ouvre ses portes aux enfants qu'en 1582, après la mort de son fondateur.",
+  "Lieu « Collège Gilles de Trèves », 2002 : Tour à tour, collège jésuite, collège communal puis école pour filles, ce lieu d'enseignement a définitivement fermé ses portes en 2002.",
+  "Lieu « Collège Gilles de Trèves », aujourd'hui : Un cadran solaire sur une façade est visible depuis les remparts du château.",
+  "Lieu « Tour de l'Horloge (Bar-le-Duc) » : La Tour de l'Horloge est une ancienne tour fortifiée devenue tour de l'horloge, située à Bar-le-Duc dans le département de la Meuse en région Lorraine.",
+  "Lieu « Tour de l'Horloge (Bar-le-Duc) », XIIe siècle : Construite au Moyen Âge (XIIe siècle), elle est l'un des rares vestiges des fortifications du château de la Ville Haute.",
+  "Lieu « Tour de l'Horloge (Bar-le-Duc) », 1500 : La partie supérieure de la tour est modifiée plusieurs fois à la suite des incendies de 1500 et 1639.",
+  "Lieu « Tour de l'Horloge (Bar-le-Duc) », 1752 : En 1752, un troisième cadran est installé pour les habitants de la Ville Haute.",
+  "Lieu « Tour de l'Horloge (Bar-le-Duc) », aujourd'hui : Construite en pierre, elle est aujourd'hui semi-circulaire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 6
+ }
+}
