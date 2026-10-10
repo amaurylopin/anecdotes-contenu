@@ -1,0 +1,240 @@
+{
+ "commune": {
+  "titre": "Montfort-sur-Meu",
+  "code_insee": "35188",
+  "departement": "35",
+  "population": 6810,
+  "lat": 48.138056,
+  "lon": -1.955833,
+  "url": "https://fr.wikipedia.org/wiki/Montfort-sur-Meu"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:39:13",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2438,
+  "sortie": 1721
+ },
+ "cout_usd": 0.002639,
+ "accroche": "Le 12 mars 1793, Montfort est assiégé par une bande de paysans armés.",
+ "histoire": {
+  "recit": "À Montfort-sur-Meu, le passé commence tôt : la présence humaine est attestée dès la fin de la Préhistoire, avec des alignements et des mégalithes encore visibles. Plus tard, le territoire est occupé à l’époque gallo-romaine.\n\nAu Moyen Âge, la forteresse subit une reconstruction, puis le château et ses remparts façonnent l’allure de la ville. En 1376, Raoul VIII fait reprendre les travaux ; entre 1376 et 1389, la forteresse est reconstruite et entourée de quatre tours d’angle. Ces défenses seront à nouveau reconstruites entre 1440 et 1480.\n\nLa Révolution marque aussi les lieux : le 12 mars 1793, Montfort est assiégé par des paysans armés. Dans l’élan des affrontements, le général Vachot écrit ensuite au Comité de salut public, évoquant la destruction des Chouans.\n\nPlus tard, la commune devient au XIXe siècle sous-préfecture : elle s’agrandit, mais certains édifices disparaissent. De la période fortifiée, il reste aujourd’hui des vestiges surtout au nord, le long du Garun et du Meu.",
+  "chronologie": [
+   {
+    "date": "fin de la Préhistoire",
+    "texte": "La présence humaine est attestée dès la fin de la Préhistoire, avec un patrimoine mégalithique sur le territoire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "époque gallo-romaine",
+    "texte": "Le territoire est occupé durant la période gallo-romaine, notamment avec la découverte d’un gisement de tegulae.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1152",
+    "texte": "L’abbaye Saint-Jacques de Montfort est fondée par Guillaume Ier de Montfort pour des chanoines réguliers de l’ordre de Saint-Augustin.",
+    "sources": [
+     "S7",
+     "S8"
+    ]
+   },
+   {
+    "date": "1376",
+    "texte": "Raoul VIII fait reconstruire la forteresse, entourée de quatre tours d’angle entre 1376 et 1389.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "jusqu’à 1389",
+    "texte": "La reconstruction de la forteresse se poursuit jusqu’en 1389.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1440",
+    "texte": "Les remparts sont reconstruits entre 1440 et 1480.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "12 mars 1793",
+    "texte": "Montfort est assiégé par une bande de paysans armés.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "3 juin 1794",
+    "texte": "Le général Vachot écrit au Comité de salut public : il affirme avoir détruit les Chouans ravageant plusieurs districts, dont Montfort.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Montfort devient sous-préfecture : la commune s’agrandit et mène de grands travaux, tandis que plusieurs édifices sont détruits, comme la tour Saint-Nicolas.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1897",
+    "texte": "La porte Saint-Nicolas, dernière porte de la ville selon la source, est détruite en 1897 pour faciliter la circulation.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "en 1627",
+    "texte": "La forteresse est détruite en 1627.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1627",
+    "texte": "Le château est en partie détruit en 1627, sur ordre de Richelieu.",
+    "sources": [
+     "S20"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Abbaye Saint-Jacques de Montfort",
+   "histoire": "Fondée en 1152 à Montfort-sur-Meu et Breteil, l’abbaye est ensuite reconstruite au XIVe siècle. Le monastère connaît un remaniement au XVIIe siècle avec l’édification d’un nouveau cloître au nord de l’église.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il ne reste que très peu de traces : quelques ouvertures et des portions de murs.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 48.13028,
+   "lon": -1.94361,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Jacques_de_Montfort"
+  },
+  {
+   "nom": "Remparts de Montfort-sur-Meu",
+   "histoire": "Les remparts et le château forment des édifices anciens. Probablement construits par Raoul VIII à la fin du XIVe siècle, ils sont ensuite reconstruits entre 1440 et 1480.",
+   "anecdotes": [
+    {
+     "texte": "La porte Saint-Nicolas est détruite en 1897, sous le prétexte qu’elle empêchait la circulation entre la rue de l’Horloge et la rue Saint-Nicolas.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les vestiges actuels sont principalement situés au nord, dans le prolongement de la tour du Papegault, le long du Garun, et le long du parking de la rue des douves, le long du Meu.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S16",
+    "S15"
+   ],
+   "lat": 48.1374,
+   "lon": -1.9566,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Montfort-sur-Meu"
+  },
+  {
+   "nom": "Tour du Papegaut de Montfort-sur-Meu",
+   "histoire": "La tour du Papegaut se trouvait à l’intérieur du château-fort, datant du XIVe siècle (aujourd’hui détruit), près de l’ancien donjon carré. En 1376, elle relève d’un château reconstruit de 1376 à 1389, après une reprise aux Anglais par Raoul VIII de Bretagne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 48.137711,
+   "lon": -1.955342,
+   "url": "https://fr.wikipedia.org/wiki/Tour_du_Papegaut_de_Montfort-sur-Meu"
+  },
+  {
+   "nom": "Gare de Montfort-sur-Meu",
+   "histoire": "La gare de Montfort-sur-Meu est une gare ferroviaire de la ligne de Paris-Montparnasse à Brest sur le territoire de la commune.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 48.138981,
+   "lon": -1.94885,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Montfort-sur-Meu"
+  },
+  {
+   "nom": "Église Saint-Louis-Marie-Grignion-de-Montfort",
+   "histoire": "L’église Saint-Louis-Marie-Grignion-de-Montfort est construite en 1850 par l’entrepreneur Peschard, sur les plans de Charles Langlois, puis terminée en 1884 par les frères Jules et Henri Mellet (façade principale).",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les peintures sur la voûte du chœur, mentionnées par Philippe Bonnet, sont attribuées à Félix Jobbé-Duval et présentées comme les vestiges d’un décor plus important.",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.1377,
+   "lon": -1.956,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Louis-Marie-Grignion-de-Montfort"
+  }
+ ],
+ "sources": [
+  "Montfort-sur-Meu est une commune française située sur le Meu dans le département d'Ille-et-Vilaine, en région Bretagne, peuplée de 6 810 habitants pour une superficie de 14 km2. Montfort-sur-Meu fait partie de la communauté de communes Montfort Communauté et du pays de Brocéliande. Montfort-sur-Meu est le chef-lieu du canton de Montfort-sur-Meu.",
+  "La présence humaine sur le territoire de Montfort-sur-Meu est attesté dès la fin de la Préhistoire ; en témoigne son patrimoine mégalithique, dont les alignements de la Harelle, l'allée couverte de Beauregard, le menhir de la lande de Coulon et les mégalithes du Bois du Buisson. Le territoire de la commune est occupé durant la période gallo-romaine, comme en témoignent la découverte d'un gisement de tegulae au […]",
+  "1376 : De 1376 à 1389, la forteresse est reconstruite par Raoul VIII et elle est entourée de quatre tours d'angle (elle est détruite en 1627).",
+  "1793 : Le dimanche 12 mars 1793, Montfort est assiégé par une bande de paysans armés.",
+  "1794 : Le général Vachot écrit le 3 juin 1794 au Comité de salut public de Segré : « J'ai exterminé et presque entièrement détruit les Chouans qui ravageaient les districts de Broons, Saint-Méen, Montfort, Châteaubourg, Vitré, La Guerche, etc. ».",
+  "XIXe siècle : La ville devient au XIXe siècle sous-préfecture d'Ille-et-Vilaine, de ce fait Montfort s'agrandit et effectue des travaux de grande ampleur, mais beaucoup d'édifices, comme la tour Saint-Nicolas, sont détruits.",
+  "Lieu « Abbaye Saint-Jacques de Montfort » : L'abbaye Saint-Jacques de Montfort, située à Montfort-sur-Meu et Breteil (Ille-et-Vilaine), est fondée en 1152 par Guillaume Ier de Montfort, fils aîné de Raoul II de Gaël-Montfort, pour des chanoines réguliers de l'ordre de Saint-Augustin.",
+  "Lieu « Abbaye Saint-Jacques de Montfort », 1152 : L'abbaye Saint-Jacques de Montfort, située à Montfort-sur-Meu et Breteil (Ille-et-Vilaine), est fondée en 1152 par Guillaume Ier de Montfort, fils aîné de Raoul II de Gaël-Montfort, pour des chanoines réguliers de l'ordre de Saint-Augustin.",
+  "Lieu « Abbaye Saint-Jacques de Montfort », XIVe siècle : L'édifice est reconstruit au cours du XIVe siècle, de cette époque date le portail ouest.",
+  "Lieu « Abbaye Saint-Jacques de Montfort », XVIIe siècle : Le monastère connaît par la suite une autre période de remaniement au XVIIe siècle et un nouveau cloître est édifié au nord de l'église.",
+  "Lieu « Abbaye Saint-Jacques de Montfort », aujourd'hui : Aujourd'hui, il ne reste que très peu de traces de cette église, quelques ouvertures et des portions de murs.",
+  "Lieu « Remparts de Montfort-sur-Meu » : Les remparts de Montfort-sur-Meu et le château, sont des édifices anciens de la commune de Montfort-sur-Meu, dans le département français d’Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Remparts de Montfort-sur-Meu », XIVe siècle : Elle fut probablement construite par Raoul VIII à la fin du XIVe siècle et achevée au cours du siècle suivant.",
+  "Lieu « Remparts de Montfort-sur-Meu », 1440 : Les remparts avaient été reconstruits entre 1440 et 1480.",
+  "Lieu « Remparts de Montfort-sur-Meu », 1897 : La porte Saint-Nicolas fut la dernière porte de la ville, détruite, en 1897, sous le prétexte qu'elle empêchait la circulation entre la rue de l'Horloge et la rue Saint-Nicolas.",
+  "Lieu « Remparts de Montfort-sur-Meu », aujourd'hui : Les vestiges actuels sont principalement situés au nord dans le prolongement de la tour du Papegault, le long du Garun, et le long du parking de la rue des douves, le long du Meu.",
+  "Lieu « Tour du Papegaut de Montfort-sur-Meu » : La Tour du papegaut est un édifice situé sur la commune française de Montfort-sur-Meu, dans le département d’Ille-et-Vilaine, en région Bretagne.",
+  "Lieu « Tour du Papegaut de Montfort-sur-Meu », XIVe siècle : Elle était située à l'intérieur du château-fort, datant du XIVe siècle (aujourd'hui détruit), à côté de l'ancien donjon carré.",
+  "Lieu « Tour du Papegaut de Montfort-sur-Meu », 1376 : Il s'agit du seul vestige de ce château, érigé au XIe siècle, puis reconstruit de 1376 à 1389, après sa reprise aux Anglais par Raoul VIII de Bretagne.",
+  "Lieu « Tour du Papegaut de Montfort-sur-Meu », 1627 : Le château est en partie détruit, en 1627, sur ordre de Richelieu.",
+  "Lieu « Gare de Montfort-sur-Meu » : La gare de Montfort-sur-Meu est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune de Montfort-sur-Meu, dans le département d'Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Gare de Montfort-sur-Meu », 1944 : Pendant la Seconde Guerre mondiale, le bâtiment voyageurs, construit par la compagnie de l'Ouest, est détruit lors des bombardements du quartier de la gare en 1944.",
+  "Lieu « Gare de Montfort-sur-Meu », 1950 : Après la fin du conflit, dans les années 1950, un nouveau bâtiment voyageurs est construit en schiste et béton.",
+  "Lieu « Église Saint-Louis-Marie-Grignion-de-Montfort » : L'église Saint-Louis-Marie-Grignion-de-Montfort est un lieu de culte catholique situé dans la commune de Montfort-sur-Meu, dans le département français d'Ille-et-Vilaine en Bretagne.",
+  "Lieu « Église Saint-Louis-Marie-Grignion-de-Montfort », 1850 : L'église a été construite en 1850 par l'entrepreneur Peschard sur les plans de Charles Langlois et terminée en 1884 par les frères Jules et Henri Mellet (façade principale).",
+  "Lieu « Église Saint-Louis-Marie-Grignion-de-Montfort », aujourd'hui : Philippe Bonnet mentionne que les peintures réalisées sur la voûte du chœur sont de Félix Jobbé-Duval (1821-1889) et qu'elles sont les vestiges d'un décor plus important."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen",
+   "Révolution"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "commune": {
+  "titre": "Châteaubourg (Ille-et-Vilaine)",
+  "code_insee": "35068",
+  "departement": "35",
+  "population": 7533,
+  "lat": 48.111111,
+  "lon": -1.403333,
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teaubourg_%28Ille-et-Vilaine%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:26:51",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2586,
+  "sortie": 1527
+ },
+ "cout_usd": 0.002426,
+ "accroche": "En 1893, la nouvelle église paroissiale Saint-Pierre de Châteaubourg est construite sur les fondations du château, dont les derniers vestiges disparaissent alors.",
+ "histoire": {
+  "recit": "Châteaubourg s’est formée au croisement des routes et des époques. Sur le site de la Goultière, des traces d’extraction d’argile liées à un affleurement de dolérite sont datées du VIe siècle ou du début du Ve siècle avant J.-C.. Plus tard, le tracé de l’ancienne RN 157 (aujourd’hui RD 857) reprend en gros la voie romaine entre Vindunum et Condate.\n\nQuand la Révolution arrive, le prieuré est vendu comme bien national en 1791. La période est aussi agitée : le général Vachot écrit en 1794 avoir exterminé et presque entièrement détruit des Chouans ravageant, entre autres, Châteaubourg. Au XIXe siècle, l’école progresse : en 1846, la commune finance une maison d’école.\n\nLe chemin de fer change le rythme : la ligne entre Laval et Rennes est ouverte le 1er mai 1858, avec un décalage à Châteaubourg. Le paysage religieux se transforme ensuite : en 1893, Saint-Pierre prend place sur les fondations du château.\n\nEnfin, la mémoire locale continue de s’entendre lors des grandes alertes et des fusions de communes, comme celle qui réunit Broons-sur-Vilaine, Saint-Melaine et Châteaubourg en 1973.",
+  "chronologie": [
+   {
+    "date": "VIe siècle ou début du Ve siècle avant J.-C.",
+    "texte": "La fouille de la Goultière met au jour une activité d’extraction d’argile liée à un affleurement de dolérite.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1791 (18 avril)",
+    "texte": "Le prieuré de Châteaubourg est vendu comme bien national.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1794 (3 juin)",
+    "texte": "Le général Vachot écrit au Comité de salut public de Segré : il affirme avoir détruit les Chouans ravageant notamment Châteaubourg.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1846",
+    "texte": "Le Conseil général d’Ille-et-Vilaine note que la commune fait des sacrifices pour édifier une maison d’école.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1858 (1er mai) et 1858/1859",
+    "texte": "La ligne ferroviaire est ouverte entre Laval et Rennes ; la seconde voie n’ouvre à Châteaubourg qu’en mars 1859.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1886 (18 octobre)",
+    "texte": "La brigade de gendarmerie à cheval devient une brigade de gendarmerie à pied.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1893",
+    "texte": "La nouvelle église paroissiale Saint-Pierre est construite sur les fondations du château.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1933 (12 avril)",
+    "texte": "À la suite d’un grave incendie en forêt de Chevré, les cloches de Broons, Châteaubourg et La Bouëxière sonnent le tocsin et les populations attaquent le fléau sous la direction des gendarmes et des pompiers.",
+    "sources": [
+     "S21"
+    ]
+   },
+   {
+    "date": "1973 (1er avril)",
+    "texte": "Broons-sur-Vilaine, Saint-Melaine et Châteaubourg fusionnent d’abord en association.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Saint-Melaine",
+   "histoire": "Saint-Melaine (anciennement Saint-Mélaine) est une ancienne commune d’Ille-et-Vilaine, aujourd’hui intégrée à Châteaubourg.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S18"
+   ],
+   "lat": 48.1111,
+   "lon": -1.3838,
+   "url": "https://fr.wikipedia.org/wiki/Saint-Melaine"
+  },
+  {
+   "nom": "Broons-sur-Vilaine",
+   "histoire": "Broons-sur-Vilaine est une ancienne commune d’Ille-et-Vilaine, aujourd’hui intégrée à Châteaubourg.",
+   "anecdotes": [
+    {
+     "texte": "Lors de l’incendie du 12 avril 1933 en forêt de Chevré, les cloches sonnent le tocsin à Broons, Châteaubourg et La Bouëxière, et les populations se mettent à l’attaque du feu sous l’encadrement des gendarmes et des pompiers.",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S23"
+   ],
+   "lat": 48.130659,
+   "lon": -1.421635,
+   "url": "https://fr.wikipedia.org/wiki/Broons-sur-Vilaine"
+  },
+  {
+   "nom": "Église Saint-Pierre de Châteaubourg",
+   "histoire": "Construite en 1893 sur les fondations du château, l’église Saint-Pierre s’appuie aussi sur des époques antérieures : une église priorale a existé aux XVe et XVIe siècles, puis l’édifice est reconstruit entre 1889 et 1902 en conservant le portail daté de 1546.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Église située à Châteaubourg, dans le département d’Ille-et-Vilaine.",
+   "sources": [
+    "S24",
+    "S25",
+    "S26",
+    "S9"
+   ],
+   "lat": 48.10966,
+   "lon": -1.40493,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Ch%C3%A2teaubourg"
+  },
+  {
+   "nom": "Gare de Châteaubourg",
+   "histoire": "La gare de Châteaubourg se trouve sur la ligne de Paris-Montparnasse à Brest. La mise en service de Châteaubourg intervient avec un décalage : prévu entre Vitré et Rennes, le tronçon ouvre d’abord entre Le Mans et Laval le 1er mai 1857, puis la seconde voie n’ouvre qu’en mars 1859 entre Le Genest et Châteaubourg.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Gare ferroviaire située sur le territoire de la commune.",
+   "sources": [
+    "S27",
+    "S7",
+    "S28"
+   ],
+   "lat": 48.106168,
+   "lon": -1.405216,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Ch%C3%A2teaubourg"
+  }
+ ],
+ "sources": [
+  "Châteaubourg [ ʃɑ.to.buʁ] est une commune française située dans le département d'Ille-et-Vilaine, en région Bretagne. En 2023, avec 7 533 habitants, elle est la 25e commune la plus peuplée d'Ille-et-Vilaine et la 71e de Bretagne. Depuis 2020, la commune est labellisée Village étape.",
+  "La fouille du site de la Goultière a permis d'identifier une activité d'extraction d'argile, correspondant à un affleurement de dolérite, datant du VIe siècle ou du début du Ve siècle avant J.-C.. Le tracé de l'ancienne RN 157 (actuelle RD 857 en Ille-et-Vilaine), passant par Châteaubourg, correspond en gros au tracé de l'ancienne voie romaine allant de Vindunum (Le Mans) à Condate (Rennes). C'est au XIe siècle […]",
+  "1791 : Le 18 avril 1791, le prieuré de Châteaubourg est vendu comme bien national.",
+  "1793 : Peu avant la Révolution française, la famille Varin de La Brunelière, dont le membre le plus connu est Pierre-Vincent Varin de La Brunelière (député à l'Assemblée nationale, il fut guillotiné à Paris le 12 nivôse an II (12 décembre 1793), possédait les seigneuries de la Brunelière et de la Galmandière en Châteaubourg.",
+  "1794 : Le général Vachot écrit le 3 juin 1794 au Comité de salut public de Segré : « J'ai exterminé et presque entièrement détruit les Chouans qui ravageaient les districts de Broons, Saint-Méen, Montfort, Châteaubourg, Vitré, La Guerche, etc. ».",
+  "1846 : En 1846, un rapport du Conseil général d'Ille-et-Vilaine indique que « la commune de Châteaubourg (...) a fait tous les sacrifices possibles pour édifier une maison d'école ».",
+  "1858 : Le 1er mai 1858, la première voie de la ligne ferroviaire de Paris-Montparnasse à Brest est ouverte à l'exploitation entre Laval et Rennes ; la seconde voie est ouverte le 18 juin 1858, sauf entre Le Genest et Châteaubourg où elle n'ouvre qu'en mars 1859.",
+  "1886 : Une brigade de gendarmerie à cheval existait à Châteaubourg ; elle est transformée en brigade de gendarmerie à pied le 18 octobre 1886.",
+  "1893 : En 1893, la nouvelle église paroissiale Saint-Pierre est construite sur les fondations du château, dont les derniers vestiges disparaissent alors.",
+  "1903 : Le Journal officiel de la République française du 11 mars 1903 indique qu'une pétition signée par 222 habitants de la commune de Châteaubourg et protestant contre la Loi de 1901 a été remise par Louis Félix Ollivier, député des Côtes-du-Nord, sur le bureau de la Chambre des députés.",
+  "1911 : Le groupe scolaire de l'école publique est construit en 1911.",
+  "1922 : Ernest Hervé, né le 8 juillet 1922 à Châteaubourg, fut résistant FTPF, participant à des sabotages dans la région rennaise et fut arrêté temporairement ; libéré, il rejoignit le maquis de Plouasne où il participa à la réception de parachutages dans la forêt de Boquen.",
+  "XXe siècle : Les derniers restes de ce château ont été détruits au début du XXe siècle.",
+  "Lieu « Saint-Melaine » : Saint-Melaine ou Saint-Mélaine est une ancienne commune d'Ille-et-Vilaine qui fait aujourd'hui partie de la commune de Châteaubourg.",
+  "Lieu « Saint-Melaine », 1167 : La grange cistercienne de Fayel (de nos jours il existe un hameau et un étang portant ce nom, écrit \"Fayelle\", situé au nord du bourg de Saint-Melaine) a été fondée en 1167 par Robert III de Vitré et était comme un prieuré dépendant de l'abbaye de Savigny.",
+  "Lieu « Saint-Melaine », 1825 : Saint-Melaine ne fut à nouveau érigée en paroisse indépendante par une ordonnance royale qu'en 1825.",
+  "Lieu « Saint-Melaine », 1973 : La fusion-association entre Broons-sur-Vilaine, Saint-Melaine et Châteaubourg a eu lieu le 1er avril 1973 et est transformé en une fusion simple au 1er janvier 2014.",
+  "Lieu « Saint-Melaine », aujourd'hui : Saint-Melaine ou Saint-Mélaine est une ancienne commune d'Ille-et-Vilaine qui fait aujourd'hui partie de la commune de Châteaubourg.",
+  "Lieu « Broons-sur-Vilaine » : Broons-sur-Vilaine est une ancienne commune d'Ille-et-Vilaine qui fait aujourd'hui partie de la commune de Châteaubourg.",
+  "Lieu « Broons-sur-Vilaine », 1603 : Amédée Guillotin de Corson cite deux chapelles : la chapelle des Brûlais (bâtie par Raoul Martin, sieur de la Jartais et des Brûlais, bénie en 1603 (mais détruite avant 1883) et la chapelle de la Balluère, construite par les seigneurs du même nom et attenante à leur manoir.",
+  "Lieu « Broons-sur-Vilaine », 1933 : Le 12 avril 1933, un grave incendie se déclara en forêt de Chevré ; « les cloches des églises de Broons, Châteaubourg et La Bouëxière ont sonné le tocsin, et toutes les populations avoisinantes, sous la direction des gendarmes et des pompiers des bourgades voisines, ont attaqué le fléau (...).",
+  "Lieu « Broons-sur-Vilaine », 1973 : La fusion-association entre Broons-sur-Vilaine, Saint-Melaine et Châteaubourg a eu lieu le 1er avril 1973 et est transformé en une fusion simple au 1er janvier 2014.",
+  "Lieu « Broons-sur-Vilaine », aujourd'hui : Broons-sur-Vilaine est une ancienne commune d'Ille-et-Vilaine qui fait aujourd'hui partie de la commune de Châteaubourg.",
+  "Lieu « Église Saint-Pierre de Châteaubourg » : L'église Saint-Pierre de Châteaubourg est une église située à Châteaubourg dans le département français d'Ille-et-Vilaine.",
+  "Lieu « Église Saint-Pierre de Châteaubourg », XVIe siècle : La première église était une église priorale construite aux XVe et XVIe siècles.",
+  "Lieu « Église Saint-Pierre de Châteaubourg », 1889 : L'église a été reconstruite entre 1889 et 1902 suivant les plans de Arthur Regnault, en conservant le portail daté de 1546.",
+  "Lieu « Gare de Châteaubourg » : La gare de Châteaubourg est une gare ferroviaire française de la ligne de Paris-Montparnasse à Brest, située sur le territoire de la commune de Châteaubourg, dans le département d'Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Gare de Châteaubourg », 1856 : En 1856, Châteaubourg est l'une des deux stations prévues entre Vitré et Rennes mise en service lors de l'ouverture du tronçon entre Le Mans et Laval le 1er mai 1857."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 1
+ }
+}

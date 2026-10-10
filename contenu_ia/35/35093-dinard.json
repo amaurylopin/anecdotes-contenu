@@ -1,0 +1,310 @@
+{
+ "commune": {
+  "titre": "Dinard",
+  "code_insee": "35093",
+  "departement": "35",
+  "population": 10772,
+  "lat": 48.6325,
+  "lon": -2.061667,
+  "url": "https://fr.wikipedia.org/wiki/Dinard"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:50:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3017,
+  "sortie": 1608
+ },
+ "cout_usd": 0.002613,
+ "accroche": "Depuis 1858, Dinard attire avec sa première villa balnéaire, construite à la pointe du Moulinet par James Erhart Coppinger, appelée château du Bec de la Vallée ou Villa Castel Mond.",
+ "histoire": {
+  "recit": "Dinard, en Bretagne, s’est forgée comme station balnéaire au rythme des Anglais et des Américains, et de leurs villas à l’allure Belle Époque. La présence britannique se lit jusque dans les bow-windows et les jardins à l’anglaise, mais aussi dans l’ouverture d’un temple protestant, puis d’un club de tennis, avant le casino, l’hippodrome de Dinard-Pleurtuit et l’hôpital « La Providence ». \n\nAu fil des projets, la ville a aussi misé sur la mer et l’aventure : une station de canot de sauvetage est créée en 1878, et en 1935, Charcot inspire l’ouverture de « l’Aquarium et Musée de la Mer ». \n\nMais l’élan ne dure pas toujours : la crise économique de 1929 coupe les capitaux, le casino est détruit et l’hôtel Beauvallon change de destin. Dinard continue pourtant de se raconter par ses lieux : le prieuré fondé en 1324, les rochers de l’estuaire, et jusqu’à l’énergie tirée des marées à l’usine marémotrice de la Rance.",
+  "chronologie": [
+   {
+    "date": "1140",
+    "texte": "Un point de passage est accolé à L'Hôpital-Bechet, probablement contrôlé par des Hospitaliers de l'ordre de Saint-Jean de Jérusalem ou par des Templiers installés à Saint-Malo.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1324",
+    "texte": "Olivier et Geoffroy de Montfort fondent le prieuré de Dinard en 1324.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1858",
+    "texte": "À la pointe du Moulinet, James Erhart Coppinger fait construire la première villa balnéaire : le château du Bec de la Vallée, ou Villa Castel Mond.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1871",
+    "texte": "La présence britannique se précise avec l’ouverture d’un temple protestant à Dinard.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1878",
+    "texte": "La Société centrale de sauvetage des naufragés crée une station de canot de sauvetage à Dinard.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1929",
+    "texte": "La crise coupe les capitaux : le casino est détruit et l’hôtel Beauvallon est transformé en copropriété.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1935",
+    "texte": "Ouverture de l’« Aquarium et Musée de la Mer » voulu par le commandant Charcot.",
+    "sources": [
+     "S9"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Rocher de Bizeux",
+   "histoire": "Rocher de Bizeux : un rocher situé dans l’estuaire de la Rance, entre Saint-Servan (commune de Saint-Malo) et La Vicomté (commune de Dinard).",
+   "anecdotes": [
+    {
+     "texte": "Une statue en plâtre est d’abord érigée en 1890, puis achevée et exposée au salon de Paris en 1896.",
+     "statut": "etabli",
+     "sources": [
+      "S11",
+      "S12"
+     ]
+    },
+    {
+     "texte": "La statue est ensuite érigée le 24 octobre 1897.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, un comité est créé l’année suivante pour installer une vierge en métal, choisissant le sculpteur servannais Alfred Caravanniez.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.62806,
+   "lon": -2.02667,
+   "url": "https://fr.wikipedia.org/wiki/Rocher_de_Bizeux"
+  },
+  {
+   "nom": "Usine marémotrice de la Rance",
+   "histoire": "L’usine marémotrice de la Rance est une centrale électrique tirant son énergie de la force des marées.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "lat": 48.61786,
+   "lon": -2.024617,
+   "url": "https://fr.wikipedia.org/wiki/Usine_mar%C3%A9motrice_de_la_Rance"
+  },
+  {
+   "nom": "Église Saint Bartholomew de Dinard",
+   "histoire": "Église anglicane achevée de construire en 1870 sur la Pointe du Moulinet, elle reste le lieu de rencontre de la communauté anglicane de Dinard aujourd’hui.",
+   "anecdotes": [
+    {
+     "texte": "L’église est achevée en 1870 malgré l’avis défavorable de l’évêque de Londres, grâce à la donation du terrain par M. William Faber et à la générosité de nombreuses personnes, dont William Faber et Sir Philip Egerton.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "Elle abrite un bel orgue anglais de 13 jeux sur 2 claviers et un pédalier, œuvre du facteur anglais Alfred Oldknow.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "lat": 48.634856,
+   "lon": -2.050584,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint_Bartholomew_de_Dinard"
+  },
+  {
+   "nom": "Villa Greystones",
+   "histoire": "La villa Greystones est une villa construite entre 1938 et 1950 à Dinard, au 16, boulevard de la Mer, par l’architecte Michel Roux-Spitz.",
+   "anecdotes": [
+    {
+     "texte": "En 1938, après en avoir hérité, l’architecte Michel Roux-Spitz détruit la villa initiale pour y construire une villa moderne nommée « Greystones 2 ».",
+     "statut": "etabli",
+     "sources": [
+      "S25"
+     ]
+    },
+    {
+     "texte": "La villa est inscrite monument historique par arrêté du 4 juillet 2014, englobant la maison, terrasses, jardin et éléments décoratifs, ainsi que les bâtiments accessoires et annexes.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 48.6397835,
+   "lon": -2.0617698,
+   "url": "https://fr.wikipedia.org/wiki/Villa_Greystones"
+  },
+  {
+   "nom": "Les Roches Brunes",
+   "histoire": "Les Roches Brunes est une villa située allée des Douaniers à Dinard.",
+   "anecdotes": [
+    {
+     "texte": "En 1944, mis à part un petit château détruit par les bombardements alliés, le site reste vierge.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 48.6399,
+   "lon": -2.0572,
+   "url": "https://fr.wikipedia.org/wiki/Les_Roches_Brunes"
+  },
+  {
+   "nom": "Île Harbour (Ille-et-Vilaine)",
+   "histoire": "L’île Harbour est un îlot rocheux fortifié de la baie de Saint-Malo.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 48.6528,
+   "lon": -2.06944,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Harbour_%28Ille-et-Vilaine%29"
+  },
+  {
+   "nom": "Rance (fleuve)",
+   "histoire": "La Rance est un fleuve côtier de l’Ouest de la France, au nord de la Bretagne.",
+   "anecdotes": [
+    {
+     "texte": "L’ouvrage qui définit aujourd’hui le régime hydrologique de la Rance maritime est construit entre 1961 et 1966.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33"
+   ],
+   "lat": 48.64111,
+   "lon": -2.04056,
+   "url": "https://fr.wikipedia.org/wiki/Rance_%28fleuve%29"
+  },
+  {
+   "nom": "Prieuré de Dinard",
+   "histoire": "Le prieuré de Dinard est un lieu de culte catholique situé au sud de Dinard.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S34",
+    "S35"
+   ],
+   "lat": 48.625481,
+   "lon": -2.054127,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_Dinard"
+  }
+ ],
+ "sources": [
+  "Dinard est une commune française située dans le département d'Ille-et-Vilaine, en région Bretagne. C'est une station balnéaire réputée, particulièrement auprès des Britanniques et des Américains[Selon qui ?], pour ses villas Belle Époque et le Festival du film britannique qui s'y tient chaque année depuis 1989. Avec ses nombreuses villas classées datant des années 1900 et 1910, son casino et ses animations […]",
+  "L'histoire de Dinard est liée à la légende du roi Arthur : en effet, selon la légende, le roi Arthur aurait débarqué sur les côtes dinardaises en 513 pour y construire un fort (d'où la prétendue étymologie de la ville, fort d'Arthur) et fonder la localité de Dinard. Dinard est mentionné dans le Roman d'Aiquin, une chanson de geste du XIIe siècle. Ce récit épique met en scène l’archevêque Ysoré de Dol, allié de […]",
+  "1140 : Ce point de passage est accolé à un établissement charitable appelé L'Hôpital-Bechet et probablement contrôlé par les Hospitaliers de l'ordre de Saint-Jean de Jérusalem ou par les Templiers installés à Saint-Malo, à partir de 1140.",
+  "1324 : Cependant les Geoffroy et Olivier qui ont fondé le prieuré, en 1324, n'ont probablement pas participé aux croisades (la mort de Louis IX, en 1270, signe la fin de la 8e et dernière croisade), ni, par conséquent, été fait prisonniers par les barbaresques.",
+  "1858 : En 1858, la première villa balnéaire est construite par James Erhart Coppinger à la pointe du Moulinet, c'est le château du Bec de la Vallée, ou Villa Castel Mond (car elle appartint un temps à Sir Robert Mond et à sa femme Lady Mond).",
+  "1871 : La présence britannique se voit à travers les villas aux bow-windows, les parcs et les jardins à l'anglaise, l'ouverture d'un temple protestant en 1871, d'un club de tennis dès 1879, du casino, de l'hippodrome de Dinard-Pleurtuit en 1885, du terrain de golf (son parcours est dans la commune voisine de Saint-Briac) en 1887, de l'hôpital \"La Providence\" en 1891.",
+  "1878 : La Société centrale de sauvetage des naufragés a créé, en 1878, une station de canot de sauvetage à Dinard (...). » Dans les années 1880, Dinard est la première station balnéaire de France, elle est à son âge d'or.",
+  "1929 : Mais, très vite, la crise économique de 1929 coupe les capitaux et les espoirs du projet faramineux et ambitieux de la Vicomté en Dinard : le casino est détruit, et l'hôtel Beauvallon est transformé en copropriété.",
+  "1935 : La science, la mer et l'aventure ne sont pas non plus oubliées, avec l'ouverture en 1935 de l'« Aquarium et Musée de la Mer » voulus par le fameux commandant Charcot.",
+  "Lieu « Rocher de Bizeux » : Le rocher de Bizeux est un rocher situé dans l'estuaire de la Rance, entre Saint-Servan (commune de Saint-Malo) et La Vicomté (commune de Dinard).",
+  "Lieu « Rocher de Bizeux », 1890 : Une première statue en plâtre est érigée en 1890.",
+  "Lieu « Rocher de Bizeux », 1896 : Achevée, elle est exposée au salon de Paris de 1896.",
+  "Lieu « Rocher de Bizeux », 1897 : La statue fut érigée le 24 octobre 1897.",
+  "Lieu « Rocher de Bizeux », aujourd'hui : Un comité est créé dès l'année suivante pour l'installation d'une vierge en métal et il choisit le sculpteur servannais, Alfred Caravanniez (ce dernier a également réalisé la statue de Surcouf qui se trouve aujourd'hui sur les remparts de Saint-Malo).",
+  "Lieu « Usine marémotrice de la Rance » : L'usine marémotrice de la Rance est une centrale électrique française tirant son énergie de la force des marées.",
+  "Lieu « Usine marémotrice de la Rance », 1925 : Le chantier débuté en 1925 est abandonné une première fois par M. Le Troquer en 1928, pour être repris par M. Tardieu.",
+  "Lieu « Usine marémotrice de la Rance », 1930 : Il est définitivement abandonné, en 1930, faute de financement, en pleine crise financière de 1929.",
+  "Lieu « Usine marémotrice de la Rance », 1966 : Avec une capacité installée de 240 MW, elle est restée la plus grande usine marémotrice au monde pendant 45 ans, de sa mise en service en 1966 jusqu'au 4 août 2011, détrônée par la centrale marémotrice de Sihwa en Corée du Sud (254 MW installés).",
+  "Lieu « Église Saint Bartholomew de Dinard » : L’église Saint Bartholomew de Dinard est une église anglicane achevée de construire en 1870 sur la Pointe du Moulinet et toujours le lieu de rencontre de la communauté anglicane de Dinard aujourd'hui.",
+  "Lieu « Église Saint Bartholomew de Dinard », 1848 : L'église Saint Bartholomew comporte un bel orgue anglais de 13 jeux sur 2 claviers et un pédalier, œuvre du facteur anglais Alfred Oldknow (1848-1912), qui avait appris le métier chez Bevington à Londres et qui s'était installé dans les îles anglo-normandes.",
+  "Lieu « Église Saint Bartholomew de Dinard », 1870 : L’église Saint Bartholomew de Dinard est une église anglicane achevée de construire en 1870 sur la Pointe du Moulinet et toujours le lieu de rencontre de la communauté anglicane de Dinard aujourd'hui.",
+  "Lieu « Église Saint Bartholomew de Dinard », 1870 : L'église Saint Bartholomew a été achevée en 1870, malgré l'avis défavorable de l’évêque de Londres qui considérait qu'il y avait trop d'églises dans la région, grâce à la donation du terrain par M. William Faber, et à la générosité de nombreuses personnes dont William Faber et Sir Philip Egerton.",
+  "Lieu « Villa Greystones » : La villa Greystones est une villa construite entre 1938 et 1950 à Dinard au 16, boulevard de la Mer par l'architecte Michel Roux-Spitz.",
+  "Lieu « Villa Greystones », 1938 : La villa Greystones est une villa construite entre 1938 et 1950 à Dinard au 16, boulevard de la Mer par l'architecte Michel Roux-Spitz.",
+  "Lieu « Villa Greystones », 1938 : En ayant hérité en 1938, l'architecte Michel Roux-Spitz la détruit pour y construire à la place une villa moderne qu'il nomme « Greystones 2 ».",
+  "Lieu « Villa Greystones », 2014 : La villa est inscrite monument historique par arrêté du 4 juillet 2014, qui englobe la maison avec ses terrasses en totalité ainsi que l'ajout à l'arrière du mur coupe-vent, le jardin dans son intégralité avec tous les bâtiments accessoires et annexes, sculptures et éléments décoratifs.",
+  "Lieu « Les Roches Brunes » : La villa des Roches Brunes est une villa située allée des Douaniers sur la commune de Dinard, dans le département français d'Ille-et-Vilaine, région Bretagne.",
+  "Lieu « Les Roches Brunes », 1893 : Celle des Roches Brunes a été construite par l’architecte Alexandre Angier en 1893.",
+  "Lieu « Les Roches Brunes », 1944 : Mis à part un petit château, détruit en 1944 par les bombardements alliés, le site est vierge.",
+  "Lieu « Île Harbour (Ille-et-Vilaine) » : L'île Harbour est un îlot rocheux fortifié de la baie de Saint-Malo dans le département d'Ille-et-Vilaine.",
+  "Lieu « Île Harbour (Ille-et-Vilaine) », XVIIIe siècle : Le fort a été construit au cours des XVIIe et XVIIIe siècles à l'initiative des ingénieurs militaires Sébastien Le Prestre de Vauban et Siméon Garangeau.",
+  "Lieu « Rance (fleuve) » : La Rance est un fleuve côtier de l'Ouest de la France, au nord de la Bretagne.",
+  "Lieu « Rance (fleuve) », 1961 : Cet ouvrage a été construit entre 1961 et 1966, il définit aujourd'hui le régime hydrologique de la Rance maritime.",
+  "Lieu « Prieuré de Dinard » : Le prieuré de Dinard est un lieu de culte catholique située au sud de Dinard, dans le département français d'Ille-et-Vilaine, région Bretagne.",
+  "Lieu « Prieuré de Dinard », 1324 : Les chevaliers Olivier et son frère Geoffroy de Montfort ont fondé le prieuré en 1324."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 9
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "commune": {
+  "titre": "Noyal-Châtillon-sur-Seiche",
+  "code_insee": "35206",
+  "departement": "35",
+  "population": 8359,
+  "lat": 48.04328896,
+  "lon": -1.65752036,
+  "url": "https://fr.wikipedia.org/wiki/Noyal-Ch%C3%A2tillon-sur-Seiche"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:15:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1208,
+  "sortie": 698
+ },
+ "cout_usd": 0.001114,
+ "accroche": "En 1835, on décida de construire une nouvelle tour à Noyal-Châtillon-sur-Seiche : achevée en 1841, elle ne vit jamais arriver le télégraphe.",
+ "histoire": {
+  "recit": "Noyal-Châtillon-sur-Seiche, au sud du bassin rennais, traversée par la Seiche, appartient à Rennes Métropole. Son sol est riche de menhirs et de dolmens, et des objets de l’âge du bronze y ont aussi été trouvés, dont des taureaux présentés au musée de Bretagne.\n\nAprès les Riedones, peuple celte dont Condate Riedonum était la capitale à l’emplacement de l’actuelle Rennes, la commune change d’allure avec ses chantiers et ses transports. En 1835, on lance la construction d’une tour : elle est achevée en 1841, mais le télégraphe n’y viendra jamais. Plus tard, une ligne de tramway des Tramways d’Ille-et-Vilaine relie Rennes au Grand-Fougeray en passant par la commune ; mise en service en 1910, elle circule à environ 25 km/h et ferme en 1937.",
+  "chronologie": [
+   {
+    "date": "1835",
+    "texte": "Décision de construire une nouvelle tour.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1841",
+    "texte": "La tour est achevée, mais le télégraphe n’y vient jamais.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1909",
+    "texte": "Construction de la ligne de tramway des Tramways d’Ille-et-Vilaine allant de Rennes au Grand-Fougeray en passant par Noyal-sur-Seiche.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "Mise en service de la ligne de tramway, longue de 64 km.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "Fermeture de la ligne de tramway.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Manoir de Mouillemuse",
+   "histoire": "Le manoir de Mouillemuse est un édifice de la commune. Le manoir actuel date du XVIIIe siècle, avec des traces du lieu dès le XVe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le manoir actuel date du XVIIIe siècle.",
+   "sources": [
+    "S5",
+    "S6"
+   ],
+   "lat": 48.0445,
+   "lon": -1.6279,
+   "url": "https://fr.wikipedia.org/wiki/Manoir_de_Mouillemuse"
+  }
+ ],
+ "sources": [
+  "Noyal-Châtillon-sur-Seiche est une commune française située dans le département d'Ille-et-Vilaine, en région Bretagne. Située au sud du bassin rennais, traversée par la Seiche et peuplée de 8359 habitants, elle fait partie des 43 communes de Rennes Métropole.",
+  "Le territoire de la commune est assez riche en menhirs et dolmens de l'âge de pierre. Des objets de l'âge du bronze ont même été trouvés dans le sol tels les taureaux visibles au musée de Bretagne (qui semblent dater de cette époque). Le peuple celte qui occupait ce territoire est celle des Riedones dont Condate Riedonum était la capitale (situé à l'emplacement de l'actuelle Rennes). En 1983 la commune de […]",
+  "1835 : En 1835, on décida de construire une nouvelle tour qui fut achevée en 1841 mais le télégraphe n'y vint jamais.",
+  "1909 : Une ligne de tramway des TIV (Tramways d'Ille-et-Vilaine) allant de Rennes au Grand-Fougeray en passant par Chartres, Noyal-sur-Seiche, Pont-Péan, Orgères, Chanteloup, Le Sel, Saulnières, Pancé, Bain et La Dominelais fut construite à partir de 1909 ; mise en service en 1910, la ligne était longue de 64 km ; elle ferma en 1937 ; les tramways y circulaient à environ 25 km/h.",
+  "Lieu « Manoir de Mouillemuse » : Le manoir de Mouillemuse est un édifice de la commune de Noyal-Châtillon-sur-Seiche, dans le département d’Ille-et-Vilaine en région Bretagne.",
+  "Lieu « Manoir de Mouillemuse », aujourd'hui : Le manoir actuel date du XVIIIe siècle et on retrouve des traces du lieu dès le XVe siècle."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

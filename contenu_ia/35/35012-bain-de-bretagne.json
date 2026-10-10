@@ -1,0 +1,112 @@
+{
+ "commune": {
+  "titre": "Bain-de-Bretagne",
+  "code_insee": "35012",
+  "departement": "35",
+  "population": 7674,
+  "lat": 47.84305556,
+  "lon": -1.68055556,
+  "url": "https://fr.wikipedia.org/wiki/Bain-de-Bretagne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:24:55",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1218,
+  "sortie": 1001
+ },
+ "cout_usd": 0.001495,
+ "accroche": "En 1910, la ligne de tramway des TIV reliant Rennes au Grand-Fougeray, passant par Bain-de-Bretagne, fut mise en service.",
+ "histoire": {
+  "recit": "À Bain-de-Bretagne, tout commence par un prieuré. Notre-Dame-de-Bain est cité pour la première fois en 1152 ; il dépend alors de l’abbaye Saint-Melaine de Rennes, et les moines y conservent des droits que leur cartulaire évoque à plusieurs reprises. Bien plus tard, en 1287, ils cèdent dans un échange leurs droits sur les habitants de Bain et de Messac, tout en conservant notamment les dîmes et des droits liés aux terres.\n\nLe bourg voit ensuite s’affermir ses puissances locales : le château de la Marzelière est construit en 1340 par Guillaume de Marzelière. À la fin du XVIe siècle, la paroisse subit l’influence des confins nord de l’évêché de Nantes, au point que certains habitants se convertirent au protestantisme.\n\nPuis viennent les affaires de bâtiments et de droits : en 1726, la chapelle du prieuré, menaçant ruine, est interdite de fréquentation et vendue un peu plus tard, avec une grange servant à la perception des dîmes. En 1778, la terre appartient à Charles-Louis de Montluc, tandis que le château de la Marzelière, abandonné, est totalement ruiné.\n\nEnfin, l’époque moderne apporte un fil de rails : une ligne de tramway des TIV passe par Bain-de-Bretagne, construite à partir de 1909, mise en service en 1910, puis fermée en 1937.",
+  "chronologie": [
+   {
+    "date": "1152",
+    "texte": "Le prieuré Notre-Dame-de-Bain est cité pour la première fois ; il dépend de l’abbaye Saint-Melaine de Rennes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1287",
+    "texte": "Dans le cadre d’un échange, les moines abandonnent leurs droits sur les habitants de Bain et de Messac, tout en se réservant dîmes et droits.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1340",
+    "texte": "Le château de la Marzelière est construit par Guillaume de Marzelière.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "fin du XVIe siècle",
+    "texte": "Des habitants de Bain se convertissent au protestantisme ; la paroisse se trouve à proximité de « l’arc huguenot » des confins nord de l’évêché de Nantes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1726",
+    "texte": "La chapelle du prieuré, menaçant ruine, est interdite de fréquentation puis vendue un peu plus tard, avec une grange liée à la perception des dîmes.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1778",
+    "texte": "Charles-Louis de Montluc possède la terre, tandis que le château de la Marzelière, abandonné, est totalement ruiné.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "à partir de 1909",
+    "texte": "Une ligne de tramway des TIV est construite en passant par Bain-de-Bretagne, dans l’axe Rennes–Grand-Fougeray.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1910",
+    "texte": "La ligne est mise en service ; elle circule à environ 25 km/h.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1937",
+    "texte": "La ligne ferme.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Bain-de-Bretagne est une commune française située dans le département d'Ille-et-Vilaine, en région Bretagne.",
+  "Le prieuré Notre-Dame-de-Bain est cité pour la première fois en 1152 ; il dépendait de l'Abbaye Saint-Melaine de Rennes et est cité à plusieurs reprises dans le cartulaire de cette abbaye. En 1287 les moines abandonnèrent à Geoffroy de Châteaubriant, dans le cadre d'un échange, tous leurs droits sur les habitants de Bain et de Messac et les terres qu'ils possédaient, se réservant toutefois les dîmes et les droits […]",
+  "1340 : Le château de la Marzelière fut construit en 1340 par Guillaume de Marzelière.",
+  "XVIe siècle : Des habitants de Bain se convertirent au protestantisme à la fin du XVIe siècle, la paroisse se situant à proximité de « l'arc huguenot » des confins nord de l'évêché de Nantes.",
+  "1726 : En 1726 la chapelle du prieuré, menaçant ruine, fut interdite de fréquentation et vendue un peu plus tard, de même qu'une grange qui servait à la perception des dîmes.",
+  "1778 : En 1778 la terre est propriété de Charles-Louis de Montluc, mais le château de la Marzelière, abandonné, est totalement ruiné.",
+  "1909 : Une ligne de tramway des TIV (Transports d'Ille-et-Vilaine) allant de Rennes au Grand-Fougeray en passant par Chartres, Noyal-sur-Seiche, Pont-Péan, Orgères, Chanteloup, Le Sel, Saulnières, Pancé, Bain et La Dominelais fut construite à partir de 1909 ; mise en service en 1910, la ligne était longue de 64 km ; elle ferma en 1937 ; les tramways y circulaient à environ 25 km/h."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

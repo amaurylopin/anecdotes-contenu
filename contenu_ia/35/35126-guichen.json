@@ -1,0 +1,169 @@
+{
+ "commune": {
+  "titre": "Guichen",
+  "code_insee": "35126",
+  "departement": "35",
+  "population": 9412,
+  "lat": 47.96805556,
+  "lon": -1.79388889,
+  "url": "https://fr.wikipedia.org/wiki/Guichen"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:03:39",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1929,
+  "sortie": 1255
+ },
+ "cout_usd": 0.001955,
+ "accroche": "À Guichen, l’église paroissiale bâtie en 1620 par maître Jacques Blouet est ensuite reconstruite en 1838 avant d’être tronquée durant la Seconde Guerre mondiale.",
+ "histoire": {
+  "recit": "À Guichen, les repères anciens se sont faits rares, mais les dates, elles, restent bien tracées. La fondation de la paroisse et l’existence d’un portus appelé Glanret sont situées très tôt, tandis que l’église paroissiale change de place avant de trouver son visage d’époque.\n\nLe château, lui, subit les volontés du pouvoir : Richelieu le fait démolir en 1624, puis il renaît au même endroit, en gardant les douves. Au XVIIIe siècle, après l’incendie de Rennes, les carrières de Guichen et des environs s’activent et les pierres suivent la Vilaine par bateaux.\n\nPlus près de nous, le quartier de Pont-Réan conserve une mémoire dans les noms, et la vie locale s’y organise aussi par le sport. La gare de Laillé, ouverte en 1882, marque encore aujourd’hui une petite zone urbaine autour de l’« Halte de Laillé ».",
+  "chronologie": [
+   {
+    "date": "1101",
+    "texte": "Les origines connues de Guichen remontent à 1101, avec la fondation de la paroisse de Guichen et d’un portus, Glanret (port).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1620",
+    "texte": "L’église actuelle est construite en 1620 par maître Jacques Blouet.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1624",
+    "texte": "Richelieu fait démolir le château ; il est ensuite reconstruit au même emplacement au XVIIe siècle, en gardant les douves.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1620",
+    "texte": "L’église est reconstruite en 1838 puis tronquée durant la Seconde Guerre mondiale.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1720",
+    "texte": "Après l’incendie de Rennes de 1720, les carrières de Guichen et des paroisses voisines s’activent et les pierres sont convoyées par bateaux via la Vilaine.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1790",
+    "texte": "Le 7 juin 1790, le château de la Grésillonnais est attaqué, pillé et incendié par des habitants de Guichen et de paroisses voisines.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont-Réan",
+   "histoire": "Pont-Réan est un village sur les communes de Bruz et de Guichen, avec une histoire de moulins et une toponymie qui a perduré.",
+   "anecdotes": [
+    {
+     "texte": "On attribue au pont des Romains le nom de Pont-Réan, le pont actuel datant de 1767.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Le Basket Club de Pont-Réan, créé en 1985, organise chaque année depuis 2001 un tournoi de Streetball, ouvert aux jeunes de 7 à 77 ans.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La trace toponymique continue d’apparaître dans des noms comme Pont-Réan et Pont-Péan.",
+   "sources": [
+    "S11"
+   ],
+   "lat": 48,
+   "lon": -1.776,
+   "url": "https://fr.wikipedia.org/wiki/Pont-R%C3%A9an"
+  },
+  {
+   "nom": "Gare de Laillé",
+   "histoire": "La halte de Laillé se trouve sur le territoire de Guichen, en bordure de la Vilaine, entre les bourgs de Laillé et Guichen.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Près de l’arrêt des habitations, une petite zone urbaine appelée aujourd’hui le lieu dit Halte de Laillé s’est construite au fil des années.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 47.971813,
+   "lon": -1.749649,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Laill%C3%A9"
+  },
+  {
+   "nom": "Le Boël",
+   "histoire": "Le Boël est un lieu-dit le long de la Vilaine, entre Bruz et Guichen, à proximité du bourg de Laillé.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le site est décrit par un siltstone, parfois nommé schiste rouge, avec une structure œillée donnant un débit en dalles.",
+   "sources": [
+    "S17"
+   ],
+   "lat": 47.9921,
+   "lon": -1.7554,
+   "url": "https://fr.wikipedia.org/wiki/Le_Bo%C3%ABl"
+  },
+  {
+   "nom": "Gare de Guichen - Bourg-des-Comptes",
+   "histoire": "La gare de Guichen - Bourg-des-Comptes se situe sur le territoire de Guichen, à proximité de Bourg-des-Comptes, sur la rive gauche de la Vilaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est aujourd’hui une halte SNCF desservie par des TER Bretagne circulant entre Rennes et Messac-Guipry ou Redon.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 47.935102,
+   "lon": -1.760033,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Guichen_-_Bourg-des-Comptes"
+  }
+ ],
+ "sources": [
+  "Guichen [ɡiʃɛ̃], également dénommée Guichen Pont-Réan, est une commune française située dans le département d'Ille-et-Vilaine, en région Bretagne.",
+  "Un site Internet présente de manière détaillée l'histoire de Guichen Il ne reste aujourd'hui plus rien du vieux Guichen, dont les origines connues remontent à 1101, avec la fondation de la paroisse de Guichen et d'un portus Glanret (port). L'église paroissiale aurait été implantée primitivement au niveau du hameau de Saint-Marc, aujourd'hui partie intégrante du centre-ville. Selon Jean-Baptiste Ogée les maisons […]",
+  "1620 : L'église actuelle est construite en 1620 par maître Jacques Blouet, puis reconstruite en 1838, et finalement tronquée durant la Seconde Guerre mondiale.",
+  "1624 : En 1624 Richelieu fit démolir le château, qui fut reconstruit au XVIIe siècle au même emplacement (en gardant les douves).",
+  "1720 : Après l'incendie de Rennes de 1720, les carrières de Guichen et des paroisses avoisinantes, notamment celle de Malroche, furent très actives ; les pierres étaient convoyées par bateaux via la Vilaine.",
+  "1790 : Le château de la Grésillonnais, qui appartenait à M. de Talhouët, fut, le 7 juin 1790 attaqué, pillé et incendié par des habitants de Guichen et de paroisses voisines.",
+  "Lieu « Pont-Réan » : Pont-Réan est un village français, situé sur les communes de Bruz et de Guichen, dans le département d'Ille-et-Vilaine et la région Bretagne.",
+  "Lieu « Pont-Réan », 1652 : Moulin du Boël construit en 1652, sur la Vilaine et sa première écluse datant du XVIe siècle.",
+  "Lieu « Pont-Réan », 1767 : Pont-Réan doit son nom au pont construit par les Romains sur la Vilaine (le pont actuel date de 1767).",
+  "Lieu « Pont-Réan », 1985 : Basket Club de Pont-Réan (BCPR), qui depuis 1985 créé une dynamique sportive dans ce village, notamment en organisant chaque année et ce depuis 2001 un tournoi de Streetball (3 contre 3 sur un demi terrain) et qui est ouvert aux jeunes de 7 à 77 ans.",
+  "Lieu « Pont-Réan », aujourd'hui : La toponymie a conservé sa trace dans des noms comme Pont-Réan (Pons Redonicus) et Pont-Péan (Pons Paganus, c'est-à-dire « Pont Payen », ce dernier situé à la limite de l'archidiaconé du Désert).",
+  "Lieu « Gare de Laillé » : La gare de Laillé est une halte ferroviaire française de la ligne de Rennes à Redon située sur le territoire de la commune de Guichen, en bordure de la Vilaine à mi-distance entre les bourgs de Laillé et Guichen, dans le département d'Ille-et-Vilaine",
+  "Lieu « Gare de Laillé », 1882 : La halte est ouverte en 1882 par la compagnie des chemins de fer de l'Ouest qui a mis en service la ligne le 26 septembre 1862.",
+  "Lieu « Gare de Laillé », aujourd'hui : Près de l'arrêt des habitations va s'édifier au fil des années une petite zone urbaine appelée aujourd'hui le lieu dit Halte de Laillé.",
+  "Lieu « Le Boël » : Le Boël est un lieu-dit situé le long de la Vilaine, à une quinzaine de kilomètres au sud de Rennes, entre les communes de Bruz et Guichen et à proximité du bourg de Laillé.",
+  "Lieu « Le Boël », 1652 : Le moulin du Boël a été construit en 1652, sur la Vilaine et sa première écluse date du XVIe siècle.",
+  "Lieu « Le Boël », aujourd'hui : Il s'agit d'un siltstone (parfois appelé schiste rouge) correspondant à « sédiments relativement homogènes et massifs à stratification peu visible, mais affectés d'une schistosité fruste et toujours développée, donnant un débit en dalles plus ou moins grossières à surfaces glanduleuses, caractéristiques liées à sa structure « œillée ».",
+  "Lieu « Gare de Guichen - Bourg-des-Comptes » : La gare de Guichen - Bourg-des-Comptes est une gare ferroviaire française de la ligne de Rennes à Redon, située sur le territoire de la commune de Guichen, à proximité de Bourg-des-Comptes sur la rive gauche de la Vilaine, dans le département d'Ille-",
+  "Lieu « Gare de Guichen - Bourg-des-Comptes », aujourd'hui : C'est aujourd'hui une halte de la Société nationale des chemins de fer français (SNCF) desservie par des trains express régionaux TER Bretagne circulant entre Rennes et Messac-Guipry ou Redon."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIIe"
+  ],
+  "nb_lieux": 4,
+  "nb_anecdotes": 2
+ }
+}
