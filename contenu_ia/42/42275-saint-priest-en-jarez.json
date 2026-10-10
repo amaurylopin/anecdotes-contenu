@@ -1,0 +1,163 @@
+{
+ "commune": {
+  "titre": "Saint-Priest-en-Jarez",
+  "code_insee": "42275",
+  "departement": "42",
+  "population": 6471,
+  "lat": 45.475,
+  "lon": 4.37888889,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Priest-en-Jarez"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:46:13",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1563,
+  "sortie": 1058
+ },
+ "cout_usd": 0.001635,
+ "accroche": "À Saint-Priest-en-Jarez, l’église Saint-Prix rappelle un parcours hagiographique lié à Priest de Clermont, traqué puis assassiné à Volvic le 25 janvier 676.",
+ "histoire": {
+  "recit": "On dit que le nom de Saint-Priest-en-Jarez vient d’un ermite, Saint-Priest, qui aurait vécu dans une grotte sur une colline en 666, avant d’être associé à l’histoire de Priest de Clermont. La tradition locale s’en mêle : elle raconte que Prix aurait d’abord vécu en ermite avant de devenir évêque de Clermont, tandis qu’une autre filiation de la fondation de l’église est rapportée par l’abbé de Soleysel.\n\nDans le bourg, l’église Saint-Prix se tient face à la croix de l’Holme. Devant elle s’élève une croix érigée en 1875, et la statue du Sacré-Cœur est mise en place en 1885. L’église accueille ensuite celle de Notre-Dame de Lourdes, érigée lors de la mission de la Toussaint 1886.\n\nÀ deux pas, le Musée d’Art moderne et contemporain de Saint-Étienne Métropole fait vivre l’autre visage de la commune : construit par l’architecte Didier Guichard, il est inauguré le 10 décembre 1987 et propose des expositions temporaires d’art contemporain, par thématiques et par roulement.",
+  "chronologie": [
+   {
+    "date": "666",
+    "texte": "Le nom de Saint-Priest-en-Jarez serait lié à un ermite, Saint-Priest, vivant dans une grotte sur une colline en 666.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "1691",
+    "texte": "L’abbé de Soleysel avance une tradition de fondation de l’église de Saint-Priest-en-Jarez, reprenant des éléments hagiographiques du martyre de Priest de Clermont.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "25 janvier 676",
+    "texte": "Selon la tradition, Priest de Clermont est traqué puis assassiné à Volvic le 25 janvier 676.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "Devant l’église Saint-Prix, une croix est érigée en 1875.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1885",
+    "texte": "La statue du Sacré-Cœur est placée en 1885.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1886",
+    "texte": "Notre-Dame de Lourdes est érigée lors de la mission de la Toussaint 1886.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "10 décembre 1987",
+    "texte": "Le Musée d’Art moderne et contemporain de Saint-Étienne Métropole est inauguré à l’entrée nord de la ville de Saint-Étienne, sur la commune de Saint-Priest-en-Jarez.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1987",
+    "texte": "Une grande partie des espaces du bâtiment construit par Didier Guichard accueille des expositions temporaires d’art contemporain.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée d'Art moderne et contemporain de Saint-Étienne Métropole",
+   "histoire": "Le musée, inauguré le 10 décembre 1987 sur la commune de Saint-Priest-en-Jarez, héberge plus de 20 000 œuvres, dont 1 500 pièces design. Son bâtiment, construit par l’architecte Didier Guichard, met en avant des expositions temporaires d’art contemporain, organisées par thématiques et par roulement.",
+   "anecdotes": [
+    {
+     "texte": "Le musée rassemble plus de 20 000 œuvres, dont 1 500 pièces design.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "lat": 45.4695,
+   "lon": 4.37395,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_moderne_et_contemporain_de_Saint-%C3%89tienne_M%C3%A9tropole"
+  },
+  {
+   "nom": "Église Saint-Prix de Saint-Priest-en-Jarez",
+   "histoire": "L’église Saint-Prix se trouve dans le bourg de la commune, face à la croix de l’Holme. Devant elle, une croix est érigée en 1875 ; la statue du Sacré-Cœur est placée en 1885, puis Notre-Dame de Lourdes est érigée lors de la mission de la Toussaint 1886. Aujourd’hui, l’église fait partie de la paroisse Bienheureux Antoine Chevrier.",
+   "anecdotes": [
+    {
+     "texte": "Selon la tradition, Prix y aurait vécu en ermite avant de devenir évêque de Clermont.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S2"
+     ]
+    },
+    {
+     "texte": "La mission de la Toussaint 1886 conduit à l’érection de Notre-Dame de Lourdes dans le cadre des aménagements de l’église.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 45.475,
+   "lon": 4.37888888889,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Prix_de_Saint-Priest-en-Jarez"
+  }
+ ],
+ "sources": [
+  "Saint-Priest-en-Jarez (prononcé [sɛ̃pʁijɛ ɑ̃ ʒaʁɛ]) est une commune française située dans le département de la Loire en région Auvergne-Rhône-Alpes. Ses habitants sont les Mounards. Le nom de Saint-Priest-en-Jarez viendrait d'un ermite qui s'appelait Saint-Priest et qui a vécu dans une grotte, sur une colline en 666.",
+  "La tradition de la fondation de l'église de Saint-Priest-en-Jarez, avancée par l'abbé de Soleysel (1691), reprend les éléments hagiographiques du martyre de Priest de Clermont. Complice d'Ébroïn, il fut traqué puis assassiné à Volvic le 25 janvier 676 en représailles à l'assassinat du patrice de Provence Hector. Selon la tradition locale, Prix y aurait vécu en ermite, avant de devenir évêque de Clermont de 666 à […]",
+  "Lieu « Musée d'Art moderne et contemporain de Saint-Étienne Métropole » : Le musée d'Art moderne et contemporain de Saint-Étienne Métropole héberge plus de 20 000 œuvres dont 1 500 pièces design.",
+  "Lieu « Musée d'Art moderne et contemporain de Saint-Étienne Métropole », 1980 : L'ouverture, à partir de la fin des années 1980, à de nouveaux domaines de collection consacrés au design et à la photographie font même du musée d'Art moderne de Saint-Étienne Métropole l'un des seuls[passage promotionnel], avec le musée national d'Art moderne, à pouvoir rendre compte de la création plastique au XXe siècle dans toute […]",
+  "Lieu « Musée d'Art moderne et contemporain de Saint-Étienne Métropole », 1987 : Construit par l'architecte Didier Guichard, il a été inauguré à l'entrée nord de la ville de Saint-Étienne, sur la commune de Saint-Priest-en-Jarez (Loire), le 10 décembre 1987.",
+  "Lieu « Musée d'Art moderne et contemporain de Saint-Étienne Métropole », 1987 : Elle est exposée par thématique et par roulement dans certaines salles du musée : La plus grande partie des espaces du bâtiment construit par Didier Guichard en 1987 accueille des expositions temporaires d'art contemporain.",
+  "Lieu « Église Saint-Prix de Saint-Priest-en-Jarez » : L'église Saint-Prix est une église appartenant à la commune de Saint-Priest-en-Jarez qui est située dans le bourg de la commune, face à la croix de l'Holme.",
+  "Lieu « Église Saint-Prix de Saint-Priest-en-Jarez », 1875 : Devant l'église s'élève une croix érigée en 1875.",
+  "Lieu « Église Saint-Prix de Saint-Priest-en-Jarez », 1885 : La statue du Sacré-Cœur est placée en 1885, puis vient celle de Notre-Dame de Lourdes érigée lors de la mission de la Toussaint 1886.",
+  "Lieu « Église Saint-Prix de Saint-Priest-en-Jarez », aujourd'hui : Elle fait aujourd'hui partie à la paroisse Bienheureux Antoine Chevrier qui comprend aussi l'Église du Sacré-Cœur de Saint-Étienne et l'Église Saint-Laurent de Villars."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Sacré-C"
+  ],
+  "nb_lieux": 2,
+  "nb_anecdotes": 3
+ }
+}

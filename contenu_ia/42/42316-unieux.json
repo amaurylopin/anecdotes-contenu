@@ -1,0 +1,115 @@
+{
+ "commune": {
+  "titre": "Unieux",
+  "code_insee": "42316",
+  "departement": "42",
+  "population": 8514,
+  "lat": 45.4025,
+  "lon": 4.26222222,
+  "url": "https://fr.wikipedia.org/wiki/Unieux"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:13:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1196,
+  "sortie": 825
+ },
+ "cout_usd": 0.00127,
+ "accroche": "En 1794, Unieux devient une commune par démembrement de la paroisse de Firminy, mais l’administration reste assurée par Firminy jusqu’en 1830.",
+ "histoire": {
+  "recit": "À Unieux, la vie s’est d’abord organisée autour de l’industrie du fer : dès le début du XVIIe siècle, martinets, forges et clouteries s’installent sur les biefs de l’Ondaine. Le village gagne ensuite son statut communal en 1794, tout en restant administré par Firminy jusqu’à 1830. La première séance du conseil municipal se tient le 18 novembre 1831 : Jean Pepier est élu maire, alors que Barthélémy Gachet avait été nommé « agent municipal » dès 1794.\n\nQuand l’église du bourg est achevée en 1830, la commune s’ancre davantage. Les infrastructures suivent : une gare est mise en service en 1883, puis le bureau de poste est construit le 4 juin 1886, proche de l’usine Holtzer.\n\nEt à la limite, le Pont du Pertuiset relie Unieux et Çaloire : achevé en 1842 par l’architecte M. Letrain, il a vu son tablier remplacé par un tablier métallique.",
+  "chronologie": [
+   {
+    "date": "début du XVIIe siècle",
+    "texte": "Grâce à l’industrie du fer, des martinets, forges et clouteries s’installent sur les biefs de l’Ondaine.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "Unieux devient une commune par démembrement de la paroisse de Firminy ; Barthélémy Gachet est « agent municipal ».",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "jusqu’en 1830",
+    "texte": "Malgré le statut communal, c’est Firminy qui s’occupe de l’administration d’Unieux.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1830",
+    "texte": "Les cérémonies religieuses se déroulent à Firminy jusqu’en 1830, date à laquelle l’église du bourg est achevée.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "18 novembre 1831",
+    "texte": "Première séance du conseil municipal : Jean Pepier est élu maire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1883",
+    "texte": "Mise en service d’une gare ; le bâtiment voyageurs est démoli et la gare devient la halte ferroviaire SNCF de Fraisses - Unieux.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "4 juin 1886",
+    "texte": "Construction du bureau de poste, proche voisin de l’usine Holtzer.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont du Pertuiset",
+   "histoire": "Le pont du Pertuiset est un pont suspendu franchissant la Loire entre les communes d’Unieux et de Çaloire. Achevé en 1842 par l’architecte M. Letrain, son tablier a ensuite été remplacé par un tablier métallique.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 45.408606,
+   "lon": 4.248274,
+   "url": "https://fr.wikipedia.org/wiki/Pont_du_Pertuiset"
+  }
+ ],
+ "sources": [
+  "Unieux est une commune française située dans le département de la Loire, en région Auvergne-Rhône-Alpes, en banlieue de l'unité urbaine de Saint-Étienne.",
+  "Le village d'Unieux est devenu une commune à la Révolution en 1794, par démembrement de la paroisse de Firminy mais jusqu’en 1830, c'est la ville de Firminy qui s'occupe de l'administration pour Unieux. La première séance du conseil municipal a lieu le 18 novembre 1831 et Jean Pepier est élu maire. Mais le premier maire d'Unieux, appelé « agent municipal », était Barthélémy Gachet, élu en 1794. Les cérémonies […]",
+  "XVIIe siècle : Grâce à l'industrie du fer, des martinets, forges et clouteries sont installés sur les biefs de l'Ondaine dès le début du XVIIe siècle.",
+  "1830 : Les cérémonies religieuses se déroulent à Firminy jusqu'en 1830, date à laquelle l'église du bourg est achevée.",
+  "1883 : Unieux possède une gare mise en service en 1883, le bâtiment voyageurs a été démoli, elle est devenue la halte ferroviaire SNCF de Fraisses - Unieux.",
+  "1886 : Le bureau de poste est construit le 4 juin 1886, proche voisin de l'usine Holtzer.",
+  "Lieu « Pont du Pertuiset » : Le pont du Pertuiset est un pont suspendu franchissant la Loire entre les communes d'Unieux et de Çaloire, dans le département de la Loire.",
+  "Lieu « Pont du Pertuiset », 1842 : Il fut achevé en 1842 par l'architecte M. Letrain.",
+  "Lieu « Pont du Pertuiset », aujourd'hui : Le tablier fut remplacé par un tablier métallique."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

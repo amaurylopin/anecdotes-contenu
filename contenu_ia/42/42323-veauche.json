@@ -1,0 +1,83 @@
+{
+ "commune": {
+  "titre": "Veauche",
+  "code_insee": "42323",
+  "departement": "42",
+  "population": 8975,
+  "lat": 45.56277778,
+  "lon": 4.27861111,
+  "url": "https://fr.wikipedia.org/wiki/Veauche"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:07:39",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 985,
+  "sortie": 632
+ },
+ "cout_usd": 0.000987,
+ "accroche": "Le pont de Veauche, achevé le 10 mars 1933, relie Veauche et Veauchette.",
+ "histoire": {
+  "recit": "Veauche, commune de la Loire, s’appelait d’abord Velchia au Moyen Âge. Les premières traces remontent aux environs de l’an 1000, dans une donation liée à l’église Saint-Pierre. Plus tard, au milieu du XVIe siècle, sa forme actuelle s’impose après un décret de François Ier imposant l’usage du français comme langue officielle.\n\nLe territoire se lit aussi à travers son ouvrage principal : le pont de Veauche, pont routier permettant le franchissement de la Loire. Achevé en 1933, il assure la liaison avec Veauchette et donne, à sa manière, un cap aux déplacements du quotidien.\n\nEt quand on remonte encore plus loin, une tradition revient par l’église Saint-Pierre : son millénaire a été fêté symboliquement en 1995, comme un clin d’œil aux traces les plus anciennes évoquées dans les archives.",
+  "chronologie": [
+   {
+    "date": "aux environs de l’an 1000",
+    "texte": "Premières traces de la commune, dans une donation de l’église Saint-Pierre.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "milieu du XVIe siècle",
+    "texte": "La commune prend sa forme actuelle après un décret de François Ier imposant l’usage du français comme langue officielle.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "10 mars 1933",
+    "texte": "Le pont de Veauche est achevé et relie Veauche et Veauchette.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Pont de Veauche",
+   "histoire": "Le pont de Veauche est un pont routier qui franchit la Loire. Achevé le 10 mars 1933, il relie Veauche et Veauchette.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Pont routier permettant le franchissement de la Loire.",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 45.562877944251,
+   "lon": 4.2716576055688,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_Veauche"
+  }
+ ],
+ "sources": [
+  "Veauche est une commune française située dans le département de la Loire, en région Auvergne-Rhône-Alpes. Ses habitants sont les Veauchois.",
+  "À l'époque médiévale, la ville apparaît d'abord sous le nom de Velchia. Il ne prendra sa forme actuelle qu'au milieu du XVIe siècle après le décret de François Ier imposant l'usage du français comme langue officielle sur tout le territoire. On retrouve les premières traces de la commune aux environs de l'an 1000, dans une donation de l'église Saint-Pierre (dont on a fêté symboliquement le millénaire en 1995) aux […]",
+  "Lieu « Pont de Veauche » : Le pont de Veauche est un pont routier permettant le franchissement de la Loire dans le département du même nom, en France.",
+  "Lieu « Pont de Veauche », 1933 : Achevé le 10 mars 1933, il relie les communes de Veauche et Veauchette."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

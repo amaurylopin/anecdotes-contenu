@@ -1,0 +1,87 @@
+{
+ "commune": {
+  "titre": "La Ricamarie",
+  "code_insee": "42183",
+  "departement": "42",
+  "population": 8039,
+  "lat": 45.40388889,
+  "lon": 4.365,
+  "url": "https://fr.wikipedia.org/wiki/La_Ricamarie"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:19:26",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1162,
+  "sortie": 462
+ },
+ "cout_usd": 0.00081,
+ "accroche": "En 1843, La Ricamarie est érigée en commune, après avoir longtemps relevé d’un autre cadre administratif.",
+ "histoire": {
+  "recit": "La Ricamarie, dans la Loire, est souvent appelée « La Ric » et, en 2022, la mairie a fait évoluer son logo pour le mettre en évidence. Avant l’époque industrielle, il ne reste pas grand-chose à observer : des travaux et aménagements liés à l’implantation de l’industrie et à l’extraction du charbon ont probablement détruit une partie des traces d’occupation ancienne. On évoque bien la présence possible d’un ancien oppidum au lieu-dit non localisé Bouthéon, mais aucune recherche archéologique n’est venue le confirmer.",
+  "chronologie": [
+   {
+    "date": "1843",
+    "texte": "La Ricamarie n’est érigée en commune qu’en 1843.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "Début des années 1950",
+    "texte": "Le puits des Combes est construit au début des années 1950 par la Société des bétons Freyssinet-Limousin.",
+    "sources": [
+     "S4",
+     "S5"
+    ]
+   },
+   {
+    "date": "Années 1930 puis années 1950",
+    "texte": "Le puits des Combes remplace, dans les années 1950, un système de fortune mis en place dans les années 1930.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Puits des Combes",
+   "histoire": "Le puits des Combes a été construit au début des années 1950 par la Société des bétons Freyssinet-Limousin. Il remplace, dans les années 1950, un système de fortune installé dans les années 1930, et il reste visible aujourd’hui sur le flanc nord de la vallée de l’Ondaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Visible encore sur le flanc nord de la vallée de l’Ondaine, c’est un rare témoin de l’exploitation du charbon du bassin houiller de la Loire.",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 45.414325,
+   "lon": 4.3640077114105,
+   "url": "https://fr.wikipedia.org/wiki/Puits_des_Combes"
+  }
+ ],
+ "sources": [
+  "La Ricamarie est une commune française située dans le département de la Loire en région Auvergne-Rhône-Alpes. En langage familier, la ville est appelée « La Ric » (également écrit « La Ric' »), et la mairie a fait évoluer son logo en 2022 pour le mettre en évidence.",
+  "Les travaux et aménagements réalisés pendant la période contemporaine, liés à l'implantation de l'industrie et à l'extraction du charbon, ont probablement détruit tout ou partie des traces d'occupation ancienne. La présence possible d'un ancien oppidum au lieu-dit non localisé Bouthéon reste aujourd'hui une théorie qu'aucune recherche archéologique n'est venue confirmer. L'actuel quartier de la Romière, classé […]",
+  "1843 : La Ricamarie n'est érigée en commune qu'en 1843.",
+  "Lieu « Puits des Combes » : Le puits des Combes a été construit au début des années 1950 par la Société des bétons Freyssinet-Limousin.",
+  "Lieu « Puits des Combes », 1950 : Le puits des Combes a été construit au début des années 1950 par la Société des bétons Freyssinet-Limousin.",
+  "Lieu « Puits des Combes », 1950 : Il remplace dans les années 1950 le système de fortune installé dans les années 1930.",
+  "Lieu « Puits des Combes », aujourd'hui : Situé sur la commune de La Ricamarie, visible aujourd'hui encore sur le flanc nord de la vallée de l'Ondaine, le puits des Combes est un des rares « témoins » de l'exploitation du charbon du bassin houiller de la Loire."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

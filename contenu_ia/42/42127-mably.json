@@ -1,0 +1,114 @@
+{
+ "commune": {
+  "titre": "Mably (Loire)",
+  "code_insee": "42127",
+  "departement": "42",
+  "population": 7233,
+  "lat": 46.08666667,
+  "lon": 4.06527778,
+  "url": "https://fr.wikipedia.org/wiki/Mably_%28Loire%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:32:01",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1173,
+  "sortie": 986
+ },
+ "cout_usd": 0.001467,
+ "accroche": "En 1972, lors de la construction d’une aile de l’hôpital de Bonvert, un vestige est partiellement détruit à Mably, près des découvertes archéologiques régulières.",
+ "histoire": {
+  "recit": "Mably, commune de la Loire, est placée durant l’Antiquité sur des axes qui relient Rodumna à Roanne puis à Autun, et Lugdunum à Lyon puis jusqu’à Bourges. C’est ce carrefour de routes qui explique qu’au lieu-dit de Bonvert, les archéologues retrouvent régulièrement des vestiges : nécropoles, céramiques et habitats. Les découvertes, commencées au XIXe siècle, prennent un tournant au XXe siècle : en 1972, une partie d’un vestige cède lors de travaux liés à l’hôpital de Bonvert.\n\nSur le territoire, un autre chapitre se lit à l’Arsenal de Roanne. Créé en 1917 dans le contexte de la Première Guerre mondiale, l’ensemble industriel militaire évolue ensuite avec les besoins et les incidents : le 27 janvier 1947, une portion de la voûte de l’atelier Verdun s’effondre. Dans les années 1950, le site conserve encore l’idée d’une « ville dans la ville », sur 481 ha ; aujourd’hui, il en reste surtout des traces puisque l’arsenal est en majorité démantelé.",
+  "chronologie": [
+   {
+    "date": "Antiquité",
+    "texte": "Mably s’inscrit sur deux axes majeurs, ce qui favorise, à Bonvert, des vestiges archéologiques (nécropoles, céramiques, habitats).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIXe siècle",
+    "texte": "Les découvertes archéologiques à Bonvert commencent à devenir régulières, à la suite de trouvailles fortuites.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1972",
+    "texte": "Un vestige est en partie détruit lors de la construction d’une aile de l’hôpital de Bonvert.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1917",
+    "texte": "À l’Arsenal de Roanne, la création s’inscrit dans le contexte de la Première Guerre mondiale.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "27 janvier 1947",
+    "texte": "Une partie de la voûte de l’atelier Verdun s’effondre.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "années 1950",
+    "texte": "L’Arsenal de Roanne conserve une organisation de « ville dans la ville » sur 481 ha.",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Arsenal de Roanne",
+   "histoire": "L’Arsenal de Roanne est un ensemble industriel militaire français situé à Roanne, dans la Loire. Créé en 1917, il évolue ensuite : des ventes et mutations sont évoquées dès les années 1920, puis, en 1947, un incident touche l’atelier Verdun. Dans les années 1950, l’ensemble fonctionne encore comme une « ville dans la ville » sur 481 ha. Aujourd’hui, il demeure en majorité démantelé.",
+   "anecdotes": [
+    {
+     "texte": "Le 27 janvier 1947, une partie de la voûte de l’atelier Verdun s’effondre.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il reste aujourd’hui surtout un vestige de l’ensemble : il est en majorité démantelé, avec l’idée d’un ancien site de 481 ha.",
+   "sources": [
+    "S5",
+    "S8"
+   ],
+   "lat": 46.071415,
+   "lon": 4.085584,
+   "url": "https://fr.wikipedia.org/wiki/Arsenal_de_Roanne"
+  }
+ ],
+ "sources": [
+  "Mably est une commune française située dans le département de la Loire en région Auvergne-Rhône-Alpes.",
+  "Durant l'Antiquité, Mably se situe sur un axe Rodumna/Roanne à Autun mais aussi sur celui de Lugdunum/Lyon à Bourges. C'est pour cette raison qu'au lieu-dit de Bonvert, les archéologues retrouvent régulièrement des vestiges archéologiques (nécropoles, céramiques, habitats). Il est mentionné que les découvertes, certes fortuites, commencent au XIXe siècle. De plus, lors du percement du canal Roanne-Digoin, de […]",
+  "1972 : Ce vestige est en partie détruit lors de la construction d'une aile de l'hôpital de Bonvert en 1972.",
+  "Lieu « Arsenal de Roanne » : L'arsenal de Roanne est un ensemble industriel militaire français, situé à Roanne dans la Loire.",
+  "Lieu « Arsenal de Roanne », 1917 : Créé en 1917 dans le contexte de la Première Guerre mondiale, il est aujourd'hui en majorité démantelé.",
+  "Lieu « Arsenal de Roanne », 1920 : Des propriétés seront vendues par les domaines dès les années 1920 et d'autres aux enchères, en 1928, lors d'une vente en sous-préfecture de Roanne[source insuffisante].",
+  "Lieu « Arsenal de Roanne », 1947 : Ces installations évoluent avec les besoins de la structure et les accidents de parcours : Le 27 janvier 1947, une partie de la voûte de l'atelier Verdun s'effondre.",
+  "Lieu « Arsenal de Roanne », aujourd'hui : Il restera dans les années 1950 une sorte de ville dans la ville, sur 481 ha."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 1
+ }
+}
