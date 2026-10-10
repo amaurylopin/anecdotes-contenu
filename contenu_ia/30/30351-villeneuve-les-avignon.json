@@ -1,0 +1,316 @@
+{
+ "commune": {
+  "titre": "Villeneuve-lès-Avignon",
+  "code_insee": "30351",
+  "departement": "30",
+  "population": 13148,
+  "lat": 43.96722222,
+  "lon": 4.79666667,
+  "url": "https://fr.wikipedia.org/wiki/Villeneuve-l%C3%A8s-Avignon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:36:38",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3611,
+  "sortie": 2369
+ },
+ "cout_usd": 0.003683,
+ "accroche": "En mars 1293, une bastide royale est fondée sur les rives du Rhône sous le nom de Ville Neuve-Saint-André-près-d'Avignon, à Villeneuve-lès-Avignon.",
+ "histoire": {
+  "recit": "Villeneuve-lès-Avignon naît d’un jeu de frontières et de protections, puis d’une grande envie de bâtir.\n\nÀ la fin du Néolithique, des habitations et des sépultures sont déjà repérées au quartier du Polygone, sur la colline du Cabrion. Plus tard, après 1181, une muraille ceinture le village : le bourg devient un castrum, probablement pour se mettre à l’abri, au moment où le pont sur le Rhône est achevé en 1185.\n\nLa ville change d’échelle quand, en mars 1293, une bastide royale est fondée sur les rives du Rhône. Elle porte un nom qui dit son voisinage : Ville Neuve-Saint-André-près-d'Avignon.\n\nAu fil du temps, l’histoire religieuse occupe le paysage. La chartreuse Notre-Dame-du-Val-de-Bénédiction, ancienne chartreuse du Moyen Âge, connaît des travaux qui se prolongent au XIVe siècle, puis le monastère est vendu en 1794 lors d’une deuxième adjudication.\n\nAujourd’hui, la visite se concentre sur plusieurs témoins majeurs : la collégiale Notre-Dame, désormais église paroissiale, le musée Pierre-de-Luxembourg installé dans une livrée cardinalice, et l’abbaye Saint-André au sommet du Mont-Andaon.",
+  "chronologie": [
+   {
+    "date": "fin du Néolithique",
+    "texte": "Au quartier du Polygone, sur la colline du Cabrion, des habitations et des sépultures sont retrouvées.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "après 1181 et avant 1200",
+    "texte": "Une muraille est construite autour du village, qui devient un castrum, probablement en lien avec la construction du pont sur le Rhône achevé en 1185.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1185",
+    "texte": "Le pont sur le Rhône est achevé, événement mis en relation avec la construction de la muraille du village.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "mars 1293",
+    "texte": "Sur les rives du Rhône, une bastide royale est fondée : Ville Neuve-Saint-André-près-d'Avignon.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1369",
+    "texte": "À la chartreuse, un neveu du défunt pape fait terminer des travaux en réalisant le cloître Saint-Jean et douze nouvelles cellules.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "20 juillet 1794",
+    "texte": "Le monastère de la chartreuse est divisé en dix-sept lots et vendu lors d’une deuxième adjudication.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "2019",
+    "texte": "La chartreuse reçoit l’appellation de « Lieu de référence pour les écritures dramatiques issues de la Francophonie ».",
+    "sources": [
+     "S8"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Chartreuse Notre-Dame-du-Val-de-Bénédiction",
+   "histoire": "Ancienne chartreuse du Moyen Âge à Villeneuve-lès-Avignon. Au fil de ses chantiers, le cloître Saint-Jean est réalisé et de nouvelles cellules sont ajoutées, avant la division et la vente du monastère en lots. Aujourd’hui, une allée conduit à l’ancien logis du prieur, où se tient l’accueil des visiteurs.",
+   "anecdotes": [
+    {
+     "texte": "En 1369, les travaux se terminent avec la réalisation du cloître Saint-Jean, complété par douze nouvelles cellules.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "En 1794, le monastère est vendu en dix-sept lots lors d’une deuxième adjudication.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    },
+    {
+     "texte": "En 2019, la chartreuse reçoit l’appellation « Lieu de référence pour les écritures dramatiques issues de la Francophonie ».",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une allée mène à l’ancien logis du prieur, où se trouve l’accueil des visiteurs.",
+   "sources": [
+    "S9"
+   ],
+   "lat": 43.9664,
+   "lon": 4.79744,
+   "url": "https://fr.wikipedia.org/wiki/Chartreuse_Notre-Dame-du-Val-de-B%C3%A9n%C3%A9diction"
+  },
+  {
+   "nom": "Musée Pierre-de-Luxembourg",
+   "histoire": "Installé depuis 1986 dans une ancienne livrée cardinalice du XIVe siècle, le musée présente des collections issues des établissements religieux de Villeneuve, sécularisés pendant la Révolution française. Quelques vestiges visibles permettent de se figurer l’aspect médiéval du bâtiment.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Quelques vestiges, visibles dans divers endroits du bâtiment, aident à se représenter l’aspect médiéval.",
+   "sources": [
+    "S14"
+   ],
+   "lat": 43.963744,
+   "lon": 4.796857,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Pierre-de-Luxembourg"
+  },
+  {
+   "nom": "Collégiale Notre-Dame de Villeneuve-lès-Avignon",
+   "histoire": "Ancienne collégiale de style gothique méridional. Entre 1327 et 1333, des terres sont remembrées pour bâtir la chapelle du palais ; la chapelle est consacrée le 1er juin 1333. Le cloître est édifié en 1336 et fait l’objet d’un classement aux monuments historiques depuis 1862. À l’est, une tour-beffroi donne à l’édifice son aspect imposant. Après la Révolution, la collégiale devient l’église paroissiale de Villeneuve à la place de l’église Saint Pons.",
+   "anecdotes": [
+    {
+     "texte": "Le 1er juin 1333, la chapelle du palais est consacrée par le pape Jean XXII.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La collégiale est toujours l’église paroissiale de Villeneuve à la place de l’église Saint Pons.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 43.963298954167,
+   "lon": 4.7966143618259,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame_de_Villeneuve-l%C3%A8s-Avignon"
+  },
+  {
+   "nom": "Abbaye Saint-André de Villeneuve-lès-Avignon",
+   "histoire": "Abbaye bénédictine située au sommet du Mont-Andaon. En 1292, un acte de paréage prévoit l’édification de deux forteresses royales, dont la Tour Philippe-le-Bel, élevée pour contrôler l’accès au pont Saint-Bénezet. L’abbaye connaît ensuite des réaffectations avant d’être rachetée en 1913 et restaurée, puis l’histoire conduit à la fondation de la Ville Neuve Saint-André, devenue Villeneuve-lès-Avignon.",
+   "anecdotes": [
+    {
+     "texte": "En 1292, l’acte de paréage prévoit une tour à l’entrée du pont Saint-Bénezet pour contrôler l’accès au pont : la Tour Philippe-le-Bel, dite « Grosse Tour du bout du Pont ».",
+     "statut": "etabli",
+     "sources": [
+      "S21"
+     ]
+    },
+    {
+     "texte": "Rachetée en 1913, l’abbaye voit des fresques réalisées sous les plafonds d’une galerie, avec Émile Bernard.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "L’année suivante, le roi fonde la Ville Neuve Saint-André près d’Avignon, aujourd’hui Villeneuve-lès-Avignon.",
+     "statut": "etabli",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S24"
+   ],
+   "lat": 43.965222,
+   "lon": 4.8005941,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Andr%C3%A9_de_Villeneuve-l%C3%A8s-Avignon"
+  },
+  {
+   "nom": "Livrée de la Thurroye",
+   "histoire": "Bâtiment à Villeneuve-lès-Avignon, autour d’une cour rectangulaire au centre d’un enclos. La demeure a été occupée par le cardinal Guy de Boulogne entre 1356 et 1373 ; plus tard, des Pénitents gris s’installent dans la partie ouest. La chapelle est construite en 1758 ; aujourd’hui, la livrée est traversée par l’impasse de Thurroye et limitée au nord par la rue Chabrel.",
+   "anecdotes": [
+    {
+     "texte": "Au début du XVIIe siècle, les Pénitents gris s’installent sommairement dans la partie ouest de l’ancien palais cardinalice.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S27"
+     ]
+    },
+    {
+     "texte": "La chapelle des Pénitents gris est construite en 1758 par Jean-Baptiste Franque.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La livrée entoure une cour rectangulaire, aujourd’hui traversée par l’impasse de Thurroye et limitée au nord par la rue Chabrel.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 43.9655,
+   "lon": 4.79619,
+   "url": "https://fr.wikipedia.org/wiki/Livr%C3%A9e_de_la_Thurroye"
+  },
+  {
+   "nom": "Livrée du cardinal de Giffone",
+   "histoire": "Palais cardinalice et demeure associée à Villeneuve-lès-Avignon. Construit d’abord pour le cardinal Bertrand du Pouget autour de 1340, il est repris vers 1380 par le cardinal Leonardo Rossi de Giffone durant le Grand schisme. Deux salles existent au sommet de la tour, accessibles par un escalier construit au XVIIe siècle ; les fenêtres ont ensuite été remaniées.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1380, pendant le Grand schisme, le bâtiment subsistant est repris par le cardinal Leonardo Rossi de Giffone.",
+     "statut": "etabli",
+     "sources": [
+      "S32"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les fenêtres à croisées ont été remaniées.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 43.96433,
+   "lon": 4.79794,
+   "url": "https://fr.wikipedia.org/wiki/Livr%C3%A9e_du_cardinal_de_Giffone"
+  },
+  {
+   "nom": "Fort Saint-André (Villeneuve-lès-Avignon)",
+   "histoire": "Enceinte fortifiée établie sur le mont Andaon, dominant Villeneuve-lès-Avignon. Un acte de fondation signé en 1292 prévoit de fortifier l’accès au pont d’Avignon. La tour Philippe le Bel est construite entre 1300 et 1307 sur la rive droite ; fort et mur d’enceinte sont construits en plusieurs étapes au XIVe siècle. Le fort, tel qu’on le connaît, est associé au dernier architecte Jean de Loubières, dit Jean de Louvres, qui est aussi l’architecte du palais des papes d’Avignon.",
+   "anecdotes": [
+    {
+     "texte": "L’acte de fondation de 1292 prévoit de fortifier l’accès au pont d’Avignon.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S39"
+   ],
+   "lat": 43.965222,
+   "lon": 4.800594,
+   "url": "https://fr.wikipedia.org/wiki/Fort_Saint-Andr%C3%A9_%28Villeneuve-l%C3%A8s-Avignon%29"
+  },
+  {
+   "nom": "Prieuré de Montaut",
+   "histoire": "Domaine de Montaut, à Villeneuve-lès-Avignon. Le palais ou livrée cardinalice de Montaut, dit « Monte alto » ou « Montals », est fondé en 1335 par le cardinal Pierre Bertrand. Plus tard, l’ensemble est transformé au XIXe siècle en maison de maître. Aujourd’hui, il ne reste que l’ancien logement ou manoir.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Du prieuré de Montaut fondé par Pierre Bertrand, il ne reste que l’ancien logement ou manoir.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 43.959624,
+   "lon": 4.790711,
+   "url": "https://fr.wikipedia.org/wiki/Prieur%C3%A9_de_Montaut"
+  }
+ ],
+ "sources": [
+  "Villeneuve-lès-Avignon ou Villeneuve-lez-Avignon est une commune française située dans l'est du département du Gard, en région Occitanie. La ville est limitrophe d'Avignon et fait partie du Grand Avignon. Exposée à un climat méditerranéen, elle est drainée par le Rhône, le bras de Villeneuve et par un autre cours d'eau. La commune possède un patrimoine naturel remarquable : un site Natura 2000 (« le Rhône aval ») et […]",
+  "Les armes de la ville sont : parti, en 1 d’azur à trois fleurs de lys, qui est de France ; en deux, de gueules à un sautoir d’or, qui est de l'abbaye Saint-André, les deux co-seigneurs de la ville depuis l'acte de paréage de 1292. Les plus anciennes traces anthropiques datent de la fin du Néolithique : ce sont des habitations et des sépultures retrouvées au quartier du Polygone, de la colline du Cabrion. Aux Angles, […]",
+  "1181 : Après 1181 et avant 1200, une muraille est construite autour du village, qui devient un castrum, probablement en liaison avec la construction du pont sur le Rhône (achevé en 1185), les habitants de Saint-André voulant se protéger des Avignonnais.",
+  "1293 : Afin de favoriser le développement économique de la co-seigneurie, une bastide royale est fondée en mars 1293 sur les rives du Rhône portant le nom de Ville Neuve-Saint-André-près-d'Avignon.",
+  "Lieu « Chartreuse Notre-Dame-du-Val-de-Bénédiction » : La chartreuse Notre-Dame-du-Val-de-Bénédiction est une ancienne chartreuse datant du Moyen Âge, située à Villeneuve-lès-Avignon, dans le département du Gard en région Occitanie.",
+  "Lieu « Chartreuse Notre-Dame-du-Val-de-Bénédiction », 1369 : Ce neveu mourra en 1369 et un autre neveu du défunt pape, également cardinal, Pierre de Selve dit de Monteruc (ou de Montirac), fils d'une sœur de celui-ci, terminera les travaux en réalisant le cloître Saint-Jean bâti à l'ouest du grand cloître et comportant douze nouvelles cellules.",
+  "Lieu « Chartreuse Notre-Dame-du-Val-de-Bénédiction », 1794 : Le monastère est alors divisé en dix-sept lots et vendu au cours d'une deuxième adjudication qui a lieu le 20 juillet 1794.",
+  "Lieu « Chartreuse Notre-Dame-du-Val-de-Bénédiction », 2019 : Cette ouverture est encouragée par le Ministère de la Culture qui a conféré en 2019 à la Chartreuse l’appellation de « Lieu de référence pour les écritures dramatiques issues de la Francophonie ».",
+  "Lieu « Chartreuse Notre-Dame-du-Val-de-Bénédiction », aujourd'hui : Cette allée conduit à l'ancien logis du prieur où se trouve actuellement l'accueil des visiteurs.",
+  "Lieu « Musée Pierre-de-Luxembourg » : Le musée Pierre-de-Luxembourg à Villeneuve-lès-Avignon (Gard) bénéficie du label Musée de France.",
+  "Lieu « Musée Pierre-de-Luxembourg », XIVe siècle : La livrée cardinalice servant d’écrin aux collections est un palais urbain, bâti au XIVe siècle pour de hauts dignitaires de l’Église qui s’y succédèrent.",
+  "Lieu « Musée Pierre-de-Luxembourg », 1385 : Elle est ensuite occupée par Pierre de Selve de Monteruc, cardinal de Pampelune, deuxième bienfaiteur de la chartreuse de Villeneuve, mort le 31 mai 1385, puis par Pierre de Luxembourg qui y serait mort en 1387.",
+  "Lieu « Musée Pierre-de-Luxembourg », 1986 : Installé depuis 1986 dans une ancienne livrée cardinalice du XIVe siècle, ses collections permanentes, d'une extrême qualité, proviennent des établissements religieux de Villeneuve, sécularisés pendant la Révolution française.",
+  "Lieu « Musée Pierre-de-Luxembourg », aujourd'hui : Quelques vestiges, visibles en divers endroits du bâtiment, permettent aujourd'hui de se figurer l'aspect qu'il présentait à l'époque médiévale.",
+  "Lieu « Collégiale Notre-Dame de Villeneuve-lès-Avignon » : La collégiale Notre-Dame est une ancienne collégiale de style gothique méridional située à Villeneuve-lès-Avignon dans le département français du Gard en région Occitanie.",
+  "Lieu « Collégiale Notre-Dame de Villeneuve-lès-Avignon », 1327 : Entre 1327 et 1333, il remembre plusieurs terres sises au sud de sa demeure pour y bâtir la chapelle de son palais : la chapelle est consacrée le 1er juin 1333 par son oncle, le pape Jean XXII.",
+  "Lieu « Collégiale Notre-Dame de Villeneuve-lès-Avignon », 1336 : Édifié en 1336, le cloître fait l'objet, comme l'église, d'un classement aux monuments historiques depuis 1862.",
+  "Lieu « Collégiale Notre-Dame de Villeneuve-lès-Avignon », 1362 : À l'est, une grande tour-beffroi construit en 1362 donne à la collégiale son aspect imposant.",
+  "Lieu « Collégiale Notre-Dame de Villeneuve-lès-Avignon », aujourd'hui : Le chapitre est supprimé à la Révolution : le corps de logis du palais et les terres situées à l'arrière sont vendus et la collégiale devient l'église paroissiale de Villeneuve à la place de l'église Saint Pons, ce qu'elle est toujours aujourd'hui.",
+  "Lieu « Abbaye Saint-André de Villeneuve-lès-Avignon » : L'abbaye Saint-André est une abbaye bénédictine située au sommet du Mont-Andaon, dans la commune gardoise de Villeneuve-lès-Avignon.",
+  "Lieu « Abbaye Saint-André de Villeneuve-lès-Avignon », 1292 : Quant à Philippe le Bel, en 1292, il signe avec l’abbé de Saint-André un nouvel acte de paréage qui prévoit l'édification de deux forteresses royales : à l’entrée du pont Saint-Bénezet la Tour Philippe-le-Bel dite au Moyen-Âge, la « Grosse Tour du bout du Pont » est immédiatement élevée pour contrôler l'accès au pont.",
+  "Lieu « Abbaye Saint-André de Villeneuve-lès-Avignon », 1913 : Un temps occupée par les religieuses du Cœur de Jésus qui surélèvent le pavillon du réfectoire, l'abbaye est rachetée en 1913 par le peintre belge Louis-Joseph Yperman, qui y fait réaliser des fresques par son ami Émile Bernard sous les plafonds de l'une des galeries.",
+  "Lieu « Abbaye Saint-André de Villeneuve-lès-Avignon », 1916 : L'abbaye est ensuite acquise par Gustave Fayet en août 1916 pour Elsa Koeberlé qui se consacre, avec Génia Lioubow, à la restauration de l'édifice et à l'aménagement des jardins jusqu'à sa mort, en 1950.",
+  "Lieu « Abbaye Saint-André de Villeneuve-lès-Avignon », aujourd'hui : L'année suivante le roi fonde la Ville Neuve Saint-André près d'Avignon, aujourd'hui Villeneuve-lès-Avignon.",
+  "Lieu « Livrée de la Thurroye » : La Livrée de la Thurroye, ou palais du cardinal de Deaux, est un bâtiment à Villeneuve-lès-Avignon, dans le département du Gard.",
+  "Lieu « Livrée de la Thurroye », 1356 : La demeure a été occupée par le cardinal Guy de Boulogne dont la présence est attestée entre 1356 et 1373.",
+  "Lieu « Livrée de la Thurroye », XVIIe siècle : Au début du XVIIe siècle, les Pénitents gris ont été installés sommairement dans la partie ouest de l'ancien palais cardinalice par le prieure de la confrérie, Pierre Calvet, qui possédait le bâtiment.",
+  "Lieu « Livrée de la Thurroye », 1758 : La chapelle des Pénitents gris a été construite en 1758 par Jean-Baptiste Franque.",
+  "Lieu « Livrée de la Thurroye », aujourd'hui : La livrée est alors un bâtiment entourant une cour rectangulaire située au centre d'un enclos, aujourd'hui traversé par l'impasse de Thurroye et limité au nord par le rue Chabrel.",
+  "Lieu « Livrée du cardinal de Giffone » : La livrée du cardinal de Giffone est un bâtiment situé à Villeneuve-lès-Avignon, dans le département du Gard.",
+  "Lieu « Livrée du cardinal de Giffone », 1340 : Le palais cardinalice a d'abord été construit pour le cardinal Bertrand du Pouget vers 1340 dont on voit les armoiries au-dessus de l'ancienne entrée et où il s'est retiré après son retour d'Italie après son échec à rétablir l'autorité du pape.",
+  "Lieu « Livrée du cardinal de Giffone », 1380 : Le bâtiment subsistant a été repris vers 1380, pendant le Grand schisme, par le cardinal Leonardo Rossi de Giffone, général de l'ordre franciscain.",
+  "Lieu « Livrée du cardinal de Giffone », XVIIe siècle : Deux salles existent au sommet de la tour auxquelles on accède par un escalier construit au XVIIe siècle.",
+  "Lieu « Livrée du cardinal de Giffone », aujourd'hui : Aujourd'hui fenêtres à croisées, elles ont été remaniées.",
+  "Lieu « Fort Saint-André (Villeneuve-lès-Avignon) » : Le fort Saint-André est une enceinte fortifiée établie sur le mont Andaon qui domine Villeneuve-lès-Avignon.",
+  "Lieu « Fort Saint-André (Villeneuve-lès-Avignon) », 1292 : L'acte de fondation, signé en 1292 avec l'abbé de Saint-André, prévoit de fortifier l'accès au pont d'Avignon.",
+  "Lieu « Fort Saint-André (Villeneuve-lès-Avignon) », 1300 : Entre 1300 et 1307, la tour Philippe le Bel est ainsi construite sur la rive droite du fleuve.",
+  "Lieu « Fort Saint-André (Villeneuve-lès-Avignon) », XIVe siècle : Le fort et le mur d'enceinte qui entoure l'abbaye ont été construits en plusieurs étapes durant la deuxième moitié du XIVe siècle.",
+  "Lieu « Fort Saint-André (Villeneuve-lès-Avignon) », aujourd'hui : Le fort Saint-André, tel que nous le connaissons aujourd'hui, a eu comme dernier architecte Jean de Loubières, dit Jean de Louvres, l'architecte du palais des papes d'Avignon.",
+  "Lieu « Prieuré de Montaut » : Le domaine de Montaut est un bâtiment situé à Villeneuve-lès-Avignon, dans le département du Gard.",
+  "Lieu « Prieuré de Montaut », 1335 : Le palais ou livrée cardinalice de Montaut, cité dans les textes sous le nom de « Monte alto », ou « Montals », est fondé en 1335 par le cardinal Pierre Bertrand.",
+  "Lieu « Prieuré de Montaut », 1343 : Un premier traité est signé à Vincennes le 22 avril 1343 cédant le Dauphiné à Philippe, duc d'Orléans en imposant qu'il ne soit pas rattaché au royaume de France.",
+  "Lieu « Prieuré de Montaut », XIXe siècle : L’ancien manoir a été transformé au XIXe siècle pour en faire une maison de maître.",
+  "Lieu « Prieuré de Montaut », aujourd'hui : Du prieuré de Montaut fondé par Pierre Bertrand, il ne reste que l'ancien logement ou manoir."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 11
+ }
+}

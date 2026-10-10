@@ -1,0 +1,59 @@
+{
+ "commune": {
+  "titre": "Milhaud (Gard)",
+  "code_insee": "30169",
+  "departement": "30",
+  "population": 6297,
+  "lat": 43.7908,
+  "lon": 4.3081,
+  "url": "https://fr.wikipedia.org/wiki/Milhaud_%28Gard%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:49:13",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1025,
+  "sortie": 376
+ },
+ "cout_usd": 0.000675,
+ "accroche": "À Milhaud, l’évêque Jean IV de Blauzac fait réaliser de grandes réparations au château entre 1348 et 1361.",
+ "histoire": {
+  "recit": "Milhaud se tient dans le sud du Gard, sur le tracé de la voie Domitienne, et son territoire est drainé notamment par le Vieux Vistre, la Pondre et le Grand Campagnolle. Le village a longtemps relevé de grands pouvoirs : d’abord les comtes de Toulouse, puis Simon de Montfort, avant de passer aux évêques de Nîmes.\n\nCe changement de mains se lit dans le château. Les évêques y possèdent une vaste demeure entourée de fossés et flanquée de tours élevées. L’évêque Jean IV de Blauzac y ordonne de grandes réparations, tandis qu’un successeur prolonge les travaux.\n\nMais l’histoire du lieu connaît une rupture : en 1622, le château est détruit par les huguenots.",
+  "chronologie": [
+   {
+    "date": "1348-1361",
+    "texte": "Jean IV de Blauzac fait réaliser de grandes réparations au château.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1622",
+    "texte": "Le château est détruit par les huguenots.",
+    "sources": [
+     "S3"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Milhaud [mijo] est une commune française située dans le sud du département du Gard en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par le Vieux Vistre, la Pondre, le Grand Campagnolle et par divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable : un site Natura 2000 (les « costières nîmoises »), un espace protégé (les « Costières de Nimes ») et une zone […]",
+  "La commune de Milhaud est située sur le tracé de la voie Domitienne. Le village est la possession des comtes de Toulouse, de Simon de Montfort, puis des évêques de Nîmes. Ceux-ci possèdent à Milhaud un vaste château entouré de fossés et flanqué de tours élevées. L'évêque Jean IV de Blauzac y fait réaliser de grandes réparations de 1348 à 1361. L'un des successeurs de Jean IV, Jean de Gasc, continue les travaux […]",
+  "1622 : Le château est détruit par les huguenots en 1622."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}

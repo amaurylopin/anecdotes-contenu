@@ -1,0 +1,323 @@
+{
+ "commune": {
+  "titre": "Uzès",
+  "code_insee": "30334",
+  "departement": "30",
+  "population": 8519,
+  "lat": 44.01333333,
+  "lon": 4.42055556,
+  "url": "https://fr.wikipedia.org/wiki/Uz%C3%A8s"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:13:23",
+ "lieux_ecartes_autre_commune": 5,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2565,
+  "sortie": 2365
+ },
+ "cout_usd": 0.003469,
+ "accroche": "Dès le Ier siècle avant notre ère, la cité d’Uzès se développe, bien avant la construction du pont du Gard au Ier siècle de notre ère.",
+ "histoire": {
+  "recit": "Uzès, en pays méditerranéen, s’est construite sur un plateau calcaire, drainé notamment par Les Seynes, l’Alzon et Les Rosselles. Avant même les grands édifices, le site est déjà occupé : vers le Ve siècle avant notre ère, un oppidum accueillerait la future cité.\n\nPlus tard, la cathédrale Saint-Théodorit d’Uzès prend une place centrale. Construite à partir de 1090, elle s’élève sur l’emplacement d’un temple romain, puis connaît des destructions et des reconstructions au temps des conflits. L’intérieur, voûté d’ogives, est aujourd’hui un vestige de ce qui devait paraître plus riche.\n\nÀ côté, le palais épiscopal d’Uzès change de visage avec les siècles : un nouveau palais est entièrement construit entre 1663 et 1674, avant d’être désaffecté en 1926. Plus récemment, une restauration a impliqué la démolition de vestiges anciens.\n\nLa vie d’Uzès se lit aussi dans ses autres lieux : l’église Saint-Étienne, bâtie dans un style baroque à partir de 1764, le Musée du Bonbon à Uzès installé en 1996 dans un ancien moulin à textile du XIIe siècle, et jusqu’au temple protestant, construit en 1567 dans l’ancienne rue de l’Olme Saint-Julien.",
+  "chronologie": [
+   {
+    "date": "vers le Ve siècle avant notre ère",
+    "texte": "Le plateau calcaire d’Uzès est déjà occupé, probablement par un oppidum qui accueille la future cité.",
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   {
+    "date": "Ier siècle avant notre ère",
+    "texte": "Le développement de la cité d’Uzès est antérieur à la construction du pont du Gard.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "Ier siècle de notre ère",
+    "texte": "La construction du pont du Gard, qui amenait l’eau de la fontaine d’Eure jusqu’à Nîmes, remonte au Ier siècle de notre ère.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "à partir de 1090",
+    "texte": "La cathédrale Saint-Théodorit d’Uzès est construite à partir de 1090 sur l’emplacement d’un temple romain.",
+    "sources": [
+     "S5",
+     "S6"
+    ]
+   },
+   {
+    "date": "1177",
+    "texte": "La cathédrale est partiellement démolie pendant la croisade des Albigeois, puis reconstruite.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "13 mai 1563",
+    "texte": "La cathédrale du Moyen Âge est reconstruite au début des guerres de religion, le 13 mai 1563 (en même temps que le palais épiscopal).",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1621",
+    "texte": "La cathédrale subit une destruction totale en 1621.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1663-1674",
+    "texte": "Le nouveau palais épiscopal d’Uzès est entièrement construit entre 1663 et 1674.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1926",
+    "texte": "Le palais épiscopal est désaffecté en 1926, après le départ de la sous-préfecture.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1973",
+    "texte": "Le plancher du premier étage du palais s’effondre en 1973 pendant une période de restauration.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "à partir de 1764",
+    "texte": "L’église Saint-Étienne d’Uzès est construite de 1764 à 1774, sous l’épiscopat de Monseigneur Bonaventure Baüyn.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1974",
+    "texte": "L’église Saint-Étienne d’Uzès est classée au titre des monuments historiques en 1974.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1566",
+    "texte": "L’évêque d’Uzès Jehan II de Saint-Gelais convertit le diocèse d’Uzès au protestantisme en 1566.",
+    "sources": [
+     "S23"
+    ]
+   },
+   {
+    "date": "1567",
+    "texte": "Un temple protestant est construit en 1567, dans l’ancienne rue de l’Olme Saint-Julien.",
+    "sources": [
+     "S30"
+    ]
+   },
+   {
+    "date": "1764-1774",
+    "texte": "Le style baroque marque la construction de l’église Saint-Étienne, achevée en 1774.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1989",
+    "texte": "La Réglisserie de la commune de Moussac ferme et est transférée à l’usine d’Uzès.",
+    "sources": [
+     "S19"
+    ]
+   },
+   {
+    "date": "14 mai 1996",
+    "texte": "Le musée ouvre le 14 mai 1996, installé dans l’ancien moulin à textile du XIIe siècle.",
+    "sources": [
+     "S20"
+    ]
+   },
+   {
+    "date": "1908-1914",
+    "texte": "L’hôtel de la Caisse d’épargne est élevé à sa place entre 1908 et 1914.",
+    "sources": [
+     "S25"
+    ]
+   },
+   {
+    "date": "1938",
+    "texte": "La ligne et la gare sont fermées au trafic voyageurs en 1938.",
+    "sources": [
+     "S28"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Théodorit d'Uzès",
+   "histoire": "Construite à partir de 1090, elle s’élève sur l’emplacement d’un temple romain. Un premier édifice de style roman porte l’empreinte de l’influence de l’ordre de Cluny. La cathédrale est partiellement démolie en 1177, puis reconstruite ; elle subit une destruction totale en 1621.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "L’intérieur voûté d’ogives laisse imaginer une richesse plus grande que ce qu’on voit aujourd’hui.",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S4"
+   ],
+   "lat": 44.011944,
+   "lon": 4.422222,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Th%C3%A9odorit_d%27Uz%C3%A8s"
+  },
+  {
+   "nom": "Palais épiscopal d'Uzès",
+   "histoire": "Un nouveau palais épiscopal est entièrement construit entre 1663 et 1674. Il est désaffecté en 1926, après le départ de la sous-préfecture. En 1973, le plancher du premier étage s’effondre pendant une période de restauration.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La reconstruction commence par la démolition des vestiges de l’ancien épiscopal, situés entre l’enceinte de la ville et le quartier canonial, lui aussi partiellement détruit.",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S9"
+   ],
+   "lat": 44.01253,
+   "lon": 4.42247,
+   "url": "https://fr.wikipedia.org/wiki/Palais_%C3%A9piscopal_d%27Uz%C3%A8s"
+  },
+  {
+   "nom": "Église Saint-Étienne d'Uzès",
+   "histoire": "De style baroque, l’église est construite de 1764 à 1774 sous l’épiscopat de Monseigneur Bonaventure Baüyn. Elle est classée au titre des monuments historiques en 1974. Aujourd’hui, elle se trouve à l’emplacement d’une ancienne église détruite pendant les guerres de religion, après l’avoir transformée en magasin et en arsenal.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Elle est réalisée par l’architecte avignonnais Pierre Bondon à l’emplacement d’une ancienne église détruite pendant les guerres de religion.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S14"
+   ],
+   "lat": 44.0109,
+   "lon": 4.41876,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_d%27Uz%C3%A8s"
+  },
+  {
+   "nom": "Musée du Bonbon à Uzès",
+   "histoire": "Le Musée du Bonbon à Uzès est un musée-magasin centré sur l’histoire et la fabrication des bonbons de la marque Haribo. En 1989, La Réglisserie de Moussac ferme et est transférée à l’usine d’Uzès. Le musée ouvre le 14 mai 1996 et jouxte l’usine Haribo : il est installé dans un ancien moulin à textile du XIIe siècle, servant auparavant de réserve de ballots de bois de réglisse pour Ricqlès-Zan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 43.993205555556,
+   "lon": 4.4234027777778,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Bonbon_%C3%A0_Uz%C3%A8s"
+  },
+  {
+   "nom": "Château d'Uzès",
+   "histoire": "Le château d’Uzès, ou Duché, est un château fort du XIe siècle. La seigneurie d’Uzès est fondée au XIe siècle par Elzéart d’Uzès. En 1566, Jehan II de Saint-Gelais convertit le diocèse d’Uzès au protestantisme.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 44.012926,
+   "lon": 4.419787,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Uz%C3%A8s"
+  },
+  {
+   "nom": "Hôtel de la Caisse d'épargne d'Uzès",
+   "histoire": "L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle. Le nouvel édifice est élevé à sa place entre 1908 et 1914.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 44.01075,
+   "lon": 4.41806,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_la_Caisse_d%27%C3%A9pargne_d%27Uz%C3%A8s"
+  },
+  {
+   "nom": "Gare d'Uzès",
+   "histoire": "La gare d’Uzès est une gare ferroviaire française, fermée, sur le territoire de la commune. La ligne et la gare sont fermées au trafic voyageurs en 1938.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28"
+   ],
+   "lat": 44.01395,
+   "lon": 4.403079,
+   "url": "https://fr.wikipedia.org/wiki/Gare_d%27Uz%C3%A8s"
+  },
+  {
+   "nom": "Temple protestant d'Uzès",
+   "histoire": "Le temple protestant d’Uzès est un lieu de culte situé 6 avenue de la Libération. En 1567, un temple protestant est construit dans l’ancienne rue de l’Olme Saint-Julien.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S29",
+    "S30"
+   ],
+   "lat": 44.01202,
+   "lon": 4.41696,
+   "url": "https://fr.wikipedia.org/wiki/Temple_protestant_d%27Uz%C3%A8s"
+  }
+ ],
+ "sources": [
+  "Uzès [yzɛs] (Usès en occitan provençal, selon la norme classique) est une commune française située dans l'est du département du Gard, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par Les Seynes, l'Alzon et par Les Rosselles. Incluse dans les gorges du Gardon, la commune possède un patrimoine naturel remarquable composé d'une zone naturelle d'intérêt écologique, faunistique et floristique. […]",
+  "Le développement de la cité d'Uzès, dès le Ier siècle avant notre ère, est antérieur à la construction du pont du Gard qui amenait l'eau de la fontaine d'Eure jusqu'à Nîmes et dont la construction remonte au Ier siècle de notre ère. Le plateau calcaire sur lequel se situe Uzès était déjà occupé vers le Ve siècle avant notre ère probablement par un oppidum qui accueillait la future cité. Un des quartiers […]",
+  "Ve siècle : Le plateau calcaire sur lequel se situe Uzès était déjà occupé vers le Ve siècle avant notre ère probablement par un oppidum qui accueillait la future cité.",
+  "Lieu « Cathédrale Saint-Théodorit d'Uzès » : La cathédrale Saint-Théodorit d'Uzès est une ancienne cathédrale catholique située à Uzès dans le département du Gard, en France.",
+  "Lieu « Cathédrale Saint-Théodorit d'Uzès », 1090 : Construite à partir de 1090, elle était le siège de l'ancien diocèse d'Uzès jusqu'à la Révolution.",
+  "Lieu « Cathédrale Saint-Théodorit d'Uzès », 1090 : La cathédrale Saint-Théodorit est construite à partir de 1090 sur l'emplacement d'un temple romain, un premier édifice de style roman portait l'empreinte de l'influence de l'ordre de Cluny.",
+  "Lieu « Cathédrale Saint-Théodorit d'Uzès », 1177 : Démolie partiellement pendant la croisade des Albigeois (1177), reconstruite, puis le 13 mai 1563 (en même temps que le palais épiscopal), au début des guerres de religion, la cathédrale du Moyen Âge subit une destruction totale en 1621.",
+  "Lieu « Cathédrale Saint-Théodorit d'Uzès », aujourd'hui : L'intérieur, voûté d'ogives, était vraisemblablement plus riche qu'il n'apparaît aujourd'hui.",
+  "Lieu « Palais épiscopal d'Uzès » : Le palais épiscopal d'Uzès est un palais situé à Uzès, en France.",
+  "Lieu « Palais épiscopal d'Uzès », 1663 : Le nouveau palais épiscopal est entièrement construit entre 1663 et 1674 par les maçons Mathieu Jarquet et Balthazar Petit sur les plans du sieur Roché ou Rochié, prieur de la Souche, puis de Vénéjan.",
+  "Lieu « Palais épiscopal d'Uzès », 1926 : Le bâtiment a été désaffecté en 1926, après le départ de la sous-préfecture.",
+  "Lieu « Palais épiscopal d'Uzès », 1973 : Le plancher du premier étage, dans le corps central du bâtiment, s'est effondré en 1973 pendant une période de restauration.",
+  "Lieu « Palais épiscopal d'Uzès », aujourd'hui : Cette reconstruction a commencé par la démolition des vestiges de l'ancien épiscopal qui ne disposait que d'un emplacement limité entre l'enceinte de la ville et le quartier canonial qui a pu être, lui aussi, partiellement détruit.",
+  "Lieu « Église Saint-Étienne d'Uzès » : L'église Saint-Étienne est une église catholique située à Uzès, en France.",
+  "Lieu « Église Saint-Étienne d'Uzès », 1764 : L'église de style baroque a été construite de 1764 à 1774 sous l'épiscopat de Monseigneur Bonaventure Baüyn, 63ème évêque d'Uzès.",
+  "Lieu « Église Saint-Étienne d'Uzès », 1974 : L'édifice est classé au titre des monuments historiques en 1974.",
+  "Lieu « Église Saint-Étienne d'Uzès », aujourd'hui : Elle est réalisée par l'architecte avignonnais, Pierre Bondon à l'emplacement d'une ancienne église détruite pendant les guerres de religion, après l'avoir transformée en magasin et en arsenal.",
+  "Lieu « Musée du Bonbon à Uzès » : Le Musée du Bonbon Haribo ou Musée du Bonbon d'Uzès ou plus communément Musée Haribo est un musée-magasin centré sur l'histoire et la fabrication des bonbons de la marque Haribo.",
+  "Lieu « Musée du Bonbon à Uzès », 1989 : En 1989, « La Réglisserie » de la commune de Moussac est fermée et transférée à l'usine d'Uzès.",
+  "Lieu « Musée du Bonbon à Uzès », 1996 : À son ouverture le 14 mai 1996, le musée, qui jouxte l'usine Haribo, est installé dans l'ancien moulin à textile du XIIe siècle, qui a servi de réserve de ballots de bois de réglisse du confiseur Ricqlès-Zan.",
+  "Lieu « Château d'Uzès » : Le château d'Uzès (ou le Duché) est un château fort du XIe siècle, de la ville médiévale d'Uzès dans le Gard, en Occitanie.",
+  "Lieu « Château d'Uzès », XIe siècle : La seigneurie d'Uzès est fondée au XIe siècle, au début de la féodalité, par Elzéart d'Uzès (1er seigneur d'Uzès).",
+  "Lieu « Château d'Uzès », 1566 : L’évêque d'Uzès Jehan II de Saint-Gelais converti le puissant diocèse d'Uzès au protestantisme en 1566.",
+  "Lieu « Hôtel de la Caisse d'épargne d'Uzès » : L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle situé à Uzès, en France.",
+  "Lieu « Hôtel de la Caisse d'épargne d'Uzès », 1908 : Le nouvel édifice est ainsi élevé à sa place de 1908 à 1914.",
+  "Lieu « Hôtel de la Caisse d'épargne d'Uzès », XXe siècle : L’hôtel de la Caisse d’épargne est un bâtiment du début du XXe siècle situé à Uzès, en France.",
+  "Lieu « Gare d'Uzès » : La gare d'Uzès est une gare ferroviaire française (fermée) de la ligne du Martinet à Beaucaire, située sur le territoire de la commune d'Uzès, dans le département du Gard, en région Occitanie.",
+  "Lieu « Gare d'Uzès », 1938 : La ligne et la gare sont fermées au trafic voyageurs en 1938.",
+  "Lieu « Temple protestant d'Uzès » : Le temple protestant d'Uzès est un lieu de culte situé 6 avenue de la Libération, à Uzès, dans le Gard.",
+  "Lieu « Temple protestant d'Uzès », 1567 : En 1567, un temple protestant est construit dans l'ancienne rue de l'Olme Saint-Julien."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "commune": {
+  "titre": "Calvisson",
+  "code_insee": "30062",
+  "departement": "30",
+  "population": 6486,
+  "lat": 43.78583333,
+  "lon": 4.19277778,
+  "url": "https://fr.wikipedia.org/wiki/Calvisson"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:45:41",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1874,
+  "sortie": 1441
+ },
+ "cout_usd": 0.002176,
+ "accroche": "En 1913, les sépultures de Canta-Perdrix, présentes sur le site de Calvisson, sont classées aux Monuments historiques.",
+ "histoire": {
+  "recit": "À Calvisson, on occupe déjà le site depuis le Chalcolithique, et l’on y signale des sépultures de Canta-Perdrix, aujourd’hui protégées depuis 1913. Dans un vieux parchemin de l’abbaye Notre-Dame de Nîmes, la commune est mentionnée en 790 comme capitale de la Vaunage.\n\nPlus tard, l’histoire du lieu se lit aussi dans ses bâtiments. L’église Saint-Saturnin de Calvisson, d’origine romane et de style gothique, a connu restaurations et pertes : pendant la Révolution, elle sert de « Temple de la Raison » avant d’être donnée aux protestants, puis restituée aux catholiques en 1816. Quant à la Maison Margarot, elle s’ouvre sur un passé d’activités liées au moulin à huile, puis renaît après les guerres de Religion.\n\nLa campagne, elle, a affronté des ruptures : après la fin du XIXe siècle, le phylloxéra détruit la vigne et provoque une révolte des viticulteurs en 1907, tandis qu’en 1838, le Roc de Gachone est abattu par une tempête avant d’être démoli l’année suivante.",
+  "chronologie": [
+   {
+    "date": "Chalcolithique",
+    "texte": "Le site est occupé depuis le Chalcolithique, avec la présence des sépultures de Canta-Perdrix.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1913",
+    "texte": "Les sépultures de Canta-Perdrix sont classées aux Monuments historiques.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "790",
+    "texte": "Calvisson est signalée comme capitale de la Vaunage dans un vieux parchemin de l’abbaye Notre-Dame de Nîmes.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1880",
+    "texte": "Un nouveau groupe scolaire est construit rue de l’Herboux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1907",
+    "texte": "Après la destruction de la vigne par le phylloxéra, une révolte des viticulteurs éclate.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "L’église Saint-Saturnin sert de « Temple de la Raison » durant quelques mois, puis est donnée aux protestants.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1816",
+    "texte": "L’église est restituée aux catholiques.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1542",
+    "texte": "La Maison Margarot est construite à l’emplacement d’un moulin à huile existant déjà.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1664",
+    "texte": "Le moulin lié à la Maison Margarot appartient au compoix de 1664, après une destruction durant les guerres de Religion puis une reconstruction.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1838",
+    "texte": "Au Roc de Gachone, une tempête détruit le site, puis il est démoli en 1839.",
+    "sources": [
+     "S15"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Saturnin de Calvisson",
+   "histoire": "Église gothique d’origine romane, restaurée à la fin du XVIIe siècle et au début du XVIIIe siècle. Son portail intègre une porte de style néo-classique. En 1794, l’édifice sert de « Temple de la Raison » avant d’être donné aux protestants, puis restitué aux catholiques en 1816. Aujourd’hui, des garages occupent les emplacements de trois chapelles dont on voit encore l’amorce des voûtes gothiques.",
+   "anecdotes": [
+    {
+     "texte": "En 1794, l’église sert de « Temple de la Raison » pendant quelques mois avant son passage chez les protestants.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les emplacements des trois chapelles, dont on peut encore voir l’amorce des voûtes gothiques, abritent aujourd’hui deux garages et le bâtiment de la sacristie.",
+   "sources": [
+    "S8"
+   ],
+   "lat": 43.785859,
+   "lon": 4.193891,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Saturnin_de_Calvisson"
+  },
+  {
+   "nom": "Maison Margarot",
+   "histoire": "Hôtel particulier inscrit au titre des monuments historiques. La Maison Margarot est construite en 1542 à l’emplacement d’un moulin à huile. Détruit durant les guerres de Religion, le moulin est ensuite reconstruit par des particuliers, et figure au compoix de 1664. La demeure de style Louis XV est édifiée après 1776 près de la place du pont, en face de l’église, avec un jardin établi en 1845-1850 par Auguste Maroger.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10",
+    "S11",
+    "S12"
+   ],
+   "lat": 43.785519,
+   "lon": 4.193052,
+   "url": "https://fr.wikipedia.org/wiki/Maison_Margarot"
+  },
+  {
+   "nom": "Roc de Gachone",
+   "histoire": "Colline culminant à 167 m d’altitude à Calvisson. Au XVIIIe siècle, son sommet est occupé par quatre anciens moulins à vent des XVIIe et XVIIIe siècles disposés en ligne d’est en ouest. En 1838, une tempête détruit le site, puis il est démoli en 1839.",
+   "anecdotes": [
+    {
+     "texte": "Les quatre moulins à vent étaient disposés en ligne d’est en ouest, jusqu’à ce que la tempête de 1838 les renverse.",
+     "statut": "etabli",
+     "sources": [
+      "S14",
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ],
+   "lat": 43.78167,
+   "lon": 4.18361,
+   "url": "https://fr.wikipedia.org/wiki/Roc_de_Gachone"
+  }
+ ],
+ "sources": [
+  "Calvisson est une commune française située en Vaunage, dans le département du Gard, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par le Rhony, le ruisseau de Calvisson et par divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable composé d'une zone naturelle d'intérêt écologique, faunistique et floristique. Calvisson est une commune urbaine qui compte 6 486 […]",
+  "Le site est occupé depuis le Chalcolithique. On y trouve la présence des sépultures de Canta-Perdrix. Elles sont classées aux Monuments historiques depuis 1913. En 790, Calvisson est signalée comme capitale de la Vaunage dans un vieux parchemin de l'abbaye Notre-Dame de Nîmes. C'est sous la domination des comtes de Toulouse qu'une appellation spécifique pour Calvisson apparaît pour la première fois (In terminium de […]",
+  "1880 : En 1880, est construit un nouveau groupe scolaire rue de l'Herboux (récemment[C'est-à-dire ?] rasé pour faire place à une HLM ; un sort identique a été réservé à l'ancienne « Maison du Peuple ».) Dès la fin du XIXe siècle, le phylloxéra détruit la vigne, ce qui engendre la révolte des viticulteurs (1907).",
+  "Lieu « Église Saint-Saturnin de Calvisson » : L'église Saint-Saturnin de Calvisson est une église gothique d'origine romane située à Calvisson, dans le département français du Gard en région Occitanie.",
+  "Lieu « Église Saint-Saturnin de Calvisson », XVIIe siècle : Restaurée à la fin du XVIIe siècle et au début du XVIIIe siècle, l'église a malheureusement perdu son cloître (au nord de l'édifice), son clocher, ainsi que ses trois chapelles latérales sud.",
+  "Lieu « Église Saint-Saturnin de Calvisson », XVIIIe siècle : Ce portail intègre une élégante porte de style néo-classique édifiée à la fin du XVIIIe siècle ou au début du XIXe siècle : sur fond de bossages, cette porte présente un encadrement mouluré, un arc surbaissé et une clé d'arc saillante, le tout surmonté d'un entablement.",
+  "Lieu « Église Saint-Saturnin de Calvisson », 1794 : La période révolutionnaire ne va pas non plus ménager l'édifice qui servira de \"Temple de la Raison\" durant quelques mois en 1794 avant d'être donné aux protestants, qui procédèrent à quelques restaurations et ne restituèrent l'église aux catholiques qu'en 1816.",
+  "Lieu « Église Saint-Saturnin de Calvisson », aujourd'hui : Les emplacements de ces 3 chapelles dont on peut encore voir l'amorce des voûtes gothiques qui culminaient à 8 m, entre les contreforts très massifs des travées, abritent aujourd'hui deux garages (un seul prochainement démoli) et le bâtiment de la sacristie.",
+  "Lieu « Maison Margarot » : La maison Margarot est un hôtel particulier situé à Calvisson et faisant l’objet d’une inscription au titre des monuments historiques.",
+  "Lieu « Maison Margarot », 1542 : La \"Maison Margarot\" est construite à l'emplacement d'un moulin à huile qui existait déjà en 1542.",
+  "Lieu « Maison Margarot », 1664 : Détruit pendant les guerres de religion et reconstruit ensuite par des particuliers, ce moulin appartient, au compoix de 1664 (AD Gard - E-DEPOT-14-047), à douze copropriétaires.",
+  "Lieu « Maison Margarot », 1776 : Demeure de style Louis XV édifiée en pierre de taille tendre à la fin du XVIIIe siècle (après 1776) près de l'actuelle place du pont, en face de l'église ; le jardin qui la borde sur une partie du ruisseau couvert de l'Escattes sera établi en 1845-1850 par Auguste Maroger, alors maire de Calvisson.",
+  "Lieu « Roc de Gachone » : Le roc de Gachone est une colline culminant à 167 m d'altitude à Calvisson, dans le département français du Gard en région Occitanie.",
+  "Lieu « Roc de Gachone », XVIIIe siècle : Le sommet de la colline est occupé par quatre anciens moulins à vent des XVIIe et XVIIIe siècles disposés en ligne d'est en ouest.",
+  "Lieu « Roc de Gachone », 1838 : Détruit en 1838 par une tempête, il fut démoli en 1839."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Révolution"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

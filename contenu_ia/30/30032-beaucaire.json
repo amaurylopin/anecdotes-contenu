@@ -1,0 +1,286 @@
+{
+ "commune": {
+  "titre": "Beaucaire (Gard)",
+  "code_insee": "30032",
+  "departement": "30",
+  "population": 15692,
+  "lat": 43.80805556,
+  "lon": 4.64416667,
+  "url": "https://fr.wikipedia.org/wiki/Beaucaire_%28Gard%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:24:41",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3447,
+  "sortie": 2041
+ },
+ "cout_usd": 0.003241,
+ "accroche": "En 1216, le château de Beaucaire est mentionné lors du siège de la ville, en bordure du Rhône.",
+ "histoire": {
+  "recit": "Beaucaire, au sud-est du Gard, se tient au rythme du Rhône et de ses canaux, dont le canal du Rhône à Sète. Avant même les grandes routes du Moyen Âge, la ville est déjà identifiée à l’époque romaine sous le nom d’Ugernum, et elle figure comme étape de la voie Domitienne. Quand le siècle des marchands bat son plein, la Révolution de 1789 ne stoppe pas l’activité : c’est à ce moment qu’on édifie des hôtels particuliers, dont l’hôtel de Clausonnette et l’Hôtel de Ville.\n\nAu XIXe siècle, la ville se renforce contre les crues, avec une digue de pierre, et développe ses lieux de vie : halles alimentaires, puis un casino municipal, devenu salle des fêtes. L’industrie marque aussi le paysage : l’usine sidérurgique de Saint-Montant naît à partir de 1873, avant d’être transformée en usine de colorants à partir de 1923.\n\nAutour du château, les souvenirs restent visibles. La chapelle Saint-Louis, dans l’enceinte du château, a subi peu de dégâts malgré des assauts répétés : une question qui continue d’intriguer certains auteurs. Plus tard, l’église Saint-Paul, classée en 2005, conserve des traces de plusieurs états antérieurs.",
+  "chronologie": [
+   {
+    "date": "VIIe siècle av. J.-C.",
+    "texte": "Beaucaire est fondée au VIIe siècle av. J.-C. et connue à l’époque romaine sous le nom d’Ugernum.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "121 av. J.-C.",
+    "texte": "Beaucaire s’inscrit comme étape de la voie Domitienne, qui reliait l’Italie à l’Espagne.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1216",
+    "texte": "Le château de Beaucaire est mentionné lors du siège de la ville.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1789",
+    "texte": "La Révolution de 1789 n’altère pas l’activité des marchands ; de grands hôtels particuliers sont alors édifiés.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "L’usine sidérurgique de Saint-Montant est créée à partir de 1873.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "Le premier haut fourneau est mis à feu en mars 1875.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1923",
+    "texte": "L’usine devient une usine de colorants sous le nom CCIM.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1928",
+    "texte": "L’activité se transforme en usine d’émaillerie.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "2 décembre 2005",
+    "texte": "L’église Saint-Paul est classée au titre des monuments historiques.",
+    "sources": [
+     "S28"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Beaucaire",
+   "histoire": "La gare de Beaucaire se trouve sur le territoire de la commune et appartient à la ligne de Tarascon à Sète-Ville.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S13",
+    "S14"
+   ],
+   "lat": 43.802238,
+   "lon": 4.647075,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Beaucaire"
+  },
+  {
+   "nom": "Château de Beaucaire",
+   "histoire": "Ancien château fort en bordure du Rhône, il est mentionné en 1216 et des accords y sont scellés en 1251. Il est aujourd’hui en ruines, aménagé pour la visite.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui en ruines, le château est cependant aménagé pour la visite.",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S19"
+   ],
+   "lat": 43.809752,
+   "lon": 4.645085,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Beaucaire"
+  },
+  {
+   "nom": "Chapelle Saint-Louis de Beaucaire",
+   "histoire": "Édifiée au cours du XIIIe siècle dans l’ancienne enceinte du château, la chapelle a été restaurée au XIXe siècle après un état de délabrement.",
+   "anecdotes": [
+    {
+     "texte": "Malgré des assauts répétés ayant endommagé le château, la chapelle n’aurait subi que peu de dégâts : une situation qui interroge certains auteurs.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Son aspect rustique et simple laisse penser qu’elle servait comme lieu de culte pour la garnison du château.",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 43.809731,
+   "lon": 4.64527,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Louis_de_Beaucaire"
+  },
+  {
+   "nom": "Église Saint-Paul de Beaucaire",
+   "histoire": "Église catholique majoritairement de style gothique provençal. Sa nef remonte au XIVe siècle, avec réemploi d’éléments romans du XIIe siècle. L’édifice est classé depuis le 2 décembre 2005.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S25",
+    "S26",
+    "S28",
+    "S29"
+   ],
+   "lat": 43.8065,
+   "lon": 4.64494,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_de_Beaucaire"
+  },
+  {
+   "nom": "Abbaye de Saint-Roman",
+   "histoire": "Ancienne abbaye troglodytique sur le territoire de la commune. Elle est vendue en 1538 et, au XIXe siècle, des murs sont démolis par un propriétaire jugeant l’entretien trop onéreux. Elle rouvre au public à partir de 1991 dans le cadre d’une concession.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S33"
+   ],
+   "lat": 43.835278,
+   "lon": 4.611389,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Roman"
+  },
+  {
+   "nom": "Collégiale Notre-Dame-des-Pommiers de Beaucaire",
+   "histoire": "Ancienne collégiale située à Beaucaire, datant du XVIIIe siècle. Un ensemble de bâtiments est donné aux Bénédictins en 1096 pour créer un prieuré. Aujourd’hui, une frise romane reste le seul vestige de l’ancienne église romane.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Une frise romane (12e-13e), incorporée au sein du mur est du clocher, est le seul vestige de l’ancienne église romane.",
+   "sources": [
+    "S34",
+    "S35",
+    "S37"
+   ],
+   "lat": 43.80836,
+   "lon": 4.64344,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame-des-Pommiers_de_Beaucaire"
+  },
+  {
+   "nom": "Canal du Rhône à Sète",
+   "histoire": "Le canal du Rhône à Sète relie l’étang de Thau au Rhône à Beaucaire. Il est livré au commerce en 1811, après une série de travaux.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S38",
+    "S40"
+   ],
+   "lat": 43.805,
+   "lon": 4.64638889,
+   "url": "https://fr.wikipedia.org/wiki/Canal_du_Rh%C3%B4ne_%C3%A0_S%C3%A8te"
+  },
+  {
+   "nom": "Croix couverte de Beaucaire",
+   "histoire": "Croix monumentale datée du XIVe siècle et signalée comme vraisemblablement érigée pour remplacer un édifice plus modeste. Elle a ensuite été vendue à un antiquaire puis rachetée par la mairie.",
+   "anecdotes": [
+    {
+     "texte": "À la fin du XIXe siècle et au début du XXe siècle, la croix est vendue à un antiquaire, puis rachetée par la mairie dans les années 1960.",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 43.80144,
+   "lon": 4.633012,
+   "url": "https://fr.wikipedia.org/wiki/Croix_couverte_de_Beaucaire"
+  }
+ ],
+ "sources": [
+  "Beaucaire est une commune française située dans le sud-est du département du Gard, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par le Rhône, le canal d'irrigation du Bas-Rhône Languedoc, le canal du Rhône à Sète, le canal d'irrigation de Remoulins à Tarascon, la dérivation de Vallabregues et par divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable : deux […]",
+  "Fondée au VIIe siècle av. J.-C., Beaucaire est connue à l'époque romaine sous le nom d'Ugernum. Elle est une ville relais de la célèbre voie Domitienne qui reliait l’Italie à l’Espagne (121 av. J.-C.). C’est à cette étape que la voie Domitienne se divise pour desservir les directions d’Arles, de Nîmes, de Remoulins et de Saint-Gilles. À 4 km en direction de Nîmes, les quatre bornes milliaires nommées Colonnes de […]",
+  "VIIe siècle : Fondée au VIIe siècle av. J.-C., Beaucaire est connue à l'époque romaine sous le nom d'Ugernum.",
+  "1789 : La Révolution française de 1789 n'altère pas l’activité des marchands ; c’est en effet à cette époque que s’édifient les plus beaux hôtels particuliers et demeures, dont l’hôtel de Clausonnette et l’Hôtel de Ville.",
+  "XIXe siècle : À la fin du XIXe siècle et au début du XXe siècle, quelques ouvrages de grande valeur sont construits : la banquette, digue de pierre longeant la ville dans sa partie est, protégeant le centre-ville des crues du Rhône ; les halles alimentaires ; et le casino municipal, actuelle salle des fêtes.",
+  "1873 : Construite à partir de 1873, l'usine sidérurgique de Saint-Montant est créée par la Compagnie des forges de Châtillon-Commentry.",
+  "1875 : Le premier haut fourneau est mis à feu en mars 1875, le 2e en 1876, un convertisseur Bessemer fin 1877, la forge et les laminoirs avec le finissage des rails en 1878.",
+  "1923 : À partir de 1923, elle est transformée en usine de colorants sous le nom CCIM (Compagnie Commerciale et Industrielle du Midi).",
+  "1928 : En 1928, elle est transformée en usine d'émaillerie, puis devient une simple fabrique de quincaillerie après 1938.",
+  "Lieu « Gare de Beaucaire » : La gare de Beaucaire est une gare ferroviaire française de la ligne de Tarascon à Sète-Ville, située sur le territoire de la commune de Beaucaire, dans le département du Gard, en région Occitanie.",
+  "Lieu « Gare de Beaucaire », 1840 : La ligne d'Alais (Alès) à Beaucaire étant ouverte en totalité le 19 août 1840.",
+  "Lieu « Gare de Beaucaire », 1852 : La halte actuelle est située à l'emplacement de la deuxième gare mise en service en 1852 après l'ouverture du viaduc permettant le franchissement du Rhône et la liaison entre Beaucaire et Tarascon le 17 juillet 1852.",
+  "Lieu « Gare de Beaucaire », 2011 : Établie à 10 mètres d'altitude, la gare de Beaucaire est située au point kilométrique (PK) 0,839 de la ligne de Tarascon à Sète-Ville, entre les gares ouvertes aux voyageurs de Tarascon et de Nîmes-Pont-du-Gard (Jonquières-Saint-Vincent étant fermée fin 2011).",
+  "Lieu « Gare de Beaucaire », aujourd'hui : Le bâtiment côté ville a depuis été démoli[Quand ?], ne laissant subsister que son soubassement sur lequel un modeste abri en béton a été installé ; l'autre bâtiment est désaffecté.",
+  "Lieu « Château de Beaucaire » : Le château de Beaucaire est un ancien château fort qui se dresse en bordure du Rhône, sur la commune française de Beaucaire, dans le département du Gard, en région Occitanie.",
+  "Lieu « Château de Beaucaire », 1216 : Construit dès le XIe siècle, le château de Beaucaire est mentionné en 1216, lors du siège de la ville.",
+  "Lieu « Château de Beaucaire », 1251 : Le 7 mai 1251, un traité est signé au château de Beaucaire mettant fin aux différends qui opposent la ville d'Avignon à Alphonse de France, comte de Poitiers et de Toulouse et marquis de Provence.",
+  "Lieu « Château de Beaucaire », 1385 : En 1385, la place est assiégée par un corps d'Italiens, de Gascons et d'Anglais.",
+  "Lieu « Château de Beaucaire », aujourd'hui : Aujourd'hui en ruines, il est cependant aménagé pour la visite.",
+  "Lieu « Chapelle Saint-Louis de Beaucaire » : La chapelle Saint-Louis de Beaucaire, est un petit édifice religieux situé dans l'ancienne enceinte du château, dans la commune de Beaucaire, en France.",
+  "Lieu « Chapelle Saint-Louis de Beaucaire », XIIIe siècle : La chapelle est édifiée au cours du XIIIe siècle (ca.",
+  "Lieu « Chapelle Saint-Louis de Beaucaire », 1419 : Le château ayant été de multiples fois assiégé et endommagé au fil du temps (1419, 1562, 1632), la chapelle ne subit quant à elle que peu de dégâts, ce qui interroge certains auteurs.",
+  "Lieu « Chapelle Saint-Louis de Beaucaire », 1844 : En 1844, l'état de délabrement de l'édifice amena à une restauration de la chapelle et provoqua son classement au titre des monuments historiques sur la liste de 1846.",
+  "Lieu « Chapelle Saint-Louis de Beaucaire », aujourd'hui : Son emplacement et son aspect rustique et simple laissent penser qu'elle était destiné comme lieu de culte pour la garnison du château et desservie par des bénédictins.",
+  "Lieu « Église Saint-Paul de Beaucaire » : L'église Saint-Paul est une église catholique, majoritairement de style gothique provençal, sise à Beaucaire, dans le département français du Gard.",
+  "Lieu « Église Saint-Paul de Beaucaire », XIVe siècle : La nef, avec ses contreforts et ses chapelles latérales, est donc du XIVe siècle avec réemploi d'éléments romans du XIIe siècle provenant de l'édifice précédent démoli lors du transfert à l'intérieur des murs de la ville.",
+  "Lieu « Église Saint-Paul de Beaucaire », XVIIe siècle : L'église est d'autre part enchâssée par les petites maisons de rapport construites au début du XVIIe siècle que les cordeliers louaient au moment de la célèbre foire de Beaucaire ou foire de la Madeleine (Marie-Madeleine étant la sainte-patronne de la ville).",
+  "Lieu « Église Saint-Paul de Beaucaire », 2005 : L'édifice est classé au titre des monuments historiques depuis le 2 décembre 2005.",
+  "Lieu « Église Saint-Paul de Beaucaire », aujourd'hui : Cette église appartenait originellement au couvent, aujourd'hui disparu, des cordeliers encore dénommés frères mineurs.",
+  "Lieu « Abbaye de Saint-Roman » : L'abbaye de Saint-Roman est une ancienne abbaye troglodytique située sur le territoire de la commune de Beaucaire, dans le département du Gard, en France.",
+  "Lieu « Abbaye de Saint-Roman », 1538 : Pour faire face aux frais de l'érection en chapitre, l'abbaye est vendue à un particulier d'Aigues-Mortes, Franc de Conseil, le 14 juin 1538.",
+  "Lieu « Abbaye de Saint-Roman », XIXe siècle : Aux XIXe siècle, un propriétaire jugeant l'entretien trop onéreux fait démolir les murs.",
+  "Lieu « Abbaye de Saint-Roman », 1991 : Une délégation de service public ou concession est accordée à des opérateurs privés, sur appel d'offres, depuis l'ouverture au public en 1991.",
+  "Lieu « Collégiale Notre-Dame-des-Pommiers de Beaucaire » : La collégiale Notre-Dame-des-Pommiers datant du XVIIIe siècle est une ancienne collégiale située sur la commune de Beaucaire dans le département français du Gard en région Occitanie.",
+  "Lieu « Collégiale Notre-Dame-des-Pommiers de Beaucaire », 1096 : En 1096, un ensemble de bâtiments est donné aux Bénédictins de la Chaise-Dieu, pour un créer un prieuré.",
+  "Lieu « Collégiale Notre-Dame-des-Pommiers de Beaucaire », 1744 : La bénédiction du nouveau bâtiment, à la suite de difficultés de financement, ne serait fait que le 15 juillet 1744.",
+  "Lieu « Collégiale Notre-Dame-des-Pommiers de Beaucaire », aujourd'hui : Une frise romane (12e-13e), incorporée au sein du mur est du clocher, est le seul vestige de l'ancienne église romane.",
+  "Lieu « Canal du Rhône à Sète » : Le canal du Rhône à Sète est un canal français qui relie l'étang de Thau à la hauteur de Sète au Rhône à Beaucaire.",
+  "Lieu « Canal du Rhône à Sète », 1752 : L'ouverture, en 1752, du Grau-du-Roi résolut pour un temps le problème.",
+  "Lieu « Canal du Rhône à Sète », 1807 : Le battage des pilotis du batardeau a été fait entre le 15 septembre 1807 et le 21 juillet 1808, les fouilles entamées le 18 décembre 1808, la première pierre posée le 22 juillet 1809 et la construction entière achevée, le canal est livré au commerce le 15 décembre 1811 bien que des travaux ne soient pas entièrement terminés.",
+  "Lieu « Canal du Rhône à Sète », aujourd'hui : Après le départ de l'ingénieur Bouvier pour le service public, il est remplacé par Paulin Talabot à la demande du maréchal Soult, président du conseil d'administration de la compagnie.",
+  "Lieu « Croix couverte de Beaucaire » : La croix couverte de Beaucaire est une croix monumentale située sur le territoire de la commune de Beaucaire, en France.",
+  "Lieu « Croix couverte de Beaucaire », XIVe siècle : Le monument date du XIVe siècle, et est érigé vraisemblablement par Jean de France, Duc de Berry, possiblement en remplacement d'un édifice plus modeste commémorant une halte à Beaucaire lors du rapatriement du corps de Saint Louis des années plus tôt.",
+  "Lieu « Croix couverte de Beaucaire », 1960 : A la fin du XIXe siècle - début XXe siècle la croix est vendue à un antiquaire puis rachetée par la mairie de Beaucaire dans les années 1960 et déposée au musée archéologique de Beaucaire (musée Auguste Jacquet).",
+  "Lieu « Croix couverte de Beaucaire », aujourd'hui : Elle était semblable à la croix couverte de Villeneuve-lès-Avignon, aujourd'hui disparue."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Moyen"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

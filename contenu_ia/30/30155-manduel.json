@@ -1,0 +1,150 @@
+{
+ "commune": {
+  "titre": "Manduel",
+  "code_insee": "30155",
+  "departement": "30",
+  "population": 7044,
+  "lat": 43.8194,
+  "lon": 4.4742,
+  "url": "https://fr.wikipedia.org/wiki/Manduel"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:34:51",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1682,
+  "sortie": 977
+ },
+ "cout_usd": 0.001558,
+ "accroche": "En 1849, le chemin de fer traverse Manduel avec l’ouverture de la section de Nîmes à Beaucaire. ",
+ "histoire": {
+  "recit": "Manduel, au sud-est du Gard, s’étend sur un territoire occupé très tôt : des silex taillés gravettiens, retrouvés lors de fouilles d’été 2000, signalaient un campement de chasseurs sur la costière. \n\nAu XIXe siècle, la commune change de rythme quand le chemin de fer arrive en 1849. Plus près des voyageurs, la gare de Manduel - Redessan voit naître un bureau télégraphique en 1866, puis une rénovation en 1980, avec reconstruction des quais et modernisation de la signalétique. Les anciens bâtiments du PLM restent là, jusqu’à la fermeture de la halte en décembre 2019.\n\nCôté cœur religieux, l’église Saint-Genest de Manduel a été reconstruite : en 1856, le conseil municipal décide sa démolition et la nouvelle église s’élève sur place en 1859.\n\nAujourd’hui, une autre gare marque l’ensemble ferroviaire : la gare de Nîmes-Pont-du-Gard est mise en service le 15 décembre 2019, à un carrefour de lignes permettant des correspondances entre TGV et TER.",
+  "chronologie": [
+   {
+    "date": "25 000 ans environ",
+    "texte": "Lors de fouilles d’été 2000, des silex taillés du Gravettien mettent en évidence un campement de chasseurs sur la costière, avec un foyer nettement circonscrit.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1849",
+    "texte": "Ouverture de la section de Nîmes à Beaucaire : le chemin de fer traverse la commune.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1856",
+    "texte": "Le conseil municipal décide de démolir l’église Saint-Genest et d’en construire une nouvelle sur le même emplacement.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1859",
+    "texte": "La nouvelle église Saint-Genest est construite sur les fondations de l’ancienne.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1866",
+    "texte": "Mise en service à la station de Manduel-Redessan d’un bureau télégraphique pour la correspondance privée.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1980",
+    "texte": "Rénovation de la halte lors de la rénovation des voies : remplacement de la signalétique, éclairage des quais et reconstruction en béton.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "15 décembre 2019",
+    "texte": "Mise en service de la gare de Nîmes-Pont-du-Gard.",
+    "sources": [
+     "S12"
+    ]
+   },
+   {
+    "date": "décembre 2019",
+    "texte": "Fermeture de la halte de Manduel-Redessan : seuls les voyageurs n’utilisent plus l’abri des anciens bâtiments du PLM.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Gare de Manduel - Redessan",
+   "histoire": "La station de Manduel-Redessan conserve de anciens édifices du PLM, tandis qu’un abri reste utilisé par les voyageurs jusqu’à la fermeture de la halte en décembre 2019. La gare a aussi accueilli un bureau télégraphique et a fait l’objet de rénovations liées à l’amélioration des voies.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Seul l’abri est utilisé par les voyageurs jusqu’à la fermeture de la halte en décembre 2019.",
+   "sources": [
+    "S7"
+   ],
+   "lat": 43.826367,
+   "lon": 4.479329,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Manduel_-_Redessan"
+  },
+  {
+   "nom": "Église Saint-Genest de Manduel",
+   "histoire": "L’église Saint-Genest a été reconstruite à partir d’un contexte de croissance de la population et de mauvais état du bâtiment existant. Le conseil municipal lance la démolition en 1856, puis la nouvelle église est construite en 1859 sur le même emplacement.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 43.81885,
+   "lon": 4.47344,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Genest_de_Manduel"
+  },
+  {
+   "nom": "Gare de Nîmes-Pont-du-Gard",
+   "histoire": "La gare de Nîmes-Pont-du-Gard est mise en service le 15 décembre 2019. Elle s’insère à la croisée du contournement de Nîmes et de Montpellier (ligne nouvelle ouverte en 2017) et de la ligne de Tarascon à Sète-Ville, ce qui permet une desserte en TGV comme en TER avec correspondances.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12"
+   ],
+   "lat": 43.816809,
+   "lon": 4.507679,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_N%C3%AEmes-Pont-du-Gard"
+  }
+ ],
+ "sources": [
+  "Manduel est une commune française située dans le sud-est du département du Gard, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par le Buffalon, la Roubine. La commune possède un patrimoine naturel remarquable : un site Natura 2000 (les « costières nîmoises »), un espace protégé (les « Costières de Nimes ») et une zone naturelle d'intérêt écologique, faunistique et floristique. Manduel est […]",
+  "Le territoire de la commune est occupé depuis des temps forts reculés. Des silex taillés rapportés au Gravettien (25 000 ans environ) ont été retrouvés lors de fouilles de sauvetages menées par F. Bazile du CNRS (Vauvert) et son équipe durant l'été 2000. L'emplacement d'un campement de chasseurs gravettiens était matérialisé par plusieurs structures en galet de la costière, dont un foyer nettement circonscrit. Les […]",
+  "1849 : En 1849 le chemin de fer traverse la commune avec l'ouverture de la section de Nîmes à Beaucaire, de la future ligne de Tarascon à Sète-Ville.",
+  "Lieu « Gare de Manduel - Redessan » : La gare de Manduel - Redessan est une ancienne gare ferroviaire française de la ligne de Tarascon à Sète-Ville, située sur le territoire de la commune de Manduel, à proximité de Redessan, dans le département du Gard, en région Occitanie.",
+  "Lieu « Gare de Manduel - Redessan », 1866 : En 1866, un bureau télégraphique, ouvert à la correspondance privée, est mis en service à la station de Manduel-Redessan.",
+  "Lieu « Gare de Manduel - Redessan », 1980 : En 1980, lors d'une rénovation des voies, la halte est également rénovée, avec le remplacement de la signalétique et la mise en place de l'éclairage des quais, qui ont été reconstruits en béton ; en 2013, le revêtement de surface des quais est refait avec de l'enrobé.",
+  "Lieu « Gare de Manduel - Redessan », 2019 : Les anciens édifices du PLM (bâtiment voyageurs et abri de quai) sont toujours présents, mais seul l'abri est utilisé par les voyageurs jusqu'à la fermeture de la halte en décembre 2019.",
+  "Lieu « Église Saint-Genest de Manduel » : L'église Saint-Genest de Manduel est une église située à Manduel, dans le département du Gard, en région Occitanie, en France.",
+  "Lieu « Église Saint-Genest de Manduel », 1856 : En 1856, face à l'augmentation de la population et au mauvais état de l'église existante, le conseil municipal de Manduel décide de démolir l'église Saint-Genest et d'en construire une nouvelle sur le même emplacement.",
+  "Lieu « Église Saint-Genest de Manduel », 1859 : Construite sur les fondations de l'ancienne église en 1859, elle est inscrite au titre des monuments historiques depuis 2016.",
+  "Lieu « Gare de Nîmes-Pont-du-Gard » : La gare de Nîmes-Pont-du-Gard, initialement appelée gare de Nîmes - Manduel - Redessan par la Société nationale des chemins de fer français (SNCF), est une gare ferroviaire française.",
+  "Lieu « Gare de Nîmes-Pont-du-Gard », 2019 : Mise en service le 15 décembre 2019, elle est implantée à la croisée du contournement de Nîmes et de Montpellier (ligne nouvelle ouverte en 2017) et de la ligne de Tarascon à Sète-Ville (ligne classique), ce qui permet une desserte aussi bien en TGV qu'en TER (avec correspondances entre ces trains)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 0
+ }
+}

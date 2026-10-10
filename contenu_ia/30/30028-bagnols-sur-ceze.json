@@ -1,0 +1,128 @@
+{
+ "commune": {
+  "titre": "Bagnols-sur-Cèze",
+  "code_insee": "30028",
+  "departement": "30",
+  "population": 18112,
+  "lat": 44.1625,
+  "lon": 4.62027778,
+  "url": "https://fr.wikipedia.org/wiki/Bagnols-sur-C%C3%A8ze"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:15:49",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1388,
+  "sortie": 911
+ },
+ "cout_usd": 0.001416,
+ "accroche": "Dès 1859, le premier musée de Bagnols-sur-Cèze est ouvert par Léon Alègre pour instruire et moraliser ses concitoyens.",
+ "histoire": {
+  "recit": "Bagnols-sur-Cèze se tient au nord-est du Gard, en Occitanie, au contact d’un paysage façonné par la Cèze et plusieurs petits cours d’eau. La commune s’inscrit aussi dans des protections naturelles, avec un site Natura 2000 intitulé « la Cèze et ses gorges ».\n\nAu fil des périodes, Bagnols reste un petit centre urbain rayonnant sur la basse vallée de la Cèze, placé au carrefour entre la vallée de la Cèze et la route de Lyon au Midi par la rive droite du Rhône. Plus récemment, l’élan local rejoint l’histoire industrielle avec la création du centre d’études nucléaires de Marcoule, lancée en 1954.\n\nLe goût pour les collections et les pierres anciennes se lit encore dans ses musées : le musée Albert-André, et le musée Léon-Alègre, où l’on peut voir des vestiges, dont une mosaïque mise au jour lors de travaux à Marcoule.",
+  "chronologie": [
+   {
+    "date": "1859",
+    "texte": "Le premier musée de Bagnols-sur-Cèze ouvre, porté par Léon Alègre, pour instruire et moraliser ses concitoyens.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1868",
+    "texte": "Le musée est installé dans le bâtiment actuel.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1954",
+    "texte": "Le centre d’études nucléaires de Marcoule est lancé.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1967",
+    "texte": "Lors des travaux de construction de la centrale atomique de Marcoule, une mosaïque est découverte fortuitement sur le site antique de Cadenet.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée Albert-André",
+   "histoire": "Le musée Albert-André est un musée municipal consacré aux arts, et surtout à la peinture.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les œuvres sont visibles sur le site de la RMN.",
+   "sources": [
+    "S3",
+    "S6"
+   ],
+   "lat": 44.161942,
+   "lon": 4.619667,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Albert-Andr%C3%A9"
+  },
+  {
+   "nom": "Chapelle Saint-Thyrse de Maransan",
+   "histoire": "La chapelle Saint-Thyrse de Maransan est une chapelle romane située à Bagnols-sur-Cèze, dans le Gard.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La nef est couverte de lauzes, en pierre de taille assemblée en grand appareil, avec des traces d’appareil alterné (opus monspeliensis).",
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "lat": 44.173571,
+   "lon": 4.641507,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Thyrse_de_Maransan"
+  },
+  {
+   "nom": "Musée Léon-Alègre",
+   "histoire": "Le musée Léon-Alègre est un musée archéologique situé à Bagnols-sur-Cèze.",
+   "anecdotes": [
+    {
+     "texte": "On y découvre des vestiges d’une mosaïque trouvée fortuitement en 1967 lors des travaux de construction de la centrale atomique de Marcoule sur le site antique de Cadenet.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S9",
+    "S10"
+   ],
+   "lat": 44.164655,
+   "lon": 4.621327,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_L%C3%A9on-Al%C3%A8gre"
+  }
+ ],
+ "sources": [
+  "Bagnols-sur-Cèze est une commune française située dans le nord-est du département du Gard, en région Occitanie. Exposée à un climat méditerranéen, elle est drainée par la Cèze et par divers autres petits cours d'eau. La commune possède un patrimoine naturel remarquable : un site Natura 2000 (« la Cèze et ses gorges ») et trois zones naturelles d'intérêt écologique, faunistique et floristique. Bagnols-sur-Cèze est […]",
+  "Les groupes humains qui peuplent la région de Bagnols durant l'Antiquité sont en étroites relations avec les Grecs de Marseille[réf. souhaitée]. Du Moyen Âge aux années 1950, Bagnols est un petit centre urbain rayonnant sur la basse vallée de la Cèze, au carrefour de la vallée de la Cèze et de la route de Lyon au Midi par la rive droite du Rhône. La création du centre d'études nucléaires de Marcoule, lancée en 1954, […]",
+  "Lieu « Musée Albert-André » : Le musée Albert-André, consacré aux arts et surtout à la peinture, est l'un des deux musées municipaux de Bagnols-sur-Cèze dans le Gard.",
+  "Lieu « Musée Albert-André », 1859 : Le premier musée de Bagnols-sur-Cèze est ouvert dès 1859 par Léon Alègre pour instruire et moraliser ses concitoyens.",
+  "Lieu « Musée Albert-André », 1868 : Le musée est installé dans le bâtiment actuel depuis 1868.",
+  "Lieu « Musée Albert-André », aujourd'hui : Toutes les œuvres sont visibles sur le site de la RMN.",
+  "Lieu « Chapelle Saint-Thyrse de Maransan » : La chapelle Saint-Thyrse de Maransan (ou chapelle Saint-Tyrce de Maransan) est une chapelle romane située à Bagnols-sur-Cèze dans le département français du Gard en région Occitanie.",
+  "Lieu « Chapelle Saint-Thyrse de Maransan », aujourd'hui : La nef, couverte de lauzes, est édifiée en pierre de taille assemblée en grand appareil présentant des traces d'appareil alterné (opus monspeliensis).",
+  "Lieu « Musée Léon-Alègre » : Le musée Léon-Alègre est un musée archéologique situé à Bagnols-sur-Cèze.",
+  "Lieu « Musée Léon-Alègre », aujourd'hui : On peut également y découvrir les vestiges d'une mosaïque découverte fortuitement en 1967 lors des travaux de construction de la centrale atomique de Marcoule sur le site antique de Cadenet."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 3,
+  "nb_anecdotes": 1
+ }
+}
