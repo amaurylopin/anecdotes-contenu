@@ -1,0 +1,322 @@
+{
+ "commune": {
+  "titre": "Château-Thierry",
+  "code_insee": "02168",
+  "departement": "02",
+  "population": 15097,
+  "lat": 49.04,
+  "lon": 3.4,
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau-Thierry"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:26:54",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3412,
+  "sortie": 1987
+ },
+ "cout_usd": 0.003166,
+ "accroche": "Château-Thierry est le lieu de naissance de Jean de La Fontaine, en Picardie, dans le département de l’Aisne.",
+ "histoire": {
+  "recit": "À Château-Thierry, les traces commencent avant la ville telle qu’on la connaît : des indices d’occupation de l’âge du fer ont été mis au jour sous le quartier des Vaucrises et sur le plateau au nord, avant un habitat groupé d’époque romaine. Puis la ville antique s’éteint : d’après les fouilles, elle est abandonnée au IIIe ou au IVe siècle.\n\nAu Moyen Âge, la cité attire aussi des savoirs : au XIIe siècle, une célèbre école rabbinique y est construite, d’où émergent des tossafistes comme Samuel d’Évreux.\n\nLe destin de la commune est ensuite heurté par les guerres. En 1544, la ville est prise et pillée par Charles Quint. Plus tôt encore, la Tour Balhan rappelle les tensions : en 1429, alors que la ville est libérée du joug anglais, le fort Saint-Jacques est pillé.\n\nPlus récemment, l’histoire se lit encore dans ses bâtiments et ses institutions : la gare se dote d’un bâtiment principal en 1860, et la Médiathèque Jean Macé devient, en 2004, le centre culturel du même nom. Enfin, l’activité industrielle continue avec Novacel Optical, fondée en 1994.",
+  "chronologie": [
+   {
+    "date": "Âge du fer",
+    "texte": "Des artefacts et une sépulture de l’âge du fer ont été découverts lors de fouilles, notamment sous le quartier des Vaucrises et sur le plateau au nord.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "IIIe ou IVe siècle",
+    "texte": "D’après les fouilles, la ville antique est abandonnée au IIIe ou au IVe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Une célèbre école rabbinique est construite à Château-Thierry et donne naissance à de nombreux tossafistes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1429",
+    "texte": "Alors que la ville est libérée du joug anglais en 1429, elle est pillée, notamment le fort Saint-Jacques.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "1544",
+    "texte": "En 1544, la ville est prise et pillée par Charles Quint.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "La construction du bâtiment principal de la gare, celui abritant les guichets, est réalisée en 1860.",
+    "sources": [
+     "S28"
+    ]
+   },
+   {
+    "date": "1870",
+    "texte": "En 1870, la construction de l’aile nord du bâtiment de la Médiathèque Jean Macé est entamée par l’architecte municipal Morsaline.",
+    "sources": [
+     "S33"
+    ]
+   },
+   {
+    "date": "1893",
+    "texte": "En 1893, le nouvel hôtel de ville inaugure un transfert : les principales pièces du musée y sont installées pour le décorer.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1906",
+    "texte": "En 1906, le collège quitte le bâtiment ; une école d’enseignement secondaire y est alors ouverte.",
+    "sources": [
+     "S34"
+    ]
+   },
+   {
+    "date": "2004",
+    "texte": "Le 24 janvier 2004, la Médiathèque Jean-Macé devient la Médiathèque Jean-Macé.",
+    "sources": [
+     "S35"
+    ]
+   },
+   {
+    "date": "1994",
+    "texte": "Novacel Optical est fondée en 1994.",
+    "sources": [
+     "S43"
+    ]
+   },
+   {
+    "date": "2018",
+    "texte": "En 2018, l’entreprise ouvre le service « Optocar », un camion itinérant pour la prévention et des dépistages visuels gratuits.",
+    "sources": [
+     "S44"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Musée Jean-de-La-Fontaine",
+   "histoire": "Le Musée Jean-de-La-Fontaine est un musée d’art et d’histoire principalement consacré à Jean de La Fontaine et à son œuvre.",
+   "anecdotes": [
+    {
+     "texte": "En 1776, il est mentionné parmi les personnages retenus par le comte d’Angiviller pour une série de grandes statues de marbre à la gloire des Hommes illustres de la France.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S8"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 49.046746,
+   "lon": 3.40011,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Jean-de-La-Fontaine"
+  },
+  {
+   "nom": "Tour Balhan",
+   "histoire": "La tour Balhan est l’unique vestige d’un important édifice urbain remontant au Moyen Âge.",
+   "anecdotes": [
+    {
+     "texte": "En 1429, alors que la ville est libérée du joug anglais, elle est pillée, en particulier le fort Saint-Jacques.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    },
+    {
+     "texte": "Reconstruite en 1840 par J-C Chrétien, maître charpentier, la tour reçoit ensuite une horloge dont le cadran extérieur est ajouté en 1874.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La tour Balhan est encore visible aujourd’hui comme unique vestige d’un édifice urbain médiéval.",
+   "sources": [
+    "S16"
+   ],
+   "lat": 49.045,
+   "lon": 3.40284,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Balhan"
+  },
+  {
+   "nom": "Église Saint-Crépin de Château-Thierry",
+   "histoire": "Mentionnée dès le XIIe siècle, l’église Saint-Crépin est totalement reconstruite à la fin du XVe siècle ou au début du XVIe siècle après les dégâts de la guerre de Cent Ans.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des colonnes finement sculptées de la tribune d’orgue, aujourd’hui remplacées par des piliers de fonte, sont signalées au musée principal.",
+   "sources": [
+    "S21"
+   ],
+   "lat": 49.0456,
+   "lon": 3.39761,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Cr%C3%A9pin_de_Ch%C3%A2teau-Thierry"
+  },
+  {
+   "nom": "Château de Château-Thierry",
+   "histoire": "Le château de Château-Thierry est un ancien château fort fondé au IXe siècle par les comtes de Vermandois, puis remanié aux XIIe et XIIIe siècles par les comtes de Champagne, et encore remanié jusqu’à la fin du XVe et au début du XVIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Ses vestiges se dressent sur la commune.",
+   "sources": [
+    "S26"
+   ],
+   "lat": 49.04625,
+   "lon": 3.402944,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Ch%C3%A2teau-Thierry"
+  },
+  {
+   "nom": "Gare de Château-Thierry",
+   "histoire": "La gare de Château-Thierry est une gare ferroviaire de la ligne de Noisy-le-Sec à Strasbourg-Ville, située sur le territoire de Château-Thierry.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La gare est décrite aujourd’hui comme l’origine d’une ligne à Oulchy - Breny, aujourd’hui déclassée.",
+   "sources": [
+    "S31"
+   ],
+   "lat": 49.037957,
+   "lon": 3.409492,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Ch%C3%A2teau-Thierry"
+  },
+  {
+   "nom": "Médiathèque Jean Macé",
+   "histoire": "La Médiathèque Jean Macé est un bâtiment culturel occupant un ancien couvent, puis une école, avant de devenir le centre culturel Jean-Macé et, depuis le 24 janvier 2004, la Médiathèque Jean-Macé.",
+   "anecdotes": [
+    {
+     "texte": "Vers 1840, l’aile sud-est est prolongée jusqu’à la rue à l’emplacement de l’ancienne chapelle.",
+     "statut": "etabli",
+     "sources": [
+      "S36"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 49.047213,
+   "lon": 3.400232,
+   "url": "https://fr.wikipedia.org/wiki/M%C3%A9diath%C3%A8que_Jean_Mac%C3%A9"
+  },
+  {
+   "nom": "Hôtel-Dieu de Château-Thierry",
+   "histoire": "L’Hôtel-Dieu conserve des vestiges de son édifice primitif du XIVe siècle : un massif contrefort et des caves voûtées en arêtes.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S37",
+    "S38",
+    "S39",
+    "S40",
+    "S41"
+   ],
+   "lat": 49.04602778,
+   "lon": 3.40452778,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Ch%C3%A2teau-Thierry"
+  },
+  {
+   "nom": "Novacel Optical",
+   "histoire": "Novacel Optical est une société spécialisée dans la fabrication de verres ophtalmiques, installée à Château-Thierry.",
+   "anecdotes": [
+    {
+     "texte": "En 2018, l’entreprise lance « Optocar », un camion itinérant pour la prévention et des dépistages visuels gratuits.",
+     "statut": "etabli",
+     "sources": [
+      "S44"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 49.065482415639,
+   "lon": 3.3886564507568,
+   "url": "https://fr.wikipedia.org/wiki/Novacel_Optical"
+  }
+ ],
+ "sources": [
+  "Château-Thierry est une commune française située dans le département de l'Aisne, en région historique de Picardie, administrative Hauts-de-France. Château-Thierry est le lieu de naissance de Jean de La Fontaine et est située dans la région des batailles de la Marne. Château-Thierry est l'une des 64 villes françaises à avoir reçu la Légion d'honneur. Elle est également décorée de la croix de guerre.",
+  "Les premières traces de civilisation datent de l'âge du fer. Des artefacts et une sépulture de cette période ont été découverts lors de fouilles archéologiques. Ces indices d'occupation se situent sous l'actuel quartier des Vaucrises et sur le plateau au nord de la ville, au nord du quartier des Blanchards. À ces premières occupations, succède un habitat groupé d'époque romaine. Une véritable agglomération […]",
+  "IVe siècle : D'après les fouilles, la ville antique est abandonnée au IIIe ou au IVe siècle.",
+  "XIIe siècle : Ainsi, une célèbre école rabbinique y est construite, d'où émergeront au XIIe siècle de nombreux tossafistes tels que Samuel d'Évreux.",
+  "1544 : En 1544, la ville est prise et pillée par Charles Quint.",
+  "1862 : Au nord-est de l'ancienne église Saint-Martin, au lieu-dit les Chesneaux, une nécropole mérovingienne a été découverte et détruite en 1862, lors de la réfection de la route Château-Thierry-Soissons et en 1883 lors de la construction de la voie ferrée reliant Amiens à Dijon.",
+  "Lieu « Musée Jean-de-La-Fontaine » : Le musée Jean-de-La-Fontaine est un musée d'art et d'histoire essentiellement consacré à Jean de La Fontaine et à son œuvre.",
+  "Lieu « Musée Jean-de-La-Fontaine », 1776 : Il fit ainsi partie des personnages retenus par le comte d'Angiviller, directeur général des Bâtiments du roi, lorsque celui-ci décida en 1776 de faire exécuter une série de grandes statues de marbre à la gloire des Hommes illustres de la France.",
+  "Lieu « Musée Jean-de-La-Fontaine », 1799 : Le musée conserve également le buste en terre cuite exécuté en 1799 par Louis Pierre Deseine pour le musée des Monuments Français et le modèle en plâtre de la statue en marbre de Bernard Seurre qui décore le Palais de l'Institut.",
+  "Lieu « Musée Jean-de-La-Fontaine », 1893 : Quand le nouvel hôtel de ville de Château-Thierry est inauguré en 1893, les principales pièces du musée y sont transférés pour le décorer.",
+  "Lieu « Musée Jean-de-La-Fontaine », aujourd'hui : Il a été remplacé par la grille actuelle.",
+  "Lieu « Tour Balhan » : La tour Balhan, à Château-Thierry, dans l'Aisne, en France, est l'unique vestige d'un important édifice urbain remontant au Moyen Âge.",
+  "Lieu « Tour Balhan », 1429 : Alors que la ville était libérée du joug anglais en 1429 par Jeanne d'Arc la ville était pillée, en particulier le fort Saint-Jacques.",
+  "Lieu « Tour Balhan », XVe siècle : À la fin du XVe siècle ou au début du XVIe siècle, il est transformé en hôtel communal ou en hôtel particulier, dénommé alors Hôtel du Mouton d'Or.",
+  "Lieu « Tour Balhan », 1840 : Reconstruit en 1840 par J-C Chrétien, maître charpentier. » L'horloge a été ajoutée en 1874 avec un cadran extérieur.",
+  "Lieu « Tour Balhan », aujourd'hui : La tour Balhan, à Château-Thierry, dans l'Aisne, en France, est l'unique vestige d'un important édifice urbain remontant au Moyen Âge.",
+  "Lieu « Église Saint-Crépin de Château-Thierry » : L'église Saint-Crépin est une église située à Château-Thierry, dans le département de l'Aisne.",
+  "Lieu « Église Saint-Crépin de Château-Thierry », XIIe siècle : Mentionnée dès le XIIe siècle, elle est totalement reconstruite à la fin du XVe siècle ou au début du XVIe siècle, à la suite des dégâts de la guerre de Cent Ans.",
+  "Lieu « Église Saint-Crépin de Château-Thierry », 1421 : Les analyses architecturales permettent d'envisager que l'église endommagée en 1421, pendant la Guerre de Cent Ans était moitié moins grande que l'édifice reconstruit.",
+  "Lieu « Église Saint-Crépin de Château-Thierry », 1791 : L'église du Château est officiellement fermée le 1er août 1791 et les reliques qu'elle abritait sont transférées à l'église Saint-Crépin.",
+  "Lieu « Église Saint-Crépin de Château-Thierry », aujourd'hui : La tribune d'orgue était supportée par d'élégantes colonnes très finement sculptées qui, fléchissant, ont dû être remplacées par des piliers de fonte, ces colonnes se trouvant actuellement au musée principal.",
+  "Lieu « Château de Château-Thierry » : Le château de Château-Thierry est un ancien château fort, fondé au IXe siècle par les comtes de Vermandois et remanié aux XIIe et au XIIIe siècle par les comtes de Champagne, puis par Philippe le Bel au XIVe siècle et enfin par Antoine de Bourgogne à",
+  "Lieu « Château de Château-Thierry », IXe siècle : Le château de Château-Thierry est un ancien château fort, fondé au IXe siècle par les comtes de Vermandois et remanié aux XIIe et au XIIIe siècle par les comtes de Champagne, puis par Philippe le Bel au XIVe siècle et enfin par Antoine de Bourgogne à la fin du XVe et au début du XVIe siècle.",
+  "Lieu « Château de Château-Thierry », XIVe siècle : Alors qu'initialement, la basse-cour du château se situait à l'ouest de sa tour maîtresse, à compter du début du XIVe siècle, elle se situera à l'est, réservant l'ensemble des espaces ainsi libérés à la résidence seigneuriale.",
+  "Lieu « Château de Château-Thierry », 1793 : Le château prend le statut de bien national et il est vendu en tant que carrière de pierre en 1793.",
+  "Lieu « Château de Château-Thierry », aujourd'hui : Ses vestiges se dressent sur la commune française de Château-Thierry dans le département de l'Aisne, en région Hauts-de-France.",
+  "Lieu « Gare de Château-Thierry » : La gare de Château-Thierry est une gare ferroviaire française de la ligne de Noisy-le-Sec à Strasbourg-Ville, située sur le territoire de la commune de Château-Thierry, sous-préfecture du département de l'Aisne, et celui de la commune d'Étampes-sur-M",
+  "Lieu « Gare de Château-Thierry », 1860 : 1860 : construction du bâtiment principal de la gare, celui abritant les guichets.",
+  "Lieu « Gare de Château-Thierry », 1885 : 21 novembre 1885 : ouverture de la ligne de Château-Thierry à Oulchy - Breny, et ouverture d'une seconde gare sur le territoire de la commune de Château-Thierry, située en marge du quartier des Chesneaux.",
+  "Lieu « Gare de Château-Thierry », 1910 : 1910 : ouverture d'une ligne de chemin de fer secondaire à voie métrique entre Château-Thierry et Mareuil-sur-Ourcq via Essômes-sur-Marne et Gandelu.",
+  "Lieu « Gare de Château-Thierry », aujourd'hui : Elle était également l'origine de la ligne de Château-Thierry à Oulchy - Breny aujourd'hui déclassée.",
+  "Lieu « Médiathèque Jean Macé » : La Médiathèque Jean Macé est un bâtiment culturel occupant un ancien couvent, situé à Château-Thierry, en France.",
+  "Lieu « Médiathèque Jean Macé », 1870 : C'est en 1870 que fut entamée la construction de l'aile nord du bâtiment par l'architecte municipal Morsaline.",
+  "Lieu « Médiathèque Jean Macé », 1906 : Le collège quitta le bâtiment en 1906 ; la municipalité y ouvrit alors une école d'enseignement secondaire qui, dans les années 1980, est fermée.",
+  "Lieu « Médiathèque Jean Macé », 2004 : Il devient ensuite le centre culturel Jean-Macé puis le 24 janvier 2004, la Médiathèque Jean-Macé ; elle a pris le relais de la bibliothèque municipale en s'implantant dans le bâtiment, ce centre se nomme ainsi en mémoire du pédagogue et homme politique, Jean Macé.",
+  "Lieu « Médiathèque Jean Macé », aujourd'hui : Vers 1840, l'aile sud-est fut prolongée jusqu'à la rue à l'emplacement de l'ancienne chapelle.",
+  "Lieu « Hôtel-Dieu de Château-Thierry » : L'hôtel-Dieu est situé à Château-Thierry, dans le département français de l'Aisne, en région Hauts-de-France.",
+  "Lieu « Hôtel-Dieu de Château-Thierry », XIVe siècle : Au centre de ce bâtiment se distingue un massif contrefort qui, avec des caves voûtées en arêtes, constituent les vestiges de l'Hôtel-Dieu primitif édifié au XIVe siècle conformément à la volonté de la reine de France Jeanne de Navarre.",
+  "Lieu « Hôtel-Dieu de Château-Thierry », XVIIe siècle : Sur son flanc est, une construction accolée, correspondant aux vestiges de l'hôtel-Dieu de la fin du XVIIe siècle, a échappé à la démolition.",
+  "Lieu « Hôtel-Dieu de Château-Thierry », 1876 : La partie la plus récente, l'hôpital, est édifiée entre 1876 et 1879 sous la direction de l'architecte Eugène Rouyer.",
+  "Lieu « Hôtel-Dieu de Château-Thierry », aujourd'hui : Durant les travaux, les malades étaient soignés à la Charité (aujourd'hui la maison de retraite de Bellevue).",
+  "Lieu « Novacel Optical » : Novacel Optical est une société française spécialisée dans la fabrication de verres ophtalmiques.",
+  "Lieu « Novacel Optical », 1994 : Fondée en 1994, l'entreprise compte plus de 630 salariés en 2023 sur son site et siège social de Château-Thierry (Aisne), en France.",
+  "Lieu « Novacel Optical », 2018 : En 2018, l'entreprise procède à l'ouverture de son service « Optocar », un camion itinérant qui sillonne les routes de France pour faire de la prévention à destination du grand public ainsi que des dépistages visuels gratuit.",
+  "Lieu « Novacel Optical », 2024 : L'entreprise affiche un chiffre d’affaires de 170M€ en 2024 et plus de 9.5 millions de verres vendus en 2024."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 5
+ }
+}

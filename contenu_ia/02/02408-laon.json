@@ -1,0 +1,355 @@
+{
+ "commune": {
+  "titre": "Laon",
+  "code_insee": "02408",
+  "departement": "02",
+  "population": 24220,
+  "lat": 49.56388889,
+  "lon": 3.62444444,
+  "url": "https://fr.wikipedia.org/wiki/Laon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:00:42",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3740,
+  "sortie": 2065
+ },
+ "cout_usd": 0.003329,
+ "accroche": "En 648, Sainte Salaberge fonde hors les murs l’abbaye Saint-Jean à Laon, dédiée à Saint Jean-Baptiste.",
+ "histoire": {
+  "recit": "À Laon, la ville haute se dresse comme un poste défensif, séparant le cœur des pouvoirs des faubourgs. L’occupation y reste discrète avant longtemps : une petite présence néolithique est évoquée, mais aucune trace des âges du bronze et du fer n’a été découverte jusqu’ici. \n\nPlus haut, la vie religieuse structure la cité. Au IXe siècle, la cathédrale est reconstruite et l’ensemble épiscopal s’organise avec cloître et palais. Au XIe siècle, une nouvelle cathédrale est reconstruite sous l’évêque Élinand, puis l’édifice est inauguré le 25 décembre 1071 lors du deuxième couronnement de Philippe Ier. Le 25 avril 1112, la cathédrale romane est incendiée pendant l’insurrection communale.\n\nLa ville connaît aussi des épisodes politiques et militaires. En 1358, l’évêque Robert Le Coq conspire pour livrer Laon aux Navarrais ; la découverte mène à la décapitation des complices. Entre 1595 et 1598, une citadelle est construite par Jean Errard, puis sa porte est élevée en 1595.\n\nAu XXe siècle, la guerre marque les esprits : en 1890, des fusillades touchent des Français dont trois instituteurs, et un monument est érigé à Laon devant l’école normale. En 1914, une société savante est fondée ; en 1917, un édifice est détruit puis recréé et inauguré à nouveau en 1929.",
+  "chronologie": [
+   {
+    "date": "648",
+    "texte": "Sainte Salaberge fonde hors les murs l’abbaye Saint-Jean, un monastère double, dédié à Saint Jean-Baptiste.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "IXe siècle",
+    "texte": "La cité renferme la cathédrale reconstruite au premier tiers du IXe siècle, ainsi que la résidence de l’évêque et le cloître des chanoines ; au sud, le palais royal.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1052",
+    "texte": "Une nouvelle cathédrale est reconstruite sous l’égide d’Élinand, promu évêque de Laon le 14 juin 1052.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "25 décembre 1071",
+    "texte": "Le nouvel édifice est inauguré lors du deuxième couronnement du roi Philippe Ier.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "25 avril 1112",
+    "texte": "La cathédrale romane est incendiée pendant l’insurrection communale.",
+    "sources": [
+     "S15"
+    ]
+   },
+   {
+    "date": "1358",
+    "texte": "L’évêque Robert Le Coq conspire pour livrer la ville aux Navarrais ; la conspiration est découverte et les complices sont décapités.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1595",
+    "texte": "Une citadelle est construite de 1595 à 1598 par l’architecte Jean Errard ; sa porte est bâtie en 1595.",
+    "sources": [
+     "S8",
+     "S38"
+    ]
+   },
+   {
+    "date": "1890",
+    "texte": "Des Allemands fusillent des Français dont trois instituteurs ; un monument est érigé à Laon devant l’école normale en 1890 pour Jules Debordeaux.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "25 juin 1914",
+    "texte": "Une société savante est fondée à Laon : la Société historique de Haute-Picardie.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1917",
+    "texte": "Un édifice est détruit en 1917, puis recréé et inauguré à nouveau en 1929.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame de Laon",
+   "histoire": "Ancien siège de l’évêché de l’ancien diocèse de Laon, la cathédrale Notre-Dame de Laon est aujourd’hui une église paroissiale.",
+   "anecdotes": [
+    {
+     "texte": "Le 25 décembre 1071, la cathédrale est inaugurée lors du deuxième couronnement du roi Philippe Ier.",
+     "statut": "etabli",
+     "sources": [
+      "S14"
+     ]
+    },
+    {
+     "texte": "Le 25 avril 1112, lors de l’insurrection communale, la cathédrale romane est incendiée.",
+     "statut": "etabli",
+     "sources": [
+      "S15"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S16"
+   ],
+   "lat": 49.5643,
+   "lon": 3.625,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Laon"
+  },
+  {
+   "nom": "Commanderie de Laon",
+   "histoire": "La commanderie de Laon, chapelle des Templiers dédiée à Saint-Jean-Baptiste, date du XIIe siècle et se présente comme un rare exemple conservé en France d’architecture templière à plan centré octogonal.",
+   "anecdotes": [
+    {
+     "texte": "En 1139, une bulle papale accorde aux Templiers le droit de bâtir leurs propres oratoires et d’y enterrer leurs frères.",
+     "statut": "etabli",
+     "sources": [
+      "S18"
+     ]
+    },
+    {
+     "texte": "Le 2 janvier 1141, Louis VII confirme la donation faite aux Templiers et les affranchit du cens royal.",
+     "statut": "etabli",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S19",
+    "S21"
+   ],
+   "lat": 49.563056,
+   "lon": 3.627222,
+   "url": "https://fr.wikipedia.org/wiki/Commanderie_de_Laon"
+  },
+  {
+   "nom": "Abbaye Saint-Vincent de Laon",
+   "histoire": "Abbaye colombanienne fondée vers l’an 580, elle adopte la règle bénédictine en 948 ; certaines parties de l’édifice sont inscrites et l’emprise a aussi accueilli un arsenal lié à la caserne Thérémin-d’Hame avant sa disparition.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 49.55639,
+   "lon": 3.61694,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Vincent_de_Laon"
+  },
+  {
+   "nom": "Église Saint-Pierre-au-Marché de Laon",
+   "histoire": "L’ancienne église Saint-Pierre-au-Marché de Laon date des XIIe et XIIIe siècles ; de l’édifice d’origine subsiste surtout le mur sud de la nef avec une série de modillons.",
+   "anecdotes": [
+    {
+     "texte": "L’église aurait été fondée par Clotilde en 545, puis rebâtie au début du XIIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S28"
+     ]
+    },
+    {
+     "texte": "En 1595, l’église se situait dans le quartier st-Georges, la plus ancienne partie de la ville, remaniée notamment lors de l’édification de la citadelle.",
+     "statut": "etabli",
+     "sources": [
+      "S29"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S31"
+   ],
+   "lat": 49.564025,
+   "lon": 3.627736,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-au-March%C3%A9_de_Laon"
+  },
+  {
+   "nom": "Abbaye Saint-Martin de Laon",
+   "histoire": "L’église abbatiale Saint-Martin de Laon actuelle est construite au XIIe siècle en dehors des murs de la cité.",
+   "anecdotes": [
+    {
+     "texte": "Nobert de Xanten, avec quelques compagnons, fonde l’ordre des prémontrés en 1121.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S34",
+    "S35",
+    "S36"
+   ],
+   "lat": 49.56284,
+   "lon": 3.611712,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Martin_de_Laon"
+  },
+  {
+   "nom": "Citadelle de Laon",
+   "histoire": "Citadelle de structure actuelle datant du XVIe siècle, la citadelle a servi de point de contrôle ; aujourd’hui, elle sert de cité administrative et des souterrains se visitent.",
+   "anecdotes": [
+    {
+     "texte": "En 1614, alors que les habitants demandent la démolition, la citadelle est renforcée par une tourelle en l’angle sud-est en 1621.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    },
+    {
+     "texte": "Au XVIIIe siècle, la citadelle est lentement démilitarisée et plusieurs maisons s’y érigent.",
+     "statut": "etabli",
+     "sources": [
+      "S40"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’ancienne poudrière et les souterrains se visitent.",
+   "sources": [
+    "S41",
+    "S37"
+   ],
+   "lat": 49.564757,
+   "lon": 3.629699,
+   "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Laon"
+  },
+  {
+   "nom": "Hôtel-Dieu de Laon",
+   "histoire": "L’hôtel-Dieu de Laon sert aujourd’hui de Maison des Arts et Loisirs ; un nouvel hôtel-Dieu est construit au XIIIe siècle face au parvis de la cathédrale, puis des bâtiments anciens subsistent partiellement à l’époque moderne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il sert actuellement de Maison des Arts et Loisirs.",
+   "sources": [
+    "S42",
+    "S43",
+    "S46"
+   ],
+   "lat": 49.564937,
+   "lon": 3.624832,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Laon"
+  },
+  {
+   "nom": "Palais épiscopal de Laon",
+   "histoire": "Siège du tribunal de Laon et préfecture de l’Aisne, le palais épiscopal regroupe des bâtiments dont des éléments sont attestés au début du XIIIe siècle et classés au titre des monuments historiques au XIXe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La grande salle construite vers 1240-1245 se trouve côté nord, donnant sur le rempart.",
+     "statut": "etabli",
+     "sources": [
+      "S49"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "L’immeuble sert de tribunal pour la commune de Laon.",
+   "sources": [
+    "S47",
+    "S50",
+    "S51"
+   ],
+   "lat": 49.564677,
+   "lon": 3.626,
+   "url": "https://fr.wikipedia.org/wiki/Palais_%C3%A9piscopal_de_Laon"
+  }
+ ],
+ "sources": [
+  "Laon [lɑ̃] est une commune française, préfecture du département de l'Aisne, située dans la région culturelle et historique de Picardie, administrative Hauts-de-France. Ses habitants sont appelés les Laonnois [lanwa]. La commune de Laon donne son nom au pays traditionnel du Laonnois, qui est une région historique de Picardie dont elle est la ville principale. Sous l'Ancien Régime, Laon fut le centre d'un évéché dont […]",
+  "La topographie de la ville en fait un site défensif exceptionnel qui, toutefois, crée également un hiatus entre le centre urbain — siège des pouvoirs — et ses faubourgs. La ville haute a probablement connu une petite occupation néolithique vers 3000 av. J.-C.. En revanche, aucune trace de site des âges du bronze et du fer n'a été découverte jusqu'à maintenant. L'occupation permanente de la ville haute ne débute que […]",
+  "648 : L'abbaye Saint-Jean, un monastère double, est fondé hors les murs par Sainte Salaberge, mère de Saint Baudouin de Laon, en 648, ou 641 selon l'historien Dominique Barthélemy et dédié à Saint Jean-Baptiste.",
+  "IXe siècle : La cité renferme la cathédrale, reconstruite dans le premier tiers du IXe siècle, la résidence de l'évêque et le cloître des chanoines au nord, et, au sud, le palais royal, et à côté une grande tour construite par Louis d'Outremer, laquelle servit de prison au jeune duc de Normandie, Richard Ier.",
+  "Xe siècle : Le faubourg d'Ardon semble assez tardif et encore quasi inexistant au Xe siècle (le faubourg de La Neuville n'est fondé qu'à la fin du XIIe siècle).",
+  "XIIe siècle : Au XIIe siècle, la ville connaît un essor économique important qui se traduit par une intense activité d'édification et reconstruction.",
+  "1358 : En 1358, l'évêque de Laon, Robert Le Coq, conspire avec quelques habitants pour livrer la ville aux Navarrais, la conspiration est découverte et les complices de Robert Le Coq, qui s'est enfui, sont décapités.",
+  "1595 : Une citadelle est construite de 1595 à 1598 par l'architecte Jean Errard.",
+  "1890 : Les Allemands fusillèrent un certain nombre de Français dont trois instituteurs Aisnois, dont Jules Debordeaux, pour qui un monument fut érigé à Laon devant l'école normale en 1890.",
+  "1914 : Le 25 juin 1914, une société savante est fondée à Laon : la Société historique de Haute-Picardie.",
+  "1917 : Il fut détruit par les allemands en 1917 puis recréé et inauguré à nouveau en 1929.",
+  "Lieu « Cathédrale Notre-Dame de Laon » : La cathédrale Notre-Dame de Laon est un édifice religieux catholique, autrefois siège de l'évêché de l'ancien diocèse de Laon.",
+  "Lieu « Cathédrale Notre-Dame de Laon », 1052 : Une nouvelle cathédrale est reconstruite sous l'égide d'Élinand, promu évêque de Laon le 14 juin 1052.",
+  "Lieu « Cathédrale Notre-Dame de Laon », 1071 : Le 25 décembre 1071, le nouvel édifice est inauguré lors du deuxième couronnement du roi Philippe Ier.",
+  "Lieu « Cathédrale Notre-Dame de Laon », 1112 : Cette cathédrale romane est incendiée lors de l'insurrection communale survenue le jeudi 25 avril après Pâques de l'année 1112.",
+  "Lieu « Cathédrale Notre-Dame de Laon », aujourd'hui : Cette ancienne cathédrale est aujourd'hui une église paroissiale située à Laon, dans le département français de l'Aisne.",
+  "Lieu « Commanderie de Laon » : La commanderie de Laon ou chapelle des Templiers, consacrée à Saint-Jean-Baptiste, date du XIIe siècle.",
+  "Lieu « Commanderie de Laon », 1139 : En 1139, la bulle papale Omne datum optimum accorde aux Templiers le droit de bâtir leurs propres oratoires et d'y enterrer leurs frères.",
+  "Lieu « Commanderie de Laon », 1140 : Édifiée vers 1140, la chapelle est un rare exemple conservé en France d'architecture templière à plan centré octogonal.",
+  "Lieu « Commanderie de Laon », 1141 : Le 2 janvier 1141, le roi Louis VII confirme la donation de la maison occupée par les Templiers, les affranchissant du cens royal, privilège confirmé par deux autres chartes royales avant 1149.",
+  "Lieu « Commanderie de Laon », aujourd'hui : Ancienne commanderie templière devenue hospitalière après 1312, elle est aujourd'hui propriété de la commune et fait partie du complexe du Musée d'art et d'archéologie de Laon.",
+  "Lieu « Abbaye Saint-Vincent de Laon » : L'abbaye Saint-Vincent de Laon est une abbaye colombanienne de moines, située à Laon dans le département français de l'Aisne en région Hauts-de-France Fondée vers l'an 580, elle a adopté la règle bénédictine en 948.",
+  "Lieu « Abbaye Saint-Vincent de Laon », 580 : L'abbaye Saint-Vincent de Laon est une abbaye colombanienne de moines, située à Laon dans le département français de l'Aisne en région Hauts-de-France Fondée vers l'an 580, elle a adopté la règle bénédictine en 948.",
+  "Lieu « Abbaye Saint-Vincent de Laon », 1927 : Les autres parties de l'édifice comprenant : l'enceinte fortifiée, les vestiges de l'ancienne église, les celliers et les caves ont été inscrites par arrêté du 2 mai 1927.",
+  "Lieu « Abbaye Saint-Vincent de Laon », 1990 : L'emprise a été occupée par un arsenal dépendant de la caserne Thérémin-d'Hame et sa disparition accomplie dans le cadre de la professionnalisation de l'armée [1] à la fin des années 1990.",
+  "Lieu « Abbaye Saint-Vincent de Laon », aujourd'hui : Le logis abbatial en 1926, les vestiges de l'enceinte, de l'église, des celliers et des caves en 1927 et enfin le grand étang, la poudrière et les sols en 1999 ont été les différentes étapes de l'inscription de l'abbaye au titre des monuments historiques.",
+  "Lieu « Église Saint-Pierre-au-Marché de Laon » : L'ancienne église Saint-Pierre-au-Marché de Laon, dans le département français de l'Aisne, date des XIIe – XIIIe siècles.",
+  "Lieu « Église Saint-Pierre-au-Marché de Laon », 545 : L'église aurait été fondée par Clotilde en 545 puis rebâtie au début du XIIe siècle, elle possédait un cloitre attenant à la face sud qui possédait quatre portes.",
+  "Lieu « Église Saint-Pierre-au-Marché de Laon », 1595 : Elle se situait dans le quartier st-Georges, la plus ancienne partie de la ville, qui a été profondément remanié en particulier lors de l'édification de la citadelle en 1595.",
+  "Lieu « Église Saint-Pierre-au-Marché de Laon », 1791 : Elle fut vendue comme bien national en 1791 et perdait son abside.",
+  "Lieu « Église Saint-Pierre-au-Marché de Laon », aujourd'hui : De l'édifice d'origine il subsiste surtout le mur sud de la nef avec une série de modillons.",
+  "Lieu « Abbaye Saint-Martin de Laon » : L'église abbatiale Saint-Martin de Laon actuelle a été construite au XIIe siècle en dehors des murs de la cité.",
+  "Lieu « Abbaye Saint-Martin de Laon », 1121 : Devant l'échec de cette opération, Nobert de Xanten avec quelques compagnons a fondé l'ordre des prémontrés en 1121.",
+  "Lieu « Abbaye Saint-Martin de Laon », 1135 : La construction de l'église par les prémontrés commence par la nef à deux niveaux et les bas-côté, bâtis entre 1135 et 1150, couverts par une charpente apparente, et se terminant sur un transept bas.",
+  "Lieu « Abbaye Saint-Martin de Laon », XIIe siècle : L'église abbatiale Saint-Martin de Laon actuelle a été construite au XIIe siècle en dehors des murs de la cité.",
+  "Lieu « Abbaye Saint-Martin de Laon », aujourd'hui : L'évêque a expulsé les chanoines et les a remplacé par douze chanoines réguliers de l'abbaye de Prémontré en 1124.",
+  "Lieu « Citadelle de Laon » : La citadelle de Laon est une citadelle de Laon, dont la structure actuelle date du XVIe siècle.",
+  "Lieu « Citadelle de Laon », 1595 : La porte de la citadelle fut bâtie en 1595, elle donnait d'un côté sur la ville et de l'autre permettait l'entrée en la citadelle.",
+  "Lieu « Citadelle de Laon », 1614 : Alors que les habitants de la ville en demandaient la démolition en 1614, la citadelle fut renforcée par une tourelle en l'angle sud-est en 1621.",
+  "Lieu « Citadelle de Laon », XVIIIe siècle : La citadelle fut lentement démilitarisée, au XVIIIe siècle de nombreuses maisons s'y étaient érigé.",
+  "Lieu « Citadelle de Laon », aujourd'hui : Elle sert actuellement de cité administrative, l'ancienne poudrière et les souterrains se visitent.",
+  "Lieu « Hôtel-Dieu de Laon » : L'hôtel-Dieu de Laon était un Hôtel-Dieu situé à Laon, en France qui sert actuellement Maison des Arts et Loisirs.",
+  "Lieu « Hôtel-Dieu de Laon », XIIIe siècle : Un nouvel Hôtel-Dieu, inscrit à l'inventaire général du patrimoine culturel, est construit au XIIIe siècle à l'opposé du parvis de la Cathédrale.",
+  "Lieu « Hôtel-Dieu de Laon », 1677 : Des bâtiments anciens, seules demeurent la porte sur la place Aubry (1677) et l'aile abritant le couvent des sœurs et des frères (1670, 1677) à l'ouest des constructions modernes.",
+  "Lieu « Hôtel-Dieu de Laon », 1729 : Elle reçoit en 1729 un autel sculpté par Etienne Robillon, sculpteur à Mézières ; après le transfert de l'hôtel-Dieu dans l'ancienne abbaye Saint-Martin, les bâtiments sont partiellement occupés par une école communale (1813-1880) , partiellement affectés à l'armée.",
+  "Lieu « Hôtel-Dieu de Laon », aujourd'hui : L'hôtel-Dieu de Laon était un Hôtel-Dieu situé à Laon, en France qui sert actuellement Maison des Arts et Loisirs.",
+  "Lieu « Palais épiscopal de Laon » : Le palais épiscopal de Laon, ou palais de justice de Laon, est le siège du tribunal de la commune de Laon, préfecture de l'Aisne.",
+  "Lieu « Palais épiscopal de Laon », VIe siècle : L'évêché a été fondé au début du VIe siècle, bien que Laon ne soit pas une civitas à l'époque gallo-romaine.",
+  "Lieu « Palais épiscopal de Laon », 1240 : La grande salle perpendiculaire à l'aile est, côté nord, donnant sur le rempart, est construite vers 1240-1245 par l'évêque Garnier.",
+  "Lieu « Palais épiscopal de Laon », 1875 : Le bâtiment de l'évêché et la chapelle ont été classés au titre des monuments historiques en 1875.",
+  "Lieu « Palais épiscopal de Laon », aujourd'hui : Au XVe siècle, l'aile nord est prolongée vers l'ouest ; les fenêtres Renaissance sont toujours visibles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 10
+ }
+}
