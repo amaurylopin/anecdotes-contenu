@@ -1,0 +1,261 @@
+{
+ "commune": {
+  "titre": "Péronne (Somme)",
+  "code_insee": "80620",
+  "departement": "80",
+  "population": 7090,
+  "lat": 49.93305556,
+  "lon": 2.93722222,
+  "url": "https://fr.wikipedia.org/wiki/P%C3%A9ronne_%28Somme%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:34:10",
+ "lieux_ecartes_autre_commune": 3,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3604,
+  "sortie": 1682
+ },
+ "cout_usd": 0.002823,
+ "accroche": "Le 9 janvier 1871, Péronne capitule : plus de 600 immeubles sont détruits ou endommagés.",
+ "histoire": {
+  "recit": "Péronne, sous-préfecture de la Somme et siège de la communauté de communes de la Haute Somme, s’est construite sur une position surplombante, presque ceinturée par le fleuve Somme. Le village est plusieurs fois frappé : incendié et pillé lors des incursions des Vikings, gravement atteint lors du siège des Espagnols, puis dévasté au fil des conflits.\n\nLes traités de Péronne rappellent aussi son rôle politique : en 1200, Philippe Auguste et Baudoin IX signent un accord ; en 1641, un traité entre le roi de France et des institutions catalanes reconnaît Louis XIII comme comte de Catalogne.\n\nAu tournant des guerres modernes, la ville subit des bombardements, notamment en mai 1940. Elle est libérée le 1er septembre 1944. Longtemps après les destructions, de nouveaux repères s’installent : l’Historial de la Grande Guerre ouvre à l’été 1992, et l’on continue d’y présenter l’histoire des combats autour du mont Saint-Quentin.",
+  "chronologie": [
+   {
+    "date": "1200",
+    "texte": "Le traité de Péronne est signé entre Philippe Auguste et Baudoin IX, qui se reconnaît vassal du roi de France.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "19 septembre 1641",
+    "texte": "Le traité de Péronne reconnaît Louis XIII comme comte de Catalogne, avec l’engagement de respecter les libertés catalanes.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "9 janvier 1871",
+    "texte": "Après un bombardement incessant, Péronne capitule : plus de 600 immeubles sont détruits ou endommagés.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1873",
+    "texte": "Le chemin de fer arrive à Péronne avec la création de la gare de Péronne - Flamicourt, qui ferme en 1970.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "24 août 1919",
+    "texte": "La ville, considérée comme détruite à la fin de la guerre, est décorée de la croix de guerre 1914-1918.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "17 mai 1940",
+    "texte": "Lors de la Bataille de France, Péronne est bombardée par l’aviation allemande.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1er septembre 1944",
+    "texte": "Péronne est libérée par l’armée américaine.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "été 1992",
+    "texte": "Ouverture de l’Historial de la Grande Guerre.",
+    "sources": [
+     "S11"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Mont Saint-Quentin (Somme)",
+   "histoire": "Le mont Saint-Quentin surplombe le fleuve côtier Somme, à environ 1,5 km au nord du centre-ville de Péronne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Son emplacement en fait un point d’observation idéal et stratégiquement, les défenses de la colline gardant les approches nord et ouest de la ville de Péronne.",
+   "sources": [
+    "S12",
+    "S16"
+   ],
+   "lat": 49.9472,
+   "lon": 2.9325,
+   "url": "https://fr.wikipedia.org/wiki/Mont_Saint-Quentin_%28Somme%29"
+  },
+  {
+   "nom": "Collégiale Saint-Fursy de Péronne",
+   "histoire": "La collégiale Saint-Fursy est une église disparue située à Péronne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La collégiale Saint-Fursy est une église aujourd’hui disparue qui était située à Péronne.",
+   "sources": [
+    "S17",
+    "S21"
+   ],
+   "lat": 49.92932,
+   "lon": 2.935,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Fursy_de_P%C3%A9ronne"
+  },
+  {
+   "nom": "Abbaye du Mont-Saint-Quentin",
+   "histoire": "Ancienne abbaye bénédictine fondée au VIIe siècle et établie sur une hauteur dominant Mont Saint-Quentin, aujourd’hui commune de Péronne.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne reste plus aucun vestige architectural visible de l’abbaye.",
+   "sources": [
+    "S22",
+    "S23",
+    "S26"
+   ],
+   "lat": 49.947105,
+   "lon": 2.934762,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_du_Mont-Saint-Quentin"
+  },
+  {
+   "nom": "Église Saint-Jean-Baptiste de Péronne",
+   "histoire": "Église consacrée en 1525, construite en pierre calcaire à l’emplacement d’une chapelle déjà mentionnée en 1101.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des six églises que comptait la ville avant 1789, c’est la seule qui subsiste.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S31"
+   ],
+   "lat": 49.92932,
+   "lon": 2.935,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-Baptiste_de_P%C3%A9ronne"
+  },
+  {
+   "nom": "Monument aux morts australien du mont Saint-Quentin",
+   "histoire": "Mémorial australien sur le mont Saint-Quentin, lié à l’entrée des troupes australiennes en septembre 1918 et à la libération de la ville occupée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S36"
+   ],
+   "lat": 49.9361833,
+   "lon": 2.9343167,
+   "url": "https://fr.wikipedia.org/wiki/Monument_aux_morts_australien_du_mont_Saint-Quentin"
+  },
+  {
+   "nom": "Historial de la Grande Guerre",
+   "histoire": "Musée situé à Péronne. Le site a été complété par un second musée à Thiepval en 2016, et présente aussi des contenus d’archives photographiques.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Plus de 2 700 photographies issues des collections de l’Historial sont visibles sur le site des archives départementales de la Somme.",
+   "sources": [
+    "S37",
+    "S41",
+    "S40"
+   ],
+   "lat": 49.9291667,
+   "lon": 2.93083333,
+   "url": "https://fr.wikipedia.org/wiki/Historial_de_la_Grande_Guerre"
+  },
+  {
+   "nom": "Hôtel de ville de Péronne",
+   "histoire": "Bâtiment des XVIe et XVIIIe siècles, dont le premier hôtel de ville connu date de 1293, avec un édifice endommagé lors du siège de 1536.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S42",
+    "S43",
+    "S44",
+    "S45"
+   ],
+   "lat": 49.9330555556,
+   "lon": 2.93722222222,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_P%C3%A9ronne"
+  },
+  {
+   "nom": "Musée Alfred-Danicourt",
+   "histoire": "Musée municipal labellisé Musée de France, rassemblant des collections archéologiques et des œuvres d’art. Il subit de lourdes pertes en mars 1917 et retrouve progressivement ses collections.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le musée y est réinstallé en juillet 1955 et s’y trouve toujours aujourd’hui.",
+   "sources": [
+    "S46",
+    "S47",
+    "S48",
+    "S49"
+   ],
+   "lat": 49.9291667,
+   "lon": 2.93083333,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Alfred-Danicourt"
+  }
+ ],
+ "sources": [
+  "Péronne est une commune française du département de la Somme, en région Hauts-de-France. Sous-préfecture au nord-est du département, elle est aussi le siège de la communauté de communes de la Haute Somme.",
+  "Incendiée, pillée lors des incursions des Vikings, gravement endommagée lors du siège des Espagnols, dévastée par les Allemands en 1870, totalement détruite en 1917 durant la Première Guerre mondiale, bombardée et incendiée en mai 1940 par l'aviation allemande durant la Seconde Guerre mondiale, Péronne porte en son blason deux Croix de guerre. Située sur une colline, presque totalement entourée par le fleuve Somme […]",
+  "1200 : Le traité de Péronne de 1200 est signé entre Philippe Auguste et Baudoin IX, comte de Flandre et de Hainaut, qui se reconnaît vassal du roi de France.",
+  "1641 : Le traité de Péronne du 19 septembre 1641, signé entre le roi de France et les institutions catalanes reconnaît Louis XIII, qui s'engage à respecter les libertés catalanes, comme comte de Catalogne.",
+  "1870 : Incendiée, pillée lors des incursions des Vikings, gravement endommagée lors du siège des Espagnols, dévastée par les Allemands en 1870, totalement détruite en 1917 durant la Première Guerre mondiale, bombardée et incendiée en mai 1940 par l'aviation allemande durant la Seconde Guerre mondiale, Péronne porte en son blason deux Croix de guerre.",
+  "1871 : La ville, ayant subi un bombardement incessant, capitule le 9 janvier 1871 : plus de 600 immeubles sont détruits ou endommagés.",
+  "1873 : 1873 est l'année d'arrivée du chemin de fer à Péronne (ligne de Saint-Just-en-Chaussée à Douai, perrmettant les liaisons avec Paris), avec la création de la gare de Péronne - Flamicourt, qui a fermé en 1970.",
+  "1914 : La ville est considérée comme détruite à la fin de la guerre et a été décoré de la croix de guerre 1914-1918, le 24 août 1919.",
+  "1940 : Seconde Guerre mondiale Le 17 mai 1940, lors de la Bataille de France, la ville est bombardée par l'aviation allemande.",
+  "1944 : Elle est libérée le 1er septembre 1944 par l'armée américaine.",
+  "1992 : L'été 1992, a lieu l'ouverture de l'Historial de la Grande Guerre.",
+  "Lieu « Mont Saint-Quentin (Somme) » : Le mont Saint-Quentin, dans le département de la Somme en Picardie, surplombe le fleuve côtier Somme du Nord de la France, à environ 1,5 km au nord du centre-ville de Péronne.",
+  "Lieu « Mont Saint-Quentin (Somme) », 660 : L'abbaye du Mont-Saint-Quentin fut fondée par Clovis II et grâce aux libéralités du maire du palais Archambaud, en 660.",
+  "Lieu « Mont Saint-Quentin (Somme) », 1925 : Il est inauguré le 30 août 1925 par le maréchal Foch.",
+  "Lieu « Mont Saint-Quentin (Somme) », 1971 : Une statue de Stanley Hammond représentant un soldat australien pensif regardant vers le bas est érigée en lieu et place en 1971.",
+  "Lieu « Mont Saint-Quentin (Somme) », aujourd'hui : Son emplacement en fait un point d'observation idéal et stratégiquement, les défenses de la colline gardaient les approches nord et ouest de la ville de Péronne.",
+  "Lieu « Collégiale Saint-Fursy de Péronne » : La collégiale Saint-Fursy est une église aujourd'hui disparue qui était située à Péronne, dans le département de la Somme.",
+  "Lieu « Collégiale Saint-Fursy de Péronne », 1130 : Les documents mentionnent un incendie en 1130; les chanoines avaient les moyens de reconstruire un édifice grandiose.",
+  "Lieu « Collégiale Saint-Fursy de Péronne », 1573 : Quelques décennies plus tard, en 1573, un incendie ravage les archives de la collégiale.",
+  "Lieu « Collégiale Saint-Fursy de Péronne », 1794 : Elle avait été fondée au milieu du VIIe siècle, fut déclarée bien national à la Révolution française et démolie en 1794.",
+  "Lieu « Collégiale Saint-Fursy de Péronne », aujourd'hui : La collégiale Saint-Fursy est une église aujourd'hui disparue qui était située à Péronne, dans le département de la Somme.",
+  "Lieu « Abbaye du Mont-Saint-Quentin » : L'abbaye du Mont-Saint-Quentin est une ancienne abbaye bénédictine, fondée au VIIe siècle, située sur une hauteur dominant Mont Saint-Quentin (maintenant commune de Péronne).",
+  "Lieu « Abbaye du Mont-Saint-Quentin », VIIe siècle : L'abbaye du Mont-Saint-Quentin est une ancienne abbaye bénédictine, fondée au VIIe siècle, située sur une hauteur dominant Mont Saint-Quentin (maintenant commune de Péronne).",
+  "Lieu « Abbaye du Mont-Saint-Quentin », 660 : L'abbaye fut fondée en 660 sur le Mons Cynorum, le mont des Cygnes, par Clovis II, roi des Francs, enrichie par Erchinoald, maire du palais, et bénite par saint Éloi, évêque de Noyon.",
+  "Lieu « Abbaye du Mont-Saint-Quentin », XIe siècle : Ces oratoires furent détruits au XIe siècle pour laisser place au dortoir des moines avec le consentement d'Adélaïde, châtelaine de Péronne.",
+  "Lieu « Abbaye du Mont-Saint-Quentin », aujourd'hui : Il ne reste plus aucun vestige architectural visible de l'abbaye.",
+  "Lieu « Église Saint-Jean-Baptiste de Péronne » : L'église Saint-Jean-Baptiste est un édifice religieux, situé à Péronne, dans le département français de la Somme, consacré en 1525.",
+  "Lieu « Église Saint-Jean-Baptiste de Péronne », 1101 : Érigée à l'emplacement d'une petite chapelle qui existait déjà en 1101, l'église Saint-Jean-Baptiste de Péronne, a été construite en pierre calcaire de 1509 à 1525 ; le clocher fut édifié en 1540.",
+  "Lieu « Église Saint-Jean-Baptiste de Péronne », 1525 : L'église Saint-Jean-Baptiste est un édifice religieux, situé à Péronne, dans le département français de la Somme, consacré en 1525.",
+  "Lieu « Église Saint-Jean-Baptiste de Péronne », 1632 : En 1632, fut fondée une confrérie du Mont-Carmel qui avait son siège dans l'église.",
+  "Lieu « Église Saint-Jean-Baptiste de Péronne », aujourd'hui : Des six églises que comptait la ville avant 1789, c'est la seule qui subsiste.",
+  "Lieu « Monument aux morts australien du mont Saint-Quentin » : Le monument aux morts australien du mont Saint-Quentin ou plus exactement Monument à la 2e Division australienne, situé sur le mont Saint-Quentin sur la route de Bapaume à Péronne (Somme) dans la région Hauts-de-France, est un mémorial australien de",
+  "Lieu « Monument aux morts australien du mont Saint-Quentin », 1918 : Début septembre 1918, les troupes australiennes de la 2e Division, sous le commandement du Général Sir John Monash, ont enfin pu entrer dans Péronne par le Mont Saint-Quentin et libérer la ville occupée par les Allemands.",
+  "Lieu « Monument aux morts australien du mont Saint-Quentin », 1971 : Pour la remplacer, a été érigée en 1971, la statue d'un digger, œuvre de Stanley Hammond, sculpteur australien.",
+  "Lieu « Monument aux morts australien du mont Saint-Quentin », 1971 : Une nouvelle statue représentant un soldat australien en armes, debout, regardant vers le sol, pensif, a été érigée en 1971.",
+  "Lieu « Monument aux morts australien du mont Saint-Quentin », aujourd'hui : Ces travaux vont permettre de mieux cerner le déroulement de la bataille et d'interpréter ce site qui fut occupé par l’armée allemande pendant une grande partie de la guerre.",
+  "Lieu « Historial de la Grande Guerre » : L'Historial de la Grande Guerre est situé à Péronne, dans le département de la Somme.",
+  "Lieu « Historial de la Grande Guerre », 1932 : En 1932, le mémorial de Thiepval est inauguré pour commémorer la disparition de plus de 73 000 soldats du Commonwealth sans sépultures.",
+  "Lieu « Historial de la Grande Guerre », 1987 : C’est à l’architecte Henri-Édouard Ciriani, lauréat du concours d'architecture lancé en 1987, qu’a été confié la tâche de la conception et de la réalisation du bâtiment.",
+  "Lieu « Historial de la Grande Guerre », 2016 : Le 1er juin 2016, l'Historial de la Grande Guerre a ouvert son second musée, situé à Thiepval, au pied du mémorial de Thiepval.",
+  "Lieu « Historial de la Grande Guerre », aujourd'hui : Plus de 2 700 photographies issues des collections de l'Historial sont visibles sur le site des archives départementales de la Somme.",
+  "Lieu « Hôtel de ville de Péronne » : L'hôtel de ville de Péronne est un bâtiment des XVIe et XVIIIe siècles situé dans le centre-ville de Péronne, dans le département de la Somme.",
+  "Lieu « Hôtel de ville de Péronne », 1293 : Le premier hôtel de ville connu date de 1293 lorsque les échevins achetèrent un bâtiment surmonté d'un beffroi.",
+  "Lieu « Hôtel de ville de Péronne », 1536 : Malheureusement à peine reconstruit, l'édifice fut très endommagé au cours du siège de 1536.",
+  "Lieu « Hôtel de ville de Péronne », XVIIIe siècle : L'hôtel de ville de Péronne est un bâtiment des XVIe et XVIIIe siècles situé dans le centre-ville de Péronne, dans le département de la Somme.",
+  "Lieu « Musée Alfred-Danicourt » : Le Musée Alfred-Danicourt est un musée municipal labellisé Musée de France situé à Péronne, dans le département de la Somme, qui rassemble des collections archéologiques pour l’essentiel, et des œuvres d’art venant d'achats mais aussi de dons et legs",
+  "Lieu « Musée Alfred-Danicourt », 1917 : Lorsque les Allemands se replient en mars 1917 sur la Ligne Hindenburg, le musée a perdu 95 % de ses collections et le bâtiment est en ruines.",
+  "Lieu « Musée Alfred-Danicourt », 1927 : Mais l'installation du musée n'est pas prévue dans le hôtel de ville reconstruit en 1927 ; les collections sont dispersées.",
+  "Lieu « Musée Alfred-Danicourt », 1940 : Frappée par les bombardements en mai 1940, l'aile droite de la mairie est reconstruite après la guerre et finalement on y réinstalle le musée municipal en juillet 1955, où il se trouve toujours aujourd'hui."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 0
+ }
+}
