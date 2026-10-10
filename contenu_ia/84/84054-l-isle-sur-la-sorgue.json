@@ -1,0 +1,222 @@
+{
+ "commune": {
+  "titre": "L'Isle-sur-la-Sorgue",
+  "code_insee": "84054",
+  "departement": "84",
+  "population": 20244,
+  "lat": 43.919886,
+  "lon": 5.054856,
+  "url": "https://fr.wikipedia.org/wiki/L%27Isle-sur-la-Sorgue"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:10:46",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2895,
+  "sortie": 1934
+ },
+ "cout_usd": 0.002997,
+ "accroche": "Le 23 juillet 1793, la ville est reprise par la légion des Allobroges de Doppet : le bourg est pillé et incendié, sans massacre, les fédéralistes ayant fui.",
+ "histoire": {
+  "recit": "L’Isle-sur-la-Sorgue, surnommée la Venise provençale, s’est construite sur des droits religieux et des moments de bascule. Les vestiges gallo-romains de Velorgues évoquent un castrum sous l’occupation romaine. Aux XIIe et XIIIe siècles, l’abbaye Saint-André de Villeneuve-lès-Avignon y tient le prieuré Saint-Gervais. Plus tard, la cité passe par les pouvoirs des comtes de Provence, puis des comtes de Toulouse, avant d’appartenir au Comtat Venaissin du Saint-Siège en 1274.\n\nEn temps de guerre, la ville connaît des violences et des ruptures : le 23 juillet 1793, reprise par les troupes de Doppet, elle est pillée et incendiée, sans massacre. Le 24 août 1944, les troupes allemandes quittent définitivement la ville et se replient vers la vallée du Rhône.\n\nAutour du centre, des lieux marquent encore le paysage : la collégiale Notre-Dame-des-Anges, la gare de L’Isle - Fontaine-de-Vaucluse et, sur les quais et les rives, des hôtels particuliers et des maisons de maître où l’on a appris à vivre avec l’eau.",
+  "chronologie": [
+   {
+    "date": "1274",
+    "texte": "La cité devient fief du Comtat Venaissin du Saint-Siège.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "23 juillet 1793",
+    "texte": "Reprise par la légion des Allobroges du commandant Doppet : bourg pillé et incendié, aucun massacre.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "24 août 1944",
+    "texte": "Abandon définitif par les troupes allemandes qui se replient vers la vallée du Rhône.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue",
+   "histoire": "L’église romane précédant l’édifice actuel est connue pour avoir été érigée en collégiale le 12 mai 1222 par l’évêque de Cavaillon. Des travaux sont envisagés au XVe siècle pour agrandir l’ensemble, mais en 1547 les consuls constatent que l’édifice menace ruine et font établir des projets. L’adjudication est reprise en 1647 ; les travaux avancent au moins jusqu’en 1668, lorsque l’édifice est achevé, tout en restant couvert d’une voûte de bois.",
+   "anecdotes": [
+    {
+     "texte": "Derrière l’autel de la 2e chapelle du crucifix, un tableau de saint Jean-Baptiste a disparu et a été remplacé par un grand crucifix venu du couvent des Dames de Sainte Élisabeth, détruit à la Révolution.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9"
+   ],
+   "lat": 43.91972,
+   "lon": 5.05167,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame-des-Anges_de_L%27Isle-sur-la-Sorgue"
+  },
+  {
+   "nom": "Gare de L'Isle - Fontaine-de-Vaucluse",
+   "histoire": "Située sur le territoire de L’Isle-sur-la-Sorgue, la gare dépend des lignes d’Avignon à Miramas et d’Orange à L’Isle-Fontaine-de-Vaucluse. Elle devient gare de bifurcation le 3 novembre 1894 lors de l’ouverture, par le PLM, de la ligne d’Orange à l’Isle - Fontaine-de-Vaucluse. Le service des marchandises ferme le 1er février 2006. En 2017, une passerelle est construite à la suite d’un accident où un homme a été percuté par un train en traversant sur le passage prévu.",
+   "anecdotes": [
+    {
+     "texte": "Après un accident en 2017, une passerelle est construite pour relier la voie 1 à la voie 2.",
+     "statut": "etabli",
+     "sources": [
+      "S13"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S10",
+    "S11",
+    "S12",
+    "S13"
+   ],
+   "lat": 43.917363,
+   "lon": 5.047497,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_L%27Isle_-_Fontaine-de-Vaucluse"
+  },
+  {
+   "nom": "Hôtel Donadei de Campredon",
+   "histoire": "Hôtel particulier à L’Isle-sur-la-Sorgue, le bâtiment est vendu en 1865 par le marquis de Lespine à des sœurs de Saint Charles de Lyon. La municipalité l’acquiert en 1978. Le centre est installé dans les locaux à partir de 1982, puis réinstallé dans le même hôtel du rez-de-chaussée au deuxième étage après rénovation, en 2003.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 43.92089,
+   "lon": 5.05231,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_Donadei_de_Campredon"
+  },
+  {
+   "nom": "Château Dumas",
+   "histoire": "Maison Dumas, hôtel particulier-maison de maître du XIXe siècle, est construit à L’Isle-sur-la-Sorgue par l’industriel Xavier Dumas et son frère Mathieu Honoré Dumas en 1880, sur une parcelle mitoyenne de leur plâtrière, à l’intersection de la Sorgue et d’un de ses canaux. En 1918, la Caisse d’épargne acquiert la demeure comme agence bancaire, puis la plâtrière voisine en 1937 pour la transformer en jardin public de la Caisse d'Epargne, inauguré en 1945.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 43.918378,
+   "lon": 5.053172,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Dumas"
+  },
+  {
+   "nom": "Marché de L'Isle-sur-la-Sorgue",
+   "histoire": "Le marché de L’Isle-sur-la-Sorgue est présenté comme l’un des plus anciens et des plus animés marchés de Provence. Une grande foire de brocante et d’antiquités provençale est fondée en 1966 par le brocanteur et adjoint au maire René Legier, à Pâques et au 15 août. Aujourd’hui, trois marchés se déroulent dans la semaine.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 43.919886,
+   "lon": 5.054856,
+   "url": "https://fr.wikipedia.org/wiki/March%C3%A9_de_L%27Isle-sur-la-Sorgue"
+  },
+  {
+   "nom": "Massacre de L'Isle-sur-la-Sorgue",
+   "histoire": "Le massacre de L’Isle-sur-la-Sorgue désigne la prise d’otage et l’exécution de civils, perpétrées le 22 août 1944 par l’armée allemande en retraite après le débarquement de Provence. Le 24 août 1944, la ville est ensuite définitivement abandonnée par les troupes allemandes, qui se replient vers la vallée du Rhône et la région de Montélimar pour éviter l’encerclement.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 43.919886,
+   "lon": 5.054856,
+   "url": "https://fr.wikipedia.org/wiki/Massacre_de_L%27Isle-sur-la-Sorgue"
+  },
+  {
+   "nom": "Grenier public de L'Isle-sur-la-Sorgue",
+   "histoire": "Le grenier public de L’Isle-sur-la-Sorgue est un bâtiment de la fin du XVIIIe siècle, situé dans la commune de L’Isle-sur-la-Sorgue, dans le Vaucluse.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 43.92004,
+   "lon": 5.05165,
+   "url": "https://fr.wikipedia.org/wiki/Grenier_public_de_L%27Isle-sur-la-Sorgue"
+  },
+  {
+   "nom": "Moulin de Mousquety",
+   "histoire": "Le moulin de Mousquety est un moulin à eau situé à L’Isle-sur-la-Sorgue. En 1970, le site est vendu aux filatures Mailhe qui modernisent le site de 1925.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S28",
+    "S29"
+   ],
+   "lat": 43.905552,
+   "lon": 5.097611,
+   "url": "https://fr.wikipedia.org/wiki/Moulin_de_Mousquety"
+  }
+ ],
+ "sources": [
+  "L'Isle-sur-la-Sorgue [lil syʁ la sɔʁg] est une commune française située dans le département du Vaucluse, dans la région Provence-Alpes-Côte d'Azur en France métropolitaine. Surnommée la Venise provençale, ses habitants sont appelés les l’Islois [lilwa].",
+  "Mention d'un castrum pendant l'occupation romaine (vestiges gallo-romains à Velorgues). Aux XIIe et XIIIe siècles, l'abbaye Saint-André de Villeneuve-lès-Avignon y possédait le prieuré Saint-Gervais, qui relevait auparavant de l'abbaye Saint-Gervais de Fos. Fief des comtes de Provence, puis des comtes de Toulouse, puis enfin du Comtat Venaissin du Saint-Siège (1274). La cité a été fortifiée par les papes et devint […]",
+  "1793 : Lorsque la ville est reprise par la légion des Allobroges du commandant Doppet le 23 juillet 1793, le bourg est pillé et incendié, mais aucun massacre n'est commis, les fédéralistes insurgés ayant fui pendant l'assaut, avec la majorité des habitants.",
+  "1944 : Le 24 août 1944, la ville est définitivement abandonnée par les troupes allemandes qui se replient à toute vitesse vers la vallée du Rhône.",
+  "Lieu « Collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue » : La collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue est une ancienne collégiale située à L'Isle-sur-la-Sorgue dans le département de Vaucluse.",
+  "Lieu « Collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue », 1222 : Nous savons peu de choses de l'édifice roman ayant précédé, qui fut érigé en collégiale le 12 mai 1222 par l'évêque de Cavaillon.",
+  "Lieu « Collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue », 1547 : Au milieu du XVe siècle, on cherche à l'agrandir en reconstruisant le chœur, mais en 1547 les consuls de l'Isle sont bien obligés de constater que l'édifice menace ruine et font établir divers projets.",
+  "Lieu « Collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue », 1647 : Restée infructueuse, l'adjudication est reprise en 1647, les travaux débutent enfin et durent au moins jusqu'en 1668 ; à cette date, l'édifice est achevé, mais reste couvert d'une voûte de bois.",
+  "Lieu « Collégiale Notre-Dame-des-Anges de L'Isle-sur-la-Sorgue », aujourd'hui : 2e chapelle du crucifix, autrefois chapelle de saint Jean-Baptiste : derrière l'autel se trouvait un tableau de saint Jean-Baptiste aujourd'hui disparu et remplacé par un grand crucifix en provenance du couvent des Dames de Sainte Élisabeth, détruit à la Révolution.",
+  "Lieu « Gare de L'Isle - Fontaine-de-Vaucluse » : La gare de L'Isle - Fontaine-de-Vaucluse est une gare ferroviaire française des lignes d'Avignon à Miramas et d'Orange à L'Isle-Fontaine-de-Vaucluse, située sur le territoire de la commune de L'Isle-sur-la-Sorgue, à huit kilomètres par la route de Fo",
+  "Lieu « Gare de L'Isle - Fontaine-de-Vaucluse », 1894 : Elle devient une gare de bifurcation le 3 novembre 1894 lors de l'ouverture à l'exploitation, par le PLM, de la ligne d'Orange à l'Isle - Fontaine-de-Vaucluse.",
+  "Lieu « Gare de L'Isle - Fontaine-de-Vaucluse », 2006 : La gare de L'Isle - Fontaine-de-Vaucluse a été fermée au service des marchandises le 1er février 2006.",
+  "Lieu « Gare de L'Isle - Fontaine-de-Vaucluse », 2017 : Une passerelle permettant de passer de la voie 1 à la voie 2 a été construite en 2017 à la suite d'un accident au cours duquel un homme a été percuté par un train alors qu'il traversait les voies sur le passage prévu.",
+  "Lieu « Hôtel Donadei de Campredon » : L'Hôtel Donadeï de Campredon est un hôtel particulier situé à L'Isle-sur-la-Sorgue, dans le Vaucluse.",
+  "Lieu « Hôtel Donadei de Campredon », 1865 : L'hôtel est vendu en 1865 par le marquis de Lespine, descendant des Campredon, aux sœurs de Saint Charles de Lyon.",
+  "Lieu « Hôtel Donadei de Campredon », 1978 : La municipalité de L'Isle-sur-la-Sorgue acquiert à son tour le bâtiment en 1978.",
+  "Lieu « Hôtel Donadei de Campredon », 1982 : Le centre est installé dans ces locaux, une première fois, en 1982, puis réinstallé dans le même hôtel, du rez-de-chaussée au deuxième étage, en 2003, après rénovation du bâtiment.",
+  "Lieu « Château Dumas » : Le château Dumas ou maison Dumas est un hôtel particulier-maison de maître du XIXe siècle, de L'Isle-sur-la-Sorgue dans le Vaucluse en Provence-Alpes-Côte d'Azur.",
+  "Lieu « Château Dumas », 1880 : L'industriel Xavier Dumas se fait construire en 1880 (avec son frère Mathieu Honoré Dumas) cet hôtel particulier-maison de maître, sur une parcelle mitoyenne de sa plâtrière, à l'intersection de la Sorgue et d'un de ses canaux, par l'architecte provençal André Jean Boudoy (élève de Charles Garnier, également bâtisseur du château Reboul de L'Isle-sur-la-Sorgue en 1879).",
+  "Lieu « Château Dumas », 1918 : La Caisse d'épargne acquiert la demeure en 1918 à titre d'agence de banque, puis la plâtrière voisine en 1937 pour la transformer en « jardin public de la Caisse d'Epargne » sur la Sorgue, inauguré en 1945.",
+  "Lieu « Marché de L'Isle-sur-la-Sorgue » : Le marché de L'Isle-sur-la-Sorgue, dans le département français de Vaucluse en région Provence-Alpes-Côte d'Azur, est l'un des plus anciens et des plus animés marchés de Provence.",
+  "Lieu « Marché de L'Isle-sur-la-Sorgue », 1966 : Cette importante foire de brocante et d’antiquités provençale est fondée en 1966, à Pâques et au 15 août, par le brocanteur et adjoint au maire René Legier.",
+  "Lieu « Marché de L'Isle-sur-la-Sorgue », aujourd'hui : Actuellement se déroulent trois marchés dans la semaine.",
+  "Lieu « Massacre de L'Isle-sur-la-Sorgue » : Le massacre de L'Isle-sur-la-Sorgue désigne la prise d'otage et l'exécution de civils perpétrées le 22 août 1944, dans cette ville du département de Vaucluse, par l'armée allemande en retraite après le débarquement de Provence.",
+  "Lieu « Massacre de L'Isle-sur-la-Sorgue », 1944 : Le 24 août 1944, la ville est définitivement abandonnée par les troupes allemandes qui se replient vers la vallée du Rhône et la région de Montélimar afin d'éviter l'encerclement.",
+  "Lieu « Grenier public de L'Isle-sur-la-Sorgue » : Grenier public de L'Isle-sur-la-Sorgue est un bâtiment de la fin du XVIIIe siècle, situé à L'Isle-sur-la-Sorgue, dans le Vaucluse.",
+  "Lieu « Grenier public de L'Isle-sur-la-Sorgue », XVIIIe siècle : Grenier public de L'Isle-sur-la-Sorgue est un bâtiment de la fin du XVIIIe siècle, situé à L'Isle-sur-la-Sorgue, dans le Vaucluse.",
+  "Lieu « Moulin de Mousquety » : Le moulin de Mousquety est moulin à eau situé à L'Isle-sur-la-Sorgue dans le Vaucluse, en France.",
+  "Lieu « Moulin de Mousquety », 1970 : En 1970, le site est vendu aux filatures Mailhe qui modernisent le site de 1925."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

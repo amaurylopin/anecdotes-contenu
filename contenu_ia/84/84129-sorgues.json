@@ -1,0 +1,214 @@
+{
+ "commune": {
+  "titre": "Sorgues (Vaucluse)",
+  "code_insee": "84129",
+  "departement": "84",
+  "population": 19006,
+  "lat": 44.00916667,
+  "lon": 4.87333333,
+  "url": "https://fr.wikipedia.org/wiki/Sorgues_%28Vaucluse%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:13:36",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2301,
+  "sortie": 1499
+ },
+ "cout_usd": 0.002334,
+ "accroche": "Le 16 septembre 1926, le pont suspendu reliant Sorgues à l’île de l’Oiselay est inauguré.",
+ "histoire": {
+  "recit": "À Sorgues, les Sorguais et les Sorguaises ont grandi sur un territoire occupé très tôt : les fouilles de sauvetage ont retrouvé des traces dès le Néolithique, notamment au Mourre de Sève. Le village se transforme ensuite au rythme des chantiers : au XIe siècle, un pont de pierre remplace un pont de bois vétuste.\n\nQuand la papauté s’installe, le tournant est décisif : en 1317, Jean XXII fait édifier le premier palais pontifical sur les bases de l’ancien castrum. L’Hôtel des monnaies cesse d’y émettre en 1354, puis, bien plus tard, les restes du palais pontifical sont vendus en 1786 ; des entrepreneurs utilisent les pierres comme matériaux de construction. Aujourd’hui, il n’en reste que des vestiges, après un démantèlement au cours de la Révolution française.\n\nSorgues se relie aussi par le rail : la gare de Sorgues - Châteauneuf-du-Pape voit son chantier s’ouvrir fin octobre 1853, le bâtiment est construit en 1854, et une remise pour deux locomotives est installée en 1875. Enfin, le marché du centre-ville reste un rendez-vous du dimanche, et l’île d’Oiselay, rattachée administrativement à Sorgues, a changé de nom au fil du temps.",
+  "chronologie": [
+   {
+    "date": "XIe siècle (seconde moitié)",
+    "texte": "Un pont de pierre remplace un vétuste pont de bois.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1317",
+    "texte": "Jean XXII fait édifier le premier palais pontifical sur les bases de l’ancien castrum.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1354",
+    "texte": "L’Hôtel des monnaies installé dans le palais pontifical cesse d’émettre et est transféré à Avignon.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1786",
+    "texte": "Les restes du palais pontifical, encore en restauration, sont vendus à des entrepreneurs qui réutilisent les pierres comme matériaux de construction.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "16 septembre 1926",
+    "texte": "Inauguration du pont suspendu reliant Sorgues à l’île de l’Oiselay.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "fin octobre 1853",
+    "texte": "Le chantier de la gare s’ouvre ; les murs atteignent déjà deux mètres selon la presse locale.",
+    "sources": [
+     "S16"
+    ]
+   },
+   {
+    "date": "1854",
+    "texte": "La gare est construite.",
+    "sources": [
+     "S17"
+    ]
+   },
+   {
+    "date": "1875",
+    "texte": "Une remise pour deux locomotives est construite à la gare.",
+    "sources": [
+     "S18"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Palais des papes de Sorgues",
+   "histoire": "Première résidence pontificale construite par la papauté d’Avignon au XIVe siècle, le palais de Sorgues a fini réduit à des vestiges après avoir été démantelé.",
+   "anecdotes": [
+    {
+     "texte": "En 1786, alors que le palais était encore en restauration, ses restes sont vendus et ses pierres servent à bâtir ailleurs.",
+     "statut": "etabli",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il n’en reste aujourd’hui que des vestiges.",
+   "sources": [
+    "S10",
+    "S14"
+   ],
+   "lat": 44.01364723952,
+   "lon": 4.8729622364044,
+   "url": "https://fr.wikipedia.org/wiki/Palais_des_papes_de_Sorgues"
+  },
+  {
+   "nom": "Gare de Sorgues - Châteauneuf-du-Pape",
+   "histoire": "Située sur le territoire de Sorgues, près de Châteauneuf-du-Pape, la gare s’inscrit dans les lignes desservant Paris-Lyon à Marseille-Saint-Charles et Sorgues - Châteauneuf-du-Pape à Carpentras.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 44.005341,
+   "lon": 4.87576,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Sorgues_-_Ch%C3%A2teauneuf-du-Pape"
+  },
+  {
+   "nom": "Château de Brantes",
+   "histoire": "Le château de Brantes est un château du XVIIIe siècle sur la commune de Sorgues ; le château actuel est construit par Pierre del Bianco au XVIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "La source raconte qu’il serait « l’un des plus vieux d’Europe » grâce à un premier importé d’Amérique en 1711 à Paimbœuf.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S23"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "lat": 44.00018,
+   "lon": 4.87707,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Brantes"
+  },
+  {
+   "nom": "Île d'Oiselay",
+   "histoire": "Île située sur le Rhône, appartenant administrativement à Sorgues, l’île a d’abord porté le nom d’Île de l’Osier avant de devenir Oseraie, puis Oiselay au XVIIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S24",
+    "S25"
+   ],
+   "lat": 44.0319968,
+   "lon": 4.8197823,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_d%27Oiselay"
+  },
+  {
+   "nom": "Marché de Sorgues",
+   "histoire": "Le marché de Sorgues est un marché hebdomadaire, tenu tous les dimanches dans le centre de Sorgues.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le marché reste un lieu de rencontre du cœur de ville qui conserve sa fonction sociale.",
+   "sources": [
+    "S26",
+    "S27"
+   ],
+   "lat": 44.0091666667,
+   "lon": 4.87333333333,
+   "url": "https://fr.wikipedia.org/wiki/March%C3%A9_de_Sorgues"
+  }
+ ],
+ "sources": [
+  "Sorgues (dite aussi Sorgues-sur-l'Ouvèze) est une commune française située dans le département de Vaucluse, en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Sorguais et les Sorguaises.",
+  "Lors des travaux sur le territoire de la commune, les fouilles de sauvetages ont permis de vérifier que ce site fut occupé dès le Néolithique. Les stations des Ferrailles et de Saint-Martin ont livré des traces de foyers, poteries, outils lithiques, lames, perçoirs, pointes de flèches. Mais le plus important site préhistorique se trouve au Mourre de Sève, sur la route d'Entraigues, et date de l'époque d'Hallstatt, […]",
+  "XIe siècle : Dans la seconde moitié du XIe siècle, un pont de pierre fut construit en remplacement d'un vétuste pont de bois.",
+  "1317 : Jean XXII fit édifier, en 1317, le premier palais pontifical sur les bases de l'ancien castrum.",
+  "XIVe siècle : Le couvent qu'ils occupaient depuis le XIVe siècle fut vendu comme bien national au conventionnel Stanislas Rovère dont le frère Siméon fut l'évêque constitutionnel d'Avignon.",
+  "1354 : En 1354, l'Hôtel des monnaies installé à l'intérieur du palais pontifical cessa d'émettre pour être transféré à Avignon.",
+  "1786 : Alors qu'il était encore l'objet de restauration en 1786, les restes du palais pontifical furent, eux aussi, vendus à des entrepreneurs qui utilisèrent les pierres comme matériaux de construction.",
+  "1926 : C'est le 16 septembre 1926 que le pont suspendu reliant Sorgues à l'île de l'Oiselay fut inauguré.",
+  "1990 : Du Xe siècle à la fin du XIIe siècle, l’église Saint-Martin-de-Gigognan (détruite dans les années 1990) appartenait à l’abbaye Saint-André de Villeneuve-lès-Avignon qui en percevait les revenus.",
+  "Lieu « Palais des papes de Sorgues » : Le palais des papes de Sorgues est la première résidence pontificale construite par la papauté d'Avignon au XIVe siècle.",
+  "Lieu « Palais des papes de Sorgues », XIVe siècle : Le palais des papes de Sorgues est la première résidence pontificale construite par la papauté d'Avignon au XIVe siècle.",
+  "Lieu « Palais des papes de Sorgues », XVIIe siècle : Ni signés, ni datés, ils ont été réalisés entre la fin du XVIIe siècle et le tout début du XIXe siècle.",
+  "Lieu « Palais des papes de Sorgues », 1858 : Un dernier relevé intéresse le palais de Sorgues, c'est une carte cadastrale dressée en 1858 qui montre son périmètre et les quelques bâtiments subsistants.",
+  "Lieu « Palais des papes de Sorgues », aujourd'hui : Il n'en reste aujourd'hui que des vestiges, le palais ayant été démantelé au cours de la Révolution française par les entrepreneurs en bâtiment auxquels la commune de Sorgues l'avait vendu.",
+  "Lieu « Gare de Sorgues - Châteauneuf-du-Pape » : La gare de Sorgues - Châteauneuf-du-Pape est une gare ferroviaire française des lignes de Paris-Lyon à Marseille-Saint-Charles et de Sorgues - Châteauneuf-du-Pape à Carpentras, située sur le territoire de la commune de Sorgues, près de Châteauneuf-du",
+  "Lieu « Gare de Sorgues - Châteauneuf-du-Pape », 1853 : Le chantier ouvre, à la fin du mois d'octobre 1853 la presse locale relate que la construction du bâtiment a débuté, les murs ont déjà deux mètres de haut.",
+  "Lieu « Gare de Sorgues - Châteauneuf-du-Pape », 1854 : Construit en 1854, il est conçu suivant un modèle type de la Compagnie du chemin de fer de Lyon à la Méditerranée (LM).",
+  "Lieu « Gare de Sorgues - Châteauneuf-du-Pape », 1875 : En 1875, on y construit une remise pour deux locomotives.",
+  "Lieu « Gare de Sorgues - Châteauneuf-du-Pape », aujourd'hui : La commission d'enquête pour l'emplacement de « l'embarcadère de Sorgues » ne soulève pas d'opposition, il doit y être construit un bâtiment de type « station de 2e classe ».",
+  "Lieu « Château de Brantes » : Le château de Brantes est un château construit au XVIIIe siècle sur la commune de Sorgues dans le département de Vaucluse, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Château de Brantes », 1653 : Le château actuel est construit au XVIIIe siècle par Pierre del Bianco (né le 17 avril 1653 à Avignon et mort en 1735), petit fils du précédent, marquis de Brantes par achat du 12 septembre 1696.",
+  "Lieu « Château de Brantes », XVIIIe siècle : Le château de Brantes est un château construit au XVIIIe siècle sur la commune de Sorgues dans le département de Vaucluse, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Château de Brantes », aujourd'hui : C'est aujourd'hui l'un des plus vieux d'Europe puisque le premier a été importé d'Amérique en 1711, à Paimbœuf, près de Nantes, en Bretagne.",
+  "Lieu « Île d'Oiselay » : L'île d'Oiselay est une île située sur le Rhône, dans le département de Vaucluse en région Provence-Alpes-Côte d'Azur, appartenant administrativement à Sorgues.",
+  "Lieu « Île d'Oiselay », XVIIIe siècle : L’île s'est d'abord appelé Île de l’Osier qui s’est transformé en Oseraie, puis en Oiselay au XVIIIe siècle.",
+  "Lieu « Marché de Sorgues » : Le marché de Sorgues est un marché hebdomadaire qui se tient tous les dimanches dans le centre de Sorgues.",
+  "Lieu « Marché de Sorgues », aujourd'hui : Actuellement, le marché reste un lieu de rencontre du cœur de ville qui a su conserver sa fonction sociale."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "Paimb"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 2
+ }
+}

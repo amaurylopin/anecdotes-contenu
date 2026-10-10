@@ -1,0 +1,88 @@
+{
+ "commune": {
+  "titre": "Vedène",
+  "code_insee": "84141",
+  "departement": "84",
+  "population": 11974,
+  "lat": 43.97833333,
+  "lon": 4.90388889,
+  "url": "https://fr.wikipedia.org/wiki/Ved%C3%A8ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:43:05",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1044,
+  "sortie": 622
+ },
+ "cout_usd": 0.000986,
+ "accroche": "À Vedène, l’église Saint-Thomas a été construite entre 1760 et 1764 par décision conjointe du chapitre, du Vice-légat, du seigneur et de la communauté.",
+ "histoire": {
+  "recit": "Vedène, ville de Vaucluse et membre du Grand Avignon, a pour habitants les Vedènais. Le nom de la cité apparaît pour la première fois dans une charte datée de 1109, puis réapparaît dans une seconde charte liée à une donation des marais : Pons Rainoard, seigneur du lieu, donne les marais de Vedène aux chanoines d’Avignon. Plus tard, au cours du XIVe siècle, le fief circule au gré de l’apparition puis de la disparition de plusieurs familles.\n\nAutour de l’église Saint-Thomas de Vedène, on garde surtout trace d’une décision partagée : l’édifice est construit entre 1760 et 1764, avec l’accord du chapitre, du Vice-légat, du seigneur et de la communauté.",
+  "chronologie": [
+   {
+    "date": "1109",
+    "texte": "Le nom de Vedène apparaît pour la première fois dans une charte.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "avril 1105",
+    "texte": "Dans une seconde charte, Pons Rainoard, seigneur du lieu, fait une donation des marais de Vedène aux chanoines d’Avignon.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "XIVe siècle",
+    "texte": "Le fief, en coseigneurie, voit tour à tour apparaître et disparaître des familles qui se partagent le territoire.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "entre 1760 et 1764",
+    "texte": "L’église Saint-Thomas est construite par décision conjointe du chapitre, du Vice-légat, du seigneur et de la communauté de Vedène.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Thomas de Vedène",
+   "histoire": "L’église Saint-Thomas de Vedène se trouve à Vedène, en Vaucluse. L’édifice est construit par décision conjointe du chapitre, du Vice-légat, du seigneur et de la communauté entre 1760 et 1764.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "lat": 43.97455,
+   "lon": 4.90074,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Thomas_de_Ved%C3%A8ne"
+  }
+ ],
+ "sources": [
+  "Vedène est une ville française située dans le département de Vaucluse en région Provence-Alpes-Côte d'Azur. Elle fait partie de la communauté d'agglomération du Grand Avignon. Ses habitants sont appelés les Vedènais.",
+  "La cité est nommée pour la première fois dans une charte datée de 1109. Elle réapparaît dans une seconde charte, en avril 1105, lors de la donation faite par Pons Rainoard, seigneur du lieu, des marais de Vedène aux chanoines d'Avignon. Au cours du XIVe siècle, ce fief, qui est en coseigneurie, voit tour à tour apparaître et disparaître les familles Rainoard, Castello, Gaufridi, Coyrano, Rodulphi, Galliani dont le […]",
+  "Lieu « Église Saint-Thomas de Vedène » : L'église Saint-Thomas est située à Vedène, en Vaucluse.",
+  "Lieu « Église Saint-Thomas de Vedène », 1760 : L'édifice a été construit par décision conjointe du chapitre, du Vice-légat, du seigneur et de la communauté de Vedène entre 1760 et 1764."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 1,
+  "nb_anecdotes": 0
+ }
+}

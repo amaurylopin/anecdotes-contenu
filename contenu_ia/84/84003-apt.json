@@ -1,0 +1,223 @@
+{
+ "commune": {
+  "titre": "Apt",
+  "code_insee": "84003",
+  "departement": "84",
+  "population": 10143,
+  "lat": 43.876945,
+  "lon": 5.396945,
+  "url": "https://fr.wikipedia.org/wiki/Apt"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:57:04",
+ "lieux_ecartes_autre_commune": 1,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3079,
+  "sortie": 1473
+ },
+ "cout_usd": 0.002457,
+ "accroche": "Le 28 mars 1362, à Apt, le premier registre des délibérations municipales est ouvert pour la cité Julienne.",
+ "histoire": {
+  "recit": "Apt, en occitan provençal Ate, s’étire entre des traces anciennes et des événements plus récents. Les premiers habitants s’installent sur deux sites préhistoriques, dont les Agnels, près du ruisseau de la Mauragne, où plus de cinq mille silex taillés sont répertoriés. Plus tard, la cité Julienne prend forme : l’oppidum Apta Julia est occupé pendant 200 ans, et les fouilles identifient encore aujourd’hui théâtre, forum, basilique, ainsi que le decumanus maximus et le cardo maximus.\n\nAu Moyen Âge, la ville se dote de fortifications dès le Haut Moyen Âge, puis elle est pillée par les Sarrasins vers 895. Le 28 mars 1362, un premier registre des délibérations municipales est ouvert.\n\nAprès les siècles, Apt connaît aussi des lieux de vie et de soins : l’hôpital d’Apt, dont la pharmacie date de 1754, conserve des faïences pharmaceutiques et des panneaux de dons.\n\nEn 1944, la libération intervient le 22 août, tandis qu’en 2025, Apt subit une attaque au couteau.",
+  "chronologie": [
+   {
+    "date": "vers 895",
+    "texte": "Apt se dote de fortifications dès le Haut Moyen Âge, mais la ville est pillée par les Sarrasins vers 895.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "28 mars 1362",
+    "texte": "Pour la cité Julienne, le 28 mars 1362 marque l’ouverture du premier registre des délibérations municipales.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "22 août 1944",
+    "texte": "Apt est libérée le 22 août 1944 par la 45th ID et les FFI.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Sainte-Anne d'Apt",
+   "histoire": "Placée durant tout le Moyen Âge sous le double patronage de Notre-Dame et saint Castor, la cathédrale Sainte-Anne d’Apt est la cathédrale de l’ancien diocèse d’Apt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les fouilles indiquent que la seconde cathédrale (16 m × 10 m) a réutilisé des colonnes d’un temple, avec une galerie centrale flanquée de deux collatéraux.",
+   "sources": [
+    "S6",
+    "S10"
+   ],
+   "lat": 43.876111,
+   "lon": 5.396944,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Sainte-Anne_d%27Apt"
+  },
+  {
+   "nom": "Chapelle Notre-Dame-de-Clairmont d'Apt",
+   "histoire": "La chapelle Notre-Dame-de-Clairmont est un bâtiment religieux datant du XIIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Subsistant à l’état de vestiges, elle est inscrite au titre des monuments historiques depuis le 20 juillet 1972.",
+   "sources": [
+    "S11",
+    "S15"
+   ],
+   "lat": 43.850326,
+   "lon": 5.364938,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame-de-Clairmont_d%27Apt"
+  },
+  {
+   "nom": "Attaque du 25 janvier 2025 à Apt",
+   "histoire": "",
+   "anecdotes": [
+    {
+     "texte": "La maire d’Apt mentionne que Mehdi B. avait déjà déposé, en 2016, une fausse ceinture d’explosifs en pâte à modeler près d’un collège.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "lat": 43.874801,
+   "lon": 5.40261,
+   "url": "https://fr.wikipedia.org/wiki/Attaque_du_25_janvier_2025_%C3%A0_Apt"
+  },
+  {
+   "nom": "Musée de l'aventure industrielle",
+   "histoire": "Installé dans une partie de l’ancienne usine de fruits confits Marliagues, le Musée d’Apt présente l’histoire récente, industrielle et humaine du Pays d’Apt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des outils, machines et documents d’archives sont présentés pour témoigner des industries et des techniques d’hier et d’aujourd’hui.",
+   "sources": [
+    "S20",
+    "S23"
+   ],
+   "lat": 43.8756976,
+   "lon": 5.3976354,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27aventure_industrielle"
+  },
+  {
+   "nom": "Remparts d'Apt",
+   "histoire": "La tour de l’Hô est l’un des rares vestiges des anciens remparts de la ville d’Apt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "La tour de l’Hô subsiste comme vestige des remparts.",
+   "sources": [
+    "S24",
+    "S27"
+   ],
+   "lat": 43.874131,
+   "lon": 5.396242,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_d%27Apt"
+  },
+  {
+   "nom": "Abbaye Saint-Pierre-des-Tourettes d'Apt",
+   "histoire": "L’abbaye Saint-Pierre-des-Tourettes est un bâtiment religieux situé à Apt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des traces d’une villa gallo-romaine et d’un lieu de culte paléo-chrétien y ont été retrouvés, avec des fragments de sarcophages et une vasque en marbre de Carrare.",
+   "sources": [
+    "S28",
+    "S31"
+   ],
+   "lat": 43.853874,
+   "lon": 5.372728,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Pierre-des-Tourettes_d%27Apt"
+  },
+  {
+   "nom": "Hôpital d'Apt",
+   "histoire": "Construit au début du XVIIIe siècle, l’hôpital d’Apt prend la suite de l’hôpital Saint-Castor.",
+   "anecdotes": [
+    {
+     "texte": "La pharmacie de l’hôpital date de 1754, par le rachat du fond d’un apothicaire de Saint-Saturnin-lès-Apt.",
+     "statut": "etabli",
+     "sources": [
+      "S34"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Les faïences pharmaceutiques, les donatifs et les meubles de l’ancien hôpital sont conservés au musée d’Histoire et d’Archéologie d’Apt.",
+   "sources": [
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 43.876031,
+   "lon": 5.390372,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4pital_d%27Apt"
+  },
+  {
+   "nom": "Apta Julia",
+   "histoire": "Apta Julia est une cité romaine qui donna naissance à Apt.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les fouilles ont identifié un théâtre, un forum, une basilique ainsi que le decumanus maximus et le cardo maximus, toujours visibles.",
+   "sources": [
+    "S36",
+    "S38"
+   ],
+   "lat": 43.876945,
+   "lon": 5.396945,
+   "url": "https://fr.wikipedia.org/wiki/Apta_Julia"
+  }
+ ],
+ "sources": [
+  "Apt [apt] (en occitan provençal Ate) est une commune française, sous-préfecture du département de Vaucluse, dans le sud-est de la France en région Provence-Alpes-Côte d'Azur (région Sud).",
+  "Les premiers habitants de ce qui deviendra plus tard Apt se sont installés sur deux sites préhistoriques de grande importance pour l’archéologie régionale. Le premier était situé aux Agnels, proche du hameau du même nom, près du ruisseau de la Mauragne. Il a livré un important matériel mésolithique daté d’entre -9 000 à –6 000 avant notre ère. Plus de cinq mille silex taillés y ont été répertoriés correspondant à […]",
+  "895 : La ville se dote de fortifications dès le Haut Moyen Âge. mais est néanmoins pillée par les Sarrasins vers 895.",
+  "1362 : Seconde date importante au Moyen Âge pour la cité Julienne, celle du 28 mars 1362 où est ouvert le premier registre des délibérations municipales.",
+  "1944 : Apt est finalement libérée le 22 août 1944 par la 45th ID et les FFI.",
+  "Lieu « Cathédrale Sainte-Anne d'Apt » : La cathédrale Sainte-Anne d'Apt, placée durant tout le Moyen Âge sous le double patronage de Notre-Dame et saint Castor, est la cathédrale de l'ancien diocèse d'Apt.",
+  "Lieu « Cathédrale Sainte-Anne d'Apt », IVe siècle : Au début du IVe siècle, ce groupe cathédral Saint-Paul / Saint-Jean fut déplacé intramuros.",
+  "Lieu « Cathédrale Sainte-Anne d'Apt », 1096 : Les travaux de cette cinquième cathédrale n'étaient pas achevés lors de la visite d'Urbain II en 1096.",
+  "Lieu « Cathédrale Sainte-Anne d'Apt », XVIIIe siècle : Elle surmontait une crypte à trois nefs dans laquelle l'évêque fut inhumé mais fut démolie au XVIIIe siècle lors de la construction du Palais épiscopal.",
+  "Lieu « Cathédrale Sainte-Anne d'Apt », aujourd'hui : Les fouilles ont permis d'apprendre que cette seconde cathédrale (16 m × 10 m) avait été construite sur le podium d'un temple dont elle avait réutilisé les colonnes, qu'elle comprenait une galerie centrale flanquée de deux collatéraux et que son emplacement se situait entre le Théâtre et le grand axe est / ouest de la cité Julienne.",
+  "Lieu « Chapelle Notre-Dame-de-Clairmont d'Apt » : Cette chapelle Notre-Dame-de-Clairmont est un bâtiment religieux datant du XIIe siècle, située à Apt, dans le Vaucluse.",
+  "Lieu « Chapelle Notre-Dame-de-Clairmont d'Apt », 1041 : Par la suite, en 1041, le « territorium Clarimontis » est mentionné dans un acte signé dans la proche Abbaye Saint-Pierre-des-Tourettes.",
+  "Lieu « Chapelle Notre-Dame-de-Clairmont d'Apt », XIIe siècle : Cette chapelle Notre-Dame-de-Clairmont est un bâtiment religieux datant du XIIe siècle, située à Apt, dans le Vaucluse.",
+  "Lieu « Chapelle Notre-Dame-de-Clairmont d'Apt », XIIe siècle : Cette chapelle est édifiée au XIIe siècle.",
+  "Lieu « Chapelle Notre-Dame-de-Clairmont d'Apt », aujourd'hui : Subsistant à l'état de vestiges, elle est inscrite au titre des monuments historiques depuis le 20 juillet 1972.",
+  "Lieu « Attaque du 25 janvier 2025 à Apt » : L'attaque du 25 janvier 2025 à Apt est une attaque terroriste au couteau à Apt, dans le Vaucluse, en France.",
+  "Lieu « Attaque du 25 janvier 2025 à Apt », 2016 : Selon Véronique Arnaud-Deloy — la maire d'Apt — Mehdi B., qu'elle qualifie de « repris de justice », est le même individu qui, en 2016, avait déposé une fausse ceinture d'explosifs en pâte à modeler près d'un collège dans le centre-ville.",
+  "Lieu « Attaque du 25 janvier 2025 à Apt », 2017 : Pour cet acte, il a été condamné le 22 novembre 2017 par le tribunal correctionnel d’Avignon pour des infractions à la législation sur les explosifs à la peine de six ans d’emprisonnement, outre un suivi socio-judiciaire pendant trois ans.",
+  "Lieu « Attaque du 25 janvier 2025 à Apt », 2021 : Sorti de détention en septembre 2021 après exécution de la peine d’emprisonnement ferme à laquelle il avait été condamné, Mehdi B. faisait l’objet jusqu’en septembre 2024 d’un suivi sociojudiciaire par le juge d’application des peines d’Avignon.",
+  "Lieu « Musée de l'aventure industrielle » : Installé dans une partie de l’ancienne usine de fruits confits Marliagues, le Musée d'Apt présente l’histoire récente, industrielle et humaine, du Pays d’Apt depuis le XVIIIe siècle jusqu’à nos jours.",
+  "Lieu « Musée de l'aventure industrielle », XVIIIe siècle : Installé dans une partie de l’ancienne usine de fruits confits Marliagues, le Musée d'Apt présente l’histoire récente, industrielle et humaine, du Pays d’Apt depuis le XVIIIe siècle jusqu’à nos jours.",
+  "Lieu « Musée de l'aventure industrielle », 2003 : Créé en 2003, le musée de l'Aventure industrielle d'Apt - renommé Musée d'Apt depuis 2018 - est installé dans une ancienne usine du confiseur aptésien Marliagues, en plein centre ville.",
+  "Lieu « Musée de l'aventure industrielle », aujourd'hui : Outils, machines, et documents d’archives présentés dans le musée permettent de témoigner de l’histoire de ces industries et des techniques utilisées hier et aujourd’hui.",
+  "Lieu « Remparts d'Apt » : La tour de l'Hô est l'un des rares vestiges des anciens remparts de la ville d'Apt, dans le Vaucluse.",
+  "Lieu « Remparts d'Apt », XIVe siècle : Au sud de la ville, face au rocher de Saignon, la tour de l’Hôpital, bâtie au XIVe siècle, est l’un des rares vestiges de l’enceinte médiévale.",
+  "Lieu « Remparts d'Apt », 1376 : Construite en 1376, au point le plus élevé du tracé des remparts, elle jouxtait, jusqu’au milieu du XIXe siècle les jardins de l’hôpital, auxquels elle doit son nom et sa survie : faisant partie intégrante de la clôture des jardins de l’établissement, elle a été épargnée par les démolitions des années 1830.",
+  "Lieu « Remparts d'Apt », aujourd'hui : La tour de l'Hô est l'un des rares vestiges des anciens remparts de la ville d'Apt, dans le Vaucluse.",
+  "Lieu « Abbaye Saint-Pierre-des-Tourettes d'Apt » : L'abbaye Saint-Pierre-des-Tourettes est un bâtiment religieux situé à Apt, dans le Vaucluse.",
+  "Lieu « Abbaye Saint-Pierre-des-Tourettes d'Apt », Xe siècle : L'Abbaye est fondée au Xe siècle, par les évêques d'Apt.",
+  "Lieu « Abbaye Saint-Pierre-des-Tourettes d'Apt », XIe siècle : L'édifice initial, à nef unique rectangulaire, construit en petits moellons et certainement charpenté, est érigé au XIe siècle.",
+  "Lieu « Abbaye Saint-Pierre-des-Tourettes d'Apt », aujourd'hui : Des traces d'une importante villa gallo-romaine et d'un lieu de culte paléo-chrétien ont été retrouvées sur ce site, avec notamment des fragments de sarcophages à strigiles, ainsi que la partie antérieure d'une vasque en marbre de Carrare (conservé au Musée Calvet d'Avignon).",
+  "Lieu « Hôpital d'Apt » : L'hôpital d'Apt est un bâtiment de santé situé à Apt, dans le Vaucluse.",
+  "Lieu « Hôpital d'Apt », XVIIIe siècle : Construit au début du XVIIIe siècle, prend la suite d'un ancien établissement, l'hôpital Saint-Castor, du nom d'un évêque d'Apt.",
+  "Lieu « Hôpital d'Apt », 1754 : La pharmacie de l'hôpital date de 1754, par le rachat du fond d'un apothicaire de Saint-Saturnin-lès-Apt L'ensemble des bâtiments, ainsi que la chapelle, ont été inscrits au titre des monuments historiques le 16 novembre 1989.",
+  "Lieu « Hôpital d'Apt », aujourd'hui : Les faïences pharmaceutiques, les donatifs (ces panneaux, présentés sous forme de peinture, symbolisent les dons remis par les malades et leur famille à l'institution) et les meubles de l'ancien hôpital d'Apt sont actuellement conservé au musée d'Histoire et d'Archéologie d'Apt.",
+  "Lieu « Apta Julia » : Apta Julia est une cité romaine qui donna naissance à Apt.",
+  "Lieu « Apta Julia », 1951 : Cet oppidum fut occupé pendant 200 ans puisque les fouilles menées en 1951 ont mis au jour une habitation datée du Ier siècle av. J.-C..",
+  "Lieu « Apta Julia », aujourd'hui : Les fouilles ont identifié un théâtre, un forum, une basilique ainsi que le decumanus maximus et le cardo maximus, toujours visibles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 2
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "commune": {
+  "titre": "Bollène",
+  "code_insee": "84019",
+  "departement": "84",
+  "population": 14024,
+  "lat": 44.28111111,
+  "lon": 4.74944444,
+  "url": "https://fr.wikipedia.org/wiki/Boll%C3%A8ne"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:32:43",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2527,
+  "sortie": 2054
+ },
+ "cout_usd": 0.003073,
+ "accroche": "À Bollène, la collégiale Saint-Martin date du XIIe siècle et fait aujourd’hui l’objet d’une restauration par la ville.",
+ "histoire": {
+  "recit": "Bollène, dans le Vaucluse, a connu une occupation très ancienne : sur les oppidums de Barri, Chabrières et Saint-Blaise-de-Bauzon, les archéologues ont mis en évidence une présence préhistorique dès le XIXe siècle. Plus tard, les fouilles liées à la construction du TGV Méditerranée ont aussi révélé une importante occupation dans la plaine, avec un site majeur situé à « Pont-de-Pierre ».\n\nAu cœur de la commune, la collégiale Saint-Martin de Bollène a traversé les siècles. D’abord une ancienne collégiale du XIIe siècle, elle a été complétée par des aménagements datés de la fin du XVIe au début du XVIIe siècle. Non loin, la Maison cardinale, de type roman, s’inscrit dans le même paysage bâti : l’édifice construirait au début du XIIIe siècle, et une garnison y aurait été installée en 1224.\n\nBollène vit aussi au rythme des grands travaux : le barrage de Donzère-Mondragon a été construit entre 1948 et 1952, doté d’une écluse pour le franchissement des bateaux. Le marché de Bollène, lui, perdure : il existe depuis plus d’un demi-millénaire et s’installe encore aujourd’hui à des endroits précis de la commune.",
+  "chronologie": [
+   {
+    "date": "XIIe siècle",
+    "texte": "La collégiale Saint-Martin de Bollène est une ancienne collégiale datant du XIIe siècle.",
+    "sources": [
+     "S3",
+     "S7"
+    ]
+   },
+   {
+    "date": "1224",
+    "texte": "À la Maison cardinale, une garnison y aurait été installée par Raymond VII de Toulouse pendant son conflit avec le roi de France et le comte des Baux.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1948-1952",
+    "texte": "Le barrage de Donzère-Mondragon est construit sur le canal, entre 1948 et 1952, avec une écluse pour permettre le franchissement aux bateaux.",
+    "sources": [
+     "S14"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Collégiale Saint-Martin de Bollène",
+   "histoire": "Ancienne collégiale datant du XIIe siècle, aujourd’hui restaurée par la ville de Bollène.",
+   "anecdotes": [
+    {
+     "texte": "En 1584, la vente des matériaux non utilisés est mentionnée, avant que le grand vicaire de Saint-Paul ne permette l’emploi des pierres restantes pour réparer la chapelle Notre Dame du Pont.",
+     "statut": "etabli",
+     "sources": [
+      "S4"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est actuellement restaurée par la ville de Bollène.",
+   "sources": [
+    "S3",
+    "S4",
+    "S7"
+   ],
+   "lat": 44.278866634158,
+   "lon": 4.750605225563,
+   "url": "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Martin_de_Boll%C3%A8ne"
+  },
+  {
+   "nom": "Maison cardinale de Bollène",
+   "histoire": "Maison de type roman située à Bollène, construite au début du XIIIe siècle selon les sources.",
+   "anecdotes": [
+    {
+     "texte": "En 1224, il est indiqué que Raymond VII de Toulouse y aurait installé une garnison pendant son conflit avec le roi de France et le comte des Baux.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Elle est visible car construite sur un banc rocheux, que l’on voit aussi depuis la rue.",
+   "sources": [
+    "S8",
+    "S10",
+    "S12"
+   ],
+   "lat": 44.278791666667,
+   "lon": 4.74825,
+   "url": "https://fr.wikipedia.org/wiki/Maison_cardinale_de_Boll%C3%A8ne"
+  },
+  {
+   "nom": "Barrage de Donzère-Mondragon",
+   "histoire": "Barrage hydroélectrique sur un canal parallèle au Rhône, à Bollène, construit entre 1948 et 1952 avec une écluse pour les bateaux.",
+   "anecdotes": [
+    {
+     "texte": "Le 2 février 1998 à 12 h 45, une vague submerge l’écluse : alors qu’une péniche était dans le sas, la porte amont s’ouvre brusquement, provoquant une vague déferlante dans le sas.",
+     "statut": "etabli",
+     "sources": [
+      "S16"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S14",
+    "S16"
+   ],
+   "lat": 44.3039807,
+   "lon": 4.7390127,
+   "url": "https://fr.wikipedia.org/wiki/Barrage_de_Donz%C3%A8re-Mondragon"
+  },
+  {
+   "nom": "Fort de Barry",
+   "histoire": "Fort médiéval situé à deux kilomètres au nord de Bollène.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20"
+   ],
+   "lat": 44.3186361,
+   "lon": 4.7574472,
+   "url": "https://fr.wikipedia.org/wiki/Fort_de_Barry"
+  },
+  {
+   "nom": "Marché de Bollène",
+   "histoire": "Marché qui existe depuis plus d’un demi-millénaire.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Aujourd’hui, il est installé place du Félibrige, rue Alexandre Blanc et place Reynaud de la Gardette, sauf durant les deux mois d’été, où il s’abrite sous les platanes de la place du 18 juin.",
+   "sources": [
+    "S21",
+    "S23"
+   ],
+   "lat": 44.2811111111,
+   "lon": 4.74944444444,
+   "url": "https://fr.wikipedia.org/wiki/March%C3%A9_de_Boll%C3%A8ne"
+  },
+  {
+   "nom": "Chapelle Saint-Blaise de Bollène",
+   "histoire": "Chapelle romane dite chapelle de Bauzon, construite au XIIe siècle sur un ancien site de culte, au sommet d’une colline qui domine le hameau de Saint Blaise.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il ne reste aujourd’hui que quelques traces des murs clos et une entrée atypique.",
+   "sources": [
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 44.275472931906,
+   "lon": 4.7868633270264,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Saint-Blaise_de_Boll%C3%A8ne"
+  },
+  {
+   "nom": "Hôtel de Faucher",
+   "histoire": "Bâtiment situé rue du peuple, à Bollène, construit à l’initiative de Maître Raymond Rocher, notaire à Bollène, sur un ancien bâtiment datant du XVe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S27",
+    "S28",
+    "S29"
+   ],
+   "lat": 44.28005,
+   "lon": 4.75053,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Faucher"
+  },
+  {
+   "nom": "Gare de Bollène-La Croisière",
+   "histoire": "Gare ferroviaire française sur le territoire de Bollène, située au lieu-dit de La Croisière sur la ligne de Paris-Lyon à Marseille-Saint-Charles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 44.271578,
+   "lon": 4.707963,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Boll%C3%A8ne-La_Croisi%C3%A8re"
+  }
+ ],
+ "sources": [
+  "Bollène est une commune française située dans le département du Vaucluse, en région Provence-Alpes-Côte d'Azur.",
+  "La présence d'une occupation préhistorique sur les oppidums de Barri, Chabrières et Saint-Blaise-de-Bauzon a été mise en évidence par les archéologues dès le XIXe siècle. Il a fallu attendre, la fin du XXe siècle et les fouilles faites lors de la construction du TGV Méditerranée, pour découvrir que la plaine avait été aussi le siège d'une importante occupation. Le site le plus important est situé à « Pont-de-Pierre […]",
+  "Lieu « Collégiale Saint-Martin de Bollène » : La collégiale Saint-Martin de Bollène est une ancienne collégiale datant du XIIe siècle, elle est actuellement restaurée par la ville de Bollène.",
+  "Lieu « Collégiale Saint-Martin de Bollène », 1584 : En 1584, les travaux sont achevés car la ville met en vente les matériaux non utilisés et en 1585, le grand vicaire de Saint-Paul permet l'emploi des pierres non utilisées afin de réparer la chapelle Notre Dame du Pont.",
+  "Lieu « Collégiale Saint-Martin de Bollène », 1596 : En 1596/97, Jean de l'Hôtel, évêque de Viviers, construit la chapelle au sud du chœur.",
+  "Lieu « Collégiale Saint-Martin de Bollène », 1601 : En 1601, est édifiée la chapelle du Rosaire par la confrérie du Chapelet et en 1602, Paul de Rippert construit une chapelle côté nord-ouest.",
+  "Lieu « Collégiale Saint-Martin de Bollène », aujourd'hui : La collégiale Saint-Martin de Bollène est une ancienne collégiale datant du XIIe siècle, elle est actuellement restaurée par la ville de Bollène.",
+  "Lieu « Maison cardinale de Bollène » : La Maison cardinale est une maison de type roman, située à Bollène, au nord du département de Vaucluse.",
+  "Lieu « Maison cardinale de Bollène », 1224 : En 1224, Raymond VII de Toulouse y aurait installé une garnison, durant son conflit avec le roi de France et le comte des Baux, prince d’Orange.",
+  "Lieu « Maison cardinale de Bollène », XIIIe siècle : La construction de l'édifice daterait du début du XIIIe siècle.",
+  "Lieu « Maison cardinale de Bollène », 1929 : Le portail initial a été vendu, en 1929, par le propriétaire de l'époque, à un entrepreneur d'Aix-en-Provence.",
+  "Lieu « Maison cardinale de Bollène », aujourd'hui : Il est construit sur un banc rocheux, visible également de la rue.",
+  "Lieu « Barrage de Donzère-Mondragon » : Le barrage de Donzère-Mondragon (ou barrage André-Blondel) est un barrage hydroélectrique situé sur un canal parallèle au Rhône dans le sud de la France.",
+  "Lieu « Barrage de Donzère-Mondragon », 1948 : Construit entre 1948 et 1952, sur le canal de Donzère-Mondragon, à Bollène (Vaucluse), il est doté d'une écluse pour permettre son franchissement aux bateaux.",
+  "Lieu « Barrage de Donzère-Mondragon », 1952 : Conçu par l’architecte Théodose Sardnal, il fut inauguré le 25 octobre 1952 par le Président de la République française Vincent Auriol, et inscrit au titre des Monuments historiques le 4 juin 1992.",
+  "Lieu « Barrage de Donzère-Mondragon », 1998 : Le 2 février 1998 à 12 h 45, une vague meurtrière submerge l'écluse de Bollène, un accident peu ordinaire eut lieu : alors qu'une péniche était dans le sas de l'écluse pour la remonter, la porte amont s'est brusquement ouverte, provoquant une vague déferlante dans le sas.",
+  "Lieu « Fort de Barry » : Le fort de Barry est un fort médiéval situé à deux kilomètres au nord de Bollène, dans le Vaucluse.",
+  "Lieu « Fort de Barry », 1200 : Le château a dû être construit vers 1200.",
+  "Lieu « Fort de Barry », 1228 : Giraud Adhémar, seigneur de Monteil, a vendu pour 3 000 sols viennois en décembre 1228 sa part de la co-seigneurie avec tous ses droits au prieur de Bollène qui dépendait de l'abbaye de l'Île Barbe.",
+  "Lieu « Fort de Barry », 1251 : Le château n'est pas détruit car, en 1251, les Adhémar en font hommage à Alphonse de Poitiers.",
+  "Lieu « Marché de Bollène » : Le marché de Bollène existe depuis plus d'un demi-millénaire.",
+  "Lieu « Marché de Bollène », 1704 : Le jour du marché fut souvent déplacé, tout d'abord au vendredi (1704), au lundi (1712), puis au jeudi.",
+  "Lieu « Marché de Bollène », aujourd'hui : Actuellement, le marché est installé place du Félibrige, rue Alexandre Blanc et place Reynaud de la Gardette sauf durant les deux mois d'été, où il s'abrite sous les platanes de la place du 18 juin.",
+  "Lieu « Chapelle Saint-Blaise de Bollène » : La chapelle Saint-Blaise, dite chapelle de Bauzon, est une chapelle romane située près du hameau Saint Blaise de Bollène dans le département français de Vaucluse et la région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Chapelle Saint-Blaise de Bollène », XIIe siècle : Construite au XIIe siècle sur un ancien site de culte, la chapelle de Bauzon est située au sommet d'une colline qui domine le hameau de Saint Blaise, dépendance de Bollène.",
+  "Lieu « Chapelle Saint-Blaise de Bollène », aujourd'hui : Elle comportait une enceinte mais il ne reste, de nos jours, que quelques traces de ces murs clos et une entrée atypique.",
+  "Lieu « Hôtel de Faucher » : L'hôtel de Fauche est un bâtiment situé rue du peuple, à Bollène, dans le Vaucluse.",
+  "Lieu « Hôtel de Faucher », XVe siècle : Construit sur un ancien bâtiment datant du XVe siècle, l'hôtel de Faucher est bâti à l'initiative de Maître Raymond Rocher, notaire à Bollène.",
+  "Lieu « Hôtel de Faucher », 1802 : Il restera dans la famille durant quelques générations, puis l'immeuble sera vendu, en 1802 à Louis Martin de Faucher, par madame de Pontbrillant.",
+  "Lieu « Gare de Bollène-La Croisière » : La gare de Bollène-La Croisière est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située au lieu-dit de La Croisière, sur le territoire de la commune de Bollène, dans le département de Vaucluse, en région Provenc",
+  "Lieu « Gare de Bollène-La Croisière », 1854 : Bâti en 1854, il est conçu suivant un modèle type de la Compagnie du chemin de fer de Lyon à la Méditerranée."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIe",
+   "XVIe"
+  ],
+  "nb_lieux": 8,
+  "nb_anecdotes": 3
+ }
+}

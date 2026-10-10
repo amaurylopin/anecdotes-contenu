@@ -1,0 +1,156 @@
+{
+ "commune": {
+  "titre": "Courthézon",
+  "code_insee": "84039",
+  "departement": "84",
+  "population": 6426,
+  "lat": 44.08833333,
+  "lon": 4.88472222,
+  "url": "https://fr.wikipedia.org/wiki/Courth%C3%A9zon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:46:59",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1481,
+  "sortie": 1043
+ },
+ "cout_usd": 0.0016,
+ "accroche": "En 1971, le plus ancien site néolithique de France est découvert à Courthézon, au « Mourre de Pradel » (site du Baratin).",
+ "histoire": {
+  "recit": "Courthézon, en Vaucluse, a vu des traces bien plus anciennes que ses remparts. En 1971, au « Mourre de Pradel » sur le site du Baratin, un site néolithique exceptionnel est mis au jour et daté du VIe millénaire avant notre ère, au bord ouest de la plaine de l’Ouvèze.\n\nPlus tard, le destin de la commune se lit aussi dans ses murailles. Les « Remparts de Courthézon » sont une enceinte fortifiée dont on dit qu’au XIIe siècle les pierres venaient des carrières déjà utilisées par les Romains pour le théâtre antique d’Orange. Au XVIIe siècle, l’ordre de Louis XIV met fin aux remparts de la principauté d’Orange.\n\nParmi les témoins visibles aujourd’hui, le Château de Val-Seille se distingue : la mairie en utilise désormais les lieux, après le rachat par la commune en 1952. Et sur place, la Gare de Courthézon accueille les voyageurs depuis 1854, bâtie selon un modèle type de la LM.",
+  "chronologie": [
+   {
+    "date": "1971",
+    "texte": "Découverte, dans la commune, du « Mourre de Pradel » (site du Baratin), du plus ancien site néolithique de France, daté du VIe millénaire avant notre ère.",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1195",
+    "texte": "Courthézon est vendue en 1195 à l’évêque d’Avignon.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "XIIe siècle",
+    "texte": "Les remparts dateraient du XIIe siècle, avec des pierres provenant des mêmes carrières que celles utilisées par les Romains pour le théâtre antique d’Orange.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1604",
+    "texte": "Les remparts, d’abord longs de 1 225 mètres, sont ensuite partiellement démolis puis reconstruits ; il n’en resterait aujourd’hui que 600 mètres et trois portes : la porte Aurouze, la porte Belle-Croix et la porte du Prince.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1673",
+    "texte": "Louis XIV ordonne la démolition des remparts de la principauté d’Orange.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1952",
+    "texte": "Le Château de Val-Seille est racheté par la commune, puis utilisé par la mairie.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Remparts de Courthézon",
+   "histoire": "Enceinte fortifiée de Courthézon, elle remonte au XIIe siècle et aurait utilisé des pierres provenant des carrières liées au théâtre antique d’Orange. En 1604, les remparts sont décrits comme ayant connu démolitions partielles et reconstructions ; aujourd’hui, il ne resterait que 600 mètres et trois portes : la porte Aurouze, la porte Belle-Croix et la porte du Prince. En 1673, Louis XIV ordonne la démolition des remparts de la principauté d’Orange.",
+   "anecdotes": [
+    {
+     "texte": "La porte du Prince tire son nom de Guillaume de Nassau, chassé d’Orange en 1604 puis accueilli à Courthézon.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "On affirme que, pour les remparts du XIIe siècle, on aurait réutilisé des pierres issues des mêmes carrières que celles utilisées par les Romains pour le théâtre antique d’Orange.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S5"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "lat": 44.0866,
+   "lon": 4.88245,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Courth%C3%A9zon"
+  },
+  {
+   "nom": "Château de Val-Seille",
+   "histoire": "Le Château de Val-Seille se trouve sur la commune de Courthézon. Il est construit en 1821 par Elie Dussaud, ingénieur de Ferdinand de Lesseps, sur les plans de l’architecte Louis Astric. Aujourd’hui, le château est utilisé par la mairie après son rachat par la commune en 1952.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 44.09,
+   "lon": 4.88306,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Val-Seille"
+  },
+  {
+   "nom": "Gare de Courthézon",
+   "histoire": "La Gare de Courthézon est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune de Courthézon. Bâtie en 1854, elle est conçue suivant un modèle type de la LM.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12"
+   ],
+   "lat": 44.090004,
+   "lon": 4.888314,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Courth%C3%A9zon"
+  }
+ ],
+ "sources": [
+  "Courthézon est une commune française, située dans le département de Vaucluse en région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Courthézonnais et les Courthézonnaises.",
+  "C'est dans la commune de Courthézon que le plus ancien site néolithique de France a été découvert en 1971 au « Mourre de Pradel » sur le site du Baratin. Il a été daté du VIe millénaire avant notre ère et est situé en bordure ouest de la plaine de l'Ouvèze, entre le massif collinaire de Châteauneuf-du-Pape à l'est où il constitue « une zone en forme de doigt pénétrant le massif » et les terrasses molassiques de […]",
+  "1195 : Elle est vendue en 1195 à l’évêque d’Avignon.",
+  "Lieu « Remparts de Courthézon » : Les remparts de Courthézon est une enceinte fortifiée de la commune de Courthézon, dans le Vaucluse.",
+  "Lieu « Remparts de Courthézon », XIIe siècle : Datant du XIIe siècle, les remparts de Courthézon auraient été construits avec les pierres provenant des mêmes carrières utilisées par les romains pour le théâtre antique d'Orange.",
+  "Lieu « Remparts de Courthézon », 1604 : Initialement long de 1 225 mètres, plusieurs fois partiellement démolis puis reconstruits, il ne reste, de nos jours que 600 mètres de murs et 3 des 4 portes : la porte Aurouze, au nord, côté Mistral, la porte Belle-Croix, et la porte du Prince, en référence à Guillaume de Nassau qui, chassé d’Orange en 1604, et accueilli à Courthézon.",
+  "Lieu « Remparts de Courthézon », 1673 : En 1673, Louis XIV ordonna la démolition des remparts de la principauté d'Orange.",
+  "Lieu « Château de Val-Seille » : Le château de Val-Seille est situé sur la commune de Courthézon.",
+  "Lieu « Château de Val-Seille », 1821 : Le château a été construit par Elie Dussaud (1821-1899), ingénieur de Ferdinand de Lesseps, en 1868, sur les plans de l'architecte Louis Astric.",
+  "Lieu « Château de Val-Seille », aujourd'hui : De nos jours, le château est utilisé par la mairie, après son rachat par la commune en 1952.",
+  "Lieu « Gare de Courthézon » : La gare de Courthézon est une gare ferroviaire française de la ligne de Paris-Lyon à Marseille-Saint-Charles, située sur le territoire de la commune de Courthézon, dans le département de Vaucluse, en région Provence-Alpes-Côte d'Azur.",
+  "Lieu « Gare de Courthézon », 1854 : Bâti en 1854, il est conçu suivant un modèle type de la LM."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIe"
+  ],
+  "nb_lieux": 3,
+  "nb_anecdotes": 2
+ }
+}

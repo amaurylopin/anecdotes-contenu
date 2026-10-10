@@ -1,0 +1,170 @@
+{
+ "commune": {
+  "titre": "Monteux (Vaucluse)",
+  "code_insee": "84080",
+  "departement": "84",
+  "population": 13301,
+  "lat": 44.03611111,
+  "lon": 4.99777778,
+  "url": "https://fr.wikipedia.org/wiki/Monteux_%28Vaucluse%29"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:35:35",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1916,
+  "sortie": 1010
+ },
+ "cout_usd": 0.001646,
+ "accroche": "Le 25 octobre 2014, RFF et la SNCF annoncent un retard de chantier à la gare de Monteux, repoussant l’ouverture de l’horaire prévu au mois d’avril 2015.",
+ "histoire": {
+  "recit": "À Monteux, l’histoire se lit autant dans ses vestiges que dans ses secousses. Sur la colline de Talaud, une sépulture à incinération a été exhumée avec des débris de balsamaires, une lampe en terre cuite et de la vaisselle en terre vernissée. Plus tard, en 1562, les huguenots incendient le couvent des franciscains, avant de se retrancher derrière les remparts.\n\nLe XIXe et le XXe siècle font aussi bouger la commune: la gare de Monteux est mise en service en 1863, fermée aux voyageurs en 1938, puis rouverte en 2015 après rénovation, tandis que la ligne est fermée aux marchandises en mars 2013 et que le chantier connaît un report annoncé le 25 octobre 2014.\n\nMonteux a connu des chocs plus récents avec des explosions à l’entreprise Ruggiéri, le 31 juillet 1973 puis le 12 avril 1977.\n\nAujourd’hui, les remparts gardent la trace de la Porte neuve de Monteux, reconstruite en 1730 et rénovée en 2019, et d’une Tour Clémentine dont il ne reste que la tour après un incendie au XIVe siècle. Les projets de loisirs n’ont pas cessé: le parc Spirou est annoncé pour une ouverture d’abord au printemps 2015, puis à l’été 2016, avant d’être recalée en 2017. Quant à l’église Notre-Dame-de-Nazareth de Monteux, elle est inscrite aux Monuments historiques depuis 1992.",
+  "chronologie": [
+   {
+    "date": "1562",
+    "texte": "Les huguenots incendient le couvent des franciscains puis se retranchent derrière les remparts de Monteux.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "31 juillet 1973",
+    "texte": "Une explosion se produit dans l’entreprise Ruggiéri de Monteux.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "12 avril 1977",
+    "texte": "Une nouvelle explosion a lieu le 12 avril 1977, faisant deux morts et plusieurs blessés.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Parc Spirou",
+   "histoire": "Parc à thèmes implanté à Monteux, il voit son calendrier d’ouverture évoluer: annoncé au printemps 2015, puis fixé à l’été 2016 avant d’être reporté en 2017.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 44.020966,
+   "lon": 4.970035,
+   "url": "https://fr.wikipedia.org/wiki/Parc_Spirou"
+  },
+  {
+   "nom": "Gare de Monteux",
+   "histoire": "Gare de la ligne de Sorgues - Châteauneuf-du-Pape à Carpentras, elle est mise en service en 1863, fermée au service des voyageurs en 1938, puis rouverte en 2015 après rénovation; la ligne est fermée aux marchandises en mars 2013 et le chantier subit un retard annoncé le 25 octobre 2014.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S11",
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 44.037417,
+   "lon": 4.994782,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Monteux"
+  },
+  {
+   "nom": "Porte Neuve de Monteux",
+   "histoire": "Vestige des remparts, la Porte neuve de Monteux voit sa voûte reconstruite en 1730 et rénovée en 2019.",
+   "anecdotes": [
+    {
+     "texte": "En 1854, la porte a failli être rasée, mais elle est conservée sur ordre du préfet sous la pression populaire.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Vestige des remparts de Monteux.",
+   "sources": [
+    "S15",
+    "S18",
+    "S16",
+    "S17"
+   ],
+   "lat": 44.0296,
+   "lon": 4.9847,
+   "url": "https://fr.wikipedia.org/wiki/Porte_Neuve_de_Monteux"
+  },
+  {
+   "nom": "Tour Clémentine",
+   "histoire": "La Tour Clémentine se dresse à Monteux: un incendie avait ravagé le château du XIVe siècle, ne laissant que la tour, aujourd’hui classée aux Monuments historiques depuis 1910.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 44.03434,
+   "lon": 4.99791,
+   "url": "https://fr.wikipedia.org/wiki/Tour_Cl%C3%A9mentine"
+  },
+  {
+   "nom": "Église Notre-Dame-de-Nazareth de Monteux",
+   "histoire": "Église située à Monteux, inscrite aux Monuments historiques depuis 1992.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S22",
+    "S23"
+   ],
+   "lat": 44.03641,
+   "lon": 4.99677,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Notre-Dame-de-Nazareth_de_Monteux"
+  }
+ ],
+ "sources": [
+  "Monteux est une commune française située dans le département du Vaucluse, en région Provence-Alpes-Côte d'Azur. Elle fait partie de la communauté d'agglomération Les Sorgues du Comtat.",
+  "Sur la colline de Talaud a été exhumé une sépulture à incinération, des débris de balsamaires, une lampe en terre cuite, une assiette et un bol de terre vernissé rouge. Dès 1211, Guillaume III, évêque de Carpentras, qui a transigé avec les co-seigneurs Isnard d'Entrevennes, Imbert et Raymond d'Agoult, obtint l'exemption de tout droit de péage sur leur fief. Celui-ci dépendait alors du comte de Toulouse. Ce fut en […]",
+  "1562 : En 1562, les huguenots incendièrent le couvent des franciscains puis se retranchèrent derrière les remparts de Monteux.",
+  "1973 : Le 31 juillet 1973, une explosion s'est produite dans l'entreprise Ruggiéri de Monteux.",
+  "1977 : Une autre explosion a lieu le 12 avril 1977 faisant deux morts et plusieurs blessés.",
+  "Lieu « Parc Spirou » : Le parc Spirou est un parc à thèmes français situé dans la commune de Monteux, en Vaucluse.",
+  "Lieu « Parc Spirou », 2015 : Il est annoncé que la vallée du Rhône sera le lieu d'implantation pour un investissement de 75 millions d'euros en plusieurs phases dont l'ouverture est alors fixée au printemps 2015.",
+  "Lieu « Parc Spirou », 2015 : Les éditions Dupuis déclarent début 2015 que l'ouverture aura lieu à l'été 2016.",
+  "Lieu « Parc Spirou », 2016 : En janvier 2016, le site officiel est mis à jour pour annoncer une ouverture non plus au deuxième semestre 2016 mais en 2017.",
+  "Lieu « Parc Spirou », aujourd'hui : Le parcours scénique AGV de Simworx et Dreamwall baptisé Zombillenium n'ayant jamais été satisfaisant, il est remplacé par un cinéma 4-D par le même constructeur pour la deuxième saison.",
+  "Lieu « Gare de Monteux » : La gare de Monteux est une gare ferroviaire française de la ligne de Sorgues - Châteauneuf-du-Pape à Carpentras.",
+  "Lieu « Gare de Monteux », 1863 : Mise en service en 1863, lors de l'ouverture de la ligne, par la Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (PLM), elle est fermée au service des voyageurs en 1938, puis rouverte à ce service en 2015, après la rénovation de la ligne, par la Société nationale des chemins de fer français (SNCF).",
+  "Lieu « Gare de Monteux », 2013 : En mars 2013, la ligne est elle-même fermée au trafic des marchandises pour permettre sa mise en travaux pour une rénovation devant permettre la réouverture du service des voyageurs.",
+  "Lieu « Gare de Monteux », 2014 : Le 25 octobre 2014 RFF et la Sncf annoncent un retard du chantier de remise en état de la ligne et des gares, qui repousse l'ouverture, prévue le 14 décembre 2014 au mois d'avril 2015.",
+  "Lieu « Porte Neuve de Monteux » : La Porte neuve de Monteux est un des vestiges des remparts de Monteux, dans le département français de Vaucluse.",
+  "Lieu « Porte Neuve de Monteux », 1730 : Sa voute est reconstruite en 1730 et rénovée en 2019.",
+  "Lieu « Porte Neuve de Monteux », 1854 : La porte a failli être rasée en 1854, mais fut conservée sur ordre du préfet sous la pression populaire.",
+  "Lieu « Porte Neuve de Monteux », aujourd'hui : La Porte neuve de Monteux est un des vestiges des remparts de Monteux, dans le département français de Vaucluse.",
+  "Lieu « Tour Clémentine » : La tour Clémentine est située à Monteux, en Vaucluse.",
+  "Lieu « Tour Clémentine », XIVe siècle : Un incendie a ravagé le château du XIVe siècle, dont il ne reste que la tour de nos jours.",
+  "Lieu « Tour Clémentine », 1910 : L'édifice est classé aux Monuments historiques depuis 1910.",
+  "Lieu « Église Notre-Dame-de-Nazareth de Monteux » : L'église Notre-Dame-de-Nazareth est située à Monteux, en Vaucluse.",
+  "Lieu « Église Notre-Dame-de-Nazareth de Monteux », 1992 : L'édifice est inscrit aux Monuments historiques depuis 1992."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XIXe"
+  ],
+  "nb_lieux": 5,
+  "nb_anecdotes": 1
+ }
+}
