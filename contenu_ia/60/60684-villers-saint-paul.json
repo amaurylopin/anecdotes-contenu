@@ -1,0 +1,178 @@
+{
+ "commune": {
+  "titre": "Villers-Saint-Paul",
+  "code_insee": "60684",
+  "departement": "60",
+  "population": 6480,
+  "lat": 49.28972222,
+  "lon": 2.48805556,
+  "url": "https://fr.wikipedia.org/wiki/Villers-Saint-Paul"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:45:51",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1496,
+  "sortie": 1480
+ },
+ "cout_usd": 0.002149,
+ "accroche": "En 1862, l’église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul a été classée au titre des monuments historiques (liste de 1862).",
+ "histoire": {
+  "recit": "À Villers-Saint-Paul, la vie paroissiale s’est d’abord organisée autour de l’église Saint-Pierre-et-Saint-Paul. Avant la Révolution, la commune est le siège d’une seigneurie, tenue notamment en 1764 par Henry-Gabriel de Béry, marquis d’Essertaux. \n\nLe grand bâtiment religieux a traversé les choix de restauration : en 1886, Eugène Lefèvre-Pontalis se réjouit qu’il ait été épargné par des restaurations jugées malencontreuses. Plus tard, en 1923, une piscine liturgique à droite du chevet est réparée après un incendie. Aujourd’hui, la lecture de l’édifice varie : certains auteurs estiment qu’il n’est composé que de deux travées, malgré les ouvertures visibles.\n\nCôté château, l’ancien château de Villers-Saint-Paul, aussi connu sous d’autres appellations, a laissé une trace plus discrète. Un château fort a été construit au lieu-dit Mortefontaine, puis le châtelain lié à la Garde nationale de Creil a vu ses biens mis sous séquestre et il a été guillotiné en 1794. Enfin, le château a été rasé en 1970, et une résidence nommée « Domaine du château » rappelle désormais son emplacement, à l’endroit de l’allée des Tulipes.",
+  "chronologie": [
+   {
+    "date": "1764",
+    "texte": "Henry-Gabriel de Béry, marquis d’Essertaux, détient la seigneurie de Villers-Saint-Paul (entre autres seigneuries liées).",
+    "sources": [
+     "S2"
+    ]
+   },
+   {
+    "date": "1862",
+    "texte": "L’église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul est classée au titre des monuments historiques (liste de 1862).",
+    "sources": [
+     "S4",
+     "S3"
+    ]
+   },
+   {
+    "date": "1886",
+    "texte": "Eugène Lefèvre-Pontalis se réjouit que l’édifice ait été épargné par des restaurations malencontreuses.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1923",
+    "texte": "La piscine liturgique à droite du chevet est réparée à la suite d’un incendie survenu en 1923.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1794",
+    "texte": "Dans le contexte révolutionnaire, le colonel de la Garde nationale de Creil voit ses biens mis sous séquestre puis est condamné à mort et guillotiné le 27 juin 1794.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "16 mai 1929",
+    "texte": "Le château est inscrit au titre des monuments historiques par arrêté du 16 mai 1929.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1970",
+    "texte": "Le château est rasé en 1970 ; aujourd’hui, le « Domaine du château » en conserve la mémoire d’emplacement.",
+    "sources": [
+     "S11",
+     "S12"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul",
+   "histoire": "Église catholique paroissiale à Villers-Saint-Paul, elle a été classée monument historique par liste de 1862. Des restaurations ont marqué son histoire : en 1923, une piscine liturgique à droite du chevet est réparée après un incendie. Aujourd’hui, certains auteurs discutent sa composition en travées à partir de la disposition intérieure visible.",
+   "anecdotes": [
+    {
+     "texte": "En 1886, Eugène Lefèvre-Pontalis se réjouit que l’église ait été épargnée par des restaurations jugées malencontreuses.",
+     "statut": "etabli",
+     "sources": [
+      "S5"
+     ]
+    },
+    {
+     "texte": "En 1923, un incendie endommage la piscine liturgique à droite du chevet, qui est ensuite réparée.",
+     "statut": "etabli",
+     "sources": [
+      "S6"
+     ]
+    },
+    {
+     "texte": "Aujourd’hui, certains auteurs considèrent que l’église ne serait composée que de deux travées, malgré les ouvertures et arcades visibles.",
+     "statut": "conteste",
+     "sources": [
+      "S7"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S3",
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "lat": 49.287356,
+   "lon": 2.49193,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-et-Saint-Paul_de_Villers-Saint-Paul"
+  },
+  {
+   "nom": "Château de Villers-Saint-Paul",
+   "histoire": "Le château de Villers-Saint-Paul, aussi appelé château de Nogent-les-Vierges ou château de Mortefontaine, se trouvait à l’emplacement actuel de l’allée des Tulipes. Un château fort y est construit au Moyen Âge, et les événements révolutionnaires frappent un officier lié à la Garde nationale. Inscrit en 1929 au titre des monuments historiques, le château est rasé en 1970 ; le « Domaine du château » en rappelle aujourd’hui l’existence.",
+   "anecdotes": [
+    {
+     "texte": "En 1791, un colonel de la Garde nationale de Creil voit ses biens mis sous séquestre ; condamné le 27 juin 1794, il est guillotiné le jour même.",
+     "statut": "etabli",
+     "sources": [
+      "S10"
+     ]
+    },
+    {
+     "texte": "Après l’inscription de 1929, le château est rasé en 1970 : il ne reste plus qu’un repère moderne, « Domaine du château », à l’endroit de l’allée des Tulipes.",
+     "statut": "etabli",
+     "sources": [
+      "S11",
+      "S12"
+     ]
+    },
+    {
+     "texte": "Au Moyen Âge, un château fort est construit au lieu-dit Mortefontaine par les seigneurs de Villers-Saint-Paul, avant la disparition de la maison vers 1650.",
+     "statut": "etabli",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Une résidence pavillonnaire dénommée « Domaine du château » rappelle l’existence du château de Mortefontaine, situé à l’endroit de l’allée des Tulipes.",
+   "sources": [
+    "S12"
+   ],
+   "lat": 49.28472,
+   "lon": 2.4822,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Villers-Saint-Paul"
+  }
+ ],
+ "sources": [
+  "Villers-Saint-Paul est une commune française située dans le département de l'Oise, en région Hauts-de-France.",
+  "Avant la Révolution française, Villers-Saint-Paul est le siège d'une seigneurie. Elle est détenue en 1764 par Henry-Gabriel de Béry, marquis d'Essertaux, seigneur d'Oresmaux, Jumelle, Treux, Villecourt et Villers-Saint-Paul, époux d'Anne Marie Claude de Berbier du Metz.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul » : L'église Saint-Pierre-et-Saint-Paul est une église catholique paroissiale située à Villers-Saint-Paul, en France.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul », 1862 : L'édifice a été classée au titre des monuments historiques par liste de 1862, soit vingt-deux ans après les premiers classements en France.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul », 1886 : En 1886, Eugène Lefèvre-Pontalis se réjouit que l'édifice a été épargné par des restaurations malencontreuses.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul », 1923 : La piscine liturgique à droite du chevet est réparée à la suite d'un incendie survenu en 1923.",
+  "Lieu « Église Saint-Pierre-et-Saint-Paul de Villers-Saint-Paul », aujourd'hui : Sa subdivision par une arcade intermédiaire aujourd'hui disparue amène certains auteurs à considérer qu'elle ne soit composée que de deux travées (malgré les six fenêtres hautes et les six grandes arcades de chaque côté).",
+  "Lieu « Château de Villers-Saint-Paul » : Le château de Villers-Saint-Paul, dit également château de Nogent-les-Vierges ou château de Mortefontaine, était un château français situé à Villers-Saint-Paul (Oise).",
+  "Lieu « Château de Villers-Saint-Paul », 1650 : Un château fort fut construit au Moyen Âge à Villers-Saint-Paul au lieu-dit Mortefontaine (source tarie) par les seigneurs de Villers-Saint-Paul, dont la maison disparut avec le décès vers 1650 de Louise de Villers-Saint-Paul.",
+  "Lieu « Château de Villers-Saint-Paul », 1791 : Colonel de la Garde nationale de Creil en 1791, ses biens sont mis sous séquestre en vertu d'un décret de la Convention Nationale en janvier 1794 ; condamné à mort par le Tribunal révolutionnaire le 27 juin 1794 et guillotiné le jour même.",
+  "Lieu « Château de Villers-Saint-Paul », 1929 : Ainsi le château inscrit au titre des monuments historiques par arrêté du 16 mai 1929, a été rasé en 1970.",
+  "Lieu « Château de Villers-Saint-Paul », aujourd'hui : Aujourd'hui, à Villers-Saint-Paul, une résidence pavillonnaire dénommée « Domaine du château » rappelle seule l'existence du château de Mortefontaine qui se situait à l’endroit où se trouve actuellement l’allée des Tulipes."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 2,
+  "nb_anecdotes": 6
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "commune": {
+  "titre": "Noyon",
+  "code_insee": "60471",
+  "departement": "60",
+  "population": 12971,
+  "lat": 49.58166667,
+  "lon": 2.99972222,
+  "url": "https://fr.wikipedia.org/wiki/Noyon"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:37:13",
+ "lieux_ecartes_autre_commune": 4,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3076,
+  "sortie": 2161
+ },
+ "cout_usd": 0.003316,
+ "accroche": "Le 30 août 1918, Noyon fut définitivement libérée lors de l’offensive alliée de l’été 1918, partie du Matz, commencée le 10 août.",
+ "histoire": {
+  "recit": "Noyon, ville principale du pays traditionnel du Noyonnais en Picardie, fut longtemps un centre religieux majeur : sous l’Ancien Régime, elle abrita un évêché dont l’évêque-comte figurait parmi les Douze pairs primitifs de France. La ville dut pourtant se relever d’épreuves très dures. En 1293, un incendie détruisit la ville, sauf deux établissements ecclésiastiques : l’abbaye Saint-Gilles et l’abbaye Saint-Barthélemy. Plus tard, l’hôtel de ville, construit entre 1485 et 1523, se signale par ses sculptures de grappes de raisin. Au cœur de Noyon, la Cathédrale Notre-Dame jalonne l’histoire : construite à partir de 1145, elle s’inscrit dans une suite de campagnes plus anciennes, et son passé est aussi nourri par un récit de protection contre les flammes. Enfin, après les violences du début du XXe siècle, la ville retrouve une liberté décisive : le 30 août 1918, elle est définitivement libérée lors de l’offensive alliée de l’été 1918.",
+  "chronologie": [
+   {
+    "date": "1293",
+    "texte": "La ville de Noyon est détruite par un incendie, à l’exception de deux établissements ecclésiastiques : l’abbaye Saint-Gilles et l’abbaye Saint-Barthélemy.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1430",
+    "texte": "Jeanne d’Arc est emprisonnée quelque temps dans la petite prison de l’« Officialité du Chapitre » à Noyon, avant d’être vendue aux Anglais le 21 novembre.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1485",
+    "texte": "L’hôtel de ville de Noyon est construit à partir de 1485 ; ses frises et encadrements de fenêtres portent de nombreuses sculptures de grappes de raisin.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1145",
+    "texte": "La cathédrale Notre-Dame de Noyon, construite à partir de 1145, devient l’un des premiers jalons de l’architecture gothique.",
+    "sources": [
+     "S10"
+    ]
+   },
+   {
+    "date": "1918",
+    "texte": "Le 30 août 1918, Noyon est définitivement libérée lors de l’offensive de libération alliée de l’été 1918, partie du Matz, commencée le 10 août.",
+    "sources": [
+     "S6"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Notre-Dame de Noyon",
+   "histoire": "Au centre de Noyon, la cathédrale Notre-Dame est une église catholique. Construite à partir de 1145, elle s’inscrit parmi les premiers jalons de l’architecture gothique. Son histoire remonte aussi à l’existence d’une première cathédrale au début du haut Moyen Âge, avant une destruction probablement liée à un incendie.",
+   "anecdotes": [
+    {
+     "texte": "Après un incendie qui aurait ravagé la ville, un récit de la vie de sainte Godeberthe raconte qu’elle aurait miraculeusement protégé la cathédrale des flammes.",
+     "statut": "legende",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La cathédrale est aujourd’hui au centre de la paroisse Saint-Éloi de Noyon.",
+   "sources": [
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "lat": 49.5821,
+   "lon": 3.0006,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Noyon"
+  },
+  {
+   "nom": "Abbaye Saint-Barthélemy de Noyon",
+   "histoire": "L’abbaye Saint-Barthélemy de Noyon est une ancienne abbaye de chanoines réguliers de Saint-Augustin, fondée en 1064 par l’évêque de Noyon Baudouin. Une petite église est bâtie au début du XIe siècle, au sein d’un cimetière hors les murs, sur la colline appelée le Mont-des-Monumens. L’ensemble est ensuite agrandi et érigé en abbaye par l’évêque Baudouin en 1064.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Reconstruite en 1875 en style néo-gothique à peu près à l’emplacement de l’ancienne, l’abbaye a été maintenue malgré la destruction de l’ancienne dans le premier tiers du XIXe siècle.",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "lat": 49.581225,
+   "lon": 3.002945,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-Barth%C3%A9lemy_de_Noyon"
+  },
+  {
+   "nom": "Hôtel de ville de Noyon",
+   "histoire": "Situé dans le centre-ville de Noyon, l’hôtel de ville est lié à l’histoire des bâtiments civils : en 1293, le beffroi situé en avant est détruit lors de l’incendie, puis reconstruit en matériaux légers vers 1310 et en pierre en 1328. Plus tard, après la Grande Guerre, le corps de bâtiments du XVIe siècle et ses décorations est restauré, la charpente étant refaite en béton.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les statues de ses niches ont aujourd’hui disparu.",
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21"
+   ],
+   "lat": 49.5816666667,
+   "lon": 2.99972222222,
+   "url": "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Noyon"
+  },
+  {
+   "nom": "Abbaye Saint-Éloi de Noyon",
+   "histoire": "L’abbaye Saint-Éloi de Noyon est une ancienne abbaye bénédictine. Elle est fondée hors les murs vers 640, sous le vocable de saint Loup, dans le faubourg d’Orroire, à l’endroit marécageux nommé le pré Saint Eloi. Une nouvelle église est commencée en 1207 sous l’abbatiat de Raoul II et achevée sous celui de Robert en 1240. Plus tard, après des troubles, les religieux ne se réunissent à nouveau dans leur monastère qu’après la paix signée en 1559, tandis qu’en juillet 1591 Henri IV attaque l’abbaye fortifiée.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Après la reddition de la ville, Henri IV donne le revenu du monastère à Antoine d’Estrées et fait construire sur l’emplacement une citadelle destinée à tenir désormais la ville en respect.",
+   "sources": [
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "S26"
+   ],
+   "lat": 49.579117,
+   "lon": 3.00259,
+   "url": "https://fr.wikipedia.org/wiki/Abbaye_Saint-%C3%89loi_de_Noyon"
+  },
+  {
+   "nom": "Musée du Noyonnais",
+   "histoire": "Le Musée du Noyonnais est un musée d’art, d’archéologie et d’histoire, situé à Noyon. Un bâtiment connaît des transformations : en 1095, une cour est ajoutée par l’évêque Étienne Ier de Nemours, puis un nouveau palais est construit dans la seconde moitié du XIIe siècle. Le musée conserve aussi les traces d’évolutions plus récentes du bâti, dont la chapelle épiscopale démantelée en 1897 dans le cadre d’un chantier lié à la cathédrale.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il n’en subsiste plus qu’une grande arcature entourant deux baies divisées chacune par une colonnette.",
+   "sources": [
+    "S27",
+    "S28",
+    "S29",
+    "S30",
+    "S31"
+   ],
+   "lat": 49.58158,
+   "lon": 3.00043,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Noyonnais"
+  },
+  {
+   "nom": "Gare de Noyon",
+   "histoire": "La gare de Noyon est une gare ferroviaire de la ligne de Creil à Jeumont, située à environ 600 mètres du centre-ville. Elle est inaugurée le 25 février 1849 par le prince-président Louis-Napoléon Bonaparte. La section Creil – Noyon ouvre le lendemain, la ligne atteint Saint-Quentin l’année suivante et, en 1854, la frontière belge. Le bâtiment voyageurs, détruit durant la Première Guerre mondiale, est reconstruit de 1927 à 1930 par l’architecte Urbain Cassan.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ],
+   "lat": 49.577018,
+   "lon": 3.006518,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Noyon"
+  }
+ ],
+ "sources": [
+  "Noyon est une commune française située dans le département de l'Oise, en région Hauts-de-France. La commune de Noyon donne son nom au pays traditionnel du Noyonnais, qui est une région historique de Picardie dont elle est la ville principale. Sous l'Ancien Régime, Noyon fut le centre d'un évéché dont l'évêque-comte figurait parmi les Douze pairs primitifs de France. La commune est aussi connue comme étant la ville […]",
+  "Au XIXe siècle, certains auteurs[réf. souhaitée] ont placé à Noyon le Noviodunum Suessionum, oppidum principal des Suessions, où Jules César établit son camp avant de se tourner vers les Bellovaques (La Guerre des Gaules, II, 12). Mais cette hypothèse est abandonnée depuis longtemps. La ville a été fondée à l'époque gallo-romaine. Elle faisait partie de la cité des Viromanduens. C'était une petite ville qui […]",
+  "1293 : En 1293, la ville est détruite par un incendie, à l'exception de deux établissements ecclésiastiques, l'abbaye Saint-Gilles et l'abbaye Saint-Barthélemy.",
+  "1430 : En 1430, Jeanne d'Arc est emprisonnée quelque temps à la petite prison de \"l'Officialité du Chapitre \" de Noyon, avant d'être vendue aux Anglais le 21 novembre de cette même année[réf. souhaitée].",
+  "1485 : L'hôtel de ville de Noyon, construit de 1485 à 1523, présente, dans ses frises et encadrements de fenêtres, de très nombreuses sculptures de grappes de raisin.",
+  "1918 : Le 30 août 1918 : Noyon fut définitivement libérée lors de l'offensive de libération alliée de l'été 1918 partie du Matz le 10 août.",
+  "Lieu « Cathédrale Notre-Dame de Noyon » : La cathédrale Notre-Dame de Noyon est une église catholique située au centre de la ville de Noyon, dans le département français de l'Oise en région Hauts-de-France.",
+  "Lieu « Cathédrale Notre-Dame de Noyon », 531 : Une première cathédrale aurait été construite au début du haut Moyen Âge, peut-être lorsque l'évêque Médard déplaça le siège de son diocèse de Vermand (près de Saint-Quentin) à Noyon, ville entourée de remparts, en 531.",
+  "Lieu « Cathédrale Notre-Dame de Noyon », 676 : Elle fut probablement détruite lors d'un incendie qui ravagea la ville en 676, malgré un récit de la vie de sainte Godeberthe qui raconte comment la sainte aurait miraculeusement protégé la cathédrale des flammes.",
+  "Lieu « Cathédrale Notre-Dame de Noyon », 1145 : La cathédrale Notre-Dame de Noyon, construite à partir de 1145, est l'un des premiers jalons de l'architecture gothique.",
+  "Lieu « Cathédrale Notre-Dame de Noyon », aujourd'hui : La cathédrale est aujourd'hui au centre de la paroisse Saint-Éloi de Noyon.",
+  "Lieu « Abbaye Saint-Barthélemy de Noyon » : L'abbaye Saint-Barthélemy de Noyon est une ancienne abbaye de chanoines réguliers de Saint-Augustin fondée en 1064 par l'évêque de Noyon, Baudouin, et située à Noyon dans l'actuel département français de l'Oise en région Hauts-de-France.",
+  "Lieu « Abbaye Saint-Barthélemy de Noyon », XIe siècle : Une petite église est bâtie, au début du XIe siècle, à l´initiative de Garnier, archidiacre du diocèse de Noyon, dans un cimetière hors les murs, sur une petite colline appelée le Mont-des-Monumens.",
+  "Lieu « Abbaye Saint-Barthélemy de Noyon », 1064 : L'abbaye Saint-Barthélemy de Noyon est une ancienne abbaye de chanoines réguliers de Saint-Augustin fondée en 1064 par l'évêque de Noyon, Baudouin, et située à Noyon dans l'actuel département français de l'Oise en région Hauts-de-France.",
+  "Lieu « Abbaye Saint-Barthélemy de Noyon », 1064 : L´édifice est agrandi et érigé en abbaye par l´évêque Baudouin, en 1064.",
+  "Lieu « Abbaye Saint-Barthélemy de Noyon », aujourd'hui : Elles font reconstruire, en 1875, une nouvelle église de style néo-gothique, à peu près à l´emplacement de l´ancienne (détruite dans le premier tiers du XIXe siècle).",
+  "Lieu « Hôtel de ville de Noyon » : L'hôtel de ville de Noyon est situé dans le centre-ville de Noyon, dans le département français de l'Oise.",
+  "Lieu « Hôtel de ville de Noyon », 1293 : En avant de ce bâtiment se trouvait le beffroi ; il fut détruit dans l’incendie de 1293 et reconstruit en matériaux légers vers 1310 puis en pierre en 1328.",
+  "Lieu « Hôtel de ville de Noyon », XVIe siècle : Après la Grande Guerre, le corps de bâtiments du XVIe siècle avec ses décorations fut restauré ; la charpente fut refaite en béton.",
+  "Lieu « Hôtel de ville de Noyon », 1935 : En 1935, la ville décida la démolition de deux maisons des XVIIe et XVIIIe siècles, mitoyennes du corps de logis XVIe afin d’agrandir la place.",
+  "Lieu « Hôtel de ville de Noyon », aujourd'hui : Les statues de ses niches ont aujourd'hui disparu.",
+  "Lieu « Abbaye Saint-Éloi de Noyon » : L'abbaye Saint-Éloi de Noyon est une ancienne abbaye bénédictine, située à Noyon dans l'actuel département français de l'Oise en région Hauts-de-France.",
+  "Lieu « Abbaye Saint-Éloi de Noyon », 640 : Elle est fondée, hors les murs, vers 640, sous le vocable de saint Loup par saint Éloi, évêque de Noyon, avec l'aide de Clovis II et la reine Bathilde, dans le faubourg d'Orroire, à l'est de Noyon 49° 34′ 43″ N, 3° 00′ 24″ E, dans un endroit marécageux nommé le pré Saint Eloi.",
+  "Lieu « Abbaye Saint-Éloi de Noyon », 1207 : Une nouvelle église est commencée, en 1207, sous l´abbatiat de Raoul II et achevée sous celui de Robert en 1240.",
+  "Lieu « Abbaye Saint-Éloi de Noyon », 1559 : Les religieux sont contraints de fuir avec les habitants et ne se réunissent dans leur monastère qu'après la conclusion de la paix signée en 1559, En juillet 1591, Henri IV attaque l'abbaye Saint-Éloi qui avait été fortifiée par les habitants.",
+  "Lieu « Abbaye Saint-Éloi de Noyon », aujourd'hui : Après la reddition de la ville, Henri IV donne le revenu du monastère à Antoine d'Estrées, qu'il avait nommé gouverneur, et fait construire sur l'emplacement même une citadelle destinée à tenir désormais la ville en respect.",
+  "Lieu « Musée du Noyonnais » : Le musée du Noyonnais est un musée d'art, d'archéologie et d'histoire, situé à Noyon dans le département français de l'Oise, en région Hauts-de-France.",
+  "Lieu « Musée du Noyonnais », 1095 : En 1095, une cour est ajoutée par l'évêque Étienne Ier de Nemours au bâtiment.",
+  "Lieu « Musée du Noyonnais », XIIe siècle : Un nouveau palais est construit dans la deuxième moitié du XIIe siècle.",
+  "Lieu « Musée du Noyonnais », 1897 : Ce dernier comportait notamment une chapelle épiscopale démantelée en 1897 par l'architecte des Monuments historiques Paul Selmersheim qui en restaurant la cathédrale de Noyon entre 1884 et 1910, souhaitait dégager le flanc sud de la cathédrale.",
+  "Lieu « Musée du Noyonnais », aujourd'hui : Il n'en subsiste plus qu'une grande arcature entourant deux baies divisées chacune par une colonnette.",
+  "Lieu « Gare de Noyon » : La gare de Noyon est une gare ferroviaire française de la ligne de Creil à Jeumont, située à 600 mètres du centre-ville de Noyon, dans le département de l'Oise, en région Hauts-de-France.",
+  "Lieu « Gare de Noyon », 1849 : Celle-ci fut inaugurée le 25 février 1849, par le prince-président Louis-Napoléon Bonaparte.",
+  "Lieu « Gare de Noyon », 1854 : Le lendemain, la section Creil – Noyon était ouverte à la circulation, puis, l'année suivante, la ligne atteignait Saint-Quentin, et, en 1854, la frontière belge.",
+  "Lieu « Gare de Noyon », 1927 : Le bâtiment voyageurs, détruit durant la Première Guerre mondiale, fut reconstruit de 1927 à 1930 par l'architecte Urbain Cassan."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 1
+ }
+}

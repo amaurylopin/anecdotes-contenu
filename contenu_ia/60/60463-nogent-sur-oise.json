@@ -1,0 +1,107 @@
+{
+ "commune": {
+  "titre": "Nogent-sur-Oise",
+  "code_insee": "60463",
+  "departement": "60",
+  "population": 21907,
+  "lat": 49.27555556,
+  "lon": 2.46833333,
+  "url": "https://fr.wikipedia.org/wiki/Nogent-sur-Oise"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:05:49",
+ "lieux_ecartes_autre_commune": 2,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1416,
+  "sortie": 852
+ },
+ "cout_usd": 0.001348,
+ "accroche": "En 1241, Nogent-sur-Oise reçoit le pèlerinage de Saint Louis en l’honneur de Sainte Maure et Sainte Brigide, et le chœur de l’église est construit.",
+ "histoire": {
+  "recit": "Nogent-sur-Oise, commune de l’Oise, porte le nom de ses habitants, les Nogentais, et s’inscrit dans l’agglomération de Creil Sud Oise.\n\nLe site est ancien : une occupation remonte dès la préhistoire, et une grotte sépulcrale datant du néolithique aurait été retrouvée près du château des Rochers.\n\nLa destinée du lieu se noue aussi autour des deux saintes. Selon la tradition, Maure et Brigide sont deux vierges réputées pour leurs miracles ; après leur assassinat près de Balagny-sur-Thérain, la reine Bathilde fait transporter leurs restes vers son abbaye de Chelles.\n\nPlus tard, la ville est marquée par le passage de Saint Louis en 1241, venu en pèlerinage et suivi de la construction du chœur. Au XVIIIe siècle, l’église est fermée en 1792, quand on plante un arbre de la liberté. Enfin, en 1815, Nogent est occupé et pillé par des soldats prussiens le 27 juin.",
+  "chronologie": [
+   {
+    "date": "1241",
+    "texte": "Le passage de Saint Louis marque la ville : il vient en pèlerinage en l’honneur des deux vierges et le chœur de l’église est construit.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1792",
+    "texte": "L’église est fermée, et un arbre de la liberté est planté.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1815",
+    "texte": "Nogent est occupé par les troupes alliées ; des soldats prussiens pillent la ville le 27 juin.",
+    "sources": [
+     "S5"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Église Sainte-Maure-et-Sainte-Brigide de Nogent-sur-Oise",
+   "histoire": "Église catholique paroissiale du centre de l’agglomération de Creil Sud Oise, elle se signale par un chœur-halle dont l’édification commence vraisemblablement en 1245 ou peu après. Au XVIIe siècle, un enfeu du style de cette époque est réalisé, après la construction d’un enfeu en 1632 pour le tombeau du seigneur Jean Bardeau. Aujourd’hui, sa façade occidentale, avec son portail sous porche, donne sur un parvis correspondant à l’ancien cimetière, où subsistent plusieurs éléments funéraires.",
+   "anecdotes": [
+    {
+     "texte": "On raconte qu’en 1632 la construction d’un enfeu pour le tombeau du seigneur Jean Bardeau a provoqué le défoncement du mur de la première travée au nord et le bouchage d’une partie de la fenêtre.",
+     "statut": "etabli",
+     "sources": [
+      "S8"
+     ]
+    },
+    {
+     "texte": "Selon l’évolution du chantier, le classement aux monuments historiques aurait empêché l’achèvement d’un projet : à la place, un enfeu du XVIIe siècle aurait été construit.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Façade occidentale avec portail sous porche donnant sur un parvis correspondant à l’ancien cimetière ; en subsistent la croix de cimetière, la chapelle funéraire de la famille du maréchal Gérard et quelques pierres tombales.",
+   "sources": [
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10"
+   ],
+   "lat": 49.280083,
+   "lon": 2.47528,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Maure-et-Sainte-Brigide_de_Nogent-sur-Oise"
+  }
+ ],
+ "sources": [
+  "Nogent-sur-Oise est une commune française située dans le département de l'Oise, en région Hauts-de-France et fait partie de la communauté d'agglomération Creil Sud Oise. Ses habitants sont les Nogentais.",
+  "Le site a été occupé dès la préhistoire. Une grotte sépulcrale datant du néolithique a été retrouvé près du château des Rochers. Selon la légende, Maure et Brigide étaient deux vierges connues pour leurs miracles. Après leur assassinat près de Balagny-sur-Thérain, la reine Bathilde décide de faire transporter les restes des Vierges dans son abbaye de Chelles. Les corps sont déposés sur un char mais avant de […]",
+  "1241 : La ville fut aussi marquée par le passage de Saint Louis en 1241 qui est venu faire un pèlerinage en l'honneur des deux vierges et construit le chœur de l'église.",
+  "1792 : L'église fut fermée et on planta un arbre de la liberté en 1792.",
+  "1815 : En 1815, Nogent est occupé par les troupes alliées et pillée par les soldats prussiens le 27 juin.",
+  "Lieu « Église Sainte-Maure-et-Sainte-Brigide de Nogent-sur-Oise » : L'église Sainte-Maure-et-Sainte-Brigide est une église catholique paroissiale située à Nogent-sur-Oise, dans le centre de l'agglomération de Creil, dans le département de l'Oise, en France.",
+  "Lieu « Église Sainte-Maure-et-Sainte-Brigide de Nogent-sur-Oise », 1245 : L'édification du chœur-halle commence vraisemblablement en 1245 ou peu après.",
+  "Lieu « Église Sainte-Maure-et-Sainte-Brigide de Nogent-sur-Oise », 1632 : En 1632, un enfeu est construit pour le tombeau du seigneur Jean Bardeau, ce qui entraîne le défoncement du mur la première travée au nord et le bouchage de la partie inférieure du fenêtre.",
+  "Lieu « Église Sainte-Maure-et-Sainte-Brigide de Nogent-sur-Oise », XVIIe siècle : Le classement aux monuments historiques empêche l'achèvement de ce projet, et au lieu de la chapelle, un enfeu du style du XVIIe siècle est construit.",
+  "Lieu « Église Sainte-Maure-et-Sainte-Brigide de Nogent-sur-Oise », aujourd'hui : La façade occidentale avec le portail sous un porche donne sur un parvis, qui correspond à l'ancien cimetière : en subsistent la croix de cimetière, la chapelle funéraire de la famille du maréchal Gérard et quelques pierres tombales."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [
+   "XVIIIe"
+  ],
+  "nb_lieux": 1,
+  "nb_anecdotes": 2
+ }
+}

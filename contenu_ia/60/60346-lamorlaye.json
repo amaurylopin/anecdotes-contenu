@@ -1,0 +1,67 @@
+{
+ "commune": {
+  "titre": "Lamorlaye",
+  "code_insee": "60346",
+  "departement": "60",
+  "population": 9082,
+  "lat": 49.15555556,
+  "lon": 2.44166667,
+  "url": "https://fr.wikipedia.org/wiki/Lamorlaye"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:06:45",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 1000,
+  "sortie": 487
+ },
+ "cout_usd": 0.000809,
+ "accroche": "À Lamorlaye, le château actuel a été reconstruit en 1820, puis acheté et agrandi par le comte Vigier en 1872.",
+ "histoire": {
+  "recit": "À Lamorlaye, les traces commencent bien avant les châteaux : des silex taillés ont été découverts lors de la construction de l’immeuble La Montagne, et une hache polie a été trouvée à Plein Soleil. Le nom de la ville est, lui, rattaché aux Mérovingiens : Morlacca serait le souvenir d’un premier château situé sur la côte vers Chantilly.\n\nAu milieu du XVe siècle, la commune connaît une période plus brillante, avec un nouveau seigneur, Antoine de Gallaix. Il fait construire un château dont il ne reste aujourd’hui que les douves, rue du Vieux-Château, et il restaure l’église.\n\nPlus tard, le château tel qu’on le voit aujourd’hui date d’une reconstruction en 1820. Le comte Vigier l’achète ensuite et l’agrandit en 1872.",
+  "chronologie": [
+   {
+    "date": "XVe siècle (milieu)",
+    "texte": "La ville connaît une période faste avec Antoine de Gallaix, qui construit un nouveau château dont il ne reste que les douves (rue du Vieux-Château) et restaure l’église.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1820",
+    "texte": "Le château actuel est reconstruit.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1872",
+    "texte": "Le comte Vigier achète et agrandit le château.",
+    "sources": [
+     "S4"
+    ]
+   }
+  ]
+ },
+ "lieux": [],
+ "sources": [
+  "Lamorlaye est une commune française située dans le département de l'Oise en région Hauts-de-France.",
+  "Comme presque partout en France, on retrouve des traces d'activité datant de la préhistoire (des silex taillés découverts lors de la construction de l'immeuble La Montagne, une hache polie à Plein Soleil...). C'est des Mérovingiens que date le nom de la ville ; Morlacca étant le souvenir d'un premier château, sur la côte vers Chantilly. Sous Philippe Auguste, après une période de grande misère, Morlacca, devenue […]",
+  "XVe siècle : Au milieu du XVe siècle, la ville connaît une période faste avec un nouveau seigneur, Antoine de Gallaix, qui construit un nouveau château dont il ne reste que les douves (rue du Vieux-Château) et restaure l'église.",
+  "1820 : Le château actuel, reconstruit en 1820, a été acheté et agrandi par le comte Vigier en 1872."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 0,
+  "nb_anecdotes": 0
+ }
+}
