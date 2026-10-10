@@ -1,0 +1,275 @@
+{
+ "commune": {
+  "titre": "Douarnenez",
+  "code_insee": "29046",
+  "departement": "29",
+  "population": 14068,
+  "lat": 48.092778,
+  "lon": -4.329167,
+  "url": "https://fr.wikipedia.org/wiki/Douarnenez"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:32:16",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 4015,
+  "sortie": 1914
+ },
+ "cout_usd": 0.003195,
+ "accroche": "En mai 1993, le Port-Musée de Douarnenez est inauguré au Port-Rhu, sur l’ancienne ria de Pouldavid, séparant Douarnenez et Tréboul.",
+ "histoire": {
+  "recit": "Douarnenez s’étend sur le littoral de la mer d’Iroise et donne son nom à la baie du même nom. La commune s’agrandit en 1945 en fusionnant avec Ploaré, Pouldavid et Tréboul, tout en conservant la réputation d’un grand port sardinier associé aux conserveries.\n\nAvant même la ville, le site connaît des usages successifs : détruit à la fin du IIIe siècle, il est réoccupé à partir du IVe siècle par une forge, puis demeure occupé jusqu’au XIIIe siècle par de modestes cabanes et un cimetière. Plus tard, la tradition rattache l’origine du nom à un ermite installé sur l’île au VIIIe siècle.\n\nQuand la sardine bat son plein, en 1860 Douarnenez pêche 300 millions de sardines ; la moitié est cuite à l’huile dans les « fritures », avant la mise en conserve. Au XXe siècle, l’Abri du marin est inauguré en 1914 après un refus municipal, et la place de l’Enfer est aménagée en 1901 avec un lavoir.\n\nAujourd’hui, les visiteurs retrouvent cette histoire au Port-Musée, sur l’eau, tandis que d’autres repères subsistent : l’ancien abri du marin, le stade Xavier-Trellu et les vestiges du Temple de Trégouzel.",
+  "chronologie": [
+   {
+    "date": "1945",
+    "texte": "Douarnenez s’agrandit en fusionnant avec Ploaré, Pouldavid et Tréboul.",
+    "sources": [
+     "S1"
+    ]
+   },
+   {
+    "date": "fin du IIIe siècle",
+    "texte": "Le site est détruit à la fin du IIIe siècle.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "à partir du IVe siècle",
+    "texte": "Le site est réoccupé par une forge et reste occupé jusqu’au XIIIe siècle.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "VIIIe siècle",
+    "texte": "Une tradition relie l’origine du nom de l’île à un ermite installé au VIIIe siècle.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1860",
+    "texte": "Douarnenez pêche 300 millions de sardines ; la moitié est cuite à l’huile dans les « fritures » puis mise en conserve.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1884",
+    "texte": "Après l’ouverture de la gare à Tréboul en 1884, notables et industriels préfèrent les plages tréboulistes.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1901",
+    "texte": "La place de l’Enfer est aménagée en 1901 avec un lavoir à l’emplacement d’une anse marécageuse.",
+    "sources": [
+     "S14"
+    ]
+   },
+   {
+    "date": "1914",
+    "texte": "En 1914, l’Abri du marin de Douarnenez est inauguré.",
+    "sources": [
+     "S13"
+    ]
+   },
+   {
+    "date": "mai 1993",
+    "texte": "Le Port-Musée de Douarnenez est inauguré en mai 1993 au Port-Rhu.",
+    "sources": [
+     "S17"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Port-musée de Douarnenez",
+   "histoire": "Le Port-Musée de Douarnenez inaugure en mai 1993 un musée à flot situé au Port-Rhu, près de l’île Tristan, sur l’ancienne ria de Pouldavid qui sépare Douarnenez et Tréboul.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le musée, à flot, fait face à une « gageure de sa conservation » pour les bateaux visibles dans la ria.",
+   "sources": [
+    "S17",
+    "S19"
+   ],
+   "lat": 48.09361,
+   "lon": -4.33444,
+   "url": "https://fr.wikipedia.org/wiki/Port-mus%C3%A9e_de_Douarnenez"
+  },
+  {
+   "nom": "Tréboul (Finistère)",
+   "histoire": "Tréboul est une ancienne commune créée en 1880 en baie de Douarnenez ; elle est rattachée à Douarnenez en 1945. Aujourd’hui, elle est considérée comme un quartier de Douarnenez.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Tréboul est aujourd’hui considéré comme un quartier de Douarnenez.",
+   "sources": [
+    "S20",
+    "S24"
+   ],
+   "lat": 48.1,
+   "lon": -4.35,
+   "url": "https://fr.wikipedia.org/wiki/Tr%C3%A9boul_%28Finist%C3%A8re%29"
+  },
+  {
+   "nom": "Stade Xavier-Trellu",
+   "histoire": "Le stade Xavier-Trellu porte le nom de Xavier Trellu, résistant pendant la Seconde Guerre mondiale et ancien maire de Douarnenez. Il est inauguré à Ploaré en 1922 et agrandi à plusieurs reprises.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Le stade possède une capacité de 3 000 places, dont 392 places assises dans la tribune honneur.",
+   "sources": [
+    "S25",
+    "S27",
+    "S29"
+   ],
+   "lat": 48.08582,
+   "lon": -4.30927,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Xavier-Trellu"
+  },
+  {
+   "nom": "Île Tristan",
+   "histoire": "L’île Tristan se trouve dans la baie de Douarnenez, face au Port-Rhu. La première supposition concernant l’origine du nom relie l’île à un ermite qui s’y serait installé au VIIIe siècle.",
+   "anecdotes": [
+    {
+     "texte": "L’origine du nom serait liée à un ermite du nom de l’île, installé au VIIIe siècle.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S31"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31"
+   ],
+   "lat": 48.101667,
+   "lon": -4.3375,
+   "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_Tristan"
+  },
+  {
+   "nom": "Temple de Trégouzel",
+   "histoire": "Le Temple de Trégouzel, un fanum, dont les ruines sont mises au jour au XIXe siècle, correspond aujourd’hui à un site archéologique à proximité de Ploaré à Douarnenez.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les vestiges du temple sont classés comme monuments historiques en 1980.",
+   "sources": [
+    "S35",
+    "S39"
+   ],
+   "lat": 48.0753,
+   "lon": -4.31442,
+   "url": "https://fr.wikipedia.org/wiki/Temple_de_Tr%C3%A9gouzel"
+  },
+  {
+   "nom": "Pouldavid-sur-Mer",
+   "histoire": "Pouldavid-sur-Mer est une ancienne commune créée en 1919, rattachée à Douarnenez en 1945. L’église Saint-Jacques y présente une nef avec des arcades du XIVe siècle, un porche du XVe siècle et un chœur du XVIe siècle.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S40",
+    "S41"
+   ],
+   "lat": 48.0766667,
+   "lon": -4.3333333,
+   "url": "https://fr.wikipedia.org/wiki/Pouldavid-sur-Mer"
+  },
+  {
+   "nom": "Ploaré",
+   "histoire": "Ploaré est une ancienne commune et paroisse rattachée à Douarnenez en 1945. À Ploaré, le site des Plomarc’h, ancien établissement gallo-romain de fabrication de garum, est mentionné, et un stade Xavier-Trellu est inauguré en 1922 à la Sainte-Croix.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45",
+    "S46",
+    "S47"
+   ],
+   "lat": 48.085,
+   "lon": -4.3206,
+   "url": "https://fr.wikipedia.org/wiki/Ploar%C3%A9"
+  },
+  {
+   "nom": "Ancien abri du marin (Douarnenez)",
+   "histoire": "L’ancien abri du marin se dresse à la pointe du Rosmeur et surplombe le port de pêche. Il ferme en 1973 et est vendu à la commune de Douarnenez en 1974 ; au fil du temps, le bâtiment devient un repère du patrimoine maritime en France.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "De 1981 jusqu’au printemps 2018, il accueille les éditeurs de la revue Chasse-Marée, et ses façades et toitures sont inscrites au titre des monuments historiques par arrêté du 27 octobre 2007.",
+   "sources": [
+    "S50",
+    "S51",
+    "S52",
+    "S53"
+   ],
+   "lat": 48.097034,
+   "lon": -4.325004,
+   "url": "https://fr.wikipedia.org/wiki/Ancien_abri_du_marin_%28Douarnenez%29"
+  }
+ ],
+ "sources": [
+  "Douarnenez (prononcé : /dwaʁ.nə.ne/) est une commune française, sur le littoral de la mer d'Iroise, donnant son nom à la baie de Douarnenez. Elle fait partie du département du Finistère en région Bretagne. La commune est agrandie en 1945 en fusionnant avec les communes voisines de Ploaré, Pouldavid et Tréboul. Douarnenez garde encore la réputation d'un grand port sardinier associé aux conserveries de la ville. Les […]",
+  "Une stèle datant de l'âge du fer, qui se trouvait dans une nécropole située à l'entrée de la ferme de Kerru en Ploaré, dont il ne subsiste qu'un fragment haut de 22 cm pour un diamètre de 15 cm, orné de frises, se trouve au musée de la préhistoire finistérienne de Saint-Guénolé en Penmarc'h. À l'époque gallo-romaine, le site de Douarnenez faisait partie du territoire des Osismes et le port et la ville avaient alors […]",
+  "IIIe siècle : Détruit à la fin du IIIe siècle (peut-être en 276, année qui vit la côte ouest de l'Armorique ravagée par de nombreux raids de pirates venant du nord de l'Europe).",
+  "IVe siècle : Le site fut réoccupé à partir du IVe siècle par une forge, et le lieu est resté occupé jusqu'au XIIIe siècle par quelques cabanes et un cimetière.",
+  "VIIIe siècle : La première supposition de l'origine du nom serait liée à un ermite du nom de l'île qui s'y serait installé au VIIIe siècle.",
+  "1617 : Dom Michel Le Nobletz a vécu à Douarnenez de 1617 à 1639, dans une maison proche de l'actuelle chapelle Saint-Michel, construite entre 1663 et 1665 sous l'influence du prédicateur Julien Maunoir (lequel a prêché 29 missions à Douarnenez, un record) pour honorer la mémoire de Michel le Nobletz.",
+  "1642 : Le hameau situé aux alentours de Pors Comoneuc se développe à partir de la fin du XVe siècle ; la chapelle dédiée à sainte Hélène est construite au XVIe siècle, sa flèche datant de 1642.",
+  "1755 : Cette chapelle fut reconstruite vers 1755, date inscrite sur le nouveau clocher, un certain nombre d'éléments de l'ancienne chapelle étant réemployés.",
+  "1860 : En 1860, Douarnenez pêche 300 millions de sardines, dont la moitié est cuite à l'huile dans les \"fritures\" (nom que portaient alors les conserveries) avant d'être mise en conserve, le reste étant encore en bonne partie pressé, à l'exception de celles qui sont vendues fraîches.",
+  "1868 : Le bateau, d'une longueur de 9,78 m et doté de 10 avirons, est construit aux chantiers Augustin Normand sur un budget de 500 F alloués en 1868.",
+  "1884 : Mais à partir de l'ouverture de la gare à Tréboul en 1884, les notables et les industriels préférèrent les plages tréboulistes.",
+  "1896 : Il est décoré à maintes reprises, notamment du Prix Montyon en 1896, et monte à Paris la même année pour être récompensé lors de la cérémonie annuelle de la Société centrale de sauvetage des naufragés, en même temps que son fils qui, âgé de 13 ans, sauve deux personnes de la noyade.",
+  "1900 : Bien qu'envisagé dès 1900 pour celui Douarnenez, il se heurte au refus de la municipalité républicaine, et ce n'est qu'en 1914 (en raison de l'élection de la municipalité conservatrice dirigée par Louis Le Guillou de Penanros en 1912) qu'est inauguré l'Abri du marin de Douarnenez.",
+  "1901 : La place de l'Enfer est aménagée en 1901, avec la création d'un lavoir, à l'emplacement d'une anse marécageuse (un marais se dit gwern en breton ; par déformation progressive, le nom se serait transformé en Ivern, puis en Ifer, francisé en \"Enfer\").",
+  "Lieu « Port-musée de Douarnenez » : Le Port-Musée de Douarnenez, Finistère (France), inauguré en mai 1993, se situe au Port-Rhu , à proximité de l'île Tristan, sur l'ancienne ria de Pouldavid qui sépare Douarnenez et le quartier de Tréboul.",
+  "Lieu « Port-musée de Douarnenez », 1985 : Le Port-Musée de Douarnenez a pris la suite de l'ancien musée du bateau, ouvert en 1985 à l'initiative de l'association locale Treizour créée en 1979.",
+  "Lieu « Port-musée de Douarnenez », 1993 : Le Port-Musée de Douarnenez, Finistère (France), inauguré en mai 1993, se situe au Port-Rhu , à proximité de l'île Tristan, sur l'ancienne ria de Pouldavid qui sépare Douarnenez et le quartier de Tréboul.",
+  "Lieu « Port-musée de Douarnenez », 2025 : En octobre 2025, le Roi Gradlon est vendu 10 000 Euros.",
+  "Lieu « Port-musée de Douarnenez », aujourd'hui : Le musée à flot fait l'originalité du Port-Musée, il doit faire face à la « gageure de sa conservation » pour les bateaux à flot visibles dans la ria.",
+  "Lieu « Tréboul (Finistère) » : Tréboul est une ancienne commune du Finistère créée en 1880 en baie de Douarnenez (à l'est de la mer d'Iroise).",
+  "Lieu « Tréboul (Finistère) », 1912 : En août 1912, le Saint-Louis, de Tréboul, qui se livrait à la pêche au maquereau en Baie de Douarnenez fit naufrage ; les 5 hommes à bord furent noyés.",
+  "Lieu « Tréboul (Finistère) », 1924 : L'ouverture en 1924 d'une pension de famille, devenue ensuite l'hôtel Ty Mad attire à Tréboul de nombreux peintres anglais ( le pius connu étant Christopher Wood) et néo-zélandais qui gravitent autour de Max Jacob.",
+  "Lieu « Tréboul (Finistère) », 1935 : L'école Saint-Jean (école privée catholique) est fondée en 1935 grâce à l'aide financière d'Auguste Chancerelle ; les enseignants étant des Frères de Ploërmel.",
+  "Lieu « Tréboul (Finistère) », aujourd'hui : Ainsi, Tréboul est aujourd'hui considéré comme un quartier de Douarnenez.",
+  "Lieu « Stade Xavier-Trellu » : Le Stade Xavier-Trellu, porte le nom de Xavier Trellu, résistant pendant la Seconde Guerre mondiale et ancien maire de Douarnenez.",
+  "Lieu « Stade Xavier-Trellu », 1922 : Le stade, inauguré en 1922, agrandi à plusieurs reprises, accueillent les matchs du Stella Maris Douarnenez (Régional 1).",
+  "Lieu « Stade Xavier-Trellu », 1922 : En 1922, le stade Xavier-Trellu est inauguré à Ploaré, ancienne commune limitrophe de Douarnenez, fusionnée à Douarnenez depuis 1945.",
+  "Lieu « Stade Xavier-Trellu », 1963 : Jusqu'en 1963, aucun changement majeur n'a été fait dans le stade, cette année-là, la tribune honneur de 392 places est construite.",
+  "Lieu « Stade Xavier-Trellu », aujourd'hui : Aujourd'hui, le stade possède une capacité de 3 000 places dont 392 places assises dans la tribune honneur.",
+  "Lieu « Île Tristan » : L'île Tristan (Ar Fort ou Enez Tristan en breton) est une petite île française de Bretagne située dans la baie de Douarnenez, face au Port-Rhu.",
+  "Lieu « Île Tristan », VIIIe siècle : La première supposition de l'origine du nom serait liée à un ermite du nom de l'île qui s'y serait installé au VIIIe siècle.",
+  "Lieu « Île Tristan », 1595 : À la fin de mai 1595, dans le cadre des Guerres de la Ligue, Jacques de Guengat, converti au protestantisme, est chassé de son château par les catholiques de Quimper et des paroisses voisines.",
+  "Lieu « Île Tristan », 1595 : Toujours en 1595, Guy Éder de La Fontenelle attaque l'île Tristan, surprend au lit le trop confiant Jacques de Guengat, emprisonné avec une bonne partie de sa garnison à Cremenec'h en Primelin et fit de l'île, rebaptisée par le nouvel occupant du lieu « île Guyon », son repaire.",
+  "Lieu « Île Tristan », aujourd'hui : Cependant, les vestiges de ces fouilles amateurs n'ont pas été conservés.",
+  "Lieu « Temple de Trégouzel » : Le temple de Trégouzel, dit aussi de Trogouzel, est un fanum dont les ruines sont mises au jour au XIXe siècle sur l'actuel site archéologique de Trégouzel, situé dans les environs de Ploaré à Douarnenez (Bretagne, France).",
+  "Lieu « Temple de Trégouzel », IIe siècle : Un édifice en bois imposant, dont subsistent quelques trous de poteau de fort diamètre, est construit au plus tard au IIe siècle av. J.-C. Ce bâtiment, peut-être un premier édifice cultuel, est victime d'un incendie à la fin du IIe siècle av. J.-C. ou au tout début du siècle suivant.",
+  "Lieu « Temple de Trégouzel », IVe siècle : Trois, sans doute même quatre, bâtiments se succèdent au même emplacement entre l'époque de La Tène et la fin du IVe siècle apr. J.-C. ; le dernier temple semble alors abandonné comme édifice cultuel.",
+  "Lieu « Temple de Trégouzel », 1978 : Les vestiges de deux édifices sont fugitivement aperçus à la faveur de la campagne de fouilles 1978.",
+  "Lieu « Temple de Trégouzel », aujourd'hui : Ses vestiges sont classés comme monuments historiques en 1980.",
+  "Lieu « Pouldavid-sur-Mer » : Pouldavid-sur-Mer est une ancienne commune du Finistère créée en 1919 et rattachée à celle de Douarnenez en 1945.",
+  "Lieu « Pouldavid-sur-Mer », XIVe siècle : L'église Saint-Jacques de Pouldavid : construite à flanc de coteau, l'église présente une nef avec des arcades du XIVe siècle, un porche du XVe siècle, et un chœur du XVIe siècle.",
+  "Lieu « Pouldavid-sur-Mer », 1881 : La sacristie date de 1881, ainsi que l'autel extérieur des pardons édifié le long du mur nord de la chapelle ; le « pardon des châtaignes » a lieu le deuxième dimanche d'octobre.",
+  "Lieu « Pouldavid-sur-Mer », 1941 : Le naufrage le 16 novembre 1941 du palangrier douarneniste Sainte-Thérèse, disparu dans le Raz de Sein, fit 16 morts, dont 4 de Pouldavid.",
+  "Lieu « Pouldavid-sur-Mer », aujourd'hui : Une élection devait avoir lieu, dimanche, en vue de pourvoir au remplacement des conseillers démissionnaires.",
+  "Lieu « Ploaré » : Ploaré est une ancienne commune et paroisse du Finistère rattachée à celle de Douarnenez en 1945.",
+  "Lieu « Ploaré », 1922 : Le site des Plomarc'h, ancien établissement gallo-romain de fabrication de garum Le monument aux morts de la Première Guerre mondiale à Ploaré est dû aux ciseaux d'Armel Beaufils et a été édifié en 1922 par l'architecte Charles Chaussepied.",
+  "Lieu « Ploaré », 1922 : En 1922, le Stade Xavier-Trellu est inauguré à la Sainte-Croix.",
+  "Lieu « Ploaré », 1936 : Une nouvelle mairie, ainsi qu'un nouveau groupe scolaire, sont construits à Ploaré en 1936.",
+  "Lieu « Ploaré », aujourd'hui : En 1930, Louis Le Guennec écrit que « du manoir de Keratry, il ne subsiste que la porte encapuchonnée de lierre ».",
+  "Lieu « Ancien abri du marin (Douarnenez) » : L'ancien abri du marin, est un bâtiment, situé dans le département français du Finistère, sur la commune de Douarnenez, édifié à la pointe du Rosmeur, il surplombe le port de pêche.",
+  "Lieu « Ancien abri du marin (Douarnenez) », 1973 : Rolland Dufetelle l’emporte devant Jean Marty, qui bat le record du monde de la série, et Constant Cote L'abri du marin ferme en 1973 et il est vendu à la commune de Douarnenez en 1974.",
+  "Lieu « Ancien abri du marin (Douarnenez) », 1981 : Au fil des ans, le bâtiment devient le point de référence du patrimoine maritime en France, L'Abri du marin abrite de 1981 jusqu'au printemps 2018 les éditeurs de la revue Chasse-Marée.",
+  "Lieu « Ancien abri du marin (Douarnenez) », 2007 : Les façades et toitures de l'édifice sont inscrites au titre des monuments historiques par arrêté du 27 octobre 2007."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 1
+ }
+}

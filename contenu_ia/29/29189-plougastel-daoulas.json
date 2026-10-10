@@ -1,0 +1,233 @@
+{
+ "commune": {
+  "titre": "Plougastel-Daoulas",
+  "code_insee": "29189",
+  "departement": "29",
+  "population": 13434,
+  "lat": 48.37333333,
+  "lon": -4.36944444,
+  "url": "https://fr.wikipedia.org/wiki/Plougastel-Daoulas"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:34:56",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 2461,
+  "sortie": 1572
+ },
+ "cout_usd": 0.002457,
+ "accroche": "À Plougastel-Daoulas, le calvaire dit « Croaz ar Vossen » est bâti de 1602 à 1604 par le « Maître de Plougastel », en ex-voto après l’épidémie de peste de 1598.",
+ "histoire": {
+  "recit": "À Plougastel-Daoulas, l’histoire se lit dans les œuvres dressées après les crises et dans les passages qui relient la commune au reste du pays. Après la peste de 1598, la population répond par la foi : le calvaire « Croaz ar Vossen » est érigé de 1602 à 1604 dans l’atelier du « Maître de Plougastel », par Corr et le curé Perrious Baod, en actions de grâces.\n\nPlus tard, la vie collective se transforme avec l’école : en 1883-1884, des groupes scolaires sortent au bourg, à Pont-Callec, à Sainte-Christine, ainsi qu’une école de filles à Saint-Adrien. Au XXe siècle, la commune est aussi touchée par les grands chocs du monde : le monument aux morts de 1920 porte leurs noms, tandis que l’explosion du Liberté, en 1911, fait plusieurs victimes originaires de Plougastel.\n\nAujourd’hui, plusieurs traces attirent le regard : l’abri sous roche du Rocher de l’Impératrice, découvert lors de la tempête de 1987, ou encore le Musée du Pays Plougastel, dédié au patrimoine local et à la fraise.",
+  "chronologie": [
+   {
+    "date": "1598",
+    "texte": "L’épidémie de peste frappe la population : le décès d’un tiers des habitants est rappelé dans le récit lié au calvaire « Croaz ar Vossen ».",
+    "sources": [
+     "S3",
+     "S10"
+    ]
+   },
+   {
+    "date": "1602 - 1604",
+    "texte": "Le calvaire « Croaz ar Vossen » est érigé de 1602 à 1604, présenté comme un ex-voto pour la cessation de la peste ; il est ensuite restauré dans la seconde moitié du XIXe siècle.",
+    "sources": [
+     "S3",
+     "S10"
+    ]
+   },
+   {
+    "date": "1883 - 1884",
+    "texte": "Des groupes scolaires sont construits au bourg, à Pont-Callec et à Sainte-Christine, avec des écoles de garçons et de filles, ainsi qu’une école de filles à Saint-Adrien.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1903",
+    "texte": "Dans un rapport de 1903, le préfet indique que, malgré une population « très fermée », Plougastel entretient des rapports fréquents avec Brest pour l’approvisionnement en fruits et légumes.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "25 septembre 1911",
+    "texte": "L’explosion du Liberté cause environ 300 morts, dont 31 originaires de Plougastel.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1920",
+    "texte": "Le monument aux morts de Plougastel est édifié en 1920 par l’architecte Charles Chaussepied et porte les noms des victimes.",
+    "sources": [
+     "S7"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Calvaire de Plougastel-Daoulas",
+   "histoire": "Le calvaire est bâti entre 1602 et 1604 comme ex-voto pour la cessation de l’épidémie de peste de 1598. Il est classé monument historique en 1889 et se trouve dans le centre du bourg, au sud de l’église paroissiale Saint-Pierre reconstruite en 1950.",
+   "anecdotes": [
+    {
+     "texte": "On raconte que le seigneur de Kererault serait mort le 27 septembre 1598 en faisant le vœu qu’un calvaire soit édifié en ex-voto s’il était le dernier mort de la peste.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S9"
+     ]
+    },
+    {
+     "texte": "Le calvaire « Croaz ar Vossen » est associé à des acteurs nommés : Corr, architecte, et Perrious Baod, curé, en actions de grâces après l’épidémie de peste de 1598.",
+     "statut": "etabli",
+     "sources": [
+      "S3"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S8",
+    "S10",
+    "S11",
+    "S3",
+    "S9"
+   ],
+   "lat": 48.373907,
+   "lon": -4.370102,
+   "url": "https://fr.wikipedia.org/wiki/Calvaire_de_Plougastel-Daoulas"
+  },
+  {
+   "nom": "Pont Albert-Louppe",
+   "histoire": "Le pont Albert-Louppe, d’abord appelé pont de Plougastel, franchit l’embouchure de l’Élorn dans la rade de Brest pour relier Plougastel-Daoulas au Relecq-Kerhuon.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S12",
+    "S13",
+    "S14"
+   ],
+   "lat": 48.387639,
+   "lon": -4.4,
+   "url": "https://fr.wikipedia.org/wiki/Pont_Albert-Louppe"
+  },
+  {
+   "nom": "Pont de l'Iroise",
+   "histoire": "Le pont de l’Iroise enjambe l’Élorn entre Le Relecq-Kerhuon et Plougastel-Daoulas sur la RN165. Construit entre 1991 et 1994, il supplée l’ancien pont Albert-Louppe, réservé aujourd’hui aux cycles et aux piétons.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17"
+   ],
+   "lat": 48.3875,
+   "lon": -4.397778,
+   "url": "https://fr.wikipedia.org/wiki/Pont_de_l%27Iroise"
+  },
+  {
+   "nom": "Musée de la Fraise et du Patrimoine",
+   "histoire": "Le Musée du Pays Plougastel est un musée associatif consacré au patrimoine local.",
+   "anecdotes": [
+    {
+     "texte": "« Cet or bleu » de la fraise donnerait indirectement la possibilité aux Plougastels de bâtir huit chapelles sur la commune, toujours visibles aujourd’hui.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S20"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S18",
+    "S20"
+   ],
+   "lat": 48.37462,
+   "lon": -4.37062,
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Fraise_et_du_Patrimoine"
+  },
+  {
+   "nom": "Enclos paroissial de Plougastel-Daoulas",
+   "histoire": "L’enclos paroissial de Plougastel-Daoulas est un enclos paroissial situé dans la commune. Une église du XVIIe siècle a été reconstruite en 1870-1872 selon les plans de Joseph Bigot.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S21",
+    "S22"
+   ],
+   "lat": 48.3733,
+   "lon": -4.3694,
+   "url": "https://fr.wikipedia.org/wiki/Enclos_paroissial_de_Plougastel-Daoulas"
+  },
+  {
+   "nom": "Abri sous roche du Rocher de l'Impératrice",
+   "histoire": "L’abri sous roche du Rocher de l’Impératrice est un site préhistorique au pied de la grande barre de grès armoricain, au long de la rive gauche de la basse vallée de l’Élorn. Il a été découvert lors de la tempête de 1987 par Michel Le Goffic.",
+   "anecdotes": [
+    {
+     "texte": "Lors de la tempête de 1987, l’abri du Rocher de l’Impératrice est découvert par Michel Le Goffic, archéologue départemental du Finistère.",
+     "statut": "etabli",
+     "sources": [
+      "S2"
+     ]
+    },
+    {
+     "texte": "Bien que des plaquettes aient été trouvées dans une partie perturbée, l’ensemble est attribué à l’occupation azilienne, sans preuve d’occupation antérieure à l’Azilien sur le site.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S24"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S2",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.3758,
+   "lon": -4.3889,
+   "url": "https://fr.wikipedia.org/wiki/Abri_sous_roche_du_Rocher_de_l%27Imp%C3%A9ratrice"
+  }
+ ],
+ "sources": [
+  "Plougastel-Daoulas (/plu.gas.tɛl da.u.las/) est une ville du département du Finistère, dans la région Bretagne, en France. Ses habitants sont appelés les Plougastels et pour les femmes, on utilise le mot breton Plougastellenn.",
+  "L'abri sous roche du Rocher de l'Impératrice à Plougastel-Daoulas, est un abri sous roche d'environ 10 mètres de long et deux à trois mètres de profondeur, installé au pied de la grande barre de grès armoricain qui affleure le long de la rive gauche de la basse vallée de l'Élorn qui se jette dans la rade de Brest. Découvert lors de la tempête de 1987 par Michel Le Goffic, archéologue départemental du Finistère, il […]",
+  "1602 : Le calvaire est érigé de 1602 à 1604 dans l'atelier du \"Maître de Plougastel\" par deux personnages dénommés Corr, architecte et Perrious Baod, curé, en actions de grâces après l'épidémie de peste de 1598, laquelle provoqua le décès d'un tiers des habitants ; il était désigné sous le vocable de Croaz ar Vossen ; il fut restauré dans la seconde moitié du XIXe siècle.",
+  "1883 : En 1883-1884, à la suite des lois Jules Ferry, trois groupes scolaires comprenant chacun une école de garçons et une école de filles sont construits au bourg, à Pont-Callec et à Sainte-Christine ainsi qu'une école de filles à Saint-Adrien.",
+  "1903 : Mais ce n'est pas l'avis du préfet du Finistère qui indique en 1903 dans un rapport : « Quoi que très fermée, la population de Plougastel est en rapports fréquents avec Brest qu'elle approvisionne en fruits et légumes (...).",
+  "1911 : Le 25 septembre 1911, l'explosion du Liberté dans le port de Toulon fait environ 300 morts dont 31 morts originaires de Plougastel.",
+  "1920 : Le monument aux morts de Plougastel, édifié en 1920 par l'architecte Charles Chaussepied, porte leurs noms.",
+  "Lieu « Calvaire de Plougastel-Daoulas » : Le calvaire de Plougastel est un calvaire situé dans la commune de Plougastel-Daoulas, dans le département du Finistère (région Bretagne), en France.",
+  "Lieu « Calvaire de Plougastel-Daoulas », 1598 : Le seigneur de Kererault serait mort le 27 septembre 1598 en faisant le vœu qu’un calvaire soit édifié en ex-voto s’il était le dernier mort de la peste.",
+  "Lieu « Calvaire de Plougastel-Daoulas », 1602 : Il fut bâti entre 1602 et 1604 en tant qu'ex-voto pour la cessation de l'épidémie de peste de 1598 et a été classé monument historique en 1889.",
+  "Lieu « Calvaire de Plougastel-Daoulas », 1950 : La calvaire se situe dans le centre du bourg de Plougastel-Daoulas (Finistère), au sud de l’église paroissiale Saint-Pierre reconstruite en 1950, dans l'ancien enclos paroissial.",
+  "Lieu « Pont Albert-Louppe » : Le pont Albert-Louppe, d'abord appelé pont de Plougastel et encore appelé premier pont de Plougastel, est un pont franchissant l'embouchure de l'Élorn dans la rade de Brest pour relier les communes de Plougastel-Daoulas au Relecq-Kerhuon.",
+  "Lieu « Pont Albert-Louppe », 1930 : Fleuron de la technologie française, le pont est inauguré le 9 octobre 1930 par le président de la République française, Gaston Doumergue, en personne, et par le maire de Plougastel, Mathurin Thomas.",
+  "Lieu « Pont Albert-Louppe », 1944 : En 1944, pendant la Seconde Guerre mondiale, l'armée allemande détruit la première arche du pont (côté Brest) pour le rendre inutilisable par les Alliés.",
+  "Lieu « Pont de l'Iroise » : Le pont de l’Iroise enjambe l’Élorn entre Le Relecq-Kerhuon et Plougastel-Daoulas sur la RN165 qui relie Brest à Quimper dans le Finistère.",
+  "Lieu « Pont de l'Iroise », 1991 : Construit entre 1991 et 1994 par le groupement des sociétés Demathieu & bard, Pico et Razel, il supplée l’ancien pont Albert-Louppe, situé à proximité et en parallèle, qui est aujourd’hui réservé à la circulation des cycles et des piétons.",
+  "Lieu « Pont de l'Iroise », 1994 : Le pont a été inauguré le 12 juillet 1994 par Édouard Balladur, Premier ministre de l'époque, en présence de Julien Querré maire du Relecq-Kerhuon en 1994.",
+  "Lieu « Musée de la Fraise et du Patrimoine » : Le Musée du Pays Plougastel est un musée associatif, consacré au patrimoine local.",
+  "Lieu « Musée de la Fraise et du Patrimoine », 1950 : Les hommes de Plougastel ont complètement abandonné leur costume traditionnel vers les années 1950.",
+  "Lieu « Musée de la Fraise et du Patrimoine », aujourd'hui : Cet or bleu a donné indirectement la possibilité aux Plougastels de bâtir huit chapelles sur la commune, toujours visibles aujourd’hui.",
+  "Lieu « Enclos paroissial de Plougastel-Daoulas » : L'enclos paroissial de Plougastel-Daoulas était un enclos paroissial situé dans la commune de Plougastel-Daoulas (Finistère, Bretagne).",
+  "Lieu « Enclos paroissial de Plougastel-Daoulas », 1870 : Une église du XVIIe siècle a été reconstruite en 1870-1872 sur les plans de Joseph Bigot.",
+  "Lieu « Abri sous roche du Rocher de l'Impératrice » : L' abri sous roche du Rocher de l'Impératrice est un site préhistorique situé sur la commune de Plougastel-Daoulas dans le département français du Finistère fouillé sous la direction de Nicolas Naudinot, Professeur au Muséum national d'Histoire natur",
+  "Lieu « Abri sous roche du Rocher de l'Impératrice », aujourd'hui : Bien que plusieurs de ces plaquettes aient été découvertes dans une partie perturbée de l’abri, l’ensemble des plaquettes peut raisonnablement être attribué à l’occupation azilienne, puisqu’aucune preuve d’occupation antérieure à l’Azilien n’a été mise en évidence sur le site (en particulier aucune trace d’occupation magdalénienne)."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 5
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "commune": {
+  "titre": "Saint-Pol-de-Léon",
+  "code_insee": "29259",
+  "departement": "29",
+  "population": 6941,
+  "lat": 48.6861,
+  "lon": -3.985,
+  "url": "https://fr.wikipedia.org/wiki/Saint-Pol-de-L%C3%A9on"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 16:36:49",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3171,
+  "sortie": 1635
+ },
+ "cout_usd": 0.002678,
+ "accroche": "À Saint-Pol-de-Léon, Henri II d’Angleterre fait endommager la ville en 1170, détruisant le château et les fortifications. ",
+ "histoire": {
+  "recit": "Entre la Manche et les champs de légumes, Saint-Pol-de-Léon a longtemps vécu sur son statut de ville épiscopale, capitale historique de l’évêché de Léon. Bien avant les remparts, le site était déjà fréquenté : l’allée couverte de Boutouiller, aujourd’hui dolmen, garde la trace des mégalithes néolithiques.\n\nAu Moyen Âge, la ville connaît des heures sombres : vers 1170, Henri II d’Angleterre détruit le château et les fortifications après s’être informé des activités d’Eudon. Plus tard, les implantations monastiques disparaîtront, mais les Carmes fondés en 1348 laissent des traces.\n\nLes siècles suivants mêlent constructions et blessures. Un manoir de style gothique se dresse vers 1515 à Kersaliou. En 1592, La Fontenelle pille la ville. Des portes sont démolies, comme celle dite de Guénan vers 1709, pour bâtir un nouvel hôpital.\n\nSur la longue durée, des œuvres religieuses marquent le paysage : la cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon change de visage au fil des reconstructions, tandis que la chapelle Notre-Dame du Kreisker conserve le souvenir d’un incendie.\n\nEt quand la ville s’ouvre autrement, un pont de la Corde est construit en 1927 pour relier par la route la ville à Carantec, et la gare reste desservie par des cars.",
+  "chronologie": [
+   {
+    "date": "1170",
+    "texte": "Vers 1170, Henri II d’Angleterre, informé des activités d’Eudon, envahit les terres et détruit le château et les fortifications de la ville.",
+    "sources": [
+     "S3"
+    ]
+   },
+   {
+    "date": "1348",
+    "texte": "Les grandes implantations monastiques, dont les Carmes fondés en 1348, ont laissé des traces, même si elles sont aujourd’hui disparues.",
+    "sources": [
+     "S4"
+    ]
+   },
+   {
+    "date": "1515",
+    "texte": "Vers 1515, le manoir de Kersaliou est construit par Bizien de Kersaintgilly, avec une défense pensée autour d’une cour minuscule.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1592",
+    "texte": "En 1592, la ville est pillée durant les guerres de la Ligue par La Fontenelle.",
+    "sources": [
+     "S6"
+    ]
+   },
+   {
+    "date": "1709",
+    "texte": "Vers 1709, la porte dite de Guénan est démolie pour employer ses matériaux à la construction d’un nouvel hôpital.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1810",
+    "texte": "En 1810, l’établissement rouvre et accueille 330 élèves, uniquement des garçons.",
+    "sources": [
+     "S11"
+    ]
+   },
+   {
+    "date": "1927",
+    "texte": "En 1927, le pont de la Corde est construit, permettant de relier par la route la ville à Carantec.",
+    "sources": [
+     "S13"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon",
+   "histoire": "Église cathédrale siège du diocèse de Léon, créée au VIe siècle et supprimée en 1801, la cathédrale est reconstruite à partir d’une église romane, puis connaît des dommages en 1170 et des travaux aboutissant à un chevet achevé en 1539. Aujourd’hui, elle appartient au diocèse de Quimper et Léon et figure comme l’un des deux sièges.",
+   "anecdotes": [
+    {
+     "texte": "En 1170, une deuxième église, construite à l’époque romane, est endommagée par le roi d’Angleterre Henri II Plantagenêt.",
+     "statut": "etabli",
+     "sources": [
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19"
+   ],
+   "lat": 48.685,
+   "lon": -3.98639,
+   "url": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Paul-Aur%C3%A9lien_de_Saint-Pol-de-L%C3%A9on"
+  },
+  {
+   "nom": "Chapelle Notre-Dame du Kreisker",
+   "histoire": "Considérée comme une porte d’entrée de la ville épiscopale, la chapelle inspire sa silhouette par analogie avec d’autres flèches et conserve le souvenir d’un incendie survenu le 3 mai 1375. Plus tard, elle est léguée aux Lazaristes pour servir de chapelle au Grand Séminaire voisin.",
+   "anecdotes": [
+    {
+     "texte": "Le 3 mai 1375, le Kreisker subit un incendie ; on en voit le souvenir dans des pierres rougeâtres visibles sur la rue à gauche du porche occidental.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    },
+    {
+     "texte": "La chapelle aurait pu jouer un rôle défensif ; l’idée est évoquée, moins vraisemblablement comme tour de guet.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "lat": 48.68278,
+   "lon": -3.98667,
+   "url": "https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame_du_Kreisker"
+  },
+  {
+   "nom": "Château de Kernévez",
+   "histoire": "À l’entrée de Saint-Pol-de-Léon, le château de Kernévez appartient à une famille qui reconstruit et remanie des bâtiments plus anciens. À la fin du parcours, le site conserve des vestiges et éléments de parc : une roseraie, des vestiges de chapelle, des écuries en moellons de granit, un étang, et même un dolmen en dalles de schiste.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Il conserve, outre une grande variété d’arbres, une roseraie, les vestiges de la chapelle de Kerliviry, des écuries en moellons de granit, un étang et un dolmen en dalles de schiste.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 48.677789,
+   "lon": -3.974728,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Kern%C3%A9vez"
+  },
+  {
+   "nom": "Église Saint-Pierre de Saint-Pol-de-Léon",
+   "histoire": "Église catholique de Saint-Pol-de-Léon, Saint-Pierre est construite entre la fin du XIVe siècle et la première moitié du XVe siècle, puis voit sa façade et son clocher reconstruits en 1772 dans le style baroque. Des chapelles et oratoires du cimetière ont existé avant d’être aujourd’hui détruits.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S30",
+    "S31",
+    "S32",
+    "S34"
+   ],
+   "lat": 48.6812,
+   "lon": -3.98201,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre_de_Saint-Pol-de-L%C3%A9on"
+  },
+  {
+   "nom": "Gare de Saint-Pol-de-Léon",
+   "histoire": "La gare, sur la ligne de Morlaix à Roscoff, a conservé l’ancien bâtiment voyageurs d’origine datant du XIXe siècle, transformé ensuite en plusieurs lots. Même si le service ferroviaire n’en a plus l’utilité, la desserte continue par des cars.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Des cars desservent toujours la gare.",
+   "sources": [
+    "S35",
+    "S36",
+    "S37"
+   ],
+   "lat": 48.676866,
+   "lon": -3.987378,
+   "url": "https://fr.wikipedia.org/wiki/Gare_de_Saint-Pol-de-L%C3%A9on"
+  },
+  {
+   "nom": "Dolmen de Boutouiller",
+   "histoire": "Sur la commune, le dolmen de Boutouiller, aussi appelé dolmen de Kérangouez ou de Kérivin, est un vestige de mégalithes néolithiques. Les restes du tumulus et quelques pierres de parement demeurent visibles.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "Les restes du tumulus et quelques pierres de parement sont encore visibles.",
+   "sources": [
+    "S38",
+    "S39"
+   ],
+   "lat": 48.65694,
+   "lon": -3.96028,
+   "url": "https://fr.wikipedia.org/wiki/Dolmen_de_Boutouiller"
+  }
+ ],
+ "sources": [
+  "Saint-Pol-de-Léon, Kastell Paol en breton, [sɛ̃ pɔl də leɔ̃] est une commune française du département du Finistère, en région Bretagne. En bordure de la Manche, Saint-Pol-de-Léon est une ancienne cité épiscopale, capitale historique de l'évêché de Léon. Entre l'Armor et l'Argoat, son riche patrimoine se marie avec la mer sur la côte nord du Finistère et les champs de légumes. Capitale de la Ceinture dorée, c'est la […]",
+  "Le site de Saint-Pol était habité dans les temps préhistoriques comme en témoigne encore l'allée couverte de Boutouiller, aussi appelée dolmen de Keranguez ou de Kerivin, au lieu-dit Tréguintin. Ce dolmen, le dernier des mégalithes néolithiques de Saint-Pol, a perdu une partie de sa structure préhistorique formant un tumulus (recouvert d'un amas de terre et de pierres comme au Cairn de Barnenez) et sa forme en T est […]",
+  "1170 : Mais vers 1170 Henri II d'Angleterre, informé des activités d'Eudon, envahit les terres avec son armée et détruit le château et les fortifications de la ville.",
+  "1348 : Les grandes implantations monastiques, aujourd'hui disparues, Carmes (fondé en 1348 par le duc Jean IV et la duchesse), Ursulines (fondé en 1630), Minimes… ont laissé des traces.",
+  "1515 : Le manoir de Kersaliou est construit vers 1515 par Bizien de Kersaintgilly ; c'est un manoir de style gothique très compact, enserrant une cour minuscule bordée sur trois côtés par le logis et ses dépendances, un mur d'enceinte fermant le quatrième côté dans un souci de défense.",
+  "1592 : Elle est pillée en 1592 durant les Guerres de la Ligue par La Fontenelle.",
+  "1709 : Vers 1709, la porte dite de Guénan est démolie pour employer ses matériaux à la construction de nouvel hôpital.",
+  "1711 : L'hospice est fondé en 1711 par M. Hervé, chanoine, et l'abbé du Bourg-Blanc.",
+  "1745 : La porte des Carmes est démolie en 1745 et donnée au couvent de ce nom pour son cimetière.",
+  "1790 : En 1790, ses magistrats municipaux adressent à l'Assemblée une requête où ils peignaient leurs édifices prêts à tomber en ruine, leur population prête à émigrer ou à mourir de faim…",
+  "1806 : Fermé lors de la Révolution française, il rouvre en 1806, accueillant 330 élèves (des garçons seulement) en 1810.",
+  "XIXe siècle : La ferme-modèle de Gourveau est construite au début du XIXe siècle par le comte de Guébriant face à la porte d'entrée de sa propriété, le château de Kernévez.",
+  "1927 : En 1927, le pont de la Corde est construit, permettant de relier par la route la ville à Carantec.",
+  "1940 : Un autre dolmen situé en limite de Roscoff a été détruit vers 1940.",
+  "Lieu « Cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon » : La cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon est une église cathédrale qui était le siège du diocèse de Léon, créé au VIe siècle et supprimé en 1801.",
+  "Lieu « Cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon », XIIe siècle : Une église romane, probablement non voûtée, est reconstruite à cet emplacement dans la première moitié du XIIe siècle, sous l'épiscopat de Hamon de Léon.",
+  "Lieu « Cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon », 1170 : Une deuxième, construite à l'époque romane, est endommagée par le roi d'Angleterre Henri II Plantagenêt en 1170.",
+  "Lieu « Cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon », 1539 : Après un temps d'arrêt, une seconde série de travaux aboutit à la reprise du transept et la reconstruction du chevet, achevée en 1539.",
+  "Lieu « Cathédrale Saint-Paul-Aurélien de Saint-Pol-de-Léon », aujourd'hui : L'église fait actuellement partie du diocèse de Quimper et Léon dont elle est l'un des deux sièges.",
+  "Lieu « Chapelle Notre-Dame du Kreisker » : La chapelle Notre-Dame du Kreisker (en breton léonard Chapel Introun Varia ar C'hreizkear, en latin ecclesia Beatæ Mariæ de Medio-Villæ), « porte d'entrée » de la ville épiscopale de Saint-Pol-de-Léon, est un édifice majeur de l’architecture religieu",
+  "Lieu « Chapelle Notre-Dame du Kreisker », 1372 : Il s'inspire de la flèche de l'église Saint-Pierre de Caen et de la chapelle de Notre-Dame-du-Mur à Morlaix, construite entre 1372 et 1426 et détruite en 1806.",
+  "Lieu « Chapelle Notre-Dame du Kreisker », 1375 : C'est peut être dans ce rôle défensif, moins vraisemblablement comme tour de guet qu'il ne pouvait alors pas encore être, que le Kreisker subit le 3 mai 1375 un incendie dont les pierres rougeâtres qui se voient sur la rue à gauche du porche occidental seraient le souvenir.",
+  "Lieu « Chapelle Notre-Dame du Kreisker », 1680 : Le 30 novembre 1680, le Kreisker, bénéfice et charge, est légué aux Lazaristes pour servir de chapelle au Grand Séminaire voisin fondé quatre ans plus tôt, le 18 juillet 1676, par Mgr de La Brosse.",
+  "Lieu « Chapelle Notre-Dame du Kreisker », aujourd'hui : Celui-ci poursuit la construction gothique de la cathédrale du Léon commencée en remplacement de la cathédrale romane vers 1253 par Mgr Derrien, lequel avait en 1228 excommunié le père du souverain, Pierre Mauclerc, du temps que celui-ci exerçait la régence.",
+  "Lieu « Château de Kernévez » : Kernévez est un château de style principalement néo-classique, à l'entrée de la ville de Saint-Pol-de-Léon (Finistère), en Bretagne.",
+  "Lieu « Château de Kernévez », XVIIe siècle : L'ancien château de La Villeneuve, édifié sur les terres de la famille de la Forest et attesté au Moyen Âge est reconstruit au début du XVIIe siècle, par les Poulpiquet de Coat-Lez.",
+  "Lieu « Château de Kernévez », 1845 : Dans un premier temps, les Guébriant ont voulu refaire seulement le parc : les plans signés par le paysagiste Bühler (qui signa également les plans du bois de Boulogne) datent de 1845 et sont organisés autour de l'ancien logis.",
+  "Lieu « Château de Kernévez », 1850 : Le château de Kernévez a été construit peu après 1850 pour la famille de Guébriant sur l'emplacement du château de La Villeneuve.",
+  "Lieu « Château de Kernévez », aujourd'hui : Il possède, outre une grande variété d’arbres, une roseraie, les vestiges de la chapelle de Kerliviry, des écuries en moellons de granit, un étang, un dolmen en dalles de schiste.",
+  "Lieu « Église Saint-Pierre de Saint-Pol-de-Léon » : L'église Saint-Pierre est une église catholique située à Saint-Pol-de-Léon, en France.",
+  "Lieu « Église Saint-Pierre de Saint-Pol-de-Léon », XIVe siècle : Elle fut construite à la fin du XIVe siècle et à la première moitié du XVe siècle (chœur, mur sud de la nef).",
+  "Lieu « Église Saint-Pierre de Saint-Pol-de-Léon », 1772 : La façade et le clocher sont reconstruits en 1772 dans le style baroque par Nicolas Saffray, entrepreneur des travaux du Roi.",
+  "Lieu « Église Saint-Pierre de Saint-Pol-de-Léon », 1875 : La maison de gardien a été construite à l'entrée du cimetière par l'architecte Puyo de 1875 à 1878.",
+  "Lieu « Église Saint-Pierre de Saint-Pol-de-Léon », aujourd'hui : Dans le cimetière, coexistaient trois autres chapelles, aujourd'hui détruites ; celles de Notre-Dame du Confort, de Sainte-Catherine et de Saint-Nicolas ainsi que deux oratoires.",
+  "Lieu « Gare de Saint-Pol-de-Léon » : La gare de Saint-Pol-de-Léon est une gare ferroviaire française de la ligne de Morlaix à Roscoff, située sur la commune de Saint-Pol-de-Léon, dans le département du Finistère, en région Bretagne.",
+  "Lieu « Gare de Saint-Pol-de-Léon », XIXe siècle : Bien qu'il n'ait plus d'utilité pour le service ferroviaire, l'ancien bâtiment voyageurs d'origine datant du XIXe siècle, existe toujours et a été transformé en plusieurs lots.",
+  "Lieu « Gare de Saint-Pol-de-Léon », aujourd'hui : Aujourd'hui, des cars desservent toujours la gare.",
+  "Lieu « Dolmen de Boutouiller » : Le dolmen de Boutouiller, aussi appelé dolmen de Kérangouez ou dolmen de Kérivin, est situé sur la commune de Saint-Pol-de-Léon dans le Finistère, en France.",
+  "Lieu « Dolmen de Boutouiller », aujourd'hui : Les restes du tumulus et quelques pierres de parement sont encore visibles."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 6,
+  "nb_anecdotes": 3
+ }
+}

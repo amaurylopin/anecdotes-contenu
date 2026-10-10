@@ -1,0 +1,301 @@
+{
+ "commune": {
+  "titre": "Concarneau",
+  "code_insee": "29039",
+  "departement": "29",
+  "population": 20845,
+  "lat": 47.876111,
+  "lon": -3.917778,
+  "url": "https://fr.wikipedia.org/wiki/Concarneau"
+ },
+ "modele": "gpt-5.4-nano",
+ "genere_le": "2026-10-09 15:08:20",
+ "lieux_ecartes_autre_commune": 0,
+ "licence": "Textes d'origine : Wikipédia (CC BY-SA 4.0), réécrits par IA à partir des sources listées.",
+ "statut_qualite": "ok",
+ "problemes": [],
+ "essais": 1,
+ "tokens": {
+  "entree": 3858,
+  "sortie": 2121
+ },
+ "cout_usd": 0.003423,
+ "accroche": "Le 7 juin 1694, Vauban inspecte les travaux de la Ville close de Concarneau, alors achevés en 1694.",
+ "histoire": {
+  "recit": "À Concarneau, la ville s’est d’abord organisée autour de la Ville close, comme une île-cité, puis des faubourgs ont gagné le continent. Autour de la baie, des traces d’habitat apparaissent avant que l’on ne pense à fortifier vraiment le site.\n\nDans la vie quotidienne, les conserveries marquent les gestes : en 1877, Pierre-Frédéric Bainier décrit le passage immédiat des poissons aux ateliers, du décapage au vidage. Plus tard, en 1882, une jetée brise-lame est construite ; les jours de tempête, elle déçoit, et les Concarnois la surnomment le « Quai nul ».\n\nLes remparts, eux, continuent d’exister parce qu’on les défend : en 1899, une pétition signée par de nombreux peintres sauve la ville close de la vente, et les remparts sont classés. Au tournant industriel, la gare atteint Concarneau en 1883, et la Station de biologie marine naît en 1859, fondée par Victor Coste.\n\nAu-delà des murs et des chantiers, Concarneau garde des repères : la tour du Passage protège encore le chenal, tandis que certains bâtiments changent de vocation, comme l’ancien Abri du marin devenu auberge de jeunesse.",
+  "chronologie": [
+   {
+    "date": "7 juin 1694",
+    "texte": "Vauban inspecte les travaux de la Ville close, achevés en 1694.",
+    "sources": [
+     "S3",
+     "S48"
+    ]
+   },
+   {
+    "date": "1859",
+    "texte": "La Station de biologie marine de Concarneau est fondée par Victor Coste.",
+    "sources": [
+     "S5"
+    ]
+   },
+   {
+    "date": "1877",
+    "texte": "Pierre-Frédéric Bainier décrit le travail dans les conserveries, du portage des poissons aux manufactures jusqu’au décapage et au vidage.",
+    "sources": [
+     "S7"
+    ]
+   },
+   {
+    "date": "1882",
+    "texte": "Entre 1882 et 1901, une jetée brise-lame forme un port artificiel, surnommé « Quai nul » par les Concarnois.",
+    "sources": [
+     "S8"
+    ]
+   },
+   {
+    "date": "1883",
+    "texte": "La ligne Rosporden - Concarneau atteint la ville et la gare terminus s’appelle Concarneau-État.",
+    "sources": [
+     "S9"
+    ]
+   },
+   {
+    "date": "1899",
+    "texte": "Des remparts de la Ville close sont sauvés de la vente grâce à une pétition signée par de nombreux peintres, puis classés.",
+    "sources": [
+     "S10"
+    ]
+   }
+  ]
+ },
+ "lieux": [
+  {
+   "nom": "Remparts de Concarneau",
+   "histoire": "Ensemble de murailles dont une première source écrite atteste d’un édifice militaire daté du 8 novembre 1365 ; des fortifications en bois auraient aussi existé vers le VIIe siècle, et les ouvrages ont été transformés au fil du temps.",
+   "anecdotes": [
+    {
+     "texte": "Selon la première source écrite, l’édifice militaire du site remonte au 8 novembre 1365.",
+     "statut": "etabli",
+     "sources": [
+      "S15",
+      "S17"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "La tour du Passage se trouve à un emplacement stratégique pour protéger le chenal du Passage.",
+   "sources": [
+    "S19"
+   ],
+   "lat": 47.8725,
+   "lon": -3.913889,
+   "url": "https://fr.wikipedia.org/wiki/Remparts_de_Concarneau"
+  },
+  {
+   "nom": "Stade Guy-Piriou",
+   "histoire": "Stade municipal de football situé à Concarneau, dénommé Stade de Kerampéru jusqu’en 2011 puis devenu Stade Guy-Piriou.",
+   "anecdotes": [
+    {
+     "texte": "Les travaux de vestiaires ont fait passer leur surface de 25 m2 à 40 m2, avec 10 douches au lieu de 6.",
+     "statut": "etabli",
+     "sources": [
+      "S22"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "De l’autre côté de la départementale 783, 10 000 m2 de champs sont cédés pour y construire le stade, et le magasin devait s’agrandir sur l’emplacement du précédent stade.",
+   "sources": [
+    "S24"
+   ],
+   "lat": 47.889001,
+   "lon": -3.913567,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Guy-Piriou"
+  },
+  {
+   "nom": "Ancien abri du marin (Concarneau)",
+   "histoire": "Bâtiment construit en 1901 sur l’impulsion de Jacques de Thézac ; vendu à la fin des années cinquante, il a perdu de l’intérêt pour les marins avant d’être racheté par la municipalité et transformé en auberge de jeunesse.",
+   "anecdotes": [
+    {
+     "texte": "L’ancien Abri du marin de Concarneau ne se confond pas avec celui du Passage-Lanriec, construit quelques mois avant lui en 1901.",
+     "statut": "etabli",
+     "sources": [
+      "S26"
+     ]
+    },
+    {
+     "texte": "En 1959, le bâtiment est racheté et transformé en auberge de jeunesse, gérée depuis par l’Association départementale des auberges de jeunesse du Finistère.",
+     "statut": "etabli",
+     "sources": [
+      "S28"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il s’agit aujourd’hui d’une auberge de jeunesse, quai de la Croix, en face du Marinarium et de la station de biologie marine.",
+   "sources": [
+    "S29"
+   ],
+   "lat": 47.8691226,
+   "lon": -3.9178689,
+   "url": "https://fr.wikipedia.org/wiki/Ancien_abri_du_marin_%28Concarneau%29"
+  },
+  {
+   "nom": "Église du Saint-Cœur de Marie de Concarneau",
+   "histoire": "Église catholique commencée en 1912, demeurée inachevée et détruite en 1994-1995 ; des fissures apparaissent lorsque des chapelles latérales prévues ne sont pas édifiées.",
+   "anecdotes": [
+    {
+     "texte": "Dès le début des années 1980, le recteur François Jacob prévoit de détruire l’église jugée trop vaste, et la tempête d’octobre 1987 conduit à fermer l’édifice.",
+     "statut": "etabli",
+     "sources": [
+      "S33"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Seuls subsistent la tour-clocher (inachevée) et les chapiteaux.",
+   "sources": [
+    "S34"
+   ],
+   "lat": 47.872761,
+   "lon": -3.91876,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89glise_du_Saint-C%C5%93ur_de_Marie_de_Concarneau"
+  },
+  {
+   "nom": "Château de Kériolet",
+   "histoire": "Château néo-gothique à proximité de Beuzec-Conq, remontant au XVIe siècle : un manoir anciennement propriété des Kériollet, des Trédern et des Kersalaun ; sa chapelle a été détruite en 1971.",
+   "anecdotes": [
+    {
+     "texte": "Après les travaux d’extension, un Christ sur la croix et un ange recueillant le sang dans deux calices (XVIe siècle) se trouvait face à l’entrée de la chapelle aujourd’hui disparue.",
+     "statut": "etabli",
+     "sources": [
+      "S39"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S35",
+    "S39"
+   ],
+   "lat": 47.8865,
+   "lon": -3.9081,
+   "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_K%C3%A9riolet"
+  },
+  {
+   "nom": "Stade Yves-Tual",
+   "histoire": "Ancien stade de football à Concarneau, inauguré en 1921, agrandi en 1925 et à plusieurs reprises dans les années 60.",
+   "anecdotes": [],
+   "a_voir_aujourdhui": "En 1988, après l’inauguration du nouveau stade, le stade Yves Tual est détruit et remplacé par le parking de l’hypermaché E.Leclerc de Concarneau.",
+   "sources": [
+    "S44"
+   ],
+   "lat": 47.88928,
+   "lon": -3.916541,
+   "url": "https://fr.wikipedia.org/wiki/Stade_Yves-Tual"
+  },
+  {
+   "nom": "Ville close de Concarneau",
+   "histoire": "Cité fortifiée des XVe et XVIe siècles construite sur un îlot, structurée autour du rempart.",
+   "anecdotes": [
+    {
+     "texte": "Selon la légende, Concar aurait délivré le site occupé par l’actuelle Ville close des Pictes pour y fonder la cité de Concarneau.",
+     "statut": "tradition_locale",
+     "sources": [
+      "S49"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "",
+   "sources": [
+    "S45"
+   ],
+   "lat": 47.871674,
+   "lon": -3.916266,
+   "url": "https://fr.wikipedia.org/wiki/Ville_close_de_Concarneau"
+  },
+  {
+   "nom": "Caserne Hervo",
+   "histoire": "Ancienne chapelle du XVIe siècle transformée en caserne, rebaptisée au XVIIIe siècle Notre-Dame-du-Rosaire après l’installation de la confrérie du Rosaire.",
+   "anecdotes": [
+    {
+     "texte": "Après l’effondrement du clocher, une tour est construite en remplacement pour accueillir le premier phare de Concarneau en 1828.",
+     "statut": "etabli",
+     "sources": [
+      "S53"
+     ]
+    }
+   ],
+   "a_voir_aujourdhui": "Il ne reste que le porche de cet ancien édifice.",
+   "sources": [
+    "S54"
+   ],
+   "lat": 47.872033,
+   "lon": -3.915781,
+   "url": "https://fr.wikipedia.org/wiki/Caserne_Hervo"
+  }
+ ],
+ "sources": [
+  "Concarneau [kɔ̃.kaʁ.no] (en breton Konk-Kerne) est une commune du département du Finistère dans la région Bretagne en France. Troisième commune du département par sa population, chef-lieu d'un canton et d'une communauté d'agglomération, Concarneau, qui inclut les anciennes communes de Beuzec-Conq et Lanriec, est une ville située sur la côte cornouaillaise dans la baie de La Forêt. La ville s'est constituée au Moyen […]",
+  "La ville de Concarneau est construite et se développe autour de la Ville close. Des faubourgs se sont développés sur le continent autour de cette « île-cité ». Ce n'est que récemment dans l'histoire de Concarneau que la ville est sortie de ses remparts. Les premières traces de civilisation à Concarneau n'ont pas été retrouvées dans la Ville close mais autour de la baie. La densité de l'habitat et les profonds […]",
+  "1694 : Ces travaux sont achevés en 1694, Vauban vient les inspecter le 7 juin de la même année.",
+  "XIXe siècle : Au début du XIXe siècle, une nouvelle jetée est construite pour mieux protéger le port, ainsi que le long quai joignant celle-ci à l'entrée de la « Ville close ».",
+  "1859 : La Station de biologie marine de Concarneau est fondée par Victor Coste en 1859.",
+  "1868 : En 1868, la congrégation des Filles du Saint-Esprit achète une maison avec jardin dans le but d'y construire quatre classes et des dortoirs ; une chapelle est construite en 1880.",
+  "1877 : Le travail dans les conserveries a été décrit en 1877 par Pierre-Frédéric Bainier : « Aussitôt les poissons sont portés aux manufactures où l'on confit la sardine ; ils sont jetés sur une aire en ciment ou en asphalte et immédiatement décapités et vidés par des ouvriers.",
+  "1882 : La flottille concarnoise comptait alors une centaine de chaloupes ; pour faciliter leur mouillage, une jetée brise-lame fut construite entre 1882 et 1901, formant un port artificiel qui s'avéra peu efficace les jours de tempête, ce qui explique que les Concarnois le surnommèrent le « Quai nul ».",
+  "1883 : La ligne ferroviaire Rosporden - Concarneau construite par l'État, mais rétrocédée à la Compagnie d'Orléans, parvient à Concarneau en 1883, la gare terminus s'appelant pour cette raison Concarneau-État elle se trouvait en fait sur le territoire de la commune de Beuzec-Conq).",
+  "1899 : Grâce à une pétition signée par de nombreux peintres, les remparts de la ville close sont sauvés de la vente et classés à l'inventaire des monuments historiques en 1899.",
+  "1906 : Le premier thonier construit à Concarneau, L'Avenir, le fut seulement en 1906.",
+  "1911 : L'« Union Sportive Beuzec-Concarnoise » (USBC) est fondée le 11 mars 1911 et devint, après la fusion des deux communes en 1945, l'« Union Sportive Concarnoise » (USC).",
+  "1922 : Capable d'accueillir 2 500 personnes, l'église est inaugurée en 1922, mais n'est pas encore totalement achevée et elle ne reçut ses premiers fidèles qu'en 1929.",
+  "1930 : Le quai Pénéroff, dans l'avant-port, est également construit pendant la décennie 1930 et devient le lieu d'accostage privilégié des thoniers.",
+  "Lieu « Remparts de Concarneau » : Les remparts de Concarneau sont un ensemble de murailles dont la première source écrite atteste d'un édifice militaire daté du 8 novembre 1365.",
+  "Lieu « Remparts de Concarneau », VIIe siècle : Avant cette date, des fortifications en bois ont été érigées pour défendre le monastère dépendant de l'abbaye de Landévennec vers le VIIe siècle.",
+  "Lieu « Remparts de Concarneau », 1365 : Les remparts de Concarneau sont un ensemble de murailles dont la première source écrite atteste d'un édifice militaire daté du 8 novembre 1365.",
+  "Lieu « Remparts de Concarneau », XVe siècle : Construite au XVe siècle, elle a subi de nombreuses transformations au cours du temps.",
+  "Lieu « Remparts de Concarneau », aujourd'hui : Sans doute datée du XVe siècle, la tour du Passage est située à un emplacement stratégique pour protéger le chenal du Passage.",
+  "Lieu « Stade Guy-Piriou » : Le stade municipal Guy-Piriou, dénommé jusqu'en 2011 Stade de Kerampéru, est un stade de football situé à Concarneau dans le département du Finistère.",
+  "Lieu « Stade Guy-Piriou », 1988 : Inauguré en 1988, sa capacité est actuellement de 2 539 places et les travaux de mise aux normes de la Ligue 2 qui devraient s'achever à l'été 2025 donneront une future capacité estimée à 5 000 places dont 3 420 assises.",
+  "Lieu « Stade Guy-Piriou », 2017 : Les vestiaires du stade sont refaits en juillet 2017, les anciens vestiaires sont détruits, la taille des vestiaires est passée de 25 m2 à 40 m2, il y a 10 douches au lieu de 6 avant.",
+  "Lieu « Stade Guy-Piriou », 2018 : Le 3 mai 2018, le stade rénové est inauguré par le président de la FFF, Noël Le Graët.",
+  "Lieu « Stade Guy-Piriou », aujourd'hui : De l'autre côté de la départementale 783, 10 000 m2 de champs sont cédés par E.Leclerc pour y construire le stade, en échange de quoi, le magasin pouvait s'agrandir sur l'emplacement du précédent stade.",
+  "Lieu « Ancien abri du marin (Concarneau) » : L'ancien Abri du marin, aujourd'hui auberge de jeunesse, est un bâtiment situé quai de la Croix, en face du Marinarium et de la station de biologie marine, sur la commune de Concarneau dans le département français du Finistère.",
+  "Lieu « Ancien abri du marin (Concarneau) », 1901 : L'Abri du marin de Concarneau est à ne pas confondre avec celui du Passage-Lanriec, construit quelques mois avant lui en 1901.",
+  "Lieu « Ancien abri du marin (Concarneau) », 1901 : Construit en 1901 sur l'impulsion de Jacques de Thézac, il fut vendu à la fin des années cinquante, les abris du marin ayant progressivement perdu leur intérêt pour les marins, du fait de l'amélioration de leurs conditions de vie et de travail.",
+  "Lieu « Ancien abri du marin (Concarneau) », 1959 : Racheté par la municipalité de Concarneau, il fut transformé en auberge de jeunesse en 1959 et est géré depuis par l'Association départementale des auberges de jeunesse du Finistère.",
+  "Lieu « Ancien abri du marin (Concarneau) », aujourd'hui : L'ancien Abri du marin, aujourd'hui auberge de jeunesse, est un bâtiment situé quai de la Croix, en face du Marinarium et de la station de biologie marine, sur la commune de Concarneau dans le département français du Finistère.",
+  "Lieu « Église du Saint-Cœur de Marie de Concarneau » : L'église du Saint-Cœur de Marie était une église catholique située à Concarneau.",
+  "Lieu « Église du Saint-Cœur de Marie de Concarneau », 1912 : Commencée en 1912 sur les plans de l'architecte diocésain Charles Chaussepied et demeurée inachevée, elle fut détruite en 1994-1995.",
+  "Lieu « Église du Saint-Cœur de Marie de Concarneau », 1950 : Puisque les chapelles latérales du transept, qui devaient soutenir la coupole centrale, n'ont jamais pu être édifiées (alors qu'il était prévu de le faire, dans les années 1950), des fissures apparaissaient dans les murs de l'édifice.",
+  "Lieu « Église du Saint-Cœur de Marie de Concarneau », 1980 : Dès le début des années 1980, le recteur François Jacob prévoit de détruire cette église, jugée « trop vaste » pour le peu de fidèles qui restait ; il a fallu attendre la tempête d'octobre 1987 pour fermer l'édifice et le laisser se dégrader davantage.",
+  "Lieu « Église du Saint-Cœur de Marie de Concarneau », aujourd'hui : Seuls subsistent la tour-clocher (inachevée) et les chapiteaux.",
+  "Lieu « Château de Kériolet » : Le château de Kériolet est un château néo-gothique situé à proximité de Beuzec-Conq dans la commune française de Concarneau, dans le Finistère.",
+  "Lieu « Château de Kériolet », XVIe siècle : Remontant au XVIe siècle, le manoir, bâtisse relativement modeste, est une ancienne propriété des Kériollet, des Trédern, des Kersalaun.",
+  "Lieu « Château de Kériolet », 1954 : Il est à nouveau déplacé en 1954 pour revenir dans l'église de Névez.",
+  "Lieu « Château de Kériolet », 1971 : En 1971, la chapelle est détruite et ses pierres récupérées pour construire une maison.",
+  "Lieu « Château de Kériolet », aujourd'hui : Après les travaux d'extension, face à l'entrée de la chapelle aujourd'hui disparue, se trouvait un Christ sur la croix et, penché vers lui, un ange recueillait le sang coulant d'une de ses mains et de ses flancs, dans deux calices (XVIe siècle).",
+  "Lieu « Stade Yves-Tual » : Le stade Yves-Tual est un ancien stade de football situé à Concarneau, dans le Finistère.",
+  "Lieu « Stade Yves-Tual », 1921 : Inauguré en 1921 puis agrandi en 1925 et à plusieurs reprises dans les années 60, son club résident était l'US Concarneau de son inauguration à sa destruction en 1988.",
+  "Lieu « Stade Yves-Tual », 1960 : En 1960, un pourtour est construit en face de la tribune principale et cette dernière est élargie.",
+  "Lieu « Stade Yves-Tual », 1966 : En 1966, un pourtour latéral est construit et 4 projecteurs sont installés pour y jouer la nuit.",
+  "Lieu « Stade Yves-Tual », aujourd'hui : En 1988, après l'inauguration du nouveau stade, le stade Yves Tual est détruit et aujourd'hui se trouve à sa place le parking de l'hypermaché E.Leclerc de Concarneau.",
+  "Lieu « Ville close de Concarneau » : La Ville close de Concarneau est une cité fortifiée des XVe et XVIe siècles construite sur un îlot.",
+  "Lieu « Ville close de Concarneau », XVIe siècle : La Ville close de Concarneau est une cité fortifiée des XVe et XVIe siècles construite sur un îlot.",
+  "Lieu « Ville close de Concarneau », 1593 : Henri IV converti au catholicisme en 1593 laisse la gouvernance de la cité à Louis de Lézonnet qui meurt en 1595.",
+  "Lieu « Ville close de Concarneau », 1694 : Les travaux sont achevés en 1694 et Vauban vient les inspecter le 7 juin de la même année.",
+  "Lieu « Ville close de Concarneau », aujourd'hui : Selon la légende, c'est Concar qui aurait délivré le site occupé par l'actuelle Ville close des Pictes pour y fonder la cité de Concarneau.",
+  "Lieu « Caserne Hervo » : La caserne Hervo est une ancienne chapelle datant du XVIe siècle transformée en caserne et située à Concarneau en Bretagne (France).",
+  "Lieu « Caserne Hervo », XVIe siècle : La caserne Hervo est une ancienne chapelle datant du XVIe siècle transformée en caserne et située à Concarneau en Bretagne (France).",
+  "Lieu « Caserne Hervo », XVIIe siècle : Au XVIIe siècle, la confrérie du Rosaire s’établit dans l’édifice qui est rebaptisé au XVIIIe siècle Notre-Dame-du-Rosaire.",
+  "Lieu « Caserne Hervo », 1828 : Après l’effondrement du clocher, une tour est construite en remplacement afin d'accueillir le premier phare de Concarneau en 1828.",
+  "Lieu « Caserne Hervo », aujourd'hui : Il ne reste que le porche de cet ancien édifice."
+ ],
+ "controles": {
+  "lieux_hors_liste": [],
+  "identifiants_dans_texte": 0,
+  "sources_inconnues": [],
+  "affirmations_sans_source": 0,
+  "annees_hors_dossier": [],
+  "noms_hors_dossier": [],
+  "nb_lieux": 8,
+  "nb_anecdotes": 8
+ }
+}
