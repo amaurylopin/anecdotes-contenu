@@ -1,75 +1,204 @@
 {
- "id": "78646",
- "insee": "78646",
- "name": "Versailles",
- "dept": "Yvelines",
- "kind": "commune",
- "lat": 48.8049,
- "lon": 2.1204,
- "anecdotes": [
-  {
-   "category": "politique",
-   "title": "François de Mazières réélu dès le premier tour",
-   "label": "2008-2026 · Hôtel de ville",
-   "teaser": "Maire de Versailles depuis 2008, François de Mazières a été réélu dès le premier tour en mars 2026 avec 64,56 % des voix, très loin devant l'union des droites.",
-   "lead": "François de Mazières, divers droite, maire de Versailles depuis 2008, a été réélu au premier tour des municipales de mars 2026 avec 64,56 % des voix.",
-   "text": "François de Mazières, divers droite, maire de Versailles depuis 2008, a été réélu au premier tour des municipales de mars 2026 avec 64,56 % des voix.",
-   "body": [
-    "Ancien président de la Cité de l'architecture et du patrimoine, il a aussi été député des Yvelines de 2012 à 2022.",
-    "En mars 2026, sa liste obtient 20 626 voix, devant l'union des droites d'Olivier de La Faire (15,49 %) et plusieurs listes de gauche sous les 6 %. Elle détient 46 des 53 sièges."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Fran%C3%A7ois_de_Mazi%C3%A8res",
-   "source": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Mazi%C3%A8res",
-   "lat": null,
-   "lon": null,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "faits_divers",
-   "title": "L'affaire du collier de la reine",
-   "label": "1785 · Château de Versailles",
-   "teaser": "En 1785, une aventurière fait croire au cardinal de Rohan que Marie-Antoinette veut un collier de diamants hors de prix. L'escroquerie éclabousse la reine, pourtant innocente, à quatre ans de la Révolution.",
-   "lead": "L'affaire du collier, révélée en août 1785, est une escroquerie montée par Jeanne de La Motte, qui convainc le cardinal de Rohan d'acheter pour Marie-Antoinette un collier de diamants que la reine n'a jamais commandé.",
-   "text": "L'affaire du collier, révélée en août 1785, est une escroquerie montée par Jeanne de La Motte, qui convainc le cardinal de Rohan d'acheter pour Marie-Antoinette un collier de diamants que la reine n'a jamais commandé.",
-   "body": [
-    "Les joailliers Boehmer et Bassenge cherchent à vendre un collier extravagant, conçu pour Madame du Barry. Jeanne de La Motte, se disant proche de la reine, persuade le cardinal de Rohan, en disgrâce, qu'il pourra regagner la faveur royale en servant d'intermédiaire. Une rencontre nocturne est même organisée dans les jardins de Versailles avec une jeune femme déguisée en reine.",
-    "Rohan remet le collier, qui est aussitôt dépecé et ses diamants vendus à Londres. Quand les joailliers réclament leur paiement à la reine, le scandale éclate : le cardinal est arrêté en habits pontificaux le 15 août 1785, dans la galerie des Glaces.",
-    "En 1786, le parlement de Paris acquitte Rohan et condamne Jeanne de La Motte à être fouettée et marquée au fer. L'opinion retient surtout la réputation d'une reine dépensière, ce qui pèse sur la monarchie."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Affaire_du_collier_de_la_reine",
-   "source": "https://fr.wikipedia.org/wiki/Affaire_du_collier_de_la_reine",
-   "lat": null,
-   "lon": null,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "histoire",
-   "title": "La galerie des Glaces, de 1871 à 1919",
-   "label": "1871-1919 · Galerie des Glaces",
-   "teaser": "Le 18 janvier 1871, l'Empire allemand est proclamé dans la galerie des Glaces. Le 28 juin 1919, l'Allemagne vaincue y signe le traité de Versailles, au même endroit.",
-   "lead": "La galerie des Glaces du château de Versailles a été le théâtre de la proclamation de l'Empire allemand en 1871 puis de la signature du traité de paix de 1919.",
-   "text": "La galerie des Glaces du château de Versailles a été le théâtre de la proclamation de l'Empire allemand en 1871 puis de la signature du traité de paix de 1919.",
-   "body": [
-    "Pendant le siège de Paris, le roi de Prusse Guillaume Ier est proclamé empereur d'Allemagne dans la galerie, le 18 janvier 1871, en présence de Bismarck. Le choix du lieu, symbole de la puissance de Louis XIV, est vécu comme une humiliation par la France.",
-    "Clemenceau impose la même salle pour la signature du traité de paix, le 28 juin 1919, cinq ans jour pour jour après l'attentat de Sarajevo. Le traité retire à l'Allemagne l'Alsace-Moselle et ses colonies, et lui impose de lourdes réparations, que l'historiographie a souvent associées à la montée du nazisme."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Trait%C3%A9_de_Versailles",
-   "source": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Versailles",
-   "lat": 48.8049,
-   "lon": 2.1204,
-   "access": "Château de Versailles, fermé le lundi",
-   "protection": "Monument historique classé, patrimoine mondial de l'Unesco"
-  }
- ]
+  "id": "78646",
+  "insee": "78646",
+  "name": "Versailles",
+  "dept": "Yvelines",
+  "kind": "commune",
+  "lat": 48.8049,
+  "lon": 2.1204,
+  "anecdotes": [
+    {
+      "category": "histoire",
+      "title": "Le roi déguisé en if : une nuit qui lance Madame de Pompadour",
+      "label": "25–26 février 1745 · Galerie des Glaces",
+      "teaser": "Pour un bal masqué donné à Versailles, Louis XV et plusieurs courtisans se cachent sous d’énormes costumes d’ifs. Jeanne-Antoinette d’Étiolles y attire l’attention du roi.",
+      "lead": "Une des nuits les plus célèbres de Versailles commence par une plaisanterie visuelle : Louis XV se dissimule parmi des courtisans habillés en arbres taillés.",
+      "text": "Une des nuits les plus célèbres de Versailles commence par une plaisanterie visuelle : Louis XV se dissimule parmi des courtisans habillés en arbres taillés.",
+      "body": [
+        "Le « bal des Ifs » est donné dans la nuit du 25 au 26 février 1745 pour célébrer le mariage du dauphin Louis avec l’infante Marie-Thérèse-Raphaëlle d’Espagne. Le roi veut participer au bal masqué sans être immédiatement reconnu. Lui et plusieurs compagnons apparaissent donc sous des costumes d’ifs, ces arbres sculptés qui peuplent les jardins à la française.",
+        "Parmi les invités se trouve Jeanne-Antoinette d’Étiolles. Le Château de Versailles présente cette soirée comme l’un des moments décisifs de son rapprochement avec Louis XV. Quelques mois plus tard, elle est installée à la cour et devient marquise de Pompadour, favorite royale et figure politique et culturelle majeure du règne.",
+        "L’image des « arbres qui marchent » est restée attachée à l’histoire du palais. La galerie des Glaces que l’on visite aujourd’hui fut ainsi, le temps d’une nuit, la scène d’une opération de camouflage royal aussi extravagante qu’efficace.",
+        "Le déguisement collectif est au cœur de la scène : Louis XV et plusieurs courtisans portent des costumes d'ifs, ce qui brouille volontairement l'identité du souverain dans la foule masquée. La rencontre avec Jeanne-Antoinette Poisson n'est donc pas un rendez-vous officiel dans un salon d'apparat, mais un épisode de carnaval savamment mis en scène par la cour. Le Château de Versailles présente cette nuit comme le début de leur relation ; elle deviendra peu après marquise de Pompadour et occupera une place majeure dans l'entourage du roi. La galerie des Glaces visible aujourd'hui fournit un décor exceptionnellement stable pour imaginer cette soirée de 1745."
+      ],
+      "more": [],
+      "timeline": null,
+      "source": "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/bal-ifs",
+      "lat": null,
+      "lon": null,
+      "access": "Galerie des Glaces accessible dans le cadre de la visite du château, selon horaires et billetterie.",
+      "protection": null,
+      "image": {
+        "commons": "Bal des Ifs-galerie des glaces.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bal_des_Ifs-galerie_des_glaces.jpg",
+        "credit": "Charles-Nicolas Cochin / Wikimedia Commons",
+        "license": "Domaine public",
+        "caption": "Le bal masqué donné à Versailles en février 1745, où Louis XV se dissimula avec des courtisans sous des costumes d’ifs.",
+        "alt": "Représentation du bal masqué de 1745 dans la galerie des Glaces."
+      },
+      "links": [
+        {
+          "kind": "image",
+          "title": "Photographie et licence Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Bal_des_Ifs-galerie_des_glaces.jpg",
+          "note": "Charles-Nicolas Cochin / Wikimedia Commons · Domaine public"
+        }
+      ]
+    },
+    {
+      "category": "faits_divers",
+      "title": "Damiens frappe Louis XV à la porte de Versailles",
+      "label": "5 janvier 1757 · Château de Versailles",
+      "teaser": "À la tombée de la nuit, Robert-François Damiens blesse Louis XV d’un coup de canif alors que le roi s’apprête à monter en carrosse. La blessure est légère ; la réponse judiciaire sera effroyable.",
+      "lead": "Le 5 janvier 1757, le château devient la scène d’un attentat contre le roi : un ancien domestique, Robert-François Damiens, réussit à s’approcher de Louis XV et le frappe.",
+      "text": "Le 5 janvier 1757, le château devient la scène d’un attentat contre le roi : un ancien domestique, Robert-François Damiens, réussit à s’approcher de Louis XV et le frappe.",
+      "body": [
+        "Louis XV quitte le château pour se rendre à Trianon lorsqu’il est atteint au flanc par une petite lame. Les vêtements épais amortissent le coup et la plaie s’avère peu profonde, mais personne ne le sait encore. Le roi se croit mortellement blessé et l’événement provoque une panique immédiate autour de lui.",
+        "Damiens est arrêté sur place. L’enquête cherche à découvrir un complot, sans parvenir à établir qu’il ait agi pour une organisation. Le crime de lèse-majesté entraîne néanmoins une procédure spectaculaire. Condamné comme régicide, il est exécuté à Paris le 28 mars 1757 après un supplice devenu l’un des exemples les plus connus de la justice pénale de l’Ancien Régime.",
+        "L’illustration montre cette exécution, non l’attentat lui-même. Sur place, Versailles rappelle surtout le contraste entre la facilité avec laquelle un homme avait pu approcher le souverain et la violence extraordinaire de la réponse destinée à réaffirmer le caractère sacré de la personne royale.",
+        "L'attentat est spectaculaire par sa proximité avec le souverain mais il ne faut pas lui prêter une organisation politique démontrée. Damiens agit seul selon la conclusion retenue par la justice de l'époque, tandis que l'enquête cherche longuement d'éventuels complices. Louis XV n'est que légèrement blessé, mais l'atteinte au corps sacré du roi déclenche une réaction judiciaire extrême. La célèbre exécution de Damiens aura lieu à Paris, place de Grève, et non à Versailles ; l'estampe choisie dans la fiche représente ce supplice et sa légende le dit explicitement. Le lieu de l'agression, lui, se rattache bien au château et à la sortie du roi le 5 janvier 1757."
+      ],
+      "more": [],
+      "timeline": null,
+      "source": "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/attentat-damiens-contre-louis-xv",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null,
+      "mapNote": "L’image est une estampe du supplice de Damiens à Paris ; l’attentat, lui, eut lieu au château de Versailles.",
+      "image": {
+        "commons": "Robert François Damien exécuté à paris en place de greve le 28 Mars 1757. G.24362.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Robert_Fran%C3%A7ois_Damien_ex%C3%A9cut%C3%A9_%C3%A0_paris_en_place_de_greve_le_28_Mars_1757._G.24362.jpg",
+        "credit": "Anonyme, Musée Carnavalet / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "caption": "Estampe de 1757 représentant le supplice de Robert-François Damiens, auteur de l’attentat contre Louis XV à Versailles.",
+        "alt": "Estampe ancienne représentant l’exécution de Damiens."
+      },
+      "links": [
+        {
+          "kind": "image",
+          "title": "Photographie et licence Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Robert_Fran%C3%A7ois_Damien_ex%C3%A9cut%C3%A9_%C3%A0_paris_en_place_de_greve_le_28_Mars_1757._G.24362.jpg",
+          "note": "Anonyme, Musée Carnavalet / Wikimedia Commons · CC0 1.0"
+        }
+      ]
+    },
+    {
+      "category": "faits_divers",
+      "title": "Le faux rendez-vous nocturne qui précipite l’affaire du collier",
+      "label": "1784–1785 · Château et jardins de Versailles",
+      "teaser": "Une aventurière persuade le cardinal de Rohan qu’il peut regagner la faveur de Marie-Antoinette. Un sosie de la reine est même recruté pour un rendez-vous nocturne dans les jardins.",
+      "lead": "L’affaire du collier n’est pas seulement l’histoire d’un bijou hors de prix : une partie de l’escroquerie s’est jouée comme une mise en scène théâtrale à Versailles.",
+      "text": "L’affaire du collier n’est pas seulement l’histoire d’un bijou hors de prix : une partie de l’escroquerie s’est jouée comme une mise en scène théâtrale à Versailles.",
+      "body": [
+        "Jeanne de La Motte convainc le cardinal de Rohan qu’elle sert d’intermédiaire avec Marie-Antoinette. Pour rendre la fiction crédible, une jeune femme ressemblant à la reine rencontre brièvement le cardinal, de nuit, dans le parc de Versailles. Rohan se croit alors réconcilié avec une souveraine qui, en réalité, ignore tout de ces manœuvres.",
+        "Le piège permet ensuite d’obtenir à crédit un extraordinaire collier de diamants fabriqué par les joailliers Böhmer et Bassenge. Le bijou disparaît rapidement, démonté puis revendu. Lorsque l’escroquerie éclate, Louis XVI fait arrêter Rohan au château le 15 août 1785, en pleine journée de cour.",
+        "Marie-Antoinette n’a jamais commandé le collier, mais le scandale abîme encore son image dans l’opinion. L’affaire transforme Versailles en décor d’une escroquerie retentissante où faux messages, faux rendez-vous et vrai luxe royal se confondent — quelques années avant la Révolution.",
+        "L'efficacité de l'escroquerie tient précisément au décor versaillais. Les protagonistes exploitent la réputation de la cour, l'accès contrôlé à la reine et la possibilité de faire croire à un échange secret dans les jardins. Le faux rendez-vous donne au cardinal de Rohan l'illusion que Marie-Antoinette souhaite se réconcilier avec lui ; il devient ensuite l'intermédiaire idéal pour l'achat du collier. La reine n'a participé ni à la rencontre ni à la commande, mais l'opinion associera durablement son nom au scandale. Raconter cette mécanique permet de comprendre pourquoi une fraude commise par d'autres a eu des conséquences politiques aussi lourdes pour son image."
+      ],
+      "more": [],
+      "timeline": null,
+      "source": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/affaire-collier-reine",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null,
+      "mapNote": "Le rendez-vous nocturne eut lieu dans les jardins du domaine ; l’arrestation du cardinal de Rohan eut lieu au château.",
+      "image": {
+        "commons": "Affaire du Collier de la Reine Représentation exacte du grand collier en brillants des Sieurs Boëhmer et Bassange, G.38822.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Affaire_du_Collier_de_la_Reine_Repr%C3%A9sentation_exacte_du_grand_collier_en_brillants_des_Sieurs_Bo%C3%ABhmer_et_Bassange,_G.38822.jpg",
+        "credit": "Nicolas-Antoine Taunay, Musée Carnavalet / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "caption": "Représentation du collier au cœur de l’escroquerie qui éclata au grand jour à Versailles en 1785.",
+        "alt": "Gravure ancienne représentant le collier de diamants de l’affaire de la reine."
+      },
+      "links": [
+        {
+          "kind": "image",
+          "title": "Photographie et licence Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Affaire_du_Collier_de_la_Reine_Repr%C3%A9sentation_exacte_du_grand_collier_en_brillants_des_Sieurs_Bo%C3%ABhmer_et_Bassange,_G.38822.jpg",
+          "note": "Nicolas-Antoine Taunay, Musée Carnavalet / Wikimedia Commons · CC0 1.0"
+        }
+      ]
+    },
+    {
+      "category": "histoire",
+      "title": "Une salle de jeu devient le lieu d’un serment révolutionnaire",
+      "label": "20 juin 1789 · Salle du Jeu de Paume",
+      "teaser": "Chassés de leur salle de réunion, les députés du tiers état se rassemblent dans un jeu de paume et jurent de ne pas se séparer avant d’avoir donné une Constitution à la France.",
+      "lead": "À quelques rues du château, une salle sportive devient le 20 juin 1789 l’un des lieux fondateurs de la souveraineté nationale.",
+      "text": "À quelques rues du château, une salle sportive devient le 20 juin 1789 l’un des lieux fondateurs de la souveraineté nationale.",
+      "body": [
+        "Les députés des États généraux se heurtent depuis plusieurs semaines à la question du vote par ordre ou par tête. Ceux du tiers état se proclament Assemblée nationale le 17 juin. Trois jours plus tard, ils trouvent leur salle habituelle fermée et se déplacent vers la salle du Jeu de Paume de Versailles.",
+        "Sous la présidence de Jean-Sylvain Bailly, les députés présents jurent de ne jamais se séparer et de se réunir partout où les circonstances l’exigeront jusqu’à l’établissement d’une Constitution. Le geste n’abolit pas encore la monarchie, mais il affirme qu’une assemblée représentant la nation peut se donner une mission politique indépendante de la volonté royale.",
+        "La salle a survécu et a été transformée en lieu de mémoire. Elle permet aujourd’hui de sortir du palais pour comprendre que la Révolution française s’est aussi écrite dans le tissu urbain de Versailles, dans un bâtiment beaucoup plus modeste que les appartements royaux.",
+        "Le bâtiment est lui-même un personnage de l'histoire. Construit pour le jeu de paume, ancêtre du tennis, il devient presque par accident l'abri disponible d'une assemblée empêchée de siéger ailleurs. Après 1789, la salle connaît encore plusieurs usages avant d'être transformée en lieu de mémoire. Cette succession rappelle que les grands événements n'arrivent pas toujours dans des espaces conçus pour eux. Pour une visite de Versailles, le détour est révélateur : quelques minutes à pied séparent la mise en scène monarchique du château d'une salle beaucoup plus austère où des députés ont affirmé que leur mandat venait de la nation et ne pouvait être interrompu à volonté."
+      ],
+      "more": [],
+      "timeline": null,
+      "source": "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/serment-jeu-paume",
+      "lat": null,
+      "lon": null,
+      "access": "Salle du Jeu de Paume : conditions de visite à vérifier auprès du Château de Versailles.",
+      "protection": null,
+      "image": {
+        "commons": "Serment du Jeu de Paume, à Versailles le 20 juin 1789 (Berthault d'après Prieur).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Serment_du_Jeu_de_Paume,_%C3%A0_Versailles_le_20_juin_1789_(Berthault_d'apr%C3%A8s_Prieur).jpg",
+        "credit": "Jean-Louis Prieur et Pierre-Gabriel Berthault / Wikimedia Commons",
+        "license": "Domaine public",
+        "caption": "Représentation du Serment du Jeu de paume, prononcé à Versailles le 20 juin 1789.",
+        "alt": "Gravure du Serment du Jeu de paume de 1789."
+      },
+      "links": [
+        {
+          "kind": "image",
+          "title": "Photographie et licence Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Serment_du_Jeu_de_Paume,_%C3%A0_Versailles_le_20_juin_1789_(Berthault_d'apr%C3%A8s_Prieur).jpg",
+          "note": "Jean-Louis Prieur et Pierre-Gabriel Berthault / Wikimedia Commons · Domaine public"
+        }
+      ]
+    },
+    {
+      "category": "histoire",
+      "title": "1871–1919 : la galerie des Glaces voit naître un empire puis signer sa paix",
+      "label": "18 janvier 1871 / 28 juin 1919 · Galerie des Glaces",
+      "teaser": "Le même décor sert à deux cérémonies allemandes et européennes aux significations opposées : la proclamation de l’Empire allemand en 1871, puis la signature du traité de Versailles en 1919.",
+      "lead": "Peu de salles résument aussi brutalement un demi-siècle de rapports de force européens que la galerie des Glaces.",
+      "text": "Peu de salles résument aussi brutalement un demi-siècle de rapports de force européens que la galerie des Glaces.",
+      "body": [
+        "Le 18 janvier 1871, alors que Paris est encore assiégé pendant la guerre franco-prussienne, Guillaume Ier de Prusse est proclamé empereur allemand dans la galerie des Glaces. Le choix de Versailles, palais de Louis XIV, donne à la cérémonie une charge symbolique évidente pour les Français.",
+        "Quarante-huit ans plus tard, le 28 juin 1919, les délégations victorieuses de la Première Guerre mondiale et les représentants allemands se retrouvent dans la même galerie pour signer le traité de Versailles. Le texte règle une partie de l’après-guerre, redessine des frontières et impose à l’Allemagne des obligations lourdes qui nourriront ensuite d’intenses controverses.",
+        "Le lieu permet donc de lire deux scènes superposées : en 1871, l’unité allemande célébrée dans un palais français occupé ; en 1919, la paix imposée à l’Allemagne dans la même salle. Aujourd’hui, le visiteur traverse cet espace sans qu’aucun changement architectural majeur ne sépare ces deux moments.",
+        "Le rapprochement de ces deux dates n'implique pas que le traité de 1919 ait été choisi uniquement comme revanche symbolique sur 1871, mais la mémoire de la proclamation allemande rend le lieu politiquement chargé. La galerie, construite pour exalter la monarchie de Louis XIV, devient ainsi malgré elle un théâtre de l'histoire nationale et internationale. C'est cette superposition qui mérite d'être retenue : un espace conçu au XVIIe siècle accueille, à cinquante ans d'intervalle, deux cérémonies qui encadrent la rivalité franco-allemande. Les miroirs, peintures et perspectives que l'on voit aujourd'hui offrent un lien matériel direct avec ces événements, même si les décors protocolaires temporaires ont disparu."
+      ],
+      "more": [],
+      "timeline": null,
+      "source": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/proclamation-empire-allemand",
+      "lat": null,
+      "lon": null,
+      "access": "Galerie des Glaces accessible dans le parcours du château.",
+      "protection": null,
+      "image": {
+        "commons": "Treaty of Versailles Signing, Hall of Mirrors.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles_Signing,_Hall_of_Mirrors.jpg",
+        "credit": "Helen Johns Kirtland et Lucian Swift Kirtland / U.S. National Archives / Wikimedia Commons",
+        "license": "Domaine public",
+        "caption": "Signature du traité de Versailles le 28 juin 1919 dans la galerie des Glaces, quarante-huit ans après la proclamation de l’Empire allemand dans cette même salle.",
+        "alt": "Délégations réunies dans la galerie des Glaces pour signer le traité de Versailles en 1919."
+      },
+      "links": [
+        {
+          "kind": "source",
+          "title": "Château de Versailles — Le traité de Versailles",
+          "url": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/traite-versailles",
+          "note": "Signature du traité dans la galerie des Glaces le 28 juin 1919."
+        },
+        {
+          "kind": "image",
+          "title": "Photographie et licence Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles_Signing,_Hall_of_Mirrors.jpg",
+          "note": "Helen Johns Kirtland et Lucian Swift Kirtland / U.S. National Archives / Wikimedia Commons · Domaine public"
+        }
+      ]
+    }
+  ]
 }
