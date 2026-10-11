@@ -1,0 +1,47 @@
+name: Register Paris 1er arrondissement in content index
+on:
+  push:
+    paths:
+      - '.github/workflows/register-paris-01.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Register 75101 without changing other entries
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path("communes/75101.json")
+          assert p.exists(), "Fiche 75101 absente"
+          city=json.loads(p.read_text(encoding="utf-8"))
+          assert city["id"]=="75101" and city["insee"]=="75101" and len(city["anecdotes"])==24
+          index_path=Path("index.json")
+          idx=json.loads(index_path.read_text(encoding="utf-8"))
+          assert "communes" in idx and isinstance(idx["communes"],dict)
+          expected={"name":"Paris 1er arrondissement","count":24,"written":24,"updated":"2026-10-11"}
+          existing=idx["communes"].get("75101")
+          assert existing in (None,expected), f"75101 already exists with differing data: {existing}"
+          idx["communes"]["75101"]=expected
+          index_path.write_text(json.dumps(idx,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          assert json.loads(index_path.read_text(encoding="utf-8"))["communes"]["75101"]==expected
+          PY
+      - name: Commit index update
+        shell: bash
+        run: |
+          if git diff --quiet -- index.json; then
+            echo "Already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- index.json
+          git commit -m "index: register Paris 1er (75101) with 24 anecdotes"
+          git push
