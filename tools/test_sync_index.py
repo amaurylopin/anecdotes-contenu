@@ -24,7 +24,7 @@ class SyncIndexTests(unittest.TestCase):
         changed = sync(self.index, self.communes, {"76259"}, "2026-10-12T12:00:00Z")
         self.assertEqual(changed, ["76259"])
         data = json.loads(self.index.read_text(encoding="utf-8"))
-        self.assertEqual(data["commun es".replace(" ", "")]["76259"]["count"], 22)
+        self.assertEqual(data["communes"]["76259"]["count"], 22)
         self.assertEqual(data["communes"]["76259"]["written"], 21)
         self.assertEqual(data["communes"]["76259"]["updated"], "2026-10-12T12:00:00Z")
         self.assertEqual(len(data["communes"]["76259"]["revision"]), 64)
