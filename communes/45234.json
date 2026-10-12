@@ -1,135 +1,562 @@
 {
- "id": "45234",
- "insee": "45234",
- "name": "Orléans",
- "dept": "Loiret",
- "kind": "commune",
- "lat": 47.9029,
- "lon": 1.9093,
- "anecdotes": [
-  {
-   "category": "politique",
-   "title": "Serge Grouard triomphe à Orléans en 2026",
-   "label": "Mars 2026 · Hôtel de ville",
-   "status": null,
-   "teaser": "Réélu au second tour avec 57,81 % des voix et 44 sièges sur 55, Serge Grouard confirme le retour amorcé en 2020. Orléans est à droite depuis 2001.",
-   "lead": "Le 22 mars 2026, Serge Grouard est réélu maire d'Orléans au second tour avec 57,81 % des voix, obtenant 44 sièges sur 55 face à l'union de la gauche.",
-   "text": "Le 22 mars 2026, Serge Grouard est réélu maire d'Orléans au second tour avec 57,81 % des voix, obtenant 44 sièges sur 55 face à l'union de la gauche.",
-   "body": [
-    "Ancien militaire et député, Serge Grouard prend la ville en 2001, engage le retour du tramway, la rénovation du centre médiéval et la reconquête des bords de Loire, puis démissionne en 2015 après son élection au conseil régional, laissant la mairie à Olivier Carré. Il bat ce dernier en 2020 et retrouve son fauteuil.",
-    "En 2026, sa liste « Ici c'est Orléans » arrive largement en tête au premier tour avec 40,56 % des voix, puis l'emporte au second avec 17 320 voix (57,81 %) et 44 sièges sur 55 ; la liste d'union de la gauche de Baptiste Chapuis obtient 42,19 % et 11 sièges.",
-    "Orléans accueille chaque printemps les fêtes de Jeanne d'Arc, instituées dès 1430 et parmi les plus anciennes célébrations de France."
-   ],
-   "more": [],
-   "timeline": [
+  "id": "45234",
+  "insee": "45234",
+  "name": "Orléans",
+  "dept": "Loiret",
+  "kind": "commune",
+  "lat": 47.9029,
+  "lon": 1.9093,
+  "anecdotes": [
     {
-     "year": "2001",
-     "text": "Serge Grouard devient maire d'Orléans."
+      "category": "politique",
+      "title": "Serge Grouard triomphe à Orléans en 2026",
+      "label": "Mars 2026 · Hôtel de ville",
+      "status": null,
+      "teaser": "Réélu en mars 2026, Serge Grouard obtient 57,81 % des suffrages au second tour. Son parcours orléanais couvre deux mandats séparés par une rupture en 2015.",
+      "lead": "Le 22 mars 2026, la liste conduite par Serge Grouard remporte le second tour des municipales d'Orléans avec 17 320 voix, soit 57,81 % des suffrages exprimés.",
+      "text": "Le 22 mars 2026, la liste conduite par Serge Grouard remporte le second tour des municipales d'Orléans avec 17 320 voix, soit 57,81 % des suffrages exprimés.",
+      "body": [
+        "L'élection de 2026 raconte une histoire municipale qui a commencé un quart de siècle plus tôt. Serge Grouard conquiert la mairie d'Orléans en 2001. La ville connaît alors de grands changements urbains, mais leur chronologie mérite d'être respectée : la première ligne du tramway orléanais est entrée en service en novembre 2000, avant son arrivée. Les renouvellements urbains et la seconde ligne du tramway s'inscrivent, eux, dans les années de sa première mandature.",
+        "Le 22 juin 2015, il annonce son retrait de la mairie pour raisons de santé ; Olivier Carré lui succède. Après des tensions politiques locales, Grouard se représente en 2020 et remporte à nouveau l'élection municipale. Ce retour est la clé du scrutin suivant : en 2026, sa liste « Ici c'est Orléans » arrive en tête du premier tour, puis affronte au second une liste d'union de la gauche menée par Baptiste Chapuis.",
+        "Les résultats officiels du 22 mars donnent à la liste de Serge Grouard 17 320 voix, soit 57,81 % des suffrages exprimés, et 44 sièges au conseil municipal sur 55. La liste de Baptiste Chapuis recueille 42,19 % et 11 sièges. Le chiffre des sièges mesure la majorité politique obtenue par sa liste, pas la part proportionnelle de ses voix.",
+        "L'Hôtel de Ville, installé dans l'Hôtel Groslot, est le lieu où la délibération municipale prolonge cette histoire électorale. Pour comprendre les alternances et les continuités de la politique orléanaise, il faut distinguer les résultats officiels, les décisions du conseil et les grands projets hérités de mandats précédents."
+      ],
+      "more": [],
+      "timeline": [
+        {
+          "year": "2000",
+          "text": "Mise en service de la première ligne de tramway, avant le premier mandat de Serge Grouard."
+        },
+        {
+          "year": "2001",
+          "text": "Serge Grouard accède à la mairie d'Orléans."
+        },
+        {
+          "year": "2015",
+          "text": "Départ de la mairie pour raisons de santé ; Olivier Carré lui succède."
+        },
+        {
+          "year": "2020",
+          "text": "Serge Grouard revient à la tête de la municipalité."
+        },
+        {
+          "year": "2026",
+          "text": "Sa liste obtient 57,81 % des voix au second tour et 44 sièges sur 55."
+        }
+      ],
+      "links": [
+        {
+          "kind": "document",
+          "title": "Ministère de l'Intérieur — résultats du second tour 2026",
+          "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/24/45/45234/",
+          "note": "22 mars 2026 ; scores, suffrages et sièges."
+        },
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — résultats municipaux",
+          "url": "https://www.orleans.fr/actualites/detail/municipales-orleans-2eme-tour-resultats",
+          "note": "Source consultée pour la vérification des faits"
+        },
+        {
+          "kind": "document",
+          "title": "Le Monde — départ de 2015 pour raisons de santé",
+          "url": "https://www.lemonde.fr/politique/article/2015/06/22/le-maire-d-orleans-met-fin-a-son-mandat_4659443_823448.html",
+          "note": "Source consultée pour la vérification des faits"
+        },
+        {
+          "kind": "document",
+          "title": "Orléans Métropole — histoire du réseau de tramway",
+          "url": "https://www.orleans-metropole.fr/fileadmin/orleans-metropole/MEDIA/document/environnement/plan_bruit/PPBE_2024-2029.pdf",
+          "note": "Source institutionnelle sur la première mise en service en 2000."
+        }
+      ],
+      "wiki": "Serge_Grouard",
+      "source": "https://fr.wikipedia.org/wiki/Serge_Grouard",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null
     },
     {
-     "year": "2015",
-     "text": "Il démissionne ; Olivier Carré prend la mairie."
+      "category": "histoire",
+      "title": "Le siège levé par Jeanne d'Arc en neuf jours",
+      "label": "Octobre 1428 - 8 mai 1429 · Toute la ville",
+      "teaser": "Jeanne entre dans Orléans le 29 avril 1429. Les combats décisifs du 7 mai forcent bientôt l'armée anglaise à se retirer : la ville entretient ce souvenir depuis près de six siècles.",
+      "lead": "Le 29 avril 1429, Jeanne d'Arc entre dans Orléans assiégée ; le 8 mai, après une succession d'assauts, les Anglais abandonnent leurs positions.",
+      "text": "Le 29 avril 1429, Jeanne d'Arc entre dans Orléans assiégée ; le 8 mai, après une succession d'assauts, les Anglais abandonnent leurs positions.",
+      "body": [
+        "Au printemps 1429, les forces anglaises tiennent plusieurs positions fortifiées autour d'Orléans. Le siège, commencé en octobre 1428, n'a pas complètement fermé les accès à la ville, mais les défenses ennemies pèsent sur l'approvisionnement et sur le sort du camp du dauphin Charles. La Loire constitue une ligne stratégique : perdre Orléans aurait ouvert aux Anglais d'autres voies vers les territoires encore fidèles au dauphin.",
+        "Jeanne arrive le soir du 29 avril avec un convoi de vivres. La jeune femme, âgée d'environ dix-sept ans, ne gagne pas la guerre à elle seule : des soldats expérimentés, des capitaines français, la population et la situation militaire rendent possible la reprise des opérations. Pourtant, sa présence change la dynamique morale et politique d'un siège qui paraissait interminable.",
+        "Les assauts se succèdent contre les positions anglaises. Après Saint-Loup et les Augustins, le combat décisif se déroule le 7 mai au fort des Tourelles, au sud de la Loire. Jeanne y est blessée ; l'attaque finit par emporter cette position. Le lendemain, 8 mai, les forces anglaises lèvent le siège. Neuf jours séparent donc son entrée dans Orléans de ce départ, même si la campagne militaire a une histoire bien plus longue.",
+        "La victoire ouvre la campagne de la Loire, puis la marche vers Reims où Charles VII est sacré en juillet 1429. Elle devient également un événement civique majeur pour Orléans : les fêtes johanniques, attestées depuis le XVe siècle, réunissent cérémonies, cortèges et mémoire locale. Aujourd'hui, les abords de la Loire et la place du Martroi permettent de lire dans la ville la double histoire de la bataille et de sa commémoration."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — histoire des Fêtes de Jeanne d'Arc",
+          "url": "https://www.orleans.fr/fetes-de-jeanne-d-arc/presentation",
+          "note": "Chronologie du siège et tradition des cérémonies."
+        }
+      ],
+      "wiki": "Si%C3%A8ge_d%27Orl%C3%A9ans",
+      "source": "https://fr.wikipedia.org/wiki/Si%C3%A8ge_d%27Orl%C3%A9ans",
+      "lat": 47.899,
+      "lon": 1.905,
+      "access": null,
+      "protection": null
     },
     {
-     "year": "2020",
-     "text": "Grouard bat Carré et retrouve son fauteuil."
+      "category": "patrimoine",
+      "title": "La maison de Jeanne d'Arc à Orléans",
+      "label": "1429 · Orléans",
+      "status": null,
+      "teaser": "Jeanne fut hébergée en 1429 chez le trésorier Jacques Boucher. Mais la maison visitée aujourd'hui est une reconstruction : le bâtiment d'origine a disparu pendant la guerre.",
+      "lead": "À Orléans, le souvenir du séjour de Jeanne d'Arc se lit dans une maison reconstruite sur l'emplacement du logis de Jacques Boucher, place du Général-de-Gaulle.",
+      "text": "À Orléans, le souvenir du séjour de Jeanne d'Arc se lit dans une maison reconstruite sur l'emplacement du logis de Jacques Boucher, place du Général-de-Gaulle.",
+      "body": [
+        "Lorsque Jeanne d'Arc entre dans Orléans le 29 avril 1429, elle est accueillie dans l'habitation de Jacques Boucher, trésorier du duc d'Orléans. Cette maison joue un rôle dans le récit des derniers jours du siège : elle est un lieu où la jeune combattante séjourne au sein d'une cité qui cherche à desserrer l'étau anglais. Elle ne doit pas être confondue avec les logements de l'entourage royal ni avec les bâtiments attenants à la cathédrale.",
+        "L'endroit exact est aujourd'hui facile à identifier : la maison de Jeanne d'Arc se trouve place du Général-de-Gaulle. Son aspect ancien pourrait laisser croire à un édifice médiéval demeuré intact. C'est trompeur. Le bâtiment historique a été détruit lors des bombardements de juin 1940. Le bâti visible aujourd'hui est une reconstruction entreprise après la guerre, destinée à restituer la silhouette du logis disparu.",
+        "Ce décalage entre vestige et reconstitution n'enlève rien à l'intérêt du lieu. Il raconte deux mémoires orléanaises qui se croisent : celle de la délivrance de 1429 et celle de la ville meurtrie par la Seconde Guerre mondiale. Le visiteur voit une architecture conçue pour rappeler la fin du Moyen Âge, mais aussi le résultat d'un choix patrimonial beaucoup plus récent.",
+        "L'espace accueille une présentation consacrée à Jeanne d'Arc, des ressources et de la documentation historiques. Avant de pousser la porte, un détail permet de changer le regard : ici, la valeur du bâtiment tient moins à l'ancienneté de ses murs actuels qu'à l'adresse qu'il matérialise."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — Maison de Jeanne d'Arc",
+          "url": "https://www.orleans.fr/que-faire-a-orleans/musees/la-maison-de-jeanne-darc",
+          "note": "Lieu, reconstruction et présentation muséale."
+        },
+        {
+          "kind": "image",
+          "title": "Wikimedia Commons — Maison de Jeanne d'Arc",
+          "url": "https://commons.wikimedia.org/wiki/File:Maison_de_Jeanne_d'Arc_Orléans_04.jpg",
+          "note": "Arnaud 25 · CC BY-SA 4.0"
+        }
+      ],
+      "wiki": "Maison_de_Jeanne_d%27Arc",
+      "source": "https://fr.wikipedia.org/wiki/Maison_de_Jeanne_d%27Arc",
+      "lat": 47.9014,
+      "lon": 1.9048,
+      "access": "Maison de Jeanne d'Arc, place du Général-de-Gaulle ; conditions et horaires de visite à vérifier auprès de la Ville.",
+      "protection": null,
+      "image": {
+        "commons": "Maison de Jeanne d'Arc Orléans 04.jpg",
+        "credit": "Arnaud 25 · CC BY-SA 4.0",
+        "caption": "Maison de Jeanne d'Arc, place du Général-de-Gaulle, reconstruite après la guerre.",
+        "page": "https://commons.wikimedia.org/wiki/File:Maison_de_Jeanne_d'Arc_Orléans_04.jpg",
+        "license": "CC BY-SA 4.0",
+        "alt": "Maison de Jeanne d'Arc à Orléans"
+      }
     },
     {
-     "year": "2026",
-     "text": "Réélu avec 57,81 % des voix."
+      "category": "personnalites",
+      "title": "Charles Péguy, l'écrivain d'Orléans",
+      "label": "7 janvier 1873 · Orléans",
+      "status": null,
+      "teaser": "Né dans une famille modeste en 1873, Charles Péguy passa de l'école d'Orléans aux grands débats de son temps. Sa ville natale conserve un musée et un parcours liés à son enfance.",
+      "lead": "Le 7 janvier 1873 naît à Orléans Charles Péguy, futur écrivain, éditeur et penseur, dont le destin s'achèvera au front en septembre 1914.",
+      "text": "Le 7 janvier 1873 naît à Orléans Charles Péguy, futur écrivain, éditeur et penseur, dont le destin s'achèvera au front en septembre 1914.",
+      "body": [
+        "Charles Péguy grandit dans un milieu modeste du faubourg Bourgogne. Son père, menuisier, meurt peu après sa naissance. Sa mère, qui rempaille des chaises, élève seule l'enfant. Ce travail manuel et cette enfance orléanaise laisseront des traces dans son rapport à la langue, à la justice et à la dignité des humbles.",
+        "Ses capacités scolaires lui ouvrent des portes inhabituelles pour son milieu d'origine. Il poursuit sa scolarité au lycée d'Orléans, avant d'entrer à l'École normale supérieure à Paris. Il s'engage dans l'affaire Dreyfus, fréquente le socialisme et fonde en 1900 les Cahiers de la Quinzaine : une revue autant qu'une aventure intellectuelle, conçue pour publier des textes qui refusent de sacrifier la pensée aux appartenances de parti.",
+        "Au fil des années, sa trajectoire religieuse et politique se complexifie. Ses poèmes et ses essais, notamment ceux qui mobilisent la figure de Jeanne d'Arc, entretiennent un dialogue constant avec l'histoire française. Il faut se garder de réduire Péguy à une seule étiquette : dreyfusard, écrivain chrétien, républicain et patriote désignent des étapes ou des dimensions d'un parcours qui résiste aux résumés rapides.",
+        "Mobilisé en 1914, il est tué le 5 septembre près de Villeroy, au début de la bataille de la Marne. À Orléans, le musée Charles-Péguy et les itinéraires patrimoniaux permettent de retrouver les lieux de sa naissance, de ses études et de son souvenir. Ce n'est pas seulement une histoire littéraire : c'est celle d'un enfant de la ville dont la voix s'est mêlée aux controverses nationales."
+      ],
+      "more": [],
+      "timeline": [
+        {
+          "year": "1873",
+          "text": "Naissance à Orléans dans une famille modeste."
+        },
+        {
+          "year": "1894",
+          "text": "Entre à l'École normale supérieure."
+        },
+        {
+          "year": "1900",
+          "text": "Fonde les Cahiers de la Quinzaine."
+        },
+        {
+          "year": "1914",
+          "text": "Tué à la bataille de la Marne, à Villeroy."
+        }
+      ],
+      "links": [
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — musée Charles-Péguy",
+          "url": "https://www.orleans.fr/que-faire-a-orleans/musees/le-musee-charles-peguy",
+          "note": "Collections, parcours et lieu de mémoire."
+        },
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — parcours Charles Péguy",
+          "url": "https://www.orleans.fr/fileadmin/orleans/MEDIA/kiosque/ville_art_histoire/PARCOURS_Peguy-IMP.pdf",
+          "note": "Parcours des lieux orléanais liés à l'écrivain."
+        }
+      ],
+      "wiki": "Charles_P%C3%A9guy",
+      "source": "https://fr.wikipedia.org/wiki/Charles_P%C3%A9guy",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null
+    },
+    {
+      "category": "histoire",
+      "title": "Le roi de dix-sept ans qui mourut à l'Hôtel Groslot",
+      "label": "5 décembre 1560 · Place de l'Étape",
+      "teaser": "Un hôtel particulier d'Orléans devint, en décembre 1560, le théâtre d'une crise de succession : François II y mourut à dix-sept ans, laissant la couronne à son jeune frère.",
+      "lead": "Le 5 décembre 1560, François II meurt à Orléans, dans l'Hôtel Groslot, et son frère Charles IX devient roi de France.",
+      "text": "Le 5 décembre 1560, François II meurt à Orléans, dans l'Hôtel Groslot, et son frère Charles IX devient roi de France.",
+      "body": [
+        "En franchissant les portes de l'Hôtel Groslot, place de l'Étape, on découvre l'une des demeures les plus singulières d'Orléans. Ce bâtiment Renaissance n'était pas, à l'origine, un palais royal : il fut élevé au milieu du XVIe siècle pour Jacques Groslot, bailli de la ville. Sa façade de briques et de pierres, ses décors et son escalier témoignent des ambitions d'une élite urbaine assez puissante pour accueillir la cour.",
+        "À l'automne 1560, le jeune roi François II se trouve à Orléans dans un climat politique et religieux troublé. Le souverain n'a que dix-sept ans. Marié à Marie Stuart, reine d'Écosse, il a succédé l'année précédente à son père Henri II. Le 5 décembre, il meurt dans la ville. La disparition d'un monarque aussi jeune transforme aussitôt une crise personnelle en affaire d'État.",
+        "Son frère Charles IX, encore enfant, lui succède. Catherine de Médicis occupe désormais une position déterminante dans le gouvernement du royaume, tandis que les divisions entre catholiques et protestants vont s'aggraver. Les États généraux réunis à Orléans au même moment donnent à cette ville, pour quelques semaines, une place centrale dans l'histoire politique française.",
+        "La scène est frappante parce que le décor subsiste. L'Hôtel Groslot sert aujourd'hui de cadre à la vie municipale ; son histoire remonte pourtant à une époque où la mort d'un adolescent pouvait modifier en un instant l'équilibre de toute une monarchie. Les notices anciennes ne concordent pas toujours dans leur manière d'intituler cet épisode ; la date du 5 décembre est celle retenue par les synthèses de référence."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.orleans.fr/actualites/detail/nouveau-livret-pour-lhotel-groslotnouveau-livret-pour-lhotel-groslot",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "Musée protestant — Hôtel Groslot et mort de François II",
+          "url": "https://museeprotestant.org/notice/hotel-groslot-place-de-letape/?parc=60186",
+          "note": "Source consultée pour la vérification des faits"
+        },
+        {
+          "kind": "image",
+          "title": "Wikimedia Commons — Hôtel Groslot",
+          "url": "https://commons.wikimedia.org/wiki/File:Orléans_Hôtel_Groslot_3.jpg",
+          "note": "Zairon · CC BY-SA 4.0"
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.orleans.fr/actualites/detail/nouveau-livret-pour-lhotel-groslotnouveau-livret-pour-lhotel-groslot",
+      "lat": null,
+      "lon": null,
+      "access": "Hôtel Groslot, place de l'Étape ; accès selon événements et visites municipales.",
+      "protection": null,
+      "image": {
+        "commons": "Orléans Hôtel Groslot 3.jpg",
+        "credit": "Zairon · CC BY-SA 4.0",
+        "caption": "Façade de l'Hôtel Groslot, place de l'Étape.",
+        "page": "https://commons.wikimedia.org/wiki/File:Orléans_Hôtel_Groslot_3.jpg",
+        "license": "CC BY-SA 4.0",
+        "alt": "Hôtel Groslot à Orléans"
+      }
+    },
+    {
+      "category": "patrimoine",
+      "title": "Une cathédrale gothique rebâtie à l'âge classique",
+      "label": "1568–1829 · Place Sainte-Croix",
+      "teaser": "Les guerres de Religion ont ravagé Sainte-Croix en 1568. Sa grande silhouette gothique a été reconstruite bien plus tard : Henri IV lança le chantier en 1601.",
+      "lead": "Dans la nuit du 23 au 24 mars 1568, la cathédrale Sainte-Croix d'Orléans est gravement détruite ; sa reconstruction royale durera plus de deux siècles.",
+      "text": "Dans la nuit du 23 au 24 mars 1568, la cathédrale Sainte-Croix d'Orléans est gravement détruite ; sa reconstruction royale durera plus de deux siècles.",
+      "body": [
+        "De l'extérieur, la cathédrale d'Orléans paraît appartenir naturellement au grand Moyen Âge des cathédrales gothiques. Sa hauteur, ses arcs, ses tours et les proportions de sa nef évoquent les grandes constructions médiévales du royaume. Pourtant, une grande partie de l'édifice visible aujourd'hui relève d'une autre époque. Le monument est l'aboutissement d'un des plus longs chantiers royaux des temps modernes.",
+        "Au cœur des guerres de Religion, dans la nuit du 23 au 24 mars 1568, l'ancienne cathédrale est ravagée par les destructions. Le bâtiment devient le symbole local de la violence confessionnelle. La reconstruction ne consiste pas simplement à réparer quelques pierres : il faut repenser et relever un édifice majeur dans un royaume encore déchiré.",
+        "Le 18 avril 1601, Henri IV pose la première pierre du nouveau chantier. Le geste est autant politique que religieux. Le roi, naguère chef du camp protestant et devenu catholique, entend faire de l'église reconstruite un emblème de paix retrouvée. Des générations d'architectes, d'artisans et de commanditaires se succèdent ensuite. La cathédrale n'est inaugurée que le 8 mai 1829, sous Charles X : plus de deux siècles après le geste d'Henri IV.",
+        "Le ministère de la Culture parle à son sujet de « gothique moderne ». Ce terme désigne un choix étonnant : reconstruire une église de grande ampleur selon des formes gothiques à une époque où l'architecture classique domine ailleurs. Devant la façade, le visiteur peut donc regarder un édifice médiéval en apparence, mais profondément marqué par la monarchie des XVIIe, XVIIIe et XIXe siècles."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.culture.gouv.fr/regions/drac-centre-val-de-loire/ressources/publications/actes-de-colloque/Cathedrale-d-Orleans",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "image",
+          "title": "Wikimedia Commons — Cathédrale Sainte-Croix",
+          "url": "https://commons.wikimedia.org/wiki/File:Orléans_-_Cathédrale_Sainte-Croix_01.JPG",
+          "note": "Pymouss · CC BY-SA 4.0"
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.culture.gouv.fr/regions/drac-centre-val-de-loire/ressources/publications/actes-de-colloque/Cathedrale-d-Orleans",
+      "lat": null,
+      "lon": null,
+      "access": "Cathédrale Sainte-Croix, place Sainte-Croix ; accès soumis aux offices et aux règles du monument.",
+      "protection": null,
+      "image": {
+        "commons": "Orléans - Cathédrale Sainte-Croix 01.JPG",
+        "credit": "Pymouss · CC BY-SA 4.0",
+        "caption": "La cathédrale Sainte-Croix, reconstruite après les guerres de Religion.",
+        "page": "https://commons.wikimedia.org/wiki/File:Orléans_-_Cathédrale_Sainte-Croix_01.JPG",
+        "license": "CC BY-SA 4.0",
+        "alt": "Cathédrale Sainte-Croix à Orléans"
+      }
+    },
+    {
+      "category": "histoire",
+      "title": "1022 : le bûcher des clercs accusés d'hérésie",
+      "label": "28 décembre 1022 · Orléans",
+      "teaser": "Quatorze clercs sont condamnés sous Robert le Pieux. Mais les accusations nous sont connues par les écrits de leurs ennemis : l'histoire est aussi celle d'une persécution construite par les récits.",
+      "lead": "En décembre 1022, le roi Robert II le Pieux réunit à Orléans un synode au terme duquel des clercs jugés hérétiques sont exécutés par le feu.",
+      "text": "En décembre 1022, le roi Robert II le Pieux réunit à Orléans un synode au terme duquel des clercs jugés hérétiques sont exécutés par le feu.",
+      "body": [
+        "À l'approche de l'an mil, Orléans est une ville importante du royaume capétien. En 1022, elle devient le cadre d'un épisode dont les historiens discutent encore les mécanismes. Le 28 décembre, un synode réuni sous l'autorité de Robert II le Pieux condamne plusieurs membres du haut clergé local accusés de s'écarter de la doctrine de l'Église. Les chroniques évoquent quatorze condamnés et leur mise à mort sur un bûcher.",
+        "Le caractère exceptionnel de la sentence explique la place de cet événement dans les études sur la répression de l'hérésie en Occident. Mais le véritable intérêt historique ne réside pas seulement dans la violence du châtiment. Il tient à la question de la preuve : que savons-nous exactement de ce que pensaient les personnes exécutées ?",
+        "Les principaux textes conservés ont été rédigés par des auteurs hostiles aux accusés. Certains y associent des pratiques scandaleuses ou des comportements monstrueux qui reprennent des lieux communs de la polémique religieuse. Ces descriptions ne peuvent pas être reproduites comme des faits établis. L'historien Éric Van Torhoudt, dans une étude parue en 2005, montre combien le dossier est traversé de constructions politiques, de rivalités et de récits destinés à justifier la condamnation.",
+        "Aucun emplacement précis du bûcher n'est suffisamment attesté ici pour en faire un repère sur la carte. Cette absence de localisation est importante : elle empêche de donner au promeneur l'illusion d'un lieu retrouvé. À Orléans, le souvenir de 1022 invite surtout à s'interroger sur la manière dont les vainqueurs écrivent l'histoire des vaincus."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.persee.fr/doc/annor_0003-4134_2005_num_55_4_1543",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "Robert-Henri Bautier — travaux critiques sur l'hérésie d'Orléans",
+          "url": "https://www.persee.fr/doc/bsnaf_0081-1181_1972_num_1970_1_7982",
+          "note": "Étude historienne complémentaire ; discussions sur les récits médiévaux."
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.persee.fr/doc/annor_0003-4134_2005_num_55_4_1543",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null
+    },
+    {
+      "category": "histoire",
+      "title": "L'université fondée en 1306 dont subsiste la salle des Thèses",
+      "label": "1306–1793 · Rue Pothier",
+      "teaser": "Avant d'être une ville universitaire contemporaine, Orléans fut un pôle européen de l'enseignement du droit. Une salle ancienne témoigne encore de cette vie intellectuelle.",
+      "lead": "En 1306, le pape Clément V reconnaît l'université d'Orléans ; pendant des siècles, ses enseignements de droit attirent des étudiants venus de loin.",
+      "text": "En 1306, le pape Clément V reconnaît l'université d'Orléans ; pendant des siècles, ses enseignements de droit attirent des étudiants venus de loin.",
+      "body": [
+        "Dans la rue Pothier se trouve un bâtiment discret qui raconte une histoire inattendue : Orléans fut l'une des places fortes européennes de l'enseignement du droit. Sa tradition savante est plus ancienne que la plupart des installations universitaires contemporaines que l'on associe aujourd'hui à la ville.",
+        "Au Moyen Âge, maîtres et étudiants se réunissent autour de l'étude du droit romain et du droit canonique. L'institution reçoit une reconnaissance pontificale en 1306, sous Clément V. La renommée de cette école attire des étudiants de différentes régions d'Europe. Ces communautés d'origine, souvent organisées en « nations » universitaires, font circuler les idées autant que les personnes. Les maîtres ne forment pas seulement des juristes : ils contribuent aux pratiques administratives et intellectuelles du temps.",
+        "Cette histoire est loin d'être une ligne continue. L'ancienne université décline et disparaît dans les bouleversements révolutionnaires de 1793. Il faut attendre le XXe siècle pour voir renaître progressivement l'enseignement supérieur universitaire orléanais, avec une autre organisation et de nouveaux campus. Le nom d'université recouvre ainsi des institutions séparées par une longue interruption.",
+        "Un indice matériel demeure pourtant dans la ville ancienne : la salle des Thèses, rue Pothier. Cet espace, aujourd'hui associé à la Société archéologique et historique de l'Orléanais, rappelle qu'avant les amphithéâtres modernes la ville accueillait disputations, juristes et cérémonies savantes. C'est une histoire à double détente : un établissement médiéval reconnu en 1306, et une cité universitaire actuelle qui revendique ce passé sans être son prolongement institutionnel ininterrompu."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.univ-orleans.fr/fr/univ/universite/decouvrir/lhistoire-de-luo",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "Société archéologique et historique de l'Orléanais — salle des Thèses",
+          "url": "https://www.saho.fr/",
+          "note": "Implantation et activité de la société rue Pothier."
+        },
+        {
+          "kind": "image",
+          "title": "Wikimedia Commons — Salle des Thèses",
+          "url": "https://commons.wikimedia.org/wiki/File:Orléans,_Salle_des_thèses.jpg",
+          "note": "Chris06 · CC BY-SA 4.0"
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.univ-orleans.fr/fr/univ/universite/decouvrir/lhistoire-de-luo",
+      "lat": null,
+      "lon": null,
+      "access": "Salle des Thèses, rue Pothier ; accès intérieur selon les activités de la SAHO.",
+      "protection": null,
+      "image": {
+        "commons": "Orléans, Salle des thèses.jpg",
+        "credit": "Chris06 · CC BY-SA 4.0",
+        "caption": "La salle des Thèses, témoin de l'ancienne université d'Orléans.",
+        "page": "https://commons.wikimedia.org/wiki/File:Orléans,_Salle_des_thèses.jpg",
+        "license": "CC BY-SA 4.0",
+        "alt": "Salle des Thèses à Orléans"
+      }
+    },
+    {
+      "category": "patrimoine",
+      "title": "La rue Royale : derrière les arcades, une ville reconstruite",
+      "label": "XVIIIe–XXe siècle · Rue Royale",
+      "teaser": "Cette artère monumentale du XVIIIe siècle a été durement frappée en 1940. Derrière ses élégantes façades, une partie du décor est née de la Reconstruction.",
+      "lead": "Créée pour ouvrir Orléans vers son nouveau pont au XVIIIe siècle, la rue Royale a été en partie détruite en juin 1940 puis reconstruite en respectant son rythme d'arcades.",
+      "text": "Créée pour ouvrir Orléans vers son nouveau pont au XVIIIe siècle, la rue Royale a été en partie détruite en juin 1940 puis reconstruite en respectant son rythme d'arcades.",
+      "body": [
+        "La rue Royale offre l'une des perspectives les plus reconnaissables d'Orléans. En descendant vers la Loire, les arcades répètent des courbes régulières et donnent l'impression d'un ensemble intact depuis l'Ancien Régime. La réalité est plus mouvementée. Cette rue raconte d'abord la transformation radicale d'une ville au XVIIIe siècle, puis la façon dont le XXe siècle a réparé des destructions massives.",
+        "Pour ouvrir un axe majestueux vers le nouveau pont sur la Loire, on décide au XVIIIe siècle de tracer une voie droite à travers la ville ancienne. L'opération impose de démolir de nombreuses maisons et de recomposer les alignements. Les façades ordonnées et les arcades constituent alors un projet urbanistique, pas le résultat spontané d'un vieux quartier.",
+        "En juin 1940, les bombardements et les incendies qui touchent le centre d'Orléans frappent lourdement la rue Royale. La reconstruction lance un débat : faut-il moderniser radicalement la chaussée et ses bâtiments, ou conserver la perspective classique à laquelle les Orléanais sont attachés ? Le choix aboutit à une solution hybride. Les volumes et le dessin extérieur reprennent les caractéristiques anciennes, tandis que les bâtiments utilisent aussi des techniques contemporaines, notamment le béton.",
+        "Sur place, il faut regarder les proportions des porches, la continuité des arcades et les détails de façade en pensant à ces différentes strates. La rue Royale n'est pas un décor artificiel : c'est un quartier vivant dont l'aspect a été consciemment recomposé. Un même regard y traverse le XVIIIe siècle des urbanistes, la catastrophe de 1940 et la mémoire de la Reconstruction."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.orleans.fr/fileadmin/festival-de-loire/MEDIA/document/festival_de_loire/parcours-decouverte/Parcours_3-A5-BDplanche.pdf",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — architecture et Reconstruction",
+          "url": "https://www.orleans.fr/fileadmin/orleans/MEDIA/kiosque/ville_art_histoire/vdh_focus-architecture.pdf",
+          "note": "Source consultée pour la vérification des faits"
+        },
+        {
+          "kind": "image",
+          "title": "Wikimedia Commons — Rue Royale",
+          "url": "https://commons.wikimedia.org/wiki/File:Orléans_-_7-9_rue_Royale.jpg",
+          "note": "Fab5669 · CC BY-SA 4.0"
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.orleans.fr/fileadmin/festival-de-loire/MEDIA/document/festival_de_loire/parcours-decouverte/Parcours_3-A5-BDplanche.pdf",
+      "lat": null,
+      "lon": null,
+      "access": "Rue Royale, voie publique et arcades accessibles depuis le centre-ville.",
+      "protection": null,
+      "image": {
+        "commons": "Orléans - 7-9 rue Royale.jpg",
+        "credit": "Fab5669 · CC BY-SA 4.0",
+        "caption": "Les arcades de la rue Royale, reconstruites et réaménagées au XXe siècle.",
+        "page": "https://commons.wikimedia.org/wiki/File:Orléans_-_7-9_rue_Royale.jpg",
+        "license": "CC BY-SA 4.0",
+        "alt": "Rue Royale à Orléans"
+      }
+    },
+    {
+      "category": "faits_divers",
+      "title": "La rumeur d'Orléans : en 1969, un mensonge fait le tour de la ville",
+      "label": "Printemps 1969 · Centre-ville",
+      "teaser": "Une histoire inventée d'enlèvements dans des magasins de vêtements s'est propagée sans victime ni plainte. Le sociologue Edgar Morin en fit une étude devenue célèbre.",
+      "lead": "Au printemps 1969, une rumeur infondée accuse des commerçants juifs d'Orléans d'enlever des jeunes femmes dans leurs magasins ; aucune disparition ne vient étayer le récit.",
+      "text": "Au printemps 1969, une rumeur infondée accuse des commerçants juifs d'Orléans d'enlever des jeunes femmes dans leurs magasins ; aucune disparition ne vient étayer le récit.",
+      "body": [
+        "Au printemps 1969, des conversations inquiètes se répandent à Orléans : on raconte que des jeunes femmes disparaîtraient après être entrées dans des boutiques de vêtements du centre-ville. D'une bouche à l'autre, les détails changent, s'enrichissent et deviennent plus extravagants. Le fait essentiel est pourtant absent : aucun enlèvement correspondant à ces histoires n'est établi.",
+        "La rumeur vise particulièrement des commerces tenus par des familles juives. Derrière son apparence de fait divers sensationnel, elle recycle de vieux stéréotypes antisémites : l'idée d'un réseau clandestin et d'une menace organisée qui serait cachée au cœur de la vie quotidienne. Diffuser le détail de ces accusations comme s'il s'agissait d'indices serait prolonger leur violence. L'intérêt de l'affaire tient précisément à leur fausseté et à leurs conséquences sociales.",
+        "Le phénomène intrigue rapidement journalistes et chercheurs. Le sociologue Edgar Morin, avec une équipe d'enquête, cherche à comprendre comment une telle histoire peut devenir crédible sans preuve. Son livre La Rumeur d'Orléans, paru en 1969, fait de l'événement un objet majeur pour l'étude des peurs collectives et de la circulation des fausses informations. Les archives audiovisuelles de l'INA conservent notamment un entretien dans lequel il explique sa démarche.",
+        "Il n'existe pas ici de « lieu du crime » à montrer : le crime allégué n'a pas eu lieu. La localisation des boutiques supposément impliquées n'a aucune utilité patrimoniale et pourrait entretenir une accusation injustifiée. L'histoire d'Orléans en 1969 demeure exemplaire pour une autre raison : elle montre à quelle vitesse un récit sans témoin ni victime peut atteindre des personnes réelles."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.ina.fr/ina-eclaire-actu/video/i08016656/edgar-morin-a-propos-de-la-rumeur-d-orleans",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "CNRS — Edgar Morin et ses travaux",
+          "url": "https://lejournal.cnrs.fr/articles/edgar-morin-centenaire-poursuit-sa-voie",
+          "note": "Mise en perspective de l'enquête sociologique."
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.ina.fr/ina-eclaire-actu/video/i08016656/edgar-morin-a-propos-de-la-rumeur-d-orleans",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null
+    },
+    {
+      "category": "histoire",
+      "title": "1870 : Orléans prise, reprise, puis de nouveau occupée",
+      "label": "Octobre–décembre 1870 · Les Aydes et centre-ville",
+      "teaser": "La guerre franco-prussienne ne se résume pas à une seule bataille à Orléans : les armées se disputent la ville à plusieurs reprises, jusqu'à l'hiver 1870.",
+      "lead": "À l'automne 1870, Orléans devient un enjeu militaire majeur : les forces allemandes entrent dans la ville en octobre, l'armée française la reprend en novembre, puis la perd de nouveau en décembre.",
+      "text": "À l'automne 1870, Orléans devient un enjeu militaire majeur : les forces allemandes entrent dans la ville en octobre, l'armée française la reprend en novembre, puis la perd de nouveau en décembre.",
+      "body": [
+        "En 1870, la chute du Second Empire ne met pas fin à la guerre contre la Prusse et ses alliés. Le gouvernement de la Défense nationale tente de poursuivre la lutte et de dégager Paris assiégé. Orléans, carrefour de routes et de voies ferrées au bord de la Loire, devient un objectif stratégique autant qu'un lieu de souffrance pour les habitants.",
+        "Le 11 octobre, les combats aux abords des Aydes marquent l'avance des troupes allemandes. La ville tombe entre leurs mains. Pourtant, l'épisode ne se termine pas là. L'armée de la Loire, formée dans l'urgence sous le commandement de Louis d'Aurelle de Paladines, remporte une victoire à Coulmiers le 9 novembre. Cette opération permet une reprise d'Orléans, suscitant un bref espoir dans le camp français.",
+        "Quelques semaines plus tard, les opérations tournent de nouveau. Les difficultés de commandement, l'épuisement et la supériorité des forces adverses conduisent à une retraite. Au début de décembre, Orléans repasse sous contrôle allemand. Le passage répété des armées laisse une mémoire qui ne se réduit pas au résultat d'une bataille : logements réquisitionnés, blessés, pertes humaines et incertitude des familles accompagnent les changements de drapeau.",
+        "Pour retrouver les traces de cette histoire, il faut distinguer les combats des Aydes, les grands axes de la ville et les récits de l'armée de la Loire. Les archives départementales du Loiret conservent des documents de cette guerre. Le promeneur qui connaît cette chronologie comprend pourquoi les textes anciens parlent tour à tour de la prise, de la libération et de la reprise d'Orléans : ces trois épisodes se sont réellement succédé."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.loiret.fr/actualite/les-archives-font-revivre-la-guerre-de-1870",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — dossier historique de la guerre de 1870",
+          "url": "https://www.orleans.fr/fileadmin/orleans/MEDIA/kiosque/orleans_mag/orleans_mag182-001.pdf",
+          "note": "Dossier local sur les combats des Aydes."
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.loiret.fr/actualite/les-archives-font-revivre-la-guerre-de-1870",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null
+    },
+    {
+      "category": "patrimoine",
+      "title": "Deux Jeanne d'Arc pour raconter une même délivrance",
+      "label": "1804–1855 · Place du Martroi",
+      "teaser": "Avant la grande cavalière de la place du Martroi, la ville avait déjà sa Jeanne de bronze. L'histoire des deux statues montre comment chaque siècle s'est approprié l'héroïne.",
+      "lead": "La statue équestre de Jeanne d'Arc, œuvre de Denis Foyatier, est inaugurée sur la place du Martroi le 8 mai 1855 ; ce n'est pourtant pas la première statue orléanaise de l'héroïne.",
+      "text": "La statue équestre de Jeanne d'Arc, œuvre de Denis Foyatier, est inaugurée sur la place du Martroi le 8 mai 1855 ; ce n'est pourtant pas la première statue orléanaise de l'héroïne.",
+      "body": [
+        "La place du Martroi paraît indissociable de Jeanne d'Arc. Au centre, une statue équestre domine la perspective : épée et bannière transforment la jeune femme de 1429 en héroïne monumentale. On pourrait croire que ce bronze a toujours constitué le grand repère de la ville. Il n'en est rien. Le monument actuel témoigne surtout de la manière dont le XIXe siècle a repensé la mémoire de la délivrance.",
+        "Une première statue, réalisée par Edme Gois, avait été inaugurée dès 1804. Cette Jeanne d'Arc-là n'avait pas la même échelle ni la même composition. Sa présence témoignait déjà du désir de la ville d'inscrire dans ses espaces publics la reconnaissance due à son personnage le plus célèbre. Mais les projets mémoriels évoluent avec les régimes politiques, les goûts artistiques et la place accordée à l'histoire nationale.",
+        "Le 8 mai 1855, une nouvelle statue, cette fois équestre et due au sculpteur Denis Foyatier, est inaugurée place du Martroi. La date correspond à l'anniversaire de la levée du siège de 1429. Le monument s'impose dans la géographie orléanaise ; ses reliefs et ses transformations ultérieures accompagnent l'évolution du regard porté sur Jeanne.",
+        "L'ancienne statue n'a pas été simplement oubliée : déplacée, elle a trouvé une autre place dans la ville, près des souvenirs liés aux Tourelles et au franchissement de la Loire. Chercher les deux représentations permet de lire deux époques de mémoire civique. L'une évoque la redécouverte de Jeanne après la Révolution ; l'autre, plus spectaculaire, fait d'elle le centre d'une véritable scène urbaine."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "document",
+          "title": "Référence principale",
+          "url": "https://www.orleans.fr/fileadmin/orleans/MEDIA/kiosque/ville_art_histoire/PARCOURS-CMJ.pdf",
+          "note": "Document consulté ; détail dans le dossier SOURCES."
+        },
+        {
+          "kind": "document",
+          "title": "Ville d'Orléans — dossier muséal Une héroïne orléanaise",
+          "url": "https://www.orleans.fr/fileadmin/orleans/MEDIA/document/culture/musees/offre_pedagogique/2022/mba/dossier/Une_Heroine_orleanaise_MAIL.pdf",
+          "note": "Histoire iconographique et déplacements des statues."
+        },
+        {
+          "kind": "image",
+          "title": "Wikimedia Commons — Statue équestre de Jeanne d'Arc",
+          "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Jeanne_d'Arc_in_Orléans,_Place_du_Martroi.jpg",
+          "note": "Avi1111 · CC BY-SA 4.0"
+        }
+      ],
+      "wiki": null,
+      "source": "https://www.orleans.fr/fileadmin/orleans/MEDIA/kiosque/ville_art_histoire/PARCOURS-CMJ.pdf",
+      "lat": null,
+      "lon": null,
+      "access": "Statue équestre visible librement place du Martroi.",
+      "protection": null,
+      "image": {
+        "commons": "Statue of Jeanne d'Arc in Orléans, Place du Martroi.jpg",
+        "credit": "Avi1111 · CC BY-SA 4.0",
+        "caption": "Statue équestre de Jeanne d'Arc de Denis Foyatier, place du Martroi.",
+        "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Jeanne_d'Arc_in_Orléans,_Place_du_Martroi.jpg",
+        "license": "CC BY-SA 4.0",
+        "alt": "Statue équestre de Jeanne d'Arc à Orléans"
+      }
     }
-   ],
-   "links": null,
-   "wiki": "Serge_Grouard",
-   "source": "https://fr.wikipedia.org/wiki/Serge_Grouard",
-   "lat": null,
-   "lon": null,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "histoire",
-   "title": "Le siège levé par Jeanne d'Arc en neuf jours",
-   "label": "Octobre 1428 - 8 mai 1429 · Toute la ville",
-   "teaser": "La ville tient depuis sept mois quand une jeune femme de dix-sept ans arrive avec un convoi de vivres. Neuf jours plus tard, les Anglais lèvent le siège. C'est le tournant de la guerre de Cent Ans.",
-   "lead": "Le siège d'Orléans par les Anglais, commencé en octobre 1428, est levé le 8 mai 1429 après l'intervention de Jeanne d'Arc.",
-   "text": "Le siège d'Orléans par les Anglais, commencé en octobre 1428, est levé le 8 mai 1429 après l'intervention de Jeanne d'Arc.",
-   "body": [
-    "Orléans est la dernière grande ville au nord de la Loire fidèle au dauphin Charles ; sa chute ouvrirait le sud du royaume. Les Anglais, trop peu nombreux pour un blocus complet, construisent des bastilles autour de la ville. Jeanne entre dans la place le 29 avril 1429 avec un convoi de ravitaillement.",
-    "En neuf jours, les Français prennent successivement les bastilles Saint-Loup, des Augustins puis des Tourelles, où Jeanne est blessée d'un trait d'arbalète à l'épaule et revient au combat. Le 8 mai, les Anglais lèvent le camp sans livrer bataille.",
-    "La victoire change le cours de la guerre : Charles VII est sacré à Reims deux mois plus tard. Orléans célèbre chaque 8 mai, depuis 1430, l'anniversaire de la délivrance ; c'est la plus ancienne fête civique de France."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Si%C3%A8ge_d%27Orl%C3%A9ans",
-   "source": "https://fr.wikipedia.org/wiki/Si%C3%A8ge_d%27Orl%C3%A9ans",
-   "lat": 47.899,
-   "lon": 1.905,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "patrimoine",
-   "title": "La maison de Jeanne d'Arc à Orléans",
-   "label": "1429 · Orléans",
-   "status": null,
-   "teaser": "Pendant le siège de 1429, Jeanne d'Arc logea chez Jacques Boucher, trésorier du roi. La maison détruite en 1940 fut reconstruite et abrite un musée.",
-   "lead": "Pendant le siège d'Orléans en mai 1429, Jeanne d'Arc loge chez Jacques Boucher, trésorier de France ; une maison reconstruite à cet emplacement abrite aujourd'hui un musée qui lui est dédié.",
-   "text": "Pendant le siège d'Orléans en mai 1429, Jeanne d'Arc loge chez Jacques Boucher, trésorier de France ; une maison reconstruite à cet emplacement abrite aujourd'hui un musée qui lui est dédié.",
-   "body": [
-    "À son entrée dans Orléans assiégée par les Anglais, Jeanne d'Arc est reçue chez Jacques Boucher, trésorier du duc d'Orléans, dont l'hôtel particulier jouxte la cathédrale. La ville fait chaque année de ce souvenir le cœur de ses fêtes johanniques, nées au XVe siècle.",
-    "L'hôtel de Jacques Boucher est détruit par les bombardements de juin 1940, puis reconstruit à l'identique après la guerre. Le bâtiment abrite aujourd'hui un musée consacré à Jeanne d'Arc, qui retrace sa vie, le siège de 1429 et la mémoire johannique de la ville, ainsi qu'un centre de documentation."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Maison_de_Jeanne_d%27Arc",
-   "source": "https://fr.wikipedia.org/wiki/Maison_de_Jeanne_d%27Arc",
-   "lat": 47.9014,
-   "lon": 1.9048,
-   "access": "Ouvert au public (musée).",
-   "protection": null
-  },
-  {
-   "category": "personnalites",
-   "title": "Charles Péguy, l'écrivain d'Orléans",
-   "label": "7 janvier 1873 · Orléans",
-   "status": null,
-   "teaser": "Charles Péguy naît à Orléans en 1873 dans une famille pauvre ; dreyfusard, fondateur des Cahiers de la Quinzaine, il meurt au front le 5 septembre 1914.",
-   "lead": "L'écrivain et poète Charles Péguy naît à Orléans le 7 janvier 1873, dans un milieu modeste que son œuvre n'oubliera jamais.",
-   "text": "L'écrivain et poète Charles Péguy naît à Orléans le 7 janvier 1873, dans un milieu modeste que son œuvre n'oubliera jamais.",
-   "body": [
-    "Fils d'un ébéniste mort peu après sa naissance, il est élevé par sa mère, remmailleuse de laine, dans un quartier populaire de la ville. Boursier, il fréquente le lycée d'Orléans puis l'École normale supérieure à Paris.",
-    "Dreyfusard passionné, socialiste de jeunesse, il fonde en 1900 les Cahiers de la Quinzaine, qui publient les grands écrivains et penseurs de son temps. Son écriture, entre mystique et patriotisme, puise souvent dans le paysage et la mémoire de l'Orléanais.",
-    "Mobilisé comme lieutenant de réserve, il est tué à la bataille de la Marne le 5 septembre 1914, à Villeroy ; sa mort fait de lui l'un des écrivains-symboles de la Grande Guerre."
-   ],
-   "more": [],
-   "timeline": [
-    {
-     "year": "1873",
-     "text": "Naissance à Orléans dans une famille modeste."
-    },
-    {
-     "year": "1894",
-     "text": "Entre à l'École normale supérieure."
-    },
-    {
-     "year": "1900",
-     "text": "Fonde les Cahiers de la Quinzaine."
-    },
-    {
-     "year": "1914",
-     "text": "Tué à la bataille de la Marne, à Villeroy."
-    }
-   ],
-   "links": null,
-   "wiki": "Charles_P%C3%A9guy",
-   "source": "https://fr.wikipedia.org/wiki/Charles_P%C3%A9guy",
-   "lat": null,
-   "lon": null,
-   "access": null,
-   "protection": null
-  }
- ]
+  ]
 }
