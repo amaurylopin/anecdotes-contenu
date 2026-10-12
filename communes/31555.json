@@ -1,145 +1,462 @@
 {
- "id": "toulouse-31555",
- "insee": "31555",
- "name": "Toulouse",
- "dept": "Haute-Garonne",
- "kind": "commune",
- "lat": 43.6047,
- "lon": 1.4442,
- "anecdotes": [
-  {
-   "category": "politique",
-   "title": "Moudenc, la droite qui tient le Capitole",
-   "label": "Depuis 2014 · Place du Capitole",
-   "teaser": "Battu en 2008, revenu en 2014, réélu en 2020 puis le 22 mars 2026 avec 53,87 % face à l'alliance de La France insoumise et du PS menée par François Piquemal : 53 sièges sur 69.",
-   "lead": "Jean-Luc Moudenc est maire de Toulouse depuis 2014, après un premier mandat de 2004 à 2008.",
-   "text": "Jean-Luc Moudenc est maire de Toulouse depuis 2014, après un premier mandat de 2004 à 2008.",
-   "body": [
-    "Successeur de Philippe Douste-Blazy en 2004, il est battu en 2008 par le socialiste Pierre Cohen, reprend la ville en 2014 et la conserve en 2020. Ses mandats sont marqués par le téléphérique urbain Téléo, ouvert en 2022, le chantier de la troisième ligne de métro et une politique de sécurité fondée sur la vidéosurveillance, critiquée par la gauche.",
-    "Ancien membre des Républicains, il se présente sans étiquette, soutenu par la droite et le centre. Au premier tour, le 15 mars 2026, il arrive en tête avec 37,23 %, devant l'insoumis François Piquemal (27,56 %) et le socialiste François Briançon, qui fusionnent leurs listes.",
-    "Le 22 mars, il est réélu avec 53,87 % des voix (92 152) contre 46,13 % (78 925) à la liste « Demain Toulouse la gauche unie ». Sa liste obtient 53 des 69 sièges du conseil municipal, l'opposition 16."
-   ],
-   "more": [],
-   "timeline": [
+  "id": "toulouse-31555",
+  "insee": "31555",
+  "name": "Toulouse",
+  "dept": "Haute-Garonne",
+  "kind": "commune",
+  "lat": 43.6047,
+  "lon": 1.4442,
+  "anecdotes": [
     {
-     "year": "2004",
-     "text": "Devient maire, succède à Philippe Douste-Blazy."
+      "category": "politique",
+      "title": "Moudenc, la droite qui tient le Capitole",
+      "label": "Depuis 2014 · Place du Capitole",
+      "teaser": "Battu en 2008, revenu en 2014, réélu en 2020 puis le 22 mars 2026 avec 53,87 % face à l'alliance de La France insoumise et du PS menée par François Piquemal : 53 sièges sur 69.",
+      "lead": "Jean-Luc Moudenc est maire de Toulouse depuis 2014, après un premier mandat de 2004 à 2008.",
+      "text": "Jean-Luc Moudenc est maire de Toulouse depuis 2014, après un premier mandat de 2004 à 2008.",
+      "body": [
+        "Successeur de Philippe Douste-Blazy en 2004, il est battu en 2008 par le socialiste Pierre Cohen, reprend la ville en 2014 et la conserve en 2020. Ses mandats sont marqués par le téléphérique urbain Téléo, ouvert en 2022, le chantier de la troisième ligne de métro et une politique de sécurité fondée sur la vidéosurveillance, critiquée par la gauche.",
+        "Ancien membre des Républicains, il se présente sans étiquette, soutenu par la droite et le centre. Au premier tour, le 15 mars 2026, il arrive en tête avec 37,23 %, devant l'insoumis François Piquemal (27,56 %) et le socialiste François Briançon, qui fusionnent leurs listes.",
+        "Le 22 mars, il est réélu avec 53,87 % des voix (92 152) contre 46,13 % (78 925) à la liste « Demain Toulouse la gauche unie ». Sa liste obtient 53 des 69 sièges du conseil municipal, l'opposition 16.",
+        "Les résultats officiels du second tour du 22 mars 2026 précisent les rapports de forces : 92 152 voix (53,87 %) et 53 sièges sur 69 pour la liste Jean-Luc Moudenc, contre 78 925 voix (46,13 %) et 16 sièges pour celle de François Piquemal. Ces chiffres décrivent un scrutin, sans présumer de l'appréciation des mandats municipaux."
+      ],
+      "more": [],
+      "timeline": [
+        {
+          "year": "2004",
+          "text": "Devient maire, succède à Philippe Douste-Blazy."
+        },
+        {
+          "year": "2008",
+          "text": "Battu par Pierre Cohen."
+        },
+        {
+          "year": "2014",
+          "text": "Reprend la mairie."
+        },
+        {
+          "year": "2026",
+          "text": "Réélu avec 53,87 %, 53 sièges sur 69."
+        }
+      ],
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Résultats officiels des municipales 2026 — Ministère de l'Intérieur",
+          "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/76/31/31555/index.html"
+        }
+      ],
+      "wiki": "Jean-Luc_Moudenc",
+      "source": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/76/31/31555/index.html",
+      "lat": 43.6045,
+      "lon": 1.444,
+      "access": null,
+      "protection": null
     },
     {
-     "year": "2008",
-     "text": "Battu par Pierre Cohen."
+      "category": "faits_divers",
+      "title": "AZF : 31 morts et une ville soufflée",
+      "label": "21 septembre 2001 · Route d'Espagne",
+      "teaser": "Le 21 septembre 2001, une partie de plus de 300 tonnes de nitrate d'ammonium stockées dans le hangar AZF explose. La catastrophe tue 31 personnes.",
+      "lead": "Le 21 septembre 2001 à 10 h 17, l'usine chimique AZF, au sud de Toulouse, explose. Le bilan est de 31 morts et plus de 2 500 blessés.",
+      "text": "Le 21 septembre 2001 à 10 h 17, l'usine chimique AZF, au sud de Toulouse, explose. Le bilan est de 31 morts et plus de 2 500 blessés.",
+      "body": [
+        "Une partie du stock de nitrate d'ammonium déclassé entreposé dans le hangar 221 détone, creusant un cratère de 70 mètres de diamètre et 7 de profondeur. L'onde de choc, perçue à des dizaines de kilomètres, souffle les vitres de la moitié de la ville, endommage 30 000 logements, des écoles, des hôpitaux. Dix jours après les attentats du 11 septembre, l'hypothèse terroriste circule immédiatement.",
+        "L'enquête conclut à un accident : le mélange accidentel de nitrate avec un produit chloré. La thèse est contestée par des associations et par Total, propriétaire via Grande Paroisse. Après une relaxe en première instance en 2009, la cour d'appel de Toulouse condamne en 2012, la Cassation annule, et en 2017 une nouvelle cour d'appel condamne Grande Paroisse et l'ancien directeur ; la Cour de cassation confirme en 2019, dix-huit ans après les faits.",
+        "Le site est devenu le Cancéropôle et un mémorial. La catastrophe a donné la loi Bachelot de 2003 sur les risques technologiques et les plans de prévention autour des sites Seveso.",
+        "L'administration distingue la masse totale entreposée, supérieure à 300 tonnes, et la quantité ayant effectivement explosé, estimée entre 20 et 120 tonnes, pour une énergie comprise entre 20 et 40 tonnes d'équivalent TNT. Cette nuance est essentielle pour décrire précisément l'accident sans confondre les mesures."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "documentaire",
+          "title": "Documentaires et archives sur AZF",
+          "url": "https://www.ina.fr/recherche?q=AZF+Toulouse",
+          "note": "Archives INA"
+        },
+        {
+          "kind": "institution",
+          "title": "Accident AZF — base nationale ARIA n°21329",
+          "url": "https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/21329-2/"
+        }
+      ],
+      "wiki": "Explosion_de_l%27usine_AZF_de_Toulouse",
+      "source": "https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/21329-2/",
+      "lat": 43.57,
+      "lon": 1.415,
+      "access": null,
+      "protection": null
     },
     {
-     "year": "2014",
-     "text": "Reprend la mairie."
+      "category": "histoire",
+      "title": "Le pastel, l'or bleu qui a bâti les hôtels roses",
+      "label": "XVe-XVIe siècle · Centre-ville",
+      "teaser": "Pendant un siècle, le bleu tiré d'une plante du Lauragais a enrichi Toulouse au point que ses marchands se sont fait construire des palais. L'indigo des Indes a tout emporté en vingt ans.",
+      "lead": "Entre 1460 et 1560, le commerce du pastel, plante tinctoriale produisant un bleu profond, a fait la fortune de Toulouse et du Lauragais.",
+      "text": "Entre 1460 et 1560, le commerce du pastel, plante tinctoriale produisant un bleu profond, a fait la fortune de Toulouse et du Lauragais.",
+      "body": [
+        "Les feuilles d'isatis tinctoria sont broyées et roulées en boules, les « coques », d'où le nom de « pays de cocagne » donné à la région. Vendu dans toute l'Europe, le pastel enrichit des marchands qui se font bâtir des hôtels particuliers en brique et pierre : hôtel d'Assézat, hôtel de Bernuy, hôtel Delfau, dont les tours d'escalier rivalisent de hauteur.",
+        "L'arrivée massive de l'indigo des Indes, dix fois plus concentré, ruine la filière en quelques décennies ; les guerres de Religion achèvent le déclin. Jean de Bernuy avait garanti une partie de la rançon de François Ier et participait encore au financement des demandes royales en 1539.",
+        "Le pastel est réapparu depuis les années 1990 en production artisanale, pour la teinture et les cosmétiques. L'hôtel d'Assézat abrite la fondation Bemberg.",
+        "L'hôtel de Bernuy appartient aujourd'hui au lycée Pierre-de-Fermat ; l'hôtel d'Assézat accueille la Collection Bemberg. La longue histoire du pastel se découvre ainsi à travers les réaffectations de palais privés devenus des lieux de savoir et de culture."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Du prêt à l'hôtel",
+          "url": "https://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/dans-ma-rue/-/asset_publisher/CLQUBtXHFZEQ/content/du-pret-a-l-hotel-?inheritRedirect=false"
+        },
+        {
+          "kind": "institution",
+          "title": "Ville de Toulouse — Hôtel d'Assézat",
+          "url": "https://metropole.toulouse.fr/annuaire/collection-bemberg-hotel-dassezat"
+        },
+        {
+          "kind": "institution",
+          "title": "Ville de Toulouse — Hôtel de Bernuy",
+          "url": "https://metropole.toulouse.fr/annuaire/hotel-de-bernuy"
+        }
+      ],
+      "wiki": "Pastel_des_teinturiers",
+      "source": "https://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/dans-ma-rue/-/asset_publisher/CLQUBtXHFZEQ/content/du-pret-a-l-hotel-?inheritRedirect=false",
+      "lat": 43.6,
+      "lon": 1.442,
+      "access": null,
+      "protection": null
     },
     {
-     "year": "2026",
-     "text": "Réélu avec 53,87 %, 53 sièges sur 69."
+      "category": "insolite",
+      "title": "Airbus, l'A380 et les convois de nuit",
+      "label": "Depuis 1917 · Montaudran à Toulouse ; Blagnac hors commune",
+      "teaser": "Les tronçons de l'A380 arrivaient par bateau à Bordeaux, puis par convois routiers géants qui traversaient les villages du Gers la nuit, à 25 km/h, sur des routes élargies exprès.",
+      "lead": "À Montaudran, dans Toulouse, Latécoère développe l'industrie aéronautique dès 1917. Les assemblages de l'A380 relèvent notamment de Blagnac, une commune distincte.",
+      "text": "À Montaudran, dans Toulouse, Latécoère développe l'industrie aéronautique dès 1917. Les assemblages de l'A380 relèvent notamment de Blagnac, une commune distincte.",
+      "body": [
+        "L'histoire commence avec Pierre-Georges Latécoère, qui construit des avions à Montaudran dès 1917 et lance les lignes postales vers l'Afrique et l'Amérique du Sud, avec Mermoz, Guillaumet et Saint-Exupéry. Sud-Aviation y fabrique la Caravelle, puis Concorde, dont le premier vol a lieu à Toulouse le 2 mars 1969.",
+        "Pour l'A380, dont les tronçons sont fabriqués en Allemagne, en Espagne et au Royaume-Uni, un « itinéraire à grand gabarit » a été aménagé : arrivée par barge à Langon, puis 240 kilomètres de route de nuit à travers le Gers, avec des villages dont les ronds-points et les lignes électriques ont été modifiés. Les convois attiraient des centaines de curieux.",
+        "La production de l'A380 s'est arrêtée en 2021 ; l'itinéraire sert encore pour d'autres programmes. La piste de Montaudran est devenue un parc et la Halle de La Machine.",
+        "Les archives documentent le développement de Montaudran à partir de 1917. Les convois exceptionnels de l'A380 traversaient par ailleurs la Gironde et le Gers, et l'assemblage final se faisait dans l'agglomération, principalement à Blagnac. L'héritage aéronautique toulousain ne justifie donc pas d'attribuer à Toulouse tous les lieux de cette histoire régionale."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Toulouse et la Première Guerre mondiale",
+          "url": "https://www.archives.toulouse.fr/histoire-de-toulouse/la-guerre-1914-1918?_49_groupId=10184&_49_privateLayout=false&_49_struts_action=%2Fmy_sites%2Fview&p_p_auth=BU6ngbIa&p_p_id=49&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal"
+        }
+      ],
+      "wiki": "Airbus_A380",
+      "source": "https://www.archives.toulouse.fr/histoire-de-toulouse/la-guerre-1914-1918?_49_groupId=10184&_49_privateLayout=false&_49_struts_action=%2Fmy_sites%2Fview&p_p_auth=BU6ngbIa&p_p_id=49&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null,
+      "mapNote": "Montaudran dans Toulouse ; assemblage A380 à Blagnac et convois dans plusieurs autres départements."
+    },
+    {
+      "category": "patrimoine",
+      "title": "Saint-Sernin, la plus grande église romane d'Europe",
+      "label": "XIe-XIIe siècle · Place Saint-Sernin",
+      "teaser": "115 mètres de long, un clocher à cinq étages, et des reliques qui en faisaient une étape majeure du chemin de Saint-Jacques. Viollet-le-Duc l'a restaurée ; on a défait une partie de son travail au XXe siècle.",
+      "lead": "La basilique Saint-Sernin, construite à partir de 1080, est la plus grande église romane conservée d'Europe.",
+      "text": "La basilique Saint-Sernin, construite à partir de 1080, est la plus grande église romane conservée d'Europe.",
+      "body": [
+        "Elle abrite le tombeau de saint Saturnin, premier évêque de Toulouse martyrisé en 250 en étant traîné par un taureau, et un ensemble de reliques qui en fit un but de pèlerinage majeur sur la via Tolosana vers Compostelle. Le chevet à chapelles rayonnantes et le clocher octogonal à cinq étages de baies sont caractéristiques du roman méridional.",
+        "Viollet-le-Duc la restaure au XIXe siècle en ajoutant des toitures aiguës et des décors qu'il croyait fidèles. Lors des travaux dirigés par Yves Boiret et achevés en 1993, une partie de ces ajouts a été supprimée pour revenir à l'état antérieur, au prix d'un débat vif chez les historiens de l'art.",
+        "La basilique est inscrite au patrimoine mondial au titre des chemins de Saint-Jacques depuis 1998.",
+        "La campagne de restauration achevée en 1993 illustre la difficulté d'intervenir sur un monument qui a connu plusieurs états historiques. Le déambulatoire et les chapelles rayonnantes rappellent son accueil des pèlerins, aujourd'hui l'une des clés de lecture du classement UNESCO au titre des chemins de Saint-Jacques."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Restauration de Saint-Sernin",
+          "url": "https://archives.toulouse.fr/restauration-de-saint-sernin/"
+        }
+      ],
+      "wiki": "Basilique_Saint-Sernin_de_Toulouse",
+      "source": "https://archives.toulouse.fr/restauration-de-saint-sernin/",
+      "lat": 43.6082,
+      "lon": 1.4418,
+      "access": "Libre, tous les jours",
+      "protection": "Monument historique, 1840 ; UNESCO, 1998",
+      "image": {
+        "commons": "Saint-sernin-toulouse.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Saint-sernin-toulouse.jpg",
+        "credit": "Beitraeger / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "La basilique Saint-Sernin, photographie prise en 2006.",
+        "alt": "Basilique Saint-Sernin à Toulouse."
+      }
+    },
+    {
+      "category": "faits_divers",
+      "title": "Calas : une maison, un procès, puis Voltaire",
+      "label": "1761–1765 · 50 rue des Filatiers",
+      "teaser": "Une mort dans une maison toulousaine, une condamnation injuste et Voltaire : une affaire locale secoue l'Europe des Lumières.",
+      "lead": "La rue des Filatiers garde l'adresse d'une des plus célèbres affaires judiciaires de l'Ancien Régime.",
+      "text": "La rue des Filatiers garde l'adresse d'une des plus célèbres affaires judiciaires de l'Ancien Régime.",
+      "body": [
+        "Le 13 octobre 1761, Marc-Antoine Calas est retrouvé mort dans la maison familiale à Toulouse. Son père Jean, marchand protestant, est accusé d'avoir assassiné son fils. Le soupçon s'enracine dans des tensions religieuses encore fortes : certains prétendent que Marc-Antoine aurait voulu se convertir au catholicisme. Les circonstances de la mort et ce mobile sont pourtant contestés. Dans une ville où les préjugés confessionnels restent puissants, le procès prend une dimension qui dépasse de loin le cadre d'un drame domestique.",
+        "Le 10 mars 1762, Jean Calas est exécuté place Saint-Georges. Voltaire se saisit du dossier, contribue à mobiliser l'opinion autour de l'innocence possible du condamné et publie en 1763 son Traité sur la tolérance. Les décisions du parlement de Toulouse sont annulées en 1764 ; le nom de Calas est réhabilité en 1765. Cette réparation judiciaire n'efface pas la peine capitale, mais elle transforme l'affaire en symbole des risques d'une justice soumise aux passions religieuses et à des preuves insuffisantes.",
+        "Les traces de l'affaire sont bien réelles. Les Archives municipales conservent une pièce comptable liée à l'exécution, classée CC 2724, pièce 153. Quant à la maison du 50 rue des Filatiers, elle est inscrite au titre des monuments historiques depuis 1980 et porte une plaque. Le promeneur découvre là un contraste saisissant : derrière une porte ordinaire du centre historique s'est noué un événement devenu un chapitre incontournable des Lumières et de l'histoire de la liberté de conscience."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Exécution de Calas",
+          "url": "https://archives.toulouse.fr/execution-de-calas/"
+        },
+        {
+          "kind": "institution",
+          "title": "Ministère de la Culture — Maison Calas, PA00094612",
+          "url": "https://pop.culture.gouv.fr/notice/merimee/PA00094612"
+        }
+      ],
+      "wiki": "Affaire_Calas",
+      "source": "https://archives.toulouse.fr/execution-de-calas/",
+      "lat": 43.599346,
+      "lon": 1.444049,
+      "access": null,
+      "protection": "Maison inscrite MH (1980)",
+      "image": {
+        "commons": "Maison Calas Toulouse.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Maison%20Calas%20Toulouse.jpg",
+        "credit": "Hypsibius / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "Porte de la maison Calas, rue des Filatiers.",
+        "alt": "Porte et plaque de l'ancienne maison de la famille Calas."
+      }
+    },
+    {
+      "category": "histoire",
+      "title": "1218 : le projectile qui tue Simon de Montfort",
+      "label": "25 juin 1218 · Toulouse médiévale",
+      "teaser": "La mort d'un chef croisé change la bataille devant Toulouse. La tradition raconte que des femmes auraient lancé la pierre.",
+      "lead": "Au cours du siège de 1218, Simon de Montfort meurt frappé par un projectile lancé depuis les défenses toulousaines.",
+      "text": "Au cours du siège de 1218, Simon de Montfort meurt frappé par un projectile lancé depuis les défenses toulousaines.",
+      "body": [
+        "Depuis le début de la croisade contre les albigeois, en 1209, Toulouse est l'un des principaux enjeux de l'affrontement entre pouvoirs méridionaux et forces croisées. Les sièges se succèdent, les défenses sont renforcées et les machines de jet prennent une importance décisive. En 1217-1218, Simon de Montfort, figure centrale de la croisade, cherche à imposer son autorité sur la ville. Défenseurs et assiégeants échangent des projectiles au voisinage des remparts.",
+        "Le 25 juin 1218, Simon de Montfort est mortellement frappé par une pierre. Cette date figure dans la chronologie des Archives de Toulouse. La tradition a retenu une scène beaucoup plus précise : des femmes toulousaines auraient actionné la machine qui tira le projectile. Les Archives emploient cependant la formule « dit-on ». Il serait donc abusif de présenter l'identité des servants de l'engin comme une certitude historique. Le fait assuré est la mort du commandant ; la scène des femmes au tir appartient à la mémoire et aux récits transmis.",
+        "Le conflit ne s'achève pas avec ce décès. Les opérations militaires se prolongent avant les accords de 1229 qui transforment le destin politique du comté de Toulouse. La mémoire de 1218 a été entretenue dans les arts, notamment par le peintre Jean-Paul Laurens, qui a consacré une œuvre à la mort de Montfort. On peut y lire la manière dont une ville se représente son passé de résistance. L'emplacement exact de la machine de jet restant incertain, aucune coordonnée n'est attribuée au récit."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Chronologie de la mort de Simon de Montfort",
+          "url": "https://www.archives.toulouse.fr/histoire-de-toulouse/chronologie?_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_curr=199&_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_groupId=chronologie&_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_jspPage=%2Fhtml%2Ffront-end%2Frecord_details.jsp&_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_resetCur=false"
+        },
+        {
+          "kind": "institution",
+          "title": "Archives de Toulouse — Chronologie",
+          "url": "https://www.archives.toulouse.fr/histoire-de-toulouse/chronologie"
+        }
+      ],
+      "wiki": "Siège_de_Toulouse_(1217-1218)",
+      "source": "https://www.archives.toulouse.fr/histoire-de-toulouse/chronologie?_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_curr=199&_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_groupId=chronologie&_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_jspPage=%2Fhtml%2Ffront-end%2Frecord_details.jsp&_2_WAR_archiveportlet_INSTANCE_5awtB7cA9vC4_resetCur=false",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null,
+      "mapNote": "Lieu de lancement non identifié ; aucun point précis."
+    },
+    {
+      "category": "histoire",
+      "title": "1814 : une bataille après l'abdication de Napoléon",
+      "label": "10 avril 1814 · Jolimont",
+      "teaser": "Les armées de Soult et de Wellington combattent aux portes de Toulouse alors que l'empereur a déjà abdiqué.",
+      "lead": "Le 10 avril 1814, Toulouse devient le théâtre d'une des dernières grandes batailles de l'Empire.",
+      "text": "Le 10 avril 1814, Toulouse devient le théâtre d'une des dernières grandes batailles de l'Empire.",
+      "body": [
+        "Au printemps 1814, les forces impériales françaises se replient devant des armées venues de la péninsule Ibérique. Le maréchal Soult organise une défense de Toulouse contre les troupes alliées conduites par Wellington. Les combats se portent en particulier sur les hauteurs et les accès orientaux de la ville. La population voit s'approcher une guerre jusqu'alors surtout menée sur d'autres fronts, dans des champs, des rues et des quartiers qu'elle connaît.",
+        "Le paradoxe de cette journée tient au calendrier politique. Napoléon a abdiqué quelques jours auparavant, mais la nouvelle ne s'est pas imposée à temps aux deux commandements engagés dans l'affrontement. Les soldats combattent alors même que le pouvoir qu'ils défendaient vient de disparaître. Les Archives municipales soulignent ce caractère tragiquement tardif et rappellent que les historiens ont discuté le résultat militaire de la bataille. Ce qu'ils ne discutent pas, c'est le décalage entre la situation politique réelle et ce que savent les hommes sur le terrain.",
+        "Les traces matérielles de cette journée ont resurgi au fil du temps. Les Archives décrivent notamment un boulet retrouvé en 1892 près de l'actuelle avenue de la Colonne. À Jolimont, l'obélisque commémoratif du 10 avril 1814 marque la mémoire de l'affrontement. L'histoire du monument ne se comprend donc pas comme celle d'une victoire simple : c'est aussi l'histoire d'une guerre qui continue alors que sa conclusion politique a déjà eu lieu ailleurs. La lenteur des nouvelles pouvait encore coûter la vie à des soldats."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Image du mois 2026, bataille de 1814",
+          "url": "https://www.archives.toulouse.fr/image-du-moi-s-2026?inheritRedirect=true"
+        },
+        {
+          "kind": "institution",
+          "title": "Archives de Toulouse — Sous les pavés",
+          "url": "https://archives.toulouse.fr/nous-connaitre/arcanes-la-lettre-d-informations-des-archives/les-archives-d-arcanes/sous-les-paves"
+        }
+      ],
+      "wiki": "Bataille_de_Toulouse_(1814)",
+      "source": "https://www.archives.toulouse.fr/image-du-moi-s-2026?inheritRedirect=true",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null,
+      "mapNote": "Monument à Jolimont : point non renseigné en absence de vérification des coordonnées."
+    },
+    {
+      "category": "patrimoine",
+      "title": "Ponts-Jumeaux : quand les canaux deviennent une sculpture",
+      "label": "1771–1776 · Port de l'Embouchure",
+      "teaser": "Deux ponts, plusieurs bras d'eau, un grand marbre sculpté : un carrefour fluvial conçu comme un monument.",
+      "lead": "Le port de l'Embouchure a été pensé pour relier les voies d'eau, mais aussi pour célébrer cette prouesse.",
+      "text": "Le port de l'Embouchure a été pensé pour relier les voies d'eau, mais aussi pour célébrer cette prouesse.",
+      "body": [
+        "Le canal du Midi fait de Toulouse un carrefour entre les voies navigables du Midi et la Garonne. Au XVIIIe siècle, le canal de Brienne renforce ces liaisons et offre une nouvelle manière de rejoindre le fleuve. Au port de l'Embouchure, les chemins d'eau se rencontrent dans un espace qui devait répondre aux besoins des bateliers. Mais l'aménagement est aussi présenté comme une réussite politique et commerciale, digne d'être mise en scène dans la ville.",
+        "Le premier pont est achevé en 1771, le second en 1774 et l'ensemble inauguré en 1776. Les représentants de la province de Languedoc commandent au sculpteur François Lucas un bas-relief monumental en marbre, exécuté entre 1773 et 1775. L'œuvre montre l'union des eaux à travers des figures allégoriques. Elle rend visible ce que les ouvrages accomplissent concrètement : faire communiquer des voies de transport et des territoires. Ainsi, un équipement technique prend les dimensions d'un décor urbain.",
+        "Au fil du temps, les ouvrages de protection contre les inondations modifient certaines relations entre les canaux et la Garonne. Pourtant le décor sculpté et les arches demeurent. Les Ponts-Jumeaux sont protégés au titre des monuments historiques depuis 1967 et le canal du Midi est inscrit au patrimoine mondial de l'UNESCO depuis 1996. En observant aujourd'hui la sculpture et les trajets de l'eau, on peut comprendre pourquoi le XVIIIe siècle a fait d'un point de passage un symbole de sa confiance dans les grands travaux publics."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Canal du Midi — Port de l'Embouchure",
+          "url": "https://www.canal-du-midi.com/decouvrir/fil-eau/toulouse-a-naurouze/port-embouchure-ponts-jumeaux/"
+        },
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Canal du Midi",
+          "url": "https://archives.toulouse.fr/canal-du-midi/"
+        },
+        {
+          "kind": "institution",
+          "title": "UNESCO — Canal du Midi",
+          "url": "https://whc.unesco.org/fr/list/770/"
+        }
+      ],
+      "wiki": "Ponts-Jumeaux",
+      "source": "https://www.canal-du-midi.com/decouvrir/fil-eau/toulouse-a-naurouze/port-embouchure-ponts-jumeaux/",
+      "lat": 43.610381,
+      "lon": 1.415549,
+      "access": null,
+      "protection": "Ponts-Jumeaux MH (1967), canal UNESCO (1996)",
+      "image": {
+        "commons": "Bas-relief de François Lucas - Ponts Jumeaux - Toulouse.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bas-relief%20de%20Fran%C3%A7ois%20Lucas%20-%20Ponts%20Jumeaux%20-%20Toulouse.jpg",
+        "credit": "Didier Descouens / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "Le bas-relief de François Lucas au port de l'Embouchure.",
+        "alt": "Bas-relief en marbre des Ponts-Jumeaux."
+      }
+    },
+    {
+      "category": "politique",
+      "title": "1793 : les portraits des capitouls brûlés devant la mairie",
+      "label": "10 août 1793 · Place du Capitole",
+      "teaser": "La Révolution ne change pas seulement les hommes au pouvoir : à Toulouse, elle brûle leurs portraits et une part des archives.",
+      "lead": "Le 10 août 1793, des images des anciens magistrats de Toulouse sont détruites en place publique.",
+      "text": "Le 10 août 1793, des images des anciens magistrats de Toulouse sont détruites en place publique.",
+      "body": [
+        "Pendant des siècles, les capitouls ont gouverné Toulouse. Leurs noms, leurs décisions et leurs représentations étaient consignés dans des annales municipales qui permettaient à la cité de se raconter comme une institution durable. Ces documents, dont certains étaient illustrés, conservent aujourd'hui une valeur historique irremplaçable. Mais à l'époque révolutionnaire, les symboles de continuité et de privilèges peuvent devenir des cibles politiques aussi importantes que les fonctions elles-mêmes.",
+        "Le 10 août 1793, à l'anniversaire de la chute de la monarchie, un cortège civique parcourt Toulouse entre le Capitole et le Grand-Rond. Une décision municipale de la veille organise le brûlement de titres et de portraits d'anciens capitouls devant l'hôtel de ville, près d'une figure de la Liberté. Les Archives de Toulouse en conservent le récit. Ce n'est pas une disparition accidentelle : ce geste traduit la volonté de rompre publiquement avec un ordre municipal ancien et avec les images qui lui donnaient sa légitimité.",
+        "Une partie des chroniques de la ville survit, mais certaines de leurs illustrations sont perdues à jamais. Le paradoxe est fort : à la même période, le nouvel État protège aussi des collections patrimoniales héritées de l'Ancien Régime. La Révolution peut donc, selon les lieux et les objets, détruire ou préserver. Aujourd'hui, la place du Capitole apparaît comme un espace de rassemblement, de fête et de mémoire ; peu de passants imaginent qu'un jour des pages de l'histoire municipale y ont littéralement brûlé."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives de Toulouse — Image du mois, août 2026",
+          "url": "https://www.archives.toulouse.fr/image-du-moi-s-2026?inheritRedirect=true"
+        },
+        {
+          "kind": "institution",
+          "title": "Archives de Toulouse — Urban-Hist",
+          "url": "https://archives.toulouse.fr/urban-hist/"
+        }
+      ],
+      "wiki": "Capitoul",
+      "source": "https://www.archives.toulouse.fr/image-du-moi-s-2026?inheritRedirect=true",
+      "lat": 43.6045,
+      "lon": 1.444,
+      "access": null,
+      "protection": null,
+      "mapNote": "Localisation générale sur la place ; position exacte du foyer non établie."
+    },
+    {
+      "category": "insolite",
+      "title": "La Halle aux Grains, du marché à l'orchestre",
+      "label": "1864–1974 · Place Dupuy",
+      "teaser": "Les céréales ont cédé la place aux sports puis aux concerts. Le bâtiment, lui, s'appelle toujours Halle aux Grains.",
+      "lead": "À la place Dupuy, un bâtiment hexagonal raconte trois vies très différentes.",
+      "text": "À la place Dupuy, un bâtiment hexagonal raconte trois vies très différentes.",
+      "body": [
+        "Entre 1862 et 1864, Toulouse fait construire sur la place Dupuy une halle pour le commerce des grains. L'architecte André Denat dessine un édifice hexagonal, pensé pour une activité bien précise : le négoce en gros dans l'espace central, les ventes au détail dans les galeries, des magasins à l'étage. L'architecture associe les matériaux caractéristiques de la ville, comme la brique, à une organisation fonctionnelle nouvelle. À l'époque, on vient ici pour négocier et échanger une marchandise essentielle à l'alimentation.",
+        "Les habitudes changent, toutefois. Avec le développement de la boulangerie, les consommateurs achètent davantage du pain déjà préparé que du grain à moudre. Le marché perd sa vocation originelle et la vaste salle trouve de nouveaux usages. Les Archives municipales évoquent une transformation pour les sports et spectacles autour de 1946, tandis que la Ville situe une étape du palais des sports en 1952. Ces deux dates rappellent que la reconversion d'un équipement urbain se réalise souvent par étapes successives, plutôt que du jour au lendemain.",
+        "Les années 1970 apportent un dernier changement : la musique. Les Archives évoquent une installation de l'orchestre en 1971 et les documents actuels de la municipalité soulignent 1974 comme jalon de sa transformation en salle de concerts. L'Orchestre national du Capitole se produit désormais dans cet ancien marché. Le nom est resté quand les pratiques ont disparu : une salle qui ne vend plus un seul sac de blé porte encore le souvenir des négociants et des paysans qui la fréquentaient il y a cent cinquante ans."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Du blé à la baguette",
+          "url": "https://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/dans-ma-rue/-/asset_publisher/CLQUBtXHFZEQ/content/du-ble-a-la-baguette?inheritRedirect=false"
+        },
+        {
+          "kind": "institution",
+          "title": "Ville de Toulouse — Halle aux Grains",
+          "url": "https://metropole.toulouse.fr/annuaire/halle-aux-grains"
+        }
+      ],
+      "wiki": "Halle_aux_Grains_de_Toulouse",
+      "source": "https://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/dans-ma-rue/-/asset_publisher/CLQUBtXHFZEQ/content/du-ble-a-la-baguette?inheritRedirect=false",
+      "lat": 43.599924,
+      "lon": 1.454446,
+      "access": "Salle de spectacles, accès selon programmation",
+      "protection": null,
+      "image": {
+        "commons": "Halle aux grains Toulouse.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Halle%20aux%20grains%20Toulouse.jpg",
+        "credit": "Didier Descouens / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "La Halle aux Grains, ancien marché devenu salle de concerts.",
+        "alt": "Bâtiment hexagonal de la Halle aux Grains de Toulouse."
+      }
+    },
+    {
+      "category": "histoire",
+      "title": "1680 : la ville entière dessinée parcelle par parcelle",
+      "label": "1680–1794 · Centre historique",
+      "teaser": "Une carte fiscale du XVIIe siècle permet de retrouver qui possédait les maisons de Toulouse. Aujourd'hui, elle se consulte en ligne.",
+      "lead": "Toulouse conserve un ensemble cadastral très ancien associant plans et registres des propriétés.",
+      "text": "Toulouse conserve un ensemble cadastral très ancien associant plans et registres des propriétés.",
+      "body": [
+        "Dans les villes anciennes, une façade peut masquer plusieurs siècles de transactions, de divisions de terrains et de changements de voisinage. Pour retrouver cette histoire, une simple liste de rues ne suffit pas. Les documents cadastraux établis à Toulouse autour de 1680 associent des plans de parcelles à des registres, les matrices, qui identifient les propriétaires et suivent leurs mutations. Les documents ont été créés pour des besoins administratifs et fiscaux, mais offrent aujourd'hui une extraordinaire photographie de l'organisation de la cité.",
+        "Selon les Archives municipales, ce cadastre est le plus ancien connu pour une ville européenne à être entièrement accompagné de plans. Cette affirmation doit être comprise exactement : elle ne signifie pas que Toulouse aurait inventé le cadastre ni que les plans fonciers n'existaient nulle part auparavant. L'originalité est celle d'un ensemble complet. Les registres documentent des transmissions jusqu'en 1794. Les plans de 1830, dressés dans un contexte administratif différent, permettent de comparer une nouvelle étape de la transformation des parcelles.",
+        "Grâce à Urban-Hist, ces documents ont été numérisés puis rapprochés de la ville actuelle. Un internaute peut parcourir l'ancien tissu urbain, retrouver une parcelle ou un îlot et consulter des informations sur les propriétaires passés. Chaque identification exige de la prudence, car les adresses, les limites et parfois les noms ont changé. Mais l'expérience transforme la promenade : là où se trouve une boutique contemporaine, on peut parfois remonter jusqu'à la géographie foncière du XVIIe siècle. Une archive jadis réservée aux calculs administratifs devient une façon concrète de regarder les rues."
+      ],
+      "more": [],
+      "timeline": null,
+      "links": [
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Urban-Hist",
+          "url": "https://archives.toulouse.fr/urban-hist/"
+        },
+        {
+          "kind": "institution",
+          "title": "Archives municipales — Histoire de Toulouse",
+          "url": "https://www.archives.toulouse.fr/histoire-de-toulouse"
+        }
+      ],
+      "wiki": null,
+      "source": "https://archives.toulouse.fr/urban-hist/",
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "protection": null,
+      "mapNote": "Documentation portant sur toute la ville : pas de point unique vérifiable."
     }
-   ],
-   "links": null,
-   "wiki": "Jean-Luc_Moudenc",
-   "source": "https://fr.wikipedia.org/wiki/Jean-Luc_Moudenc",
-   "lat": 43.6045,
-   "lon": 1.444,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "faits_divers",
-   "title": "AZF : 31 morts et une ville soufflée",
-   "label": "21 septembre 2001 · Route d'Espagne",
-   "teaser": "Dix jours après le 11-Septembre, 300 tonnes de nitrate d'ammonium explosent dans un hangar. Un cratère de 70 mètres, 31 morts, 30 000 logements endommagés, et vingt ans de procédures.",
-   "lead": "Le 21 septembre 2001 à 10 h 17, l'usine chimique AZF, au sud de Toulouse, explose. Le bilan est de 31 morts et plus de 2 500 blessés.",
-   "text": "Le 21 septembre 2001 à 10 h 17, l'usine chimique AZF, au sud de Toulouse, explose. Le bilan est de 31 morts et plus de 2 500 blessés.",
-   "body": [
-    "Le stock de nitrate d'ammonium déclassé entreposé dans le hangar 221 détone, creusant un cratère de 70 mètres de diamètre et 7 de profondeur. L'onde de choc, perçue à des dizaines de kilomètres, souffle les vitres de la moitié de la ville, endommage 30 000 logements, des écoles, des hôpitaux. Dix jours après les attentats du 11 septembre, l'hypothèse terroriste circule immédiatement.",
-    "L'enquête conclut à un accident : le mélange accidentel de nitrate avec un produit chloré. La thèse est contestée par des associations et par Total, propriétaire via Grande Paroisse. Après une relaxe en première instance en 2009, la cour d'appel de Toulouse condamne en 2012, la Cassation annule, et en 2017 une nouvelle cour d'appel condamne Grande Paroisse et l'ancien directeur ; la Cour de cassation confirme en 2019, dix-huit ans après les faits.",
-    "Le site est devenu le Cancéropôle et un mémorial. La catastrophe a donné la loi Bachelot de 2003 sur les risques technologiques et les plans de prévention autour des sites Seveso."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": [
-    {
-     "kind": "documentaire",
-     "title": "Documentaires et archives sur AZF",
-     "url": "https://www.ina.fr/recherche?q=AZF+Toulouse",
-     "note": "Archives INA"
-    }
-   ],
-   "wiki": "Explosion_de_l%27usine_AZF_de_Toulouse",
-   "source": "https://fr.wikipedia.org/wiki/Explosion_de_l%27usine_AZF_de_Toulouse",
-   "lat": 43.57,
-   "lon": 1.415,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "histoire",
-   "title": "Le pastel, l'or bleu qui a bâti les hôtels roses",
-   "label": "XVe-XVIe siècle · Centre-ville",
-   "teaser": "Pendant un siècle, le bleu tiré d'une plante du Lauragais a enrichi Toulouse au point que ses marchands se sont fait construire des palais. L'indigo des Indes a tout emporté en vingt ans.",
-   "lead": "Entre 1460 et 1560, le commerce du pastel, plante tinctoriale produisant un bleu profond, a fait la fortune de Toulouse et du Lauragais.",
-   "text": "Entre 1460 et 1560, le commerce du pastel, plante tinctoriale produisant un bleu profond, a fait la fortune de Toulouse et du Lauragais.",
-   "body": [
-    "Les feuilles d'isatis tinctoria sont broyées et roulées en boules, les « coques », d'où le nom de « pays de cocagne » donné à la région. Vendu dans toute l'Europe, le pastel enrichit des marchands qui se font bâtir des hôtels particuliers en brique et pierre : hôtel d'Assézat, hôtel de Bernuy, hôtel Delfau, dont les tours d'escalier rivalisent de hauteur.",
-    "L'arrivée massive de l'indigo des Indes, dix fois plus concentré, ruine la filière en quelques décennies ; les guerres de Religion achèvent le déclin. Jean de Bernuy, qui avait servi de caution à la rançon de François Ier, meurt ruiné.",
-    "Le pastel est réapparu depuis les années 1990 en production artisanale, pour la teinture et les cosmétiques. L'hôtel d'Assézat abrite la fondation Bemberg."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Pastel_des_teinturiers",
-   "source": "https://fr.wikipedia.org/wiki/Pastel_des_teinturiers",
-   "lat": 43.6,
-   "lon": 1.442,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "insolite",
-   "title": "Airbus, l'A380 et les convois de nuit",
-   "label": "Depuis 1970 · Blagnac et routes du Gers",
-   "teaser": "Les tronçons de l'A380 arrivaient par bateau à Bordeaux, puis par convois routiers géants qui traversaient les villages du Gers la nuit, à 25 km/h, sur des routes élargies exprès.",
-   "lead": "Toulouse est la capitale européenne de l'aéronautique : Airbus y assemble ses avions depuis 1970, dans la continuité de Latécoère et de l'Aéropostale.",
-   "text": "Toulouse est la capitale européenne de l'aéronautique : Airbus y assemble ses avions depuis 1970, dans la continuité de Latécoère et de l'Aéropostale.",
-   "body": [
-    "L'histoire commence avec Pierre-Georges Latécoère, qui construit des avions à Montaudran dès 1917 et lance les lignes postales vers l'Afrique et l'Amérique du Sud, avec Mermoz, Guillaumet et Saint-Exupéry. Sud-Aviation y fabrique la Caravelle, puis Concorde, dont le premier vol a lieu à Toulouse le 2 mars 1969.",
-    "Pour l'A380, dont les tronçons sont fabriqués en Allemagne, en Espagne et au Royaume-Uni, un « itinéraire à grand gabarit » a été aménagé : arrivée par barge à Langon, puis 240 kilomètres de route de nuit à travers le Gers, avec des villages dont les ronds-points et les lignes électriques ont été modifiés. Les convois attiraient des centaines de curieux.",
-    "La production de l'A380 s'est arrêtée en 2021 ; l'itinéraire sert encore pour d'autres programmes. La piste de Montaudran est devenue un parc et la Halle de La Machine."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Airbus_A380",
-   "source": "https://fr.wikipedia.org/wiki/Airbus_A380",
-   "lat": 43.629,
-   "lon": 1.365,
-   "access": null,
-   "protection": null
-  },
-  {
-   "category": "patrimoine",
-   "title": "Saint-Sernin, la plus grande église romane d'Europe",
-   "label": "XIe-XIIe siècle · Place Saint-Sernin",
-   "teaser": "115 mètres de long, un clocher à cinq étages, et des reliques qui en faisaient une étape majeure du chemin de Saint-Jacques. Viollet-le-Duc l'a restaurée ; on a défait une partie de son travail au XXe siècle.",
-   "lead": "La basilique Saint-Sernin, construite à partir de 1080, est la plus grande église romane conservée d'Europe.",
-   "text": "La basilique Saint-Sernin, construite à partir de 1080, est la plus grande église romane conservée d'Europe.",
-   "body": [
-    "Elle abrite le tombeau de saint Saturnin, premier évêque de Toulouse martyrisé en 250 en étant traîné par un taureau, et un ensemble de reliques offert par Charlemagne qui en fit un but de pèlerinage majeur sur la via Tolosana vers Compostelle. Le chevet à chapelles rayonnantes et le clocher octogonal à cinq étages de baies sont caractéristiques du roman méridional.",
-    "Viollet-le-Duc la restaure au XIXe siècle en ajoutant des toitures aiguës et des décors qu'il croyait fidèles. Entre 1980 et 1990, une « dé-restauration » controversée a supprimé une partie de ces ajouts pour revenir à l'état antérieur, au prix d'un débat vif chez les historiens de l'art.",
-    "La basilique est inscrite au patrimoine mondial au titre des chemins de Saint-Jacques depuis 1998."
-   ],
-   "more": [],
-   "timeline": null,
-   "links": null,
-   "wiki": "Basilique_Saint-Sernin_de_Toulouse",
-   "source": "https://fr.wikipedia.org/wiki/Basilique_Saint-Sernin_de_Toulouse",
-   "lat": 43.6082,
-   "lon": 1.4418,
-   "access": "Libre, tous les jours",
-   "protection": "Monument historique, 1840 ; UNESCO, 1998"
-  }
- ]
+  ]
 }
