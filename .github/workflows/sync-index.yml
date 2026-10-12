@@ -1,0 +1,53 @@
+name: Mettre à jour automatiquement l'index des communes
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'communes/**'
+      - '.github/workflows/sync-index.yml'
+      - 'tools/sync_index.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: communes-index-main
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Tester la mise à jour non destructive
+        run: python3 -m unittest discover -s tools -p 'test_sync_index.py' -v
+      - name: Recalculer uniquement les communes modifiées
+        shell: bash
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          TARGET_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Corrige aussi Fécamp lors de la première activation de ce workflow.
+          # En cas de concurrence, on repart de la dernière version de main.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -B "sync-index-${GITHUB_RUN_ID}" origin/main
+            python3 tools/sync_index.py --from "${BEFORE_SHA:-}" --to "$TARGET_SHA" --code 76259
+            if git diff --quiet -- index.json; then
+              echo "Index déjà à jour."
+              exit 0
+            fi
+            git add -- index.json
+            git commit -m "index: synchroniser les métadonnées des fiches communales"
+            if git push origin HEAD:main; then
+              echo "Index synchronisé sur main."
+              exit 0
+            fi
+            echo "Push concurrent, nouvelle tentative ${attempt}/3..."
+            sleep 2
+          done
+          echo "Erreur : branche main modifiée concurremment, index non publié." >&2
+          exit 1
